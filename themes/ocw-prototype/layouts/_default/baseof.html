@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Hugo Demo</title>
-  {{ $style := resources.Get "sass/main.scss" }}
+  {{ $style := resources.Get "sass/main.scss" | resources.ToCSS }}
   <link rel="stylesheet" type="text/css" href="{{ $style.Permalink }}" />
 </head>
 
