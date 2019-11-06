@@ -42,6 +42,7 @@ wheels/
 *.egg
 MANIFEST
 public/
+resources/
 
 # Unit test / coverage reports
 htmlcov/
