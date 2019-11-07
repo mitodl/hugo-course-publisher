@@ -1,5 +1,6 @@
 ---
 title: "Course Home"
+course-title: ""
 course-image: ""
 course-description: ""
 course-highlights: ""
