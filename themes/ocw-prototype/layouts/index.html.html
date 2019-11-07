@@ -1,7 +1,7 @@
 {{ define "main" }}
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-10 ml-sm-auto col-lg-10 px-4">
+            <div class="col-9 col-xs-12">
                 <div class="jumbotron">
                     <h1 class="text-white">{{ .Params.course_title }}</h1>
                 </div>
@@ -17,8 +17,50 @@
                     </p>
                 </div>
             </div>
-            <div class="col-md-2">
-
+            <div class="col-3 col-xs-12">
+                <div class="container-fluid bg-white">
+                    <h3>Course Info</h3>
+                    <table class="table">
+                        <tr>
+                            <td></td>
+                            <td>Instructor(s)</td>
+                            <td>
+                                <ul>
+                                    {{ range $instructor := .Params.instructors }}<li>{{ $instructor }}</li>{{ end }}
+                                </ul>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Department</td>
+                            <td>{{ .Params.department }}</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Topic(s)</td>
+                            <td>
+                                <ul>
+                                    {{ range $topic := .Params.topics }}<li>{{ $topic }}</li>{{ end }}
+                                </ul>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Course No.</td>
+                            <td>{{ .Params.course_number }}</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>As Taught In</td>
+                            <td>{{ .Params.term }}</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>Level</td>
+                            <td>{{ .Params.level }}</td>
+                        </tr>
+                    </table>
+                </div>
             </div>
         </div>
     </div>
