@@ -5,6 +5,7 @@ course_image: ""
 course_description: ""
 course_highlights: ""
 instructors: []
+department: ""
 topics: []
 course_number: ""
 term: ""
