@@ -1,14 +1,24 @@
 {{ define "main" }}
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-9 ml-sm-auto col-lg-10 px-4">
+            <div class="col-md-10 ml-sm-auto col-lg-10 px-4">
                 <div class="jumbotron">
                     <h1 class="text-white">{{ .Params.course_title }}</h1>
                 </div>
-                
+                <div class="container-fluid">
+                    <h3>Course Description</h3>
+                    <p>
+                        {{ .Params.course_description }}
+                    </p>
+                    <hr>
+                    <h3>Course Highlights</h3>
+                    <p>
+                        {{ .Params.course_highlights }}
+                    </p>
+                </div>
             </div>
             <div class="col-md-2">
-
+                
             </div>
         </div>
     </div>
