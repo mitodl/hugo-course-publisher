@@ -1,5 +1,6 @@
 ---
 title: "Course Home"
+course-image: ""
 course-description: ""
 course-highlights: ""
 instructors: []
