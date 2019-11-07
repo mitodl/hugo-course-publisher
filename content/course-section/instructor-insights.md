@@ -2,5 +2,5 @@
 content: ""
 menu: 
     main:
-        name: "Video Lectures"
+        name: "Instructor Insights"
 ---
