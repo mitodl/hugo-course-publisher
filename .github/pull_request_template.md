@@ -4,9 +4,14 @@
   - [ ] Desktop screenshots
   - [ ] Mobile width screenshots
   - [ ] Tag @ferdi or @pdpinch for review
+- [ ] Migrations
+  - [ ] Migration is backwards-compatible with current production code
 - [ ] Testing
   - [ ] Code is tested
   - [ ] Changes have been manually tested
+- [ ] Settings
+  - [ ] New settings are documented and present in `app.json`
+  - [ ] New settings have reasonable development defaults, if applicable
 
 #### What are the relevant tickets?
 (Required)
@@ -24,4 +29,7 @@
 (Optional)
 
 #### Screenshots (if appropriate)
+(Optional)
+
+#### What GIF best describes this PR or how it makes you feel?
 (Optional)
