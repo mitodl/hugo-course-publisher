@@ -1,12 +1,12 @@
 ---
 title: "Course Home"
-course-title: ""
-course-image: ""
-course-description: ""
-course-highlights: ""
+course_title: ""
+course_image: ""
+course_description: ""
+course_highlights: ""
 instructors: []
 topics: []
-course-number: ""
+course_number: ""
 term: ""
 level: ""
 features: []
