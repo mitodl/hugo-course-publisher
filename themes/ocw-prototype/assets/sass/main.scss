@@ -1,3 +1,5 @@
+$course-image-url: "{{ with .Site.GetPage "/" }}{{ .Params.course_image }}{{ end }}" !default;
+
 .header {
     background-color: #D8D8D8;
 }
@@ -22,4 +24,12 @@
     text-align: center;
     text-decoration: none;
     font-size: 16px;
+}
+
+.jumbotron {
+    background: url($course-image-url) no-repeat top center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
