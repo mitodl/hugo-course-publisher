@@ -2,7 +2,6 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "OCW Course Prototype"
 theme = "ocw-prototype"
-sectionPagesMenu = "main"
 [taxonomies]
     tag = "tags"
     category = "categories"
