@@ -2,7 +2,28 @@
 title: "Study Materials"
 date: 2019-11-07T11:17:35-05:00
 draft: false
-content: "<h2 class=\"subhead\">Additional Materials from the Textbook</h2> <p>The textbook for this course is:  <a href=\"http://www.amazon.com/exec/obidos/ASIN/0980232716/ref=nosim/mitopencourse-20\"><img src=\"/images/a_logo_17.gif\" alt=\"Buy at Amazon\" align=\"absMiddle\" border=\"0\" /></a> Strang, Gilbert. <em>Introduction to Linear Algebra</em>. 4th ed. <a href=\"http://www.wellesleycambridge.com/\">Wellesley-Cambridge Press</a>, 2009. ISBN: 9780980232714.</p> <p>The Table of Contents, Preface, and selected chapters are <a href=\"http://math.mit.edu/linearalgebra/\">freely available online</a>.</p> <p>There is newer edition of the book: <a href=\"http://www.amazon.com/exec/obidos/ASIN/0980232775/ref=nosim/mitopencourse-20\"><img alt=\"Buy at Amazon\" src=\"/images/a_logo_17.gif\" align=\"absmiddle\" border=\"0\" /></a> Strang, Gilbert. <em>Introduction to Linear Algebra</em>. 5th ed. <a href=\"http://www.wellesleycambridge.com/\">Wellesley-Cambridge Press</a>, 2016. ISBN: 9780980232776.</p> <p>NOTE: More material on linear algebra (and much more about differential equations) is in Professor Strang's 2014 textbook  <em><a href=\"http://www-math.mit.edu/~gs/dela\">Differential Equations and Linear Algebra</a></em>. In 2016, the textbook was developed into a series of 55 short videos,&nbsp;<em><a href=\"http://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/index.htm\">Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler</a>.</em></p> <h2 class=\"subhead\">Previous Years' Problem Sets and Exams</h2> <p>Problem sets, quizzes, and exams from <a href=\"http://web.mit.edu/18.06/www/old.shtml\">previous years are also available</a>.</p>"
+content: >
+    <h2 class="subhead">Additional Materials from the Textbook</h2>
+    <p>The textbook for this course is: <a
+            href="http://www.amazon.com/exec/obidos/ASIN/0980232716/ref=nosim/mitopencourse-20"><img
+                src="/images/a_logo_17.gif" alt="Buy at Amazon" align="absMiddle" border="0" /></a> Strang, Gilbert.
+        <em>Introduction to Linear Algebra</em>. 4th ed. <a href="http://www.wellesleycambridge.com/">Wellesley-Cambridge
+            Press</a>, 2009. ISBN: 9780980232714.</p>
+    <p>The Table of Contents, Preface, and selected chapters are <a href="http://math.mit.edu/linearalgebra/">freely
+            available online</a>.</p>
+    <p>There is newer edition of the book: <a
+            href="http://www.amazon.com/exec/obidos/ASIN/0980232775/ref=nosim/mitopencourse-20"><img alt="Buy at Amazon"
+                src="/images/a_logo_17.gif" align="absmiddle" border="0" /></a> Strang, Gilbert. <em>Introduction to Linear
+            Algebra</em>. 5th ed. <a href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016. ISBN:
+        9780980232776.</p>
+    <p>NOTE: More material on linear algebra (and much more about differential equations) is in Professor Strang's 2014
+        textbook <em><a href="http://www-math.mit.edu/~gs/dela">Differential Equations and Linear Algebra</a></em>. In 2016,
+        the textbook was developed into a series of 55 short videos,&nbsp;<em><a
+                href="http://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/index.htm">Learn
+                Differential Equations: Up Close with Gilbert Strang and Cleve Moler</a>.</em></p>
+    <h2 class="subhead">Previous Years' Problem Sets and Exams</h2>
+    <p>Problem sets, quizzes, and exams from <a href="http://web.mit.edu/18.06/www/old.shtml">previous years are also
+            available</a>.</p>
 menu: 
     main:
         name: "Study Materials"

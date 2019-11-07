@@ -2,7 +2,84 @@
 title: "Related Resources"
 date: 2019-11-07T11:17:11-05:00
 draft: false
-content: "<h2 class=\"subhead\">Interesting Links</h2>\r\n<h3 class=\"subsubhead\">Java&reg; Demos</h3>\r\n<p>The <em>Java&reg; Demos</em> were developed by <a href=\"http://www.drexel.edu/math/contact/facultyDirectory/PavelGrinfeld/\">Pavel Grinfeld</a>.</p>\r\n<ul>\r\n    <li><a href=\"http://ocw.mit.edu/ans7870/18/18.06/javademo/Eigen/\">Eigenvalues</a></li>\r\n    <li><a href=\"http://ocw.mit.edu/ans7870/18/18.06/javademo/SVD/\">SVD (Singular Value Decomposition)</a></li>\r\n    <li><a href=\"http://ocw.mit.edu/ans7870/18/18.06/javademo/GaussElim/\">Gaussian Elimination</a></li>\r\n    <li><a href=\"http://ocw.mit.edu/ans7870/18/18.06/javademo/Determinant/\">Determinants</a></li>\r\n    <li><a href=\"http://ocw.mit.edu/ans7870/18/18.06/javademo/Gram/\">Gram-Schmidt = Orthogonalization</a></li>\r\n    <li><a href=\"http://ocw.mit.edu/ans7870/18/18.06/javademo/InnerProduct/\">Inner Product of Functions</a></li>\r\n    <li><a href=\"http://ocw.mit.edu/ans7870/18/18.06/javademo/FourierSeries/\">Sum of Fourier Series</a></li>\r\n    <li><a href=\"http://ocw.mit.edu/ans7870/18/18.06/javademo/FourierSynthesis/\">Sum of Trigonometric Series</a></li>\r\n    <li><a href=\"http://ocw.mit.edu/ans7870/18/18.06/javademo/Gibbs/\">Gibbs Phenomenon</a></li>\r\n    <li><a href=\"http://ocw.mit.edu/ans7870/18/18.06/javademo/Aliasing/\">Aliasing</a></li>\r\n    <li><a href=\"http://ocw.mit.edu/ans7870/18/18.06/javademo/ColSpace/\">Column Spaces</a></li>\r\n    <li><a href=\"http://ocw.mit.edu/ans7870/18/18.06/javademo/LeastSqr/\">Least Squares</a></li>\r\n    <li><a href=\"http://ocw.mit.edu/ans7870/18/18.06/javademo/power_method_applet/powerMethod.html\">Power Method</a></li>\r\n</ul>\r\n<h3 class=\"subsubhead\">Other Demos</h3>\r\n<ul>\r\n    <li><a href=\"http://web.mit.edu/18.06/www/Links/demogj\">Gauss-Jordan Demo</a></li>\r\n    <li><a href=\"http://web.mit.edu/18.06/www/Demos/matlab-diaries/demolu\">LU Demo</a></li>\r\n    <li><a href=\"http://vismod.media.mit.edu/vismod/demos/facerec/basic.html\">The Media Lab's Eigenfaces Demo</a></li>\r\n    <li><a href=\"http://pages.uoregon.edu/koch/hypersolids/hypersolids.html\">Projections of Famous and not so Famous Three and Four Dimensional Solids</a></li>\r\n</ul>\r\n<h3 class=\"subsubhead\">MATLAB&reg; Information</h3>\r\n<ul>\r\n    <li>Best Guide to MATLAB&reg; (<img alt=\"This resource may not render correctly in a screen reader.\" src=\"/images/inacessible.gif\" /><a href=\"http://homen.vsb.cz/~lud0016/NM/matlab_guide.pdf\">PDF</a>)</li>\r\n    <li>Short MATLAB&reg; Tutorial (<a href=\"./resolveuid/a7d11b1b00c1c2bd2574c3f896ce4eb3\">PDF</a>) and Cool <a href=\"http://www.mathworks.com/products/demos/\">MATLAB&reg; demos</a> by Mathworks</li>\r\n    <li><a href=\"http://web.mit.edu/18.06/www/MATLAB/Recitation.html\">MATLAB&reg; Recitation Demos from 1997</a></li>\r\n    <li><a href=\"http://web.mit.edu/18.06/www/Course-Info/Tcodes.html\">MATLAB&reg; Teaching Codes</a></li>\r\n    <li>A MATLAB cheat sheet (<img alt=\"This resource may not render correctly in a screen reader.\" src=\"/images/inacessible.gif\" /><a href=\"http://web.mit.edu/18.06/www/Spring09/matlab-cheatsheet.pdf\">PDF</a>)</li>\r\n</ul>\r\n<h3 class=\"subsubhead\">Essays</h3>\r\n<ul>\r\n    <li>Pascal Matrices (<a href=\"./resolveuid/d61af89db7c6303dc024e52d8ff18f96\">PDF</a>)</li>\r\n    <li>A Basis for 3 by 3 Symmetric Matrices (<a href=\"./resolveuid/2c925bea168888404287bb6b848f79ca\">PDF</a>)</li>\r\n    <li>Gram-Schmidt in 9 Lines of MATLAB&reg; (<img alt=\"This resource may not render correctly in a screen reader.\" src=\"/images/inacessible.gif\" /><a href=\"./resolveuid/768d6fe735722547c3f5e74824532c53\">PDF</a>)</li>\r\n    <li>Linear Algebra and Music (<img alt=\"This resource may not render correctly in a screen reader.\" src=\"/images/inacessible.gif\" /><a href=\"http://web.mit.edu/18.06/www/Essays/linear-algebra-and-music.pdf\">PDF</a>)</li>\r\n</ul>\r\n<h3 class=\"subsubhead\">Essays on Teaching Linear Algebra</h3>\r\n<ul>\r\n    <li>Too Much Calculus (<img alt=\"This resource may not render correctly in a screen reader.\" src=\"/images/inacessible.gif\" /><a href=\"http://web.mit.edu/18.06/www/Essays/too-much-calculus.pdf\">PDF</a>)</li>\r\n    <li>Starting with Two Matrices (<img alt=\"This resource may not render correctly in a screen reader.\" src=\"/images/inacessible.gif\" /><a href=\"http://web.mit.edu/18.06/www/Essays/starting2matrices_ver5.pdf\">PDF</a>)</li>\r\n    <li>The Four Fundamental Subspaces: 4 Lines (<img alt=\"This resource may not render correctly in a screen reader.\" src=\"/images/inacessible.gif\" /><a href=\"http://web.mit.edu/18.06/www/Essays/newpaper_ver3.pdf\">PDF</a>)</li>\r\n    <li>Fourier Sine Series Examples (<img alt=\"This resource may not render correctly in a screen reader.\" src=\"/images/inacessible.gif\" /><a href=\"http://web.mit.edu/18.06/www/Fall07/sines.pdf\">PDF</a>)</li>\r\n    <li>Notes on function spaces, Hermitian operators, and Fourier series (<img alt=\"This resource may not render correctly in a screen reader.\" src=\"/images/inacessible.gif\" /><a href=\"http://web.mit.edu/18.06/www/Fall07/operators.pdf\">PDF</a>)</li>\r\n</ul>"
+content: >
+    <h2 class="subhead">Interesting Links</h2>
+    <h3 class="subsubhead">Java&reg; Demos</h3>
+    <p>The <em>Java&reg;
+            Demos</em> were developed by <a href="http://www.drexel.edu/math/contact/facultyDirectory/PavelGrinfeld/">Pavel
+            Grinfeld</a>.</p>
+    <ul>
+        <li><a href="http://ocw.mit.edu/ans7870/18/18.06/javademo/Eigen/">Eigenvalues</a>
+        </li>
+        <li><a href="http://ocw.mit.edu/ans7870/18/18.06/javademo/SVD/">SVD (Singular Value Decomposition)</a>
+        </li>
+        <li><a href="http://ocw.mit.edu/ans7870/18/18.06/javademo/GaussElim/">Gaussian Elimination</a></li>
+        <li><a href="http://ocw.mit.edu/ans7870/18/18.06/javademo/Determinant/">Determinants</a></li>
+        <li><a href="http://ocw.mit.edu/ans7870/18/18.06/javademo/Gram/">Gram-Schmidt = Orthogonalization</a></li>
+        <li>
+            <a href="http://ocw.mit.edu/ans7870/18/18.06/javademo/InnerProduct/">Inner Product of Functions</a></li>
+        <li><a href="http://ocw.mit.edu/ans7870/18/18.06/javademo/FourierSeries/">Sum of Fourier Series</a></li>
+        <li><a href="http://ocw.mit.edu/ans7870/18/18.06/javademo/FourierSynthesis/">Sum of Trigonometric Series</a></li>
+        <li><a href="http://ocw.mit.edu/ans7870/18/18.06/javademo/Gibbs/">Gibbs Phenomenon</a></li>
+        <li><a href="http://ocw.mit.edu/ans7870/18/18.06/javademo/Aliasing/">Aliasing</a></li>
+        <li><a href="http://ocw.mit.edu/ans7870/18/18.06/javademo/ColSpace/">Column Spaces</a></li>
+        <li><a href="http://ocw.mit.edu/ans7870/18/18.06/javademo/LeastSqr/">Least Squares</a></li>
+        <li><a href="http://ocw.mit.edu/ans7870/18/18.06/javademo/power_method_applet/powerMethod.html">Power Method</a>
+        </li>
+    </ul>
+    <h3 class="subsubhead">Other Demos</h3>
+    <ul>
+        <li><a href="http://web.mit.edu/18.06/www/Links/demogj">Gauss-Jordan Demo</a></li>
+        <li><a href="http://web.mit.edu/18.06/www/Demos/matlab-diaries/demolu">LU Demo</a></li>
+        <li><a href="http://vismod.media.mit.edu/vismod/demos/facerec/basic.html">The Media Lab's Eigenfaces Demo</a></li>
+        <li><a href="http://pages.uoregon.edu/koch/hypersolids/hypersolids.html">Projections of Famous and not so
+                Famous Three and Four Dimensional Solids</a></li>
+    </ul>
+    <h3 class="subsubhead">MATLAB&reg; Information
+    </h3>
+    <ul>
+        <li>Best Guide to MATLAB&reg; (<img alt="This resource may not render correctly in a screen reader."
+                src="/images/inacessible.gif" /><a href="http://homen.vsb.cz/~lud0016/NM/matlab_guide.pdf">PDF</a>)</li>
+        <li>Short MATLAB&reg; Tutorial (<a href="./resolveuid/a7d11b1b00c1c2bd2574c3f896ce4eb3">PDF</a>) and Cool <a
+                href="http://www.mathworks.com/products/demos/">MATLAB&reg; demos</a> by Mathworks</li>
+        <li><a href="http://web.mit.edu/18.06/www/MATLAB/Recitation.html">MATLAB&reg; Recitation Demos from 1997</a></li>
+        <li><a href="http://web.mit.edu/18.06/www/Course-Info/Tcodes.html">MATLAB&reg; Teaching Codes</a></li>
+        <li>
+            A MATLAB cheat sheet (<img alt="This resource may not render correctly in a screen reader."
+                src="/images/inacessible.gif" /><a
+                href="http://web.mit.edu/18.06/www/Spring09/matlab-cheatsheet.pdf">PDF</a>)</li>
+    </ul>
+    <h3 class="subsubhead">Essays</h3>
+    <ul>
+        <li>Pascal Matrices (<a href="./resolveuid/d61af89db7c6303dc024e52d8ff18f96">PDF</a>)</li>
+        <li>A Basis for 3 by 3 Symmetric
+            Matrices (<a href="./resolveuid/2c925bea168888404287bb6b848f79ca">PDF</a>)</li>
+        <li>Gram-Schmidt in 9 Lines
+            of MATLAB&reg; (<img alt="This resource may not render correctly in a screen reader."
+                src="/images/inacessible.gif" /><a href="./resolveuid/768d6fe735722547c3f5e74824532c53">PDF</a>)</li>
+        <li>Linear Algebra and Music (<img alt="This resource may not render correctly in a screen reader."
+                src="/images/inacessible.gif" /><a
+                href="http://web.mit.edu/18.06/www/Essays/linear-algebra-and-music.pdf">PDF</a>)</li>
+    </ul>
+    <h3 class="subsubhead">Essays on Teaching Linear Algebra</h3>
+    <ul>
+        <li>Too Much Calculus (<img alt="This resource may not render correctly in a screen reader."
+                src="/images/inacessible.gif" /><a href="http://web.mit.edu/18.06/www/Essays/too-much-calculus.pdf">PDF</a>)
+        </li>
+        <li>Starting with Two
+            Matrices (<img alt="This resource may not render correctly in a screen reader."
+                src="/images/inacessible.gif" /><a
+                href="http://web.mit.edu/18.06/www/Essays/starting2matrices_ver5.pdf">PDF</a>)</li>
+        <li>The Four
+            Fundamental Subspaces: 4 Lines (<img alt="This resource may not render correctly in a screen reader."
+                src="/images/inacessible.gif" /><a href="http://web.mit.edu/18.06/www/Essays/newpaper_ver3.pdf">PDF</a>)
+        </li>
+        <li>Fourier Sine Series Examples (<img alt="This resource may not render correctly in a screen reader."
+                src="/images/inacessible.gif" /><a href="http://web.mit.edu/18.06/www/Fall07/sines.pdf">PDF</a>)</li>
+        <li>Notes on function spaces, Hermitian operators, and Fourier series (<img
+                alt="This resource may not render correctly in a screen reader." src="/images/inacessible.gif" /><a
+                href="http://web.mit.edu/18.06/www/Fall07/operators.pdf">PDF</a>)</li>
+    </ul>
 menu: 
     main:
         name: "Related Resources"
