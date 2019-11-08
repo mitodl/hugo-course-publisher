@@ -8,7 +8,7 @@
     "lint": "eslint src",
     "start": "run-p start:**",
     "start:hugo": "hugo -d ../dist -s site -vw",
-    "start:webpack": "webpack-dev-server --config webpack.dev.js --hot",
+    "start:webpack": "webpack-dev-server --config webpack.dev.js --hot --host 0.0.0.0",
     "preview": "run-p preview:**",
     "preview:hugo": "npm run start:hugo -- -D -F",
     "preview:webpack": "npm run start:webpack",
