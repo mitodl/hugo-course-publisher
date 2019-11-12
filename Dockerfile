@@ -8,6 +8,7 @@ RUN apt-get -qq update \
 
 # create mitodl user
 RUN adduser --disabled-password --gecos "" mitodl
+ENV MITODL_USER="$(id mitodl -u):$(id mitodl -g)"
 
 # create working directory
 RUN mkdir /usr/share/app
