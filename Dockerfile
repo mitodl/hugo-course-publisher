@@ -14,10 +14,3 @@ ENV MITODL_USER="$(id mitodl -u):$(id mitodl -g)"
 RUN mkdir /usr/share/app
 WORKDIR /usr/share/app
 RUN chown -R mitodl:mitodl /usr/share/app
-
-# get victor hugo, replace with:
-# ADD git clone <repo url> app
-ADD ./app .
-
-# install packages
-RUN npm install
