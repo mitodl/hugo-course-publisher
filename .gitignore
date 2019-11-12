@@ -62,4 +62,4 @@ ocw_data_parser/test_json/destination_dir/
 .env
 .venv
 env/
-venv/ 
+venv/
