@@ -3,6 +3,7 @@ node_js:
   - 12
 script:
   - cd app
+  - node ./scripts/install_yarn.js
   - yarn install
   - npm test
   - npm run lint
