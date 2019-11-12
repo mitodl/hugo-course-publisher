@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "An online course static site publisher using Hugo",
   "repository": "mitodl/hugo-course-publisher",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "lint": "eslint src",
     "start": "run-p start:**",
