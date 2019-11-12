@@ -6,11 +6,7 @@ RUN apt-get -qq update \
 	&& rm -rf /var/lib/apt/lists/ \
 	&& apt-get -qq clean
 
-# create mitodl user
-RUN adduser --disabled-password --gecos "" mitodl
-ENV MITODL_USER="$(id mitodl -u):$(id mitodl -g)"
-
 # create working directory
 RUN mkdir /usr/share/app
+USER 1000
 WORKDIR /usr/share/app
-RUN chown -R mitodl:mitodl /usr/share/app

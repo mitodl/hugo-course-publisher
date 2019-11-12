@@ -1,7 +1,6 @@
 version: '3'
 services:
   app:
-    user: ${MITODL_USER}
     build: .
     container_name: hugo-course-publisher
     ports:
