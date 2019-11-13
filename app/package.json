@@ -61,5 +61,9 @@
   },
   "resolutions": {
     "natives": "1.1.6"
+  },
+  "engines": {
+    "node": "12.13.0",
+    "yarn": "1.19.1"
   }
 }
