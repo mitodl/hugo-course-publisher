@@ -6,18 +6,6 @@
 			<div>
 				{{ .Content }}
 			</div>
-			{{ with .Params.tags }}
-			<div>
-				<ul id="tags">
-					{{ range . }}
-					<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
-					{{ end }}
-				</ul>
-			</div>
-			{{ end }}
-			<div>
-				{{ template "_internal/disqus.html" . }}
-			</div>
 		</article>
 	</main>
 {{ end }}
