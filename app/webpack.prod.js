@@ -4,6 +4,11 @@ const OptimizeCSSAssetsPlugin = require("optimize-css-assets-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
 const common = require("./webpack.common.js");
+const babelRule = common.module.rules.find(rule => rule.loader === "babel-loader")
+babelRule.query.plugins.push(
+  "@babel/plugin-transform-react-constant-elements",
+  "@babel/plugin-transform-react-inline-elements"
+)
 
 module.exports = merge(common, {
   mode: "production",
@@ -28,5 +33,5 @@ module.exports = merge(common, {
 
       new OptimizeCSSAssetsPlugin({})
     ]
-  }
+  },
 });

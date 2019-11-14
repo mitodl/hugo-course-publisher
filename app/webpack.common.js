@@ -3,10 +3,11 @@ const path = require("path");
 const CopyWebpackPlugin = require("copy-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const AssetsPlugin = require("assets-webpack-plugin");
+const babelSharedLoader = require("./babel_config").babelSharedLoader
 
 module.exports = {
   entry: {
-    main: path.join(__dirname, "src", "index.js")
+    main: ["@babel/polyfill", path.join(__dirname, "src", "index.js")]
   },
 
   output: {
@@ -22,18 +23,13 @@ module.exports = {
 
       {test: /\.json$/, loader: "json-loader"},
 
-      {
-        loader: "babel-loader",
-        test: /\.js?$/,
-        exclude: /node_modules/,
-        query: {cacheDirectory: true}
-      },
+      babelSharedLoader,
 
       {
         test: /\.(sa|sc|c)ss$/,
         exclude: /node_modules/,
         use: ["style-loader", MiniCssExtractPlugin.loader, "css-loader", "postcss-loader", "sass-loader"]
-      }
+      },
     ]
   },
 
@@ -54,6 +50,6 @@ module.exports = {
         to: "fonts/",
         flatten: true
       }
-    ])
-  ]
+    ]),
+  ],
 };

@@ -1,10 +1,12 @@
 language: node_js
 node_js:
   - 12
-script:
+install:
   - cd app
   - node ./scripts/install_yarn.js
   - yarn install
+script:
   - npm test
   - npm run lint
   - npm run fmt:check
+  - npm run build
