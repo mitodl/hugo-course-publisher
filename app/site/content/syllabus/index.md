@@ -41,7 +41,7 @@ There will be three one-hour exams at class times and a final exam. The use of c
 
 ## Grading
 | ACTIVITIES           | PERCENTAGES |
-| -------------------- | ----------- |
+|----------------------|-------------|
 | Problem sets         | 15%         |
 | Three one-hour exams | 45%         |
 | Final exam           | 40%         |
