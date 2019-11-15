@@ -1,5 +1,6 @@
 ---
 title: "Exams"
+menu: "main"
 ---
 
 There will be three one-hour exams at class times and a final exam.

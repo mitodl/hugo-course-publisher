@@ -1,5 +1,6 @@
 ---
 title: "Related Resources"
+menu: "main"
 ---
 ## Interesting Links
 

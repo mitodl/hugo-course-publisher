@@ -1,5 +1,6 @@
 ---
 title: "Syllabus"
+menu: "main"
 ---
 ## Course Meeting Times
 Lectures: 3 sessions / week, 1 hour / session

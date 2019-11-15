@@ -1,5 +1,6 @@
 ---
 title: "Tools"
+menu: "main"
 ---
 The flash animations were developed by Jean-Michel Claus (with voiceover by Gilbert Strang). We are grateful! Funding was provided by a grant from the [The d'Arbeloff Fund for Excellence in MIT Education](http://web.mit.edu/newsoffice/2000/darbeloff-1025.html) as part of The d'Arbeloff Interactive Mathematics Project (d'A I M P).
 
