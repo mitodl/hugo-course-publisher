@@ -1,6 +1,8 @@
 ---
 title: "Calendar"
-menu: "main"
+menu: 
+    main:
+        weight: 20
 ---
 | SES # | TOPICS                                | KEY DATES          |
 |-------|---------------------------------------|--------------------|

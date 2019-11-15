@@ -1,5 +1,9 @@
 ---
 title: "Linear Algebra"
+menu: 
+    main:
+        name: "Course Home"
+        weight: -10
 ---
 
 ## Course Description
