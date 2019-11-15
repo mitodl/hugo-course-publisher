@@ -1,1 +1,22 @@
 @import 'imports/reset';
+@import '~bootstrap/scss/bootstrap';
+
+nav {
+    @extend .nav;
+}
+
+nav > ul {
+    @extend .navbar-nav;
+}
+
+nav > ul > li {
+    @extend .nav-item;
+}
+
+nav > ul > li > a {
+    @extend .nav-link;
+}
+
+table {
+    @extend .table;
+}

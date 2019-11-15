@@ -17,7 +17,24 @@
 
   {{ block "header" . }}{{ partial "header" . }}{{end}}
 
-  {{ block "main" . }}{{end}}
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-2">
+        {{ with .Site.Menus.main }}
+        <nav>
+          <ul>
+            {{ range . }}
+            <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+        </nav>
+        {{ end }}
+      </div>
+      <div class="col-md-9">
+        {{ block "main" . }}{{end}}
+      </div>
+    </div>
+  </div>
 
   {{ block "footer" . }}{{ partial "footer" . }}{{end}}
 
