@@ -2,9 +2,9 @@
 title: "Readings"
 ---
 
-The readings are assigned in: Buy at Amazon Strang, Gilbert. Introduction to Linear Algebra. 4th ed. Wellesley-Cambridge Press, 2009. ISBN: 9780980232714.
+The readings are assigned in: [![Buy at Amazon](images/a_logo_17.gif)](https://www.amazon.com/exec/obidos/ASIN/0980232716/ref=nosim/mitopencourse-20?linkCode=w61&imprToken=88O6qQed.wV654ySgRZ8OQ&slotNum=0) Strang, Gilbert. Introduction to Linear Algebra. 4th ed. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2009. ISBN: 9780980232714.
 
-Reading assignments are also provided for the newer edition: Buy at Amazon Strang, Gilbert. Introduction to Linear Algebra. 5th ed. Wellesley-Cambridge Press, 2016. ISBN: 9780980232776.
+Reading assignments are also provided for the newer edition: [![Buy at Amazon](images/a_logo_17.gif)](https://www.amazon.com/exec/obidos/ASIN/0980232775/ref=nosim/mitopencourse-20?linkCode=w61&imprToken=88O6qQed.wV654ySgRZ8OQ&slotNum=1) Strang, Gilbert. Introduction to Linear Algebra. 5th ed. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2016. ISBN: 9780980232776.
 
 | SES # | TOPICS                                | READINGS in 4th Edition     | READINGS IN 5TH EDITION |
 |-------|---------------------------------------|-----------------------------|-------------------------|
