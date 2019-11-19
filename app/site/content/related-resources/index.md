@@ -1,5 +1,8 @@
 ---
 title: "Related Resources"
+menu: 
+    main:
+        weight: 80
 ---
 ## Interesting Links
 

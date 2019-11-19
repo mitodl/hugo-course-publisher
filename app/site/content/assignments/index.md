@@ -1,5 +1,8 @@
 ---
 title: "Assignments"
+menu: 
+    main:
+        weight: 40
 ---
 The problem sets make up 15% of the course grade. Problems are assigned from the required text: [![Buy at Amazon](images/a_logo_17.gif)](https://www.amazon.com/exec/obidos/ASIN/0980232716/ref=nosim/mitopencourse-20?linkCode=w61&imprToken=88O6qQed.wV654ySgRZ8OQ&slotNum=0) Strang, Gilbert. Introduction to Linear Algebra. 4th ed. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2009. ISBN: 9780980232714.
 

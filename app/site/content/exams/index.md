@@ -1,5 +1,8 @@
 ---
 title: "Exams"
+menu: 
+    main:
+        weight: 50
 ---
 
 There will be three one-hour exams at class times and a final exam.
