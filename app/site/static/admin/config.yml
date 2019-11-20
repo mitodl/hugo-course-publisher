@@ -1,15 +1,22 @@
 backend:
-  name: github
-  repo: mitodl/hugo-course-publisher
-  branch: netlify-testing
+  name: git-gateway
+  repo: hugo-courses/netlify-cms-testing
+  branch: master
+  identity_url: "http://localhost/.netlify/identity"
+  gateway_url: "http://localhost/.netlify/git"
+  site_domain: "http://localhost"
+  accept_roles:
+    - admin
+    - editor
 publish_mode: editorial_workflow
 media_folder: "static/images/uploads"
 public_folder: "/public/images/uploads"
 collections:
-  - name: "course-sections" # Used in routes, e.g., /admin/collections/blog
-    label: "Course Sections" # Used in the UI
+  - name: "course-section" # Used in routes, e.g., /admin/collections/blog
+    label: "Course Section" # Used in the UI
     folder: "content/_sections" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
