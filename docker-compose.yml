@@ -3,8 +3,61 @@ services:
   app:
     build: .
     container_name: hugo-course-publisher
-    ports:
-      - "3000:3000"
     volumes:
       - ./app:/usr/share/app
+    networks:
+      - default
     command: bash -c "yarn install && npm start"
+
+  db: 
+    image: mariadb
+    restart: always
+    networks:
+      - default
+    environment:
+      MYSQL_ROOT_PASSWORD: gotrue
+      MYSQL_DATABASE: gotrue
+      MYSQL_USER: gotrue
+      MYSQL_USER_PASSWORD: gotrue
+    volumes:
+      - gotrue-db:/var/lib/sql
+
+  gotrue:
+    image: golang
+    volumes:
+      - ./gotrue:/go/src/gotrue
+    restart: on-failure
+    links:
+      - db
+    networks:
+      - default
+    command: bash -c "cd /go/src/gotrue && make deps && make build && ./gotrue migrate && ./gotrue"
+
+  git-gateway:
+    image: golang
+    volumes:
+      - ./git-gateway:/go/src/git-gateway
+    links:
+      - db
+      - gotrue
+    networks:
+      - default
+    command: bash -c "cd /go/src/git-gateway && make deps && make build && ./git-gateway"
+
+  webserver:
+    image: nginx
+    networks:
+      - default
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    depends_on:
+      - app
+      - db
+      - gotrue
+      - git-gateway
+    volumes:
+      - ./nginx-conf/:/etc/nginx/conf.d
+
+volumes:
+  gotrue-db:
