@@ -32,7 +32,7 @@ Connection string for the database.
 `GOTRUE_API_HOST` - `string`
 Hostname to listen on.  In order to work with this docker configuration, the value must be `0.0.0.0` to listen on all interfaces.
 
-`PORT` - `number`
+`GOTRUE_PORT` - `number`
 Port number to listen on.  This defaults to `8081`, and if you decide to change it you must also change the nginx configuration to point at whatever you set it to.
 
 `GOTRUE_SITE_URL` - `string`
@@ -47,7 +47,7 @@ The shared secret with an operator (usually Netlify) for this microservice. Used
 `GOTRUE_DISABLE_SIGNUP` - `bool`
 When signup is disabled the only way to create new users is through invites. Defaults to false, all signups enabled.
 
-`MAILER_AUTOCONFIRM` - `bool`
+`GOTRUE_MAILER_AUTOCONFIRM` - `bool`
 If you do not require email confirmation, you may set this to true. Defaults to false.
 
 ## git-gateway
@@ -59,6 +59,9 @@ Chooses what dialect of database you want. Must be `sqlite3` for now.
 
 `GITGATEWAY_API_HOST` - `string`
 Hostname to listen on.  In order to work with this docker configuration, the value must be `0.0.0.0` to listen on all interfaces.
+
+`GITGATEWAY_PORT` - `number`
+Port number to listen on.  This defaults to `9999`, and if you decide to change it you must also change the nginx configuration to point at whatever you set it to.
 
 `GITGATEWAY_GITHUB_ENDPOINT` - `string`
 A fully qualified URL to a Github API, i.e. `https://github.mit.edu/api/v3`.
