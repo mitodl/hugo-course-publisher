@@ -91,8 +91,6 @@
     "@babel/preset-flow": "^7.0.0",
     "@babel/preset-react": "^7.7.0",
     "bootstrap": "^4.3.1",
-    "jquery": "^3.4.1",
-    "popper.js": "^1.16.0",
     "react-bootstrap": "^1.0.0-beta.15",
     "react-hot-loader": "^4.12.17"
   }
