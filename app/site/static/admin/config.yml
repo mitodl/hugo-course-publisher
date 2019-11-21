@@ -12,9 +12,17 @@ publish_mode: editorial_workflow
 media_folder: "static/images/uploads"
 public_folder: "/public/images/uploads"
 collections:
+  - name: "course-home"
+    label: "Course Home"
+    files:
+      - name: "course-home-content"
+        label: "Course Home Content"
+        file: "_index.md"
+        fields:
+        - {label: "Body", name: "body", widget: "markdown"}
   - name: "course-section" # Used in routes, e.g., /admin/collections/blog
     label: "Course Section" # Used in the UI
-    folder: "_sections" # The path to the folder where the documents are stored
+    folder: "sections" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
