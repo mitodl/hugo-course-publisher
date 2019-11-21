@@ -1,6 +1,6 @@
 [submodule "gotrue"]
 	path = gotrue
-	url = git@github.com:netlify/gotrue.git
+	url = https://github.com/netlify/gotrue.git
 	ignore = dirty
 [submodule "git-gateway"]
 	path = git-gateway
