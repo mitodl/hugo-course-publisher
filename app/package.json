@@ -38,7 +38,7 @@
     "copy-webpack-plugin": "^5.0.3",
     "cross-env": "^5.2.0",
     "css-loader": "^3.0.0",
-    "eslint": "^6.1.0",
+    "eslint": "^5.0.0",
     "eslint-config-google": "^0.14.0",
     "eslint-config-mitodl": "^0.0.7",
     "eslint-plugin-babel": "^5.3.0",
@@ -90,6 +90,8 @@
     "@babel/polyfill": "^7.7.0",
     "@babel/preset-flow": "^7.0.0",
     "@babel/preset-react": "^7.7.0",
+    "bootstrap": "^4.3.1",
+    "react-bootstrap": "^1.0.0-beta.15",
     "react-hot-loader": "^4.12.17"
   }
 }
