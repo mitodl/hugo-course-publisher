@@ -6,6 +6,6 @@
 	path = git-gateway
 	url = https://github.com/netlify/git-gateway
 	ignore = dirty
-[submodule "git-gateway-testing"]
+[submodule "content"]
 	path = app/site/content
 	url = git@github.mit.edu:gumaerc/git-gateway-testing.git
