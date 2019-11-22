@@ -19,12 +19,12 @@
 
   <div class="container-fluid">
     <div class="row">
-      <div class="col-md-2">
+      <div class="col-md-2 sidebar">
         {{ with .Site.Menus.main }}
         <nav>
           <ul>
             {{ range . }}
-            <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+            <li><a class="text-uppercase text-dark" href="{{ .URL | relURL }}">{{ .Name }}</a></li>
             {{ end }}
           </ul>
         </nav>
