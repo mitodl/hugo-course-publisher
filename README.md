@@ -10,7 +10,7 @@ This project aims to facilitate the creation of a static course website using th
 - docker
 - docker-compose
 
-# Environment Variables
+# Environment variables
 A number of environment variables are required for gotrue and git-gateway to function properly.  These can be set in .env files in the `gotrue` and `git-gateway` submodule folders, respectively.
 
 ## gotrue
@@ -74,3 +74,22 @@ A repository to use with Git Gateway.
 
 # Running locally
 To run the example course hugo site locally, open a terminal at the root of the repository and run `docker-compose up --build`.  Once the server is running, the hugo site will be available at http://localhost:8000/, and Netlify CMS will be available at http://localhost:8000/admin.
+
+# Content management
+As detailed in the environment variables that need to be set, you define the repo that git-gateway connects to using the `GITGATEWAY_GITHUB_REPO` variable.  This value also needs to be used in `.gitmodules` in the root of the project.  The last submodule in the list looks like this:
+
+```
+[submodule "content"]
+	path = app/site/content
+	url = git@github.mit.edu:gumaerc/git-gateway-testing.git
+```
+
+Change the value of URL in this field to point to your repo where you will store your content.  This repsoitory must contain a blank `_index.md` file for the course home page and an empty `sections` folder at a minimum.  If everything is set up properly, you should be able to edit the course home page content and arbitrarily add as many sections as you want.  Currently, only Title and Body fields are supported, however, front matter can be added to any page by switching to markdown view in the wysiwyg editor and placing the YAML at the top of the page like so:
+```
+---
+menu:
+  main:
+    weight: 40
+---
+```
+This metadata will not be loaded back into the editor if you bring the page up for editing again, but when you save the page all front matter properties you enter will be merged with other front matter being set by other widgets (such as Title) into the resulting markdown.
