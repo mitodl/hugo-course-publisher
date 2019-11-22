@@ -32,7 +32,7 @@ Connection string for the database.
 `GOTRUE_API_HOST` - `string`
 Hostname to listen on.  In order to work with this docker configuration, the value must be `0.0.0.0` to listen on all interfaces.
 
-`GOTRUE_PORT` - `number`
+`PORT` - `number`
 Port number to listen on.  This defaults to `8081`, and if you decide to change it you must also change the nginx configuration to point at whatever you set it to.
 
 `GOTRUE_SITE_URL` - `string`
@@ -60,7 +60,7 @@ Chooses what dialect of database you want. Must be `sqlite3` for now.
 `GITGATEWAY_API_HOST` - `string`
 Hostname to listen on.  In order to work with this docker configuration, the value must be `0.0.0.0` to listen on all interfaces.
 
-`GITGATEWAY_PORT` - `number`
+`PORT` - `number`
 Port number to listen on.  This defaults to `9999`, and if you decide to change it you must also change the nginx configuration to point at whatever you set it to.
 
 `GITGATEWAY_GITHUB_ENDPOINT` - `string`
