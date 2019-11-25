@@ -1,5 +1,5 @@
 ---
-title: "Linear Algebra"
+title: "Course Home"
 course_info:
     instructors:
       - "Prof. Gilbert Strang"
@@ -15,6 +15,8 @@ menu:
         weight: -10
 ---
 {{< course-image image-url="images/course_image.jpg" >}}
+
+## **LINEAR ALGEBRA**
 
 ##### **Course Description**
 This is a basic subject on matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.
