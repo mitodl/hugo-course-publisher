@@ -20,7 +20,7 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-3 p-5 sidebar">
+            <div class="col-lg-2 p-5 sidebar">
                 {{ with .Site.Menus.main }}
                 <nav>
                     <ul>
@@ -32,7 +32,7 @@
                 </nav>
                 {{ end }}
             </div>
-            <div class="col-md-9">
+            <div class="col-lg-10">
                 {{ partial "breadcrumb.html" . }}
                 {{ block "main" . }}{{end}}
             </div>
