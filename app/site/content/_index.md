@@ -11,7 +11,6 @@ course_info:
     level: "Undergraduate"
 menu: 
     main:
-        name: "Course Home"
         weight: -10
 ---
 {{< course-image image-url="images/course_image.jpg" >}}
