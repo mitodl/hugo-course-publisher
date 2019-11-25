@@ -21,7 +21,7 @@
                             <td></td>
                             <td>Instructor(s)</td>
                             <td>
-                                <ul>
+                                <ul class="list-unstyled">
                                     {{ range $instructor := .Params.course_info.instructors }}<li>{{ $instructor }}</li>{{ end }}
                                 </ul>
                             </td>
@@ -35,7 +35,7 @@
                             <td></td>
                             <td>Topic(s)</td>
                             <td>
-                                <ul>
+                                <ul class="list-unstyled">
                                     {{ range $topic := .Params.course_info.topics }}<li>{{ $topic }}</li>{{ end }}
                                 </ul>
                             </td>
