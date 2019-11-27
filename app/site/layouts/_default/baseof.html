@@ -15,26 +15,26 @@
 </head>
 
 <body>
-
-    {{ block "header" . }}{{ partial "header" . }}{{end}}
-
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-lg-2 p-5 sidebar">
-                {{ with .Site.Menus.main }}
-                <nav>
-                    <ul>
-                        {{ range . }}
-                        <li><a class="text-uppercase text-dark font-weight-bold"
-                                href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-                        {{ end }}
-                    </ul>
-                </nav>
-                {{ end }}
-            </div>
-            <div class="col-lg-10">
-                {{ partial "breadcrumb.html" . }}
-                {{ block "main" . }}{{end}}
+    <div class="bmd-layout-container bmd-drawer-f-l bmd-drawer-overlay">
+        {{ block "header" . }}{{ partial "header" . }}{{end}}
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-2 p-5 desktop-nav">
+                    {{ with .Site.Menus.main }}
+                    <nav>
+                        <ul>
+                            {{ range . }}
+                            <li><a class="text-uppercase text-dark font-weight-bold"
+                                    href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+                            {{ end }}
+                        </ul>
+                    </nav>
+                    {{ end }}
+                </div>
+                <div class="col-lg-10">
+                    {{ partial "breadcrumb.html" . }}
+                    {{ block "main" . }}{{end}}
+                </div>
             </div>
         </div>
     </div>

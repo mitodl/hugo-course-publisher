@@ -2,11 +2,40 @@
 @import '~bootstrap/scss/bootstrap';
 $material-icons-font-path: '~material-icons/iconfont/';
 @import '~material-icons/iconfont/material-icons.scss';
+@import 'bootstrap-material-design';
 
 $enable-responsive-font-sizes: true;
 $light-gray: #F5F5F5;
 $dark-gray: #D8D8D8;
 $darker-gray: #6F6F6F;
+
+/* CUSTOM STYLES */
+
+#mobile-nav-button {
+    @include media-breakpoint-up(lg) {
+        display: none;
+    }
+}
+
+.mobile-nav {
+    background-color: $light-gray;
+    @include media-breakpoint-up(lg) {
+        display: none;
+    }
+}
+
+.desktop-nav {
+    background-color: $light-gray;
+    @include media-breakpoint-down(md) {
+        display: none;
+    }
+}
+
+.course-image {
+    background-size: cover;
+}
+
+/* BOOTSTRAP EXTENSIONS */
 
 nav {
     @extend .nav;
@@ -28,13 +57,7 @@ table {
     @extend .table;
 }
 
-.sidebar {
-    background-color: $light-gray;
-}
-
-.course-image {
-    background-size: cover;
-}
+/* MATERIAL ICONS */
 
 .instructors-icon {
     @include material-icon('school');
