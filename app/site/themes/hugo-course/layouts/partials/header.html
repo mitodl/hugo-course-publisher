@@ -1,2 +1,20 @@
-<header>
+<header id="mobile-nav-button" class="bmd-layout-header">
+    <div class="navbar navbar-light bg-faded">
+        <button class="navbar-toggler" type="button" data-toggle="drawer" data-target="#mobile-nav">
+            <span class="sr-only">Toggle drawer</span>
+            <i class="material-icons">menu</i>
+        </button>
+    </div>
 </header>
+<div id="mobile-nav" class="bmd-layout-drawer bg-faded mobile-nav">
+    {{ with .Site.Menus.main }}
+    <nav>
+        <ul>
+            {{ range . }}
+            <li><a class="text-uppercase text-dark font-weight-bold"
+                    href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+            {{ end }}
+        </ul>
+    </nav>
+    {{ end }}
+</div>
