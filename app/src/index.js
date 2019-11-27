@@ -7,4 +7,6 @@ window.$ = $
 import Popper from "popper.js"
 window.Popper = Popper
 import "bootstrap-material-design"
-$(document).ready(() => { $("body").bootstrapMaterialDesign() })
+$(document).ready(() => {
+  $("body").bootstrapMaterialDesign()
+})
