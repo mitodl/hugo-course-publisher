@@ -17,8 +17,20 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.((png)|(eot)|(woff)|(woff2)|(ttf)|(svg)|(gif))(\?v=\d+\.\d+\.\d+)?$/,
+        test: /\.((png)|(eot)|(ttf)|(svg)|(gif))(\?v=\d+\.\d+\.\d+)?$/,
         loader: "file-loader?name=/[hash].[ext]"
+      },
+
+      {
+        test: /\.(woff|ttf|woff2)$/,
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              name: "fonts/[name].[ext]"
+            }
+          }
+        ]
       },
 
       {test: /\.json$/, loader: "json-loader"},
@@ -51,5 +63,12 @@ module.exports = {
         flatten: true
       }
     ]),
+
+    new webpack.ProvidePlugin({
+      $: "jquery",
+      jQuery: "jquery",
+      "window.jQuery": "jquery",
+      Popper: 'popper.js/dist/umd/popper'
+    })
   ],
 };

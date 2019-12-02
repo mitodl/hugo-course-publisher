@@ -1,13 +1,66 @@
 {{ define "main" }}
 <main aria-role="main">
-    <header class="homepage-header">
-    <h1>{{.Title}}</h1>
-    {{ with .Params.subtitle }}
-    <span class="subtitle">{{.}}</span>
-    {{ end }}
-    </header>
-    <div class="homepage-content">
-    {{.Content}}
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12 col-xl-8">
+                {{ if not .IsHome }}
+                <header class="homepage-header">
+                <h2 class="text-uppercase font-weight-bold">{{ .Title }}</h2>
+                {{ with .Params.course_info.subtitle }}
+                <span class="subtitle">{{.}}</span>
+                {{ end }}
+                </header>
+                {{ end }}
+                <div class="homepage-content">
+                {{ .Content }}
+                </div>
+            </div>
+            <div class="col-lg-12 col-xl-4">
+                <div class="table-responsive p-3 bg-white shadow rounded">
+                    <h4 class="font-weight-bold">Course Info</h4>
+                    <table class="table table-borderless">
+                        <tr>
+                            <td><span class="material-icons instructors-icon"></span></td>
+                            <td>Instructor(s)</td>
+                            <td>
+                                <ul class="list-unstyled m-0">
+                                    {{ range $instructor := .Params.course_info.instructors }}<li>{{ $instructor }}</li>{{ end }}
+                                </ul>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><span class="material-icons department-icon"></span></td>
+                            <td>Department</td>
+                            <td>{{ .Params.course_info.department }}</td>
+                        </tr>
+                        <tr>
+                            <td><span class="material-icons topics-icon"></span></td>
+                            <td>Topic(s)</td>
+                            <td>
+                                <ul class="list-unstyled m-0">
+                                    {{ range $topic := .Params.course_info.topics }}<li>{{ $topic }}</li>{{ end }}
+                                </ul>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><span class="material-icons course-number-icon"></span></td>
+                            <td>Course No.</td>
+                            <td>{{ .Params.course_info.course_number }}</td>
+                        </tr>
+                        <tr>
+                            <td><span class="material-icons term-icon"></span></td>
+                            <td>As Taught In</td>
+                            <td>{{ .Params.course_info.term }}</td>
+                        </tr>
+                        <tr>
+                            <td><span class="material-icons level-icon"></span></td>
+                            <td>Level</td>
+                            <td>{{ .Params.course_info.level }}</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
     </div>
 </main>
 {{ end }}
