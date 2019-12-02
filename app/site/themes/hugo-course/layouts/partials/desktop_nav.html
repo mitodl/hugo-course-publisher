@@ -1,0 +1,10 @@
+{{ with .Site.Menus.main }}
+<nav>
+    <ul>
+        {{ range . }}
+        <li><a class="text-uppercase text-dark font-weight-bold"
+                href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+        {{ end }}
+    </ul>
+</nav>
+{{ end }}

@@ -20,19 +20,11 @@
         <div class="container-fluid overflow-auto">
             <div class="row">
                 <div class="col-lg-2 p-5 desktop-nav">
-                    {{ with .Site.Menus.main }}
-                    <nav>
-                        <ul>
-                            {{ range . }}
-                            <li><a class="text-uppercase text-dark font-weight-bold"
-                                    href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-                            {{ end }}
-                        </ul>
-                    </nav>
-                    {{ end }}
+                    {{ partial "desktop_nav.html" . }}
                 </div>
                 <div class="col-lg-10">
                     {{ partial "breadcrumb.html" . }}
+                    {{ partial "mobile_nav_toggle.html" . }}
                     {{ block "main" . }}{{end}}
                 </div>
             </div>
