@@ -14,4 +14,4 @@ There will be three one-hour exams at class times and a final exam.
 | Exam 3 [(PDF)](/exams/MIT18_06S10_exam3_s10.pdf)      | [(PDF)](/exams/MIT18_06S10_exam3_s10_soln.pdf) |
 | Final exam [(PDF)](/exams/MIT18_06S10_Final_Exam.pdf) | [(PDF)](/exams/MIT18_06S10_Final_Answers.pdf) |
 
-Exams and quizzes from previous years can be found in the [study materials]({{<ref "study-materials/index.md">}}) section.
+Exams and quizzes from previous years can be found in the [study materials]({{<ref "sections/study-materials.md">}}) section.
