@@ -1,5 +1,14 @@
 ---
 title: "Linear Algebra"
+course_info:
+    instructors:
+      - "Prof. Gilbert Strang"
+    department: "Mathematics"
+    topics:
+      - "Linear Algebra"
+    course_number: "18.06"
+    term: "Spring 2010"
+    level: "Undergraduate"
 menu: 
     main:
         name: "Course Home"
