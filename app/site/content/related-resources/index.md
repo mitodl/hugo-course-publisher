@@ -34,16 +34,16 @@ The _Java® Demos_ were developed by [Pavel Grinfeld](http://www.drexel.edu/math
 ### MATLAB® Information
 
 - Best Guide to MATLAB® ([PDF](http://homen.vsb.cz/~lud0016/NM/matlab_guide.pdf))
-- Short MATLAB® Tutorial ([PDF](related-resources/MIT18_06S10_matlab.pdf)) and Cool [MATLAB® demos](http://www.mathworks.com/products/demos/) by Mathworks
+- Short MATLAB® Tutorial ([PDF](/related-resources/MIT18_06S10_matlab.pdf)) and Cool [MATLAB® demos](http://www.mathworks.com/products/demos/) by Mathworks
 - [MATLAB® Recitation Demos from 1997](http://web.mit.edu/18.06/www/MATLAB/Recitation.html)
 - [MATLAB® Teaching Codes](http://web.mit.edu/18.06/www/Course-Info/Tcodes.html)
 - A MATLAB cheat sheet ([PDF](http://web.mit.edu/18.06/www/Spring09/matlab-cheatsheet.pdf))
 
 ### Essays
 
-- Pascal Matrices ([PDF](related-resources/MIT18_06S10_pascal_work.pdf))
-- A Basis for 3 by 3 Symmetric Matrices ([PDF](related-resources/MIT18_06S10_symmbases.pdf))
-- Gram-Schmidt in 9 Lines of MATLAB® ([PDF](related-resources/MIT18_06S10_gramschmidtmat.pdf))
+- Pascal Matrices ([PDF](/related-resources/MIT18_06S10_pascal_work.pdf))
+- A Basis for 3 by 3 Symmetric Matrices ([PDF](/related-resources/MIT18_06S10_symmbases.pdf))
+- Gram-Schmidt in 9 Lines of MATLAB® ([PDF](/related-resources/MIT18_06S10_gramschmidtmat.pdf))
 - Linear Algebra and Music ([PDF](http://web.mit.edu/18.06/www/Essays/linear-algebra-and-music.pdf))
 
 ### Essays on Teaching Linear Algebra
