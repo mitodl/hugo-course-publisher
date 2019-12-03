@@ -4,7 +4,11 @@
     <a href="{{ .URL }}">{{ if .IsHome }}Course Home{{ else }}{{.Title}}{{ end }}</a>&nbsp;>
 {{ end }}
 {{ end }}
-<div class="breadcrumb bg-white">
+{{ if not .IsHome }}
+<div class="breadcrumb bg-transparent">
+{{ else }}
+<div class="breadcrumb bg-transparent text-white-mobile">
+{{ end }}
     {{ template "breadcrumb" . }}
     {{.Title}}
 </div>

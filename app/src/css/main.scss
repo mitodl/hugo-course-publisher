@@ -5,29 +5,43 @@ $material-icons-font-path: '~material-icons/iconfont/';
 @import 'bootstrap-material-design';
 
 $enable-responsive-font-sizes: true;
+$drawer-width: calc(90%);
+$transparent: #FFFFFF00;
+$white: #FFFFFF;
+$black: #000000;
+$transparent-black: #00000080;
 $light-gray: #F5F5F5;
 $dark-gray: #D8D8D8;
 $darker-gray: #6F6F6F;
 
 /* CUSTOM STYLES */
 
-#mobile-nav-button {
+.outer-wrapper {
+    min-height: 100vh;
+    max-width: 1600px;
+    margin: auto auto;
+}
+
+.mobile-only {
     @include media-breakpoint-up(lg) {
         display: none;
     }
 }
 
-.mobile-nav {
-    background-color: $light-gray;
-    @include media-breakpoint-up(lg) {
-        display: none;
-    }
-}
-
-.desktop-nav {
-    background-color: $light-gray;
+.desktop-only {
     @include media-breakpoint-down(md) {
         display: none;
+    }
+}
+
+.mobile-background {
+    @include media-breakpoint-down(lg) {
+        background: $white;
+        background-image: url("/images/course_image.jpg");
+        background-image: linear-gradient(to bottom, $transparent-black, $white, $white), url("/images/course_image.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: local;
     }
 }
 
@@ -35,7 +49,7 @@ $darker-gray: #6F6F6F;
     background-size: cover;
 }
 
-/* BOOTSTRAP EXTENSIONS */
+/* BOOTSTRAP EXTENSIONS / OVERRIDES */
 
 nav {
     @extend .nav;
@@ -55,6 +69,23 @@ nav > ul > li > a {
 
 table {
     @extend .table;
+}
+
+.bg-light {
+    background-color: $light-gray !important;
+}
+
+.text-white-mobile {
+    @include media-breakpoint-down(lg) {
+        color: $white !important;
+    }
+}
+
+#course-nav {
+    $custom-size: 500px;
+    @include bmd-drawer-x-out($custom-size);
+    @include bmd-drawer-x-in($custom-size);
+    @include bmd-drawer-x-overlay();
 }
 
 /* MATERIAL ICONS */

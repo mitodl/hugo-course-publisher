@@ -1,5 +1,17 @@
 {{ define "main" }} {{ $section := .Site.GetPage "section" .Section }}
-<article class="content">
-  <main>{{- .Content -}}</main>
-</article>
+<div class="container-fluid">
+    {{ partial "mobile_nav_toggle.html" . }}
+    <div class="row">
+        <div class="col-lg-12 col-xl-8">
+            <article class="content">
+                <main>{{- .Content -}}</main>
+            </article>
+        </div>
+        <div class="col-lg-12 col-xl-4">
+            <div class="p-3 bg-white shadow rounded desktop-only">
+            {{ partial "course_info.html" .Site.Home }}
+            </div>
+        </div>
+    </div>
+</div>
 {{ end }}
