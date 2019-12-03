@@ -22,14 +22,20 @@ $darker-gray: #6F6F6F;
     margin: auto auto;
 }
 
-.mobile-only {
+.medium-and-below-only {
     @include media-breakpoint-up(lg) {
         display: none;
     }
 }
 
-.desktop-only {
+.large-and-above-only {
     @include media-breakpoint-down(md) {
+        display: none;
+    }
+}
+
+.xl-and-above-only {
+    @include media-breakpoint-down(lg) {
         display: none;
     }
 }

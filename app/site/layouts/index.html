@@ -12,14 +12,14 @@
                 </header>
                 {{ end }}
                 <div class="homepage-content">
-                    <div class="desktop-only">
+                    <div class="xl-and-above-only">
                         {{ partial "course_image.html" . }}
                     </div>
                     <h2 class="text-uppercase font-weight-bold text-white-mobile">{{ .Params.course_title }}</h2>
                     <h5 class="font-weight-bold text-white-mobile">Course Description</h5>
                     <p class="text-white-mobile">{{ .Params.course_description }}</p>
                     {{ partial "mobile_nav_toggle.html" . }}
-                    <div class="m-4 mobile-only">
+                    <div class="m-4 medium-and-below-only">
                         {{ partial "course_info.html" .Site.Home }}
                         <hr />
                     </div>
@@ -27,7 +27,7 @@
                 </div>
             </div>
             <div class="col-lg-12 col-xl-4">
-                <div class="p-3 bg-white shadow rounded desktop-only">
+                <div class="p-3 bg-white shadow rounded large-and-above-only">
                 {{ partial "course_info.html" .Site.Home }}
                 </div>
             </div>
