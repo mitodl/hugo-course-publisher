@@ -5,7 +5,7 @@ $material-icons-font-path: '~material-icons/iconfont/';
 @import 'bootstrap-material-design';
 
 $enable-responsive-font-sizes: true;
-$drawer-width: calc(90%);
+$drawer-width: 85vw;
 $transparent: #FFFFFF00;
 $white: #FFFFFF;
 $black: #000000;
@@ -81,11 +81,9 @@ table {
     }
 }
 
-#course-nav {
-    $custom-size: 500px;
-    @include bmd-drawer-x-out($custom-size);
-    @include bmd-drawer-x-in($custom-size);
-    @include bmd-drawer-x-overlay();
+.bmd-drawer-f-l > .bmd-layout-drawer {
+    width: $drawer-width !important;
+    transform: translateX(-100vw);
 }
 
 /* MATERIAL ICONS */
