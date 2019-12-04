@@ -1,8 +1,8 @@
 {{ define "main" }}
 <main aria-role="main">
-    <div class="container-fluid">
+    <div class="container-fluid p-0">
         <div class="row">
-            <div class="col-lg-12 col-xl-8">
+            <div class="col-12 col-lg-7 col-xl-7 pr-2">
                 {{ if not .IsHome }}
                 <header class="homepage-header">
                 <h2 class="text-uppercase font-weight-bold">{{ .Title }}</h2>
@@ -11,22 +11,24 @@
                 {{ end }}
                 </header>
                 {{ end }}
-                <div class="homepage-content">
-                    <div class="xl-and-above-only">
+                <div class="bg-white-desktop rounded homepage-content">
+                    <div class="large-and-above-only">
                         {{ partial "course_image.html" . }}
                     </div>
-                    <h2 class="text-uppercase font-weight-bold text-white-mobile">{{ .Params.course_title }}</h2>
-                    <h5 class="font-weight-bold text-white-mobile">Course Description</h5>
-                    <p class="text-white-mobile">{{ .Params.course_description }}</p>
-                    {{ partial "mobile_nav_toggle.html" . }}
-                    <div class="medium-and-below-only">
-                        {{ partial "course_info.html" .Site.Home }}
+                    <div class="container-fluid pt-4 pb-4">
+                        <h1 class="text-white medium-and-below-only">{{ .Params.course_title }}</h1>
+                        <h5 class="font-weight-bold large-and-above-only">Course Description</h5>
+                        <p class="text-white-mobile">{{ .Params.course_description }}</p>
+                        {{ partial "mobile_nav_toggle.html" . }}
+                        <div class="medium-and-below-only">
+                            {{ partial "course_info.html" .Site.Home }}
+                        </div>
                         <hr />
+                        {{ .Content }}
                     </div>
-                    {{ .Content }}
                 </div>
             </div>
-            <div class="col-lg-12 col-xl-4">
+            <div class="col-12 col-lg-5 col-xl-5 pl-2">
                 <div class="p-3 bg-white shadow rounded large-and-above-only">
                 {{ partial "course_info.html" .Site.Home }}
                 </div>

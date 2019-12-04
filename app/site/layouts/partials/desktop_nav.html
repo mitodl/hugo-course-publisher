@@ -1,10 +1,12 @@
 {{ with .Site.Menus.main }}
-<nav>
-    <ul>
-        {{ range . }}
-        <li><a class="text-uppercase text-dark font-weight-bold"
-                href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-        {{ end }}
-    </ul>
-</nav>
+<div class="bg-white rounded">
+    <nav>
+        <ul class="m-auto pt-4 pb-4">
+            {{ range . }}
+            <li><a class="text-uppercase text-dark"
+                    href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+            {{ end }}
+        </ul>
+    </nav>
+</div>
 {{ end }}

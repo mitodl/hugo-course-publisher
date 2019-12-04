@@ -15,19 +15,18 @@
 
 <body>
     <div class="overflow-auto">
-        <div class="bmd-layout-container bmd-drawer-f-l bmd-drawer-overlay outer-wrapper">
+        <div class="bmd-layout-container bmd-drawer-f-l bmd-drawer-overlay outer-wrapper{{if .IsHome }} course-background{{ end }}">
             {{ block "header" . }}{{ partial "header" . }}{{end}}
             {{ if not .IsHome }}
             <div class="container-fluid">
             {{ else }}
-            <div class="container-fluid mobile-background">
+            <div class="container-fluid">
             {{ end }}
-                <div class="row">
-                    <div class="col-lg-2 p-5 bg-light large-and-above-only">
+                <div class="row pt-3">
+                    <div class="col-lg-3 pl-5 pr-2 large-and-above-only">
                         {{ partial "desktop_nav.html" . }}
                     </div>
-                    <div class="col-lg-10">
-                        {{ partial "breadcrumb.html" . }}
+                    <div class="col-lg-9 pl-2 pr-5">
                         {{ block "main" . }}{{end}}
                     </div>
                 </div>

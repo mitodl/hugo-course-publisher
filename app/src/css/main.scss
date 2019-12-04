@@ -9,7 +9,8 @@ $material-icons-font-path: '~material-icons/iconfont/';
 
 .outer-wrapper {
     min-height: 100vh;
-    max-width: 1600px;
+    min-width: 335px;
+    max-width: 1440px;
     margin: auto auto;
 }
 
@@ -31,8 +32,11 @@ $material-icons-font-path: '~material-icons/iconfont/';
     }
 }
 
-.mobile-background {
-    @include media-breakpoint-down(lg) {
+.course-background {
+    @include media-breakpoint-up(lg) {
+        background: $dark-gray;
+    }
+    @include media-breakpoint-down(md) {
         background: $white;
         background-image: url("../../site/static/images/course_image.jpg");
         background-image: linear-gradient(to bottom, $transparent-black, $white, $white), url("../../site/static/images/course_image.jpg");
@@ -47,6 +51,10 @@ $material-icons-font-path: '~material-icons/iconfont/';
 }
 
 /* BOOTSTRAP EXTENSIONS / OVERRIDES */
+
+body {
+    font-family: "Helvetica";
+}
 
 nav {
     @extend .nav;
@@ -72,8 +80,14 @@ table {
     background-color: $light-gray !important;
 }
 
+.bg-white-desktop {
+    @include media-breakpoint-up(lg) {
+        background-color: $white !important;
+    }
+}
+
 .text-white-mobile {
-    @include media-breakpoint-down(lg) {
+    @include media-breakpoint-down(md) {
         color: $white !important;
     }
 }
