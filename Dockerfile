@@ -1,4 +1,4 @@
-FROM node:12
+FROM node:12.13.0
 
 # update and upgrade libraries
 RUN apt-get -qq update \
