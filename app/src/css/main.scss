@@ -34,8 +34,8 @@ $material-icons-font-path: '~material-icons/iconfont/';
 .mobile-background {
     @include media-breakpoint-down(lg) {
         background: $white;
-        background-image: url("/images/course_image.jpg");
-        background-image: linear-gradient(to bottom, $transparent-black, $white, $white), url("/images/course_image.jpg");
+        background-image: url("../../site/static/images/course_image.jpg");
+        background-image: linear-gradient(to bottom, $transparent-black, $white, $white), url("../../site/static/images/course_image.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: local;
