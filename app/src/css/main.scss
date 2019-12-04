@@ -1,18 +1,9 @@
 @import 'imports/reset';
+@import 'variables';
 @import '~bootstrap/scss/bootstrap';
 $material-icons-font-path: '~material-icons/iconfont/';
 @import '~material-icons/iconfont/material-icons.scss';
 @import 'bootstrap-material-design';
-
-$enable-responsive-font-sizes: true;
-$drawer-width: 85vw;
-$transparent: #FFFFFF00;
-$white: #FFFFFF;
-$black: #000000;
-$transparent-black: #00000080;
-$light-gray: #F5F5F5;
-$dark-gray: #D8D8D8;
-$darker-gray: #6F6F6F;
 
 /* CUSTOM STYLES */
 
