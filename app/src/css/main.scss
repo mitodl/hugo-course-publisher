@@ -37,8 +37,12 @@ body {
 }
 
 .course-background {
+    background: linear-gradient(to bottom, $dark-gray, $white);
+}
+
+.course-home-background {
     @include media-breakpoint-up(lg) {
-        background: $dark-gray;
+        background: linear-gradient(to bottom, $dark-gray, $white);
     }
     @include media-breakpoint-down(md) {
         background: $white;
