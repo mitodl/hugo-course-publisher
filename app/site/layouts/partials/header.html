@@ -1,12 +1,12 @@
 {{ partial "mobile_nav.html" . }}
-<div class="border-bottom border-dark pt-5 pb-3 large-and-above-only">
+<div id="desktop-header" class="border-bottom border-dark pt-5 pb-3 large-and-above-only">
     <div class="ml-3 mr-3 pl-5 pr-5">
         <div class="d-flex flex-row align-items-center justify-content-between">
             <div>
                 <i class="material-icons display-4 align-bottom">menu</i>
             </div>
             <div>
-                <img src="/images/ocw_mast.png" />
+                <img src="/images/ocw_banner.png" />
             </div>
             <div>
                 <div class="input-group bg-white rounded">
@@ -25,6 +25,26 @@
                 <div class="btn text-white bg-darker-gray rounded d-flex flex-row align-items-center">
                     <span>SHARE</span>
                     <i class="material-icons">share</i>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="mobile-header" class="bg-white border-bottom border-dark medium-and-below-only pl-3 pr-3">
+    <div class="container-fluid">
+        <div class="d-flex flex-row align-items-center justify-content-center border-bottom border-dark pt-1 pb-1">
+            <div class="mr-auto">
+                <i class="material-icons display-4 align-bottom">menu</i>
+            </div>
+            <div class="mr-auto">
+                <img id="ocw-logo-mobile" src="/images/ocw_logo.jpg" />
+            </div>
+        </div>
+        <div class="pt-1 pb-1">
+            <div class="input-group bg-white rounded shadow">
+                <input id="search-box" type="text" class="form-control" placeholder="SEARCH">
+                <div class="input-group-append">
+                    <i class="material-icons">search</i>
                 </div>
             </div>
         </div>

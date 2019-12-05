@@ -62,6 +62,11 @@ body {
     width: 300px;
 }
 
+#ocw-logo-mobile {
+    width: 36px;
+    height: 36px;
+}
+
 /* BOOTSTRAP EXTENSIONS / OVERRIDES */
 
 nav {
@@ -111,6 +116,14 @@ table {
 .bmd-drawer-f-l > .bmd-layout-drawer {
     width: $drawer-width !important;
     transform: translateX(-100vw);
+}
+
+.container-fluid {
+    @extend .container-fluid;
+    @include media-breakpoint-down(md) {
+        padding-left: 0;
+        padding-right: 0;
+    }
 }
 
 /* MATERIAL ICONS */
