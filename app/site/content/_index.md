@@ -17,5 +17,5 @@ menu:
         weight: -10
 ---
 
-##### **Course Highlights**
+##### Course Highlights
 This course parallels the combination of theory and applications in Professor Strang’s textbook Introduction to Linear Algebra. The course picks out four key applications in the book: Graphs and Networks; Systems of Differential Equations; Least Squares and Projections; and Fourier Series and the Fast Fourier Transform.
