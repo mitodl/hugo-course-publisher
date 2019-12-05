@@ -58,6 +58,10 @@ body {
     background-size: cover;
 }
 
+#search-box {
+    width: 300px;
+}
+
 /* BOOTSTRAP EXTENSIONS / OVERRIDES */
 
 nav {
@@ -80,8 +84,16 @@ table {
     @extend .table;
 }
 
+.border-dark {
+    border-color: $border-dark-color !important;
+}
+
 .bg-light {
     background-color: $light-gray !important;
+}
+
+.bg-darker-gray {
+    background-color: $darker-gray;
 }
 
 .bg-white-desktop {
