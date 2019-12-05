@@ -7,6 +7,10 @@ $material-icons-font-path: '~material-icons/iconfont/';
 
 /* CUSTOM STYLES */
 
+body {
+    font-family: "Helvetica";
+}
+
 .outer-wrapper {
     min-height: 100vh;
     min-width: 335px;
@@ -51,10 +55,6 @@ $material-icons-font-path: '~material-icons/iconfont/';
 }
 
 /* BOOTSTRAP EXTENSIONS / OVERRIDES */
-
-body {
-    font-family: "Helvetica";
-}
 
 nav {
     @extend .nav;
