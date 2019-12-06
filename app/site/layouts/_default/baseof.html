@@ -17,11 +17,7 @@
     <div class="overflow-auto {{ if .IsHome }}course-home-background{{else}}course-background{{ end }}">
         <div class="bmd-layout-container bmd-drawer-f-l bmd-drawer-overlay outer-wrapper">
             {{ block "header" . }}{{ partial "header" . }}{{end}}
-            {{ if not .IsHome }}
             <div class="container-fluid">
-            {{ else }}
-            <div class="container-fluid">
-            {{ end }}
                 <div class="row pt-3 outer-wrapper">
                     <div class="col-lg-3 pl-5 pr-2 large-and-above-only">
                         {{ partial "desktop_nav.html" . }}
