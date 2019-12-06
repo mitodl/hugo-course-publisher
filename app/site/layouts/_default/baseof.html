@@ -2,46 +2,40 @@
 <html lang="{{ $.Site.Language.Lang }}">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
-  <title>{{ $.Site.Title }}</title>
-
-  {{ $stylesheet := .Site.Data.webpack.main }}
-  {{ with $stylesheet.css }}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <base
+        href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
+    <title>{{ $.Site.Title }}</title>
+    {{ $stylesheet := .Site.Data.webpack.main }}
+    {{ with $stylesheet.css }}
     <link href="{{ relURL . }}" rel="stylesheet">
-  {{ end }}
+    {{ end }}
 </head>
 
 <body>
+    <div class="overflow-auto {{ if .IsHome }}course-home-background{{else}}course-background{{ end }}">
+        <div class="bmd-layout-container bmd-drawer-f-l bmd-drawer-overlay outer-wrapper">
+            {{ block "header" . }}{{ partial "header" . }}{{end}}
+            <div class="container-fluid">
+                <div class="row pt-3 outer-wrapper">
+                    <div class="col-lg-3 pl-5 pr-2 large-and-above-only">
+                        {{ partial "desktop_nav.html" . }}
+                    </div>
+                    <div id="main-content-wrapper" class="col-lg-9 pl-lg-2 pr-lg-5">
+                        {{ block "main" . }}{{end}}
+                    </div>
+                </div>
+            </div>
+        </div>
 
-  {{ block "header" . }}{{ partial "header" . }}{{end}}
+        {{ block "footer" . }}{{ partial "footer" . }}{{end}}
 
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-md-2">
-        {{ with .Site.Menus.main }}
-        <nav>
-          <ul>
-            {{ range . }}
-            <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-            {{ end }}
-          </ul>
-        </nav>
+        {{ $script := .Site.Data.webpack.main }}
+        {{ with $script.js }}
+        <script src="{{ relURL . }}"></script>
         {{ end }}
-      </div>
-      <div class="col-md-10">
-        {{ block "main" . }}{{end}}
-      </div>
     </div>
-  </div>
-
-  {{ block "footer" . }}{{ partial "footer" . }}{{end}}
-
-  {{ $script := .Site.Data.webpack.main }}
-  {{ with $script.js }}
-    <script src="{{ relURL . }}"></script>
-  {{ end }}
 </body>
 
 </html>

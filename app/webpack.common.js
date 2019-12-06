@@ -17,8 +17,27 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.((png)|(eot)|(woff)|(woff2)|(ttf)|(svg)|(gif))(\?v=\d+\.\d+\.\d+)?$/,
-        loader: "file-loader?name=/[hash].[ext]"
+        test: /\.(jpg)|(png)|(svg)|(gif)$/,
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              name: "images/[hash].[ext]"
+            }
+          }
+        ]
+      },
+
+      {
+        test: /\.(woff|ttf|woff2|eot)$/,
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              name: "fonts/[hash].[ext]"
+            }
+          }
+        ]
       },
 
       {test: /\.json$/, loader: "json-loader"},
@@ -28,7 +47,18 @@ module.exports = {
       {
         test: /\.(sa|sc|c)ss$/,
         exclude: /node_modules/,
-        use: ["style-loader", MiniCssExtractPlugin.loader, "css-loader", "postcss-loader", "sass-loader"]
+        use: [
+          "style-loader", 
+          {
+            loader: MiniCssExtractPlugin.loader,
+            options: {
+              publicPath: './'
+            }
+          },
+          "css-loader", 
+          "postcss-loader", 
+          "sass-loader"
+        ]
       },
     ]
   },
@@ -51,5 +81,12 @@ module.exports = {
         flatten: true
       }
     ]),
+
+    new webpack.ProvidePlugin({
+      $: "jquery",
+      jQuery: "jquery",
+      "window.jQuery": "jquery",
+      Popper: 'popper.js/dist/umd/popper'
+    })
   ],
 };

@@ -1,5 +1,22 @@
 {{ define "main" }} {{ $section := .Site.GetPage "section" .Section }}
-<article class="content">
-  <main>{{- .Content -}}</main>
-</article>
+<div class="container-fluid p-0">
+    {{ partial "mobile_nav_toggle.html" . }}
+    <div class="row">
+        <div class="col-12 col-lg-8 col-xl-8 pr-2">
+            <div class="container-fluid pb-4 bg-white-desktop rounded">
+                {{ if not .Page.IsHome }}
+                {{ partial "breadcrumb.html" . }}
+                {{ end }}
+                <article class="content">
+                    <main>{{- .Content -}}</main>
+                </article>
+            </div>
+        </div>
+        <div class="col-12 col-lg-4 col-xl-4 pl-2">
+            <div class="p-3 bg-white shadow rounded large-and-above-only">
+            {{ partial "course_info.html" .Site.Home }}
+            </div>
+        </div>
+    </div>
+</div>
 {{ end }}

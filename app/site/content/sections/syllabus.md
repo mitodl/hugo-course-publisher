@@ -50,4 +50,4 @@ There will be three one-hour exams at class times and a final exam. The use of c
 | Final exam           | 40%         |
 
 ## MATLAB®
-Some homework problems will require you to use MATLAB, an important tool for numerical linear algebra. No previous MATLAB experience is required in 18.06. The [related resources]({{< ref "related-resources/index.md" >}}) section has links to information about MATLAB, including a tutorial.
+Some homework problems will require you to use MATLAB, an important tool for numerical linear algebra. No previous MATLAB experience is required in 18.06. The [related resources]({{< ref "sections/related-resources.md" >}}) section has links to information about MATLAB, including a tutorial.

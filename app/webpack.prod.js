@@ -21,13 +21,16 @@ module.exports = merge(common, {
   optimization: {
     minimizer: [
       new TerserPlugin({
+        cache: true,
         parallel: true,
+        sourceMap: true,
         terserOptions: {
           ecma: 6,
         },
       }),
 
       new MiniCssExtractPlugin({
+        publicPath: './',
         filename: "[name].[hash:5].css",
         chunkFilename: "[id].[hash:5].css"
       }),
