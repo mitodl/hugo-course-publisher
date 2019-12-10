@@ -18,7 +18,7 @@
                     <div class="container-fluid pt-4 pb-4">
                         <h1 class="text-white medium-and-below-only">{{ .Params.course_title }}</h1>
                         <h5 class="font-weight-bold large-and-above-only">Course Description</h5>
-                        <p class="text-white-mobile">{{ .Params.course_description }}</p>
+                        <p class="text-white-mobile">{{ .Params.course_description | safeHTML }}</p>
                         {{ partial "mobile_nav_toggle.html" . }}
                         <div class="medium-and-below-only">
                             {{ partial "course_info.html" .Site.Home }}
