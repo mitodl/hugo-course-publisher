@@ -1,6 +1,7 @@
 backend:
   name: github
-  repo: noisecapella/test-hugo
+  repo: mitodl/hugo-course-publisher
+  branch: gs/netlify-cms
 publish_mode: editorial_workflow
 media_library:
   name: mitx
