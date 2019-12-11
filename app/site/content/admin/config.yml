@@ -2,7 +2,6 @@ backend:
   name: github
   repo: mitodl/hugo-course-publisher
   branch: gs/netlify-cms
-  site_domain: netlify-testing-mitodl.herokuapp.com
 publish_mode: editorial_workflow
 media_library:
   name: mitx
