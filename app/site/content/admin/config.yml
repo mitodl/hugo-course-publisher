@@ -3,8 +3,8 @@ backend:
   repo: mitodl/hugo-course-publisher
   branch: gs/netlify-cms
 publish_mode: editorial_workflow
-media_folder: "static/images/uploads"
-public_folder: "/public/images/uploads"
+media_folder: "app/site/static/images"
+public_folder: "/static/images/"
 collections:
   - name: "course-home"
     label: "Course Home"
