@@ -4,7 +4,7 @@ backend:
   branch: gs/netlify-cms
 publish_mode: editorial_workflow
 media_folder: "app/site/static/images"
-public_folder: "/static/images/"
+public_folder: "/images/"
 collections:
   - name: "course-home"
     label: "Course Home"
