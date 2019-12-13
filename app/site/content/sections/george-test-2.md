@@ -3,4 +3,4 @@ title: George test 2
 ---
 Some test here 2
 
-![](/public/images/uploads/with_coupon.png)
+![](/static/images/pr186_courserun.png)
