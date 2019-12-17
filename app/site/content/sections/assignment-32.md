@@ -6,3 +6,5 @@ title: Assignment 32
 this is some text 
 
 and an image
+
+This is Peter **adding** _some_ more text.
