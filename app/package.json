@@ -79,7 +79,7 @@
     "natives": "1.1.6"
   },
   "engines": {
-    "node": "10.17.0",
+    "node": "10.18.0",
     "yarn": "1.17.0"
   },
   "dependencies": {
