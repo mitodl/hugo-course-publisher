@@ -9,3 +9,5 @@ relativeURLs = true
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+[markup.goldmark.renderer]
+unsafe = true
