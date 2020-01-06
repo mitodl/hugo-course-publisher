@@ -17,8 +17,27 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.((png)|(eot)|(ttf)|(svg)|(gif))(\?v=\d+\.\d+\.\d+)?$/,
-        loader: "file-loader?name=/[hash].[ext]"
+        test: /\.(jpg)|(png)|(svg)|(gif)$/,
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              name: "images/[hash].[ext]"
+            }
+          }
+        ]
+      },
+
+      {
+        test: /\.(woff|ttf|woff2|eot)$/,
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              name: "fonts/[hash].[ext]"
+            }
+          }
+        ]
       },
 
       {
@@ -40,7 +59,18 @@ module.exports = {
       {
         test: /\.(sa|sc|c)ss$/,
         exclude: /node_modules/,
-        use: ["style-loader", MiniCssExtractPlugin.loader, "css-loader", "postcss-loader", "sass-loader"]
+        use: [
+          "style-loader", 
+          {
+            loader: MiniCssExtractPlugin.loader,
+            options: {
+              publicPath: './'
+            }
+          },
+          "css-loader", 
+          "postcss-loader", 
+          "sass-loader"
+        ]
       },
     ]
   },
