@@ -4,7 +4,7 @@ backend:
   branch: master
   identity_url: "https://gotrue.d.odl.mit.edu"
   gateway_url: "https://gitgateway.d.odl.mit.edu/18-06-linear-algebra-spring-2010"
-  site_domain: "gifted-borg-62591e.netlify.com"
+  site_domain: "trusting-snyder-003c24.netlify.com"
 accept_roles:
   - admin
   - editor
