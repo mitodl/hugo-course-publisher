@@ -8,12 +8,14 @@
     <script src="https://identity.netlify.com/v1/netlify-identity.js"></script>
       <script>
         netlifyIdentity.init({
-            APIUrl: "https://gotrue.d.odl.mit.edu"
+            APIUrl: "https://gotrue.d.odl.mit.edu",
+            container: "#netlify-identity"
         });
       </script>
   </head>
   <body>
     <!-- Include the script that builds the page and powers Netlify CMS -->
     <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+    <div id="netlify-identity"></div>
   </body>
 </html>
