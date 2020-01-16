@@ -8,6 +8,7 @@ backend:
     accept_roles:
         - admin
         - editor
+identity_url: 'https://gotrue.d.odl.mit.edu'
 publish_mode: editorial_workflow
 media_folder: static/images/uploads
 public_folder: /public/images/uploads
