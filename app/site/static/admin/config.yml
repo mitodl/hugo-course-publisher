@@ -1,30 +1,28 @@
 backend:
-  name: git-gateway
-  repo: hugo-courses/netlify-cms-testing
-  branch: master
-  identity_url: "https://gotrue.d.odl.mit.edu"
-  gateway_url: "https://gitgateway.d.odl.mit.edu/18-06-linear-algebra-spring-2010"
-  site_domain: "trusting-snyder-003c24.netlify.com"
-accept_roles:
-  - admin
-  - editor
+    name: git-gateway
+    repo: hugo-courses/netlify-cms-testing
+    branch: master
+    identity_url: 'https://gotrue.d.odl.mit.edu'
+    gateway_url: 'https://gitgateway.d.odl.mit.edu/18-06-linear-algebra-spring-2010'
+    site_domain: 'https://trusting-snyder-003c24.netlify.com/'
+    accept_roles:
+        - admin
+        - editor
 publish_mode: editorial_workflow
-media_folder: "static/images/uploads"
-public_folder: "/public/images/uploads"
+media_folder: static/images/uploads
+public_folder: /public/images/uploads
 collections:
-  - name: "course-home"
-    label: "Course Home"
-    files:
-      - name: "course-home-content"
-        label: "Course Home Content"
-        file: "_index.md"
+    -
+        name: course-home
+        label: 'Course Home'
+        files:
+            - {name: course-home-content, label: 'Course Home Content', file: _index.md, fields: [{label: Body, name: body, widget: markdown}]}
+    -
+        name: course-section
+        label: 'Course Section'
+        folder: sections
+        create: true
+        slug: '{{slug}}'
         fields:
-          - { label: "Body", name: "body", widget: "markdown" }
-  - name: "course-section" # Used in routes, e.g., /admin/collections/blog
-    label: "Course Section" # Used in the UI
-    folder: "sections" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+            - {label: Title, name: title, widget: string}
+            - {label: Body, name: body, widget: markdown}
