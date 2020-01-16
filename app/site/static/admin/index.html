@@ -7,10 +7,12 @@
     <!-- Include the script that enables Netlify Identity on this page. -->
     <script src="https://identity.netlify.com/v1/netlify-identity.js"></script>
       <script>
-        netlifyIdentity.init({
-            APIUrl: "https://gotrue.d.odl.mit.edu",
-            container: "#netlify-identity"
-        });
+        $(document).ready(function() {
+            netlifyIdentity.init({
+                APIUrl: "https://gotrue.d.odl.mit.edu",
+                container: "#netlify-identity"
+            });
+        })
       </script>
   </head>
   <body>
