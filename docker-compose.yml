@@ -6,5 +6,5 @@ services:
     ports:
       - "3000:3000"
     volumes:
-      - ./app:/usr/share/app
+      - .:/usr/share/
     command: bash -c "yarn install && npm start"

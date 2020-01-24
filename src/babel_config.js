@@ -1,11 +1,9 @@
-const path = require("path");
+const path = require("path")
 
 module.exports = {
   babelSharedLoader: {
     test:    /\.jsx?$/,
-    include: [
-      path.resolve(__dirname, "src"),
-    ],
+    include: [path.resolve(__dirname, "src")],
     loader:  "babel-loader",
     query:   {
       presets: [

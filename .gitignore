@@ -47,7 +47,7 @@ node_modules
 yarn-debug.log*
 yarn-error.log*
 .yarn-integrity
-app/site/data/webpack.json
+site/data/webpack.json
 
 # Unit test / coverage reports
 htmlcov/

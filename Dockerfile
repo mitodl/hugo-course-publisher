@@ -6,14 +6,7 @@ RUN apt-get -qq update \
 	&& rm -rf /var/lib/apt/lists/ \
 	&& apt-get -qq clean
 
-RUN mkdir /home/node/scripts
-COPY ./app/scripts/install_yarn.js /home/node/scripts/install_yarn.js
-COPY ./app/package.json /home/node/package.json
-RUN node /home/node/scripts/install_yarn.js
-RUN mkdir -p /home/node/.cache/yarn
-RUN chown node:node /home/node/.cache/yarn
-
-# create working directory
-RUN mkdir /usr/share/app
-USER 1000
-WORKDIR /usr/share/app
+COPY ./package.json /usr/share/
+COPY ./yarn.lock /usr/share/
+WORKDIR /usr/share/
+RUN yarn install --pure-lockfile

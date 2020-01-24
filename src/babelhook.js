@@ -1,4 +1,4 @@
-const { babelSharedLoader } = require("../babel_config")
+const { babelSharedLoader } = require("./babel_config")
 
 babelSharedLoader.query.presets = ["@babel/env", "@babel/preset-react"]
 

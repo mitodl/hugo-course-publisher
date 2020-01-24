@@ -1,0 +1,12 @@
+
+{
+  "extends": "eslint-config-mitodl",
+  "settings": {
+    "react": {
+      "version": "16.4.0"
+    }
+  },
+  "rules": {
+      "no-unused-vars": 0
+  }
+}
