@@ -1,157 +1,143 @@
-@import 'imports/reset';
-@import 'variables';
-@import '~bootstrap/scss/bootstrap';
-$material-icons-font-path: '~material-icons/iconfont/';
-@import '~material-icons/iconfont/material-icons.scss';
-@import 'bootstrap-material-design';
+@import "imports/reset";
+@import "bootstrap-overrides";
+@import "variables";
+@import "~bootstrap/scss/bootstrap";
+
+$material-icons-font-path: "~material-icons/iconfont/";
+
+@import "~material-icons/iconfont/material-icons.scss";
+@import "bootstrap-material-design";
+@import "header";
 
 /* CUSTOM STYLES */
 
 body {
-    font-family: "Helvetica";
+  font-family: "Helvetica";
 }
 
 .outer-wrapper {
-    min-height: 100vh;
-    min-width: 335px;
-    max-width: 1440px;
-    margin: auto auto;
+  min-height: 100vh;
+  min-width: 335px;
+  margin: auto auto;
 }
 
 .medium-and-below-only {
-    @include media-breakpoint-up(lg) {
-        display: none;
-    }
+  @include media-breakpoint-up(lg) {
+    display: none;
+  }
 }
 
 .large-and-above-only {
-    @include media-breakpoint-down(md) {
-        display: none;
-    }
+  @include media-breakpoint-down(md) {
+    display: none;
+  }
 }
 
 .xl-and-above-only {
-    @include media-breakpoint-down(lg) {
-        display: none;
-    }
+  @include media-breakpoint-down(lg) {
+    display: none;
+  }
 }
 
 .course-background {
-    background: linear-gradient(to bottom, $dark-gray, $white);
-}
-
-.course-home-background {
-    @include media-breakpoint-up(lg) {
-        background: linear-gradient(to bottom, $dark-gray, $white);
-    }
-    @include media-breakpoint-down(md) {
-        background: $white;
-        background-image: url("../../site/static/images/course_image.jpg");
-        background-image: linear-gradient(to bottom, $transparent-black, $white, $white), url("../../site/static/images/course_image.jpg");
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-attachment: local;
-    }
+  background: linear-gradient(to bottom, $dark-gray, $white);
 }
 
 .course-image {
-    background-size: cover;
+  background-size: cover;
 }
 
 #search-box {
-    width: 300px;
+  width: 300px;
 }
 
 #ocw-logo-mobile {
-    width: 36px;
-    height: 36px;
-    top: 50%;
-    left: 50%;
-    margin-left: -18px;
-    margin-top: -18px;
+  width: 36px;
+  height: 36px;
+  top: 50%;
+  left: 50%;
+  margin-left: -18px;
+  margin-top: -18px;
 }
 
 /* BOOTSTRAP EXTENSIONS / OVERRIDES */
 
 nav {
-    @extend .nav;
+  @extend .nav;
 }
 
 nav > ul {
-    @extend .navbar-nav;
+  @extend .navbar-nav;
 }
 
 nav > ul > li {
-    @extend .nav-item;
+  @extend .nav-item;
 }
 
 nav > ul > li > a {
-    @extend .nav-link;
+  @extend .nav-link;
 }
 
 table {
-    @extend .table;
-}
-
-.border-dark {
-    border-color: $border-dark-color !important;
+  @extend .table;
 }
 
 .bg-light {
-    background-color: $light-gray !important;
+  background-color: $light-gray !important;
 }
 
 .bg-darker-gray {
-    background-color: $darker-gray;
+  background-color: $darker-gray;
 }
 
 .bg-white-desktop {
-    @include media-breakpoint-up(lg) {
-        background-color: $white !important;
-    }
+  @include media-breakpoint-up(lg) {
+    background-color: $white !important;
+  }
 }
 
 .text-white-mobile {
-    @include media-breakpoint-down(md) {
-        color: $white !important;
-    }
+  @include media-breakpoint-down(md) {
+    color: $white !important;
+  }
 }
 
 .bmd-drawer-f-l > .bmd-layout-drawer {
-    width: $drawer-width !important;
-    transform: translateX(-100vw);
+  width: $drawer-width !important;
+  transform: translateX(-100vw);
 }
 
 .container-fluid {
-    @extend .container-fluid;
-    @include media-breakpoint-down(md) {
-        padding-left: 0;
-        padding-right: 0;
-    }
+  @extend .container-fluid;
+
+  @include media-breakpoint-down(md) {
+    padding-left: 0;
+    padding-right: 0;
+  }
 }
 
 /* MATERIAL ICONS */
 
 .instructors-icon {
-    @include material-icon('school');
+  @include material-icon("school");
 }
 
 .department-icon {
-    @include material-icon('account_balance')
+  @include material-icon("account_balance");
 }
 
 .topics-icon {
-    @include material-icon('subject')
+  @include material-icon("subject");
 }
 
 .course-number-icon {
-    @include material-icon('account_balance')
+  @include material-icon("account_balance");
 }
 
 .term-icon {
-    @include material-icon('today')
+  @include material-icon("today");
 }
 
 .level-icon {
-    @include material-icon('equalizer')
+  @include material-icon("equalizer");
 }

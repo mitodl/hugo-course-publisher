@@ -1,0 +1,36 @@
+#desktop-header {
+  background-color: $bg-gray;
+
+  @include media-breakpoint-down(md) {
+    display: none;
+  }
+
+  .contents {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid $border-dark-color;
+
+    .bmd-form-group {
+      padding-top: 0;
+    }
+
+    .btn {
+      margin-bottom: 0;
+    }
+
+    .ocw-logo-placeholder {
+      height: 57px;
+      width: 418px;
+      background-color: $darker-gray;
+      color: white;
+      font-size: 17px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  }
+}
+
+#mobile-header {
+  border-bottom: 1px solid $border-dark-color;
+}
