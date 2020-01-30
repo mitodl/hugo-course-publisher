@@ -2,7 +2,6 @@ baseurl = ""
 languageCode = "en-us"
 languageLang = "en"
 title = "Hugo Course Publisher"
-theme = "hugo-course"
 relativeURLs = true
 
 # RSS, categories and tags disabled for an easy start
