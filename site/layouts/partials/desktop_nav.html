@@ -1,4 +1,4 @@
-{{ with .Site.Menus.main }}
+{{ with (index .Site.Menus .CurrentSection.Params.course_id) }}
 <div class="h-100 bg-white rounded">
     <nav>
         <ul class="m-auto pt-4 pb-4">
