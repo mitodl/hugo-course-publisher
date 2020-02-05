@@ -1,5 +1,5 @@
 <div id="course-nav" class="bmd-layout-drawer bg-faded bg-light medium-and-below-only">
-    {{ with .Site.Menus.main }}
+    {{ with (index .Site.Menus .CurrentSection.Params.course_id) }}
     <nav>
         <ul>
             {{ range . }}
