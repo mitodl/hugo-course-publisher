@@ -8,11 +8,26 @@ $material-icons-font-path: "~material-icons/iconfont/";
 @import "~material-icons/iconfont/material-icons.scss";
 @import "bootstrap-material-design";
 @import "header";
+@import "desktop-nav";
+@import "course-info";
 
 /* CUSTOM STYLES */
 
 body {
   font-family: "Helvetica";
+}
+
+a {
+  color: black;
+  text-decoration: underline;
+
+  &:visited {
+    color: black;
+  }
+
+  &:hover {
+    color: black;
+  }
 }
 
 .outer-wrapper {
@@ -37,10 +52,6 @@ body {
   @include media-breakpoint-down(lg) {
     display: none;
   }
-}
-
-.course-background {
-  background: linear-gradient(to bottom, $dark-gray, $white);
 }
 
 .course-image {
@@ -108,12 +119,8 @@ table {
 }
 
 .container-fluid {
-  @extend .container-fluid;
-
-  @include media-breakpoint-down(md) {
-    padding-left: 0;
-    padding-right: 0;
-  }
+  padding-left: 0;
+  padding-right: 0;
 }
 
 /* MATERIAL ICONS */
@@ -140,4 +147,12 @@ table {
 
 .level-icon {
   @include material-icon("equalizer");
+}
+
+.border-left-light {
+  border-left: 1px solid $border-light-color;
+}
+
+.border-bottom-light {
+  border-bottom: 1px solid $border-light-color;
 }

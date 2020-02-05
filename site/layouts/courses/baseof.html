@@ -1,41 +1,46 @@
 <!doctype html>
 <html lang="{{ $.Site.Language.Lang }}">
-
-<head>
+  <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <base
-        href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
+      href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
     <title>{{ $.Site.Title }}</title>
     {{ $stylesheet := .Site.Data.webpack.main }}
     {{ with $stylesheet.css }}
     <link href="{{ relURL . }}" rel="stylesheet">
     {{ end }}
-</head>
-
-<body>
+  </head>
+  <body>
     <div class="overflow-auto {{ if .IsHome }}course-home-background{{else}}course-background{{ end }}">
-        <div class="bmd-layout-container bmd-drawer-f-l bmd-drawer-overlay outer-wrapper">
-            {{ block "header" . }}{{ partial "header" . }}{{end}}
-            <div class="container-fluid">
-                <div class="row pt-3 outer-wrapper">
-                    <div class="col-lg-3 pl-5 pr-2 large-and-above-only">
-                        {{ partial "desktop_nav.html" . }}
+      <div class="bmd-layout-container bmd-drawer-f-l bmd-drawer-overlay outer-wrapper">
+        {{ block "header" . }}{{ partial "header" . }}{{end}}
+        <div class="container-fluid">
+          <div class="row outer-wrapper">
+            {{ partial "desktop_nav.html" . }}
+            <div id="main-content-wrapper" class="col-lg-9 p-0">
+              <main aria-role="main">
+                <div class="container-fluid p-0">
+                  {{ partial "mobile_nav_toggle.html" . }}
+                  <div class="row m-0">
+                    <div class="col-12 col-lg-8 col-xl-8 px-6 mt-6">
+                      {{ block "main" . }}{{end}}
                     </div>
-                    <div id="main-content-wrapper" class="col-lg-9 pl-lg-2 pr-lg-5">
-                        {{ block "main" . }}{{end}}
+                    <div class="col-12 col-lg-4 col-xl-4 px-6 mt-6 large-and-above-only border-left-light">
+                        {{ partial "course_info.html" .CurrentSection }}
                     </div>
+                  </div>
                 </div>
+              </main>
             </div>
+          </div>
         </div>
-
-        {{ block "footer" . }}{{ partial "footer" . }}{{end}}
-
-        {{ $script := .Site.Data.webpack.main }}
-        {{ with $script.js }}
-        <script src="{{ relURL . }}"></script>
-        {{ end }}
+      </div>
+      {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+      {{ $script := .Site.Data.webpack.main }}
+      {{ with $script.js }}
+      <script src="{{ relURL . }}"></script>
+      {{ end }}
     </div>
-</body>
-
+  </body>
 </html>

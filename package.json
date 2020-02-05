@@ -96,6 +96,7 @@
     "material-icons": "^0.3.1",
     "popper.js": "^1.16.0",
     "react-bootstrap": "^1.0.0-beta.15",
-    "react-hot-loader": "^4.12.17"
+    "react-hot-loader": "^4.12.17",
+    "tippy.js": "^5.2.0"
   }
 }

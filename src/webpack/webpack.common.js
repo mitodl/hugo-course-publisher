@@ -45,9 +45,8 @@ module.exports = {
       babelSharedLoader,
 
       {
-        test:    /\.(sa|sc|c)ss$/,
-        exclude: /node_modules/,
-        use:     [
+        test: /\.(sa|sc|c)ss$/,
+        use:  [
           "style-loader",
           {
             loader:  MiniCssExtractPlugin.loader,
