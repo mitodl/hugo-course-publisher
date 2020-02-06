@@ -10,7 +10,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/8e9af01a2cfe9dbc13a8b2e8b431b26d_Lecture_29.jpg)  | <br><br>1.  Spectrochemical Series: Geometry Makes a Difference<br>2.  Crystal Field Theory: Tetrahedral Case<br>3.  Crystal Field Theory: Square Planar Case<br>4.  Other Geometries and Applications<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/8e9af01a2cfe9dbc13a8b2e8b431b26d_Lecture_29.jpg)  | {{< br >}}{{< br >}}1.  Spectrochemical Series: Geometry Makes a Difference{{< br >}}2.  Crystal Field Theory: Tetrahedral Case{{< br >}}3.  Crystal Field Theory: Square Planar Case{{< br >}}4.  Other Geometries and Applications{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

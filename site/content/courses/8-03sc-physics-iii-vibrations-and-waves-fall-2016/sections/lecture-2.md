@@ -10,7 +10,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/d84c4840774099632dde60e238f0fcc8_L2.jpg) | <br><br>*   Energy conservation<br>*   Damped harmonic oscillators<br>*   Small angle approximation<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/d84c4840774099632dde60e238f0fcc8_L2.jpg) | {{< br >}}{{< br >}}*   Energy conservation{{< br >}}*   Damped harmonic oscillators{{< br >}}*   Small angle approximation{{< br >}}{{< br >}} 
 
 Lecture Video: Damped Free Oscillators
 --------------------------------------
@@ -34,10 +34,10 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Oscillating Steel Ball on a Track](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2012&show=0) | <br><br>,<br><br>, and<br><br> |
-| [Physical Pendulum](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%207&show=0) | <br><br> |
-| [Damped and Undamped Masses on a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2011&show=0) | <br><br>,<br><br>,<br><br>,<br><br>, and<br><br> |
-| [Driven Torsional Balance Oscillator](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2060&show=0) | <br><br> 
+| [Oscillating Steel Ball on a Track](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2012&show=0) | {{< br >}}{{< br >}},{{< br >}}{{< br >}}, and{{< br >}}{{< br >}} |
+| [Physical Pendulum](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%207&show=0) | {{< br >}}{{< br >}} |
+| [Damped and Undamped Masses on a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2011&show=0) | {{< br >}}{{< br >}},{{< br >}}{{< br >}},{{< br >}}{{< br >}},{{< br >}}{{< br >}}, and{{< br >}}{{< br >}} |
+| [Driven Torsional Balance Oscillator](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2060&show=0) | {{< br >}}{{< br >}} 
 
 Related Resources
 -----------------

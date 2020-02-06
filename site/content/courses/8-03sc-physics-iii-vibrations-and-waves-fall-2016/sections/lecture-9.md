@@ -10,7 +10,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/991859ebf14808a879da7c0fde7b8bb6_L9.jpg) | <br><br>*   Standing waves<br>*   Vibrating string<br>*   Wave equation<br>*   Fourier series<br>*   Fourier decomposition<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/991859ebf14808a879da7c0fde7b8bb6_L9.jpg) | {{< br >}}{{< br >}}*   Standing waves{{< br >}}*   Vibrating string{{< br >}}*   Wave equation{{< br >}}*   Fourier series{{< br >}}*   Fourier decomposition{{< br >}}{{< br >}} 
 
 Lecture Video: Wave Equation, Standing Waves, Fourier Series
 ------------------------------------------------------------
@@ -50,8 +50,8 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | <br><br>and<br><br> |
-| [Rijke Tube](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2065&show=0) | <br><br> 
+| [Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} |
+| [Rijke Tube](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2065&show=0) | {{< br >}}{{< br >}} 
 
 Related Resources
 -----------------

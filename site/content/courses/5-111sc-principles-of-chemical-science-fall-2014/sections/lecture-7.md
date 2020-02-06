@@ -10,7 +10,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/8bab447c53bd0e6aa15b48f68a9ca9a1_Lecture_7.jpg)  | <br><br>1.  Wavefunctions and Binding Energies for Multi-electron Atoms<br>2.  Electron Configurations<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/8bab447c53bd0e6aa15b48f68a9ca9a1_Lecture_7.jpg)  | {{< br >}}{{< br >}}1.  Wavefunctions and Binding Energies for Multi-electron Atoms{{< br >}}2.  Electron Configurations{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

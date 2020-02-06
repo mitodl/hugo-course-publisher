@@ -26,10 +26,11 @@ menu:
 
 ##### Course Features
 
-* [AV special element video]({{< ref "sections/tools" >}})
-* [AV lectures]({{< ref "sections/video-lectures" >}})
-* [Assignments]({{< ref "sections/assignments" >}})
-* [Exams]({{< ref "sections/exams" >}})
+* [AV special element video](tools)
+* [AV lectures](video-lectures)
+* [Assignments](assignments)
+* [Exams](exams)
+* [Instructor Insights](index.htm)
 
 ##### Course Collections
 

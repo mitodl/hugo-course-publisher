@@ -10,7 +10,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c34c8fe74e0fb8e9ce9f3776157b8c52_Lecture_6.jpg)  | <br><br>1.  Wavefunctions (Orbitals) for the Hydrogen Atom<br>2.  Shape and Size of S and P Orbitals<br>3.  Electron Spin and the Pauli Exclusion Principle<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c34c8fe74e0fb8e9ce9f3776157b8c52_Lecture_6.jpg)  | {{< br >}}{{< br >}}1.  Wavefunctions (Orbitals) for the Hydrogen Atom{{< br >}}2.  Shape and Size of S and P Orbitals{{< br >}}3.  Electron Spin and the Pauli Exclusion Principle{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

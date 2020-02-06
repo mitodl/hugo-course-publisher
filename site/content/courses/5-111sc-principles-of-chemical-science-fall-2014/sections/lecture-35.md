@@ -10,7 +10,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/e6f283be288a8bf147c57e02f3d526d5_Lecture_35.jpg)  | <br><br>1.  Review of Course Material<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/e6f283be288a8bf147c57e02f3d526d5_Lecture_35.jpg)  | {{< br >}}{{< br >}}1.  Review of Course Material{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

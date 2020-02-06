@@ -10,7 +10,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/cde5b72f91b5fd90387f89c1030110ed_L19.jpg) | <br><br>*   Waves in medium<br>*   Refraction index<br>*   Brewster’s angle<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/cde5b72f91b5fd90387f89c1030110ed_L19.jpg) | {{< br >}}{{< br >}}*   Waves in medium{{< br >}}*   Refraction index{{< br >}}*   Brewster’s angle{{< br >}}{{< br >}} 
 
 Lecture Video: Waves in Medium
 ------------------------------
@@ -39,7 +39,7 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Brewster's Angle](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%203&show=0) | <br><br>and<br><br> 
+| [Brewster's Angle](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%203&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} 
 
 Related Resources
 -----------------

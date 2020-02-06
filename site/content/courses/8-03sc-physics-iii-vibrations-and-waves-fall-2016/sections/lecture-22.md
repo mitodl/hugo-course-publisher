@@ -10,7 +10,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/22a8147d79136d7b0ef332e027414772_L22.jpg) | <br><br>*   Huygens Principle<br>*   Diffraction<br>*   Resolution of a telescope<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/22a8147d79136d7b0ef332e027414772_L22.jpg) | {{< br >}}{{< br >}}*   Huygens Principle{{< br >}}*   Diffraction{{< br >}}*   Resolution of a telescope{{< br >}}{{< br >}} 
 
 Lecture Video: Diffraction, Resolution
 --------------------------------------
@@ -40,7 +40,7 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Single-Slit Diffraction with a Laser](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%202&show=0) | <br><br> 
+| [Single-Slit Diffraction with a Laser](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%202&show=0) | {{< br >}}{{< br >}} 
 
 Related Resources
 -----------------

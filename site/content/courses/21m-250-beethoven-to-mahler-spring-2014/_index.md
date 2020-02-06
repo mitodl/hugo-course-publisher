@@ -28,7 +28,9 @@ menu:
 
 ##### Course Features
 
-* [Lecture notes]({{< ref "sections/lecture-notes" >}})
+* [Lecture notes](lecture-notes)
+* [This Course at MIT](instructor-insights)
+* [Assignments]()
 
 ##### Course Collections
 

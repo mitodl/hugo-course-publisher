@@ -15,10 +15,10 @@ menu:
     *   | begin | // T1 |
         | A = 100 |   |
         | B = 50 |   |
-        | commit | // At commit: A=100; B=50 |<br><br>| begin | // T2 |
+        | commit | // At commit: A=100; B=50 |{{< br >}}{{< br >}}| begin | // T2 |
         | A = A - 20 |   |
         | B = B + 20 |   |
-        | commit | // At commit: A=80; B=70 |<br><br>| begin | // T3 |
+        | commit | // At commit: A=80; B=70 |{{< br >}}{{< br >}}| begin | // T3 |
         | A = A + 30 |   |
         | —CRASH— |   
     *   Problem: A = 110, but T3 didn't commit. We need to revert.

@@ -10,7 +10,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/3b03d54d9e226ece0930e783d1d2b15c_Lecture_26.jpg)  | <br><br>1.  Relationship between Cell Potential and Gibbs Free Energy<br>2.  Meaning of Standard Reduction Potentials<br>3.  Nernst Equation<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/3b03d54d9e226ece0930e783d1d2b15c_Lecture_26.jpg)  | {{< br >}}{{< br >}}1.  Relationship between Cell Potential and Gibbs Free Energy{{< br >}}2.  Meaning of Standard Reduction Potentials{{< br >}}3.  Nernst Equation{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

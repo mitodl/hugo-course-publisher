@@ -10,7 +10,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/47b1c287f5b54b79376b22a21355a706_Lecture_21.jpg)  | <br><br>1.  Definitions and Relationships between pKw, pH, and pOH<br>2.  Strengths of Acids and Bases<br>3.  Equilibrium Acid-Base Problems (Weak Acids and Weak Bases)<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/47b1c287f5b54b79376b22a21355a706_Lecture_21.jpg)  | {{< br >}}{{< br >}}1.  Definitions and Relationships between pKw, pH, and pOH{{< br >}}2.  Strengths of Acids and Bases{{< br >}}3.  Equilibrium Acid-Base Problems (Weak Acids and Weak Bases){{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

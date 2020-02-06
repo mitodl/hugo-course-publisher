@@ -10,7 +10,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/06337701e25b8505de8164455c04c620_Lecture_27.jpg)  | <br><br>1.  d-Block Metals or Transition Metals<br>2.  Coordination Complexes (Chelate Effect, Shapes, Isomers)<br>3.  d-Orbital Counting and d-Orbitals<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/06337701e25b8505de8164455c04c620_Lecture_27.jpg)  | {{< br >}}{{< br >}}1.  d-Block Metals or Transition Metals{{< br >}}2.  Coordination Complexes (Chelate Effect, Shapes, Isomers){{< br >}}3.  d-Orbital Counting and d-Orbitals{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

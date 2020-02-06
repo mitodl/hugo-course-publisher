@@ -44,9 +44,11 @@ menu:
 
 ##### Course Features
 
-* [AV faculty introductions]({{< ref "sections/syllabus" >}})
-* [Assignments]({{< ref "sections/assignments" >}})
-* [Exams]({{< ref "sections/exams" >}})
+* [AV selected lectures](thermo-propulsion#video)
+* [AV faculty introductions](syllabus)
+* [AV special element video](systems-labs-04#video)
+* [Assignments](assignments)
+* [Exams](exams)
 
 ##### Course Collections
 

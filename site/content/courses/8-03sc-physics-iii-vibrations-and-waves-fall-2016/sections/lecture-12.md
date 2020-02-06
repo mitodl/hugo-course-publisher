@@ -10,7 +10,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/a7477ca5a6aba6bde7d070489f7f75a6_L12.jpg) | <br><br>*   Maxwell’s equation<br>*   Light<br>*   Electromagnetic waves<br>*   Speed of light<br>*   Standing electromagnetic waves<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/a7477ca5a6aba6bde7d070489f7f75a6_L12.jpg) | {{< br >}}{{< br >}}*   Maxwell’s equation{{< br >}}*   Light{{< br >}}*   Electromagnetic waves{{< br >}}*   Speed of light{{< br >}}*   Standing electromagnetic waves{{< br >}}{{< br >}} 
 
 Lecture Video: Maxwell's Equation, Electromagnetic Waves
 --------------------------------------------------------

@@ -129,9 +129,9 @@ The class consists of three components: technical material, communication/system
 
 | ACTIVITIES | PERCENTAGES |
 | --- | --- |
-| <br><br>_Technical Material_<br><br>30% for Quizzes (two @ 15% each)<br><br>5% for Hands-Ons<br><br> | 35% |
-| <br><br>### Communication + System Design and Analysis<br><br>10% for Design Project (DP) Preliminary Report and Presentation<br><br>20% for DP report<br><br>4% for DP Peer Review<br><br>6% for Critiques (Critique #1 =2%, Critique #2 = 4%)<br><br> | 40% |
-| <br><br>### Participation<br><br>20% for Recitation Participation<br><br>5% for Communication Participation<br><br> | 25% 
+| {{< br >}}{{< br >}}_Technical Material_{{< br >}}{{< br >}}30% for Quizzes (two @ 15% each){{< br >}}{{< br >}}5% for Hands-Ons{{< br >}}{{< br >}} | 35% |
+| {{< br >}}{{< br >}}### Communication + System Design and Analysis{{< br >}}{{< br >}}10% for Design Project (DP) Preliminary Report and Presentation{{< br >}}{{< br >}}20% for DP report{{< br >}}{{< br >}}4% for DP Peer Review{{< br >}}{{< br >}}6% for Critiques (Critique #1 =2%, Critique #2 = 4%){{< br >}}{{< br >}} | 40% |
+| {{< br >}}{{< br >}}### Participation{{< br >}}{{< br >}}20% for Recitation Participation{{< br >}}{{< br >}}5% for Communication Participation{{< br >}}{{< br >}} | 25% 
 
 You must complete all design project assignments in order to pass 6.033. If you do not, you will automatically receive an F.
 

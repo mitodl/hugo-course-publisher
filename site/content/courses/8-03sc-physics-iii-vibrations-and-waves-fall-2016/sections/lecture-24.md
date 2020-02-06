@@ -10,7 +10,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/d1a879b8f068df595bebf1afe04e356b_L24.jpg) | <br><br>Final exam covers Lectures 1 through 23<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/d1a879b8f068df595bebf1afe04e356b_L24.jpg) | {{< br >}}{{< br >}}Final exam covers Lectures 1 through 23{{< br >}}{{< br >}} 
 
 Lecture Video: Review for Final Exam
 ------------------------------------

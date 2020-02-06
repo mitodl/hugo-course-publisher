@@ -10,7 +10,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/af4d350d34ab0849ef969550987d4a7c_Lecture_28.jpg)  | <br><br>1.  Introduction to Crystal Field Theory<br>2.  Crystal Field Theory: Octahedral Case<br>3.  Spectrochemical Series: the Ligand to the Metal Matters<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/af4d350d34ab0849ef969550987d4a7c_Lecture_28.jpg)  | {{< br >}}{{< br >}}1.  Introduction to Crystal Field Theory{{< br >}}2.  Crystal Field Theory: Octahedral Case{{< br >}}3.  Spectrochemical Series: the Ligand to the Metal Matters{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

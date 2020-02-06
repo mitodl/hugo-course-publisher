@@ -10,7 +10,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/ee1a3cb5313f6877bcae63215b0e5a2d_L11.jpg) | <br><br>*   Sound waves<br>*   Longitudinal wave<br>*   Wave equation<br>*   Speed of sound<br>*   Adiabatic process<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/ee1a3cb5313f6877bcae63215b0e5a2d_L11.jpg) | {{< br >}}{{< br >}}*   Sound waves{{< br >}}*   Longitudinal wave{{< br >}}*   Wave equation{{< br >}}*   Speed of sound{{< br >}}*   Adiabatic process{{< br >}}{{< br >}} 
 
 Lecture Video: Sound Waves
 --------------------------
@@ -48,8 +48,8 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Standing Sound Waves in a Glass Tube](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2052&show=0) | <br><br> |
-| [Helium Balloon](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2048&show=0) | <br><br> 
+| [Standing Sound Waves in a Glass Tube](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2052&show=0) | {{< br >}}{{< br >}} |
+| [Helium Balloon](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2048&show=0) | {{< br >}}{{< br >}} 
 
 Related Resources
 -----------------

@@ -99,12 +99,12 @@ Calendar
 | WEEK # | CLASSES | LABS | ASSIGNMENTS DUE\* |
 | --- | --- | --- | --- |
 | 1 | Lecture 1. Introduction: Energy, units, estimation, energy usage world-wide | Lab 1. Human Power | Problem Set 0 (Lantern) |
-| 2 | <br><br>Lecture 2. Energy storage & micro grids<br><br>Initial trip planning<br><br> | Lab 2. Energy Storage | <br><br>Reading reaction<br><br>Problem Set 1<br><br>Lab 1 write-up<br><br>Trip project survey<br><br> |
-| 3 | <br><br>Lecture 3. Lighting<br><br>Community partner introduction<br><br> | Lab 3. Biogas & biodiesel lecture & construction | <br><br>Problem Set 2<br><br>Lab 2 write-up<br><br> |
-| 4 | <br><br>Lecture 4. Solar thermal & PV<br><br>Quiz I<br><br> | Lab 4. Solar panel construction, installation, and operation | <br><br>Reading reaction<br><br>Community partner outreach<br><br> |
-| 5 | <br><br>Lecture 5. Wind & micro-hydro<br><br>Trip planning<br><br> | Lab 5. Savonius wind turbine construction & testing | <br><br>Reading reaction<br><br>Problem Set 3<br><br>Lab 4 write-up<br><br>1st brainstorm pictures<br><br>Literature search<br><br> |
-| 6 | <br><br>Lecture 6. Cooking, stoves, & fuel<br><br>Biogas digester testing<br><br> | Lab 6. Charcoal making & stove testing | <br><br>Reading reaction<br><br>Lab 3 and Lab 5 write-ups<br><br>Initial project specifications<br><br>2nd brainstorm pictures<br><br>Materials list for trip<br><br> |
-| 7 | Lecture 7. Trip plan presentations | Trip preparation | <br><br>Lab 6 write-up<br><br>Revised project specifications<br><br>Revised 2nd brainstorm pictures<br><br>Trip questions<br><br> |
+| 2 | {{< br >}}{{< br >}}Lecture 2. Energy storage & micro grids{{< br >}}{{< br >}}Initial trip planning{{< br >}}{{< br >}} | Lab 2. Energy Storage | {{< br >}}{{< br >}}Reading reaction{{< br >}}{{< br >}}Problem Set 1{{< br >}}{{< br >}}Lab 1 write-up{{< br >}}{{< br >}}Trip project survey{{< br >}}{{< br >}} |
+| 3 | {{< br >}}{{< br >}}Lecture 3. Lighting{{< br >}}{{< br >}}Community partner introduction{{< br >}}{{< br >}} | Lab 3. Biogas & biodiesel lecture & construction | {{< br >}}{{< br >}}Problem Set 2{{< br >}}{{< br >}}Lab 2 write-up{{< br >}}{{< br >}} |
+| 4 | {{< br >}}{{< br >}}Lecture 4. Solar thermal & PV{{< br >}}{{< br >}}Quiz I{{< br >}}{{< br >}} | Lab 4. Solar panel construction, installation, and operation | {{< br >}}{{< br >}}Reading reaction{{< br >}}{{< br >}}Community partner outreach{{< br >}}{{< br >}} |
+| 5 | {{< br >}}{{< br >}}Lecture 5. Wind & micro-hydro{{< br >}}{{< br >}}Trip planning{{< br >}}{{< br >}} | Lab 5. Savonius wind turbine construction & testing | {{< br >}}{{< br >}}Reading reaction{{< br >}}{{< br >}}Problem Set 3{{< br >}}{{< br >}}Lab 4 write-up{{< br >}}{{< br >}}1st brainstorm pictures{{< br >}}{{< br >}}Literature search{{< br >}}{{< br >}} |
+| 6 | {{< br >}}{{< br >}}Lecture 6. Cooking, stoves, & fuel{{< br >}}{{< br >}}Biogas digester testing{{< br >}}{{< br >}} | Lab 6. Charcoal making & stove testing | {{< br >}}{{< br >}}Reading reaction{{< br >}}{{< br >}}Lab 3 and Lab 5 write-ups{{< br >}}{{< br >}}Initial project specifications{{< br >}}{{< br >}}2nd brainstorm pictures{{< br >}}{{< br >}}Materials list for trip{{< br >}}{{< br >}} |
+| 7 | Lecture 7. Trip plan presentations | Trip preparation | {{< br >}}{{< br >}}Lab 6 write-up{{< br >}}{{< br >}}Revised project specifications{{< br >}}{{< br >}}Revised 2nd brainstorm pictures{{< br >}}{{< br >}}Trip questions{{< br >}}{{< br >}} |
 | 8 | Spring break trip to Nicaragua and El Salvador community partners 
 
 \* Assignments are due each week on the Lab day unless otherwise noted. Students should anticipate spending 6 hours per week on assignments, including listening to no less than one ~20-minute Spanish podcast/week.
@@ -113,10 +113,10 @@ Calendar
 
 | WEEK # | CLASS TOPICS & PROJECT WORK | Project Milestones |
 | --- | --- | --- |
-| 9 | <br><br>Lecture 8. Design Process<br><br>Trip presentations, project evaluations<br><br>Team formation & brainstorming<br><br> | <br><br>Trip report<br><br>Select project<br><br>Team roles assigned<br><br> |
-| 10 | <br><br>Quiz 2<br><br>Librarian visit<br><br>Experimentation overview<br><br> | <br><br>Concept review<br><br>Wiki Design Notebook report: best brainstormed ideas, Pugh charts<br><br>Project specifications due<br><br> |
-| 11 | <br><br>System-level design<br><br> | <br><br>System spec review<br><br>Wiki Design Notebook report: sketch models & experimentation<br><br> |
-| 12 | <br><br>Detailed design and build<br><br>Initial design review presentations<br><br> | <br><br>Critical design review with initial working prototype<br><br>Wiki Design Notebook report<br><br> |
+| 9 | {{< br >}}{{< br >}}Lecture 8. Design Process{{< br >}}{{< br >}}Trip presentations, project evaluations{{< br >}}{{< br >}}Team formation & brainstorming{{< br >}}{{< br >}} | {{< br >}}{{< br >}}Trip report{{< br >}}{{< br >}}Select project{{< br >}}{{< br >}}Team roles assigned{{< br >}}{{< br >}} |
+| 10 | {{< br >}}{{< br >}}Quiz 2{{< br >}}{{< br >}}Librarian visit{{< br >}}{{< br >}}Experimentation overview{{< br >}}{{< br >}} | {{< br >}}{{< br >}}Concept review{{< br >}}{{< br >}}Wiki Design Notebook report: best brainstormed ideas, Pugh charts{{< br >}}{{< br >}}Project specifications due{{< br >}}{{< br >}} |
+| 11 | {{< br >}}{{< br >}}System-level design{{< br >}}{{< br >}} | {{< br >}}{{< br >}}System spec review{{< br >}}{{< br >}}Wiki Design Notebook report: sketch models & experimentation{{< br >}}{{< br >}} |
+| 12 | {{< br >}}{{< br >}}Detailed design and build{{< br >}}{{< br >}}Initial design review presentations{{< br >}}{{< br >}} | {{< br >}}{{< br >}}Critical design review with initial working prototype{{< br >}}{{< br >}}Wiki Design Notebook report{{< br >}}{{< br >}} |
 | 13 | Testing and refinement | Wiki Design Notebook report |
-| 14 | <br><br>Testing and refinement<br><br>Final design review presentations<br><br> | Final presentation and review at the D-Lab Showcase |
+| 14 | {{< br >}}{{< br >}}Testing and refinement{{< br >}}{{< br >}}Final design review presentations{{< br >}}{{< br >}} | Final presentation and review at the D-Lab Showcase |
 | 15 | Production ramp-up | Final project report & team assessment

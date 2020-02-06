@@ -40,7 +40,7 @@ The csv file [FluTrain (CSV)](https://open-learning-course-data.s3.amazonaws.com
 
 Before applying analytics tools on the training set, we first need to understand the data at hand. Load "FluTrain.csv" into a data frame called FluTrain. Looking at the time period 2004-2011, which week corresponds to the highest percentage of ILI-related physician visits? Select the day of the month corresponding to the start of this week.
 
-| <br><br>Exercise 1<br><br>&nbsp; January February March April May June July August September October November December October&nbsp;<br><br><br><br><br><br> | <br><br>Exercise 2<br><br>&nbsp; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 18&nbsp;<br><br><br><br><br><br> | <br><br>Exercise 3<br><br>&nbsp; 2004 2005 2006 2007 2008 2009 2010 2011 2009&nbsp;<br><br><br><br><br><br> 
+| {{< br >}}{{< br >}}Exercise 1{{< br >}}{{< br >}}&nbsp; January February March April May June July August September October November December October&nbsp;{{< br >}}{{< br >}}{{< br >}}{{< br >}}{{< br >}}{{< br >}} | {{< br >}}{{< br >}}Exercise 2{{< br >}}{{< br >}}&nbsp; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 18&nbsp;{{< br >}}{{< br >}}{{< br >}}{{< br >}}{{< br >}}{{< br >}} | {{< br >}}{{< br >}}Exercise 3{{< br >}}{{< br >}}&nbsp; 2004 2005 2006 2007 2008 2009 2010 2011 2009&nbsp;{{< br >}}{{< br >}}{{< br >}}{{< br >}}{{< br >}}{{< br >}} 
 
 Explanation
 
@@ -48,8 +48,8 @@ We can limit FluTrain to the observations that obtain the maximum ILI value with
 
 Which week corresponds to the highest percentage of ILI-related query fraction?
 
-| <br><br>Exercise 4<br><br>&nbsp; January February March April May June July August September October November December October&nbsp;<br><br><br><br><br><br> | <br><br>Exercise 5<br><br>&nbsp; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 18&nbsp;<br><br><br><br><br><br> | <br><br>Exercise 6<br><br>&nbsp; 2004 2005 2006 2007 2008 2009 2010 2011 2009&nbsp;<br><br><br><br><br><br> |
-|   |   | <br><br>CheckShow Answer<br><br> 
+| {{< br >}}{{< br >}}Exercise 4{{< br >}}{{< br >}}&nbsp; January February March April May June July August September October November December October&nbsp;{{< br >}}{{< br >}}{{< br >}}{{< br >}}{{< br >}}{{< br >}} | {{< br >}}{{< br >}}Exercise 5{{< br >}}{{< br >}}&nbsp; 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 18&nbsp;{{< br >}}{{< br >}}{{< br >}}{{< br >}}{{< br >}}{{< br >}} | {{< br >}}{{< br >}}Exercise 6{{< br >}}{{< br >}}&nbsp; 2004 2005 2006 2007 2008 2009 2010 2011 2009&nbsp;{{< br >}}{{< br >}}{{< br >}}{{< br >}}{{< br >}}{{< br >}} |
+|   |   | {{< br >}}{{< br >}}CheckShow Answer{{< br >}}{{< br >}} 
 
 Explanation
 

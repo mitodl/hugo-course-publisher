@@ -10,7 +10,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/030c450167ae4d83deaa71626be2bb92_Lecture_4.jpg)  | <br><br>1.  Light as a Particle (continued)<br>2.  Matter as a Wave<br>3.  The Schrödinger Equation<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/030c450167ae4d83deaa71626be2bb92_Lecture_4.jpg)  | {{< br >}}{{< br >}}1.  Light as a Particle (continued){{< br >}}2.  Matter as a Wave{{< br >}}3.  The Schrödinger Equation{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

@@ -24,8 +24,12 @@ menu:
 
 ##### Course Features
 
-* [Instructor Insights]({{< ref "sections/instructor-insights" >}})
-* [Resource Index]({{< ref "sections/resource-index" >}})
+* [AV lectures](index.htm)
+* [Exams](index.htm)
+* [Lecture notes](index.htm)
+* [Instructor Insights](instructor-insights)
+* [Resource Index](resource-index)
+* [Assignments](index.htm)
 
 ##### Course Collections
 

@@ -22,15 +22,15 @@ Texts
 
 | ASSIGNMENTS | RELATED READINGS |
 | --- | --- |
-| Assignment 1 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps1.pdf)) | <br><br>Griffiths, chapter 5.3<br><br>Cohen-Tannoudji, chapter XI, Complement F<br><br> |
-| Assignment 2 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps2.pdf)) | <br><br>Griffiths, section 10.2.4<br><br>Cohen-Tannoudji, chapter VI, Complement E<br><br>Sakurai, pp. 130-39<br><br> |
-| Assignment 3 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps3.pdf)) | <br><br>Griffiths, section 10.2.4<br><br>Cohen-Tannoudji, chapter VI, Complement E<br><br>Sakurai, pp. 130-39<br><br> |
-| Assignment 4 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps4.pdf)) | <br><br>Griffiths, sections 6.1, 6.2<br><br>Cohen-Tannoudji, chapter XI<br><br> |
-| Assignment 5 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps5.pdf)) | <br><br>Griffiths, chapter 6<br><br>Cohen-Tannoudji, chapter XI, Complements A-D<br><br> |
-| Assignment 6 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps6.pdf)) | <br><br>Griffiths, chapter 6<br><br>Cohen-Tannoudji, chapters XI, Complements A-D, chapter XII<br><br> |
-| Assignment 7 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps7.pdf)) | <br><br>Griffiths, chapters 7, 8<br><br>Cohen-Tannoudji, chapter XI, Complements E, F, G<br><br> |
-| Assignment 8 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps8.pdf)) | <br><br>Griffiths, chapters 8, 10<br><br>Haxton, W. C. "The Solar Neutrino Problem." _Annual Review of Astronomy and Astrophysics_ 33 (1995): 459-503.<br><br> |
-| Assignment 9 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps9.pdf)) | <br><br>Cohen-Tannoudji, chapter VIII<br><br>Griffiths, chapter 11<br><br>Ohanian, chapter 11<br><br> |
-| Assignment 10 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps10.pdf)) | <br><br>Cohen-Tannoudji, chapter VIII<br><br>Griffiths, chapters 9, 11<br><br>Ohanian, chapter 11<br><br> 
+| Assignment 1 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps1.pdf)) | {{< br >}}{{< br >}}Griffiths, chapter 5.3{{< br >}}{{< br >}}Cohen-Tannoudji, chapter XI, Complement F{{< br >}}{{< br >}} |
+| Assignment 2 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps2.pdf)) | {{< br >}}{{< br >}}Griffiths, section 10.2.4{{< br >}}{{< br >}}Cohen-Tannoudji, chapter VI, Complement E{{< br >}}{{< br >}}Sakurai, pp. 130-39{{< br >}}{{< br >}} |
+| Assignment 3 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps3.pdf)) | {{< br >}}{{< br >}}Griffiths, section 10.2.4{{< br >}}{{< br >}}Cohen-Tannoudji, chapter VI, Complement E{{< br >}}{{< br >}}Sakurai, pp. 130-39{{< br >}}{{< br >}} |
+| Assignment 4 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps4.pdf)) | {{< br >}}{{< br >}}Griffiths, sections 6.1, 6.2{{< br >}}{{< br >}}Cohen-Tannoudji, chapter XI{{< br >}}{{< br >}} |
+| Assignment 5 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps5.pdf)) | {{< br >}}{{< br >}}Griffiths, chapter 6{{< br >}}{{< br >}}Cohen-Tannoudji, chapter XI, Complements A-D{{< br >}}{{< br >}} |
+| Assignment 6 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps6.pdf)) | {{< br >}}{{< br >}}Griffiths, chapter 6{{< br >}}{{< br >}}Cohen-Tannoudji, chapters XI, Complements A-D, chapter XII{{< br >}}{{< br >}} |
+| Assignment 7 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps7.pdf)) | {{< br >}}{{< br >}}Griffiths, chapters 7, 8{{< br >}}{{< br >}}Cohen-Tannoudji, chapter XI, Complements E, F, G{{< br >}}{{< br >}} |
+| Assignment 8 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps8.pdf)) | {{< br >}}{{< br >}}Griffiths, chapters 8, 10{{< br >}}{{< br >}}Haxton, W. C. "The Solar Neutrino Problem." _Annual Review of Astronomy and Astrophysics_ 33 (1995): 459-503.{{< br >}}{{< br >}} |
+| Assignment 9 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps9.pdf)) | {{< br >}}{{< br >}}Cohen-Tannoudji, chapter VIII{{< br >}}{{< br >}}Griffiths, chapter 11{{< br >}}{{< br >}}Ohanian, chapter 11{{< br >}}{{< br >}} |
+| Assignment 10 ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/ps10.pdf)) | {{< br >}}{{< br >}}Cohen-Tannoudji, chapter VIII{{< br >}}{{< br >}}Griffiths, chapters 9, 11{{< br >}}{{< br >}}Ohanian, chapter 11{{< br >}}{{< br >}} 
 
 Optional Problem Set ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/assignments/opt_prob_10.pdf))

@@ -10,7 +10,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/70f20273f28b430235bfd08189ec3cbd_Lecture_5.jpg)  | <br><br>1.  Binding Energies of the Electron to the Nucleus for a Hydrogen Atom<br>2.  Verification of Hydrogen-Atom Energy Levels<br>    1.  Photon Emission<br>    2.  Photon Absorption<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/70f20273f28b430235bfd08189ec3cbd_Lecture_5.jpg)  | {{< br >}}{{< br >}}1.  Binding Energies of the Electron to the Nucleus for a Hydrogen Atom{{< br >}}2.  Verification of Hydrogen-Atom Energy Levels{{< br >}}    1.  Photon Emission{{< br >}}    2.  Photon Absorption{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

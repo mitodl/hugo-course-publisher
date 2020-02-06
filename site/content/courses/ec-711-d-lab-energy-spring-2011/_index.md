@@ -43,6 +43,13 @@ menu:
 
 ##### Course Features
 
+* [Assignments]()
+* [Projects]()
+* [AV lectures]()
+* [AV special element video]()
+* [Assignments]()
+* [Assignments]()
+* [Assignments]()
 
 ##### Course Collections
 

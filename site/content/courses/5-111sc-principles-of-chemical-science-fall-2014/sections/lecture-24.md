@@ -10,7 +10,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/ed15682286b62727bd7ba26ef9e17d36_Lecture_24.jpg)  | <br><br>1.  Acid-Base Titrations<br>    1.  Titration of Weak Acid with Strong Base (continued)<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/ed15682286b62727bd7ba26ef9e17d36_Lecture_24.jpg)  | {{< br >}}{{< br >}}1.  Acid-Base Titrations{{< br >}}    1.  Titration of Weak Acid with Strong Base (continued){{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

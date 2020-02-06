@@ -10,7 +10,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/edd4f83c96c80e429689e7209e9198f0_Lecture_25.jpg)  | <br><br>1.  Introduction to Oxidation-Reduction (Redox) Reactions<br>2.  Balancing Redox Reactions<br>3.  Electrochemical Cells<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/edd4f83c96c80e429689e7209e9198f0_Lecture_25.jpg)  | {{< br >}}{{< br >}}1.  Introduction to Oxidation-Reduction (Redox) Reactions{{< br >}}2.  Balancing Redox Reactions{{< br >}}3.  Electrochemical Cells{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

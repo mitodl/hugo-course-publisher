@@ -10,7 +10,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/f79945bfeea47ad463e2a7f0b9b07a34_Lecture_10.jpg)  | <br><br>1.  Lewis Structures<br>2.  Formal Charge<br>3.  Resonance Structures<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/f79945bfeea47ad463e2a7f0b9b07a34_Lecture_10.jpg)  | {{< br >}}{{< br >}}1.  Lewis Structures{{< br >}}2.  Formal Charge{{< br >}}3.  Resonance Structures{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

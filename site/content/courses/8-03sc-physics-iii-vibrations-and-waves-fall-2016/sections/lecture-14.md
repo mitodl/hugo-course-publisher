@@ -10,7 +10,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/dc514809178e7e3a9e02d2f59891c6a6_L14.jpg) | <br><br>*   Fourier transform<br>*   Amplitude modulation<br>*   AM radio<br>*   Communication<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/dc514809178e7e3a9e02d2f59891c6a6_L14.jpg) | {{< br >}}{{< br >}}*   Fourier transform{{< br >}}*   Amplitude modulation{{< br >}}*   AM radio{{< br >}}*   Communication{{< br >}}{{< br >}} 
 
 Lecture Video: Fourier Transform, AM Radio
 ------------------------------------------

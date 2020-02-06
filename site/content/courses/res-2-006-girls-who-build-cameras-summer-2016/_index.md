@@ -42,7 +42,13 @@ menu:
 
 ##### Course Features
 
-* [This Course at MIT]({{< ref "sections/instructor-insights" >}})
+* [Instructor Insights](#insights)
+* [This Course at MIT](instructor-insights)
+* [AV lectures]()
+* [Image Gallery]()
+* [Lecture notes]()
+* [Assignments]()
+* [Assignments]()
 
 ##### Course Collections
 

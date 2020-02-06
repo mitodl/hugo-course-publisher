@@ -10,7 +10,7 @@ menu:
 Exam Information
 ----------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/b0cb2786ccdbdc8f1d8ba88ff8a96d24_exam_final.jpg) | <br><br>Final exam covers Lectures 1 through 23, including [Exam 1]({{< ref "exam-1" >}}) and [Exam 2]({{< ref "exam-2" >}}).<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/b0cb2786ccdbdc8f1d8ba88ff8a96d24_exam_final.jpg) | {{< br >}}{{< br >}}Final exam covers Lectures 1 through 23, including [Exam 1]({{< ref "exam-1" >}}) and [Exam 2]({{< ref "exam-2" >}}).{{< br >}}{{< br >}} 
 
 Practice Exams and Solutions
 ----------------------------

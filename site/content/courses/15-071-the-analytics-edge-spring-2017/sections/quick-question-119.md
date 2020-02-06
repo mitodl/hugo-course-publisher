@@ -25,7 +25,7 @@ Quick Question
 
 Suppose you are the General Manager of a baseball team, and you are selecting **two** players for your team. You have a budget of $1,500,000, and you have the choice between the following players:
 
-| Player Name<br><br> | OBP | SLG | Salary |
+| Player Name{{< br >}}{{< br >}} | OBP | SLG | Salary |
 | Eric Chavez | 0.338 | 0.540 | $1,400,000 |
 | Jeremy Giambi | 0.391 | 0.450 | $1,065,000 |
 | Frank Menechino | 0.369 | 0.374 | $295,000 |

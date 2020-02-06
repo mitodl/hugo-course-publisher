@@ -10,7 +10,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/6c9b9fbd24837ada67f5ddc0c9d6284b_L3.jpg) | <br><br>*   Driven oscillators<br>*   Transient phenomena<br>*   Resonance<br>*   Steady state solution<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/6c9b9fbd24837ada67f5ddc0c9d6284b_L3.jpg) | {{< br >}}{{< br >}}*   Driven oscillators{{< br >}}*   Transient phenomena{{< br >}}*   Resonance{{< br >}}*   Steady state solution{{< br >}}{{< br >}} 
 
 Lecture Video: Driven Oscillators, Transient Phenomena, Resonance
 -----------------------------------------------------------------
@@ -48,10 +48,10 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Driven Cart on Air Track](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2058&show=0) | <br><br> |
-| Ball on String Pendulum | <br><br> |
-| [Driven Mechanical Oscillator](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2059&show=0) | <br><br> |
-| [Breaking Glass with Sound](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2066&show=0) | <br><br> 
+| [Driven Cart on Air Track](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2058&show=0) | {{< br >}}{{< br >}} |
+| Ball on String Pendulum | {{< br >}}{{< br >}} |
+| [Driven Mechanical Oscillator](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2059&show=0) | {{< br >}}{{< br >}} |
+| [Breaking Glass with Sound](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2066&show=0) | {{< br >}}{{< br >}} 
 
 Related Resources
 -----------------

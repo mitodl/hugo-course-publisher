@@ -34,8 +34,11 @@ menu:
 
 ##### Course Features
 
-* [Assignments]({{< ref "sections/labs-and-exercises" >}})
-* [Lecture notes]({{< ref "sections/lecture-notes-and-slides" >}})
+* [Assignments](labs-and-exercises)
+* [Lecture notes](lecture-notes-and-slides)
+* [This Course at MIT]()
+* [Image Gallery]()
+* [Instructor Insights]()
 
 ##### Course Collections
 

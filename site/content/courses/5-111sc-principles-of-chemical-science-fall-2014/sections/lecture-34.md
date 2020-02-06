@@ -10,7 +10,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/eaea9b909de37c8ffd2db1ed6bd199cd_Lecture_34.jpg)  | <br><br>1.  Introduction to Catalysis<br>2.  Types of Catalysts<br>3.  Catalysts of Life and Enzyme Catalysis<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/eaea9b909de37c8ffd2db1ed6bd199cd_Lecture_34.jpg)  | {{< br >}}{{< br >}}1.  Introduction to Catalysis{{< br >}}2.  Types of Catalysts{{< br >}}3.  Catalysts of Life and Enzyme Catalysis{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

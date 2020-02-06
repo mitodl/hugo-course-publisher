@@ -29,6 +29,8 @@ menu:
 
 ##### Course Features
 
+* [This Course at MIT](instructor-insights)
+* [Assignments]()
 
 ##### Course Collections
 

@@ -38,7 +38,13 @@ menu:
 
 ##### Course Features
 
-* [Resource Index]({{< ref "sections/resource-index" >}})
+* [AV lectures]()
+* [Assignments]()
+* [Exams]()
+* [Lecture notes]()
+* [Online textbooks]()
+* [Interactive assessments]()
+* [Resource Index](resource-index)
 
 ##### Course Collections
 

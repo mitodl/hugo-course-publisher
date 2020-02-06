@@ -10,7 +10,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/bf0340d1f5d817e3bca597b1ce92e410_Lecture_33.jpg)  | <br><br>1.  Effect of Temperature on Reaction Rates<br>2.  The Reaction Coordinate and the Activation Complex<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/bf0340d1f5d817e3bca597b1ce92e410_Lecture_33.jpg)  | {{< br >}}{{< br >}}1.  Effect of Temperature on Reaction Rates{{< br >}}2.  The Reaction Coordinate and the Activation Complex{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

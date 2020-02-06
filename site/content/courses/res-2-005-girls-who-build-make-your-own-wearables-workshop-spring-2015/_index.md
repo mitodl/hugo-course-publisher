@@ -38,6 +38,12 @@ menu:
 
 ##### Course Features
 
+* [Image Gallery](image-gallery)
+* [Instructor Insights](#insights)
+* [This Course at MIT](instructor-insights)
+* [AV special element video]()
+* [Assignments]()
+* [Lecture notes]()
 
 ##### Course Collections
 

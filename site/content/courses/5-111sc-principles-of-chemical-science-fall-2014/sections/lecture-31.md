@@ -10,7 +10,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/8eee3e7b097bf5c295ec735e309fdc60_Lecture_31.jpg)  | <br><br>1.  Nuclear Chemistry: Radioactive Decay<br>2.  Chemical Kinetics<br>    1.  Second Order Integrated Rate Laws<br>    2.  Relationship Between k and K<br>    3.  Elementary Steps and Molecularity<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/8eee3e7b097bf5c295ec735e309fdc60_Lecture_31.jpg)  | {{< br >}}{{< br >}}1.  Nuclear Chemistry: Radioactive Decay{{< br >}}2.  Chemical Kinetics{{< br >}}    1.  Second Order Integrated Rate Laws{{< br >}}    2.  Relationship Between k and K{{< br >}}    3.  Elementary Steps and Molecularity{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

@@ -30,6 +30,8 @@ menu:
 
 ##### Course Features
 
+* [Assignments]()
+* [Image Gallery]()
 
 ##### Course Collections
 

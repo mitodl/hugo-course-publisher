@@ -10,7 +10,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c5e75515d2806c73da23bb2d5f3bbc7a_L20.jpg) | <br><br>*   Soap bubble<br>*   Interference<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c5e75515d2806c73da23bb2d5f3bbc7a_L20.jpg) | {{< br >}}{{< br >}}*   Soap bubble{{< br >}}*   Interference{{< br >}}{{< br >}} 
 
 Lecture Video: Interference, Soap Bubble
 ----------------------------------------
@@ -52,8 +52,8 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Reflection off Soap Bubbles](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%207&show=0) | <br><br> |
-| [Reflection off a Soap Film](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%208&show=0) | <br><br>and<br><br> 
+| [Reflection off Soap Bubbles](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%207&show=0) | {{< br >}}{{< br >}} |
+| [Reflection off a Soap Film](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%208&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} 
 
 Related Resources
 -----------------

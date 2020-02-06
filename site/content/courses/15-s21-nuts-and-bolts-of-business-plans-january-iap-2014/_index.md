@@ -37,7 +37,10 @@ menu:
 
 ##### Course Features
 
-* [AV lectures]({{< ref "sections/lecture-videos" >}})
+* [Instructor Insights]()
+* [This Course at MIT]()
+* [AV lectures](lecture-videos)
+* [Assignments]()
 
 ##### Course Collections
 

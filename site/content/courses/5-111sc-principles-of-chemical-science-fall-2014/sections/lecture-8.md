@@ -10,7 +10,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/3b8008375f7f0653af066f9934b82861_Lecture_8.jpg)  | <br><br>1.  Ionization Energy and Photoelectron Spectroscopy<br>2.  Electron Affinity<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/3b8008375f7f0653af066f9934b82861_Lecture_8.jpg)  | {{< br >}}{{< br >}}1.  Ionization Energy and Photoelectron Spectroscopy{{< br >}}2.  Electron Affinity{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

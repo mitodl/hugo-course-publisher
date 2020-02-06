@@ -10,7 +10,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/807fa45446c1646b6b6645350f2b02cb_L21.jpg) | <br><br>*   Phased radar<br>*   Single electron interference<br>*   Interference<br>*   Huygens Principle<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/807fa45446c1646b6b6645350f2b02cb_L21.jpg) | {{< br >}}{{< br >}}*   Phased radar{{< br >}}*   Single electron interference{{< br >}}*   Interference{{< br >}}*   Huygens Principle{{< br >}}{{< br >}} 
 
 Lecture Video: Phased Radar, Single Electron Interference
 ---------------------------------------------------------
@@ -40,8 +40,8 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Ripple Tank (Interference of Two Point Sources)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%201&show=0) | <br><br> |
-| [Moiré Pattern](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%202&show=0) | <br><br> |
-| [Single-Slit Diffraction with a Laser](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%202&show=0) | <br><br>and<br><br> 
+| [Ripple Tank (Interference of Two Point Sources)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%201&show=0) | {{< br >}}{{< br >}} |
+| [Moiré Pattern](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%202&show=0) | {{< br >}}{{< br >}} |
+| [Single-Slit Diffraction with a Laser](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%202&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} 
 
 « [Previous]({{< ref "lecture-20" >}}) | [Next]({{< ref "lecture-22" >}}) »

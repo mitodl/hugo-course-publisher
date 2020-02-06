@@ -10,7 +10,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/73b37037e6271b6ba5b243eb3fcf8bfb_L10.jpg) | <br><br>*   Vibrating string<br>*   Wave equation<br>*   Traveling wave<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/73b37037e6271b6ba5b243eb3fcf8bfb_L10.jpg) | {{< br >}}{{< br >}}*   Vibrating string{{< br >}}*   Wave equation{{< br >}}*   Traveling wave{{< br >}}{{< br >}} 
 
 Lecture Video: Traveling Waves
 ------------------------------
@@ -38,7 +38,7 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Bell Labs Wave Machine (Mismatched Impedance)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | <br><br>,<br><br>, and<br><br> 
+| [Bell Labs Wave Machine (Mismatched Impedance)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | {{< br >}}{{< br >}},{{< br >}}{{< br >}}, and{{< br >}}{{< br >}} 
 
 Related Resources
 -----------------

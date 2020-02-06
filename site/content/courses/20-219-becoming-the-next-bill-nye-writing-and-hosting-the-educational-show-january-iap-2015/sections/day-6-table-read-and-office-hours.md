@@ -25,11 +25,11 @@ Table-read
 
 | VIDEO CHAPTERS | SCRIPT DRAFTS |
 | --- | --- |
-| <br><br> | [Yuliya's Script (DOC)](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/3c915481a58d47dd1c87e8c260dde10a_MIT20_219IAP15_Fractals.docx) |
-| <br><br> | [David's Script (DOC)](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/fa6a637af9a24439c26ec60782a671fc_MIT20_219IAP15_Cold.docx) |
-| <br><br> | Nathan's script is not available |
-| <br><br> | [Andrea's Script]({{< ref "andrea-desrosierss-project" >}}#Ortho\_Script) |
-| <br><br> | [PJ's Script (DOC)](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/7f91a6ca759e3e98f938ae25c1c5ef91_MIT20_219IAP15_Folino.docx) 
+| {{< br >}}{{< br >}} | [Yuliya's Script (DOC)](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/3c915481a58d47dd1c87e8c260dde10a_MIT20_219IAP15_Fractals.docx) |
+| {{< br >}}{{< br >}} | [David's Script (DOC)](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/fa6a637af9a24439c26ec60782a671fc_MIT20_219IAP15_Cold.docx) |
+| {{< br >}}{{< br >}} | Nathan's script is not available |
+| {{< br >}}{{< br >}} | [Andrea's Script]({{< ref "andrea-desrosierss-project" >}}#Ortho\_Script) |
+| {{< br >}}{{< br >}} | [PJ's Script (DOC)](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/7f91a6ca759e3e98f938ae25c1c5ef91_MIT20_219IAP15_Folino.docx) 
 
 Assignment
 ----------

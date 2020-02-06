@@ -26,6 +26,8 @@ menu:
 
 ##### Course Features
 
+* [AV special element video](creating-mathematica-functions-to-determine-degree-of-crystallinity-from-xrd-plots)
+* [Projects](student-projects-by-year)
 
 ##### Course Collections
 

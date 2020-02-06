@@ -10,7 +10,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/6d2adf5be2bec36f7de84878814dfc38_L23.jpg) | <br><br>*   Quantum waves<br>*   Detection of gravitational waves<br>*   Interferometer<br>*   LIGO experiment<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/6d2adf5be2bec36f7de84878814dfc38_L23.jpg) | {{< br >}}{{< br >}}*   Quantum waves{{< br >}}*   Detection of gravitational waves{{< br >}}*   Interferometer{{< br >}}*   LIGO experiment{{< br >}}{{< br >}} 
 
 Lecture Video: Quantum Waves and Gravitational Waves
 ----------------------------------------------------

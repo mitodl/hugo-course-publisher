@@ -10,7 +10,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/399a78dfbe2d4f60a90700df0d142614_L5.jpg) | <br><br>*   Coupled oscillators<br>*   Beat phenomena<br>*   Normal axis<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/399a78dfbe2d4f60a90700df0d142614_L5.jpg) | {{< br >}}{{< br >}}*   Coupled oscillators{{< br >}}*   Beat phenomena{{< br >}}*   Normal axis{{< br >}}{{< br >}} 
 
 Lecture Video: Beat Phenomena
 -----------------------------
@@ -44,9 +44,9 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0) | <br><br>and<br><br> |
-| [Wave Beats](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2041&show=0) | <br><br> |
-| [Coupled Tunning Forks](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2046&show=0) | <br><br> 
+| [Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} |
+| [Wave Beats](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2041&show=0) | {{< br >}}{{< br >}} |
+| [Coupled Tunning Forks](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2046&show=0) | {{< br >}}{{< br >}} 
 
 Related Resources
 -----------------
