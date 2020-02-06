@@ -14,6 +14,7 @@
   <body>
     <div class="overflow-auto {{ if .IsHome }}course-home-background{{else}}course-background{{ end }}">
       <div class="bmd-layout-container bmd-drawer-f-l bmd-drawer-overlay outer-wrapper">
+        {{ partial "mobile_nav.html" . }}
         {{ block "header" . }}{{ partial "header" . }}{{end}}
         <div class="container-fluid">
           <div class="row outer-wrapper">
