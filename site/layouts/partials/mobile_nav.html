@@ -1,12 +1,4 @@
 <div id="course-nav" class="bmd-layout-drawer bg-faded bg-light medium-and-below-only">
-    {{ with (index .Site.Menus .CurrentSection.Params.course_id) }}
-    <nav>
-        <ul>
-            {{ range . }}
-            <li><a class="text-uppercase text-dark font-weight-bold"
-                    href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-            {{ end }}
-        </ul>
-    </nav>
-    {{ end }}
+  <h5 class="text-uppercase mb-2 mt-5 ml-2">Browse Course Materials</h5>
+  {{ partial "nav.html" . }}
 </div>

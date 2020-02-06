@@ -8,7 +8,7 @@ $material-icons-font-path: "~material-icons/iconfont/";
 @import "~material-icons/iconfont/material-icons.scss";
 @import "bootstrap-material-design";
 @import "header";
-@import "desktop-nav";
+@import "course-nav";
 @import "course-info";
 
 /* CUSTOM STYLES */
@@ -62,15 +62,6 @@ a {
   width: 300px;
 }
 
-#ocw-logo-mobile {
-  width: 36px;
-  height: 36px;
-  top: 50%;
-  left: 50%;
-  margin-left: -18px;
-  margin-top: -18px;
-}
-
 /* BOOTSTRAP EXTENSIONS / OVERRIDES */
 
 nav {
@@ -99,6 +90,10 @@ table {
 
 .bg-darker-gray {
   background-color: $darker-gray;
+}
+
+.bg-dark-gray {
+  background-color: $dark-gray;
 }
 
 .bg-white-desktop {
@@ -155,4 +150,10 @@ table {
 
 .border-bottom-light {
   border-bottom: 1px solid $border-light-color;
+}
+
+.content {
+  img {
+    max-width: 100%;
+  }
 }

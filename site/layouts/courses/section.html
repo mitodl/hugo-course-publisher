@@ -4,12 +4,10 @@
     {{ partial "course_image.html" . }}
   </div>
   <div class="container-fluid pt-4 pb-4">
-    <h1 class="text-white medium-and-below-only">{{ .Params.course_title }}</h1>
+    <h1 class="medium-and-below-only">{{ .Params.course_title }}</h1>
+    {{ partial "mobile_nav_toggle.html" . }}
     <h5 class="font-weight-bold large-and-above-only">Course Description</h5>
-    <p class="text-white-mobile">{{ .Params.course_description }}</p>
-    <div class="medium-and-below-only">
-      {{ partial "course_info.html" .CurrentSection }}
-    </div>
+    <p>{{ .Params.course_description }}</p>
     <hr />
     {{ .Content }}
   </div>

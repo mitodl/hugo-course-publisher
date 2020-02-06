@@ -1,0 +1,19 @@
+.course-nav {
+  a {
+    text-decoration: none;
+
+    &.active {
+      font-weight: 600;
+    }
+  }
+}
+
+.mobile-course-nav-toggle {
+  *:not(i) {
+    font-size: 1rem;
+  }
+
+  i {
+    font-size: 20px;
+  }
+}

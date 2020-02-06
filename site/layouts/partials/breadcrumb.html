@@ -2,13 +2,13 @@
 {{ with .Parent }}
     {{ template "breadcrumb" . }}
     {{ if .IsHome }}
-    <a href="{{ .URL }}">
+    <a href="{{ .CurrentSection.Permalink }}">
         Course Home
     </a>
     &nbsp;>&nbsp;
     {{ else }}
     {{ if not .IsNode }}
-    <a href="{{ .URL }}">
+    <a href="{{ .Permalink }}">
         {{.Title}}
     </a>
     &nbsp;>&nbsp;
