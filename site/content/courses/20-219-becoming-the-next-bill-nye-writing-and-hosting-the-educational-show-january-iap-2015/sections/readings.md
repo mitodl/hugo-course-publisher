@@ -5,7 +5,7 @@ menu:
     identifier: readings
     weight: 80
 ---
-« [Previous]({{< ref "editing" >}}) | [Next](./resolveuid/526193cf30dacdf1c6734faab57d51d7) »
+« [Previous]({{% ref "editing" %}}) | [Next](./resolveuid/526193cf30dacdf1c6734faab57d51d7) »
 
 Unfortunately, our time is quite limited in this class. I highly recommend the following readings should you want to learn more about video production and learning. You are welcome to submit reflections on any portion of these readings in lieu of other reading assignments or blog posts:
 
@@ -15,4 +15,4 @@ Unfortunately, our time is quite limited in this class. I highly recommend the f
 
 [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0071803386/ref=nosim/mitopencourse-20) Voltz, Stephen, and Fritz Grobe. _The Viral Video Manifesto: Why Everything You Know is Wrong and How to Do What Really Works_. McGraw-Hill Education, 2012. ISBN: 9780071803380. \[Preview with [Google Books](http://books.google.com/books?id=zPJ_8c89-2UC&pg=PAfrontcover)\]
 
-« [Previous]({{< ref "editing" >}}) | [Next](./resolveuid/526193cf30dacdf1c6734faab57d51d7) »
+« [Previous]({{% ref "editing" %}}) | [Next](./resolveuid/526193cf30dacdf1c6734faab57d51d7) »

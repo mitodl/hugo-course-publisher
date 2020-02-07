@@ -5,7 +5,7 @@ menu:
     identifier: lecture-13
     weight: 170
 ---
-« [Previous]({{< ref "lecture-12" >}}) | [Next]({{< ref "lecture-14" >}}) »
+« [Previous]({{% ref "lecture-12" %}}) | [Next]({{% ref "lecture-14" %}}) »
 
 Topics
 ------
@@ -42,4 +42,4 @@ Problems and Solutions
 
 [Solutions for Lecture 13 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/901bb3225379643b4724190f11a1c42d_MIT5_111F14_Lec13Soln.pdf)
 
-« [Previous]({{< ref "lecture-12" >}}) | [Next]({{< ref "lecture-14" >}}) »
+« [Previous]({{% ref "lecture-12" %}}) | [Next]({{% ref "lecture-14" %}}) »

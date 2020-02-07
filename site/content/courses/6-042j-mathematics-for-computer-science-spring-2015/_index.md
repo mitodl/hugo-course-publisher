@@ -38,13 +38,7 @@ menu:
 
 ##### Course Features
 
-* [AV lectures]()
-* [Assignments]()
-* [Exams]()
-* [Lecture notes]()
-* [Online textbooks]()
-* [Interactive assessments]()
-* [Resource Index](resource-index)
+* [Resource Index]({{% ref "sections/resource-index" %}})
 
 ##### Course Collections
 

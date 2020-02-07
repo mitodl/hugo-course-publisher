@@ -5,15 +5,15 @@ menu:
     identifier: quick-question-703
     weight: 3170
 ---
-*   [<Video 2: Using Integer Optimization]({{< ref "video-2-using-integer-optimization" >}})
-*   [9.3.1Video 1: The Goal of eHarmony]({{< ref "eharmony-maximizing-the-probability-of-love" >}})
-*   [9.3.2Quick Question]({{< ref "quick-question-698" >}})
-*   [9.3.3Video 2: Using Integer Optimization]({{< ref "video-2-using-integer-optimization" >}})
-*   [9.3.4Quick Question]({{< ref "quick-question-703" >}})
-*   [9.3.5Video 3: Predicting Compatibility Scores]({{< ref "video-3-predicting-compatibility-scores" >}})
-*   [9.3.6Quick Question]({{< ref "quick-question-711" >}})
-*   [9.3.7Video 4: The Analytics Edge]({{< ref "video-4-the-analytics-edge" >}})
-*   [\\>Video 3: Predicting Compatibility Scores]({{< ref "video-3-predicting-compatibility-scores" >}})
+*   [<Video 2: Using Integer Optimization]({{% ref "video-2-using-integer-optimization" %}})
+*   [9.3.1Video 1: The Goal of eHarmony]({{% ref "eharmony-maximizing-the-probability-of-love" %}})
+*   [9.3.2Quick Question]({{% ref "quick-question-698" %}})
+*   [9.3.3Video 2: Using Integer Optimization]({{% ref "video-2-using-integer-optimization" %}})
+*   [9.3.4Quick Question]({{% ref "quick-question-703" %}})
+*   [9.3.5Video 3: Predicting Compatibility Scores]({{% ref "video-3-predicting-compatibility-scores" %}})
+*   [9.3.6Quick Question]({{% ref "quick-question-711" %}})
+*   [9.3.7Video 4: The Analytics Edge]({{% ref "video-4-the-analytics-edge" %}})
+*   [\\>Video 3: Predicting Compatibility Scores]({{% ref "video-3-predicting-compatibility-scores" %}})
 
 Quick Question
 --------------
@@ -52,5 +52,5 @@ You can easily see how the number of possible matches gets very large on online 
 
 CheckShow Answer
 
-*   [BackVideo 2: Using Integer Optimization]({{< ref "video-2-using-integer-optimization" >}})
-*   [ContinueVideo 3: Predicting Compatibility Scores]({{< ref "video-3-predicting-compatibility-scores" >}})
+*   [BackVideo 2: Using Integer Optimization]({{% ref "video-2-using-integer-optimization" %}})
+*   [ContinueVideo 3: Predicting Compatibility Scores]({{% ref "video-3-predicting-compatibility-scores" %}})

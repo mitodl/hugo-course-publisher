@@ -26,7 +26,7 @@ The primary text for this class is:
 Listening and Reading Assignments
 ---------------------------------
 
-Recordings and some scores for each listening assignment are listed on the [Listening and Scores page]({{< ref "listening-and-scores" >}}). Weekly reading assignments and musical works covered can be found on the [Readings page]({{< ref "readings" >}}).
+Recordings and some scores for each listening assignment are listed on the [Listening and Scores page]({{% ref "listening-and-scores" %}}). Weekly reading assignments and musical works covered can be found on the [Readings page]({{% ref "readings" %}}).
 
 ### Recordings
 
@@ -41,7 +41,7 @@ Class Participation
 
 Students are expected to come to each class meeting prepared to participate actively. In addition, all students will be asked to lead the discussions on specific pieces from the assigned listening.
 
-[Written Assignments]({{< ref "assignments" >}}) 
+[Written Assignments]({{% ref "assignments" %}}) 
 -------------------------------------------------
 
 _Concert Reports:_ You will attend three concerts this semester featuring music from the late eighteenth through the late nineteenth centuries and write 2–4 page reports on each experience.

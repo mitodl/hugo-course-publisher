@@ -29,7 +29,7 @@ Grading and Course Credit
 -------------------------
 
 *   MIT students may take this course for 3 units of Pass / Fail Credit.
-*   Attendance at each session is required (unless otherwise approved) and the [writing requirement]({{< ref "writing-requirement" >}}) must be fulfilled.
+*   Attendance at each session is required (unless otherwise approved) and the [writing requirement]({{% ref "writing-requirement" %}}) must be fulfilled.
 
 Calendar
 --------

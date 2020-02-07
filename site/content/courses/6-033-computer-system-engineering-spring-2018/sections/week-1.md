@@ -21,7 +21,7 @@ Lecture 1: Coping with Complexity: Enforced Modularity via Client/server Organiz
 4.  Enforced Modularity
 5.  Other Goals
 
-*   [Detailed Outline]({{< ref "lecture-1-outline" >}})
+*   [Detailed Outline]({{% ref "lecture-1-outline" %}})
 
 ### Lecture Slides
 
@@ -35,7 +35,7 @@ Recitation 2: We Did Nothing Wrong
 ----------------------------------
 
 *   Read "[We Did Nothing Wrong: Why Software Quality Matters](http://www.baselinemag.com/c/a/Projects-Processes/We-Did-Nothing-Wrong)" by D. Gage & J. McCormick in _Baseline Magazine_ on March 4, 2004
-*   [We Did Nothing Wrong Assignment]({{< ref "we-did-nothing-wrong" >}})
+*   [We Did Nothing Wrong Assignment]({{% ref "we-did-nothing-wrong" %}})
 
 Tutorial 1: Introduction to 6.033 Communication
 -----------------------------------------------
@@ -45,4 +45,4 @@ Most of these tutorials will teach the communication theory and practices of thi
 System Critique Assignment 1: Evaluate and Assess a Domain Name System (DNS)
 ----------------------------------------------------------------------------
 
-*   Assigned: [Critique Assignment 1]({{< ref "critique-assignment-1" >}})
+*   Assigned: [Critique Assignment 1]({{% ref "critique-assignment-1" %}})

@@ -5,7 +5,7 @@ menu:
     identifier: lecture-24
     weight: 310
 ---
-« [Previous]({{< ref "lecture-23" >}}) | [Next]({{< ref "final-exam" >}}) »
+« [Previous]({{% ref "lecture-23" %}}) | [Next]({{% ref "final-exam" %}}) »
 
 Lecture Topics
 --------------
@@ -32,4 +32,4 @@ Related Resources
 
 ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Note on Huygen's Principal (PDF)](http://web.stanford.edu/class/math220a/handouts/waveequation3.pdf) from Stanford University
 
-« [Previous]({{< ref "lecture-23" >}}) | [Next]({{< ref "final-exam" >}}) »
+« [Previous]({{% ref "lecture-23" %}}) | [Next]({{% ref "final-exam" %}}) »

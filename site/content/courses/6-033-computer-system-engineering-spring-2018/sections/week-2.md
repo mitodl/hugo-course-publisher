@@ -15,7 +15,7 @@ Lecture 2: Naming in Systems
 3.  Abstract View of Naming Schemes
 4.  Naming on the Internet: DNS
 
-*   [Detailed Outline]({{< ref "lecture-2-outline" >}})
+*   [Detailed Outline]({{% ref "lecture-2-outline" %}})
 
 ### Lecture Slides
 
@@ -34,7 +34,7 @@ Recitation 3: Domain Name System (DNS)
 --------------------------------------
 
 *   Read Book section 4.4: "Case study: The Internet Domain Name System (DNS)"
-*   [Domain Name System (DNS) Assignment]({{< ref "domain-name-system-dns-assignment" >}})
+*   [Domain Name System (DNS) Assignment]({{% ref "domain-name-system-dns-assignment" %}})
 
 Lecture 3: Operating Systems + Virtual Memory
 ---------------------------------------------
@@ -50,7 +50,7 @@ Lecture 3: Operating Systems + Virtual Memory
 7.  Abstraction
 8.  Virtual Memory as Naming
 
-*   [Detailed Outline]({{< ref "lecture-3-outline" >}})
+*   [Detailed Outline]({{% ref "lecture-3-outline" %}})
 
 ### Lecture Slides
 
@@ -64,7 +64,7 @@ Recitation 4: UNIX Part 1
 -------------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Unix Time-Sharing System (PDF)](http://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)" by D.M. Ritchie & K. Thompson. Recitation 4 focuses on the first four sections of the paper (Recitation 5 will focus on the rest.)
-*   [UNIX Assignment Part 1]({{< ref "unix-assignment-part-1" >}})
+*   [UNIX Assignment Part 1]({{% ref "unix-assignment-part-1" %}})
 
 Hands-on Assignment 2: UNIX
 ---------------------------

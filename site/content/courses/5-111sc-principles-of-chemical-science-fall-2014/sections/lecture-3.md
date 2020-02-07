@@ -5,7 +5,7 @@ menu:
     identifier: lecture-3
     weight: 60
 ---
-« [Previous]({{< ref "lecture-2" >}}) | [Next]({{< ref "lecture-4" >}}) »
+« [Previous]({{% ref "lecture-2" %}}) | [Next]({{% ref "lecture-4" %}}) »
 
 Topics
 ------
@@ -58,4 +58,4 @@ Acknowledgement
 
 Excerpt of “[ROY G. BIV](https://youtu.be/Gf33ueRXMzQ)” by [They Might Be Giants](http://www.theymightbegiants.com/), courtesy of Idlewild / Disney Sound, used with permission. From [_Here Comes Science_](http://www.theymightbegiants.com/music/here-comes-science/), 2009.
 
-« [Previous]({{< ref "lecture-2" >}}) | [Next]({{< ref "lecture-4" >}}) »
+« [Previous]({{% ref "lecture-2" %}}) | [Next]({{% ref "lecture-4" %}}) »

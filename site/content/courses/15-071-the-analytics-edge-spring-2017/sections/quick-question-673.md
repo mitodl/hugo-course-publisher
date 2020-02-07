@@ -5,17 +5,17 @@ menu:
     identifier: quick-question-673
     weight: 3080
 ---
-*   [<Video 2: The Optimization Problem]({{< ref "video-2-the-optimization-problem" >}})
-*   [9.2.1Video 1: Introduction]({{< ref "sports-scheduling-an-introduction-to-integer-optimization" >}})
-*   [9.2.2Quick Question]({{< ref "quick-question-665" >}})
-*   [9.2.3Video 2: The Optimization Problem]({{< ref "video-2-the-optimization-problem" >}})
-*   [9.2.4Quick Question]({{< ref "quick-question-673" >}})
-*   [9.2.5Video 3: Solving the Problem]({{< ref "video-3-solving-the-problem-2" >}})
-*   [9.2.6Quick Question]({{< ref "quick-question-685" >}})
-*   [9.2.7Video 4: Logical Constraints]({{< ref "video-4-logical-constraints" >}})
-*   [9.2.8Quick Question]({{< ref "quick-question-693" >}})
-*   [9.2.9Video 5: The Edge]({{< ref "video-5-the-edge" >}})
-*   [\\>Video 3: Solving the Problem]({{< ref "video-3-solving-the-problem-2" >}})
+*   [<Video 2: The Optimization Problem]({{% ref "video-2-the-optimization-problem" %}})
+*   [9.2.1Video 1: Introduction]({{% ref "sports-scheduling-an-introduction-to-integer-optimization" %}})
+*   [9.2.2Quick Question]({{% ref "quick-question-665" %}})
+*   [9.2.3Video 2: The Optimization Problem]({{% ref "video-2-the-optimization-problem" %}})
+*   [9.2.4Quick Question]({{% ref "quick-question-673" %}})
+*   [9.2.5Video 3: Solving the Problem]({{% ref "video-3-solving-the-problem-2" %}})
+*   [9.2.6Quick Question]({{% ref "quick-question-685" %}})
+*   [9.2.7Video 4: Logical Constraints]({{% ref "video-4-logical-constraints" %}})
+*   [9.2.8Quick Question]({{% ref "quick-question-693" %}})
+*   [9.2.9Video 5: The Edge]({{% ref "video-5-the-edge" %}})
+*   [\\>Video 3: Solving the Problem]({{% ref "video-3-solving-the-problem-2" %}})
 
 Quick Question
 --------------
@@ -74,5 +74,5 @@ Note that you will need to answer all of the questions above before checking you
 
 CheckShow Answer
 
-*   [BackVideo 2: The Optimization Problem]({{< ref "video-2-the-optimization-problem" >}})
-*   [ContinueVideo 3: Solving the Problem]({{< ref "video-3-solving-the-problem-2" >}})
+*   [BackVideo 2: The Optimization Problem]({{% ref "video-2-the-optimization-problem" %}})
+*   [ContinueVideo 3: Solving the Problem]({{% ref "video-3-solving-the-problem-2" %}})

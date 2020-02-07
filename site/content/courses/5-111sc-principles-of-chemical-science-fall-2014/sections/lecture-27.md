@@ -5,7 +5,7 @@ menu:
     identifier: lecture-27
     weight: 330
 ---
-« [Previous]({{< ref "lecture-26" >}}) | [Next]({{< ref "lecture-28" >}}) »
+« [Previous]({{% ref "lecture-26" %}}) | [Next]({{% ref "lecture-28" %}}) »
 
 Topics
 ------
@@ -52,4 +52,4 @@ Problems and Solutions
 
 [Solutions for Lecture 27 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/e0464d4584b5126cc108f551fd04f7ca_MIT5_111F14_Lec27Soln.pdf)
 
-« [Previous]({{< ref "lecture-26" >}}) | [Next]({{< ref "lecture-28" >}}) »
+« [Previous]({{% ref "lecture-26" %}}) | [Next]({{% ref "lecture-28" %}}) »

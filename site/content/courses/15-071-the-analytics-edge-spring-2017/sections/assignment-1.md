@@ -5,12 +5,12 @@ menu:
     identifier: assignment-1
     weight: 350
 ---
-*   [<Video 6: Summary Tables]({{< ref "video-6-summary-tables" >}})
-*   [1.5.1An Analytical Detective]({{< ref "assignment-1" >}})
-*   [1.5.2Stock Dynamics]({{< ref "stock-dynamics" >}})
-*   [1.5.3Demographics and Employment in the United States]({{< ref "demographics-and-employment-in-the-united-states" >}})
-*   [1.5.4Internet Privacy Poll]({{< ref "internet-privacy-poll" >}})
-*   [\\>Stock Dynamics]({{< ref "stock-dynamics" >}})
+*   [<Video 6: Summary Tables]({{% ref "video-6-summary-tables" %}})
+*   [1.5.1An Analytical Detective]({{% ref "assignment-1" %}})
+*   [1.5.2Stock Dynamics]({{% ref "stock-dynamics" %}})
+*   [1.5.3Demographics and Employment in the United States]({{% ref "demographics-and-employment-in-the-united-states" %}})
+*   [1.5.4Internet Privacy Poll]({{% ref "internet-privacy-poll" %}})
+*   [\\>Stock Dynamics]({{% ref "stock-dynamics" %}})
 
 An Analytical Detective
 -----------------------
@@ -470,5 +470,5 @@ This can be read from table(Top5$LocationDescription, Top5$Weekday).
 
 CheckShow Answer
 
-*   [BackVideo 6: Summary Tables]({{< ref "video-6-summary-tables" >}})
-*   [ContinueStock Dynamics]({{< ref "stock-dynamics" >}})
+*   [BackVideo 6: Summary Tables]({{% ref "video-6-summary-tables" %}})
+*   [ContinueStock Dynamics]({{% ref "stock-dynamics" %}})

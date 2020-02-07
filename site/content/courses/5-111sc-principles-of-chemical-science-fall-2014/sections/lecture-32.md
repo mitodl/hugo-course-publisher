@@ -5,7 +5,7 @@ menu:
     identifier: lecture-32
     weight: 390
 ---
-« [Previous]({{< ref "lecture-31" >}}) | [Next]({{< ref "lecture-33" >}}) »
+« [Previous]({{% ref "lecture-31" %}}) | [Next]({{% ref "lecture-33" %}}) »
 
 Topics
 ------
@@ -42,4 +42,4 @@ Problems and Solutions
 
 [Solutions for Lecture 32 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/49eebcdad7bd369b5c72b39c8ddee4e6_MIT5_111F14_Lec32Soln.pdf)
 
-« [Previous]({{< ref "lecture-31" >}}) | [Next]({{< ref "lecture-33" >}}) »
+« [Previous]({{% ref "lecture-31" %}}) | [Next]({{% ref "lecture-33" %}}) »

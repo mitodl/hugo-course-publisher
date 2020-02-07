@@ -5,7 +5,7 @@ menu:
     identifier: lecture-4
     weight: 70
 ---
-« [Previous]({{< ref "lecture-3" >}}) | [Next]({{< ref "lecture-5" >}}) »
+« [Previous]({{% ref "lecture-3" %}}) | [Next]({{% ref "lecture-5" %}}) »
 
 Lecture Topics
 --------------
@@ -45,4 +45,4 @@ Related Resources
 
 Video: [Normal Modes](https://phet.colorado.edu/en/simulation/normal-modes) from [PhET Interactive Simulations project at the University of Colorado Boulder](https://phet.colorado.edu/)
 
-« [Previous]({{< ref "lecture-3" >}}) | [Next]({{< ref "lecture-5" >}}) »
+« [Previous]({{% ref "lecture-3" %}}) | [Next]({{% ref "lecture-5" %}}) »

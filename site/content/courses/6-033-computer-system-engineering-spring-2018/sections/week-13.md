@@ -19,7 +19,7 @@ Lecture 23: Network Security and Distributed Denial of Service (DDoS) Attacks
 7.  Attacks on Routers
 8.  Moral of the Story
 
-*   [Detailed Outline]({{< ref "lecture-23-outline" >}})
+*   [Detailed Outline]({{% ref "lecture-23-outline" %}})
 
 ### Lecture Slides
 
@@ -33,7 +33,7 @@ Recitation 23: Botnets
 ----------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Your Botnet is My Botnet: Analysis of a Botnet Takeover (PDF)](https://seclab.cs.ucsb.edu/media/uploads/papers/torpig.pdf)" by B. Stone-Gross, et al.
-*   [Botnets Assignment]({{< ref "botnets-assignment" >}})
+*   [Botnets Assignment]({{% ref "botnets-assignment" %}})
 
 Lecture 24: Bitcoin
 -------------------
@@ -49,7 +49,7 @@ Lecture 24: Bitcoin
 7.  Did we prevent Double-spending?
 8.  Discussion
 
-*   [Detailed Outline]({{< ref "lecture-24-outline" >}})
+*   [Detailed Outline]({{% ref "lecture-24-outline" %}})
 
 ### Lecture Slides
 
@@ -63,7 +63,7 @@ Recitation 24: Memory Corruption
 --------------------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[SoK: Eternal War in Memory (PDF)](https://people.eecs.berkeley.edu/~dawnsong/papers/Oakland13-SoK-CR.pdf)" by L. Szekeres, M. Payer, T. Wei & D. Song
-*   [Memory Corruption Assignment]({{< ref "memory-corruption-assignment" >}})
+*   [Memory Corruption Assignment]({{% ref "memory-corruption-assignment" %}})
 
 Tutorial 13: \[No Tutorial\]
 ----------------------------

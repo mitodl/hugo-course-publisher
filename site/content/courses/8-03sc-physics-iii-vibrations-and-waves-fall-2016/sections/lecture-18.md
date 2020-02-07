@@ -5,7 +5,7 @@ menu:
     identifier: lecture-18
     weight: 250
 ---
-« [Previous]({{< ref "exam-2" >}}) | [Next]({{< ref "lecture-19" >}}) »
+« [Previous]({{% ref "exam-2" %}}) | [Next]({{% ref "lecture-19" %}}) »
 
 Lecture Topics
 --------------
@@ -43,4 +43,4 @@ Related Resources
 
 Video: [Radiating Charge](https://phet.colorado.edu/en/simulation/legacy/radiating-charge) from [PhET Interactive Simulations project at the University of Colorado Boulder](https://phet.colorado.edu/)
 
-« [Previous]({{< ref "exam-2" >}}) | [Next]({{< ref "lecture-19" >}}) »
+« [Previous]({{% ref "exam-2" %}}) | [Next]({{% ref "lecture-19" %}}) »

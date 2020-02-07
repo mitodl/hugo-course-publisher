@@ -21,7 +21,7 @@ Lecture 16: Atomicity via Logging
 9.  What about Un-undo-able Actions?
 10.  Summary
 
-*   [Detailed Outline]({{< ref "lecture-16-outline" >}})
+*   [Detailed Outline]({{% ref "lecture-16-outline" %}})
 
 ### Lecture Slides
 
@@ -35,7 +35,7 @@ Recitation 16: Log-Structured File System (LFS)
 -----------------------------------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Log-structured File Systems (PDF)](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)" by R. & A. Arpaci-Dusseau
-*   [Log-Structured File System (LFS) Assignment]({{< ref "log-structured-file-system-lfs-assignment" >}})
+*   [Log-Structured File System (LFS) Assignment]({{% ref "log-structured-file-system-lfs-assignment" %}})
 
 Hands-on Assignment 6: Write Ahead Log (WAL) System
 ---------------------------------------------------
@@ -57,7 +57,7 @@ Lecture 17: Fault Tolerance: Isolation
 8.  Another Possible Performance Improvement: Giving up on Conflict Serializability
 9.  Summary
 
-*   [Detailed Outline]({{< ref "lecture-17-outline" >}})
+*   [Detailed Outline]({{% ref "lecture-17-outline" %}})
 
 ### Lecture Slides
 
@@ -71,7 +71,7 @@ Recitation 17: Databases
 ------------------------
 
 *   Read "[Concurrency Control and Recovery](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.38.1437)" by M. J. Franklin
-*   [Databases Assignment]({{< ref "databases-assignment" >}})
+*   [Databases Assignment]({{% ref "databases-assignment" %}})
 
 Tutorial 9: \[No Tutorial this Week\]
 -------------------------------------

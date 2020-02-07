@@ -5,7 +5,7 @@ menu:
     identifier: lecture-20
     weight: 270
 ---
-« [Previous]({{< ref "lecture-19" >}}) | [Next]({{< ref "lecture-21" >}}) »
+« [Previous]({{% ref "lecture-19" %}}) | [Next]({{% ref "lecture-21" %}}) »
 
 Lecture Topics
 --------------
@@ -66,4 +66,4 @@ Webpage: [Double-slit Experiment](http://www.hitachi.com/rd/portal/highlight/qu
 
 _\* **Note**: These Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{< ref "lecture-19" >}}) | [Next]({{< ref "lecture-21" >}}) »
+« [Previous]({{% ref "lecture-19" %}}) | [Next]({{% ref "lecture-21" %}}) »

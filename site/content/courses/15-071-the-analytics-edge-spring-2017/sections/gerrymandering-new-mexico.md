@@ -5,9 +5,9 @@ menu:
     identifier: gerrymandering-new-mexico
     weight: 3270
 ---
-*   [<Assignment 9]({{< ref "assignment-9" >}})
-*   [9.5.1Even' Star Organic Farm Revisited]({{< ref "assignment-9" >}})
-*   [9.5.2Gerrymandering New Mexico]({{< ref "gerrymandering-new-mexico" >}})
+*   [<Assignment 9]({{% ref "assignment-9" %}})
+*   [9.5.1Even' Star Organic Farm Revisited]({{% ref "assignment-9" %}})
+*   [9.5.2Gerrymandering New Mexico]({{% ref "gerrymandering-new-mexico" %}})
 
 Gerrymandering New Mexico
 -------------------------
@@ -600,4 +600,4 @@ You can find these numbers by looking at the left-hand-sides of the constraints.
 
 CheckShow Answer
 
-*   [BackAssignment 9]({{< ref "assignment-9" >}})
+*   [BackAssignment 9]({{% ref "assignment-9" %}})

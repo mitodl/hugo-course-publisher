@@ -5,7 +5,7 @@ menu:
     identifier: lecture-11
     weight: 150
 ---
-« [Previous]({{< ref "lecture-10" >}}) | [Next]({{< ref "lecture-12" >}}) »
+« [Previous]({{% ref "lecture-10" %}}) | [Next]({{% ref "lecture-12" %}}) »
 
 Topics
 ------
@@ -44,4 +44,4 @@ Problems and Solutions
 
 [Solutions for Lecture 11 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/7c4822d7eb6e1a39d725396ad1bbafa4_MIT5_111F14_Lec11Soln.pdf)
 
-« [Previous]({{< ref "lecture-10" >}}) | [Next]({{< ref "lecture-12" >}}) »
+« [Previous]({{% ref "lecture-10" %}}) | [Next]({{% ref "lecture-12" %}}) »

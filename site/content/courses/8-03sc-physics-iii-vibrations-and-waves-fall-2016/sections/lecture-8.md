@@ -5,7 +5,7 @@ menu:
     identifier: lecture-8
     weight: 110
 ---
-« [Previous]({{< ref "lecture-7" >}}) | [Next]({{< ref "lecture-9" >}}) »
+« [Previous]({{% ref "lecture-7" %}}) | [Next]({{% ref "lecture-9" %}}) »
 
 Lecture Topics
 --------------
@@ -43,4 +43,4 @@ Related Resources
 
 Video: [Wave on a String](http://phet.colorado.edu/sims/wave-on-a-string/wave-on-a-string_en.html) from [PhET Interactive Simulations project at the University of Colorado Boulder](https://phet.colorado.edu/)
 
-« [Previous]({{< ref "lecture-7" >}}) | [Next]({{< ref "lecture-9" >}}) »
+« [Previous]({{% ref "lecture-7" %}}) | [Next]({{% ref "lecture-9" %}}) »

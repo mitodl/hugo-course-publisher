@@ -5,7 +5,7 @@ menu:
     identifier: lecture-7
     weight: 100
 ---
-« [Previous]({{< ref "lecture-6" >}}) | [Next]({{< ref "unit-ii-chemical-bonding-structure" >}}) »
+« [Previous]({{% ref "lecture-6" %}}) | [Next]({{% ref "unit-ii-chemical-bonding-structure" %}}) »
 
 Topics
 ------
@@ -42,4 +42,4 @@ Problems and Solutions
 
 [Solutions for Lecture 7 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/8309091816c0e05d2cbe81ad73a39634_MIT5_111F14_Lec07Soln.pdf)
 
-« [Previous]({{< ref "lecture-6" >}}) | [Next]({{< ref "unit-ii-chemical-bonding-structure" >}}) »
+« [Previous]({{% ref "lecture-6" %}}) | [Next]({{% ref "unit-ii-chemical-bonding-structure" %}}) »

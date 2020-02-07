@@ -5,7 +5,7 @@ menu:
     identifier: david-yams-project
     weight: 300
 ---
-« [Previous]({{< ref "yuliya-klochans-project" >}}) | [Next]({{< ref "student-reflections" >}}) »
+« [Previous]({{% ref "yuliya-klochans-project" %}}) | [Next]({{% ref "student-reflections" %}}) »
 
 [_Link to_ _David Yam Page on Tumblr_](http://mit219.tumblr.com/tagged/davidyam)
 
@@ -49,14 +49,14 @@ Whilst Iceman has honed the ability to do just about everything in winter wearin
 
 \[1\] Read more: [Why are Some People Colder than Others?](http://www.mnn.com/health/fitness-well-being/stories/why-are-some-people-colder-than-others#ixzz3O6Q5qNoe)
 
-[\_Link back to Day 2\_]({{< ref "day-2-audience" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 2\_]({{% ref "day-2-audience" %}}#Instructor\_and\_Student\_Work)
 
 Day 3 Pitch
 -----------
 
 This video is courtesy of [David Yam](https://www.youtube.com/channel/UCgSZYDkQ8_cF8Nwb-dNVvxA) on YouTube and is provided under our Creative Commons license.
 
-[\_Link back to Day 3\_]({{< ref "day-3-storytellers-toolkit-pt.-1" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 3\_]({{% ref "day-3-storytellers-toolkit-pt.-1" %}}#Instructor\_and\_Student\_Work)
 
 Day 4 Storyboard
 ----------------
@@ -95,7 +95,7 @@ To generate more heat within our bodies, we need to burn more sugars with our me
 
 (Sorry for the crappy drawings. I'm really bad at drawing.)
 
-[\_Link back to Day 4\_]({{< ref "day-4-storytellers-toolkit-pt.-2" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 4\_]({{% ref "day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
 
 Day 5 Script (Draft 2)
 ----------------------
@@ -120,7 +120,7 @@ After understanding all this knowledge about withstanding the cold… perhaps th
 
 And if the next Ice Age were to come, maybe they'd be the only ones around.
 
-[\_Link back to Day 5\_]({{< ref "day-5-storytellers-toolkit-pt.-3" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 5\_]({{% ref "day-5-storytellers-toolkit-pt.-3" %}}#Instructor\_and\_Student\_Work)
 
 Day 6 Script: How do I Survive the Cold? (Draft 3)
 --------------------------------------------------
@@ -152,7 +152,7 @@ I'll add in the cutscenes / camera angles / go through the writing again tmr.)
 \[4\] Koxa, Matthijs, et al. "[Voluntary Activation of the Sympathetic Nervous System and Attenuation of the Innate Immune Response in Humans](http://dx.doi.org/10.1073/pnas.1322174111)." _Proceedings of the National Academy of Sciences of the United States of America_ 111, no. 20 (2014): 7379–84.
 
 [\_Link back to Day 6  
-\_]({{< ref "day-6-table-read-and-office-hours" >}}#Instructor\_and\_Student\_Work)
+\_]({{% ref "day-6-table-read-and-office-hours" %}}#Instructor\_and\_Student\_Work)
 
 Rough Cut
 ---------
@@ -184,6 +184,6 @@ Production Assistant: Joshua Cheong
 
 [See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108828543461/how-can-i-survive-the-cold-creative-commons-cc)
 
-[\_Link back to Day 13\_]({{< ref "day-13-screening-final-cuts" >}}#Student\_Work)
+[\_Link back to Day 13\_]({{% ref "day-13-screening-final-cuts" %}}#Student\_Work)
 
-« [Previous]({{< ref "yuliya-klochans-project" >}}) | [Next]({{< ref "student-reflections" >}}) »
+« [Previous]({{% ref "yuliya-klochans-project" %}}) | [Next]({{% ref "student-reflections" %}}) »

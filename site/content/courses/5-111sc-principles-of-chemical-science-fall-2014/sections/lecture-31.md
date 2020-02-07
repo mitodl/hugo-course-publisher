@@ -5,7 +5,7 @@ menu:
     identifier: lecture-31
     weight: 380
 ---
-« [Previous]({{< ref "lecture-30" >}}) | [Next]({{< ref "lecture-32" >}}) »
+« [Previous]({{% ref "lecture-30" %}}) | [Next]({{% ref "lecture-32" %}}) »
 
 Topics
 ------
@@ -47,4 +47,4 @@ Acknowledgement
 
 Mala Radhakrishnan’s poem “_Days of Our Half-Lives_” in _[Atomic Romances, Molecular Dances](http://www.lulu.com/shop/mala-radhakrishnan/atomic-romances-molecular-dances/paperback/product-15572338.html)_ is used with permission.
 
-« [Previous]({{< ref "lecture-30" >}}) | [Next]({{< ref "lecture-32" >}}) »
+« [Previous]({{% ref "lecture-30" %}}) | [Next]({{% ref "lecture-32" %}}) »

@@ -5,7 +5,7 @@ menu:
     identifier: lecture-23
     weight: 280
 ---
-« [Previous]({{< ref "lecture-22" >}}) | [Next]({{< ref "lecture-24" >}}) »
+« [Previous]({{% ref "lecture-22" %}}) | [Next]({{% ref "lecture-24" %}}) »
 
 Topics
 ------
@@ -41,4 +41,4 @@ Problems and Solutions
 
 [Solutions for Lecture 23 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c1940b748d35c51f710b6b931898b9d5_MIT5_111F14_Lec23Soln.pdf)
 
-« [Previous]({{< ref "lecture-22" >}}) | [Next]({{< ref "lecture-24" >}}) »
+« [Previous]({{% ref "lecture-22" %}}) | [Next]({{% ref "lecture-24" %}}) »

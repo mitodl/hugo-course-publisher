@@ -5,7 +5,7 @@ menu:
     identifier: lecture-10
     weight: 140
 ---
-« [Previous]({{< ref "exam-1" >}}) | [Next]({{< ref "lecture-11" >}}) »
+« [Previous]({{% ref "exam-1" %}}) | [Next]({{% ref "lecture-11" %}}) »
 
 Lecture Topics
 --------------
@@ -49,4 +49,4 @@ Video: [Superposition of waves with Bell Machine](https://youtu.be/BWraEDaVXZM) 
 
 Video: [Reflection with Bell machine](https://youtu.be/YQHbRw_hyz4) by [TSG@MIT Physics](http://tsgphysics.mit.edu/front/)
 
-« [Previous]({{< ref "exam-1" >}}) | [Next]({{< ref "lecture-11" >}}) »
+« [Previous]({{% ref "exam-1" %}}) | [Next]({{% ref "lecture-11" %}}) »

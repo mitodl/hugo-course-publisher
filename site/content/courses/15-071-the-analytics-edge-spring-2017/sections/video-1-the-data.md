@@ -5,13 +5,13 @@ menu:
     identifier: video-1-the-data
     weight: 690
 ---
-*   [<Playing Moneyball in the NBA (Recitation)]({{< ref "playing-moneyball-in-the-nba-recitation" >}})
-*   [2.4.1Welcome to Recitation 2]({{< ref "playing-moneyball-in-the-nba-recitation" >}})
-*   [2.4.2Video 1: The Data]({{< ref "video-1-the-data" >}})
-*   [2.4.3Video 2: Playoffs and Wins]({{< ref "video-2-playoffs-and-wins" >}})
-*   [2.4.4Video 3: Points Scored]({{< ref "video-3-points-scored" >}})
-*   [2.4.5Video 4: Making Predictions]({{< ref "video-4-making-predictions" >}})
-*   [\\>Video 2: Playoffs and Wins]({{< ref "video-2-playoffs-and-wins" >}})
+*   [<Playing Moneyball in the NBA (Recitation)]({{% ref "playing-moneyball-in-the-nba-recitation" %}})
+*   [2.4.1Welcome to Recitation 2]({{% ref "playing-moneyball-in-the-nba-recitation" %}})
+*   [2.4.2Video 1: The Data]({{% ref "video-1-the-data" %}})
+*   [2.4.3Video 2: Playoffs and Wins]({{% ref "video-2-playoffs-and-wins" %}})
+*   [2.4.4Video 3: Points Scored]({{% ref "video-3-points-scored" %}})
+*   [2.4.5Video 4: Making Predictions]({{% ref "video-4-making-predictions" %}})
+*   [\\>Video 2: Playoffs and Wins]({{% ref "video-2-playoffs-and-wins" %}})
 
 Video 1: The Data
 -----------------
@@ -20,5 +20,5 @@ In this recitation, we'll apply some of the ideas from Moneyball to data from th
 
 A script file containing all of the R commands used in this recitation can be downloaded here: [Unit2\_Recitation (R)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/d568d82169b3ab478e6ae60f01b9b1d8_Unit2_Recitation.R).
 
-*   [BackPlaying Moneyball in the NBA (Recitation)]({{< ref "playing-moneyball-in-the-nba-recitation" >}})
-*   [ContinueVideo 2: Playoffs and Wins]({{< ref "video-2-playoffs-and-wins" >}})
+*   [BackPlaying Moneyball in the NBA (Recitation)]({{% ref "playing-moneyball-in-the-nba-recitation" %}})
+*   [ContinueVideo 2: Playoffs and Wins]({{% ref "video-2-playoffs-and-wins" %}})

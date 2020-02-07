@@ -5,7 +5,7 @@ menu:
     identifier: meet-the-instructors
     weight: 20
 ---
-« [Previous]({{< ref "syllabus" >}}) | [Next]({{< ref "calendar" >}}) »
+« [Previous]({{% ref "syllabus" %}}) | [Next]({{% ref "calendar" %}}) »
 
 INSTRUCTORS
 -----------
@@ -51,4 +51,4 @@ Natalie Kuldell
 
 | ![NKundell.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/14236a8667416a8ea7ddba7dc69f61ef_NKundell.jpg) | {{< br >}}{{< br >}}Dr. Natalie Kuldell is the director of a web-based resource called [BioBuilder](http://www.biobuilder.org/) that applies biology to solve engineering challenges, as well as the president of an educational non-profit organization called the [BioBuilder Educational Foundation](http://biobuildereducationalfoundation.org/) that aims to convert current research into teachable form. She runs BioBuilder summer [workshops](http://educationgroup.mit.edu/HHMIEducationGroup/wp-content/uploads/2011/04/BioBuilding_Curriculum_Workshop_MIT.pdf) to train teachers in the engineering of biology and ways to teach it. Outside of her BioBuilder work, she is also an affiliate of MIT's Department of Biological Engineering, a co-PI on a grant with Boston's Museum of Science to engage the public with the engineering of biology, a recent visiting scientist with the National Center for Science and Civic Engagement, and a member of several advisory Boards that work on STEM education issues and reform.{{< br >}}{{< br >}} 
 
-« [Previous]({{< ref "syllabus" >}}) | [Next]({{< ref "calendar" >}}) »
+« [Previous]({{% ref "syllabus" %}}) | [Next]({{% ref "calendar" %}}) »

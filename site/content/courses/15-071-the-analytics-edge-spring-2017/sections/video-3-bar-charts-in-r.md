@@ -5,16 +5,16 @@ menu:
     identifier: video-3-bar-charts-in-r
     weight: 2580
 ---
-*   [<Video 2: Pie Charts]({{< ref "video-2-pie-charts" >}})
-*   [7.4.1Welcome to Recitation 7]({{< ref "the-good-the-bad-and-the-ugly-visualization-recitation-recitation" >}})
-*   [7.4.2Video 1: Introduction]({{< ref "video-1-introduction" >}})
-*   [7.4.3Video 2: Pie Charts]({{< ref "video-2-pie-charts" >}})
-*   [7.4.4Video 3: Bar Charts in R]({{< ref "video-3-bar-charts-in-r" >}})
-*   [7.4.5Video 4: A Better Visualization]({{< ref "video-4-a-better-visualization" >}})
-*   [7.4.6Video 5: World Maps in R]({{< ref "video-5-world-maps-in-r" >}})
-*   [7.4.7Video 6: Scales]({{< ref "video-6-scales" >}})
-*   [7.4.8Video 7: Using Line Charts Instead]({{< ref "video-7-using-line-charts-instead" >}})
-*   [\\>Video 4: A Better Visualization]({{< ref "video-4-a-better-visualization" >}})
+*   [<Video 2: Pie Charts]({{% ref "video-2-pie-charts" %}})
+*   [7.4.1Welcome to Recitation 7]({{% ref "the-good-the-bad-and-the-ugly-visualization-recitation-recitation" %}})
+*   [7.4.2Video 1: Introduction]({{% ref "video-1-introduction" %}})
+*   [7.4.3Video 2: Pie Charts]({{% ref "video-2-pie-charts" %}})
+*   [7.4.4Video 3: Bar Charts in R]({{% ref "video-3-bar-charts-in-r" %}})
+*   [7.4.5Video 4: A Better Visualization]({{% ref "video-4-a-better-visualization" %}})
+*   [7.4.6Video 5: World Maps in R]({{% ref "video-5-world-maps-in-r" %}})
+*   [7.4.7Video 6: Scales]({{% ref "video-6-scales" %}})
+*   [7.4.8Video 7: Using Line Charts Instead]({{% ref "video-7-using-line-charts-instead" %}})
+*   [\\>Video 4: A Better Visualization]({{% ref "video-4-a-better-visualization" %}})
 
 Video 3: Bar Charts in R
 ------------------------
@@ -23,5 +23,5 @@ In this video, we'll use the dataset [intl (CSV)](https://open-learning-course-d
 
 An R script file with all of the commands used in this recitation can be downloaded here: [Resource Unit7\_Recitation (R)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/666aaa7f2146df6e575dac0b0c89a8e8_Unit7_Recitation.R).
 
-*   [BackVideo 2: Pie Charts]({{< ref "video-2-pie-charts" >}})
-*   [ContinueVideo 4: A Better Visualization]({{< ref "video-4-a-better-visualization" >}})
+*   [BackVideo 2: Pie Charts]({{% ref "video-2-pie-charts" %}})
+*   [ContinueVideo 4: A Better Visualization]({{% ref "video-4-a-better-visualization" %}})

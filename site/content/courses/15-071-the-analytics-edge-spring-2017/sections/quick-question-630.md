@@ -5,19 +5,19 @@ menu:
     identifier: quick-question-630
     weight: 2830
 ---
-*   [<Radiation Therapy: An Application of Linear Optimization]({{< ref "radiation-therapy-an-application-of-linear-optimization" >}})
-*   [8.3.1Video 1: Introduction]({{< ref "radiation-therapy-an-application-of-linear-optimization" >}})
-*   [8.3.2Quick Question]({{< ref "quick-question-630" >}})
-*   [8.3.3Video 2: An Optimization Problem]({{< ref "video-2-an-optimization-problem" >}})
-*   [8.3.4Quick Question]({{< ref "quick-question-635" >}})
-*   [8.3.5Video 3: Solving the Problem]({{< ref "video-3-solving-the-problem" >}})
-*   [8.3.6Quick Question]({{< ref "quick-question-643" >}})
-*   [8.3.7Video 4: A Head and Neck Case]({{< ref "video-4-a-head-and-neck-case" >}})
-*   [8.3.8Quick Question]({{< ref "quick-question-648" >}})
-*   [8.3.9Video 5: Sensitivity Analysis]({{< ref "video-5-sensitivity-analysis" >}})
-*   [8.3.10Quick Question]({{< ref "quick-question-654" >}})
-*   [8.3.11Video 6: The Analytics Edge]({{< ref "video-6-the-analytics-edge" >}})
-*   [\\>Video 2: An Optimization Problem]({{< ref "video-2-an-optimization-problem" >}})
+*   [<Radiation Therapy: An Application of Linear Optimization]({{% ref "radiation-therapy-an-application-of-linear-optimization" %}})
+*   [8.3.1Video 1: Introduction]({{% ref "radiation-therapy-an-application-of-linear-optimization" %}})
+*   [8.3.2Quick Question]({{% ref "quick-question-630" %}})
+*   [8.3.3Video 2: An Optimization Problem]({{% ref "video-2-an-optimization-problem" %}})
+*   [8.3.4Quick Question]({{% ref "quick-question-635" %}})
+*   [8.3.5Video 3: Solving the Problem]({{% ref "video-3-solving-the-problem" %}})
+*   [8.3.6Quick Question]({{% ref "quick-question-643" %}})
+*   [8.3.7Video 4: A Head and Neck Case]({{% ref "video-4-a-head-and-neck-case" %}})
+*   [8.3.8Quick Question]({{% ref "quick-question-648" %}})
+*   [8.3.9Video 5: Sensitivity Analysis]({{% ref "video-5-sensitivity-analysis" %}})
+*   [8.3.10Quick Question]({{% ref "quick-question-654" %}})
+*   [8.3.11Video 6: The Analytics Edge]({{% ref "video-6-the-analytics-edge" %}})
+*   [\\>Video 2: An Optimization Problem]({{% ref "video-2-an-optimization-problem" %}})
 
 Quick Question
 --------------
@@ -40,5 +40,5 @@ We get to decide the beamlet intensities - these will be the decision variables 
 
 CheckShow Answer
 
-*   [BackRadiation Therapy: An Application of Linear Optimization]({{< ref "radiation-therapy-an-application-of-linear-optimization" >}})
-*   [ContinueVideo 2: An Optimization Problem]({{< ref "video-2-an-optimization-problem" >}})
+*   [BackRadiation Therapy: An Application of Linear Optimization]({{% ref "radiation-therapy-an-application-of-linear-optimization" %}})
+*   [ContinueVideo 2: An Optimization Problem]({{% ref "video-2-an-optimization-problem" %}})

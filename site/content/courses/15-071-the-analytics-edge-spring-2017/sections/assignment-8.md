@@ -5,9 +5,9 @@ menu:
     identifier: assignment-8
     weight: 3020
 ---
-*   [<Video 8: Extensions and the Edge]({{< ref "video-8-extensions-and-the-edge" >}})
-*   [8.5.1Even' Star Organic Farm]({{< ref "assignment-8" >}})
-*   [\\>Integer Optimization]({{< ref "integer-optimization" >}})
+*   [<Video 8: Extensions and the Edge]({{% ref "video-8-extensions-and-the-edge" %}})
+*   [8.5.1Even' Star Organic Farm]({{% ref "assignment-8" %}})
+*   [\\>Integer Optimization]({{% ref "integer-optimization" %}})
 
 Even' Star Organic Farm
 -----------------------
@@ -352,5 +352,5 @@ CheckShow Answer
 
 Acknowledgements: This problem is based on the case study "[Introducing Integer Modeling with Excel Solver](https://www.informs.org/Pubs/ITE/Archive/Volume-7/Introducing-Integer-Modeling-with-Excel-Solver)" by Dessislava Pachamanova, INFORMS Transactions on Education 7:1(88-98). Publication year 2006.
 
-*   [BackVideo 8: Extensions and the Edge]({{< ref "video-8-extensions-and-the-edge" >}})
-*   [ContinueInteger Optimization]({{< ref "integer-optimization" >}})
+*   [BackVideo 8: Extensions and the Edge]({{% ref "video-8-extensions-and-the-edge" %}})
+*   [ContinueInteger Optimization]({{% ref "integer-optimization" %}})

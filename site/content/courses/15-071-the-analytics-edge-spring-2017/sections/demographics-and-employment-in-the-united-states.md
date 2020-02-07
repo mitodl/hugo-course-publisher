@@ -5,12 +5,12 @@ menu:
     identifier: demographics-and-employment-in-the-united-states
     weight: 370
 ---
-*   [<Stock Dynamics]({{< ref "stock-dynamics" >}})
-*   [1.5.1An Analytical Detective]({{< ref "assignment-1" >}})
-*   [1.5.2Stock Dynamics]({{< ref "stock-dynamics" >}})
-*   [1.5.3Demographics and Employment in the United States]({{< ref "demographics-and-employment-in-the-united-states" >}})
-*   [1.5.4Internet Privacy Poll]({{< ref "internet-privacy-poll" >}})
-*   [\\>Internet Privacy Poll]({{< ref "internet-privacy-poll" >}})
+*   [<Stock Dynamics]({{% ref "stock-dynamics" %}})
+*   [1.5.1An Analytical Detective]({{% ref "assignment-1" %}})
+*   [1.5.2Stock Dynamics]({{% ref "stock-dynamics" %}})
+*   [1.5.3Demographics and Employment in the United States]({{% ref "demographics-and-employment-in-the-united-states" %}})
+*   [1.5.4Internet Privacy Poll]({{% ref "internet-privacy-poll" %}})
+*   [\\>Internet Privacy Poll]({{% ref "internet-privacy-poll" %}})
 
 Demographics and Employment in the United States
 ------------------------------------------------
@@ -549,5 +549,5 @@ We see that New York has the most interviewees born in India (96), Boston has th
 
 CheckShow Answer
 
-*   [BackStock Dynamics]({{< ref "stock-dynamics" >}})
-*   [ContinueInternet Privacy Poll]({{< ref "internet-privacy-poll" >}})
+*   [BackStock Dynamics]({{% ref "stock-dynamics" %}})
+*   [ContinueInternet Privacy Poll]({{% ref "internet-privacy-poll" %}})

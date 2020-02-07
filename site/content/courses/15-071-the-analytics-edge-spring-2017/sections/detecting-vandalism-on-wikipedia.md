@@ -5,11 +5,11 @@ menu:
     identifier: detecting-vandalism-on-wikipedia
     weight: 1920
 ---
-*   [<Assignment 5]({{< ref "assignment-5" >}})
-*   [5.5.1Separating Spam from Ham (Part 1)]({{< ref "assignment-5" >}})
-*   [5.5.2Detecting Vandalism on Wikipedia]({{< ref "detecting-vandalism-on-wikipedia" >}})
-*   [5.5.3Automating Reviews in Medicine]({{< ref "automating-reviews-in-medicine" >}})
-*   [\\>Automating Reviews in Medicine]({{< ref "automating-reviews-in-medicine" >}})
+*   [<Assignment 5]({{% ref "assignment-5" %}})
+*   [5.5.1Separating Spam from Ham (Part 1)]({{% ref "assignment-5" %}})
+*   [5.5.2Detecting Vandalism on Wikipedia]({{% ref "detecting-vandalism-on-wikipedia" %}})
+*   [5.5.3Automating Reviews in Medicine]({{% ref "automating-reviews-in-medicine" %}})
+*   [\\>Automating Reviews in Medicine]({{% ref "automating-reviews-in-medicine" %}})
 
 Detecting Vandalism on Wikipedia
 --------------------------------
@@ -460,5 +460,5 @@ By adding new independent variables, we were able to significantly improve our a
 
 CheckShow Answer
 
-*   [BackAssignment 5]({{< ref "assignment-5" >}})
-*   [ContinueAutomating Reviews in Medicine]({{< ref "automating-reviews-in-medicine" >}})
+*   [BackAssignment 5]({{% ref "assignment-5" %}})
+*   [ContinueAutomating Reviews in Medicine]({{% ref "automating-reviews-in-medicine" %}})

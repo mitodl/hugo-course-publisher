@@ -30,11 +30,10 @@ menu:
 
 ##### Course Features
 
-* [Lecture notes](week-1)
-* [Assignments]()
-* [Instructor Insights](instructor-insights)
-* [Projects](design-project)
-* [Resource Index](resource-index)
+* [Lecture notes]({{% ref "sections/week-1" %}})
+* [Instructor Insights]({{% ref "sections/instructor-insights" %}})
+* [Projects]({{% ref "sections/design-project" %}})
+* [Resource Index]({{% ref "sections/resource-index" %}})
 
 ##### Course Collections
 

@@ -5,9 +5,9 @@ menu:
     identifier: assignment-6
     weight: 2290
 ---
-*   [<Video 7: Comparing Methods]({{< ref "video-7-comparing-methods" >}})
-*   [6.5.1Document Clustering with Daily Kos]({{< ref "assignment-6" >}})
-*   [\\>Visualization]({{< ref "visualization" >}})
+*   [<Video 7: Comparing Methods]({{% ref "video-7-comparing-methods" %}})
+*   [6.5.1Document Clustering with Daily Kos]({{% ref "assignment-6" %}})
+*   [\\>Visualization]({{% ref "visualization" %}})
 
 Document Clustering with Daily Kos
 ----------------------------------
@@ -457,5 +457,5 @@ From "table(hierGroups, KmeansCluster$cluster)", we read that 179 (64.6%) of the
 
 CheckShow Answer
 
-*   [BackVideo 7: Comparing Methods]({{< ref "video-7-comparing-methods" >}})
-*   [ContinueVisualization]({{< ref "visualization" >}})
+*   [BackVideo 7: Comparing Methods]({{% ref "video-7-comparing-methods" %}})
+*   [ContinueVisualization]({{% ref "visualization" %}})

@@ -5,7 +5,7 @@ menu:
     identifier: lecture-29
     weight: 350
 ---
-« [Previous]({{< ref "lecture-28" >}}) | [Next]({{< ref "unit-v-chemical-kinetics" >}}) »
+« [Previous]({{% ref "lecture-28" %}}) | [Next]({{% ref "unit-v-chemical-kinetics" %}}) »
 
 Topics
 ------
@@ -41,4 +41,4 @@ Problems and Solutions
 
 [Solutions for Lecture 29 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/1ae1a8ab689e5f566c54ff9480f2b598_MIT5_111F14_Lec29Soln.pdf)
 
-« [Previous]({{< ref "lecture-28" >}}) | [Next]({{< ref "unit-v-chemical-kinetics" >}}) »
+« [Previous]({{% ref "lecture-28" %}}) | [Next]({{% ref "unit-v-chemical-kinetics" %}}) »

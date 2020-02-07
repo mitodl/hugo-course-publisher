@@ -5,7 +5,7 @@ menu:
     identifier: lecture-2
     weight: 50
 ---
-« [Previous]({{< ref "lecture-1" >}}) | [Next]({{< ref "lecture-3" >}}) »
+« [Previous]({{% ref "lecture-1" %}}) | [Next]({{% ref "lecture-3" %}}) »
 
 Lecture Topics
 --------------
@@ -44,4 +44,4 @@ Related Resources
 
 Demonstration: [Air Cart Between Springs](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%201&show=0) by [TSG@MIT Physics](http://tsgphysics.mit.edu/front/)
 
-« [Previous]({{< ref "lecture-1" >}}) | [Next]({{< ref "lecture-3" >}}) »
+« [Previous]({{% ref "lecture-1" %}}) | [Next]({{% ref "lecture-3" %}}) »

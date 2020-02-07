@@ -5,7 +5,7 @@ menu:
     identifier: lecture-9
     weight: 120
 ---
-« [Previous]({{< ref "lecture-8" >}}) | [Next]({{< ref "exam-1" >}}) »
+« [Previous]({{% ref "lecture-8" %}}) | [Next]({{% ref "exam-1" %}}) »
 
 Lecture Topics
 --------------
@@ -64,4 +64,4 @@ Webpage: [Fourier Series: Basics](./resolveuid/074becc5a6a633357815bb2ca82e3a15)
 
 _\* **Note**: These Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{< ref "lecture-8" >}}) | [Next]({{< ref "exam-1" >}}) »
+« [Previous]({{% ref "lecture-8" %}}) | [Next]({{% ref "exam-1" %}}) »

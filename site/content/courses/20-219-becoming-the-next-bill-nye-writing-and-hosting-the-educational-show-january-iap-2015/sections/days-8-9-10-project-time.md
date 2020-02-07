@@ -5,7 +5,7 @@ menu:
     identifier: days-8-9-10-project-time
     weight: 200
 ---
-« [Previous]({{< ref "day-7-table-read-and-post-production" >}}) | [Next]({{< ref "day-11-12-screening-rough-cuts" >}}) »
+« [Previous]({{% ref "day-7-table-read-and-post-production" %}}) | [Next]({{% ref "day-11-12-screening-rough-cuts" %}}) »
 
 Contents
 --------
@@ -41,8 +41,8 @@ Student Work
 
 ### Shot Lists
 
-*   [Andrea's day 8 shot list]({{< ref "andrea-desrosierss-project" >}}#Ortho\_Shot\_List-prelim)
-*   [PJ's day 8 shot list]({{< ref "paul-pj-folinos-project" >}}#Pjfolino\_s\_Day\_8\_Shot\_List)
-*   [Yuliya's day 8 shot list]({{< ref "yuliya-klochans-project" >}}#Fractals\_\_Shot\_List)
+*   [Andrea's day 8 shot list]({{% ref "andrea-desrosierss-project" %}}#Ortho\_Shot\_List-prelim)
+*   [PJ's day 8 shot list]({{% ref "paul-pj-folinos-project" %}}#Pjfolino\_s\_Day\_8\_Shot\_List)
+*   [Yuliya's day 8 shot list]({{% ref "yuliya-klochans-project" %}}#Fractals\_\_Shot\_List)
 
-« [Previous]({{< ref "day-7-table-read-and-post-production" >}}) | [Next]({{< ref "day-11-12-screening-rough-cuts" >}}) »
+« [Previous]({{% ref "day-7-table-read-and-post-production" %}}) | [Next]({{% ref "day-11-12-screening-rough-cuts" %}}) »

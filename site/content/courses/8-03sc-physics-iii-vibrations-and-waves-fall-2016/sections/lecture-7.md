@@ -5,7 +5,7 @@ menu:
     identifier: lecture-7
     weight: 100
 ---
-« [Previous]({{< ref "lecture-6" >}}) | [Next]({{< ref "lecture-8" >}}) »
+« [Previous]({{% ref "lecture-6" %}}) | [Next]({{% ref "lecture-8" %}}) »
 
 Lecture Topics
 --------------
@@ -53,4 +53,4 @@ In-class Demonstrations
 
 _\* **Note**: These Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{< ref "lecture-6" >}}) | [Next]({{< ref "lecture-8" >}}) »
+« [Previous]({{% ref "lecture-6" %}}) | [Next]({{% ref "lecture-8" %}}) »

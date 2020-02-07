@@ -5,7 +5,7 @@ menu:
     identifier: lecture-23
     weight: 300
 ---
-« [Previous]({{< ref "lecture-22" >}}) | [Next]({{< ref "lecture-24" >}}) »
+« [Previous]({{% ref "lecture-22" %}}) | [Next]({{% ref "lecture-24" %}}) »
 
 Lecture Topics
 --------------
@@ -29,4 +29,4 @@ Textbook Reading
 
 No readings
 
-« [Previous]({{< ref "lecture-22" >}}) | [Next]({{< ref "lecture-24" >}}) »
+« [Previous]({{% ref "lecture-22" %}}) | [Next]({{% ref "lecture-24" %}}) »

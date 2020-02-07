@@ -5,7 +5,7 @@ menu:
     identifier: day-13-screening-final-cuts
     weight: 220
 ---
-« [Previous]({{< ref "day-11-12-screening-rough-cuts" >}}) | [Next]({{< ref "student-projects" >}}) »
+« [Previous]({{% ref "day-11-12-screening-rough-cuts" %}}) | [Next]({{% ref "student-projects" %}}) »
 
 Contents
 --------
@@ -41,12 +41,12 @@ Part 2: Screening
 Student Work
 ------------
 
-*   [Kenneth's final project]({{< ref "kenneth-cheahs-project" >}}#Final\_Project)
-*   [Joshua's final project]({{< ref "joshua-cheongs-project" >}}#Final\_Project)
-*   [Andrea's final project]({{< ref "andrea-desrosierss-project" >}}#Final\_Project)
-*   [PJ's final project]({{< ref "paul-pj-folinos-project" >}}#Final\_Project)
-*   [Nathan's final project]({{< ref "nathan-hernandezs-project" >}}#Final\_Project:\_Breaking\_Down\_Decomposition)
-*   [Yuliya's final project]({{< ref "yuliya-klochans-project" >}}#Final\_Project)
-*   [David's final project]({{< ref "david-yams-project" >}}#Final\_Project)
+*   [Kenneth's final project]({{% ref "kenneth-cheahs-project" %}}#Final\_Project)
+*   [Joshua's final project]({{% ref "joshua-cheongs-project" %}}#Final\_Project)
+*   [Andrea's final project]({{% ref "andrea-desrosierss-project" %}}#Final\_Project)
+*   [PJ's final project]({{% ref "paul-pj-folinos-project" %}}#Final\_Project)
+*   [Nathan's final project]({{% ref "nathan-hernandezs-project" %}}#Final\_Project:\_Breaking\_Down\_Decomposition)
+*   [Yuliya's final project]({{% ref "yuliya-klochans-project" %}}#Final\_Project)
+*   [David's final project]({{% ref "david-yams-project" %}}#Final\_Project)
 
-« [Previous]({{< ref "day-11-12-screening-rough-cuts" >}}) | [Next]({{< ref "student-projects" >}}) »
+« [Previous]({{% ref "day-11-12-screening-rough-cuts" %}}) | [Next]({{% ref "student-projects" %}}) »

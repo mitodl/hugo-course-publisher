@@ -31,12 +31,6 @@ menu:
 
 ##### Course Features
 
-* [Interactive assessments]()
-* [AV lectures](introduction-challenges-and-opportunities)
-* [Online textbooks](readings)
-* [Instructor Insights]()
-* [This Course at MIT]()
-* [Resource Index](resource-index)
 
 ##### Course Collections
 

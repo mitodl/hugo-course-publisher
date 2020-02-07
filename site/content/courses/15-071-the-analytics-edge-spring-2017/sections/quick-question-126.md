@@ -5,20 +5,20 @@ menu:
     identifier: quick-question-126
     weight: 650
 ---
-*   [<Video 5: Winning the World Series]({{< ref "video-5-winning-the-world-series" >}})
-*   [2.3.1A Quick Introduction to Baseball]({{< ref "moneyball-the-power-of-sports-analytics" >}})
-*   [2.3.2Video 1: The Story of Moneyball]({{< ref "video-1-the-story-of-moneyball" >}})
-*   [2.3.3Video 2: Making it to the Playoffs]({{< ref "video-2-making-it-to-the-playoffs" >}})
-*   [2.3.4Quick Question]({{< ref "quick-question-106" >}})
-*   [2.3.5Video 3: Predicting Runs]({{< ref "video-3-predicting-runs" >}})
-*   [2.3.6Quick Question]({{< ref "quick-question-109" >}})
-*   [2.3.7Video 4: Using the Models to Make Predictions]({{< ref "video-4-using-the-models-to-make-predictions" >}})
-*   [2.3.8Quick Question]({{< ref "quick-question-119" >}})
-*   [2.3.9Video 5: Winning the World Series]({{< ref "video-5-winning-the-world-series" >}})
-*   [2.3.10Quick Question]({{< ref "quick-question-126" >}})
-*   [2.3.11Video 6: The Analytics Edge in Sports]({{< ref "video-6-the-analytics-edge-in-sports" >}})
-*   [2.3.12Quick Question]({{< ref "quick-question-134" >}})
-*   [\\>Video 6: The Analytics Edge in Sports]({{< ref "video-6-the-analytics-edge-in-sports" >}})
+*   [<Video 5: Winning the World Series]({{% ref "video-5-winning-the-world-series" %}})
+*   [2.3.1A Quick Introduction to Baseball]({{% ref "moneyball-the-power-of-sports-analytics" %}})
+*   [2.3.2Video 1: The Story of Moneyball]({{% ref "video-1-the-story-of-moneyball" %}})
+*   [2.3.3Video 2: Making it to the Playoffs]({{% ref "video-2-making-it-to-the-playoffs" %}})
+*   [2.3.4Quick Question]({{% ref "quick-question-106" %}})
+*   [2.3.5Video 3: Predicting Runs]({{% ref "video-3-predicting-runs" %}})
+*   [2.3.6Quick Question]({{% ref "quick-question-109" %}})
+*   [2.3.7Video 4: Using the Models to Make Predictions]({{% ref "video-4-using-the-models-to-make-predictions" %}})
+*   [2.3.8Quick Question]({{% ref "quick-question-119" %}})
+*   [2.3.9Video 5: Winning the World Series]({{% ref "video-5-winning-the-world-series" %}})
+*   [2.3.10Quick Question]({{% ref "quick-question-126" %}})
+*   [2.3.11Video 6: The Analytics Edge in Sports]({{% ref "video-6-the-analytics-edge-in-sports" %}})
+*   [2.3.12Quick Question]({{% ref "quick-question-134" %}})
+*   [\\>Video 6: The Analytics Edge in Sports]({{% ref "video-6-the-analytics-edge-in-sports" %}})
 
 Quick Question
 --------------
@@ -97,5 +97,5 @@ Since one of the correlations is positive and the other is negative, this means 
 
 CheckShow Answer
 
-*   [BackVideo 5: Winning the World Series]({{< ref "video-5-winning-the-world-series" >}})
-*   [ContinueVideo 6: The Analytics Edge in Sports]({{< ref "video-6-the-analytics-edge-in-sports" >}})
+*   [BackVideo 5: Winning the World Series]({{% ref "video-5-winning-the-world-series" %}})
+*   [ContinueVideo 6: The Analytics Edge in Sports]({{% ref "video-6-the-analytics-edge-in-sports" %}})

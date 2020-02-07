@@ -5,7 +5,7 @@ menu:
     identifier: lecture-5
     weight: 80
 ---
-« [Previous]({{< ref "lecture-4" >}}) | [Next]({{< ref "lecture-6" >}}) »
+« [Previous]({{% ref "lecture-4" %}}) | [Next]({{% ref "lecture-6" %}}) »
 
 Lecture Topics
 --------------
@@ -55,4 +55,4 @@ Demonstration: [Audio Mixing](http://tsgphysics.mit.edu/front/?page=demo.php&let
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{< ref "lecture-4" >}}) | [Next]({{< ref "lecture-6" >}}) »
+« [Previous]({{% ref "lecture-4" %}}) | [Next]({{% ref "lecture-6" %}}) »

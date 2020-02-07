@@ -5,6 +5,6 @@ menu:
     identifier: dd.2.2-relative-velocity-is-independent-of-reference-frame
     weight: 1720
 ---
-« [Previous]({{< ref "dd.2.1-position-in-the-cm-frame" >}}) | [Next]({{< ref "dd.2.3-1d-elastic-collision-velocities-in-cm-frame" >}}) »
+« [Previous]({{% ref "dd.2.1-position-in-the-cm-frame" %}}) | [Next]({{% ref "dd.2.3-1d-elastic-collision-velocities-in-cm-frame" %}}) »
 
-« [Previous]({{< ref "dd.2.1-position-in-the-cm-frame" >}}) | [Next]({{< ref "dd.2.3-1d-elastic-collision-velocities-in-cm-frame" >}}) »
+« [Previous]({{% ref "dd.2.1-position-in-the-cm-frame" %}}) | [Next]({{% ref "dd.2.3-1d-elastic-collision-velocities-in-cm-frame" %}}) »

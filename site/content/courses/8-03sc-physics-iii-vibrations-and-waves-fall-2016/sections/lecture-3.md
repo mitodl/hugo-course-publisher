@@ -5,7 +5,7 @@ menu:
     identifier: lecture-3
     weight: 60
 ---
-« [Previous]({{< ref "lecture-2" >}}) | [Next]({{< ref "lecture-4" >}}) »
+« [Previous]({{% ref "lecture-2" %}}) | [Next]({{% ref "lecture-4" %}}) »
 
 Lecture Topics
 --------------
@@ -60,4 +60,4 @@ Video: [Pendulum Waves](https://www.youtube.com/watch?v=V87VXA6gPuE) of [Newton�
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{< ref "lecture-2" >}}) | [Next]({{< ref "lecture-4" >}}) »
+« [Previous]({{% ref "lecture-2" %}}) | [Next]({{% ref "lecture-4" %}}) »

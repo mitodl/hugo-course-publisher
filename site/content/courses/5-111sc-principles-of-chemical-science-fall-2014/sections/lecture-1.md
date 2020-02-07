@@ -5,7 +5,7 @@ menu:
     identifier: lecture-1
     weight: 40
 ---
-« [Previous]({{< ref "unit-i-the-atom" >}}) | [Next]({{< ref "lecture-2" >}}) »
+« [Previous]({{% ref "unit-i-the-atom" %}}) | [Next]({{% ref "lecture-2" %}}) »
 
 Topics
 ------
@@ -51,4 +51,4 @@ Review problems to complete before continuing to lecture 2. Students are expecte
 
 [Solutions for 5.111 Review Problems (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/1c8a43a2a5e82bcdd0f8ae50adf2828f_MIT5_111F14_SolReview.pdf)
 
-« [Previous]({{< ref "unit-i-the-atom" >}}) | [Next]({{< ref "lecture-2" >}}) »
+« [Previous]({{% ref "unit-i-the-atom" %}}) | [Next]({{% ref "lecture-2" %}}) »

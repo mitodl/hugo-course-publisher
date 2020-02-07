@@ -5,12 +5,12 @@ menu:
     identifier: final-exam
     weight: 320
 ---
-« [Previous]({{< ref "lecture-24" >}}) | [Next]({{< ref "problem-solving-help-videos" >}}) »
+« [Previous]({{% ref "lecture-24" %}}) | [Next]({{% ref "problem-solving-help-videos" %}}) »
 
 Exam Information
 ----------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/b0cb2786ccdbdc8f1d8ba88ff8a96d24_exam_final.jpg) | {{< br >}}{{< br >}}Final exam covers Lectures 1 through 23, including [Exam 1]({{< ref "exam-1" >}}) and [Exam 2]({{< ref "exam-2" >}}).{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/b0cb2786ccdbdc8f1d8ba88ff8a96d24_exam_final.jpg) | {{< br >}}{{< br >}}Final exam covers Lectures 1 through 23, including [Exam 1]({{% ref "exam-1" %}}) and [Exam 2]({{% ref "exam-2" %}}).{{< br >}}{{< br >}} 
 
 Practice Exams and Solutions
 ----------------------------
@@ -23,4 +23,4 @@ Practice Exams and Solutions
 [Practice Final Exam 3 (PDF)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c0f0a489b773f8420136ad9d813a3d1b_MIT8_03SCF16_PracticeFinalExam3.pdf)  
 ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Practice Final Exam 3 Solution (PDF)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/7204d82c7336bcc6b3c53099e1e8535c_MIT8_03SCF16_PracticeFinalExam3_Solutions.pdf)
 
-« [Previous]({{< ref "lecture-24" >}}) | [Next]({{< ref "problem-solving-help-videos" >}}) »
+« [Previous]({{% ref "lecture-24" %}}) | [Next]({{% ref "problem-solving-help-videos" %}}) »

@@ -5,6 +5,6 @@ menu:
     identifier: week-3-introduction
     weight: 580
 ---
-« [Previous]({{< ref "week-3-circular-motion" >}}) | [Next]({{< ref "8.1-polar-coordinates" >}}) »
+« [Previous]({{% ref "week-3-circular-motion" %}}) | [Next]({{% ref "8.1-polar-coordinates" %}}) »
 
-« [Previous]({{< ref "week-3-circular-motion" >}}) | [Next]({{< ref "8.1-polar-coordinates" >}}) »
+« [Previous]({{% ref "week-3-circular-motion" %}}) | [Next]({{% ref "8.1-polar-coordinates" %}}) »

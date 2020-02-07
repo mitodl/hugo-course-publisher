@@ -100,7 +100,7 @@ The staff has worked with the MIT Writing, Rhetoric, and Professional Communicat
 
 The DP requires you to develop a detailed system design to solve a real-world problem. This project will extend over most of the semester, and will be done in teams of three students, all of whom attend the same writing tutorial (with exceptions only for extenuating circumstances). Real-world systems are not built individually; it's always a team effort. Part of the DP is to learn to work productively and effectively in this setting. We will give you tools for doing so in the writing tutorials.
 
-The DP consists of multiple deliverables: a preliminary report, oral presentation, final report, and peer review. The [Design Project]({{< ref "design-project" >}}) page gives more detail about the DP deliverables.
+The DP consists of multiple deliverables: a preliminary report, oral presentation, final report, and peer review. The [Design Project]({{% ref "design-project" %}}) page gives more detail about the DP deliverables.
 
 *   System Critiques: One of the goals of this class is for students to be able to analyze and critique technical systems. We will assign multiple system critiques during the semester.
 

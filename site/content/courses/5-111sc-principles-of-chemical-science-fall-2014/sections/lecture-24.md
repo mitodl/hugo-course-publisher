@@ -5,7 +5,7 @@ menu:
     identifier: lecture-24
     weight: 290
 ---
-« [Previous]({{< ref "lecture-23" >}}) | [Next]({{< ref "unit-iv-transition-metals-oxidation-reduction-reactions" >}}) »
+« [Previous]({{% ref "lecture-23" %}}) | [Next]({{% ref "unit-iv-transition-metals-oxidation-reduction-reactions" %}}) »
 
 Topics
 ------
@@ -54,4 +54,4 @@ Problems and Solutions
 
 [Solutions for Lecture 24 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/efc751719fb18c63ad6349213a972088_MIT5_111F14_Lec24Soln.pdf)
 
-« [Previous]({{< ref "lecture-23" >}}) | [Next]({{< ref "unit-iv-transition-metals-oxidation-reduction-reactions" >}}) »
+« [Previous]({{% ref "lecture-23" %}}) | [Next]({{% ref "unit-iv-transition-metals-oxidation-reduction-reactions" %}}) »

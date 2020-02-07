@@ -5,6 +5,6 @@ menu:
     identifier: week-12-introduction
     weight: 2220
 ---
-« [Previous]({{< ref "week-12-rotations-and-translation-rolling" >}}) | [Next]({{< ref "35.1-translation-and-rotation-of-a-wheel" >}}) »
+« [Previous]({{% ref "week-12-rotations-and-translation-rolling" %}}) | [Next]({{% ref "35.1-translation-and-rotation-of-a-wheel" %}}) »
 
-« [Previous]({{< ref "week-12-rotations-and-translation-rolling" >}}) | [Next]({{< ref "35.1-translation-and-rotation-of-a-wheel" >}}) »
+« [Previous]({{% ref "week-12-rotations-and-translation-rolling" %}}) | [Next]({{% ref "35.1-translation-and-rotation-of-a-wheel" %}}) »

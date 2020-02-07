@@ -5,7 +5,7 @@ menu:
     identifier: day-7-table-read-and-post-production
     weight: 190
 ---
-« [Previous]({{< ref "day-6-table-read-and-office-hours" >}}) | [Next]({{< ref "days-8-9-10-project-time" >}}) »
+« [Previous]({{% ref "day-6-table-read-and-office-hours" %}}) | [Next]({{% ref "days-8-9-10-project-time" %}}) »
 
 Contents
 --------
@@ -19,7 +19,7 @@ Contents
 Overview
 --------
 
-We'll finish the rest of the table-reads and then cover the "art" of editing and incorporating music into video. Please note that this will not be a techniques workshop (see the [Equipment]({{< ref "equipment" >}}) & [Editing]({{< ref "editing" >}}) sections for tutorial resources), but rather a best practices-based workshop. We will also cover the resources available for music and navigating [Creative Commons](http://creativecommons.org/).
+We'll finish the rest of the table-reads and then cover the "art" of editing and incorporating music into video. Please note that this will not be a techniques workshop (see the [Equipment]({{% ref "equipment" %}}) & [Editing]({{% ref "editing" %}}) sections for tutorial resources), but rather a best practices-based workshop. We will also cover the resources available for music and navigating [Creative Commons](http://creativecommons.org/).
 
 Part 1: Table-read
 ------------------
@@ -74,19 +74,19 @@ Instructor and Student Work
 
 ### Daily Blogs / Vlogs
 
-*   [Elizabeth's day 7 blog]({{< ref "elizabeth-choes-reflections" >}}#Echoe\_s\_Day\_7\_Thoughts)
-*   [Ceri's day 7 blog]({{< ref "ceri-rileys-reflections" >}}#Ceriley\_s\_Day\_7\_Reflections)
-*   [Joshua's day 7 blog]({{< ref "joshua-cheongs-reflections" >}}#Joshch\_s\_Day\_7\_Thoughts)
-*   [Andrea's day 7 blog]({{< ref "andrea-desrosierss-reflections" >}}#Day\_7\_Vlog)
-*   [PJ's day 7 blog]({{< ref "paul-pj-folinos-reflections" >}}#Pjfolino\_s\_Day\_7\_Thoughts)
-*   [Yuliya's day 7 blog]({{< ref "yuliya-klochans-reflections" >}}#Day\_7)
+*   [Elizabeth's day 7 blog]({{% ref "elizabeth-choes-reflections" %}}#Echoe\_s\_Day\_7\_Thoughts)
+*   [Ceri's day 7 blog]({{% ref "ceri-rileys-reflections" %}}#Ceriley\_s\_Day\_7\_Reflections)
+*   [Joshua's day 7 blog]({{% ref "joshua-cheongs-reflections" %}}#Joshch\_s\_Day\_7\_Thoughts)
+*   [Andrea's day 7 blog]({{% ref "andrea-desrosierss-reflections" %}}#Day\_7\_Vlog)
+*   [PJ's day 7 blog]({{% ref "paul-pj-folinos-reflections" %}}#Pjfolino\_s\_Day\_7\_Thoughts)
+*   [Yuliya's day 7 blog]({{% ref "yuliya-klochans-reflections" %}}#Day\_7)
 
 ### Day 7 Scripts
 
-*   [Joshua's day 7 script]({{< ref "joshua-cheongs-project" >}}#Script:\_Final\_Iteration)
-*   [Andrea's day 7 script]({{< ref "andrea-desrosierss-project" >}}#Ortho\_Script)
-*   [PJ's day 7 script]({{< ref "paul-pj-folinos-project" >}}#Pjfolino\_s\_Script)
-*   [Yuliya's day 7 script]({{< ref "yuliya-klochans-project" >}}#DAY\_7\_Script\_\_Fractals\_\_)
-*   [David's day 7 script]({{< ref "david-yams-project" >}}#Script\_Draft\_3)
+*   [Joshua's day 7 script]({{% ref "joshua-cheongs-project" %}}#Script:\_Final\_Iteration)
+*   [Andrea's day 7 script]({{% ref "andrea-desrosierss-project" %}}#Ortho\_Script)
+*   [PJ's day 7 script]({{% ref "paul-pj-folinos-project" %}}#Pjfolino\_s\_Script)
+*   [Yuliya's day 7 script]({{% ref "yuliya-klochans-project" %}}#DAY\_7\_Script\_\_Fractals\_\_)
+*   [David's day 7 script]({{% ref "david-yams-project" %}}#Script\_Draft\_3)
 
-« [Previous]({{< ref "day-6-table-read-and-office-hours" >}}) | [Next]({{< ref "days-8-9-10-project-time" >}}) »
+« [Previous]({{% ref "day-6-table-read-and-office-hours" %}}) | [Next]({{% ref "days-8-9-10-project-time" %}}) »

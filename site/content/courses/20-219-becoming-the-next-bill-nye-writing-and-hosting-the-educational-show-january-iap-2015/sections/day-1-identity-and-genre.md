@@ -5,7 +5,7 @@ menu:
     identifier: day-1-identity-and-genre
     weight: 130
 ---
-« [Previous](./resolveuid/526193cf30dacdf1c6734faab57d51d7) | [Next]({{< ref "day-2-audience" >}}) »
+« [Previous](./resolveuid/526193cf30dacdf1c6734faab57d51d7) | [Next]({{% ref "day-2-audience" %}}) »
 
 Contents
 --------
@@ -106,31 +106,31 @@ Instructor and Student Work
 
 ### Day 1 Blogs
 
-*   [Elizabeth's day 1 blog]({{< ref "elizabeth-choes-reflections" >}}#Echoe\_s\_Day\_1\_Thoughts)  
+*   [Elizabeth's day 1 blog]({{% ref "elizabeth-choes-reflections" %}}#Echoe\_s\_Day\_1\_Thoughts)  
     
-*   [Ceri's day 1 blog]({{< ref "ceri-rileys-reflections" >}}#DAY\_1-Ceriley)  
+*   [Ceri's day 1 blog]({{% ref "ceri-rileys-reflections" %}}#DAY\_1-Ceriley)  
     
-*   [Kenneth's day 1 blog]({{< ref "kenneth-cheahs-reflections" >}}#Cheahyhk\_s\_Thoughts\_on\_Day\_1\_)  
+*   [Kenneth's day 1 blog]({{% ref "kenneth-cheahs-reflections" %}}#Cheahyhk\_s\_Thoughts\_on\_Day\_1\_)  
     
-*   [Joshua's day 1 blog]({{< ref "joshua-cheongs-reflections" >}}#Joshch\_s\_Day\_1\_Thoughts)  
+*   [Joshua's day 1 blog]({{% ref "joshua-cheongs-reflections" %}}#Joshch\_s\_Day\_1\_Thoughts)  
     
-*   [Andrea's day 1 blog]({{< ref "andrea-desrosierss-reflections" >}}#Day\_1\_Andrea\_s\_Struggles)  
+*   [Andrea's day 1 blog]({{% ref "andrea-desrosierss-reflections" %}}#Day\_1\_Andrea\_s\_Struggles)  
     
-*   [PJ's day 1 blog]({{< ref "paul-pj-folinos-reflections" >}}#Pjfolino\_s\_Day\_1\_Thoughts)  
+*   [PJ's day 1 blog]({{% ref "paul-pj-folinos-reflections" %}}#Pjfolino\_s\_Day\_1\_Thoughts)  
     
-*   [Nathan's day 1 blog]({{< ref "nathan-hernandezs-reflections" >}}#Hiji\_s\_Day\_1\_Thoughts)  
+*   [Nathan's day 1 blog]({{% ref "nathan-hernandezs-reflections" %}}#Hiji\_s\_Day\_1\_Thoughts)  
     
-*   [Yuliya's day 1 blog]({{< ref "yuliya-klochans-reflections" >}}#Yklochan\_Day\_1\_Thoughts)  
+*   [Yuliya's day 1 blog]({{% ref "yuliya-klochans-reflections" %}}#Yklochan\_Day\_1\_Thoughts)  
     
-*   [David's day 1 blog]({{< ref "david-yams-reflections" >}}#First\_Day)
+*   [David's day 1 blog]({{% ref "david-yams-reflections" %}}#First\_Day)
 
 ### Day 1 Pitches
 
-*   [Kenneth's day 1 pitch]({{< ref "kenneth-cheahs-project" >}}#Day\_1\_Pitch)
-*   [Joshua's day 1 pitch]({{< ref "joshua-cheongs-project" >}}#Day\_1\_Pitch)
-*   [Andrea's day 1 pitch]({{< ref "andrea-desrosierss-project" >}}#Day\_1\_Pitch)
-*   [PJ's day 1 pitch]({{< ref "paul-pj-folinos-project" >}}#Day\_1\_Pitch)
-*   [Nathan's day 1 pitch]({{< ref "nathan-hernandezs-project" >}}#Day\_1\_Pitch)
-*   [Yuliya's day 1 pitch]({{< ref "yuliya-klochans-project" >}}#G\_del\_s\_Theorem\_Video\_Pitch) 
+*   [Kenneth's day 1 pitch]({{% ref "kenneth-cheahs-project" %}}#Day\_1\_Pitch)
+*   [Joshua's day 1 pitch]({{% ref "joshua-cheongs-project" %}}#Day\_1\_Pitch)
+*   [Andrea's day 1 pitch]({{% ref "andrea-desrosierss-project" %}}#Day\_1\_Pitch)
+*   [PJ's day 1 pitch]({{% ref "paul-pj-folinos-project" %}}#Day\_1\_Pitch)
+*   [Nathan's day 1 pitch]({{% ref "nathan-hernandezs-project" %}}#Day\_1\_Pitch)
+*   [Yuliya's day 1 pitch]({{% ref "yuliya-klochans-project" %}}#G\_del\_s\_Theorem\_Video\_Pitch) 
 
-« [Previous](./resolveuid/526193cf30dacdf1c6734faab57d51d7) | [Next]({{< ref "day-2-audience" >}}) »
+« [Previous](./resolveuid/526193cf30dacdf1c6734faab57d51d7) | [Next]({{% ref "day-2-audience" %}}) »

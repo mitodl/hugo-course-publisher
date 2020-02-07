@@ -5,7 +5,7 @@ menu:
     identifier: lecture-15
     weight: 200
 ---
-« [Previous]({{< ref "unit-iii-thermodynamics-chemical-equilibrium" >}}) | [Next]({{< ref "lecture-16" >}}) »
+« [Previous]({{% ref "unit-iii-thermodynamics-chemical-equilibrium" %}}) | [Next]({{% ref "lecture-16" %}}) »
 
 Topics
 ------
@@ -46,4 +46,4 @@ Acknowledgement
 
 Excerpt of "[Photosynthesis](https://youtu.be/LgYPeeABoUs)" by [They Might Be Giants](http://www.theymightbegiants.com/), courtesy of Idlewild / Disney Sound, used with permission. From [_Here Comes Science_](http://www.theymightbegiants.com/music/here-comes-science/), 2009
 
-« [Previous]({{< ref "unit-iii-thermodynamics-chemical-equilibrium" >}}) | [Next]({{< ref "lecture-16" >}}) »
+« [Previous]({{% ref "unit-iii-thermodynamics-chemical-equilibrium" %}}) | [Next]({{% ref "lecture-16" %}}) »

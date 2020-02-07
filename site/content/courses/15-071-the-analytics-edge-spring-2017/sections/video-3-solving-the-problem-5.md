@@ -5,13 +5,13 @@ menu:
     identifier: video-3-solving-the-problem-5
     weight: 3240
 ---
-*   [<Video 2: An Optimization Model]({{< ref "video-2-an-optimization-model" >}})
-*   [9.4.1Welcome to Recitation 9]({{< ref "operating-room-scheduling-making-hospitals-run-smoothly-recitation" >}})
-*   [9.4.2Video 1: The Problem]({{< ref "video-1-the-problem" >}})
-*   [9.4.3Video 2: An Optimization Model]({{< ref "video-2-an-optimization-model" >}})
-*   [9.4.4Video 3: Solving the Problem]({{< ref "video-3-solving-the-problem-5" >}})
-*   [9.4.5Video 4: The Solution]({{< ref "video-4-the-solution" >}})
-*   [\\>Video 4: The Solution]({{< ref "video-4-the-solution" >}})
+*   [<Video 2: An Optimization Model]({{% ref "video-2-an-optimization-model" %}})
+*   [9.4.1Welcome to Recitation 9]({{% ref "operating-room-scheduling-making-hospitals-run-smoothly-recitation" %}})
+*   [9.4.2Video 1: The Problem]({{% ref "video-1-the-problem" %}})
+*   [9.4.3Video 2: An Optimization Model]({{% ref "video-2-an-optimization-model" %}})
+*   [9.4.4Video 3: Solving the Problem]({{% ref "video-3-solving-the-problem-5" %}})
+*   [9.4.5Video 4: The Solution]({{% ref "video-4-the-solution" %}})
+*   [\\>Video 4: The Solution]({{% ref "video-4-the-solution" %}})
 
 Video 3: Solving the Problem
 ----------------------------
@@ -22,5 +22,5 @@ If you are using Excel, remember that you can indicate that the decision variabl
 
 Also, you might get a different solution than the one Angie gets in the following video. There are _multiple optimal solutions_ to this problem, so your solution might be another feasible solution with the optimal objective function value. You'll see in the next video how the constraints can be adjusted to find the optimal solution that better fits the problem. 
 
-*   [BackVideo 2: An Optimization Model]({{< ref "video-2-an-optimization-model" >}})
-*   [ContinueVideo 4: The Solution]({{< ref "video-4-the-solution" >}})
+*   [BackVideo 2: An Optimization Model]({{% ref "video-2-an-optimization-model" %}})
+*   [ContinueVideo 4: The Solution]({{% ref "video-4-the-solution" %}})

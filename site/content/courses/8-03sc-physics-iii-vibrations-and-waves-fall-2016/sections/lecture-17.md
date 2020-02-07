@@ -5,7 +5,7 @@ menu:
     identifier: lecture-17
     weight: 230
 ---
-« [Previous]({{< ref "part-iii-optics" >}}) | [Next]({{< ref "exam-2" >}}) »
+« [Previous]({{% ref "part-iii-optics" %}}) | [Next]({{% ref "exam-2" %}}) »
 
 Lecture Topics
 --------------
@@ -40,4 +40,4 @@ In-class Demonstrations
 | [Fiber Optic Bundle](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=M%204&show=0) | {{< br >}}{{< br >}} |
 | [Polarization of Microwaves](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=K%203&show=0) | {{< br >}}{{< br >}} 
 
-« [Previous]({{< ref "part-iii-optics" >}}) | [Next]({{< ref "exam-2" >}}) »
+« [Previous]({{% ref "part-iii-optics" %}}) | [Next]({{% ref "exam-2" %}}) »

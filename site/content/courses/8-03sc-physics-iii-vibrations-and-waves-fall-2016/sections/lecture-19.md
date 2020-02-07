@@ -5,7 +5,7 @@ menu:
     identifier: lecture-19
     weight: 260
 ---
-« [Previous]({{< ref "lecture-18" >}}) | [Next]({{< ref "lecture-20" >}}) »
+« [Previous]({{% ref "lecture-18" %}}) | [Next]({{% ref "lecture-20" %}}) »
 
 Lecture Topics
 --------------
@@ -46,4 +46,4 @@ Related Resources
 
 Video: [Polarization of Light](https://www.youtube.com/watch?v=E9qpbt0v5Hw) by [uclaphysicsvideo on YouTube](https://www.youtube.com/channel/UCXWBuswk0HFXgqJw3MXT1Ow)
 
-« [Previous]({{< ref "lecture-18" >}}) | [Next]({{< ref "lecture-20" >}}) »
+« [Previous]({{% ref "lecture-18" %}}) | [Next]({{% ref "lecture-20" %}}) »

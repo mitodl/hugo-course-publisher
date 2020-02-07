@@ -5,7 +5,7 @@ menu:
     identifier: lecture-21
     weight: 280
 ---
-« [Previous]({{< ref "lecture-20" >}}) | [Next]({{< ref "lecture-22" >}}) »
+« [Previous]({{% ref "lecture-20" %}}) | [Next]({{% ref "lecture-22" %}}) »
 
 Lecture Topics
 --------------
@@ -44,4 +44,4 @@ In-class Demonstrations
 | [Moiré Pattern](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%202&show=0) | {{< br >}}{{< br >}} |
 | [Single-Slit Diffraction with a Laser](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%202&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} 
 
-« [Previous]({{< ref "lecture-20" >}}) | [Next]({{< ref "lecture-22" >}}) »
+« [Previous]({{% ref "lecture-20" %}}) | [Next]({{% ref "lecture-22" %}}) »

@@ -5,7 +5,7 @@ menu:
     identifier: lecture-15
     weight: 200
 ---
-« [Previous]({{< ref "lecture-14" >}}) | [Next]({{< ref "lecture-16" >}}) »
+« [Previous]({{% ref "lecture-14" %}}) | [Next]({{% ref "lecture-16" %}}) »
 
 Lecture Topics
 --------------
@@ -57,4 +57,4 @@ Video: [Examples Related to Delta Functions (OCW, 18.03 recitation)](https://www
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{< ref "lecture-14" >}}) | [Next]({{< ref "lecture-16" >}}) »
+« [Previous]({{% ref "lecture-14" %}}) | [Next]({{% ref "lecture-16" %}}) »

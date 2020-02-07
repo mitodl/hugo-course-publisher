@@ -5,7 +5,7 @@ menu:
     identifier: exam-2
     weight: 240
 ---
-« [Previous]({{< ref "lecture-17" >}}) | [Next]({{< ref "lecture-18" >}}) »
+« [Previous]({{% ref "lecture-17" %}}) | [Next]({{% ref "lecture-18" %}}) »
 
 Exam Information
 ----------------
@@ -31,4 +31,4 @@ Practice Exam and Solutions
 [Practice Exam 2 (PDF)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/79f150f3a2293cb2f1df4c79c8e9eee4_MIT8_03SCF16_PracticeExam2.pdf)  
 ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Practice Exam 2 Solution (PDF)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/a593bcba4a965cb5d0de9cb1233ad356_MIT8_03SCF16_PracticeExam2_Solutions.pdf)
 
-« [Previous]({{< ref "lecture-17" >}}) | [Next]({{< ref "lecture-18" >}}) »
+« [Previous]({{% ref "lecture-17" %}}) | [Next]({{% ref "lecture-18" %}}) »

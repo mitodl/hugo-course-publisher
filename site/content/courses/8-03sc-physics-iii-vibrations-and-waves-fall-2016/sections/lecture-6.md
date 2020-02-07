@@ -5,7 +5,7 @@ menu:
     identifier: lecture-6
     weight: 90
 ---
-« [Previous]({{< ref "lecture-5" >}}) | [Next]({{< ref "lecture-7" >}}) »
+« [Previous]({{% ref "lecture-5" %}}) | [Next]({{% ref "lecture-7" %}}) »
 
 Lecture Topics
 --------------
@@ -39,4 +39,4 @@ In-class Demonstrations
 | [Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0) | {{< br >}}{{< br >}} |
 | [Coupled Air Carts](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2020&show=0) | {{< br >}}{{< br >}} 
 
-« [Previous]({{< ref "lecture-5" >}}) | [Next]({{< ref "lecture-7" >}}) »
+« [Previous]({{% ref "lecture-5" %}}) | [Next]({{% ref "lecture-7" %}}) »

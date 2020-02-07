@@ -5,12 +5,12 @@ menu:
     identifier: reading-test-scores
     weight: 740
 ---
-*   [<Assignment 2]({{< ref "assignment-2" >}})
-*   [2.5.1Climate Change]({{< ref "assignment-2" >}})
-*   [2.5.2Reading Test Scores]({{< ref "reading-test-scores" >}})
-*   [2.5.3Detecting Flu Epidemics via Search Engine Query Data]({{< ref "detecting-flu-epidemics-via-search-engine-query-data" >}})
-*   [2.5.4State Data]({{< ref "state-data" >}})
-*   [\\>Detecting Flu Epidemics via Search Engine Query Data]({{< ref "detecting-flu-epidemics-via-search-engine-query-data" >}})
+*   [<Assignment 2]({{% ref "assignment-2" %}})
+*   [2.5.1Climate Change]({{% ref "assignment-2" %}})
+*   [2.5.2Reading Test Scores]({{% ref "reading-test-scores" %}})
+*   [2.5.3Detecting Flu Epidemics via Search Engine Query Data]({{% ref "detecting-flu-epidemics-via-search-engine-query-data" %}})
+*   [2.5.4State Data]({{% ref "state-data" %}})
+*   [\\>Detecting Flu Epidemics via Search Engine Query Data]({{% ref "detecting-flu-epidemics-via-search-engine-query-data" %}})
 
 Reading Test Scores
 -------------------
@@ -567,5 +567,5 @@ The test-set R^2 is defined as 1-SSE/SST, where SSE is the sum of squared errors
 
 CheckShow Answer
 
-*   [BackAssignment 2]({{< ref "assignment-2" >}})
-*   [ContinueDetecting Flu Epidemics via Search Engine Query Data]({{< ref "detecting-flu-epidemics-via-search-engine-query-data" >}})
+*   [BackAssignment 2]({{% ref "assignment-2" %}})
+*   [ContinueDetecting Flu Epidemics via Search Engine Query Data]({{% ref "detecting-flu-epidemics-via-search-engine-query-data" %}})

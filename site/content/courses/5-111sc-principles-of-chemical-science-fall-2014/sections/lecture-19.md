@@ -5,7 +5,7 @@ menu:
     identifier: lecture-19
     weight: 240
 ---
-« [Previous]({{< ref "lecture-18" >}}) | [Next]({{< ref "lecture-20" >}}) »
+« [Previous]({{% ref "lecture-18" %}}) | [Next]({{% ref "lecture-20" %}}) »
 
 Topics
 ------
@@ -46,4 +46,4 @@ Acknowledgement
 
 “[Chemists Know](https://youtu.be/iM_I6rtIgn0)” courtesy of Rachel Martin, Eric Potoma, and Gianmarc Grazioli of the [UC Irvine Department of Chemistry](https://www.chem.uci.edu/). Used with permission.
 
-« [Previous]({{< ref "lecture-18" >}}) | [Next]({{< ref "lecture-20" >}}) »
+« [Previous]({{% ref "lecture-18" %}}) | [Next]({{% ref "lecture-20" %}}) »

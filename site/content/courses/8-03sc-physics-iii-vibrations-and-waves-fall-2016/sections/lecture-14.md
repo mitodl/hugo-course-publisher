@@ -5,7 +5,7 @@ menu:
     identifier: lecture-14
     weight: 190
 ---
-« [Previous]({{< ref "lecture-13" >}}) | [Next]({{< ref "lecture-15" >}}) »
+« [Previous]({{% ref "lecture-13" %}}) | [Next]({{% ref "lecture-15" %}}) »
 
 Lecture Topics
 --------------
@@ -29,4 +29,4 @@ Textbook Reading
 
 [Chapter 10: Signals and Fourier Analysis (PDF - 1.4MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/7a86f546565e2180f8f00e86c2ed9982_MIT8_03SCF16_Text_Ch10.pdf)
 
-« [Previous]({{< ref "lecture-13" >}}) | [Next]({{< ref "lecture-15" >}}) »
+« [Previous]({{% ref "lecture-13" %}}) | [Next]({{% ref "lecture-15" %}}) »

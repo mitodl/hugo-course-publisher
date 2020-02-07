@@ -5,7 +5,7 @@ menu:
     identifier: syllabus
     weight: 10
 ---
-[Next]({{< ref "meet-the-instructors" >}}) »
+[Next]({{% ref "meet-the-instructors" %}}) »
 
 Course Meeting Times
 --------------------
@@ -24,7 +24,7 @@ Workshop-style lectures, with industry guest speakers, focus on developing stude
 Use of Tumblr for the Course Website
 ------------------------------------
 
-This course [used a Tumblr](http://mit219.tumblr.com) to allow students and instructors to document and share their process, difficulties, and lessons learned with each other during the course. Tumblr is a platform that allows users to post multimedia and other content to a short-form blog. In this course, students submitted most of their homework on the Tumblr, which allowed the instructors and students to see and review each other's work. The course Tumblr also includes links to reference material that students could use. These Tumblr posts are sorted and collected on OCW in the [Student Projects]({{< ref "student-projects" >}}) and [Student Reflections]({{< ref "student-reflections" >}}) sections.
+This course [used a Tumblr](http://mit219.tumblr.com) to allow students and instructors to document and share their process, difficulties, and lessons learned with each other during the course. Tumblr is a platform that allows users to post multimedia and other content to a short-form blog. In this course, students submitted most of their homework on the Tumblr, which allowed the instructors and students to see and review each other's work. The course Tumblr also includes links to reference material that students could use. These Tumblr posts are sorted and collected on OCW in the [Student Projects]({{% ref "student-projects" %}}) and [Student Reflections]({{% ref "student-reflections" %}}) sections.
 
 Learning Outcomes
 -----------------
@@ -45,4 +45,4 @@ Key Skills
 *   Producing video (filming and editing)
 *   Gaining digital media literacy—familiarity with YouTube, online video communities
 
-[Next]({{< ref "meet-the-instructors" >}}) »
+[Next]({{% ref "meet-the-instructors" %}}) »

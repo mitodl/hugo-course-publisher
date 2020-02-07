@@ -5,7 +5,7 @@ menu:
     identifier: lecture-16
     weight: 210
 ---
-« [Previous]({{< ref "lecture-15" >}}) | [Next]({{< ref "part-iii-optics" >}}) »
+« [Previous]({{% ref "lecture-15" %}}) | [Next]({{% ref "part-iii-optics" %}}) »
 
 Lecture Topics
 --------------
@@ -46,4 +46,4 @@ Video: [Total Internal Refraction](https://www.youtube.com/watch?v=WRuatAcd2WY) 
 
 Video: [Snell's Law](https://www.youtube.com/watch?v=y55tzg_jW9I) by [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
 
-« [Previous]({{< ref "lecture-15" >}}) | [Next]({{< ref "part-iii-optics" >}}) »
+« [Previous]({{% ref "lecture-15" %}}) | [Next]({{% ref "part-iii-optics" %}}) »

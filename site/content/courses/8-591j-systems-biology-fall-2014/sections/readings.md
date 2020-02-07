@@ -5,7 +5,7 @@ menu:
     identifier: readings
     weight: 50
 ---
-To facilitate interactions during class between students, there are short required [questions]({{< ref "pre-class-reading-questions" >}}) about the reading that will be due before class.
+To facilitate interactions during class between students, there are short required [questions]({{% ref "pre-class-reading-questions" %}}) about the reading that will be due before class.
 
 Required Texts
 --------------

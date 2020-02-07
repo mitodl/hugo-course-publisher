@@ -5,7 +5,7 @@ menu:
     identifier: lecture-11
     weight: 150
 ---
-« [Previous]({{< ref "lecture-10" >}}) | [Next]({{< ref "part-ii-electromagnetic-waves" >}}) »
+« [Previous]({{% ref "lecture-10" %}}) | [Next]({{% ref "part-ii-electromagnetic-waves" %}}) »
 
 Lecture Topics
 --------------
@@ -58,4 +58,4 @@ Demonstration: [Two Speakers Facing Each Other with a Microphone](http://tsgphys
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{< ref "lecture-10" >}}) | [Next]({{< ref "part-ii-electromagnetic-waves" >}}) »
+« [Previous]({{% ref "lecture-10" %}}) | [Next]({{% ref "part-ii-electromagnetic-waves" %}}) »

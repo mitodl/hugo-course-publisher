@@ -5,6 +5,6 @@ menu:
     identifier: week-9-introduction
     weight: 1610
 ---
-« [Previous]({{< ref "week-9-collision-theory" >}}) | [Next]({{< ref "26.1-momentum-in-collisions" >}}) »
+« [Previous]({{% ref "week-9-collision-theory" %}}) | [Next]({{% ref "26.1-momentum-in-collisions" %}}) »
 
-« [Previous]({{< ref "week-9-collision-theory" >}}) | [Next]({{< ref "26.1-momentum-in-collisions" >}}) »
+« [Previous]({{% ref "week-9-collision-theory" %}}) | [Next]({{% ref "26.1-momentum-in-collisions" %}}) »

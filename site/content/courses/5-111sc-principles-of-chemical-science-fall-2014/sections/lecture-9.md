@@ -5,7 +5,7 @@ menu:
     identifier: lecture-9
     weight: 130
 ---
-« [Previous]({{< ref "lecture-8" >}}) | [Next]({{< ref "lecture-10" >}}) »
+« [Previous]({{% ref "lecture-8" %}}) | [Next]({{% ref "lecture-10" %}}) »
 
 Topics
 ------
@@ -59,4 +59,4 @@ Acknowledgement
 
 “[Dogs Teaching Chemistry — Chemical Bonds](https://www.youtube.com/watch?v=_M9khs87xQ8)” courtesy of Lauren Girard. Used with permission.
 
-« [Previous]({{< ref "lecture-8" >}}) | [Next]({{< ref "lecture-10" >}}) »
+« [Previous]({{% ref "lecture-8" %}}) | [Next]({{% ref "lecture-10" %}}) »

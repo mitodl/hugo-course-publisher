@@ -5,7 +5,7 @@ menu:
     identifier: lecture-1
     weight: 40
 ---
-« [Previous]({{< ref "part-i-mechanical-vibrations-and-waves" >}}) | [Next]({{< ref "lecture-2" >}}) »
+« [Previous]({{% ref "part-i-mechanical-vibrations-and-waves" %}}) | [Next]({{% ref "lecture-2" %}}) »
 
 Lecture Topics
 --------------
@@ -50,4 +50,4 @@ In-class Demonstrations
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{< ref "part-i-mechanical-vibrations-and-waves" >}}) | [Next]({{< ref "lecture-2" >}}) »
+« [Previous]({{% ref "part-i-mechanical-vibrations-and-waves" %}}) | [Next]({{% ref "lecture-2" %}}) »

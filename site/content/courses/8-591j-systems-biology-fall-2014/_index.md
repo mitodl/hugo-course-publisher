@@ -32,11 +32,8 @@ menu:
 
 ##### Course Features
 
-* [Instructor Insights]()
-* [This Course at MIT](instructor-insights)
-* [Assignments](assignments)
-* [Exams](exams)
-* [AV lectures](lecture-videos)
+* [Assignments]({{% ref "sections/assignments" %}})
+* [Exams]({{% ref "sections/exams" %}})
 
 ##### Course Collections
 

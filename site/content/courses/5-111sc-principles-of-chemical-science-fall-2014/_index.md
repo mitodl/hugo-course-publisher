@@ -24,14 +24,11 @@ menu:
 
 ##### Course Features
 
-* [Instructor Insights](meet-the-educator)
-* [This Course at MIT]()
-* [AV lectures]()
-* [Lecture notes](lecture-1)
-* [Assignments](lecture-1)
-* [Exams](exams)
-* [AV special element video](lecture-3)
-* [Resource Index](resource-index)
+* [Lecture notes]({{% ref "sections/lecture-1" %}})
+* [Assignments]({{% ref "sections/lecture-1" %}})
+* [Exams]({{% ref "sections/exams" %}})
+* [AV special element video]({{% ref "sections/lecture-3" %}})
+* [Resource Index]({{% ref "sections/resource-index" %}})
 
 ##### Course Collections
 

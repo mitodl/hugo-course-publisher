@@ -5,10 +5,10 @@ menu:
     identifier: predicting-the-baseball-world-series-champion
     weight: 1110
 ---
-*   [<Assignment 3]({{< ref "assignment-3" >}})
-*   [3.5.1Popularity of Music Records]({{< ref "assignment-3" >}})
-*   [3.5.2Predicting the Baseball World Series Champion]({{< ref "predicting-the-baseball-world-series-champion" >}})
-*   [\\>Trees]({{< ref "trees" >}})
+*   [<Assignment 3]({{% ref "assignment-3" %}})
+*   [3.5.1Popularity of Music Records]({{% ref "assignment-3" %}})
+*   [3.5.2Predicting the Baseball World Series Champion]({{% ref "predicting-the-baseball-world-series-champion" %}})
+*   [\\>Trees]({{% ref "trees" %}})
 
 Predicting the Baseball World Series Champion
 ---------------------------------------------
@@ -374,5 +374,5 @@ This seems to confirm the claim made by Billy Beane in Moneyball that all that m
 
 CheckShow Answer
 
-*   [BackAssignment 3]({{< ref "assignment-3" >}})
-*   [ContinueTrees]({{< ref "trees" >}})
+*   [BackAssignment 3]({{% ref "assignment-3" %}})
+*   [ContinueTrees]({{% ref "trees" %}})

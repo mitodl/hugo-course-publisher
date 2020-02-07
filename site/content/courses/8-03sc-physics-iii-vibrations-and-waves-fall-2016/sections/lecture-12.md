@@ -5,7 +5,7 @@ menu:
     identifier: lecture-12
     weight: 170
 ---
-« [Previous]({{< ref "part-ii-electromagnetic-waves" >}}) | [Next]({{< ref "lecture-13" >}}) »
+« [Previous]({{% ref "part-ii-electromagnetic-waves" %}}) | [Next]({{% ref "lecture-13" %}}) »
 
 Lecture Topics
 --------------
@@ -49,4 +49,4 @@ Webpage: [The Idea of the Curl of a Vector Field](https://mathinsight.org/curl_i
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{< ref "part-ii-electromagnetic-waves" >}}) | [Next]({{< ref "lecture-13" >}}) »
+« [Previous]({{% ref "part-ii-electromagnetic-waves" %}}) | [Next]({{% ref "lecture-13" %}}) »

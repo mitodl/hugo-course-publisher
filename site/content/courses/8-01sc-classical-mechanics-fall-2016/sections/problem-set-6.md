@@ -5,7 +5,7 @@ menu:
     identifier: problem-set-6
     weight: 1230
 ---
-« [Previous]({{< ref "ps.6.2-snowplow-problem" >}}) | [Next]({{< ref "week-7-kinetic-energy-and-work" >}}) »
+« [Previous]({{% ref "ps.6.2-snowplow-problem" %}}) | [Next]({{% ref "week-7-kinetic-energy-and-work" %}}) »
 
 Problem Set 6 contains the following problems:
 
@@ -17,4 +17,4 @@ Problem Set 6 contains the following problems:
 
 *   [Problem Set 6 (PDF)](https://open-learning-course-data.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/44b46fb9ae75796759884a9a7f7bd167_MIT8_01F16_pset6.pdf)
 
-« [Previous]({{< ref "ps.6.2-snowplow-problem" >}}) | [Next]({{< ref "week-7-kinetic-energy-and-work" >}}) »
+« [Previous]({{% ref "ps.6.2-snowplow-problem" %}}) | [Next]({{% ref "week-7-kinetic-energy-and-work" %}}) »

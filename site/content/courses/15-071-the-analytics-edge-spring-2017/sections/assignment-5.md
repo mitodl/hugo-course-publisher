@@ -5,11 +5,11 @@ menu:
     identifier: assignment-5
     weight: 1910
 ---
-*   [<Video 8: Predictive Coding Today]({{< ref "video-8-predictive-coding-today" >}})
-*   [5.5.1Separating Spam from Ham (Part 1)]({{< ref "assignment-5" >}})
-*   [5.5.2Detecting Vandalism on Wikipedia]({{< ref "detecting-vandalism-on-wikipedia" >}})
-*   [5.5.3Automating Reviews in Medicine]({{< ref "automating-reviews-in-medicine" >}})
-*   [\\>Detecting Vandalism on Wikipedia]({{< ref "detecting-vandalism-on-wikipedia" >}})
+*   [<Video 8: Predictive Coding Today]({{% ref "video-8-predictive-coding-today" %}})
+*   [5.5.1Separating Spam from Ham (Part 1)]({{% ref "assignment-5" %}})
+*   [5.5.2Detecting Vandalism on Wikipedia]({{% ref "detecting-vandalism-on-wikipedia" %}})
+*   [5.5.3Automating Reviews in Medicine]({{% ref "automating-reviews-in-medicine" %}})
+*   [\\>Detecting Vandalism on Wikipedia]({{% ref "detecting-vandalism-on-wikipedia" %}})
 
 Separating Spam From Ham
 ------------------------
@@ -425,5 +425,5 @@ You may note that we did not ask you to fit a logistic regression model to pred
 
 This warning indicates that R's logistic regression solution procedure has failed.
 
-*   [BackVideo 8: Predictive Coding Today]({{< ref "video-8-predictive-coding-today" >}})
-*   [ContinueDetecting Vandalism on Wikipedia]({{< ref "detecting-vandalism-on-wikipedia" >}})
+*   [BackVideo 8: Predictive Coding Today]({{% ref "video-8-predictive-coding-today" %}})
+*   [ContinueDetecting Vandalism on Wikipedia]({{% ref "detecting-vandalism-on-wikipedia" %}})

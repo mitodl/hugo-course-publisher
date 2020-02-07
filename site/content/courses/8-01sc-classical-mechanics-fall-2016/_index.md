@@ -41,9 +41,6 @@ menu:
 
 ##### Course Features
 
-* [AV lectures]()
-* [Assignments]()
-* [Online textbooks]()
 
 ##### Course Collections
 

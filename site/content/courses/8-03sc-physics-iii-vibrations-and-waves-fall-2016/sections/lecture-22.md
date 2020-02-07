@@ -5,7 +5,7 @@ menu:
     identifier: lecture-22
     weight: 290
 ---
-« [Previous]({{< ref "lecture-21" >}}) | [Next]({{< ref "lecture-23" >}}) »
+« [Previous]({{% ref "lecture-21" %}}) | [Next]({{% ref "lecture-23" %}}) »
 
 Lecture Topics
 --------------
@@ -49,4 +49,4 @@ Video: [Laser Diffraction and Interference](https://www.youtube.com/watch?v=9D8c
 
 Demonstration: [Single Slit Diffraction with Ripple Tank](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%201&show=0) by [TSG@MIT Physics](http://tsgphysics.mit.edu/front/)
 
-« [Previous]({{< ref "lecture-21" >}}) | [Next]({{< ref "lecture-23" >}}) »
+« [Previous]({{% ref "lecture-21" %}}) | [Next]({{% ref "lecture-23" %}}) »

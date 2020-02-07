@@ -5,7 +5,7 @@ menu:
     identifier: lecture-14
     weight: 180
 ---
-« [Previous]({{< ref "lecture-13" >}}) | [Next]({{< ref "unit-iii-thermodynamics-chemical-equilibrium" >}}) »
+« [Previous]({{% ref "lecture-13" %}}) | [Next]({{% ref "unit-iii-thermodynamics-chemical-equilibrium" %}}) »
 
 Topics
 ------
@@ -41,4 +41,4 @@ Problems and Solutions
 
 [Solutions for Lecture 14 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/a3113804070ac8bc4bb610833d9f634e_MIT5_111F14_Lec14Soln.pdf)
 
-« [Previous]({{< ref "lecture-13" >}}) | [Next]({{< ref "unit-iii-thermodynamics-chemical-equilibrium" >}}) »
+« [Previous]({{% ref "lecture-13" %}}) | [Next]({{% ref "unit-iii-thermodynamics-chemical-equilibrium" %}}) »

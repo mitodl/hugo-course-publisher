@@ -7,17 +7,17 @@ menu:
     identifier: video-3-a-sophisticated-baseline-method
     weight: 1070
 ---
-*   [<Video 2: Dealing with Missing Data]({{< ref "video-2-dealing-with-missing-data" >}})
-*   [3.4.1Welcome to Recitation 3]({{< ref "election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation" >}})
-*   [3.4.2Video 1: Election Prediction]({{< ref "video-1-election-prediction" >}})
-*   [3.4.3Video 2: Dealing with Missing Data]({{< ref "video-2-dealing-with-missing-data" >}})
-*   [3.4.4Video 3: A Sophisticated Baseline Method]({{< ref "video-3-a-sophisticated-baseline-method" >}})
-*   [3.4.5Video 4: Logistic Regression Models]({{< ref "video-4-logistic-regression-models" >}})
-*   [3.4.6Video 5: Test Set Predictions]({{< ref "video-5-test-set-predictions" >}})
-*   [\\>Video 4: Logistic Regression Models]({{< ref "video-4-logistic-regression-models" >}})
+*   [<Video 2: Dealing with Missing Data]({{% ref "video-2-dealing-with-missing-data" %}})
+*   [3.4.1Welcome to Recitation 3]({{% ref "election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation" %}})
+*   [3.4.2Video 1: Election Prediction]({{% ref "video-1-election-prediction" %}})
+*   [3.4.3Video 2: Dealing with Missing Data]({{% ref "video-2-dealing-with-missing-data" %}})
+*   [3.4.4Video 3: A Sophisticated Baseline Method]({{% ref "video-3-a-sophisticated-baseline-method" %}})
+*   [3.4.5Video 4: Logistic Regression Models]({{% ref "video-4-logistic-regression-models" %}})
+*   [3.4.6Video 5: Test Set Predictions]({{% ref "video-5-test-set-predictions" %}})
+*   [\\>Video 4: Logistic Regression Models]({{% ref "video-4-logistic-regression-models" %}})
 
 Video 3: A Sophisticated Baseline Method
 ----------------------------------------
 
-*   [BackVideo 2: Dealing with Missing Data]({{< ref "video-2-dealing-with-missing-data" >}})
-*   [ContinueVideo 4: Logistic Regression Models]({{< ref "video-4-logistic-regression-models" >}})
+*   [BackVideo 2: Dealing with Missing Data]({{% ref "video-2-dealing-with-missing-data" %}})
+*   [ContinueVideo 4: Logistic Regression Models]({{% ref "video-4-logistic-regression-models" %}})

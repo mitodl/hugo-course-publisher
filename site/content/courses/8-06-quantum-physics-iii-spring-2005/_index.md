@@ -30,7 +30,7 @@ menu:
 
 ##### Course Features
 
-* [Projects](projects)
+* [Projects]({{% ref "sections/projects" %}})
 
 ##### Course Collections
 

@@ -5,7 +5,7 @@ menu:
     identifier: nathan-hernandezs-project
     weight: 280
 ---
-« [Previous]({{< ref "paul-pj-folinos-project" >}}) | [Next]({{< ref "yuliya-klochans-project" >}}) »
+« [Previous]({{% ref "paul-pj-folinos-project" %}}) | [Next]({{% ref "yuliya-klochans-project" %}}) »
 
 [_Link to_ _Nathan Hernandez's Page on Tumblr_](http://mit219.tumblr.com/tagged/hiji)
 
@@ -34,7 +34,7 @@ Just a few things:
 *   Visuals
 *   Better things to do with my body
 
-[\_Link back to Day 1\_]({{< ref "day-1-identity-and-genre" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 1\_]({{% ref "day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
 
 Day 2 Script: Draft for "How does Food Turn to Mush?"
 -----------------------------------------------------
@@ -75,7 +75,7 @@ Usually this process takes 10–14 days to reach a point at which it probably is
 
 How do you prevent your fresh food from going bad? My advice, eat your veggies.
 
-[\_Link back to Day 2\_]({{< ref "day-2-audience" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 2\_]({{% ref "day-2-audience" %}}#Instructor\_and\_Student\_Work)
 
 Day 3 Pitch
 -----------
@@ -84,7 +84,7 @@ This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1
 
 Very rough
 
-[\_Link back to Day 3\_]({{< ref "day-3-storytellers-toolkit-pt.-1" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 3\_]({{% ref "day-3-storytellers-toolkit-pt.-1" %}}#Instructor\_and\_Student\_Work)
 
 Day 4 Storyboard
 ----------------
@@ -100,7 +100,7 @@ Day 4 Storyboard
 5.  it's like if I were to pop the balloon.
 6.  The water and nutrients that come out are what cause the muck you see in your fridge.
 
-[\_Link back to Day 4\_]({{< ref "day-4-storytellers-toolkit-pt.-2" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 4\_]({{% ref "day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
 
 Rough Cut: Breaking Down Decomposition
 --------------------------------------
@@ -109,7 +109,7 @@ This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1
 
 **I will explain why it's so terrible.**
 
-[\_Link back to Day 11\_]({{< ref "day-11-12-screening-rough-cuts" >}}#Student\_Work)
+[\_Link back to Day 11\_]({{% ref "day-11-12-screening-rough-cuts" %}}#Student\_Work)
 
 Final Project: Breaking Down Decomposition
 ------------------------------------------
@@ -128,6 +128,6 @@ Production Assistant: Andrea Desrosiers
 
 [See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108857321146/creative-commons-cc-by-nc-sa-mit)
 
-[\_Link back to Day 13\_]({{< ref "day-13-screening-final-cuts" >}}#Student\_Work)
+[\_Link back to Day 13\_]({{% ref "day-13-screening-final-cuts" %}}#Student\_Work)
 
-« [Previous]({{< ref "paul-pj-folinos-project" >}}) | [Next]({{< ref "yuliya-klochans-project" >}}) »
+« [Previous]({{% ref "paul-pj-folinos-project" %}}) | [Next]({{% ref "yuliya-klochans-project" %}}) »

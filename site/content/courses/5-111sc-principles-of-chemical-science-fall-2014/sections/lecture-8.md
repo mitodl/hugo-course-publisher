@@ -5,7 +5,7 @@ menu:
     identifier: lecture-8
     weight: 120
 ---
-« [Previous]({{< ref "unit-ii-chemical-bonding-structure" >}}) | [Next]({{< ref "lecture-9" >}}) »
+« [Previous]({{% ref "unit-ii-chemical-bonding-structure" %}}) | [Next]({{% ref "lecture-9" %}}) »
 
 Topics
 ------
@@ -51,4 +51,4 @@ Acknowledgement
 
 Excerpt of "[Meet the Elements](https://youtu.be/Uy0m7jnyv6U)" by [They Might be Gaints](http://www.theymightbegiants.com/), courtesy of Idlewild / Disney Sound, used with permission. From [_Here Comes Science_](http://www.theymightbegiants.com/music/here-comes-science/), 2009.
 
-« [Previous]({{< ref "unit-ii-chemical-bonding-structure" >}}) | [Next]({{< ref "lecture-9" >}}) »
+« [Previous]({{% ref "unit-ii-chemical-bonding-structure" %}}) | [Next]({{% ref "lecture-9" %}}) »

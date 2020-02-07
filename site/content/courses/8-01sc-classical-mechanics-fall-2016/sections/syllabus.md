@@ -5,7 +5,7 @@ menu:
     identifier: syllabus
     weight: 10
 ---
-« [Previous](./resolveuid/8f538d2a785ea37ad30133ad74e8e40e) | [Next]({{< ref "about-the-team" >}}) »
+« [Previous](./resolveuid/8f538d2a785ea37ad30133ad74e8e40e) | [Next]({{% ref "about-the-team" %}}) »
 
 Video Introduction by Prof. Deepto Chakrabarty and Dr. Peter Dourmashkin
 ------------------------------------------------------------------------
@@ -38,30 +38,30 @@ Our goal is to develop a conceptual understanding of the core concepts, a famili
 Textbook
 --------
 
-The textbook for this course is ["Classical Mechanics: MIT 8.01 Course Notes" (PDF - 67.9MB)](https://ocw.mit.edu/ans7870/8/8.01/f16/readings/MIT8_01F16_TableOfContents.pdf) by Peter Dourmashkin. Specific readings for each assignment are provided in the [Readings]({{< ref "readings" >}}) section.
+The textbook for this course is ["Classical Mechanics: MIT 8.01 Course Notes" (PDF - 67.9MB)](https://ocw.mit.edu/ans7870/8/8.01/f16/readings/MIT8_01F16_TableOfContents.pdf) by Peter Dourmashkin. Specific readings for each assignment are provided in the [Readings]({{% ref "readings" %}}) section.
 
 Topics Covered
 --------------
 
-*   [Week 1: Kinematics]({{< ref "week-1-kinematics" >}})
-*   [Week 2: Newton's Laws Circular Motion]({{< ref "week-2-newtons-laws" >}})
-*   [Week 3: Circular Motion Momentum and Impulse]({{< ref "week-3-circular-motion" >}})
-*   [Week 4: Drag Forces, Constraints and Continuous Systems Work and Mechanical Energy]({{< ref "week-4-drag-forces-constraints-and-continuous-systems" >}})
-*   [Week 5: Momentum and Impulse Collision Theory]({{< ref "week-5-momentum-and-impulse" >}})
-*   [Week 6: Continuous Mass Transfer Torque]({{< ref "week-6-continuous-mass-transfer" >}})
-*   [Week 7: Kinetic Energy and Work]({{< ref "week-7-kinetic-energy-and-work" >}})
-*   [Week 8: Potential Energy and Energy Conservation]({{< ref "week-8-potential-energy-and-energy-conservation" >}})
-*   [Week 9: Collision Theory]({{< ref "week-9-collision-theory" >}})
-*   [Week 10: Rotational Motion]({{< ref "week-10-rotational-motion" >}})
-*   [Week 11: Angular Momentum]({{< ref "week-11-angular-momentum" >}})
-*   [Week 12: Rotations and Translation - Rollin]({{< ref "week-12-rotations-and-translation-rolling" >}})g
+*   [Week 1: Kinematics]({{% ref "week-1-kinematics" %}})
+*   [Week 2: Newton's Laws Circular Motion]({{% ref "week-2-newtons-laws" %}})
+*   [Week 3: Circular Motion Momentum and Impulse]({{% ref "week-3-circular-motion" %}})
+*   [Week 4: Drag Forces, Constraints and Continuous Systems Work and Mechanical Energy]({{% ref "week-4-drag-forces-constraints-and-continuous-systems" %}})
+*   [Week 5: Momentum and Impulse Collision Theory]({{% ref "week-5-momentum-and-impulse" %}})
+*   [Week 6: Continuous Mass Transfer Torque]({{% ref "week-6-continuous-mass-transfer" %}})
+*   [Week 7: Kinetic Energy and Work]({{% ref "week-7-kinetic-energy-and-work" %}})
+*   [Week 8: Potential Energy and Energy Conservation]({{% ref "week-8-potential-energy-and-energy-conservation" %}})
+*   [Week 9: Collision Theory]({{% ref "week-9-collision-theory" %}})
+*   [Week 10: Rotational Motion]({{% ref "week-10-rotational-motion" %}})
+*   [Week 11: Angular Momentum]({{% ref "week-11-angular-momentum" %}})
+*   [Week 12: Rotations and Translation - Rollin]({{% ref "week-12-rotations-and-translation-rolling" %}})g
 
 How to Use This Site
 --------------------
 
 This version of 8._01 Classical Mechanics_ on OCW is modified from the materials presented in the fall 2016 course taught at MIT. The course is broken into twelve weeks, as listed above. Each week contains 3-4 lessons on distinct topics. Each lesson consists of a series of videos explaining the topic, which are meant to be viewed in sequence.
 
-The [first lesson]({{< ref "0.1-vectors-vs.-scalars" >}}) is on vectors; the "Previous" and "Next" buttons can be used to navigate between videos. Alternatively, all videos can be accessed on the "Week" page corresponding to that lesson.
+The [first lesson]({{% ref "0.1-vectors-vs.-scalars" %}}) is on vectors; the "Previous" and "Next" buttons can be used to navigate between videos. Alternatively, all videos can be accessed on the "Week" page corresponding to that lesson.
 
 Grades
 ------
@@ -91,4 +91,4 @@ Scientists and engineers work in groups as well as alone. Social interactions ar
 
 You will form groups of three for collaborative work. If you are not satisfied with the way your group is working, first try to discuss it with your group members. If you cannot arrive at a satisfactory solution, then discuss the problems with your instructor.
 
-« [Previous](./resolveuid/8f538d2a785ea37ad30133ad74e8e40e) | [Next]({{< ref "about-the-team" >}}) »
+« [Previous](./resolveuid/8f538d2a785ea37ad30133ad74e8e40e) | [Next]({{% ref "about-the-team" %}}) »

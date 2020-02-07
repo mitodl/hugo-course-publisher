@@ -5,7 +5,7 @@ menu:
     identifier: ps.1.3-worked-example-braking-car
     weight: 330
 ---
-« [Previous]({{< ref "ps.1.2-shooting-the-apple" >}}) | [Next]({{< ref "ps.1.4-sketch-the-motion" >}}) »
+« [Previous]({{% ref "ps.1.2-shooting-the-apple" %}}) | [Next]({{% ref "ps.1.4-sketch-the-motion" %}}) »
 
 At time \\(\\displaystyle t=0 \\), a car moving along the +\\(\\displaystyle x \\)-axis passes through \\(\\displaystyle x=0 \\) with a constant velocity of magnitude \\(\\displaystyle v\_0 \\). At some time later, \\(\\displaystyle t\_1 \\), it starts to slow down. The acceleration of the car as a function of time is given by:
 
@@ -21,4 +21,4 @@ where \\(\\displaystyle c \\) is a positive constants in SI units, and \\(\\disp
 
 **(Part d)**. What is \\(\\displaystyle x(t) \\), the position of the car as a function of time during the time interval \\(\\displaystyle t\_1 \\lt t \\leq t\_2 \\)?
 
-« [Previous]({{< ref "ps.1.2-shooting-the-apple" >}}) | [Next]({{< ref "ps.1.4-sketch-the-motion" >}}) »
+« [Previous]({{% ref "ps.1.2-shooting-the-apple" %}}) | [Next]({{% ref "ps.1.4-sketch-the-motion" %}}) »
