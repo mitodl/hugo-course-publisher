@@ -34,8 +34,8 @@ menu:
 
 ##### Course Features
 
-* [Assignments]({{< ref "sections/labs-and-exercises" >}})
-* [Lecture notes]({{< ref "sections/lecture-notes-and-slides" >}})
+* [Assignments]({{% ref "sections/labs-and-exercises" %}})
+* [Lecture notes]({{% ref "sections/lecture-notes-and-slides" %}})
 
 ##### Course Collections
 

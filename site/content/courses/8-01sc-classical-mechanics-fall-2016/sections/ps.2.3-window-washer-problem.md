@@ -5,7 +5,7 @@ menu:
     identifier: ps.2.3-window-washer-problem
     weight: 550
 ---
-« [Previous]({{< ref "ps.2.2-worked-example-pushing-stacked-blocks" >}}) | [Next]({{< ref "problem-set-2" >}}) »
+« [Previous]({{% ref "ps.2.2-worked-example-pushing-stacked-blocks" %}}) | [Next]({{% ref "problem-set-2" %}}) »
 
 ![A diagram showing a window washer standing on a platform hanging from the ceiling by two pulleys.](https://open-learning-course-data.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/8795a8d9c0b50bce53c101ec09dd4356_ls02_02.svg)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -42,4 +42,4 @@ Now that we know the system, we can solve for \\(\\displaystyle F\_{wB}\\).
 Window Washer Solution
 ----------------------
 
-« [Previous]({{< ref "ps.2.2-worked-example-pushing-stacked-blocks" >}}) | [Next]({{< ref "problem-set-2" >}}) »
+« [Previous]({{% ref "ps.2.2-worked-example-pushing-stacked-blocks" %}}) | [Next]({{% ref "problem-set-2" %}}) »

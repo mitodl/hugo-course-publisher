@@ -5,11 +5,11 @@ menu:
     identifier: assignment-4
     weight: 1520
 ---
-*   [<Video 7: Cross-Validation]({{< ref "video-7-cross-validation" >}})
-*   [4.5.1Predicting Earnings from Census Data]({{< ref "assignment-4" >}})
-*   [4.5.2Understanding Why People Vote]({{< ref "understanding-why-people-vote" >}})
-*   [4.5.3State Data Revisted]({{< ref "state-data-revisted" >}})
-*   [\\>Understanding Why People Vote]({{< ref "understanding-why-people-vote" >}})
+*   [<Video 7: Cross-Validation]({{% ref "video-7-cross-validation" %}})
+*   [4.5.1Predicting Earnings from Census Data]({{% ref "assignment-4" %}})
+*   [4.5.2Understanding Why People Vote]({{% ref "understanding-why-people-vote" %}})
+*   [4.5.3State Data Revisted]({{% ref "state-data-revisted" %}})
+*   [\\>Understanding Why People Vote]({{% ref "understanding-why-people-vote" %}})
 
 Predicting Earnings from Census Data
 ------------------------------------
@@ -466,5 +466,5 @@ If you plot the tree with prp(model), where "model" is the name of your CART tre
 
 CheckShow Answer
 
-*   [BackVideo 7: Cross-Validation]({{< ref "video-7-cross-validation" >}})
-*   [ContinueUnderstanding Why People Vote]({{< ref "understanding-why-people-vote" >}})
+*   [BackVideo 7: Cross-Validation]({{% ref "video-7-cross-validation" %}})
+*   [ContinueUnderstanding Why People Vote]({{% ref "understanding-why-people-vote" %}})

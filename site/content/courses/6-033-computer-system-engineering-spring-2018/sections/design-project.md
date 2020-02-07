@@ -27,7 +27,7 @@ The **Peer Review** will be graded by your Tutorial Instructor and Teaching Assi
 Deliverables
 ------------
 
-Below are all DP deliverables and related material. The dates deliverables are assigned and due are available on the [course calendar]({{< ref "calendar" >}}).
+Below are all DP deliverables and related material. The dates deliverables are assigned and due are available on the [course calendar]({{% ref "calendar" %}}).
 
 *   [Design Project Description (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/d0c9f5a952353e8d1757fbb2c66bef51_MIT6_033S18dp.pdf)
 *   [Design Project FAQ (PDF) ](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/64c76f726de3a311cd25009c4ea1e872_MIT6_033S18dp_faq.pdf)

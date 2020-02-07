@@ -5,12 +5,12 @@ menu:
     identifier: lecture-18
     weight: 250
 ---
-« [Previous]({{< ref "exam-2" >}}) | [Next]({{< ref "lecture-19" >}}) »
+« [Previous]({{% ref "exam-2" %}}) | [Next]({{% ref "lecture-19" %}}) »
 
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/43a0c77ffebf5435c8a8ecf0661d3f16_L18.jpg) | <br><br>*   Wave plates<br>*   Quarter wave plate<br>*   Radiation<br>*   Oscillating charge<br>*   Dipole radiation<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/43a0c77ffebf5435c8a8ecf0661d3f16_L18.jpg) | {{< br >}}{{< br >}}*   Wave plates{{< br >}}*   Quarter wave plate{{< br >}}*   Radiation{{< br >}}*   Oscillating charge{{< br >}}*   Dipole radiation{{< br >}}{{< br >}} 
 
 Lecture Video: Wave Plates, Radiation
 -------------------------------------
@@ -34,13 +34,13 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Polarizing Filters and Light](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%201&show=0) | <br><br>and<br><br> |
-| [Polarization in a Sugar Solution](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%208&show=0) | <br><br> |
-| [Polarization of Radio Waves (Dipole Antenna)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%2012&show=0) | <br><br>and<br><br> 
+| [Polarizing Filters and Light](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%201&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} |
+| [Polarization in a Sugar Solution](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%208&show=0) | {{< br >}}{{< br >}} |
+| [Polarization of Radio Waves (Dipole Antenna)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%2012&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} 
 
 Related Resources
 -----------------
 
 Video: [Radiating Charge](https://phet.colorado.edu/en/simulation/legacy/radiating-charge) from [PhET Interactive Simulations project at the University of Colorado Boulder](https://phet.colorado.edu/)
 
-« [Previous]({{< ref "exam-2" >}}) | [Next]({{< ref "lecture-19" >}}) »
+« [Previous]({{% ref "exam-2" %}}) | [Next]({{% ref "lecture-19" %}}) »

@@ -20,7 +20,7 @@ Lecture 8: Introduction to Networking
 8.  So What's New on the Internet?
 9.  Recurring Themes
 
-*   [Detailed Outline]({{< ref "lecture-8-outline" >}})
+*   [Detailed Outline]({{% ref "lecture-8-outline" %}})
 
 ### Lecture Slides
 
@@ -34,7 +34,7 @@ Recitation 8: The Design Philosophy of the DARPA Internet Protocols
 -------------------------------------------------------------------
 
 *   Read "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Design Philosophy of the DARPA Internet Protocols (PDF)](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf)" by D. Clark. (Skip Section 10)
-*   [DARPA Assignment]({{< ref "darpa-assignment" >}})
+*   [DARPA Assignment]({{% ref "darpa-assignment" %}})
 
 Hands-on Assignment 4: Reliable Transport
 -----------------------------------------
@@ -53,7 +53,7 @@ Lecture 9: Routing
 5.  Distance-vector Routing
 6.  Summary
 
-*   [Detailed Outline]({{< ref "lecture-9-outline" >}})
+*   [Detailed Outline]({{% ref "lecture-9-outline" %}})
 
 ### Lecture Slides
 
@@ -67,7 +67,7 @@ Recitation 9: Landmark Routing
 ------------------------------
 
 *   Read the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Landmark Hierarchy: An New Hierarchy for Routing Very Large Networks (PDF)](http://www.cs.cornell.edu/people/francis/p35-tsuchiya.pdf)" by P. Tsuchiya
-*   [Landmark Routing Assignment]({{< ref "landmark-routing-assignment" >}})
+*   [Landmark Routing Assignment]({{% ref "landmark-routing-assignment" %}})
 
 Tutorial 5: Collaboration & Figures
 -----------------------------------

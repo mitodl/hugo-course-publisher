@@ -32,8 +32,8 @@ menu:
 
 ##### Course Features
 
-* [Assignments]({{< ref "sections/assignments" >}})
-* [Exams]({{< ref "sections/exams" >}})
+* [Assignments]({{% ref "sections/assignments" %}})
+* [Exams]({{% ref "sections/exams" %}})
 
 ##### Course Collections
 

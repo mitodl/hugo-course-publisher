@@ -5,7 +5,7 @@ menu:
     identifier: syllabus
     weight: 10
 ---
-« [Previous](./resolveuid/19cb51d5cef7d0467691d444accc451d) | [Next]({{< ref "instructor-insights" >}}) »
+« [Previous](./resolveuid/19cb51d5cef7d0467691d444accc451d) | [Next]({{% ref "instructor-insights" %}}) »
 
 Prerequisites
 -------------
@@ -58,4 +58,4 @@ Suggested References
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262520478) [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0262520478/ref=nosim/mitopencourse-20) Bekefi, George, and Alan H. Barrett. _Electromagnetic Vibrations, Waves, and Radiation_. MIT Press, 1977. ISBN: 9780262520478. \[Preview with [Google Books](http://books.google.com/books?id=zRfTq6iMdNEC&pg=PAfrontcover)\]
 
-« [Previous](./resolveuid/19cb51d5cef7d0467691d444accc451d) | [Next]({{< ref "instructor-insights" >}}) »
+« [Previous](./resolveuid/19cb51d5cef7d0467691d444accc451d) | [Next]({{% ref "instructor-insights" %}}) »

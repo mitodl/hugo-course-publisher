@@ -5,12 +5,12 @@ menu:
     identifier: welcome-to-unit-4
     weight: 1130
 ---
-*   [<Trees]({{< ref "trees" >}})
-*   [4.1.1Welcome to Unit 4]({{< ref "welcome-to-unit-4" >}})
-*   [\\>Judge, Jury, and Classifier: An Introduction to Trees]({{< ref "judge-jury-and-classifier-an-introduction-to-trees" >}})
+*   [<Trees]({{% ref "trees" %}})
+*   [4.1.1Welcome to Unit 4]({{% ref "welcome-to-unit-4" %}})
+*   [\\>Judge, Jury, and Classifier: An Introduction to Trees]({{% ref "judge-jury-and-classifier-an-introduction-to-trees" %}})
 
 Welcome to Unit 4
 -----------------
 
-*   [BackTrees]({{< ref "trees" >}})
-*   [ContinueJudge, Jury, and Classifier: An Introduction to Trees]({{< ref "judge-jury-and-classifier-an-introduction-to-trees" >}})
+*   [BackTrees]({{% ref "trees" %}})
+*   [ContinueJudge, Jury, and Classifier: An Introduction to Trees]({{% ref "judge-jury-and-classifier-an-introduction-to-trees" %}})

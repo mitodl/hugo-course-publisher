@@ -38,7 +38,7 @@ menu:
 
 ##### Course Features
 
-* [Resource Index]({{< ref "sections/resource-index" >}})
+* [Resource Index]({{% ref "sections/resource-index" %}})
 
 ##### Course Collections
 

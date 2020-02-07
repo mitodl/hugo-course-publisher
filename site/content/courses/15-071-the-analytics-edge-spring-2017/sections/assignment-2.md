@@ -5,12 +5,12 @@ menu:
     identifier: assignment-2
     weight: 730
 ---
-*   [<Video 4: Making Predictions]({{< ref "video-4-making-predictions" >}})
-*   [2.5.1Climate Change]({{< ref "assignment-2" >}})
-*   [2.5.2Reading Test Scores]({{< ref "reading-test-scores" >}})
-*   [2.5.3Detecting Flu Epidemics via Search Engine Query Data]({{< ref "detecting-flu-epidemics-via-search-engine-query-data" >}})
-*   [2.5.4State Data]({{< ref "state-data" >}})
-*   [\\>Reading Test Scores]({{< ref "reading-test-scores" >}})
+*   [<Video 4: Making Predictions]({{% ref "video-4-making-predictions" %}})
+*   [2.5.1Climate Change]({{% ref "assignment-2" %}})
+*   [2.5.2Reading Test Scores]({{% ref "reading-test-scores" %}})
+*   [2.5.3Detecting Flu Epidemics via Search Engine Query Data]({{% ref "detecting-flu-epidemics-via-search-engine-query-data" %}})
+*   [2.5.4State Data]({{% ref "state-data" %}})
+*   [\\>Reading Test Scores]({{% ref "reading-test-scores" %}})
 
 Climate Change
 --------------
@@ -193,5 +193,5 @@ We have observed that, for this problem, when we remove many variables the sign 
 
 CheckShow Answer
 
-*   [BackVideo 4: Making Predictions]({{< ref "video-4-making-predictions" >}})
-*   [ContinueReading Test Scores]({{< ref "reading-test-scores" >}})
+*   [BackVideo 4: Making Predictions]({{% ref "video-4-making-predictions" %}})
+*   [ContinueReading Test Scores]({{% ref "reading-test-scores" %}})

@@ -5,23 +5,23 @@ menu:
     identifier: video-4-linear-regression-in-r
     weight: 470
 ---
-*   [<Quick Question]({{< ref "quick-question-73" >}})
-*   [2.2.1Video 1: Predicting the Quality of Wine]({{< ref "the-statistical-sommelier-an-introduction-to-linear-regression" >}})
-*   [2.2.2Quick Question]({{< ref "quick-question-46" >}})
-*   [2.2.3Video 2: One-Variable Linear Regression]({{< ref "video-2-one-variable-linear-regression" >}})
-*   [2.2.4Quick Question]({{< ref "quick-question-54" >}})
-*   [2.2.5Video 3: Multiple Linear Regression]({{< ref "video-3-multiple-linear-regression" >}})
-*   [2.2.6Quick Question]({{< ref "quick-question-73" >}})
-*   [2.2.7Video 4: Linear Regression in R]({{< ref "video-4-linear-regression-in-r" >}})
-*   [2.2.8Quick Question]({{< ref "quick-question-78" >}})
-*   [2.2.9Video 5: Understanding the Model]({{< ref "video-5-understanding-the-model" >}})
-*   [2.2.10Quick Question]({{< ref "quick-question-88" >}})
-*   [2.2.11Video 6: Correlation and Multicollinearity]({{< ref "video-6-correlation-and-multicollinearity" >}})
-*   [2.2.12Quick Question]({{< ref "quick-question-96" >}})
-*   [2.2.13Video 7: Making Predictions]({{< ref "video-7-making-predictions" >}})
-*   [2.2.14Quick Question]({{< ref "quick-question-101" >}})
-*   [2.2.15Video 8: Comparing the Model to the Experts]({{< ref "video-8-comparing-the-model-to-the-experts" >}})
-*   [\\>Quick Question]({{< ref "quick-question-78" >}})
+*   [<Quick Question]({{% ref "quick-question-73" %}})
+*   [2.2.1Video 1: Predicting the Quality of Wine]({{% ref "the-statistical-sommelier-an-introduction-to-linear-regression" %}})
+*   [2.2.2Quick Question]({{% ref "quick-question-46" %}})
+*   [2.2.3Video 2: One-Variable Linear Regression]({{% ref "video-2-one-variable-linear-regression" %}})
+*   [2.2.4Quick Question]({{% ref "quick-question-54" %}})
+*   [2.2.5Video 3: Multiple Linear Regression]({{% ref "video-3-multiple-linear-regression" %}})
+*   [2.2.6Quick Question]({{% ref "quick-question-73" %}})
+*   [2.2.7Video 4: Linear Regression in R]({{% ref "video-4-linear-regression-in-r" %}})
+*   [2.2.8Quick Question]({{% ref "quick-question-78" %}})
+*   [2.2.9Video 5: Understanding the Model]({{% ref "video-5-understanding-the-model" %}})
+*   [2.2.10Quick Question]({{% ref "quick-question-88" %}})
+*   [2.2.11Video 6: Correlation and Multicollinearity]({{% ref "video-6-correlation-and-multicollinearity" %}})
+*   [2.2.12Quick Question]({{% ref "quick-question-96" %}})
+*   [2.2.13Video 7: Making Predictions]({{% ref "video-7-making-predictions" %}})
+*   [2.2.14Quick Question]({{% ref "quick-question-101" %}})
+*   [2.2.15Video 8: Comparing the Model to the Experts]({{% ref "video-8-comparing-the-model-to-the-experts" %}})
+*   [\\>Quick Question]({{% ref "quick-question-78" %}})
 
 Video 4: Linear Regression in R
 -------------------------------
@@ -30,5 +30,5 @@ Before starting this video, please download the datasets [wine (CSV)](https://op
 
 A script file containing all of the R commands used in this lecture can be downloaded here: [Unit2\_WineRegression (R)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/4b42530dd2f3fc2cdd30ba7d12315265_Unit2_WineRegression.R).
 
-*   [BackQuick Question]({{< ref "quick-question-73" >}})
-*   [ContinueQuick Question]({{< ref "quick-question-78" >}})
+*   [BackQuick Question]({{% ref "quick-question-73" %}})
+*   [ContinueQuick Question]({{% ref "quick-question-78" %}})

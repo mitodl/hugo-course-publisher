@@ -5,12 +5,12 @@ menu:
     identifier: lecture-19
     weight: 240
 ---
-« [Previous]({{< ref "lecture-18" >}}) | [Next]({{< ref "lecture-20" >}}) »
+« [Previous]({{% ref "lecture-18" %}}) | [Next]({{% ref "lecture-20" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/7458e1f281f181a5ba125cef04bc45fe_Lecture_19.jpg)  | <br><br>1.  Chemical Equilibrium<br>    1.  External Effects on K (Le Châtlier’s Principle) (continued)<br>    2.  Temperature Dependence of K<br>    3.  Applications of Le Châtlier’s Principle<br>2.  Significant Figure Rules for Logs<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/7458e1f281f181a5ba125cef04bc45fe_Lecture_19.jpg)  | {{< br >}}{{< br >}}1.  Chemical Equilibrium{{< br >}}    1.  External Effects on K (Le Châtlier’s Principle) (continued){{< br >}}    2.  Temperature Dependence of K{{< br >}}    3.  Applications of Le Châtlier’s Principle{{< br >}}2.  Significant Figure Rules for Logs{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -46,4 +46,4 @@ Acknowledgement
 
 “[Chemists Know](https://youtu.be/iM_I6rtIgn0)” courtesy of Rachel Martin, Eric Potoma, and Gianmarc Grazioli of the [UC Irvine Department of Chemistry](https://www.chem.uci.edu/). Used with permission.
 
-« [Previous]({{< ref "lecture-18" >}}) | [Next]({{< ref "lecture-20" >}}) »
+« [Previous]({{% ref "lecture-18" %}}) | [Next]({{% ref "lecture-20" %}}) »

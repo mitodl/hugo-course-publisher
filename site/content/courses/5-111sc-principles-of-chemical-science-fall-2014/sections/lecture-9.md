@@ -5,12 +5,12 @@ menu:
     identifier: lecture-9
     weight: 130
 ---
-« [Previous]({{< ref "lecture-8" >}}) | [Next]({{< ref "lecture-10" >}}) »
+« [Previous]({{% ref "lecture-8" %}}) | [Next]({{% ref "lecture-10" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/30c821c0166593daa6e1eacf96c4abb3_Lecture_9.jpg)  | <br><br>1.  Periodic Table (continued)<br>    1.  Electronegativity<br>    2.  Atomic and Ionic Radii and Isoelectronic Atoms<br>2.  Bonding<br>    1.  Ionic Bonds<br>    2.  Covalent Bonding<br>    3.  Polar Covalent Bonds<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/30c821c0166593daa6e1eacf96c4abb3_Lecture_9.jpg)  | {{< br >}}{{< br >}}1.  Periodic Table (continued){{< br >}}    1.  Electronegativity{{< br >}}    2.  Atomic and Ionic Radii and Isoelectronic Atoms{{< br >}}2.  Bonding{{< br >}}    1.  Ionic Bonds{{< br >}}    2.  Covalent Bonding{{< br >}}    3.  Polar Covalent Bonds{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -59,4 +59,4 @@ Acknowledgement
 
 “[Dogs Teaching Chemistry — Chemical Bonds](https://www.youtube.com/watch?v=_M9khs87xQ8)” courtesy of Lauren Girard. Used with permission.
 
-« [Previous]({{< ref "lecture-8" >}}) | [Next]({{< ref "lecture-10" >}}) »
+« [Previous]({{% ref "lecture-8" %}}) | [Next]({{% ref "lecture-10" %}}) »

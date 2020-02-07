@@ -5,7 +5,7 @@ menu:
     identifier: day-4-storytellers-toolkit-pt.-2
     weight: 160
 ---
-« [Previous]({{< ref "day-3-storytellers-toolkit-pt.-1" >}}) | [Next]({{< ref "day-5-storytellers-toolkit-pt.-3" >}}) »
+« [Previous]({{% ref "day-3-storytellers-toolkit-pt.-1" %}}) | [Next]({{% ref "day-5-storytellers-toolkit-pt.-3" %}}) »
 
 Contents
 --------
@@ -62,24 +62,24 @@ Instructor and Student Work
 
 ### Day 4 Blogs / Vlogs
 
-*   [Elizabeth's day 4 blog]({{< ref "elizabeth-choes-reflections" >}}#Echoe\_s\_Day\_4\_Thoughts)
-*   [Ceri's day 4 blog]({{< ref "ceri-rileys-reflections" >}}#Reflection\_Day\_4)
-*   [Kenneth's day 4 blog]({{< ref "kenneth-cheahs-reflections" >}}#Day\_4\_Blog\_Post)
-*   [Joshua's day 4 blog]({{< ref "joshua-cheongs-reflections" >}}#Vlog\_Day\_4)
-*   [Andrea's day 4 blog]({{< ref "andrea-desrosierss-reflections" >}}#Day\_4)
-*   [PJ's day 4 blog]({{< ref "paul-pj-folinos-reflections" >}}#Pjfolino\_s\_Day\_4\_Thoughts)
-*   [Nathan's day 4 blog]({{< ref "nathan-hernandezs-reflections" >}}#Day\_4\_Reflection)
-*   [Yuliya's day 4 blog]({{< ref "yuliya-klochans-reflections" >}}#DAY\_4)
-*   [David's day 4 blog]({{< ref "david-yams-reflections" >}}#Day\_4)
+*   [Elizabeth's day 4 blog]({{% ref "elizabeth-choes-reflections" %}}#Echoe\_s\_Day\_4\_Thoughts)
+*   [Ceri's day 4 blog]({{% ref "ceri-rileys-reflections" %}}#Reflection\_Day\_4)
+*   [Kenneth's day 4 blog]({{% ref "kenneth-cheahs-reflections" %}}#Day\_4\_Blog\_Post)
+*   [Joshua's day 4 blog]({{% ref "joshua-cheongs-reflections" %}}#Vlog\_Day\_4)
+*   [Andrea's day 4 blog]({{% ref "andrea-desrosierss-reflections" %}}#Day\_4)
+*   [PJ's day 4 blog]({{% ref "paul-pj-folinos-reflections" %}}#Pjfolino\_s\_Day\_4\_Thoughts)
+*   [Nathan's day 4 blog]({{% ref "nathan-hernandezs-reflections" %}}#Day\_4\_Reflection)
+*   [Yuliya's day 4 blog]({{% ref "yuliya-klochans-reflections" %}}#DAY\_4)
+*   [David's day 4 blog]({{% ref "david-yams-reflections" %}}#Day\_4)
 
 ### Day 4 Storyboard
 
-*   [Kenneth's day 4 storyboard]({{< ref "kenneth-cheahs-project" >}}#Day\_4\_Story\_Board)
-*   [Joshua's day 4 storyboard]({{< ref "joshua-cheongs-project" >}}#Day\_4\_Storyboard)
-*   [Andrea's day 4 storyboard]({{< ref "andrea-desrosierss-project" >}}#Day\_4\_Storyboard)
-*   [PJ's day 4 storyboard]({{< ref "paul-pj-folinos-project" >}}#Paul\_s\_Storyboard)
-*   [Nathan's day 4 storyboard]({{< ref "nathan-hernandezs-project" >}}#Day\_4\_Storyboard)
-*   [Yuliya's day 4 storyboard]({{< ref "yuliya-klochans-project" >}}#Day\_4\_Storyboard)
-*   [David's day 4 storyboard]({{< ref "david-yams-project" >}}#Day\_4\_Storyboard)
+*   [Kenneth's day 4 storyboard]({{% ref "kenneth-cheahs-project" %}}#Day\_4\_Story\_Board)
+*   [Joshua's day 4 storyboard]({{% ref "joshua-cheongs-project" %}}#Day\_4\_Storyboard)
+*   [Andrea's day 4 storyboard]({{% ref "andrea-desrosierss-project" %}}#Day\_4\_Storyboard)
+*   [PJ's day 4 storyboard]({{% ref "paul-pj-folinos-project" %}}#Paul\_s\_Storyboard)
+*   [Nathan's day 4 storyboard]({{% ref "nathan-hernandezs-project" %}}#Day\_4\_Storyboard)
+*   [Yuliya's day 4 storyboard]({{% ref "yuliya-klochans-project" %}}#Day\_4\_Storyboard)
+*   [David's day 4 storyboard]({{% ref "david-yams-project" %}}#Day\_4\_Storyboard)
 
-« [Previous]({{< ref "day-3-storytellers-toolkit-pt.-1" >}}) | [Next]({{< ref "day-5-storytellers-toolkit-pt.-3" >}}) »
+« [Previous]({{% ref "day-3-storytellers-toolkit-pt.-1" %}}) | [Next]({{% ref "day-5-storytellers-toolkit-pt.-3" %}}) »

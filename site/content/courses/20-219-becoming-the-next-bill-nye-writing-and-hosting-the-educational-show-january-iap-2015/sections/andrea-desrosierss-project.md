@@ -5,7 +5,7 @@ menu:
     identifier: andrea-desrosierss-project
     weight: 260
 ---
-« [Previous]({{< ref "joshua-cheongs-project" >}}) | [Next]({{< ref "paul-pj-folinos-project" >}}) »
+« [Previous]({{% ref "joshua-cheongs-project" %}}) | [Next]({{% ref "paul-pj-folinos-project" %}}) »
 
 [_Link to_ _Andrea Desrosiers' page on Tumblr_](http://mit219.tumblr.com/tagged/aedesros)
 
@@ -30,7 +30,7 @@ Day 1 Pitch
 
 This video is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/aedesros) on Tumblr and is provided under our Creative Commons license.
 
-[\_Link back to Day 1\_]({{< ref "day-1-identity-and-genre" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 1\_]({{% ref "day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
 
 Day 2 Script: Draft of "What are My Braces Doing to Me?"
 --------------------------------------------------------
@@ -103,7 +103,7 @@ Cut to Andrea walking around.
 
 Andrea: (need closing statements…)
 
-[\_Link back to Day 2\_]({{< ref "day-2-audience" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 2\_]({{% ref "day-2-audience" %}}#Instructor\_and\_Student\_Work)
 
 Day 3 - Andrea's Trailer Take 2  
 
@@ -112,7 +112,7 @@ Day 3 - Andrea's Trailer Take 2
 This video is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/aedesros) on Tumblr and is provided under our Creative Commons license.
 
 [\_Link back to Day 3  
-\_]({{< ref "day-3-storytellers-toolkit-pt.-1" >}}#Instructor\_and\_Student\_Work)
+\_]({{% ref "day-3-storytellers-toolkit-pt.-1" %}}#Instructor\_and\_Student\_Work)
 
 Day 4 - Andrea's Second Script Idea for Ortho
 ---------------------------------------------
@@ -160,7 +160,7 @@ Day 4 Storyboard
 
 ![AndreaDesrosiers-day4storyboard-4.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/3a0a94874e8937e3c2aa7335f82a6374_AndreaDesrosiers-day4storyboard-4.jpg)
 
-[\_Link back to Day 4\_]({{< ref "day-4-storytellers-toolkit-pt.-2" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 4\_]({{% ref "day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
 
 Script: Final Draft
 -------------------
@@ -226,7 +226,7 @@ Smarter.
 And once we've tasted the forbidden fruit will we still be human?
 
 [\_Link back to Day 7  
-\_]({{< ref "day-7-table-read-and-post-production" >}}#Instructor\_and\_Student\_Work)
+\_]({{% ref "day-7-table-read-and-post-production" %}}#Instructor\_and\_Student\_Work)
 
 Day 8 Shot List
 ---------------
@@ -398,14 +398,14 @@ Your jaw isn't the only place where these osteoclasts and osteoblasts alter your
 
 Where braces use bone remodeling to make teeth straighter for mostly cosmetic reasons, dental implants replace teeth that are damaged or missing - to restore chewing function.
 
-[\_Link back to Day 8\_]({{< ref "days-8-9-10-project-time" >}}#Student\_Work)
+[\_Link back to Day 8\_]({{% ref "days-8-9-10-project-time" %}}#Student\_Work)
 
 Rough Cut
 ---------
 
 This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC3DqNsxRmnJvZEuS1N4B-vg) on YouTube and is provided under our Creative Commons license.
 
-[\_Link back to Day 11\_]({{< ref "day-11-12-screening-rough-cuts" >}}#Student\_Work)
+[\_Link back to Day 11\_]({{% ref "day-11-12-screening-rough-cuts" %}}#Student\_Work)
 
 Final Project
 -------------
@@ -434,7 +434,7 @@ Production Assistants: Nathan Hernandez, Fred Yarm
 
 Thanks to: Everyone in IAP15 20.219, the folks at DPI, and especially to my brother John Desrosiers, who inspired my love of science.
 
-[\_Link back to Day 13\_]({{< ref "day-13-screening-final-cuts" >}}#Student\_Work)
+[\_Link back to Day 13\_]({{% ref "day-13-screening-final-cuts" %}}#Student\_Work)
 
 Science Out Loud
 ----------------
@@ -443,4 +443,4 @@ Andrea's video was professionally produced by [Science Out Loud](http://k12video
 
 This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](http://k12videos.mit.edu/terms-and-conditions) license.
 
-« [Previous]({{< ref "joshua-cheongs-project" >}}) | [Next]({{< ref "paul-pj-folinos-project" >}}) »
+« [Previous]({{% ref "joshua-cheongs-project" %}}) | [Next]({{% ref "paul-pj-folinos-project" %}}) »

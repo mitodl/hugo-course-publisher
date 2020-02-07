@@ -5,12 +5,12 @@ menu:
     identifier: internet-privacy-poll
     weight: 380
 ---
-*   [<Demographics and Employment in the United States]({{< ref "demographics-and-employment-in-the-united-states" >}})
-*   [1.5.1An Analytical Detective]({{< ref "assignment-1" >}})
-*   [1.5.2Stock Dynamics]({{< ref "stock-dynamics" >}})
-*   [1.5.3Demographics and Employment in the United States]({{< ref "demographics-and-employment-in-the-united-states" >}})
-*   [1.5.4Internet Privacy Poll]({{< ref "internet-privacy-poll" >}})
-*   [\\>Linear Regression]({{< ref "linear-regression" >}})
+*   [<Demographics and Employment in the United States]({{% ref "demographics-and-employment-in-the-united-states" %}})
+*   [1.5.1An Analytical Detective]({{% ref "assignment-1" %}})
+*   [1.5.2Stock Dynamics]({{% ref "stock-dynamics" %}})
+*   [1.5.3Demographics and Employment in the United States]({{% ref "demographics-and-employment-in-the-united-states" %}})
+*   [1.5.4Internet Privacy Poll]({{% ref "internet-privacy-poll" %}})
+*   [\\>Linear Regression]({{% ref "linear-regression" %}})
 
 Internet Privacy Poll
 ---------------------
@@ -496,5 +496,5 @@ Next week, we will begin to more formally characterize how an outcome variable l
 
 CheckShow Answer
 
-*   [BackDemographics and Employment in the United States]({{< ref "demographics-and-employment-in-the-united-states" >}})
-*   [ContinueLinear Regression]({{< ref "linear-regression" >}})
+*   [BackDemographics and Employment in the United States]({{% ref "demographics-and-employment-in-the-united-states" %}})
+*   [ContinueLinear Regression]({{% ref "linear-regression" %}})

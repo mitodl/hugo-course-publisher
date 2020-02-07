@@ -5,12 +5,12 @@ menu:
     identifier: lecture-6
     weight: 90
 ---
-« [Previous]({{< ref "lecture-5" >}}) | [Next]({{< ref "lecture-7" >}}) »
+« [Previous]({{% ref "lecture-5" %}}) | [Next]({{% ref "lecture-7" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c34c8fe74e0fb8e9ce9f3776157b8c52_Lecture_6.jpg)  | <br><br>1.  Wavefunctions (Orbitals) for the Hydrogen Atom<br>2.  Shape and Size of S and P Orbitals<br>3.  Electron Spin and the Pauli Exclusion Principle<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c34c8fe74e0fb8e9ce9f3776157b8c52_Lecture_6.jpg)  | {{< br >}}{{< br >}}1.  Wavefunctions (Orbitals) for the Hydrogen Atom{{< br >}}2.  Shape and Size of S and P Orbitals{{< br >}}3.  Electron Spin and the Pauli Exclusion Principle{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -54,4 +54,4 @@ Problems and Solutions
 
 [Solutions for Lecture 6 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/a22b771edebebdfc73f34b633453b1b5_MIT5_111F14_Lec06Soln.pdf)
 
-« [Previous]({{< ref "lecture-5" >}}) | [Next]({{< ref "lecture-7" >}}) »
+« [Previous]({{% ref "lecture-5" %}}) | [Next]({{% ref "lecture-7" %}}) »

@@ -5,7 +5,7 @@ menu:
     identifier: problem-set-4
     weight: 900
 ---
-« [Previous]({{< ref "14.3-resistive-forces-high-speed-case" >}}) | [Next]({{< ref "week-5-momentum-and-impulse" >}}) »
+« [Previous]({{% ref "14.3-resistive-forces-high-speed-case" %}}) | [Next]({{% ref "week-5-momentum-and-impulse" %}}) »
 
 Problem Set 4 contains the following problems:
 
@@ -18,4 +18,4 @@ Problem Set 4 contains the following problems:
 
 *   [Problem Set 4 (PDF)](https://open-learning-course-data.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/ff43aae2332b3882ac4a4727301cec56_MIT8_01F16_pset4.pdf)
 
-« [Previous]({{< ref "14.3-resistive-forces-high-speed-case" >}}) | [Next]({{< ref "week-5-momentum-and-impulse" >}}) »
+« [Previous]({{% ref "14.3-resistive-forces-high-speed-case" %}}) | [Next]({{% ref "week-5-momentum-and-impulse" %}}) »

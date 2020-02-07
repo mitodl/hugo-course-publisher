@@ -5,12 +5,12 @@ menu:
     identifier: lecture-3
     weight: 60
 ---
-« [Previous]({{< ref "lecture-2" >}}) | [Next]({{< ref "lecture-4" >}}) »
+« [Previous]({{% ref "lecture-2" %}}) | [Next]({{% ref "lecture-4" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/078998c13433fa2fcbf323d2a0197d85_Lecture_3.jpg)  | <br><br>1.  Light as a Wave, Characteristics of Waves<br>2.  Light as a Particle, The Photoelectric Effect<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/078998c13433fa2fcbf323d2a0197d85_Lecture_3.jpg)  | {{< br >}}{{< br >}}1.  Light as a Wave, Characteristics of Waves{{< br >}}2.  Light as a Particle, The Photoelectric Effect{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -58,4 +58,4 @@ Acknowledgement
 
 Excerpt of “[ROY G. BIV](https://youtu.be/Gf33ueRXMzQ)” by [They Might Be Giants](http://www.theymightbegiants.com/), courtesy of Idlewild / Disney Sound, used with permission. From [_Here Comes Science_](http://www.theymightbegiants.com/music/here-comes-science/), 2009.
 
-« [Previous]({{< ref "lecture-2" >}}) | [Next]({{< ref "lecture-4" >}}) »
+« [Previous]({{% ref "lecture-2" %}}) | [Next]({{% ref "lecture-4" %}}) »

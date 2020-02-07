@@ -5,12 +5,12 @@ menu:
     identifier: lecture-14
     weight: 190
 ---
-« [Previous]({{< ref "lecture-13" >}}) | [Next]({{< ref "lecture-15" >}}) »
+« [Previous]({{% ref "lecture-13" %}}) | [Next]({{% ref "lecture-15" %}}) »
 
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/dc514809178e7e3a9e02d2f59891c6a6_L14.jpg) | <br><br>*   Fourier transform<br>*   Amplitude modulation<br>*   AM radio<br>*   Communication<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/dc514809178e7e3a9e02d2f59891c6a6_L14.jpg) | {{< br >}}{{< br >}}*   Fourier transform{{< br >}}*   Amplitude modulation{{< br >}}*   AM radio{{< br >}}*   Communication{{< br >}}{{< br >}} 
 
 Lecture Video: Fourier Transform, AM Radio
 ------------------------------------------
@@ -29,4 +29,4 @@ Textbook Reading
 
 [Chapter 10: Signals and Fourier Analysis (PDF - 1.4MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/7a86f546565e2180f8f00e86c2ed9982_MIT8_03SCF16_Text_Ch10.pdf)
 
-« [Previous]({{< ref "lecture-13" >}}) | [Next]({{< ref "lecture-15" >}}) »
+« [Previous]({{% ref "lecture-13" %}}) | [Next]({{% ref "lecture-15" %}}) »

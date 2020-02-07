@@ -46,7 +46,7 @@ Recitations will cover additional examples of the analytics methods presented in
 Assignments
 -----------
 
-There will be nine individual homework assignments and a ﬁnal project that should be done in teams of two. See the [Assignments section]({{< ref "assignments" >}}) for more details about the assignments and the final project.
+There will be nine individual homework assignments and a ﬁnal project that should be done in teams of two. See the [Assignments section]({{% ref "assignments" %}}) for more details about the assignments and the final project.
 
 Readings
 --------

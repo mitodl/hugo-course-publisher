@@ -5,15 +5,15 @@ menu:
     identifier: quick-question-711
     weight: 3190
 ---
-*   [<Video 3: Predicting Compatibility Scores]({{< ref "video-3-predicting-compatibility-scores" >}})
-*   [9.3.1Video 1: The Goal of eHarmony]({{< ref "eharmony-maximizing-the-probability-of-love" >}})
-*   [9.3.2Quick Question]({{< ref "quick-question-698" >}})
-*   [9.3.3Video 2: Using Integer Optimization]({{< ref "video-2-using-integer-optimization" >}})
-*   [9.3.4Quick Question]({{< ref "quick-question-703" >}})
-*   [9.3.5Video 3: Predicting Compatibility Scores]({{< ref "video-3-predicting-compatibility-scores" >}})
-*   [9.3.6Quick Question]({{< ref "quick-question-711" >}})
-*   [9.3.7Video 4: The Analytics Edge]({{< ref "video-4-the-analytics-edge" >}})
-*   [\\>Video 4: The Analytics Edge]({{< ref "video-4-the-analytics-edge" >}})
+*   [<Video 3: Predicting Compatibility Scores]({{% ref "video-3-predicting-compatibility-scores" %}})
+*   [9.3.1Video 1: The Goal of eHarmony]({{% ref "eharmony-maximizing-the-probability-of-love" %}})
+*   [9.3.2Quick Question]({{% ref "quick-question-698" %}})
+*   [9.3.3Video 2: Using Integer Optimization]({{% ref "video-2-using-integer-optimization" %}})
+*   [9.3.4Quick Question]({{% ref "quick-question-703" %}})
+*   [9.3.5Video 3: Predicting Compatibility Scores]({{% ref "video-3-predicting-compatibility-scores" %}})
+*   [9.3.6Quick Question]({{% ref "quick-question-711" %}})
+*   [9.3.7Video 4: The Analytics Edge]({{% ref "video-4-the-analytics-edge" %}})
+*   [\\>Video 4: The Analytics Edge]({{% ref "video-4-the-analytics-edge" %}})
 
 On slide 4 of the previous video, we gave the following confusion matrix to predict compatibility between users:
 
@@ -36,5 +36,5 @@ The accuracy of the model is (1030+92)/(1030+227+126+92) = 0.76
 
 CheckShow Answer
 
-*   [BackVideo 3: Predicting Compatibility Scores]({{< ref "video-3-predicting-compatibility-scores" >}})
-*   [ContinueVideo 4: The Analytics Edge]({{< ref "video-4-the-analytics-edge" >}})
+*   [BackVideo 3: Predicting Compatibility Scores]({{% ref "video-3-predicting-compatibility-scores" %}})
+*   [ContinueVideo 4: The Analytics Edge]({{% ref "video-4-the-analytics-edge" %}})

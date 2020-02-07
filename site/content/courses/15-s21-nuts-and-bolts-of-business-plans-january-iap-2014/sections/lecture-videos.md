@@ -5,4 +5,4 @@ menu:
     identifier: lecture-videos
     weight: 80
 ---
-In this section, selected lecture videos are presented in standard format with separately downloadable [Lecture Notes]({{< ref "lecture-notes" >}}). The [Video and Slide Player]({{< ref "lecture-videos" >}}) page presents the speakers and slides in a side-by-side / dual window format.
+In this section, selected lecture videos are presented in standard format with separately downloadable [Lecture Notes]({{% ref "lecture-notes" %}}). The [Video and Slide Player]({{% ref "lecture-videos" %}}) page presents the speakers and slides in a side-by-side / dual window format.

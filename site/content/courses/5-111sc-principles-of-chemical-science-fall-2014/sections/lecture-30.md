@@ -5,12 +5,12 @@ menu:
     identifier: lecture-30
     weight: 370
 ---
-« [Previous]({{< ref "unit-v-chemical-kinetics" >}}) | [Next]({{< ref "lecture-31" >}}) »
+« [Previous]({{% ref "unit-v-chemical-kinetics" %}}) | [Next]({{% ref "lecture-31" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/4d0d6e8e19f1b51c023f3ec3c3468842_Lecture_30.jpg)  | <br><br>1.  Introduction to Kinetics<br>    1.  Rates of Chemical Reactions<br>    2.  Rate Expressions and Rate Laws<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/4d0d6e8e19f1b51c023f3ec3c3468842_Lecture_30.jpg)  | {{< br >}}{{< br >}}1.  Introduction to Kinetics{{< br >}}    1.  Rates of Chemical Reactions{{< br >}}    2.  Rate Expressions and Rate Laws{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -41,4 +41,4 @@ Problems and Solutions
 
 [Solutions for Lecture 30 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/8a8f2fe894ad0909bcfdc88b88a7dead_MIT5_111F14_Lec30Soln.pdf)
 
-« [Previous]({{< ref "unit-v-chemical-kinetics" >}}) | [Next]({{< ref "lecture-31" >}}) »
+« [Previous]({{% ref "unit-v-chemical-kinetics" %}}) | [Next]({{% ref "lecture-31" %}}) »

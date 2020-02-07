@@ -29,21 +29,21 @@ Grading and Course Credit
 -------------------------
 
 *   MIT students may take this course for 3 units of Pass / Fail Credit.
-*   Attendance at each session is required (unless otherwise approved) and the [writing requirement]({{< ref "writing-requirement" >}}) must be fulfilled.
+*   Attendance at each session is required (unless otherwise approved) and the [writing requirement]({{% ref "writing-requirement" %}}) must be fulfilled.
 
 Calendar
 --------
 
 | SES # | TOPICS | SUBTOPICS | KEY DATES |
 | --- | --- | --- | --- |
-| 1 | <br><br>Part 1: Introduction and Overview of Business Plans<br><br>### Speaker<br><br>Joe Hadzima<br><br> | <br><br>_Introduction to Business Plans_<br><br>_Introduction to Virtual Ink_<br><br> | Team Building |
-| <br><br>Part 2: Refining and Presenting Your Venture Idea<br><br>### Speaker<br><br>Stephen Pearse<br><br> | _Presenting Your Idea_ |
-| 2 | <br><br>Part 1: Marketing and Sales<br><br>### Speaker<br><br>Bob Jones<br><br> | This session discusses issues and provided guidance on how to approach the marketing section of your business plan. |   |
-| <br><br>Part 2: Business Models<br><br>### Speaker<br><br>Rich Kivel  <br>Serial Healthcare  <br>Industry Entrepreneur<br><br> | This session discusses some common business models and when are they most appropriately used. |
-| 3 | <br><br>Part 1: Financing Sources Panel<br><br>### Speakers<br><br>Axel Bichara  <br>Amir Nashat  <br>Julianne Zimmerman<br><br> | <br><br>_Bootstrapping the early stages_<br><br>_Funding from the 3 F's_<br><br>_Angels_<br><br>_Private placements_<br><br>_Customer financing_<br><br>_Consulting_<br><br>_Venture capital_<br><br>_Bank financing_<br><br> |   |
-| <br><br>Part 2: Financial Projections<br><br>### Speaker<br><br>Charlie Tillett<br><br> | This portion of the program introduces some financial projection techniques based on actual business experience. |
-| 4 | <br><br>Part 1: Founder's Journey<br><br>### Speaker<br><br>Ken Zolot<br><br>### Panel<br><br>Gihan  <br>Amarasiriwardena  <br>Nina Dudnik  <br>John Harthorne<br><br> | The speaker along with a panel of entrepreneurs provides an overview of important questions to explore when embarking upon starting a company. | Executive Summaries Due |
-| <br><br>Part 2: Legal Issues<br><br>### Speaker<br><br>Joe Hadzima<br><br> | <br><br>_Intellectual Property Law-Patents  <br>_<br><br>_Copyrights  <br>_<br><br>_Trademarks and Tradesecrets  <br>_<br><br>_Major hidden tax traps in starting a business  <br>_<br><br>_General questions and answers on legal issues for the entrepreneur_<br><br> |
-| 5 | <br><br>Part 1: Negotiation Skills<br><br>### Speakers<br><br>Mindy Garber  <br>Victoria Bennet<br><br> | Interactive presentation |   |
-| <br><br>Part 2: Organizational and People Issues<br><br>### Speaker<br><br>Joost Bonsen<br><br> | <br><br>_Building an External Team and an Internal Team  <br>_<br><br>_Developing and implementing a philosophy for the business_<br><br> |
-| 6 | <br><br>Pitfalls and Plan Execution<br><br>### Speaker<br><br>Yonald Chery<br><br> | _What really happened to Virtual Ink_ | Writing Assignment Due
+| 1 | {{< br >}}{{< br >}}Part 1: Introduction and Overview of Business Plans{{< br >}}{{< br >}}### Speaker{{< br >}}{{< br >}}Joe Hadzima{{< br >}}{{< br >}} | {{< br >}}{{< br >}}_Introduction to Business Plans_{{< br >}}{{< br >}}_Introduction to Virtual Ink_{{< br >}}{{< br >}} | Team Building |
+| {{< br >}}{{< br >}}Part 2: Refining and Presenting Your Venture Idea{{< br >}}{{< br >}}### Speaker{{< br >}}{{< br >}}Stephen Pearse{{< br >}}{{< br >}} | _Presenting Your Idea_ |
+| 2 | {{< br >}}{{< br >}}Part 1: Marketing and Sales{{< br >}}{{< br >}}### Speaker{{< br >}}{{< br >}}Bob Jones{{< br >}}{{< br >}} | This session discusses issues and provided guidance on how to approach the marketing section of your business plan. |   |
+| {{< br >}}{{< br >}}Part 2: Business Models{{< br >}}{{< br >}}### Speaker{{< br >}}{{< br >}}Rich Kivel  {{< br >}}Serial Healthcare  {{< br >}}Industry Entrepreneur{{< br >}}{{< br >}} | This session discusses some common business models and when are they most appropriately used. |
+| 3 | {{< br >}}{{< br >}}Part 1: Financing Sources Panel{{< br >}}{{< br >}}### Speakers{{< br >}}{{< br >}}Axel Bichara  {{< br >}}Amir Nashat  {{< br >}}Julianne Zimmerman{{< br >}}{{< br >}} | {{< br >}}{{< br >}}_Bootstrapping the early stages_{{< br >}}{{< br >}}_Funding from the 3 F's_{{< br >}}{{< br >}}_Angels_{{< br >}}{{< br >}}_Private placements_{{< br >}}{{< br >}}_Customer financing_{{< br >}}{{< br >}}_Consulting_{{< br >}}{{< br >}}_Venture capital_{{< br >}}{{< br >}}_Bank financing_{{< br >}}{{< br >}} |   |
+| {{< br >}}{{< br >}}Part 2: Financial Projections{{< br >}}{{< br >}}### Speaker{{< br >}}{{< br >}}Charlie Tillett{{< br >}}{{< br >}} | This portion of the program introduces some financial projection techniques based on actual business experience. |
+| 4 | {{< br >}}{{< br >}}Part 1: Founder's Journey{{< br >}}{{< br >}}### Speaker{{< br >}}{{< br >}}Ken Zolot{{< br >}}{{< br >}}### Panel{{< br >}}{{< br >}}Gihan  {{< br >}}Amarasiriwardena  {{< br >}}Nina Dudnik  {{< br >}}John Harthorne{{< br >}}{{< br >}} | The speaker along with a panel of entrepreneurs provides an overview of important questions to explore when embarking upon starting a company. | Executive Summaries Due |
+| {{< br >}}{{< br >}}Part 2: Legal Issues{{< br >}}{{< br >}}### Speaker{{< br >}}{{< br >}}Joe Hadzima{{< br >}}{{< br >}} | {{< br >}}{{< br >}}_Intellectual Property Law-Patents  {{< br >}}_{{< br >}}{{< br >}}_Copyrights  {{< br >}}_{{< br >}}{{< br >}}_Trademarks and Tradesecrets  {{< br >}}_{{< br >}}{{< br >}}_Major hidden tax traps in starting a business  {{< br >}}_{{< br >}}{{< br >}}_General questions and answers on legal issues for the entrepreneur_{{< br >}}{{< br >}} |
+| 5 | {{< br >}}{{< br >}}Part 1: Negotiation Skills{{< br >}}{{< br >}}### Speakers{{< br >}}{{< br >}}Mindy Garber  {{< br >}}Victoria Bennet{{< br >}}{{< br >}} | Interactive presentation |   |
+| {{< br >}}{{< br >}}Part 2: Organizational and People Issues{{< br >}}{{< br >}}### Speaker{{< br >}}{{< br >}}Joost Bonsen{{< br >}}{{< br >}} | {{< br >}}{{< br >}}_Building an External Team and an Internal Team  {{< br >}}_{{< br >}}{{< br >}}_Developing and implementing a philosophy for the business_{{< br >}}{{< br >}} |
+| 6 | {{< br >}}{{< br >}}Pitfalls and Plan Execution{{< br >}}{{< br >}}### Speaker{{< br >}}{{< br >}}Yonald Chery{{< br >}}{{< br >}} | _What really happened to Virtual Ink_ | Writing Assignment Due

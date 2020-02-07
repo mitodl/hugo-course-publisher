@@ -5,16 +5,16 @@ menu:
     identifier: playing-moneyball-in-the-nba-recitation
     weight: 680
 ---
-*   [<Quick Question]({{< ref "quick-question-134" >}})
-*   [2.4.1Welcome to Recitation 2]({{< ref "playing-moneyball-in-the-nba-recitation" >}})
-*   [2.4.2Video 1: The Data]({{< ref "video-1-the-data" >}})
-*   [2.4.3Video 2: Playoffs and Wins]({{< ref "video-2-playoffs-and-wins" >}})
-*   [2.4.4Video 3: Points Scored]({{< ref "video-3-points-scored" >}})
-*   [2.4.5Video 4: Making Predictions]({{< ref "video-4-making-predictions" >}})
-*   [\\>Video 1: The Data]({{< ref "video-1-the-data" >}})
+*   [<Quick Question]({{% ref "quick-question-134" %}})
+*   [2.4.1Welcome to Recitation 2]({{% ref "playing-moneyball-in-the-nba-recitation" %}})
+*   [2.4.2Video 1: The Data]({{% ref "video-1-the-data" %}})
+*   [2.4.3Video 2: Playoffs and Wins]({{% ref "video-2-playoffs-and-wins" %}})
+*   [2.4.4Video 3: Points Scored]({{% ref "video-3-points-scored" %}})
+*   [2.4.5Video 4: Making Predictions]({{% ref "video-4-making-predictions" %}})
+*   [\\>Video 1: The Data]({{% ref "video-1-the-data" %}})
 
 Welcome to Recitation 2
 -----------------------
 
-*   [BackQuick Question]({{< ref "quick-question-134" >}})
-*   [ContinueVideo 1: The Data]({{< ref "video-1-the-data" >}})
+*   [BackQuick Question]({{% ref "quick-question-134" %}})
+*   [ContinueVideo 1: The Data]({{% ref "video-1-the-data" %}})

@@ -5,12 +5,12 @@ menu:
     identifier: lecture-6
     weight: 90
 ---
-« [Previous]({{< ref "lecture-5" >}}) | [Next]({{< ref "lecture-7" >}}) »
+« [Previous]({{% ref "lecture-5" %}}) | [Next]({{% ref "lecture-7" %}}) »
 
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/78b010299f43550052d5c27a9ca406b1_L6.jpg) | <br><br>*   Coupled driven oscillator<br>*   Excitation<br>*   Resonance<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/78b010299f43550052d5c27a9ca406b1_L6.jpg) | {{< br >}}{{< br >}}*   Coupled driven oscillator{{< br >}}*   Excitation{{< br >}}*   Resonance{{< br >}}{{< br >}} 
 
 Lecture Video: Driven Oscillators, Resonance
 --------------------------------------------
@@ -36,7 +36,7 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0) | <br><br> |
-| [Coupled Air Carts](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2020&show=0) | <br><br> 
+| [Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0) | {{< br >}}{{< br >}} |
+| [Coupled Air Carts](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2020&show=0) | {{< br >}}{{< br >}} 
 
-« [Previous]({{< ref "lecture-5" >}}) | [Next]({{< ref "lecture-7" >}}) »
+« [Previous]({{% ref "lecture-5" %}}) | [Next]({{% ref "lecture-7" %}}) »

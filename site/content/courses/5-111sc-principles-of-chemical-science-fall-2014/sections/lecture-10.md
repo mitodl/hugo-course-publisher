@@ -5,12 +5,12 @@ menu:
     identifier: lecture-10
     weight: 140
 ---
-« [Previous]({{< ref "lecture-9" >}}) | [Next]({{< ref "lecture-11" >}}) »
+« [Previous]({{% ref "lecture-9" %}}) | [Next]({{% ref "lecture-11" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/f79945bfeea47ad463e2a7f0b9b07a34_Lecture_10.jpg)  | <br><br>1.  Lewis Structures<br>2.  Formal Charge<br>3.  Resonance Structures<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/f79945bfeea47ad463e2a7f0b9b07a34_Lecture_10.jpg)  | {{< br >}}{{< br >}}1.  Lewis Structures{{< br >}}2.  Formal Charge{{< br >}}3.  Resonance Structures{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -41,4 +41,4 @@ Problems and Solutions
 
 [Solutions for Lecture 10 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/b381a9a13761c951237b14b96a4cd59a_MIT5_111F14_Lec10Soln.pdf)
 
-« [Previous]({{< ref "lecture-9" >}}) | [Next]({{< ref "lecture-11" >}}) »
+« [Previous]({{% ref "lecture-9" %}}) | [Next]({{% ref "lecture-11" %}}) »

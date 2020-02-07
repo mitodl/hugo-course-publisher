@@ -5,12 +5,12 @@ menu:
     identifier: lecture-1
     weight: 40
 ---
-« [Previous]({{< ref "part-i-mechanical-vibrations-and-waves" >}}) | [Next]({{< ref "lecture-2" >}}) »
+« [Previous]({{% ref "part-i-mechanical-vibrations-and-waves" %}}) | [Next]({{% ref "lecture-2" %}}) »
 
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/3819fcaffb7a61a8fe18e8ee80bdfb64_L1.jpg) | <br><br>*   Periodic motion<br>*   Simple harmonic oscillators<br>*   Hooke’s Law<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/3819fcaffb7a61a8fe18e8ee80bdfb64_L1.jpg) | {{< br >}}{{< br >}}*   Periodic motion{{< br >}}*   Simple harmonic oscillators{{< br >}}*   Hooke’s Law{{< br >}}{{< br >}} 
 
 Lecture Video: Periodic Oscillations, Harmonic Oscillators
 ----------------------------------------------------------
@@ -44,10 +44,10 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Air Cart Between Springs](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%201&show=0) | <br><br> |
-| [Mass on a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%202&show=0) | <br><br> |
-| [Two Pendulums with Different Amplitudes](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2010&show=0) | <br><br> 
+| [Air Cart Between Springs](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%201&show=0) | {{< br >}}{{< br >}} |
+| [Mass on a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%202&show=0) | {{< br >}}{{< br >}} |
+| [Two Pendulums with Different Amplitudes](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2010&show=0) | {{< br >}}{{< br >}} 
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{< ref "part-i-mechanical-vibrations-and-waves" >}}) | [Next]({{< ref "lecture-2" >}}) »
+« [Previous]({{% ref "part-i-mechanical-vibrations-and-waves" %}}) | [Next]({{% ref "lecture-2" %}}) »

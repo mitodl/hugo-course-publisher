@@ -5,7 +5,7 @@ menu:
     identifier: problem-solving-help-videos
     weight: 330
 ---
-« [Previous]({{< ref "final-exam" >}}) | [Next]({{< ref "resource-index" >}}) »
+« [Previous]({{% ref "final-exam" %}}) | [Next]({{% ref "resource-index" %}}) »
 
 These Problem Solving Help Videos provide step-by-step solutions to typical problems solved in an undergraduate course on Vibrations and Waves. Along with each video, Professor Wit Busza has included two sample problems for you to solve. Answers and hints are provided, but not full solutions.
 
@@ -22,4 +22,4 @@ These Problem Solving Help Videos provide step-by-step solutions to typical prob
 
 **_Note_**_: These videos were originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{< ref "final-exam" >}}) | [Next]({{< ref "resource-index" >}}) »
+« [Previous]({{% ref "final-exam" %}}) | [Next]({{% ref "resource-index" %}}) »

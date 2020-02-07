@@ -5,12 +5,12 @@ menu:
     identifier: lecture-4
     weight: 70
 ---
-« [Previous]({{< ref "lecture-3" >}}) | [Next]({{< ref "lecture-5" >}}) »
+« [Previous]({{% ref "lecture-3" %}}) | [Next]({{% ref "lecture-5" %}}) »
 
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/241d43da46e6ba876f18f5d9f1574018_L4.jpg) | <br><br>*   Coupled oscillators<br>*   Normal modes<br>*   Multibody system<br>*   Transient behavior<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/241d43da46e6ba876f18f5d9f1574018_L4.jpg) | {{< br >}}{{< br >}}*   Coupled oscillators{{< br >}}*   Normal modes{{< br >}}*   Multibody system{{< br >}}*   Transient behavior{{< br >}}{{< br >}} 
 
 Lecture Video: Coupled Oscillators, Normal Modes
 ------------------------------------------------
@@ -34,15 +34,15 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Double Pendulum](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2069&show=0) | <br><br> |
-| [Weighted Hacksaw Blade](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2021&show=0) | <br><br> |
-| [Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0) | <br><br> |
-| [Two Pendulums Coupled with a Rod](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2018&show=0) | <br><br> |
-| [Wilberforce Pendulum](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2022&show=0) | <br><br>and<br><br> 
+| [Double Pendulum](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2069&show=0) | {{< br >}}{{< br >}} |
+| [Weighted Hacksaw Blade](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2021&show=0) | {{< br >}}{{< br >}} |
+| [Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0) | {{< br >}}{{< br >}} |
+| [Two Pendulums Coupled with a Rod](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2018&show=0) | {{< br >}}{{< br >}} |
+| [Wilberforce Pendulum](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2022&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} 
 
 Related Resources
 -----------------
 
 Video: [Normal Modes](https://phet.colorado.edu/en/simulation/normal-modes) from [PhET Interactive Simulations project at the University of Colorado Boulder](https://phet.colorado.edu/)
 
-« [Previous]({{< ref "lecture-3" >}}) | [Next]({{< ref "lecture-5" >}}) »
+« [Previous]({{% ref "lecture-3" %}}) | [Next]({{% ref "lecture-5" %}}) »

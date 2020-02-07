@@ -38,8 +38,8 @@ menu:
 
 ##### Course Features
 
-* [AV lectures]({{< ref "sections/day-1-identity-and-genre" >}})
-* [Projects]({{< ref "sections/student-projects" >}})
+* [AV lectures]({{% ref "sections/day-1-identity-and-genre" %}})
+* [Projects]({{% ref "sections/student-projects" %}})
 
 ##### Course Collections
 

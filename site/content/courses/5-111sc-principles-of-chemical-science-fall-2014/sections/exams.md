@@ -5,7 +5,7 @@ menu:
     identifier: exams
     weight: 430
 ---
-« [Previous]({{< ref "lecture-35" >}}) | [Next]({{< ref "resource-index" >}}) »
+« [Previous]({{% ref "lecture-35" %}}) | [Next]({{% ref "resource-index" %}}) »
 
 General Information
 -------------------
@@ -106,4 +106,4 @@ Approximately 80% of the final exam is on Exam 1–4 material. The remaining 20%
 
 [Final Exam Solutions (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/6ab19c33fab442ae034b455dcb970144_MIT5_111F14_FinalExamSol.pdf)
 
-« [Previous]({{< ref "lecture-35" >}}) | [Next]({{< ref "resource-index" >}}) »
+« [Previous]({{% ref "lecture-35" %}}) | [Next]({{% ref "resource-index" %}}) »

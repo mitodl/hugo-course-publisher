@@ -5,12 +5,12 @@ menu:
     identifier: state-data
     weight: 760
 ---
-*   [<Detecting Flu Epidemics via Search Engine Query Data]({{< ref "detecting-flu-epidemics-via-search-engine-query-data" >}})
-*   [2.5.1Climate Change]({{< ref "assignment-2" >}})
-*   [2.5.2Reading Test Scores]({{< ref "reading-test-scores" >}})
-*   [2.5.3Detecting Flu Epidemics via Search Engine Query Data]({{< ref "detecting-flu-epidemics-via-search-engine-query-data" >}})
-*   [2.5.4State Data]({{< ref "state-data" >}})
-*   [\\>Logistic Regression]({{< ref "logistic-regression" >}})
+*   [<Detecting Flu Epidemics via Search Engine Query Data]({{% ref "detecting-flu-epidemics-via-search-engine-query-data" %}})
+*   [2.5.1Climate Change]({{% ref "assignment-2" %}})
+*   [2.5.2Reading Test Scores]({{% ref "reading-test-scores" %}})
+*   [2.5.3Detecting Flu Epidemics via Search Engine Query Data]({{% ref "detecting-flu-epidemics-via-search-engine-query-data" %}})
+*   [2.5.4State Data]({{% ref "state-data" %}})
+*   [\\>Logistic Regression]({{% ref "logistic-regression" %}})
 
 State Data
 ----------
@@ -418,5 +418,5 @@ in your R console. The largest absolute error is for Hawaii.
 
 CheckShow Answer
 
-*   [BackDetecting Flu Epidemics via Search Engine Query Data]({{< ref "detecting-flu-epidemics-via-search-engine-query-data" >}})
-*   [ContinueLogistic Regression]({{< ref "logistic-regression" >}})
+*   [BackDetecting Flu Epidemics via Search Engine Query Data]({{% ref "detecting-flu-epidemics-via-search-engine-query-data" %}})
+*   [ContinueLogistic Regression]({{% ref "logistic-regression" %}})

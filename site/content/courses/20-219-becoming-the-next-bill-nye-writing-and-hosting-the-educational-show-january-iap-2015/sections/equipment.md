@@ -5,7 +5,7 @@ menu:
     identifier: equipment
     weight: 60
 ---
-« [Previous]({{< ref "class-policies" >}}) | [Next]({{< ref "editing" >}}) »
+« [Previous]({{% ref "class-policies" %}}) | [Next]({{% ref "editing" %}}) »
 
 Course equipment will be available for your use during workshops and to make your assignments. There is enough equipment for this class to work in pairs. The equipment list includes:
 
@@ -15,4 +15,4 @@ Course equipment will be available for your use during workshops and to make you
 
 There is also a DSLR and LED light kit available to students who would like to create higher production-value projects. You are also welcome to use your own cameras, tripods, mic, etc. For many assignments, using an iPhone camera may actually work just fine.
 
-« [Previous]({{< ref "class-policies" >}}) | [Next]({{< ref "editing" >}}) »
+« [Previous]({{% ref "class-policies" %}}) | [Next]({{% ref "editing" %}}) »

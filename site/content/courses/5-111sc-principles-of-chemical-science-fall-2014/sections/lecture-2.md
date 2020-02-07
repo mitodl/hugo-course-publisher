@@ -5,12 +5,12 @@ menu:
     identifier: lecture-2
     weight: 50
 ---
-« [Previous]({{< ref "lecture-1" >}}) | [Next]({{< ref "lecture-3" >}}) »
+« [Previous]({{% ref "lecture-1" %}}) | [Next]({{% ref "lecture-3" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/aafc786b207bda7d3122e4d57755caf5_Lecture_2.jpg)  | <br><br>1.  Discovery of the Electron and the Nucleus<br>2.  The Need for Quantum Mechanics<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/aafc786b207bda7d3122e4d57755caf5_Lecture_2.jpg)  | {{< br >}}{{< br >}}1.  Discovery of the Electron and the Nucleus{{< br >}}2.  The Need for Quantum Mechanics{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -43,4 +43,4 @@ Problems and Solutions
 
 [Solutions for Lecture 2 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/6012747897b29867a463fe6f2c99958f_MIT5_111F14_Lec02Soln.pdf)
 
-« [Previous]({{< ref "lecture-1" >}}) | [Next]({{< ref "lecture-3" >}}) »
+« [Previous]({{% ref "lecture-1" %}}) | [Next]({{% ref "lecture-3" %}}) »

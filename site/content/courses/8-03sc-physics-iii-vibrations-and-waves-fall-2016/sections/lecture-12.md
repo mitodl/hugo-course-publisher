@@ -5,12 +5,12 @@ menu:
     identifier: lecture-12
     weight: 170
 ---
-« [Previous]({{< ref "part-ii-electromagnetic-waves" >}}) | [Next]({{< ref "lecture-13" >}}) »
+« [Previous]({{% ref "part-ii-electromagnetic-waves" %}}) | [Next]({{% ref "lecture-13" %}}) »
 
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/a7477ca5a6aba6bde7d070489f7f75a6_L12.jpg) | <br><br>*   Maxwell’s equation<br>*   Light<br>*   Electromagnetic waves<br>*   Speed of light<br>*   Standing electromagnetic waves<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/a7477ca5a6aba6bde7d070489f7f75a6_L12.jpg) | {{< br >}}{{< br >}}*   Maxwell’s equation{{< br >}}*   Light{{< br >}}*   Electromagnetic waves{{< br >}}*   Speed of light{{< br >}}*   Standing electromagnetic waves{{< br >}}{{< br >}} 
 
 Lecture Video: Maxwell's Equation, Electromagnetic Waves
 --------------------------------------------------------
@@ -49,4 +49,4 @@ Webpage: [The Idea of the Curl of a Vector Field](https://mathinsight.org/curl_i
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{< ref "part-ii-electromagnetic-waves" >}}) | [Next]({{< ref "lecture-13" >}}) »
+« [Previous]({{% ref "part-ii-electromagnetic-waves" %}}) | [Next]({{% ref "lecture-13" %}}) »

@@ -24,11 +24,11 @@ menu:
 
 ##### Course Features
 
-* [Lecture notes]({{< ref "sections/lecture-1" >}})
-* [Assignments]({{< ref "sections/lecture-1" >}})
-* [Exams]({{< ref "sections/exams" >}})
-* [AV special element video]({{< ref "sections/lecture-3" >}})
-* [Resource Index]({{< ref "sections/resource-index" >}})
+* [Lecture notes]({{% ref "sections/lecture-1" %}})
+* [Assignments]({{% ref "sections/lecture-1" %}})
+* [Exams]({{% ref "sections/exams" %}})
+* [AV special element video]({{% ref "sections/lecture-3" %}})
+* [Resource Index]({{% ref "sections/resource-index" %}})
 
 ##### Course Collections
 

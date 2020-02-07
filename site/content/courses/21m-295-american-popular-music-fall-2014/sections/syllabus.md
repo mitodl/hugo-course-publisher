@@ -27,7 +27,7 @@ Assignments
 
 ### Listening and Reading
 
-Listening and reading assignments are listed in the [Reading and Listening]({{< ref "reading-and-listening" >}}) section.
+Listening and reading assignments are listed in the [Reading and Listening]({{% ref "reading-and-listening" %}}) section.
 
 The text for this class is:  
 [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/American-Popular-Music-Larry-Starr/dp/0199859116/ref=nosim/mitopencourse-20) Starr, Larry, and Christopher Waterman. _American Popular Music: From Minstrelsy to MP3_. 4th ed. Oxford University Press, 2014. ISBN: 9780199859115.
@@ -38,11 +38,11 @@ When preparing each assignment, I find starting with the music a more rewarding 
 
 ### Written
 
-You will write three types of papers for this class: A short research essay, a final project paper, and listening outlines. See the [Assignments]({{< ref "assignments" >}}) section for format guidelines and assignment details.
+You will write three types of papers for this class: A short research essay, a final project paper, and listening outlines. See the [Assignments]({{% ref "assignments" %}}) section for format guidelines and assignment details.
 
 *   Research essay (4–6 pages) explores a topic in pop music before 1945. See page 6 for more details and a list of potential topics.
 *   Listening outlines (1–2 pages). You will create two listening outlines to be shared with the rest of the class and to be part of a short, informal presentation.
-*   The final project consists of two components. One is a written paper of 6–8 pages and the other is a more formal presentation on the ancestry of a work released within the last five years. In conjunction with this presentation, you will create a one-page handout. See the detailed [assignment description]({{< ref "assignments" >}}#Research\_essay) for more details.
+*   The final project consists of two components. One is a written paper of 6–8 pages and the other is a more formal presentation on the ancestry of a work released within the last five years. In conjunction with this presentation, you will create a one-page handout. See the detailed [assignment description]({{% ref "assignments" %}}#Research\_essay) for more details.
 
 Exams
 -----

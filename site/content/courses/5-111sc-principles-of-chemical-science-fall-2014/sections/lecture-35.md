@@ -5,12 +5,12 @@ menu:
     identifier: lecture-35
     weight: 420
 ---
-« [Previous]({{< ref "lecture-34" >}}) | [Next]({{< ref "exams" >}}) »
+« [Previous]({{% ref "lecture-34" %}}) | [Next]({{% ref "exams" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/e6f283be288a8bf147c57e02f3d526d5_Lecture_35.jpg)  | <br><br>1.  Review of Course Material<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/e6f283be288a8bf147c57e02f3d526d5_Lecture_35.jpg)  | {{< br >}}{{< br >}}1.  Review of Course Material{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -27,4 +27,4 @@ Clicker Questions
 
 [Lecture 35 Clicker Questions (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/9baba0be764c6eedc18e1b5b212482e6_MIT5_111F14_Lec35Clkr.pdf)
 
-« [Previous]({{< ref "lecture-34" >}}) | [Next]({{< ref "exams" >}}) »
+« [Previous]({{% ref "lecture-34" %}}) | [Next]({{% ref "exams" %}}) »

@@ -5,12 +5,12 @@ menu:
     identifier: lecture-13
     weight: 180
 ---
-« [Previous]({{< ref "lecture-12" >}}) | [Next]({{< ref "lecture-14" >}}) »
+« [Previous]({{% ref "lecture-12" %}}) | [Next]({{% ref "lecture-14" %}}) »
 
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c35a283d752d5d8fb8778b14b5a11e3f_L13.jpg) | <br><br>*   Dispersion<br>*   Dispersive medium<br>*   Phase velocity<br>*   Group velocity<br>*   Beat phenomenon<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c35a283d752d5d8fb8778b14b5a11e3f_L13.jpg) | {{< br >}}{{< br >}}*   Dispersion{{< br >}}*   Dispersive medium{{< br >}}*   Phase velocity{{< br >}}*   Group velocity{{< br >}}*   Beat phenomenon{{< br >}}{{< br >}} 
 
 Lecture Video: Dispersive Medium, Phase Velocity, Group Velocity
 ----------------------------------------------------------------
@@ -46,8 +46,8 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | <br><br> 
+| [Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | {{< br >}}{{< br >}} 
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{< ref "lecture-12" >}}) | [Next]({{< ref "lecture-14" >}}) »
+« [Previous]({{% ref "lecture-12" %}}) | [Next]({{% ref "lecture-14" %}}) »

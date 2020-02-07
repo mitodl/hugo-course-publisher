@@ -5,9 +5,9 @@ menu:
     identifier: assignment-7
     weight: 2630
 ---
-*   [<Video 7: Using Line Charts Instead]({{< ref "video-7-using-line-charts-instead" >}})
-*   [7.5.1Visualizing Attributes of Parole Violators]({{< ref "assignment-7" >}})
-*   [\\>Linear Optimization]({{< ref "linear-optimization" >}})
+*   [<Video 7: Using Line Charts Instead]({{% ref "video-7-using-line-charts-instead" %}})
+*   [7.5.1Visualizing Attributes of Parole Violators]({{% ref "assignment-7" %}})
+*   [\\>Linear Optimization]({{% ref "linear-optimization" %}})
 
 Visualizing Attributes of Parole Violators
 ------------------------------------------
@@ -398,5 +398,5 @@ While overlaying the plots is allowed and lets us observe some attributes of the
 
 CheckShow Answer
 
-*   [BackVideo 7: Using Line Charts Instead]({{< ref "video-7-using-line-charts-instead" >}})
-*   [ContinueLinear Optimization]({{< ref "linear-optimization" >}})
+*   [BackVideo 7: Using Line Charts Instead]({{% ref "video-7-using-line-charts-instead" %}})
+*   [ContinueLinear Optimization]({{% ref "linear-optimization" %}})

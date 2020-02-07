@@ -5,12 +5,12 @@ menu:
     identifier: lecture-17
     weight: 230
 ---
-« [Previous]({{< ref "part-iii-optics" >}}) | [Next]({{< ref "exam-2" >}}) »
+« [Previous]({{% ref "part-iii-optics" %}}) | [Next]({{% ref "exam-2" %}}) »
 
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/e5df7bd9d2b565e83061693837eed098_L17.jpg) | <br><br>*   Polarizer<br>*   Linearly polarized waves<br>*   Circularly polarized wave<br>*   Elliptically polarized waves<br>*   Unpolarized light<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/e5df7bd9d2b565e83061693837eed098_L17.jpg) | {{< br >}}{{< br >}}*   Polarizer{{< br >}}*   Linearly polarized waves{{< br >}}*   Circularly polarized wave{{< br >}}*   Elliptically polarized waves{{< br >}}*   Unpolarized light{{< br >}}{{< br >}} 
 
 Lecture Video: Polarization, Polarizer
 --------------------------------------
@@ -36,8 +36,8 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Total Internal Reflection](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=M%202&show=0) | <br><br> |
-| [Fiber Optic Bundle](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=M%204&show=0) | <br><br> |
-| [Polarization of Microwaves](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=K%203&show=0) | <br><br> 
+| [Total Internal Reflection](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=M%202&show=0) | {{< br >}}{{< br >}} |
+| [Fiber Optic Bundle](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=M%204&show=0) | {{< br >}}{{< br >}} |
+| [Polarization of Microwaves](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=K%203&show=0) | {{< br >}}{{< br >}} 
 
-« [Previous]({{< ref "part-iii-optics" >}}) | [Next]({{< ref "exam-2" >}}) »
+« [Previous]({{% ref "part-iii-optics" %}}) | [Next]({{% ref "exam-2" %}}) »

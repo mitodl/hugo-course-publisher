@@ -5,12 +5,12 @@ menu:
     identifier: lecture-22
     weight: 270
 ---
-« [Previous]({{< ref "lecture-21" >}}) | [Next]({{< ref "lecture-23" >}}) »
+« [Previous]({{% ref "lecture-21" %}}) | [Next]({{% ref "lecture-23" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/127de415cbe79d2666a663b56de9407f_Lecture_22.jpg)  | <br><br>1.  pH of Salt Solutions<br>2.  Buffers!<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/127de415cbe79d2666a663b56de9407f_Lecture_22.jpg)  | {{< br >}}{{< br >}}1.  pH of Salt Solutions{{< br >}}2.  Buffers!{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -42,4 +42,4 @@ Problems and Solutions
 
 [Solutions for Lecture 22 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/a90cb5d10fb7cd5496b583d40bb997b7_MIT5_111F14_Lec22Soln.pdf)
 
-« [Previous]({{< ref "lecture-21" >}}) | [Next]({{< ref "lecture-23" >}}) »
+« [Previous]({{% ref "lecture-21" %}}) | [Next]({{% ref "lecture-23" %}}) »

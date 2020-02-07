@@ -5,11 +5,11 @@ menu:
     identifier: installing-libreoffice-or-openoffice
     weight: 2660
 ---
-*   [<Welcome to Unit 8]({{< ref "welcome-to-unit-8" >}})
-*   [8.1.1Welcome to Unit 8]({{< ref "welcome-to-unit-8" >}})
-*   [8.1.2Installing LibreOffice or OpenOffice]({{< ref "installing-libreoffice-or-openoffice" >}})
-*   [8.1.3Spreadsheet Tutorial]({{< ref "spreadsheet-tutorial" >}})
-*   [\\>Spreadsheet Tutorial]({{< ref "spreadsheet-tutorial" >}})
+*   [<Welcome to Unit 8]({{% ref "welcome-to-unit-8" %}})
+*   [8.1.1Welcome to Unit 8]({{% ref "welcome-to-unit-8" %}})
+*   [8.1.2Installing LibreOffice or OpenOffice]({{% ref "installing-libreoffice-or-openoffice" %}})
+*   [8.1.3Spreadsheet Tutorial]({{% ref "spreadsheet-tutorial" %}})
+*   [\\>Spreadsheet Tutorial]({{% ref "spreadsheet-tutorial" %}})
 
 Installing LibreOffice or OpenOffice
 ------------------------------------
@@ -30,5 +30,5 @@ We recommend using OpenOffice (or Microsoft Excel) if you have a Mac. To install
 
 Once you have installed LibreOffice or OpenOffice (or you are planning to just use Microsoft Excel), you are ready to start the first Lecture Sequence this week. If you have any questions or if you ran into any problems, please search in the Dicussion Forum for people with similar problems, or create a new post below.
 
-*   [BackWelcome to Unit 8]({{< ref "welcome-to-unit-8" >}})
-*   [ContinueSpreadsheet Tutorial]({{< ref "spreadsheet-tutorial" >}})
+*   [BackWelcome to Unit 8]({{% ref "welcome-to-unit-8" %}})
+*   [ContinueSpreadsheet Tutorial]({{% ref "spreadsheet-tutorial" %}})

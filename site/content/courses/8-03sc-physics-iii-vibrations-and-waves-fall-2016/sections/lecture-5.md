@@ -5,12 +5,12 @@ menu:
     identifier: lecture-5
     weight: 80
 ---
-« [Previous]({{< ref "lecture-4" >}}) | [Next]({{< ref "lecture-6" >}}) »
+« [Previous]({{% ref "lecture-4" %}}) | [Next]({{% ref "lecture-6" %}}) »
 
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/399a78dfbe2d4f60a90700df0d142614_L5.jpg) | <br><br>*   Coupled oscillators<br>*   Beat phenomena<br>*   Normal axis<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/399a78dfbe2d4f60a90700df0d142614_L5.jpg) | {{< br >}}{{< br >}}*   Coupled oscillators{{< br >}}*   Beat phenomena{{< br >}}*   Normal axis{{< br >}}{{< br >}} 
 
 Lecture Video: Beat Phenomena
 -----------------------------
@@ -44,9 +44,9 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0) | <br><br>and<br><br> |
-| [Wave Beats](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2041&show=0) | <br><br> |
-| [Coupled Tunning Forks](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2046&show=0) | <br><br> 
+| [Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} |
+| [Wave Beats](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2041&show=0) | {{< br >}}{{< br >}} |
+| [Coupled Tunning Forks](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2046&show=0) | {{< br >}}{{< br >}} 
 
 Related Resources
 -----------------
@@ -55,4 +55,4 @@ Demonstration: [Audio Mixing](http://tsgphysics.mit.edu/front/?page=demo.php&let
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{< ref "lecture-4" >}}) | [Next]({{< ref "lecture-6" >}}) »
+« [Previous]({{% ref "lecture-4" %}}) | [Next]({{% ref "lecture-6" %}}) »

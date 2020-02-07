@@ -5,12 +5,12 @@ menu:
     identifier: lecture-16
     weight: 210
 ---
-« [Previous]({{< ref "lecture-15" >}}) | [Next]({{< ref "part-iii-optics" >}}) »
+« [Previous]({{% ref "lecture-15" %}}) | [Next]({{% ref "part-iii-optics" %}}) »
 
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/18affe5d8b55327a4811a08c7a1052e1_L16.jpg) | <br><br>*   Geometrical optics<br>*   2-dimensional waves<br>*   3-dimensional waves<br>*   Refraction law<br>*   Snell’s law<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/18affe5d8b55327a4811a08c7a1052e1_L16.jpg) | {{< br >}}{{< br >}}*   Geometrical optics{{< br >}}*   2-dimensional waves{{< br >}}*   3-dimensional waves{{< br >}}*   Refraction law{{< br >}}*   Snell’s law{{< br >}}{{< br >}} 
 
 Lecture Video: 2D and 3D waves, Snell’s Law
 -------------------------------------------
@@ -36,8 +36,8 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Chladni Figures (Speaker Driven)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2038&show=0) | <br><br> |
-| [Oscillating Soap Film](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2040&show=0) | <br><br>and<br><br> 
+| [Chladni Figures (Speaker Driven)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2038&show=0) | {{< br >}}{{< br >}} |
+| [Oscillating Soap Film](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2040&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} 
 
 Related Resources
 -----------------
@@ -46,4 +46,4 @@ Video: [Total Internal Refraction](https://www.youtube.com/watch?v=WRuatAcd2WY) 
 
 Video: [Snell's Law](https://www.youtube.com/watch?v=y55tzg_jW9I) by [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
 
-« [Previous]({{< ref "lecture-15" >}}) | [Next]({{< ref "part-iii-optics" >}}) »
+« [Previous]({{% ref "lecture-15" %}}) | [Next]({{% ref "part-iii-optics" %}}) »

@@ -5,7 +5,7 @@ menu:
     identifier: joshua-cheongs-project
     weight: 250
 ---
-« [Previous]({{< ref "kenneth-cheahs-project" >}}) | [Next]({{< ref "andrea-desrosierss-project" >}}) »
+« [Previous]({{% ref "kenneth-cheahs-project" %}}) | [Next]({{% ref "andrea-desrosierss-project" %}}) »
 
 [_Link to_ _Joshua Cheong's Page on Tumblr_](http://mit219.tumblr.com/tagged/joshch)
 
@@ -34,7 +34,7 @@ This is just a preliminary pitch on how to introduce one of the most important c
 
 The YouTube has yet to be fully processed so it may take a while to come live. Till then, imma get some sleep!
 
-[\_Link back to Day 1\_]({{< ref "day-1-identity-and-genre" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 1\_]({{% ref "day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
 
 Day 2 Script: How Does a Google Search Work?
 --------------------------------------------
@@ -57,14 +57,14 @@ Is finding James such a big deal? Well, yes! Finding James faster means getting 
 
 So the next time you do a Google search, know that you're in good hands with the fastest methods to find your search.
 
-[\_Link back to Day 2\_]({{< ref "day-2-audience" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 2\_]({{% ref "day-2-audience" %}}#Instructor\_and\_Student\_Work)
 
 Day 3 Trailer
 -------------
 
 This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
 
-[\_Link back to Day 3\_]({{< ref "day-3-storytellers-toolkit-pt.-1" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 3\_]({{% ref "day-3-storytellers-toolkit-pt.-1" %}}#Instructor\_and\_Student\_Work)
 
 Day 4 Script
 ------------
@@ -101,14 +101,14 @@ In the same way, simply by placing your home items in locations where they have 
 
 Aha! So that's where my gloves are!
 
-And that's how we find stuff better. Not a just little bit better but a lot better![]({{< ref "day-4-storytellers-toolkit-pt.-2" >}}#Instructor\_and\_Student\_Work)
+And that's how we find stuff better. Not a just little bit better but a lot better![]({{% ref "day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
 
 Day 4 Storyboard
 ----------------
 
 ![Joshua-Cheong---day-4-story.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/9533ce827a08ebf869307baf309a7813_Joshua-Cheong---day-4-story.jpg)  
 
-[\_Link back to Day 4\_]({{< ref "day-4-storytellers-toolkit-pt.-2" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 4\_]({{% ref "day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
 
 Day 5 Script
 ------------
@@ -153,7 +153,7 @@ In the same way, simply by placing your home items in locations where they have 
 
 Aha! So that's where my gloves are!
 
-And that's how we find stuff better. Not a just little bit better but a lot better![]({{< ref "day-5-storytellers-toolkit-pt.-3" >}}#Instructor\_and\_Student\_Work)
+And that's how we find stuff better. Not a just little bit better but a lot better![]({{% ref "day-5-storytellers-toolkit-pt.-3" %}}#Instructor\_and\_Student\_Work)
 
 Day 5 Storyboard
 ----------------
@@ -162,16 +162,16 @@ Day 5 Storyboard
 | --- | --- | --- | --- |
 | 1 | Koch | Film with B-roll of searching in my cupboards | Have you ever found it difficult to find a particular item in your house? Let's say you've lost a pair of gloves and you spend the entire afternoon looking for it, but you just can't find it. |
 | 2 | Google Sign & Microsoft Sign @ Kendall | Back | You have encountered the same problem that companies like Google or Microsoft try to solve every single day: The problem of Search. |
-| 3 | Hotel | Closeup | Just like a house which stores thousands of different items, Google stores about 45 billion different index pages of information. If each page of information was a sheet of paper (host holds up a piece of paper) and if we stacked them all together, we would create a tower 600 times taller than Mount Everest! (Camera men on the sides dump a mountain of papers on the host, causing him / her to comically fall over)<br><br>So how can a search engine like Google find your search results so quickly while we find it so difficult to find a pair of gloves?<br><br> |
+| 3 | Hotel | Closeup | Just like a house which stores thousands of different items, Google stores about 45 billion different index pages of information. If each page of information was a sheet of paper (host holds up a piece of paper) and if we stacked them all together, we would create a tower 600 times taller than Mount Everest! (Camera men on the sides dump a mountain of papers on the host, causing him / her to comically fall over){{< br >}}{{< br >}}So how can a search engine like Google find your search results so quickly while we find it so difficult to find a pair of gloves?{{< br >}}{{< br >}} |
 | 4 | MIT Dome Shot | Rule of Thirds, end by sweeping the camera up | Well, it turns out that searching on the Internet is kinda like looking for a person in a big school. |
-| 5 | Building 4 Corridor | <br><br>Start by sweeping the camera down, Rule of Thirds<br><br>Film with B-roll of running from room to room<br><br>Film additional closeup shot<br><br> | Let's suppose we're looking for a student called "James". To find James, the simplest way would be to run to every room nearest to you until you find him. But that would take a very long time.<br><br>There's a better way known as Binary Search. (\*The keywords "Binary Search" flashes over the host's hands)<br><br> |
-| 6 | Building 4 classroom table | <br><br>Shoot from top down<br><br>(Try 11 cards)<br><br> | Let's say the people were arranged in alphabetical order in increasing numbers of the classrooms. We could run to the room in the middle and check if the name of the person in the room is James. If the person’s name starts with letter before 'J', we head to the right. If not we would go to the left. We then head off to the middle room of the newly sectioned area. And we rinse and repeat. Eventually we will find James just like the first method. But we found him much faster than using the first method. |
+| 5 | Building 4 Corridor | {{< br >}}{{< br >}}Start by sweeping the camera down, Rule of Thirds{{< br >}}{{< br >}}Film with B-roll of running from room to room{{< br >}}{{< br >}}Film additional closeup shot{{< br >}}{{< br >}} | Let's suppose we're looking for a student called "James". To find James, the simplest way would be to run to every room nearest to you until you find him. But that would take a very long time.{{< br >}}{{< br >}}There's a better way known as Binary Search. (\*The keywords "Binary Search" flashes over the host's hands){{< br >}}{{< br >}} |
+| 6 | Building 4 classroom table | {{< br >}}{{< br >}}Shoot from top down{{< br >}}{{< br >}}(Try 11 cards){{< br >}}{{< br >}} | Let's say the people were arranged in alphabetical order in increasing numbers of the classrooms. We could run to the room in the middle and check if the name of the person in the room is James. If the person’s name starts with letter before 'J', we head to the right. If not we would go to the left. We then head off to the middle room of the newly sectioned area. And we rinse and repeat. Eventually we will find James just like the first method. But we found him much faster than using the first method. |
 | 7 | Stata Center level 3? | Rule of thirds | How much faster would that be? Well, that depends on number of people staying at the hotel. Let's say it takes 10 seconds to knock on each hotel door and there's 500 people, it would take about 80 minutes for the first method and 1.5 minutes for Binary Search. If there were a thousand people in the hotel, it would take 160 minutes for the first method and only 1.6 minutes for Binary Search. Now that's a whole lot of difference. |
 | 8 | Google Sign @ Kendall | Rule of thirds | So a name like "James" is just a word, but companies like Google take in searches with a long combination of words, making it a bit more complicated. Just like identifying the word "James" from its first letter, Google identify unique characteristics of search phrases using over 200 factors. |
 | 9 | Google Sign @ Kendall |   | Also notice how the better method depends on prearranging the people in alphabetical order? Computer scientists are always actively looking for better methods to sort, manage, and retrieve data. |
-| 10 | Hotel |   | <br><br>In the same way, simply by placing your home items in locations where they have a natural relationship, makes it easier for us to find them. The TV remote goes near the TV, the shoes go to the shoe rack, the coats go into the cupboard and the the winter gloves goes in the winter jacket.<br><br>(Location is back in the dorm \*Finds gloves in the jacket)<br><br>Aha! So that's where my gloves are!<br><br> 
+| 10 | Hotel |   | {{< br >}}{{< br >}}In the same way, simply by placing your home items in locations where they have a natural relationship, makes it easier for us to find them. The TV remote goes near the TV, the shoes go to the shoe rack, the coats go into the cupboard and the the winter gloves goes in the winter jacket.{{< br >}}{{< br >}}(Location is back in the dorm \*Finds gloves in the jacket){{< br >}}{{< br >}}Aha! So that's where my gloves are!{{< br >}}{{< br >}} 
 
-[\_Link back to Day 5\_]({{< ref "day-5-storytellers-toolkit-pt.-3" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 5\_]({{% ref "day-5-storytellers-toolkit-pt.-3" %}}#Instructor\_and\_Student\_Work)
 
 Script: Final Iteration
 -----------------------
@@ -203,14 +203,14 @@ Also notice how the better method depends on prearranging the people in alphabet
 Aha! So that's where my gloves are! And that's the story of Search!
 
 [\_Link back to Day 7  
-\_]({{< ref "day-7-table-read-and-post-production" >}}#Instructor\_and\_Student\_Work)
+\_]({{% ref "day-7-table-read-and-post-production" %}}#Instructor\_and\_Student\_Work)
 
 Rough Cut
 ---------
 
 This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
 
-[\_Link back to Day 11\_]({{< ref "day-11-12-screening-rough-cuts" >}}#Student\_Work)
+[\_Link back to Day 11\_]({{% ref "day-11-12-screening-rough-cuts" %}}#Student\_Work)
 
 Final Project: Why can't I find my glove? The Science of Search
 ---------------------------------------------------------------
@@ -235,6 +235,6 @@ Production Assistant: David Yam
 
 [See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108852064906/creative-commons-cc-by-nc-sa-mit)
 
-[\_Link back to Day 13\_]({{< ref "day-13-screening-final-cuts" >}}#Student\_Work)
+[\_Link back to Day 13\_]({{% ref "day-13-screening-final-cuts" %}}#Student\_Work)
 
-« [Previous]({{< ref "kenneth-cheahs-project" >}}) | [Next]({{< ref "andrea-desrosierss-project" >}}) »
+« [Previous]({{% ref "kenneth-cheahs-project" %}}) | [Next]({{% ref "andrea-desrosierss-project" %}}) »

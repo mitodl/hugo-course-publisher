@@ -5,12 +5,12 @@ menu:
     identifier: lecture-17
     weight: 220
 ---
-« [Previous]({{< ref "lecture-16" >}}) | [Next]({{< ref "lecture-18" >}}) »
+« [Previous]({{% ref "lecture-16" %}}) | [Next]({{% ref "lecture-18" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/4e39e3da6e9d2288e23f1bb3fc0179f6_Lecture_17.jpg)  | <br><br>1.  Thermodynamics<br>    1.  Effect of Temperature on Spontaneity<br>    2.  Thermodynamics in Biological Systems<br>        1.  Hydrogen-bonding<br>        2.  ATP-coupled Reactions<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/4e39e3da6e9d2288e23f1bb3fc0179f6_Lecture_17.jpg)  | {{< br >}}{{< br >}}1.  Thermodynamics{{< br >}}    1.  Effect of Temperature on Spontaneity{{< br >}}    2.  Thermodynamics in Biological Systems{{< br >}}        1.  Hydrogen-bonding{{< br >}}        2.  ATP-coupled Reactions{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -52,4 +52,4 @@ Problems and Solutions
 
 [Solutions for Lecture 17 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/7562819c201749c283deb0e457fefd66_MIT5_111F14_Lec17Soln.pdf)
 
-« [Previous]({{< ref "lecture-16" >}}) | [Next]({{< ref "lecture-18" >}}) »
+« [Previous]({{% ref "lecture-16" %}}) | [Next]({{% ref "lecture-18" %}}) »

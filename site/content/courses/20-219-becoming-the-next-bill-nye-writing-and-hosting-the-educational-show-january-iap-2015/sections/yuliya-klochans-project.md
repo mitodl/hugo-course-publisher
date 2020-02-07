@@ -5,7 +5,7 @@ menu:
     identifier: yuliya-klochans-project
     weight: 290
 ---
-« [Previous]({{< ref "nathan-hernandezs-project" >}}) | [Next]({{< ref "david-yams-project" >}}) »
+« [Previous]({{% ref "nathan-hernandezs-project" %}}) | [Next]({{% ref "david-yams-project" %}}) »
 
 [_Link to_ _Yuliya Klochan's Page on Tumblr_](http://mit219.tumblr.com/tagged/yklochan)
 
@@ -31,7 +31,7 @@ This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7
 
 The beginning of an odd mathematical journey that asks (but cannot always answer) questions like, "Is math true?" or "Could The Matrix scenario happen to us?"
 
-[\_Link back to Day 1\_]({{< ref "day-1-identity-and-genre" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 1\_]({{% ref "day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
 
 Day 2 Math Woman Saves the World (the Script)
 ---------------------------------------------
@@ -117,14 +117,14 @@ Save the world with math. No superpowers required.
 **The End**
 
 [\_Link back to Day 2  
-\_]({{< ref "day-2-audience" >}}#Instructor\_and\_Student\_Work)
+\_]({{% ref "day-2-audience" %}}#Instructor\_and\_Student\_Work)
 
 Day 3 Trailer: Fractals!
 ------------------------
 
 This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
-[\_Link back to Day 3\_]({{< ref "day-3-storytellers-toolkit-pt.-1" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 3\_]({{% ref "day-3-storytellers-toolkit-pt.-1" %}}#Instructor\_and\_Student\_Work)
 
 Day 4 Storyboard
 ----------------
@@ -149,7 +149,7 @@ Day 4 Storyboard
 
 ![YuliyaKlochan-day4storyboard-10.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/c1f067c2d2c55e330d4ecc5daf49b91e_YuliyaKlochan-day4storyboard-10.jpg)
 
-[\_Link back to Day 4\_]({{< ref "day-4-storytellers-toolkit-pt.-2" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 4\_]({{% ref "day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
 
 Day 5 Script: Fractals Video Script (Draft 2)
 ---------------------------------------------
@@ -225,7 +225,7 @@ Look around you. What beautiful patterns do you see?
 **The End**
 
 [\_Link back to Day 5  
-\_]({{< ref "day-5-storytellers-toolkit-pt.-3" >}}#Instructor\_and\_Student\_Work)
+\_]({{% ref "day-5-storytellers-toolkit-pt.-3" %}}#Instructor\_and\_Student\_Work)
 
 Day 6 Fractals! Script Revisited
 --------------------------------
@@ -277,7 +277,7 @@ Thus, fractals allow us to learn nature's best practices, and then apply them to
 Look around you. What beautiful patterns do you see?
 
 [\_Link back to Day 6  
-\_]({{< ref "day-6-table-read-and-office-hours" >}}#Instructor\_and\_Student\_Work)
+\_]({{% ref "day-6-table-read-and-office-hours" %}}#Instructor\_and\_Student\_Work)
 
 Day 7 Script (Fractals!)
 ------------------------
@@ -326,7 +326,7 @@ Thus, fractals allow us to learn nature's best practices, and then apply them to
 
 Look around you. What beautiful patterns do you see?
 
-[\_Link back to Day 7\_]({{< ref "day-7-table-read-and-post-production" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 7\_]({{% ref "day-7-table-read-and-post-production" %}}#Instructor\_and\_Student\_Work)
 
 Day 8 Fractals! Shot List
 -------------------------
@@ -363,14 +363,14 @@ Day 8 Fractals! Shot List
 *   "At the time, Cohen was having troubles with his landlord. The man wouldn't let him put a radio antenna on the roof! So, Cohen decided to make a more compact, fractal radio antenna instead _(show wire bent as Koch snowflake.)_ The landlord didn't notice it. And it worked better than the ones before! Working further, Cohen designed a new version, this time using a fractal called "the Menger Sponge" _(build a tangible model of the Sponge, and show it)_."
 
 [\_Link back to Day 8  
-\_]({{< ref "days-8-9-10-project-time" >}}#Student\_Work)
+\_]({{% ref "days-8-9-10-project-time" %}}#Student\_Work)
 
 Fractals! Rough Cut
 -------------------
 
 This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
-[\_Link back to Day 11\_]({{< ref "day-11-12-screening-rough-cuts" >}}#Student\_Work)
+[\_Link back to Day 11\_]({{% ref "day-11-12-screening-rough-cuts" %}}#Student\_Work)
 
 Final Project
 -------------
@@ -389,7 +389,7 @@ Additional Scripting: Elizabeth Choe, Jaime Goldstein, Ceri Riley, George Zaidan
 
 [See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108819986121/fractals-creative-commons-cc-by-nc-sa-mit)
 
-[\_Link back to Day 13\_]({{< ref "day-13-screening-final-cuts" >}}#Student\_Work)
+[\_Link back to Day 13\_]({{% ref "day-13-screening-final-cuts" %}}#Student\_Work)
 
 Science Out Loud
 ----------------
@@ -398,4 +398,4 @@ Yuliya's video was professionally produced by [Science Out Loud](http://k12video
 
 This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](http://k12videos.mit.edu/terms-and-conditions) license.
 
-« [Previous]({{< ref "nathan-hernandezs-project" >}}) | [Next]({{< ref "david-yams-project" >}}) »
+« [Previous]({{% ref "nathan-hernandezs-project" %}}) | [Next]({{% ref "david-yams-project" %}}) »

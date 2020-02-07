@@ -5,12 +5,12 @@ menu:
     identifier: lecture-14
     weight: 180
 ---
-« [Previous]({{< ref "lecture-13" >}}) | [Next]({{< ref "unit-iii-thermodynamics-chemical-equilibrium" >}}) »
+« [Previous]({{% ref "lecture-13" %}}) | [Next]({{% ref "unit-iii-thermodynamics-chemical-equilibrium" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/cd86b30635e57bac7778c7857150e68a_Lecture_14.jpg)  | <br><br>1.  Valence Bond Theory and Hybridization<br>    1.  Sigma and pi Bonds<br>    2.  Hybridization of Atomic Orbitals<br>        1.  sp3 Hybridization<br>        2.  sp2 Hybridization<br>        3.  sp Hybridization<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/cd86b30635e57bac7778c7857150e68a_Lecture_14.jpg)  | {{< br >}}{{< br >}}1.  Valence Bond Theory and Hybridization{{< br >}}    1.  Sigma and pi Bonds{{< br >}}    2.  Hybridization of Atomic Orbitals{{< br >}}        1.  sp3 Hybridization{{< br >}}        2.  sp2 Hybridization{{< br >}}        3.  sp Hybridization{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -41,4 +41,4 @@ Problems and Solutions
 
 [Solutions for Lecture 14 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/a3113804070ac8bc4bb610833d9f634e_MIT5_111F14_Lec14Soln.pdf)
 
-« [Previous]({{< ref "lecture-13" >}}) | [Next]({{< ref "unit-iii-thermodynamics-chemical-equilibrium" >}}) »
+« [Previous]({{% ref "lecture-13" %}}) | [Next]({{% ref "unit-iii-thermodynamics-chemical-equilibrium" %}}) »

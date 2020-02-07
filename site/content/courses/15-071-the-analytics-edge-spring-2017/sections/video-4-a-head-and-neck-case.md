@@ -5,24 +5,24 @@ menu:
     identifier: video-4-a-head-and-neck-case
     weight: 2880
 ---
-*   [<Quick Question]({{< ref "quick-question-643" >}})
-*   [8.3.1Video 1: Introduction]({{< ref "radiation-therapy-an-application-of-linear-optimization" >}})
-*   [8.3.2Quick Question]({{< ref "quick-question-630" >}})
-*   [8.3.3Video 2: An Optimization Problem]({{< ref "video-2-an-optimization-problem" >}})
-*   [8.3.4Quick Question]({{< ref "quick-question-635" >}})
-*   [8.3.5Video 3: Solving the Problem]({{< ref "video-3-solving-the-problem" >}})
-*   [8.3.6Quick Question]({{< ref "quick-question-643" >}})
-*   [8.3.7Video 4: A Head and Neck Case]({{< ref "video-4-a-head-and-neck-case" >}})
-*   [8.3.8Quick Question]({{< ref "quick-question-648" >}})
-*   [8.3.9Video 5: Sensitivity Analysis]({{< ref "video-5-sensitivity-analysis" >}})
-*   [8.3.10Quick Question]({{< ref "quick-question-654" >}})
-*   [8.3.11Video 6: The Analytics Edge]({{< ref "video-6-the-analytics-edge" >}})
-*   [\\>Quick Question]({{< ref "quick-question-648" >}})
+*   [<Quick Question]({{% ref "quick-question-643" %}})
+*   [8.3.1Video 1: Introduction]({{% ref "radiation-therapy-an-application-of-linear-optimization" %}})
+*   [8.3.2Quick Question]({{% ref "quick-question-630" %}})
+*   [8.3.3Video 2: An Optimization Problem]({{% ref "video-2-an-optimization-problem" %}})
+*   [8.3.4Quick Question]({{% ref "quick-question-635" %}})
+*   [8.3.5Video 3: Solving the Problem]({{% ref "video-3-solving-the-problem" %}})
+*   [8.3.6Quick Question]({{% ref "quick-question-643" %}})
+*   [8.3.7Video 4: A Head and Neck Case]({{% ref "video-4-a-head-and-neck-case" %}})
+*   [8.3.8Quick Question]({{% ref "quick-question-648" %}})
+*   [8.3.9Video 5: Sensitivity Analysis]({{% ref "video-5-sensitivity-analysis" %}})
+*   [8.3.10Quick Question]({{% ref "quick-question-654" %}})
+*   [8.3.11Video 6: The Analytics Edge]({{% ref "video-6-the-analytics-edge" %}})
+*   [\\>Quick Question]({{% ref "quick-question-648" %}})
 
 Video 4: A Head and Neck Case
 -----------------------------
 
 The images in this video of the brain scans come from the [Computational Environment for Radiotherapy Research (CERR)](https://github.com/cerr/CERR). 
 
-*   [BackQuick Question]({{< ref "quick-question-643" >}})
-*   [ContinueQuick Question]({{< ref "quick-question-648" >}})
+*   [BackQuick Question]({{% ref "quick-question-643" %}})
+*   [ContinueQuick Question]({{% ref "quick-question-648" %}})

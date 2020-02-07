@@ -20,7 +20,7 @@ Lecture 10: Networking: Routing (BGP)
 8.  Problems With BGP
 9.  Recurring Themes
 
-*   [Detailed Outline]({{< ref "lecture-10-outline" >}})
+*   [Detailed Outline]({{% ref "lecture-10-outline" %}})
 
 ### Lecture Slides
 
@@ -53,7 +53,7 @@ Lecture 11: Transport Layer
 8.  Additional Mechanisms
 9.  Reflection
 
-*   [Detailed Outline]({{< ref "lecture-11-outline" >}})
+*   [Detailed Outline]({{% ref "lecture-11-outline" %}})
 
 ### Lecture Slides
 
@@ -68,9 +68,9 @@ Recitation 11: Resilient Overlay Networks (RON)
 
 *   Read most of "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Resilient Overlay Networks (PDF)](http://nms.lcs.mit.edu/papers/ron-sosp2001.pdf)" by D. Andersen, H. Balakrishnan, et al.
 *   See assignment for details about which sections to read.
-*   [RON Assignment]({{< ref "ron-assignment" >}})
+*   [RON Assignment]({{% ref "ron-assignment" %}})
 
 Tutorial 6: Assembling the Design Project Preliminary Report
 ------------------------------------------------------------
 
-The [Design Project Preliminary Report (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/85b670dd8de4dbf6b591b48baa5d9789_MIT6_033S18dppr_writing.pdf) was assigned in [Week 3.]({{< ref "week-3" >}}) The preliminary report for the design project will be evaluated by your Recitation Instructor and your Communication Instructor. Your Communication Instructor will evaluate it according to the grading rubric and assign a letter grade. Your Recitation Instructor will evaluate the preliminary report to make sure your design is on the right track; you should incorporate their feedback into the presentation and report. See the [Design Project]({{< ref "design-project" >}}) section for more details.
+The [Design Project Preliminary Report (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/85b670dd8de4dbf6b591b48baa5d9789_MIT6_033S18dppr_writing.pdf) was assigned in [Week 3.]({{% ref "week-3" %}}) The preliminary report for the design project will be evaluated by your Recitation Instructor and your Communication Instructor. Your Communication Instructor will evaluate it according to the grading rubric and assign a letter grade. Your Recitation Instructor will evaluate the preliminary report to make sure your design is on the right track; you should incorporate their feedback into the presentation and report. See the [Design Project]({{% ref "design-project" %}}) section for more details.

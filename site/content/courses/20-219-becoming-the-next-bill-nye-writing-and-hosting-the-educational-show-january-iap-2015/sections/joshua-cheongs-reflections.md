@@ -5,7 +5,7 @@ menu:
     identifier: joshua-cheongs-reflections
     weight: 350
 ---
-« [Previous]({{< ref "kenneth-cheahs-reflections" >}}) | [Next]({{< ref "andrea-desrosierss-reflections" >}}) »
+« [Previous]({{% ref "kenneth-cheahs-reflections" %}}) | [Next]({{% ref "andrea-desrosierss-reflections" %}}) »
 
 [Day 1](#Joshch_s_Day_1_Thoughts) | [Day 3](#Day_3_Reflections) | [Day 4](#Vlog_Day_4) | [Day 5](#Day_5_Reflection) | [Day 7](#Joshch_s_Day_7_Thoughts) | [Day 11](#Day_11_Thoughts)
 
@@ -26,21 +26,21 @@ Perhaps I'm sounding more and more crazy here, but maybe what we need is a littl
 
 Looking forward to the next class!
 
-[\_Link back to Day 1\_]({{< ref "day-1-identity-and-genre" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 1\_]({{% ref "day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
 
 Day 3 Reflections
 -----------------
 
 This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
 
-[\_Link back to Day 3\_]({{< ref "day-3-storytellers-toolkit-pt.-1" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 3\_]({{% ref "day-3-storytellers-toolkit-pt.-1" %}}#Instructor\_and\_Student\_Work)
 
 Vlog Day 4
 ----------
 
 This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
 
-[\_Link back to Day 4\_]({{< ref "day-4-storytellers-toolkit-pt.-2" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 4\_]({{% ref "day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
 
 Day 5 Reflection
 ----------------
@@ -55,7 +55,7 @@ I loved it that I learned some technical terms for filming such as B-Roll, Pacin
 
 I found Elizabeth's tips on developing a checklist extremely useful and I can see how I would totally lose a lot of time if I were to be less prepared. I am soo excited to scout for locations and start planning the shots!! Have a great weekend to y'all!! Looking forward to monday!
 
-[\_Link back to Day 5\_]({{< ref "day-5-storytellers-toolkit-pt.-3" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 5\_]({{% ref "day-5-storytellers-toolkit-pt.-3" %}}#Instructor\_and\_Student\_Work)
 
 Day 7 Thoughts
 --------------
@@ -68,7 +68,7 @@ I really love those memorable quotes, "You must kill all your darlings!", "Editi
 
 I also took both PJ's and Andrea's advice of simplifying the numbers.
 
-[\_Link back to Day 7\_]({{< ref "day-7-table-read-and-post-production" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 7\_]({{% ref "day-7-table-read-and-post-production" %}}#Instructor\_and\_Student\_Work)
 
 Day 11 Thoughts
 ---------------
@@ -97,6 +97,6 @@ Best regards,
 
 Joshua Cheong
 
-[\_Link back to Day 11\_]({{< ref "day-11-12-screening-rough-cuts" >}}#Student\_Work)
+[\_Link back to Day 11\_]({{% ref "day-11-12-screening-rough-cuts" %}}#Student\_Work)
 
-« [Previous]({{< ref "kenneth-cheahs-reflections" >}}) | [Next]({{< ref "andrea-desrosierss-reflections" >}}) »
+« [Previous]({{% ref "kenneth-cheahs-reflections" %}}) | [Next]({{% ref "andrea-desrosierss-reflections" %}}) »

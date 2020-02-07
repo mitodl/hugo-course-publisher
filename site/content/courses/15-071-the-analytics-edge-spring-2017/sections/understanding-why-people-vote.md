@@ -5,11 +5,11 @@ menu:
     identifier: understanding-why-people-vote
     weight: 1530
 ---
-*   [<Assignment 4]({{< ref "assignment-4" >}})
-*   [4.5.1Predicting Earnings from Census Data]({{< ref "assignment-4" >}})
-*   [4.5.2Understanding Why People Vote]({{< ref "understanding-why-people-vote" >}})
-*   [4.5.3State Data Revisted]({{< ref "state-data-revisted" >}})
-*   [\\>State Data Revisted]({{< ref "state-data-revisted" >}})
+*   [<Assignment 4]({{% ref "assignment-4" %}})
+*   [4.5.1Predicting Earnings from Census Data]({{% ref "assignment-4" %}})
+*   [4.5.2Understanding Why People Vote]({{% ref "understanding-why-people-vote" %}})
+*   [4.5.3State Data Revisted]({{% ref "state-data-revisted" %}})
+*   [\\>State Data Revisted]({{% ref "state-data-revisted" %}})
 
 Understanding Why People Vote
 -----------------------------
@@ -442,5 +442,5 @@ We should not use all possible interaction terms in a logistic regression model 
 
 CheckShow Answer
 
-*   [BackAssignment 4]({{< ref "assignment-4" >}})
-*   [ContinueState Data Revisted]({{< ref "state-data-revisted" >}})
+*   [BackAssignment 4]({{% ref "assignment-4" %}})
+*   [ContinueState Data Revisted]({{% ref "state-data-revisted" %}})

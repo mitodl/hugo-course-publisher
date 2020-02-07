@@ -24,8 +24,8 @@ menu:
 
 ##### Course Features
 
-* [Instructor Insights]({{< ref "sections/instructor-insights" >}})
-* [Resource Index]({{< ref "sections/resource-index" >}})
+* [Instructor Insights]({{% ref "sections/instructor-insights" %}})
+* [Resource Index]({{% ref "sections/resource-index" %}})
 
 ##### Course Collections
 

@@ -52,7 +52,7 @@ Calendar Key
 | [Materials and Structures](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/materials-structures) | M |
 | [Signals and Systems](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/signals-systems) | S |
 | Systems and Labs ([2004](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/systems-labs-04) / [2006](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/systems-labs-06)) | S/L |
-| [Thermodynamics](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/thermo-propulsion)  <br>  <br>[Propulsion](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/thermo-propulsion) | T  <br>  <br>P |
+| [Thermodynamics](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/thermo-propulsion)  {{< br >}}  {{< br >}}[Propulsion](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/thermo-propulsion) | T  {{< br >}}  {{< br >}}P |
 | [Unified Concepts](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/unified-concepts) | U |
 | ACTIVITIES | ABBREVIATIONS |
 | [Homework](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/assignments) | HW |
@@ -77,7 +77,7 @@ Course Calendar (HTML Format)
 | Lecture 1 |   |   | U1 | T1 | F1 |
 | Lecture 2 |   |   | U2 | S/L1 | T2 |
 | Recitation |   |   |   | U |   |
-| Key Dates |   |   | HW 1 out  <br>  <br>S/L1 out |   |   |
+| Key Dates |   |   | HW 1 out  {{< br >}}  {{< br >}}S/L1 out |   |   |
 | Week 2 |
 | Lecture 1 | F2 | F3 | F4 | T3 | T4 |
 | Lecture 2 | U3 |   | U4 | S/L2 | F5 |
@@ -162,7 +162,7 @@ Course Calendar (HTML Format)
 | Lecture 1 |   | F1 | F2 | M2 | M3 |
 | Lecture 2 |   |   | M1 | S/L1 | F3 |
 | Recitation |   | M |   | F |   |
-| Key Dates |   | HW1 out  <br>  <br>S/L1 out |   <br> |   |   |
+| Key Dates |   | HW1 out  {{< br >}}  {{< br >}}S/L1 out |   {{< br >}} |   |   |
 | Week 2 |
 | Lecture 1 | M4 | F5 | F6 | M6 | M7 |
 | Lecture 2 | F4 |   | M5 | S/L2 | F7 |
@@ -172,7 +172,7 @@ Course Calendar (HTML Format)
 | Lecture 1 |   | C1 | F9 | F10 | C3 |
 | Lecture 2 |   | F8 | C2 | S/L3 | F11 |
 | Recitation |   |   |   | C |   |
-| Key Dates |   | HW 2 due  <br>  <br>HW 3 out | S/L3 out | S/L2 due |   |
+| Key Dates |   | HW 2 due  {{< br >}}  {{< br >}}HW 3 out | S/L3 out | S/L2 due |   |
 | Week 4 |
 | Lecture 1 | M8 | F12 | C5 | M10 | Q1F |
 | Lecture 2 | C4 |   | M9 | S/L4 | C6 |
@@ -212,7 +212,7 @@ Course Calendar (HTML Format)
 | Lecture 1 | M17 | S12 | S13 | M19 | M20 |
 | Lecture 2 | S11 |   | M18 | S/L11 | S14 |
 | Recitation |   | M |   | S |   |
-| Key Dates |   | HW 10 due | S/L11 out  <br>  <br>HW 11 out | S/L10 due |   |
+| Key Dates |   | HW 10 due | S/L11 out  {{< br >}}  {{< br >}}HW 11 out | S/L10 due |   |
 | Week 12 |
 | Lecture 1 | S15 | S16 | C14 | C15 | Q6S |
 | Lecture 2 | C13 |   | S17 | S/L12 | C16 |

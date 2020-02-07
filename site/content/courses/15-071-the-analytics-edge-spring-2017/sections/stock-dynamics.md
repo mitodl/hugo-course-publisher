@@ -5,12 +5,12 @@ menu:
     identifier: stock-dynamics
     weight: 360
 ---
-*   [<Assignment 1]({{< ref "assignment-1" >}})
-*   [1.5.1An Analytical Detective]({{< ref "assignment-1" >}})
-*   [1.5.2Stock Dynamics]({{< ref "stock-dynamics" >}})
-*   [1.5.3Demographics and Employment in the United States]({{< ref "demographics-and-employment-in-the-united-states" >}})
-*   [1.5.4Internet Privacy Poll]({{< ref "internet-privacy-poll" >}})
-*   [\\>Demographics and Employment in the United States]({{< ref "demographics-and-employment-in-the-united-states" >}})
+*   [<Assignment 1]({{% ref "assignment-1" %}})
+*   [1.5.1An Analytical Detective]({{% ref "assignment-1" %}})
+*   [1.5.2Stock Dynamics]({{% ref "stock-dynamics" %}})
+*   [1.5.3Demographics and Employment in the United States]({{% ref "demographics-and-employment-in-the-united-states" %}})
+*   [1.5.4Internet Privacy Poll]({{% ref "internet-privacy-poll" %}})
+*   [\\>Demographics and Employment in the United States]({{% ref "demographics-and-employment-in-the-united-states" %}})
 
 Stock Dynamics
 --------------
@@ -512,5 +512,5 @@ CheckShow Answer
 
 After seeing these trends, we are ready to buy stock in certain months and sell it in others! But, we should be careful, because one really good or really bad year could skew the average to show a trend that is not really there in general.
 
-*   [BackAssignment 1]({{< ref "assignment-1" >}})
-*   [ContinueDemographics and Employment in the United States]({{< ref "demographics-and-employment-in-the-united-states" >}})
+*   [BackAssignment 1]({{% ref "assignment-1" %}})
+*   [ContinueDemographics and Employment in the United States]({{% ref "demographics-and-employment-in-the-united-states" %}})

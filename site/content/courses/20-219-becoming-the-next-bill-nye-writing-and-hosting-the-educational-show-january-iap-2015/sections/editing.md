@@ -5,7 +5,7 @@ menu:
     identifier: editing
     weight: 70
 ---
-« [Previous]({{< ref "equipment" >}}) | [Next]({{< ref "readings" >}}) »
+« [Previous]({{% ref "equipment" %}}) | [Next]({{% ref "readings" %}}) »
 
 We will not be formally teaching editing during class time, but there are several helpful tutorials online that will get you through learning the basic techniques. We will spend class time discussing the philosophy of editing, in addition to offering office hours. You are welcome to use the editing software of your choice. These tutorials are for platforms that range in increasing difficulty:
 
@@ -24,4 +24,4 @@ We will not be formally teaching editing during class time, but there are severa
 *   **Adobe Premiere Pro**
     *   [Lynda.com, Inc. "Premier Pro CC Essential Training (2014)."](http://www.lynda.com/Premiere-Pro-tutorials/Premiere-Pro-CC-Essential-Training/170630-2.html)
 
-« [Previous]({{< ref "equipment" >}}) | [Next]({{< ref "readings" >}}) »
+« [Previous]({{% ref "equipment" %}}) | [Next]({{% ref "readings" %}}) »

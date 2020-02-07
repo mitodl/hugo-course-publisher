@@ -5,10 +5,10 @@ menu:
     identifier: assignment-9
     weight: 3260
 ---
-*   [<Video 4: The Solution]({{< ref "video-4-the-solution" >}})
-*   [9.5.1Even' Star Organic Farm Revisited]({{< ref "assignment-9" >}})
-*   [9.5.2Gerrymandering New Mexico]({{< ref "gerrymandering-new-mexico" >}})
-*   [\\>Gerrymandering New Mexico]({{< ref "gerrymandering-new-mexico" >}})
+*   [<Video 4: The Solution]({{% ref "video-4-the-solution" %}})
+*   [9.5.1Even' Star Organic Farm Revisited]({{% ref "assignment-9" %}})
+*   [9.5.2Gerrymandering New Mexico]({{% ref "gerrymandering-new-mexico" %}})
+*   [\\>Gerrymandering New Mexico]({{% ref "gerrymandering-new-mexico" %}})
 
 Even' Star Organic Farm Revisited
 ---------------------------------
@@ -245,5 +245,5 @@ CheckShow Answer
 
 Acknowledgements: This problem is based on the case study "[Introducing Integer Modeling with Excel Solver](https://pubsonline.informs.org/doi/10.1287/ited.7.1.88)" by Dessislava Pachamanova, _INFORMS Transactions on Education_ 7(1), p.88-98, 2006.
 
-*   [BackVideo 4: The Solution]({{< ref "video-4-the-solution" >}})
-*   [ContinueGerrymandering New Mexico]({{< ref "gerrymandering-new-mexico" >}})
+*   [BackVideo 4: The Solution]({{% ref "video-4-the-solution" %}})
+*   [ContinueGerrymandering New Mexico]({{% ref "gerrymandering-new-mexico" %}})

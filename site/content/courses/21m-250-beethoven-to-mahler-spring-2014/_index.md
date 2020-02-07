@@ -28,7 +28,7 @@ menu:
 
 ##### Course Features
 
-* [Lecture notes]({{< ref "sections/lecture-notes" >}})
+* [Lecture notes]({{% ref "sections/lecture-notes" %}})
 
 ##### Course Collections
 

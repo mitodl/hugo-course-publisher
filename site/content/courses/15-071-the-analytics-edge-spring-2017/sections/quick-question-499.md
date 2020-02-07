@@ -5,17 +5,17 @@ menu:
     identifier: quick-question-499
     weight: 2180
 ---
-*   [<Video 4: Understanding Cluster Patterns]({{< ref "video-4-understanding-cluster-patterns" >}})
-*   [6.3.1Video 1: Heart Attacks]({{< ref "predictive-diagnosis-discovering-patterns-for-disease-detection" >}})
-*   [6.3.2Quick Question]({{< ref "quick-question-481" >}})
-*   [6.3.3Video 2: The Data]({{< ref "video-2-the-data-6" >}})
-*   [6.3.4Quick Question]({{< ref "quick-question-486" >}})
-*   [6.3.5Video 3: Predicting Heart Attacks using Clustering]({{< ref "video-3-predicting-heart-attacks-using-clustering" >}})
-*   [6.3.6Quick Question]({{< ref "quick-question-494" >}})
-*   [6.3.7Video 4: Understanding Cluster Patterns]({{< ref "video-4-understanding-cluster-patterns" >}})
-*   [6.3.8Quick Question]({{< ref "quick-question-499" >}})
-*   [6.3.9Video 5: The Analytics Edge]({{< ref "video-5-the-analytics-edge" >}})
-*   [\\>Video 5: The Analytics Edge]({{< ref "video-5-the-analytics-edge" >}})
+*   [<Video 4: Understanding Cluster Patterns]({{% ref "video-4-understanding-cluster-patterns" %}})
+*   [6.3.1Video 1: Heart Attacks]({{% ref "predictive-diagnosis-discovering-patterns-for-disease-detection" %}})
+*   [6.3.2Quick Question]({{% ref "quick-question-481" %}})
+*   [6.3.3Video 2: The Data]({{% ref "video-2-the-data-6" %}})
+*   [6.3.4Quick Question]({{% ref "quick-question-486" %}})
+*   [6.3.5Video 3: Predicting Heart Attacks using Clustering]({{% ref "video-3-predicting-heart-attacks-using-clustering" %}})
+*   [6.3.6Quick Question]({{% ref "quick-question-494" %}})
+*   [6.3.7Video 4: Understanding Cluster Patterns]({{% ref "video-4-understanding-cluster-patterns" %}})
+*   [6.3.8Quick Question]({{% ref "quick-question-499" %}})
+*   [6.3.9Video 5: The Analytics Edge]({{% ref "video-5-the-analytics-edge" %}})
+*   [\\>Video 5: The Analytics Edge]({{% ref "video-5-the-analytics-edge" %}})
 
 Quick Question
 --------------
@@ -36,5 +36,5 @@ If you wanted to find more unusual patterns, you would increase the number of cl
 
 CheckShow Answer
 
-*   [BackVideo 4: Understanding Cluster Patterns]({{< ref "video-4-understanding-cluster-patterns" >}})
-*   [ContinueVideo 5: The Analytics Edge]({{< ref "video-5-the-analytics-edge" >}})
+*   [BackVideo 4: Understanding Cluster Patterns]({{% ref "video-4-understanding-cluster-patterns" %}})
+*   [ContinueVideo 5: The Analytics Edge]({{% ref "video-5-the-analytics-edge" %}})

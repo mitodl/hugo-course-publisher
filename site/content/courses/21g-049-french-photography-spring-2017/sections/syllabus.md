@@ -49,7 +49,7 @@ Assignments
 
 **Paper Revisions and Expansion**: Students will revise and expand one paper based on feedback from the instructor.
 
-In-depth details about these can be found in the [Assignments section]({{< ref "assignments" >}}).
+In-depth details about these can be found in the [Assignments section]({{% ref "assignments" %}}).
 
 Grading
 -------

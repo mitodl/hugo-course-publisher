@@ -5,21 +5,21 @@ menu:
     identifier: quick-question-253
     weight: 1150
 ---
-*   [<Judge, Jury, and Classifier: An Introduction to Trees]({{< ref "judge-jury-and-classifier-an-introduction-to-trees" >}})
-*   [4.2.1Video 1: The Supreme Court]({{< ref "judge-jury-and-classifier-an-introduction-to-trees" >}})
-*   [4.2.2Quick Question]({{< ref "quick-question-253" >}})
-*   [4.2.3Video 2: CART]({{< ref "video-2-cart" >}})
-*   [4.2.4Quick Question]({{< ref "quick-question-258" >}})
-*   [4.2.5Video 3: Splitting and Predictions]({{< ref "video-3-splitting-and-predictions" >}})
-*   [4.2.6Quick Question]({{< ref "quick-question-267" >}})
-*   [4.2.7Video 4: CART in R]({{< ref "video-4-cart-in-r" >}})
-*   [4.2.8Quick Question]({{< ref "quick-question-281" >}})
-*   [4.2.9Video 5: Random Forests]({{< ref "video-5-random-forests" >}})
-*   [4.2.10Quick Question]({{< ref "quick-question-297" >}})
-*   [4.2.11Video 6: Cross-Validation]({{< ref "video-6-cross-validation" >}})
-*   [4.2.12Quick Question]({{< ref "quick-question-306" >}})
-*   [4.2.13Video 7: The Model v. The Experts]({{< ref "video-7-the-model-v-the-experts" >}})
-*   [\\>Video 2: CART]({{< ref "video-2-cart" >}})
+*   [<Judge, Jury, and Classifier: An Introduction to Trees]({{% ref "judge-jury-and-classifier-an-introduction-to-trees" %}})
+*   [4.2.1Video 1: The Supreme Court]({{% ref "judge-jury-and-classifier-an-introduction-to-trees" %}})
+*   [4.2.2Quick Question]({{% ref "quick-question-253" %}})
+*   [4.2.3Video 2: CART]({{% ref "video-2-cart" %}})
+*   [4.2.4Quick Question]({{% ref "quick-question-258" %}})
+*   [4.2.5Video 3: Splitting and Predictions]({{% ref "video-3-splitting-and-predictions" %}})
+*   [4.2.6Quick Question]({{% ref "quick-question-267" %}})
+*   [4.2.7Video 4: CART in R]({{% ref "video-4-cart-in-r" %}})
+*   [4.2.8Quick Question]({{% ref "quick-question-281" %}})
+*   [4.2.9Video 5: Random Forests]({{% ref "video-5-random-forests" %}})
+*   [4.2.10Quick Question]({{% ref "quick-question-297" %}})
+*   [4.2.11Video 6: Cross-Validation]({{% ref "video-6-cross-validation" %}})
+*   [4.2.12Quick Question]({{% ref "quick-question-306" %}})
+*   [4.2.13Video 7: The Model v. The Experts]({{% ref "video-7-the-model-v-the-experts" %}})
+*   [\\>Video 2: CART]({{% ref "video-2-cart" %}})
 
 Quick Question
 --------------
@@ -38,5 +38,5 @@ Andrew Martin should use all data from the cases with the same set of justices. 
 
 CheckShow Answer
 
-*   [BackJudge, Jury, and Classifier: An Introduction to Trees]({{< ref "judge-jury-and-classifier-an-introduction-to-trees" >}})
-*   [ContinueVideo 2: CART]({{< ref "video-2-cart" >}})
+*   [BackJudge, Jury, and Classifier: An Introduction to Trees]({{% ref "judge-jury-and-classifier-an-introduction-to-trees" %}})
+*   [ContinueVideo 2: CART]({{% ref "video-2-cart" %}})

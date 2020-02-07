@@ -5,12 +5,12 @@ menu:
     identifier: lecture-18
     weight: 230
 ---
-« [Previous]({{< ref "lecture-17" >}}) | [Next]({{< ref "lecture-19" >}}) »
+« [Previous]({{% ref "lecture-17" %}}) | [Next]({{% ref "lecture-19" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/a167b211a7bfde223d913d2fd32d6fd0_Lecture_18.jpg)  | <br><br>1.  Chemical Equilibrium<br>    1.  Nature of Chemical Equilibrium<br>    2.  Meaning of the Chemical Equilibrium Constant K<br>    3.  External Effects on K (Le Châtlier's Principle)<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/a167b211a7bfde223d913d2fd32d6fd0_Lecture_18.jpg)  | {{< br >}}{{< br >}}1.  Chemical Equilibrium{{< br >}}    1.  Nature of Chemical Equilibrium{{< br >}}    2.  Meaning of the Chemical Equilibrium Constant K{{< br >}}    3.  External Effects on K (Le Châtlier's Principle){{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -52,4 +52,4 @@ Problems and Solutions
 
 [Solutions for Lecture 18 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/4d0d7db1079f4fee2bdd58d95033f36d_MIT5_111F14_Lec18Soln.pdf)
 
-« [Previous]({{< ref "lecture-17" >}}) | [Next]({{< ref "lecture-19" >}}) »
+« [Previous]({{% ref "lecture-17" %}}) | [Next]({{% ref "lecture-19" %}}) »

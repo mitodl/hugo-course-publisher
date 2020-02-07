@@ -5,7 +5,7 @@ menu:
     identifier: ps.6.2-snowplow-problem
     weight: 1220
 ---
-« [Previous]({{< ref "ps.6.1-rocket-sled-problem" >}}) | [Next]({{< ref "problem-set-6" >}}) »
+« [Previous]({{% ref "ps.6.1-rocket-sled-problem" %}}) | [Next]({{% ref "problem-set-6" %}}) »
 
 Snow of density \\(\\displaystyle \\rho\\) covers a road to a uniform depth of \\(\\displaystyle D\\) meters. A snowplowing truck of mass \\(\\displaystyle M\\) starts clearing the road at \\(\\displaystyle t = 0\\) at an initial velocity \\(\\displaystyle v\_0\\). The contact between the tires and the road applies a constant force \\(\\displaystyle F\_0\\) in the forward direction. The truck's subsequent velocity depends on time as it clears a path of width \\(\\displaystyle W\\) through the snow. The snow, after coming momentarily to rest relative to the truck, is ejected sideways, perpendicular to the truck.
 
@@ -15,4 +15,4 @@ Snow of density \\(\\displaystyle \\rho\\) covers a road to a uniform depth of \
 
 **(Part b)** Calculate \\(\\displaystyle v\_{\\text {term}}\\), the terminal speed reached by the truck. Express you answer in terms of some or all of the following: \\(\\displaystyle \\rho\\), \\(\\displaystyle D\\), \\(\\displaystyle W\\), \\(\\displaystyle M\\) and \\(\\displaystyle F\_0\\).
 
-« [Previous]({{< ref "ps.6.1-rocket-sled-problem" >}}) | [Next]({{< ref "problem-set-6" >}}) »
+« [Previous]({{% ref "ps.6.1-rocket-sled-problem" %}}) | [Next]({{% ref "problem-set-6" %}}) »

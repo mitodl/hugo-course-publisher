@@ -5,12 +5,12 @@ menu:
     identifier: lecture-16
     weight: 210
 ---
-« [Previous]({{< ref "lecture-15" >}}) | [Next]({{< ref "lecture-17" >}}) »
+« [Previous]({{% ref "lecture-15" %}}) | [Next]({{% ref "lecture-17" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/35ea3d5a2627b7771fad5c6ca91b533d_Lecture_16.jpg)  | <br><br>1.  Thermodynamics<br>    1.  Spontaneous Change and Free Energy<br>    2.  Entropy<br>    3.  Free Energy of Formation<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/35ea3d5a2627b7771fad5c6ca91b533d_Lecture_16.jpg)  | {{< br >}}{{< br >}}1.  Thermodynamics{{< br >}}    1.  Spontaneous Change and Free Energy{{< br >}}    2.  Entropy{{< br >}}    3.  Free Energy of Formation{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -43,4 +43,4 @@ Problems and Solutions
 
 [Solutions for Lecture 16 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/446dfcd813f73f2c45ec4768bb47bae0_MIT5_111F14_Lec16Soln.pdf)
 
-« [Previous]({{< ref "lecture-15" >}}) | [Next]({{< ref "lecture-17" >}}) »
+« [Previous]({{% ref "lecture-15" %}}) | [Next]({{% ref "lecture-17" %}}) »

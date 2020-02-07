@@ -5,11 +5,11 @@ menu:
     identifier: automating-reviews-in-medicine
     weight: 1930
 ---
-*   [<Detecting Vandalism on Wikipedia]({{< ref "detecting-vandalism-on-wikipedia" >}})
-*   [5.5.1Separating Spam from Ham (Part 1)]({{< ref "assignment-5" >}})
-*   [5.5.2Detecting Vandalism on Wikipedia]({{< ref "detecting-vandalism-on-wikipedia" >}})
-*   [5.5.3Automating Reviews in Medicine]({{< ref "automating-reviews-in-medicine" >}})
-*   [\\>Clustering]({{< ref "clustering" >}})
+*   [<Detecting Vandalism on Wikipedia]({{% ref "detecting-vandalism-on-wikipedia" %}})
+*   [5.5.1Separating Spam from Ham (Part 1)]({{% ref "assignment-5" %}})
+*   [5.5.2Detecting Vandalism on Wikipedia]({{% ref "detecting-vandalism-on-wikipedia" %}})
+*   [5.5.3Automating Reviews in Medicine]({{% ref "automating-reviews-in-medicine" %}})
+*   [\\>Clustering]({{% ref "clustering" %}})
 
 Automating Reviews in Medicine
 ------------------------------
@@ -499,5 +499,5 @@ A false negative might negatively affect the results of the literature review an
 
 CheckShow Answer
 
-*   [BackDetecting Vandalism on Wikipedia]({{< ref "detecting-vandalism-on-wikipedia" >}})
-*   [ContinueClustering]({{< ref "clustering" >}})
+*   [BackDetecting Vandalism on Wikipedia]({{% ref "detecting-vandalism-on-wikipedia" %}})
+*   [ContinueClustering]({{% ref "clustering" %}})

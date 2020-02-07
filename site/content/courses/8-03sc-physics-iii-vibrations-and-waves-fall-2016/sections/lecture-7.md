@@ -5,12 +5,12 @@ menu:
     identifier: lecture-7
     weight: 100
 ---
-« [Previous]({{< ref "lecture-6" >}}) | [Next]({{< ref "lecture-8" >}}) »
+« [Previous]({{% ref "lecture-6" %}}) | [Next]({{% ref "lecture-8" %}}) »
 
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/032e02f9d29caa730e8490785a6febef_L7.jpg) | <br><br>*   Symmetry<br>*   Infinitely long system<br>*   Sine waves<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/032e02f9d29caa730e8490785a6febef_L7.jpg) | {{< br >}}{{< br >}}*   Symmetry{{< br >}}*   Infinitely long system{{< br >}}*   Sine waves{{< br >}}{{< br >}} 
 
 Lecture Video: Symmetry, Infinite Number of Coupled Oscillators
 ---------------------------------------------------------------
@@ -48,9 +48,9 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | <br><br> |
-| [Vibrating Spring (Hand Driven)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2035&show=0) | <br><br> 
+| [Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | {{< br >}}{{< br >}} |
+| [Vibrating Spring (Hand Driven)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2035&show=0) | {{< br >}}{{< br >}} 
 
 _\* **Note**: These Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{< ref "lecture-6" >}}) | [Next]({{< ref "lecture-8" >}}) »
+« [Previous]({{% ref "lecture-6" %}}) | [Next]({{% ref "lecture-8" %}}) »

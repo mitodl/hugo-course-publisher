@@ -5,27 +5,27 @@ menu:
     identifier: video-5-data-analysis-summary-statistics-and-scatterplots
     weight: 230
 ---
-*   [<Quick Question]({{< ref "quick-question-20" >}})
-*   [1.3.1Download and Install R]({{< ref "working-with-data-an-introduction-to-r" >}})
-*   [1.3.2Video 1: Why R?]({{< ref "video-1-why-r" >}})
-*   [1.3.3Quick Question]({{< ref "quick-question" >}})
-*   [1.3.4Video 2: Getting Started in R]({{< ref "video-2-getting-started-in-r" >}})
-*   [1.3.5Quick Question]({{< ref "quick-question-4" >}})
-*   [1.3.6Video 3: Vectors and Data Frames]({{< ref "video-3-vectors-and-data-frames" >}})
-*   [1.3.7Quick Question]({{< ref "quick-question-9" >}})
-*   [1.3.8Video 4: Loading Data Files]({{< ref "video-4-loading-data-files" >}})
-*   [1.3.9Quick Question]({{< ref "quick-question-20" >}})
-*   [1.3.10Video 5: Data Analysis - Summary Statistics and Scatterplots]({{< ref "video-5-data-analysis-summary-statistics-and-scatterplots" >}})
-*   [1.3.11Quick Question]({{< ref "quick-question-28" >}})
-*   [1.3.12Video 6: Data Analysis - Plots and Summary Tables]({{< ref "video-6-data-analysis-plots-and-summary-tables" >}})
-*   [1.3.13Quick Question]({{< ref "quick-question-40" >}})
-*   [1.3.14Video 7: Saving with Script Files]({{< ref "video-7-saving-with-script-files" >}})
-*   [\\>Quick Question]({{< ref "quick-question-28" >}})
+*   [<Quick Question]({{% ref "quick-question-20" %}})
+*   [1.3.1Download and Install R]({{% ref "working-with-data-an-introduction-to-r" %}})
+*   [1.3.2Video 1: Why R?]({{% ref "video-1-why-r" %}})
+*   [1.3.3Quick Question]({{% ref "quick-question" %}})
+*   [1.3.4Video 2: Getting Started in R]({{% ref "video-2-getting-started-in-r" %}})
+*   [1.3.5Quick Question]({{% ref "quick-question-4" %}})
+*   [1.3.6Video 3: Vectors and Data Frames]({{% ref "video-3-vectors-and-data-frames" %}})
+*   [1.3.7Quick Question]({{% ref "quick-question-9" %}})
+*   [1.3.8Video 4: Loading Data Files]({{% ref "video-4-loading-data-files" %}})
+*   [1.3.9Quick Question]({{% ref "quick-question-20" %}})
+*   [1.3.10Video 5: Data Analysis - Summary Statistics and Scatterplots]({{% ref "video-5-data-analysis-summary-statistics-and-scatterplots" %}})
+*   [1.3.11Quick Question]({{% ref "quick-question-28" %}})
+*   [1.3.12Video 6: Data Analysis - Plots and Summary Tables]({{% ref "video-6-data-analysis-plots-and-summary-tables" %}})
+*   [1.3.13Quick Question]({{% ref "quick-question-40" %}})
+*   [1.3.14Video 7: Saving with Script Files]({{% ref "video-7-saving-with-script-files" %}})
+*   [\\>Quick Question]({{% ref "quick-question-28" %}})
 
 Video 5: Data Analysis - Summary Statistics and Scatterplots
 ------------------------------------------------------------
 
 This video covers a lot of material regarding basic data analysis in R. Don't worry if you don't absorb everything, as the focus of the recitation and the homework assignment is to go over all of these topics again. By the time you are done with the homework assignment for this week, you will hopefully feel much more comfortable performing basic data analysis in R.
 
-*   [BackQuick Question]({{< ref "quick-question-20" >}})
-*   [ContinueQuick Question]({{< ref "quick-question-28" >}})
+*   [BackQuick Question]({{% ref "quick-question-20" %}})
+*   [ContinueQuick Question]({{% ref "quick-question-28" %}})

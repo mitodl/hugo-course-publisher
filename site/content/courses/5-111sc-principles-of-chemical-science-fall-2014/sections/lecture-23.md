@@ -5,12 +5,12 @@ menu:
     identifier: lecture-23
     weight: 280
 ---
-« [Previous]({{< ref "lecture-22" >}}) | [Next]({{< ref "lecture-24" >}}) »
+« [Previous]({{% ref "lecture-22" %}}) | [Next]({{% ref "lecture-24" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/69bd40b3c8241027d24c167a359ed681_Lecture_23.jpg)  | <br><br>1.  Acid-Base Titrations<br>    1.  Titration of Strong Acids and Strong Bases<br>    2.  Titration of Weak Acids / Strong Bases & Strong Acids/Weak Bases<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/69bd40b3c8241027d24c167a359ed681_Lecture_23.jpg)  | {{< br >}}{{< br >}}1.  Acid-Base Titrations{{< br >}}    1.  Titration of Strong Acids and Strong Bases{{< br >}}    2.  Titration of Weak Acids / Strong Bases & Strong Acids/Weak Bases{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -41,4 +41,4 @@ Problems and Solutions
 
 [Solutions for Lecture 23 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c1940b748d35c51f710b6b931898b9d5_MIT5_111F14_Lec23Soln.pdf)
 
-« [Previous]({{< ref "lecture-22" >}}) | [Next]({{< ref "lecture-24" >}}) »
+« [Previous]({{% ref "lecture-22" %}}) | [Next]({{% ref "lecture-24" %}}) »

@@ -5,7 +5,7 @@ menu:
     identifier: ps.2.1-worked-example-sliding-block
     weight: 530
 ---
-« [Previous]({{< ref "dd.1.1-friction-at-the-nanoscale" >}}) | [Next]({{< ref "ps.2.2-worked-example-pushing-stacked-blocks" >}}) »
+« [Previous]({{% ref "dd.1.1-friction-at-the-nanoscale" %}}) | [Next]({{% ref "ps.2.2-worked-example-pushing-stacked-blocks" %}}) »
 
 ![A diagram of the mass impacting the spring and then rebounding.](https://open-learning-course-data.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/e7c3c8b94d995cd3d77c1628abb04621_week2ps1.svg)
 
@@ -15,4 +15,4 @@ A block of mass \\(\\displaystyle m\\) is sliding down an inclined plane of angl
 
 **(Part b)** What is the x-component of the block's acceleration vector when it is sliding up?
 
-« [Previous]({{< ref "dd.1.1-friction-at-the-nanoscale" >}}) | [Next]({{< ref "ps.2.2-worked-example-pushing-stacked-blocks" >}}) »
+« [Previous]({{% ref "dd.1.1-friction-at-the-nanoscale" %}}) | [Next]({{% ref "ps.2.2-worked-example-pushing-stacked-blocks" %}}) »

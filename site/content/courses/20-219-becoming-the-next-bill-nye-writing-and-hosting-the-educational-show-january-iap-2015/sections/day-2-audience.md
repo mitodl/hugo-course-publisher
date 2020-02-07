@@ -5,7 +5,7 @@ menu:
     identifier: day-2-audience
     weight: 140
 ---
-« [Previous]({{< ref "day-1-identity-and-genre" >}}) | [Next]({{< ref "day-3-storytellers-toolkit-pt.-1" >}}) »
+« [Previous]({{% ref "day-1-identity-and-genre" %}}) | [Next]({{% ref "day-3-storytellers-toolkit-pt.-1" %}}) »
 
 Contents
 --------
@@ -67,23 +67,23 @@ Instructor and Student Work
 
 ### Day 2 Blogs / Vlogs
 
-*   [Elizabeth's day 2 blog]({{< ref "elizabeth-choes-reflections" >}}#Echoe\_s\_Day\_2\_Thoughts)
-*   [Ceri's day 2 blog]({{< ref "ceri-rileys-reflections" >}}#Reflection\_Day\_2)
-*   [Kenneth's day 2 blog]({{< ref "kenneth-cheahs-reflections" >}}#Blog\_Entry\_Day\_2\_\_Cheahyhk\_)
-*   [Andrea's day 2 blog]({{< ref "andrea-desrosierss-reflections" >}}#Day\_2\_Andrea\_s\_Struggles)
-*   [PJ's day 2 blog]({{< ref "paul-pj-folinos-reflections" >}}#Pjfolino\_s\_Day\_2\_Thoughts)
-*   [Nathan's day 2 blog]({{< ref "nathan-hernandezs-reflections" >}}#Hiji\_s\_Day\_2\_Thoughts)
-*   [Yuliya's day 2 blog]({{< ref "yuliya-klochans-reflections" >}}#Day\_2\_Thoughts\_and\_Feelings)
-*   [David's day 2 blog]({{< ref "david-yams-reflections" >}}#David\_Yam\_Day\_2\_Thoughts)
+*   [Elizabeth's day 2 blog]({{% ref "elizabeth-choes-reflections" %}}#Echoe\_s\_Day\_2\_Thoughts)
+*   [Ceri's day 2 blog]({{% ref "ceri-rileys-reflections" %}}#Reflection\_Day\_2)
+*   [Kenneth's day 2 blog]({{% ref "kenneth-cheahs-reflections" %}}#Blog\_Entry\_Day\_2\_\_Cheahyhk\_)
+*   [Andrea's day 2 blog]({{% ref "andrea-desrosierss-reflections" %}}#Day\_2\_Andrea\_s\_Struggles)
+*   [PJ's day 2 blog]({{% ref "paul-pj-folinos-reflections" %}}#Pjfolino\_s\_Day\_2\_Thoughts)
+*   [Nathan's day 2 blog]({{% ref "nathan-hernandezs-reflections" %}}#Hiji\_s\_Day\_2\_Thoughts)
+*   [Yuliya's day 2 blog]({{% ref "yuliya-klochans-reflections" %}}#Day\_2\_Thoughts\_and\_Feelings)
+*   [David's day 2 blog]({{% ref "david-yams-reflections" %}}#David\_Yam\_Day\_2\_Thoughts)
 
 ### Day 2 Scripts
 
-*   [Kenneth's day 2 script]({{< ref "kenneth-cheahs-project" >}}#Day\_2\_Script)
-*   [Joshua's day 2 script]({{< ref "joshua-cheongs-project" >}}#Day\_2\_Script)
-*   [Andrea's day 2 script]({{< ref "andrea-desrosierss-project" >}}#Day\_2\_Script)
-*   [PJ's day 2 script]({{< ref "paul-pj-folinos-project" >}}#Day\_2\_Script)
-*   [Nathan's day 2 script]({{< ref "nathan-hernandezs-project" >}}#Day\_2\_Script)
-*   [Yuliya's day 2 script]({{< ref "yuliya-klochans-project" >}}#Math\_Woman\_Saves\_the\_World)
-*   [David's day 2 script]({{< ref "david-yams-project" >}}#Day\_2\_Script)
+*   [Kenneth's day 2 script]({{% ref "kenneth-cheahs-project" %}}#Day\_2\_Script)
+*   [Joshua's day 2 script]({{% ref "joshua-cheongs-project" %}}#Day\_2\_Script)
+*   [Andrea's day 2 script]({{% ref "andrea-desrosierss-project" %}}#Day\_2\_Script)
+*   [PJ's day 2 script]({{% ref "paul-pj-folinos-project" %}}#Day\_2\_Script)
+*   [Nathan's day 2 script]({{% ref "nathan-hernandezs-project" %}}#Day\_2\_Script)
+*   [Yuliya's day 2 script]({{% ref "yuliya-klochans-project" %}}#Math\_Woman\_Saves\_the\_World)
+*   [David's day 2 script]({{% ref "david-yams-project" %}}#Day\_2\_Script)
 
-« [Previous]({{< ref "day-1-identity-and-genre" >}}) | [Next]({{< ref "day-3-storytellers-toolkit-pt.-1" >}}) »
+« [Previous]({{% ref "day-1-identity-and-genre" %}}) | [Next]({{% ref "day-3-storytellers-toolkit-pt.-1" %}}) »

@@ -100,7 +100,7 @@ The staff has worked with the MIT Writing, Rhetoric, and Professional Communicat
 
 The DP requires you to develop a detailed system design to solve a real-world problem. This project will extend over most of the semester, and will be done in teams of three students, all of whom attend the same writing tutorial (with exceptions only for extenuating circumstances). Real-world systems are not built individually; it's always a team effort. Part of the DP is to learn to work productively and effectively in this setting. We will give you tools for doing so in the writing tutorials.
 
-The DP consists of multiple deliverables: a preliminary report, oral presentation, final report, and peer review. The [Design Project]({{< ref "design-project" >}}) page gives more detail about the DP deliverables.
+The DP consists of multiple deliverables: a preliminary report, oral presentation, final report, and peer review. The [Design Project]({{% ref "design-project" %}}) page gives more detail about the DP deliverables.
 
 *   System Critiques: One of the goals of this class is for students to be able to analyze and critique technical systems. We will assign multiple system critiques during the semester.
 
@@ -129,9 +129,9 @@ The class consists of three components: technical material, communication/system
 
 | ACTIVITIES | PERCENTAGES |
 | --- | --- |
-| <br><br>_Technical Material_<br><br>30% for Quizzes (two @ 15% each)<br><br>5% for Hands-Ons<br><br> | 35% |
-| <br><br>### Communication + System Design and Analysis<br><br>10% for Design Project (DP) Preliminary Report and Presentation<br><br>20% for DP report<br><br>4% for DP Peer Review<br><br>6% for Critiques (Critique #1 =2%, Critique #2 = 4%)<br><br> | 40% |
-| <br><br>### Participation<br><br>20% for Recitation Participation<br><br>5% for Communication Participation<br><br> | 25% 
+| {{< br >}}{{< br >}}_Technical Material_{{< br >}}{{< br >}}30% for Quizzes (two @ 15% each){{< br >}}{{< br >}}5% for Hands-Ons{{< br >}}{{< br >}} | 35% |
+| {{< br >}}{{< br >}}### Communication + System Design and Analysis{{< br >}}{{< br >}}10% for Design Project (DP) Preliminary Report and Presentation{{< br >}}{{< br >}}20% for DP report{{< br >}}{{< br >}}4% for DP Peer Review{{< br >}}{{< br >}}6% for Critiques (Critique #1 =2%, Critique #2 = 4%){{< br >}}{{< br >}} | 40% |
+| {{< br >}}{{< br >}}### Participation{{< br >}}{{< br >}}20% for Recitation Participation{{< br >}}{{< br >}}5% for Communication Participation{{< br >}}{{< br >}} | 25% 
 
 You must complete all design project assignments in order to pass 6.033. If you do not, you will automatically receive an F.
 

@@ -12,7 +12,7 @@ menu:
 
 | | | |
 | --- | --- | --- |
-| 1 | <br><br>Photography, France, How to talk / write about photographs<br><br> |   |
+| 1 | {{< br >}}{{< br >}}Photography, France, How to talk / write about photographs{{< br >}}{{< br >}} |   |
 
 **Week 2: What is photography? I. (Moment or Network) **
 

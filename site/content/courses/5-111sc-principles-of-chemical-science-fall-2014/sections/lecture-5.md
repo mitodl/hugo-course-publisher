@@ -5,12 +5,12 @@ menu:
     identifier: lecture-5
     weight: 80
 ---
-« [Previous]({{< ref "lecture-4" >}}) | [Next]({{< ref "lecture-6" >}}) »
+« [Previous]({{% ref "lecture-4" %}}) | [Next]({{% ref "lecture-6" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/70f20273f28b430235bfd08189ec3cbd_Lecture_5.jpg)  | <br><br>1.  Binding Energies of the Electron to the Nucleus for a Hydrogen Atom<br>2.  Verification of Hydrogen-Atom Energy Levels<br>    1.  Photon Emission<br>    2.  Photon Absorption<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/70f20273f28b430235bfd08189ec3cbd_Lecture_5.jpg)  | {{< br >}}{{< br >}}1.  Binding Energies of the Electron to the Nucleus for a Hydrogen Atom{{< br >}}2.  Verification of Hydrogen-Atom Energy Levels{{< br >}}    1.  Photon Emission{{< br >}}    2.  Photon Absorption{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -43,4 +43,4 @@ Problems and Solutions
 
 [Solutions for Lecture 5 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/6596d9adb42cb4d972693f0d9da93132_MIT5_111F14_Lec05Soln.pdf)
 
-« [Previous]({{< ref "lecture-4" >}}) | [Next]({{< ref "lecture-6" >}}) »
+« [Previous]({{% ref "lecture-4" %}}) | [Next]({{% ref "lecture-6" %}}) »

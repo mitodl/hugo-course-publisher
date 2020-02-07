@@ -5,12 +5,12 @@ menu:
     identifier: lecture-15
     weight: 200
 ---
-« [Previous]({{< ref "lecture-14" >}}) | [Next]({{< ref "lecture-16" >}}) »
+« [Previous]({{% ref "lecture-14" %}}) | [Next]({{% ref "lecture-16" %}}) »
 
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/4d7079ada384598988679c63039f3f09_L15.jpg) | <br><br>*   Uncertainty principle<br>*   2-dimensional waves<br>*   Pulsar<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/4d7079ada384598988679c63039f3f09_L15.jpg) | {{< br >}}{{< br >}}*   Uncertainty principle{{< br >}}*   2-dimensional waves{{< br >}}*   Pulsar{{< br >}}{{< br >}} 
 
 Lecture Video: Uncertainty Principle, 2D Waves
 ----------------------------------------------
@@ -44,7 +44,7 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Chladni Figures (Speaker Driven)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2038&show=0) | <br><br> 
+| [Chladni Figures (Speaker Driven)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2038&show=0) | {{< br >}}{{< br >}} 
 
 Related Resources
 -----------------
@@ -57,4 +57,4 @@ Video: [Examples Related to Delta Functions (OCW, 18.03 recitation)](https://www
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{< ref "lecture-14" >}}) | [Next]({{< ref "lecture-16" >}}) »
+« [Previous]({{% ref "lecture-14" %}}) | [Next]({{% ref "lecture-16" %}}) »

@@ -28,10 +28,10 @@ menu:
 
 ##### Course Features
 
-* [AV lectures]({{< ref "sections/an-introduction-to-analytics" >}})
-* [Interactive assessments]({{< ref "sections/unit-index" >}})
-* [Lecture notes]({{< ref "sections/lecture-and-recitation-notes" >}})
-* [Assignments]({{< ref "sections/assignments" >}})
+* [AV lectures]({{% ref "sections/an-introduction-to-analytics" %}})
+* [Interactive assessments]({{% ref "sections/unit-index" %}})
+* [Lecture notes]({{% ref "sections/lecture-and-recitation-notes" %}})
+* [Assignments]({{% ref "sections/assignments" %}})
 
 ##### Course Collections
 

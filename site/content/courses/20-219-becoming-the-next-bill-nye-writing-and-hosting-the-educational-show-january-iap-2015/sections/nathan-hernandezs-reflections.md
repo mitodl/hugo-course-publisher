@@ -5,7 +5,7 @@ menu:
     identifier: nathan-hernandezs-reflections
     weight: 380
 ---
-« [Previous]({{< ref "paul-pj-folinos-reflections" >}}) | [Next]({{< ref "yuliya-klochans-reflections" >}}) »
+« [Previous]({{% ref "paul-pj-folinos-reflections" %}}) | [Next]({{% ref "yuliya-klochans-reflections" %}}) »
 
 [Day 1](#Hiji_s_Day_1_Thoughts) | [Day 2](#Hiji_s_Day_2_Thoughts) | [Day 3](#Day_3) | [Day 4](#Day_4_Reflection) | [Day 5](#Day_5_Reflection) | [Day 6](#Day_6_Reflection)
 
@@ -22,14 +22,14 @@ The two materials we watched were pretty engaging. I've left some comments in th
 
 All in all. Good first day.
 
-[\_Link back to Day 1\_]({{< ref "day-1-identity-and-genre" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 1\_]({{% ref "day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
 
 Day 2 Thoughts
 --------------
 
 This video is from [WaywardLightning](https://www.youtube.com/channel/UC1vNk_LtxsFjmerk7_M7HJg) on YouTube and is provided under our Creative Commons license.
 
-[\_Link back to Day 2\_]({{< ref "day-2-audience" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 2\_]({{% ref "day-2-audience" %}}#Instructor\_and\_Student\_Work)
 
 In Which I Ramble about Day 3
 -----------------------------
@@ -38,7 +38,7 @@ This video is from [WaywardLightning](https://www.youtube.com/channel/UC1vNk_Ltx
 
 Sorry that it's kind of disjoint and long
 
-[\_Link back to Day 3\_]({{< ref "day-3-storytellers-toolkit-pt.-1" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 3\_]({{% ref "day-3-storytellers-toolkit-pt.-1" %}}#Instructor\_and\_Student\_Work)
 
 Day 4 Reflection  
 
@@ -46,7 +46,7 @@ Day 4 Reflection
 
 This audio is from [hiji](http://mit219.tumblr.com/tagged/hiji) on Tumblr and is provided under our Creative Commons license.
 
-[\_Link back to Day 4\_]({{< ref "day-4-storytellers-toolkit-pt.-2" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 4\_]({{% ref "day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
 
 Day 5 Reflection  
 
@@ -54,7 +54,7 @@ Day 5 Reflection
 
 This audio is from [hiji](http://mit219.tumblr.com/tagged/hiji) on Tumblr and is provided under our Creative Commons license.
 
-[\_Link back to Day 5\_]({{< ref "day-5-storytellers-toolkit-pt.-3" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 5\_]({{% ref "day-5-storytellers-toolkit-pt.-3" %}}#Instructor\_and\_Student\_Work)
 
 Day 6 Reflection  
 
@@ -62,6 +62,6 @@ Day 6 Reflection
 
 This audio is from [hiji](http://mit219.tumblr.com/tagged/hiji) on Tumblr and is provided under our Creative Commons license.
 
-[\_Link back to Day 6\_]({{< ref "day-6-table-read-and-office-hours" >}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 6\_]({{% ref "day-6-table-read-and-office-hours" %}}#Instructor\_and\_Student\_Work)
 
-« [Previous]({{< ref "paul-pj-folinos-reflections" >}}) | [Next]({{< ref "yuliya-klochans-reflections" >}}) »
+« [Previous]({{% ref "paul-pj-folinos-reflections" %}}) | [Next]({{% ref "yuliya-klochans-reflections" %}}) »

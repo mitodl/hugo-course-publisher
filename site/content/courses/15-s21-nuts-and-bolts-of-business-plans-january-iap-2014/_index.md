@@ -37,7 +37,7 @@ menu:
 
 ##### Course Features
 
-* [AV lectures]({{< ref "sections/lecture-videos" >}})
+* [AV lectures]({{% ref "sections/lecture-videos" %}})
 
 ##### Course Collections
 

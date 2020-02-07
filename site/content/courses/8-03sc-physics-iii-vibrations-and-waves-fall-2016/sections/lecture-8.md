@@ -5,12 +5,12 @@ menu:
     identifier: lecture-8
     weight: 110
 ---
-« [Previous]({{< ref "lecture-7" >}}) | [Next]({{< ref "lecture-9" >}}) »
+« [Previous]({{% ref "lecture-7" %}}) | [Next]({{% ref "lecture-9" %}}) »
 
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/58ae3f19dff2b817667b56652200ab39_L8.jpg) | <br><br>*   Symmetry<br>*   Infinitely long system<br>*   Boundary conditions<br>*   Wave equations<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/58ae3f19dff2b817667b56652200ab39_L8.jpg) | {{< br >}}{{< br >}}*   Symmetry{{< br >}}*   Infinitely long system{{< br >}}*   Boundary conditions{{< br >}}*   Wave equations{{< br >}}{{< br >}} 
 
 Lecture Video: Translation Symmetry
 -----------------------------------
@@ -36,11 +36,11 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | <br><br> 
+| [Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | {{< br >}}{{< br >}} 
 
 Related Resources
 -----------------
 
 Video: [Wave on a String](http://phet.colorado.edu/sims/wave-on-a-string/wave-on-a-string_en.html) from [PhET Interactive Simulations project at the University of Colorado Boulder](https://phet.colorado.edu/)
 
-« [Previous]({{< ref "lecture-7" >}}) | [Next]({{< ref "lecture-9" >}}) »
+« [Previous]({{% ref "lecture-7" %}}) | [Next]({{% ref "lecture-9" %}}) »

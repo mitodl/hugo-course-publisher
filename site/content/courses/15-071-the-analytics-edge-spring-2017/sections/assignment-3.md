@@ -5,10 +5,10 @@ menu:
     identifier: assignment-3
     weight: 1100
 ---
-*   [<Video 5: Test Set Predictions]({{< ref "video-5-test-set-predictions" >}})
-*   [3.5.1Popularity of Music Records]({{< ref "assignment-3" >}})
-*   [3.5.2Predicting the Baseball World Series Champion]({{< ref "predicting-the-baseball-world-series-champion" >}})
-*   [\\>Predicting the Baseball World Series Champion]({{< ref "predicting-the-baseball-world-series-champion" >}})
+*   [<Video 5: Test Set Predictions]({{% ref "video-5-test-set-predictions" %}})
+*   [3.5.1Popularity of Music Records]({{% ref "assignment-3" %}})
+*   [3.5.2Predicting the Baseball World Series Champion]({{% ref "predicting-the-baseball-world-series-champion" %}})
+*   [\\>Predicting the Baseball World Series Champion]({{% ref "predicting-the-baseball-world-series-champion" %}})
 
 Popularity of Music Records
 ---------------------------
@@ -292,5 +292,5 @@ We can compute the True Positive Rate to be the number of correctly identified T
 
 CheckShow Answer
 
-*   [BackVideo 5: Test Set Predictions]({{< ref "video-5-test-set-predictions" >}})
-*   [ContinuePredicting the Baseball World Series Champion]({{< ref "predicting-the-baseball-world-series-champion" >}})
+*   [BackVideo 5: Test Set Predictions]({{% ref "video-5-test-set-predictions" %}})
+*   [ContinuePredicting the Baseball World Series Champion]({{% ref "predicting-the-baseball-world-series-champion" %}})

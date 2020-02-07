@@ -45,11 +45,11 @@ Tom Kochan in his office at MIT Sloan. (Photo by MIT OpenCourseWare.)
 
 _Below, Professor Tom Kochan describes various aspects of how he taught 15.662x Shaping the Future of Work._
 
-*   [Teaching Online to Improve Residential Education]({{< ref "teaching-online-to-improve-residential-education" >}})
-*   [Adapting Content, Communicating Differently]({{< ref "adapting-content-communicating-differently" >}})
-*   [Valuing the Contributions of Others]({{< ref "valuing-the-contributions-of-others" >}})
-*   [Assessment in an Online Course]({{< ref "assessment-in-an-online-course" >}})
-*   [Reaching Audiences More Effectively]({{< ref "reaching-audiences-more-effectively" >}})
+*   [Teaching Online to Improve Residential Education]({{% ref "teaching-online-to-improve-residential-education" %}})
+*   [Adapting Content, Communicating Differently]({{% ref "adapting-content-communicating-differently" %}})
+*   [Valuing the Contributions of Others]({{% ref "valuing-the-contributions-of-others" %}})
+*   [Assessment in an Online Course]({{% ref "assessment-in-an-online-course" %}})
+*   [Reaching Audiences More Effectively]({{% ref "reaching-audiences-more-effectively" %}})
 
 _Learn more! The following Residential Digital Innovations pages provide more information on how residential students can benefit from interacting with online students through a MOOC._
 

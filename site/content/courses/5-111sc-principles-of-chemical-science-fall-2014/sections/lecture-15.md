@@ -5,12 +5,12 @@ menu:
     identifier: lecture-15
     weight: 200
 ---
-« [Previous]({{< ref "unit-iii-thermodynamics-chemical-equilibrium" >}}) | [Next]({{< ref "lecture-16" >}}) »
+« [Previous]({{% ref "unit-iii-thermodynamics-chemical-equilibrium" %}}) | [Next]({{% ref "lecture-16" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c599ecc6d03cac9c8d9d2bc1f689f625_Lecture_15.jpg)  | <br><br>1.  Thermodynamics<br>    1.  Bond Energy / Bond Enthalpy (∆HB)<br>    2.  Enthalpies of Reaction (∆Hr)<br>    3.  Methods to Calculate ∆Hr<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c599ecc6d03cac9c8d9d2bc1f689f625_Lecture_15.jpg)  | {{< br >}}{{< br >}}1.  Thermodynamics{{< br >}}    1.  Bond Energy / Bond Enthalpy (∆HB){{< br >}}    2.  Enthalpies of Reaction (∆Hr){{< br >}}    3.  Methods to Calculate ∆Hr{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -46,4 +46,4 @@ Acknowledgement
 
 Excerpt of "[Photosynthesis](https://youtu.be/LgYPeeABoUs)" by [They Might Be Giants](http://www.theymightbegiants.com/), courtesy of Idlewild / Disney Sound, used with permission. From [_Here Comes Science_](http://www.theymightbegiants.com/music/here-comes-science/), 2009
 
-« [Previous]({{< ref "unit-iii-thermodynamics-chemical-equilibrium" >}}) | [Next]({{< ref "lecture-16" >}}) »
+« [Previous]({{% ref "unit-iii-thermodynamics-chemical-equilibrium" %}}) | [Next]({{% ref "lecture-16" %}}) »

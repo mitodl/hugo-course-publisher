@@ -42,7 +42,7 @@ menu:
 
 ##### Course Features
 
-* [This Course at MIT]({{< ref "sections/instructor-insights" >}})
+* [This Course at MIT]({{% ref "sections/instructor-insights" %}})
 
 ##### Course Collections
 

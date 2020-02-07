@@ -5,12 +5,12 @@ menu:
     identifier: lecture-25
     weight: 310
 ---
-« [Previous]({{< ref "unit-iv-transition-metals-oxidation-reduction-reactions" >}}) | [Next]({{< ref "lecture-26" >}}) »
+« [Previous]({{% ref "unit-iv-transition-metals-oxidation-reduction-reactions" %}}) | [Next]({{% ref "lecture-26" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/edd4f83c96c80e429689e7209e9198f0_Lecture_25.jpg)  | <br><br>1.  Introduction to Oxidation-Reduction (Redox) Reactions<br>2.  Balancing Redox Reactions<br>3.  Electrochemical Cells<br><br> 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/edd4f83c96c80e429689e7209e9198f0_Lecture_25.jpg)  | {{< br >}}{{< br >}}1.  Introduction to Oxidation-Reduction (Redox) Reactions{{< br >}}2.  Balancing Redox Reactions{{< br >}}3.  Electrochemical Cells{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -41,4 +41,4 @@ Problems and Solutions
 
 [Solutions for Lecture 25 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/589cf02af92fc6ce649b9268bcb2d359_MIT5_111F14_Lec25Soln.pdf)
 
-« [Previous]({{< ref "unit-iv-transition-metals-oxidation-reduction-reactions" >}}) | [Next]({{< ref "lecture-26" >}}) »
+« [Previous]({{% ref "unit-iv-transition-metals-oxidation-reduction-reactions" %}}) | [Next]({{% ref "lecture-26" %}}) »

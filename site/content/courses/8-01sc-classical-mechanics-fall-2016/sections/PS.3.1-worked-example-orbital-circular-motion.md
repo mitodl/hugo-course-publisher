@@ -5,7 +5,7 @@ menu:
     identifier: PS.3.1-worked-example-orbital-circular-motion
     weight: 720
 ---
-« [Previous]({{< ref "11.3-demo-rotating-bucket" >}}) | [Next]({{< ref "problem-set-3" >}}) »
+« [Previous]({{% ref "11.3-demo-rotating-bucket" %}}) | [Next]({{% ref "problem-set-3" %}}) »
 
 A person on a spherical asteroid of mass \\(\\displaystyle m\_1\\) and radius \\(\\displaystyle R\\), sees a small satellite of mass \\(\\displaystyle m\_2\\) orbiting the asteroid in a circular orbit of period \\(\\displaystyle T\\).
 
@@ -30,4 +30,4 @@ Express you answer in terms of some or all of the following: \\(\\displaystyle m
 Orbital Circular Motion - Period
 --------------------------------
 
-« [Previous]({{< ref "11.3-demo-rotating-bucket" >}}) | [Next]({{< ref "problem-set-3" >}}) »
+« [Previous]({{% ref "11.3-demo-rotating-bucket" %}}) | [Next]({{% ref "problem-set-3" %}}) »

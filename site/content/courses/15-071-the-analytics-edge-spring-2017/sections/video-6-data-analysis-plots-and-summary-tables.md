@@ -5,27 +5,27 @@ menu:
     identifier: video-6-data-analysis-plots-and-summary-tables
     weight: 250
 ---
-*   [<Quick Question]({{< ref "quick-question-28" >}})
-*   [1.3.1Download and Install R]({{< ref "working-with-data-an-introduction-to-r" >}})
-*   [1.3.2Video 1: Why R?]({{< ref "video-1-why-r" >}})
-*   [1.3.3Quick Question]({{< ref "quick-question" >}})
-*   [1.3.4Video 2: Getting Started in R]({{< ref "video-2-getting-started-in-r" >}})
-*   [1.3.5Quick Question]({{< ref "quick-question-4" >}})
-*   [1.3.6Video 3: Vectors and Data Frames]({{< ref "video-3-vectors-and-data-frames" >}})
-*   [1.3.7Quick Question]({{< ref "quick-question-9" >}})
-*   [1.3.8Video 4: Loading Data Files]({{< ref "video-4-loading-data-files" >}})
-*   [1.3.9Quick Question]({{< ref "quick-question-20" >}})
-*   [1.3.10Video 5: Data Analysis - Summary Statistics and Scatterplots]({{< ref "video-5-data-analysis-summary-statistics-and-scatterplots" >}})
-*   [1.3.11Quick Question]({{< ref "quick-question-28" >}})
-*   [1.3.12Video 6: Data Analysis - Plots and Summary Tables]({{< ref "video-6-data-analysis-plots-and-summary-tables" >}})
-*   [1.3.13Quick Question]({{< ref "quick-question-40" >}})
-*   [1.3.14Video 7: Saving with Script Files]({{< ref "video-7-saving-with-script-files" >}})
-*   [\\>Quick Question]({{< ref "quick-question-40" >}})
+*   [<Quick Question]({{% ref "quick-question-28" %}})
+*   [1.3.1Download and Install R]({{% ref "working-with-data-an-introduction-to-r" %}})
+*   [1.3.2Video 1: Why R?]({{% ref "video-1-why-r" %}})
+*   [1.3.3Quick Question]({{% ref "quick-question" %}})
+*   [1.3.4Video 2: Getting Started in R]({{% ref "video-2-getting-started-in-r" %}})
+*   [1.3.5Quick Question]({{% ref "quick-question-4" %}})
+*   [1.3.6Video 3: Vectors and Data Frames]({{% ref "video-3-vectors-and-data-frames" %}})
+*   [1.3.7Quick Question]({{% ref "quick-question-9" %}})
+*   [1.3.8Video 4: Loading Data Files]({{% ref "video-4-loading-data-files" %}})
+*   [1.3.9Quick Question]({{% ref "quick-question-20" %}})
+*   [1.3.10Video 5: Data Analysis - Summary Statistics and Scatterplots]({{% ref "video-5-data-analysis-summary-statistics-and-scatterplots" %}})
+*   [1.3.11Quick Question]({{% ref "quick-question-28" %}})
+*   [1.3.12Video 6: Data Analysis - Plots and Summary Tables]({{% ref "video-6-data-analysis-plots-and-summary-tables" %}})
+*   [1.3.13Quick Question]({{% ref "quick-question-40" %}})
+*   [1.3.14Video 7: Saving with Script Files]({{% ref "video-7-saving-with-script-files" %}})
+*   [\\>Quick Question]({{% ref "quick-question-40" %}})
 
 Video 6: Data Analysis - Plots and Summary Tables
 -------------------------------------------------
 
 In the above video, we state that the outliers in a boxplot are computed as any points greater than the third quartile plus the inter-quartile range (IQR), or any points less than the first quartile minus the inter-quartile range (IQR). They are actually computed as any points greater than the third quartile plus 1.5\*IQR, or less than the first quartile minus 1.5\*IQR. 
 
-*   [BackQuick Question]({{< ref "quick-question-28" >}})
-*   [ContinueQuick Question]({{< ref "quick-question-40" >}})
+*   [BackQuick Question]({{% ref "quick-question-28" %}})
+*   [ContinueQuick Question]({{% ref "quick-question-40" %}})

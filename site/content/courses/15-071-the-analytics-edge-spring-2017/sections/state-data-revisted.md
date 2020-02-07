@@ -5,11 +5,11 @@ menu:
     identifier: state-data-revisted
     weight: 1540
 ---
-*   [<Understanding Why People Vote]({{< ref "understanding-why-people-vote" >}})
-*   [4.5.1Predicting Earnings from Census Data]({{< ref "assignment-4" >}})
-*   [4.5.2Understanding Why People Vote]({{< ref "understanding-why-people-vote" >}})
-*   [4.5.3State Data Revisted]({{< ref "state-data-revisted" >}})
-*   [\\>Text Analytics]({{< ref "text-analytics" >}})
+*   [<Understanding Why People Vote]({{% ref "understanding-why-people-vote" %}})
+*   [4.5.1Predicting Earnings from Census Data]({{% ref "assignment-4" %}})
+*   [4.5.2Understanding Why People Vote]({{% ref "understanding-why-people-vote" %}})
+*   [4.5.3State Data Revisted]({{% ref "state-data-revisted" %}})
+*   [\\>Text Analytics]({{% ref "text-analytics" %}})
 
 State Data Revisited
 --------------------
@@ -527,5 +527,5 @@ The original Area tree was overfitting the data - it was uninterpretable. Area i
 
 CheckShow Answer
 
-*   [BackUnderstanding Why People Vote]({{< ref "understanding-why-people-vote" >}})
-*   [ContinueText Analytics]({{< ref "text-analytics" >}})
+*   [BackUnderstanding Why People Vote]({{% ref "understanding-why-people-vote" %}})
+*   [ContinueText Analytics]({{% ref "text-analytics" %}})
