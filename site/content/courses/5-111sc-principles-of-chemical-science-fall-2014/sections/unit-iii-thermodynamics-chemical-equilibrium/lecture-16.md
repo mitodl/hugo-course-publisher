@@ -5,6 +5,8 @@ menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: 4161d4d2b7e64498f997dfb3b69eca3c_lecture-16
     weight: 70
+    parent: >-
+      d1e2f8f6d6d078397f7b8fc6a1024b2a_unit-iii-thermodynamics-chemical-equilibrium
 ---
 « [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-15" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-17" %}}) »
 

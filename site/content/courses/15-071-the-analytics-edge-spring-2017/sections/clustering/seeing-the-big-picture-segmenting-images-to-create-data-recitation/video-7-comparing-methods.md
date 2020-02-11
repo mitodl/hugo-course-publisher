@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: f38d14c2d66c55044b9e071235d5fdd8_video-7-comparing-methods
     weight: 230
+    parent: >-
+      c6d206ccfb1528f6048f29e817450da7_seeing-the-big-picture-segmenting-images-to-create-data-recitation
 ---
 *   [<Video 6: Detecting Tumors]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-6-detecting-tumors" %}})
 *   [6.4.1Welcome to Recitation 6]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation" %}})

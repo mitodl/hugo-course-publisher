@@ -5,6 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 118fc2aa2f82b0483267f66bf76b6ba7_session-7-derivatives-of-sine-and-cosine
     weight: 100
+    parent: 962d171611a101d49f865818d41217eb_part-a-definition-and-basic-rules
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-6-calculating-derivatives" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-8-limits-of-sine-and-cosine" %}}) »
 

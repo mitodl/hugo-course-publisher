@@ -6,6 +6,7 @@ menu:
     identifier: >-
       00aef6423d37f1e08db3ced31e4003c0_ps.2.2-worked-example-pushing-stacked-blocks
     weight: 230
+    parent: cf6d9ae85d7b6e788f1e70cf24afc329_week-2-newtons-laws
 ---
 « [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.1-worked-example-sliding-block" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.3-window-washer-problem" %}}) »
 

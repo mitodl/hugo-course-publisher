@@ -5,6 +5,8 @@ menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: fcdd8dba5c173c1530e44947500174b8_week-8-introduction
     weight: 130
+    parent: >-
+      1394998143efcc493f7c98265cfbd3ae_week-8-potential-energy-and-energy-conservation
 ---
 « [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/23.1-introduction-to-potential-energy" %}}) »
 

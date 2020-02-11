@@ -5,6 +5,7 @@ menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
     identifier: 2da070a85dad718ad6b72e08bffc76ab_advice-for-educators
     weight: 60
+    parent: 93633c3e763e0e991be7a7388bafdbb7_instructor-insights
 ---
 _In this section, Kristen Railey shares advice for educators interested in adapting this workshop._
 

@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 726b3c5f6c9f36776c3fc0f1fc6c579a_vertical-49ea207a6233
     weight: 230
+    parent: 025c498f3f5e1c53924f7e40eb06a220_tp13-1
 ---
 *   [<Three Machines Failing](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-f2cac6de0392)
 *   [4.5.1Expectation: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1)

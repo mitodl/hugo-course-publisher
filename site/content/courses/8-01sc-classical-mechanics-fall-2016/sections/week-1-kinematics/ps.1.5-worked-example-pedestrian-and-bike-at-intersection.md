@@ -6,6 +6,7 @@ menu:
     identifier: >-
       78b6dfdb143437ce0d071e7e7521a24e_ps.1.5-worked-example-pedestrian-and-bike-at-intersection
     weight: 280
+    parent: 63e325a780c79e352fb5bddb9b8b2c6a_week-1-kinematics
 ---
 « [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.4-sketch-the-motion" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/problem-set-1" %}}) »
 

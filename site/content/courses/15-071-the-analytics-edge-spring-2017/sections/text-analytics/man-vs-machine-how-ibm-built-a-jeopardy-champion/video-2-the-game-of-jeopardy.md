@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 8e417dbee2351e2efc59f87409ee7506_video-2-the-game-of-jeopardy
     weight: 150
+    parent: >-
+      0c9bd7c26f88e1f372bb45bfb1705096_man-vs-machine-how-ibm-built-a-jeopardy-champion
 ---
 *   [<Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/quick-question-405" %}})
 *   [5.3.1Video 1: IBM Watson]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion" %}})

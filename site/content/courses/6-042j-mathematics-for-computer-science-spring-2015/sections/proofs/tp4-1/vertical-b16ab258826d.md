@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 9a51d52e66e2121a224f8dee92d3ef75_vertical-b16ab258826d
     weight: 210
+    parent: 5179d7c0c3f7a60a33d7c24d9d219172_tp4-1
 ---
 *   [<WOP vs Induction: Video \[optional\]](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/vertical-98aa517cd42e)
 *   [1.8.1Induction: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1)

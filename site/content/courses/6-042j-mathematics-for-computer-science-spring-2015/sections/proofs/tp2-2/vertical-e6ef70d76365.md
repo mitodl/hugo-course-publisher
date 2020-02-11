@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 4d61a7cb05149b23d95227df02bc700f_vertical-e6ef70d76365
     weight: 120
+    parent: 8de160a9e7299f7fec8a58aef5106eef_tp2-2
 ---
 *   [<Logic & Propositions](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2)
 *   [1.4.1Propositional Operators: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2)

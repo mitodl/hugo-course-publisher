@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 092222253a2b5d3fb68d5398ca2111a9_quick-question-349
     weight: 250
+    parent: >-
+      52a221ddc01190a445b1a393b15cb810_keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story
 ---
 *   [<Video 7: Baseline Method and Penalty Matrix]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-7-baseline-method-and-penalty-matrix" %}})
 *   [4.3.1Video 1: The Story of D2Hawkeye]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story" %}})

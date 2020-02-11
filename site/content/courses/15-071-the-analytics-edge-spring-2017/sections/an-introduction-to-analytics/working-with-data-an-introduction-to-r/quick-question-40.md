@@ -5,6 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 64119b703f1d42bf97ce9f87d64a094c_quick-question-40
     weight: 210
+    parent: 1ac933da13d13dfa2e3803abf2d6971f_working-with-data-an-introduction-to-r
 ---
 *   [<Video 6: Data Analysis - Plots and Summary Tables]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-6-data-analysis-plots-and-summary-tables" %}})
 *   [1.3.1Download and Install R]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r" %}})

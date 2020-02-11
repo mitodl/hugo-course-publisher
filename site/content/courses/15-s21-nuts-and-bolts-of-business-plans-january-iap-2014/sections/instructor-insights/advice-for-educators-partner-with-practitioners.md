@@ -6,6 +6,7 @@ menu:
     identifier: >-
       af386daaf958796636a97ab93e85af35_advice-for-educators-partner-with-practitioners
     weight: 50
+    parent: 68847d16d9620f2b7563d82fad77467d_instructor-insights
 ---
 I wouldn’t try to teach this course—even with all the work I’ve done in the field—by myself. The course involves so much material; you need a team.
 

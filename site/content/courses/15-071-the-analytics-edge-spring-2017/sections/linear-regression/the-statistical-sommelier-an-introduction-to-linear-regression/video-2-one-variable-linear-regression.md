@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 1f0b61bba29b5ee75d265ed940cc2d1d_video-2-one-variable-linear-regression
     weight: 110
+    parent: >-
+      4495fb4839343c3323b22ef2104af559_the-statistical-sommelier-an-introduction-to-linear-regression
 ---
 *   [<Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/quick-question-46" %}})
 *   [2.2.1Video 1: Predicting the Quality of Wine]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression" %}})

@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 072847f63e899bb41aab45bf42813b09_vertical-4e860a9da2fe
     weight: 150
+    parent: d45e95172acf2a430d67a0ef15468161_tp10-1
 ---
 *   [<Pigeonhole Principle, Inclusion-Exclusion](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp10-1)
 *   [3.5.1The Pigeonhole Principle: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp10-1)

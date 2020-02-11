@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 51ed3daac148e3d07b469713f381a97e_video-1-introduction-8
     weight: 180
+    parent: >-
+      696dd6e442cc1fc47c9f2924e2edfb26_google-adwords-optimizing-online-advertising-recitation
 ---
 *   [<Google AdWords: Optimizing Online Advertising (Recitation)]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation" %}})
 *   [8.4.1Welcome to Recitation 8]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation" %}})

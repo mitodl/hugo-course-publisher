@@ -6,6 +6,8 @@ menu:
     identifier: >-
       be1c12bdcaf29b71c12f50c42551b8a6_video-5-advanced-scatterplots-using-ggplot
     weight: 220
+    parent: >-
+      274ac6b9daf6cd65874ec643ab327953_visualizing-the-world-an-introduction-to-visualization
 ---
 *   [<Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-526" %}})
 *   [7.2.1Video 1: The Power of Visualizations]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization" %}})

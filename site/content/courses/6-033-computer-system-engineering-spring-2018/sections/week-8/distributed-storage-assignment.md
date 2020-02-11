@@ -5,6 +5,7 @@ menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 766d3b595f03a2f4b1ad4d15d2427648_distributed-storage-assignment
     weight: 130
+    parent: 038398268d831a706fad0af0bfa301d7_week-8
 ---
 Read "[The Google File System](https://ai.google/research/pubs/pub51)" by S. Ghemawat, H. Gobioff & S-T Leung. You've seen GFS before: It is the system that MapReduce relied on to replicate files.
 

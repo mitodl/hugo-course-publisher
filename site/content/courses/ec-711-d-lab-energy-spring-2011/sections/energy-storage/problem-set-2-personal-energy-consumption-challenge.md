@@ -6,6 +6,7 @@ menu:
     identifier: >-
       8c249fc1ff672f6fb82a52720d7b2694_problem-set-2-personal-energy-consumption-challenge
     weight: 60
+    parent: bd09c1cc93fd481d39456e105dc16816_energy-storage
 ---
 This homework is previewed in a discussion at the end of the Lecture 2 video.
 

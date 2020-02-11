@@ -5,6 +5,8 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: def23901ebbad92ea90a23199cbba444_session-38-integration-by-substitution
     weight: 110
+    parent: >-
+      cc849d5801781635e7d929c121e176fe_part-c-mean-value-theorem-antiderivatives-and-differential-equations
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-37-antiderivatives" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-39-introduction-to-differential-equations" %}}) »
 

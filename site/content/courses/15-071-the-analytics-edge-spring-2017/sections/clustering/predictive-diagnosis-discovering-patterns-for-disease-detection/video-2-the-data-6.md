@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: b3e684a2782185403814d5093796789b_video-2-the-data-6
     weight: 160
+    parent: >-
+      0943bd811d9caf9e92bf3c7bf9d7b9f2_predictive-diagnosis-discovering-patterns-for-disease-detection
 ---
 *   [<Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/quick-question-481" %}})
 *   [6.3.1Video 1: Heart Attacks]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection" %}})

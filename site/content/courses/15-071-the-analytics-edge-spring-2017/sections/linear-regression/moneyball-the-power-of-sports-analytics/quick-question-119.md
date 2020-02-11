@@ -5,6 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: b02914f9c24459ccfc6d2a10d6095dba_quick-question-119
     weight: 170
+    parent: fcb6a63f4737920a80bf15309d3ee7b6_moneyball-the-power-of-sports-analytics
 ---
 *   [<Video 4: Using the Models to Make Predictions]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/video-4-using-the-models-to-make-predictions" %}})
 *   [2.3.1A Quick Introduction to Baseball]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics" %}})

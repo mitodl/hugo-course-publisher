@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 4a3dae223e4b13d0ab5e49e7b2632b51_vertical-ad604933e05b
     weight: 150
+    parent: 8083cb558a36eb8dad32920ceb95cfdb_tp6-1
 ---
 *   [<The Ring](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/vertical-cad174bba3a3)
 *   [2.3.1Modular Exponentiation Euler's Function: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1)

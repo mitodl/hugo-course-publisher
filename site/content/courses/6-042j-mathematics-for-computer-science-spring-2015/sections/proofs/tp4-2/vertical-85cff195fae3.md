@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: bd55b53dc54b1a4a4c52a30e9c3119d3_vertical-85cff195fae3
     weight: 200
+    parent: 470546ac81246c938505a0f7571765aa_tp4-2
 ---
 *   [<Derived Variables and Termination](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/vertical-5bf3bfde6f69)
 *   [1.9.1State Machines Invariants: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2)

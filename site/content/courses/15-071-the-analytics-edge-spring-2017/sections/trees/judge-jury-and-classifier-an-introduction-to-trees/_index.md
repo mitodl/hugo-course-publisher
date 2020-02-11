@@ -6,6 +6,7 @@ menu:
     identifier: >-
       11f9b44dc2960689414b8c313764a18d_judge-jury-and-classifier-an-introduction-to-trees
     weight: 110
+    parent: 19c8cf92e31d034a1ea15ad53194d892_trees
 ---
 *   [<Welcome to Unit 4]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/welcome-to-unit-4" %}})
 *   [4.2.1Video 1: The Supreme Court]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees" %}})

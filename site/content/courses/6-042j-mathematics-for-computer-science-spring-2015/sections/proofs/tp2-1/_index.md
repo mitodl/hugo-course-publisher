@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 376535e1bbaf1919fdc3bdd7b7043dea_tp2-1
     weight: 100
+    parent: 95af5c7b87a2e15790a7ad18331a125f_proofs
 ---
 *   [<A Bogus Proof by Contradiction](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-2/vertical-cdf72f5374ab)
 *   [1.3.1Well Ordering Principle 1: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-1)

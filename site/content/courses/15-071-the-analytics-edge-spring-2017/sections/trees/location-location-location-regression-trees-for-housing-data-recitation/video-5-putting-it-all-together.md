@@ -7,6 +7,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: aad83d5378a1ef15e27fe7684e1f8761_video-5-putting-it-all-together
     weight: 180
+    parent: >-
+      aef27920c51cefd188ed937539251bd9_location-location-location-regression-trees-for-housing-data-recitation
 ---
 *   [<Video 4: Regression Trees]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-4-regression-trees" %}})
 *   [4.4.1Welcome to Recitation 4]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation" %}})

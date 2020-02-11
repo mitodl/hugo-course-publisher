@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 8d5ffa6bd6d68dfae0e2c923557e22af_video-1-introduction
     weight: 170
+    parent: >-
+      0af39afbaff0a226a397da1206ecd712_the-good-the-bad-and-the-ugly-visualization-recitation-recitation
 ---
 *   [<The Good, the Bad, and the Ugly: Visualization Recitation (Recitation)]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation" %}})
 *   [7.4.1Welcome to Recitation 7]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation" %}})

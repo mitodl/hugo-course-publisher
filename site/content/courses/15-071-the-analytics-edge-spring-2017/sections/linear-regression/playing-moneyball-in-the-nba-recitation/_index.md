@@ -5,6 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 3d4f0b49ab636ab4200c8f27a219c0dc_playing-moneyball-in-the-nba-recitation
     weight: 110
+    parent: c846ced6fc6d3bc964e047324e251a98_linear-regression
 ---
 *   [<Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/quick-question-134" %}})
 *   [2.4.1Welcome to Recitation 2]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation" %}})

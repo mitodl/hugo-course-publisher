@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 62bbb99ca9eedcc26f2b179d17f08907_vertical-70c0b579a359
     weight: 140
+    parent: 604f8e0726803e778aac7885f0f6eaf0_tp1-2
 ---
 *   [<Friends and Strangers](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-2/vertical-9380624edebc)
 *   [1.2.1Proof By Contradiction: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-2)

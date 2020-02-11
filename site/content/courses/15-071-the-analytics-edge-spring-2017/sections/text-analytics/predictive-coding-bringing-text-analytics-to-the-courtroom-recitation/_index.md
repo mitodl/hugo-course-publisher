@@ -6,6 +6,7 @@ menu:
     identifier: >-
       d4b1a3b942ed98d194feb3777ba22595_predictive-coding-bringing-text-analytics-to-the-courtroom-recitation
     weight: 140
+    parent: 5847ad879afecf3e9b93c20cffe87acf_text-analytics
 ---
 *   [<Video 6: The Results]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-6-the-results" %}})
 *   [5.4.1Welcome to Recitation 5]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation" %}})

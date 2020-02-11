@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 79ebde2b537e9e26dc39d5d2e1c8f1d9_tp12-1
     weight: 120
+    parent: 90a207e82f8b3b1369067b58f9c6f169_probability
 ---
 *   [<Fun With Coins](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-a2b75a4824b8)
 *   [4.2.1Conditional Probability Definitions: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1)

@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 604f8e0726803e778aac7885f0f6eaf0_tp1-2
     weight: 90
+    parent: 95af5c7b87a2e15790a7ad18331a125f_proofs
 ---
 *   [<Modus Ponens](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1/vertical-acfe05b95a4e)
 *   [1.2.1Proof By Contradiction: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-2)

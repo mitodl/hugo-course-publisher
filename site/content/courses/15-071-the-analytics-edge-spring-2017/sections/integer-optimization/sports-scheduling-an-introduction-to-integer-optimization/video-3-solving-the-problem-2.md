@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 611ff2e225d312915c1705e9cd35ede7_video-3-solving-the-problem-2
     weight: 200
+    parent: >-
+      fbf2b7049246466ef24736bff248b7c3_sports-scheduling-an-introduction-to-integer-optimization
 ---
 *   [<Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/quick-question-673" %}})
 *   [9.2.1Video 1: Introduction]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization" %}})

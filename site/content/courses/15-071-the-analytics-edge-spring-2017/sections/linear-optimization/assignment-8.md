@@ -5,6 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 6a5d4bdb70f448f5869782dbaa8537a8_assignment-8
     weight: 180
+    parent: daafaa58867c9765f1c4c60a9c0ed426_linear-optimization
 ---
 *   [<Video 8: Extensions and the Edge]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-8-extensions-and-the-edge" %}})
 *   [8.5.1Even' Star Organic Farm]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/assignment-8" %}})

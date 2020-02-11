@@ -5,6 +5,8 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: b4238780f29b563a34b05363b1ac982c_problem-set-11
     weight: 140
+    parent: >-
+      f19e1f54f348a68a730889ee63f5b9d6_part-c-parametric-equations-and-polar-coordinates
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/exam-4" %}}) »
 

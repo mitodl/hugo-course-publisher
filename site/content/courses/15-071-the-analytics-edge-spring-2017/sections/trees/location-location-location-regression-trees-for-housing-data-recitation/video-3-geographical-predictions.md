@@ -7,6 +7,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 0e5da8a56da7e6bd45cd2c10c9e313cd_video-3-geographical-predictions
     weight: 160
+    parent: >-
+      aef27920c51cefd188ed937539251bd9_location-location-location-regression-trees-for-housing-data-recitation
 ---
 *   [<Video 2: The Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-2-the-data" %}})
 *   [4.4.1Welcome to Recitation 4]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation" %}})

@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 719c67c20cf18d4d1d43176b0d540c1b_vertical-1b1a945bfd78
     weight: 230
+    parent: f195ee849b9aee3ccf61f90bea10cebb_tp13-2
 ---
 *   [<Variance: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-0646c16ad916)
 *   [4.6.1Deviation From The Mean: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2)

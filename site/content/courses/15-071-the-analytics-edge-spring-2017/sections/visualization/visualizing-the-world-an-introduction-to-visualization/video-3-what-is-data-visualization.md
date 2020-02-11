@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: c8e9fd0fcbd8682cff60a63c2596b948_video-3-what-is-data-visualization
     weight: 180
+    parent: >-
+      274ac6b9daf6cd65874ec643ab327953_visualizing-the-world-an-introduction-to-visualization
 ---
 *   [<Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-510" %}})
 *   [7.2.1Video 1: The Power of Visualizations]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization" %}})

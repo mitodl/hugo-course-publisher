@@ -5,6 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: f9baad347f956b6f860866551433d510_automating-reviews-in-medicine
     weight: 170
+    parent: 81eae0fd28f287336b792210ba33dfbb_assignment-5
 ---
 *   [<Detecting Vandalism on Wikipedia]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/detecting-vandalism-on-wikipedia" %}})
 *   [5.5.1Separating Spam from Ham (Part 1)]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5" %}})

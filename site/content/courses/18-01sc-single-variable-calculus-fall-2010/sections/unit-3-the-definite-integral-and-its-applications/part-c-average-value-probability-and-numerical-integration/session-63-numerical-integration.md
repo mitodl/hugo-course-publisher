@@ -5,6 +5,8 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: be07f2bde3305a676f66884dbf8397d1_session-63-numerical-integration
     weight: 110
+    parent: >-
+      e1f8a1b789b83e57da0e01f4ada7283a_part-c-average-value-probability-and-numerical-integration
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-64-numerical-integration-continued" %}}) »
 

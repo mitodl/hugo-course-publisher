@@ -6,6 +6,7 @@ menu:
     identifier: >-
       6f7a2882de1167a26875fd353266fee4_video-4-using-the-models-to-make-predictions
     weight: 160
+    parent: fcb6a63f4737920a80bf15309d3ee7b6_moneyball-the-power-of-sports-analytics
 ---
 *   [<Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/quick-question-109" %}})
 *   [2.3.1A Quick Introduction to Baseball]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics" %}})

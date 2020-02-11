@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: dc9db678f1283a5e3783460ede434049_quick-question-505
     weight: 150
+    parent: >-
+      274ac6b9daf6cd65874ec643ab327953_visualizing-the-world-an-introduction-to-visualization
 ---
 *   [<Visualizing the World: An Introduction to Visualization]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization" %}})
 *   [7.2.1Video 1: The Power of Visualizations]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization" %}})

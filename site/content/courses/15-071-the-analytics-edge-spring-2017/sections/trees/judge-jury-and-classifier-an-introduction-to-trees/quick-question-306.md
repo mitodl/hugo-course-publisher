@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 0be06c807e39cc4e2808dc63ffaa5efa_quick-question-306
     weight: 220
+    parent: >-
+      11f9b44dc2960689414b8c313764a18d_judge-jury-and-classifier-an-introduction-to-trees
 ---
 *   [<Video 6: Cross-Validation]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/video-6-cross-validation" %}})
 *   [4.2.1Video 1: The Supreme Court]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees" %}})

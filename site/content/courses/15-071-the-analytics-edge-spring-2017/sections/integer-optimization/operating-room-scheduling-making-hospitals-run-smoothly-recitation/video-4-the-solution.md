@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 6e8bdbce3ea9e6440e2b66d90a657d47_video-4-the-solution
     weight: 220
+    parent: >-
+      1ebaa9f0a112c16192d91227cd28b727_operating-room-scheduling-making-hospitals-run-smoothly-recitation
 ---
 *   [<Video 3: Solving the Problem]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-3-solving-the-problem-5" %}})
 *   [9.4.1Welcome to Recitation 9]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation" %}})

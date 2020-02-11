@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 931735a579c9592721890d239a612bae_vertical-b30047e37cc7
     weight: 110
+    parent: 405693053755e5d6fb1b1e2592fa311e_tp5-1
 ---
 *   [<Euclidean Algorithm: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/euclidean-algorithm-video)
 *   [2.1.1GCDs & Linear Combinations: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1)

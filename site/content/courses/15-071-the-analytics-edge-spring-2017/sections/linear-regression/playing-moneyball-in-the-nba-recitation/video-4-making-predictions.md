@@ -5,6 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 4a72056c6bbe0c01489fb7068637be07_video-4-making-predictions
     weight: 150
+    parent: 3d4f0b49ab636ab4200c8f27a219c0dc_playing-moneyball-in-the-nba-recitation
 ---
 *   [<Video 3: Points Scored]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-3-points-scored" %}})
 *   [2.4.1Welcome to Recitation 2]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation" %}})

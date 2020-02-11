@@ -5,6 +5,7 @@ menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 8ccbac1b73cb9336f3067bd24cd30b21_problem-set-2
     weight: 250
+    parent: cf6d9ae85d7b6e788f1e70cf24afc329_week-2-newtons-laws
 ---
 « [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.3-window-washer-problem" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion" %}}) »
 

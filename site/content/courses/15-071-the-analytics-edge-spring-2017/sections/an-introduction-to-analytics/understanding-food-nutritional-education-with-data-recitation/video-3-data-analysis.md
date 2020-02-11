@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 6ad5f5f03eab95b2b2855fe1042f41da_video-3-data-analysis
     weight: 130
+    parent: >-
+      7ae5f9abee30803e522bc737bfb5e185_understanding-food-nutritional-education-with-data-recitation
 ---
 *   [<Video 2: Working with Data in R]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-2-working-with-data-in-r" %}})
 *   [1.4.1Welcome to Recitation 1]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation" %}})

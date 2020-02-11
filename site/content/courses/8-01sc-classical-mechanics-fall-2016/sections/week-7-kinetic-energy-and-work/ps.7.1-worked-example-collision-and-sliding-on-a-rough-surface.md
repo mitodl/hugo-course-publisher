@@ -6,6 +6,7 @@ menu:
     identifier: >-
       1a85f658a6b619d17082201370c974dd_ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface
     weight: 300
+    parent: 1099b7667930f7e51cccc80d63899c02_week-7-kinetic-energy-and-work
 ---
 « [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/22.5-summary-of-work-and-kinetic-energy" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/problem-set-7" %}}) »
 

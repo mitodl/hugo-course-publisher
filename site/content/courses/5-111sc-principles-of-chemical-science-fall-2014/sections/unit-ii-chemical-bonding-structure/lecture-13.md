@@ -5,6 +5,7 @@ menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: 0e6db31791e13ca80e855c92186dafb0_lecture-13
     weight: 100
+    parent: 89ed642b22037e567593c80ff35cb3f4_unit-ii-chemical-bonding-structure
 ---
 « [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-12" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-14" %}}) »
 

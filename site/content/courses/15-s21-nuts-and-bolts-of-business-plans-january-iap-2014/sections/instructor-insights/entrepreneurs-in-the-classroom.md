@@ -5,6 +5,7 @@ menu:
   15-s21-nuts-and-bolts-of-business-plans-january-iap-2014:
     identifier: 985ac65bcc684e1991e3f8c9b61ab09e_entrepreneurs-in-the-classroom
     weight: 40
+    parent: 68847d16d9620f2b7563d82fad77467d_instructor-insights
 ---
 _In this section, Joseph Hadzima shares his insights about inviting entrepreneurs, some of whom have previously taken the course, to address current students._
 

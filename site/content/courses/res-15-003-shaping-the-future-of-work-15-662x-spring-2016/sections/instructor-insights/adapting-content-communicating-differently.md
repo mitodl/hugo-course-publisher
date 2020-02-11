@@ -6,6 +6,7 @@ menu:
     identifier: >-
       5561a0f4bcdf0f2e3ca2fe7ea9878867_adapting-content-communicating-differently
     weight: 30
+    parent: 533d102efe069d1db963beda43cca2a1_instructor-insights
 ---
 _In this section, Professor Tom Kochan describes how adapting course content for a MOOC has helped him learn how to communicate curricular material in new ways. He also shares how doing so has inspired his teaching and helped him think about the creative potential of MITx on the edX platform._
 

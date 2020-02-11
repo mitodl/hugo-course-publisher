@@ -6,6 +6,7 @@ menu:
     identifier: >-
       fbf2b7049246466ef24736bff248b7c3_sports-scheduling-an-introduction-to-integer-optimization
     weight: 160
+    parent: db42b40ad705f431a7e23a1d11cec341_integer-optimization
 ---
 *   [<Welcome to Unit 9]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/welcome-to-unit-9" %}})
 *   [9.2.1Video 1: Introduction]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization" %}})

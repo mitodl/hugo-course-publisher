@@ -6,6 +6,7 @@ menu:
     identifier: >-
       c5bed9b53f5684d68d5b41fd3419190b_session-25-introduction-to-quadratic-appoximation
     weight: 70
+    parent: 8c88ae0417475c6dae97e569853bfd9e_part-a-approximation-and-curve-sketching
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-24-examples-of-linear-approximation" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-26-using-quadratic-approximations" %}}) »
 

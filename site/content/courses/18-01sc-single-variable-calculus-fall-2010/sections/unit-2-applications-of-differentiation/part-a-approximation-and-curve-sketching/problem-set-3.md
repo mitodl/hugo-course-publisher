@@ -5,6 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: b5cc1424ab97d1deb03d79439bbc51be_problem-set-3
     weight: 110
+    parent: 8c88ae0417475c6dae97e569853bfd9e_part-a-approximation-and-curve-sketching
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-28-sketching-graphs-ii-general-strategies" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method" %}}) »
 

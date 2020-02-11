@@ -6,6 +6,8 @@ menu:
     identifier: >-
       7aa6522b6e8e0d13937e54ed6e52710d_session-81-examples-using-parametrized-curves
     weight: 100
+    parent: >-
+      f19e1f54f348a68a730889ee63f5b9d6_part-c-parametric-equations-and-polar-coordinates
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-82-polar-coordinates" %}}) »
 

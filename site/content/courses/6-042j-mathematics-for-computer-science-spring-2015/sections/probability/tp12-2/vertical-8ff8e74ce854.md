@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 07fdf977125d4132cfdd043131c8b67c_vertical-8ff8e74ce854
     weight: 140
+    parent: 90eace8a4b31041773628667f8f3497b_tp12-2
 ---
 *   [<Independence & Causality](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-2)
 *   [4.3.1Independence: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-2)

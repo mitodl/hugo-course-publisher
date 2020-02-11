@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: ad8e812ca9c8df630eb5a6ed30542233_vertical-9542d6e9bbc8
     weight: 140
+    parent: 4414c612ae424c737466f4715f85e319_tp11-2
 ---
 *   [<Simplified Monty Hall Tree: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-65858dc50455)
 *   [4.1.1Tree Model: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2)

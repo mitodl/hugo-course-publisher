@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 0691f601c9d2141f1bef534f1f820100_vertical-84aa6f70d1c0
     weight: 180
+    parent: a3bc4574329a2834df030de577ce1f81_tp14-1
 ---
 *   [<Sampling & Confidence](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1)
 *   [4.7.1Law Of Large Numbers: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1)

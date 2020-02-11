@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: d23517012859382416b7168f07711cf9_vertical-b447cf681095
     weight: 190
+    parent: 79ebde2b537e9e26dc39d5d2e1c8f1d9_tp12-1
 ---
 *   [<Monty Hall Problem: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-038350815734)
 *   [4.2.1Conditional Probability Definitions: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1)

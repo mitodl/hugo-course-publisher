@@ -5,6 +5,7 @@ menu:
   8-591j-systems-biology-fall-2014:
     identifier: 09f5e89ed2329a2c359d4f4727253abe_flipping-the-classroom
     weight: 30
+    parent: b93901ceb2691028d9324ac654b23cf0_instructor-insights
 ---
 _In this section, Jeff Gore shares his insights about flipping the classroom in _8.591J Systems Biology_._
 

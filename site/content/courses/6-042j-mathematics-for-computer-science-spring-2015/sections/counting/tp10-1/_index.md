@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: d45e95172acf2a430d67a0ef15468161_tp10-1
     weight: 140
+    parent: 39106ddf6e8110d0b3ef0b61eb07512d_counting
 ---
 *   [<Multinomial Theorem: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/vertical-436d8f042056)
 *   [3.5.1The Pigeonhole Principle: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp10-1)

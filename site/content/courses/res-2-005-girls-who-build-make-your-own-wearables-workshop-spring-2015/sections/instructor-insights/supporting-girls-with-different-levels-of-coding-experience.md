@@ -6,6 +6,7 @@ menu:
     identifier: >-
       584c2218ca0f3ca2a5801dd42e0019e1_supporting-girls-with-different-levels-of-coding-experience
     weight: 40
+    parent: 93633c3e763e0e991be7a7388bafdbb7_instructor-insights
 ---
 _In this section, Kristen Railey shares her insights about supporting workshop participants with different background experiences in coding._
 

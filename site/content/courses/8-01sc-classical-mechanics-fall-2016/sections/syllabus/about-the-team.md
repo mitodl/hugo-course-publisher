@@ -5,6 +5,7 @@ menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 63b200b46b93d532b3879a3d37067265_about-the-team
     weight: 20
+    parent: 8488bde46909b726a411abeee039ef1a_syllabus
 ---
 « [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/readings" %}}) »
 

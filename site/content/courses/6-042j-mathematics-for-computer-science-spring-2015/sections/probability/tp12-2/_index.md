@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 90eace8a4b31041773628667f8f3497b_tp12-2
     weight: 130
+    parent: 90a207e82f8b3b1369067b58f9c6f169_probability
 ---
 *   [<Watch Out For Crocodiles](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-b7574f507526)
 *   [4.3.1Independence: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-2)

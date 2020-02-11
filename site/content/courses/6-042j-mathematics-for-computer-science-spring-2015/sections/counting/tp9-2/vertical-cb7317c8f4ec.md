@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 4da3fbbb1818cbfbea44f787eadffa78_vertical-cb7317c8f4ec
     weight: 150
+    parent: c8103e15328b9991c0774e6c0892ba9f_tp9-2
 ---
 *   [<Choosing Integers](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/vertical-c197c8335ccf)
 *   [3.4.1Generalized Counting Rules: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2)

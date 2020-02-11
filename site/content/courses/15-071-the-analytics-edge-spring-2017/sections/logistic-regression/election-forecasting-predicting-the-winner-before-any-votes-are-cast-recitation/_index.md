@@ -8,6 +8,7 @@ menu:
     identifier: >-
       cd55cbba60f6d5d37320e05f520c4cf1_election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation
     weight: 120
+    parent: c4464cf49ddb1a4bc78cfaa6f93b74de_logistic-regression
 ---
 *   [<Video 6: Overall Impact]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/video-6-overall-impact" %}})
 *   [3.4.1Welcome to Recitation 3]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation" %}})

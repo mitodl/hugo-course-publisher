@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 7fd4c5f8aa7b7e88ffacf4ee5c2d749c_caution
     weight: 190
+    parent: >-
+      c6d206ccfb1528f6048f29e817450da7_seeing-the-big-picture-segmenting-images-to-create-data-recitation
 ---
 *   [<Video 3: Hierarchical Clustering]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-3-hierarchical-clustering" %}})
 *   [6.4.1Welcome to Recitation 6]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation" %}})

@@ -5,6 +5,7 @@ menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: bd55059e8b182febfb2bc8aef5adde05_lecture-30
     weight: 80
+    parent: 124cd4e89ed86cbe95d852c3908bfac3_unit-v-chemical-kinetics
 ---
 « [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31" %}}) »
 

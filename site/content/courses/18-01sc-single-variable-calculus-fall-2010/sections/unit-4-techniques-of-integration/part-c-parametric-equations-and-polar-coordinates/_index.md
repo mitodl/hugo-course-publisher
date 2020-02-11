@@ -6,6 +6,7 @@ menu:
     identifier: >-
       f19e1f54f348a68a730889ee63f5b9d6_part-c-parametric-equations-and-polar-coordinates
     weight: 80
+    parent: 4da2f4d47b887d3f0da6a5405ecfef83_unit-4-techniques-of-integration
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/problem-set-10" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves" %}}) »
 

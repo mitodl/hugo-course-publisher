@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: ec76b4ff67804c693ea4a3a2695b4d2d_video-5-solving-the-problem
     weight: 220
+    parent: >-
+      696dd6e442cc1fc47c9f2924e2edfb26_google-adwords-optimizing-online-advertising-recitation
 ---
 *   [<Video 4: Modeling the Problem]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-4-modeling-the-problem" %}})
 *   [8.4.1Welcome to Recitation 8]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation" %}})

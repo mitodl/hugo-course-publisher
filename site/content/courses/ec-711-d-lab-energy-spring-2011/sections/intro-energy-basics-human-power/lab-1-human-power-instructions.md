@@ -5,6 +5,7 @@ menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: 6e9b9baba0f993d05be2369160b9b3ca_lab-1-human-power-instructions
     weight: 30
+    parent: 32a22e0de0add67342ce41445297fce7_intro-energy-basics-human-power
 ---
 Water Pumping Module
 --------------------

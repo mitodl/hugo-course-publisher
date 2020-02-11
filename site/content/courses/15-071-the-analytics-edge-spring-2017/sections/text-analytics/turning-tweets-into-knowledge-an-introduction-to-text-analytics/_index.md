@@ -6,6 +6,7 @@ menu:
     identifier: >-
       aea3bc9c07f7364865c46fec93dd8515_turning-tweets-into-knowledge-an-introduction-to-text-analytics
     weight: 120
+    parent: 5847ad879afecf3e9b93c20cffe87acf_text-analytics
 ---
 *   [<Welcome to Unit 5]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/welcome-to-unit-5" %}})
 *   [5.2.1Video 1: Twitter]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics" %}})

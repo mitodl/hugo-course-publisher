@@ -6,6 +6,7 @@ menu:
     identifier: >-
       4495fb4839343c3323b22ef2104af559_the-statistical-sommelier-an-introduction-to-linear-regression
     weight: 90
+    parent: c846ced6fc6d3bc964e047324e251a98_linear-regression
 ---
 *   [<Welcome to Unit 2]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/welcome-to-unit-2" %}})
 *   [2.2.1Video 1: Predicting the Quality of Wine]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression" %}})

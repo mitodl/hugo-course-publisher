@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 9788174fbc238176217873d882264bfd_quick-question-267
     weight: 160
+    parent: >-
+      11f9b44dc2960689414b8c313764a18d_judge-jury-and-classifier-an-introduction-to-trees
 ---
 *   [<Video 3: Splitting and Predictions]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/video-3-splitting-and-predictions" %}})
 *   [4.2.1Video 1: The Supreme Court]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees" %}})

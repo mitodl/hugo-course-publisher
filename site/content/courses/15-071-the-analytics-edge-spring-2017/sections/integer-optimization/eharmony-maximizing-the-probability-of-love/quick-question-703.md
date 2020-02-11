@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 06f9b5cf1bb0c54f31c944aa1cd51567_quick-question-703
     weight: 200
+    parent: >-
+      11e612d89845c6c96a7307cebaa24191_eharmony-maximizing-the-probability-of-love
 ---
 *   [<Video 2: Using Integer Optimization]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/eharmony-maximizing-the-probability-of-love/video-2-using-integer-optimization" %}})
 *   [9.3.1Video 1: The Goal of eHarmony]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/eharmony-maximizing-the-probability-of-love" %}})

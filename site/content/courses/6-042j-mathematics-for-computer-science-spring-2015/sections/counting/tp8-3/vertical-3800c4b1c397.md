@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 7ce8643e34ad237e8704bca116ee1c91_vertical-3800c4b1c397
     weight: 120
+    parent: 7fcb07616e2948a6ad10caa832263c78_tp8-3
 ---
 *   [<Asymptotics](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3)
 *   [3.2.1Asymptotic Notation: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3)

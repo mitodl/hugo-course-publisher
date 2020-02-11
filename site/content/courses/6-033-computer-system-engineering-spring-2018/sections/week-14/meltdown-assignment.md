@@ -5,6 +5,7 @@ menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 447da471034fb3474c11bbe7bfa9e6b3_meltdown-assignment
     weight: 190
+    parent: a53ea92f4c3dbec43ffae7cf73d6eb29_week-14
 ---
 For this recitation, you'll be reading ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Meltdown (PDF)](https://meltdownattack.com/meltdown.pdf)" by Moritz Lipp, Michael Schwarz, et al. Meltdown, along with Spectre, is a security vulnerability that was discovered early this year, which affects all modern Intel processors.
 

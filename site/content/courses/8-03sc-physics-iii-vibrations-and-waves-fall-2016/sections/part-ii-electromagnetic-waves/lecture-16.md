@@ -5,6 +5,7 @@ menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: c84dbaf357b2e84b1aa1aa8cea794c86_lecture-16
     weight: 90
+    parent: 240ff61b57c23024881e75e9a0e68cde_part-ii-electromagnetic-waves
 ---
 « [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-15" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics" %}}) »
 

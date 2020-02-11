@@ -6,6 +6,7 @@ menu:
     identifier: >-
       0e404fc32376af370fd1ea9139691b69_dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum
     weight: 340
+    parent: fbf76190d89eeed2930e51f9ac3bf2a6_week-12-rotations-and-translation-rolling
 ---
 « [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/problem-set-12" %}}) »
 

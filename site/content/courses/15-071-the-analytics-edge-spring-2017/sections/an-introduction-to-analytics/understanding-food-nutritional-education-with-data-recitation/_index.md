@@ -6,6 +6,7 @@ menu:
     identifier: >-
       7ae5f9abee30803e522bc737bfb5e185_understanding-food-nutritional-education-with-data-recitation
     weight: 100
+    parent: bebdc8ab5b1f9682d6b762b671b5cf25_an-introduction-to-analytics
 ---
 *   [<Video 7: Saving with Script Files]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-7-saving-with-script-files" %}})
 *   [1.4.1Welcome to Recitation 1]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation" %}})

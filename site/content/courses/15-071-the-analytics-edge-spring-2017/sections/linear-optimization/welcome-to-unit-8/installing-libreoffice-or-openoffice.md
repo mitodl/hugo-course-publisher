@@ -5,6 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 8556ba9c76cfa0d64a07e442426c65bf_installing-libreoffice-or-openoffice
     weight: 150
+    parent: 006d219b491802343c9c2e5dce950c20_welcome-to-unit-8
 ---
 *   [<Welcome to Unit 8]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8" %}})
 *   [8.1.1Welcome to Unit 8]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8" %}})

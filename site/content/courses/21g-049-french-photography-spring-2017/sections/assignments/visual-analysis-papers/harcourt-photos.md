@@ -5,6 +5,7 @@ menu:
   21g-049-french-photography-spring-2017:
     identifier: 9792aef79004f6b4ad7c3c3ce4d7b1e6_harcourt-photos
     weight: 80
+    parent: 6c9a455d83741a2df31df3a4e0c2087d_visual-analysis-papers
 ---
 Week 5
 ------

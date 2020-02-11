@@ -5,6 +5,7 @@ menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: 292bd34ad8ecb81401c0de0ef3145cd4_lab-1-human-power-homework
     weight: 40
+    parent: 32a22e0de0add67342ce41445297fce7_intro-energy-basics-human-power
 ---
 Water Pumping
 -------------

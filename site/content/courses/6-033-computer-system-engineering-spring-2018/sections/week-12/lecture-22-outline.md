@@ -5,6 +5,7 @@ menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: d855de67a6df3be8d7e7b03e92d249a3_lecture-22-outline
     weight: 180
+    parent: 463ad0d7960d0f16fac5ad1eab91ef20_week-12
 ---
 | Disclaimer: This is part of the security section in 6.033. Only use the information you learn in this portion of the class to secure your own systems, not to attack others. 
 

@@ -5,6 +5,7 @@ menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: d85bd78d4139ffc6609938511ef16101_why-cryptosystems-fail-assignment
     weight: 170
+    parent: 463ad0d7960d0f16fac5ad1eab91ef20_week-12
 ---
 Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Why Cryptosystems Fail (PDF)](https://www.cl.cam.ac.uk/~rja14/Papers/wcf.pdf)" by Ross Anderson. This paper is about a philosophy of cryptosystem design, with a focus on their use in financial institutions and particularly in ATM (Automated Teller Machine) networks.
 

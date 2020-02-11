@@ -5,6 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 0af41c2fca6884fab36c0a31155319b9_assignment-1
     weight: 110
+    parent: bebdc8ab5b1f9682d6b762b671b5cf25_an-introduction-to-analytics
 ---
 *   [<Video 6: Summary Tables]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-6-summary-tables" %}})
 *   [1.5.1An Analytical Detective]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1" %}})

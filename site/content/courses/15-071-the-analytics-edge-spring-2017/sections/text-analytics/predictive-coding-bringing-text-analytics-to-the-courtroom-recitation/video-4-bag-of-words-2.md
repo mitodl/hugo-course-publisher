@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 8a96d7cd01b950c8be68959be293ab00_video-4-bag-of-words-2
     weight: 180
+    parent: >-
+      d4b1a3b942ed98d194feb3777ba22595_predictive-coding-bringing-text-analytics-to-the-courtroom-recitation
 ---
 *   [<Video 3: Pre-Processing]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-3-pre-processing" %}})
 *   [5.4.1Welcome to Recitation 5]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation" %}})

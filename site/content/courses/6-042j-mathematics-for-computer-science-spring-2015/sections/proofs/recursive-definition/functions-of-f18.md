@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: fdcfb358e60e4cb1911716fffe96f2dc_functions-of-f18
     weight: 190
+    parent: dc6ecd4f10b94f9f9744a385e4bab210_recursive-definition
 ---
 *   [<Matching Parentheses](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition/matching-parentheses)
 *   [1.10.1Recursive Data: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition)

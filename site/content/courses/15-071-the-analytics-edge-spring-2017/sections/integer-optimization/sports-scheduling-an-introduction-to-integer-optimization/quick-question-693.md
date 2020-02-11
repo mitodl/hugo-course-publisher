@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: bc55ff56182eb4efaaab2b01313266a2_quick-question-693
     weight: 230
+    parent: >-
+      fbf2b7049246466ef24736bff248b7c3_sports-scheduling-an-introduction-to-integer-optimization
 ---
 *   [<Video 4: Logical Constraints]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-4-logical-constraints" %}})
 *   [9.2.1Video 1: Introduction]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization" %}})

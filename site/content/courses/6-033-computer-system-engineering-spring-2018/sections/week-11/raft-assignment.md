@@ -5,6 +5,7 @@ menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 664be575c00e8b731e9737cd0a323c01_raft-assignment
     weight: 160
+    parent: c7a234fbb37ee20a41b9581882a0afcd_week-11
 ---
 For this recitation, you'll be reading "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[In Search of an Understandable Consensus Algorithm (PDF)](https://raft.github.io/raft.pdf)" by Diego Ongaro and John Ousterhout. This paper describes Raft, an algorithm for achieving distributed consensus. The paper contrasts Raft to an algorithm called Paxos: You do **not** need to know anything about Paxos to read this paper. Raft was designed to be more understandable than Paxos.
 

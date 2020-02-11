@@ -6,6 +6,8 @@ menu:
     identifier: >-
       625f9141b9dc5a9365acef497e19af09_session-17-the-exponential-function-its-derivative-and-its-inverse
     weight: 90
+    parent: >-
+      ea455a8ae7f0daad0b8d5033112f5f5e_part-b-implicit-differentiation-and-inverse-functions
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-16-the-derivative-of-a-x" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-18-derivatives-of-other-exponential-functions" %}}) »
 

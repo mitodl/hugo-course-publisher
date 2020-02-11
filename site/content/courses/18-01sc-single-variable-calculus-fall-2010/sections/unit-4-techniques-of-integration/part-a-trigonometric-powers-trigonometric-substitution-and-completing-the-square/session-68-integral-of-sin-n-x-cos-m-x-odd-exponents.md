@@ -6,6 +6,8 @@ menu:
     identifier: >-
       f914f1dccfe8c98b34b42bcf2aa6e075_session-68-integral-of-sin-n-x-cos-m-x-odd-exponents
     weight: 70
+    parent: >-
+      6b4ef50053da70f0e8654886100e09bb_part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-69-integral-of-sin-n-x-cos-m-x-even-exponents" %}}) »
 

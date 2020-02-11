@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 80a90ec9826e9f3696ce5b09a2a47a1d_recursive-functions-video
     weight: 230
+    parent: dc6ecd4f10b94f9f9744a385e4bab210_recursive-definition
 ---
 *   [<Counting Cases](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition/counting-cases)
 *   [1.10.1Recursive Data: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition)

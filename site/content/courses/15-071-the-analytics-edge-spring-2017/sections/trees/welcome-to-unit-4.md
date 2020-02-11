@@ -5,6 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 1bbf68ce76a47a1d41c90293ba65ab6e_welcome-to-unit-4
     weight: 100
+    parent: 19c8cf92e31d034a1ea15ad53194d892_trees
 ---
 *   [<Trees]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees" %}})
 *   [4.1.1Welcome to Unit 4]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/welcome-to-unit-4" %}})

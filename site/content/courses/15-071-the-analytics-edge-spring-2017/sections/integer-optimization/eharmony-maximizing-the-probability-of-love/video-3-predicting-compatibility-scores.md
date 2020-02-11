@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 4ee865af69155a39e352d98aad5670d0_video-3-predicting-compatibility-scores
     weight: 210
+    parent: >-
+      11e612d89845c6c96a7307cebaa24191_eharmony-maximizing-the-probability-of-love
 ---
 *   [<Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/eharmony-maximizing-the-probability-of-love/quick-question-703" %}})
 *   [9.3.1Video 1: The Goal of eHarmony]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/eharmony-maximizing-the-probability-of-love" %}})

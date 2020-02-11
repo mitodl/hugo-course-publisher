@@ -5,6 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 85a26423d9d75842c382af54b0eaaadd_quick-question-28
     weight: 190
+    parent: 1ac933da13d13dfa2e3803abf2d6971f_working-with-data-an-introduction-to-r
 ---
 *   [<Video 5: Data Analysis - Summary Statistics and Scatterplots]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-5-data-analysis-summary-statistics-and-scatterplots" %}})
 *   [1.3.1Download and Install R]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r" %}})

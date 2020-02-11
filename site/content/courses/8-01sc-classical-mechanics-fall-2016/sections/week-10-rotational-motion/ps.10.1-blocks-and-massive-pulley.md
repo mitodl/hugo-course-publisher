@@ -5,6 +5,7 @@ menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 1ea17804f8617e6c0bcee9e83c087d94_ps.10.1-blocks-and-massive-pulley
     weight: 370
+    parent: 146d8dd77c99bbafceb8ed10af8bee47_week-10-rotational-motion
 ---
 « [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/31.7-worked-example-two-blocks-and-a-pulley-using-energy" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/problem-set-10" %}}) »
 

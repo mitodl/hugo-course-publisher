@@ -7,6 +7,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 57067762c39b9c564fcbdde7585e1d63_video-3-example-2-eharmony
     weight: 100
+    parent: >-
+      9fb459369f44df97dad389bb5d1aa82c_the-analytics-edge-intelligence-happiness-and-health-lecture-sequence
 ---
 *   [<Video 2: Example 1 - IBM Watson]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-2-example-1-ibm-watson" %}})
 *   [1.2.1Video 1: Introduction to The Analytics Edge]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence" %}})

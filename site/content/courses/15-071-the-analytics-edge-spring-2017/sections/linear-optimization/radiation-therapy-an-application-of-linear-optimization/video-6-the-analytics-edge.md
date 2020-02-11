@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: eaf609ccc68c36a2cb165b923543a1c7_video-6-the-analytics-edge
     weight: 260
+    parent: >-
+      7a59278a134c5085244c381fc6090890_radiation-therapy-an-application-of-linear-optimization
 ---
 *   [<Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/radiation-therapy-an-application-of-linear-optimization/quick-question-654" %}})
 *   [8.3.1Video 1: Introduction]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/radiation-therapy-an-application-of-linear-optimization" %}})

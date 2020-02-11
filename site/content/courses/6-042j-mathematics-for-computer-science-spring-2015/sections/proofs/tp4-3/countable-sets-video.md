@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: ce0115c8a168b1d5e094c10c79df8a3a_countable-sets-video
     weight: 200
+    parent: 7b14af4d984597ad410998ecc9fb9f71_tp4-3
 ---
 *   [<Cantor, Schroeder-Bernstein](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-e7c2a3883170)
 *   [1.11.1Cardinality: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3)

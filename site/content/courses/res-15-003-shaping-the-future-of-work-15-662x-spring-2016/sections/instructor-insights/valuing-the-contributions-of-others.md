@@ -5,6 +5,7 @@ menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
     identifier: aa059fb3678ccdd986923b443c48a843_valuing-the-contributions-of-others
     weight: 40
+    parent: 533d102efe069d1db963beda43cca2a1_instructor-insights
 ---
 _In this section, Professor Tom Kochan discusses how he incorporates the contributions of leaders, colleagues, and students into the course._
 

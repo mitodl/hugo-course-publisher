@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: e685ba718462a41fdc85159d8c6cd469_quick-question-550
     weight: 200
+    parent: >-
+      716f78f61fe6c5f47370d7a3c4127827_the-analytical-policeman-visualization-for-law-and-order
 ---
 *   [<Video 3: A Line Plot]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-3-a-line-plot" %}})
 *   [7.3.1Video 1: Predictive Policing]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order" %}})

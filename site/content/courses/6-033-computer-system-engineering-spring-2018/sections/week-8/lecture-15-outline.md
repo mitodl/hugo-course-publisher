@@ -5,6 +5,7 @@ menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: f982d8412b343c22726204fc7b163732_lecture-15-outline
     weight: 140
+    parent: 038398268d831a706fad0af0bfa301d7_week-8
 ---
 1.  Introduction
     *   Main goal: Build a reliable system out of unreliable components.

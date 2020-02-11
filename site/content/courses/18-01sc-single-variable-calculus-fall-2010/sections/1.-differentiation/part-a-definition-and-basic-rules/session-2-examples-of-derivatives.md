@@ -5,6 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 29ef5f87bae9a94ad04425b8efabe1ac_session-2-examples-of-derivatives
     weight: 50
+    parent: 962d171611a101d49f865818d41217eb_part-a-definition-and-basic-rules
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change" %}}) »
 

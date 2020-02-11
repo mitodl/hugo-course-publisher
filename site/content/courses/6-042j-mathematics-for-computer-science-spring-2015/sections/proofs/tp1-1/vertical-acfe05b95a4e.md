@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: d5dc757f5f6ae0d333de93a9f1a6d72e_vertical-acfe05b95a4e
     weight: 120
+    parent: ea224ef6f868e6dea69a53241486c324_tp1-1
 ---
 *   [<Definitions To Know For Proofs](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1/vertical-96ac16077819)
 *   [1.1.1Welcome to 6.042: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1)

@@ -5,6 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 147b0a1bf22a4f9b0fd1d3a28f92f6da_video-1-why-r
     weight: 100
+    parent: 1ac933da13d13dfa2e3803abf2d6971f_working-with-data-an-introduction-to-r
 ---
 *   [<Working with Data: An Introduction to R]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r" %}})
 *   [1.3.1Download and Install R]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r" %}})

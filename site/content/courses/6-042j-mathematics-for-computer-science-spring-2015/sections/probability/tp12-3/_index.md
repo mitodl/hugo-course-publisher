@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 5d000a4e2a13daae80b1331e90d2f442_tp12-3
     weight: 140
+    parent: 90a207e82f8b3b1369067b58f9c6f169_probability
 ---
 *   [<Paradox](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-2/paradox)
 *   [4.4.1Bigger Number Game: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-3)

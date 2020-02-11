@@ -5,6 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: e3496feebb6827a97779dea4bd50cc77_quick-question-20
     weight: 170
+    parent: 1ac933da13d13dfa2e3803abf2d6971f_working-with-data-an-introduction-to-r
 ---
 *   [<Video 4: Loading Data Files]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-4-loading-data-files" %}})
 *   [1.3.1Download and Install R]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r" %}})

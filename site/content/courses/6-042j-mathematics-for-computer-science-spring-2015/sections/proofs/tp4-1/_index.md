@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 5179d7c0c3f7a60a33d7c24d9d219172_tp4-1
     weight: 150
+    parent: 95af5c7b87a2e15790a7ad18331a125f_proofs
 ---
 *   [<Mapping Lemma: Sizes of Domains and Codomains](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3/vertical-7d9a2d67e3b9)
 *   [1.8.1Induction: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1)

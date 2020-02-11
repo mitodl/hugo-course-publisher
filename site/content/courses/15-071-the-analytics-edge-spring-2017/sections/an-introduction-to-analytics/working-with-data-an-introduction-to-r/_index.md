@@ -5,6 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 1ac933da13d13dfa2e3803abf2d6971f_working-with-data-an-introduction-to-r
     weight: 90
+    parent: bebdc8ab5b1f9682d6b762b671b5cf25_an-introduction-to-analytics
 ---
 *   [<Video 6: This Class]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-6-this-class" %}})
 *   [1.3.1Download and Install R]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r" %}})

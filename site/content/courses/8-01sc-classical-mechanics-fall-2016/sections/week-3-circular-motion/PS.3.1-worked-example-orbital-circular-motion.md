@@ -6,6 +6,7 @@ menu:
     identifier: >-
       938ca53be5bedb207d92fe94493d1b80_PS.3.1-worked-example-orbital-circular-motion
     weight: 220
+    parent: 3c7d357cbb95e729679b539d23714ede_week-3-circular-motion
 ---
 « [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/11.3-demo-rotating-bucket" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/problem-set-3" %}}) »
 

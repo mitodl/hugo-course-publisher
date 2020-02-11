@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 654a2726f7553e86742594b694d56a3c_implies-video
     weight: 160
+    parent: 8de160a9e7299f7fec8a58aef5106eef_tp2-2
 ---
 *   [<Equivalence and Truth Table](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/vertical-b8b2711c0ce8)
 *   [1.4.1Propositional Operators: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2)

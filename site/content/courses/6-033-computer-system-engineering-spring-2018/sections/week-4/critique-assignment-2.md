@@ -5,6 +5,7 @@ menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: b882122b9e06c5d661c97ce3e39fcf07_critique-assignment-2
     weight: 120
+    parent: 0466ee2b5ebb72d0ad4f7badf3b6c645_week-4
 ---
 Overview of Critique Assignments
 --------------------------------

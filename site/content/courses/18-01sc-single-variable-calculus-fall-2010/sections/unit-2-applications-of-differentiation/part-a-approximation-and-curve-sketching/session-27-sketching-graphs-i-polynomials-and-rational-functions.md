@@ -6,6 +6,7 @@ menu:
     identifier: >-
       9e376e9f57362241223df5e959ea707e_session-27-sketching-graphs-i-polynomials-and-rational-functions
     weight: 90
+    parent: 8c88ae0417475c6dae97e569853bfd9e_part-a-approximation-and-curve-sketching
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-26-using-quadratic-approximations" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-28-sketching-graphs-ii-general-strategies" %}}) »
 

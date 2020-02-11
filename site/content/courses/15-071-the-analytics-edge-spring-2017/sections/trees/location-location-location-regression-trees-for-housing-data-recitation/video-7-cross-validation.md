@@ -7,6 +7,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 6fc7a0e47d44d24efd6c876af7f8e2de_video-7-cross-validation
     weight: 200
+    parent: >-
+      aef27920c51cefd188ed937539251bd9_location-location-location-regression-trees-for-housing-data-recitation
 ---
 *   [<Video 6: The CP Parameter]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-6-the-cp-parameter" %}})
 *   [4.4.1Welcome to Recitation 4]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation" %}})

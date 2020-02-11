@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 4345a10d7637ddfb0f091b661423cd4f_video-6-detecting-tumors
     weight: 220
+    parent: >-
+      c6d206ccfb1528f6048f29e817450da7_seeing-the-big-picture-segmenting-images-to-create-data-recitation
 ---
 *   [<Video 5: K-Means Clustering]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-5-k-means-clustering" %}})
 *   [6.4.1Welcome to Recitation 6]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation" %}})

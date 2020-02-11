@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: b69a45f6aacc80e937f4661dbb5bb822_video-3-bar-charts-in-r
     weight: 190
+    parent: >-
+      0af39afbaff0a226a397da1206ecd712_the-good-the-bad-and-the-ugly-visualization-recitation-recitation
 ---
 *   [<Video 2: Pie Charts]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-2-pie-charts" %}})
 *   [7.4.1Welcome to Recitation 7]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation" %}})

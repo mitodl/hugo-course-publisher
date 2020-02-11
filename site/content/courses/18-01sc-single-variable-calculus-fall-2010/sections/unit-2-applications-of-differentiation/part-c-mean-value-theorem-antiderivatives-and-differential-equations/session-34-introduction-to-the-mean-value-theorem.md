@@ -6,6 +6,8 @@ menu:
     identifier: >-
       7a88ceaa20502ee6fbc4c0ceeb51122e_session-34-introduction-to-the-mean-value-theorem
     weight: 70
+    parent: >-
+      cc849d5801781635e7d929c121e176fe_part-c-mean-value-theorem-antiderivatives-and-differential-equations
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-35-using-the-mean-value-theorem" %}}) »
 

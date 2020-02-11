@@ -5,6 +5,7 @@ menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 3ebfda64abe4187a649784708a5f0971_lecture-12-outline
     weight: 110
+    parent: 0abfab7fcd019a6a159d1afa3fd61f99_week-7
 ---
 1.  Introduction
     *   Last time: TCP CC. Massive success. Doesn't require us to change the network, is something machines can opt-in to (don't have to have reliable transport if you don't need it), lets us prevent congestion in a distributed manner.

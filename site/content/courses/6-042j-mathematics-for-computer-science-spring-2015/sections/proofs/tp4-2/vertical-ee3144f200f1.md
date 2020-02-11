@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: c9c18fad0944755462d1010531375954_vertical-ee3144f200f1
     weight: 170
+    parent: 470546ac81246c938505a0f7571765aa_tp4-2
 ---
 *   [< State Machines - Invariants](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2)
 *   [1.9.1State Machines Invariants: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2)

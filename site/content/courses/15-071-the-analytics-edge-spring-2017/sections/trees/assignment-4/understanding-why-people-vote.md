@@ -5,6 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: e4031315c29ed0c6413fd2bd77d67b94_understanding-why-people-vote
     weight: 150
+    parent: 11ad34c810832b186afacd57f2616109_assignment-4
 ---
 *   [<Assignment 4]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4" %}})
 *   [4.5.1Predicting Earnings from Census Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4" %}})

@@ -5,6 +5,7 @@ menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: a58a3ece6fdc129d75645ca98d437fce_ps.6.2-snowplow-problem
     weight: 240
+    parent: 28d93f13f552de729aab415b7158be8e_week-6-continuous-mass-transfer
 ---
 « [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/problem-set-6" %}}) »
 

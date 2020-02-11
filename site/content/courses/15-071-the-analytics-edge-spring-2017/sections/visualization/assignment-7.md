@@ -5,6 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 056c6914368d638a59e4cebbc43acfe5_assignment-7
     weight: 170
+    parent: ab87d151cf8cfe95c873e816df164d38_visualization
 ---
 *   [<Video 7: Using Line Charts Instead]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-7-using-line-charts-instead" %}})
 *   [7.5.1Visualizing Attributes of Parole Violators]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/assignment-7" %}})

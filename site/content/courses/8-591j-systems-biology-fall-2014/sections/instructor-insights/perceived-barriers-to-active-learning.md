@@ -5,6 +5,7 @@ menu:
   8-591j-systems-biology-fall-2014:
     identifier: 15cd99a09dbc91ef52782c8a1f0e750c_perceived-barriers-to-active-learning
     weight: 50
+    parent: b93901ceb2691028d9324ac654b23cf0_instructor-insights
 ---
 _In this section, Jeff Gore discusses the perceived barriers preventing educators form implementing active learning in the classroom._
 

@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: d3855955a7364b6beffb27d6d59b1b8f_matching-ritual-video
     weight: 200
+    parent: 47305688cc389e2f9dc3019a395b3b37_stable-matching
 ---
 *   [<Stable Matching](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching)
 *   [2.11.1Stable Matching: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching)

@@ -6,6 +6,7 @@ menu:
     identifier: >-
       d64b92473ae1fb2350f1b27dc8fbde0b_detecting-flu-epidemics-via-search-engine-query-data
     weight: 140
+    parent: d3823600300c03000e79696e835f8f2f_assignment-2
 ---
 *   [<Reading Test Scores]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/reading-test-scores" %}})
 *   [2.5.1Climate Change]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2" %}})

@@ -5,6 +5,7 @@ menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: de60ad23ec34c2de5ad0d3eca23fb1e5_lecture-2
     weight: 50
+    parent: 6682a3d163976bcbb2fbe67db27d8f04_part-i-mechanical-vibrations-and-waves
 ---
 « [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-1" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-3" %}}) »
 

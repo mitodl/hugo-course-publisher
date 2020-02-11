@@ -5,6 +5,7 @@ menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 0f38d01221c7a072b7fdcd72637e5cd3_lecture-17-outline
     weight: 150
+    parent: aa415ef7575219eea10afb9dc2dbef65_week-9
 ---
 1.  Introduction
     *   Last time: Atomicity via logging. We're good with atomicity now.

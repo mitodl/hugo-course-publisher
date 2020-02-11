@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 041c3127fd08cfd7d4e7305dc781718b_video-5-adding-variables
     weight: 150
+    parent: >-
+      7ae5f9abee30803e522bc737bfb5e185_understanding-food-nutritional-education-with-data-recitation
 ---
 *   [<Video 4: Creating Plots in R]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-4-creating-plots-in-r" %}})
 *   [1.4.1Welcome to Recitation 1]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation" %}})

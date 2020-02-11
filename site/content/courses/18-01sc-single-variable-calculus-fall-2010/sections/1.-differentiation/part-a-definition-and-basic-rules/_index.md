@@ -5,6 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 962d171611a101d49f865818d41217eb_part-a-definition-and-basic-rules
     weight: 30
+    parent: ff2c27eff0de39810c3e51a37548e568_1.-differentiation
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives" %}}) »
 

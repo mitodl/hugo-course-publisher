@@ -5,6 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: f590aa024205ae291d855ec56a16b4a4_reading-test-scores
     weight: 130
+    parent: d3823600300c03000e79696e835f8f2f_assignment-2
 ---
 *   [<Assignment 2]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2" %}})
 *   [2.5.1Climate Change]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2" %}})

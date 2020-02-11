@@ -5,6 +5,8 @@ menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: 3d31835d06e0f144b71eae67819fa795_lecture-25
     weight: 70
+    parent: >-
+      898636543b8426a3a53091cb22239ee9_unit-iv-transition-metals-oxidation-reduction-reactions
 ---
 « [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26" %}}) »
 

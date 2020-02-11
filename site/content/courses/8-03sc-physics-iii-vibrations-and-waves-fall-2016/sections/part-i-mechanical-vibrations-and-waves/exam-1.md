@@ -5,6 +5,7 @@ menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 766280587df7eac43ea13bd07d2c6250_exam-1
     weight: 130
+    parent: 6682a3d163976bcbb2fbe67db27d8f04_part-i-mechanical-vibrations-and-waves
 ---
 « [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-9" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-10" %}}) »
 

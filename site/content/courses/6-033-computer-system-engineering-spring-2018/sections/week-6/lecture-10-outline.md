@@ -5,6 +5,7 @@ menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 26febf46605f599baa63c8504b6e5d4d_lecture-10-outline
     weight: 100
+    parent: 75800336c3a2ebee84a18bb126a5a60b_week-6
 ---
 1.  Introduction
     *   Today: Routing, some addressing.

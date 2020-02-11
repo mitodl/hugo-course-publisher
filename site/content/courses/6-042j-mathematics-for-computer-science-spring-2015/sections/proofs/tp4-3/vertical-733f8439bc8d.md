@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: f838628c408e57ef9d8c672dd683e53d_vertical-733f8439bc8d
     weight: 220
+    parent: 7b14af4d984597ad410998ecc9fb9f71_tp4-3
 ---
 *   [<Cantor's Theorem: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-4eaa04fd577b)
 *   [1.11.1Cardinality: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3)

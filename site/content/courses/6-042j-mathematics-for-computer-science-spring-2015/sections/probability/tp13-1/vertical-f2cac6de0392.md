@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 0478e0a1b67b68a3d605fa5a1211c5c2_vertical-f2cac6de0392
     weight: 220
+    parent: 025c498f3f5e1c53924f7e40eb06a220_tp13-1
 ---
 *   [<Mean Time to Failure: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-e8dee31ddd76)
 *   [4.5.1Expectation: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1)

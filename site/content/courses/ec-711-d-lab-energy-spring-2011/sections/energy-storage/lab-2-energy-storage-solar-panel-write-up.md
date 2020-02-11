@@ -5,6 +5,7 @@ menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: 5e62a2ae6757222a296a99da52f7bade_lab-2-energy-storage-solar-panel-write-up
     weight: 50
+    parent: bd09c1cc93fd481d39456e105dc16816_energy-storage
 ---
 For each of the modules, provide the following analysis and discussion. As a general rule, you should present all of your raw data in a table or other easy to read format. If you are asked to show calculations, you can show one calculation or formula as an example and indicate that the rest of calculations were performed that way.
 

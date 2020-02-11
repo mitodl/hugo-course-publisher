@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 09658475beed94c69920847500c8507b_paradox
     weight: 190
+    parent: 90eace8a4b31041773628667f8f3497b_tp12-2
 ---
 *   [<Labeled Balls](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-2/vertical-324cac33b048)
 *   [4.3.1Independence: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-2)

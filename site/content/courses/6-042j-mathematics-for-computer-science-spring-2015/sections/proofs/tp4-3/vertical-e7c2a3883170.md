@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: ec97b4240f286982e12ac8376f9e3c49_vertical-e7c2a3883170
     weight: 190
+    parent: 7b14af4d984597ad410998ecc9fb9f71_tp4-3
 ---
 *   [< Infinite Sets](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3)
 *   [1.11.1Cardinality: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3)

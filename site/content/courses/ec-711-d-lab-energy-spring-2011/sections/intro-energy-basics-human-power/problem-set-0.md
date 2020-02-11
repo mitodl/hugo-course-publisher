@@ -5,6 +5,7 @@ menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: dafbfcc992f8550b177a67a95cb65180_problem-set-0
     weight: 50
+    parent: 32a22e0de0add67342ce41445297fce7_intro-energy-basics-human-power
 ---
 Using the given LED (3.6V, 20mA) and 9V battery provided in class, a resistor of your choosing, and found materials, construct a lantern. The lantern should be able to turn on and off.
 

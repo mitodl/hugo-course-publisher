@@ -5,6 +5,7 @@ menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: d7e80479aaf338d9e79eb2f538c418b3_dnssec-assignment
     weight: 190
+    parent: 463ad0d7960d0f16fac5ad1eab91ef20_week-12
 ---
 Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Security Vulnerabilities in DNS and DNSSEC (PDF)"](http://www.chrismitchell.net/svidad.pdf) by Suranjith Ariyapperuma and Chris Mitchell. This paper is about DNSSEC. DNS, as is, is an insecure system; DNSSEC is a proposed extension to DNS to mitigate some of the security concerns. It is not yet widespread.
 

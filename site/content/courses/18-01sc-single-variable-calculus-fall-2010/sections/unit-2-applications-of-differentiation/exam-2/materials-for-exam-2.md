@@ -5,6 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 786c87263a7459b9e1dfbbb39f339887_materials-for-exam-2
     weight: 90
+    parent: 2e8fc5a27f94964a4603c27ff84434fc_exam-2
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/exam-2/session-41-review-for-exam-2" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications" %}}) »
 

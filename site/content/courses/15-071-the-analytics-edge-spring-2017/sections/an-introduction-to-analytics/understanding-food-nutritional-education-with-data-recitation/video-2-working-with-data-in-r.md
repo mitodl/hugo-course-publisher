@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 2f4e613d5b817c86b63878b382d65963_video-2-working-with-data-in-r
     weight: 120
+    parent: >-
+      7ae5f9abee30803e522bc737bfb5e185_understanding-food-nutritional-education-with-data-recitation
 ---
 *   [<Video 1: The Importance of Food and Nutrition]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-1-the-importance-of-food-and-nutrition" %}})
 *   [1.4.1Welcome to Recitation 1]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation" %}})

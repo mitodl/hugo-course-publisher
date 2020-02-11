@@ -5,6 +5,7 @@ menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: 19bd276c98fb61bc72af22c0567e02a2_lecture-5
     weight: 80
+    parent: 36cc671ac04c270e9cac7a210efd6846_unit-i-the-atom
 ---
 « [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-6" %}}) »
 

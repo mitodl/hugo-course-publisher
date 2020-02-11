@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 20eaa759e1ceede11f3592ee28109ca2_vertical-a2b75a4824b8
     weight: 180
+    parent: 4414c612ae424c737466f4715f85e319_tp11-2
 ---
 *   [<Addition Rule](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-d95cbbc345c2)
 *   [4.1.1Tree Model: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2)

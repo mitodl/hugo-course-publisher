@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 79b4616b3b2fda510a4176440e50bfb1_video-6-scales
     weight: 220
+    parent: >-
+      0af39afbaff0a226a397da1206ecd712_the-good-the-bad-and-the-ugly-visualization-recitation-recitation
 ---
 *   [<Video 5: World Maps in R]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-5-world-maps-in-r" %}})
 *   [7.4.1Welcome to Recitation 7]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation" %}})

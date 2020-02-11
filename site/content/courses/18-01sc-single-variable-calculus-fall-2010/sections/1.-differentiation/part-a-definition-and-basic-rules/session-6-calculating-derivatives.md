@@ -5,6 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: a50336604c88798f90662c641ab35802_session-6-calculating-derivatives
     weight: 90
+    parent: 962d171611a101d49f865818d41217eb_part-a-definition-and-basic-rules
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine" %}}) »
 

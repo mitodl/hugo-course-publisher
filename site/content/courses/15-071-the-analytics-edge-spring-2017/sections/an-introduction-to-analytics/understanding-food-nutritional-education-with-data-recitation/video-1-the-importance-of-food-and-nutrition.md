@@ -6,6 +6,8 @@ menu:
     identifier: >-
       4f44f3ee6d9f23a64a2062fef7b59b43_video-1-the-importance-of-food-and-nutrition
     weight: 110
+    parent: >-
+      7ae5f9abee30803e522bc737bfb5e185_understanding-food-nutritional-education-with-data-recitation
 ---
 *   [<Understanding Food: Nutritional Education with Data (Recitation)]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation" %}})
 *   [1.4.1Welcome to Recitation 1]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation" %}})

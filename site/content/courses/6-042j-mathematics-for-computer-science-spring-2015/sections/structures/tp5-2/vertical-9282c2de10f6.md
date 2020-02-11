@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: f92fa065c8664991acabeff36a38fc7d_vertical-9282c2de10f6
     weight: 150
+    parent: 30a0182e39fc2a66241efb67db839b1d_tp5-2
 ---
 *   [<Multiplicative Inverses](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-2/vertical-f9db18d44ec4)
 *   [2.2.1Congruence mod n: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-2)

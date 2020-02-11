@@ -5,6 +5,8 @@ menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: b9bf868ddaf07c0660580d06be825a09_problem-set-4
     weight: 240
+    parent: >-
+      919a2c506eb4551d940bb0dbab2356f0_week-4-drag-forces-constraints-and-continuous-systems
 ---
 « [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/14.3-resistive-forces-high-speed-case" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse" %}}) »
 

@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: e659ea46e05da0134891d46568748b97_vertical-828ce2b900d3
     weight: 180
+    parent: 5179d7c0c3f7a60a33d7c24d9d219172_tp4-1
 ---
 *   [<Same Colored Horses](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/vertical-e9a3ad8170fd)
 *   [1.8.1Induction: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1)

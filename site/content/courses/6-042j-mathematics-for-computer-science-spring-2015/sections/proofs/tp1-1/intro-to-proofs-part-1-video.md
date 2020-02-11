@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: ccbdec3d0e06f1862adab772b269ba99_intro-to-proofs-part-1-video
     weight: 90
+    parent: ea224ef6f868e6dea69a53241486c324_tp1-1
 ---
 *   [<Intro to Proofs](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1)
 *   [1.1.1Welcome to 6.042: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1)

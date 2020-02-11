@@ -6,6 +6,8 @@ menu:
     identifier: >-
       f502f183c03e6d5e51e824f9afc4cf8c_session-93-indefinite-integrals-and-singularities
     weight: 140
+    parent: >-
+      7011962365c7a7e31179a33dc8e95275_part-a-lhospitals-rule-and-improper-integrals
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-92-integral-comparison" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series" %}}) »
 

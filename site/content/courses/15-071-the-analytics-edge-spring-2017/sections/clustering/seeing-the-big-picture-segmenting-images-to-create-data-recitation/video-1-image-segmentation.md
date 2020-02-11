@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 0282bf34dfbdc2eabaaf5214f299362b_video-1-image-segmentation
     weight: 160
+    parent: >-
+      c6d206ccfb1528f6048f29e817450da7_seeing-the-big-picture-segmenting-images-to-create-data-recitation
 ---
 *   [<Seeing the Big Picture: Segmenting Images to Create Data (Recitation)]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation" %}})
 *   [6.4.1Welcome to Recitation 6]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation" %}})

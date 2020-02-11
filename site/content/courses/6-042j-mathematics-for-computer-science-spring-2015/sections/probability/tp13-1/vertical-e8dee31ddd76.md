@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 55648eb42206ad2fd86df7a74b886ba5_vertical-e8dee31ddd76
     weight: 210
+    parent: 025c498f3f5e1c53924f7e40eb06a220_tp13-1
 ---
 *   [<Another Dice and Coin Game](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-3506cf32b49b)
 *   [4.5.1Expectation: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1)

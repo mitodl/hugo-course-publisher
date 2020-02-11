@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 7e7d52f842b9f4f145b0dca40563b91a_boy-optimal
     weight: 240
+    parent: 47305688cc389e2f9dc3019a395b3b37_stable-matching
 ---
 *   [<Optimal Stable Matching: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/optimal-stable-matching-video)
 *   [2.11.1Stable Matching: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching)

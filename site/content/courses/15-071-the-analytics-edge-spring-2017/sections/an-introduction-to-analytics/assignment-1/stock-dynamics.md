@@ -5,6 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 89ce47d27edcdd9b8a8cbe641a59b520_stock-dynamics
     weight: 120
+    parent: 0af41c2fca6884fab36c0a31155319b9_assignment-1
 ---
 *   [<Assignment 1]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1" %}})
 *   [1.5.1An Analytical Detective]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1" %}})

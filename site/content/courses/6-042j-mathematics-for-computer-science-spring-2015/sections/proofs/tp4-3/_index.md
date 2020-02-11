@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 7b14af4d984597ad410998ecc9fb9f71_tp4-3
     weight: 180
+    parent: 95af5c7b87a2e15790a7ad18331a125f_proofs
 ---
 *   [<Recursive Functions: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition/recursive-functions-video)
 *   [1.11.1Cardinality: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3)

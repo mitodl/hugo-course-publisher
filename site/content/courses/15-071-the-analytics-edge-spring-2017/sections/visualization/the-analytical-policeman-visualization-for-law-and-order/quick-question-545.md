@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 78d60ff42d95ea11a4221370f6265996_quick-question-545
     weight: 180
+    parent: >-
+      716f78f61fe6c5f47370d7a3c4127827_the-analytical-policeman-visualization-for-law-and-order
 ---
 *   [<Video 2: Visualizing Crime Over Time]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-2-visualizing-crime-over-time" %}})
 *   [7.3.1Video 1: Predictive Policing]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order" %}})

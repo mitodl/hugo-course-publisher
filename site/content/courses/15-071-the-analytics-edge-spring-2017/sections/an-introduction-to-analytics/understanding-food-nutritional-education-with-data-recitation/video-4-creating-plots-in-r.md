@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: f02a2b52b26ae5f08dddd7d9208d585d_video-4-creating-plots-in-r
     weight: 140
+    parent: >-
+      7ae5f9abee30803e522bc737bfb5e185_understanding-food-nutritional-education-with-data-recitation
 ---
 *   [<Video 3: Data Analysis]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-3-data-analysis" %}})
 *   [1.4.1Welcome to Recitation 1]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation" %}})

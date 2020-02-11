@@ -5,6 +5,7 @@ menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: bcc90f49f29206098ad9efd22acf9676_problem-set-1
     weight: 290
+    parent: 63e325a780c79e352fb5bddb9b8b2c6a_week-1-kinematics
 ---
 « [Previous](./resolveuid/e0c2768c08368a33b6f65ec2b2d68659) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws" %}}) »
 

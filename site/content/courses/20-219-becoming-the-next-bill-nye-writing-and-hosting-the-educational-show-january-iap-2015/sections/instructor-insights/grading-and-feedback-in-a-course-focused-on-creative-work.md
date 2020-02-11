@@ -7,6 +7,7 @@ menu:
     identifier: >-
       f1e55a73f7cea5df7f8c3cdb40b62292_grading-and-feedback-in-a-course-focused-on-creative-work
     weight: 40
+    parent: 526193cf30dacdf1c6734faab57d51d7_instructor-insights
 ---
 _In the following conversation, Elizabeth Choe and Jaime Goldstein talk about how they approached grading in 20.219 Becoming the Next Bill Nye, a course focused on students’ creative work. They also discuss the challenges associated with and strategies for providing students with meaningful feedback about their work. Their conversation has been edited for clarity, length, and content._
 

@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: a2bc4d931390ac8a5707505bd40cf179_vertical-e3a6326108c6
     weight: 230
+    parent: dc4329a206935f01be73cf0b227cc3ed_tp3-3
 ---
 *   [<Inverse Relations](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3/vertical-b100bd3fedc5)
 *   [1.7.1Relations: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3)

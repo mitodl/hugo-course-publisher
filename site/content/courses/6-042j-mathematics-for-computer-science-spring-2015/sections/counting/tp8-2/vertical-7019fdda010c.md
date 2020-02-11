@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: ef1c092b3a7e60766fcd0e0096f804ba_vertical-7019fdda010c
     weight: 130
+    parent: 93998ab0044352e85efcb877380e8e28_tp8-2
 ---
 *   [<Geometric Sums: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-46a80f3884d6)
 *   [3.1.1Arithmetic Sums: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2)

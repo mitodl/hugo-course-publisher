@@ -5,6 +5,8 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 2d0a67f494dc2dadf7504c69427d6a55_video-7-sensitivity-analysis
     weight: 240
+    parent: >-
+      696dd6e442cc1fc47c9f2924e2edfb26_google-adwords-optimizing-online-advertising-recitation
 ---
 *   [<Video 6: A Greedy Approach]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-6-a-greedy-approach" %}})
 *   [8.4.1Welcome to Recitation 8]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation" %}})

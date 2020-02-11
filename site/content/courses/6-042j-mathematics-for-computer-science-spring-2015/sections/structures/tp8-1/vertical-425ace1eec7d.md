@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 7d4e917af9ecf1c528b01cc40169cd5a_vertical-425ace1eec7d
     weight: 250
+    parent: cbeb9c37cb9ca67ccf216c0b8aeab325_tp8-1
 ---
 *   [<Tree or Not Tree?](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-7bacea60d91e)
 *   [2.10.1Trees: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1)

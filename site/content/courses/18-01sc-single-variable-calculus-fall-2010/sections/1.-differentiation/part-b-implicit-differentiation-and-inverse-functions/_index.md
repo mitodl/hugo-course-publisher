@@ -6,6 +6,7 @@ menu:
     identifier: >-
       ea455a8ae7f0daad0b8d5033112f5f5e_part-b-implicit-differentiation-and-inverse-functions
     weight: 40
+    parent: ff2c27eff0de39810c3e51a37548e568_1.-differentiation
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/problem-set-1" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-13-implicit-differentiation" %}}) »
 

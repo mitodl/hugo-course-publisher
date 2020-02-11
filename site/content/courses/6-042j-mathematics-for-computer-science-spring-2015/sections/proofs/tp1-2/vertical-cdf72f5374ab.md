@@ -5,6 +5,7 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 93b788b4e73b5932f1e84ff4cd792ad8_vertical-cdf72f5374ab
     weight: 150
+    parent: 604f8e0726803e778aac7885f0f6eaf0_tp1-2
 ---
 *   [<A Bogus Proof by Cases](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-2/vertical-70c0b579a359)
 *   [1.2.1Proof By Contradiction: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-2)
