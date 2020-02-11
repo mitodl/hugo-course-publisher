@@ -4,11 +4,11 @@ course_id: 15-071-the-analytics-edge-spring-2017
 course_title: The Analytics Edge
 course_image_url: images/course_image.jpg
 course_description: >-
-  This course presents real-world examples in which quantitative methods provide
-  a significant competitive edge that has led to a first order impact on some of
-  today's most important companies. We outline the competitive landscape and
-  present the key quantitative methods that created the edge (data-mining,
-  dynamic optimization, simulation), and discuss their impact.
+  <p>This course presents real-world examples in which quantitative methods
+  provide a significant competitive edge that has led to a first order impact on
+  some of today's most important companies. We outline the competitive landscape
+  and present the key quantitative methods that created the edge (data-mining,
+  dynamic optimization, simulation), and discuss their impact.</p>
 course_info:
   instructors:
     - Prof. Dimitris Bertsimas

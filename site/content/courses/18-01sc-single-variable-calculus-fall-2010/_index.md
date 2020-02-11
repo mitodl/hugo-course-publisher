@@ -4,10 +4,10 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 course_title: Single Variable Calculus
 course_image_url: images/course_image.jpg
 course_description: >-
-  This calculus course covers differentiation and integration of functions of
+  <p>This calculus course covers differentiation and integration of functions of
   one variable, and concludes with a brief discussion of infinite series.
   Calculus is fundamental to many scientific disciplines including physics,
-  engineering, and economics.
+  engineering, and economics.</p>
 course_info:
   instructors:
     - Prof. David Jerison

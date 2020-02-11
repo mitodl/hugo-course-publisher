@@ -4,12 +4,12 @@ course_id: 6-033-computer-system-engineering-spring-2018
 course_title: Computer System Engineering
 course_image_url: images/course_image.jpg
 course_description: >-
-  This class covers topics on the engineering of computer software and hardware
-  systems. Topics include techniques for controlling complexity; strong
+  <p>This class covers topics on the engineering of computer software and
+  hardware systems. Topics include techniques for controlling complexity; strong
   modularity using client-server design, operating systems; performance,
   networks; naming; security and privacy; fault-tolerant systems, atomicity and
   coordination of concurrent activities, and recovery; impact of computer
-  systems on society.
+  systems on society.</p>
 course_info:
   instructors:
     - Prof. Katrina LaCurts

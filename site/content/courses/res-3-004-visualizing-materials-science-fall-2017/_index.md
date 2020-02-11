@@ -4,9 +4,9 @@ course_id: res-3-004-visualizing-materials-science-fall-2017
 course_title: Visualizing Materials Science
 course_image_url: images/course_image.jpg
 course_description: >-
-  This resource is a collection of student tutorial videos that explore various
-  materials science and engineering topics using visualizations in the Wolfram
-  Mathematica programming system.
+  <p>This resource is a collection of student tutorial videos that explore
+  various materials science and engineering topics using visualizations in the
+  Wolfram Mathematica programming system.&nbsp;</p>
 course_info:
   instructors:
     - Prof. W. Carter
