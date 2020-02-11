@@ -1,8 +1,9 @@
 ---
 title: Instructor Insights
+course_id: 18-06-linear-algebra-spring-2010
 menu:
   18-06-linear-algebra-spring-2010:
-    identifier: instructor-insights
+    identifier: 3f3b7835cf477d3ba10b05fbe03cbffa_instructor-insights
     weight: 30
 ---
 Instructor Insights

@@ -5,16 +5,16 @@ course_title: Introduction to Geology
 course_image_url: >-
   https://open-learning-course-data.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/76ea2d54123485055dd1e6621b9edf6a_12-001f13.jpg
 course_description: >-
-  <p>Geology is the core discipline of the earth sciences and encompasses many
+  Geology is the core discipline of the earth sciences and encompasses many
   different phenomena, including plate tectonics and mountain building,
-  volcanoes and earthquakes, and the long-term evolution of Earth&rsquo;s
-  atmosphere, surface and life. Because of the ever-increasing demand for
-  resources, the growing exposure to natural hazards, and the changing climate,
-  geology is of considerable societal relevance. This course introduces students
-  to the basics of geology. Through a combination of lectures, labs, and field
-  observations, we will address topics ranging from mineral and rock
-  identification to the origin of the continents, from geologic mapping to plate
-  tectonics, and from erosion by rivers and glaciers to the history of life.</p>
+  volcanoes and earthquakes, and the long-term evolution of Earth’s atmosphere,
+  surface and life. Because of the ever-increasing demand for resources, the
+  growing exposure to natural hazards, and the changing climate, geology is of
+  considerable societal relevance. This course introduces students to the basics
+  of geology. Through a combination of lectures, labs, and field observations,
+  we will address topics ranging from mineral and rock identification to the
+  origin of the continents, from geologic mapping to plate tectonics, and from
+  erosion by rivers and glaciers to the history of life.
 course_info:
   instructors:
     - Prof. Oliver Jagoutz
@@ -34,8 +34,8 @@ menu:
 
 ##### Course Features
 
-* [Assignments]({{% ref "sections/labs-and-exercises" %}})
-* [Lecture notes]({{% ref "sections/lecture-notes-and-slides" %}})
+* [Assignments]({{% ref "courses/12-001-introduction-to-geology-fall-2013/sections/labs-and-exercises" %}})
+* [Lecture notes]({{% ref "courses/12-001-introduction-to-geology-fall-2013/sections/lecture-notes-and-slides" %}})
 
 ##### Course Collections
 

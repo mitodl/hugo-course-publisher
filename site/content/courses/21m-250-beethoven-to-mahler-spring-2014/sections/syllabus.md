@@ -1,8 +1,9 @@
 ---
 title: Syllabus
+course_id: 21m-250-beethoven-to-mahler-spring-2014
 menu:
   21m-250-beethoven-to-mahler-spring-2014:
-    identifier: syllabus
+    identifier: eee6cb2fc73d5c5d028a4561dba87255_syllabus
     weight: 10
 ---
 Course Meeting Times
@@ -26,7 +27,7 @@ The primary text for this class is:
 Listening and Reading Assignments
 ---------------------------------
 
-Recordings and some scores for each listening assignment are listed on the [Listening and Scores page]({{% ref "listening-and-scores" %}}). Weekly reading assignments and musical works covered can be found on the [Readings page]({{% ref "readings" %}}).
+Recordings and some scores for each listening assignment are listed on the [Listening and Scores page]({{% ref "courses/21m-250-beethoven-to-mahler-spring-2014/sections/listening-and-scores" %}}). Weekly reading assignments and musical works covered can be found on the [Readings page]({{% ref "courses/21m-250-beethoven-to-mahler-spring-2014/sections/readings" %}}).
 
 ### Recordings
 
@@ -41,8 +42,8 @@ Class Participation
 
 Students are expected to come to each class meeting prepared to participate actively. In addition, all students will be asked to lead the discussions on specific pieces from the assigned listening.
 
-[Written Assignments]({{% ref "assignments" %}}) 
--------------------------------------------------
+[Written Assignments]({{% ref "courses/21m-250-beethoven-to-mahler-spring-2014/sections/assignments" %}}) 
+----------------------------------------------------------------------------------------------------------
 
 _Concert Reports:_ You will attend three concerts this semester featuring music from the late eighteenth through the late nineteenth centuries and write 2–4 page reports on each experience.
 

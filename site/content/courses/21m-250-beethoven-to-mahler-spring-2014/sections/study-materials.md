@@ -1,9 +1,10 @@
 ---
 title: Study Materials
+course_id: 21m-250-beethoven-to-mahler-spring-2014
 menu:
   21m-250-beethoven-to-mahler-spring-2014:
-    identifier: study-materials
-    weight: 60
+    identifier: 55f8b71453bc4fb450263ea0558067bd_study-materials
+    weight: 70
 ---
 Exam Guides
 -----------

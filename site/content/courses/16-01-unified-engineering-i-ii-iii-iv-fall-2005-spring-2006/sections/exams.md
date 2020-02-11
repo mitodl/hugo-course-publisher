@@ -1,8 +1,9 @@
 ---
 title: Exams
+course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
 menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
-    identifier: exams
+    identifier: dc102ab9fad75fe06da4e71c66aab8ef_exams
     weight: 40
 ---
 This section contains the quizzes administered during both the Fall 2005 and Spring 2006 semesters.

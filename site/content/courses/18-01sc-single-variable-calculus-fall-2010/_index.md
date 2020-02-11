@@ -4,10 +4,10 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 course_title: Single Variable Calculus
 course_image_url: images/course_image.jpg
 course_description: >-
-  <p>This calculus course covers differentiation and integration of functions of
+  This calculus course covers differentiation and integration of functions of
   one variable, and concludes with a brief discussion of infinite series.
   Calculus is fundamental to many scientific disciplines including physics,
-  engineering, and economics.</p>
+  engineering, and economics.
 course_info:
   instructors:
     - Prof. David Jerison
@@ -26,11 +26,11 @@ menu:
 
 ##### Course Features
 
-* [Exams]({{% ref "sections/exam-1" %}})
-* [Lecture notes]({{% ref "sections/session-1-introduction-to-derivatives" %}})
-* [AV lectures]({{% ref "sections/session-1-introduction-to-derivatives" %}})
-* [Assignments]({{% ref "sections/session-1-introduction-to-derivatives" %}})
-* [Interactive simulations]({{% ref "sections/session-1-introduction-to-derivatives" %}})
+* [Exams]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1" %}})
+* [Lecture notes]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives" %}})
+* [AV lectures]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives" %}})
+* [Assignments]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives" %}})
+* [Interactive simulations]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives" %}})
 
 ##### Course Collections
 

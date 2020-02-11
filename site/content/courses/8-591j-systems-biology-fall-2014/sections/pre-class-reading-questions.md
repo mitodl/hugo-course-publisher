@@ -1,9 +1,10 @@
 ---
 title: 'Pre-class Reading Questions '
+course_id: 8-591j-systems-biology-fall-2014
 menu:
   8-591j-systems-biology-fall-2014:
-    identifier: pre-class-reading-questions
-    weight: 60
+    identifier: 13a7597309d7d8c2339af03a176a0d72_pre-class-reading-questions
+    weight: 40
 ---
 The Pre-Class Readings Questions are meant to facilitate interactions during class between students.
 

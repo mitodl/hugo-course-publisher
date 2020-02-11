@@ -4,15 +4,15 @@ course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
 course_title: 'Unified Engineering I, II, III, & IV'
 course_image_url: images/course_image.jpg
 course_description: >-
-  <p>The basic objective of Unified Engineering is to give a solid understanding
-  of the fundamental disciplines of aerospace engineering, as well as their
+  The basic objective of Unified Engineering is to give a solid understanding of
+  the fundamental disciplines of aerospace engineering, as well as their
   interrelationships and applications. These disciplines are Materials and
   Structures (M); Computers and Programming (C); Fluid Mechanics (F);
   Thermodynamics (T); Propulsion (P); and Signals and Systems (S). In choosing
   to teach these subjects in a unified manner, the instructors seek to explain
   the common intellectual threads in these disciplines, as well as their
   combined application to solve engineering Systems Problems (SP). Throughout
-  the year, the instructors emphasize the connections among the disciplines.</p>
+  the year, the instructors emphasize the connections among the disciplines.
 course_info:
   instructors:
     - Prof. Mark Drela
@@ -44,11 +44,11 @@ menu:
 
 ##### Course Features
 
-* [AV selected lectures]({{% ref "sections/thermo-propulsion" %}})
-* [AV faculty introductions]({{% ref "sections/syllabus" %}})
-* [AV special element video]({{% ref "sections/systems-labs-04" %}})
-* [Assignments]({{% ref "sections/assignments" %}})
-* [Exams]({{% ref "sections/exams" %}})
+* [AV selected lectures]({{% ref "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/thermo-propulsion" %}})
+* [AV faculty introductions]({{% ref "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus" %}})
+* [AV special element video]({{% ref "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/systems-labs-04" %}})
+* [Assignments]({{% ref "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/assignments" %}})
+* [Exams]({{% ref "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/exams" %}})
 
 ##### Course Collections
 

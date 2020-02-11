@@ -1,11 +1,12 @@
 ---
 title: Problem Solving Help Videos
+course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
-    identifier: problem-solving-help-videos
-    weight: 330
+    identifier: b6ee7c446a3a2ad7fbfc44db748bf0a4_problem-solving-help-videos
+    weight: 70
 ---
-« [Previous]({{% ref "final-exam" %}}) | [Next]({{% ref "resource-index" %}}) »
+« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/final-exam" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/resource-index" %}}) »
 
 These Problem Solving Help Videos provide step-by-step solutions to typical problems solved in an undergraduate course on Vibrations and Waves. Along with each video, Professor Wit Busza has included two sample problems for you to solve. Answers and hints are provided, but not full solutions.
 
@@ -22,4 +23,4 @@ These Problem Solving Help Videos provide step-by-step solutions to typical prob
 
 **_Note_**_: These videos were originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{% ref "final-exam" %}}) | [Next]({{% ref "resource-index" %}}) »
+« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/final-exam" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/resource-index" %}}) »

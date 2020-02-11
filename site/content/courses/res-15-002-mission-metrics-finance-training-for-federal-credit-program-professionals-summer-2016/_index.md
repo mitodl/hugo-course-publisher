@@ -5,13 +5,13 @@ course_id: >-
 course_title: 'Mission & Metrics: Finance Training for Federal Credit Program Professionals'
 course_image_url: images/course_image.jpg
 course_description: >-
-  <p>Federal credit programs involve a unique set of challenges and
-  opportunities. This practical training course for executive and legislative
-  branch decision-makers and staff is aimed at enhancing the understanding of
-  the core financial principles necessary to most effectively design and run
-  those programs. It brings together institutional analysis, risk management and
+  Federal credit programs involve a unique set of challenges and opportunities.
+  This practical training course for executive and legislative branch
+  decision-makers and staff is aimed at enhancing the understanding of the core
+  financial principles necessary to most effectively design and run those
+  programs. It brings together institutional analysis, risk management and
   corporate finance disciplines for the purpose of improving the management of
-  federal credit agency resources.</p>
+  federal credit agency resources.
 course_info:
   instructors:
     - Prof. Douglas Criscitello

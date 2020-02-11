@@ -1,9 +1,10 @@
 ---
 title: 'Week 8: Community Partner Trips'
+course_id: ec-711-d-lab-energy-spring-2011
 menu:
   ec-711-d-lab-energy-spring-2011:
-    identifier: week-8-nicaragua-trip
-    weight: 110
+    identifier: fb9d6e56eac497fb24b46d3ac31a62da_week-8-nicaragua-trip
+    weight: 90
 ---
 Trip Resources
 --------------

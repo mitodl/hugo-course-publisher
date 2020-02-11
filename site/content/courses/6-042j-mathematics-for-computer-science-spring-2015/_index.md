@@ -5,19 +5,29 @@ course_title: Mathematics for Computer Science
 course_image_url: >-
   https://open-learning-course-data.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/bf5ded2292dd7af14f942dfa6ad4f96c_6-042js15.jpg
 course_description: >-
-  <p>This subject offers an interactive introduction to discrete mathematics
+  This subject offers an interactive introduction to discrete mathematics
   oriented toward computer science and engineering. The subject coverage divides
-  roughly into thirds:</p> <ol>     <li>Fundamental concepts of mathematics:
-  Definitions, proofs, sets, functions, relations.</li>     <li>Discrete
-  structures: graphs, state machines, modular arithmetic, counting.</li>    
-  <li>Discrete probability theory.</li> </ol> <p>On completion of 6.042J,
-  students will be able to explain and apply the basic methods of discrete
-  (noncontinuous) mathematics in computer science. They will be able to use
-  these methods in subsequent courses in the design and analysis of algorithms,
-  computability theory, software engineering, and computer
-  systems.</p><p>Interactive site components can be found on the Unit pages in
-  the left-hand navigational bar, starting with <a
-  href="./resolveuid/95af5c7b87a2e15790a7ad18331a125f">Unit 1: Proofs</a>.</p>
+  roughly into thirds:
+
+
+  1.  Fundamental concepts of mathematics: Definitions, proofs, sets, functions,
+  relations.
+
+  2.  Discrete structures: graphs, state machines, modular arithmetic, counting.
+
+  3.  Discrete probability theory.
+
+
+  On completion of 6.042J, students will be able to explain and apply the basic
+  methods of discrete (noncontinuous) mathematics in computer science. They will
+  be able to use these methods in subsequent courses in the design and analysis
+  of algorithms, computability theory, software engineering, and computer
+  systems.
+
+
+  Interactive site components can be found on the Unit pages in the left-hand
+  navigational bar, starting with [Unit 1:
+  Proofs](./resolveuid/95af5c7b87a2e15790a7ad18331a125f).
 course_info:
   instructors:
     - Prof. Albert Meyer
@@ -38,7 +48,7 @@ menu:
 
 ##### Course Features
 
-* [Resource Index]({{% ref "sections/resource-index" %}})
+* [Resource Index]({{% ref "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/resource-index" %}})
 
 ##### Course Collections
 

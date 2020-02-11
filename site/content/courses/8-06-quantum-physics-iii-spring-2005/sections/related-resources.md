@@ -1,8 +1,9 @@
 ---
 title: Related Resources
+course_id: 8-06-quantum-physics-iii-spring-2005
 menu:
   8-06-quantum-physics-iii-spring-2005:
-    identifier: related-resources
+    identifier: a5b3bb64fbaf308b64af0957cddad027_related-resources
     weight: 60
 ---
 Some Topics have a related experiment in the class _8.13-8.14: Experimental Physics I & II "Junior Lab,"_ which is usually taken concurrently with Quantum Physics III.

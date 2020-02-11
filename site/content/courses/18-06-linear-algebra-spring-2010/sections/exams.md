@@ -1,8 +1,9 @@
 ---
 title: Exams
+course_id: 18-06-linear-algebra-spring-2010
 menu:
   18-06-linear-algebra-spring-2010:
-    identifier: exams
+    identifier: c13c4766c0cf1486f0cf6435c531eaad_exams
     weight: 70
 ---
 There will be three one-hour exams at class times and a final exam.

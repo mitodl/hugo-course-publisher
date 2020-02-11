@@ -1,11 +1,13 @@
 ---
 title: 'Day 3: Storyteller''s Toolkit Pt. 1'
+course_id: >-
+  20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
-    identifier: day-3-storytellers-toolkit-pt.-1
-    weight: 150
+    identifier: 36586ba568db37caa516348b595214d8_day-3-storytellers-toolkit-pt.-1
+    weight: 50
 ---
-« [Previous]({{% ref "day-2-audience" %}}) | [Next]({{% ref "day-4-storytellers-toolkit-pt.-2" %}}) »
+« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience" %}}) | [Next]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}) »
 
 Contents
 --------
@@ -49,23 +51,23 @@ Instructor and Student Work
 
 ### Blogs / Vlogs
 
-*   [Elizabeth's day 3 blog]({{% ref "elizabeth-choes-reflections" %}}#Echoe\_s\_Day\_3\_Thoughts)
-*   [Ceri's day 3 blog]({{% ref "ceri-rileys-reflections" %}}#Reflection\_Day\_3 )
-*   [Kenneth's day 3 blog]({{% ref "kenneth-cheahs-reflections" %}}#CHEAHYHK\_DAY\_3)
-*   [Joshua's day 3 blog]({{% ref "joshua-cheongs-reflections" %}}#Day\_3\_Reflections)
-*   [Andrea's day 3 blog]({{% ref "andrea-desrosierss-reflections" %}}#Day\_3\_Reflections)
-*   [PJ's day 3 blog]({{% ref "paul-pj-folinos-reflections" %}}#Pjfolino\_s\_Day\_3\_Thoughts)
-*   [Nathan's day 3 blog]({{% ref "nathan-hernandezs-reflections" %}}#Day\_3)
-*   [Yuliya's day 3 blog]({{% ref "yuliya-klochans-reflections" %}}#DAY\_3)
+*   [Elizabeth's day 3 blog]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections" %}}#Echoe\_s\_Day\_3\_Thoughts)
+*   [Ceri's day 3 blog]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/ceri-rileys-reflections" %}}#Reflection\_Day\_3 )
+*   [Kenneth's day 3 blog]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/kenneth-cheahs-reflections" %}}#CHEAHYHK\_DAY\_3)
+*   [Joshua's day 3 blog]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/joshua-cheongs-reflections" %}}#Day\_3\_Reflections)
+*   [Andrea's day 3 blog]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/andrea-desrosierss-reflections" %}}#Day\_3\_Reflections)
+*   [PJ's day 3 blog]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/paul-pj-folinos-reflections" %}}#Pjfolino\_s\_Day\_3\_Thoughts)
+*   [Nathan's day 3 blog]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/nathan-hernandezs-reflections" %}}#Day\_3)
+*   [Yuliya's day 3 blog]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/yuliya-klochans-reflections" %}}#DAY\_3)
 
 ### Trailers
 
-*   [Kenneth's day 3 trailer]({{% ref "kenneth-cheahs-project" %}}#Day\_3\_Trailer)
-*   [Joshua's day 3 trailer]({{% ref "joshua-cheongs-project" %}}#Day\_3\_Trailer)
-*   [Andrea's day 3 trailer]({{% ref "andrea-desrosierss-project" %}}#Day\_3\_Trailer)
-*   [PJ's day 3 trailer]({{% ref "paul-pj-folinos-project" %}}#Subdivision\_Pitch)
-*   [Nathan's day 3 trailer]({{% ref "nathan-hernandezs-project" %}}#Day\_3\_Pitch)
-*   [Yuliya's day 3 trailer]({{% ref "yuliya-klochans-project" %}}#Day\_3\_Trailer:\_Fractals\_)
-*   [David's day 3 trailer]({{% ref "david-yams-project" %}}#Day\_3\_Pitch)
+*   [Kenneth's day 3 trailer]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project" %}}#Day\_3\_Trailer)
+*   [Joshua's day 3 trailer]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project" %}}#Day\_3\_Trailer)
+*   [Andrea's day 3 trailer]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}#Day\_3\_Trailer)
+*   [PJ's day 3 trailer]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project" %}}#Subdivision\_Pitch)
+*   [Nathan's day 3 trailer]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project" %}}#Day\_3\_Pitch)
+*   [Yuliya's day 3 trailer]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project" %}}#Day\_3\_Trailer:\_Fractals\_)
+*   [David's day 3 trailer]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/david-yams-project" %}}#Day\_3\_Pitch)
 
-« [Previous]({{% ref "day-2-audience" %}}) | [Next]({{% ref "day-4-storytellers-toolkit-pt.-2" %}}) »
+« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience" %}}) | [Next]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}) »

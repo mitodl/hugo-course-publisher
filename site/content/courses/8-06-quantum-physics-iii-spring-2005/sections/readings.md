@@ -1,8 +1,9 @@
 ---
 title: Readings
+course_id: 8-06-quantum-physics-iii-spring-2005
 menu:
   8-06-quantum-physics-iii-spring-2005:
-    identifier: readings
+    identifier: 43617a07d844ac5dea6672d824b3016e_readings
     weight: 30
 ---
 Texts

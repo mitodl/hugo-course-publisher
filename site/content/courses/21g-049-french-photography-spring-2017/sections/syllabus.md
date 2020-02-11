@@ -1,8 +1,9 @@
 ---
 title: Syllabus
+course_id: 21g-049-french-photography-spring-2017
 menu:
   21g-049-french-photography-spring-2017:
-    identifier: syllabus
+    identifier: e1123ff4e666a9f0c5bdb339668c1e5a_syllabus
     weight: 10
 ---
 Course Meeting Times
@@ -49,7 +50,7 @@ Assignments
 
 **Paper Revisions and Expansion**: Students will revise and expand one paper based on feedback from the instructor.
 
-In-depth details about these can be found in the [Assignments section]({{% ref "assignments" %}}).
+In-depth details about these can be found in the [Assignments section]({{% ref "courses/21g-049-french-photography-spring-2017/sections/assignments" %}}).
 
 Grading
 -------
