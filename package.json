@@ -94,6 +94,7 @@
     "bootstrap-material-design": "^4.1.2",
     "jquery": "^3.4.1",
     "material-icons": "^0.3.1",
+    "offcanvas-bootstrap": "^2.5.2",
     "popper.js": "^1.16.0",
     "react-bootstrap": "^1.0.0-beta.15",
     "react-hot-loader": "^4.12.17",
