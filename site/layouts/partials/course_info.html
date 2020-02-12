@@ -1,5 +1,4 @@
-{{ $course_id := .CurrentSection.Params.course_id }}
-{{ $course_home := printf "%s/%s/%s" "courses" $course_id "_index.md" }}
+{{ $course_home := printf "%s/%s/%s" "courses" .CurrentSection.Params.course_id "_index.md" }}
 {{ with .Site.GetPage $course_home }}
   <div class="table-responsive course-info">
     <h4 class="font-weight-bold">Course Info</h4>
