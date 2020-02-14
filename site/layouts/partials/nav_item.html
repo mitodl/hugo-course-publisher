@@ -1,0 +1,21 @@
+{{ $parentId := .menuItem.Identifier }}
+{{ $currentPage := .currentPage }}
+{{ $courseId := .courseId }}
+<li class="pr-3">
+  <a class="text-uppercase text-dark{{ if $currentPage.IsMenuCurrent $courseId .menuItem }} active{{ end }}"
+    href="{{ .menuItem.URL | relURL }}">
+    {{ .menuItem.Name }}
+  </a>
+  {{ if .menuItem.HasChildren }}
+    <a href="#nav-container_{{ .menuItem.Identifier }}" data-toggle="collapse">Toggle Children</a>
+    <div 
+    class="collapse {{ partial "show_selected_children.html" (dict "menuItem" .menuItem "currentPage" $currentPage "courseId" $courseId) }}" 
+    id="nav-container_{{ .menuItem.Identifier }}">
+      <ul class="m-auto">
+        {{ range .menuItem.Children }}
+          {{ partial "nav_item.html" (dict "menuItem" . "currentPage" $currentPage "courseId" $courseId "parentId" $parentId ) }}
+        {{ end }}
+      </ul>
+    </div>
+  {{ end }}
+</li>

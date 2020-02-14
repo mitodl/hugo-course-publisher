@@ -2,17 +2,10 @@
 {{ if (isset .CurrentSection.Params "course_id") }}
   {{ $course_id := .CurrentSection.Params.course_id }}
   {{ $menu := index .Site.Menus $course_id }}
-  <nav class="course-nav">
+  <nav id="course-nav" class="course-nav">
     <ul class="m-auto">
       {{ range $menu }}
-      <li class="pr-3">
-        <a
-          class="text-uppercase text-dark{{ if $currentPage.IsMenuCurrent $course_id . }} active{{ end }}"
-          href="{{ .URL | relURL }}"
-          >
-          {{ .Name }}
-        </a>
-      </li>
+        {{ partial "nav_item.html" (dict "menuItem" . "currentPage" $currentPage "courseId" $course_id) }}
       {{ end }}
     </ul>
   </nav>
