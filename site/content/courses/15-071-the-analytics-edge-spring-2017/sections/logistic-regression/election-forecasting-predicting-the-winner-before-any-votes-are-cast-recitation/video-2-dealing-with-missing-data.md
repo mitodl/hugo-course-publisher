@@ -6,7 +6,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 43791d3a19abd5be349137c83ceb6676_video-2-dealing-with-missing-data
-    weight: 140
+    weight: 1060
     parent: >-
       cd55cbba60f6d5d37320e05f520c4cf1_election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation
 ---

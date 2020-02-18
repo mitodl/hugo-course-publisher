@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       bffb54f0e2e1cf685033820b5512e4e6_session-74-integration-by-partial-fractions
-    weight: 80
+    weight: 1010
     parent: >-
       be9d889d28b57df1a77bbd83f2f4f214_part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area
 ---

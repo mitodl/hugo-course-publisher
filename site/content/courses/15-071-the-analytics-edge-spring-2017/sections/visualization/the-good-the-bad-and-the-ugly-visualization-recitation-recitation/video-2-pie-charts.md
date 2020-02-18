@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 8b0a3402f3ae148cc59dc8f6078637f0_video-2-pie-charts
-    weight: 180
+    weight: 2570
     parent: >-
       0af39afbaff0a226a397da1206ecd712_the-good-the-bad-and-the-ugly-visualization-recitation-recitation
 ---

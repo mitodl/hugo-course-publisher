@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 86a033cce142d448a8bb9112a73f89db_video-4-solving-the-problem
-    weight: 200
+    weight: 2730
     parent: >-
       2900efa71aff756dfeba74c6d16f2d3d_airline-revenue-management-an-introduction-to-linear-optimization
 ---

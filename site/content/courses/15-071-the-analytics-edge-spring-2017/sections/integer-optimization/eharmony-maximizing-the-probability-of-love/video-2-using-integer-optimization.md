@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 53b49e57bb91291ac131759296912fa6_video-2-using-integer-optimization
-    weight: 190
+    weight: 3160
     parent: >-
       11e612d89845c6c96a7307cebaa24191_eharmony-maximizing-the-probability-of-love
 ---

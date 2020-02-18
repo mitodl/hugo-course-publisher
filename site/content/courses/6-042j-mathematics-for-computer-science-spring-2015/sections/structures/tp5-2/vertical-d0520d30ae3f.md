@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: bfc618d263e54bbfead1475b0b5c7605_vertical-d0520d30ae3f
-    weight: 110
+    weight: 1070
     parent: 30a0182e39fc2a66241efb67db839b1d_tp5-2
 ---
 *   [< Congruences](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-2)

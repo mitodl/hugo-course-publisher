@@ -5,7 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: >-
       0c9bd7c26f88e1f372bb45bfb1705096_man-vs-machine-how-ibm-built-a-jeopardy-champion
-    weight: 130
+    weight: 1710
     parent: 5847ad879afecf3e9b93c20cffe87acf_text-analytics
 ---
 *   [<Video 8: Conclusion]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-8-conclusion" %}})

@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 8083cb558a36eb8dad32920ceb95cfdb_tp6-1
-    weight: 110
+    weight: 1120
     parent: 20b0a2b7a262cb94efd44e9e00511cee_structures
 ---
 *   [<Inverses With Linear Combinations](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-2/vertical-9282c2de10f6)

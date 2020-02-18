@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       40dfd7f7252455d1041a5ecfb183cd9f_session-50-combining-the-fundamental-theorem-and-the-mean-value-theorem
-    weight: 130
+    weight: 670
     parent: >-
       0b76caa8a52837fdba43c151842bb90a_part-a-definition-of-the-definite-integral-and-first-fundamental-theorem
 ---

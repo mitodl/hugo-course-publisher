@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       4c201b00a0470284ebd6c546e0cc59ab_unit-3-the-definite-integral-and-its-applications
-    weight: 40
+    weight: 580
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/exam-2/materials-for-exam-2" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem" %}}) »
 

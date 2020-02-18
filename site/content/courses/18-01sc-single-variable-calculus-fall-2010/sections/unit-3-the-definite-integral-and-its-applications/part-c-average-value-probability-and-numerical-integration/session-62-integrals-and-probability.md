@@ -4,7 +4,7 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 1fa09ca81711139c23be618aa2768257_session-62-integrals-and-probability
-    weight: 100
+    weight: 830
     parent: >-
       e1f8a1b789b83e57da0e01f4ada7283a_part-c-average-value-probability-and-numerical-integration
 ---

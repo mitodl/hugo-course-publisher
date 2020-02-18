@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       332503c09be8a2d7ca749e218630b6f3_session-24-examples-of-linear-approximation
-    weight: 60
+    weight: 330
     parent: 8c88ae0417475c6dae97e569853bfd9e_part-a-approximation-and-curve-sketching
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-23-linear-approximation" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-25-introduction-to-quadratic-appoximation" %}}) »

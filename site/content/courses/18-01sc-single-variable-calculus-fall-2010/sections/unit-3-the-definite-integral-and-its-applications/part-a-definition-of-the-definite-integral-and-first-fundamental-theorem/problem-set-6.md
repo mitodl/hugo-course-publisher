@@ -4,7 +4,7 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: bc72db410b84f2d1a10a6c5a9399e431_problem-set-6
-    weight: 140
+    weight: 680
     parent: >-
       0b76caa8a52837fdba43c151842bb90a_part-a-definition-of-the-definite-integral-and-first-fundamental-theorem
 ---

@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 7bf86a6c2bb6629ed20e4dd216833197_video-5-thresholding
-    weight: 170
+    weight: 860
     parent: >-
       3063320a41756b8a4fa9892f61b52c0d_modeling-the-expert-an-introduction-to-logistic-regression
 ---

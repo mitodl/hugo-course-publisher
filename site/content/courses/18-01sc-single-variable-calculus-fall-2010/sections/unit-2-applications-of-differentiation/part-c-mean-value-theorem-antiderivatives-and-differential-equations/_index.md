@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       cc849d5801781635e7d929c121e176fe_part-c-mean-value-theorem-antiderivatives-and-differential-equations
-    weight: 60
+    weight: 460
     parent: c2ca8a0d20e596b11e2ec5c48c7179ca_unit-2-applications-of-differentiation
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/problem-set-4" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-34-introduction-to-the-mean-value-theorem" %}}) »

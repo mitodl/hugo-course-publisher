@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: ba7cbf9c8693f7f073ab2fc26c0c9b2d_video-6-a-greedy-approach
-    weight: 230
+    weight: 2990
     parent: >-
       696dd6e442cc1fc47c9f2924e2edfb26_google-adwords-optimizing-online-advertising-recitation
 ---

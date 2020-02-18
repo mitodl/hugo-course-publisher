@@ -5,7 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: >-
       d7f89a0bf4f5ad76faeb94bf9b442e5b_video-3-predicting-heart-attacks-using-clustering
-    weight: 180
+    weight: 2150
     parent: >-
       0943bd811d9caf9e92bf3c7bf9d7b9f2_predictive-diagnosis-discovering-patterns-for-disease-detection
 ---

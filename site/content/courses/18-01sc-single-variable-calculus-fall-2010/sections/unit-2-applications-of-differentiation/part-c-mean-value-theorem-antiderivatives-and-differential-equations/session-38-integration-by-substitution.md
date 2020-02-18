@@ -4,7 +4,7 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: def23901ebbad92ea90a23199cbba444_session-38-integration-by-substitution
-    weight: 110
+    weight: 510
     parent: >-
       cc849d5801781635e7d929c121e176fe_part-c-mean-value-theorem-antiderivatives-and-differential-equations
 ---

@@ -4,7 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 81056cb9554591390582b2e55570d21a_week-3
-    weight: 60
+    weight: 130
 ---
 Lecture 4: Bounded Buffers + Locks
 ----------------------------------

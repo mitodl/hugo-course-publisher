@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: b3eaedc05726d2657774a6869a5d99b2_vertical-62a25d1dd25f
-    weight: 120
+    weight: 1130
     parent: 8083cb558a36eb8dad32920ceb95cfdb_tp6-1
 ---
 *   [< Euler's Theorem](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1)

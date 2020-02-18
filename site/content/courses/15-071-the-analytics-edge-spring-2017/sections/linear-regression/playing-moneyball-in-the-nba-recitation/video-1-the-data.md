@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 23ccd624abaa0c059f5a54029d4225b6_video-1-the-data
-    weight: 120
+    weight: 690
     parent: 3d4f0b49ab636ab4200c8f27a219c0dc_playing-moneyball-in-the-nba-recitation
 ---
 *   [<Playing Moneyball in the NBA (Recitation)]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation" %}})

@@ -4,7 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: c09c7d62696b071fffb088433fa31b32_ron-assignment
-    weight: 120
+    weight: 310
     parent: 75800336c3a2ebee84a18bb126a5a60b_week-6
 ---
 For this recitation, you'll be reading most of ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Resilient Overlay Networks (PDF)](http://nms.lcs.mit.edu/papers/ron-sosp2001.pdf)" by David Anderson, Hari Balakishnan, Frans Kaashoek, and Robert Morris. This paper explains how to build an overlay network on top of the existing Internet that has better properties or other features. Many Internet applications, such as peer-to-peer applications are built as overlay networks.

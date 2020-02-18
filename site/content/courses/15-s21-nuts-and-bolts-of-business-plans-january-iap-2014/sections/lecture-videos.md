@@ -4,6 +4,6 @@ course_id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
 menu:
   15-s21-nuts-and-bolts-of-business-plans-january-iap-2014:
     identifier: 7425dbab24bd40b9d0c0c704cab7eab2_lecture-videos
-    weight: 50
+    weight: 90
 ---
 In this section, selected lecture videos are presented in standard format with separately downloadable [Lecture Notes]({{% ref "courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/sections/lecture-notes" %}}). The [Video and Slide Player]({{% ref "courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/sections/lecture-videos" %}}) page presents the speakers and slides in a side-by-side / dual window format.

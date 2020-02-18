@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 05a0aaf9347fba276e3af7cddfcf258b_video-4-mri-image
-    weight: 200
+    weight: 2250
     parent: >-
       c6d206ccfb1528f6048f29e817450da7_seeing-the-big-picture-segmenting-images-to-create-data-recitation
 ---

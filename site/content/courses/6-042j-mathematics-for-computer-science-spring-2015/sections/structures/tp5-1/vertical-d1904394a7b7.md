@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 81921d91f774f6e950743785a5034462_vertical-d1904394a7b7
-    weight: 130
+    weight: 1000
     parent: 405693053755e5d6fb1b1e2592fa311e_tp5-1
 ---
 *   [<Pulverizer: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/pulverizer-video)

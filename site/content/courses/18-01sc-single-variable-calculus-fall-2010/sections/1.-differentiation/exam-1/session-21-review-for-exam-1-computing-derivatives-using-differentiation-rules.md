@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       0bc7f9cd2fd4599019832c45df40e073_session-21-review-for-exam-1-computing-derivatives-using-differentiation-rules
-    weight: 60
+    weight: 280
     parent: ffc4ad3d871527a0ef738ec4809f2038_exam-1
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1/session-22-materials-for-exam-1" %}}) »

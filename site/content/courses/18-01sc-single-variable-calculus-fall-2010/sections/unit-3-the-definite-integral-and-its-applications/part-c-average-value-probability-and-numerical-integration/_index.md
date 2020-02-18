@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       e1f8a1b789b83e57da0e01f4ada7283a_part-c-average-value-probability-and-numerical-integration
-    weight: 70
+    weight: 800
     parent: >-
       4c201b00a0470284ebd6c546e0cc59ab_unit-3-the-definite-integral-and-its-applications
 ---

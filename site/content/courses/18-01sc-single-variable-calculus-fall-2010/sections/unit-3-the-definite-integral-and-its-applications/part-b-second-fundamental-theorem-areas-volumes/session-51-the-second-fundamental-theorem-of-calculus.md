@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       9b4c6b77599861b820e8c804596b8c24_session-51-the-second-fundamental-theorem-of-calculus
-    weight: 70
+    weight: 700
     parent: >-
       82a633f32c2b0be84fba01f5e5741006_part-b-second-fundamental-theorem-areas-volumes
 ---

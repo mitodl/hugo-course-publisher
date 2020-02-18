@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 332c772ac3431943e27c0bb91f073b40_quick-question-243
-    weight: 180
+    weight: 1000
     parent: >-
       58bb606548df9c3a8c148318a4e0e5c7_the-framingham-heart-study-evaluating-risk-factors-to-save-lives
 ---

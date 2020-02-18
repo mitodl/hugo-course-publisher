@@ -4,7 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 198483cf48353e5d6a385333ab778504_problem-set-7
-    weight: 310
+    weight: 1450
     parent: 1099b7667930f7e51cccc80d63899c02_week-7-kinetic-energy-and-work
 ---
 « [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation" %}}) »

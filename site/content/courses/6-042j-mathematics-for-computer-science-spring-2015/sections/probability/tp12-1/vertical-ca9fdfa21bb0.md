@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 4aaa09671de179c1ae157f1105ab91b2_vertical-ca9fdfa21bb0
-    weight: 150
+    weight: 2340
     parent: 79ebde2b537e9e26dc39d5d2e1c8f1d9_tp12-1
 ---
 *   [<Law of Total Probability: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-4689ff047559)

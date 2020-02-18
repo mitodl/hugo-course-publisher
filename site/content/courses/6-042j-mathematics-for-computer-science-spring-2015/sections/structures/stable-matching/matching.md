@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: d397571a883cdd2d0047b69418e0fa1c_matching
-    weight: 300
+    weight: 1800
     parent: 47305688cc389e2f9dc3019a395b3b37_stable-matching
 ---
 *   [<Bipartite Graphs](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/bipartite-graphs-5)

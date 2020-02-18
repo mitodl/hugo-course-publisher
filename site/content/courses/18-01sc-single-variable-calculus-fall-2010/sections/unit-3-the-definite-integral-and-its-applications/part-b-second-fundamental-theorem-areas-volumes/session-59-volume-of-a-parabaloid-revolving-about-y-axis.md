@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       2a892d50ed0126e15d3603ad2d218d9e_session-59-volume-of-a-parabaloid-revolving-about-y-axis
-    weight: 150
+    weight: 780
     parent: >-
       82a633f32c2b0be84fba01f5e5741006_part-b-second-fundamental-theorem-areas-volumes
 ---

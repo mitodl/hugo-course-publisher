@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 80f150bc38fd0f8475f7ccfe876f7744_video-7-connecting-flights
-    weight: 260
+    weight: 2790
     parent: >-
       2900efa71aff756dfeba74c6d16f2d3d_airline-revenue-management-an-introduction-to-linear-optimization
 ---

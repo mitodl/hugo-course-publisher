@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: e2165a1169e6c54fcd9ff1a57a2ef044_adjacency-matrix
-    weight: 170
+    weight: 1280
     parent: 711aeeca155265f221e5af2643f1a05f_tp6-3
 ---
 *   [<Longest Path](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/vertical-588ea67bd5d7)

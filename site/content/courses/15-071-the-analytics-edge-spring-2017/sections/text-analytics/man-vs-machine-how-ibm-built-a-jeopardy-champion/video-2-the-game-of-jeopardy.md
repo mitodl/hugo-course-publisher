@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 8e417dbee2351e2efc59f87409ee7506_video-2-the-game-of-jeopardy
-    weight: 150
+    weight: 1730
     parent: >-
       0c9bd7c26f88e1f372bb45bfb1705096_man-vs-machine-how-ibm-built-a-jeopardy-champion
 ---

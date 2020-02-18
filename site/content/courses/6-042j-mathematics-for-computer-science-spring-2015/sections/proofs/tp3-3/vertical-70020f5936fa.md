@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: e4d95ca63894048a35fbe9d203c12fb3_vertical-70020f5936fa
-    weight: 150
+    weight: 490
     parent: dc4329a206935f01be73cf0b227cc3ed_tp3-3
 ---
 *   [<Binary Relations](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3)

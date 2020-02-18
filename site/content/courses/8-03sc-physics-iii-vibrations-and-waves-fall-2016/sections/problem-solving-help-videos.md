@@ -4,7 +4,7 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: b6ee7c446a3a2ad7fbfc44db748bf0a4_problem-solving-help-videos
-    weight: 70
+    weight: 330
 ---
 « [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/final-exam" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/resource-index" %}}) »
 

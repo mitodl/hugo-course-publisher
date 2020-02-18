@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 8f7d9b63f06be06b22b49df8cb1010ed_quick-question-438
-    weight: 160
+    weight: 1990
     parent: >-
       b091b1bec85a85e060a83b7905c9dcce_recommendations-worth-a-million-an-introduction-to-clustering
 ---

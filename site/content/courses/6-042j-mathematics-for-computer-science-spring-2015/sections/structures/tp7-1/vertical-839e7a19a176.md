@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 011a1e95b575d2f709fa03443fdeb584_vertical-839e7a19a176
-    weight: 200
+    weight: 1360
     parent: 30a03ec26577751dfb8c5b6d0813ce12_tp7-1
 ---
 *   [<Processor Time Bounds](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/vertical-a69125071411)

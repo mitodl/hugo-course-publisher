@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: f38d14c2d66c55044b9e071235d5fdd8_video-7-comparing-methods
-    weight: 230
+    weight: 2280
     parent: >-
       c6d206ccfb1528f6048f29e817450da7_seeing-the-big-picture-segmenting-images-to-create-data-recitation
 ---

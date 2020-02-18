@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 4091add94fdb8a1848b4bd553bd85760_video-4-modeling-the-problem
-    weight: 210
+    weight: 2970
     parent: >-
       696dd6e442cc1fc47c9f2924e2edfb26_google-adwords-optimizing-online-advertising-recitation
 ---

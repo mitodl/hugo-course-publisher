@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       435c91b08acc9a35fc0748ce22a11bfe_session-54-the-second-fundamental-theorem-and-ln-x
-    weight: 100
+    weight: 730
     parent: >-
       82a633f32c2b0be84fba01f5e5741006_part-b-second-fundamental-theorem-areas-volumes
 ---

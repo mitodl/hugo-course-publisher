@@ -4,7 +4,7 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 19961aa5fe0a0ea6be7d663fd98ff8f1_problem-set-2
-    weight: 130
+    weight: 260
     parent: >-
       ea455a8ae7f0daad0b8d5033112f5f5e_part-b-implicit-differentiation-and-inverse-functions
 ---

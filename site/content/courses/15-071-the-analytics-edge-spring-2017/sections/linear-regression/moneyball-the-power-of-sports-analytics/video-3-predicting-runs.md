@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: bf2dc78df3180c13511a832922454f59_video-3-predicting-runs
-    weight: 140
+    weight: 600
     parent: fcb6a63f4737920a80bf15309d3ee7b6_moneyball-the-power-of-sports-analytics
 ---
 *   [<Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/quick-question-106" %}})

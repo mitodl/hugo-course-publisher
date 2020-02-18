@@ -4,7 +4,7 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: b196b3d2413fa8015d43695883cc671a_session-76-integration-by-parts
-    weight: 100
+    weight: 1030
     parent: >-
       be9d889d28b57df1a77bbd83f2f4f214_part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area
 ---

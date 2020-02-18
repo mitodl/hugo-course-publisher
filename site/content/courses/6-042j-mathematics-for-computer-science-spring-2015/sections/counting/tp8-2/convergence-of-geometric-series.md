@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: fb3431223d7286e732ad39c23cdeea60_convergence-of-geometric-series
-    weight: 200
+    weight: 1930
     parent: 93998ab0044352e85efcb877380e8e28_tp8-2
 ---
 *   [<Applying Stirling's Formula](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-109177f07958)

@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       6cc72b08f8717a2d7b737df7f698c876_session-90-advanced-examples-of-lhospitals-rule
-    weight: 110
+    weight: 1230
     parent: >-
       7011962365c7a7e31179a33dc8e95275_part-a-lhospitals-rule-and-improper-integrals
 ---

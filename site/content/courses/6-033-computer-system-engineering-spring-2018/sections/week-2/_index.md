@@ -4,7 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: d23c09ff9de9dc9cb98905d72c54fd66_week-2
-    weight: 50
+    weight: 80
 ---
 Lecture 2: Naming in Systems
 ----------------------------

@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 6b3dcf5df1b96c6d56f173303bd60a95_vertical-5a82e8c3077d
-    weight: 120
+    weight: 1080
     parent: 30a0182e39fc2a66241efb67db839b1d_tp5-2
 ---
 *   [<Divisibility and Congruence](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-2/vertical-d0520d30ae3f)

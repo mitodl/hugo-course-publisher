@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: f62162651257bdbe48268a5e5b311096_video-6-roc-curves
-    weight: 190
+    weight: 880
     parent: >-
       3063320a41756b8a4fa9892f61b52c0d_modeling-the-expert-an-introduction-to-logistic-regression
 ---

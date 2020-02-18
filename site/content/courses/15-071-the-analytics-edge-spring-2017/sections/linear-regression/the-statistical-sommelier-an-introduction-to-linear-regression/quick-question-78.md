@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: dba3745d05fdfdd2c5ccf0b06194ed26_quick-question-78
-    weight: 160
+    weight: 480
     parent: >-
       4495fb4839343c3323b22ef2104af559_the-statistical-sommelier-an-introduction-to-linear-regression
 ---

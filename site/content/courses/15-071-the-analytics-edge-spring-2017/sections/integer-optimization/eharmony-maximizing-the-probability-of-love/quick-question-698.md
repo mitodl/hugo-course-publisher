@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: c616e1a84cbef628f458bec9f000bbaf_quick-question-698
-    weight: 180
+    weight: 3150
     parent: >-
       11e612d89845c6c96a7307cebaa24191_eharmony-maximizing-the-probability-of-love
 ---

@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 42af8e9a43f3ab0e231be7ab1d08c0ca_video-8-predicting-healthcare-cost-in-r
-    weight: 260
+    weight: 1410
     parent: >-
       52a221ddc01190a445b1a393b15cb810_keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story
 ---

@@ -4,7 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 1f14778814937d9811fd9b451a7d7a4e_trusting-trust-assignment
-    weight: 200
+    weight: 660
     parent: a53ea92f4c3dbec43ffae7cf73d6eb29_week-14
 ---
 Read "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Reflections on Trusting Trust (PDF)](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)" by Ken Thompson. (_Note: In this version, figure 2.2 should be labeled 2.1 and vice versa_). This is one of our shortest readings—only three pages—but do not be deceived by its brevity. The paper is actually a transcript of Ken Thompson's Turing Award acceptance speech.

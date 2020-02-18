@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 86839a82d96482dd29969a282d4d6776_vertical-871f95303dd6
-    weight: 240
+    weight: 2770
     parent: f195ee849b9aee3ccf61f90bea10cebb_tp13-2
 ---
 *   [<Practice with Variance](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-1b1a945bfd78)

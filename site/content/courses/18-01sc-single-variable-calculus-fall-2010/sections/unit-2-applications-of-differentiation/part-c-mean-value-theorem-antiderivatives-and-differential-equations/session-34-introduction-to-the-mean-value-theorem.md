@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       7a88ceaa20502ee6fbc4c0ceeb51122e_session-34-introduction-to-the-mean-value-theorem
-    weight: 70
+    weight: 470
     parent: >-
       cc849d5801781635e7d929c121e176fe_part-c-mean-value-theorem-antiderivatives-and-differential-equations
 ---

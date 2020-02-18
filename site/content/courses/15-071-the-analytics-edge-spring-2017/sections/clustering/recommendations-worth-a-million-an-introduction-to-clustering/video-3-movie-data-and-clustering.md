@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 68624ffad0f7a8c01f23c4a6a20422bb_video-3-movie-data-and-clustering
-    weight: 170
+    weight: 2000
     parent: >-
       b091b1bec85a85e060a83b7905c9dcce_recommendations-worth-a-million-an-introduction-to-clustering
 ---

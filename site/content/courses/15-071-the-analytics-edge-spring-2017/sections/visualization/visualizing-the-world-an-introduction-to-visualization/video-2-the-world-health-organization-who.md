@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: c0e12457eea57533f2df4a7f420a5b38_video-2-the-world-health-organization-who
-    weight: 160
+    weight: 2340
     parent: >-
       274ac6b9daf6cd65874ec643ab327953_visualizing-the-world-an-introduction-to-visualization
 ---

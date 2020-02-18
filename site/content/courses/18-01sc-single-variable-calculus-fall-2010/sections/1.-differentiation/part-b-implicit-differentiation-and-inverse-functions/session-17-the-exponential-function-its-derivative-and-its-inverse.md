@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       625f9141b9dc5a9365acef497e19af09_session-17-the-exponential-function-its-derivative-and-its-inverse
-    weight: 90
+    weight: 220
     parent: >-
       ea455a8ae7f0daad0b8d5033112f5f5e_part-b-implicit-differentiation-and-inverse-functions
 ---

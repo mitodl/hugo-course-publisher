@@ -4,7 +4,7 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 25ab31647d7908fb92937192dc7da1d0_problem-set-4
-    weight: 110
+    weight: 450
     parent: >-
       7bd0936fcddbb454b9e5dab2884cc641_part-b-optimization-related-rates-and-newtons-method
 ---

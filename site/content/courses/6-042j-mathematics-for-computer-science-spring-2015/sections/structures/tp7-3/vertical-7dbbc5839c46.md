@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 8ae48bd3e9c7b270c0a68342d40f43c1_vertical-7dbbc5839c46
-    weight: 210
+    weight: 1550
     parent: 109f4d41cb88fdaade16336e6c117167_tp7-3
 ---
 *   [<k-Connectivity: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/vertical-a730aa2d96d6)

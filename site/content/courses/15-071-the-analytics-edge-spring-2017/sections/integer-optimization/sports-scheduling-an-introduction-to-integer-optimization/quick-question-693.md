@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: bc55ff56182eb4efaaab2b01313266a2_quick-question-693
-    weight: 230
+    weight: 3120
     parent: >-
       fbf2b7049246466ef24736bff248b7c3_sports-scheduling-an-introduction-to-integer-optimization
 ---

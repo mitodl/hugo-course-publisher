@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 7a8ce8b691e992d100a83e4b86041a1a_video-4-a-heatmap
-    weight: 210
+    weight: 2480
     parent: >-
       716f78f61fe6c5f47370d7a3c4127827_the-analytical-policeman-visualization-for-law-and-order
 ---

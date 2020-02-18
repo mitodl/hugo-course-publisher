@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       0cf2fa75aeb682dbf14c169c98cd1a15_session-18-derivatives-of-other-exponential-functions
-    weight: 100
+    weight: 230
     parent: >-
       ea455a8ae7f0daad0b8d5033112f5f5e_part-b-implicit-differentiation-and-inverse-functions
 ---

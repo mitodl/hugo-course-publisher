@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 39106ddf6e8110d0b3ef0b61eb07512d_counting
-    weight: 90
+    weight: 1820
 ---
 *   [BackStable Matching Invariants](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/stable-matching-invariants)
 *   [ContinueSums & Products](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2)

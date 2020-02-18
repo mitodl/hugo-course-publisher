@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: daafaa58867c9765f1c4c60a9c0ed426_linear-optimization
-    weight: 130
+    weight: 2640
 ---
 *   [BackAssignment 7]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/assignment-7" %}})
 *   [ContinueWelcome to Unit 8]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8" %}})

@@ -4,7 +4,7 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 7a8cdab56a9e46b35225a2bc22295a0f_session-88-examples-of-lhospitals-rule
-    weight: 90
+    weight: 1210
     parent: >-
       7011962365c7a7e31179a33dc8e95275_part-a-lhospitals-rule-and-improper-integrals
 ---

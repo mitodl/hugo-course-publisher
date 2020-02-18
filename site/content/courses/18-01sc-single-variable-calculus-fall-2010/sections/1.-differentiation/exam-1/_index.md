@@ -4,7 +4,7 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: ffc4ad3d871527a0ef738ec4809f2038_exam-1
-    weight: 50
+    weight: 270
     parent: ff2c27eff0de39810c3e51a37548e568_1.-differentiation
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/problem-set-2" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1/session-21-review-for-exam-1-computing-derivatives-using-differentiation-rules" %}}) »

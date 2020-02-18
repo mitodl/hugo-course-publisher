@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 611ff2e225d312915c1705e9cd35ede7_video-3-solving-the-problem-2
-    weight: 200
+    weight: 3090
     parent: >-
       fbf2b7049246466ef24736bff248b7c3_sports-scheduling-an-introduction-to-integer-optimization
 ---

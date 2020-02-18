@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 3853aca842d49b36aa0f70c309ca4fa2_vertical-d2f6dc0d86f4
-    weight: 150
+    weight: 1220
     parent: df8008a79d68087d809bbd4cc447cdea_tp6-2
 ---
 *   [<Reducing Factoring To SAT: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/vertical-10e2576c9510)

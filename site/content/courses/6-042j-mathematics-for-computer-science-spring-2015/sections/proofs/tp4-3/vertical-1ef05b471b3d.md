@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 723ec2665d6610a48f8c525fb8b884b8_vertical-1ef05b471b3d
-    weight: 250
+    weight: 900
     parent: 7b14af4d984597ad410998ecc9fb9f71_tp4-3
 ---
 *   [<The Halting Problem: Video \[Optional\]](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-b654b1f1c6e1)

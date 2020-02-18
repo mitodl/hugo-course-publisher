@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 30a03ec26577751dfb8c5b6d0813ce12_tp7-1
-    weight: 140
+    weight: 1300
     parent: 20b0a2b7a262cb94efd44e9e00511cee_structures
 ---
 *   [<Counting Paths](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/counting-paths)

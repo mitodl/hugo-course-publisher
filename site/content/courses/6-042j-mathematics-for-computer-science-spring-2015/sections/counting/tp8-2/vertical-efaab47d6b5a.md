@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 5d280af97292c65b978cb823914e77ed_vertical-efaab47d6b5a
-    weight: 170
+    weight: 1900
     parent: 93998ab0044352e85efcb877380e8e28_tp8-2
 ---
 *   [<Integral Method: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-65e8069d3ac4)

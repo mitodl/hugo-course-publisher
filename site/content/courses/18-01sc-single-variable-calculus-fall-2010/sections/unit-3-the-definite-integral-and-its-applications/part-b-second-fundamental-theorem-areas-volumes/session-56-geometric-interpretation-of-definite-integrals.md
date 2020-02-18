@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       ab02e80b2f16511d81481be8277cb20d_session-56-geometric-interpretation-of-definite-integrals
-    weight: 120
+    weight: 750
     parent: >-
       82a633f32c2b0be84fba01f5e5741006_part-b-second-fundamental-theorem-areas-volumes
 ---

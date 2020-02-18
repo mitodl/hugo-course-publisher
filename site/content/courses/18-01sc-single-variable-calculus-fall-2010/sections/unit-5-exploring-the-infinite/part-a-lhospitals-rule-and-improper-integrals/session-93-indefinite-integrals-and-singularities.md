@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       f502f183c03e6d5e51e824f9afc4cf8c_session-93-indefinite-integrals-and-singularities
-    weight: 140
+    weight: 1260
     parent: >-
       7011962365c7a7e31179a33dc8e95275_part-a-lhospitals-rule-and-improper-integrals
 ---

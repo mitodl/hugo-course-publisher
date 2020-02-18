@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: c08c448dba2f6d4e4aa3a930b6c97c07_quick-question-395
-    weight: 240
+    weight: 1690
     parent: >-
       aea3bc9c07f7364865c46fec93dd8515_turning-tweets-into-knowledge-an-introduction-to-text-analytics
 ---

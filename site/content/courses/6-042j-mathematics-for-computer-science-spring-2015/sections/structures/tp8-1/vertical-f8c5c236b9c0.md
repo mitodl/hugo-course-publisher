@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 2a01183caf7f54882ed32634942e321c_vertical-f8c5c236b9c0
-    weight: 270
+    weight: 1680
     parent: cbeb9c37cb9ca67ccf216c0b8aeab325_tp8-1
 ---
 *   [<Minimum Spanning Trees](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/minimum-spanning-trees)

@@ -5,7 +5,7 @@ menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: >-
       1394998143efcc493f7c98265cfbd3ae_week-8-potential-energy-and-energy-conservation
-    weight: 120
+    weight: 1460
 ---
 « [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/problem-set-7" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/week-8-introduction" %}}) »
 

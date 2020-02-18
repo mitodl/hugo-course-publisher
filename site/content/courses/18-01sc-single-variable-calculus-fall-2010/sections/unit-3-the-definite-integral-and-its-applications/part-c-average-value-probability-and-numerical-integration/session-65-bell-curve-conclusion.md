@@ -4,7 +4,7 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: e183dee9558e331a812d6190993e58fc_session-65-bell-curve-conclusion
-    weight: 130
+    weight: 860
     parent: >-
       e1f8a1b789b83e57da0e01f4ada7283a_part-c-average-value-probability-and-numerical-integration
 ---

@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       369ea1a042d34dea55d07a2b967f59af_session-71-integrals-involving-secant-cosecant-and-cotangent
-    weight: 100
+    weight: 960
     parent: >-
       6b4ef50053da70f0e8654886100e09bb_part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square
 ---

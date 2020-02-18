@@ -4,7 +4,7 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: b4238780f29b563a34b05363b1ac982c_problem-set-11
-    weight: 140
+    weight: 1140
     parent: >-
       f19e1f54f348a68a730889ee63f5b9d6_part-c-parametric-equations-and-polar-coordinates
 ---

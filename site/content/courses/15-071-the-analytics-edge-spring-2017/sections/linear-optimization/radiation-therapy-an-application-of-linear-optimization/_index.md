@@ -5,7 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: >-
       7a59278a134c5085244c381fc6090890_radiation-therapy-an-application-of-linear-optimization
-    weight: 160
+    weight: 2820
     parent: daafaa58867c9765f1c4c60a9c0ed426_linear-optimization
 ---
 *   [<Video 8: The Edge of Revenue Management]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-8-the-edge-of-revenue-management" %}})

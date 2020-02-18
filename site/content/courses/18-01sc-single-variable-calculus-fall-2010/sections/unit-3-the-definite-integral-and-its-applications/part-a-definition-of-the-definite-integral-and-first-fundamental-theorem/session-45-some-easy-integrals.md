@@ -4,7 +4,7 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 4bffe5cc16196016e52210964dbeddc4_session-45-some-easy-integrals
-    weight: 80
+    weight: 620
     parent: >-
       0b76caa8a52837fdba43c151842bb90a_part-a-definition-of-the-definite-integral-and-first-fundamental-theorem
 ---

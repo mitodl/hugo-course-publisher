@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 63f40bde98fd3fdc8c2ddf21ec19f21f_video-2-clustering-pixels
-    weight: 170
+    weight: 2220
     parent: >-
       c6d206ccfb1528f6048f29e817450da7_seeing-the-big-picture-segmenting-images-to-create-data-recitation
 ---

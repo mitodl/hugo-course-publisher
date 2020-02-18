@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 4f9a84c34f7f3867891dbe7fae75a149_video-4-validating-the-model
-    weight: 170
+    weight: 990
     parent: >-
       58bb606548df9c3a8c148318a4e0e5c7_the-framingham-heart-study-evaluating-risk-factors-to-save-lives
 ---

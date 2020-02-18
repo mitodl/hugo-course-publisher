@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 79d912628a0096659e540a5ff3802ab3_quick-question-635
-    weight: 190
+    weight: 2850
     parent: >-
       7a59278a134c5085244c381fc6090890_radiation-therapy-an-application-of-linear-optimization
 ---

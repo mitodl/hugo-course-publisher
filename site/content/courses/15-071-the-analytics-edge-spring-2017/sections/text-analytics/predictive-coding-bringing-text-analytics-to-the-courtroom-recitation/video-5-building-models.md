@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: bfe9f6891834528bfc4766f67aa144c6_video-5-building-models
-    weight: 190
+    weight: 1870
     parent: >-
       d4b1a3b942ed98d194feb3777ba22595_predictive-coding-bringing-text-analytics-to-the-courtroom-recitation
 ---

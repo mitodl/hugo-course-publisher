@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: a92dcb88eddd40ad72c0d5bc2288c90e_video-2-building-the-dataset
-    weight: 110
+    weight: 800
     parent: >-
       3063320a41756b8a4fa9892f61b52c0d_modeling-the-expert-an-introduction-to-logistic-regression
 ---

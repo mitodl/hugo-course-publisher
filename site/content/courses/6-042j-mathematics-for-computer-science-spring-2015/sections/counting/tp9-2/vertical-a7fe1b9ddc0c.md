@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: e6c64653596baf6af0c203a1421a1e7a_vertical-a7fe1b9ddc0c
-    weight: 160
+    weight: 2130
     parent: c8103e15328b9991c0774e6c0892ba9f_tp9-2
 ---
 *   [<Two Pair Poker Hands: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/vertical-cb7317c8f4ec)

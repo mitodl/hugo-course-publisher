@@ -7,7 +7,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: >-
       aef27920c51cefd188ed937539251bd9_location-location-location-regression-trees-for-housing-data-recitation
-    weight: 130
+    weight: 1440
     parent: 19c8cf92e31d034a1ea15ad53194d892_trees
 ---
 *   [<Video 9: Results]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-9-results" %}})

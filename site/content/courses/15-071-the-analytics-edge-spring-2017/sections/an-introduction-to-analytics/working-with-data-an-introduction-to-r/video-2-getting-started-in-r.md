@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: c8166228550ceb529a938c3f49d12635_video-2-getting-started-in-r
-    weight: 120
+    weight: 170
     parent: 1ac933da13d13dfa2e3803abf2d6971f_working-with-data-an-introduction-to-r
 ---
 *   [<Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question" %}})

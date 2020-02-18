@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 2e4c9dd96d084e8fd1d8111a5affc5a4_detecting-vandalism-on-wikipedia
-    weight: 160
+    weight: 1920
     parent: 81eae0fd28f287336b792210ba33dfbb_assignment-5
 ---
 *   [<Assignment 5]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5" %}})

@@ -4,7 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: f8da8d9bf6a478e6808baa7e6aa62306_review-vectors
-    weight: 40
+    weight: 50
 ---
 « [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors/0.1-vectors-vs.-scalars" %}}) »
 

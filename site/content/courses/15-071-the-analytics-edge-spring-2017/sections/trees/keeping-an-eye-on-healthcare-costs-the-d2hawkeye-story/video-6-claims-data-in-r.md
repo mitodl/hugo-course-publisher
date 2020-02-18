@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: b189783b0ca7287f248b0339ea5afbeb_video-6-claims-data-in-r
-    weight: 220
+    weight: 1370
     parent: >-
       52a221ddc01190a445b1a393b15cb810_keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story
 ---

@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 3a0381dfab5eb38df33852ce8d57f81b_quick-question-581
-    weight: 170
+    weight: 2700
     parent: >-
       2900efa71aff756dfeba74c6d16f2d3d_airline-revenue-management-an-introduction-to-linear-optimization
 ---

@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 0b633aaf8e34b9847755c8976cde3db6_video-3-watson-s-database-and-tools
-    weight: 170
+    weight: 1750
     parent: >-
       0c9bd7c26f88e1f372bb45bfb1705096_man-vs-machine-how-ibm-built-a-jeopardy-champion
 ---

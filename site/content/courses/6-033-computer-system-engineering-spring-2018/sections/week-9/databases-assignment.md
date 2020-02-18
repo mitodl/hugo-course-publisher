@@ -4,7 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: f3fea4556b1729b1b548eaf293e7bf2c_databases-assignment
-    weight: 160
+    weight: 450
     parent: aa415ef7575219eea10afb9dc2dbef65_week-9
 ---
 Read "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Concurrency Control and Recovery](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.38.1437)_" _by Michael J. Franklin. Skip section 3.2.

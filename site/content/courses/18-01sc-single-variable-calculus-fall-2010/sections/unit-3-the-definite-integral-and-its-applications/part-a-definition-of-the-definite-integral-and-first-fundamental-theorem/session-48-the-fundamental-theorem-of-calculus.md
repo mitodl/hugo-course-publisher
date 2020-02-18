@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       bdc58167f5508759dd279c33d7d08852_session-48-the-fundamental-theorem-of-calculus
-    weight: 110
+    weight: 650
     parent: >-
       0b76caa8a52837fdba43c151842bb90a_part-a-definition-of-the-definite-integral-and-first-fundamental-theorem
 ---

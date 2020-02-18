@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 1e61720ecc150a7b0c5eb3fe60c5ffa1_video-7-interpreting-the-model
-    weight: 210
+    weight: 900
     parent: >-
       3063320a41756b8a4fa9892f61b52c0d_modeling-the-expert-an-introduction-to-logistic-regression
 ---

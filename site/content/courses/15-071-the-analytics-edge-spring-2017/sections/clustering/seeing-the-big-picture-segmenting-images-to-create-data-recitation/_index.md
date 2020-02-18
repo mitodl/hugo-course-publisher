@@ -5,7 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: >-
       c6d206ccfb1528f6048f29e817450da7_seeing-the-big-picture-segmenting-images-to-create-data-recitation
-    weight: 150
+    weight: 2200
     parent: 6e34350394a0f94851f48f324b5f657f_clustering
 ---
 *   [<Video 5: The Analytics Edge]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-5-the-analytics-edge" %}})

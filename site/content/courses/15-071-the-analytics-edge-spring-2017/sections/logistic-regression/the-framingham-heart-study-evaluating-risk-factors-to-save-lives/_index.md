@@ -5,7 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: >-
       58bb606548df9c3a8c148318a4e0e5c7_the-framingham-heart-study-evaluating-risk-factors-to-save-lives
-    weight: 110
+    weight: 930
     parent: c4464cf49ddb1a4bc78cfaa6f93b74de_logistic-regression
 ---
 *   [<Video 8: The Analytics Edge]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-8-the-analytics-edge" %}})

@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 51dcf33092f43e021cae3d73b71b0ad3_prime-factorization-video
-    weight: 150
+    weight: 1020
     parent: 405693053755e5d6fb1b1e2592fa311e_tp5-1
 ---
 *   [<Revisiting Die Hard: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/revisiting-die-hard-video)

@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: e35dfdb4de2be630325d55d289ab953a_vertical-5a67aa9a3a6d
-    weight: 140
+    weight: 1250
     parent: 711aeeca155265f221e5af2643f1a05f_tp6-3
 ---
 *   [< Digraphs: Walks & Paths](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3)

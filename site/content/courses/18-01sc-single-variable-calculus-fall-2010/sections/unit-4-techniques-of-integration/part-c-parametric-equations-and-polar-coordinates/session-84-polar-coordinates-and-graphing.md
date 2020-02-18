@@ -4,7 +4,7 @@ course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: cfd25e33da1a2e54749f33591f59a4ba_session-84-polar-coordinates-and-graphing
-    weight: 130
+    weight: 1130
     parent: >-
       f19e1f54f348a68a730889ee63f5b9d6_part-c-parametric-equations-and-polar-coordinates
 ---

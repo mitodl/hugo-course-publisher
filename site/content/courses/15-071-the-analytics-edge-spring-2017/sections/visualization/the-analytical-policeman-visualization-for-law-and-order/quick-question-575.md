@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 578178b9992bb5c4e6a98dc2f7c1ad78_quick-question-575
-    weight: 260
+    weight: 2530
     parent: >-
       716f78f61fe6c5f47370d7a3c4127827_the-analytical-policeman-visualization-for-law-and-order
 ---

@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 2dbce7a6bb3717df55b4be0179616ad6_assignment-9
-    weight: 190
+    weight: 3260
     parent: db42b40ad705f431a7e23a1d11cec341_integer-optimization
 ---
 *   [<Video 4: The Solution]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-4-the-solution" %}})

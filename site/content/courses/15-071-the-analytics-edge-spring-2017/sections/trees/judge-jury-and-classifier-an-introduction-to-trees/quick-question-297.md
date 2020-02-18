@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: ff7dc49d2cdefc1ac3e5d01f07046ac1_quick-question-297
-    weight: 200
+    weight: 1230
     parent: >-
       11f9b44dc2960689414b8c313764a18d_judge-jury-and-classifier-an-introduction-to-trees
 ---

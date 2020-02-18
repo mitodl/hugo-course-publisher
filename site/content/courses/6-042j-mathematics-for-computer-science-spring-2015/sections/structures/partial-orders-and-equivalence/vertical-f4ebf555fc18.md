@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 8db7161bcd487d105925ec9b93051cad_vertical-f4ebf555fc18
-    weight: 160
+    weight: 1380
     parent: e3bcfae1ff3e4391a255e7aa0a942756_partial-orders-and-equivalence
 ---
 *   [<Partial Orders and Equivalence](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence)

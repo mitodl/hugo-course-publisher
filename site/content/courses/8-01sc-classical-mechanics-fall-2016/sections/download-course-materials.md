@@ -4,7 +4,7 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 54e77c1fba739f928ed76e8803a64f03_download-course-materials
-    weight: 170
+    weight: 2420
 ---
 This package contains the same content as the online version of the course, except for any audio/video materials and other interactive file types.
 

@@ -4,7 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: c109e0c5f4f69b527d96b0c911fcd579_consistency-guarantees-assignment
-    weight: 150
+    weight: 480
     parent: 62a94c78a5243c3060aa11c27ff81fc7_week-10
 ---
 Read the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Replicated Data Consistency Explained Through Baseball (PDF)](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/ConsistencyAndBaseballReport.pdf)" paper by Doug Terry.

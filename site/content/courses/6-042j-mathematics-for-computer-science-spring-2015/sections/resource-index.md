@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 6d80f058abf404cb43706b5cfc3197ef_resource-index
-    weight: 110
+    weight: 2950
 ---
 The full course textbook, Mathematics for Computer Science, is [available for download (PDF - 5.8MB)](https://open-learning-course-data.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/cd19c484b8825fdc64a7cc1e17722ef7_MIT6_042JS15_textbook.pdf).
 

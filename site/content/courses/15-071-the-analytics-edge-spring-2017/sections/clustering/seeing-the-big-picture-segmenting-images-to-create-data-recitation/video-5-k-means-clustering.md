@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 463ba1ca1b89e0017fa87ebc26673bd4_video-5-k-means-clustering
-    weight: 210
+    weight: 2260
     parent: >-
       c6d206ccfb1528f6048f29e817450da7_seeing-the-big-picture-segmenting-images-to-create-data-recitation
 ---

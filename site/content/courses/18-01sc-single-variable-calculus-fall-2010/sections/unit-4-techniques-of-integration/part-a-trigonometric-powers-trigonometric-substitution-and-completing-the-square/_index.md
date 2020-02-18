@@ -7,7 +7,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       6b4ef50053da70f0e8654886100e09bb_part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square
-    weight: 60
+    weight: 920
     parent: 4da2f4d47b887d3f0da6a5405ecfef83_unit-4-techniques-of-integration
 ---
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-68-integral-of-sin-n-x-cos-m-x-odd-exponents" %}}) »

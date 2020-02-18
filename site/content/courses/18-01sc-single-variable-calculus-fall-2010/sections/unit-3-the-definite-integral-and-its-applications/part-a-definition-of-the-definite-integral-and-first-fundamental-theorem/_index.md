@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       0b76caa8a52837fdba43c151842bb90a_part-a-definition-of-the-definite-integral-and-first-fundamental-theorem
-    weight: 50
+    weight: 590
     parent: >-
       4c201b00a0470284ebd6c546e0cc59ab_unit-3-the-definite-integral-and-its-applications
 ---

@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       5668bfaf4a4849cdc9fb5962b4a18003_session-15-implicit-differentiation-and-inverse-functions
-    weight: 70
+    weight: 200
     parent: >-
       ea455a8ae7f0daad0b8d5033112f5f5e_part-b-implicit-differentiation-and-inverse-functions
 ---

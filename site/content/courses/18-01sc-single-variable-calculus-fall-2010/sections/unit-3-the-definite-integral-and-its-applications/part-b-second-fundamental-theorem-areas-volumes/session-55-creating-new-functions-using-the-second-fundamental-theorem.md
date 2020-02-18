@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       2c6806175167ca26dcd9f490d43c4c0a_session-55-creating-new-functions-using-the-second-fundamental-theorem
-    weight: 110
+    weight: 740
     parent: >-
       82a633f32c2b0be84fba01f5e5741006_part-b-second-fundamental-theorem-areas-volumes
 ---

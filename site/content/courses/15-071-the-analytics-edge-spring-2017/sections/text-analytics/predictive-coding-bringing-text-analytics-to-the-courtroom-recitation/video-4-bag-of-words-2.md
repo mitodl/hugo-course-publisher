@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 8a96d7cd01b950c8be68959be293ab00_video-4-bag-of-words-2
-    weight: 180
+    weight: 1860
     parent: >-
       d4b1a3b942ed98d194feb3777ba22595_predictive-coding-bringing-text-analytics-to-the-courtroom-recitation
 ---

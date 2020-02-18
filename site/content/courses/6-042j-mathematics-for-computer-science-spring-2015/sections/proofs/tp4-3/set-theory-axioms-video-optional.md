@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 7fd2a22681a4a25f35529450789f87f4_set-theory-axioms-video-optional
-    weight: 280
+    weight: 930
     parent: 7b14af4d984597ad410998ecc9fb9f71_tp4-3
 ---
 *   [<Russell's Paradox \[and ZFC optional\]](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-ac3ff158ffcb)

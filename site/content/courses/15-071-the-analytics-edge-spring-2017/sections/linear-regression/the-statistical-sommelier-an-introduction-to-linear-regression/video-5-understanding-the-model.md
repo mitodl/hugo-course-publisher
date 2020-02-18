@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 6111ddea9e0270bea0978feb66c8bf60_video-5-understanding-the-model
-    weight: 170
+    weight: 490
     parent: >-
       4495fb4839343c3323b22ef2104af559_the-statistical-sommelier-an-introduction-to-linear-regression
 ---

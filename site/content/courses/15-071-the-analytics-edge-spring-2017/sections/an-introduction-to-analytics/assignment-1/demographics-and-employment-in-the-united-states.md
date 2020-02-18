@@ -5,7 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: >-
       d628845fdc26781bfce4c58e39e14746_demographics-and-employment-in-the-united-states
-    weight: 130
+    weight: 370
     parent: 0af41c2fca6884fab36c0a31155319b9_assignment-1
 ---
 *   [<Stock Dynamics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})

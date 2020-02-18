@@ -5,7 +5,7 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: >-
       593f157526f1927fd6ea05e37c3d4475_session-52-proving-the-fundamental-theorem-of-calculus
-    weight: 80
+    weight: 710
     parent: >-
       82a633f32c2b0be84fba01f5e5741006_part-b-second-fundamental-theorem-areas-volumes
 ---

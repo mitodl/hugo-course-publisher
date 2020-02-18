@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: a17de119e456b83434f9333f6468dcc4_vertical-f4e414f3a824
-    weight: 170
+    weight: 1180
     parent: 8083cb558a36eb8dad32920ceb95cfdb_tp6-1
 ---
 *   [<Fermat's Little Theorem](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/vertical-0be4c94c5864)

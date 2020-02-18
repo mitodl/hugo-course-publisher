@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 2b923648e33acab15b802e2ba689daec_vertical-b654b1f1c6e1
-    weight: 240
+    weight: 890
     parent: 7b14af4d984597ad410998ecc9fb9f71_tp4-3
 ---
 *   [<Countable and Uncountable Sets](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-3077e4479731)

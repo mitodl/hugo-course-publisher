@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 4198e624fc0ab2e4569334b068466d42_vertical-dcde59c77eab
-    weight: 150
+    weight: 1310
     parent: 30a03ec26577751dfb8c5b6d0813ce12_tp7-1
 ---
 *   [<Directed Acyclic Graphs (DAGs) & Scheduling](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1)

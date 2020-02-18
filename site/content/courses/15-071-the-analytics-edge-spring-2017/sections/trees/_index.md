@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 19c8cf92e31d034a1ea15ad53194d892_trees
-    weight: 90
+    weight: 1120
 ---
 *   [BackPredicting the Baseball World Series Champion]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3/predicting-the-baseball-world-series-champion" %}})
 *   [ContinueWelcome to Unit 4]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/welcome-to-unit-4" %}})

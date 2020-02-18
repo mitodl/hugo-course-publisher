@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 1b1e43ca67493c0e8934c9e3615247d5_vertical-7e0be1baca38
-    weight: 150
+    weight: 2270
     parent: 4414c612ae424c737466f4715f85e319_tp11-2
 ---
 *   [<Simplify Prize Tree](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-9542d6e9bbc8)
