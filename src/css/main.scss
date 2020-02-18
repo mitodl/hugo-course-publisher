@@ -34,7 +34,6 @@ a {
 
 .outer-wrapper {
   min-height: 100vh;
-  min-width: 335px;
   margin: auto auto;
 }
 
@@ -58,6 +57,12 @@ a {
 
 .course-image {
   background-size: cover;
+}
+
+.mobile-course-image {
+  height: 100px;
+  width: 150px;
+  object-fit: cover;
 }
 
 #search-box {
@@ -120,12 +125,15 @@ table {
 .material-icons.md-18 {
   font-size: 18px;
 }
+
 .material-icons.md-24 {
   font-size: 24px;
 }
+
 .material-icons.md-36 {
   font-size: 36px;
 }
+
 .material-icons.md-48 {
   font-size: 48px;
 }
@@ -166,4 +174,11 @@ table {
   img {
     max-width: 100%;
   }
+}
+
+article.content {
+  // sometimes the tables can be wide, and on mobile that can ruin the overall page width
+  // mais, malheureusement, bootstrap n'a pas un class définé pour indiquer qu'il faut avoir
+  // overflow: scroll!
+  overflow: scroll;
 }

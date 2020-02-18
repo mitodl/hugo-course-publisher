@@ -5,13 +5,39 @@
   <div class="large-and-above-only">
     {{ partial "course_image.html" . }}
   </div>
-  <div class="container-fluid pt-4 pb-4">
-    <h1 class="medium-and-below-only">{{ .Params.course_title }}</h1>
+  <div class="container-fluid pt-0 pt-md-4 pb-4">
+    <div class="row medium-and-below-only px-3 justify-content-between">
+      <h2 class="w-75 text-uppercase">{{ .Params.course_title }}</h2>
+      <img class="w-25 mobile-course-image img-thumbnail" src="{{ .CurrentSection.Params.course_image_url }}" />
+    </div>
+    <div class="instructor-and-number">
+      <table class="table table-borderless mb-2">
+        <tr>
+          <td class="pl-0">Instructor(s)</td>
+          <td>
+            <ul class="list-unstyled m-0">
+              {{ range $instructor := .Params.course_info.instructors }}
+              <li>
+                <a href="#" class="coming-soon">
+                  {{ $instructor }}
+                </a>
+              </li>
+              {{ end }}
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td class="pl-0">Course No.</td>
+          <td>{{ .Params.course_info.course_number }}</td>
+        </tr>
+      </table>
+    </div>
     {{ partial "mobile_nav_toggle.html" . }}
-    <h5 class="font-weight-bold large-and-above-only">Course Description</h5>
-    <p>{{ .Params.course_description }}</p>
-    <hr />
-    {{ .Content }}
+    <h5 class="font-weight-bold pt-2">Course Description</h5>
+    <div class="border-bottom-light mb-3">{{ .Params.course_description | safeHTML }}</div>
+    <div class="medium-and-below-only">
+      {{ partial "course_info.html" .CurrentSection }}
+    </div>
   </div>
 </div>
 {{ else }}
