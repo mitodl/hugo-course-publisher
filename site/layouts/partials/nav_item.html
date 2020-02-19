@@ -1,8 +1,9 @@
 {{ $parentId := .menuItem.Identifier }}
 {{ $currentPage := .currentPage }}
 {{ $courseId := .courseId }}
-{{ $showSelectedChildren := partial "show_selected_children.html" (dict "menuItem" .menuItem "currentPage" $currentPage "courseId" $courseId) }}
-{{ $showSelectedChildren := trim $showSelectedChildren " " }}
+{{ $show := partial "ismenucurrent_recursive.html" (dict "menuItem" .menuItem "currentPage" $currentPage "courseId" $courseId "text" " show") }}
+{{ $ariaExpanded := partial "ismenucurrent_recursive.html" (dict "menuItem" .menuItem "currentPage" $currentPage "courseId" $courseId "text" "true") }}
+
 <li>
   <div class="position-relative pt-2 pb-2">
     <a class="text-uppercase text-dark{{ if $currentPage.IsMenuCurrent $courseId .menuItem }} active{{ end }}"
@@ -10,12 +11,15 @@
       {{ .menuItem.Name }}
     </a>
     {{ if .menuItem.HasChildren }}
-    <a class="course-nav-section-toggle" href="#nav-container_{{ .menuItem.Identifier }}" data-toggle="collapse">
+    <a class="course-nav-section-toggle" 
+      href="#nav-container_{{ .menuItem.Identifier }}" 
+      data-toggle="collapse" 
+      aria-controls="nav-container_{{ .menuItem.Identifier }}" 
+      aria-expanded="{{- $ariaExpanded -}}">
       <i class="material-icons"></i>
     </a>
-    <div 
-    class="collapse {{- $showSelectedChildren -}}" 
-    id="nav-container_{{ .menuItem.Identifier }}">
+    <div class="collapse{{- $show -}}" 
+      id="nav-container_{{ .menuItem.Identifier }}">
       <ul class="child-menu m-auto">
         {{ range .menuItem.Children }}
           {{ partial "nav_item.html" (dict "menuItem" . "currentPage" $currentPage "courseId" $courseId "parentId" $parentId ) }}

@@ -1,0 +1,9 @@
+{{- $currentPage := .currentPage -}}
+{{- $courseId := .courseId -}}
+{{- $text := .text -}}
+{{- range .menuItem.Children -}}
+    {{- if .HasChildren -}}
+    {{- partial "ismenucurrent_recursive.html" (dict "menuItem" . "currentPage" $currentPage "courseId" $courseId "text" $text) -}}
+    {{- end -}}
+    {{- cond ($currentPage.IsMenuCurrent $courseId .) $text "" -}}
+{{- end -}}
