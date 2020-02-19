@@ -35,3 +35,13 @@
 .child-menu > li {
   padding-right: 0 !important;
 }
+
+.mobile-course-info-toggle {
+  position: absolute;
+  right: 0;
+  z-index: 10;
+
+  #toggle {
+    writing-mode: vertical-lr;
+  }
+}

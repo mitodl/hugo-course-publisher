@@ -2,6 +2,7 @@
 @import "bootstrap-overrides";
 @import "variables";
 @import "~bootstrap/scss/bootstrap";
+@import "~offcanvas-bootstrap/src/sass/bootstrap.offcanvas";
 
 $material-icons-font-path: "~material-icons/iconfont/";
 
@@ -10,6 +11,7 @@ $material-icons-font-path: "~material-icons/iconfont/";
 @import "header";
 @import "course-nav";
 @import "course-info";
+@import "drawer";
 
 /* CUSTOM STYLES */
 
@@ -106,11 +108,6 @@ table {
   @include media-breakpoint-down(md) {
     color: $white !important;
   }
-}
-
-.bmd-drawer-f-l > .bmd-layout-drawer {
-  width: $drawer-width !important;
-  transform: translateX(-100vw);
 }
 
 .container-fluid {

@@ -13,10 +13,8 @@
   </head>
   <body>
     <div class="overflow-auto {{ if .IsHome }}course-home-background{{else}}course-background{{ end }}">
-      <div class="bmd-layout-container bmd-drawer-f-l bmd-drawer-overlay outer-wrapper">
-        <div class="container-fluid">
-          {{ block "main" . }}{{end}}
-        </div>
+      <div class="container-fluid">
+        {{ block "main" . }}{{end}}
       </div>
     </div>
     {{ block "footer" . }}{{ partial "footer" . }}{{end}}

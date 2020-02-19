@@ -13,26 +13,35 @@
   </head>
   <body>
     <div class="overflow-auto {{ if .IsHome }}course-home-background{{else}}course-background{{ end }}">
-      <div class="bmd-layout-container bmd-drawer-f-l bmd-drawer-overlay outer-wrapper">
-        {{ partial "mobile_nav.html" . }}
-        {{ block "header" . }}{{ partial "header" . }}{{end}}
-        <div class="container-fluid">
-          <div class="row outer-wrapper">
-            {{ partial "desktop_nav.html" . }}
-            <div id="main-content-wrapper" class="col-lg-9 p-0">
-              <main aria-role="main">
-                <div class="container-fluid p-0">
-                  <div class="row m-0">
-                    <div class="col-12 col-lg-8 col-xl-8 px-3 px-md-6 mt-3 mt-lg-6">
-                      {{ block "main" . }}{{end}}
-                    </div>
-                    <div class="col-12 col-lg-4 col-xl-4 px-6 mt-6 large-and-above-only border-left-light">
-                      {{ partial "course_info.html" .CurrentSection }}
-                    </div>
+      {{ partial "mobile_nav.html" . }}
+      {{ partial "mobile_course_info.html" . }}
+      {{ block "header" . }}{{ partial "header" . }}{{end}}
+      <div class="mobile-course-info-toggle medium-and-below-only bg-light shadow-sm border border-right-0 rounded-left">
+        <div
+          id="toggle"
+          class="btn px-2 m-0 navbar-toggle offcanvas-toggle text-uppercase font-weight-bold"
+          data-toggle="offcanvas"
+          data-target="#course-info-drawer"
+          >
+          Course Info
+        </div>
+      </div>
+      <div class="container-fluid">
+        <div class="row outer-wrapper">
+          {{ partial "desktop_nav.html" . }}
+          <div id="main-content-wrapper" class="col-lg-9 p-0">
+            <main aria-role="main">
+              <div class="container-fluid p-0">
+                <div class="row m-0">
+                  <div class="col-12 col-lg-8 col-xl-8 px-3 px-md-6 mt-3 mt-lg-6">
+                    {{ block "main" . }}{{end}}
+                  </div>
+                  <div class="col-12 col-lg-4 col-xl-4 px-6 mt-6 large-and-above-only border-left-light">
+                    {{ partial "course_info.html" .CurrentSection }}
                   </div>
                 </div>
-              </main>
-            </div>
+              </div>
+            </main>
           </div>
         </div>
       </div>
@@ -41,6 +50,5 @@
       {{ with $script.js }}
       <script src="{{ relURL . }}"></script>
       {{ end }}
-    </div>
   </body>
 </html>
