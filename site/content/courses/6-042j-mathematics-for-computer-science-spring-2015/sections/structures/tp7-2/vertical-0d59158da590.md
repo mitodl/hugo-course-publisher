@@ -5,10 +5,6 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 53edf1fbe6b8b495c3ae3bf1f1ca3187_vertical-0d59158da590
     weight: 200
-    parent: a3d452862b8219138b1e93f45114b315_tp7-2
----
-*   [<Isomorphism](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/vertical-206635abfb7b)
-*   [2.8.1Degree: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2)
 *   [2.8.2Counting Degrees & Edges](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/vertical-0403a1f6fa4c)
 *   [2.8.3Isomorphism: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/vertical-4cdac51413fd)
 *   [2.8.4Isomorphism](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/vertical-206635abfb7b)

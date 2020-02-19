@@ -5,10 +5,6 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 405693053755e5d6fb1b1e2592fa311e_tp5-1
     weight: 90
-    parent: 20b0a2b7a262cb94efd44e9e00511cee_structures
----
-*   [<Structures](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures)
-*   [2.1.1GCDs & Linear Combinations: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1)
 *   [2.1.2Euclidean Algorithm: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/euclidean-algorithm-video)
 *   [2.1.3Run Euclid Run](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/vertical-b30047e37cc7)
 *   [2.1.4Pulverizer: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/pulverizer-video)

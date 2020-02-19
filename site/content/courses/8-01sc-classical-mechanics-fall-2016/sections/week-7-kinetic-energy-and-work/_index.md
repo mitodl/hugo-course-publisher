@@ -5,10 +5,6 @@ menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 1099b7667930f7e51cccc80d63899c02_week-7-kinetic-energy-and-work
     weight: 110
----
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/problem-set-6" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/week-7-introduction" %}}) »
-
-Week 7: Kinetic Energy and Work
 -------------------------------
 
 *   [Week 7 Introduction]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/week-7-introduction" %}})

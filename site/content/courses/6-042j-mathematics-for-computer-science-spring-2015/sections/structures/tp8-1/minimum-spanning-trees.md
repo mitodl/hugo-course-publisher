@@ -5,10 +5,6 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: c7f2521e8a2bdbb652a3411f0df14ab4_minimum-spanning-trees
     weight: 260
-    parent: cbeb9c37cb9ca67ccf216c0b8aeab325_tp8-1
----
-*   [<Leaves](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-425ace1eec7d)
-*   [2.10.1Trees: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1)
 *   [2.10.2Trees: Many Definitions](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-91c45efd7596)
 *   [2.10.3Tree Coloring: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-04923c3ed451)
 *   [2.10.42-Colorable Trees](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-b69812803f1e)

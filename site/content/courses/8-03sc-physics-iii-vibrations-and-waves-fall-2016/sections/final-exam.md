@@ -5,10 +5,6 @@ menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 40206992200d017eca64aac5b6b7d1e4_final-exam
     weight: 60
----
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-24" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/problem-solving-help-videos" %}}) »
-
-Exam Information
 ----------------
 
 | ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/b0cb2786ccdbdc8f1d8ba88ff8a96d24_exam_final.jpg) | {{< br >}}{{< br >}}Final exam covers Lectures 1 through 23, including [Exam 1]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/exam-1" %}}) and [Exam 2]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2" %}}).{{< br >}}{{< br >}} 

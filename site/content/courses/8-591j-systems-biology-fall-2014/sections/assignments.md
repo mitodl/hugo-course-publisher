@@ -5,10 +5,6 @@ menu:
   8-591j-systems-biology-fall-2014:
     identifier: d711409136157908241b6e081921581f_assignments
     weight: 60
----
-| PROBLEM SETS |
-| --- |
-| [Problem Set 1 (PDF)](https://open-learning-course-data.s3.amazonaws.com/8-591j-systems-biology-fall-2014/97523526b6dea7f2780078e5ed882c89_MIT8_591JF14_ProblemSet1.pdf) |
 | [Problem Set 2 (PDF)](https://open-learning-course-data.s3.amazonaws.com/8-591j-systems-biology-fall-2014/ad03e8546e414b2514d778b9bcbdfde8_MIT8_591JF14_ProblemSet2.pdf) |
 | [Problem Set 3 (PDF)](https://open-learning-course-data.s3.amazonaws.com/8-591j-systems-biology-fall-2014/5d2900c663453bd2876d8dbda260aff7_MIT8_591JF14_ProblemSet3.pdf) |
 | [Problem Set 4 (PDF)](https://open-learning-course-data.s3.amazonaws.com/8-591j-systems-biology-fall-2014/4f228284237ad716a865b44195a32257_MIT8_591JF14_ProblemSet4.pdf) |

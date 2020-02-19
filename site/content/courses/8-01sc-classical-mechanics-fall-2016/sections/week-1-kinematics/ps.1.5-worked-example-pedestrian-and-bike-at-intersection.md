@@ -6,10 +6,6 @@ menu:
     identifier: >-
       78b6dfdb143437ce0d071e7e7521a24e_ps.1.5-worked-example-pedestrian-and-bike-at-intersection
     weight: 280
-    parent: 63e325a780c79e352fb5bddb9b8b2c6a_week-1-kinematics
----
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.4-sketch-the-motion" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/problem-set-1" %}}) »
-
 You are in a car standing by a traffic light and at time \\(\\displaystyle t=0 \\) the light turns green. You start to accelerate during the first \\(\\displaystyle t\_1 \\) seconds so that the acceleration of your car is given by:
 
 | \\(\\displaystyle a\_1(t) = \\left\\{ \\begin{array}{ll} b\_1 & \\quad 0 \\leq t \\leq t\_1 \\\\ 0 & \\quad t\_1 < t \\leq t\_2 \\end{array} \\right. \\) |   

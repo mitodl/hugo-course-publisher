@@ -5,10 +5,6 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 3787fd4509aba0ecc5999d0bd6ea2873_stable-matching-invariants
     weight: 310
-    parent: 47305688cc389e2f9dc3019a395b3b37_stable-matching
----
-*   [<Matching](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/matching)
-*   [2.11.1Stable Matching: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching)
 *   [2.11.2Matching Ritual: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/matching-ritual-video)
 *   [2.11.3Derived Variables](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/derived-variables-0)
 *   [2.11.4Mating Ritual](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/mating-ritual-0)

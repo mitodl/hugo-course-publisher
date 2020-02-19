@@ -5,10 +5,6 @@ menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: ce8e09d4807a942257ee603eabb68035_ps.6.1-rocket-sled-problem
     weight: 230
-    parent: 28d93f13f552de729aab415b7158be8e_week-6-continuous-mass-transfer
----
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/19.7-rocket-problem-7-solution-with-external-forces" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem" %}}) »
-
 A rocket sled can eject gas backwards or forwards at a speed \\(\\displaystyle u\\) relative to the sled. The initial mass of the fuel in the sled is equal to dry mass of the sled, \\(\\displaystyle m\_0\\). At \\(\\displaystyle t=0\\) the rocket sled has speed \\(\\displaystyle v\_0\\) and starts to eject fuel in the forward direction in order to slow down. You may ignore air resistance. You may treat \\(\\displaystyle u\\) as a given constant in the following questions.
 
 ![A diagram of the Rocket Sled Problem.](https://open-learning-course-data.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/13ada4c5e938ee9670f4a78034edabb0_ls06_01.svg)

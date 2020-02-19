@@ -5,10 +5,6 @@ menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 05c37de95b15f34e45cb01719069e2a2_vertical-0b187f2dedb6
     weight: 160
-    parent: 30a03ec26577751dfb8c5b6d0813ce12_tp7-1
----
-*   [<DAGs](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/vertical-dcde59c77eab)
-*   [2.6.1DAGs: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1)
 *   [2.6.2DAGs](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/vertical-dcde59c77eab)
 *   [2.6.3Scheduling: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/vertical-0b187f2dedb6)
 *   [2.6.4Scheduling Prerequisites](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/vertical-cb2dbc0f9d11)

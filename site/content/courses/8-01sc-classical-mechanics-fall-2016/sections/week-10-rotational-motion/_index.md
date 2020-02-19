@@ -5,10 +5,6 @@ menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 146d8dd77c99bbafceb8ed10af8bee47_week-10-rotational-motion
     weight: 140
----
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/problem-set-9" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/week-10-introduction" %}}) »
-
-Week 10: Rotational Motion
 --------------------------
 
 *   [Week 10 Introduction]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/week-10-introduction" %}})
