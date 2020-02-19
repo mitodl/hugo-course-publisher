@@ -18,6 +18,26 @@
   }
 }
 
+.mobile-course-info-toggle {
+  position: absolute;
+  right: 0;
+  z-index: 10;
+
+  #toggle {
+    writing-mode: vertical-lr;
+  }
+}
+
+.course-nav-list-item {
+  @include media-breakpoint-up(lg) {
+    padding-right: 2rem;
+  }
+}
+
+.course-nav-text-wrapper {
+  margin-right: 24px;
+}
+
 .course-nav-section-toggle {
   position: absolute;
   right: 0;
@@ -32,16 +52,6 @@
   content: "remove" !important;
 }
 
-.child-menu > li {
+.course-nav-child-nav > li {
   padding-right: 0 !important;
-}
-
-.mobile-course-info-toggle {
-  position: absolute;
-  right: 0;
-  z-index: 10;
-
-  #toggle {
-    writing-mode: vertical-lr;
-  }
 }
