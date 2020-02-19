@@ -28,7 +28,8 @@ menu:
 
 ##### Course Features
 
-* [Lecture notes]({{% ref "sections/lecture-notes" %}})
+* [Lecture notes]({{% ref "courses/21m-250-beethoven-to-mahler-spring-2014/sections/lecture-notes" %}})
+* [This Course at MIT]({{% ref "courses/21m-250-beethoven-to-mahler-spring-2014/sections/instructor-insights" %}})
 
 ##### Course Collections
 

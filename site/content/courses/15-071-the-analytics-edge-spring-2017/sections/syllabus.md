@@ -1,8 +1,9 @@
 ---
 title: Syllabus
+course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: syllabus
+    identifier: 4ff3236dbb77bc3460226ad4dce64b50_syllabus
     weight: 10
 ---
 Course Meeting Times
@@ -46,7 +47,7 @@ Recitations will cover additional examples of the analytics methods presented in
 Assignments
 -----------
 
-There will be nine individual homework assignments and a ﬁnal project that should be done in teams of two. See the [Assignments section]({{% ref "assignments" %}}) for more details about the assignments and the final project.
+There will be nine individual homework assignments and a ﬁnal project that should be done in teams of two. See the [Assignments section]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/assignments" %}}) for more details about the assignments and the final project.
 
 Readings
 --------

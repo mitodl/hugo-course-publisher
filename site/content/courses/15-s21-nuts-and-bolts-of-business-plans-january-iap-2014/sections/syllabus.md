@@ -1,8 +1,9 @@
 ---
 title: Syllabus
+course_id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
 menu:
   15-s21-nuts-and-bolts-of-business-plans-january-iap-2014:
-    identifier: syllabus
+    identifier: 3d071376075b43d99c14867b6a999448_syllabus
     weight: 10
 ---
 Course Meeting Times
@@ -29,7 +30,7 @@ Grading and Course Credit
 -------------------------
 
 *   MIT students may take this course for 3 units of Pass / Fail Credit.
-*   Attendance at each session is required (unless otherwise approved) and the [writing requirement]({{% ref "writing-requirement" %}}) must be fulfilled.
+*   Attendance at each session is required (unless otherwise approved) and the [writing requirement]({{% ref "courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/sections/writing-requirement" %}}) must be fulfilled.
 
 Calendar
 --------

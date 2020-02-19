@@ -42,7 +42,7 @@ menu:
 
 ##### Course Features
 
-* [This Course at MIT]({{% ref "sections/instructor-insights" %}})
+* [This Course at MIT]({{% ref "courses/res-2-006-girls-who-build-cameras-summer-2016/sections/instructor-insights" %}})
 
 ##### Course Collections
 

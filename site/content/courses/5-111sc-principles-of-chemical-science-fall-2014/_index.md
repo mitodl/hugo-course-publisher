@@ -24,11 +24,11 @@ menu:
 
 ##### Course Features
 
-* [Lecture notes]({{% ref "sections/lecture-1" %}})
-* [Assignments]({{% ref "sections/lecture-1" %}})
-* [Exams]({{% ref "sections/exams" %}})
-* [AV special element video]({{% ref "sections/lecture-3" %}})
-* [Resource Index]({{% ref "sections/resource-index" %}})
+* [Lecture notes]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-1" %}})
+* [Assignments]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-1" %}})
+* [Exams]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/exams" %}})
+* [AV special element video]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3" %}})
+* [Resource Index]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/resource-index" %}})
 
 ##### Course Collections
 

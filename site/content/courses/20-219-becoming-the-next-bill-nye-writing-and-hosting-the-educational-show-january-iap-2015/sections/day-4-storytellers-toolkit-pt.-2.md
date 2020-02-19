@@ -1,11 +1,13 @@
 ---
 title: 'Day 4: Storyteller''s Toolkit Pt. 2'
+course_id: >-
+  20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
-    identifier: day-4-storytellers-toolkit-pt.-2
-    weight: 160
+    identifier: 60a6ea961026802d98a9351ce3b38557_day-4-storytellers-toolkit-pt.-2
+    weight: 170
 ---
-« [Previous]({{% ref "day-3-storytellers-toolkit-pt.-1" %}}) | [Next]({{% ref "day-5-storytellers-toolkit-pt.-3" %}}) »
+« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}) | [Next]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}) »
 
 Contents
 --------
@@ -62,24 +64,24 @@ Instructor and Student Work
 
 ### Day 4 Blogs / Vlogs
 
-*   [Elizabeth's day 4 blog]({{% ref "elizabeth-choes-reflections" %}}#Echoe\_s\_Day\_4\_Thoughts)
-*   [Ceri's day 4 blog]({{% ref "ceri-rileys-reflections" %}}#Reflection\_Day\_4)
-*   [Kenneth's day 4 blog]({{% ref "kenneth-cheahs-reflections" %}}#Day\_4\_Blog\_Post)
-*   [Joshua's day 4 blog]({{% ref "joshua-cheongs-reflections" %}}#Vlog\_Day\_4)
-*   [Andrea's day 4 blog]({{% ref "andrea-desrosierss-reflections" %}}#Day\_4)
-*   [PJ's day 4 blog]({{% ref "paul-pj-folinos-reflections" %}}#Pjfolino\_s\_Day\_4\_Thoughts)
-*   [Nathan's day 4 blog]({{% ref "nathan-hernandezs-reflections" %}}#Day\_4\_Reflection)
-*   [Yuliya's day 4 blog]({{% ref "yuliya-klochans-reflections" %}}#DAY\_4)
-*   [David's day 4 blog]({{% ref "david-yams-reflections" %}}#Day\_4)
+*   [Elizabeth's day 4 blog]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections" %}}#Echoe\_s\_Day\_4\_Thoughts)
+*   [Ceri's day 4 blog]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/ceri-rileys-reflections" %}}#Reflection\_Day\_4)
+*   [Kenneth's day 4 blog]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/kenneth-cheahs-reflections" %}}#Day\_4\_Blog\_Post)
+*   [Joshua's day 4 blog]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/joshua-cheongs-reflections" %}}#Vlog\_Day\_4)
+*   [Andrea's day 4 blog]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/andrea-desrosierss-reflections" %}}#Day\_4)
+*   [PJ's day 4 blog]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/paul-pj-folinos-reflections" %}}#Pjfolino\_s\_Day\_4\_Thoughts)
+*   [Nathan's day 4 blog]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/nathan-hernandezs-reflections" %}}#Day\_4\_Reflection)
+*   [Yuliya's day 4 blog]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/yuliya-klochans-reflections" %}}#DAY\_4)
+*   [David's day 4 blog]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/david-yams-reflections" %}}#Day\_4)
 
 ### Day 4 Storyboard
 
-*   [Kenneth's day 4 storyboard]({{% ref "kenneth-cheahs-project" %}}#Day\_4\_Story\_Board)
-*   [Joshua's day 4 storyboard]({{% ref "joshua-cheongs-project" %}}#Day\_4\_Storyboard)
-*   [Andrea's day 4 storyboard]({{% ref "andrea-desrosierss-project" %}}#Day\_4\_Storyboard)
-*   [PJ's day 4 storyboard]({{% ref "paul-pj-folinos-project" %}}#Paul\_s\_Storyboard)
-*   [Nathan's day 4 storyboard]({{% ref "nathan-hernandezs-project" %}}#Day\_4\_Storyboard)
-*   [Yuliya's day 4 storyboard]({{% ref "yuliya-klochans-project" %}}#Day\_4\_Storyboard)
-*   [David's day 4 storyboard]({{% ref "david-yams-project" %}}#Day\_4\_Storyboard)
+*   [Kenneth's day 4 storyboard]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project" %}}#Day\_4\_Story\_Board)
+*   [Joshua's day 4 storyboard]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project" %}}#Day\_4\_Storyboard)
+*   [Andrea's day 4 storyboard]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}#Day\_4\_Storyboard)
+*   [PJ's day 4 storyboard]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project" %}}#Paul\_s\_Storyboard)
+*   [Nathan's day 4 storyboard]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project" %}}#Day\_4\_Storyboard)
+*   [Yuliya's day 4 storyboard]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project" %}}#Day\_4\_Storyboard)
+*   [David's day 4 storyboard]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/david-yams-project" %}}#Day\_4\_Storyboard)
 
-« [Previous]({{% ref "day-3-storytellers-toolkit-pt.-1" %}}) | [Next]({{% ref "day-5-storytellers-toolkit-pt.-3" %}}) »
+« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}) | [Next]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}) »

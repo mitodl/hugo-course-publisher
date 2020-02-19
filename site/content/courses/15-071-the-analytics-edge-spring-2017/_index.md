@@ -28,10 +28,10 @@ menu:
 
 ##### Course Features
 
-* [AV lectures]({{% ref "sections/an-introduction-to-analytics" %}})
-* [Interactive assessments]({{% ref "sections/unit-index" %}})
-* [Lecture notes]({{% ref "sections/lecture-and-recitation-notes" %}})
-* [Assignments]({{% ref "sections/assignments" %}})
+* [AV lectures]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics" %}})
+* [Interactive assessments]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/unit-index" %}})
+* [Lecture notes]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/lecture-and-recitation-notes" %}})
+* [Assignments]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/assignments" %}})
 
 ##### Course Collections
 

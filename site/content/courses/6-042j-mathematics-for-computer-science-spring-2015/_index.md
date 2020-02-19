@@ -38,7 +38,7 @@ menu:
 
 ##### Course Features
 
-* [Resource Index]({{% ref "sections/resource-index" %}})
+* [Resource Index]({{% ref "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/resource-index" %}})
 
 ##### Course Collections
 

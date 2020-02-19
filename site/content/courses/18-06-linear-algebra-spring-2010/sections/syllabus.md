@@ -1,8 +1,9 @@
 ---
 title: Syllabus
+course_id: 18-06-linear-algebra-spring-2010
 menu:
   18-06-linear-algebra-spring-2010:
-    identifier: syllabus
+    identifier: ede17211bd49ea166ed701f09c1de288_syllabus
     weight: 10
 ---
 Course Meeting Times

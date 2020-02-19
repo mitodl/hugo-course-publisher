@@ -32,8 +32,10 @@ menu:
 
 ##### Course Features
 
-* [Assignments]({{% ref "sections/assignments" %}})
-* [Exams]({{% ref "sections/exams" %}})
+* [This Course at MIT]({{% ref "courses/8-591j-systems-biology-fall-2014/sections/instructor-insights" %}})
+* [Assignments]({{% ref "courses/8-591j-systems-biology-fall-2014/sections/assignments" %}})
+* [Exams]({{% ref "courses/8-591j-systems-biology-fall-2014/sections/exams" %}})
+* [AV lectures]({{% ref "courses/8-591j-systems-biology-fall-2014/sections/lecture-videos" %}})
 
 ##### Course Collections
 

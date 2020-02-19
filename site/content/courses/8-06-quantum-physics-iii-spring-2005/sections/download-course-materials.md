@@ -1,8 +1,9 @@
 ---
 title: Download Course Materials
+course_id: 8-06-quantum-physics-iii-spring-2005
 menu:
   8-06-quantum-physics-iii-spring-2005:
-    identifier: download-course-materials
+    identifier: fdc7bb051663354c22564ed88c590b86_download-course-materials
     weight: 70
 ---
 This package contains the same content as the online version of the course.

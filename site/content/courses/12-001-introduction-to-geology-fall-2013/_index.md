@@ -34,8 +34,8 @@ menu:
 
 ##### Course Features
 
-* [Assignments]({{% ref "sections/labs-and-exercises" %}})
-* [Lecture notes]({{% ref "sections/lecture-notes-and-slides" %}})
+* [Assignments]({{% ref "courses/12-001-introduction-to-geology-fall-2013/sections/labs-and-exercises" %}})
+* [Lecture notes]({{% ref "courses/12-001-introduction-to-geology-fall-2013/sections/lecture-notes-and-slides" %}})
 
 ##### Course Collections
 

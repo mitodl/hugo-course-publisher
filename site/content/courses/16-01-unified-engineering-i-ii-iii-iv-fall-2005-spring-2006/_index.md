@@ -44,11 +44,11 @@ menu:
 
 ##### Course Features
 
-* [AV selected lectures]({{% ref "sections/thermo-propulsion" %}})
-* [AV faculty introductions]({{% ref "sections/syllabus" %}})
-* [AV special element video]({{% ref "sections/systems-labs-04" %}})
-* [Assignments]({{% ref "sections/assignments" %}})
-* [Exams]({{% ref "sections/exams" %}})
+* [AV selected lectures]({{% ref "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/thermo-propulsion" %}})
+* [AV faculty introductions]({{% ref "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus" %}})
+* [AV special element video]({{% ref "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/systems-labs-04" %}})
+* [Assignments]({{% ref "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/assignments" %}})
+* [Exams]({{% ref "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/exams" %}})
 
 ##### Course Collections
 

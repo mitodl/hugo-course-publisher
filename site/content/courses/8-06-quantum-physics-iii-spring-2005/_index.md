@@ -30,7 +30,7 @@ menu:
 
 ##### Course Features
 
-* [Projects]({{% ref "sections/projects" %}})
+* [Projects]({{% ref "courses/8-06-quantum-physics-iii-spring-2005/sections/projects" %}})
 
 ##### Course Collections
 

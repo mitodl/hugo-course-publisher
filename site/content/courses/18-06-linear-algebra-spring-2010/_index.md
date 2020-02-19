@@ -26,10 +26,11 @@ menu:
 
 ##### Course Features
 
-* [AV special element video]({{% ref "sections/tools" %}})
-* [AV lectures]({{% ref "sections/video-lectures" %}})
-* [Assignments]({{% ref "sections/assignments" %}})
-* [Exams]({{% ref "sections/exams" %}})
+* [AV special element video]({{% ref "courses/18-06-linear-algebra-spring-2010/sections/tools" %}})
+* [AV lectures]({{% ref "courses/18-06-linear-algebra-spring-2010/sections/video-lectures" %}})
+* [Assignments]({{% ref "courses/18-06-linear-algebra-spring-2010/sections/assignments" %}})
+* [Exams]({{% ref "courses/18-06-linear-algebra-spring-2010/sections/exams" %}})
+* [Instructor Insights]({{% ref "courses/18-06-linear-algebra-spring-2010/sections/instructor-insights" %}})
 
 ##### Course Collections
 

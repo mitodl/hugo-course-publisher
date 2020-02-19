@@ -30,10 +30,10 @@ menu:
 
 ##### Course Features
 
-* [Lecture notes]({{% ref "sections/week-1" %}})
-* [Instructor Insights]({{% ref "sections/instructor-insights" %}})
-* [Projects]({{% ref "sections/design-project" %}})
-* [Resource Index]({{% ref "sections/resource-index" %}})
+* [Lecture notes]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-1" %}})
+* [Instructor Insights]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/instructor-insights" %}})
+* [Projects]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/design-project" %}})
+* [Resource Index]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/resource-index" %}})
 
 ##### Course Collections
 

@@ -1,9 +1,10 @@
 ---
 title: Lecture Notes and Slides
+course_id: 12-001-introduction-to-geology-fall-2013
 menu:
   12-001-introduction-to-geology-fall-2013:
-    identifier: lecture-notes-and-slides
-    weight: 80
+    identifier: 7a74d241d2fe5d877f747158998d8ed3_lecture-notes-and-slides
+    weight: 90
 ---
 Instructor Key
 --------------

@@ -26,11 +26,11 @@ menu:
 
 ##### Course Features
 
-* [Exams]({{% ref "sections/exam-1" %}})
-* [Lecture notes]({{% ref "sections/session-1-introduction-to-derivatives" %}})
-* [AV lectures]({{% ref "sections/session-1-introduction-to-derivatives" %}})
-* [Assignments]({{% ref "sections/session-1-introduction-to-derivatives" %}})
-* [Interactive simulations]({{% ref "sections/session-1-introduction-to-derivatives" %}})
+* [Exams]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1" %}})
+* [Lecture notes]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives" %}})
+* [AV lectures]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives" %}})
+* [Assignments]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives" %}})
+* [Interactive simulations]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives" %}})
 
 ##### Course Collections
 

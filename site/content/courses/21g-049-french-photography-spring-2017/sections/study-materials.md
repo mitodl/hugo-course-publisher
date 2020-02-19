@@ -1,9 +1,10 @@
 ---
 title: Study Materials
+course_id: 21g-049-french-photography-spring-2017
 menu:
   21g-049-french-photography-spring-2017:
-    identifier: study-materials
-    weight: 120
+    identifier: 4f04d25aa1ddc61385c5529160d13a91_study-materials
+    weight: 130
 ---
 General
 -------

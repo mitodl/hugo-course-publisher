@@ -37,7 +37,7 @@ menu:
 
 ##### Course Features
 
-* [AV lectures]({{% ref "sections/lecture-videos" %}})
+* [AV lectures]({{% ref "courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/sections/lecture-videos" %}})
 
 ##### Course Collections
 

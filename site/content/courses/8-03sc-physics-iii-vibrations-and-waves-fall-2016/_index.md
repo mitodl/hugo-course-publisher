@@ -24,8 +24,12 @@ menu:
 
 ##### Course Features
 
-* [Instructor Insights]({{% ref "sections/instructor-insights" %}})
-* [Resource Index]({{% ref "sections/resource-index" %}})
+* [AV lectures]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-1" %}})
+* [Exams]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/final-exam" %}})
+* [Lecture notes]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-1" %}})
+* [Instructor Insights]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/instructor-insights" %}})
+* [Resource Index]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/resource-index" %}})
+* [Assignments]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-1" %}})
 
 ##### Course Collections
 

@@ -29,6 +29,7 @@ menu:
 
 ##### Course Features
 
+* [This Course at MIT]({{% ref "courses/21m-295-american-popular-music-fall-2014/sections/instructor-insights" %}})
 
 ##### Course Collections
 

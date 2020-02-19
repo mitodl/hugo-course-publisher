@@ -1,9 +1,10 @@
 ---
 title: Listening and Scores
+course_id: 21m-250-beethoven-to-mahler-spring-2014
 menu:
   21m-250-beethoven-to-mahler-spring-2014:
-    identifier: listening-and-scores
-    weight: 30
+    identifier: d41293da8ebbaa728f1f4b32a0e39353_listening-and-scores
+    weight: 40
 ---
 | WEEK # | TOPICS | LISTENINGS, ASSIGNMENTS AND SCORES |
 | --- | --- | --- |

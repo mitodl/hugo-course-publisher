@@ -1,9 +1,10 @@
 ---
 title: Assignments
+course_id: 21m-295-american-popular-music-fall-2014
 menu:
   21m-295-american-popular-music-fall-2014:
-    identifier: assignments
-    weight: 30
+    identifier: f4f7a55b4f66c7b53e5c1ef0ca65dcea_assignments
+    weight: 40
 ---
 Research Essay
 --------------

@@ -1,11 +1,12 @@
 ---
 title: Instructor Insights
+course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
-    identifier: instructor-insights
+    identifier: 04ff44e40d3409c8726bf5bd29021df8_instructor-insights
     weight: 20
 ---
-« [Previous]({{% ref "syllabus" %}}) | [Next]({{% ref "part-i-mechanical-vibrations-and-waves" %}}) »
+« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves" %}}) »
 
 Instructor Insights
 -------------------
@@ -75,11 +76,11 @@ var pieData = \[ { value: 25, color: "#DD1E2F" }, { value: 20, color: "#EBB035" 
 
 ![The color used on the preceding chart which represents the percentage of the total grade contributed by problem sets.](/images/educator/edu_b-lab-key.png) 25% Problem sets
 
-![The color used on the preceding chart which represents the percentage of the total grade contributed by exam 1.](/images/educator/edu_b-lecture-key.png) 20% [Exam 1]({{% ref "exam-1" %}})
+![The color used on the preceding chart which represents the percentage of the total grade contributed by exam 1.](/images/educator/edu_b-lecture-key.png) 20% [Exam 1]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/exam-1" %}})
 
-![The color used on the preceding chart which represents the percentage of the total grade contributed by exam 2.](/images/educator/edu_b-present-key.png) 20% [Exam 2]({{% ref "exam-2" %}})
+![The color used on the preceding chart which represents the percentage of the total grade contributed by exam 2.](/images/educator/edu_b-present-key.png) 20% [Exam 2]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2" %}})
 
-![The color used on the preceding chart which represents the percentage of the total grade contributed by final exam.](/images/educator/edu_b-recitation-key.png) 35% [Final exam]({{% ref "final-exam" %}})
+![The color used on the preceding chart which represents the percentage of the total grade contributed by final exam.](/images/educator/edu_b-recitation-key.png) 35% [Final exam]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/final-exam" %}})
 
 Student Information
 -------------------
@@ -160,4 +161,4 @@ Semester Breakdown
 
 ![Displays the symbol used on the preceding table to indicate dates when exams are held.](/images/educator/edu_b-present-key.png) Exam
 
-« [Previous]({{% ref "syllabus" %}}) | [Next]({{% ref "part-i-mechanical-vibrations-and-waves" %}}) »
+« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves" %}}) »

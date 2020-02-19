@@ -1,8 +1,9 @@
 ---
 title: Assignments
+course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
 menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
-    identifier: assignments
+    identifier: a6eb21516f41806d94ffdc83eb5f4337_assignments
     weight: 30
 ---
 Assignment Schedule

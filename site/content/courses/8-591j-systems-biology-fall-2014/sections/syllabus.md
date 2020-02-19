@@ -1,8 +1,9 @@
 ---
 title: Syllabus
+course_id: 8-591j-systems-biology-fall-2014
 menu:
   8-591j-systems-biology-fall-2014:
-    identifier: syllabus
+    identifier: 3c3250695a1860f42dca6e84fb74034a_syllabus
     weight: 10
 ---
 Course Meeting Times

@@ -1,59 +1,62 @@
-<div class="table-responsive course-info">
-  <h4 class="font-weight-bold">Course Info</h4>
-  <table class="table table-borderless border-bottom-light mb-2">
-    <tr>
-      <td class="pl-0">Instructor(s)</td>
-      <td>
-        <ul class="list-unstyled m-0">
-          {{ range $instructor := .Params.course_info.instructors }}
-          <li>
-            <a href="#" class="coming-soon">
-              {{ $instructor }}
-            </a>
-          </li>
-          {{ end }}
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td class="pl-0">Department</td>
-      <td>
-        <a href="#" class="coming-soon">
-          {{ .Params.course_info.department }}
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td class="pl-0">Course No.</td>
-      <td>{{ .Params.course_info.course_number }}</td>
-    </tr>
-    <tr>
-      <td class="pl-0 text-nowrap">As Taught In</td>
-      <td>
-        <a href="#" class="coming-soon">
-          {{ .Params.course_info.term }}
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td class="pl-0 pb-3">Level</td>
-      <td>{{ .Params.course_info.level }}</td>
-    </tr>
-  </table>
-  <table class="table table-borderless border-bottom-light mb-2">
-    <tr>
-      <td class="pl-0 pb-3">Topic(s)</td>
-      <td class="pb-3">
-        <ul class="list-unstyled m-0">
-          {{ range $topic := .Params.course_info.topics }}
-          <li>
-            <a href="#" class="coming-soon">
-              {{ $topic }}
-            </a>
-          </li>
-          {{ end }}
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+{{ $course_home := printf "%s/%s/%s" "courses" .CurrentSection.Params.course_id "_index.md" }}
+{{ with .Site.GetPage $course_home }}
+  <div class="table-responsive course-info">
+    <h4 class="font-weight-bold">Course Info</h4>
+    <table class="table table-borderless border-bottom-light mb-2">
+      <tr>
+        <td class="pl-0">Instructor(s)</td>
+        <td>
+          <ul class="list-unstyled m-0">
+            {{ range $instructor := .Params.course_info.instructors }}
+            <li>
+              <a href="#" class="coming-soon">
+                {{ $instructor }}
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td class="pl-0">Department</td>
+        <td>
+          <a href="#" class="coming-soon">
+            {{ .Params.course_info.department }}
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td class="pl-0">Course No.</td>
+        <td>{{ .Params.course_info.course_number }}</td>
+      </tr>
+      <tr>
+        <td class="pl-0 text-nowrap">As Taught In</td>
+        <td>
+          <a href="#" class="coming-soon">
+            {{ .Params.course_info.term }}
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td class="pl-0 pb-3">Level</td>
+        <td>{{ .Params.course_info.level }}</td>
+      </tr>
+    </table>
+    <table class="table table-borderless border-bottom-light mb-2">
+      <tr>
+        <td class="pl-0 pb-3">Topic(s)</td>
+        <td class="pb-3">
+          <ul class="list-unstyled m-0">
+            {{ range $topic := .Params.course_info.topics }}
+            <li>
+              <a href="#" class="coming-soon">
+                {{ $topic }}
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </td>
+      </tr>
+    </table>
+  </div>
+{{ end }}
