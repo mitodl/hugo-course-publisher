@@ -3,7 +3,7 @@
   {{ $course_id := .CurrentSection.Params.course_id }}
   {{ $menu := index .Site.Menus $course_id }}
   <nav id="course-nav" class="course-nav">
-    <ul class="m-auto">
+    <ul class="w-100 m-auto list-unstyled">
       {{ range $menu }}
         {{ partial "nav_item.html" (dict "menuItem" . "currentPage" $currentPage "courseId" $course_id) }}
       {{ end }}

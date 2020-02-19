@@ -1,21 +1,27 @@
 {{ $parentId := .menuItem.Identifier }}
 {{ $currentPage := .currentPage }}
 {{ $courseId := .courseId }}
-<li class="pr-3">
-  <a class="text-uppercase text-dark{{ if $currentPage.IsMenuCurrent $courseId .menuItem }} active{{ end }}"
-    href="{{ .menuItem.URL | relURL }}">
-    {{ .menuItem.Name }}
-  </a>
-  {{ if .menuItem.HasChildren }}
-    <a href="#nav-container_{{ .menuItem.Identifier }}" data-toggle="collapse">Toggle Children</a>
+{{ $showSelectedChildren := partial "show_selected_children.html" (dict "menuItem" .menuItem "currentPage" $currentPage "courseId" $courseId) }}
+{{ $showSelectedChildren := trim $showSelectedChildren " " }}
+<li>
+  <div class="position-relative">
+    <a class="text-uppercase text-dark{{ if $currentPage.IsMenuCurrent $courseId .menuItem }} active{{ end }}"
+      href="{{ .menuItem.URL | relURL }}">
+      {{ .menuItem.Name }}
+    </a>
+    {{ if .menuItem.HasChildren }}
+    <a class="course-nav-section-toggle" href="#nav-container_{{ .menuItem.Identifier }}" data-toggle="collapse">
+      <i class="material-icons"></i>
+    </a>
     <div 
-    class="collapse {{ partial "show_selected_children.html" (dict "menuItem" .menuItem "currentPage" $currentPage "courseId" $courseId) }}" 
+    class="collapse {{- $showSelectedChildren -}}" 
     id="nav-container_{{ .menuItem.Identifier }}">
-      <ul class="m-auto">
+      <ul class="child-menu m-auto">
         {{ range .menuItem.Children }}
           {{ partial "nav_item.html" (dict "menuItem" . "currentPage" $currentPage "courseId" $courseId "parentId" $parentId ) }}
         {{ end }}
       </ul>
     </div>
+  </div>
   {{ end }}
 </li>

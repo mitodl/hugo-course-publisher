@@ -17,3 +17,21 @@
     font-size: 20px;
   }
 }
+
+.course-nav-section-toggle {
+  position: absolute;
+  right: 0;
+  z-index: 1;
+}
+
+.course-nav-section-toggle > i:after {
+  content: "add";
+}
+
+.course-nav-section-toggle[aria-expanded="true"] > i:after {
+  content: "remove" !important;
+}
+
+.child-menu > li {
+  padding-right: 0 !important;
+}

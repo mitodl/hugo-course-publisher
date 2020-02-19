@@ -1,8 +1,8 @@
 {{ $currentPage := .currentPage }}
 {{ $courseId := .courseId}}
-{{ range .menuItem.Children }}
-    {{ if $currentPage.IsMenuCurrent $courseId . }} show{{ end }}
-    {{ if .HasChildren }}
-    {{ partial "show_selected_children.html" (dict "menuItem" . "currentPage" $currentPage "courseId" $courseId) }}
-    {{ end }}
-{{ end }}
+{{- range .menuItem.Children -}}
+    {{- if $currentPage.IsMenuCurrent $courseId . -}}show{{- end -}}
+    {{- if .HasChildren -}}
+    {{- partial "show_selected_children.html" (dict "menuItem" . "currentPage" $currentPage "courseId" $courseId) -}}
+    {{- end -}}
+{{- end -}}
