@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 3dc85d2964027d254560f6c2d785769f_truth-tables-video
-    weight: 140
+    weight: 310
     parent: 8de160a9e7299f7fec8a58aef5106eef_tp2-2
 ---
 *   [<Digital Logic: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/digital-logic-video)

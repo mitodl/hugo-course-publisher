@@ -4,7 +4,7 @@ course_id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
 menu:
   15-s21-nuts-and-bolts-of-business-plans-january-iap-2014:
     identifier: a23d0f4a042a105752a611c2407732da_writing-requirement
-    weight: 70
+    weight: 110
 ---
 Writing Requirement
 -------------------

@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: df4075ebddf723b13e4e1e74f6a84766_vertical-9df50ab7aa43
-    weight: 170
+    weight: 2020
     parent: 7fcb07616e2948a6ad10caa832263c78_tp8-3
 ---
 *   [<Asymptotic Blunders](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-f4d8cd185706)

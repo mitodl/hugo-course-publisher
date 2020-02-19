@@ -4,7 +4,11 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 63e325a780c79e352fb5bddb9b8b2c6a_week-1-kinematics
-    weight: 50
+    weight: 120
+---
+« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors/0.6-going-between-representations" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/week-1-introduction" %}}) »
+
+Week 1: Kinematics
 ------------------
 
 *   [Week 1: Introduction]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/week-1-introduction" %}})

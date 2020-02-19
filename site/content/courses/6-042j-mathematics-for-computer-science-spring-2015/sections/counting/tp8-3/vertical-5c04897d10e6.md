@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 1f7846cac133388fd786cae947c99035_vertical-5c04897d10e6
-    weight: 140
+    weight: 1990
     parent: 7fcb07616e2948a6ad10caa832263c78_tp8-3
 ---
 *   [<Asymptotic Properties: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-e35ce9684389)

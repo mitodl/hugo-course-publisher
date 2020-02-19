@@ -6,7 +6,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 20d828736498be17a983f7473b292a08_video-4-logistic-regression-models
-    weight: 160
+    weight: 1080
     parent: >-
       cd55cbba60f6d5d37320e05f520c4cf1_election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation
 ---

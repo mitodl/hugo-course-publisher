@@ -4,7 +4,7 @@ course_id: ec-711-d-lab-energy-spring-2011
 menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: ca54380aa4276bca928a60120653283d_problem-set-3
-    weight: 50
+    weight: 120
     parent: 70e2edb13971cd3b00913ae541bcdecc_lighting-biogas
 ---
 Question 1

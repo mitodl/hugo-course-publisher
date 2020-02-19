@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 85a5d448503dca4eab98376d8f3a64dc_structural-induction-definition
-    weight: 210
+    weight: 800
     parent: dc6ecd4f10b94f9f9744a385e4bab210_recursive-definition
 ---
 *   [<Structural Induction: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition/structural-induction-video)

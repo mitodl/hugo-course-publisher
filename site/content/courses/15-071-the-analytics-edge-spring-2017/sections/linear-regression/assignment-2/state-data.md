@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 609cf3523750f69ecb54c706f04a68c5_state-data
-    weight: 150
+    weight: 760
     parent: d3823600300c03000e79696e835f8f2f_assignment-2
 ---
 *   [<Detecting Flu Epidemics via Search Engine Query Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/detecting-flu-epidemics-via-search-engine-query-data" %}})

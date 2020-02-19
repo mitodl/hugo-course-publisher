@@ -5,7 +5,11 @@ menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: >-
       919a2c506eb4551d940bb0dbab2356f0_week-4-drag-forces-constraints-and-continuous-systems
-    weight: 80
+    weight: 750
+---
+« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/problem-set-3" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/week-4-introduction" %}}) »
+
+Week 4: Drag Forces, Constraints and Continuous Systems
 -------------------------------------------------------
 
 *   [Week 4 Introduction]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/week-4-introduction" %}})

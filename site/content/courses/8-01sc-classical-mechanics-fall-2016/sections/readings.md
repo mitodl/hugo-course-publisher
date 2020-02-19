@@ -4,7 +4,11 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: 8897a3b7567fb55281b32f8a1de7b53b_readings
-    weight: 20
+    weight: 30
+---
+« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus/about-the-team" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments" %}}) »
+
+The full course notes are also available for [download (PDF - 67.9MB)](https://ocw.mit.edu/ans7870/8/8.01/f16/readings/MIT8_01F16_TableOfContents.pdf).
 
 | LESSON # | LESSON TITLES | READINGS |
 | --- | --- | --- |

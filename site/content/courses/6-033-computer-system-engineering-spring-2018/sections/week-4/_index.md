@@ -4,7 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 0466ee2b5ebb72d0ad4f7badf3b6c645_week-4
-    weight: 70
+    weight: 170
 ---
 Lecture 6: Operating Systems Structure + Virtual Machines
 ---------------------------------------------------------

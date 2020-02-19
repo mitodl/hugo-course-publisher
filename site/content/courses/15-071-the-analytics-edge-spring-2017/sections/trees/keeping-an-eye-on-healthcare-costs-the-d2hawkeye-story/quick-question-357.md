@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 2f9da0d0e4ef29ad6861c462ec145784_quick-question-357
-    weight: 270
+    weight: 1420
     parent: >-
       52a221ddc01190a445b1a393b15cb810_keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story
 ---

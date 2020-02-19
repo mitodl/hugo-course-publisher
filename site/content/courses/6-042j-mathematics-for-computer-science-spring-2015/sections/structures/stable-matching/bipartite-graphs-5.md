@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: b4fd4f9e1a3b0fb0135c7ef9c5b94025_bipartite-graphs-5
-    weight: 290
+    weight: 1790
     parent: 47305688cc389e2f9dc3019a395b3b37_stable-matching
 ---
 *   [<Bottleneck](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/bottleneck-3)

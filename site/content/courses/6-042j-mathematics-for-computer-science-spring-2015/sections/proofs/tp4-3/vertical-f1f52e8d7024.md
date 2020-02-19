@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 6cc03e5eec8176fbb79f4590cb8aeb8d_vertical-f1f52e8d7024
-    weight: 260
+    weight: 910
     parent: 7b14af4d984597ad410998ecc9fb9f71_tp4-3
 ---
 *   [<Halting Problem Basics \[Optional\]](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-1ef05b471b3d)

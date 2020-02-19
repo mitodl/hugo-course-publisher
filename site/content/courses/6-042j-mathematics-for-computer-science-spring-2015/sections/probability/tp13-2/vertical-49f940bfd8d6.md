@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 3371149b256c64a83ee658774d2d4987_vertical-49f940bfd8d6
-    weight: 200
+    weight: 2730
     parent: f195ee849b9aee3ccf61f90bea10cebb_tp13-2
 ---
 *   [<Markov Bound](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-ecd276750fa8)

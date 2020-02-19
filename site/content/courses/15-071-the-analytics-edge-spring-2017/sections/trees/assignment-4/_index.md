@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 11ad34c810832b186afacd57f2616109_assignment-4
-    weight: 140
+    weight: 1520
     parent: 19c8cf92e31d034a1ea15ad53194d892_trees
 ---
 *   [<Video 7: Cross-Validation]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-7-cross-validation" %}})

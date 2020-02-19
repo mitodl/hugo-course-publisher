@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 5c7eefc2aa74f435dfec3b66a4c02648_vertical-9984d57d43e5
-    weight: 160
+    weight: 600
     parent: 5179d7c0c3f7a60a33d7c24d9d219172_tp4-1
 ---
 *   [< Induction](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1)

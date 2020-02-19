@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: ad37df74c536e3bf54d8546ea7d3b482_quick-question-510
-    weight: 170
+    weight: 2350
     parent: >-
       274ac6b9daf6cd65874ec643ab327953_visualizing-the-world-an-introduction-to-visualization
 ---

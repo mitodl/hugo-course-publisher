@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 9ca8d5221938d4b571f2f13ccdb46a19_video-2-how-online-advertising-works
-    weight: 190
+    weight: 2950
     parent: >-
       696dd6e442cc1fc47c9f2924e2edfb26_google-adwords-optimizing-online-advertising-recitation
 ---

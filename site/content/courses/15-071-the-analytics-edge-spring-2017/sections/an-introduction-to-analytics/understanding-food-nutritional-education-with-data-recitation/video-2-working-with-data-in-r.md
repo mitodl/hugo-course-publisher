@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 2f4e613d5b817c86b63878b382d65963_video-2-working-with-data-in-r
-    weight: 120
+    weight: 300
     parent: >-
       7ae5f9abee30803e522bc737bfb5e185_understanding-food-nutritional-education-with-data-recitation
 ---

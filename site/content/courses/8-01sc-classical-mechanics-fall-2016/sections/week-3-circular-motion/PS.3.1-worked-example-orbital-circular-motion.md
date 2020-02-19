@@ -5,7 +5,11 @@ menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: >-
       938ca53be5bedb207d92fe94493d1b80_PS.3.1-worked-example-orbital-circular-motion
-    weight: 220
+    weight: 730
+    parent: 3c7d357cbb95e729679b539d23714ede_week-3-circular-motion
+---
+« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/11.3-demo-rotating-bucket" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/problem-set-3" %}}) »
+
 A person on a spherical asteroid of mass \\(\\displaystyle m\_1\\) and radius \\(\\displaystyle R\\), sees a small satellite of mass \\(\\displaystyle m\_2\\) orbiting the asteroid in a circular orbit of period \\(\\displaystyle T\\).
 
 Express you answer in terms of some or all of the following: \\(\\displaystyle m\_1\\),\\(\\displaystyle m\_2\\), \\(\\displaystyle \\pi\\), \\(\\displaystyle T\\), and the universal gravitational constant \\(\\displaystyle G\\).

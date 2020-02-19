@@ -4,7 +4,11 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: c00c7194c0cea091fd9bc5f3ba49fe85_ps.1.3-worked-example-braking-car
-    weight: 260
+    weight: 340
+    parent: 63e325a780c79e352fb5bddb9b8b2c6a_week-1-kinematics
+---
+« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.2-shooting-the-apple" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.4-sketch-the-motion" %}}) »
+
 At time \\(\\displaystyle t=0 \\), a car moving along the +\\(\\displaystyle x \\)-axis passes through \\(\\displaystyle x=0 \\) with a constant velocity of magnitude \\(\\displaystyle v\_0 \\). At some time later, \\(\\displaystyle t\_1 \\), it starts to slow down. The acceleration of the car as a function of time is given by:
 
 | \\(\\displaystyle a(t) = \\left\\{ \\begin{array}{ll} 0 & \\quad 0 \\leq t \\leq t\_1 \\\\ -c(t-t\_1) & \\quad t\_1 \\lt t \\leq t\_2 \\end{array} \\right. \\) |   

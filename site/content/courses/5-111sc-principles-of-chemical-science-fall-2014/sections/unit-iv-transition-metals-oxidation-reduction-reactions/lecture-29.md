@@ -4,7 +4,7 @@ course_id: 5-111sc-principles-of-chemical-science-fall-2014
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
     identifier: ddc6ceab131130089df1db9d631a91d2_lecture-29
-    weight: 110
+    weight: 350
     parent: >-
       898636543b8426a3a53091cb22239ee9_unit-iv-transition-metals-oxidation-reduction-reactions
 ---

@@ -4,7 +4,7 @@ course_id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
 menu:
   15-s21-nuts-and-bolts-of-business-plans-january-iap-2014:
     identifier: 818671482c0508308342fa4892f8a248_related-resources-and-links
-    weight: 80
+    weight: 120
 ---
 The Founder's Memo
 ------------------

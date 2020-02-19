@@ -6,7 +6,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: fe8e6610742785e9e33b488d454628d9_video-2-the-data
-    weight: 150
+    weight: 1460
     parent: >-
       aef27920c51cefd188ed937539251bd9_location-location-location-regression-trees-for-housing-data-recitation
 ---

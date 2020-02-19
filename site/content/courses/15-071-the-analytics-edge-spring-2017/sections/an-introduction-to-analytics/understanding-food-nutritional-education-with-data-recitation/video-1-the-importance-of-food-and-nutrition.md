@@ -5,7 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: >-
       4f44f3ee6d9f23a64a2062fef7b59b43_video-1-the-importance-of-food-and-nutrition
-    weight: 110
+    weight: 290
     parent: >-
       7ae5f9abee30803e522bc737bfb5e185_understanding-food-nutritional-education-with-data-recitation
 ---

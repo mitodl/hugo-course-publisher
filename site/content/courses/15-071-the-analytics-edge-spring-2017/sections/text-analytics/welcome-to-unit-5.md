@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 099087f828fe018133bb4d81b65985a1_welcome-to-unit-5
-    weight: 110
+    weight: 1560
     parent: 5847ad879afecf3e9b93c20cffe87acf_text-analytics
 ---
 *   [<Text Analytics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics" %}})

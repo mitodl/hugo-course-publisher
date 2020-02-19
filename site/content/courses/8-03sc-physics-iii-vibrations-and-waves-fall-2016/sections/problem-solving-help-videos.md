@@ -4,7 +4,11 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: b6ee7c446a3a2ad7fbfc44db748bf0a4_problem-solving-help-videos
-    weight: 70
+    weight: 330
+---
+« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/final-exam" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/resource-index" %}}) »
+
+These Problem Solving Help Videos provide step-by-step solutions to typical problems solved in an undergraduate course on Vibrations and Waves. Along with each video, Professor Wit Busza has included two sample problems for you to solve. Answers and hints are provided, but not full solutions.
 
 *   [Simple Harmonic Motion and Introduction to Problem Solving](./resolveuid/207c7e0846c3a299853575d357717ad6)
 *   [Harmonic Oscillators with Damping](./resolveuid/fe5a0c661af9340e4b3133217f890c98)

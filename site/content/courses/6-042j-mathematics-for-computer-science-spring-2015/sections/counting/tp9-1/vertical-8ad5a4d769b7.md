@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 8240326e97e436bfb4d435b5ffa29d77_vertical-8ad5a4d769b7
-    weight: 160
+    weight: 2090
     parent: 71ca527263f24aa7d717ef63328e47ef_tp9-1
 ---
 *   [<Selecting Donuts](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-1/vertical-74c5f1c609a4)

@@ -4,7 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 89e1e54ea14ef97406689840928834a2_lecture-8-outline
-    weight: 90
+    weight: 240
     parent: a8eaa3de11de35a2f8d6b2d186c97fc6_week-5
 ---
 1.  Welcome to Networking

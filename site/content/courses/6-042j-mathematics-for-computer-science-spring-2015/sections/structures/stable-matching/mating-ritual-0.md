@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: e3743d146b358f701466b55c0ff1cb9a_mating-ritual-0
-    weight: 220
+    weight: 1720
     parent: 47305688cc389e2f9dc3019a395b3b37_stable-matching
 ---
 *   [<Derived Variables](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/derived-variables-0)

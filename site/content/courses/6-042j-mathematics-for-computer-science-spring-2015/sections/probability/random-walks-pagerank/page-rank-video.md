@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 47abbae7418e0c77664265ad31d7e444_page-rank-video
-    weight: 200
+    weight: 2920
     parent: ec31be5e21ec45ab3eab7ab45d2e85b7_random-walks-pagerank
 ---
 *   [<Stationary Distributions: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank/stationary-distributions-video)

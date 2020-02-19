@@ -4,7 +4,11 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 109f4d41cb88fdaade16336e6c117167_tp7-3
-    weight: 170
+    weight: 1510
+    parent: 20b0a2b7a262cb94efd44e9e00511cee_structures
+---
+*   [<Non-Isomorphic Graphs](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/vertical-3c93d1aadcac)
+*   [2.9.1Coloring: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3)
 *   [2.9.2Chromatic Number](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/vertical-312af3a98ad1)
 *   [2.9.3Connectivity: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/vertical-857c6f8a582c)
 *   [2.9.4k-Connectivity: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/vertical-a730aa2d96d6)

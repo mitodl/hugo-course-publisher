@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 68230ebe4f1e941843d991caad882931_bipartite-matching-video
-    weight: 250
+    weight: 1750
     parent: 47305688cc389e2f9dc3019a395b3b37_stable-matching
 ---
 *   [<Boy Optimal](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/boy-optimal)

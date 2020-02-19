@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 1924c416bffb731966228542170e6c66_video-3-pre-processing
-    weight: 170
+    weight: 1850
     parent: >-
       d4b1a3b942ed98d194feb3777ba22595_predictive-coding-bringing-text-analytics-to-the-courtroom-recitation
 ---

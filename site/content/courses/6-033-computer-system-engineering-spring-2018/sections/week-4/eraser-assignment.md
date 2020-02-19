@@ -4,7 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 85894c2022fb054e580a61a43ed2648d_eraser-assignment
-    weight: 90
+    weight: 190
     parent: 0466ee2b5ebb72d0ad4f7badf3b6c645_week-4
 ---
 Before reading the Eraser paper, refresh your memory on what race conditions are and the troubles that they can cause by revisiting sections 5.2.2, 5.2.3, and 5.2.4 of the textbook.

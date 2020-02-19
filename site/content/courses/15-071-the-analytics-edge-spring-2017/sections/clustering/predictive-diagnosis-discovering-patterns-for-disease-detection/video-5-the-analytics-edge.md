@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 738ec89ee32e8ed68e9df4d6924ebe0b_video-5-the-analytics-edge
-    weight: 220
+    weight: 2190
     parent: >-
       0943bd811d9caf9e92bf3c7bf9d7b9f2_predictive-diagnosis-discovering-patterns-for-disease-detection
 ---

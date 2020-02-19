@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 5ac291e9f7cb6b8e19b1740753e96bf6_video-2-playoffs-and-wins
-    weight: 130
+    weight: 700
     parent: 3d4f0b49ab636ab4200c8f27a219c0dc_playing-moneyball-in-the-nba-recitation
 ---
 *   [<Video 1: The Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-1-the-data" %}})

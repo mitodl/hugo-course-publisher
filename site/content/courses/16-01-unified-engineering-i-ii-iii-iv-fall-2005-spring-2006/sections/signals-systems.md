@@ -4,7 +4,7 @@ course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
 menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
     identifier: 85c1b0de227de38d9a55dc7008c03de7_signals-systems
-    weight: 60
+    weight: 110
 ---
 Instructor
 ----------

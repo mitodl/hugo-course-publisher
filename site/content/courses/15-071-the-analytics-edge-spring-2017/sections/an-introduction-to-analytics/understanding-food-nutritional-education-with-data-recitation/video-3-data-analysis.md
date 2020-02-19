@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 6ad5f5f03eab95b2b2855fe1042f41da_video-3-data-analysis
-    weight: 130
+    weight: 310
     parent: >-
       7ae5f9abee30803e522bc737bfb5e185_understanding-food-nutritional-education-with-data-recitation
 ---

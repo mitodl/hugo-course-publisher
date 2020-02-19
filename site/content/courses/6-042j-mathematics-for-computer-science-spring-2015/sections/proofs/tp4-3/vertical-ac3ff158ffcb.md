@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 3d1b60b99d2789b86c9d68b8d7c0db02_vertical-ac3ff158ffcb
-    weight: 270
+    weight: 920
     parent: 7b14af4d984597ad410998ecc9fb9f71_tp4-3
 ---
 *   [<Russell's Paradox: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-f1f52e8d7024)

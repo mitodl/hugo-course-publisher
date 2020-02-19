@@ -4,7 +4,11 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: a17de119e456b83434f9333f6468dcc4_vertical-f4e414f3a824
-    weight: 170
+    weight: 1180
+    parent: 8083cb558a36eb8dad32920ceb95cfdb_tp6-1
+---
+*   [<Fermat's Little Theorem](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/vertical-0be4c94c5864)
+*   [2.3.1Modular Exponentiation Euler's Function: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1)
 *   [2.3.2Euler's Totient Function](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/vertical-62a25d1dd25f)
 *   [2.3.3The Ring Z: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/vertical-96037fd2d933)
 *   [2.3.4The Ring](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/vertical-cad174bba3a3)

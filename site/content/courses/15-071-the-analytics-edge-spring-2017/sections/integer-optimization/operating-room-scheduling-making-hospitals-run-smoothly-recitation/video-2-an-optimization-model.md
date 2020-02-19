@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 8a92070b71b9513e35b1c9854c1ef91c_video-2-an-optimization-model
-    weight: 200
+    weight: 3230
     parent: >-
       1ebaa9f0a112c16192d91227cd28b727_operating-room-scheduling-making-hospitals-run-smoothly-recitation
 ---

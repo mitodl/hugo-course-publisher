@@ -4,7 +4,11 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 4a3dae223e4b13d0ab5e49e7b2632b51_vertical-ad604933e05b
-    weight: 150
+    weight: 1160
+    parent: 8083cb558a36eb8dad32920ceb95cfdb_tp6-1
+---
+*   [<The Ring](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/vertical-cad174bba3a3)
+*   [2.3.1Modular Exponentiation Euler's Function: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1)
 *   [2.3.2Euler's Totient Function](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/vertical-62a25d1dd25f)
 *   [2.3.3The Ring Z: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/vertical-96037fd2d933)
 *   [2.3.4The Ring](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/vertical-cad174bba3a3)

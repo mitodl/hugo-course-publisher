@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: c0ef063dc722b998a530922a135bd19e_video-7-hierarchical-clustering-in-r
-    weight: 250
+    weight: 2080
     parent: >-
       b091b1bec85a85e060a83b7905c9dcce_recommendations-worth-a-million-an-introduction-to-clustering
 ---

@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 5ad4adabcbfd96519c29e15788beb6c4_vertical-65e8069d3ac4
-    weight: 160
+    weight: 1890
     parent: 93998ab0044352e85efcb877380e8e28_tp8-2
 ---
 *   [<Harmonic Numbers](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-c496866a2419)

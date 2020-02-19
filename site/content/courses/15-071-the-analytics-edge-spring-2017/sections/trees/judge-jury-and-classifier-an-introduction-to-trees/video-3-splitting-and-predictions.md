@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: ca1564b0917866a3a00e801c8c9fdbbc_video-3-splitting-and-predictions
-    weight: 150
+    weight: 1180
     parent: >-
       11f9b44dc2960689414b8c313764a18d_judge-jury-and-classifier-an-introduction-to-trees
 ---

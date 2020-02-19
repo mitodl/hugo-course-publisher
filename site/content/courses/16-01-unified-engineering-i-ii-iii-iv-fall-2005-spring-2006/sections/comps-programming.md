@@ -4,7 +4,7 @@ course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
 menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
     identifier: 34c4c9914bb5d25150ee34713d7b7e3e_comps-programming
-    weight: 90
+    weight: 140
 ---
 Instructor
 ----------

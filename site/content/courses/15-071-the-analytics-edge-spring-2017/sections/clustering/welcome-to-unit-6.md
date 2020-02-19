@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 33fa178e64d4cd25dd867bb0db6ee3a5_welcome-to-unit-6
-    weight: 120
+    weight: 1950
     parent: 6e34350394a0f94851f48f324b5f657f_clustering
 ---
 *   [<Clustering]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering" %}})

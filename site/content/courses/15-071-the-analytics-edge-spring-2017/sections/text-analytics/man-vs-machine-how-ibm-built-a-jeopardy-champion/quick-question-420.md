@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: d45e2c9f7b3a704d918d9b04749cbccb_quick-question-420
-    weight: 200
+    weight: 1780
     parent: >-
       0c9bd7c26f88e1f372bb45bfb1705096_man-vs-machine-how-ibm-built-a-jeopardy-champion
 ---

@@ -5,7 +5,7 @@ menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: >-
       274ac6b9daf6cd65874ec643ab327953_visualizing-the-world-an-introduction-to-visualization
-    weight: 140
+    weight: 2320
     parent: ab87d151cf8cfe95c873e816df164d38_visualization
 ---
 *   [<Welcome to Unit 7]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/welcome-to-unit-7" %}})

@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 0eda0eaea3c49eeee2696ea3438d6cbc_vertical-ed6030bda119
-    weight: 180
+    weight: 350
     parent: 8de160a9e7299f7fec8a58aef5106eef_tp2-2
 ---
 *   [<Propositional Logic: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/propositional-logic-video)

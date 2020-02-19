@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: edfa21bd1c7e27c3da1fa19f2e98949e_vertical-74c5f1c609a4
-    weight: 150
+    weight: 2080
     parent: 71ca527263f24aa7d717ef63328e47ef_tp9-1
 ---
 *   [<Counting with Bijections: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-1/vertical-96a6db418419)

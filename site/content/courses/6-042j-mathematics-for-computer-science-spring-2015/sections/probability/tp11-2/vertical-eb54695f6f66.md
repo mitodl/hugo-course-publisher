@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: f23bfdc1add774bb71f670ad72ae6bf0_vertical-eb54695f6f66
-    weight: 160
+    weight: 2280
     parent: 4414c612ae424c737466f4715f85e319_tp11-2
 ---
 *   [<Sample Spaces: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-7e0be1baca38)

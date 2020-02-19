@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 3ba39db4a883d8dbc319e06abeaa21a5_video-5-world-maps-in-r
-    weight: 210
+    weight: 2600
     parent: >-
       0af39afbaff0a226a397da1206ecd712_the-good-the-bad-and-the-ugly-visualization-recitation-recitation
 ---

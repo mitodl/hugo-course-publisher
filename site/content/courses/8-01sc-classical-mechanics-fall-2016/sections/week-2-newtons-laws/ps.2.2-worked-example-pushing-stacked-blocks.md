@@ -5,7 +5,11 @@ menu:
   8-01sc-classical-mechanics-fall-2016:
     identifier: >-
       00aef6423d37f1e08db3ced31e4003c0_ps.2.2-worked-example-pushing-stacked-blocks
-    weight: 230
+    weight: 550
+    parent: cf6d9ae85d7b6e788f1e70cf24afc329_week-2-newtons-laws
+---
+« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.1-worked-example-sliding-block" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.3-window-washer-problem" %}}) »
+
 Consider two blocks that are resting one on top of the other. The lower block has mass \\(\\displaystyle m\_1\\) and is resting on a surface. The upper block has mass \\(\\displaystyle m\_2<m\_1\\) . Suppose the coefficient of static friction between the blocks is \\(\\displaystyle \\mu \_ s\\) . A horizontal force of magnitude \\(\\displaystyle F\\) is applied to block 1 as shhown.
 
 ![A diagram of the two blocks being pushed.](https://open-learning-course-data.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/9af7d45fedb623eee81e08b6e024979f_week2ps3_1a.svg)

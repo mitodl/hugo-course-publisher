@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 5e9398f5808e614ec06fe6634bc50d7e_video-1-the-problem
-    weight: 190
+    weight: 3220
     parent: >-
       1ebaa9f0a112c16192d91227cd28b727_operating-room-scheduling-making-hospitals-run-smoothly-recitation
 ---

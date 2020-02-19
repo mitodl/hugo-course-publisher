@@ -4,7 +4,11 @@ course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 95fe77027ee0466aa18180c31fa40386_lecture-23
-    weight: 130
+    weight: 300
+    parent: 562065223db4e5d13c0186ef14e4db6a_part-iii-optics
+---
+« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-22" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-24" %}}) »
+
 Lecture Topics
 --------------
 

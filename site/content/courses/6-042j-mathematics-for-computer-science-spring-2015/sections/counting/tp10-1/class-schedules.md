@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 33eeaaae10d0197164745da153cd4deb_class-schedules
-    weight: 200
+    weight: 2210
     parent: d45e95172acf2a430d67a0ef15468161_tp10-1
 ---
 *   [<6.042 TEAL Table](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp10-1/vertical-0bb6e57f86c4)

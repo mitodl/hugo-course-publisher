@@ -4,7 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 75800336c3a2ebee84a18bb126a5a60b_week-6
-    weight: 90
+    weight: 280
 ---
 Lecture 10: Networking: Routing (BGP)
 -------------------------------------

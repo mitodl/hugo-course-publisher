@@ -4,7 +4,7 @@ course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
     identifier: 1731a3caac5ffaa78e0f4b3bff50a1cc_resource-index
-    weight: 190
+    weight: 680
 ---
 This resource index gives users access to most of the course resources in a single location.
 

@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 19c7a1c6b044e1b2c2b1916f5be9f51f_video-7-the-roc-curve
-    weight: 210
+    weight: 1890
     parent: >-
       d4b1a3b942ed98d194feb3777ba22595_predictive-coding-bringing-text-analytics-to-the-courtroom-recitation
 ---

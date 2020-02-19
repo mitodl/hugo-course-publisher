@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 78f3fc27501caf07e3396696e57794c6_video-4-understanding-cluster-patterns
-    weight: 200
+    weight: 2170
     parent: >-
       0943bd811d9caf9e92bf3c7bf9d7b9f2_predictive-diagnosis-discovering-patterns-for-disease-detection
 ---

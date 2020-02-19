@@ -6,7 +6,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: aad83d5378a1ef15e27fe7684e1f8761_video-5-putting-it-all-together
-    weight: 180
+    weight: 1490
     parent: >-
       aef27920c51cefd188ed937539251bd9_location-location-location-regression-trees-for-housing-data-recitation
 ---

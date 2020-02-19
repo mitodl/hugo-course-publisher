@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 0c28bcd294894bf0d41a8f8844365509_vertical-1d9c2a0e507a
-    weight: 110
+    weight: 210
     parent: 376535e1bbaf1919fdc3bdd7b7043dea_tp2-1
 ---
 *   [<Well Ordering Principle](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-1)

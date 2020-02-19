@@ -4,7 +4,11 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: f853d2c131e754a6ef375cb05318c77f_vertical-3299faa6fc3d
-    weight: 130
+    weight: 1200
+    parent: df8008a79d68087d809bbd4cc447cdea_tp6-2
+---
+*   [< RSA Encryption](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2)
+*   [2.4.1RSA Public Key Encryption: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2)
 *   [2.4.2RSA Encryption](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/vertical-3299faa6fc3d)
 *   [2.4.3Reducing Factoring To SAT: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/vertical-10e2576c9510)
 *   [2.4.4Relative Primality](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/vertical-d2f6dc0d86f4)

@@ -4,7 +4,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: a10ced6c1f0f3ddcaa30efb14db63365_video-5-sensitivity-analysis
-    weight: 240
+    weight: 2900
     parent: >-
       7a59278a134c5085244c381fc6090890_radiation-therapy-an-application-of-linear-optimization
 ---

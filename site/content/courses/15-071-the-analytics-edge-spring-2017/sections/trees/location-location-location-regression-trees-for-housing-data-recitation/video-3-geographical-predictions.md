@@ -6,7 +6,7 @@ course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
     identifier: 0e5da8a56da7e6bd45cd2c10c9e313cd_video-3-geographical-predictions
-    weight: 160
+    weight: 1470
     parent: >-
       aef27920c51cefd188ed937539251bd9_location-location-location-regression-trees-for-housing-data-recitation
 ---

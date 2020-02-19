@@ -4,7 +4,11 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: 5e883854b9f8afee1b2089dcfe536b50_vertical-206635abfb7b
-    weight: 190
+    weight: 1470
+    parent: a3d452862b8219138b1e93f45114b315_tp7-2
+---
+*   [<Isomorphism: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/vertical-4cdac51413fd)
+*   [2.8.1Degree: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2)
 *   [2.8.2Counting Degrees & Edges](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/vertical-0403a1f6fa4c)
 *   [2.8.3Isomorphism: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/vertical-4cdac51413fd)
 *   [2.8.4Isomorphism](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/vertical-206635abfb7b)

@@ -4,7 +4,7 @@ course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
     identifier: bb9ab3ea0c546b87900fafd21424cd19_theta
-    weight: 150
+    weight: 2000
     parent: 7fcb07616e2948a6ad10caa832263c78_tp8-3
 ---
 *   [<Little oh Big Oh](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-5c04897d10e6)
