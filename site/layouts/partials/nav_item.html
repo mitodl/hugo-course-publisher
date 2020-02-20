@@ -22,8 +22,11 @@
     </a>
     {{ end }}
   </div>
-  {{ if .menuItem.HasChildren }}
+  {{ with .parentId }}
+  {{ else }}
   <span class="medium-and-below-only"><hr/></span>
+  {{ end }}
+  {{ if .menuItem.HasChildren }}
   <div class="collapse{{- $show -}}" 
     id="nav-container_{{ .menuItem.Identifier }}">
     <ul class="course-nav-child-nav m-auto">
