@@ -5,7 +5,7 @@
 {{ $ariaExpanded := partial "ismenucurrent_recursive.html" (dict "menuItem" .menuItem "currentPage" $currentPage "courseId" $courseId "text" "true") }}
 
 <li class="course-nav-list-item">
-  <div class="position-relative pt-2 pb-2">
+  <div class="position-relative pt-2 pb-2{{ if .menuItem.HasChildren }} pr-3{{ end }}">
     <span class="course-nav-text-wrapper">
       <a class="text-uppercase text-dark{{ if $currentPage.IsMenuCurrent $courseId .menuItem }} active{{ end }}"
         href="{{ .menuItem.URL | relURL }}">
@@ -20,14 +20,16 @@
       aria-expanded="{{- $ariaExpanded -}}">
       <i class="material-icons md-18"></i>
     </a>
-    <div class="collapse{{- $show -}}" 
-      id="nav-container_{{ .menuItem.Identifier }}">
-      <ul class="course-nav-child-nav m-auto">
-        {{ range .menuItem.Children }}
-          {{ partial "nav_item.html" (dict "menuItem" . "currentPage" $currentPage "courseId" $courseId "parentId" $parentId ) }}
-        {{ end }}
-      </ul>
-    </div>
+    {{end}}
+  </div>
+  {{ if .menuItem.HasChildren }}
+  <div class="collapse{{- $show -}}" 
+    id="nav-container_{{ .menuItem.Identifier }}">
+    <ul class="course-nav-child-nav m-auto">
+      {{ range .menuItem.Children }}
+        {{ partial "nav_item.html" (dict "menuItem" . "currentPage" $currentPage "courseId" $courseId "parentId" $parentId ) }}
+      {{ end }}
+    </ul>
   </div>
   {{ end }}
 </li>
