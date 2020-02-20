@@ -23,6 +23,7 @@
     {{ end }}
   </div>
   {{ if .menuItem.HasChildren }}
+  <span class="medium-and-below-only"><hr/></span>
   <div class="collapse{{- $show -}}" 
     id="nav-container_{{ .menuItem.Identifier }}">
     <ul class="course-nav-child-nav m-auto">
