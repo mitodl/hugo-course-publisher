@@ -2,11 +2,12 @@
 {{ $id := .menuItem.Identifier }}
 {{ $currentPage := .currentPage }}
 {{ $courseId := .courseId }}
+{{ $hasParent := isset . "parentId" }}
 {{ $hasChildren := .menuItem.HasChildren }}
 {{ $isMenuCurrent := $currentPage.IsMenuCurrent $courseId .menuItem }}
 {{ $hasMenuCurrent := $currentPage.HasMenuCurrent $courseId .menuItem }}
 
-<li class="course-nav-list-item">
+<li class="course-nav-list-item{{ if $hasParent }} course-nav-list-item-child{{ end }}">
   <div class="position-relative pt-2 pb-2{{ if $hasChildren }} pr-3{{ end }}">
     <span class="course-nav-text-wrapper">
       <a class="text-uppercase text-dark{{ if $isMenuCurrent }} active{{ end }}"
@@ -24,14 +25,9 @@
     </a>
     {{ end }}
   </div>
-  {{ with .parentId }}
-  {{ if $menuItem.HasChildren }}
+  {{ if or (not $hasParent) $hasChildren }}
   <span class="medium-and-below-only"><hr/></span>
   {{ end }}
-  {{ else }}
-  <span class="medium-and-below-only"><hr/></span>
-  {{ end }}
-  {{ if .menuItem.HasChildren }}
   <div class="collapse{{ if $hasMenuCurrent }} show{{ end }}" 
     id="nav-container_{{ .menuItem.Identifier }}">
     <ul class="course-nav-child-nav m-auto">
@@ -40,5 +36,4 @@
       {{ end }}
     </ul>
   </div>
-  {{ end }}
 </li>
