@@ -2,8 +2,6 @@
 {{ $id := .menuItem.Identifier }}
 {{ $currentPage := .currentPage }}
 {{ $courseId := .courseId }}
-{{ $show := partial "ismenucurrent_recursive.html" (dict "menuItem" .menuItem "currentPage" $currentPage "courseId" $courseId "text" " show") }}
-{{ $ariaExpanded := partial "ismenucurrent_recursive.html" (dict "menuItem" .menuItem "currentPage" $currentPage "courseId" $courseId "text" "true") }}
 
 <li class="course-nav-list-item">
   <div class="position-relative pt-2 pb-2{{ if .menuItem.HasChildren }} pr-3{{ end }}">
@@ -18,7 +16,7 @@
       href="#nav-container_{{ .menuItem.Identifier }}" 
       data-toggle="collapse" 
       aria-controls="nav-container_{{ .menuItem.Identifier }}" 
-      aria-expanded="{{- $ariaExpanded -}}">
+      aria-expanded="{{ if $currentPage.HasMenuCurrent $courseId .menuItem }}true{{ end }}">
       <i class="material-icons md-18"></i>
     </a>
     {{ end }}
@@ -31,7 +29,7 @@
   <span class="medium-and-below-only"><hr/></span>
   {{ end }}
   {{ if .menuItem.HasChildren }}
-  <div class="collapse{{- $show -}}" 
+  <div class="collapse{{ if $currentPage.HasMenuCurrent $courseId .menuItem }} show{{ end }}" 
     id="nav-container_{{ .menuItem.Identifier }}">
     <ul class="course-nav-child-nav m-auto">
       {{ range .menuItem.Children }}
