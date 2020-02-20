@@ -2,11 +2,14 @@
 {{ $id := .menuItem.Identifier }}
 {{ $currentPage := .currentPage }}
 {{ $courseId := .courseId }}
+{{ $hasChildren := .menuItem.HasChildren }}
+{{ $isMenuCurrent := $currentPage.IsMenuCurrent $courseId .menuItem }}
+{{ $hasMenuCurrent := $currentPage.HasMenuCurrent $courseId .menuItem }}
 
 <li class="course-nav-list-item">
-  <div class="position-relative pt-2 pb-2{{ if .menuItem.HasChildren }} pr-3{{ end }}">
+  <div class="position-relative pt-2 pb-2{{ if $hasChildren }} pr-3{{ end }}">
     <span class="course-nav-text-wrapper">
-      <a class="text-uppercase text-dark{{ if $currentPage.IsMenuCurrent $courseId .menuItem }} active{{ end }}"
+      <a class="text-uppercase text-dark{{ if $isMenuCurrent }} active{{ end }}"
         href="{{ .menuItem.URL | relURL }}">
         {{ .menuItem.Name }}
       </a>
@@ -16,7 +19,7 @@
       href="#nav-container_{{ .menuItem.Identifier }}" 
       data-toggle="collapse" 
       aria-controls="nav-container_{{ .menuItem.Identifier }}" 
-      aria-expanded="{{ if $currentPage.HasMenuCurrent $courseId .menuItem }}true{{ end }}">
+      aria-expanded="{{ if $hasMenuCurrent }}true{{ end }}">
       <i class="material-icons md-18"></i>
     </a>
     {{ end }}
@@ -29,7 +32,7 @@
   <span class="medium-and-below-only"><hr/></span>
   {{ end }}
   {{ if .menuItem.HasChildren }}
-  <div class="collapse{{ if $currentPage.HasMenuCurrent $courseId .menuItem }} show{{ end }}" 
+  <div class="collapse{{ if $hasMenuCurrent }} show{{ end }}" 
     id="nav-container_{{ .menuItem.Identifier }}">
     <ul class="course-nav-child-nav m-auto">
       {{ range .menuItem.Children }}
