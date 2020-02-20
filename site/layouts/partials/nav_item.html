@@ -1,4 +1,5 @@
-{{ $parentId := .menuItem.Identifier }}
+{{ $menuItem := .menuItem }}
+{{ $id := .menuItem.Identifier }}
 {{ $currentPage := .currentPage }}
 {{ $courseId := .courseId }}
 {{ $show := partial "ismenucurrent_recursive.html" (dict "menuItem" .menuItem "currentPage" $currentPage "courseId" $courseId "text" " show") }}
@@ -22,13 +23,19 @@
     </a>
     {{ end }}
   </div>
+  {{ with .parentId }}
+  {{ if $menuItem.HasChildren }}
+  <span class="medium-and-below-only"><hr/></span>
+  {{ end }}
+  {{ else }}
+  <span class="medium-and-below-only"><hr/></span>
+  {{ end }}
   {{ if .menuItem.HasChildren }}
-  <span class="medium-and-below-only"><hr class="mt-1 mb-1" /></span>
   <div class="collapse{{- $show -}}" 
     id="nav-container_{{ .menuItem.Identifier }}">
     <ul class="course-nav-child-nav m-auto">
       {{ range .menuItem.Children }}
-        {{ partial "nav_item.html" (dict "menuItem" . "currentPage" $currentPage "courseId" $courseId "parentId" $parentId ) }}
+        {{ partial "nav_item.html" (dict "menuItem" . "currentPage" $currentPage "courseId" $courseId "parentId" $id ) }}
       {{ end }}
     </ul>
   </div>
