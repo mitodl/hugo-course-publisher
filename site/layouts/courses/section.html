@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ $course_home := printf "%s/%s/%s" "courses" .CurrentSection.Params.course_id "_index.md" }}
-{{ if eq .Dir $course_home }}
+{{ if eq .File.Path $course_home }}
 <div class="homepage-content">
   <div class="large-and-above-only">
     {{ partial "course_image.html" . }}
