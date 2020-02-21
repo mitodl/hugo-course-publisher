@@ -20,7 +20,7 @@
       href="#nav-container_{{ .menuItem.Identifier }}" 
       data-toggle="collapse" 
       aria-controls="nav-container_{{ .menuItem.Identifier }}" 
-      aria-expanded="{{ if $hasMenuCurrent }}true{{ end }}">
+      aria-expanded="{{ if or $isMenuCurrent $hasMenuCurrent }}true{{ end }}">
       <i class="material-icons md-18"></i>
     </a>
     {{ end }}
@@ -28,7 +28,7 @@
   {{ if or (not $hasParent) $hasChildren }}
   <span class="medium-and-below-only"><hr/></span>
   {{ end }}
-  <div class="collapse{{ if $hasMenuCurrent }} show{{ end }}" 
+  <div class="collapse{{ if or $isMenuCurrent $hasMenuCurrent }} show{{ end }}" 
     id="nav-container_{{ .menuItem.Identifier }}">
     <ul class="course-nav-child-nav m-auto">
       {{ range .menuItem.Children }}
