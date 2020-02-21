@@ -10,13 +10,14 @@ module.exports = merge(common, {
 
   output: {
     filename:      "[name].js",
-    chunkFilename: "[id].css"
+    chunkFilename: "[id].css",
+    publicPath:    "/"
   },
 
   devServer: {
     port:               process.env.PORT || 3000,
     contentBase:        path.join(process.cwd(), "./dist"),
-    watchContentBase:   true,
+    hot:                true,
     quiet:              false,
     open:               true,
     historyApiFallback: {
