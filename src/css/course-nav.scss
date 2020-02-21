@@ -8,6 +8,12 @@
   }
 }
 
+.desktop-nav {
+  @include media-breakpoint-up(xl) {
+    max-width: 470px;
+  }
+}
+
 .mobile-course-nav-toggle {
   *:not(i) {
     font-size: 1rem;
@@ -26,4 +32,38 @@
   #toggle {
     writing-mode: vertical-lr;
   }
+}
+
+.course-nav-list-item {
+  @include media-breakpoint-up(lg) {
+    padding-right: 2rem;
+  }
+}
+
+.course-nav-list-item-child {
+  font-size: 0.7rem;
+}
+
+.course-nav-section-toggle {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 0;
+  z-index: 1;
+}
+
+.course-nav-section-toggle > i:after {
+  content: "add";
+}
+
+.course-nav-section-toggle[aria-expanded="true"] > i:after {
+  content: "remove" !important;
+}
+
+.course-nav-child-nav {
+  list-style: none;
+}
+
+.course-nav-child-nav > li {
+  padding-right: 0 !important;
 }
