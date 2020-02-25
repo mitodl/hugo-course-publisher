@@ -23,13 +23,13 @@ course_info:
     - Prof. Mike Gibson
   department: Res 2 005 Girls Who Build Make Your Own Wearables Workshop Spring 2015
   topics:
-    - feature: Engineering
-    - feature: Engineering
-      subfeature: Computer Science
-    - feature: Engineering
-      subfeature: Mechanical Engineering
-    - feature: Teaching and Education
-      subfeature: Curriculum and Teaching
+    - topic: Engineering
+    - topic: Engineering
+      subtopic: Computer Science
+    - topic: Engineering
+      subtopic: Mechanical Engineering
+    - topic: Teaching and Education
+      subtopic: Curriculum and Teaching
   course_number: RES.2-005
   term: Spring 2015
   level: Non Credit

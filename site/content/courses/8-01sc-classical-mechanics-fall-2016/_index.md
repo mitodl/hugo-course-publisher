@@ -29,8 +29,8 @@ course_info:
     - Prof. Michelle Tomasik
   department: Physics
   topics:
-    - feature: Science
-      subfeature: Physics
+    - topic: Science
+      subtopic: Physics
       speciality: Classical Mechanics
   course_number: '8.01'
   term: Fall 2016

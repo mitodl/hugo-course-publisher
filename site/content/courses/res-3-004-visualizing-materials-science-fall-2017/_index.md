@@ -12,12 +12,12 @@ course_info:
     - Prof. W. Carter
   department: Res 3 004 Visualizing Materials Science Fall 2017
   topics:
-    - feature: Engineering
-      subfeature: Materials Science and Engineering
-    - feature: Mathematics
-      subfeature: Applied Mathematics
-    - feature: Mathematics
-      subfeature: Computation
+    - topic: Engineering
+      subtopic: Materials Science and Engineering
+    - topic: Mathematics
+      subtopic: Applied Mathematics
+    - topic: Mathematics
+      subtopic: Computation
   course_number: RES.3-004
   term: Fall 2017
   level: Undergraduate

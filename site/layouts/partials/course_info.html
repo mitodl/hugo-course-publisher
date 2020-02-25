@@ -51,8 +51,8 @@
             <li>
               <a href="#" class="coming-soon">
                 {{- $topic := "" -}}
-                {{- $topic := printf "%s%s" $topic (cond (isset $topicObject "feature") $topicObject.feature "") -}}
-                {{- $topic := printf "%s%s" $topic (cond (isset $topicObject "subfeature") (printf " > %s" $topicObject.subfeature) "") -}}
+                {{- $topic := printf "%s%s" $topic (cond (isset $topicObject "topic") $topicObject.topic "") -}}
+                {{- $topic := printf "%s%s" $topic (cond (isset $topicObject "subtopic") (printf " > %s" $topicObject.subtopic) "") -}}
                 {{- $topic := printf "%s%s" $topic (cond (isset $topicObject "speciality") (printf " > %s" $topicObject.speciality) "") -}}
                 {{ $topic }}
               </a>

@@ -15,17 +15,17 @@ course_info:
     - Prof. Katrina LaCurts
   department: Electrical Engineering and Computer Science
   topics:
-    - feature: Engineering
-      subfeature: Computer Science
+    - topic: Engineering
+      subtopic: Computer Science
       speciality: Computer Design and Engineering
-    - feature: Engineering
-      subfeature: Computer Science
+    - topic: Engineering
+      subtopic: Computer Science
       speciality: Computer Networks
-    - feature: Engineering
-      subfeature: Computer Science
+    - topic: Engineering
+      subtopic: Computer Science
       speciality: Operating Systems
-    - feature: Engineering
-      subfeature: Computer Science
+    - topic: Engineering
+      subtopic: Computer Science
       speciality: Software Design and Engineering
   course_number: '6.033'
   term: Spring 2018

@@ -22,18 +22,18 @@ course_info:
     - Prof. Chris Boebel
   department: Biological Engineering
   topics:
-    - feature: Fine Arts
-      subfeature: Media Studies
+    - topic: Fine Arts
+      subtopic: Media Studies
       speciality: Digital Media
-    - feature: Fine Arts
-      subfeature: Visual Arts
+    - topic: Fine Arts
+      subtopic: Visual Arts
       speciality: Film and Video
-    - feature: Social Science
-      subfeature: Communication
-    - feature: Teaching and Education
-      subfeature: Curriculum and Teaching
-    - feature: Teaching and Education
-      subfeature: Educational Technology
+    - topic: Social Science
+      subtopic: Communication
+    - topic: Teaching and Education
+      subtopic: Curriculum and Teaching
+    - topic: Teaching and Education
+      subtopic: Educational Technology
   course_number: '20.219'
   term: January IAP 2015
   level: Undergraduate

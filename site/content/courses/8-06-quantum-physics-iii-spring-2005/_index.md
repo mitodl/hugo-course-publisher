@@ -18,8 +18,8 @@ course_info:
     - Prof. Krishna Rajagopal
   department: Physics
   topics:
-    - feature: Science
-      subfeature: Physics
+    - topic: Science
+      subtopic: Physics
       speciality: Quantum Mechanics
   course_number: '8.06'
   term: Spring 2005

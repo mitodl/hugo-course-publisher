@@ -16,11 +16,11 @@ course_info:
     - Prof. Teresa Neff
   department: Music and Theater Arts
   topics:
-    - feature: Fine Arts
-      subfeature: Music
+    - topic: Fine Arts
+      subtopic: Music
       speciality: Music History
-    - feature: Fine Arts
-      subfeature: Music
+    - topic: Fine Arts
+      subtopic: Music
       speciality: Music Theory
   course_number: 21M.295
   term: Fall 2014

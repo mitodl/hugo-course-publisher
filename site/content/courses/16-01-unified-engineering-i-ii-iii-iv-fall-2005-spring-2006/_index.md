@@ -27,22 +27,22 @@ course_info:
     - Prof. Jennifer Craig
   department: Aeronautics and Astronautics
   topics:
-    - feature: Engineering
-      subfeature: Aerospace Engineering
+    - topic: Engineering
+      subtopic: Aerospace Engineering
       speciality: Materials Selection
-    - feature: Engineering
-      subfeature: Aerospace Engineering
+    - topic: Engineering
+      subtopic: Aerospace Engineering
       speciality: Propulsion Systems
-    - feature: Science
-      subfeature: Physics
+    - topic: Science
+      subtopic: Physics
       speciality: Thermodynamics
-    - feature: Engineering
-      subfeature: Mechanical Engineering
+    - topic: Engineering
+      subtopic: Mechanical Engineering
       speciality: Fluid Mechanics
-    - feature: Engineering
-      subfeature: Aerospace Engineering
-    - feature: Business
-      subfeature: Project Management
+    - topic: Engineering
+      subtopic: Aerospace Engineering
+    - topic: Business
+      subtopic: Project Management
   course_number: '16.01'
   term: Fall 2005
   level: Undergraduate

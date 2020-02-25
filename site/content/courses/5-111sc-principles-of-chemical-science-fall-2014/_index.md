@@ -10,14 +10,14 @@ course_info:
     - Prof. Catherine Drennan
   department: Chemistry
   topics:
-    - feature: Science
-      subfeature: Chemistry
+    - topic: Science
+      subtopic: Chemistry
       speciality: Inorganic Chemistry
-    - feature: Science
-      subfeature: Chemistry
+    - topic: Science
+      subtopic: Chemistry
       speciality: Organic Chemistry
-    - feature: Science
-      subfeature: Chemistry
+    - topic: Science
+      subtopic: Chemistry
       speciality: Physical Chemistry
   course_number: '5.111'
   term: Fall 2014

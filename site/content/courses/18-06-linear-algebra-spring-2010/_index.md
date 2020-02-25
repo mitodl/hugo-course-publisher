@@ -14,8 +14,8 @@ course_info:
     - Prof. Gilbert Strang
   department: Mathematics
   topics:
-    - feature: Mathematics
-      subfeature: Linear Algebra
+    - topic: Mathematics
+      subtopic: Linear Algebra
   course_number: '18.06'
   term: Spring 2010
   level: Undergraduate

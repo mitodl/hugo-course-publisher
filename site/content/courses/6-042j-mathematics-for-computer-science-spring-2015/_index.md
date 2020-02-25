@@ -24,12 +24,12 @@ course_info:
     - Prof. Adam Chlipala
   department: Electrical Engineering and Computer Science
   topics:
-    - feature: Engineering
-      subfeature: Computer Science
-    - feature: Mathematics
-      subfeature: Applied Mathematics
-    - feature: Mathematics
-      subfeature: Probability and Statistics
+    - topic: Engineering
+      subtopic: Computer Science
+    - topic: Mathematics
+      subtopic: Applied Mathematics
+    - topic: Mathematics
+      subtopic: Probability and Statistics
   course_number: '6.042'
   term: Spring 2015
   level: Undergraduate

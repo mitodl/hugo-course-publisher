@@ -13,10 +13,10 @@ course_info:
     - Prof. David Jerison
   department: Mathematics
   topics:
-    - feature: Mathematics
-      subfeature: Calculus
-    - feature: Mathematics
-      subfeature: Differential Equations
+    - topic: Mathematics
+      subtopic: Calculus
+    - topic: Mathematics
+      subtopic: Differential Equations
   course_number: 18.009SC
   term: Fall 2010
   level: Undergraduate
