@@ -10,9 +10,15 @@ course_info:
     - Prof. Yen-Jie Lee
   department: Physics
   topics:
-    - Science > Physics > Classical Mechanics
-    - Science > Physics > Electromagnetism
-    - 'Science > Physics > Atomic, Molecular, Optical Physics'
+    - feature: Science
+      subfeature: Physics
+      speciality: Classical Mechanics
+    - feature: Science
+      subfeature: Physics
+      speciality: Electromagnetism
+    - feature: Science
+      subfeature: Physics
+      speciality: 'Atomic, Molecular, Optical Physics'
   course_number: '8.03'
   term: Fall 2016
   level: Undergraduate

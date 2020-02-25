@@ -28,10 +28,15 @@ course_info:
     - Prof. Amit Gandhi
   department: Edgerton Center
   topics:
-    - Engineering > Electrical Engineering > Electric Power
-    - Society > The Developing World
-    - Science > Earth Science > Sustainability
-    - Energy
+    - feature: Engineering
+      subfeature: Electrical Engineering
+      speciality: Electric Power
+    - feature: Society
+      subfeature: The Developing World
+    - feature: Science
+      subfeature: Earth Science
+      speciality: Sustainability
+    - feature: Energy
   course_number: EC.711
   term: Spring 2011
   level: Undergraduate

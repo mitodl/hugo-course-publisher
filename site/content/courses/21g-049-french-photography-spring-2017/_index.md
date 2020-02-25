@@ -16,9 +16,15 @@ course_info:
     - Prof. Catherine Clark
   department: Global Studies and Languages
   topics:
-    - Fine Arts > Visual Arts > Photography
-    - Humanities > Literature > Criticism
-    - Humanities > Language > French
+    - feature: Fine Arts
+      subfeature: Visual Arts
+      speciality: Photography
+    - feature: Humanities
+      subfeature: Literature
+      speciality: Criticism
+    - feature: Humanities
+      subfeature: Language
+      speciality: French
   course_number: 21G.049
   term: Spring 2017
   level: Undergraduate

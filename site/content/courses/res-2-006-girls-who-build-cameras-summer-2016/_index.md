@@ -28,9 +28,11 @@ course_info:
     - Prof. Sara James
   department: Res 2 006 Girls Who Build Cameras Summer 2016
   topics:
-    - Energy > Technology
-    - Engineering
-    - Teaching and Education > Curriculum and Teaching
+    - feature: Energy
+      subfeature: Technology
+    - feature: Engineering
+    - feature: Teaching and Education
+      subfeature: Curriculum and Teaching
   course_number: RES.2-006
   term: Summer 2016
   level: Non Credit

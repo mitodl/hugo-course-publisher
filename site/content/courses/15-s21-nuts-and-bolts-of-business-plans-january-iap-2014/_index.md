@@ -21,11 +21,15 @@ course_info:
     - Prof. Joseph Hadzima
   department: Sloan School of Management
   topics:
-    - Business
-    - Business > Entrepreneurship
-    - Business > Finance
-    - Business > Innovation
-    - Business > Management
+    - feature: Business
+    - feature: Business
+      subfeature: Entrepreneurship
+    - feature: Business
+      subfeature: Finance
+    - feature: Business
+      subfeature: Innovation
+    - feature: Business
+      subfeature: Management
   course_number: 15.S21
   term: January IAP 2014
   level: Graduate

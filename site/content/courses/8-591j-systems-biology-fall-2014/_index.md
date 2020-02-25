@@ -17,10 +17,17 @@ course_info:
     - Prof. Jeff Gore
   department: Physics
   topics:
-    - Science > Physics
-    - Science > Biology > Computation and Systems Biology
-    - Engineering > Biological Engineering > Synthetic Biology
-    - Science > Biology > Cell Biology
+    - feature: Science
+      subfeature: Physics
+    - feature: Science
+      subfeature: Biology
+      speciality: Computation and Systems Biology
+    - feature: Engineering
+      subfeature: Biological Engineering
+      speciality: Synthetic Biology
+    - feature: Science
+      subfeature: Biology
+      speciality: Cell Biology
   course_number: '8.591'
   term: Fall 2014
   level: Graduate
