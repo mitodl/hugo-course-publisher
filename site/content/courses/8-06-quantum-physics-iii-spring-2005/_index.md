@@ -18,7 +18,7 @@ course_info:
     - Prof. Krishna Rajagopal
   department: Physics
   topics:
-    - Science - Physics
+    - Science > Physics > Quantum Mechanics
   course_number: '8.06'
   term: Spring 2005
   level: Undergraduate
@@ -38,4 +38,4 @@ See related courses in the following collections:
 
 _Find Courses by Topic_
 
-* [Science > Physics](#)
+* [Science > Physics > Quantum Mechanics](#)

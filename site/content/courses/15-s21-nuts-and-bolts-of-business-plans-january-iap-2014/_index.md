@@ -22,10 +22,10 @@ course_info:
   department: Sloan School of Management
   topics:
     - Business
-    - Business - Entrepreneurship
-    - Business - Finance
-    - Business - Innovation
-    - Business - Management
+    - Business > Entrepreneurship
+    - Business > Finance
+    - Business > Innovation
+    - Business > Management
   course_number: 15.S21
   term: January IAP 2014
   level: Graduate

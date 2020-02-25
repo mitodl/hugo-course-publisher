@@ -21,8 +21,8 @@ course_info:
     - Prof. Taylor Perron
   department: Earth Atmospheric and Planetary Sciences
   topics:
-    - Science - Earth Science
-    - Science - Earth Science
+    - Science > Earth Science
+    - Science > Earth Science > Geology
   course_number: '12.001'
   term: Fall 2013
   level: Undergraduate
@@ -44,4 +44,4 @@ See related courses in the following collections:
 _Find Courses by Topic_
 
 * [Science > Earth Science](#)
-* [Science > Earth Science](#)
+* [Science > Earth Science > Geology](#)

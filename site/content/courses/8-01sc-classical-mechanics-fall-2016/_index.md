@@ -29,7 +29,7 @@ course_info:
     - Prof. Michelle Tomasik
   department: Physics
   topics:
-    - Science - Physics
+    - Science > Physics > Classical Mechanics
   course_number: '8.01'
   term: Fall 2016
   level: Undergraduate
@@ -48,4 +48,4 @@ See related courses in the following collections:
 
 _Find Courses by Topic_
 
-* [Science > Physics](#)
+* [Science > Physics > Classical Mechanics](#)
