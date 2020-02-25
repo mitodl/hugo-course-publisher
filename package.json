@@ -7,7 +7,7 @@
   "scripts": {
     "lint": "eslint src",
     "start": "run-p start:**",
-    "start:hugo": "hugo -d ../dist -s site -vw",
+    "start:hugo": "hugo server -s site -p 3000 --bind 0.0.0.0",
     "start:webpack": "webpack-dev-server --config src/webpack/webpack.dev.js --hot --host 0.0.0.0",
     "preview": "run-p preview:**",
     "preview:hugo": "npm run start:hugo -- -D -F",

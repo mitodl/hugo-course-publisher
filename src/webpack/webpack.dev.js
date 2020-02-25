@@ -15,11 +15,16 @@ module.exports = merge(common, {
   },
 
   devServer: {
-    port:               process.env.PORT || 3000,
-    contentBase:        path.join(process.cwd(), "./dist"),
-    hot:                true,
-    quiet:              false,
-    open:               true,
+    port:    process.env.PORT || 3001,
+    hot:     true,
+    quiet:   false,
+    open:    false,
+    headers: {
+      "Access-Control-Allow-Origin":  "*",
+      "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, PATCH, OPTIONS",
+      "Access-Control-Allow-Headers":
+        "X-Requested-With, content-type, Authorization"
+    },
     historyApiFallback: {
       rewrites: [{ from: /./, to: "404.html" }]
     }
