@@ -50,11 +50,8 @@
             {{ range $topicObject := .Params.course_info.topics }}
             <li>
               <a href="#" class="coming-soon">
-                {{- $topic := "" -}}
-                {{- $topic := printf "%s%s" $topic (cond (isset $topicObject "topic") $topicObject.topic "") -}}
-                {{- $topic := printf "%s%s" $topic (cond (isset $topicObject "subtopic") (printf " > %s" $topicObject.subtopic) "") -}}
-                {{- $topic := printf "%s%s" $topic (cond (isset $topicObject "speciality") (printf " > %s" $topicObject.speciality) "") -}}
-                {{ $topic }}
+                {{- $topics := slice $topicObject.topic $topicObject.subtopic $topicObject.speciality -}}
+                {{ delimit ($topics | complement (slice nil )) " > " }}
               </a>
             </li>
             {{ end }}
