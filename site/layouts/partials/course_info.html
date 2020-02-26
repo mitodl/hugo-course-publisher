@@ -6,15 +6,7 @@
       <tr>
         <td class="pl-0">Instructor(s)</td>
         <td>
-          <ul class="list-unstyled m-0">
-            {{ range $instructor := .Params.course_info.instructors }}
-            <li>
-              <a href="#" class="coming-soon">
-                {{ $instructor }}
-              </a>
-            </li>
-            {{ end }}
-          </ul>
+          {{ partial "partial_collapse_list.html" .Params.course_info.instructors }}
         </td>
       </tr>
       <tr>
