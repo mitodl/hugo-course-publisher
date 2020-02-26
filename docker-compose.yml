@@ -5,6 +5,7 @@ services:
     container_name: hugo-course-publisher
     ports:
       - "3000:3000"
+      - "3001:3001"
     volumes:
       - .:/usr/share/
     command: bash -c "yarn install && npm start"

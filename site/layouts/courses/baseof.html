@@ -8,8 +8,10 @@
       href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
     <title>{{ $.Site.Title }}</title>
     {{ $stylesheet := .Site.Data.webpack.main }}
-    {{ with $stylesheet.css }}
-    <link href="{{ relURL . }}" rel="stylesheet">
+    {{ if .Site.IsServer }}
+      <link href="{{ print "http://localhost:3001" $stylesheet.css  }}" rel="stylesheet">
+    {{ else }}
+      <link href="{{ relURL $stylesheet.css }}" rel="stylesheet">
     {{ end }}
   </head>
   <body>
@@ -50,8 +52,10 @@
       </div>
       {{ block "footer" . }}{{ partial "footer" . }}{{end}}
       {{ $script := .Site.Data.webpack.main }}
-      {{ with $script.js }}
-      <script src="{{ relURL . }}"></script>
+      {{ if .Site.IsServer }}
+        <script src="{{ print "http://localhost:3001" $script.js }}"></script>
+      {{ else }}
+        <script src="{{ relURL $script.js }}"></script>
       {{ end }}
   </body>
 </html>
