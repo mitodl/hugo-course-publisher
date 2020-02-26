@@ -1,0 +1,22 @@
+<div class="instructor-and-number">
+  <table class="table table-borderless mb-2">
+    <tr>
+      <td class="pl-0 py-0 p-md-2">Instructor(s)</td>
+      <td class="pl-0 py-0 p-md-2">
+        <ul class="list-unstyled m-0">
+          {{ range $instructor := .Params.course_info.instructors }}
+          <li>
+            <a href="#" class="coming-soon">
+              {{ $instructor }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="pl-0 py-0 p-md-2">Course No.</td>
+      <td class="pl-0 py-0 p-md-2">{{ .Params.course_info.course_number }}</td>
+    </tr>
+  </table>
+</div>

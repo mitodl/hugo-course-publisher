@@ -1,12 +1,16 @@
+{{ $course_home := printf "%s/%s/%s" "courses" .CurrentSection.Params.course_id "_index.md" }}
+{{ $course_home_page := .Site.GetPage $course_home }}
 <div class="pb-4 rounded">
   <header>
-    <h2 class="text-uppercase font-weight-bold">{{ .Title }}</h2>
+    <h5 class="text-muted text-uppercase course-title-section" >{{ $course_home_page.Params.course_title }}</h5>
+    <h1 class="text-uppercase font-weight-bold">{{ .Title }}</h1>
+    {{ partial "course_instructor_number.html" $course_home_page }}
     {{ with .Params.course_info.subtitle }}
     <span class="subtitle">{{.}}</span>
     {{ end }}
   </header>
   {{ partial "mobile_nav_toggle.html" . }}
-  <article class="content">
+  <article class="content pt-2">
     <main>{{- .Content -}}</main>
   </article>
 </div>
