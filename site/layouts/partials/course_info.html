@@ -47,10 +47,11 @@
         <td class="pl-0 pb-3">Topic(s)</td>
         <td class="pb-3">
           <ul class="list-unstyled m-0">
-            {{ range $topic := .Params.course_info.topics }}
+            {{ range $topicObject := .Params.course_info.topics }}
             <li>
               <a href="#" class="coming-soon">
-                {{ $topic }}
+                {{- $topics := slice $topicObject.topic $topicObject.subtopic $topicObject.speciality -}}
+                {{ delimit ($topics | complement (slice nil )) " > " }}
               </a>
             </li>
             {{ end }}

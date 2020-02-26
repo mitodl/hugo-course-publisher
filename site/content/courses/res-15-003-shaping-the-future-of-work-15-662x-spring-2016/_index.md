@@ -16,10 +16,17 @@ course_info:
     - Prof. Thomas Kochan
   department: Res 15 003 Shaping the Future of Work 15 662x Spring 2016
   topics:
-    - Business - Industrial Relations and Human Resource Management
-    - Social Science - Economics
-    - Social Science - Economics
-    - Social Science - Public Administration
+    - topic: Business
+      subtopic: Industrial Relations and Human Resource Management
+    - topic: Social Science
+      subtopic: Economics
+      speciality: Industrial Organization
+    - topic: Social Science
+      subtopic: Economics
+      speciality: Labor Economics
+    - topic: Social Science
+      subtopic: Public Administration
+      speciality: Social Welfare
   course_number: RES.15-003
   term: Spring 2016
   level: Graduate
@@ -39,6 +46,6 @@ See related courses in the following collections:
 _Find Courses by Topic_
 
 * [Business > Industrial Relations and Human Resource Management](#)
-* [Social Science > Economics](#)
-* [Social Science > Economics](#)
-* [Social Science > Public Administration](#)
+* [Social Science > Economics > Industrial Organization](#)
+* [Social Science > Economics > Labor Economics](#)
+* [Social Science > Public Administration > Social Welfare](#)

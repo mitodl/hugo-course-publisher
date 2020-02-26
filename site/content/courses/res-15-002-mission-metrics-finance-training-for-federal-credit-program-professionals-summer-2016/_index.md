@@ -21,11 +21,18 @@ course_info:
     Res 15 002 Mission Metrics Finance Training for Federal Credit Program
     Professionals Summer 2016
   topics:
-    - Business - Accounting
-    - Business - Finance
-    - Business - Management
-    - Social Science - Economics
-    - Social Science - Public Administration
+    - topic: Business
+      subtopic: Accounting
+    - topic: Business
+      subtopic: Finance
+    - topic: Business
+      subtopic: Management
+    - topic: Social Science
+      subtopic: Economics
+      speciality: Public Economics
+    - topic: Social Science
+      subtopic: Public Administration
+      speciality: Public Policy
   course_number: RES.15-002
   term: Summer 2016
   level: Graduate
@@ -47,5 +54,5 @@ _Find Courses by Topic_
 * [Business > Accounting](#)
 * [Business > Finance](#)
 * [Business > Management](#)
-* [Social Science > Economics](#)
-* [Social Science > Public Administration](#)
+* [Social Science > Economics > Public Economics](#)
+* [Social Science > Public Administration > Public Policy](#)
