@@ -66,11 +66,11 @@
   height: 100%;
   top: 0;
   z-index: 1;
-  background: linear-gradient(transparent, transparent, $white) no-repeat center; 
-  background-size: cover; 
+  background: linear-gradient(transparent, transparent, $white) no-repeat center;
+  background-size: cover;
 }
 
-.partial-collapse.collapse.show ~ .partial-collapse-overlay, 
+.partial-collapse.collapse.show ~ .partial-collapse-overlay,
 .partial-collapse.collapsing ~ .partial-collapse-overlay {
   display: none;
 }
