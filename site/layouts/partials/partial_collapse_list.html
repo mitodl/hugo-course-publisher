@@ -1,7 +1,6 @@
-{{- $multiple := gt (len .) 1 -}}
-<div class="position-relative{{ if $multiple }} pr-3{{ end }}">
+{{ if gt (len .) 1 }}
+<div class="position-relative pr-3">
     <div class="partial-collapse-toggle-container">
-        {{ if $multiple }}
         <a class="partial-collapse-toggle" 
         href="#partial-collapse-container" 
         data-toggle="collapse" 
@@ -9,7 +8,6 @@
         aria-expanded="false">
         <i class="material-icons md-18"></i>
         </a>
-        {{ end }}
     </div>
     <div class="partial-collapse collapse" id="partial-collapse-container">
         <ul class="list-unstyled m-0">
@@ -24,3 +22,10 @@
     </div>
     <div class="partial-collapse-overlay"></div>
 </div>
+{{ else }}
+{{ range $item := . }}
+<a href="#" class="coming-soon">
+{{ $item }}
+</a>
+{{ end }}
+{{ end }}
