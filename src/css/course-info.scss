@@ -10,8 +10,13 @@
   height: 100%;
   top: 0;
   z-index: 1;
-  background: linear-gradient(transparent, transparent, $white) no-repeat center;
   background-size: cover;
+  @include media-breakpoint-up(lg) {
+    background: linear-gradient(transparent, transparent, $white) no-repeat center;
+  }
+  @include media-breakpoint-down(md) {
+    background: linear-gradient(transparent, transparent, $light-gray) no-repeat center;
+  }
 }
 
 .partial-collapse.collapse.show ~ .partial-collapse-overlay,
