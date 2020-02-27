@@ -23,9 +23,13 @@
     <div class="partial-collapse-overlay"></div>
 </div>
 {{ else }}
+<ul class="list-unstyled m-0">
 {{ range $item := . }}
-<a href="#" class="coming-soon">
-{{ $item }}
-</a>
+<li>
+    <a href="#" class="coming-soon">
+    {{ $item }}
+    </a>
+</li>
+</ul>
 {{ end }}
 {{ end }}
