@@ -12,10 +12,12 @@
   z-index: 1;
   background-size: cover;
   @include media-breakpoint-up(lg) {
-    background: linear-gradient(transparent, transparent, $white) no-repeat center;
+    background: linear-gradient(transparent, transparent, $white) no-repeat
+      center;
   }
   @include media-breakpoint-down(md) {
-    background: linear-gradient(transparent, transparent, $light-gray) no-repeat center;
+    background: linear-gradient(transparent, transparent, $light-gray) no-repeat
+      center;
   }
 }
 
