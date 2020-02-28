@@ -30,6 +30,7 @@
   position: absolute;
   height: $partial-collapse-height;
   width: 100%;
+  pointer-events: none;
 }
 
 .partial-collapse-toggle {
@@ -38,6 +39,7 @@
   transform: translateY(-50%);
   right: 0;
   z-index: 2;
+  pointer-events: all;
 }
 
 .partial-collapse-toggle > i:after {
