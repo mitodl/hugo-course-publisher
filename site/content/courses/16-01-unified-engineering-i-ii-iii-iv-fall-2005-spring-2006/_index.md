@@ -25,7 +25,8 @@ course_info:
     - Prof. Ian Waitz
     - Prof. Peter Young
     - Prof. Jennifer Craig
-  department: Aeronautics and Astronautics
+  departments:
+    - Aeronautics and Astronautics
   topics:
     - topic: Engineering
       subtopic: Aerospace Engineering
@@ -43,7 +44,11 @@ course_info:
       subtopic: Aerospace Engineering
     - topic: Business
       subtopic: Project Management
-  course_number: '16.01'
+  course_numbers:
+    - '16.01'
+    - '16.02'
+    - '16.03'
+    - '16.04'
   term: Fall 2005
   level: Undergraduate
 menu:

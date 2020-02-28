@@ -12,11 +12,13 @@ course_description: >-
 course_info:
   instructors:
     - Prof. Gilbert Strang
-  department: Mathematics
+  departments:
+    - Mathematics
   topics:
     - topic: Mathematics
       subtopic: Linear Algebra
-  course_number: '18.06'
+  course_numbers:
+    - '18.06'
   term: Spring 2010
   level: Undergraduate
 menu:

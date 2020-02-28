@@ -27,12 +27,14 @@ course_info:
     - Prof. Anna Frebel
     - Prof. Vladan Vuletic
     - Prof. Michelle Tomasik
-  department: Physics
+  departments:
+    - Physics
   topics:
     - topic: Science
       subtopic: Physics
       speciality: Classical Mechanics
-  course_number: '8.01'
+  course_numbers:
+    - '8.01'
   term: Fall 2016
   level: Undergraduate
 menu:

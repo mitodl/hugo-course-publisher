@@ -13,7 +13,8 @@ course_description: >-
 course_info:
   instructors:
     - Prof. Katrina LaCurts
-  department: Electrical Engineering and Computer Science
+  departments:
+    - Electrical Engineering and Computer Science
   topics:
     - topic: Engineering
       subtopic: Computer Science
@@ -27,7 +28,8 @@ course_info:
     - topic: Engineering
       subtopic: Computer Science
       speciality: Software Design and Engineering
-  course_number: '6.033'
+  course_numbers:
+    - '6.033'
   term: Spring 2018
   level: Undergraduate
 menu:

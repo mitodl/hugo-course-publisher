@@ -8,7 +8,8 @@ course_description: "<p>Vibrations and waves are everywhere. If you take any sys
 course_info:
   instructors:
     - Prof. Yen-Jie Lee
-  department: Physics
+  departments:
+    - Physics
   topics:
     - topic: Science
       subtopic: Physics
@@ -19,7 +20,8 @@ course_info:
     - topic: Science
       subtopic: Physics
       speciality: 'Atomic, Molecular, Optical Physics'
-  course_number: '8.03'
+  course_numbers:
+    - '8.03'
   term: Fall 2016
   level: Undergraduate
 menu:

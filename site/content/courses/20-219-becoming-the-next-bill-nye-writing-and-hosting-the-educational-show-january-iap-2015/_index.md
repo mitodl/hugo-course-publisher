@@ -20,7 +20,8 @@ course_info:
     - Prof. Natalie Kuldell
     - Prof. George Zaidan
     - Prof. Chris Boebel
-  department: Biological Engineering
+  departments:
+    - Biological Engineering
   topics:
     - topic: Fine Arts
       subtopic: Media Studies
@@ -34,7 +35,8 @@ course_info:
       subtopic: Curriculum and Teaching
     - topic: Teaching and Education
       subtopic: Educational Technology
-  course_number: '20.219'
+  course_numbers:
+    - '20.219'
   term: January IAP 2015
   level: Undergraduate
 menu:

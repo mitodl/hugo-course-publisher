@@ -26,7 +26,8 @@ course_info:
   instructors:
     - Prof. Amy Banzaert
     - Prof. Amit Gandhi
-  department: Edgerton Center
+  departments:
+    - Edgerton Center
   topics:
     - topic: Engineering
       subtopic: Electrical Engineering
@@ -37,7 +38,8 @@ course_info:
       subtopic: Earth Science
       speciality: Sustainability
     - topic: Energy
-  course_number: EC.711
+  course_numbers:
+    - EC.711
   term: Spring 2011
   level: Undergraduate
 menu:

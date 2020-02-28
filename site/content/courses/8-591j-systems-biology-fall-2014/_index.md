@@ -15,7 +15,9 @@ course_description: >-
 course_info:
   instructors:
     - Prof. Jeff Gore
-  department: Physics
+  departments:
+    - Physics
+    - Biology
   topics:
     - topic: Science
       subtopic: Physics
@@ -28,7 +30,10 @@ course_info:
     - topic: Science
       subtopic: Biology
       speciality: Cell Biology
-  course_number: '8.591'
+  course_numbers:
+    - '8.591'
+    - 7.81J
+    - '7.32'
   term: Fall 2014
   level: Graduate
 menu:

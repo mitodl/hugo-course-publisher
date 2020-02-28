@@ -19,14 +19,16 @@ course_info:
   instructors:
     - Prof. Oliver Jagoutz
     - Prof. Taylor Perron
-  department: Earth Atmospheric and Planetary Sciences
+  departments:
+    - 'Earth, Atmospheric, and Planetary Sciences'
   topics:
     - topic: Science
       subtopic: Earth Science
     - topic: Science
       subtopic: Earth Science
       speciality: Geology
-  course_number: '12.001'
+  course_numbers:
+    - '12.001'
   term: Fall 2013
   level: Undergraduate
 menu:
