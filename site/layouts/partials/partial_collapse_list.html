@@ -1,17 +1,17 @@
-{{ if gt (len .) 2 }}
+{{ if gt (len .list) 2 }}
 <div class="position-relative pr-3">
     <div class="partial-collapse-toggle-container">
         <a class="partial-collapse-toggle" 
-        href="#partial-collapse-container" 
+        href="#partial-collapse-container_{{ .id }}" 
         data-toggle="collapse" 
-        aria-controls="partial-collapse-container" 
+        aria-controls="partial-collapse-container_{{ .id }}" 
         aria-expanded="false">
         <i class="material-icons md-18"></i>
         </a>
     </div>
-    <div class="partial-collapse collapse" id="partial-collapse-container">
+    <div class="partial-collapse collapse" id="partial-collapse-container_{{ .id }}">
         <ul class="list-unstyled m-0">
-        {{ range $item := . }}
+        {{ range $item := .list }}
         <li>
             <a href="#" class="coming-soon">
             {{ $item }}
@@ -24,7 +24,7 @@
 </div>
 {{ else }}
 <ul class="list-unstyled m-0">
-{{ range $item := . }}
+{{ range $item := .list }}
 <li>
     <a href="#" class="coming-soon">
     {{ $item }}

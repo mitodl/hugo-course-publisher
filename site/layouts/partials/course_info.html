@@ -6,20 +6,20 @@
       <tr>
         <td class="pl-0">Instructor(s)</td>
         <td>
-          {{ partial "partial_collapse_list.html" .Params.course_info.instructors }}
+          {{ partial "partial_collapse_list.html" (dict "list" .Params.course_info.instructors "id" "instructors") }}
         </td>
       </tr>
       <tr>
         <td class="pl-0">Department</td>
         <td>
           <a href="#" class="coming-soon">
-            {{ partial "partial_collapse_list.html" .Params.course_info.departments }}
+            {{ partial "partial_collapse_list.html" (dict "list" .Params.course_info.departments "id" "departments") }}
           </a>
         </td>
       </tr>
       <tr>
         <td class="pl-0">Course No.</td>
-        <td>{{ partial "partial_collapse_list.html" .Params.course_info.course_numbers }}</td>
+        <td>{{ partial "partial_collapse_list.html" (dict "list" .Params.course_info.course_numbers "id" "course_numbers") }}</td>
       </tr>
       <tr>
         <td class="pl-0 text-nowrap">As Taught In</td>
