@@ -26,27 +26,37 @@
   display: none;
 }
 
-.partial-collapse-toggle-container {
+.partial-collapse-toggle-link {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  pointer-events: all;
+  z-index: 2;
+}
+
+.partial-collapse-icon-container {
   position: absolute;
   height: $partial-collapse-height;
   width: 100%;
   pointer-events: none;
 }
 
-.partial-collapse-toggle {
+.partial-collapse-icon {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
   right: 0;
-  z-index: 2;
   pointer-events: all;
 }
 
-.partial-collapse-toggle > i:after {
+.partial-collapse-icon > i:after {
   content: "expand_more";
 }
 
-.partial-collapse-toggle[aria-expanded="true"] > i:after {
+.partial-collapse-toggle-link[aria-expanded="true"]
+  > .partial-collapse-icon-container
+  > .partial-collapse-icon
+  > i:after {
   content: "expand_less" !important;
 }
 
@@ -58,4 +68,9 @@
 
 .partial-collapse.collapsing {
   height: $partial-collapse-height;
+}
+
+.partial-collapse.collapse.show > ul > li > a.partial-collapse-link {
+  position: relative;
+  z-index: 3;
 }

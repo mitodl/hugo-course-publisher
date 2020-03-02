@@ -1,35 +1,34 @@
 {{ if gt (len .list) 2 }}
 <div class="position-relative pr-3">
-    <div class="partial-collapse-toggle-container">
-        <a class="partial-collapse-toggle" 
-        href="#partial-collapse-container_{{ .id }}" 
-        data-toggle="collapse" 
-        aria-controls="partial-collapse-container_{{ .id }}" 
-        aria-expanded="false">
+  <a class="partial-collapse-toggle-link" href="#partial-collapse-container_{{ .id }}" data-toggle="collapse"
+    aria-controls="partial-collapse-container_{{ .id }}" aria-expanded="false">
+    <div class="partial-collapse-icon-container">
+      <span class="partial-collapse-icon">
         <i class="material-icons md-18"></i>
+      </span>
+    </div>
+  </a>
+  <div class="partial-collapse collapse" id="partial-collapse-container_{{ .id }}">
+    <ul class="list-unstyled m-0">
+      {{ range $item := .list }}
+      <li>
+        <a href="#" class="partial-collapse-link coming-soon">
+          {{ $item }}
         </a>
-    </div>
-    <div class="partial-collapse collapse" id="partial-collapse-container_{{ .id }}">
-        <ul class="list-unstyled m-0">
-        {{ range $item := .list }}
-        <li>
-            <a href="#" class="coming-soon">
-            {{ $item }}
-            </a>
-        </li>
-        {{ end }}
-        </ul>
-    </div>
-    <div class="partial-collapse-overlay"></div>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+  <div class="partial-collapse-overlay"></div>
 </div>
 {{ else }}
 <ul class="list-unstyled m-0">
-{{ range $item := .list }}
-<li>
+  {{ range $item := .list }}
+  <li>
     <a href="#" class="coming-soon">
-    {{ $item }}
+      {{ $item }}
     </a>
-</li>
-{{ end }}
+  </li>
+  {{ end }}
 </ul>
 {{ end }}
