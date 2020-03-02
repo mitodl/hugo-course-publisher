@@ -11,13 +11,15 @@ course_description: >-
 course_info:
   instructors:
     - Prof. David Jerison
-  department: Mathematics
+  departments:
+    - Mathematics
   topics:
     - topic: Mathematics
       subtopic: Calculus
     - topic: Mathematics
       subtopic: Differential Equations
-  course_number: 18.009SC
+  course_numbers:
+    - 18.009SC
   term: Fall 2010
   level: Undergraduate
 menu:

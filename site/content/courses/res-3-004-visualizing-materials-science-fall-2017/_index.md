@@ -10,7 +10,8 @@ course_description: >-
 course_info:
   instructors:
     - Prof. W. Carter
-  department: Res 3 004 Visualizing Materials Science Fall 2017
+  departments:
+    - Supplemental Resources
   topics:
     - topic: Engineering
       subtopic: Materials Science and Engineering
@@ -18,7 +19,8 @@ course_info:
       subtopic: Applied Mathematics
     - topic: Mathematics
       subtopic: Computation
-  course_number: RES.3-004
+  course_numbers:
+    - RES.3-004
   term: Fall 2017
   level: Undergraduate
 menu:

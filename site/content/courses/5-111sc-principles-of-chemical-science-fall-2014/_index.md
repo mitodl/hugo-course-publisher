@@ -8,7 +8,8 @@ course_description: "<p>This course provides an introduction to the chemistry of
 course_info:
   instructors:
     - Prof. Catherine Drennan
-  department: Chemistry
+  departments:
+    - Chemistry
   topics:
     - topic: Science
       subtopic: Chemistry
@@ -19,7 +20,8 @@ course_info:
     - topic: Science
       subtopic: Chemistry
       speciality: Physical Chemistry
-  course_number: '5.111'
+  course_numbers:
+    - '5.111'
   term: Fall 2014
   level: Undergraduate
 menu:

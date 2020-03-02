@@ -22,7 +22,9 @@ course_info:
   instructors:
     - Prof. Albert Meyer
     - Prof. Adam Chlipala
-  department: Electrical Engineering and Computer Science
+  departments:
+    - Electrical Engineering and Computer Science
+    - Mathematics
   topics:
     - topic: Engineering
       subtopic: Computer Science
@@ -30,7 +32,9 @@ course_info:
       subtopic: Applied Mathematics
     - topic: Mathematics
       subtopic: Probability and Statistics
-  course_number: '6.042'
+  course_numbers:
+    - '6.042'
+    - 18.062J
   term: Spring 2015
   level: Undergraduate
 menu:

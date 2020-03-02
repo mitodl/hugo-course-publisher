@@ -14,7 +14,8 @@ course_description: >-
 course_info:
   instructors:
     - Prof. Catherine Clark
-  department: Global Studies and Languages
+  departments:
+    - Global Studies and Languages
   topics:
     - topic: Fine Arts
       subtopic: Visual Arts
@@ -25,7 +26,8 @@ course_info:
     - topic: Humanities
       subtopic: Language
       speciality: French
-  course_number: 21G.049
+  course_numbers:
+    - 21G.049
   term: Spring 2017
   level: Undergraduate
 menu:

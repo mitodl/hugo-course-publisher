@@ -17,9 +17,8 @@ course_info:
     - Prof. Douglas Criscitello
     - Prof. Charles Tansey
     - Prof. Deborah Lucas
-  department: >-
-    Res 15 002 Mission Metrics Finance Training for Federal Credit Program
-    Professionals Summer 2016
+  departments:
+    - Supplemental Resources
   topics:
     - topic: Business
       subtopic: Accounting
@@ -33,7 +32,8 @@ course_info:
     - topic: Social Science
       subtopic: Public Administration
       speciality: Public Policy
-  course_number: RES.15-002
+  course_numbers:
+    - RES.15-002
   term: Summer 2016
   level: Graduate
 menu:

@@ -19,7 +19,8 @@ course_description: >-
 course_info:
   instructors:
     - Prof. Joseph Hadzima
-  department: Sloan School of Management
+  departments:
+    - Sloan School of Management
   topics:
     - topic: Business
     - topic: Business
@@ -30,7 +31,8 @@ course_info:
       subtopic: Innovation
     - topic: Business
       subtopic: Management
-  course_number: 15.S21
+  course_numbers:
+    - 15.S21
   term: January IAP 2014
   level: Graduate
 menu:

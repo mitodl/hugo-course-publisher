@@ -21,7 +21,8 @@ course_info:
     - Prof. Gavin Lund
     - Prof. Katy Olesnavage
     - Prof. Mike Gibson
-  department: Res 2 005 Girls Who Build Make Your Own Wearables Workshop Spring 2015
+  departments:
+    - Supplemental Resources
   topics:
     - topic: Engineering
     - topic: Engineering
@@ -30,7 +31,8 @@ course_info:
       subtopic: Mechanical Engineering
     - topic: Teaching and Education
       subtopic: Curriculum and Teaching
-  course_number: RES.2-005
+  course_numbers:
+    - RES.2-005
   term: Spring 2015
   level: Non Credit
 menu:

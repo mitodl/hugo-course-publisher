@@ -12,7 +12,8 @@ course_description: >-
 course_info:
   instructors:
     - Prof. Dimitris Bertsimas
-  department: Sloan School of Management
+  departments:
+    - Sloan School of Management
   topics:
     - topic: Business
       subtopic: Management
@@ -20,7 +21,8 @@ course_info:
       subtopic: Operations Management
     - topic: Mathematics
       subtopic: Probability and Statistics
-  course_number: '15.071'
+  course_numbers:
+    - '15.071'
   term: Spring 2017
   level: Graduate
 menu:

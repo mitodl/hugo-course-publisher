@@ -26,14 +26,16 @@ course_info:
     - Prof. Alex Lorman
     - Prof. Carol Carveth
     - Prof. Sara James
-  department: Res 2 006 Girls Who Build Cameras Summer 2016
+  departments:
+    - Supplemental Resources
   topics:
     - topic: Energy
       subtopic: Technology
     - topic: Engineering
     - topic: Teaching and Education
       subtopic: Curriculum and Teaching
-  course_number: RES.2-006
+  course_numbers:
+    - RES.2-006
   term: Summer 2016
   level: Non Credit
 menu:
