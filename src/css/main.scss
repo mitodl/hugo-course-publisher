@@ -33,9 +33,17 @@ a {
 }
 
 .outer-wrapper {
-  max-width: $max-content-width;
   min-height: 100vh;
   margin: auto auto;
+
+  @include media-breakpoint-up(lg) {
+    max-width: $max-content-width;
+  }
+  
+  @include media-breakpoint-down(md) {
+    max-width: 100vw;
+    overflow-x: hidden;
+  }
 }
 
 .left-col-bg {
