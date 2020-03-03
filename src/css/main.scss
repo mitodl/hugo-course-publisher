@@ -178,7 +178,9 @@ table {
 
 article.content {
   // sometimes the tables can be wide, and on mobile that can ruin the overall page width
-  // mais, malheureusement, bootstrap n'a pas un class définé pour indiquer qu'il faut avoir
-  // overflow: scroll!
-  overflow: scroll;
+  // this forces the table to scroll if it's too wide
+  table {
+    display: block;
+    overflow: auto;
+  }
 }
