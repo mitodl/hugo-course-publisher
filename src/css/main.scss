@@ -39,7 +39,7 @@ a {
   @include media-breakpoint-up(lg) {
     max-width: $max-content-width;
   }
-  
+
   @include media-breakpoint-down(md) {
     max-width: 100vw;
     overflow-x: hidden;
@@ -56,7 +56,7 @@ a {
     background-color: $light-gray;
     z-index: -1;
   }
-  
+
   @include media-breakpoint-down(md) {
     display: none;
   }
