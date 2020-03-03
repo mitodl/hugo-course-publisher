@@ -47,13 +47,19 @@ a {
 }
 
 .left-col-bg {
-  position: fixed;
-  top: 0px;
-  left: 0px;
-  width: 50vw;
-  height: 100vh;
-  background-color: $light-gray;
-  z-index: -1;
+  @include media-breakpoint-up(lg) {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 50vw;
+    height: 100vh;
+    background-color: $light-gray;
+    z-index: -1;
+  }
+  
+  @include media-breakpoint-down(md) {
+    display: none;
+  }
 }
 
 .medium-and-below-only {
