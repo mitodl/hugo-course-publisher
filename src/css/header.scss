@@ -1,5 +1,6 @@
 #desktop-header {
   background-color: $bg-gray;
+  border-bottom: 1px solid $border-dark-color;
 
   @include media-breakpoint-down(md) {
     display: none;
@@ -7,8 +8,9 @@
 
   .contents {
     display: flex;
+    margin: 0 auto;
+    max-width: $max-content-width;
     align-items: center;
-    border-bottom: 1px solid $border-dark-color;
 
     .bmd-form-group {
       padding-top: 0;
