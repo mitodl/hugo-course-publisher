@@ -82,12 +82,11 @@ a {
 }
 
 .course-image {
-  background-size: cover;
-}
+  @include media-breakpoint-down(md) {
+    height: 100px;
+    width: 150px;
+  }
 
-.mobile-course-image {
-  height: 100px;
-  width: 150px;
   object-fit: cover;
 }
 

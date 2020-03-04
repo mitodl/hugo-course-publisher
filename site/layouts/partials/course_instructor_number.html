@@ -3,15 +3,11 @@
     <tr>
       <td class="pl-0 py-0 p-md-2">Instructor(s)</td>
       <td class="pl-0 py-0 p-md-2">
-        <ul class="list-unstyled m-0">
-          {{ range $instructor := .Params.course_info.instructors }}
-          <li>
-            <a href="#" class="coming-soon">
-              {{ $instructor }}
-            </a>
-          </li>
-          {{ end }}
-        </ul>
+        {{ range $instructor := .Params.course_info.instructors }}
+        <a href="#" class="coming-soon pr-1">
+          {{ $instructor }}
+        </a>
+        {{ end }}
       </td>
     </tr>
     <tr>
