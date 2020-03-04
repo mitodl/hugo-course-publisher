@@ -42,14 +42,3 @@ menu:
     identifier: course-home
     weight: -10
 ---
-
-##### Course Features
-
-
-##### Course Collections
-
-See related courses in the following collections:
-
-_Find Courses by Topic_
-
-* [Science > Physics > Classical Mechanics](#)

@@ -37,17 +37,3 @@ menu:
     identifier: course-home
     weight: -10
 ---
-
-##### Course Features
-
-
-##### Course Collections
-
-See related courses in the following collections:
-
-_Find Courses by Topic_
-
-* [Business > Industrial Relations and Human Resource Management](#)
-* [Social Science > Economics > Industrial Organization](#)
-* [Social Science > Economics > Labor Economics](#)
-* [Social Science > Public Administration > Social Welfare](#)

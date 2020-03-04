@@ -32,16 +32,3 @@ menu:
     identifier: course-home
     weight: -10
 ---
-
-##### Course Features
-
-* [This Course at MIT]({{% ref "courses/21m-295-american-popular-music-fall-2014/sections/instructor-insights" %}})
-
-##### Course Collections
-
-See related courses in the following collections:
-
-_Find Courses by Topic_
-
-* [Fine Arts > Music > Music History](#)
-* [Fine Arts > Music > Music Theory](#)

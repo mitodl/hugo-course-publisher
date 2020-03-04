@@ -42,17 +42,3 @@ menu:
     identifier: course-home
     weight: -10
 ---
-
-##### Course Features
-
-* [Resource Index]({{% ref "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/resource-index" %}})
-
-##### Course Collections
-
-See related courses in the following collections:
-
-_Find Courses by Topic_
-
-* [Engineering > Computer Science](#)
-* [Mathematics > Applied Mathematics](#)
-* [Mathematics > Probability and Statistics](#)

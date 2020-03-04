@@ -43,17 +43,3 @@ menu:
     identifier: course-home
     weight: -10
 ---
-
-##### Course Features
-
-* [This Course at MIT]({{% ref "courses/res-2-006-girls-who-build-cameras-summer-2016/sections/instructor-insights" %}})
-
-##### Course Collections
-
-See related courses in the following collections:
-
-_Find Courses by Topic_
-
-* [Energy > Technology](#)
-* [Engineering](#)
-* [Teaching and Education > Curriculum and Teaching](#)

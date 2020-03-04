@@ -37,21 +37,3 @@ menu:
     identifier: course-home
     weight: -10
 ---
-
-##### Course Features
-
-* [Lecture notes]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-1" %}})
-* [Instructor Insights]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/instructor-insights" %}})
-* [Projects]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/design-project" %}})
-* [Resource Index]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/resource-index" %}})
-
-##### Course Collections
-
-See related courses in the following collections:
-
-_Find Courses by Topic_
-
-* [Engineering > Computer Science > Computer Design and Engineering](#)
-* [Engineering > Computer Science > Computer Networks](#)
-* [Engineering > Computer Science > Operating Systems](#)
-* [Engineering > Computer Science > Software Design and Engineering](#)

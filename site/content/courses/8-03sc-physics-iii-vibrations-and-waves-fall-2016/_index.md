@@ -29,22 +29,3 @@ menu:
     identifier: course-home
     weight: -10
 ---
-
-##### Course Features
-
-* [AV lectures]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-1" %}})
-* [Exams]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/final-exam" %}})
-* [Lecture notes]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-1" %}})
-* [Instructor Insights]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/instructor-insights" %}})
-* [Resource Index]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/resource-index" %}})
-* [Assignments]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-1" %}})
-
-##### Course Collections
-
-See related courses in the following collections:
-
-_Find Courses by Topic_
-
-* [Science > Physics > Classical Mechanics](#)
-* [Science > Physics > Electromagnetism](#)
-* [Science > Physics > Atomic, Molecular, Optical Physics](#)

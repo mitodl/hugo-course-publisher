@@ -30,20 +30,3 @@ menu:
     identifier: course-home
     weight: -10
 ---
-
-##### Course Features
-
-* [AV lectures]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics" %}})
-* [Interactive assessments]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/unit-index" %}})
-* [Lecture notes]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/lecture-and-recitation-notes" %}})
-* [Assignments]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/assignments" %}})
-
-##### Course Collections
-
-See related courses in the following collections:
-
-_Find Courses by Topic_
-
-* [Business > Management](#)
-* [Business > Operations Management](#)
-* [Mathematics > Probability and Statistics](#)

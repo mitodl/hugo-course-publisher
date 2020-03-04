@@ -29,21 +29,3 @@ menu:
     identifier: course-home
     weight: -10
 ---
-
-##### Course Features
-
-* [Lecture notes]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-1" %}})
-* [Assignments]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-1" %}})
-* [Exams]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/exams" %}})
-* [AV special element video]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3" %}})
-* [Resource Index]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/resource-index" %}})
-
-##### Course Collections
-
-See related courses in the following collections:
-
-_Find Courses by Topic_
-
-* [Science > Chemistry > Inorganic Chemistry](#)
-* [Science > Chemistry > Organic Chemistry](#)
-* [Science > Chemistry > Physical Chemistry](#)

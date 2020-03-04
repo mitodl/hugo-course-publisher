@@ -31,15 +31,3 @@ menu:
     identifier: course-home
     weight: -10
 ---
-
-##### Course Features
-
-* [Projects]({{% ref "courses/8-06-quantum-physics-iii-spring-2005/sections/projects" %}})
-
-##### Course Collections
-
-See related courses in the following collections:
-
-_Find Courses by Topic_
-
-* [Science > Physics > Quantum Mechanics](#)

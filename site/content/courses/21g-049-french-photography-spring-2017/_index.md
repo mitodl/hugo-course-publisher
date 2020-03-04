@@ -35,16 +35,3 @@ menu:
     identifier: course-home
     weight: -10
 ---
-
-##### Course Features
-
-
-##### Course Collections
-
-See related courses in the following collections:
-
-_Find Courses by Topic_
-
-* [Fine Arts > Visual Arts > Photography](#)
-* [Humanities > Literature > Criticism](#)
-* [Humanities > Language > French](#)
