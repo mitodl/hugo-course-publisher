@@ -6,6 +6,7 @@ import Popper from "popper.js"
 import "bootstrap-material-design"
 import tippy from "tippy.js"
 import "offcanvas-bootstrap/dist/js/bootstrap.offcanvas.js"
+import { initTheme } from "./js/stylesheets"
 
 window.jQuery = $
 window.$ = $
@@ -22,4 +23,6 @@ $(document).ready(() => {
       placement: "top"
     })
   })
+
+  initTheme()
 })

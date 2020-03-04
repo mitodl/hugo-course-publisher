@@ -1,0 +1,10 @@
+html.theme-one {
+  * {
+    background: pink;
+    color: teal;
+  }
+
+  :not(i) {
+    text-transform: uppercase;
+  }
+}
