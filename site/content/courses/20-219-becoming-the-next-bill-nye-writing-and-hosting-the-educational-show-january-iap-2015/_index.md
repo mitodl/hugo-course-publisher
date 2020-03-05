@@ -4,6 +4,10 @@ course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
 course_title: 'Becoming the Next Bill Nye: Writing and Hosting the Educational Show'
 course_image_url: images/course_image.jpg
+course_image_alternate_text: A woman in an MIT shirt being filmed by a crew.
+course_image_caption_text: >-
+  <p>MIT Sloan Fellow Andrea Desrosiers is making an educational video about
+  orthodontics. (Photograph courtesy of Elizabeth Choe.)</p>
 course_description: >-
   <p><em>Becoming the Next <a href="https://en.wikipedia.org/wiki/Bill_Nye">Bill
   Nye</a></em> is about using video production techniques to develop your

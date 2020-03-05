@@ -3,6 +3,12 @@ title: Course Home
 course_id: 18-01sc-single-variable-calculus-fall-2010
 course_title: Single Variable Calculus
 course_image_url: images/course_image.jpg
+course_image_alternate_text: >-
+  A graph of three lines, red, yellow, and blue that represent secant
+  approximation. 
+course_image_caption_text: >-
+  <p>Secant approximation mathlet from the d'Arbeloff Interactive Math Project.
+  Image courtesy of Haynes Miller, Heidi Burgiel, and J.-M. Claus.</p>
 course_description: >-
   <p>This calculus course covers differentiation and integration of functions of
   one variable, and concludes with a brief discussion of infinite series.

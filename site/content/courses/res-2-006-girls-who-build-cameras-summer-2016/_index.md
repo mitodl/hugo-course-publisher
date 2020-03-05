@@ -3,6 +3,13 @@ title: Course Home
 course_id: res-2-006-girls-who-build-cameras-summer-2016
 course_title: Girls Who Build Cameras
 course_image_url: images/course_image.jpg
+course_image_alternate_text: >-
+  A photograph of a girl holding parts of a programmable camera as part of the
+  Girls Who Build Cameras workshop.
+course_image_caption_text: >-
+  <p>Girls built and programmed their own Raspberry Pi cameras as part of the
+  Girls Who Build Cameras workshop. (Courtesy of Jon Barron, MIT Lincoln
+  Laboratory.)</p>
 course_description: >-
   <p>The Girls Who Build Cameras workshop for high school girls is a one-day,
   hands-on introduction to camera physics and technology (i.e. how Instagram

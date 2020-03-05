@@ -41,7 +41,7 @@ Course Format and Components
 This OCW Scholar course is based upon Professor Yen-Jie Lee’s _8.03 Physics III: Vibrations and Waves_ course as taught on the MIT campus. It includes a complete set of 24 video lectures recorded at MIT in the Fall of 2016. Additional materials have been developed specifically for this OCW Scholar course, including:
 
 *   Lecture Notes aligned with the lecture videos
-*   Problem Sets with Solutions
+*   Problem Sets (no solutions)
 *   Problem Solving Help Videos providing step-by-step solutions to sample problems
 *   Exams with Solutions
 

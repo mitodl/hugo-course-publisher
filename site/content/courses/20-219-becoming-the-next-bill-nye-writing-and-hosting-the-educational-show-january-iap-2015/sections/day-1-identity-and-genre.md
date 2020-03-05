@@ -101,7 +101,7 @@ Respond to sections of the reading through [Annotation Studio](http://www.annota
 *   Green, Hank. "[You Can't Make It on YouTube Anymore](https://medium.com/@hankgreen/you-cant-make-it-on-youtube-anymore-10977c194a4f)." December 2, 2014.
 *   Veritasium. "[This Will Revolutionize Education](https://youtu.be/GEmuEWjHr5c)." December 1, 2014. YouTube.
 *   Extra Credit: Oliver, Martin, and Keith Trigwell. "[Can 'Blended Learning' be Redeemed?](http://dx.doi.org/10.2304/elea.2005.2.1.17)" _E-learning and Digital Media_ 2, no. 1 (2005): 17–26.
-*   Extra Credit: Horn, Michael B., and Heather Staker. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Rise of K-12 Blended Learning. (PDF - 3.6MB)](http://www.innosightinstitute.org/innosight/wp-content/uploads/2011/01/The-Rise-of-K-12-Blended-Learning.pdf)." _Innosight Institute_, 2011.
+*   Extra Credit: Horn, Michael B., and Heather Staker. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Rise of K-12 Blended Learning. (PDF - 3.6MB)](https://www.christenseninstitute.org/wp-content/uploads/2013/04/The-rise-of-K-12-blended-learning.emerging-models.pdf)." _Innosight Institute_, 2011.
 
 Instructor and Student Work
 ---------------------------

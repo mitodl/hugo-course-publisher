@@ -23,7 +23,7 @@ If we were able to harness the power that you generated and use it to power LEDs
 As a class that focuses on design as well as energy, it is important for you to start thinking about where the technologies that you will be exposed to in this class can be applied. In order to start you on this path, review instructions for each pump:
 
 *   "Building an EMAS Pump" by Paul Cloesen ([DOC](http://paulcloesen.50webs.com/DocEMAS/Build-an-EMAS-pump.doc))
-*   [The Full Belly Project Rocker Pump](http://www.thefullbellyproject.org/rwp/)
+*   [The Full Belly Project Rocker Pump](https://www.thefullbellyproject.org/products-2)
 
 For _each_ pump:
 

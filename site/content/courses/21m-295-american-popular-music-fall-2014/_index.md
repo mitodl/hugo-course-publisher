@@ -4,6 +4,15 @@ course_id: 21m-295-american-popular-music-fall-2014
 course_title: American Popular Music
 course_image_url: >-
   https://open-learning-course-data.s3.amazonaws.com/21m-295-american-popular-music-fall-2014/a57dec71093e5b2433d7f4fd060d667e_21m-295f14.jpg
+course_image_alternate_text: Two guitars combined into one.
+course_image_caption_text: >-
+  <p>An acoustic and an electric guitar. In this course, students analyzed the
+  instrumentation form of various assigned popular songs. (Acoustic guitar
+  courtesy of <a
+  href="http://www.flickr.com/photos/smileeyface1993/8577502476/">Megan
+  Allen</a> on Flickr; electric guitar courtesy of <a
+  href="http://www.flickr.com/photos/eprater/8305906536/">Ethan Prater</a> on
+  Flickr. Licenses: CC BY.)</p> <p>&nbsp;</p> <p>&nbsp;</p>
 course_description: >-
   <p>This course surveys the development of popular music in the United States
   and in a cross-cultural milieu relative to the history and sociology of the

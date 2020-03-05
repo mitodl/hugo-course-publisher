@@ -3,6 +3,15 @@ title: Course Home
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 course_title: Shaping the Future of Work (15.662x)
 course_image_url: images/course_image.jpg
+course_image_alternate_text: >-
+  Protesters rally holding signs that read "save Market Basket" and "I won't
+  shop here."
+course_image_caption_text: >-
+  <p>On August 5, 2014 thousands rallied outside of the Tewksbury Market Basket
+  location, demanding that the board reinstate Arthur T. Demoulas as CEO.
+  (Courtesy of <a
+  href="https://www.flickr.com/photos/streamingmeemee/14836581424/">Tim
+  Carter</a> on Flickr. License: CC BY-NC.)</p>
 course_description: >-
   <p>The goal of this course is to explore and develop plans of action for
   improving the job and career opportunities for today and tomorrow's workforce.

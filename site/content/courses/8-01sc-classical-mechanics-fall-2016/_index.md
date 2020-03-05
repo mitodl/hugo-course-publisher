@@ -4,6 +4,11 @@ course_id: 8-01sc-classical-mechanics-fall-2016
 course_title: Classical Mechanics
 course_image_url: >-
   https://open-learning-course-data.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/424dd4989c1235387a32fbb5a17b80c1_8-01scf16.jpg
+course_image_alternate_text: A photo of a building with the word "Newton" engraved on the side.
+course_image_caption_text: >-
+  <p>Issac Newton is honored on the facade of Killian Court at MIT. Newton
+  developed most of the concepts studied in classical mechanics. (Photo courtesy
+  of Dr. Michelle Tomasik.)</p>
 course_description: >-
   <p>This first course in the physics curriculum introduces classical mechanics.
   Historically, a set of core concepts&mdash;space, time, mass, force, 
