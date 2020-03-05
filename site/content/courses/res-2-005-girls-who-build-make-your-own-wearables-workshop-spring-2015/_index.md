@@ -3,6 +3,10 @@ title: Course Home
 course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015
 course_title: 'Girls Who Build: Make Your Own Wearables Workshop'
 course_image_url: images/course_image.jpg
+course_image_alternate_text: A girl holds up a boot that she is adding lights to.
+course_image_caption_text: >-
+  <p>Girls programmed their own light-up shoes as part of the Girls Who Build
+  workshop. (Photograph courtesy of Jon Barron, MIT Lincoln Laboratory.)</p>
 course_description: >-
   <p>The Girls Who Build: Make Your Own Wearables workshop for high school girls
   is an introduction to computer science, electrical and mechanical engineering

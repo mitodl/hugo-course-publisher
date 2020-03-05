@@ -3,6 +3,12 @@ title: Course Home
 course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
 course_title: 'Unified Engineering I, II, III, & IV'
 course_image_url: images/course_image.jpg
+course_image_alternate_text: >-
+  Illustration of an aircraft wing showing connections between the disciplines
+  of the course.
+course_image_caption_text: >-
+  <p>An abstracted aircraft wing, illustrating the connections between the
+  disciplines of Unified Engineering. (Image by MIT OpenCourseWare.)</p>
 course_description: >-
   <p>The basic objective of Unified Engineering is to give a solid understanding
   of the fundamental disciplines of aerospace engineering, as well as their

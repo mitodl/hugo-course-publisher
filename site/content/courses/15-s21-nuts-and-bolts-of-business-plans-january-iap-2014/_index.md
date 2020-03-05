@@ -3,6 +3,10 @@ title: Course Home
 course_id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
 course_title: Nuts and Bolts of Business Plans
 course_image_url: images/course_image.jpg
+course_image_alternate_text: A diagram of a nut and bolt.
+course_image_caption_text: >-
+  <p>A nut and bolt figuratively represent the content of this class. (Image by
+  MIT OCW.)</p>
 course_description: >-
   <p>The nuts and bolts of preparing a New Venture Plan and launching the
   venture will be explored in this twenty-fifth&nbsp;annual course offering. The

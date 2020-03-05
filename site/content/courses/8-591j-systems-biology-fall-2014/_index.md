@@ -4,6 +4,18 @@ course_id: 8-591j-systems-biology-fall-2014
 course_title: Systems Biology
 course_image_url: >-
   https://open-learning-course-data.s3.amazonaws.com/8-591j-systems-biology-fall-2014/5a4e655e52f45f37185ad3d45fa4e667_8-591jf14.jpg
+course_image_alternate_text: >-
+  A neutrophil, shown as a large irregularly-shaped blue-gray cell, wrapping
+  around pink oval-shaped Klebsiella pneumoniae bacteria.
+course_image_caption_text: >-
+  <p>A neutrophil (a type of white blood cell, shown in blue-gray) interacting
+  with <em>Klebsiella pneumoniae</em> bacteria (shown in pink). This is one
+  example of the types of functions that Systems Biology seeks to understand and
+  describe. Watch <a
+  href="./resolveuid/2d56d1e569c77968d0077c6c6f1d4ffc">Lecture 1</a> to see a
+  video of a neutrophil chasing and engulfing a bacterium. (Image by <a
+  href="https://www.flickr.com/photos/54591706@N02/13743456084/">NIAID</a>, <a
+  href="https://creativecommons.org/licenses/by/2.0/">CC-BY</a>.)</p><p>&nbsp;</p>
 course_description: >-
   <p>This course provides an introduction to cellular and population-level
   systems biology with an emphasis on synthetic biology, modeling of genetic

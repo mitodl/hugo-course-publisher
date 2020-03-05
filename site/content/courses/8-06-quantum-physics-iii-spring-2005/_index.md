@@ -4,6 +4,11 @@ course_id: 8-06-quantum-physics-iii-spring-2005
 course_title: Quantum Physics III
 course_image_url: >-
   https://open-learning-course-data.s3.amazonaws.com/8-06-quantum-physics-iii-spring-2005/6f396c617216f1b579547f1872052d4a_8-06s05.jpg
+course_image_alternate_text: A montage of hand-drawn graphs demonstrating principals of quantum physics.
+course_image_caption_text: >-
+  <p>Energy levels in a certain time-dependent three state system with two
+  off-diagonal matrix elements &alpha; and the third zero, a spherical harmonic,
+  and the Stark effect for n=3. (Image by&nbsp;Prof. Krishna Rajagopal.)</p>
 course_description: >-
   <p>Together, this course and its predecessor, <a
   href="./resolveuid/4cc828ff9c6e246aa4a08f7c12251ced">8.05: Quantum Physics

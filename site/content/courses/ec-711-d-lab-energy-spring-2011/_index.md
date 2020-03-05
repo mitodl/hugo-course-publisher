@@ -4,6 +4,15 @@ course_id: ec-711-d-lab-energy-spring-2011
 course_title: 'D-Lab: Energy'
 course_image_url: >-
   https://open-learning-course-data.s3.amazonaws.com/ec-711-d-lab-energy-spring-2011/904b1bf01a94f63a980908933b86bfda_ec-711s11.jpg
+course_image_alternate_text: >-
+  Photo of a student standing outdoors next to a box containing cookies, with
+  clear plexiglass top and a large foil solar reflector.
+course_image_caption_text: >-
+  <p>During the <a href="./resolveuid/fb9d6e56eac497fb24b46d3ac31a62da">spring
+  break trip</a> to Nicaragua, students worked with community partners on
+  various projects like a solar oven, shown here baking sugar cookies. (Photo
+  courtesy of <a href="http://www.flickr.com/photos/d-lab/5576006598">D-Lab</a>
+  on Flickr.)</p>
 course_description: >-
   <p>D-Lab: Energy offers a hands-on, project-based approach that engages
   students in understanding and addressing the applications of small-scale,

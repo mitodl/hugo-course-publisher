@@ -11,7 +11,7 @@ Interesting Links
 
 ### Java® Demos
 
-The _Java® Demos_ were developed by [Pavel Grinfeld](http://www.drexel.edu/math/contact/facultyDirectory/PavelGrinfeld/).
+The _Java® Demos_ were developed by [Pavel Grinfeld](https://drexel.edu/coas/faculty-research/faculty-directory/Pavel-Grinfeld/).
 
 *   [Eigenvalues](http://ocw.mit.edu/ans7870/18/18.06/javademo/Eigen/)
 *   [SVD (Singular Value Decomposition)](http://ocw.mit.edu/ans7870/18/18.06/javademo/SVD/)

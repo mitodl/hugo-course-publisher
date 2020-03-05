@@ -147,7 +147,7 @@ Final Project
 This video is courtesy of [Kenneth Cheah](https://www.youtube.com/channel/UCy5Pf8DSg1wDNqU-RuD63Uw) on YouTube and is provided under our Creative Commons license.
 
 Is Time Travel Possible?  
-[Creative Commons: CC BY-NC-SA](http://k12videos.mit.edu/terms-conditions/?rq=Creative%20Commons), MIT  
+[Creative Commons: CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/), MIT  
 Hosted By: Kenneth Cheah  
 Written By: Kenneth Cheah  
 Additional scripting: Elizabeth Choe, Jaime Goldstein, Ceri Riley, George Zaidan, students of 20.219

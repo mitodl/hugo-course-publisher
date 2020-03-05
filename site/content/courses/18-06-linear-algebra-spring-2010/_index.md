@@ -4,6 +4,10 @@ course_id: 18-06-linear-algebra-spring-2010
 course_title: Linear Algebra
 course_image_url: >-
   https://open-learning-course-data.s3.amazonaws.com/18-06-linear-algebra-spring-2010/862a5bbedf159572528b0f0766d1e611_18-06s10.jpg
+course_image_alternate_text: 'A photograph of windows in Philadelphia, representing a block matrix.'
+course_image_caption_text: >-
+  <p class="instruction">These windows in Philadelphia represent a beautiful
+  block matrix. (Courtesy Gail Corbett. Used with permission.)</p>
 course_description: >-
   <p>This is a basic subject on matrix theory and linear algebra. Emphasis is
   given to topics that will be useful in other disciplines, including systems of

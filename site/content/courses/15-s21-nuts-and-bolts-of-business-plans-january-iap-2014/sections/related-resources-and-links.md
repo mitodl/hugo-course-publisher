@@ -139,10 +139,10 @@ _What does it cost to recruit someone?_
 ["How Much Does An Employee Cost?"](http://www.mitef.org/s/1314/interior-2-col.aspx?sid=1314&gid=5&pgid=5793)  
 _Some metrics on figuring the cost of feeding and caring for employees._
 
-["Don't I Know You From Somewhere? The Price Of Fame"](http://www.mitef.org/s/1314/interior-2-col.aspx?sid=1314&gid=5&pgid=5826)  
+["Don't I Know You From Somewhere? The Price Of Fame"](https://studylib.net/doc/13624330/and%2334%3Bdon-t-i-know-you-from-somewhere%3F-the-price-of-fameand%2334%3B)  
 _What does public relations cost?_
 
-["Putting a Leash on Your Lease"](http://www.mitef.org/s/1314/interior-2-col.aspx?sid=1314&gid=5&pgid=5827)  
+["Putting a Leash on Your Lease"](http://web.mit.edu/e-club/hadzima/putting-a-leash-on-your-lease.html)  
 _Basic points to think about in signing a real estate lease for your business._
 
 Deal Source Information

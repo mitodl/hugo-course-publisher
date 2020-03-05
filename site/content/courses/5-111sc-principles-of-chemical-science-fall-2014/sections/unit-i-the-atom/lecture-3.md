@@ -58,6 +58,6 @@ Problems and Solutions
 Acknowledgement
 ---------------
 
-Excerpt of “[ROY G. BIV](https://youtu.be/Gf33ueRXMzQ)” by [They Might Be Giants](http://www.theymightbegiants.com/), courtesy of Idlewild / Disney Sound, used with permission. From [_Here Comes Science_](http://www.theymightbegiants.com/music/here-comes-science/), 2009.
+Excerpt of “[ROY G. BIV](https://youtu.be/Gf33ueRXMzQ)” by [They Might Be Giants](http://www.theymightbegiants.com/), courtesy of Idlewild / Disney Sound, used with permission. From [_Here Comes Science_](https://www.theymightbegiants.com/here-comes-science), 2009.
 
 « [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4" %}}) »

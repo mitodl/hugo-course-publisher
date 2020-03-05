@@ -3,6 +3,12 @@ title: Course Home
 course_id: 21g-049-french-photography-spring-2017
 course_title: French Photography
 course_image_url: images/course_image.jpg
+course_image_alternate_text: 'A shop window displaying rows of corsets on dress forms. '
+course_image_caption_text: >-
+  <p>A photo taken in 1912 by Eugène Atget of a Corsetière shop window on
+  Boulevard de Strasbourg in Paris. (Image is in the public domain. Source: <a
+  href="https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Atget,_Boulevard_de_Strasbourg,_Corsets,_Paris,_1912.jpg">Wikimedia
+  Commons</a>.)</p>
 course_description: >-
   <p>This course introduces students to the world of French photography from its
   invention in the 1820s to the present. It provides exposure to major

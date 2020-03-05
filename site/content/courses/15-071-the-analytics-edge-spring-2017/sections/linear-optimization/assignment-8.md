@@ -352,7 +352,7 @@ If you increase the total number of cases of each type of produce one at a time 
 
 CheckShow Answer
 
-Acknowledgements: This problem is based on the case study "[Introducing Integer Modeling with Excel Solver](https://www.informs.org/Pubs/ITE/Archive/Volume-7/Introducing-Integer-Modeling-with-Excel-Solver)" by Dessislava Pachamanova, INFORMS Transactions on Education 7:1(88-98). Publication year 2006.
+Acknowledgements: This problem is based on the case study "[Introducing Integer Modeling with Excel Solver](https://pubsonline.informs.org/doi/pdf/10.1287/ited.7.1.88)" by Dessislava Pachamanova, INFORMS Transactions on Education 7:1(88-98). Publication year 2006.
 
 *   [BackVideo 8: Extensions and the Edge]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-8-extensions-and-the-edge" %}})
 *   [ContinueInteger Optimization]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization" %}})
