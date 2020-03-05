@@ -41,21 +41,3 @@ menu:
     identifier: course-home
     weight: -10
 ---
-
-##### Course Features
-
-* [This Course at MIT]({{% ref "courses/8-591j-systems-biology-fall-2014/sections/instructor-insights" %}})
-* [Assignments]({{% ref "courses/8-591j-systems-biology-fall-2014/sections/assignments" %}})
-* [Exams]({{% ref "courses/8-591j-systems-biology-fall-2014/sections/exams" %}})
-* [AV lectures]({{% ref "courses/8-591j-systems-biology-fall-2014/sections/lecture-videos" %}})
-
-##### Course Collections
-
-See related courses in the following collections:
-
-_Find Courses by Topic_
-
-* [Science > Physics](#)
-* [Science > Biology > Computation and Systems Biology](#)
-* [Engineering > Biological Engineering > Synthetic Biology](#)
-* [Science > Biology > Cell Biology](#)

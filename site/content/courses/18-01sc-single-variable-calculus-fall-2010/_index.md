@@ -27,20 +27,3 @@ menu:
     identifier: course-home
     weight: -10
 ---
-
-##### Course Features
-
-* [Exams]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1" %}})
-* [Lecture notes]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives" %}})
-* [AV lectures]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives" %}})
-* [Assignments]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives" %}})
-* [Interactive simulations]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives" %}})
-
-##### Course Collections
-
-See related courses in the following collections:
-
-_Find Courses by Topic_
-
-* [Mathematics > Calculus](#)
-* [Mathematics > Differential Equations](#)

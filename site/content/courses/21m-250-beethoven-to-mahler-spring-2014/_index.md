@@ -30,17 +30,3 @@ menu:
     identifier: course-home
     weight: -10
 ---
-
-##### Course Features
-
-* [Lecture notes]({{% ref "courses/21m-250-beethoven-to-mahler-spring-2014/sections/lecture-notes" %}})
-* [This Course at MIT]({{% ref "courses/21m-250-beethoven-to-mahler-spring-2014/sections/instructor-insights" %}})
-
-##### Course Collections
-
-See related courses in the following collections:
-
-_Find Courses by Topic_
-
-* [Fine Arts > Music](#)
-* [Fine Arts > Music > Music History](#)

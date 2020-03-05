@@ -36,17 +36,3 @@ menu:
     identifier: course-home
     weight: -10
 ---
-
-##### Course Features
-
-* [Assignments]({{% ref "courses/12-001-introduction-to-geology-fall-2013/sections/labs-and-exercises" %}})
-* [Lecture notes]({{% ref "courses/12-001-introduction-to-geology-fall-2013/sections/lecture-notes-and-slides" %}})
-
-##### Course Collections
-
-See related courses in the following collections:
-
-_Find Courses by Topic_
-
-* [Science > Earth Science](#)
-* [Science > Earth Science > Geology](#)

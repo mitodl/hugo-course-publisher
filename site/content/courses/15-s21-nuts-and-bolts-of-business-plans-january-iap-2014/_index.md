@@ -40,19 +40,3 @@ menu:
     identifier: course-home
     weight: -10
 ---
-
-##### Course Features
-
-* [AV lectures]({{% ref "courses/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/sections/lecture-videos" %}})
-
-##### Course Collections
-
-See related courses in the following collections:
-
-_Find Courses by Topic_
-
-* [Business](#)
-* [Business > Entrepreneurship](#)
-* [Business > Finance](#)
-* [Business > Innovation](#)
-* [Business > Management](#)

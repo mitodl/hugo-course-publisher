@@ -44,20 +44,3 @@ menu:
     identifier: course-home
     weight: -10
 ---
-
-##### Course Features
-
-* [AV lectures]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}})
-* [Projects]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects" %}})
-
-##### Course Collections
-
-See related courses in the following collections:
-
-_Find Courses by Topic_
-
-* [Fine Arts > Media Studies > Digital Media](#)
-* [Fine Arts > Visual Arts > Film and Video](#)
-* [Social Science > Communication](#)
-* [Teaching and Education > Curriculum and Teaching](#)
-* [Teaching and Education > Educational Technology](#)

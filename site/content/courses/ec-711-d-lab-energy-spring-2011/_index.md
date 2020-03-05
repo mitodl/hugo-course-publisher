@@ -47,17 +47,3 @@ menu:
     identifier: course-home
     weight: -10
 ---
-
-##### Course Features
-
-
-##### Course Collections
-
-See related courses in the following collections:
-
-_Find Courses by Topic_
-
-* [Engineering > Electrical Engineering > Electric Power](#)
-* [Society > The Developing World](#)
-* [Science > Earth Science > Sustainability](#)
-* [Energy](#)

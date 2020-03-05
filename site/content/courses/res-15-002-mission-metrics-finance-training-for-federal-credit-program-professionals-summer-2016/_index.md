@@ -41,18 +41,3 @@ menu:
     identifier: course-home
     weight: -10
 ---
-
-##### Course Features
-
-
-##### Course Collections
-
-See related courses in the following collections:
-
-_Find Courses by Topic_
-
-* [Business > Accounting](#)
-* [Business > Finance](#)
-* [Business > Management](#)
-* [Social Science > Economics > Public Economics](#)
-* [Social Science > Public Administration > Public Policy](#)
