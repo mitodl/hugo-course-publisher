@@ -1,0 +1,64 @@
+$gitbook-blue-grey: #f5f7f9;
+$gitbook-border-grey: #d4dadf;
+$gitbook-border-light: #e6ecf1;
+$gitbook-blue: rgb(56, 132, 254);
+
+html.gitbook {
+  body {
+    font-family: "Roboto" !important;
+  }
+
+  p {
+    font-size: 16px;
+    margin-bottom: 24px;
+  }
+
+  h2 {
+    margin: 24px 0;
+  }
+
+  main {
+    font-size: 16px;
+  }
+
+  #desktop-header {
+    background: white;
+    border-bottom: 1px solid $gitbook-border-grey;
+    box-shadow: 0 3px 8px 0 rgba(116, 129, 141, 0.1);
+  }
+
+  .bg-light {
+    background-color: $gitbook-blue-grey !important;
+  }
+
+  .desktop-nav {
+    border-right: 1px solid $gitbook-border-light;
+
+    .course-nav-list-item.active {
+      .a-wrapper.active {
+        background-color: white;
+        border: 1px solid $gitbook-border-light;
+        border-right: none;
+      }
+
+      a.active {
+        color: $gitbook-blue !important;
+      }
+    }
+
+    .course-nav-list-item {
+      padding-right: 0;
+
+      i {
+        margin-right: 10px;
+      }
+
+      a {
+        margin-left: 20px;
+        text-transform: none !important;
+        font-weight: 500;
+        font-size: 14px;
+      }
+    }
+  }
+}

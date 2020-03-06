@@ -1,14 +1,14 @@
 const BASE_THEME = "BASE_THEME"
-const THEME_VARIANT_ONE = "THEME_VARIANT_ONE"
+const GITBOOK_THEME = "GITBOOK_THEME"
 
 const THEME_CLASSNAMES = {
-  [BASE_THEME]:        "",
-  [THEME_VARIANT_ONE]: "theme-one"
+  [BASE_THEME]:    "",
+  [GITBOOK_THEME]: "gitbook"
 }
 
 const THEME_OPTIONS = [
   { value: BASE_THEME, label: "Base Theme" },
-  { value: THEME_VARIANT_ONE, label: "Theme #1" }
+  { value: GITBOOK_THEME, label: "Gitbook Theme" }
 ]
 
 const STORAGE_KEY = "ocw-theme"

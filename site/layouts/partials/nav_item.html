@@ -7,8 +7,8 @@
 {{ $isMenuCurrent := $currentPage.IsMenuCurrent $courseId .menuItem }}
 {{ $hasMenuCurrent := $currentPage.HasMenuCurrent $courseId .menuItem }}
 
-<li class="course-nav-list-item{{ if $hasParent }} course-nav-list-item-child{{ end }}">
-  <div class="position-relative pt-2 pb-2{{ if $hasChildren }} pr-3{{ end }}">
+<li class="course-nav-list-item{{ if $hasParent }} course-nav-list-item-child{{ end }}{{ if $isMenuCurrent }} active{{ end }}">
+  <div class="position-relative a-wrapper pt-2 pb-2{{ if $hasChildren }} pr-3{{ end }}{{ if $isMenuCurrent }} active{{ end }}">
     <span class="course-nav-text-wrapper">
       <a class="text-uppercase text-dark{{ if $isMenuCurrent }} active{{ end }}"
         href="{{ .menuItem.URL | relURL }}">
