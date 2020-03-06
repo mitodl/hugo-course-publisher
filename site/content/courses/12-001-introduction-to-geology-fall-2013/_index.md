@@ -32,6 +32,13 @@ course_info:
     - Prof. Taylor Perron
   departments:
     - 'Earth, Atmospheric, and Planetary Sciences'
+  course_features:
+    - feature: Assignments
+      subfeature: problem sets (no solutions)
+    - feature: Lecture notes
+      subfeature: Complete
+    - feature: Instructor Insights
+    - feature: Image Gallery
   topics:
     - topic: Science
       subtopic: Earth Science

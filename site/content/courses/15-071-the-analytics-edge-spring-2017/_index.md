@@ -22,6 +22,14 @@ course_info:
     - Prof. Dimitris Bertsimas
   departments:
     - Sloan School of Management
+  course_features:
+    - feature: AV lectures
+      subfeature: Video
+    - feature: Interactive assessments
+    - feature: Lecture notes
+      subfeature: Complete
+    - feature: Assignments
+      subfeature: problem sets with solutions
   topics:
     - topic: Business
       subtopic: Management

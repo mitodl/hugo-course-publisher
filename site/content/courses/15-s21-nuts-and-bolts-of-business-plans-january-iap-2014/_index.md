@@ -25,6 +25,12 @@ course_info:
     - Prof. Joseph Hadzima
   departments:
     - Sloan School of Management
+  course_features:
+    - feature: This Course at MIT
+    - feature: AV lectures
+      subfeature: Video
+    - feature: Assignments
+      subfeature: written (no examples)
   topics:
     - topic: Business
     - topic: Business

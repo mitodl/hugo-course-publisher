@@ -35,6 +35,8 @@ course_info:
     - Prof. Sara James
   departments:
     - Supplemental Resources
+  course_features:
+    - feature: This Course at MIT
   topics:
     - topic: Energy
       subtopic: Technology

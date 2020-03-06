@@ -1,0 +1,10 @@
+<li>
+  <div class="position-relative pt-2 pb-2">
+    <span>
+      <a class="link-unstyled text-dark coming-soon" href="#">
+        {{ .feature }}{{ if isset . "subfeature" }} -{{ .subfeature }}{{ end }}
+      </a>
+    </span>
+    <i class="course-feature-icon material-icons font-weight-bold h2">check</i>
+  </div>
+</li>

@@ -34,6 +34,13 @@ course_info:
     - Prof. Michelle Tomasik
   departments:
     - Physics
+  course_features:
+    - feature: AV lectures
+      subfeature: Video
+    - feature: Assignments
+      subfeature: problem sets (no solutions)
+    - feature: Online textbooks
+      subfeature: PDF
   topics:
     - topic: Science
       subtopic: Physics

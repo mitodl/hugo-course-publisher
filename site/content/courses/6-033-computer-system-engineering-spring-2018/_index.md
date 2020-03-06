@@ -20,6 +20,15 @@ course_info:
     - Prof. Katrina LaCurts
   departments:
     - Electrical Engineering and Computer Science
+  course_features:
+    - feature: Lecture notes
+      subfeature: Complete
+    - feature: Assignments
+      subfeature: written (no examples)
+    - feature: Instructor Insights
+    - feature: Projects
+      subfeature: Examples
+    - feature: Resource Index
   topics:
     - topic: Engineering
       subtopic: Computer Science

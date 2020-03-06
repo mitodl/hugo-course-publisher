@@ -25,6 +25,10 @@ course_info:
     - Prof. Teresa Neff
   departments:
     - Music and Theater Arts
+  course_features:
+    - feature: This Course at MIT
+    - feature: Assignments
+      subfeature: written (no examples)
   topics:
     - topic: Fine Arts
       subtopic: Music
