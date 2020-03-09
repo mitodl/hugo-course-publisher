@@ -27,6 +27,8 @@ course_info:
     - Prof. Mike Gibson
   departments:
     - Supplemental Resources
+  course_features:
+    - feature: This Course at MIT
   topics:
     - topic: Engineering
     - topic: Engineering

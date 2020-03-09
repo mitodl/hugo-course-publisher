@@ -16,6 +16,17 @@ course_info:
     - Prof. Catherine Drennan
   departments:
     - Chemistry
+  course_features:
+    - feature: This Course at MIT
+    - feature: Assignments
+      subfeature: problem sets with solutions
+    - feature: AV special element video
+      subfeature: Other
+    - feature: Exams
+      subfeature: Solutions
+    - feature: AV special element video
+      subfeature: Other
+    - feature: Resource Index
   topics:
     - topic: Science
       subtopic: Chemistry

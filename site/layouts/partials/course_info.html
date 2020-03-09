@@ -51,5 +51,13 @@
         </td>
       </tr>
     </table>
+    <div>
+      <h5 class="font-weight-bold">Course Features</h5>
+      <ul class="list-unstyled m-0">
+      {{ range .Params.course_info.course_features }}
+        {{ partial "course_feature.html" . }}
+      {{ end }}
+      </ul>
+    </div>
   </div>
 {{ end }}

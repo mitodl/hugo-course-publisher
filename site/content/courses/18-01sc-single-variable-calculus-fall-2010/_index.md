@@ -19,6 +19,15 @@ course_info:
     - Prof. David Jerison
   departments:
     - Mathematics
+  course_features:
+    - feature: Exams
+      subfeature: Solutions
+    - feature: Exams
+      subfeature: Solutions
+    - feature: Interactive simulations
+      subfeature: Applet
+    - feature: Interactive simulations
+      subfeature: Applet
   topics:
     - topic: Mathematics
       subtopic: Calculus

@@ -1,4 +1,5 @@
 .course-info {
+  overflow: hidden;
   table {
     max-width: 300px;
   }
@@ -73,4 +74,11 @@
 .partial-collapse.collapse.show > ul > li > a.partial-collapse-link {
   position: relative;
   z-index: 3;
+}
+
+.course-feature-icon {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 0;
 }

@@ -1,0 +1,126 @@
+{
+  "features" : [
+    {
+      "name": "AV faculty introductions",
+      "subfeatures": [
+        "audio",
+        "video"
+      ]
+    },
+    {
+      "name": "AV lectures",
+      "subfeatures": [
+        "audio",
+        "video"
+      ]
+    },
+    {
+      "name": "AV recitations",
+      "subfeatures": []
+    },
+    {
+      "name": "AV selected lectures",
+      "subfeatures": [
+        "audio",
+        "video"
+      ]
+    },
+    {
+      "name": "AV special element audio",
+      "subfeatures": [
+        "Competition",
+        "Demonstration",
+        "Field trip",
+        "Guest lecture",
+        "Tutorial",
+        "Workshop",
+        "Other"
+      ]
+    },
+    {
+      "name": "AV special element video",
+      "subfeatures": [
+        "Competition",
+        "Demonstration",
+        "Field trip",
+        "Guest lecture",
+        "Tutorial",
+        "Workshop",
+        "Other"
+      ]
+    },
+    {
+      "name": "Assignments",
+      "subfeatures": [
+        "activity (no examples)",
+        "activity with examples",
+        "design (no examples)",
+        "design with examples",
+        "media (no examples)",
+        "media with examples",
+        "presentation (no examples)",
+        "problem sets with examples",
+        "problem sets (no examples)",
+        "programming with examples",
+        "programming (no examples)",
+        "written with examples",
+        "written (no examples)"
+      ]
+    },
+    {
+      "name": "Exams",
+      "subfeatures": [
+        "No solutions",
+        "Solutions"
+      ]
+    },
+    {
+      "name": "Image Gallery",
+      "subfeatures": []
+    },
+    {
+      "name": "Interactive simulations",
+      "subfeatures": [
+        "Applet",
+        "Flash",
+        "Shockwave",
+        "Software",
+        "Other"
+      ]
+    },
+    {
+      "name": "Lecture notes",
+      "subfeatures": [
+        "Complete",
+        "Selected"
+      ]
+    },
+    {
+      "name": "Online textbooks",
+      "subfeatures": [
+        "HTML",
+        "MathML",
+        "PDF",
+        "Other"
+      ]
+    },
+    {
+      "name": "Projects",
+      "subfeatures": [
+        "Examples",
+        "No examples"
+      ]
+    },
+    {
+      "name": "Simulations",
+      "subfeatures": [
+        "Applet",
+        "Audio",
+        "Flash",
+        "Shockwave",
+        "Video",
+        "Other"
+      ]
+    }
+  ]
+}

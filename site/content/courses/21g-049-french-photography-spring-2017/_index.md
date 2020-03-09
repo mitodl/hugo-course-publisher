@@ -22,6 +22,10 @@ course_info:
     - Prof. Catherine Clark
   departments:
     - Global Studies and Languages
+  course_features:
+    - feature: Assignments
+      subfeature: written (no examples)
+    - feature: Image Gallery
   topics:
     - topic: Fine Arts
       subtopic: Visual Arts

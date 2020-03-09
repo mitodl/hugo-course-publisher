@@ -26,6 +26,12 @@ course_info:
     - Prof. Chris Boebel
   departments:
     - Biological Engineering
+  course_features:
+    - feature: AV lectures
+      subfeature: Video
+    - feature: Projects
+      subfeature: Examples
+    - feature: Instructor Insights
   topics:
     - topic: Fine Arts
       subtopic: Media Studies

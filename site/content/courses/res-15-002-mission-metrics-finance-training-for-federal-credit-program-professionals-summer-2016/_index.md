@@ -26,6 +26,7 @@ course_info:
     - Prof. Deborah Lucas
   departments:
     - Supplemental Resources
+  course_features: []
   topics:
     - topic: Business
       subtopic: Accounting

@@ -33,6 +33,17 @@ course_info:
     - Prof. Jennifer Craig
   departments:
     - Aeronautics and Astronautics
+  course_features:
+    - feature: AV selected lectures
+      subfeature: Video
+    - feature: AV faculty introductions
+      subfeature: Video
+    - feature: AV special element video
+      subfeature: Competition
+    - feature: Assignments
+      subfeature: problem sets with solutions
+    - feature: Exams
+      subfeature: Solutions
   topics:
     - topic: Engineering
       subtopic: Aerospace Engineering

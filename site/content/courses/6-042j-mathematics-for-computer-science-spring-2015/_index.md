@@ -30,6 +30,19 @@ course_info:
   departments:
     - Electrical Engineering and Computer Science
     - Mathematics
+  course_features:
+    - feature: AV lectures
+      subfeature: Video
+    - feature: Assignments
+      subfeature: problem sets (no solutions)
+    - feature: Exams
+      subfeature: No solutions
+    - feature: Lecture notes
+      subfeature: Complete
+    - feature: Online textbooks
+      subfeature: PDF
+    - feature: Interactive assessments
+    - feature: Resource Index
   topics:
     - topic: Engineering
       subtopic: Computer Science

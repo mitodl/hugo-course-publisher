@@ -30,6 +30,14 @@ course_info:
   departments:
     - Physics
     - Biology
+  course_features:
+    - feature: This Course at MIT
+    - feature: Assignments
+      subfeature: problem sets (no solutions)
+    - feature: Exams
+      subfeature: No solutions
+    - feature: AV lectures
+      subfeature: Video
   topics:
     - topic: Science
       subtopic: Physics

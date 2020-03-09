@@ -18,6 +18,16 @@ course_info:
     - Prof. Gilbert Strang
   departments:
     - Mathematics
+  course_features:
+    - feature: AV special element video
+      subfeature: Tutorial
+    - feature: AV lectures
+      subfeature: Video
+    - feature: Assignments
+      subfeature: problem sets with solutions
+    - feature: Exams
+      subfeature: Solutions
+    - feature: Instructor Insights
   topics:
     - topic: Mathematics
       subtopic: Linear Algebra

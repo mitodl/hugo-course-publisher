@@ -19,6 +19,7 @@ course_info:
     - Prof. W. Carter
   departments:
     - Supplemental Resources
+  course_features: []
   topics:
     - topic: Engineering
       subtopic: Materials Science and Engineering

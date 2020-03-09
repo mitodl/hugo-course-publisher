@@ -23,6 +23,9 @@ course_info:
     - Prof. Krishna Rajagopal
   departments:
     - Physics
+  course_features:
+    - feature: Projects
+      subfeature: No examples
   topics:
     - topic: Science
       subtopic: Physics

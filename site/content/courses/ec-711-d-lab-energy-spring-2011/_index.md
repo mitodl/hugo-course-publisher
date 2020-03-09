@@ -37,6 +37,15 @@ course_info:
     - Prof. Amit Gandhi
   departments:
     - Edgerton Center
+  course_features:
+    - feature: Assignments
+      subfeature: activity (no examples)
+    - feature: Projects
+      subfeature: Examples
+    - feature: Assignments
+      subfeature: design with examples
+    - feature: Assignments
+      subfeature: presentations with examples
   topics:
     - topic: Engineering
       subtopic: Electrical Engineering

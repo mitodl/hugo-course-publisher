@@ -15,6 +15,13 @@ course_info:
     - Prof. Yen-Jie Lee
   departments:
     - Physics
+  course_features:
+    - feature: Assignments
+      subfeature: problem sets (no solutions)
+    - feature: Exams
+      subfeature: Solutions
+    - feature: Instructor Insights
+    - feature: Resource Index
   topics:
     - topic: Science
       subtopic: Physics

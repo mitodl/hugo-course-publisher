@@ -25,6 +25,8 @@ course_info:
     - Prof. Thomas Kochan
   departments:
     - Supplemental Resources
+  course_features:
+    - feature: This Course at MIT
   topics:
     - topic: Business
       subtopic: Industrial Relations and Human Resource Management
