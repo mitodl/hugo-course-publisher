@@ -8,7 +8,7 @@
         <h2 class="text-uppercase">{{ .Params.course_title }}</h2>
         {{ partial "course_instructor_number.html" . }}
       </div>
-      <img class="w-25 course-image medium-and-below-only img-thumbnail" src="{{ absURL .CurrentSection.Params.course_image_url }}" />
+      <img class="w-25 course-image medium-and-below-only img-thumbnail" src="{{ relURL .CurrentSection.Params.course_image_url }}" />
     </div>
     {{ partial "mobile_nav_toggle.html" . }}
     <h5 class="font-weight-bold pt-2">Course Description</h5>
@@ -17,7 +17,7 @@
       {{ partial "course_info.html" .CurrentSection }}
     </div>
   </div>
-  <img class="w-25 course-image img-thumbnail large-and-above-only h-100" src="{{ absURL .CurrentSection.Params.course_image_url }}" />
+  <img class="w-25 course-image img-thumbnail large-and-above-only h-100" src="{{ relURL .CurrentSection.Params.course_image_url }}" />
 </div>
 {{ else }}
 {{ partial "course_section.html" . }}
