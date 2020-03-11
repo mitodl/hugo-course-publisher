@@ -76,6 +76,22 @@
   z-index: 3;
 }
 
+.topic-toggle {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 0;
+  pointer-events: all;
+}
+
+.topic-toggle > i:after {
+  content: "chevron_right";
+}
+
+.topic-toggle[aria-expanded="true"] > i:after {
+  content: "expand_more" !important;
+}
+
 .course-feature-icon {
   position: absolute;
   top: 50%;

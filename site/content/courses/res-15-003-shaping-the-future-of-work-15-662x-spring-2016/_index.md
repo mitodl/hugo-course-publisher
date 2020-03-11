@@ -28,17 +28,14 @@ course_info:
   course_features:
     - feature: This Course at MIT
   topics:
-    - topic: Business
-      subtopic: Industrial Relations and Human Resource Management
-    - topic: Social Science
-      subtopic: Economics
-      speciality: Industrial Organization
-    - topic: Social Science
-      subtopic: Economics
-      speciality: Labor Economics
-    - topic: Social Science
-      subtopic: Public Administration
-      speciality: Social Welfare
+    Business:
+      Industrial Relations and Human Resource Management: []
+    Social Science:
+      Economics:
+        - Industrial Organization
+        - Labor Economics
+      Public Administration:
+        - Social Welfare
   course_numbers:
     - RES.15-003
   term: Spring 2016

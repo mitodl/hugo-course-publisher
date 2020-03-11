@@ -27,9 +27,9 @@ course_info:
     - feature: Projects
       subfeature: No examples
   topics:
-    - topic: Science
-      subtopic: Physics
-      speciality: Quantum Mechanics
+    Science:
+      Physics:
+        - Quantum Mechanics
   course_numbers:
     - '8.06'
   term: Spring 2005

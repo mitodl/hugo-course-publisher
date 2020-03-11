@@ -44,12 +44,11 @@ course_info:
     - feature: Interactive assessments
     - feature: Resource Index
   topics:
-    - topic: Engineering
-      subtopic: Computer Science
-    - topic: Mathematics
-      subtopic: Applied Mathematics
-    - topic: Mathematics
-      subtopic: Probability and Statistics
+    Engineering:
+      Computer Science: []
+    Mathematics:
+      Applied Mathematics: []
+      Probability and Statistics: []
   course_numbers:
     - '6.042'
     - 18.062J

@@ -23,15 +23,11 @@ course_info:
     - feature: Instructor Insights
     - feature: Resource Index
   topics:
-    - topic: Science
-      subtopic: Physics
-      speciality: Classical Mechanics
-    - topic: Science
-      subtopic: Physics
-      speciality: Electromagnetism
-    - topic: Science
-      subtopic: Physics
-      speciality: 'Atomic, Molecular, Optical Physics'
+    Science:
+      Physics:
+        - Classical Mechanics
+        - Electromagnetism
+        - 'Atomic, Molecular, Optical Physics'
   course_numbers:
     - '8.03'
   term: Fall 2016

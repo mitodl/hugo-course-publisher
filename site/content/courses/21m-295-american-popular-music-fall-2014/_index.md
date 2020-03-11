@@ -30,12 +30,10 @@ course_info:
     - feature: Assignments
       subfeature: written (no examples)
   topics:
-    - topic: Fine Arts
-      subtopic: Music
-      speciality: Music History
-    - topic: Fine Arts
-      subtopic: Music
-      speciality: Music Theory
+    Fine Arts:
+      Music:
+        - Music History
+        - Music Theory
   course_numbers:
     - 21M.295
   term: Fall 2014

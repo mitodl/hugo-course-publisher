@@ -32,15 +32,11 @@ course_info:
     - feature: Assignments
       subfeature: written (no examples)
   topics:
-    - topic: Business
-    - topic: Business
-      subtopic: Entrepreneurship
-    - topic: Business
-      subtopic: Finance
-    - topic: Business
-      subtopic: Innovation
-    - topic: Business
-      subtopic: Management
+    Business:
+      Entrepreneurship: []
+      Finance: []
+      Innovation: []
+      Management: []
   course_numbers:
     - 15.S21
   term: January IAP 2014

@@ -39,17 +39,14 @@ course_info:
     - feature: AV lectures
       subfeature: Video
   topics:
-    - topic: Science
-      subtopic: Physics
-    - topic: Science
-      subtopic: Biology
-      speciality: Computation and Systems Biology
-    - topic: Engineering
-      subtopic: Biological Engineering
-      speciality: Synthetic Biology
-    - topic: Science
-      subtopic: Biology
-      speciality: Cell Biology
+    Science:
+      Physics: []
+      Biology:
+        - Computation and Systems Biology
+        - Cell Biology
+    Engineering:
+      Biological Engineering:
+        - Synthetic Biology
   course_numbers:
     - '8.591'
     - 7.81J

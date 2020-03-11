@@ -33,18 +33,16 @@ course_info:
       subfeature: Examples
     - feature: Instructor Insights
   topics:
-    - topic: Fine Arts
-      subtopic: Media Studies
-      speciality: Digital Media
-    - topic: Fine Arts
-      subtopic: Visual Arts
-      speciality: Film and Video
-    - topic: Social Science
-      subtopic: Communication
-    - topic: Teaching and Education
-      subtopic: Curriculum and Teaching
-    - topic: Teaching and Education
-      subtopic: Educational Technology
+    Fine Arts:
+      Media Studies:
+        - Digital Media
+      Visual Arts:
+        - Film and Video
+    Social Science:
+      Communication: []
+    Teaching and Education:
+      Curriculum and Teaching: []
+      Educational Technology: []
   course_numbers:
     - '20.219'
   term: January IAP 2015

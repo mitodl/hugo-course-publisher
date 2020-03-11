@@ -27,15 +27,14 @@ course_info:
       subfeature: written (no examples)
     - feature: Image Gallery
   topics:
-    - topic: Fine Arts
-      subtopic: Visual Arts
-      speciality: Photography
-    - topic: Humanities
-      subtopic: Literature
-      speciality: Criticism
-    - topic: Humanities
-      subtopic: Language
-      speciality: French
+    Fine Arts:
+      Visual Arts:
+        - Photography
+    Humanities:
+      Literature:
+        - Criticism
+      Language:
+        - French
   course_numbers:
     - 21G.049
   term: Spring 2017

@@ -34,11 +34,9 @@ course_info:
     - feature: Assignments
       subfeature: written (no examples)
   topics:
-    - topic: Fine Arts
-      subtopic: Music
-    - topic: Fine Arts
-      subtopic: Music
-      speciality: Music History
+    Fine Arts:
+      Music:
+        - Music History
   course_numbers:
     - 21M.250
   term: Spring 2014

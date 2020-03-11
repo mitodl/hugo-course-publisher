@@ -29,10 +29,9 @@ course_info:
     - feature: Interactive simulations
       subfeature: Applet
   topics:
-    - topic: Mathematics
-      subtopic: Calculus
-    - topic: Mathematics
-      subtopic: Differential Equations
+    Mathematics:
+      Calculus: []
+      Differential Equations: []
   course_numbers:
     - 18.009SC
   term: Fall 2010

@@ -28,18 +28,15 @@ course_info:
     - Supplemental Resources
   course_features: []
   topics:
-    - topic: Business
-      subtopic: Accounting
-    - topic: Business
-      subtopic: Finance
-    - topic: Business
-      subtopic: Management
-    - topic: Social Science
-      subtopic: Economics
-      speciality: Public Economics
-    - topic: Social Science
-      subtopic: Public Administration
-      speciality: Public Policy
+    Business:
+      Accounting: []
+      Finance: []
+      Management: []
+    Social Science:
+      Economics:
+        - Public Economics
+      Public Administration:
+        - Public Policy
   course_numbers:
     - RES.15-002
   term: Summer 2016
