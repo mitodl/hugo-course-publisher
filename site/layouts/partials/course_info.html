@@ -36,7 +36,7 @@
     </table>
     <div class="border-bottom-light mb-2">
       <h5 class="font-weight-bold">Topic(s)</h5>
-      <ul class="list-unstyled m-0">
+      <ul class="list-unstyled pb-2 m-0">
         {{- $.Scratch.Set "topicIndex" 0 -}}
         {{ range $topic, $subtopics := .Params.course_info.topics }}
         <li>
