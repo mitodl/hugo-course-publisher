@@ -21,12 +21,11 @@ course_info:
     - Supplemental Resources
   course_features: []
   topics:
-    - topic: Engineering
-      subtopic: Materials Science and Engineering
-    - topic: Mathematics
-      subtopic: Applied Mathematics
-    - topic: Mathematics
-      subtopic: Computation
+    Engineering:
+      Materials Science and Engineering: []
+    Mathematics:
+      Applied Mathematics: []
+      Computation: []
   course_numbers:
     - RES.3-004
   term: Fall 2017

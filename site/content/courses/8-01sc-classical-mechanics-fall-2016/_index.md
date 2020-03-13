@@ -42,9 +42,9 @@ course_info:
     - feature: Online textbooks
       subfeature: PDF
   topics:
-    - topic: Science
-      subtopic: Physics
-      speciality: Classical Mechanics
+    Science:
+      Physics:
+        - Classical Mechanics
   course_numbers:
     - '8.01'
   term: Fall 2016

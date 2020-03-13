@@ -34,23 +34,18 @@
         <td>{{ .Params.course_info.level }}</td>
       </tr>
     </table>
-    <table class="table table-borderless border-bottom-light mb-2">
-      <tr>
-        <td class="pl-0 pb-3">Topic(s)</td>
-        <td class="pb-3">
-          <ul class="list-unstyled m-0">
-            {{ range $topicObject := .Params.course_info.topics }}
-            <li>
-              <a href="#" class="coming-soon">
-                {{- $topics := slice $topicObject.topic $topicObject.subtopic $topicObject.speciality -}}
-                {{ delimit ($topics | complement (slice nil )) " > " }}
-              </a>
-            </li>
-            {{ end }}
-          </ul>
-        </td>
-      </tr>
-    </table>
+    <div class="border-bottom-light mb-2">
+      <h5 class="font-weight-bold">Topic(s)</h5>
+      <ul class="list-unstyled pb-2 m-0">
+        {{- $.Scratch.Set "topicIndex" 0 -}}
+        {{ range $topic, $subtopics := .Params.course_info.topics }}
+        <li>
+          {{ partial "topic.html" (dict "context" $ "index" ($.Scratch.Get "topicIndex") "topic" $topic "subtopics" $subtopics) }}
+        </li>
+        {{- $.Scratch.Add "topicIndex" 1 -}}
+        {{ end }}
+      </ul>
+    </div>
     <div>
       <h5 class="font-weight-bold">Course Features</h5>
       <ul class="list-unstyled m-0">

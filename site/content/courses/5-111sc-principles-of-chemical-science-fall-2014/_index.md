@@ -28,15 +28,11 @@ course_info:
       subfeature: Other
     - feature: Resource Index
   topics:
-    - topic: Science
-      subtopic: Chemistry
-      speciality: Inorganic Chemistry
-    - topic: Science
-      subtopic: Chemistry
-      speciality: Organic Chemistry
-    - topic: Science
-      subtopic: Chemistry
-      speciality: Physical Chemistry
+    Science:
+      Chemistry:
+        - Inorganic Chemistry
+        - Organic Chemistry
+        - Physical Chemistry
   course_numbers:
     - '5.111'
   term: Fall 2014

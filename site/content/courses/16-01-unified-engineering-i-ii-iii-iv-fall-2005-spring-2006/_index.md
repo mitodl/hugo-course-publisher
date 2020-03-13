@@ -45,22 +45,17 @@ course_info:
     - feature: Exams
       subfeature: Solutions
   topics:
-    - topic: Engineering
-      subtopic: Aerospace Engineering
-      speciality: Materials Selection
-    - topic: Engineering
-      subtopic: Aerospace Engineering
-      speciality: Propulsion Systems
-    - topic: Science
-      subtopic: Physics
-      speciality: Thermodynamics
-    - topic: Engineering
-      subtopic: Mechanical Engineering
-      speciality: Fluid Mechanics
-    - topic: Engineering
-      subtopic: Aerospace Engineering
-    - topic: Business
-      subtopic: Project Management
+    Engineering:
+      Aerospace Engineering:
+        - Materials Selection
+        - Propulsion Systems
+      Mechanical Engineering:
+        - Fluid Mechanics
+    Science:
+      Physics:
+        - Thermodynamics
+    Business:
+      Project Management: []
   course_numbers:
     - '16.01'
     - '16.02'

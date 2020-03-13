@@ -47,15 +47,15 @@ course_info:
     - feature: Assignments
       subfeature: presentations with examples
   topics:
-    - topic: Engineering
-      subtopic: Electrical Engineering
-      speciality: Electric Power
-    - topic: Society
-      subtopic: The Developing World
-    - topic: Science
-      subtopic: Earth Science
-      speciality: Sustainability
-    - topic: Energy
+    Engineering:
+      Electrical Engineering:
+        - Electric Power
+    Society:
+      The Developing World: []
+    Science:
+      Earth Science:
+        - Sustainability
+    Energy: {}
   course_numbers:
     - EC.711
   term: Spring 2011

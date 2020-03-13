@@ -31,12 +31,11 @@ course_info:
     - feature: Assignments
       subfeature: problem sets with solutions
   topics:
-    - topic: Business
-      subtopic: Management
-    - topic: Business
-      subtopic: Operations Management
-    - topic: Mathematics
-      subtopic: Probability and Statistics
+    Business:
+      Management: []
+      Operations Management: []
+    Mathematics:
+      Probability and Statistics: []
   course_numbers:
     - '15.071'
   term: Spring 2017

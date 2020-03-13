@@ -30,13 +30,11 @@ course_info:
   course_features:
     - feature: This Course at MIT
   topics:
-    - topic: Engineering
-    - topic: Engineering
-      subtopic: Computer Science
-    - topic: Engineering
-      subtopic: Mechanical Engineering
-    - topic: Teaching and Education
-      subtopic: Curriculum and Teaching
+    Engineering:
+      Computer Science: []
+      Mechanical Engineering: []
+    Teaching and Education:
+      Curriculum and Teaching: []
   course_numbers:
     - RES.2-005
   term: Spring 2015

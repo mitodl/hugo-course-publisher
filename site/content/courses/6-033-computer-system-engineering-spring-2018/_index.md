@@ -30,18 +30,12 @@ course_info:
       subfeature: Examples
     - feature: Resource Index
   topics:
-    - topic: Engineering
-      subtopic: Computer Science
-      speciality: Computer Design and Engineering
-    - topic: Engineering
-      subtopic: Computer Science
-      speciality: Computer Networks
-    - topic: Engineering
-      subtopic: Computer Science
-      speciality: Operating Systems
-    - topic: Engineering
-      subtopic: Computer Science
-      speciality: Software Design and Engineering
+    Engineering:
+      Computer Science:
+        - Computer Design and Engineering
+        - Computer Networks
+        - Operating Systems
+        - Software Design and Engineering
   course_numbers:
     - '6.033'
   term: Spring 2018

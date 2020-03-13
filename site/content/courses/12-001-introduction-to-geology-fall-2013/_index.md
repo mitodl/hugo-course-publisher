@@ -40,11 +40,9 @@ course_info:
     - feature: Instructor Insights
     - feature: Image Gallery
   topics:
-    - topic: Science
-      subtopic: Earth Science
-    - topic: Science
-      subtopic: Earth Science
-      speciality: Geology
+    Science:
+      Earth Science:
+        - Geology
   course_numbers:
     - '12.001'
   term: Fall 2013

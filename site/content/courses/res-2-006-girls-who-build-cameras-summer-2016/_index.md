@@ -38,11 +38,11 @@ course_info:
   course_features:
     - feature: This Course at MIT
   topics:
-    - topic: Energy
-      subtopic: Technology
-    - topic: Engineering
-    - topic: Teaching and Education
-      subtopic: Curriculum and Teaching
+    Energy:
+      Technology: []
+    Engineering: {}
+    Teaching and Education:
+      Curriculum and Teaching: []
   course_numbers:
     - RES.2-006
   term: Summer 2016

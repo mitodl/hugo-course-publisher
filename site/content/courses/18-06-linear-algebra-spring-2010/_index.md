@@ -29,8 +29,8 @@ course_info:
       subfeature: Solutions
     - feature: Instructor Insights
   topics:
-    - topic: Mathematics
-      subtopic: Linear Algebra
+    Mathematics:
+      Linear Algebra: []
   course_numbers:
     - '18.06'
   term: Spring 2010
