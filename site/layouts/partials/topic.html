@@ -18,7 +18,7 @@
   </span>
 </div>
 {{ if gt (len .subtopics) 0 }}
-<div class="pl-4 collapse{{if eq $index 0 }} show{{ end }}" id="subtopic-container_{{ $index }}">
+<div class="pl-4 subtopic-container collapse{{if eq $index 0 }} show{{ end }}" id="subtopic-container_{{ $index }}">
   {{- $context.Scratch.Set "subtopicIndex" 0 -}}
   {{ range $subtopic, $specialities := .subtopics }}
   {{- $subtopicIndex := $context.Scratch.Get "subtopicIndex" -}}

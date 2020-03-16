@@ -12,7 +12,7 @@
     </div>
     {{ partial "mobile_nav_toggle.html" . }}
     <h5 class="font-weight-bold pt-2">Course Description</h5>
-    <div class="mb-3">{{ .Params.course_description | safeHTML }}</div>
+    <div class="mb-3 course-description">{{ .Params.course_description | safeHTML }}</div>
     <div class="medium-and-below-only">
       {{ partial "course_info.html" .CurrentSection }}
     </div>

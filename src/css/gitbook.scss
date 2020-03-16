@@ -1,5 +1,7 @@
 $gitbook-blue-grey: #f5f7f9;
 $gitbook-border-grey: #d4dadf;
+$gitbook-grey: #74818d;
+$gitbook-grey-light: #9daab6;
 $gitbook-border-light: #e6ecf1;
 $gitbook-blue: rgb(56, 132, 254);
 
@@ -8,13 +10,28 @@ html.gitbook {
     font-family: "Roboto" !important;
   }
 
+  .homepage-content {
+    h2 {
+      margin-top: 0;
+      margin-bottom: 10px;
+    }
+
+    .course-description {
+      margin-right: 15px;
+    }
+  }
+
+  .left-col-bg {
+    background-color: $gitbook-blue-grey !important;
+  }
+
   p {
     font-size: 16px;
     margin-bottom: 24px;
   }
 
   h2 {
-    margin: 24px 0;
+    margin: 32px 0;
   }
 
   main {
@@ -58,6 +75,41 @@ html.gitbook {
         text-transform: none !important;
         font-weight: 500;
         font-size: 14px;
+        display: block;
+      }
+    }
+  }
+
+  .course-info {
+    font-size: 12px;
+    color: $gitbook-grey !important;
+    font-weight: 500;
+
+    .border-bottom-light {
+      border-bottom: none !important;
+    }
+
+    h5.font-weight-bold {
+      text-transform: uppercase;
+      font-size: 10px;
+      color: $gitbook-grey-light;
+    }
+
+    table.table {
+      color: $gitbook-grey !important;
+    }
+
+    a {
+      color: $gitbook-grey !important;
+    }
+
+    .font-weight-bold {
+      font-weight: 500 !important;
+    }
+
+    .subtopic-container {
+      a.font-weight-bold {
+        font-weight: 400 !important;
       }
     }
   }
