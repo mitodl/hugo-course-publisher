@@ -1,0 +1,10 @@
+---
+title: m12.pdf
+description: Instructor's response to 'Muddiest Part of the Lecture Cards'.
+type: courses
+layout: pdf
+file_type: application/pdf
+file_location: >-
+  https://open-learning-course-data.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/d6f257df272c4dbb2f63cccc90e5fc0a_m12.pdf
+course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
+---

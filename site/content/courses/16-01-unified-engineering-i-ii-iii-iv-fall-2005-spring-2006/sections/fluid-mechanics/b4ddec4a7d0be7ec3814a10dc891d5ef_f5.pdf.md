@@ -1,0 +1,10 @@
+---
+title: f5.pdf
+description: Lecture notes.
+type: courses
+layout: pdf
+file_type: application/pdf
+file_location: >-
+  https://open-learning-course-data.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b4ddec4a7d0be7ec3814a10dc891d5ef_f5.pdf
+course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
+---
