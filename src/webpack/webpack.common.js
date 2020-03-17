@@ -7,9 +7,9 @@ const babelSharedLoader = require("../babel_config").babelSharedLoader
 
 module.exports = {
   entry: {
-    main:           ["@babel/polyfill", path.join(__dirname, "..", "index.js")],
-    pdfjs:  "pdfjs-dist/build/pdf.js",
-    "pdf.worker":   "pdfjs-dist/build/pdf.worker.entry.js"
+    main:         ["@babel/polyfill", path.join(__dirname, "..", "index.js")],
+    pdfjs:        "pdfjs-dist/build/pdf.js",
+    "pdf.worker": "pdfjs-dist/build/pdf.worker.entry.js"
   },
 
   output: {
