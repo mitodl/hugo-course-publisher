@@ -7,7 +7,7 @@ menu:
     weight: 2040
     parent: 146d8dd77c99bbafceb8ed10af8bee47_week-10-rotational-motion
 ---
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/ps.10.1-blocks-and-massive-pulley" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/ps.10.1-blocks-and-massive-pulley" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum" %}}) »
 
 Problem Set 10 contains the following problems:
 
@@ -20,4 +20,4 @@ Problem Set 10 contains the following problems:
 
 *   [Problem Set 10 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/878cc2b018e6280e47318e3659631d4b_MIT8_01F16_pset10.pdf)
 
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/ps.10.1-blocks-and-massive-pulley" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/ps.10.1-blocks-and-massive-pulley" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum" %}}) »

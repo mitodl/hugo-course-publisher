@@ -7,12 +7,12 @@ menu:
     weight: 400
     parent: c846ced6fc6d3bc964e047324e251a98_linear-regression
 ---
-*   [<Linear Regression]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression" %}})
-*   [2.1.1Welcome to Unit 2]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/welcome-to-unit-2" %}})
-*   [\\>The Statistical Sommelier: An Introduction to Linear Regression]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression" %}})
+*   [<Linear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression" %}})
+*   [2.1.1Welcome to Unit 2]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/welcome-to-unit-2" %}})
+*   [\\>The Statistical Sommelier: An Introduction to Linear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression" %}})
 
 Welcome to Unit 2
 -----------------
 
-*   [BackLinear Regression]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression" %}})
-*   [ContinueThe Statistical Sommelier: An Introduction to Linear Regression]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression" %}})
+*   [BackLinear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression" %}})
+*   [ContinueThe Statistical Sommelier: An Introduction to Linear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression" %}})

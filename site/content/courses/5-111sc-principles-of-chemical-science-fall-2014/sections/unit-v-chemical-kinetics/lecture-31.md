@@ -7,7 +7,7 @@ menu:
     weight: 380
     parent: 124cd4e89ed86cbe95d852c3908bfac3_unit-v-chemical-kinetics
 ---
-« [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-30" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-32" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-30" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-32" %}}) »
 
 Topics
 ------
@@ -49,4 +49,4 @@ Acknowledgement
 
 Mala Radhakrishnan’s poem “_Days of Our Half-Lives_” in _[Atomic Romances, Molecular Dances](http://www.lulu.com/shop/mala-radhakrishnan/atomic-romances-molecular-dances/paperback/product-15572338.html)_ is used with permission.
 
-« [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-30" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-32" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-30" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-32" %}}) »

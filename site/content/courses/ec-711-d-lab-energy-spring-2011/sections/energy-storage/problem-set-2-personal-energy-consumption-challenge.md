@@ -34,4 +34,4 @@ Write about the experience: how hard was it to cut back? Discuss how close you w
 
 If you were forced to use 10% of the energy you currently estimate you're using, what would you do? Where does that 10% goal come from? You may recall from Week #1 that in the US our average annual energy usage per capita is 360 GJ, whereas in Nicaragua it's 25 and in Haiti it's 11.
 
-[« Back]({{% ref "courses/ec-711-d-lab-energy-spring-2011/sections/energy-storage" %}}#ps2)
+[« Back]({{% getpage "courses/ec-711-d-lab-energy-spring-2011/sections/energy-storage/_index.md" %}}#ps2)

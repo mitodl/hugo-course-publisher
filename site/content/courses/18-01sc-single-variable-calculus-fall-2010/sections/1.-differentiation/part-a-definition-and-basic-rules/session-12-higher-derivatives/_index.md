@@ -7,7 +7,7 @@ menu:
     weight: 150
     parent: 962d171611a101d49f865818d41217eb_part-a-definition-and-basic-rules
 ---
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/problem-set-1" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/problem-set-1/_index.md" %}}) »
 
 Overview
 --------
@@ -34,4 +34,4 @@ Mathlet
 
 [Creating the Derivative](http://ocw.mit.edu/ans7870/18/18.01SC/f10/mathlets/creatingDerivative.html "Open in a new window.")
 
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/problem-set-1" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/problem-set-1/_index.md" %}}) »

@@ -7,7 +7,7 @@ menu:
     weight: 370
     parent: 124cd4e89ed86cbe95d852c3908bfac3_unit-v-chemical-kinetics
 ---
-« [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31" %}}) »
 
 Topics
 ------
@@ -43,4 +43,4 @@ Problems and Solutions
 
 [Solutions for Lecture 30 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/8a8f2fe894ad0909bcfdc88b88a7dead_MIT5_111F14_Lec30Soln.pdf)
 
-« [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31" %}}) »

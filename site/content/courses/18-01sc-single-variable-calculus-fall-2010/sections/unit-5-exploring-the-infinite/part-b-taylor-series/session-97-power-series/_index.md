@@ -7,7 +7,7 @@ menu:
     weight: 1310
     parent: 1c9b92776c16c587013d2f3b4e9b94a0_part-b-taylor-series
 ---
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-96-stacking-blocks" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-96-stacking-blocks/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series/_index.md" %}}) »
 
 Overview
 --------
@@ -37,4 +37,4 @@ Recitation Video
 
 ### Power Series Practice
 
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-96-stacking-blocks" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-96-stacking-blocks/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series/_index.md" %}}) »

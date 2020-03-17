@@ -10,14 +10,14 @@ menu:
     parent: >-
       cd55cbba60f6d5d37320e05f520c4cf1_election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation
 ---
-*   [<Video 1: Election Prediction]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-1-election-prediction" %}})
-*   [3.4.1Welcome to Recitation 3]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation" %}})
-*   [3.4.2Video 1: Election Prediction]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-1-election-prediction" %}})
-*   [3.4.3Video 2: Dealing with Missing Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-2-dealing-with-missing-data" %}})
-*   [3.4.4Video 3: A Sophisticated Baseline Method]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-3-a-sophisticated-baseline-method" %}})
-*   [3.4.5Video 4: Logistic Regression Models]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-4-logistic-regression-models" %}})
-*   [3.4.6Video 5: Test Set Predictions]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-5-test-set-predictions" %}})
-*   [\\>Video 3: A Sophisticated Baseline Method]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-3-a-sophisticated-baseline-method" %}})
+*   [<Video 1: Election Prediction]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-1-election-prediction" %}})
+*   [3.4.1Welcome to Recitation 3]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation" %}})
+*   [3.4.2Video 1: Election Prediction]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-1-election-prediction" %}})
+*   [3.4.3Video 2: Dealing with Missing Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-2-dealing-with-missing-data" %}})
+*   [3.4.4Video 3: A Sophisticated Baseline Method]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-3-a-sophisticated-baseline-method" %}})
+*   [3.4.5Video 4: Logistic Regression Models]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-4-logistic-regression-models" %}})
+*   [3.4.6Video 5: Test Set Predictions]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-5-test-set-predictions" %}})
+*   [\\>Video 3: A Sophisticated Baseline Method]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-3-a-sophisticated-baseline-method" %}})
 
 Video 2: Dealing with Missing Data
 ----------------------------------
@@ -28,5 +28,5 @@ An R script file with all of the commands used in this lecture can be downloaded
 
 **Important Note**: On some operating systems, the imputed results will be slightly different even if you set the random seed. This is just due to the randomess involved in the multiple imputation process. We've provided the imputed data here: [PollingData\_Imputed (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/9567137abd96e74164d4a4d90245c561_PollingData_Imputed.csv). If your results are not matching after the imputation, you can use this dataset instead.
 
-*   [BackVideo 1: Election Prediction]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-1-election-prediction" %}})
-*   [ContinueVideo 3: A Sophisticated Baseline Method]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-3-a-sophisticated-baseline-method" %}})
+*   [BackVideo 1: Election Prediction]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-1-election-prediction" %}})
+*   [ContinueVideo 3: A Sophisticated Baseline Method]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-3-a-sophisticated-baseline-method" %}})

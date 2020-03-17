@@ -8,7 +8,7 @@ menu:
     parent: >-
       82a633f32c2b0be84fba01f5e5741006_part-b-second-fundamental-theorem-areas-volumes
 ---
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-52-proving-the-fundamental-theorem-of-calculus" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-54-the-second-fundamental-theorem-and-ln-x" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-52-proving-the-fundamental-theorem-of-calculus/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-54-the-second-fundamental-theorem-and-ln-x/_index.md" %}}) »
 
 Overview
 --------
@@ -20,4 +20,4 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-52-proving-the-fundamental-theorem-of-calculus" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-54-the-second-fundamental-theorem-and-ln-x" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-52-proving-the-fundamental-theorem-of-calculus/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-54-the-second-fundamental-theorem-and-ln-x/_index.md" %}}) »

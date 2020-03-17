@@ -7,7 +7,7 @@ menu:
     weight: 170
     parent: 240ff61b57c23024881e75e9a0e68cde_part-ii-electromagnetic-waves
 ---
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-13" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-13/_index.md" %}}) »
 
 Lecture Topics
 --------------
@@ -51,4 +51,4 @@ Webpage: [The Idea of the Curl of a Vector Field](https://mathinsight.org/curl_i
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-13" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-13/_index.md" %}}) »

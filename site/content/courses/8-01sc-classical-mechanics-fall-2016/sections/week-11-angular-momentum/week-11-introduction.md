@@ -7,6 +7,6 @@ menu:
     weight: 2060
     parent: d36579bd7dfcb71f76178b4b8d45c312_week-11-angular-momentum
 ---
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/32.1-angular-momentum-for-a-point-particle" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/32.1-angular-momentum-for-a-point-particle" %}}) »
 
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/32.1-angular-momentum-for-a-point-particle" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/32.1-angular-momentum-for-a-point-particle" %}}) »

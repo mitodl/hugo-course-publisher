@@ -9,7 +9,7 @@ menu:
     parent: >-
       82a633f32c2b0be84fba01f5e5741006_part-b-second-fundamental-theorem-areas-volumes
 ---
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-58-volume-of-a-sphere-revolving-about-x-axis" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/problem-set-7" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-58-volume-of-a-sphere-revolving-about-x-axis/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/problem-set-7/_index.md" %}}) »
 
 Overview
 --------
@@ -36,4 +36,4 @@ Volume of Revolution via Washers
 *   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/d415dfc3a3d90d2600be6042a65b45c4_MIT18_01SCF10_ex59prb.pdf "Open in a new window.")
 *   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/6d5d4159c4543a9eb0da70a3ed82ba42_MIT18_01SCF10_ex59sol.pdf "Open in a new window.")
 
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-58-volume-of-a-sphere-revolving-about-x-axis" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/problem-set-7" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-58-volume-of-a-sphere-revolving-about-x-axis/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/problem-set-7/_index.md" %}}) »

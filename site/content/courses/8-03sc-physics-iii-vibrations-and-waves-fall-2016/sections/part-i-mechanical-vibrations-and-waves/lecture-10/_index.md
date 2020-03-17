@@ -7,7 +7,7 @@ menu:
     weight: 140
     parent: 6682a3d163976bcbb2fbe67db27d8f04_part-i-mechanical-vibrations-and-waves
 ---
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/exam-1" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-11" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/exam-1/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-11/_index.md" %}}) »
 
 Lecture Topics
 --------------
@@ -51,4 +51,4 @@ Video: [Superposition of waves with Bell Machine](https://youtu.be/BWraEDaVXZM) 
 
 Video: [Reflection with Bell machine](https://youtu.be/YQHbRw_hyz4) by [TSG@MIT Physics](http://tsgphysics.mit.edu/front/)
 
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/exam-1" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-11" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/exam-1/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-11/_index.md" %}}) »

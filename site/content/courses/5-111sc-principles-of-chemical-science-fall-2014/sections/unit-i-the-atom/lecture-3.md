@@ -7,7 +7,7 @@ menu:
     weight: 60
     parent: 36cc671ac04c270e9cac7a210efd6846_unit-i-the-atom
 ---
-« [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4" %}}) »
 
 Topics
 ------
@@ -60,4 +60,4 @@ Acknowledgement
 
 Excerpt of “[ROY G. BIV](https://youtu.be/Gf33ueRXMzQ)” by [They Might Be Giants](http://www.theymightbegiants.com/), courtesy of Idlewild / Disney Sound, used with permission. From [_Here Comes Science_](https://www.theymightbegiants.com/here-comes-science), 2009.
 
-« [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4" %}}) »

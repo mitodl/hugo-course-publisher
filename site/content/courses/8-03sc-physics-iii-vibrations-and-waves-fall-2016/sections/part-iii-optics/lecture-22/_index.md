@@ -7,7 +7,7 @@ menu:
     weight: 290
     parent: 562065223db4e5d13c0186ef14e4db6a_part-iii-optics
 ---
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-21" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-23" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-21/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-23/_index.md" %}}) »
 
 Lecture Topics
 --------------
@@ -51,4 +51,4 @@ Video: [Laser Diffraction and Interference](https://www.youtube.com/watch?v=9D8c
 
 Demonstration: [Single Slit Diffraction with Ripple Tank](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%201&show=0) by [TSG@MIT Physics](http://tsgphysics.mit.edu/front/)
 
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-21" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-23" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-21/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-23/_index.md" %}}) »

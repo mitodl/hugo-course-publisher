@@ -19,7 +19,7 @@ Lecture 14: Fault Tolerance: Reliability via Replication
 6.  Whole-Disk Failures
 7.  Your Future
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/lecture-14-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/lecture-14-outline/_index.md" %}})
 
 ### Lecture Slides
 
@@ -33,7 +33,7 @@ Recitation 14: Distributed Storage
 ----------------------------------
 
 *   Read "[The Google File System](https://ai.google/research/pubs/pub51)" by S. Ghemawat, H. Gobioff & S-T Leung
-*   [Distributed Storage Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/distributed-storage-assignment" %}})
+*   [Distributed Storage Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/distributed-storage-assignment/_index.md" %}})
 
 Lecture 15: Fault Tolerance: Introduction to Transactions
 ---------------------------------------------------------
@@ -52,7 +52,7 @@ Lecture 15: Fault Tolerance: Introduction to Transactions
 10.  Isolation
 11.  The Future
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/lecture-15-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/lecture-15-outline/_index.md" %}})
 
 ### Lecture Slides
 
@@ -73,7 +73,7 @@ Quiz 1 will last two hours. The quiz will cover all the material up to and inclu
 Tutorial 8: Design Project Presentation
 ---------------------------------------
 
-Your presentation should reflect the feedback you got on your preliminary report; feedback on your presentation should inform your final report. Your presentation will focus on any changes you have made since the preliminary report, rather than re-capping the entire system. See the [Design Project]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/design-project" %}}) section for more information.
+Your presentation should reflect the feedback you got on your preliminary report; feedback on your presentation should inform your final report. Your presentation will focus on any changes you have made since the preliminary report, rather than re-capping the entire system. See the [Design Project]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/design-project/_index.md" %}}) section for more information.
 
 Design Project Pressentation (DPP)
 ----------------------------------

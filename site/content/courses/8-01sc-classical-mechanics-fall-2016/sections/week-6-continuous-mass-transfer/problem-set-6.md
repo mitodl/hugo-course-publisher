@@ -7,7 +7,7 @@ menu:
     weight: 1240
     parent: 28d93f13f552de729aab415b7158be8e_week-6-continuous-mass-transfer
 ---
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work" %}}) »
 
 Problem Set 6 contains the following problems:
 
@@ -19,4 +19,4 @@ Problem Set 6 contains the following problems:
 
 *   [Problem Set 6 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/44b46fb9ae75796759884a9a7f7bd167_MIT8_01F16_pset6.pdf)
 
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work" %}}) »

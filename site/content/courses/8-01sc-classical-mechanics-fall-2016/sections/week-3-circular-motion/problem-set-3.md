@@ -7,7 +7,7 @@ menu:
     weight: 740
     parent: 3c7d357cbb95e729679b539d23714ede_week-3-circular-motion
 ---
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems" %}}) »
 
 Problem Set 3 contains the following problems:
 
@@ -20,4 +20,4 @@ Problem Set 3 contains the following problems:
 
 *   [Problem Set 3 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/4b332aab1695e67fdcbc0f4c3924134e_MIT8_01F16_pset3.pdf)
 
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems" %}}) »

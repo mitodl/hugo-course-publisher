@@ -9,7 +9,7 @@ menu:
     parent: >-
       82a633f32c2b0be84fba01f5e5741006_part-b-second-fundamental-theorem-areas-volumes
 ---
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-54-the-second-fundamental-theorem-and-ln-x" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-56-geometric-interpretation-of-definite-integrals" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-54-the-second-fundamental-theorem-and-ln-x/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-56-geometric-interpretation-of-definite-integrals/_index.md" %}}) »
 
 Overview
 --------
@@ -29,4 +29,4 @@ Probability Function
 *   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/48a084d99c5818645a829e3c49c356ed_MIT18_01SCF10_ex55prb.pdf "Open in a new window.")
 *   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/a1e1c55e6e45fe9e006fccdf88cfe6dc_MIT18_01SCF10_ex55sol.pdf "Open in a new window.")
 
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-54-the-second-fundamental-theorem-and-ln-x" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-56-geometric-interpretation-of-definite-integrals" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-54-the-second-fundamental-theorem-and-ln-x/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-56-geometric-interpretation-of-definite-integrals/_index.md" %}}) »

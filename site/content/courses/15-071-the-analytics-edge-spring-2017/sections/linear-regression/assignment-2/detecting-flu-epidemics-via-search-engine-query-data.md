@@ -8,12 +8,12 @@ menu:
     weight: 750
     parent: d3823600300c03000e79696e835f8f2f_assignment-2
 ---
-*   [<Reading Test Scores]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/reading-test-scores" %}})
-*   [2.5.1Climate Change]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2" %}})
-*   [2.5.2Reading Test Scores]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/reading-test-scores" %}})
-*   [2.5.3Detecting Flu Epidemics via Search Engine Query Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/detecting-flu-epidemics-via-search-engine-query-data" %}})
-*   [2.5.4State Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/state-data" %}})
-*   [\\>State Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/state-data" %}})
+*   [<Reading Test Scores]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/reading-test-scores" %}})
+*   [2.5.1Climate Change]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2" %}})
+*   [2.5.2Reading Test Scores]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/reading-test-scores" %}})
+*   [2.5.3Detecting Flu Epidemics via Search Engine Query Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/detecting-flu-epidemics-via-search-engine-query-data" %}})
+*   [2.5.4State Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/state-data" %}})
+*   [\\>State Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/state-data" %}})
 
 Detecting Flu Epidemics via Search Engine Query Data 
 -----------------------------------------------------
@@ -509,5 +509,5 @@ In this problem, we used a simple time series model with a single lag term. ARIM
 
 CheckShow Answer
 
-*   [BackReading Test Scores]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/reading-test-scores" %}})
-*   [ContinueState Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/state-data" %}})
+*   [BackReading Test Scores]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/reading-test-scores" %}})
+*   [ContinueState Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/state-data" %}})

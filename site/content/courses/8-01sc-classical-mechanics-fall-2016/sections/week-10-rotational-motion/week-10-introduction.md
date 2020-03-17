@@ -7,6 +7,6 @@ menu:
     weight: 1810
     parent: 146d8dd77c99bbafceb8ed10af8bee47_week-10-rotational-motion
 ---
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/28.1-rigid-bodies" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/28.1-rigid-bodies" %}}) »
 
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/28.1-rigid-bodies" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/28.1-rigid-bodies" %}}) »

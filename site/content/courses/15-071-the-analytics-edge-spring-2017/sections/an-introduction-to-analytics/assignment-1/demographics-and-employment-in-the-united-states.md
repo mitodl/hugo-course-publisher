@@ -8,12 +8,12 @@ menu:
     weight: 370
     parent: 0af41c2fca6884fab36c0a31155319b9_assignment-1
 ---
-*   [<Stock Dynamics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
-*   [1.5.1An Analytical Detective]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1" %}})
-*   [1.5.2Stock Dynamics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
-*   [1.5.3Demographics and Employment in the United States]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
-*   [1.5.4Internet Privacy Poll]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll" %}})
-*   [\\>Internet Privacy Poll]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll" %}})
+*   [<Stock Dynamics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
+*   [1.5.1An Analytical Detective]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1" %}})
+*   [1.5.2Stock Dynamics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
+*   [1.5.3Demographics and Employment in the United States]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
+*   [1.5.4Internet Privacy Poll]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll" %}})
+*   [\\>Internet Privacy Poll]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll" %}})
 
 Demographics and Employment in the United States
 ------------------------------------------------
@@ -552,5 +552,5 @@ We see that New York has the most interviewees born in India (96), Boston has th
 
 CheckShow Answer
 
-*   [BackStock Dynamics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
-*   [ContinueInternet Privacy Poll]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll" %}})
+*   [BackStock Dynamics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
+*   [ContinueInternet Privacy Poll]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll" %}})

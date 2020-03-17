@@ -7,7 +7,7 @@ menu:
     weight: 270
     parent: 562065223db4e5d13c0186ef14e4db6a_part-iii-optics
 ---
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-19" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-21" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-19/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-21/_index.md" %}}) »
 
 Lecture Topics
 --------------
@@ -68,4 +68,4 @@ Webpage: [Double-slit Experiment](http://www.hitachi.com/rd/portal/highlight/qu
 
 _\* **Note**: These Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-19" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-21" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-19/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-21/_index.md" %}}) »

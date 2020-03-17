@@ -7,11 +7,11 @@ menu:
     weight: 1530
     parent: 11ad34c810832b186afacd57f2616109_assignment-4
 ---
-*   [<Assignment 4]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4" %}})
-*   [4.5.1Predicting Earnings from Census Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4" %}})
-*   [4.5.2Understanding Why People Vote]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote" %}})
-*   [4.5.3State Data Revisted]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/state-data-revisted" %}})
-*   [\\>State Data Revisted]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/state-data-revisted" %}})
+*   [<Assignment 4]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4" %}})
+*   [4.5.1Predicting Earnings from Census Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4" %}})
+*   [4.5.2Understanding Why People Vote]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote" %}})
+*   [4.5.3State Data Revisted]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/state-data-revisted" %}})
+*   [\\>State Data Revisted]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/state-data-revisted" %}})
 
 Understanding Why People Vote
 -----------------------------
@@ -444,5 +444,5 @@ We should not use all possible interaction terms in a logistic regression model 
 
 CheckShow Answer
 
-*   [BackAssignment 4]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4" %}})
-*   [ContinueState Data Revisted]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/state-data-revisted" %}})
+*   [BackAssignment 4]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4" %}})
+*   [ContinueState Data Revisted]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/state-data-revisted" %}})

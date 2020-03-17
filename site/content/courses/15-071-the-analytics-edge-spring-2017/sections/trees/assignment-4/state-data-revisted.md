@@ -7,11 +7,11 @@ menu:
     weight: 1540
     parent: 11ad34c810832b186afacd57f2616109_assignment-4
 ---
-*   [<Understanding Why People Vote]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote" %}})
-*   [4.5.1Predicting Earnings from Census Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4" %}})
-*   [4.5.2Understanding Why People Vote]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote" %}})
-*   [4.5.3State Data Revisted]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/state-data-revisted" %}})
-*   [\\>Text Analytics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics" %}})
+*   [<Understanding Why People Vote]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote" %}})
+*   [4.5.1Predicting Earnings from Census Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4" %}})
+*   [4.5.2Understanding Why People Vote]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote" %}})
+*   [4.5.3State Data Revisted]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/state-data-revisted" %}})
+*   [\\>Text Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics" %}})
 
 State Data Revisited
 --------------------
@@ -529,5 +529,5 @@ The original Area tree was overfitting the data - it was uninterpretable. Area i
 
 CheckShow Answer
 
-*   [BackUnderstanding Why People Vote]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote" %}})
-*   [ContinueText Analytics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics" %}})
+*   [BackUnderstanding Why People Vote]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote" %}})
+*   [ContinueText Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics" %}})

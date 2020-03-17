@@ -6,7 +6,7 @@ menu:
     identifier: 34312feb9a219b7bae7feeb632542766_resource-index
     weight: 440
 ---
-« [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/exams" %}})
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/exams/_index.md" %}})
 
 This resource index gives users access to most of the course resources in a single location.
 
@@ -75,4 +75,4 @@ Unit V: Chemical Kinetics
 | [Lecture Video 34: Kinetics: Catalysts]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-34" %}}#Lecture\_Video34) | [Notes for Lecture 34 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/db306ff0886a2363883287c84df23161_MIT5_111F14_Lecture34.pdf) | [Lecture 34 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/ada140456d0c262289653dea47294ac4_MIT5_111F14_Lec34Clkr.pdf) | [Textbook Reading]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-34" %}}#Textbook\_Reading) | {{< br >}}{{< br >}}[Engineering Enzyme Pathways for Biofuel Development](http://techtv.mit.edu/videos/24162-engineering-enzyme-pathways-for-biofuel-development){{< br >}}{{< br >}}[Jingnan Lu's Personal Story](http://techtv.mit.edu/videos/24161-jingnan-lu-s-personal-story){{< br >}}{{< br >}} | {{< br >}}{{< br >}}[Problems for Lecture 34 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/064b8f80b9eb7abed04ca4029152de7e_MIT5_111F14_Lec34Prob.pdf){{< br >}}{{< br >}}[Solutions for Lecture 34 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/cff92ec710ded5cd5255ec744292f9a6_MIT5_111F14_Lec34Soln.pdf){{< br >}}{{< br >}} |
 | [Lecture Video 35: Applying Chemical Principles]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-35" %}}#Lecture\_Video35) | [Notes for Lecture 35 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/d9273e872e219ac54dd99eb61ba1cfb3_MIT5_111F14_Lecture35.pdf) | [Lecture 35 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/9baba0be764c6eedc18e1b5b212482e6_MIT5_111F14_Lec35Clkr.pdf) | There are no Textbook Reading for this topic. | There are no Behind the Scenes Videos for this topic. | There are no Problem Sets for this topic. 
 
-« [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/exams" %}})
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/exams/_index.md" %}})

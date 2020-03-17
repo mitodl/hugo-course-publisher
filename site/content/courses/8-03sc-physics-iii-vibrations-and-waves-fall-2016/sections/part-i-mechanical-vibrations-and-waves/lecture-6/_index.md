@@ -7,7 +7,7 @@ menu:
     weight: 90
     parent: 6682a3d163976bcbb2fbe67db27d8f04_part-i-mechanical-vibrations-and-waves
 ---
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-5" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-7" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-5/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-7/_index.md" %}}) »
 
 Lecture Topics
 --------------
@@ -41,4 +41,4 @@ In-class Demonstrations
 | [Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0) | {{< br >}}{{< br >}} |
 | [Coupled Air Carts](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2020&show=0) | {{< br >}}{{< br >}} 
 
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-5" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-7" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-5/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-7/_index.md" %}}) »

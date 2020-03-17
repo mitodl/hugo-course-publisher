@@ -7,7 +7,7 @@ menu:
     weight: 230
     parent: 562065223db4e5d13c0186ef14e4db6a_part-iii-optics
 ---
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2/_index.md" %}}) »
 
 Lecture Topics
 --------------
@@ -42,4 +42,4 @@ In-class Demonstrations
 | [Fiber Optic Bundle](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=M%204&show=0) | {{< br >}}{{< br >}} |
 | [Polarization of Microwaves](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=K%203&show=0) | {{< br >}}{{< br >}} 
 
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2/_index.md" %}}) »

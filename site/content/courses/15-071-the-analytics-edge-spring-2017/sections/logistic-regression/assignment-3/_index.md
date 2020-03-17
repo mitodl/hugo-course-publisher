@@ -7,10 +7,10 @@ menu:
     weight: 1100
     parent: c4464cf49ddb1a4bc78cfaa6f93b74de_logistic-regression
 ---
-*   [<Video 5: Test Set Predictions]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-5-test-set-predictions" %}})
-*   [3.5.1Popularity of Music Records]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3" %}})
-*   [3.5.2Predicting the Baseball World Series Champion]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3/predicting-the-baseball-world-series-champion" %}})
-*   [\\>Predicting the Baseball World Series Champion]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3/predicting-the-baseball-world-series-champion" %}})
+*   [<Video 5: Test Set Predictions]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-5-test-set-predictions/_index.md" %}})
+*   [3.5.1Popularity of Music Records]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3/_index.md" %}})
+*   [3.5.2Predicting the Baseball World Series Champion]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3/predicting-the-baseball-world-series-champion/_index.md" %}})
+*   [\\>Predicting the Baseball World Series Champion]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3/predicting-the-baseball-world-series-champion/_index.md" %}})
 
 Popularity of Music Records
 ---------------------------
@@ -294,5 +294,5 @@ We can compute the True Positive Rate to be the number of correctly identified T
 
 CheckShow Answer
 
-*   [BackVideo 5: Test Set Predictions]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-5-test-set-predictions" %}})
-*   [ContinuePredicting the Baseball World Series Champion]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3/predicting-the-baseball-world-series-champion" %}})
+*   [BackVideo 5: Test Set Predictions]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-5-test-set-predictions/_index.md" %}})
+*   [ContinuePredicting the Baseball World Series Champion]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3/predicting-the-baseball-world-series-champion/_index.md" %}})

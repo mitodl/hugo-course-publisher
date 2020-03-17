@@ -6,7 +6,7 @@ menu:
     identifier: 8897a3b7567fb55281b32f8a1de7b53b_readings
     weight: 30
 ---
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus/about-the-team" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus/about-the-team" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/_index.md" %}}) »
 
 The full course notes are also available for [download (PDF - 67.9MB)](https://ocw.mit.edu/ans7870/8/8.01/f16/readings/MIT8_01F16_TableOfContents.pdf).
 
@@ -114,4 +114,4 @@ The full course notes are also available for [download (PDF - 67.9MB)](https://o
 | 37 | [Rolling Kinetic Energy and Angular Momentum]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling" %}}#Lesson\_37) | {{< br >}}{{< br >}}*   Kinematics of translation and rotation: [Chapter 20 (PDF - 3.2MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/f208afd527739e38a7262acf616e54f9_MIT8_01F16_chapter20.pdf){{< br >}}*   Dynamics of translation and rotation: [Chapter 21 (PDF - 4.1MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/9d215cf77dc0b26379bae38217e2bc11_MIT8_01F16_chapter21.pdf){{< br >}}{{< br >}} |
 | Deep Dive 3 | [Gyroscopes]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling" %}}#Deep\_Dive) | No Reading 
 
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus/about-the-team" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus/about-the-team" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/_index.md" %}}) »

@@ -21,7 +21,7 @@ Lecture 4: Bounded Buffers + Locks
 8.  Example: Locks for File Systems
 9.  Implementing Locks
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-3/lecture-4-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-3/lecture-4-outline/_index.md" %}})
 
 ### Lecture Slides
 
@@ -43,7 +43,7 @@ Lecture 5: Threads
 5.  Preemption
 6.  Reflection/Summary
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-3/lecture-5-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-3/lecture-5-outline/_index.md" %}})
 
 ### Lecture Slides
 
@@ -57,14 +57,14 @@ Recitation 5: UNIX
 ------------------
 
 *   Read "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Unix Time-Sharing System (PDF)](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)" by D. M. Ritchie & K. Thompson. Start with Section 5
-*   [UNIX Assignment Part 2]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-3/unix-assignment-part-2" %}})
+*   [UNIX Assignment Part 2]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-3/unix-assignment-part-2/_index.md" %}})
 
 Tutorial 3: Design Project Discussion
 -------------------------------------
 
 Read the [Design Project Overview (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/d0c9f5a952353e8d1757fbb2c66bef51_MIT6_033S18dp.pdf), [Design Project FAQ (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/64c76f726de3a311cd25009c4ea1e872_MIT6_033S18dp_faq.pdf), and [Design Project Errata (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/4459543a5a163192772e26bf814e1461_MIT6_033S18dp_errata.pdf).
 
-The primary assignment in 6.033 is the design project. This project is where the students get to design their own system, which is the primary objective of this course. See the [Design Project]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/design-project" %}}) section for detailed information.
+The primary assignment in 6.033 is the design project. This project is where the students get to design their own system, which is the primary objective of this course. See the [Design Project]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/design-project/_index.md" %}}) section for detailed information.
 
 Design Project Preliminary Report (DPPR) Assignment
 ---------------------------------------------------

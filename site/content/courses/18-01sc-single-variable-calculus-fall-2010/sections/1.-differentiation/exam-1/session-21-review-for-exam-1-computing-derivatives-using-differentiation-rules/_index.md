@@ -8,7 +8,7 @@ menu:
     weight: 280
     parent: ffc4ad3d871527a0ef738ec4809f2038_exam-1
 ---
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1/session-22-materials-for-exam-1" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1/session-22-materials-for-exam-1/_index.md" %}}) »
 
 Overview
 --------
@@ -20,4 +20,4 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1/session-22-materials-for-exam-1" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1/session-22-materials-for-exam-1/_index.md" %}}) »

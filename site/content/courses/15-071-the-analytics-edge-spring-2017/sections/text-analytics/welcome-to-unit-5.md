@@ -7,12 +7,12 @@ menu:
     weight: 1560
     parent: 5847ad879afecf3e9b93c20cffe87acf_text-analytics
 ---
-*   [<Text Analytics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics" %}})
-*   [5.1.1Welcome to Unit 5]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/welcome-to-unit-5" %}})
-*   [\\>Turning Tweets into Knowledge: An Introduction to Text Analytics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics" %}})
+*   [<Text Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics" %}})
+*   [5.1.1Welcome to Unit 5]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/welcome-to-unit-5" %}})
+*   [\\>Turning Tweets into Knowledge: An Introduction to Text Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics" %}})
 
 Welcome to Unit 5
 -----------------
 
-*   [BackText Analytics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics" %}})
-*   [ContinueTurning Tweets into Knowledge: An Introduction to Text Analytics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics" %}})
+*   [BackText Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics" %}})
+*   [ContinueTurning Tweets into Knowledge: An Introduction to Text Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics" %}})

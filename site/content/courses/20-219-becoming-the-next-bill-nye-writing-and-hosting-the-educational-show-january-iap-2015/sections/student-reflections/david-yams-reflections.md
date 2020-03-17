@@ -8,7 +8,7 @@ menu:
     weight: 410
     parent: dadfeb1198fbe700d205d71a4c85f081_student-reflections
 ---
-« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/yuliya-klochans-reflections" %}})
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/yuliya-klochans-reflections" %}})
 
 [Day 1](#First_Day) | [Day 2](#David_Yam_Day_2_Thoughts) | [Day 4](#Day_4) | [Day 5](#_Day_5_Reflections) | [Day 6](#_Day_6_Reflections) | [Day 11](#Day_11_Thoughts) | [Final Reflections](#Final_Reflections)
 
@@ -33,7 +33,7 @@ One thing I hope to take away from this would be to be able to speak effectively
 
 All in all I thank God for this course and hope it goes well. \*crossesfingers\*
 
-[\_Link back to Day 1\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
 
 Day 2 Thoughts
 --------------
@@ -42,7 +42,7 @@ Wow. It surely was interesting pitching ideas to 6th grade students. It was like
 
 Wondering how on earth the subsequent days of filming and editing will go. It seems that many of my thoughts seem to be described with animations, similar to those numerous videos of Ted-Ed that I was watching in Singapore before flying over here. But it was clear from today's lecture that animations would be a difficult task to do within such a short time of 3 weeks. What method would I then possibly use to flash out a reasonable video within this time period? Possibly stop-motion cameras / holding out drawn objects.
 
-[\_Link back to Day 2\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor\_and\_Student\_Work)
 
 Day 4
 -----
@@ -55,7 +55,7 @@ Storyboarding my script will be interesting. I really value the positive words f
 
 Here's to starting. :D
 
-[\_Link back to Day 4\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
 
 Day 5 Reflections
 -----------------
@@ -66,7 +66,7 @@ What was awesome was to be able to get outside and shoot for ourselves. I was pa
 
 Tonight will be editing the script and sending it off because tomorrow there'll be skiing! Lots of stuff to do because I'm also sending a teaching video for an interview to be a TA in school. Wish me luck.
 
-[\_Link back to Day 5\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 5\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor\_and\_Student\_Work)
 
 Day 6 Reflections
 -----------------
@@ -81,7 +81,7 @@ Really hope that this next script is something better. Started it from scratch, 
 
 Felt that Paul and Yulia had really interesting scripts and everybody who presented today presented really well. (On a side note, I feel that people in America present better in general overall!) I would be very interested in watching their videos when it comes out! All the best guys. We've got about a week plus left. XD
 
-[\_Link back to Day 6\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 6\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours" %}}#Instructor\_and\_Student\_Work)
 
 Day 11 Thoughts
 ---------------
@@ -94,7 +94,7 @@ Really hope that the relationships / experiences shared during this 3 weeks will
 
 Anyways, I'm glad that PJ is going to do his video with Science Out Loud! (Can't wait for it to come out so I can catch it!)
 
-[\_Link back to Day 11\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts" %}}#Student\_Work)
+[\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student\_Work)
 
 Final Reflections
 -----------------
@@ -128,6 +128,6 @@ With Best Regards,
 
 David Yam
 
-[\_Link back to Day 13\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-13-screening-final-cuts" %}}#Student\_Work)
+[\_Link back to Day 13\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-13-screening-final-cuts" %}}#Student\_Work)
 
-« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/yuliya-klochans-reflections" %}})
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/yuliya-klochans-reflections" %}})

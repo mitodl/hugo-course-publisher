@@ -22,4 +22,4 @@ Bring the lantern to D-Lab no later than one hour before the next class session.
 
 [Problem Set 0 Grading Rubric (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/ec-711-d-lab-energy-spring-2011/74baee58a69e9d655612d7aaaaeaad76_MITSP_775S11_pset0_rubric.pdf)
 
-[« Back]({{% ref "courses/ec-711-d-lab-energy-spring-2011/sections/intro-energy-basics-human-power" %}}#ps0)
+[« Back]({{% getpage "courses/ec-711-d-lab-energy-spring-2011/sections/intro-energy-basics-human-power/_index.md" %}}#ps0)

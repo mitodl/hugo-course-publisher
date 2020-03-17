@@ -7,9 +7,9 @@ menu:
     weight: 2290
     parent: 6e34350394a0f94851f48f324b5f657f_clustering
 ---
-*   [<Video 7: Comparing Methods]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-7-comparing-methods" %}})
-*   [6.5.1Document Clustering with Daily Kos]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/assignment-6" %}})
-*   [\\>Visualization]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization" %}})
+*   [<Video 7: Comparing Methods]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-7-comparing-methods" %}})
+*   [6.5.1Document Clustering with Daily Kos]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/assignment-6" %}})
+*   [\\>Visualization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization" %}})
 
 Document Clustering with Daily Kos
 ----------------------------------
@@ -459,5 +459,5 @@ From "table(hierGroups, KmeansCluster$cluster)", we read that 179 (64.6%) of the
 
 CheckShow Answer
 
-*   [BackVideo 7: Comparing Methods]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-7-comparing-methods" %}})
-*   [ContinueVisualization]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization" %}})
+*   [BackVideo 7: Comparing Methods]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-7-comparing-methods" %}})
+*   [ContinueVisualization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization" %}})

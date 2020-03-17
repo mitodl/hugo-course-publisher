@@ -7,7 +7,7 @@ menu:
     weight: 250
     parent: 562065223db4e5d13c0186ef14e4db6a_part-iii-optics
 ---
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-19" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-19/_index.md" %}}) »
 
 Lecture Topics
 --------------
@@ -45,4 +45,4 @@ Related Resources
 
 Video: [Radiating Charge](https://phet.colorado.edu/en/simulation/legacy/radiating-charge) from [PhET Interactive Simulations project at the University of Colorado Boulder](https://phet.colorado.edu/)
 
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-19" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-19/_index.md" %}}) »

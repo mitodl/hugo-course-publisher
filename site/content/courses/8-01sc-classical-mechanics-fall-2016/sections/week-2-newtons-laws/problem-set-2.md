@@ -7,7 +7,7 @@ menu:
     weight: 570
     parent: cf6d9ae85d7b6e788f1e70cf24afc329_week-2-newtons-laws
 ---
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.3-window-washer-problem" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.3-window-washer-problem" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion" %}}) »
 
 Problem Set 2 contains the following problems:
 
@@ -19,4 +19,4 @@ Problem Set 2 contains the following problems:
 
 *   [Problem Set 2 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/1ebafbf9c9cca8e1ab191ad5ad9026e0_MIT8_01F16_pset2.pdf)
 
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.3-window-washer-problem" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.3-window-washer-problem" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion" %}}) »

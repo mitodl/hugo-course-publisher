@@ -6,7 +6,7 @@ menu:
     identifier: 6e929eb17b686d3570ea402ec87c9a4b_resource-index
     weight: 340
 ---
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/problem-solving-help-videos" %}})
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/problem-solving-help-videos" %}})
 
 This resource index gives users access to most of the course resources in a single location.
 
@@ -70,4 +70,4 @@ Final Exam (covers Lecture 1 through Lecture 23)
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/problem-solving-help-videos" %}})
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/problem-solving-help-videos" %}})

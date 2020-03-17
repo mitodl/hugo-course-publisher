@@ -7,9 +7,9 @@ menu:
     weight: 2630
     parent: ab87d151cf8cfe95c873e816df164d38_visualization
 ---
-*   [<Video 7: Using Line Charts Instead]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-7-using-line-charts-instead" %}})
-*   [7.5.1Visualizing Attributes of Parole Violators]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/assignment-7" %}})
-*   [\\>Linear Optimization]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization" %}})
+*   [<Video 7: Using Line Charts Instead]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-7-using-line-charts-instead" %}})
+*   [7.5.1Visualizing Attributes of Parole Violators]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/assignment-7" %}})
+*   [\\>Linear Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization" %}})
 
 Visualizing Attributes of Parole Violators
 ------------------------------------------
@@ -400,5 +400,5 @@ While overlaying the plots is allowed and lets us observe some attributes of the
 
 CheckShow Answer
 
-*   [BackVideo 7: Using Line Charts Instead]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-7-using-line-charts-instead" %}})
-*   [ContinueLinear Optimization]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization" %}})
+*   [BackVideo 7: Using Line Charts Instead]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-7-using-line-charts-instead" %}})
+*   [ContinueLinear Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization" %}})

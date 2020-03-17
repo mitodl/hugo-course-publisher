@@ -7,7 +7,7 @@ menu:
     weight: 50
     parent: 962d171611a101d49f865818d41217eb_part-a-definition-and-basic-rules
 ---
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change/_index.md" %}}) »
 
 Overview
 --------
@@ -27,4 +27,4 @@ The Derivative of |x|
 *   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/8f1965641704eb5b4e78246c67564a60_MIT18_01SCF10_ex02prb.pdf "Open in a new window.")
 *   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/bde06f55dbe791c648649b4b942df999_MIT18_01SCF10_ex02sol.pdf "Open in a new window.")
 
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change/_index.md" %}}) »

@@ -7,7 +7,7 @@ menu:
     weight: 2410
     parent: fbf76190d89eeed2930e51f9ac3bf2a6_week-12-rotations-and-translation-rolling
 ---
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum" %}})
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum" %}})
 
 Problem Set 12 contains the following problems:
 
@@ -19,4 +19,4 @@ Problem Set 12 contains the following problems:
 
 *   [Problem Set 12 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/4f3af212f682f52a6151aef53415d5b2_MIT8_01F16_pset12.pdf)
 
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum" %}})
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum" %}})

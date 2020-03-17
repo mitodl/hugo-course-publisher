@@ -7,12 +7,12 @@ menu:
     weight: 1130
     parent: 19c8cf92e31d034a1ea15ad53194d892_trees
 ---
-*   [<Trees]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees" %}})
-*   [4.1.1Welcome to Unit 4]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/welcome-to-unit-4" %}})
-*   [\\>Judge, Jury, and Classifier: An Introduction to Trees]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees" %}})
+*   [<Trees]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees" %}})
+*   [4.1.1Welcome to Unit 4]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/welcome-to-unit-4" %}})
+*   [\\>Judge, Jury, and Classifier: An Introduction to Trees]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees" %}})
 
 Welcome to Unit 4
 -----------------
 
-*   [BackTrees]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees" %}})
-*   [ContinueJudge, Jury, and Classifier: An Introduction to Trees]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees" %}})
+*   [BackTrees]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees" %}})
+*   [ContinueJudge, Jury, and Classifier: An Introduction to Trees]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees" %}})

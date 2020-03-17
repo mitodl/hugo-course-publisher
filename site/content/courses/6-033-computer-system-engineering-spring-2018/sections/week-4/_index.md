@@ -19,7 +19,7 @@ Lecture 6: Operating Systems Structure + Virtual Machines
 6.  Microkernels: Alternative to Monolithic Kernels
 7.  Summary
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-4/lecture-6-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-4/lecture-6-outline/_index.md" %}})
 
 ### Lecture Slides
 
@@ -34,7 +34,7 @@ Recitation 6: Eraser
 
 *   Before reading the Eraser paper, refresh your memory on what race conditions are and the troubles that they can cause by revisiting sections 5.2.2, 5.2.3, and 5.2.4 of the textbook.
 *   Read "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Eraser: A Dynamic Data Race Detector for Multithreaded Programs (PDF)](http://www.cs.ucsd.edu/~savage/papers/Tocs97.pdf)" by S. Savage, M. Burrows, G. Nelson, P. Sobalvarro & T. Anderson
-*   [Eraser Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-4/eraser-assignment" %}})
+*   [Eraser Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-4/eraser-assignment/_index.md" %}})
 
 Lecture 7: Performance
 ----------------------
@@ -54,7 +54,7 @@ Lecture 7: Performance
 11.  Summary
 12.  Useful Numbers for Your Day-to-Day Lives
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-4/lecture-7-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-4/lecture-7-outline/_index.md" %}})
 
 ### Lecture Slides
 
@@ -68,7 +68,7 @@ Recitation 7: MapReduce
 -----------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Map Reduce: Simplified Data Processing on Large Clusters (PDF)](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)" by J. Dean & S. Ghemawat
-*   [MapReduce Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-4/mapreduce-assignment" %}})
+*   [MapReduce Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-4/mapreduce-assignment/_index.md" %}})
 
 Hands-on Assignment 3: MapReduce
 --------------------------------
@@ -83,4 +83,4 @@ As you know, in 6.033 you'll complete a series of three critiques, designed to b
 System Critique Assignment 2: MapReduce
 ---------------------------------------
 
-*   Assigned: [Critique Assignment 2]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-4/critique-assignment-2" %}})
+*   Assigned: [Critique Assignment 2]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-4/critique-assignment-2/_index.md" %}})

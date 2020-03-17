@@ -8,7 +8,7 @@ menu:
     parent: >-
       e1f8a1b789b83e57da0e01f4ada7283a_part-c-average-value-probability-and-numerical-integration
 ---
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-65-bell-curve-conclusion" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/exam-3" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-65-bell-curve-conclusion/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/exam-3" %}}) »
 
 Overview
 --------
@@ -33,4 +33,4 @@ Use [Applications of Integration (PDF)](https://open-learning-course-data-ci.s3.
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-65-bell-curve-conclusion" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/exam-3" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-65-bell-curve-conclusion/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/exam-3" %}}) »

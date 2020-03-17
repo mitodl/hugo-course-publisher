@@ -8,17 +8,17 @@ menu:
     parent: >-
       fbf2b7049246466ef24736bff248b7c3_sports-scheduling-an-introduction-to-integer-optimization
 ---
-*   [<Video 3: Solving the Problem]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-3-solving-the-problem-2" %}})
-*   [9.2.1Video 1: Introduction]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization" %}})
-*   [9.2.2Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/quick-question-665" %}})
-*   [9.2.3Video 2: The Optimization Problem]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-2-the-optimization-problem" %}})
-*   [9.2.4Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/quick-question-673" %}})
-*   [9.2.5Video 3: Solving the Problem]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-3-solving-the-problem-2" %}})
-*   [9.2.6Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/quick-question-685" %}})
-*   [9.2.7Video 4: Logical Constraints]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-4-logical-constraints" %}})
-*   [9.2.8Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/quick-question-693" %}})
-*   [9.2.9Video 5: The Edge]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-5-the-edge" %}})
-*   [\\>Video 4: Logical Constraints]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-4-logical-constraints" %}})
+*   [<Video 3: Solving the Problem]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-3-solving-the-problem-2" %}})
+*   [9.2.1Video 1: Introduction]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization" %}})
+*   [9.2.2Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/quick-question-665" %}})
+*   [9.2.3Video 2: The Optimization Problem]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-2-the-optimization-problem" %}})
+*   [9.2.4Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/quick-question-673" %}})
+*   [9.2.5Video 3: Solving the Problem]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-3-solving-the-problem-2" %}})
+*   [9.2.6Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/quick-question-685" %}})
+*   [9.2.7Video 4: Logical Constraints]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-4-logical-constraints" %}})
+*   [9.2.8Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/quick-question-693" %}})
+*   [9.2.9Video 5: The Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-5-the-edge" %}})
+*   [\\>Video 4: Logical Constraints]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-4-logical-constraints" %}})
 
 Quick Question
 --------------
@@ -45,5 +45,5 @@ We would have 6 division constraints, 9 non-division constraints (each of the th
 
 CheckShow Answer
 
-*   [BackVideo 3: Solving the Problem]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-3-solving-the-problem-2" %}})
-*   [ContinueVideo 4: Logical Constraints]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-4-logical-constraints" %}})
+*   [BackVideo 3: Solving the Problem]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-3-solving-the-problem-2" %}})
+*   [ContinueVideo 4: Logical Constraints]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-4-logical-constraints" %}})

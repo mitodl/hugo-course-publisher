@@ -7,7 +7,7 @@ menu:
     weight: 70
     parent: 36cc671ac04c270e9cac7a210efd6846_unit-i-the-atom
 ---
-« [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-5" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-5" %}}) »
 
 Topics
 ------
@@ -55,4 +55,4 @@ Problems and Solutions
 
 [Solutions for Lecture 4 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/2cad579ffdfb2a280a6e2e574b2429c7_MIT5_111F14_Lec04Soln.pdf)
 
-« [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-5" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-5" %}}) »

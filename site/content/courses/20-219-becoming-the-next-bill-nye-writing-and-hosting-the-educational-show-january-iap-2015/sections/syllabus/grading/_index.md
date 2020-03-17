@@ -8,7 +8,7 @@ menu:
     weight: 40
     parent: 203eeb3a4839933a901cefa7c34f24d7_syllabus
 ---
-« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/syllabus/calendar" %}}) | [Next]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/syllabus/class-policies" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/syllabus/calendar" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/syllabus/class-policies" %}}) »
 
 The majority of the class assignments (daily blogs, peer feedback) will be graded on a three-point scale of good, sufficient, or incomplete (or a zero for no work). I (Elizabeth) will be completing assignments along with you, and you can turn to my examples as points of reference for expected effort. We emphasize thoughtfulness toward process rather than churning out a product (however, product quality will be graded as well). All assignments are due by noon the following class day unless otherwise noted.
 
@@ -41,4 +41,4 @@ The total grade for this class will be based upon the following weighted factors
     *   The work over IAP will culminate in each of you creating a <5 min. episode. Individual grades = 65% your work (script, hosting, etc.), 35% the production you did for your partner (filming).
     *   We will select the top projects to professionally produce for Season 3 of [Science Out Loud](http://k12videos.mit.edu/science-out-loud/).
 
-« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/syllabus/calendar" %}}) | [Next]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/syllabus/class-policies" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/syllabus/calendar" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/syllabus/class-policies" %}}) »

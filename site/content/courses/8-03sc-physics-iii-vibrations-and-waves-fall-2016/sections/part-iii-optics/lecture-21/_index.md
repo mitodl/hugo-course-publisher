@@ -7,7 +7,7 @@ menu:
     weight: 280
     parent: 562065223db4e5d13c0186ef14e4db6a_part-iii-optics
 ---
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-20" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-22" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-20/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-22/_index.md" %}}) »
 
 Lecture Topics
 --------------
@@ -46,4 +46,4 @@ In-class Demonstrations
 | [Moiré Pattern](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%202&show=0) | {{< br >}}{{< br >}} |
 | [Single-Slit Diffraction with a Laser](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%202&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} 
 
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-20" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-22" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-20/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-22/_index.md" %}}) »

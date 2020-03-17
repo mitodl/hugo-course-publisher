@@ -8,7 +8,7 @@ menu:
     weight: 730
     parent: 3c7d357cbb95e729679b539d23714ede_week-3-circular-motion
 ---
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/11.3-demo-rotating-bucket" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/problem-set-3" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/11.3-demo-rotating-bucket" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/problem-set-3" %}}) »
 
 A person on a spherical asteroid of mass \\(\\displaystyle m\_1\\) and radius \\(\\displaystyle R\\), sees a small satellite of mass \\(\\displaystyle m\_2\\) orbiting the asteroid in a circular orbit of period \\(\\displaystyle T\\).
 
@@ -33,4 +33,4 @@ Express you answer in terms of some or all of the following: \\(\\displaystyle m
 Orbital Circular Motion - Period
 --------------------------------
 
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/11.3-demo-rotating-bucket" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/problem-set-3" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/11.3-demo-rotating-bucket" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/problem-set-3" %}}) »

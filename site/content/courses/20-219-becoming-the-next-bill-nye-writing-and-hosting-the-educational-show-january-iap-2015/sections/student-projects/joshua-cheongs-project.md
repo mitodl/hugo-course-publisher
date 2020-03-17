@@ -8,7 +8,7 @@ menu:
     weight: 260
     parent: 6df56ca86d884c27d497aee73b724945_student-projects
 ---
-« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project" %}}) | [Next]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}) »
 
 [_Link to_ _Joshua Cheong's Page on Tumblr_](http://mit219.tumblr.com/tagged/joshch)
 
@@ -37,7 +37,7 @@ This is just a preliminary pitch on how to introduce one of the most important c
 
 The YouTube has yet to be fully processed so it may take a while to come live. Till then, imma get some sleep!
 
-[\_Link back to Day 1\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
 
 Day 2 Script: How Does a Google Search Work?
 --------------------------------------------
@@ -60,14 +60,14 @@ Is finding James such a big deal? Well, yes! Finding James faster means getting 
 
 So the next time you do a Google search, know that you're in good hands with the fastest methods to find your search.
 
-[\_Link back to Day 2\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor\_and\_Student\_Work)
 
 Day 3 Trailer
 -------------
 
 This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
 
-[\_Link back to Day 3\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor\_and\_Student\_Work)
 
 Day 4 Script
 ------------
@@ -104,14 +104,14 @@ In the same way, simply by placing your home items in locations where they have 
 
 Aha! So that's where my gloves are!
 
-And that's how we find stuff better. Not a just little bit better but a lot better![]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
+And that's how we find stuff better. Not a just little bit better but a lot better![]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
 
 Day 4 Storyboard
 ----------------
 
 ![Joshua-Cheong---day-4-story.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/9533ce827a08ebf869307baf309a7813_Joshua-Cheong---day-4-story.jpg)  
 
-[\_Link back to Day 4\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
 
 Day 5 Script
 ------------
@@ -156,7 +156,7 @@ In the same way, simply by placing your home items in locations where they have 
 
 Aha! So that's where my gloves are!
 
-And that's how we find stuff better. Not a just little bit better but a lot better![]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor\_and\_Student\_Work)
+And that's how we find stuff better. Not a just little bit better but a lot better![]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor\_and\_Student\_Work)
 
 Day 5 Storyboard
 ----------------
@@ -174,7 +174,7 @@ Day 5 Storyboard
 | 9 | Google Sign @ Kendall |   | Also notice how the better method depends on prearranging the people in alphabetical order? Computer scientists are always actively looking for better methods to sort, manage, and retrieve data. |
 | 10 | Hotel |   | {{< br >}}{{< br >}}In the same way, simply by placing your home items in locations where they have a natural relationship, makes it easier for us to find them. The TV remote goes near the TV, the shoes go to the shoe rack, the coats go into the cupboard and the the winter gloves goes in the winter jacket.{{< br >}}{{< br >}}(Location is back in the dorm \*Finds gloves in the jacket){{< br >}}{{< br >}}Aha! So that's where my gloves are!{{< br >}}{{< br >}} 
 
-[\_Link back to Day 5\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 5\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor\_and\_Student\_Work)
 
 Script: Final Iteration
 -----------------------
@@ -206,14 +206,14 @@ Also notice how the better method depends on prearranging the people in alphabet
 Aha! So that's where my gloves are! And that's the story of Search!
 
 [\_Link back to Day 7  
-\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production" %}}#Instructor\_and\_Student\_Work)
+\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production/_index.md" %}}#Instructor\_and\_Student\_Work)
 
 Rough Cut
 ---------
 
 This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
 
-[\_Link back to Day 11\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts" %}}#Student\_Work)
+[\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student\_Work)
 
 Final Project: Why can't I find my glove? The Science of Search
 ---------------------------------------------------------------
@@ -238,6 +238,6 @@ Production Assistant: David Yam
 
 [See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108852064906/creative-commons-cc-by-nc-sa-mit)
 
-[\_Link back to Day 13\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-13-screening-final-cuts" %}}#Student\_Work)
+[\_Link back to Day 13\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-13-screening-final-cuts" %}}#Student\_Work)
 
-« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project" %}}) | [Next]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}) »

@@ -22,7 +22,7 @@ Lecture 18: Distributed Transactions
 9.  2PC Summary
 10.  A Remaining Problem
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-10/lecture-18-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-10/lecture-18-outline/_index.md" %}})
 
 ### Lecture Slides
 
@@ -41,12 +41,12 @@ Recitation 18: Consistency Guarantees
 -------------------------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Replicated Data Consistency Explained Through Baseball (PDF)](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/ConsistencyAndBaseballReport.pdf)" by D. Terry
-*   [Consistency Guarantees Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-10/consistency-guarantees-assignment" %}})
+*   [Consistency Guarantees Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-10/consistency-guarantees-assignment/_index.md" %}})
 
 Tutorial 10: Analysis and Evaluation
 ------------------------------------
 
-This recitation will discuss analysis and evaluation. You will also begin working on your final report.  Unlike the proposal document, the report should contain enough detail that it could feasibly be turned over to Facilities for implementation. It should also contain an evaluation of your design. See the [Design Project]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/design-project" %}}) section for more details.
+This recitation will discuss analysis and evaluation. You will also begin working on your final report.  Unlike the proposal document, the report should contain enough detail that it could feasibly be turned over to Facilities for implementation. It should also contain an evaluation of your design. See the [Design Project]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/design-project/_index.md" %}}) section for more details.
 
 Design Project Final Report Assignment
 --------------------------------------

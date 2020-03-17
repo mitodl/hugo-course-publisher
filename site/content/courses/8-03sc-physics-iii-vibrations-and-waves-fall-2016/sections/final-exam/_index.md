@@ -6,7 +6,7 @@ menu:
     identifier: 40206992200d017eca64aac5b6b7d1e4_final-exam
     weight: 320
 ---
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-24" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/problem-solving-help-videos" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-24" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/problem-solving-help-videos" %}}) »
 
 Exam Information
 ----------------
@@ -24,4 +24,4 @@ Practice Exams and Solutions
 [Practice Final Exam 3 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c0f0a489b773f8420136ad9d813a3d1b_MIT8_03SCF16_PracticeFinalExam3.pdf)  
 ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Practice Final Exam 3 Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/7204d82c7336bcc6b3c53099e1e8535c_MIT8_03SCF16_PracticeFinalExam3_Solutions.pdf)
 
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-24" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/problem-solving-help-videos" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-24" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/problem-solving-help-videos" %}}) »

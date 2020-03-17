@@ -7,7 +7,7 @@ menu:
     weight: 1790
     parent: bc33ee80c8fd90e4dfda7092ddd24879_week-9-collision-theory
 ---
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.7-change-in-the-kinetic-energy" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.7-change-in-the-kinetic-energy" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion" %}}) »
 
 Problem Set 9 contains the following problems:
 
@@ -20,4 +20,4 @@ Problem Set 9 contains the following problems:
 
 *   [Problem Set 9 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/aa4bd69ba9ac09a42a3d75892d2c46c6_MIT8_01F16_pset9.pdf)
 
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.7-change-in-the-kinetic-energy" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.7-change-in-the-kinetic-energy" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion" %}}) »

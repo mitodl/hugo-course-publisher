@@ -6,7 +6,7 @@ menu:
     identifier: 14fc866ff60fc69f19eb4338bbc87675_assignments
     weight: 40
 ---
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/readings" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/readings/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors" %}}) »
 
 | LESSON # | Lesson Titles | PROBLEM SETS | related worked examples |
 | --- | --- | --- | --- |
@@ -112,4 +112,4 @@ menu:
 | 37 | Rolling Kinetic Energy and Angular Momentum |
 | Deep Dive 3 | Gyroscopes 
 
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/readings" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/readings/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors" %}}) »

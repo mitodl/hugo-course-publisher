@@ -21,7 +21,7 @@ Lecture 10: Networking: Routing (BGP)
 8.  Problems With BGP
 9.  Recurring Themes
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-6/lecture-10-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-6/lecture-10-outline/_index.md" %}})
 
 ### Lecture Slides
 
@@ -54,7 +54,7 @@ Lecture 11: Transport Layer
 8.  Additional Mechanisms
 9.  Reflection
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-6/lecture-11-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-6/lecture-11-outline/_index.md" %}})
 
 ### Lecture Slides
 
@@ -69,7 +69,7 @@ Recitation 11: Resilient Overlay Networks (RON)
 
 *   Read most of "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Resilient Overlay Networks (PDF)](http://nms.lcs.mit.edu/papers/ron-sosp2001.pdf)" by D. Andersen, H. Balakrishnan, et al.
 *   See assignment for details about which sections to read.
-*   [RON Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-6/ron-assignment" %}})
+*   [RON Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-6/ron-assignment/_index.md" %}})
 
 Tutorial 6: Assembling the Design Project Preliminary Report
 ------------------------------------------------------------

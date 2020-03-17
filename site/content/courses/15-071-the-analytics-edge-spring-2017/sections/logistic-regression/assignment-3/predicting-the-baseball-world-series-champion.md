@@ -8,10 +8,10 @@ menu:
     weight: 1110
     parent: d4a650ea930c2c8c0f989b353a5a342e_assignment-3
 ---
-*   [<Assignment 3]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3" %}})
-*   [3.5.1Popularity of Music Records]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3" %}})
-*   [3.5.2Predicting the Baseball World Series Champion]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3/predicting-the-baseball-world-series-champion" %}})
-*   [\\>Trees]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees" %}})
+*   [<Assignment 3]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3" %}})
+*   [3.5.1Popularity of Music Records]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3" %}})
+*   [3.5.2Predicting the Baseball World Series Champion]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3/predicting-the-baseball-world-series-champion" %}})
+*   [\\>Trees]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees" %}})
 
 Predicting the Baseball World Series Champion
 ---------------------------------------------
@@ -377,5 +377,5 @@ This seems to confirm the claim made by Billy Beane in Moneyball that all that m
 
 CheckShow Answer
 
-*   [BackAssignment 3]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3" %}})
-*   [ContinueTrees]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees" %}})
+*   [BackAssignment 3]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3" %}})
+*   [ContinueTrees]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees" %}})

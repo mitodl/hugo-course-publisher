@@ -7,11 +7,11 @@ menu:
     weight: 1910
     parent: 5847ad879afecf3e9b93c20cffe87acf_text-analytics
 ---
-*   [<Video 8: Predictive Coding Today]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-8-predictive-coding-today" %}})
-*   [5.5.1Separating Spam from Ham (Part 1)]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5" %}})
-*   [5.5.2Detecting Vandalism on Wikipedia]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/detecting-vandalism-on-wikipedia" %}})
-*   [5.5.3Automating Reviews in Medicine]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/automating-reviews-in-medicine" %}})
-*   [\\>Detecting Vandalism on Wikipedia]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/detecting-vandalism-on-wikipedia" %}})
+*   [<Video 8: Predictive Coding Today]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-8-predictive-coding-today/_index.md" %}})
+*   [5.5.1Separating Spam from Ham (Part 1)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/_index.md" %}})
+*   [5.5.2Detecting Vandalism on Wikipedia]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/detecting-vandalism-on-wikipedia/_index.md" %}})
+*   [5.5.3Automating Reviews in Medicine]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/automating-reviews-in-medicine/_index.md" %}})
+*   [\\>Detecting Vandalism on Wikipedia]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/detecting-vandalism-on-wikipedia/_index.md" %}})
 
 Separating Spam From Ham
 ------------------------
@@ -427,5 +427,5 @@ You may note that we did not ask you to fit a logistic regression model to pred
 
 This warning indicates that R's logistic regression solution procedure has failed.
 
-*   [BackVideo 8: Predictive Coding Today]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-8-predictive-coding-today" %}})
-*   [ContinueDetecting Vandalism on Wikipedia]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/detecting-vandalism-on-wikipedia" %}})
+*   [BackVideo 8: Predictive Coding Today]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-8-predictive-coding-today/_index.md" %}})
+*   [ContinueDetecting Vandalism on Wikipedia]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/detecting-vandalism-on-wikipedia/_index.md" %}})

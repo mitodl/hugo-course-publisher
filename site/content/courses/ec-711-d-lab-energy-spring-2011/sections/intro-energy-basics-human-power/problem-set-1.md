@@ -39,4 +39,4 @@ Assumption: Hot water for showering is about 105° F
 4.  Suppose you designed a shower head that halved the volumetric flow of water coming out from the shower without any negative impacts on showering. How much money could you save all the residents of MA? How much would you price the product at?
 5.  Inspired by this problem set, you decide to build your own solar water heater with an efficiency of 25%. How large a solar water heater would you have to build so that the average family would have hot showering water? What about all of the residents of MA? You can neglect heat losses in storage/transport.
 
-[« Back]({{% ref "courses/ec-711-d-lab-energy-spring-2011/sections/intro-energy-basics-human-power" %}}#ps1)
+[« Back]({{% getpage "courses/ec-711-d-lab-energy-spring-2011/sections/intro-energy-basics-human-power/_index.md" %}}#ps1)

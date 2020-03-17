@@ -8,7 +8,7 @@ menu:
     weight: 280
     parent: 6df56ca86d884c27d497aee73b724945_student-projects
 ---
-« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}) | [Next]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project" %}}) »
 
 [_Link to Paul (PJ) Folino's Page on Tumblr_](http://mit219.tumblr.com/tagged/pjfolino)
 
@@ -37,7 +37,7 @@ I have never been able to poach an egg well. Come to find out, there is a lot of
 
 Food for thought: Did you know there are statistical correlations between how you cook your eggs and how happy you are?
 
-[\_Link back to Day 1\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
 
 Day 2 Script
 ------------
@@ -86,7 +86,7 @@ III. Conclusion
 
 1\. In conclusion, subdivision is used on vessels for many reasons, one of which is to ensure the ship doesn't sink! As a naval architect, you will be ensuring that people on ships are safe by knowing how to divide the compartments. The job carries a lot of responsibility, as does any engineering discipline, but by using science and math we can make sure that your loved ones return safely from the sea!
 
-[\_Link back to Day 2\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor\_and\_Student\_Work)
 
 Day 3 Trailer: Subdivision Pitch
 --------------------------------
@@ -95,7 +95,7 @@ This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQM
 
 The actual prototype is being thought of / designed. This subdivided "barge" WILL sink.
 
-[\_Link back to Day 3\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor\_and\_Student\_Work)
 
 Day 4 Storyboard
 ----------------
@@ -106,7 +106,7 @@ Day 4 Storyboard
 
 I am still refining the script.
 
-[\_Link back to Day 4\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
 
 Day 5 Script
 ------------
@@ -151,7 +151,7 @@ _(Animation on top of still picture of boxes)_ A basic way to describe it is lik
 
 _(Pratt School Museum, in uniform)_ As a Coast Guard Marine Inspector and naval architect, I have lost sleep over the thought of ships sinking and people being injured. We have to ensure that people on ships are safe by knowing how to divide the compartments. The job carries a lot of responsibility, as does any engineering discipline, but by using science and math we can make sure that our loved ones return safely from the sea!
 
-[\_Link back to Day 5\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor\_and\_Student\_Work)[]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 5\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor\_and\_Student\_Work)[]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
 
 Day 6 Script
 ------------
@@ -189,7 +189,7 @@ _(In Naval Construction design lab, simulation on desktop behind me)_ Computers 
 So even though ships might seem like these complicated, intricate things… they are really just based on physical principles that we already know.
 
 [\_Link back to Day 6  
-\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours" %}}#Instructor\_and\_Student\_Work)
+\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours" %}}#Instructor\_and\_Student\_Work)
 
 Day 7 Script
 ------------
@@ -229,7 +229,7 @@ So even though ships might seem like these complicated, intricate things… they
 (nothing really changed from before)
 
 [\_Link back to Day 7  
-\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production" %}}#Instructor\_and\_Student\_Work)
+\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production/_index.md" %}}#Instructor\_and\_Student\_Work)
 
 Day 8 Shot List
 ---------------
@@ -327,14 +327,14 @@ To Shoot:
 2.  Video recording of POSSE simulation
 3.  See Part 1
 
-[\_Link back to Day 8\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/days-8-9-10-project-time" %}}#Student\_Work)
+[\_Link back to Day 8\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/days-8-9-10-project-time" %}}#Student\_Work)
 
 Rough Cut
 ---------
 
 This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQMgOZfa6T-XZR2WC1Q) on YouTube and is provided under our Creative Commons license.
 
-[\_Link back to Day 11\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts" %}}#Student\_Work)
+[\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student\_Work)
 
 Final Project
 -------------
@@ -351,7 +351,7 @@ Additional scripting: Elizabeth Choe, Jaime Goldstein, Ceri Riley, George Zaidan
 
 [See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108847363726/pjfolino-subdivision-in-ships-creative)
 
-[\_Link back to Day 13\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-13-screening-final-cuts" %}}#Student\_Work)
+[\_Link back to Day 13\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-13-screening-final-cuts" %}}#Student\_Work)
 
 Science Out Loud
 ----------------
@@ -360,4 +360,4 @@ Paul's video was professionally produced by [Science Out Loud](http://k12videos.
 
 This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](http://k12videos.mit.edu/terms-and-conditions) license.
 
-« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}) | [Next]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project" %}}) »

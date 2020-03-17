@@ -7,12 +7,12 @@ menu:
     weight: 350
     parent: bebdc8ab5b1f9682d6b762b671b5cf25_an-introduction-to-analytics
 ---
-*   [<Video 6: Summary Tables]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-6-summary-tables" %}})
-*   [1.5.1An Analytical Detective]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1" %}})
-*   [1.5.2Stock Dynamics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
-*   [1.5.3Demographics and Employment in the United States]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
-*   [1.5.4Internet Privacy Poll]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll" %}})
-*   [\\>Stock Dynamics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
+*   [<Video 6: Summary Tables]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-6-summary-tables/_index.md" %}})
+*   [1.5.1An Analytical Detective]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/_index.md" %}})
+*   [1.5.2Stock Dynamics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics/_index.md" %}})
+*   [1.5.3Demographics and Employment in the United States]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states/_index.md" %}})
+*   [1.5.4Internet Privacy Poll]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll/_index.md" %}})
+*   [\\>Stock Dynamics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics/_index.md" %}})
 
 An Analytical Detective
 -----------------------
@@ -472,5 +472,5 @@ This can be read from table(Top5$LocationDescription, Top5$Weekday).
 
 CheckShow Answer
 
-*   [BackVideo 6: Summary Tables]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-6-summary-tables" %}})
-*   [ContinueStock Dynamics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
+*   [BackVideo 6: Summary Tables]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-6-summary-tables/_index.md" %}})
+*   [ContinueStock Dynamics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics/_index.md" %}})

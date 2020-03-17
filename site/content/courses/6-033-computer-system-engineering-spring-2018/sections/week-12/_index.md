@@ -19,7 +19,7 @@ Lecture 21: Authentication and Passwords
 6.  Bootstrapping/Resetting
 7.  Password Alternatives
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-12/lecture-21-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-12/lecture-21-outline/_index.md" %}})
 
 ### Lecture Slides
 
@@ -33,7 +33,7 @@ Recitation 21: Why Cryptosystems Fail
 -------------------------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Why Cryptosystems Fail (PDF)](https://www.cl.cam.ac.uk/~rja14/Papers/wcf.pdf)" by R. Anderson
-*   [Why Cryptosystems Fail Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-12/why-cryptosystems-fail-assignment" %}})
+*   [Why Cryptosystems Fail Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-12/why-cryptosystems-fail-assignment/_index.md" %}})
 
 Lecture 22: Secure Channels
 ---------------------------
@@ -49,7 +49,7 @@ Lecture 22: Secure Channels
 7.  TLS: A Protocol That Does All of This
 8.  Discussion
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-12/lecture-22-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-12/lecture-22-outline/_index.md" %}})
 
 ### Lecture Slides
 
@@ -63,9 +63,9 @@ Recitation 22: Domain Name System Security Extensions (DNSSEC)
 --------------------------------------------------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Security vulnerabilities in DNS and DNSSEC (PDF)](http://www.chrismitchell.net/svidad.pdf)" by S. Ariyapperuma & C. Mitchell
-*   [DNSSEC Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-12/dnssec-assignment" %}})
+*   [DNSSEC Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-12/dnssec-assignment/_index.md" %}})
 
 Tutorial 12: Final Design Project Report
 ----------------------------------------
 
-Having now had two rounds of feedback on your design, you're working on your final report. Unlike the proposal document, the report should contain enough detail that it could feasibly be turned over to Facilities for implementation. It should also contain an evaluation of your design. See the [Design Project]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/design-project" %}}) section for detailed information.
+Having now had two rounds of feedback on your design, you're working on your final report. Unlike the proposal document, the report should contain enough detail that it could feasibly be turned over to Facilities for implementation. It should also contain an evaluation of your design. See the [Design Project]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/design-project/_index.md" %}}) section for detailed information.

@@ -7,7 +7,7 @@ menu:
     weight: 120
     parent: 89ed642b22037e567593c80ff35cb3f4_unit-ii-chemical-bonding-structure
 ---
-« [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-9" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-9/_index.md" %}}) »
 
 Topics
 ------
@@ -53,4 +53,4 @@ Acknowledgement
 
 Excerpt of "[Meet the Elements](https://youtu.be/Uy0m7jnyv6U)" by [They Might be Gaints](http://www.theymightbegiants.com/), courtesy of Idlewild / Disney Sound, used with permission. From [_Here Comes Science_](http://www.theymightbegiants.com/music/here-comes-science/), 2009.
 
-« [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-9" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-9/_index.md" %}}) »

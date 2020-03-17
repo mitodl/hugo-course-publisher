@@ -8,6 +8,6 @@ menu:
     weight: 1740
     parent: bc33ee80c8fd90e4dfda7092ddd24879_week-9-collision-theory
 ---
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.2-relative-velocity-is-independent-of-reference-frame" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.4-worked-example-1d-elastic-collision-in-cm" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.2-relative-velocity-is-independent-of-reference-frame" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.4-worked-example-1d-elastic-collision-in-cm" %}}) »
 
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.2-relative-velocity-is-independent-of-reference-frame" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.4-worked-example-1d-elastic-collision-in-cm" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.2-relative-velocity-is-independent-of-reference-frame" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.4-worked-example-1d-elastic-collision-in-cm" %}}) »

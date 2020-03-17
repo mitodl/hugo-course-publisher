@@ -7,7 +7,7 @@ menu:
     weight: 1350
     parent: 1c9b92776c16c587013d2f3b4e9b94a0_part-b-taylor-series
 ---
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-100-operations-on-power-series" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/final-exam" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-100-operations-on-power-series/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/final-exam/_index.md" %}}) »
 
 Overview
 --------
@@ -32,4 +32,4 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-100-operations-on-power-series" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/final-exam" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-100-operations-on-power-series/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/final-exam/_index.md" %}}) »

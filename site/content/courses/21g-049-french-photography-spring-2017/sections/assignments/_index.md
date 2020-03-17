@@ -24,7 +24,7 @@ Students will write a review (1,100 words) of the exhibition “Charlotte Moth: 
 Visual Analysis Papers
 ----------------------
 
-Students will submit 3 visual analysis papers (1,300 words each) over the course of the semester. These papers will use visual and formal analysis as well as context discussed in readings and in class to explore the meaning of one image or a pair of images. Students will have the option of writing about the materials presented in different weeks. These papers are due the Wednesday after we discuss the topic in class. [More details about the Visual Analysis Papers]({{% ref "courses/21g-049-french-photography-spring-2017/sections/assignments/visual-analysis-papers" %}}).
+Students will submit 3 visual analysis papers (1,300 words each) over the course of the semester. These papers will use visual and formal analysis as well as context discussed in readings and in class to explore the meaning of one image or a pair of images. Students will have the option of writing about the materials presented in different weeks. These papers are due the Wednesday after we discuss the topic in class. [More details about the Visual Analysis Papers]({{% getpage "courses/21g-049-french-photography-spring-2017/sections/assignments/visual-analysis-papers/_index.md" %}}).
 
 Writing Advisor Meeting
 -----------------------

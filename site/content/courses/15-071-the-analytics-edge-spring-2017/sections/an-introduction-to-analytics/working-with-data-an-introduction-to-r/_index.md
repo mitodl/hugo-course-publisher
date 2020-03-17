@@ -7,22 +7,22 @@ menu:
     weight: 140
     parent: bebdc8ab5b1f9682d6b762b671b5cf25_an-introduction-to-analytics
 ---
-*   [<Video 6: This Class]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-6-this-class" %}})
-*   [1.3.1Download and Install R]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r" %}})
-*   [1.3.2Video 1: Why R?]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-1-why-r" %}})
-*   [1.3.3Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question" %}})
-*   [1.3.4Video 2: Getting Started in R]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-2-getting-started-in-r" %}})
-*   [1.3.5Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question-4" %}})
-*   [1.3.6Video 3: Vectors and Data Frames]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-3-vectors-and-data-frames" %}})
-*   [1.3.7Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question-9" %}})
-*   [1.3.8Video 4: Loading Data Files]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-4-loading-data-files" %}})
-*   [1.3.9Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question-20" %}})
-*   [1.3.10Video 5: Data Analysis - Summary Statistics and Scatterplots]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-5-data-analysis-summary-statistics-and-scatterplots" %}})
-*   [1.3.11Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question-28" %}})
-*   [1.3.12Video 6: Data Analysis - Plots and Summary Tables]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-6-data-analysis-plots-and-summary-tables" %}})
-*   [1.3.13Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question-40" %}})
-*   [1.3.14Video 7: Saving with Script Files]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-7-saving-with-script-files" %}})
-*   [\\>Video 1: Why R?]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-1-why-r" %}})
+*   [<Video 6: This Class]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-6-this-class/_index.md" %}})
+*   [1.3.1Download and Install R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/_index.md" %}})
+*   [1.3.2Video 1: Why R?]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-1-why-r/_index.md" %}})
+*   [1.3.3Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question/_index.md" %}})
+*   [1.3.4Video 2: Getting Started in R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-2-getting-started-in-r/_index.md" %}})
+*   [1.3.5Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question-4/_index.md" %}})
+*   [1.3.6Video 3: Vectors and Data Frames]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-3-vectors-and-data-frames/_index.md" %}})
+*   [1.3.7Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question-9/_index.md" %}})
+*   [1.3.8Video 4: Loading Data Files]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-4-loading-data-files/_index.md" %}})
+*   [1.3.9Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question-20/_index.md" %}})
+*   [1.3.10Video 5: Data Analysis - Summary Statistics and Scatterplots]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-5-data-analysis-summary-statistics-and-scatterplots/_index.md" %}})
+*   [1.3.11Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question-28/_index.md" %}})
+*   [1.3.12Video 6: Data Analysis - Plots and Summary Tables]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-6-data-analysis-plots-and-summary-tables/_index.md" %}})
+*   [1.3.13Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question-40/_index.md" %}})
+*   [1.3.14Video 7: Saving with Script Files]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-7-saving-with-script-files/_index.md" %}})
+*   [\\>Video 1: Why R?]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-1-why-r/_index.md" %}})
 
 Introduction to R
 -----------------
@@ -75,5 +75,5 @@ Sys.setlocale("LC\_ALL", "C")
 
 This will only change the locale for your current R session, so please make a note to run this command when you are working on any lectures or exercises that might depend on the English language (for example, the names for the days of the week).
 
-*   [BackVideo 6: This Class]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-6-this-class" %}})
-*   [ContinueVideo 1: Why R?]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-1-why-r" %}})
+*   [BackVideo 6: This Class]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-6-this-class/_index.md" %}})
+*   [ContinueVideo 1: Why R?]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-1-why-r/_index.md" %}})

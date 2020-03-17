@@ -7,7 +7,7 @@ menu:
     weight: 20
     parent: 8488bde46909b726a411abeee039ef1a_syllabus
 ---
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/readings" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/readings/_index.md" %}}) »
 
 Deepto Chakrabarty
 ------------------
@@ -44,4 +44,4 @@ Anna Frebel
 
 | ![Anna Frebel](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/44b60b04c487205fd9f8c9c8ce4ebf50_anna_110x110.jpg) | {{< br >}}{{< br >}}Anna Frebel is the Silverman ('68) Family Career Development Professor and Assistant Professor in the Astrophysics Division of the Physics Department at MIT. Originally from Germany, she received her PhD from the Australian National University's Mt. Stromlo Observatory. Frebel joined the MIT physics faculty in 2012. She has taught Astrophysics and Classical Mechanics, and mentors research students. Her research focuses on the oldest stars in the universe and the early evolution of the chemical elements. Frebel also enjoys communicating science to the public, lately through her popular science book "Searching for the oldest stars: Ancient Relics from the Early Universe".{{< br >}}{{< br >}} 
 
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/readings" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/readings/_index.md" %}}) »

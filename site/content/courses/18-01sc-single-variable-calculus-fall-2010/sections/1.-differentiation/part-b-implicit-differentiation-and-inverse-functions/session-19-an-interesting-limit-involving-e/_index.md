@@ -9,7 +9,7 @@ menu:
     parent: >-
       ea455a8ae7f0daad0b8d5033112f5f5e_part-b-implicit-differentiation-and-inverse-functions
 ---
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-18-derivatives-of-other-exponential-functions" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-20-hyperbolic-trig-functions" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-18-derivatives-of-other-exponential-functions/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-20-hyperbolic-trig-functions/_index.md" %}}) »
 
 Overview
 --------
@@ -34,4 +34,4 @@ Evaluating Interest Using the Limit
 *   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/d32149b689f995816ebabd6214b838fe_MIT18_01SCF10_ex19bprb.pdf "Open in a new window.")
 *   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/8988d219f9ea21f081844df41b649e9e_MIT18_01SCF10_ex19bsol.pdf "Open in a new window.")
 
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-18-derivatives-of-other-exponential-functions" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-20-hyperbolic-trig-functions" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-18-derivatives-of-other-exponential-functions/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-20-hyperbolic-trig-functions/_index.md" %}}) »

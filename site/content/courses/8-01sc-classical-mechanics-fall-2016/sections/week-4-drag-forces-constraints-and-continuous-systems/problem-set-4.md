@@ -8,7 +8,7 @@ menu:
     parent: >-
       919a2c506eb4551d940bb0dbab2356f0_week-4-drag-forces-constraints-and-continuous-systems
 ---
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/14.3-resistive-forces-high-speed-case" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/14.3-resistive-forces-high-speed-case" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse" %}}) »
 
 Problem Set 4 contains the following problems:
 
@@ -21,4 +21,4 @@ Problem Set 4 contains the following problems:
 
 *   [Problem Set 4 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/ff43aae2332b3882ac4a4727301cec56_MIT8_01F16_pset4.pdf)
 
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/14.3-resistive-forces-high-speed-case" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/14.3-resistive-forces-high-speed-case" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse" %}}) »

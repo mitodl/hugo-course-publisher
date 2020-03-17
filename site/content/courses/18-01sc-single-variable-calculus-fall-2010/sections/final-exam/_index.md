@@ -6,7 +6,7 @@ menu:
     identifier: fe839db025a83d5085ecae3d78b54553_final-exam
     weight: 1360
 ---
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-101-conclusion" %}})
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-101-conclusion/_index.md" %}})
 
 Overview
 --------

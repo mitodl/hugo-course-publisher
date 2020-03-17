@@ -7,11 +7,11 @@ menu:
     weight: 1930
     parent: 81eae0fd28f287336b792210ba33dfbb_assignment-5
 ---
-*   [<Detecting Vandalism on Wikipedia]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/detecting-vandalism-on-wikipedia" %}})
-*   [5.5.1Separating Spam from Ham (Part 1)]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5" %}})
-*   [5.5.2Detecting Vandalism on Wikipedia]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/detecting-vandalism-on-wikipedia" %}})
-*   [5.5.3Automating Reviews in Medicine]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/automating-reviews-in-medicine" %}})
-*   [\\>Clustering]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering" %}})
+*   [<Detecting Vandalism on Wikipedia]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/detecting-vandalism-on-wikipedia" %}})
+*   [5.5.1Separating Spam from Ham (Part 1)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5" %}})
+*   [5.5.2Detecting Vandalism on Wikipedia]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/detecting-vandalism-on-wikipedia" %}})
+*   [5.5.3Automating Reviews in Medicine]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/automating-reviews-in-medicine" %}})
+*   [\\>Clustering]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering" %}})
 
 Automating Reviews in Medicine
 ------------------------------
@@ -501,5 +501,5 @@ A false negative might negatively affect the results of the literature review an
 
 CheckShow Answer
 
-*   [BackDetecting Vandalism on Wikipedia]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/detecting-vandalism-on-wikipedia" %}})
-*   [ContinueClustering]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering" %}})
+*   [BackDetecting Vandalism on Wikipedia]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/detecting-vandalism-on-wikipedia" %}})
+*   [ContinueClustering]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering" %}})

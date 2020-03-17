@@ -27,7 +27,7 @@ The primary text for this class is:
 Listening and Reading Assignments
 ---------------------------------
 
-Recordings and some scores for each listening assignment are listed on the [Listening and Scores page]({{% ref "courses/21m-250-beethoven-to-mahler-spring-2014/sections/listening-and-scores" %}}). Weekly reading assignments and musical works covered can be found on the [Readings page]({{% ref "courses/21m-250-beethoven-to-mahler-spring-2014/sections/readings" %}}).
+Recordings and some scores for each listening assignment are listed on the [Listening and Scores page]({{% getpage "courses/21m-250-beethoven-to-mahler-spring-2014/sections/listening-and-scores/_index.md" %}}). Weekly reading assignments and musical works covered can be found on the [Readings page]({{% getpage "courses/21m-250-beethoven-to-mahler-spring-2014/sections/readings" %}}).
 
 ### Recordings
 
@@ -42,8 +42,8 @@ Class Participation
 
 Students are expected to come to each class meeting prepared to participate actively. In addition, all students will be asked to lead the discussions on specific pieces from the assigned listening.
 
-[Written Assignments]({{% ref "courses/21m-250-beethoven-to-mahler-spring-2014/sections/assignments" %}}) 
-----------------------------------------------------------------------------------------------------------
+[Written Assignments]({{% getpage "courses/21m-250-beethoven-to-mahler-spring-2014/sections/assignments" %}}) 
+--------------------------------------------------------------------------------------------------------------
 
 _Concert Reports:_ You will attend three concerts this semester featuring music from the late eighteenth through the late nineteenth centuries and write 2–4 page reports on each experience.
 

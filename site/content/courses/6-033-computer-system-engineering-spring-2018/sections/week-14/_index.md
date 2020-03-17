@@ -18,7 +18,7 @@ Lecture 25: Tor
 5.  Performance
 6.  Summary
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-14/lecture-25-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-14/lecture-25-outline/_index.md" %}})
 
 ### Lecture Slides
 
@@ -32,7 +32,7 @@ Recitation 25: Meltdown
 -----------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Meltdown (PDF)](https://meltdownattack.com/meltdown.pdf)" by M. Lipp, M. Schwarz, et al.
-*   [Meltdown Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-14/meltdown-assignment" %}})
+*   [Meltdown Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-14/meltdown-assignment/_index.md" %}})
 
 Lecture 26: Policy vs. Mechanism
 --------------------------------
@@ -49,7 +49,7 @@ Recitation 26: Trusting Trust
 -----------------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Reflections on Trusting Trust (PDF)](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)" by K. Thomson
-*   [Trusting Trust Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-14/trusting-trust-assignment" %}})
+*   [Trusting Trust Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-14/trusting-trust-assignment/_index.md" %}})
 
 END OF CLASSES
 --------------

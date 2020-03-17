@@ -8,7 +8,7 @@ menu:
     weight: 370
     parent: 8c88ae0417475c6dae97e569853bfd9e_part-a-approximation-and-curve-sketching
 ---
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-27-sketching-graphs-i-polynomials-and-rational-functions" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/problem-set-3" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-27-sketching-graphs-i-polynomials-and-rational-functions/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/problem-set-3/_index.md" %}}) »
 
 Overview
 --------
@@ -35,4 +35,4 @@ Mathlet
 
 [Concave and Convex Mathlet](http://ocw.mit.edu/ans7870/18/18.01SC/f10/mathlets/graphFeatures.html "Open in a new window.")
 
-« [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-27-sketching-graphs-i-polynomials-and-rational-functions" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/problem-set-3" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-27-sketching-graphs-i-polynomials-and-rational-functions/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/problem-set-3/_index.md" %}}) »
