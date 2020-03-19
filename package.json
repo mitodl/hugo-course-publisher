@@ -23,7 +23,7 @@
     "fmt": "LOG_LEVEL= prettier-eslint --write --no-semi 'src/**/*.js' 'src/**/*.scss'",
     "fmt:check": "LOG_LEVEL= prettier-eslint --list-different --no-semi 'src/**/*.js' 'src/**/*.scss'",
     "scss_lint": "node ./node_modules/sass-lint/bin/sass-lint.js --verbose --no-exit ./src",
-    "test": "./scripts/js_test.sh" 
+    "test": "./scripts/js_test.sh"
   },
   "license": "BSD-3-CLAUSE",
   "devDependencies": {
