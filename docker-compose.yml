@@ -8,4 +8,4 @@ services:
       - "3001:3001"
     volumes:
       - .:/usr/share/
-    command: bash -c "yarn install && npm start"
+    command: bash -c "git submodule update --init --recursive && npm install --prefix site/static/pdfjs && yarn install && npm start"
