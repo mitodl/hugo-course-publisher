@@ -1,11 +1,11 @@
 <div class="w-100 h-100">
-  <div id="pdfWrapper_{{ .File.BaseFileName }}" class="w-100 h-100">
+  <div id="pdfWrapper_{{ .Params.uid }}" class="w-100 h-100">
   </div>
   <script type="text/javascript">
     /**
       This is some raw Javascript that requests the PDF that is to be loaded
     */
-    {{- $pdfFunction := safeJS (printf "loadPdf_%s" .File.BaseFileName) -}}
+    {{- $pdfFunction := safeJS (printf "loadPdf_%s" .Params.uid) -}}
     const {{ $pdfFunction }} = () => {
       if (window.XMLHttpRequest) {
         request = new XMLHttpRequest();
@@ -19,7 +19,7 @@
         if (request.status === 200) {
           const file = window.URL.createObjectURL(request.response)
           var viewerUrl = '/pdfjs/web/viewer.html?file=' + encodeURIComponent(file);    
-        document.getElementById("pdfWrapper_{{ .File.BaseFileName }}").innerHTML = '<iframe class="w-100 h-100" frameborder="0" scrolling="yes" seamless="seamless" src='+viewerUrl+'></iframe>'
+        document.getElementById("pdfWrapper_{{ .Params.uid }}").innerHTML = '<iframe class="w-100 h-100" frameborder="0" scrolling="yes" seamless="seamless" src='+viewerUrl+'></iframe>'
         };
       }
     }
