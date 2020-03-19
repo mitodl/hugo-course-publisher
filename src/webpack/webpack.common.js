@@ -7,7 +7,7 @@ const babelSharedLoader = require("../babel_config").babelSharedLoader
 
 module.exports = {
   entry: {
-    main:         ["@babel/polyfill", path.join(__dirname, "..", "index.js")],
+    main: ["@babel/polyfill", path.join(__dirname, "..", "index.js")]
   },
 
   output: {
