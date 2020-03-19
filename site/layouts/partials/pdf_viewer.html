@@ -1,4 +1,12 @@
 <div class="w-100 h-100">
+  <div class="pr-4">
+    <a href="{{ .Params.file_location }}">
+      <div class="btn bg-dark-gray rounded float-right mb-3">
+        <span>DOWNLOAD</span>
+        <div class="ripple-container"></div>
+      </div>
+    </a>
+  </div>
   <div id="pdfWrapper_{{ .Params.uid }}" class="w-100 h-100">
   </div>
   <script type="text/javascript">
