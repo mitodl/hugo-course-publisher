@@ -82,8 +82,8 @@
     "natives": "1.1.6"
   },
   "engines": {
-    "node": "12.13.0",
-    "yarn": "1.19.1"
+    "node": "^12.13.0",
+    "yarn": "^1.19.1"
   },
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.7.0",
@@ -97,7 +97,6 @@
     "jquery": "^3.4.1",
     "material-icons": "^0.3.1",
     "offcanvas-bootstrap": "^2.5.2",
-    "pdfjs-dist": "^2.2.228",
     "popper.js": "^1.16.0",
     "react-bootstrap": "^1.0.0-beta.15",
     "react-hot-loader": "^4.12.17",

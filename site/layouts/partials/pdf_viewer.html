@@ -1,10 +1,4 @@
 <div class="w-100 h-100">
-  {{ $script := .Site.Data.webpack.pdfjs }}
-  {{ if .Site.IsServer }}
-  <script src="{{ print "http://localhost:3001" $script.js }}"></script>
-  {{ else }}
-  <script src="{{ relURL $script.js }}"></script>
-  {{ end }}
   <div id="pdfWrapper_{{ .File.BaseFileName }}" class="w-100 h-100">
   </div>
   <script type="text/javascript">
