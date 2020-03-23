@@ -22,7 +22,7 @@ menu:
 Propositional Logic
 -------------------
 
-There is no video for this section, but [slides on Propositional Logic are available](https://open-learning-course-data.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/b1a164f44644fb42297493763695f0e1_MIT6_042JS16_PropositLogic.pdf).
+There is no video for this section, but [slides on Propositional Logic are available](https://open-learning-course-data-ci.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/b1a164f44644fb42297493763695f0e1_MIT6_042JS16_PropositLogic.pdf).
 
 *   [BackImplies: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/implies-video)
 *   [ContinueSoundness and Validity](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/vertical-ed6030bda119)

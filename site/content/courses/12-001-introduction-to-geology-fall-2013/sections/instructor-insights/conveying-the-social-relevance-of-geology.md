@@ -15,7 +15,7 @@ I take the debates about climate change that students see in the media and put t
 
 When you’re teaching about processes that unfold over billions of years, it can be easy to gloss over geology’s social relevance, because, as an instructor, you’re struggling to cover so much content. Nonetheless, we think it’s very important to do so. One way we do this is by highlighting how humans impact and are impacted by the natural processes that we discuss in the course. We try to do this whenever we have a topic that’s relevant in some way. For example, when discussing landslides, we note how land use influences soil cohesion. Even contemporary anthropogenic climate change becomes relevant in this conversation because we discuss the effects of changes in the precipitation regime on landslide patterns.
 
-![A green crystalline rock hand sample.](https://open-learning-course-data.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/3f18dbaab90b3de9115b20da487f29e8_12-001_conveying2.jpg)  
+![A green crystalline rock hand sample.](https://open-learning-course-data-ci.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/3f18dbaab90b3de9115b20da487f29e8_12-001_conveying2.jpg)  
 
 A rock from the rock identification lab. (Image by MIT OpenCourseWare.)
 

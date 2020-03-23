@@ -29,7 +29,7 @@ menu:
 Quick Question
 --------------
 
-In R, use the dataset [wine (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/314267a9b7ddb86e315b90440aa4f2ad_wine.csv) to create a linear regression model to predict Price using HarvestRain and WinterRain as independent variables. Using the summary output of this model, answer the following questions:
+In R, use the dataset [wine (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/314267a9b7ddb86e315b90440aa4f2ad_wine.csv) to create a linear regression model to predict Price using HarvestRain and WinterRain as independent variables. Using the summary output of this model, answer the following questions:
 
 What is the "Multiple R-squared" value of your model?
 

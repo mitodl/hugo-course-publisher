@@ -38,7 +38,7 @@ Additional variables include **sex **(0 for male, 1 for female), **yob** (year 
 Problem 1.1 - Exploration and Logistic Regression
 -------------------------------------------------
 
-We will first get familiar with the data. Load the CSV file [gerber (CSV - 6.2MB)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/7ec8d2c9bb53ed9f946c98e5f6c9bff2_gerber.csv) into R. What proportion of people in this dataset voted in this election?
+We will first get familiar with the data. Load the CSV file [gerber (CSV - 6.2MB)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/7ec8d2c9bb53ed9f946c98e5f6c9bff2_gerber.csv) into R. What proportion of people in this dataset voted in this election?
 
 Exercise 1
 

@@ -24,7 +24,7 @@ Lecture 23: Network Security and Distributed Denial of Service (DDoS) Attacks
 
 ### Lecture Slides
 
-*   [Lecture 23 Slides: Network Security and DDoS Attacks (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/5d2ed67c1aa3722ee19b338c75d9b490_MIT6_033S18lec23.pdf)
+*   [Lecture 23 Slides: Network Security and DDoS Attacks (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/5d2ed67c1aa3722ee19b338c75d9b490_MIT6_033S18lec23.pdf)
 
 ### Reading
 
@@ -54,7 +54,7 @@ Lecture 24: Bitcoin
 
 ### Lecture Slides
 
-*   [Lecture 24 Slides: Bitcoin (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/9352ca27cdf1d2f9773083aed59ea572_MIT6_033S18lec24.pdf)
+*   [Lecture 24 Slides: Bitcoin (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/9352ca27cdf1d2f9773083aed59ea572_MIT6_033S18lec24.pdf)
 
 ### Reading
 

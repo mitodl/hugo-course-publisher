@@ -29,7 +29,7 @@ Every semester
 The Classroom
 -------------
 
-*   ![A view toward the front of a classroom from over the rows of seats, showing six sliding chalkboards.](https://open-learning-course-data.s3.amazonaws.com/18-06-linear-algebra-spring-2010/c026f62fe19be161c863f65792240870_18-06classroom.jpg)
+*   ![A view toward the front of a classroom from over the rows of seats, showing six sliding chalkboards.](https://open-learning-course-data-ci.s3.amazonaws.com/18-06-linear-algebra-spring-2010/c026f62fe19be161c863f65792240870_18-06classroom.jpg)
     
     ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
     
@@ -54,7 +54,7 @@ var pieData = \[ { value: 15, color: "#DD1E2F" }, { value: 45, color: "#EBB035" 
 Student Information
 -------------------
 
-![182 students took this course when it was offered in Spring 2010.](https://open-learning-course-data.s3.amazonaws.com/18-06-linear-algebra-spring-2010/c24518ecda658185c40c2e5eeb72c7fa_182.png)
+![182 students took this course when it was offered in Spring 2010.](https://open-learning-course-data-ci.s3.amazonaws.com/18-06-linear-algebra-spring-2010/c24518ecda658185c40c2e5eeb72c7fa_182.png)
 
 ### Breakdown by Year
 

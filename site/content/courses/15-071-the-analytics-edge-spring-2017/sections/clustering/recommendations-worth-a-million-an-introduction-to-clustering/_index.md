@@ -29,7 +29,7 @@ menu:
 Video 1: Introduction to Netflix
 --------------------------------
 
-The slides from all videos in this Lecture Sequence can be downloaded here: [Introduction to Clustering (PDF - 1.3MB)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/86fae9fbf6d93ba7eb379c4a6d01cdd3_MIT15_071S17_Unit6_Netflix.pdf).
+The slides from all videos in this Lecture Sequence can be downloaded here: [Introduction to Clustering (PDF - 1.3MB)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/86fae9fbf6d93ba7eb379c4a6d01cdd3_MIT15_071S17_Unit6_Netflix.pdf).
 
 *   [BackWelcome to Unit 6]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/welcome-to-unit-6" %}})
 *   [ContinueQuick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/recommendations-worth-a-million-an-introduction-to-clustering/quick-question-433" %}})

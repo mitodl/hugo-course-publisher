@@ -3,7 +3,9 @@ title: Course Home
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 course_title: Mathematics for Computer Science
 course_image_url: >-
-  https://open-learning-course-data.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/bf5ded2292dd7af14f942dfa6ad4f96c_6-042js15.jpg
+  https://open-learning-course-data-ci.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/bf5ded2292dd7af14f942dfa6ad4f96c_6-042js15.jpg
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/b07562f0da64c024954d8f111ed4641f_6-042js15-th.jpg
 course_image_alternate_text: '6.042 course logo: 4 by 4 square with numbers in each square.'
 course_image_caption_text: >-
   <p>6.042 serves as an introduction to discrete mathematics, probability, and

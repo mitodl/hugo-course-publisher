@@ -24,8 +24,8 @@ Worked Example
 
 Repeated Differentiation of Sine and Cosine
 
-*   [Problem (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/3c591168dbbfee5a8d89fd6cc3daf97e_MIT18_01SCF10_ex12prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/c8a0089e4888f8d7bdef0fdd920c3760_MIT18_01SCF10_ex12sol.pdf "Open in a new window.")
+*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/3c591168dbbfee5a8d89fd6cc3daf97e_MIT18_01SCF10_ex12prb.pdf "Open in a new window.")
+*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/c8a0089e4888f8d7bdef0fdd920c3760_MIT18_01SCF10_ex12sol.pdf "Open in a new window.")
 
 Use the mathlet below to complete the worked example.
 

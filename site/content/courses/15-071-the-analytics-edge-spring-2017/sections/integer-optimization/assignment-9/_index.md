@@ -15,7 +15,7 @@ menu:
 Even' Star Organic Farm Revisited
 ---------------------------------
 
-Last week in the "Even' Star Organic Farm" optional homework problem, we formulated and solved the problem faced by Brett Grohsgal, the founder of the organic farm in southern Maryland. This week, we'll use integer optimization to improve the formulation and model some new decisions faced by Brett. We'll be using the spreadsheet [EvenStarFarmRevisited (ODS)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/6cd223a14aec5eb0c21e45ff237283bb_EvenStarFarmRevisited.ods) for LibreOffice or OpenOffice, and [EvenStarFarmRevisited (XLSX)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/040348f2170d8719fb1874e9a3e484ce_EvenStarFarmRevisited.xlsx) for Microsoft Excel.
+Last week in the "Even' Star Organic Farm" optional homework problem, we formulated and solved the problem faced by Brett Grohsgal, the founder of the organic farm in southern Maryland. This week, we'll use integer optimization to improve the formulation and model some new decisions faced by Brett. We'll be using the spreadsheet [EvenStarFarmRevisited (ODS)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/6cd223a14aec5eb0c21e45ff237283bb_EvenStarFarmRevisited.ods) for LibreOffice or OpenOffice, and [EvenStarFarmRevisited (XLSX)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/040348f2170d8719fb1874e9a3e484ce_EvenStarFarmRevisited.xlsx) for Microsoft Excel.
 
 Problem 1.1 - Adjusting the Formulation
 ---------------------------------------

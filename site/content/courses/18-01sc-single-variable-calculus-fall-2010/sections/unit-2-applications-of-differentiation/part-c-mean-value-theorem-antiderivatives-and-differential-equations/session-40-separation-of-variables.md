@@ -25,8 +25,8 @@ Worked Example
 
 Exponential Growth and Inhibited Growth
 
-*   [Problem (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/3a605920f61fe4414a84e6393c68252c_MIT18_01SCF10_ex40prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/b6a7ab20c45d42729cf511a6c85943de_MIT18_01SCF10_ex40sol.pdf "Open in a new window.")
+*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/3a605920f61fe4414a84e6393c68252c_MIT18_01SCF10_ex40prb.pdf "Open in a new window.")
+*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/b6a7ab20c45d42729cf511a6c85943de_MIT18_01SCF10_ex40sol.pdf "Open in a new window.")
 
 Recitation Video
 ----------------

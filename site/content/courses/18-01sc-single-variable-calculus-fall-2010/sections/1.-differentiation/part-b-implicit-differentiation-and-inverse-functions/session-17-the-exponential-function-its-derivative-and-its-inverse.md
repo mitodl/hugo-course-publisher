@@ -26,8 +26,8 @@ Worked Example
 
 Solving Equations with e and ln
 
-*   [Problem (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/dd69d3c6a003824b372038b310574867_MIT18_01SCF10_ex17prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/579220ae8e0b138fc956ee127c4f9879_MIT18_01SCF10_ex17sol.pdf "Open in a new window.")
+*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/dd69d3c6a003824b372038b310574867_MIT18_01SCF10_ex17prb.pdf "Open in a new window.")
+*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/579220ae8e0b138fc956ee127c4f9879_MIT18_01SCF10_ex17sol.pdf "Open in a new window.")
 
 Lecture Video and Notes
 -----------------------

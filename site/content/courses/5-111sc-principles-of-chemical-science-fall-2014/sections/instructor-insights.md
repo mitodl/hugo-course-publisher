@@ -27,7 +27,7 @@ Course Outcomes
 Instructor Insights
 -------------------
 
-[![Professor Catherine Drennan is talking with the interviewer.](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/9424f038150090d6e022c087f29c0dd3_5-111-video.jpg)](./resolveuid/aa65e776da99be61ed9e993b53369f6b)
+[![Professor Catherine Drennan is talking with the interviewer.](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/9424f038150090d6e022c087f29c0dd3_5-111-video.jpg)](./resolveuid/aa65e776da99be61ed9e993b53369f6b)
 
 In the following videos, Professor Catherine Drennan describes various aspects of how she teaches _5.111 Principles of Chemical Science__._
 
@@ -63,7 +63,7 @@ Every fall and spring semester
 The Classroom
 -------------
 
-*   ![View of lecture hall from back of the classroom. Tiered seating. Chalkboards and lectern at front of room.](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/caf946f3ea491148c5ba9b6d9ce19df8_5.111_1.jpg)
+*   ![View of lecture hall from back of the classroom. Tiered seating. Chalkboards and lectern at front of room.](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/caf946f3ea491148c5ba9b6d9ce19df8_5.111_1.jpg)
     
     ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
     
@@ -71,7 +71,7 @@ The Classroom
     
     Lectures were held in a classroom with a seating capacity of 425 students. The room was equipped with a motorized chalkboard, wireless internet, a projection booth, and a sound system.
     
-*   ![View from front of classroom. Five rows of tablet desks positioned in the center of classroom. Wall of windows to the left of desks.](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/86a6098732e72d99b76ac2b768577413_5.111_2.jpg)
+*   ![View from front of classroom. Five rows of tablet desks positioned in the center of classroom. Wall of windows to the left of desks.](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/86a6098732e72d99b76ac2b768577413_5.111_2.jpg)
     
     [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
     
@@ -98,7 +98,7 @@ var pieData = \[ { value: 54, color: "#DD1E2F" }, { value: 27, color: "#EBB035" 
 Student Information
 -------------------
 
-![325 students took this course when it was offered in Fall 2014.](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/356e7e556832e06b08848a5cb4cc2eb5_325.png)
+![325 students took this course when it was offered in Fall 2014.](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/356e7e556832e06b08848a5cb4cc2eb5_325.png)
 
 ### Breakdown by Year
 

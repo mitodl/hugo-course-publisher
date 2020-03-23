@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/43a0c77ffebf5435c8a8ecf0661d3f16_L18.jpg) | {{< br >}}{{< br >}}*   Wave plates{{< br >}}*   Quarter wave plate{{< br >}}*   Radiation{{< br >}}*   Oscillating charge{{< br >}}*   Dipole radiation{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/43a0c77ffebf5435c8a8ecf0661d3f16_L18.jpg) | {{< br >}}{{< br >}}*   Wave plates{{< br >}}*   Quarter wave plate{{< br >}}*   Radiation{{< br >}}*   Oscillating charge{{< br >}}*   Dipole radiation{{< br >}}{{< br >}} 
 
 Lecture Video: Wave Plates, Radiation
 -------------------------------------
@@ -22,14 +22,14 @@ How do we generate electromagnetic waves? Prof. Lee discusses the answer to this
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 18 (PDF - 2.2MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/a8c9c13943c70ab32b1adf0bd9cb7171_MIT8_03SCF16_Lec18.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 18 (PDF - 2.2MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/a8c9c13943c70ab32b1adf0bd9cb7171_MIT8_03SCF16_Lec18.pdf)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 18 (PDF - 2.2MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/0f828d1317f55ebd29937d36450d7a09_MIT8_03SCF16_hw_Lec18.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 18 (PDF - 2.2MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/0f828d1317f55ebd29937d36450d7a09_MIT8_03SCF16_hw_Lec18.pdf)
 
 Textbook Reading
 ----------------
 
-[Chapter 12: Polarization (PDF - 1.4MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/3346a46cafa9db6b17d5252a33335051_MIT8_03SCF16_Text_Ch12.pdf) (section 12.4 to end) 
+[Chapter 12: Polarization (PDF - 1.4MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/3346a46cafa9db6b17d5252a33335051_MIT8_03SCF16_Text_Ch12.pdf) (section 12.4 to end) 
 
 In-class Demonstrations
 -----------------------

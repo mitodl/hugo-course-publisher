@@ -22,7 +22,7 @@ menu:
 Video 1: Election Prediction
 ----------------------------
 
-The slides from all videos in this Recitation can be downloaded here: [Election Forecasting (PDF)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/c5e5a08506e7cfeb409e08ac8eeaf9b8_MIT15_071S17_Unit3_Recitation.pdf).
+The slides from all videos in this Recitation can be downloaded here: [Election Forecasting (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/c5e5a08506e7cfeb409e08ac8eeaf9b8_MIT15_071S17_Unit3_Recitation.pdf).
 
 Errata in slides:
 

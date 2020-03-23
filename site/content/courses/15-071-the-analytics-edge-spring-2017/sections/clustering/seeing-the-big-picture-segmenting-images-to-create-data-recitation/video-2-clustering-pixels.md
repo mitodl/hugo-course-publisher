@@ -23,9 +23,9 @@ menu:
 Video 2: Clustering Pixels
 --------------------------
 
-In this Recitation, we'll be using the following data files: [flower (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/2d4a0c3fb38591cbaccdce7321b66dba_flower.csv), [healthy (CSV - 3.8MB)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/5347323f17f48b5026056f1b475cce88_healthy.csv), and [tumor (CSV - 2.3MB)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/35a3c0611bd96c7b50dd1da39f0d61fc_tumor.csv). Please download these files to your computer to following along.
+In this Recitation, we'll be using the following data files: [flower (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/2d4a0c3fb38591cbaccdce7321b66dba_flower.csv), [healthy (CSV - 3.8MB)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/5347323f17f48b5026056f1b475cce88_healthy.csv), and [tumor (CSV - 2.3MB)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/35a3c0611bd96c7b50dd1da39f0d61fc_tumor.csv). Please download these files to your computer to following along.
 
-An R script file with all of the commands used in this Recitation can be downloaded here: [Resource Unit6\_Recitation (R)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/baa1351025fe4c21bb35c33fd297e11b_Unit6_Recitation.R).
+An R script file with all of the commands used in this Recitation can be downloaded here: [Resource Unit6\_Recitation (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/baa1351025fe4c21bb35c33fd297e11b_Unit6_Recitation.R).
 
 *   [BackVideo 1: Image Segmentation]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-1-image-segmentation" %}})
 *   [ContinueVideo 3: Hierarchical Clustering]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-3-hierarchical-clustering" %}})

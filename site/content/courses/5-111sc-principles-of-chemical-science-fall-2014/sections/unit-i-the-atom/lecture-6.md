@@ -12,7 +12,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c34c8fe74e0fb8e9ce9f3776157b8c52_Lecture_6.jpg)  | {{< br >}}{{< br >}}1.  Wavefunctions (Orbitals) for the Hydrogen Atom{{< br >}}2.  Shape and Size of S and P Orbitals{{< br >}}3.  Electron Spin and the Pauli Exclusion Principle{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c34c8fe74e0fb8e9ce9f3776157b8c52_Lecture_6.jpg)  | {{< br >}}{{< br >}}1.  Wavefunctions (Orbitals) for the Hydrogen Atom{{< br >}}2.  Shape and Size of S and P Orbitals{{< br >}}3.  Electron Spin and the Pauli Exclusion Principle{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -22,12 +22,12 @@ Where is that electron anyway? In this lecture, the probability of finding an el
 Lecture Notes
 -------------
 
-[Notes for Lecture 6 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/5c828fce769b146e5820a7d6ed0abfc2_MIT5_111F14_Lec6.pdf)
+[Notes for Lecture 6 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/5c828fce769b146e5820a7d6ed0abfc2_MIT5_111F14_Lec6.pdf)
 
 Clicker Questions
 -----------------
 
-[Lecture 6 Clicker Questions (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/367a405162c519738381542066827391_MIT5_111F14_Lec6Clkr.pdf)
+[Lecture 6 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/367a405162c519738381542066827391_MIT5_111F14_Lec6Clkr.pdf)
 
 Textbook Reading
 ----------------
@@ -52,8 +52,8 @@ Ben Ofori-Okai describes his realization that his love of problem-solving in mat
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 6 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/402e94d67af8ba17acf34ff51bae89bc_MIT5_111F14_Lec06Prob.pdf)
+[Problems for Lecture 6 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/402e94d67af8ba17acf34ff51bae89bc_MIT5_111F14_Lec06Prob.pdf)
 
-[Solutions for Lecture 6 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/a22b771edebebdfc73f34b633453b1b5_MIT5_111F14_Lec06Soln.pdf)
+[Solutions for Lecture 6 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/a22b771edebebdfc73f34b633453b1b5_MIT5_111F14_Lec06Soln.pdf)
 
 « [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-5" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-7" %}}) »

@@ -24,9 +24,9 @@ menu:
 Video 2: The Data
 -----------------
 
-In this recitation, Iain will be using the dataset [boston (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/d4332a3056f44e1a1dec9600a31f21c8_boston.csv) to predict housing prices in Boston. Please download this dataset to follow along in this recitation. This data comes from the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php).
+In this recitation, Iain will be using the dataset [boston (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/d4332a3056f44e1a1dec9600a31f21c8_boston.csv) to predict housing prices in Boston. Please download this dataset to follow along in this recitation. This data comes from the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php).
 
-An R script file with all of the R commands used in this recitation can be downloaded here: [Resource Unit4\_Recitation (R)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/07abfd3fd112a229c1bf1dbe9f454d98_Unit4_Recitation.R).
+An R script file with all of the R commands used in this recitation can be downloaded here: [Resource Unit4\_Recitation (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/07abfd3fd112a229c1bf1dbe9f454d98_Unit4_Recitation.R).
 
 *   [BackVideo 1: Boston Housing Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-1-boston-housing-data" %}})
 *   [ContinueVideo 3: Geographical Predictions]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-3-geographical-predictions" %}})

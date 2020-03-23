@@ -13,7 +13,7 @@ In the following TLL Speaker Series lecture video, Dr. Katrina LaCurts describes
 
 [Infusing Active Learning into 6.033 Recitations](./resolveuid/e332984653d9016ba16dadba4b432036)
 
-[![Woman sitting in a room and talking.](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/3e3e4182660665788310c00d2f2f296a_recitation_video-comp.png)](./resolveuid/e332984653d9016ba16dadba4b432036)
+[![Woman sitting in a room and talking.](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/3e3e4182660665788310c00d2f2f296a_recitation_video-comp.png)](./resolveuid/e332984653d9016ba16dadba4b432036)
 
 View by chapter
 
@@ -49,7 +49,7 @@ Every spring semester
 The Classroom
 -------------
 
-*   ![Lecture hall with tiered seating and tablet armchairs.](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/a18d96b321bdfa6708d41f15ddcdbd14_6-033room-comp.jpg)
+*   ![Lecture hall with tiered seating and tablet armchairs.](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/a18d96b321bdfa6708d41f15ddcdbd14_6-033room-comp.jpg)
     
     ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
     
@@ -57,7 +57,7 @@ The Classroom
     
     Lectures took place in a large hall equipped with sliding chalkboards and tiered seating.
     
-*   ![Four rows of tablet armchairs facing sliding chalkboards at front and side of room. An instructor’s table is in front of the chalkboards.](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/f71e947030e0207a655e28d00738d833_room2-comp.jpg)
+*   ![Four rows of tablet armchairs facing sliding chalkboards at front and side of room. An instructor’s table is in front of the chalkboards.](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/f71e947030e0207a655e28d00738d833_room2-comp.jpg)
     
     [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
     
@@ -77,12 +77,12 @@ The students' grades were based on the following activities:
 
 ### Rubrics
 
-A [rubric (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/df7097db2a3753b906cd51adc0ef46a5_MIT6_033S18dpr_rubric.pdf) was used to grade students’ design project final reports.
+A [rubric (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/df7097db2a3753b906cd51adc0ef46a5_MIT6_033S18dpr_rubric.pdf) was used to grade students’ design project final reports.
 
 Student Information
 -------------------
 
-![401 students took this course when it was taught in Spring 2018.](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/ed621a8b454a41243149f292982c273e_401-comp.png)
+![401 students took this course when it was taught in Spring 2018.](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/ed621a8b454a41243149f292982c273e_401-comp.png)
 
 ### Breakdown by Year
 

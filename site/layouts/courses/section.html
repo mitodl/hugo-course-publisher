@@ -8,7 +8,7 @@
         <h2 class="text-uppercase">{{ .Params.course_title }}</h2>
         {{ partial "course_instructor_number.html" . }}
       </div>
-      <img class="w-25 course-image medium-and-below-only img-thumbnail" src="{{ relURL .CurrentSection.Params.course_image_url }}" />
+      <img class="w-25 course-image medium-and-below-only img-thumbnail" src="{{ relURL .CurrentSection.Params.course_thumbnail_image_url }}" />
     </div>
     {{ partial "mobile_nav_toggle.html" . }}
     <h5 class="font-weight-bold pt-2">Course Description</h5>

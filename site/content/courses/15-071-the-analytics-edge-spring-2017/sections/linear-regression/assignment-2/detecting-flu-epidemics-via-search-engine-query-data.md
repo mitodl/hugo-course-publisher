@@ -33,7 +33,7 @@ ILI Data - The [CDC](http://www.cdc.gov/flu/weekly/fluactivitysurv.htm) publishe
 
 Google Search Queries - [Google Trends](http://www.google.com/trends/) allows public retrieval of weekly counts for every query searched by users around the world. For each location, the counts are normalized by dividing the count for each query in a particular week by the total number of online search queries submitted in that location during the week. Then, the values are adjusted to be between 0 and 1.
 
-The csv file [FluTrain (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/0148593d1ffa6dfdc89b468c796b52f3_FluTrain.csv) aggregates this data from January 1, 2004 until December 31, 2011 as follows:
+The csv file [FluTrain (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/0148593d1ffa6dfdc89b468c796b52f3_FluTrain.csv) aggregates this data from January 1, 2004 until December 31, 2011 as follows:
 
 "Week" - The range of dates represented by this observation, in year/month/day format.
 
@@ -184,7 +184,7 @@ CheckShow Answer
 Problem 3.1 - Performance on the Test Set
 -----------------------------------------
 
-The csv file [FluTest.csv](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/7dab7b0643fffe3c60340a93323d2a0a_FluTest.csv) provides the 2012 weekly data of the ILI-related search queries and the observed weekly percentage of ILI-related physician visits. Load this data into a data frame called FluTest.
+The csv file [FluTest.csv](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/7dab7b0643fffe3c60340a93323d2a0a_FluTest.csv) provides the 2012 weekly data of the ILI-related search queries and the observed weekly percentage of ILI-related physician visits. Load this data into a data frame called FluTest.
 
 Normally, we would obtain test-set predictions from the model FluTrend1 using the code
 

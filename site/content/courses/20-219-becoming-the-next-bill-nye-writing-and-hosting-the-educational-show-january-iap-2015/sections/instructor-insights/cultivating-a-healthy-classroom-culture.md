@@ -12,7 +12,7 @@ _Below, Elizabeth Choe and Jaime Goldstein discuss the sense of community that w
 
 **ELIZABETH CHOE:** I was really happy with the sense of community in our classroom. In many discussion-based classes, you get the awkward moment where the teacher says, “Well, what do you guys think about this?” And then there is silence throughout the room. Someone finally talks because they know that they have to, and they just want to get it over with. I suppose it was like that the first few of days in _20.219 Becoming the Next Bill Nye_, but by the end of the course, people were actually contributing in an authentic way. I also noticed that, at the end of the course, they exchanged email addresses and friended each other on Facebook. I don’t think this happens in every class. Jaime, I feel like there was something about your presence in the classroom that really helped facilitate a good sense of community and created a learning environment in which students felt safe to share their ideas.
 
-![Seven students and an instructor sit around a U-shaped table. The instructor is speaking, and several students look in her direction. ](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/e5a87dcde921d5db534153a1d5c4a60c_discussion.jpg)  
+![Seven students and an instructor sit around a U-shaped table. The instructor is speaking, and several students look in her direction. ](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/e5a87dcde921d5db534153a1d5c4a60c_discussion.jpg)  
 
 Students in _20.219 Becoming the Next Bill Nye_ engage in a classroom discussion (Image by MIT OpenCourseWare).
 

@@ -18,6 +18,6 @@ Problem Set 3 contains the following problems:
 5.  Satellite
 6.  A Coin on a Rotating Disk
 
-*   [Problem Set 3 (PDF)](https://open-learning-course-data.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/4b332aab1695e67fdcbc0f4c3924134e_MIT8_01F16_pset3.pdf)
+*   [Problem Set 3 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/4b332aab1695e67fdcbc0f4c3924134e_MIT8_01F16_pset3.pdf)
 
 « [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems" %}}) »

@@ -13,7 +13,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c599ecc6d03cac9c8d9d2bc1f689f625_Lecture_15.jpg)  | {{< br >}}{{< br >}}1.  Thermodynamics{{< br >}}    1.  Bond Energy / Bond Enthalpy (∆HB){{< br >}}    2.  Enthalpies of Reaction (∆Hr){{< br >}}    3.  Methods to Calculate ∆Hr{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c599ecc6d03cac9c8d9d2bc1f689f625_Lecture_15.jpg)  | {{< br >}}{{< br >}}1.  Thermodynamics{{< br >}}    1.  Bond Energy / Bond Enthalpy (∆HB){{< br >}}    2.  Enthalpies of Reaction (∆Hr){{< br >}}    3.  Methods to Calculate ∆Hr{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -23,12 +23,12 @@ Thermodynamics is key to understanding the reactivity of molecules and compounds
 Lecture Notes
 -------------
 
-[Notes for Lecture 15 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/7c3f070789c90eb7c167360cd4fb6677_MIT5_111F14_Lec15.pdf)
+[Notes for Lecture 15 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/7c3f070789c90eb7c167360cd4fb6677_MIT5_111F14_Lec15.pdf)
 
 Clicker Questions
 -----------------
 
-[Lecture 15 Clicker Questions (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/f46735b138b39e097afbd7e969530685_MIT5_111F14_Lec15Clkr.pdf)
+[Lecture 15 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/f46735b138b39e097afbd7e969530685_MIT5_111F14_Lec15Clkr.pdf)
 
 Textbook Reading
 ----------------
@@ -40,9 +40,9 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 15 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/8743a918cbfbd9d79b0fedf0673216cf_MIT5_111F14_Lec15Prob.pdf)
+[Problems for Lecture 15 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/8743a918cbfbd9d79b0fedf0673216cf_MIT5_111F14_Lec15Prob.pdf)
 
-[Solutions for Lecture 15 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/7ecba7d32f4896584db36ab2e1017baf_MIT5_111F14_Lec15Soln.pdf)
+[Solutions for Lecture 15 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/7ecba7d32f4896584db36ab2e1017baf_MIT5_111F14_Lec15Soln.pdf)
 
 Acknowledgement
 ---------------

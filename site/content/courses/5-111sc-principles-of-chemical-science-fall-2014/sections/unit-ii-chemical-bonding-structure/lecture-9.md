@@ -12,7 +12,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/30c821c0166593daa6e1eacf96c4abb3_Lecture_9.jpg)  | {{< br >}}{{< br >}}1.  Periodic Table (continued){{< br >}}    1.  Electronegativity{{< br >}}    2.  Atomic and Ionic Radii and Isoelectronic Atoms{{< br >}}2.  Bonding{{< br >}}    1.  Ionic Bonds{{< br >}}    2.  Covalent Bonding{{< br >}}    3.  Polar Covalent Bonds{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/30c821c0166593daa6e1eacf96c4abb3_Lecture_9.jpg)  | {{< br >}}{{< br >}}1.  Periodic Table (continued){{< br >}}    1.  Electronegativity{{< br >}}    2.  Atomic and Ionic Radii and Isoelectronic Atoms{{< br >}}2.  Bonding{{< br >}}    1.  Ionic Bonds{{< br >}}    2.  Covalent Bonding{{< br >}}    3.  Polar Covalent Bonds{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -22,12 +22,12 @@ In this lecture, we complete the discussion of the periodic table and start to c
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 9 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c7892dbb387cdb86bc27d4dbef21a7cb_MIT5_111F14_Lec9.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Notes for Lecture 9 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c7892dbb387cdb86bc27d4dbef21a7cb_MIT5_111F14_Lec9.pdf)
 
 Clicker Questions
 -----------------
 
-[Lecture 9 Clicker Questions (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/3494ce8b12fe8b0fa1c84433eebdf175_MIT5_111F14_Lec9Clkr.pdf)
+[Lecture 9 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/3494ce8b12fe8b0fa1c84433eebdf175_MIT5_111F14_Lec9Clkr.pdf)
 
 Textbook Reading
 ----------------
@@ -52,9 +52,9 @@ Kateryna Kozyrytska, a female biochemist born in Ukraine, describes how as a sci
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 9 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/04e6d703494dded5582b4b3b30a457b9_MIT5_111F14_Lec09Prob.pdf)
+[Problems for Lecture 9 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/04e6d703494dded5582b4b3b30a457b9_MIT5_111F14_Lec09Prob.pdf)
 
-[Solutions for Lecture 9 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/488ce51f9e12fdbfa09e87faa7cc326a_MIT5_111F14_Lec09Soln.pdf)
+[Solutions for Lecture 9 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/488ce51f9e12fdbfa09e87faa7cc326a_MIT5_111F14_Lec09Soln.pdf)
 
 Acknowledgement
 ---------------

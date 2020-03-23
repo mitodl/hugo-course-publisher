@@ -24,9 +24,9 @@ menu:
 Video 4: Basic Scatterplots Using ggplot
 ----------------------------------------
 
-In the rest of this lecture, we'll be using the data file [WHO (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/00947740049716b36f8ba103a7fb03c4_WHO.csv). Please download this file to your computer, and save it to a location that you will remember. This data comes from the [Global Health Observatory Data Repository](http://apps.who.int/gho/data/node.main). 
+In the rest of this lecture, we'll be using the data file [WHO (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/00947740049716b36f8ba103a7fb03c4_WHO.csv). Please download this file to your computer, and save it to a location that you will remember. This data comes from the [Global Health Observatory Data Repository](http://apps.who.int/gho/data/node.main). 
 
-An R script file with all of the commands used in this lecture can be downloaded here: [Resource Unit7\_WHO (R)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/27fb60c95b9851db49831751f9ccf614_Unit7_WHO.R).
+An R script file with all of the commands used in this lecture can be downloaded here: [Resource Unit7\_WHO (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/27fb60c95b9851db49831751f9ccf614_Unit7_WHO.R).
 
 Colors and shapes in R
 ----------------------
@@ -37,7 +37,7 @@ colors()
 
 All of the available shapes are described in the following image:
 
-![Variety of colors and shapes available in R using ggplot.](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/6a88ce72b6c9709cc7bd95550e3cd349_Shapes.jpg)
+![Variety of colors and shapes available in R using ggplot.](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/6a88ce72b6c9709cc7bd95550e3cd349_Shapes.jpg)
 
 This image comes from [Cookbook for R](http://www.cookbook-r.com/Graphs/Shapes_and_line_types/). License: CC BY-SA. This content is excluded from our Creative Commons license. For more information, see [https://ocw.mit.edu/help/faq-fair-use/](https://ocw.mit.edu/help/faq-fair-use/).
 

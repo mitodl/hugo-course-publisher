@@ -79,15 +79,15 @@ It was so great hearing everyone's "revised" pitches at the beginning of the cla
 
 Hope you all had fun getting to work with the equipment today. I was watching Kenneth and PJ (FYI, Paul is actually a PJ, as I learned today) as they recorded because they stayed in the classroom, and it made me smile that 1) PJ offered the same directorial advice I was about to give ("Try one where you don't emphasize the word 'pizza' too much") and that 2) they tried some creative shots:
 
-![A cameraman taking a photo of two students setting up a camera and tripod.](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/bae617e87850cc5eca4b8c7050f7982d_blog1.jpg)
+![A cameraman taking a photo of two students setting up a camera and tripod.](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/bae617e87850cc5eca4b8c7050f7982d_blog1.jpg)
 
 I can't emphasize enough how awesome it is seeing you all brainstorm and work together-as Josh, Chris, and George have all said before, filmmaking is a process that depends so much on collaboration (I can't imagine teaching this class without them, for instance).
 
-![Two students working together on a computer.](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/7ec77097528e1f0e9e4fe624c8fcd7c8_day5_2.jpg)
+![Two students working together on a computer.](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/7ec77097528e1f0e9e4fe624c8fcd7c8_day5_2.jpg)
 
 It's 4:30 right now and Joshua and Nathan just came back from filming in Nathan's dorm (which, in my opinion, is the coolest one to see at MIT)… so, see? Lots of great things come out of not having to film by yourself:)
 
- ![Two students working together.](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/974254b5197d55126023e7ac3a7292f8_day5_3.jpg)
+ ![Two students working together.](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/974254b5197d55126023e7ac3a7292f8_day5_3.jpg)
 
 Very, very happy with the progress everyone is making, and even more excited to see where'll you all go next week.
 
@@ -126,19 +126,19 @@ Day 9 Thoughts
 
 Today I followed Yuliya / PJ / Kenneth around for a bit as they filmed part of Yuliya's video on fractals in E ast Campus (a dorm nearby, for those of you who are unfamiliar).
 
-![Two students working together.](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/475332e9ecde3d4ab079f6325ddbfdd4_day91.jpg)
+![Two students working together.](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/475332e9ecde3d4ab079f6325ddbfdd4_day91.jpg)
 
 (Just a little creepin' 'round the corner, don't mind me…)
 
 Beyond anything, I am thrilled with how you all are approaching shots, planning, hosting… I heard some great directorial advice from the guys. I know you are working under very tight time constraints and not the greatest equipment, and it's okay if you don't make a YouTube show. What's most important is that you can identify how to make things better / why things work or don't work in video, etc… and from what I'm overhearing, a lot of that is happening.
 
-![Two students working together with a tripod and camera](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ffa1ce4a916322fb1029c540ad7d416a_day9_2.jpg)
+![Two students working together with a tripod and camera](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ffa1ce4a916322fb1029c540ad7d416a_day9_2.jpg)
 
 (Look! PJ's smiling!!)
 
 Then I hopped back over to the classroom, where Ceri was giving a brief tutorial on using the tablets in Illustrator to eventually create simple animations (jumping goats, in Andrea's case). Again, I know there's not a whole lot of time to create sweeping animations, but hopefully this gives you a little taste of some of the video production techniques you can play with long after this class ends.
 
-![Two students working on computers creating an animation.](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/c4311423d395246e3bef043c7361cdb1_day9_3.jpg)
+![Two students working on computers creating an animation.](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/c4311423d395246e3bef043c7361cdb1_day9_3.jpg)
 
 (Smiles from everyone today! Huzzah.)
 

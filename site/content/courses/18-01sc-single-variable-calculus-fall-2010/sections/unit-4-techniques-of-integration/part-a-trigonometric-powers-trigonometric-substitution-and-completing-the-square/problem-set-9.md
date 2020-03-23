@@ -21,7 +21,7 @@ In this session you will:
 Problems Set
 ------------
 
-Use [Integration Techniques (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/598a8927f50810215e7b6de64027e0e7_MIT18_01SC_pset5prb.pdf "Open in a new window.") to do the problems below.
+Use [Integration Techniques (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/598a8927f50810215e7b6de64027e0e7_MIT18_01SC_pset5prb.pdf "Open in a new window.") to do the problems below.
 
 | Section | Topic | Exercises |
 | --- | --- | --- |
@@ -31,7 +31,7 @@ Use [Integration Techniques (PDF)](https://open-learning-course-data.s3.amazonaw
 
 ### Solutions
 
-[Solutions to Integration Techniques problems (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/d4e4321ab77eedd17d29e30bea7d0965_MIT18_01SC_pset5sol.pdf "Open in a new window.")
+[Solutions to Integration Techniques problems (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/d4e4321ab77eedd17d29e30bea7d0965_MIT18_01SC_pset5sol.pdf "Open in a new window.")
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 

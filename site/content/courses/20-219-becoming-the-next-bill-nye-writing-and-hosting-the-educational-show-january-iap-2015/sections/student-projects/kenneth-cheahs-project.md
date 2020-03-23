@@ -81,7 +81,7 @@ Brief summary and trailer or video!
 Day 4 Story Board
 -----------------
 
-![20.219inline1.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/21c75ec98e87be43eb71a1cf0bad8d2b_20.219inline1.jpg)![20.219inline2.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/cbe2a25057a8f12c8ba3929eaca755d7_20.219inline2.jpg)
+![20.219inline1.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/21c75ec98e87be43eb71a1cf0bad8d2b_20.219inline1.jpg)![20.219inline2.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/cbe2a25057a8f12c8ba3929eaca755d7_20.219inline2.jpg)
 
 [\_Link back to Day 4\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
 

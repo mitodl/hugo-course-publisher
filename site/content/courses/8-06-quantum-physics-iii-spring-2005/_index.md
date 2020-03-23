@@ -3,7 +3,9 @@ title: Course Home
 course_id: 8-06-quantum-physics-iii-spring-2005
 course_title: Quantum Physics III
 course_image_url: >-
-  https://open-learning-course-data.s3.amazonaws.com/8-06-quantum-physics-iii-spring-2005/6f396c617216f1b579547f1872052d4a_8-06s05.jpg
+  https://open-learning-course-data-ci.s3.amazonaws.com/8-06-quantum-physics-iii-spring-2005/6f396c617216f1b579547f1872052d4a_8-06s05.jpg
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/8-06-quantum-physics-iii-spring-2005/12adacc87d7849a56827f5cf1bdb1ddf_8-06s05-th.jpg
 course_image_alternate_text: A montage of hand-drawn graphs demonstrating principals of quantum physics.
 course_image_caption_text: >-
   <p>Energy levels in a certain time-dependent three state system with two

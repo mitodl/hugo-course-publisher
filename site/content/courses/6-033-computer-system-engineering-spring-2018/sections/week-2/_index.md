@@ -20,7 +20,7 @@ Lecture 2: Naming in Systems
 
 ### Lecture Slides
 
-*   [Lecture 2 Slides: Naming in Systems (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/953fdb7104378ebb0b69e49f591282f9_MIT6_033S18lec2.pdf)
+*   [Lecture 2 Slides: Naming in Systems (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/953fdb7104378ebb0b69e49f591282f9_MIT6_033S18lec2.pdf)
 
 ### Reading
 
@@ -55,7 +55,7 @@ Lecture 3: Operating Systems + Virtual Memory
 
 ### Lecture Slides
 
-*   [Lecture 3 Slides: Operating Systems + Virtual Memory (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/a73b44311a419a65a9d0b8d04c29495f_MIT6_033S18lec3.pdf)
+*   [Lecture 3 Slides: Operating Systems + Virtual Memory (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/a73b44311a419a65a9d0b8d04c29495f_MIT6_033S18lec3.pdf)
 
 ### Reading
 

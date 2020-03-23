@@ -3,7 +3,9 @@ title: Course Home
 course_id: 18-06-linear-algebra-spring-2010
 course_title: Linear Algebra
 course_image_url: >-
-  https://open-learning-course-data.s3.amazonaws.com/18-06-linear-algebra-spring-2010/862a5bbedf159572528b0f0766d1e611_18-06s10.jpg
+  https://open-learning-course-data-ci.s3.amazonaws.com/18-06-linear-algebra-spring-2010/862a5bbedf159572528b0f0766d1e611_18-06s10.jpg
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/18-06-linear-algebra-spring-2010/e041d7e7fe57acfe0bf2d71a6815db0d_18-06s10-th.jpg
 course_image_alternate_text: 'A photograph of windows in Philadelphia, representing a block matrix.'
 course_image_caption_text: >-
   <p class="instruction">These windows in Philadelphia represent a beautiful

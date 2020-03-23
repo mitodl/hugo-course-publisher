@@ -24,7 +24,7 @@ menu:
 Video 1: The Power of Visualizations
 ------------------------------------
 
-The slides from all videos in this lecture can be downloaded here: [An Introduction to Visualization (PDF)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/81c92311a4e6844e148e18a58d7e3c49_MIT15_071S17_Unit7_WHO.pdf).
+The slides from all videos in this lecture can be downloaded here: [An Introduction to Visualization (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/81c92311a4e6844e148e18a58d7e3c49_MIT15_071S17_Unit7_WHO.pdf).
 
 *   [BackWelcome to Unit 7]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/welcome-to-unit-7" %}})
 *   [ContinueQuick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-505" %}})

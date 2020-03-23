@@ -64,9 +64,9 @@ This video is courtesy of [David Yam](https://www.youtube.com/channel/UCgSZYDkQ8
 Day 4 Storyboard
 ----------------
 
-![David-day4storyboard-1.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/86d973e5b71d75a7feeaff97bb2b03e0_David-day4storyboard-1.jpg)  
+![David-day4storyboard-1.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/86d973e5b71d75a7feeaff97bb2b03e0_David-day4storyboard-1.jpg)  
 
-![David-day4storyboard-2.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/cf66a17e35e4c122dff4d39286042c31_David-day4storyboard-2.jpg)
+![David-day4storyboard-2.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/cf66a17e35e4c122dff4d39286042c31_David-day4storyboard-2.jpg)
 
 Script is written inside per picture.
 

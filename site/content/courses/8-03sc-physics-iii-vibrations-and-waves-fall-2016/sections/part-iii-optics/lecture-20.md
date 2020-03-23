@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c5e75515d2806c73da23bb2d5f3bbc7a_L20.jpg) | {{< br >}}{{< br >}}*   Soap bubble{{< br >}}*   Interference{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c5e75515d2806c73da23bb2d5f3bbc7a_L20.jpg) | {{< br >}}{{< br >}}*   Soap bubble{{< br >}}*   Interference{{< br >}}{{< br >}} 
 
 Lecture Video: Interference, Soap Bubble
 ----------------------------------------
@@ -22,14 +22,14 @@ The phenomena related to interference are discussed in this lecture. Prof. Lee e
 Lecture Notes
 -------------
 
-[Typed Notes for Lecture 20 (PDF)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/35d7a1031761070b67e2362ef67ca7bc_MIT8_03SCF16_Lec20.pdf)
+[Typed Notes for Lecture 20 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/35d7a1031761070b67e2362ef67ca7bc_MIT8_03SCF16_Lec20.pdf)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 20 (PDF - 1.6MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/df878c2fd24e9a337bc0051767d4a697_MIT8_03SCF16_hw_Lec20.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 20 (PDF - 1.6MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/df878c2fd24e9a337bc0051767d4a697_MIT8_03SCF16_hw_Lec20.pdf)
 
 Textbook Reading
 ----------------
 
-[Chapter 13: Interference and Diffraction (PDF - 1.6MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/79c0663b6fc5d0a84a9f453e292ae121_MIT8_03SCF16_Text_Ch13.pdf)
+[Chapter 13: Interference and Diffraction (PDF - 1.6MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/79c0663b6fc5d0a84a9f453e292ae121_MIT8_03SCF16_Text_Ch13.pdf)
 
 Notes:
 
@@ -40,7 +40,7 @@ Notes:
 Problem Set
 -----------
 
-[Problem Set 10 (PDF)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c77a77735dfcb3008b9600d8f4987cbd_MIT8_03SCF16_ProblemSet10.pdf)
+[Problem Set 10 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c77a77735dfcb3008b9600d8f4987cbd_MIT8_03SCF16_ProblemSet10.pdf)
 
 Problem Solving Help Video\*
 ----------------------------

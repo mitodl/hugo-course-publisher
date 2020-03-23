@@ -23,7 +23,7 @@ Lecture 6: Operating Systems Structure + Virtual Machines
 
 ### Lecture Slides
 
-*   [Lecture 6 Slides: Operating Systems Structure + Virtual Machines (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/d52fbcc8c6c3d30c6272c3d414618111_MIT6_033S18lec6.pdf)
+*   [Lecture 6 Slides: Operating Systems Structure + Virtual Machines (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/d52fbcc8c6c3d30c6272c3d414618111_MIT6_033S18lec6.pdf)
 
 ### Reading
 
@@ -58,7 +58,7 @@ Lecture 7: Performance
 
 ### Lecture Slides
 
-*   [Lecture 7 Slides: Performance (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/8b4a97276b4d8408a95798f794d9ac16_MIT6_033S18lec7.pdf)
+*   [Lecture 7 Slides: Performance (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/8b4a97276b4d8408a95798f794d9ac16_MIT6_033S18lec7.pdf)
 
 ### Reading
 

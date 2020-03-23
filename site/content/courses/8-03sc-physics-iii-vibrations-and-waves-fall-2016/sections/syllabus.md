@@ -18,13 +18,13 @@ This course is designed for students who are already familiar with the concepts 
 Course Overview
 ---------------
 
-![Two pendulums coupled by a spring.](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/241d43da46e6ba876f18f5d9f1574018_L4.jpg)
+![Two pendulums coupled by a spring.](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/241d43da46e6ba876f18f5d9f1574018_L4.jpg)
 
 What are vibrations? Many physical systems vibrate or oscillate when something disrupts their equilibrium. Think of what happens when you pull a mass attached to a spring or push a pendulum in a certain direction. The mass bounces up and down. The pendulum swings back and forth. But even these simple phenomena can respond in complicated and counterintuitive ways when subjected to forces known in physics as damping and driving. Combining several pendulums or springs can lead to even more unexpected motions. In this course you will see how physics can describe these motions mathematically.
 
 Extended physical systems that have been made to vibrate, like a string on a guitar, cannot return to their state of equilibrium without exerting forces on the area around them. These forces then lead to the phenomenon of waves, disturbances that propagate through a medium. The vibrating guitar string causes a sound wave to propagate through the medium of the air.
 
-![Two wave forms (red for electric wave and blue for magnetic wave).](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/037fe98f6042aa458d1d69a7a848669c_Lec12.jpg)
+![Two wave forms (red for electric wave and blue for magnetic wave).](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/037fe98f6042aa458d1d69a7a848669c_Lec12.jpg)
 
 Among the most fascinating phenomena examined in the course are electromagnetic (EM) waves. EM waves have many properties similar to the waves we experience in everyday life, but the underlying physics of EM waves is profoundly different. Instead of a local disturbance exerting a force on adjoining regions, changing magnetic fields create electric fields (as quantified by Faraday's Law), and changing electric fields create magnetic fields (as quantified by Maxwell's extension of Ampere's Law).
 
@@ -50,7 +50,7 @@ MIT students spend about 150-200 hours learning Vibrations and Waves in the on-c
 Required Textbook
 -----------------
 
-[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0136656218/ref=nosim/mitopencourse-20) Georgi, Howard. _The Physics of Waves_. Benjamin Cummings, 1992. ISBN: 9780136656210. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Download the book (PDF - 5.5MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/ef731c1b91d77a6db003f6c27e300d25_MIT8_03SCF16_Textbook.pdf) (Courtesy of Howard Georgi. Used with permission.). [Free online version](http://www.people.fas.harvard.edu/~hgeorgi/new.htm) is also available on the author's website.
+[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0136656218/ref=nosim/mitopencourse-20) Georgi, Howard. _The Physics of Waves_. Benjamin Cummings, 1992. ISBN: 9780136656210. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Download the book (PDF - 5.5MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/ef731c1b91d77a6db003f6c27e300d25_MIT8_03SCF16_Textbook.pdf) (Courtesy of Howard Georgi. Used with permission.). [Free online version](http://www.people.fas.harvard.edu/~hgeorgi/new.htm) is also available on the author's website.
 
 Suggested References
 --------------------

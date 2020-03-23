@@ -25,8 +25,8 @@ Worked Example
 
 sin x/(1 − cos x) as x Approaches 0
 
-*   [Problem (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/308a1ff099faf66c4dc14595014a3b2d_MIT18_01SCF10_ex87prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/7d8a36ca15f9a6791ae1f6a08d815f01_MIT18_01SCF10_ex87sol.pdf "Open in a new window.")
+*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/308a1ff099faf66c4dc14595014a3b2d_MIT18_01SCF10_ex87prb.pdf "Open in a new window.")
+*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/7d8a36ca15f9a6791ae1f6a08d815f01_MIT18_01SCF10_ex87sol.pdf "Open in a new window.")
 
 Lecture Video and Notes
 -----------------------

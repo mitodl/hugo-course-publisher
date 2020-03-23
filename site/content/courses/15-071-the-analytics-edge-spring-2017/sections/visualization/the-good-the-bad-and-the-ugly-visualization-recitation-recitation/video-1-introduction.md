@@ -22,7 +22,7 @@ menu:
 Video 1: Introduction
 ---------------------
 
-The slides from all videos in this Recitation can be downloaded here: [Bad vs. Good Visualizations﻿ (PDF)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/e2772a671376cfd33a44edea7e17ebd8_MIT15_071S17_Unit7_Recitation.pdf).
+The slides from all videos in this Recitation can be downloaded here: [Bad vs. Good Visualizations﻿ (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/e2772a671376cfd33a44edea7e17ebd8_MIT15_071S17_Unit7_Recitation.pdf).
 
 *   [BackThe Good, the Bad, and the Ugly: Visualization Recitation (Recitation)]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation" %}})
 *   [ContinueVideo 2: Pie Charts]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-2-pie-charts" %}})

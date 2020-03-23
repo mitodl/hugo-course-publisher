@@ -2,7 +2,10 @@
 title: Course Home
 course_id: 6-033-computer-system-engineering-spring-2018
 course_title: Computer System Engineering
-course_image_url: images/course_image.jpg
+course_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/a79fa5e068ab51b3cf0477c51c15a9b9_6-033s18.png
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/d182605840bd1b8670435fbd9843860e_6-033s18-th.jpg
 course_image_alternate_text: 'Diagram of information between servers. '
 course_image_caption_text: >-
   <p>Diagram of a transaction system which provides atomicity and isolation.

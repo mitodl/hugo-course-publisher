@@ -51,7 +51,7 @@ Part 3: Nugget Workshop and Wrap-up
 
 ### In-class Document
 
-*   [Elizabeth's STEM Nugget Brainstorm: Snot (PDF)](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/3ada2ee80d250e3f1cba3fb4f00205e1_MIT20_219IAP15_Eliz_scrpt.pdf)
+*   [Elizabeth's STEM Nugget Brainstorm: Snot (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/3ada2ee80d250e3f1cba3fb4f00205e1_MIT20_219IAP15_Eliz_scrpt.pdf)
 
 Assignments
 -----------
