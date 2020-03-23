@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/6c9b9fbd24837ada67f5ddc0c9d6284b_L3.jpg) | {{< br >}}{{< br >}}*   Driven oscillators{{< br >}}*   Transient phenomena{{< br >}}*   Resonance{{< br >}}*   Steady state solution{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/6c9b9fbd24837ada67f5ddc0c9d6284b_L3.jpg) | {{< br >}}{{< br >}}*   Driven oscillators{{< br >}}*   Transient phenomena{{< br >}}*   Resonance{{< br >}}*   Steady state solution{{< br >}}{{< br >}} 
 
 Lecture Video: Driven Oscillators, Transient Phenomena, Resonance
 -----------------------------------------------------------------
@@ -22,19 +22,19 @@ Driven damped oscillators is the focus of this lecture. Prof. Lee shows the tran
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 3 (PDF - 1.2MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/d07bffb5150376ad8bc942566f327f1d_MIT8_03SCF16_Lec3.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 3 (PDF - 1.2MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/d07bffb5150376ad8bc942566f327f1d_MIT8_03SCF16_Lec3.pdf)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 3 (PDF - 2.1MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/4e85e86cf413cde384a5df6959f72e79_MIT8_03SCF16_hw_Lec3.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 3 (PDF - 2.1MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/4e85e86cf413cde384a5df6959f72e79_MIT8_03SCF16_hw_Lec3.pdf)
 
 Textbook Reading
 ----------------
 
-[Chapter 2: Forced Oscillation and Resonance (PDF - 1.3MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/782069da3820fc514c10c26ae0c15b01_MIT8_03SCF16_Text_Ch2.pdf) 
+[Chapter 2: Forced Oscillation and Resonance (PDF - 1.3MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/782069da3820fc514c10c26ae0c15b01_MIT8_03SCF16_Text_Ch2.pdf) 
 
 Problem Set
 -----------
 
-[Problem Set 2 (PDF)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/0b2a29348074da9445a2878b4196afbb_MIT8_03SCF16_ProblemSet2.pdf)
+[Problem Set 2 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/0b2a29348074da9445a2878b4196afbb_MIT8_03SCF16_ProblemSet2.pdf)
 
 Problem Solving Help Video\*
 ----------------------------

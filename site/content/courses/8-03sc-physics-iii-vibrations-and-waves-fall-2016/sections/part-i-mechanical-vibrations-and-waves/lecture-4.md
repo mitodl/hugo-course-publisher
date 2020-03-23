@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/241d43da46e6ba876f18f5d9f1574018_L4.jpg) | {{< br >}}{{< br >}}*   Coupled oscillators{{< br >}}*   Normal modes{{< br >}}*   Multibody system{{< br >}}*   Transient behavior{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/241d43da46e6ba876f18f5d9f1574018_L4.jpg) | {{< br >}}{{< br >}}*   Coupled oscillators{{< br >}}*   Normal modes{{< br >}}*   Multibody system{{< br >}}*   Transient behavior{{< br >}}{{< br >}} 
 
 Lecture Video: Coupled Oscillators, Normal Modes
 ------------------------------------------------
@@ -22,14 +22,14 @@ Prof. Lee analyzes a highly symmetric system which contains multiple objects. By
 Lecture Notes
 -------------
 
-[Typed Notes for Lecture 4 (PDF)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/b4f512207b1e991ffdfa8df5f519b6eb_MIT8_03SCF16_Lec4.pdf)
+[Typed Notes for Lecture 4 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/b4f512207b1e991ffdfa8df5f519b6eb_MIT8_03SCF16_Lec4.pdf)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 4 (PDF - 2.7MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/5a83889a35493aa86b02f7ffc7c73dd3_MIT8_03SCF16_hw_Lec4.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 4 (PDF - 2.7MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/5a83889a35493aa86b02f7ffc7c73dd3_MIT8_03SCF16_hw_Lec4.pdf)
 
 Textbook Reading
 ----------------
 
-[Chapter 3: Normal Modes (PDF - 1.4MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/29afe7e96aadefce1bd80486771aeae9_MIT8_03SCF16_Text_Ch3.pdf) 
+[Chapter 3: Normal Modes (PDF - 1.4MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/29afe7e96aadefce1bd80486771aeae9_MIT8_03SCF16_Text_Ch3.pdf) 
 
 In-class Demonstrations
 -----------------------

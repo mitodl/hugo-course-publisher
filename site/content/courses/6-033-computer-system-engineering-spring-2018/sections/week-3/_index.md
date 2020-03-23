@@ -25,7 +25,7 @@ Lecture 4: Bounded Buffers + Locks
 
 ### Lecture Slides
 
-*   [Lecture 4 Slides: Bounded Buffers + Locks (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/6c21c6d50181dc3406c1e988f60b8e24_MIT6_033S18lec4.pdf)
+*   [Lecture 4 Slides: Bounded Buffers + Locks (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/6c21c6d50181dc3406c1e988f60b8e24_MIT6_033S18lec4.pdf)
 
 ### Reading
 
@@ -47,7 +47,7 @@ Lecture 5: Threads
 
 ### Lecture Slides
 
-*   [Lecture 5 Slides: Threads (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/d536852c8694227d8a220b4f55905207_MIT6_033S18lec5.pdf)
+*   [Lecture 5 Slides: Threads (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/d536852c8694227d8a220b4f55905207_MIT6_033S18lec5.pdf)
 
 ### Reading
 
@@ -62,11 +62,11 @@ Recitation 5: UNIX
 Tutorial 3: Design Project Discussion
 -------------------------------------
 
-Read the [Design Project Overview (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/d0c9f5a952353e8d1757fbb2c66bef51_MIT6_033S18dp.pdf), [Design Project FAQ (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/64c76f726de3a311cd25009c4ea1e872_MIT6_033S18dp_faq.pdf), and [Design Project Errata (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/4459543a5a163192772e26bf814e1461_MIT6_033S18dp_errata.pdf).
+Read the [Design Project Overview (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/d0c9f5a952353e8d1757fbb2c66bef51_MIT6_033S18dp.pdf), [Design Project FAQ (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/64c76f726de3a311cd25009c4ea1e872_MIT6_033S18dp_faq.pdf), and [Design Project Errata (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/4459543a5a163192772e26bf814e1461_MIT6_033S18dp_errata.pdf).
 
 The primary assignment in 6.033 is the design project. This project is where the students get to design their own system, which is the primary objective of this course. See the [Design Project]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/design-project" %}}) section for detailed information.
 
 Design Project Preliminary Report (DPPR) Assignment
 ---------------------------------------------------
 
-*   Assigned: [Design Project Preliminary Report (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/85b670dd8de4dbf6b591b48baa5d9789_MIT6_033S18dppr_writing.pdf)
+*   Assigned: [Design Project Preliminary Report (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/85b670dd8de4dbf6b591b48baa5d9789_MIT6_033S18dppr_writing.pdf)

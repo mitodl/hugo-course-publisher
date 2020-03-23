@@ -25,7 +25,7 @@ Knowing the competitive nature of the recording industry, record labels face the
   
 How can we use analytics to predict the popularity of a song? In this assignment, we challenge ourselves to predict whether a song will reach a spot in the Top 10 of the Billboard Hot 100 Chart.
 
-Taking an analytics approach, we aim to use information about a song's properties to predict its popularity. The dataset [songs (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/0657f55b10c097853d2bee6e5186764d_songs.csv) consists of all songs which made it to the Top 10 of the Billboard Hot 100 Chart from 1990-2010 plus a sample of additional songs that didn't make the Top 10. This data comes from three sources: [Wikipedia](http://en.wikipedia.org/wiki/Billboard_Hot_100), [Billboard.com](http://www.billboard.com/), and [EchoNest](https://en.wikipedia.org/wiki/The_Echo_Nest).
+Taking an analytics approach, we aim to use information about a song's properties to predict its popularity. The dataset [songs (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/0657f55b10c097853d2bee6e5186764d_songs.csv) consists of all songs which made it to the Top 10 of the Billboard Hot 100 Chart from 1990-2010 plus a sample of additional songs that didn't make the Top 10. This data comes from three sources: [Wikipedia](http://en.wikipedia.org/wiki/Billboard_Hot_100), [Billboard.com](http://www.billboard.com/), and [EchoNest](https://en.wikipedia.org/wiki/The_Echo_Nest).
 
 The variables included in the dataset either describe the artist or the song, or they are associated with the following song attributes: time signature, loudness, key, pitch, tempo, and timbre.
 

@@ -22,7 +22,7 @@ menu:
 Implies
 -------
 
-There is no video for this section, but [slides from the video are available](https://open-learning-course-data.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/6b4b295b00280e95f91b359b3449920b_MIT6_042JS16_Implies.pdf).
+There is no video for this section, but [slides from the video are available](https://open-learning-course-data-ci.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/6b4b295b00280e95f91b359b3449920b_MIT6_042JS16_Implies.pdf).
 
 *   [BackEquivalence and Truth Table](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/vertical-b8b2711c0ce8)
 *   [ContinuePropositional Logic: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/propositional-logic-video)

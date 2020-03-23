@@ -25,7 +25,7 @@ Brett has a limited amount of produce that he can sell each season, and he needs
 Problem 1.1 - Formulating the Problem
 -------------------------------------
 
-Let's formulate Brett's problem as a linear optimization problem. The spreadsheet [EvenStarFarm (ODS)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/76d937c2e04ad2de53f9c971328b5f0e_EvenStarFarm.ods) for LibreOffice or OpenOffice, and [EvenStarFarm (XLSX)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/0dfaed12f92d54696c28596520d801a4_EvenStarFarm.xlsx) for Microsoft Excel, contains the data for the problem, and has set up the decision variables and objective for you.
+Let's formulate Brett's problem as a linear optimization problem. The spreadsheet [EvenStarFarm (ODS)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/76d937c2e04ad2de53f9c971328b5f0e_EvenStarFarm.ods) for LibreOffice or OpenOffice, and [EvenStarFarm (XLSX)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/0dfaed12f92d54696c28596520d801a4_EvenStarFarm.xlsx) for Microsoft Excel, contains the data for the problem, and has set up the decision variables and objective for you.
 
 The **decision variables** in our problem are the number of cases of each type of produce to sell in each channel (there are 24 decision variables). They are highlighted in yellow in the spreadsheet.
 

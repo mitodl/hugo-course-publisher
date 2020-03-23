@@ -12,7 +12,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/333472e016823ba04bd206c343eadd0f_Lecture_12.jpg)  | {{< br >}}{{< br >}}1.  The Shapes of Molecules: VSEPR Theory{{< br >}}    1.  Molecules _without_ Lone Pairs{{< br >}}    2.  Molecules _with_ Lone Pairs{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/333472e016823ba04bd206c343eadd0f_Lecture_12.jpg)  | {{< br >}}{{< br >}}1.  The Shapes of Molecules: VSEPR Theory{{< br >}}    1.  Molecules _without_ Lone Pairs{{< br >}}    2.  Molecules _with_ Lone Pairs{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -22,12 +22,12 @@ Valence shell electron pair repulsion or VSEPR theory can be used to predict mol
 Lecture Notes
 -------------
 
-[Notes for Lecture 12 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/223a7ba20d794cb1e06b8b02484d58e9_MIT5_111F14_Lec12.pdf)
+[Notes for Lecture 12 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/223a7ba20d794cb1e06b8b02484d58e9_MIT5_111F14_Lec12.pdf)
 
 Clicker Questions
 -----------------
 
-[Lecture 12 Clicker Questions (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/6d3fd6f24c033953c1808d24d97b9524_MIT5_111F14_Lec12Clkr.pdf)
+[Lecture 12 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/6d3fd6f24c033953c1808d24d97b9524_MIT5_111F14_Lec12Clkr.pdf)
 
 Textbook Reading
 ----------------
@@ -51,8 +51,8 @@ Stefanie Sydlik describes how an exciting “Take Your Daughter to Work Day” c
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 12 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/1cbd6f0a17e0c77bea81c30d1be7bfbd_MIT5_111F14_Lec12Prob.pdf)
+[Problems for Lecture 12 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/1cbd6f0a17e0c77bea81c30d1be7bfbd_MIT5_111F14_Lec12Prob.pdf)
 
-[Solutions for Lecture 12 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/cbc43098cae7a73207c630760460c080_MIT5_111F14_Lec12Soln.pdf)
+[Solutions for Lecture 12 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/cbc43098cae7a73207c630760460c080_MIT5_111F14_Lec12Soln.pdf)
 
 « [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-11" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-13" %}}) »

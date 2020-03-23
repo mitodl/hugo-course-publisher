@@ -56,7 +56,7 @@ Shop Training
 
 In order to familiarize yourselves with the shop equipment and prepare for a future lab, you will have the task of cutting wood and drilling pilot holes in it using a variety of tools. The stock you will have to work from is a 1" x 6" piece of wood that is 8 feet long. In teams of two, you will have to make: one 1" x 6" x 20 cm piece with notches, two 1" x 1" x 30 cm pieces, and one 1" x 1" x 20 cm piece and then drill pilot holes in them. Keep a list of the tools that you are using.
 
-![Schematic with dimensions for four pieces of wood.](https://open-learning-course-data.s3.amazonaws.com/ec-711-d-lab-energy-spring-2011/08ed6e0e2453a588061c56128dd14d5d_lab1s11.jpg)
+![Schematic with dimensions for four pieces of wood.](https://open-learning-course-data-ci.s3.amazonaws.com/ec-711-d-lab-energy-spring-2011/08ed6e0e2453a588061c56128dd14d5d_lab1s11.jpg)
 
 Woodworking design for shop training.
 

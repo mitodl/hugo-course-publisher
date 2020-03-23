@@ -42,7 +42,7 @@ Cue music that is catchy and upbeat.
 
 Zoom in on drawing of a young girl with braces on, looking a bit awkward.
 
-![20.219projects.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/182713a04805d0b537a73837f06c2b75_20.219projects.jpg)
+![20.219projects.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/182713a04805d0b537a73837f06c2b75_20.219projects.jpg)
 
 Cut to Andrea with same expression on face.
 
@@ -155,13 +155,13 @@ Engineers from MIT are taking advantage of the properties of osteoblasts to come
 Day 4 Storyboard
 ----------------
 
-![AndreaDesrosiers-day4storyboard-1.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/54725ae5a468ae4378f2f32beb0dc68f_AndreaDesrosiers-day4storyboard-1.jpg)
+![AndreaDesrosiers-day4storyboard-1.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/54725ae5a468ae4378f2f32beb0dc68f_AndreaDesrosiers-day4storyboard-1.jpg)
 
- ![AndreaDesrosiers-day4storyboard-2.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/6ec8e744c12061b5c3cf03197da8ddfc_AndreaDesrosiers-day4storyboard-2.jpg)
+ ![AndreaDesrosiers-day4storyboard-2.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/6ec8e744c12061b5c3cf03197da8ddfc_AndreaDesrosiers-day4storyboard-2.jpg)
 
-![AndreaDesrosiers-day4storyboard-3.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/150fd516a18e0e654cf63a1279e1b646_AndreaDesrosiers-day4storyboard-3.jpg)
+![AndreaDesrosiers-day4storyboard-3.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/150fd516a18e0e654cf63a1279e1b646_AndreaDesrosiers-day4storyboard-3.jpg)
 
-![AndreaDesrosiers-day4storyboard-4.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/3a0a94874e8937e3c2aa7335f82a6374_AndreaDesrosiers-day4storyboard-4.jpg)
+![AndreaDesrosiers-day4storyboard-4.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/3a0a94874e8937e3c2aa7335f82a6374_AndreaDesrosiers-day4storyboard-4.jpg)
 
 [\_Link back to Day 4\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
 

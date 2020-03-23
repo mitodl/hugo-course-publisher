@@ -24,7 +24,7 @@ Lecture 19: Availability via Replication
 
 ### Lecture Slides
 
-*   [Lecture 19 Slides: Atomicity via Logging (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/f45114b12a920d47c39c6a05bcff1d93_MIT6_033S18lec19.pdf)
+*   [Lecture 19 Slides: Atomicity via Logging (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/f45114b12a920d47c39c6a05bcff1d93_MIT6_033S18lec19.pdf)
 
 ### Reading
 
@@ -52,7 +52,7 @@ Lecture 20: Introduction to Security
 
 ### Lecture Slides
 
-*   [Lecture 20 Slides: Introduction to Security (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/d2e877f5f48f5bd23165bb00019aae3c_MIT6_033S18lec20.pdf)
+*   [Lecture 20 Slides: Introduction to Security (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/d2e877f5f48f5bd23165bb00019aae3c_MIT6_033S18lec20.pdf)
 
 ### Reading
 
@@ -64,9 +64,9 @@ Recitation 20: \[No Recitation\]
 Tutorial 11: Design Project Peer Review
 ---------------------------------------
 
-The focus of Tutorial 11 is peer review. You will read some portions of another team’s final design report (DPR) and offer feedback and insight. First, complete the [Preparation for Tutorial 11 (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/8629414d8632d339456d462db58df623_MIT6_033S18tut11.pdf). Then, take a look at the [Peer Review Assignment (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/9bd90745a042ceba8945da6d7daceb49_MIT6_033S18_DP_PeerReview.pdf). See the [Design Project]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/design-project" %}}) section for more information.
+The focus of Tutorial 11 is peer review. You will read some portions of another team’s final design report (DPR) and offer feedback and insight. First, complete the [Preparation for Tutorial 11 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/8629414d8632d339456d462db58df623_MIT6_033S18tut11.pdf). Then, take a look at the [Peer Review Assignment (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/9bd90745a042ceba8945da6d7daceb49_MIT6_033S18_DP_PeerReview.pdf). See the [Design Project]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/design-project" %}}) section for more information.
 
 Design Project (DP) Peer Review Assignment
 ------------------------------------------
 
-*   Assigned: [Design Project (DP) Peer Review Assignment (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/9bd90745a042ceba8945da6d7daceb49_MIT6_033S18_DP_PeerReview.pdf)
+*   Assigned: [Design Project (DP) Peer Review Assignment (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/9bd90745a042ceba8945da6d7daceb49_MIT6_033S18_DP_PeerReview.pdf)

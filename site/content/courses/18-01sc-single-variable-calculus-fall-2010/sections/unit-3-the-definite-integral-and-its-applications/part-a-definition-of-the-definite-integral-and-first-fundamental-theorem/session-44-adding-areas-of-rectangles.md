@@ -30,7 +30,7 @@ Worked Example
 
 Summation
 
-*   [Problem (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/415b05e2291da2d2a2ebe4250f8544a7_MIT18_01SCF10_ex44prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/0bc1cc1eb12dc56901b80073959a100d_MIT18_01SCF10_ex44sol.pdf "Open in a new window.")
+*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/415b05e2291da2d2a2ebe4250f8544a7_MIT18_01SCF10_ex44prb.pdf "Open in a new window.")
+*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/0bc1cc1eb12dc56901b80073959a100d_MIT18_01SCF10_ex44sol.pdf "Open in a new window.")
 
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-43-definite-integrals" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-45-some-easy-integrals" %}}) »

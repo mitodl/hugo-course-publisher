@@ -29,7 +29,7 @@ Worked Example
 
 Quotient Rule Practice
 
-*   [Problem (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/7f48447afdcb22803f568bf5653707c5_MIT18_01SCF10_ex10prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/52f9d8dc2dd679f9b04aad2d581ac7b7_MIT18_01SCF10_ex10sol.pdf "Open in a new window.")
+*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/7f48447afdcb22803f568bf5653707c5_MIT18_01SCF10_ex10prb.pdf "Open in a new window.")
+*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/52f9d8dc2dd679f9b04aad2d581ac7b7_MIT18_01SCF10_ex10sol.pdf "Open in a new window.")
 
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule" %}}) »

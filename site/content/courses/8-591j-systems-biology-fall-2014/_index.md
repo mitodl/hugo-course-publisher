@@ -3,7 +3,9 @@ title: Course Home
 course_id: 8-591j-systems-biology-fall-2014
 course_title: Systems Biology
 course_image_url: >-
-  https://open-learning-course-data.s3.amazonaws.com/8-591j-systems-biology-fall-2014/5a4e655e52f45f37185ad3d45fa4e667_8-591jf14.jpg
+  https://open-learning-course-data-ci.s3.amazonaws.com/8-591j-systems-biology-fall-2014/5a4e655e52f45f37185ad3d45fa4e667_8-591jf14.jpg
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/8-591j-systems-biology-fall-2014/56a6730f20aa1be188fac289b0a92dbe_8-591jf14-th.jpg
 course_image_alternate_text: >-
   A neutrophil, shown as a large irregularly-shaped blue-gray cell, wrapping
   around pink oval-shaped Klebsiella pneumoniae bacteria.

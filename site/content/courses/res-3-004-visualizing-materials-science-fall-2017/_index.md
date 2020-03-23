@@ -2,7 +2,10 @@
 title: Course Home
 course_id: res-3-004-visualizing-materials-science-fall-2017
 course_title: Visualizing Materials Science
-course_image_url: images/course_image.jpg
+course_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/75b0d8cbdd3a25e71146523499c3975c_RES_3_004F17.jpg
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/res-3-004-visualizing-materials-science-fall-2017/39ed41689c07aab102006483711fa96c_RES_3_004F17-th.jpg
 course_image_alternate_text: Three close up images of the larger diffracted image also pictured.
 course_image_caption_text: >-
   <p>Interactive simulation of selected-area diffraction.  The information from

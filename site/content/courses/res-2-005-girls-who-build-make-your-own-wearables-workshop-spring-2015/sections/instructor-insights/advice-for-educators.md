@@ -14,7 +14,7 @@ When You Don’t Work at Lincoln Laboratory
 
 Some educators might be curious about how to adapt this workshop without access to a facility like the MIT Lincoln Laboratory. In Massachusetts, we’re very lucky to have a lot of maker workshops. These facilities can be very useful for a workshop like _Make Your Own Wearables_. For 3D printing, you can pay a fee, bring your CAD file, and [MakerBot](http://www.makerbot.com/) will print it for you. Sometimes public libraries also have 3D printers. The coding and circuits are pretty easy to do if you have a laptop. The whole kit, available through [Adafruit](http://www.adafruit.com/categories), costs less than $40 and the Arduino board is only $25.
 
-![Three young women examine a 3D printed model of the Eiffel Tower.](https://open-learning-course-data.s3.amazonaws.com/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/cd9e1ad91469e6fa4401b9d25dbdf285_RES-2-005_photo-28.jpg)
+![Three young women examine a 3D printed model of the Eiffel Tower.](https://open-learning-course-data-ci.s3.amazonaws.com/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/cd9e1ad91469e6fa4401b9d25dbdf285_RES-2-005_photo-28.jpg)
 
 Workshop participants explore 3D printing. Image courtesy of Jon Barron, MIT Lincoln Lab.
 

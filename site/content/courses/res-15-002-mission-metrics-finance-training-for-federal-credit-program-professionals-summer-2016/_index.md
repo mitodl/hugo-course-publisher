@@ -3,7 +3,10 @@ title: Course Home
 course_id: >-
   res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016
 course_title: 'Mission & Metrics: Finance Training for Federal Credit Program Professionals'
-course_image_url: images/course_image.jpg
+course_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/fae8027142b3a1e4fe8652f19fc47b1b_res-15-002sum16.jpg
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/a2966d295e0cc778dd0dc279fcf51c48_res-15-002sum16-th.jpg
 course_image_alternate_text: Building with ionic columns and large dome shown from a grassy courtyard.
 course_image_caption_text: >-
   <p>Seen from Killian Court, The Great Dome of the Massachusetts Institute of

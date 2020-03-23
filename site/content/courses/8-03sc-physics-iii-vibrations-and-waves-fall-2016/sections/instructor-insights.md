@@ -50,7 +50,7 @@ Every fall and spring semester
 The Classroom
 -------------
 
-*   ![Tiered lecture seats facing three sets of sliding chalkboards. A large window on the left wall.](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/5e8287803ae25e62ff080c7d060d1985_classroom-1.jpg)
+*   ![Tiered lecture seats facing three sets of sliding chalkboards. A large window on the left wall.](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/5e8287803ae25e62ff080c7d060d1985_classroom-1.jpg)
     
     ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
     
@@ -58,7 +58,7 @@ The Classroom
     
     Lectures were held in a classroom with tiered seating, sliding chalkboards, an AV system, and an assisted listening device.
     
-*   ![4 rows of white tables and black chairs facing a 2 sets of sliding chalkboards. A window on the left wall.](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c4535f42b05545c4ef20fd941da57d4f_classroom-2.jpeg)
+*   ![4 rows of white tables and black chairs facing a 2 sets of sliding chalkboards. A window on the left wall.](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c4535f42b05545c4ef20fd941da57d4f_classroom-2.jpeg)
     
     [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
     
@@ -85,7 +85,7 @@ var pieData = \[ { value: 25, color: "#DD1E2F" }, { value: 20, color: "#EBB035" 
 Student Information
 -------------------
 
-![71 students took this course when it was offered in Fall 2016.](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c2819975db4d32ae8b7d407fb08527b9_71.png)
+![71 students took this course when it was offered in Fall 2016.](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c2819975db4d32ae8b7d407fb08527b9_71.png)
 
 ### Breakdown by Year
 

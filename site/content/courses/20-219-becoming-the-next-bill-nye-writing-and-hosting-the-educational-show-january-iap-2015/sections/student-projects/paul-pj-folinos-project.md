@@ -100,9 +100,9 @@ The actual prototype is being thought of / designed. This subdivided "barge" WIL
 Day 4 Storyboard
 ----------------
 
-![Folino-day4storyboard-1.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/95bee45fc7d0de0d68c7a0e2f13ea13b_Folino-day4storyboard-1.jpg)
+![Folino-day4storyboard-1.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/95bee45fc7d0de0d68c7a0e2f13ea13b_Folino-day4storyboard-1.jpg)
 
-![Folino-day4storyboard-2.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/7541c31ad8c8ba1b47944707325cfbf2_Folino-day4storyboard-2.jpg)
+![Folino-day4storyboard-2.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/7541c31ad8c8ba1b47944707325cfbf2_Folino-day4storyboard-2.jpg)
 
 I am still refining the script.
 

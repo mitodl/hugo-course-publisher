@@ -25,7 +25,7 @@ Lecture 10: Networking: Routing (BGP)
 
 ### Lecture Slides
 
-*   [Lecture 10 Slides: Networking: Routing (BGP) (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/13cb1376fba2b7bad3d717c0d2991531_MIT6_033S18lec10.pdf)
+*   [Lecture 10 Slides: Networking: Routing (BGP) (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/13cb1376fba2b7bad3d717c0d2991531_MIT6_033S18lec10.pdf)
 
 ### Reading
 
@@ -58,7 +58,7 @@ Lecture 11: Transport Layer
 
 ### Lecture Slides
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 11 Slides: Transport Layer (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/d071f3da1e8e5b646e220525783eb2ba_MIT6_033S18lec11.pdf)
+*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 11 Slides: Transport Layer (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/d071f3da1e8e5b646e220525783eb2ba_MIT6_033S18lec11.pdf)
 
 ### Reading
 
@@ -74,4 +74,4 @@ Recitation 11: Resilient Overlay Networks (RON)
 Tutorial 6: Assembling the Design Project Preliminary Report
 ------------------------------------------------------------
 
-The [Design Project Preliminary Report (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/85b670dd8de4dbf6b591b48baa5d9789_MIT6_033S18dppr_writing.pdf) was assigned in [Week 3.]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-3" %}}) The preliminary report for the design project will be evaluated by your Recitation Instructor and your Communication Instructor. Your Communication Instructor will evaluate it according to the grading rubric and assign a letter grade. Your Recitation Instructor will evaluate the preliminary report to make sure your design is on the right track; you should incorporate their feedback into the presentation and report. See the [Design Project]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/design-project" %}}) section for more details.
+The [Design Project Preliminary Report (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/85b670dd8de4dbf6b591b48baa5d9789_MIT6_033S18dppr_writing.pdf) was assigned in [Week 3.]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-3" %}}) The preliminary report for the design project will be evaluated by your Recitation Instructor and your Communication Instructor. Your Communication Instructor will evaluate it according to the grading rubric and assign a letter grade. Your Recitation Instructor will evaluate the preliminary report to make sure your design is on the right track; you should incorporate their feedback into the presentation and report. See the [Design Project]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/design-project" %}}) section for more details.

@@ -109,7 +109,7 @@ And that's how we find stuff better. Not a just little bit better but a lot bett
 Day 4 Storyboard
 ----------------
 
-![Joshua-Cheong---day-4-story.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/9533ce827a08ebf869307baf309a7813_Joshua-Cheong---day-4-story.jpg)  
+![Joshua-Cheong---day-4-story.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/9533ce827a08ebf869307baf309a7813_Joshua-Cheong---day-4-story.jpg)  
 
 [\_Link back to Day 4\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
 

@@ -25,8 +25,8 @@ Worked Example
 
 Substitution Practice
 
-*   [Problem (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/71d5270dd19cc8a0de7a3cf60d12c874_MIT18_01SCF10_ex72prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/9f237b024ea01e7c287fd426785d87f7_MIT18_01SCF10_ex72sol.pdf "Open in a new window.")
+*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/71d5270dd19cc8a0de7a3cf60d12c874_MIT18_01SCF10_ex72prb.pdf "Open in a new window.")
+*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/9f237b024ea01e7c287fd426785d87f7_MIT18_01SCF10_ex72sol.pdf "Open in a new window.")
 
 Recitation Video
 ----------------

@@ -22,7 +22,7 @@ menu:
 Video 1: Introduction to The Analytics Edge
 -------------------------------------------
 
-The slides from all videos in this Lecture Sequence can be downloaded here: [Introduction to the Analytics Edge (PDF)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/9e84c60ff05f5ad6c2be78008f392422_MIT15_071S17_Unit1_AnalyticsEdgeIntro.pdf).
+The slides from all videos in this Lecture Sequence can be downloaded here: [Introduction to the Analytics Edge (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/9e84c60ff05f5ad6c2be78008f392422_MIT15_071S17_Unit1_AnalyticsEdgeIntro.pdf).
 
 *   [BackWelcome to Unit 1]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/welcome-to-unit-1" %}})
 *   [ContinueVideo 2: Example 1 - IBM Watson]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-2-example-1-ibm-watson" %}})

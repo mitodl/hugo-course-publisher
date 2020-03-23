@@ -132,25 +132,25 @@ This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7
 Day 4 Storyboard
 ----------------
 
-![YuliyaKlochan-day4storyboard-1.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/2636f62e59620991db84bb783891c615_YuliyaKlochan-day4storyboard-1.jpg)
+![YuliyaKlochan-day4storyboard-1.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/2636f62e59620991db84bb783891c615_YuliyaKlochan-day4storyboard-1.jpg)
 
-![YuliyaKlochan-day4storyboard-2.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ec4d041edaf79b5df1db43add958c4e6_YuliyaKlochan-day4storyboard-2.jpg)
+![YuliyaKlochan-day4storyboard-2.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ec4d041edaf79b5df1db43add958c4e6_YuliyaKlochan-day4storyboard-2.jpg)
 
-![YuliyaKlochan-day4storyboard-3.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/5219497ed45222dfafe0437da5543672_YuliyaKlochan-day4storyboard-3.jpg)
+![YuliyaKlochan-day4storyboard-3.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/5219497ed45222dfafe0437da5543672_YuliyaKlochan-day4storyboard-3.jpg)
 
-![YuliyaKlochan-day4storyboard-4.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/86d44ed71c8408b174ebda42708398bd_YuliyaKlochan-day4storyboard-4.jpg)
+![YuliyaKlochan-day4storyboard-4.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/86d44ed71c8408b174ebda42708398bd_YuliyaKlochan-day4storyboard-4.jpg)
 
-![YuliyaKlochan-day4storyboard-5.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/31442b804ebd46ff5829d43178deb7fc_YuliyaKlochan-day4storyboard-5.jpg)
+![YuliyaKlochan-day4storyboard-5.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/31442b804ebd46ff5829d43178deb7fc_YuliyaKlochan-day4storyboard-5.jpg)
 
-![YuliyaKlochan-day4storyboard-6.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ddcd52a0776fd578fdbea20aaeb5da49_YuliyaKlochan-day4storyboard-6.jpg)
+![YuliyaKlochan-day4storyboard-6.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ddcd52a0776fd578fdbea20aaeb5da49_YuliyaKlochan-day4storyboard-6.jpg)
 
-![YuliyaKlochan-day4storyboard-7.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/53ddafb7399c75d9740114ec0d052fbd_YuliyaKlochan-day4storyboard-7.jpg)
+![YuliyaKlochan-day4storyboard-7.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/53ddafb7399c75d9740114ec0d052fbd_YuliyaKlochan-day4storyboard-7.jpg)
 
-![YuliyaKlochan-day4storyboard-8.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/2cd5e78ea092d81c5ae4d1998065da83_YuliyaKlochan-day4storyboard-8.jpg)
+![YuliyaKlochan-day4storyboard-8.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/2cd5e78ea092d81c5ae4d1998065da83_YuliyaKlochan-day4storyboard-8.jpg)
 
-![YuliyaKlochan-day4storyboard-9.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/2f8f0821dea7ef449c40041a2ed60e57_YuliyaKlochan-day4storyboard-9.jpg)
+![YuliyaKlochan-day4storyboard-9.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/2f8f0821dea7ef449c40041a2ed60e57_YuliyaKlochan-day4storyboard-9.jpg)
 
-![YuliyaKlochan-day4storyboard-10.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/c1f067c2d2c55e330d4ecc5daf49b91e_YuliyaKlochan-day4storyboard-10.jpg)
+![YuliyaKlochan-day4storyboard-10.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/c1f067c2d2c55e330d4ecc5daf49b91e_YuliyaKlochan-day4storyboard-10.jpg)
 
 [\_Link back to Day 4\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
 
@@ -243,7 +243,7 @@ To model a snowflake, for example, start by drawing an equilateral triangle. Div
 
 Take out the middle, and repeat the process, this time with 1, 2, 3, 4 times 3, which are 12 sides. Eventually, the shape will look something like this:
 
-![work8YulKlochan1.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/1e45e70575a13a247cc5d10d2834b79e_work8YulKlochan1.jpg)
+![work8YulKlochan1.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/1e45e70575a13a247cc5d10d2834b79e_work8YulKlochan1.jpg)
 
 This curve is called in mathematics a Koch Snowflake. It is a fractal because, if you zoom in, you'll get this same pattern (show pattern) again and again.
 
@@ -293,7 +293,7 @@ First, I'd draw an equilateral triangle, divide each side into three equal parts
 
 Then take out the middle, and repeat the process, this time with 1, 2, 3, 4 times 3, which are 12 sides. Eventually, the shape will look something like this:
 
-![work8YulKlochan.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/46aaa846b699f143f03edc11c43fc874_work8YulKlochan.jpg)
+![work8YulKlochan.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/46aaa846b699f143f03edc11c43fc874_work8YulKlochan.jpg)
 
 This curve is called in mathematics a Koch Snowflake. If I repeated the process again and again, and looked anywhere, I would see this same pattern: (Show)
 

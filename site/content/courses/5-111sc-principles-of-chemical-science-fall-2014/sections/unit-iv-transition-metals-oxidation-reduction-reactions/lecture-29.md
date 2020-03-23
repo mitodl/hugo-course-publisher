@@ -13,7 +13,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/8e9af01a2cfe9dbc13a8b2e8b431b26d_Lecture_29.jpg)  | {{< br >}}{{< br >}}1.  Spectrochemical Series: Geometry Makes a Difference{{< br >}}2.  Crystal Field Theory: Tetrahedral Case{{< br >}}3.  Crystal Field Theory: Square Planar Case{{< br >}}4.  Other Geometries and Applications{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/8e9af01a2cfe9dbc13a8b2e8b431b26d_Lecture_29.jpg)  | {{< br >}}{{< br >}}1.  Spectrochemical Series: Geometry Makes a Difference{{< br >}}2.  Crystal Field Theory: Tetrahedral Case{{< br >}}3.  Crystal Field Theory: Square Planar Case{{< br >}}4.  Other Geometries and Applications{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -23,12 +23,12 @@ This lecture starts with a challenge: can you correctly predict the color of a t
 Lecture Notes
 -------------
 
-[Notes for Lecture 29 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/84db180b85507f804b7631d3e6c6a726_MIT5_111F14_Lecture29.pdf)
+[Notes for Lecture 29 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/84db180b85507f804b7631d3e6c6a726_MIT5_111F14_Lecture29.pdf)
 
 Clicker Questions
 -----------------
 
-[Lecture 29 Clicker Questions (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/4df217cbe8a6d4b7c3423cd3dc665ff0_MIT5_111F14_Lec29Clkr.pdf)
+[Lecture 29 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/4df217cbe8a6d4b7c3423cd3dc665ff0_MIT5_111F14_Lec29Clkr.pdf)
 
 Textbook Reading
 ----------------
@@ -40,8 +40,8 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 29 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/5c6fcbd8de2a8ac7059a514d43c2f142_MIT5_111F14_Lec29Prob.pdf)
+[Problems for Lecture 29 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/5c6fcbd8de2a8ac7059a514d43c2f142_MIT5_111F14_Lec29Prob.pdf)
 
-[Solutions for Lecture 29 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/1ae1a8ab689e5f566c54ff9480f2b598_MIT5_111F14_Lec29Soln.pdf)
+[Solutions for Lecture 29 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/1ae1a8ab689e5f566c54ff9480f2b598_MIT5_111F14_Lec29Soln.pdf)
 
 « [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-28" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics" %}}) »

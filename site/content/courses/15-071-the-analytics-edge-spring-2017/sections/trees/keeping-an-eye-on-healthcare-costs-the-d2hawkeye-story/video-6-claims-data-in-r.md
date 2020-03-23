@@ -31,11 +31,11 @@ menu:
 Video 6: Claims Data in R
 -------------------------
 
-In the next few videos, we'll be using the dataset [ClaimsData (ZIP - 2.2MB)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/da45d600699821bf0d2024d5628389ab_ClaimsData.csv.zip): this file contains 1 CSV file. Please download the dataset to follow along. Note that this file is in ZIP format due to its large size. You will need to decompress (or unzip) the file before loading it into R.
+In the next few videos, we'll be using the dataset [ClaimsData (ZIP - 2.2MB)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/da45d600699821bf0d2024d5628389ab_ClaimsData.csv.zip): this file contains 1 CSV file. Please download the dataset to follow along. Note that this file is in ZIP format due to its large size. You will need to decompress (or unzip) the file before loading it into R.
 
 This data comes from the [DE-SynPUF dataset](http://www.cms.gov/Research-Statistics-Data-and-Systems/Downloadable-Public-Use-Files/SynPUFs/DE_Syn_PUF.html), published by the United States Centers for Medicare and Medicaid Services (CMS).
 
-An R script file with all of the R commands used in this lecture can be downloaded here: [Unit4\_D2Hawkeye (R)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/38db138e560092bd669a8916a3b8b4d7_Unit4_D2Hawkeye.R)
+An R script file with all of the R commands used in this lecture can be downloaded here: [Unit4\_D2Hawkeye (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/38db138e560092bd669a8916a3b8b4d7_Unit4_D2Hawkeye.R)
 
 *   [BackQuick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/quick-question-337" %}})
 *   [ContinueQuick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/quick-question-342" %}})

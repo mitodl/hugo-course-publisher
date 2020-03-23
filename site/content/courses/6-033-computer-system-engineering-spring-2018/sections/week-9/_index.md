@@ -26,7 +26,7 @@ Lecture 16: Atomicity via Logging
 
 ### Lecture Slides
 
-*   [Lecture 16 Slides: Atomicity via Logging (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/76fa2168e5a4c4722c315a84b8e09a8c_MIT6_033S18lec16.pdf)
+*   [Lecture 16 Slides: Atomicity via Logging (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/76fa2168e5a4c4722c315a84b8e09a8c_MIT6_033S18lec16.pdf)
 
 ### Reading
 
@@ -62,7 +62,7 @@ Lecture 17: Fault Tolerance: Isolation
 
 ### Lecture Slides
 
-*   [Lecture 17 Slides: Fault Tolerance: Isolation (PDF)](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/92b03e933e2fec860b6bcb53a306e020_MIT6_033S18lec17.pdf)
+*   [Lecture 17 Slides: Fault Tolerance: Isolation (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/92b03e933e2fec860b6bcb53a306e020_MIT6_033S18lec17.pdf)
 
 ### Reading
 

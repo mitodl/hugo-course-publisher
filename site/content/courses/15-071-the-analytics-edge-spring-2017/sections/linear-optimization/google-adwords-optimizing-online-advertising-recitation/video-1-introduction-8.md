@@ -23,7 +23,7 @@ menu:
 Video 1: Introduction
 ---------------------
 
-The slides from all videos in this recitation can be downloaded here: [Optimizing Online Advertising (PDF - 1.1MB)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/785b9bc9e852065d1f42411ea550db00_MIT15_071S17_Unit8_Recitation.pdf).
+The slides from all videos in this recitation can be downloaded here: [Optimizing Online Advertising (PDF - 1.1MB)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/785b9bc9e852065d1f42411ea550db00_MIT15_071S17_Unit8_Recitation.pdf).
 
 *   [BackGoogle AdWords: Optimizing Online Advertising (Recitation)]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation" %}})
 *   [ContinueVideo 2: How Online Advertising Works]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-2-how-online-advertising-works" %}})

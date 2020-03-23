@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/cde5b72f91b5fd90387f89c1030110ed_L19.jpg) | {{< br >}}{{< br >}}*   Waves in medium{{< br >}}*   Refraction index{{< br >}}*   Brewster’s angle{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/cde5b72f91b5fd90387f89c1030110ed_L19.jpg) | {{< br >}}{{< br >}}*   Waves in medium{{< br >}}*   Refraction index{{< br >}}*   Brewster’s angle{{< br >}}{{< br >}} 
 
 Lecture Video: Waves in Medium
 ------------------------------
@@ -22,19 +22,19 @@ Prof. Lee discusses the propagation of light in the dielectric medium. He also s
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 19 (PDF)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/b54533f13f8ef512cc4041669b5fdfc7_MIT8_03SCF16_Lec19.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 19 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/b54533f13f8ef512cc4041669b5fdfc7_MIT8_03SCF16_Lec19.pdf)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 19 (PDF - 1.9MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/abba2b770ebdf3bc9c0e0133356584f0_MIT8_03SCF16_hw_Lec19.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 19 (PDF - 1.9MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/abba2b770ebdf3bc9c0e0133356584f0_MIT8_03SCF16_hw_Lec19.pdf)
 
 Textbook Reading
 ----------------
 
-[Chapter 12: Polarization (PDF - 1.4MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/3346a46cafa9db6b17d5252a33335051_MIT8_03SCF16_Text_Ch12.pdf) (section 12.4 to end) 
+[Chapter 12: Polarization (PDF - 1.4MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/3346a46cafa9db6b17d5252a33335051_MIT8_03SCF16_Text_Ch12.pdf) (section 12.4 to end) 
 
 Problem Set
 -----------
 
-[Problem Set 9 (PDF)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/a0f581f5339db96711d292950a9b233a_MIT8_03SCF16_ProblemSet9.pdf)
+[Problem Set 9 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/a0f581f5339db96711d292950a9b233a_MIT8_03SCF16_ProblemSet9.pdf)
 
 In-class Demonstrations
 -----------------------

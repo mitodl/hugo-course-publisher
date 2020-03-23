@@ -50,7 +50,7 @@ plot(NumClusters, SumWithinss, type="b")
 
 The plot looks like this (the type="b" argument just told the plot command to give us points and lines):
 
-![Scree plot.](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/4154c121b2d3518a68c3557753b268e2_ScreePlot.jpg)
+![Scree plot.](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/4154c121b2d3518a68c3557753b268e2_ScreePlot.jpg)
 
 To determine the best number of clusters using this plot, we want to look for a bend, or elbow, in the plot. This means that we want to find the number of clusters for which increasing the number of clusters further does not significantly help to reduce the within-cluster sum of squares. For this particular dataset, it looks like 4 or 5 clusters is a good choice. Beyond 5, increasing the number of clusters does not really reduce the within-cluster sum of squares too much.
 

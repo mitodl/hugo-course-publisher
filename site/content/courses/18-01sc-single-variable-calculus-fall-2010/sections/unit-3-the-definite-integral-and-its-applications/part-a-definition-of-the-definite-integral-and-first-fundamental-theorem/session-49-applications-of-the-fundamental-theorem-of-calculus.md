@@ -31,8 +31,8 @@ Worked Example
 
 Integration by Change of Variables
 
-*   [Problem (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/8bf9c58094c2838a33e33eced5b6473f_MIT18_01SCF10_ex49prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/4c5b3493101fac5c2cfb7d47deb10514_MIT18_01SCF10_ex49sol.pdf "Open in a new window.")
+*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/8bf9c58094c2838a33e33eced5b6473f_MIT18_01SCF10_ex49prb.pdf "Open in a new window.")
+*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/4c5b3493101fac5c2cfb7d47deb10514_MIT18_01SCF10_ex49sol.pdf "Open in a new window.")
 
 Lecture Video and Notes
 -----------------------

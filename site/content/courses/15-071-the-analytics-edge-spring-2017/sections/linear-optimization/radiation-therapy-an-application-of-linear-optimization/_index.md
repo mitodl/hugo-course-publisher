@@ -25,7 +25,7 @@ menu:
 Video 1: Introduction
 ---------------------
 
-The slides from all videos in this lecture can be downloaded here: [An Application of Linear Optimization (PDF - 1.8MB)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/1abf45e592ebd829c166f217a0f92493_MIT15_071S17_Unit8_RadiationTherapy.pdf).
+The slides from all videos in this lecture can be downloaded here: [An Application of Linear Optimization (PDF - 1.8MB)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/1abf45e592ebd829c166f217a0f92493_MIT15_071S17_Unit8_RadiationTherapy.pdf).
 
 The images in this video of the head scans and images and data used in other videos in this lecture, come from the [Computational Environment for Radiotherapy Research (CERR)](http://www.cerr.info), Copyright 2010, Joseph O. Deasy, on behalf of the CERR development team. CERR development has been led by: Aditya Apte, Divya Khullar, James Alaly, and Joseph O. Deasy. CERR has been financially supported by the US National Institutes of Health under multiple grants, and is distributed under the terms of the Lesser GNU Public License.
 

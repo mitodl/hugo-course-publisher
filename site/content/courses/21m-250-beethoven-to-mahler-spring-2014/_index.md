@@ -3,7 +3,9 @@ title: Course Home
 course_id: 21m-250-beethoven-to-mahler-spring-2014
 course_title: Beethoven to Mahler
 course_image_url: >-
-  https://open-learning-course-data.s3.amazonaws.com/21m-250-beethoven-to-mahler-spring-2014/2f2be2d8030030bcdee2ebc0424ffa93_21m-250s14.jpg
+  https://open-learning-course-data-ci.s3.amazonaws.com/21m-250-beethoven-to-mahler-spring-2014/2f2be2d8030030bcdee2ebc0424ffa93_21m-250s14.jpg
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/21m-250-beethoven-to-mahler-spring-2014/55b45ed5699256fb8a08ba9938c624ec_21m-250s14-th.jpg
 course_image_alternate_text: >-
   A dark figure in a black hood overcomes a swooning young boy riding a white
   horse.

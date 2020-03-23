@@ -30,8 +30,8 @@ Worked Example
 
 Exploring a Parametric Curve
 
-*   [Problem (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/e66c80992e44903c541a243893c59cb8_MIT18_01SCF10_ex80prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/15f8e38786ae3b738375debb112ee660_MIT18_01SCF10_ex80sol.pdf "Open in a new window.")
+*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/e66c80992e44903c541a243893c59cb8_MIT18_01SCF10_ex80prb.pdf "Open in a new window.")
+*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/15f8e38786ae3b738375debb112ee660_MIT18_01SCF10_ex80sol.pdf "Open in a new window.")
 
 Lecture Video and Notes
 -----------------------

@@ -31,7 +31,7 @@ Worked Example
 
 Implicit Differentiation and the Second
 
-*   [Problem (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/7a7d3f0e340ddff6b31f08134f9ef302_MIT18_01SCF10_ex14prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/df4b202a59855a2a7bdd3c4dc44aad5c_MIT18_01SCF10_ex14sol.pdf "Open in a new window.")
+*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/7a7d3f0e340ddff6b31f08134f9ef302_MIT18_01SCF10_ex14prb.pdf "Open in a new window.")
+*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/df4b202a59855a2a7bdd3c4dc44aad5c_MIT18_01SCF10_ex14sol.pdf "Open in a new window.")
 
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-13-implicit-differentiation" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions" %}}) »

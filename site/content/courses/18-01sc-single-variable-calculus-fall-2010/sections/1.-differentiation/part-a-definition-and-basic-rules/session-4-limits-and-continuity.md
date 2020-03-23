@@ -29,7 +29,7 @@ Worked Example
 
 Continuous but not Smooth
 
-*   [Problem (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/f8502402ca94817edcc6cd996eb538ad_MIT18_01SCF10_ex04prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/992aa5605f07998477a1f9e2cba0737d_MIT18_01SCF10_ex04sol.pdf "Open in a new window.")
+*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/f8502402ca94817edcc6cd996eb538ad_MIT18_01SCF10_ex04prb.pdf "Open in a new window.")
+*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/992aa5605f07998477a1f9e2cba0737d_MIT18_01SCF10_ex04sol.pdf "Open in a new window.")
 
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity" %}}) »

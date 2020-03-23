@@ -13,7 +13,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/4e39e3da6e9d2288e23f1bb3fc0179f6_Lecture_17.jpg)  | {{< br >}}{{< br >}}1.  Thermodynamics{{< br >}}    1.  Effect of Temperature on Spontaneity{{< br >}}    2.  Thermodynamics in Biological Systems{{< br >}}        1.  Hydrogen-bonding{{< br >}}        2.  ATP-coupled Reactions{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/4e39e3da6e9d2288e23f1bb3fc0179f6_Lecture_17.jpg)  | {{< br >}}{{< br >}}1.  Thermodynamics{{< br >}}    1.  Effect of Temperature on Spontaneity{{< br >}}    2.  Thermodynamics in Biological Systems{{< br >}}        1.  Hydrogen-bonding{{< br >}}        2.  ATP-coupled Reactions{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -23,12 +23,12 @@ Chemistry is part of everyday life whether we realize it or not. In this lecture
 Lecture Notes
 -------------
 
-[Notes for Lecture 17 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/a2a2199a65afc91fa9b6abdb6e66cf17_MIT5_111F14_Lec17.pdf)
+[Notes for Lecture 17 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/a2a2199a65afc91fa9b6abdb6e66cf17_MIT5_111F14_Lec17.pdf)
 
 Clicker Questions
 -----------------
 
-[Lecture 17 Clicker Questions (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/bba3789ee52a585e987bb7aaf519e551_MIT5_111F14_Lec17Clkr.pdf)
+[Lecture 17 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/bba3789ee52a585e987bb7aaf519e551_MIT5_111F14_Lec17Clkr.pdf)
 
 Textbook Reading
 ----------------
@@ -51,8 +51,8 @@ Lourdes Alemán, a Cuban-American, shares her greatest source of inspiration thr
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 17 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/accc1cb61f9f250f66f67c4a8a1d59ea_MIT5_111F14_Lec17Prob.pdf)
+[Problems for Lecture 17 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/accc1cb61f9f250f66f67c4a8a1d59ea_MIT5_111F14_Lec17Prob.pdf)
 
-[Solutions for Lecture 17 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/7562819c201749c283deb0e457fefd66_MIT5_111F14_Lec17Soln.pdf)
+[Solutions for Lecture 17 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/7562819c201749c283deb0e457fefd66_MIT5_111F14_Lec17Soln.pdf)
 
 « [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-16" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-18" %}}) »

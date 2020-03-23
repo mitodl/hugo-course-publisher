@@ -17,6 +17,6 @@ Problem Set 6 contains the following problems:
 4.  Falling Drop
 5.  Moving Vehicle and Falling rain
 
-*   [Problem Set 6 (PDF)](https://open-learning-course-data.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/44b46fb9ae75796759884a9a7f7bd167_MIT8_01F16_pset6.pdf)
+*   [Problem Set 6 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/44b46fb9ae75796759884a9a7f7bd167_MIT8_01F16_pset6.pdf)
 
 « [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work" %}}) »

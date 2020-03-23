@@ -12,7 +12,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/078998c13433fa2fcbf323d2a0197d85_Lecture_3.jpg)  | {{< br >}}{{< br >}}1.  Light as a Wave, Characteristics of Waves{{< br >}}2.  Light as a Particle, The Photoelectric Effect{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/078998c13433fa2fcbf323d2a0197d85_Lecture_3.jpg)  | {{< br >}}{{< br >}}1.  Light as a Wave, Characteristics of Waves{{< br >}}2.  Light as a Particle, The Photoelectric Effect{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -22,12 +22,12 @@ The idea that light is both a wave and a particle is introduced. The properties 
 Lecture Notes
 -------------
 
-[Notes for Lecture 3 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/d95f1abec7d8eecc16145b9f2fd2761e_MIT5_111F14_Lec3.pdf)
+[Notes for Lecture 3 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/d95f1abec7d8eecc16145b9f2fd2761e_MIT5_111F14_Lec3.pdf)
 
 Clicker Questions
 -----------------
 
-[Lecture 3 Clicker Questions (PDF - 1.3MB)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/d60dfec6ecb54eb57c5c5f7f02065311_MIT5_111F14_Lec3Clkr.pdf)
+[Lecture 3 Clicker Questions (PDF - 1.3MB)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/d60dfec6ecb54eb57c5c5f7f02065311_MIT5_111F14_Lec3Clkr.pdf)
 
 Textbook Reading
 ----------------
@@ -51,9 +51,9 @@ Cathy Drennan explains how her dyslexia, and other people’s low expectations o
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 3 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/00db7442f05087c75f86190c60ee0dc4_MIT5_111F14_Lec03Prob.pdf)
+[Problems for Lecture 3 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/00db7442f05087c75f86190c60ee0dc4_MIT5_111F14_Lec03Prob.pdf)
 
-[Solutions for Lecture 3 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/98dea71a08b7a4270268110f41bcd7e2_MIT5_111F14_Lec03Soln.pdf)
+[Solutions for Lecture 3 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/98dea71a08b7a4270268110f41bcd7e2_MIT5_111F14_Lec03Soln.pdf)
 
 Acknowledgement
 ---------------

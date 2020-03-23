@@ -13,7 +13,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/47b1c287f5b54b79376b22a21355a706_Lecture_21.jpg)  | {{< br >}}{{< br >}}1.  Definitions and Relationships between pKw, pH, and pOH{{< br >}}2.  Strengths of Acids and Bases{{< br >}}3.  Equilibrium Acid-Base Problems (Weak Acids and Weak Bases){{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/47b1c287f5b54b79376b22a21355a706_Lecture_21.jpg)  | {{< br >}}{{< br >}}1.  Definitions and Relationships between pKw, pH, and pOH{{< br >}}2.  Strengths of Acids and Bases{{< br >}}3.  Equilibrium Acid-Base Problems (Weak Acids and Weak Bases){{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -23,12 +23,12 @@ If the pH of water was 2, would you drink it? What about if the water had a pH o
 Lecture Notes
 -------------
 
-[Notes for Lecture 21 (PDF - 1.2MB)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/baadb16aee67573e5c734c292c249a69_MIT5_111F14_Lec21.pdf)
+[Notes for Lecture 21 (PDF - 1.2MB)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/baadb16aee67573e5c734c292c249a69_MIT5_111F14_Lec21.pdf)
 
 Clicker Questions
 -----------------
 
-[Lecture 21 Clicker Questions (PDF - 1.1MB)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/b798c1c7251ac73169fa01bf853dbcaa_MIT5_111F14_Lec21Clkr.pdf)
+[Lecture 21 Clicker Questions (PDF - 1.1MB)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/b798c1c7251ac73169fa01bf853dbcaa_MIT5_111F14_Lec21Clkr.pdf)
 
 Textbook Reading
 ----------------
@@ -41,8 +41,8 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 21 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/5f8cdabca9fe2d3df638f61c7a1edbb9_MIT5_111F14_Lec21Prob.pdf)
+[Problems for Lecture 21 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/5f8cdabca9fe2d3df638f61c7a1edbb9_MIT5_111F14_Lec21Prob.pdf)
 
-[Solutions for Lecture 21 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c1aa78881bfbaacca239d55a9cf66c9c_MIT5_111F14_Lec21Soln.pdf)
+[Solutions for Lecture 21 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c1aa78881bfbaacca239d55a9cf66c9c_MIT5_111F14_Lec21Soln.pdf)
 
 « [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-20" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-22" %}}) »

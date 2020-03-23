@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/399a78dfbe2d4f60a90700df0d142614_L5.jpg) | {{< br >}}{{< br >}}*   Coupled oscillators{{< br >}}*   Beat phenomena{{< br >}}*   Normal axis{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/399a78dfbe2d4f60a90700df0d142614_L5.jpg) | {{< br >}}{{< br >}}*   Coupled oscillators{{< br >}}*   Beat phenomena{{< br >}}*   Normal axis{{< br >}}{{< br >}} 
 
 Lecture Video: Beat Phenomena
 -----------------------------
@@ -22,19 +22,19 @@ Prof. Wyslouch shows the solution of two coupled pendula. A very interesting res
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 5 (PDF - 1.1MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/f64be9b621ec8951c14ad27b9ce43425_MIT8_03SCF16_Lec5.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 5 (PDF - 1.1MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/f64be9b621ec8951c14ad27b9ce43425_MIT8_03SCF16_Lec5.pdf)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 5 (PDF - 1.7MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/fd478cafea8aa5cca86a02f31c54dc02_MIT8_03SCF16_hw_Lec5.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 5 (PDF - 1.7MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/fd478cafea8aa5cca86a02f31c54dc02_MIT8_03SCF16_hw_Lec5.pdf)
 
 Textbook Reading
 ----------------
 
-[Chapter 3: Normal Modes (PDF - 1.4MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/29afe7e96aadefce1bd80486771aeae9_MIT8_03SCF16_Text_Ch3.pdf) 
+[Chapter 3: Normal Modes (PDF - 1.4MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/29afe7e96aadefce1bd80486771aeae9_MIT8_03SCF16_Text_Ch3.pdf) 
 
 Problem Set
 -----------
 
-[Problem Set 3 (PDF)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/e3da8bedda3b17964eabcf48c920c58a_MIT8_03SCF16_ProblemSet3.pdf)
+[Problem Set 3 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/e3da8bedda3b17964eabcf48c920c58a_MIT8_03SCF16_ProblemSet3.pdf)
 
 Problem Solving Help Video\*
 ----------------------------

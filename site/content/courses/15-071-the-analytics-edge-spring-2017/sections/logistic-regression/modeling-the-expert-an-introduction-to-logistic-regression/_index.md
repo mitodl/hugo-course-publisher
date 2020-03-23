@@ -28,7 +28,7 @@ menu:
 Video 1: Replicating Expert Assessment
 --------------------------------------
 
-The slides from all videos in this Lecture Sequence can be downloaded here: [An Introduction to Logistic Regression (PDF - 1.2MB)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/68b9d1390f0a37e67efa5d40a5cfae84_MIT15_071S17_Unit3_ModelingExpert.pdf).
+The slides from all videos in this Lecture Sequence can be downloaded here: [An Introduction to Logistic Regression (PDF - 1.2MB)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/68b9d1390f0a37e67efa5d40a5cfae84_MIT15_071S17_Unit3_ModelingExpert.pdf).
 
 *   [BackWelcome to Unit 3]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/welcome-to-unit-3" %}})
 *   [ContinueVideo 2: Building the Dataset]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-2-building-the-dataset" %}})

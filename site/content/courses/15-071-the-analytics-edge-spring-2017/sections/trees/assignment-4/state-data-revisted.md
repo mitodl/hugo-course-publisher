@@ -23,7 +23,7 @@ Load the dataset into R and convert it to a data frame by running the following 
 data(state)
 statedata = data.frame(state.x77)
 
-If you can't access the state dataset in R, here is a CSV file with the same data that you can load into R using the read.csv function: [statedataSimple (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/188d21c275a21a4ad828e6014675f5d4_statedataSimple.csv).  Be sure to call the output of the read.csv function "statedata".
+If you can't access the state dataset in R, here is a CSV file with the same data that you can load into R using the read.csv function: [statedataSimple (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/188d21c275a21a4ad828e6014675f5d4_statedataSimple.csv).  Be sure to call the output of the read.csv function "statedata".
 
 After you have loaded the data into R, inspect the data set using the command: str(statedata)
 

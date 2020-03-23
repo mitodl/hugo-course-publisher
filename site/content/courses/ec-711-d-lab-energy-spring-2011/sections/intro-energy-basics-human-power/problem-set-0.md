@@ -20,6 +20,6 @@ Grading criteria:
 
 Bring the lantern to D-Lab no later than one hour before the next class session. Your device should be placed on one of the desks in that room on an 8.5"x11" piece of paper with your name, a very quick sketch of your device, and an explanation - including formula - of how you chose the resistor and what value you used.
 
-[Problem Set 0 Grading Rubric (PDF)](https://open-learning-course-data.s3.amazonaws.com/ec-711-d-lab-energy-spring-2011/74baee58a69e9d655612d7aaaaeaad76_MITSP_775S11_pset0_rubric.pdf)
+[Problem Set 0 Grading Rubric (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/ec-711-d-lab-energy-spring-2011/74baee58a69e9d655612d7aaaaeaad76_MITSP_775S11_pset0_rubric.pdf)
 
 [« Back]({{% ref "courses/ec-711-d-lab-energy-spring-2011/sections/intro-energy-basics-human-power" %}}#ps0)

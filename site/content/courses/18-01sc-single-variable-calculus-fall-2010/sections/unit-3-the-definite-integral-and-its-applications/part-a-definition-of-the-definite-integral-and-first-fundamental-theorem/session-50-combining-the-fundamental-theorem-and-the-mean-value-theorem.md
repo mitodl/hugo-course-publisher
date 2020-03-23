@@ -26,7 +26,7 @@ Worked Example
 
 Estimating ln(5)
 
-*   [Problem (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/a7bb8a35dacf44c1ae34b89143656f82_MIT18_01SCF10_ex50prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/d57f59c50b7fe8eae95e25e0f64a44d1_MIT18_01SCF10_ex50sol.pdf "Open in a new window.")
+*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/a7bb8a35dacf44c1ae34b89143656f82_MIT18_01SCF10_ex50prb.pdf "Open in a new window.")
+*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/d57f59c50b7fe8eae95e25e0f64a44d1_MIT18_01SCF10_ex50sol.pdf "Open in a new window.")
 
 « [Previous]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-49-applications-of-the-fundamental-theorem-of-calculus" %}}) | [Next]({{% ref "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/problem-set-6" %}}) »

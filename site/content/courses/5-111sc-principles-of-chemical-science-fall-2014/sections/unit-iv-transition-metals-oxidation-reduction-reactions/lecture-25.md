@@ -13,7 +13,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/edd4f83c96c80e429689e7209e9198f0_Lecture_25.jpg)  | {{< br >}}{{< br >}}1.  Introduction to Oxidation-Reduction (Redox) Reactions{{< br >}}2.  Balancing Redox Reactions{{< br >}}3.  Electrochemical Cells{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/edd4f83c96c80e429689e7209e9198f0_Lecture_25.jpg)  | {{< br >}}{{< br >}}1.  Introduction to Oxidation-Reduction (Redox) Reactions{{< br >}}2.  Balancing Redox Reactions{{< br >}}3.  Electrochemical Cells{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -23,12 +23,12 @@ Redox reactions are a major class of chemical reactions in which there is an exc
 Lecture Notes
 -------------
 
-[Notes for Lecture 25 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/7bfbd766cbfe78a2cf6b9a92b7e9b882_MIT5_111F14_Lecture25.pdf)
+[Notes for Lecture 25 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/7bfbd766cbfe78a2cf6b9a92b7e9b882_MIT5_111F14_Lecture25.pdf)
 
 Clicker Questions
 -----------------
 
-[Lecture 25 Clicker Questions (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/f0a331b2c7f9252921028362eb487287_MIT5_111F14_Lec25Clkr.pdf)
+[Lecture 25 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/f0a331b2c7f9252921028362eb487287_MIT5_111F14_Lec25Clkr.pdf)
 
 Textbook Reading
 ----------------
@@ -40,8 +40,8 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 25 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/354cccf1e7b4d7ca8259b75e8139e005_MIT5_111F14_Lec25Prob.pdf)
+[Problems for Lecture 25 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/354cccf1e7b4d7ca8259b75e8139e005_MIT5_111F14_Lec25Prob.pdf)
 
-[Solutions for Lecture 25 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/589cf02af92fc6ce649b9268bcb2d359_MIT5_111F14_Lec25Soln.pdf)
+[Solutions for Lecture 25 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/589cf02af92fc6ce649b9268bcb2d359_MIT5_111F14_Lec25Soln.pdf)
 
 « [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26" %}}) »

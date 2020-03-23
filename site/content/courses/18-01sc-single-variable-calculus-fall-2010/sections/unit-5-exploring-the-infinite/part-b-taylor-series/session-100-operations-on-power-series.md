@@ -24,8 +24,8 @@ Worked Example
 
 Summing Inﬁnite Series by Comparing to Taylor Series
 
-*   [Problem (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/ff9bfeeb6e762bcfc5e54ce32ee69b7c_MIT18_01SCF10_ex100prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/e5f4299378ee87484d49640281ca1828_MIT18_01SCF10_ex100sol.pdf "Open in a new window.")
+*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/ff9bfeeb6e762bcfc5e54ce32ee69b7c_MIT18_01SCF10_ex100prb.pdf "Open in a new window.")
+*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/e5f4299378ee87484d49640281ca1828_MIT18_01SCF10_ex100sol.pdf "Open in a new window.")
 
 Lecture Video and Notes
 -----------------------

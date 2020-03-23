@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/a7477ca5a6aba6bde7d070489f7f75a6_L12.jpg) | {{< br >}}{{< br >}}*   Maxwell’s equation{{< br >}}*   Light{{< br >}}*   Electromagnetic waves{{< br >}}*   Speed of light{{< br >}}*   Standing electromagnetic waves{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/a7477ca5a6aba6bde7d070489f7f75a6_L12.jpg) | {{< br >}}{{< br >}}*   Maxwell’s equation{{< br >}}*   Light{{< br >}}*   Electromagnetic waves{{< br >}}*   Speed of light{{< br >}}*   Standing electromagnetic waves{{< br >}}{{< br >}} 
 
 Lecture Video: Maxwell's Equation, Electromagnetic Waves
 --------------------------------------------------------
@@ -22,16 +22,16 @@ Prof. Lee shows the Electromagnetic wave equation can be derived by using Maxwel
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 12 (PDF - 2.6MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/fe0a583836416700c023ad11a680a0de_MIT8_03SCF16_Lec12.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 12 (PDF - 2.6MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/fe0a583836416700c023ad11a680a0de_MIT8_03SCF16_Lec12.pdf)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 12 (PDF - 3MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/d2b105c94e2497b78e4493ef1e6a8a75_MIT8_03SCF16_hw_Lec12.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 12 (PDF - 3MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/d2b105c94e2497b78e4493ef1e6a8a75_MIT8_03SCF16_hw_Lec12.pdf)
 
 Textbook Reading
 ----------------
 
-[Chapter 8: Traveling Waves (PDF - 1.4MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/5d925d6ac6c62059fb2ddd4c289e6bb3_MIT8_03SCF16_Text_Ch8.pdf) (section 8.3 to end) 
+[Chapter 8: Traveling Waves (PDF - 1.4MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/5d925d6ac6c62059fb2ddd4c289e6bb3_MIT8_03SCF16_Text_Ch8.pdf) (section 8.3 to end) 
 
-[Chapter 9: The Boundary at Infinity (PDF - 1.3MB)](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/425907dd48e60131c0b5930bda1840fd_MIT8_03SCF16_Text_Ch9.pdf) (through section 9.2) 
+[Chapter 9: The Boundary at Infinity (PDF - 1.3MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/425907dd48e60131c0b5930bda1840fd_MIT8_03SCF16_Text_Ch9.pdf) (through section 9.2) 
 
 Problem Solving Help Video\*
 ----------------------------

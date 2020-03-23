@@ -37,16 +37,16 @@ The _Java® Demos_ were developed by [Pavel Grinfeld](https://drexel.edu/coas/fa
 ### MATLAB® Information
 
 *   Best Guide to MATLAB® (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://homen.vsb.cz/~lud0016/NM/matlab_guide.pdf))
-*   Short MATLAB® Tutorial ([PDF](https://open-learning-course-data.s3.amazonaws.com/18-06-linear-algebra-spring-2010/a7d11b1b00c1c2bd2574c3f896ce4eb3_MIT18_06S10_matlab.pdf)) and Cool [MATLAB® demos](http://www.mathworks.com/products/demos/) by Mathworks
+*   Short MATLAB® Tutorial ([PDF](https://open-learning-course-data-ci.s3.amazonaws.com/18-06-linear-algebra-spring-2010/a7d11b1b00c1c2bd2574c3f896ce4eb3_MIT18_06S10_matlab.pdf)) and Cool [MATLAB® demos](http://www.mathworks.com/products/demos/) by Mathworks
 *   [MATLAB® Recitation Demos from 1997](http://web.mit.edu/18.06/www/MATLAB/Recitation.html)
 *   [MATLAB® Teaching Codes](http://web.mit.edu/18.06/www/Course-Info/Tcodes.html)
 *   A MATLAB cheat sheet (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/18.06/www/Spring09/matlab-cheatsheet.pdf))
 
 ### Essays
 
-*   Pascal Matrices ([PDF](https://open-learning-course-data.s3.amazonaws.com/18-06-linear-algebra-spring-2010/d61af89db7c6303dc024e52d8ff18f96_MIT18_06S10_pascal_work.pdf))
-*   A Basis for 3 by 3 Symmetric Matrices ([PDF](https://open-learning-course-data.s3.amazonaws.com/18-06-linear-algebra-spring-2010/2c925bea168888404287bb6b848f79ca_MIT18_06S10_symmbases.pdf))
-*   Gram-Schmidt in 9 Lines of MATLAB® (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://open-learning-course-data.s3.amazonaws.com/18-06-linear-algebra-spring-2010/768d6fe735722547c3f5e74824532c53_MIT18_06S10_gramschmidtmat.pdf))
+*   Pascal Matrices ([PDF](https://open-learning-course-data-ci.s3.amazonaws.com/18-06-linear-algebra-spring-2010/d61af89db7c6303dc024e52d8ff18f96_MIT18_06S10_pascal_work.pdf))
+*   A Basis for 3 by 3 Symmetric Matrices ([PDF](https://open-learning-course-data-ci.s3.amazonaws.com/18-06-linear-algebra-spring-2010/2c925bea168888404287bb6b848f79ca_MIT18_06S10_symmbases.pdf))
+*   Gram-Schmidt in 9 Lines of MATLAB® (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://open-learning-course-data-ci.s3.amazonaws.com/18-06-linear-algebra-spring-2010/768d6fe735722547c3f5e74824532c53_MIT18_06S10_gramschmidtmat.pdf))
 *   Linear Algebra and Music (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/18.06/www/Essays/linear-algebra-and-music.pdf))
 
 ### Essays on Teaching Linear Algebra

@@ -27,7 +27,7 @@ menu:
 Video 4: Loading Data Files
 ---------------------------
 
-In the rest of this lecture, we'll be using the data file [WHO (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/da18dfa4b6c1e1eaf6f6602203b8c4a3_WHO.csv). Please download this file to your computer, and save it to a location that you will remember. This data comes from the [Global Health Observatory Data Repository](http://apps.who.int/gho/data/node.main).
+In the rest of this lecture, we'll be using the data file [WHO (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/da18dfa4b6c1e1eaf6f6602203b8c4a3_WHO.csv). Please download this file to your computer, and save it to a location that you will remember. This data comes from the [Global Health Observatory Data Repository](http://apps.who.int/gho/data/node.main).
 
 *   [BackQuick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question-9" %}})
 *   [ContinueQuick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question-20" %}})

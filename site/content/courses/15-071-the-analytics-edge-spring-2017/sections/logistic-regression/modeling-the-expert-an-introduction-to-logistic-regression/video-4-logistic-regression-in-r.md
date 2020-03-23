@@ -28,9 +28,9 @@ menu:
 Video 4: Logistic Regression in R
 ---------------------------------
 
-In this video, we'll be using the dataset [quality (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/6343d35a6e7817560160a4ea9dc9bd2e_quality.csv) to build a logistic regression model in R. Please download this file to follow along.
+In this video, we'll be using the dataset [quality (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/6343d35a6e7817560160a4ea9dc9bd2e_quality.csv) to build a logistic regression model in R. Please download this file to follow along.
 
-An R script file with all of the commands used in this lecture can be downloaded here: [Unit3\_ModelingExpert (R)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/b6bc987749db09111285d5a2a287e733_Unit3_ModelingExpert.R).
+An R script file with all of the commands used in this lecture can be downloaded here: [Unit3\_ModelingExpert (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/b6bc987749db09111285d5a2a287e733_Unit3_ModelingExpert.R).
 
 The variables in the dataset quality.csv are as follows:
 

@@ -12,7 +12,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/3b8008375f7f0653af066f9934b82861_Lecture_8.jpg)  | {{< br >}}{{< br >}}1.  Ionization Energy and Photoelectron Spectroscopy{{< br >}}2.  Electron Affinity{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/3b8008375f7f0653af066f9934b82861_Lecture_8.jpg)  | {{< br >}}{{< br >}}1.  Ionization Energy and Photoelectron Spectroscopy{{< br >}}2.  Electron Affinity{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -22,12 +22,12 @@ The periodic table is to chemistry like the laws of motion are to physics. In th
 Lecture Notes
 -------------
 
-[Notes for Lecture 8 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/0e1c7724b4f347c81afc981e53002d3c_MIT5_111F14_Lec8.pdf)
+[Notes for Lecture 8 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/0e1c7724b4f347c81afc981e53002d3c_MIT5_111F14_Lec8.pdf)
 
 Clicker Questions
 -----------------
 
-[Lecture 8 Clicker Questions (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/ddad42bbc60ec83207a5e9026e4bbb37_MIT5_111F14_Lec8Clkr.pdf)
+[Lecture 8 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/ddad42bbc60ec83207a5e9026e4bbb37_MIT5_111F14_Lec8Clkr.pdf)
 
 Textbook Reading
 ----------------
@@ -44,9 +44,9 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 8 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/bdbb0bb5e8d430fba8f59a23d121bb8f_MIT5_111F14_Lec08Prob.pdf)
+[Problems for Lecture 8 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/bdbb0bb5e8d430fba8f59a23d121bb8f_MIT5_111F14_Lec08Prob.pdf)
 
-[Solutions for Lecture 8 (PDF)](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/864611edace2fea22a1a88ac9f73b7bd_MIT5_111F14_Lec08Soln.pdf)
+[Solutions for Lecture 8 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/864611edace2fea22a1a88ac9f73b7bd_MIT5_111F14_Lec08Soln.pdf)
 
 Acknowledgement
 ---------------

@@ -21,7 +21,7 @@ In this session you will:
 Problems Set
 ------------
 
-Use [Applications of Differentiation (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/9ed0d442d25990a98c1c770ad331a17a_MIT18_01SC_pset2prb.pdf "Open in a new window.") to do the problems below.
+Use [Applications of Differentiation (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/9ed0d442d25990a98c1c770ad331a17a_MIT18_01SC_pset2prb.pdf "Open in a new window.") to do the problems below.
 
 | Section | Topic | Exercises |
 | --- | --- | --- |
@@ -31,7 +31,7 @@ Use [Applications of Differentiation (PDF)](https://open-learning-course-data.s3
 
 ### Solutions
 
-[Solutions to Applications Differentiation problems (PDF)](https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/ef541d988c5d0e71beb756d5c0104561_MIT18_01SC_pset2sol.pdf "Open in a new window.")
+[Solutions to Applications Differentiation problems (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/ef541d988c5d0e71beb756d5c0104561_MIT18_01SC_pset2sol.pdf "Open in a new window.")
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 

@@ -3,7 +3,9 @@ title: Course Home
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 course_title: 'Physics III: Vibrations and Waves'
 course_image_url: >-
-  https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/05c7b1fd95fc1100e7528e7f1a0a2a2b_8-03scf16.jpg
+  https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/05c7b1fd95fc1100e7528e7f1a0a2a2b_8-03scf16.jpg
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/980aca1ec64806ffa11a8d6a506b1fbb_8-03scf16-th.jpg
 course_image_alternate_text: A water drop on top and water column with waves below it.
 course_image_caption_text: >-
   <p>Vibrations and waves caused by water drops.&nbsp;(Image courtesy of <a

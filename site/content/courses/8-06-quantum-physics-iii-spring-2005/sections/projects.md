@@ -184,7 +184,7 @@ We strongly urge people who are new at LaTeX to communicate with classmates. Lik
 Sample Papers
 -------------
 
-8.06 Sample Term Paper ([PDF](https://open-learning-course-data.s3.amazonaws.com/8-06-quantum-physics-iii-spring-2005/bf86cc8aad3679c72227f8705ed80bcc_samplepaper.pdf))
+8.06 Sample Term Paper ([PDF](https://open-learning-course-data-ci.s3.amazonaws.com/8-06-quantum-physics-iii-spring-2005/bf86cc8aad3679c72227f8705ed80bcc_samplepaper.pdf))
 
 Supporting Files
 ----------------
@@ -193,4 +193,4 @@ BoxedEPS ([TEX](/courses/physics/8-06-quantum-physics-iii-spring-2005/projects/B
 
 Sample Paper ([TEX](/courses/physics/8-06-quantum-physics-iii-spring-2005/projects/SamplePaper.tex))
 
-Energy Levels ([PDF](https://open-learning-course-data.s3.amazonaws.com/8-06-quantum-physics-iii-spring-2005/b52625fc7e9d7bbcf00628008b2c58f0_energylevels.pdf))
+Energy Levels ([PDF](https://open-learning-course-data-ci.s3.amazonaws.com/8-06-quantum-physics-iii-spring-2005/b52625fc7e9d7bbcf00628008b2c58f0_energylevels.pdf))
