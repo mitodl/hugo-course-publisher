@@ -9,4 +9,4 @@ RUN apt-get -qq update \
 COPY ./package.json /usr/share/
 COPY ./yarn.lock /usr/share/
 WORKDIR /usr/share/
-RUN yarn install --pure-lockfile
+RUN npm install -g gulp-cli
