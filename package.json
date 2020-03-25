@@ -22,8 +22,8 @@
     "build:hugo:debug": "hugo -d ../dist -s site -v --templateMetrics --debug",
     "build:pdfjs": "./build-scripts/build-pdfjs.sh",
     "build:webpack": "cross-env NODE_ENV=production webpack --config src/webpack/webpack.prod.js",
-    "fmt": "LOG_LEVEL= prettier-eslint --write --no-semi 'src/**/*.js' 'src/**/*.scss'",
-    "fmt:check": "LOG_LEVEL= prettier-eslint --list-different --no-semi 'src/**/*.js' 'src/**/*.scss'",
+    "fmt": "LOG_LEVEL= prettier-eslint --write --no-semi $PWD/'src/**/*.js' $PWD/'src/**/*.scss'",
+    "fmt:check": "LOG_LEVEL= prettier-eslint --list-different --no-semi $PWD/'src/**/*.js' $PWD/'src/**/*.scss'",
     "scss_lint": "node ./node_modules/sass-lint/bin/sass-lint.js --verbose --no-exit ./src",
     "test": "./scripts/js_test.sh"
   },
@@ -42,7 +42,7 @@
     "copy-webpack-plugin": "^5.0.3",
     "cross-env": "^5.2.0",
     "css-loader": "^3.0.0",
-    "eslint": "^5.0.0",
+    "eslint": "^6.8.0",
     "eslint-config-google": "^0.14.0",
     "eslint-config-mitodl": "^0.0.7",
     "eslint-plugin-babel": "^5.3.0",
@@ -75,10 +75,10 @@
     "style-loader": "^1.0.0",
     "terser-webpack-plugin": "^2.2.1",
     "url-loader": "^3.0.0",
-    "webpack": "^4.35.3",
-    "webpack-cli": "^3.3.6",
-    "webpack-dev-server": "^3.7.2",
-    "webpack-merge": "^4.1.4",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3",
+    "webpack-merge": "^4.2.2",
     "whatwg-fetch": "^3.0.0"
   },
   "resolutions": {
@@ -101,6 +101,7 @@
     "material-icons": "^0.3.1",
     "offcanvas-bootstrap": "^2.5.2",
     "popper.js": "^1.16.0",
+    "prettier-eslint": "^9.0.1",
     "react-bootstrap": "^1.0.0-beta.15",
     "react-hot-loader": "^4.12.17",
     "tippy.js": "^5.2.0"
