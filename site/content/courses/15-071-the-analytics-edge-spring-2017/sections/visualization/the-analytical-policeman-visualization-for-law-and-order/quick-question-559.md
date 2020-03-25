@@ -8,21 +8,21 @@ menu:
     parent: >-
       716f78f61fe6c5f47370d7a3c4127827_the-analytical-policeman-visualization-for-law-and-order
 ---
-*   [<Video 4: A Heatmap]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-4-a-heatmap" %}})
-*   [7.3.1Video 1: Predictive Policing]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order" %}})
-*   [7.3.2Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-540" %}})
-*   [7.3.3Video 2: Visualizing Crime Over Time]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-2-visualizing-crime-over-time" %}})
-*   [7.3.4Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-545" %}})
-*   [7.3.5Video 3: A Line Plot]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-3-a-line-plot" %}})
-*   [7.3.6Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-550" %}})
-*   [7.3.7Video 4: A Heatmap]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-4-a-heatmap" %}})
-*   [7.3.8Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-559" %}})
-*   [7.3.9Video 5: A Geographical Hot Spot Map]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-5-a-geographical-hot-spot-map" %}})
-*   [7.3.10Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-567" %}})
-*   [7.3.11Video 6: A Heatmap on the United States]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-6-a-heatmap-on-the-united-states" %}})
-*   [7.3.12Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-575" %}})
-*   [7.3.13Video 7: The Analytics Edge]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-7-the-analytics-edge" %}})
-*   [\\>Video 5: A Geographical Hot Spot Map]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-5-a-geographical-hot-spot-map" %}})
+*   [<Video 4: A Heatmap]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-4-a-heatmap" %}})
+*   [7.3.1Video 1: Predictive Policing]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order" %}})
+*   [7.3.2Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-540" %}})
+*   [7.3.3Video 2: Visualizing Crime Over Time]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-2-visualizing-crime-over-time" %}})
+*   [7.3.4Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-545" %}})
+*   [7.3.5Video 3: A Line Plot]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-3-a-line-plot" %}})
+*   [7.3.6Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-550" %}})
+*   [7.3.7Video 4: A Heatmap]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-4-a-heatmap" %}})
+*   [7.3.8Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-559" %}})
+*   [7.3.9Video 5: A Geographical Hot Spot Map]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-5-a-geographical-hot-spot-map" %}})
+*   [7.3.10Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-567" %}})
+*   [7.3.11Video 6: A Heatmap on the United States]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-6-a-heatmap-on-the-united-states" %}})
+*   [7.3.12Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-575" %}})
+*   [7.3.13Video 7: The Analytics Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-7-the-analytics-edge" %}})
+*   [\\>Video 5: A Geographical Hot Spot Map]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-5-a-geographical-hot-spot-map" %}})
 
 Quick Question
 --------------
@@ -31,15 +31,15 @@ In this quick question, we'll ask you questions about the following plots. Plot 
 
 **Plot (1) **
 
-![Heatmap of total motor vehicle thefts according to time and day in shades of red.](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/bed89f26444014011197fb58867992c7_Week7_Crime_QQ4_1.png)
+![Heatmap of total motor vehicle thefts according to time and day in shades of red.](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/bed89f26444014011197fb58867992c7_Week7_Crime_QQ4_1.png)
 
 **Plot (2)**
 
-![Alternate heatmap of total motor vehicle thefts according to time and day in shades of red.](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/be57802c07c0cabbef69146663aaec19_Week7_Crime_QQ4_2.png)
+![Alternate heatmap of total motor vehicle thefts according to time and day in shades of red.](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/be57802c07c0cabbef69146663aaec19_Week7_Crime_QQ4_2.png)
 
 **Plot (3)**
 
-![Heatmap of total motor vehicle thefts according to time and day in shades of grey.](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/1d25eaf4f014108866b6b4a661b87ed1_Week7_Crime_QQ4_3.png)
+![Heatmap of total motor vehicle thefts according to time and day in shades of grey.](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/1d25eaf4f014108866b6b4a661b87ed1_Week7_Crime_QQ4_3.png)
 
 Which argument(s) did we change to get Plot (2)? Select all that apply.
 
@@ -87,5 +87,5 @@ ggplot(DayHourCounts, aes(x = Hour, y = Var1)) + geom\_tile(aes(fill=Freq)) + sc
 
 CheckShow Answer
 
-*   [BackVideo 4: A Heatmap]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-4-a-heatmap" %}})
-*   [ContinueVideo 5: A Geographical Hot Spot Map]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-5-a-geographical-hot-spot-map" %}})
+*   [BackVideo 4: A Heatmap]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-4-a-heatmap" %}})
+*   [ContinueVideo 5: A Geographical Hot Spot Map]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-5-a-geographical-hot-spot-map" %}})

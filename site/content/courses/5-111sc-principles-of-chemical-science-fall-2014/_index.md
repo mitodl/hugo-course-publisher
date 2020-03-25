@@ -3,9 +3,8 @@ title: Course Home
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
 course_title: Principles of Chemical Science
 course_image_url: >-
-  https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/afc26c2e5de67efafa76680f079d1254_5-111scf14.jpg
-course_thumbnail_image_url: >-
-  https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/4e455c4a2c7e0b4beed975963f7defda_5-111scf14-th.jpg
+  https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/afc26c2e5de67efafa76680f079d1254_5-111scf14.jpg
+course_thumbnail_image_url: ''
 course_image_alternate_text: >-
   Photograph of Professor Drennan and abstract drawings of chemical formulas and
   symbols.

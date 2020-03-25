@@ -4,9 +4,8 @@ course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
 course_title: 'Becoming the Next Bill Nye: Writing and Hosting the Educational Show'
 course_image_url: >-
-  https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/f54fa4be872261b4ccfca37e1a17100e_20-219iap15.jpg
-course_thumbnail_image_url: >-
-  https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/785a79c50c00d87b818be3a0dc8a79ae_20-219iap15-th.jpg
+  https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/f54fa4be872261b4ccfca37e1a17100e_20-219iap15.jpg
+course_thumbnail_image_url: ''
 course_image_alternate_text: A woman in an MIT shirt being filmed by a crew.
 course_image_caption_text: >-
   <p>MIT Sloan Fellow Andrea Desrosiers is making an educational video about

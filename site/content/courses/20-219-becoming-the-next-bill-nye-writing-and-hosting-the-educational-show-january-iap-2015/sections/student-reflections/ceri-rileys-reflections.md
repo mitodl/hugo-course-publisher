@@ -8,7 +8,7 @@ menu:
     weight: 340
     parent: dadfeb1198fbe700d205d71a4c85f081_student-reflections
 ---
-« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections" %}}) | [Next]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/kenneth-cheahs-reflections" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/kenneth-cheahs-reflections" %}}) »
 
 [Day 1](#DAY_1-Ceriley) | [Day 2](#Reflection_Day_2) | [Day 3](#Reflection_Day_3) | [Day 4](#Reflection_Day_4) | [Day 5](#Ceriley_s_Day_5_Reflections) | [Day 7](#Ceriley_s_Day_7_Reflections) | [Day 11](#Ceriley_s_Day_11_Reflections)
 
@@ -25,7 +25,7 @@ During the in-class activity, I realized how infrequently I actually watched sci
 
 I also have to refrain from jumping into all the discussions because I have a lot of feels about online video. I definitely aired on the side of caution today, but once people start speaking up / getting more comfortable with the class, I might feel better about adding to the discussion. I'm still figuring out how to transition from being a student to a TA right now, so asking me questions that I can (or can't) answer will definitely help solidify what my role is / how I can best help you guys!
 
-[\_Link back to Day 1\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor_and_Student_Work)
 
 Reflection Day 2
 ----------------
@@ -34,7 +34,7 @@ This video is courtesy of [Ceri Riley](https://www.youtube.com/channel/UCQD8LaT3
 
 I think my written posts will always be more composed than an off-the-cuff vlog, but it's still good practice to get more comfortable in front of the camera!
 
-[\_Link back to Day 2\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor_and_Student_Work)
 
 Reflection Day 3
 ----------------
@@ -49,7 +49,7 @@ Get out the box. "[Ira Glass on the Creative Process](http://www.youtube.com/wat
 
 karldallas. "[Olivier's Hamlet film (1948): To Be Or Not To Be soliloquy](https://www.youtube.com/watch/?v=5ks-NbCHUns&index=1&list=PL8474363E94B4CF05)." 26 January, 2010. YouTube. (the 4th one in the playlist is David Tennant's in case you were wondering)
 
-[\_Link back to Day 3\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor_and_Student_Work)
 
 Reflection Day 4
 ----------------
@@ -60,7 +60,7 @@ tl;dr if anyone needs (rudimentary) animation help, let me know after class some
 
 I can explain my personal Adobe software workflow and tips to using Illustrator & what I know of AfterEffects (not Flash right now, but I'd love to have an excuse to learn if people had an interest in using it)
 
-[\_Link back to Day 4\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor_and_Student_Work)
 
 Day 5 Reflections
 -----------------
@@ -79,7 +79,7 @@ I said this after class to a couple people in the room, but I think it's still i
 
 I'm really excited to read scripts on Monday and see what you all produce!
 
-[\_Link back to Day 5\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 5\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor_and_Student_Work)
 
 Day 7 Reflections
 -----------------
@@ -94,7 +94,7 @@ Also, I think an important note (or at least it would be for me, because I can g
 
 See (some of) you tomorrow, and feel free to email me at any point! I'll be happy to help in any way I can :)
 
-[\_Link back to Day 7\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 7\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production/_index.md" %}}#Instructor_and_Student_Work)
 
 Day 11 Reflections
 ------------------
@@ -111,6 +111,6 @@ So, I guess, it's really good that you guys are learning what to look for in an 
 
 Soapbox aside; let me know if you need any animation help (or anything else). It's coming close to the deadline, so maybe you'll have to simplify some of your more complicated ideas, but I'm happy to help however I can.
 
-[\_Link back to Day 11\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts" %}}#Student\_Work)
+[\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student_Work)
 
-« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections" %}}) | [Next]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/kenneth-cheahs-reflections" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/kenneth-cheahs-reflections" %}}) »

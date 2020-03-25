@@ -8,18 +8,18 @@ menu:
     parent: >-
       274ac6b9daf6cd65874ec643ab327953_visualizing-the-world-an-introduction-to-visualization
 ---
-*   [<Video 3: What is Data Visualization?]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/video-3-what-is-data-visualization" %}})
-*   [7.2.1Video 1: The Power of Visualizations]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization" %}})
-*   [7.2.2Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-505" %}})
-*   [7.2.3Video 2: The World Health Organization (WHO)]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/video-2-the-world-health-organization-who" %}})
-*   [7.2.4Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-510" %}})
-*   [7.2.5Video 3: What is Data Visualization?]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/video-3-what-is-data-visualization" %}})
-*   [7.2.6Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-515" %}})
-*   [7.2.7Video 4: Basic Scatterplots Using ggplot]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/video-4-basic-scatterplots-using-ggplot" %}})
-*   [7.2.8Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-526" %}})
-*   [7.2.9Video 5: Advanced Scatterplots Using ggplot]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/video-5-advanced-scatterplots-using-ggplot" %}})
-*   [7.2.10Quick Question]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-531" %}})
-*   [\\>Video 4: Basic Scatterplots Using ggplot]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/video-4-basic-scatterplots-using-ggplot" %}})
+*   [<Video 3: What is Data Visualization?]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/video-3-what-is-data-visualization" %}})
+*   [7.2.1Video 1: The Power of Visualizations]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization" %}})
+*   [7.2.2Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-505" %}})
+*   [7.2.3Video 2: The World Health Organization (WHO)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/video-2-the-world-health-organization-who" %}})
+*   [7.2.4Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-510" %}})
+*   [7.2.5Video 3: What is Data Visualization?]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/video-3-what-is-data-visualization" %}})
+*   [7.2.6Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-515" %}})
+*   [7.2.7Video 4: Basic Scatterplots Using ggplot]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/video-4-basic-scatterplots-using-ggplot" %}})
+*   [7.2.8Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-526" %}})
+*   [7.2.9Video 5: Advanced Scatterplots Using ggplot]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/video-5-advanced-scatterplots-using-ggplot" %}})
+*   [7.2.10Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-531" %}})
+*   [\\>Video 4: Basic Scatterplots Using ggplot]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/video-4-basic-scatterplots-using-ggplot" %}})
 
 Quick Question
 --------------
@@ -28,15 +28,15 @@ In this quick question, we'll be asking you questions about the following three 
 
 **The Scatterplot:**
 
-![Scatterplot from Video 1, Slide 3](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/2dfcddaf915538a51d3028359bbd2fcb_Scatterplot_Week7.jpg)
+![Scatterplot from Video 1, Slide 3](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/2dfcddaf915538a51d3028359bbd2fcb_Scatterplot_Week7.jpg)
 
 **The Histogram:**
 
-![Histogram from Video 1, Slide 7](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/2d2061176d857ff3a33d60d7c1fafd9c_Histogram_Week7.jpg)
+![Histogram from Video 1, Slide 7](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/2d2061176d857ff3a33d60d7c1fafd9c_Histogram_Week7.jpg)
 
 **The US Map:**
 
-![US Map from Video 1, Slide 8](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/2e9e352fb3c5db802e8d74e83b053498_USmap_Week7.jpg)
+![US Map from Video 1, Slide 8](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/2e9e352fb3c5db802e8d74e83b053498_USmap_Week7.jpg)
 
 In the Scatterplot, what are the geometric objects?
 
@@ -100,5 +100,5 @@ The geometric objects for the Scatterplot are points, for the Histogram are bars
 
 CheckShow Answer
 
-*   [BackVideo 3: What is Data Visualization?]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/video-3-what-is-data-visualization" %}})
-*   [ContinueVideo 4: Basic Scatterplots Using ggplot]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/video-4-basic-scatterplots-using-ggplot" %}})
+*   [BackVideo 3: What is Data Visualization?]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/video-3-what-is-data-visualization" %}})
+*   [ContinueVideo 4: Basic Scatterplots Using ggplot]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/video-4-basic-scatterplots-using-ggplot" %}})

@@ -51,7 +51,7 @@ menu:
     
     Example: (Very similar to the example I gave in lecture)
     
-    ![Diagram of connections between providers, peers, and clients.](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/ee3eaf70d51dd899274150145fdb3bd4_Untitled-1.jpg)
+    ![Diagram of connections between providers, peers, and clients.](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/ee3eaf70d51dd899274150145fdb3bd4_Untitled-1.jpg)
     
     *   Z will tell X about C; C is a customer of Z, and X and Z are peers.
     *   X will tell Z, Y, and T about C1, C2, and C3.

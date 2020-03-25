@@ -7,16 +7,16 @@ menu:
     weight: 2630
     parent: ab87d151cf8cfe95c873e816df164d38_visualization
 ---
-*   [<Video 7: Using Line Charts Instead]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-7-using-line-charts-instead" %}})
-*   [7.5.1Visualizing Attributes of Parole Violators]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/assignment-7" %}})
-*   [\\>Linear Optimization]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization" %}})
+*   [<Video 7: Using Line Charts Instead]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-7-using-line-charts-instead" %}})
+*   [7.5.1Visualizing Attributes of Parole Violators]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/assignment-7" %}})
+*   [\\>Linear Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization" %}})
 
 Visualizing Attributes of Parole Violators
 ------------------------------------------
 
 In the crime lecture, we saw how we can use heatmaps to give a 2-dimensional representation of 3-dimensional data: we made heatmaps of crime counts by time of the day and day of the week. In this problem, we'll learn how to use histograms to show counts by one variable, and then how to visualize 3 dimensions by creating multiple histograms.
 
-We'll use the parole data [parole (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/ee9b52a20d6ebf5944fb3da9171fa3e0_parole.csv) from Unit 3. Before, we used this data to predict parole violators. Now, let's try to get a little more insight into this dataset using histograms. As a reminder, the variables in this dataset are:
+We'll use the parole data [parole (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/ee9b52a20d6ebf5944fb3da9171fa3e0_parole.csv) from Unit 3. Before, we used this data to predict parole violators. Now, let's try to get a little more insight into this dataset using histograms. As a reminder, the variables in this dataset are:
 
 *   **male** = 1 if the parolee is male, 0 if female
 *   **race** = 1 if the parolee is white, 2 otherwise
@@ -400,5 +400,5 @@ While overlaying the plots is allowed and lets us observe some attributes of the
 
 CheckShow Answer
 
-*   [BackVideo 7: Using Line Charts Instead]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-7-using-line-charts-instead" %}})
-*   [ContinueLinear Optimization]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization" %}})
+*   [BackVideo 7: Using Line Charts Instead]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-7-using-line-charts-instead" %}})
+*   [ContinueLinear Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization" %}})

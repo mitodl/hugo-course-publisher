@@ -21,11 +21,11 @@ Lecture 10: Networking: Routing (BGP)
 8.  Problems With BGP
 9.  Recurring Themes
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-6/lecture-10-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-6/lecture-10-outline/_index.md" %}})
 
 ### Lecture Slides
 
-*   [Lecture 10 Slides: Networking: Routing (BGP) (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/13cb1376fba2b7bad3d717c0d2991531_MIT6_033S18lec10.pdf)
+*   [Lecture 10 Slides: Networking: Routing (BGP) (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-6/MIT6_033S18lec10" %}})
 
 ### Reading
 
@@ -54,11 +54,11 @@ Lecture 11: Transport Layer
 8.  Additional Mechanisms
 9.  Reflection
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-6/lecture-11-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-6/lecture-11-outline/_index.md" %}})
 
 ### Lecture Slides
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 11 Slides: Transport Layer (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/d071f3da1e8e5b646e220525783eb2ba_MIT6_033S18lec11.pdf)
+*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 11 Slides: Transport Layer (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-6/MIT6_033S18lec11" %}})
 
 ### Reading
 
@@ -69,9 +69,9 @@ Recitation 11: Resilient Overlay Networks (RON)
 
 *   Read most of "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Resilient Overlay Networks (PDF)](http://nms.lcs.mit.edu/papers/ron-sosp2001.pdf)" by D. Andersen, H. Balakrishnan, et al.
 *   See assignment for details about which sections to read.
-*   [RON Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-6/ron-assignment" %}})
+*   [RON Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-6/ron-assignment/_index.md" %}})
 
 Tutorial 6: Assembling the Design Project Preliminary Report
 ------------------------------------------------------------
 
-The [Design Project Preliminary Report (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/85b670dd8de4dbf6b591b48baa5d9789_MIT6_033S18dppr_writing.pdf) was assigned in [Week 3.]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-3" %}}) The preliminary report for the design project will be evaluated by your Recitation Instructor and your Communication Instructor. Your Communication Instructor will evaluate it according to the grading rubric and assign a letter grade. Your Recitation Instructor will evaluate the preliminary report to make sure your design is on the right track; you should incorporate their feedback into the presentation and report. See the [Design Project]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/design-project" %}}) section for more details.
+The [Design Project Preliminary Report (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-3/MIT6_033S18dppr_writing" %}}) was assigned in [Week 3.]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-3/_index.md" %}}) The preliminary report for the design project will be evaluated by your Recitation Instructor and your Communication Instructor. Your Communication Instructor will evaluate it according to the grading rubric and assign a letter grade. Your Recitation Instructor will evaluate the preliminary report to make sure your design is on the right track; you should incorporate their feedback into the presentation and report. See the [Design Project]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/design-project/_index.md" %}}) section for more details.

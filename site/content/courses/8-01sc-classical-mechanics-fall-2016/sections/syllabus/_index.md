@@ -6,7 +6,7 @@ menu:
     identifier: 8488bde46909b726a411abeee039ef1a_syllabus
     weight: 10
 ---
-« [Previous](./resolveuid/8f538d2a785ea37ad30133ad74e8e40e) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus/about-the-team" %}}) »
+« [Previous](./resolveuid/8f538d2a785ea37ad30133ad74e8e40e) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus/about-the-team/_index.md" %}}) »
 
 Video Introduction by Prof. Deepto Chakrabarty and Dr. Peter Dourmashkin
 ------------------------------------------------------------------------
@@ -39,30 +39,30 @@ Our goal is to develop a conceptual understanding of the core concepts, a famili
 Textbook
 --------
 
-The textbook for this course is ["Classical Mechanics: MIT 8.01 Course Notes" (PDF - 67.9MB)](https://ocw.mit.edu/ans7870/8/8.01/f16/readings/MIT8_01F16_TableOfContents.pdf) by Peter Dourmashkin. Specific readings for each assignment are provided in the [Readings]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/readings" %}}) section.
+The textbook for this course is ["Classical Mechanics: MIT 8.01 Course Notes" (PDF - 67.9MB)](https://ocw.mit.edu/ans7870/8/8.01/f16/readings/MIT8_01F16_TableOfContents.pdf) by Peter Dourmashkin. Specific readings for each assignment are provided in the [Readings]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/readings/_index.md" %}}) section.
 
 Topics Covered
 --------------
 
-*   [Week 1: Kinematics]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics" %}})
-*   [Week 2: Newton's Laws Circular Motion]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws" %}})
-*   [Week 3: Circular Motion Momentum and Impulse]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion" %}})
-*   [Week 4: Drag Forces, Constraints and Continuous Systems Work and Mechanical Energy]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems" %}})
-*   [Week 5: Momentum and Impulse Collision Theory]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse" %}})
-*   [Week 6: Continuous Mass Transfer Torque]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer" %}})
-*   [Week 7: Kinetic Energy and Work]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work" %}})
-*   [Week 8: Potential Energy and Energy Conservation]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation" %}})
-*   [Week 9: Collision Theory]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory" %}})
-*   [Week 10: Rotational Motion]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion" %}})
-*   [Week 11: Angular Momentum]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum" %}})
-*   [Week 12: Rotations and Translation - Rollin]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling" %}})g
+*   [Week 1: Kinematics]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/_index.md" %}})
+*   [Week 2: Newton's Laws Circular Motion]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/_index.md" %}})
+*   [Week 3: Circular Motion Momentum and Impulse]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/_index.md" %}})
+*   [Week 4: Drag Forces, Constraints and Continuous Systems Work and Mechanical Energy]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/_index.md" %}})
+*   [Week 5: Momentum and Impulse Collision Theory]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/_index.md" %}})
+*   [Week 6: Continuous Mass Transfer Torque]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/_index.md" %}})
+*   [Week 7: Kinetic Energy and Work]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/_index.md" %}})
+*   [Week 8: Potential Energy and Energy Conservation]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/_index.md" %}})
+*   [Week 9: Collision Theory]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/_index.md" %}})
+*   [Week 10: Rotational Motion]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/_index.md" %}})
+*   [Week 11: Angular Momentum]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/_index.md" %}})
+*   [Week 12: Rotations and Translation - Rollin]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/_index.md" %}})g
 
 How to Use This Site
 --------------------
 
 This version of 8._01 Classical Mechanics_ on OCW is modified from the materials presented in the fall 2016 course taught at MIT. The course is broken into twelve weeks, as listed above. Each week contains 3-4 lessons on distinct topics. Each lesson consists of a series of videos explaining the topic, which are meant to be viewed in sequence.
 
-The [first lesson]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors/0.1-vectors-vs.-scalars" %}}) is on vectors; the "Previous" and "Next" buttons can be used to navigate between videos. Alternatively, all videos can be accessed on the "Week" page corresponding to that lesson.
+The [first lesson]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors/0.1-vectors-vs.-scalars/_index.md" %}}) is on vectors; the "Previous" and "Next" buttons can be used to navigate between videos. Alternatively, all videos can be accessed on the "Week" page corresponding to that lesson.
 
 Grades
 ------
@@ -92,4 +92,4 @@ Scientists and engineers work in groups as well as alone. Social interactions ar
 
 You will form groups of three for collaborative work. If you are not satisfied with the way your group is working, first try to discuss it with your group members. If you cannot arrive at a satisfactory solution, then discuss the problems with your instructor.
 
-« [Previous](./resolveuid/8f538d2a785ea37ad30133ad74e8e40e) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus/about-the-team" %}}) »
+« [Previous](./resolveuid/8f538d2a785ea37ad30133ad74e8e40e) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus/about-the-team/_index.md" %}}) »

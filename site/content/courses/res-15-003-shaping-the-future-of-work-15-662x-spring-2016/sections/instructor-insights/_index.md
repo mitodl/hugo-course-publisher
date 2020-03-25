@@ -40,17 +40,17 @@ I’ve been studying work and employment relations, and related topics, for over
 
 — Tom Kochan
 
-![Smiling man sitting in a chair in an office. Filing cabinets and bookshelves are positioned behind the chair.](https://open-learning-course-data-ci.s3.amazonaws.com/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/852b0e62fd9a19fe397f27868f670f47_Tom_Kochan_s.jpg)
+![Smiling man sitting in a chair in an office. Filing cabinets and bookshelves are positioned behind the chair.](https://open-learning-course-data.s3.amazonaws.com/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/852b0e62fd9a19fe397f27868f670f47_Tom_Kochan_s.jpg)
 
 Tom Kochan in his office at MIT Sloan. (Photo by MIT OpenCourseWare.)
 
 _Below, Professor Tom Kochan describes various aspects of how he taught 15.662x Shaping the Future of Work._
 
-*   [Teaching Online to Improve Residential Education]({{% ref "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/instructor-insights/teaching-online-to-improve-residential-education" %}})
-*   [Adapting Content, Communicating Differently]({{% ref "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/instructor-insights/adapting-content-communicating-differently" %}})
-*   [Valuing the Contributions of Others]({{% ref "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/instructor-insights/valuing-the-contributions-of-others" %}})
-*   [Assessment in an Online Course]({{% ref "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/instructor-insights/assessment-in-an-online-course" %}})
-*   [Reaching Audiences More Effectively]({{% ref "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/instructor-insights/reaching-audiences-more-effectively" %}})
+*   [Teaching Online to Improve Residential Education]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/instructor-insights/teaching-online-to-improve-residential-education/_index.md" %}})
+*   [Adapting Content, Communicating Differently]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/instructor-insights/adapting-content-communicating-differently/_index.md" %}})
+*   [Valuing the Contributions of Others]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/instructor-insights/valuing-the-contributions-of-others/_index.md" %}})
+*   [Assessment in an Online Course]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/instructor-insights/assessment-in-an-online-course/_index.md" %}})
+*   [Reaching Audiences More Effectively]({{% getpage "courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/sections/instructor-insights/reaching-audiences-more-effectively/_index.md" %}})
 
 _Learn more! The following Residential Digital Innovations pages provide more information on how residential students can benefit from interacting with online students through a MOOC._
 
@@ -75,7 +75,7 @@ MITx offers a free version of this subject [on the edX platform](https://www.edx
 The Classroom
 -------------
 
-*   ![Screenshot of “Class 1” on the edX platform. A left navigation menu features section titles. There is an option to play a video, entitled “An Introduction from Professor Kochan,” in the center of the screen.](https://open-learning-course-data-ci.s3.amazonaws.com/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/68574524b055db35fed038721cb5c55b_15.662x_on_edX_s.jpg)
+*   ![Screenshot of “Class 1” on the edX platform. A left navigation menu features section titles. There is an option to play a video, entitled “An Introduction from Professor Kochan,” in the center of the screen.](https://open-learning-course-data.s3.amazonaws.com/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/68574524b055db35fed038721cb5c55b_15.662x_on_edX_s.jpg)
     
     ### Online course on edX platform
     
@@ -102,7 +102,7 @@ Student grades in this course were based on attentiveness questions and peer-rev
 Student Information
 -------------------
 
-![About 4075 students took this course when it was offered in Spring 2016.](https://open-learning-course-data-ci.s3.amazonaws.com/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/1765af7af78e4f16d0d64d446175a9ad_4075.png)
+![About 4075 students took this course when it was offered in Spring 2016.](https://open-learning-course-data.s3.amazonaws.com/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/1765af7af78e4f16d0d64d446175a9ad_4075.png)
 
 ### Enrollment
 

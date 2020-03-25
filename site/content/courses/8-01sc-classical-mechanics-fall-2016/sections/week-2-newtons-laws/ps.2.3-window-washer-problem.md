@@ -7,10 +7,10 @@ menu:
     weight: 560
     parent: cf6d9ae85d7b6e788f1e70cf24afc329_week-2-newtons-laws
 ---
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/problem-set-2" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/problem-set-2" %}}) »
 
-![A diagram showing a window washer standing on a platform hanging from the ceiling by two pulleys.](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/8795a8d9c0b50bce53c101ec09dd4356_ls02_02.svg)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![A diagram showing a window washer standing on a platform hanging from the ceiling by two pulleys.](https://open-learning-course-data.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/8795a8d9c0b50bce53c101ec09dd4356_ls02_02.svg)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 A window washer of mass \\(\\displaystyle m\\) is sitting on a horizontal platform of negligible mass. The platform is held up by the two pulleys and the two ropes (A and B) shown in the figure. The person is able to pull Rope B downwards in such a way that the platform accelerates upwards with an acceleration of magnitude \\(\\displaystyle a\\). Assume the ropes and pulleys to be massless. The goal of the problem is to calculate the force exerted by the window washer on rope B in terms of \\(\\displaystyle a\\), \\(\\displaystyle m\\) and \\(\\displaystyle g\\) as needed.
 
@@ -44,4 +44,4 @@ Now that we know the system, we can solve for \\(\\displaystyle F\_{wB}\\).
 Window Washer Solution
 ----------------------
 
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/problem-set-2" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/problem-set-2" %}}) »

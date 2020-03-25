@@ -50,7 +50,7 @@ Assignments
 
 **Paper Revisions and Expansion**: Students will revise and expand one paper based on feedback from the instructor.
 
-In-depth details about these can be found in the [Assignments section]({{% ref "courses/21g-049-french-photography-spring-2017/sections/assignments" %}}).
+In-depth details about these can be found in the [Assignments section]({{% getpage "courses/21g-049-french-photography-spring-2017/sections/assignments" %}}).
 
 Grading
 -------

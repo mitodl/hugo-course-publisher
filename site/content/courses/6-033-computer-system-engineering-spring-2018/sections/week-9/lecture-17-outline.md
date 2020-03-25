@@ -28,7 +28,7 @@ menu:
     *   Definition should make sense: Concurrent reads are generally fine, but problems arise as soon as writes get involved.
     *   A schedule is conflict serializable if the order of all of its conflicts is the same as the order of the conflicts in some sequential schedule.
         *   By "order of conflicts" we mean the ordering of the steps in each individual conflict.
-    *   See [Lecture 17 slides (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/92b03e933e2fec860b6bcb53a306e020_MIT6_033S18lec17.pdf) for examples. A schedule can be final-state serializable but not conflict serializable.
+    *   See [Lecture 17 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-9/MIT6_033S18lec17" %}}) for examples. A schedule can be final-state serializable but not conflict serializable.
 4.  Conflict Graphs
     *   Nodes are transactions.
     *   Edges are directed.
@@ -83,7 +83,7 @@ menu:
           T1: write (y); T2: write (y)`
         
         The conflict graph is:  
-         ![Conflict graph between T1, T2, T3, and T4.](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/191c7334efddf3346e7d357d7122f6b8_Untitled-1.jpg)
+         ![Conflict graph between T1, T2, T3, and T4.](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/191c7334efddf3346e7d357d7122f6b8_Untitled-1.jpg)
         
     *   Acyclic conflict graph <=> conflict-serializable.
         *   Makes sense: conflict graph for any serial schedule is acyclic.
@@ -144,7 +144,7 @@ menu:
     |   |   | `write (x) ` 
     
     Conflict graph:  
-    ![Conflict graph between T1, T2, and T3.](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/08da808c5e1770946eb5ed6637fa7572_Untitled-2.jpg)
+    ![Conflict graph between T1, T2, and T3.](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/08da808c5e1770946eb5ed6637fa7572_Untitled-2.jpg)
     
     *   Not acyclic => not conflict serializable.
     *   But compare it to running T1, then T2, then T3 (serially).

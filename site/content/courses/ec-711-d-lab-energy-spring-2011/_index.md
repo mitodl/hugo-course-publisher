@@ -3,9 +3,8 @@ title: Course Home
 course_id: ec-711-d-lab-energy-spring-2011
 course_title: 'D-Lab: Energy'
 course_image_url: >-
-  https://open-learning-course-data-ci.s3.amazonaws.com/ec-711-d-lab-energy-spring-2011/904b1bf01a94f63a980908933b86bfda_ec-711s11.jpg
-course_thumbnail_image_url: >-
-  https://open-learning-course-data-ci.s3.amazonaws.com/ec-711-d-lab-energy-spring-2011/ce3eef57129daf7c8cc223790262ef9c_ec-711s11-th.jpg
+  https://open-learning-course-data.s3.amazonaws.com/ec-711-d-lab-energy-spring-2011/904b1bf01a94f63a980908933b86bfda_ec-711s11.jpg
+course_thumbnail_image_url: ''
 course_image_alternate_text: >-
   Photo of a student standing outdoors next to a box containing cookies, with
   clear plexiglass top and a large foil solar reflector.

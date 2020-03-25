@@ -93,7 +93,7 @@ An invaluable resource for Bitcoin is this blog post: [How the Bitcoin Protocol
         *   The log is actually called the blockchain.
     *   If two people solve the puzzle at the same time, the blockchain forks:
     
-    ![Diagram of a blockchain fork.](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/d3601a92393bb430c3f522cb995c18f8_Untitled-1.jpg)
+    ![Diagram of a blockchain fork.](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/d3601a92393bb430c3f522cb995c18f8_Untitled-1.jpg)
     
     *   When a fork occurs, miners keep track of both forks and work to extend the longest fork. Pretty quickly, the shorter fork is rendered invalid.
     *   Formally: A transaction is not confirmed until it is part of a block on the longest fork and at least five blocks follow it in the longest fork.

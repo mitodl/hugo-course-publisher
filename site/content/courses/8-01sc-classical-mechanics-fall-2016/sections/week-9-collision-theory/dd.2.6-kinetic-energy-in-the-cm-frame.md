@@ -7,6 +7,6 @@ menu:
     weight: 1770
     parent: bc33ee80c8fd90e4dfda7092ddd24879_week-9-collision-theory
 ---
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.5-kinetic-energy-in-different-reference-frames" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.7-change-in-the-kinetic-energy" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.5-kinetic-energy-in-different-reference-frames" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.7-change-in-the-kinetic-energy" %}}) »
 
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.5-kinetic-energy-in-different-reference-frames" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.7-change-in-the-kinetic-energy" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.5-kinetic-energy-in-different-reference-frames" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.7-change-in-the-kinetic-energy" %}}) »

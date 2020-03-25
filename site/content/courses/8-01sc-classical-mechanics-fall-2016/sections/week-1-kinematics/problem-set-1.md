@@ -7,7 +7,7 @@ menu:
     weight: 370
     parent: 63e325a780c79e352fb5bddb9b8b2c6a_week-1-kinematics
 ---
-« [Previous](./resolveuid/e0c2768c08368a33b6f65ec2b2d68659) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws" %}}) »
+« [Previous](./resolveuid/e0c2768c08368a33b6f65ec2b2d68659) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws" %}}) »
 
 Problem Set 1 contains the following problems:
 
@@ -17,6 +17,6 @@ Problem Set 1 contains the following problems:
 4.  Throw and Catch
 5.  Vertical Collision
 
-*   [Problem Set 1 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/96231b21bccffc0c17c7d98629a52eb2_MIT8_01F16_pset1_new.pdf)
+*   [Problem Set 1 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset1_new" %}})
 
-« [Previous](./resolveuid/e0c2768c08368a33b6f65ec2b2d68659) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws" %}}) »
+« [Previous](./resolveuid/e0c2768c08368a33b6f65ec2b2d68659) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws" %}}) »

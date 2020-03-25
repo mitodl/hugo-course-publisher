@@ -8,7 +8,7 @@ menu:
     weight: 350
     parent: dadfeb1198fbe700d205d71a4c85f081_student-reflections
 ---
-« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/ceri-rileys-reflections" %}}) | [Next]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/joshua-cheongs-reflections" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/ceri-rileys-reflections" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/joshua-cheongs-reflections" %}}) »
 
 [Day 1](#Cheahyhk_s_Thoughts_on_Day_1_) | [Day 2](#Blog_Entry_Day_2__Cheahyhk_) | [Day 3](#CHEAHYHK_DAY_3) | [Day 4](#Day_4_Blog_Post)
 
@@ -25,7 +25,7 @@ Coming into the class, although yes, I was a little disappointed in learning tha
 
 As a kid, I **Loved**, and absolutely **Loved** watching a particular TV series produced in America and "hosted" by kids around my age, running around the house conduction experiments and craft projects that would be easily replicable in my own home (except those involving snow. I guess I can do them now…) It just felt so much easier to connect and learn when things were brought to such a relatable level. Eventually, growing up, with YouTube as such a huge influencer in today's world, it was a matter of time before videos of the same nature were being utilized by everyone, and reaching a much larger target audience rather than just kids. The distinctive difference in feeling I have is that right now, I can choose what I want to watch though, and be able to pick up concepts a lot easier than having to sit through a 30 minutes program.
 
-[\_Link back to Day 1\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor_and_Student_Work)
 
 Blog Entry Day 2
 ----------------
@@ -42,7 +42,7 @@ I then realised that it wasn't because the topic was unrelatable, but it was mor
 
 Which has thus led, to my day2script post.
 
-[\_Link back to Day 2\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor_and_Student_Work)
 
 Day 3
 -----
@@ -55,7 +55,7 @@ With today's feedback session, I had realised that while my opening was witty, f
 
 I guess when having my script revision; I ought to do what I had done with my previous material, which is to better direct audiences to ask the right question. Hmmm, the only question right now is, **How**?!
 
-[\_Link back to Day 3\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor_and_Student_Work)
 
 Day 4 Blog Post
 ---------------
@@ -66,6 +66,6 @@ However I realised soon after that my little problem came back as we broke into 
 
 Drawing it out however seemed to slowly help me better picture everyone else's ideas, which seems to be a core part of my graphic-heavy visualising process.
 
-[\_Link back to Day 4\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor_and_Student_Work)
 
-« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/ceri-rileys-reflections" %}}) | [Next]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/joshua-cheongs-reflections" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/ceri-rileys-reflections" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/joshua-cheongs-reflections" %}}) »

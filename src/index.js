@@ -7,6 +7,7 @@ import "bootstrap-material-design"
 import tippy from "tippy.js"
 import "offcanvas-bootstrap/dist/js/bootstrap.offcanvas.js"
 import { initTheme } from "./js/stylesheets"
+import { initPdfViewers } from "./js/pdf_viewer"
 
 window.jQuery = $
 window.$ = $
@@ -25,4 +26,5 @@ $(document).ready(() => {
   })
 
   initTheme()
+  initPdfViewers()
 })

@@ -7,12 +7,12 @@ menu:
     weight: 60
     parent: 36cc671ac04c270e9cac7a210efd6846_unit-i-the-atom
 ---
-« [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/078998c13433fa2fcbf323d2a0197d85_Lecture_3.jpg)  | {{< br >}}{{< br >}}1.  Light as a Wave, Characteristics of Waves{{< br >}}2.  Light as a Particle, The Photoelectric Effect{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/078998c13433fa2fcbf323d2a0197d85_Lecture_3.jpg)  | {{< br >}}{{< br >}}1.  Light as a Wave, Characteristics of Waves{{< br >}}2.  Light as a Particle, The Photoelectric Effect{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -22,12 +22,12 @@ The idea that light is both a wave and a particle is introduced. The properties 
 Lecture Notes
 -------------
 
-[Notes for Lecture 3 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/d95f1abec7d8eecc16145b9f2fd2761e_MIT5_111F14_Lec3.pdf)
+[Notes for Lecture 3 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec3" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 3 Clicker Questions (PDF - 1.3MB)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/d60dfec6ecb54eb57c5c5f7f02065311_MIT5_111F14_Lec3Clkr.pdf)
+[Lecture 3 Clicker Questions (PDF - 1.3MB)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec3Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -51,13 +51,13 @@ Cathy Drennan explains how her dyslexia, and other people’s low expectations o
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 3 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/00db7442f05087c75f86190c60ee0dc4_MIT5_111F14_Lec03Prob.pdf)
+[Problems for Lecture 3 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec03Prob" %}})
 
-[Solutions for Lecture 3 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/98dea71a08b7a4270268110f41bcd7e2_MIT5_111F14_Lec03Soln.pdf)
+[Solutions for Lecture 3 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec03Soln" %}})
 
 Acknowledgement
 ---------------
 
 Excerpt of “[ROY G. BIV](https://youtu.be/Gf33ueRXMzQ)” by [They Might Be Giants](http://www.theymightbegiants.com/), courtesy of Idlewild / Disney Sound, used with permission. From [_Here Comes Science_](https://www.theymightbegiants.com/here-comes-science), 2009.
 
-« [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4" %}}) »

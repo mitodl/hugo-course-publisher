@@ -7,6 +7,6 @@ menu:
     weight: 390
     parent: cf6d9ae85d7b6e788f1e70cf24afc329_week-2-newtons-laws
 ---
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/4.1-newtons-first-and-second-laws" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/4.1-newtons-first-and-second-laws" %}}) »
 
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/4.1-newtons-first-and-second-laws" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/4.1-newtons-first-and-second-laws" %}}) »

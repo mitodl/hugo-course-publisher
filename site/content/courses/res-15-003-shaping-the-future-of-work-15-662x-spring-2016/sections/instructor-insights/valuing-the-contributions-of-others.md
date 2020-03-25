@@ -23,7 +23,7 @@ Millennials Share their Experiences
 
 One of the smartest things we did in designing the course was to include a video featuring two students sharing their perspectives on what millennials want from their experiences in the work force. [In the video](./resolveuid/84d30efa9d4853a60448bad4cf0ee3eb), they share what the research says millennials want, and then what they hear their peers saying. It’s one of my favorite videos because it captures a contribution to the course that I could not have made myself. I could have said the same words, but my words wouldn’t have had the same impact. Participants needed to hear information about millennials from millennials.
 
-![Men and women holding signs with slogans such as Higher Pay and 5-day Week.](https://open-learning-course-data-ci.s3.amazonaws.com/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/3c7879acad11273631a5099e3d3c677f_RES.15-003_mural.jpg)
+![Men and women holding signs with slogans such as Higher Pay and 5-day Week.](https://open-learning-course-data.s3.amazonaws.com/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/3c7879acad11273631a5099e3d3c677f_RES.15-003_mural.jpg)
 
 Mural of workers holding placards. (Image courtesy of Kheel Center. License: CC BY.)
 

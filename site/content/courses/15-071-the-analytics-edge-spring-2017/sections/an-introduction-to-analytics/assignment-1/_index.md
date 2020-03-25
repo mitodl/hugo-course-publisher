@@ -7,12 +7,12 @@ menu:
     weight: 350
     parent: bebdc8ab5b1f9682d6b762b671b5cf25_an-introduction-to-analytics
 ---
-*   [<Video 6: Summary Tables]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-6-summary-tables" %}})
-*   [1.5.1An Analytical Detective]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1" %}})
-*   [1.5.2Stock Dynamics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
-*   [1.5.3Demographics and Employment in the United States]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
-*   [1.5.4Internet Privacy Poll]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll" %}})
-*   [\\>Stock Dynamics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
+*   [<Video 6: Summary Tables]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-6-summary-tables/_index.md" %}})
+*   [1.5.1An Analytical Detective]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/_index.md" %}})
+*   [1.5.2Stock Dynamics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics/_index.md" %}})
+*   [1.5.3Demographics and Employment in the United States]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states/_index.md" %}})
+*   [1.5.4Internet Privacy Poll]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll/_index.md" %}})
+*   [\\>Stock Dynamics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics/_index.md" %}})
 
 An Analytical Detective
 -----------------------
@@ -21,11 +21,11 @@ Crime is an international concern, but it is documented and handled in very diff
 
 Chicago is the third most populous city in the United States, with a population of over 2.7 million people. The city of Chicago is shown in the map below, with the state of Illinois highlighted in red. 
 
-![Map of the United States with Illinois in red and pointing to the location of Chicago.](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/1b011894db06d27c0885ce6c8f1afa60_ChicagoMap.png)
+![Map of the United States with Illinois in red and pointing to the location of Chicago.](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/1b011894db06d27c0885ce6c8f1afa60_ChicagoMap.png)
 
 There are two main types of crimes: violent crimes, and property crimes. In this problem, we'll focus on one specific type of property crime, called "motor vehicle theft" (sometimes referred to as grand theft auto). This is the act of stealing, or attempting to steal, a car. In this problem, we'll use some basic data analysis in R to understand the motor vehicle thefts in Chicago. 
 
-Please download the file [mvtWeek1 (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/123f9aa4885b259db7f3aef5153835de_mvtWeek1.csv) for this problem (do not open this file in any spreadsheet software before completing this problem because it might change the format of the Date field). Here is a list of descriptions of the variables:
+Please download the file [mvtWeek1 (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/123f9aa4885b259db7f3aef5153835de_mvtWeek1.csv) for this problem (do not open this file in any spreadsheet software before completing this problem because it might change the format of the Date field). Here is a list of descriptions of the variables:
 
 *   **ID**: a unique identifier for each observation.
 *   **Date**: the date the crime occurred.
@@ -42,7 +42,7 @@ Please download the file [mvtWeek1 (CSV)](https://open-learning-course-data-ci.s
 Problem 1.1 - Loading the Data
 ------------------------------
 
-Read the dataset [mvtWeek1 (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/123f9aa4885b259db7f3aef5153835de_mvtWeek1.csv) into R, using the read.csv function, and call the data frame "mvt". Remember to navigate to the directory on your computer containing the file mvtWeek1.csv first. It may take a few minutes to read in the data, since it is pretty large. Then, use the str and summary functions to answer the following questions.
+Read the dataset [mvtWeek1 (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/123f9aa4885b259db7f3aef5153835de_mvtWeek1.csv) into R, using the read.csv function, and call the data frame "mvt". Remember to navigate to the directory on your computer containing the file mvtWeek1.csv first. It may take a few minutes to read in the data, since it is pretty large. Then, use the str and summary functions to answer the following questions.
 
 How many rows of data (observations) are in this dataset?
 
@@ -472,5 +472,5 @@ This can be read from table(Top5$LocationDescription, Top5$Weekday).
 
 CheckShow Answer
 
-*   [BackVideo 6: Summary Tables]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-6-summary-tables" %}})
-*   [ContinueStock Dynamics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
+*   [BackVideo 6: Summary Tables]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-6-summary-tables/_index.md" %}})
+*   [ContinueStock Dynamics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics/_index.md" %}})

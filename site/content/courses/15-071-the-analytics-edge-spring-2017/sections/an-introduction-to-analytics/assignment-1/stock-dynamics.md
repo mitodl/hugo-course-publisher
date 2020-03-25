@@ -7,19 +7,19 @@ menu:
     weight: 360
     parent: 0af41c2fca6884fab36c0a31155319b9_assignment-1
 ---
-*   [<Assignment 1]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1" %}})
-*   [1.5.1An Analytical Detective]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1" %}})
-*   [1.5.2Stock Dynamics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
-*   [1.5.3Demographics and Employment in the United States]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
-*   [1.5.4Internet Privacy Poll]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll" %}})
-*   [\\>Demographics and Employment in the United States]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
+*   [<Assignment 1]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1" %}})
+*   [1.5.1An Analytical Detective]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1" %}})
+*   [1.5.2Stock Dynamics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
+*   [1.5.3Demographics and Employment in the United States]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
+*   [1.5.4Internet Privacy Poll]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll" %}})
+*   [\\>Demographics and Employment in the United States]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
 
 Stock Dynamics
 --------------
 
 A stock market is where buyers and sellers trade shares of a company, and is one of the most popular ways for individuals and companies to invest money. The size of the world stock market  is now estimated to be in the trillions. The largest stock market in the world is the New York Stock Exchange (NYSE), located in New York City. About 2,800 companies are listed on the NSYE. In this problem, we'll look at the monthly stock prices of five of these companies: [IBM](http://www.ibm.com/), [General Electric (GE)](http://www.ge.com/), [Procter and Gamble](http://www.pg.com/), [Coca Cola](http://www.coca-cola.com), and [Boeing](http://www.boeing.com). The data used in this problem comes from [Infochimps](http://www.infochimps.com).
 
-Download and read the following files into R, using the read.csv function: [IBMStock (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/08d083a51725af8b9880dca1198098a7_IBMStock.csv), [GEStock (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/0e654677e28d932d10fcd75f3884636d_GEStock.csv), [ProcterGambleStock (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/5b4baa711c24d26117a729b442529ba5_ProcterGambleStock.csv), [CocaColaStock (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/4e0afebb6ca9c80d80e630e8e9872585_CocaColaStock.csv), and [BoeingStock (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/550f7976b38aea3b061072d505e139f1_BoeingStock.csv). (Do not open these files in any spreadsheet software before completing this problem because it might change the format of the Date field.)
+Download and read the following files into R, using the read.csv function: [IBMStock (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/08d083a51725af8b9880dca1198098a7_IBMStock.csv), [GEStock (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/0e654677e28d932d10fcd75f3884636d_GEStock.csv), [ProcterGambleStock (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/5b4baa711c24d26117a729b442529ba5_ProcterGambleStock.csv), [CocaColaStock (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/4e0afebb6ca9c80d80e630e8e9872585_CocaColaStock.csv), and [BoeingStock (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/550f7976b38aea3b061072d505e139f1_BoeingStock.csv). (Do not open these files in any spreadsheet software before completing this problem because it might change the format of the Date field.)
 
 Call the data frames "IBM", "GE", "ProcterGamble", "CocaCola", and "Boeing", respectively. Each data frame has two variables, described as follows:
 
@@ -514,5 +514,5 @@ CheckShow Answer
 
 After seeing these trends, we are ready to buy stock in certain months and sell it in others! But, we should be careful, because one really good or really bad year could skew the average to show a trend that is not really there in general.
 
-*   [BackAssignment 1]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1" %}})
-*   [ContinueDemographics and Employment in the United States]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
+*   [BackAssignment 1]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1" %}})
+*   [ContinueDemographics and Employment in the United States]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})

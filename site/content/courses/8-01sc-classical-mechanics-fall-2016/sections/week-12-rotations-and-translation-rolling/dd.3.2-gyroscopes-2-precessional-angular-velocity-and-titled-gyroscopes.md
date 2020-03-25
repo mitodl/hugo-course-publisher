@@ -8,6 +8,6 @@ menu:
     weight: 2390
     parent: fbf76190d89eeed2930e51f9ac3bf2a6_week-12-rotations-and-translation-rolling
 ---
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/dd.3.1-gyroscopes-1-free-body-diagrams-torque-and-rotating-vectors" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/dd.3.1-gyroscopes-1-free-body-diagrams-torque-and-rotating-vectors" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum" %}}) »
 
-« [Previous]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/dd.3.1-gyroscopes-1-free-body-diagrams-torque-and-rotating-vectors" %}}) | [Next]({{% ref "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/dd.3.1-gyroscopes-1-free-body-diagrams-torque-and-rotating-vectors" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum" %}}) »

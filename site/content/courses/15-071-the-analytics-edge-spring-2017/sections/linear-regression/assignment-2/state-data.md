@@ -7,12 +7,12 @@ menu:
     weight: 760
     parent: d3823600300c03000e79696e835f8f2f_assignment-2
 ---
-*   [<Detecting Flu Epidemics via Search Engine Query Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/detecting-flu-epidemics-via-search-engine-query-data" %}})
-*   [2.5.1Climate Change]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2" %}})
-*   [2.5.2Reading Test Scores]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/reading-test-scores" %}})
-*   [2.5.3Detecting Flu Epidemics via Search Engine Query Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/detecting-flu-epidemics-via-search-engine-query-data" %}})
-*   [2.5.4State Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/state-data" %}})
-*   [\\>Logistic Regression]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression" %}})
+*   [<Detecting Flu Epidemics via Search Engine Query Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/detecting-flu-epidemics-via-search-engine-query-data" %}})
+*   [2.5.1Climate Change]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2" %}})
+*   [2.5.2Reading Test Scores]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/reading-test-scores" %}})
+*   [2.5.3Detecting Flu Epidemics via Search Engine Query Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/detecting-flu-epidemics-via-search-engine-query-data" %}})
+*   [2.5.4State Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/state-data" %}})
+*   [\\>Logistic Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression" %}})
 
 State Data
 ----------
@@ -27,7 +27,7 @@ data(state)
 
 statedata = cbind(data.frame(state.x77), state.abb, state.area, state.center,  state.division, state.name, state.region)
 
-If you can't access the state dataset in R, here is a CSV file with the same data that you can load into R using the read.csv function: [statedata (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/b1ac404f54b7a0914b832e21afcb2fac_statedata.csv).
+If you can't access the state dataset in R, here is a CSV file with the same data that you can load into R using the read.csv function: [statedata (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/b1ac404f54b7a0914b832e21afcb2fac_statedata.csv).
 
 After you have loaded the data into R, inspect the data set using the command: str(statedata)
 
@@ -420,5 +420,5 @@ in your R console. The largest absolute error is for Hawaii.
 
 CheckShow Answer
 
-*   [BackDetecting Flu Epidemics via Search Engine Query Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/detecting-flu-epidemics-via-search-engine-query-data" %}})
-*   [ContinueLogistic Regression]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression" %}})
+*   [BackDetecting Flu Epidemics via Search Engine Query Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/detecting-flu-epidemics-via-search-engine-query-data" %}})
+*   [ContinueLogistic Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression" %}})

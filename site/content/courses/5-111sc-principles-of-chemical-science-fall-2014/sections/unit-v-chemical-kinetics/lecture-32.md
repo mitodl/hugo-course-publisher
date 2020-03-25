@@ -7,12 +7,12 @@ menu:
     weight: 390
     parent: 124cd4e89ed86cbe95d852c3908bfac3_unit-v-chemical-kinetics
 ---
-« [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-33" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-33" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/41a28d071c100dbdd44e35c97eac2e15_Lecture_32.jpg)  | {{< br >}}{{< br >}}1.  Investigating Reaction Mechanisms{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/41a28d071c100dbdd44e35c97eac2e15_Lecture_32.jpg)  | {{< br >}}{{< br >}}1.  Investigating Reaction Mechanisms{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -22,12 +22,12 @@ Chemists experimentally determine rate laws and then use that experimental infor
 Lecture Notes
 -------------
 
-[Notes for Lecture 32 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/cc02310e5ecddd0c1341e7ea59da3f08_MIT5_111F14_Lecture32.pdf)
+[Notes for Lecture 32 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lecture32" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 32 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/75dc4ea86ecbf485fc4d2bbc07134071_MIT5_111F14_Lec32Clkr.pdf)
+[Lecture 32 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lec32Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -40,8 +40,8 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 32 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/18db0db2803312f3ba64f702c0c06786_MIT5_111F14_Lec32Prob.pdf)
+[Problems for Lecture 32 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lec32Prob" %}})
 
-[Solutions for Lecture 32 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/49eebcdad7bd369b5c72b39c8ddee4e6_MIT5_111F14_Lec32Soln.pdf)
+[Solutions for Lecture 32 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lec32Soln" %}})
 
-« [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-33" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-33" %}}) »

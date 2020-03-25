@@ -7,17 +7,17 @@ menu:
     weight: 380
     parent: 0af41c2fca6884fab36c0a31155319b9_assignment-1
 ---
-*   [<Demographics and Employment in the United States]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
-*   [1.5.1An Analytical Detective]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1" %}})
-*   [1.5.2Stock Dynamics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
-*   [1.5.3Demographics and Employment in the United States]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
-*   [1.5.4Internet Privacy Poll]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll" %}})
-*   [\\>Linear Regression]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression" %}})
+*   [<Demographics and Employment in the United States]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
+*   [1.5.1An Analytical Detective]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1" %}})
+*   [1.5.2Stock Dynamics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
+*   [1.5.3Demographics and Employment in the United States]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
+*   [1.5.4Internet Privacy Poll]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll" %}})
+*   [\\>Linear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression" %}})
 
 Internet Privacy Poll
 ---------------------
 
-Internet privacy has gained widespread attention in recent years. To measure the degree to which people are concerned about hot-button issues like Internet privacy, social scientists conduct polls in which they interview a large number of people about the topic. In this assignment, we will analyze data from a [July 2013 Pew Internet and American Life Project poll on Internet anonymity and privacy](http://www.pewinternet.org/2013/09/05/anonymity-privacy-and-security-online/), which involved interviews across the United States. While the full polling data can be found on [the Pew Research Center's website](http://www.pewinternet.org/2013/09/05/anonymity-privacy-and-security-online/), we will use a more limited version of the results, available in [AnonymityPoll (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/fc53f44a4ec7c467b2f882a5636b0d3b_AnonymityPoll.csv). The dataset has the following fields (all Internet use-related fields were only collected from interviewees who either use the Internet or have a smartphone):
+Internet privacy has gained widespread attention in recent years. To measure the degree to which people are concerned about hot-button issues like Internet privacy, social scientists conduct polls in which they interview a large number of people about the topic. In this assignment, we will analyze data from a [July 2013 Pew Internet and American Life Project poll on Internet anonymity and privacy](http://www.pewinternet.org/2013/09/05/anonymity-privacy-and-security-online/), which involved interviews across the United States. While the full polling data can be found on [the Pew Research Center's website](http://www.pewinternet.org/2013/09/05/anonymity-privacy-and-security-online/), we will use a more limited version of the results, available in [AnonymityPoll (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/fc53f44a4ec7c467b2f882a5636b0d3b_AnonymityPoll.csv). The dataset has the following fields (all Internet use-related fields were only collected from interviewees who either use the Internet or have a smartphone):
 
 *   **Internet.Use**: A binary variable indicating if the interviewee uses the Internet, at least occasionally (equals 1 if the interviewee uses the Internet, and equals 0 if the interviewee does not use the Internet).
 *   **Smartphone**: A binary variable indicating if the interviewee has a smartphone (equals 1 if they do have a smartphone, and equals 0 if they don't have a smartphone).
@@ -36,7 +36,7 @@ Internet privacy has gained widespread attention in recent years. To measure the
 Problem 1.1 - Loading and Summarizing the Dataset
 -------------------------------------------------
 
-Using read.csv(), load the dataset from [AnonymityPoll (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/fc53f44a4ec7c467b2f882a5636b0d3b_AnonymityPoll.csv) into a data frame called poll and summarize it with the summary() and str() functions.
+Using read.csv(), load the dataset from [AnonymityPoll (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/fc53f44a4ec7c467b2f882a5636b0d3b_AnonymityPoll.csv) into a data frame called poll and summarize it with the summary() and str() functions.
 
 How many people participated in the poll?
 
@@ -498,5 +498,5 @@ Next week, we will begin to more formally characterize how an outcome variable l
 
 CheckShow Answer
 
-*   [BackDemographics and Employment in the United States]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
-*   [ContinueLinear Regression]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression" %}})
+*   [BackDemographics and Employment in the United States]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
+*   [ContinueLinear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression" %}})

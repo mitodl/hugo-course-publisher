@@ -7,9 +7,9 @@ menu:
     weight: 3020
     parent: daafaa58867c9765f1c4c60a9c0ed426_linear-optimization
 ---
-*   [<Video 8: Extensions and the Edge]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-8-extensions-and-the-edge" %}})
-*   [8.5.1Even' Star Organic Farm]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/assignment-8" %}})
-*   [\\>Integer Optimization]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization" %}})
+*   [<Video 8: Extensions and the Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-8-extensions-and-the-edge" %}})
+*   [8.5.1Even' Star Organic Farm]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/assignment-8" %}})
+*   [\\>Integer Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization" %}})
 
 Even' Star Organic Farm
 -----------------------
@@ -25,7 +25,7 @@ Brett has a limited amount of produce that he can sell each season, and he needs
 Problem 1.1 - Formulating the Problem
 -------------------------------------
 
-Let's formulate Brett's problem as a linear optimization problem. The spreadsheet [EvenStarFarm (ODS)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/76d937c2e04ad2de53f9c971328b5f0e_EvenStarFarm.ods) for LibreOffice or OpenOffice, and [EvenStarFarm (XLSX)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/0dfaed12f92d54696c28596520d801a4_EvenStarFarm.xlsx) for Microsoft Excel, contains the data for the problem, and has set up the decision variables and objective for you.
+Let's formulate Brett's problem as a linear optimization problem. The spreadsheet [EvenStarFarm (ODS)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/76d937c2e04ad2de53f9c971328b5f0e_EvenStarFarm.ods) for LibreOffice or OpenOffice, and [EvenStarFarm (XLSX)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/0dfaed12f92d54696c28596520d801a4_EvenStarFarm.xlsx) for Microsoft Excel, contains the data for the problem, and has set up the decision variables and objective for you.
 
 The **decision variables** in our problem are the number of cases of each type of produce to sell in each channel (there are 24 decision variables). They are highlighted in yellow in the spreadsheet.
 
@@ -354,5 +354,5 @@ CheckShow Answer
 
 Acknowledgements: This problem is based on the case study "[Introducing Integer Modeling with Excel Solver](https://pubsonline.informs.org/doi/pdf/10.1287/ited.7.1.88)" by Dessislava Pachamanova, INFORMS Transactions on Education 7:1(88-98). Publication year 2006.
 
-*   [BackVideo 8: Extensions and the Edge]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-8-extensions-and-the-edge" %}})
-*   [ContinueInteger Optimization]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization" %}})
+*   [BackVideo 8: Extensions and the Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-8-extensions-and-the-edge" %}})
+*   [ContinueInteger Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization" %}})

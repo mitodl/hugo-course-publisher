@@ -22,11 +22,11 @@ Lecture 1: Coping with Complexity: Enforced Modularity via Client/server Organiz
 4.  Enforced Modularity
 5.  Other Goals
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-1/lecture-1-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-1/lecture-1-outline/_index.md" %}})
 
 ### Lecture Slides
 
-*   [Lecture 1 Slides: Coping with Complexity (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/aff13f0f0cef504f9e6af139d166d0b1_MIT6_033S18lec1.pdf)
+*   [Lecture 1 Slides: Coping with Complexity (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-1/MIT6_033S18lec1" %}})
 
 ### Reading
 
@@ -36,7 +36,7 @@ Recitation 2: We Did Nothing Wrong
 ----------------------------------
 
 *   Read "[We Did Nothing Wrong: Why Software Quality Matters](http://www.baselinemag.com/c/a/Projects-Processes/We-Did-Nothing-Wrong)" by D. Gage & J. McCormick in _Baseline Magazine_ on March 4, 2004
-*   [We Did Nothing Wrong Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-1/we-did-nothing-wrong" %}})
+*   [We Did Nothing Wrong Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-1/we-did-nothing-wrong/_index.md" %}})
 
 Tutorial 1: Introduction to 6.033 Communication
 -----------------------------------------------
@@ -46,4 +46,4 @@ Most of these tutorials will teach the communication theory and practices of thi
 System Critique Assignment 1: Evaluate and Assess a Domain Name System (DNS)
 ----------------------------------------------------------------------------
 
-*   Assigned: [Critique Assignment 1]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-1/critique-assignment-1" %}})
+*   Assigned: [Critique Assignment 1]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-1/critique-assignment-1/_index.md" %}})

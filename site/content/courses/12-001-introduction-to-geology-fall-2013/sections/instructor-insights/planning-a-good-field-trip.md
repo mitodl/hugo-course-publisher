@@ -15,7 +15,7 @@ The most important thing we do in planning a good field trip is providing studen
 
 The most important thing we do in planning a good field trip is providing students with a good story—a story that unfolds over the course of the field experience. The story that we tell through our field trip to upstate New York is how supercontinents assemble and break apart. It’s also the story of how oceans open and close. The theme of the trip is this cyclical process. We see two full cycles of the opening and closing of ocean basins on our drive from upstate New York to western Massachusetts.
 
-![A mineral with a shiny luster and flaky cleavage.](https://open-learning-course-data-ci.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/ac6c04d57955b585a812bd1d38d542b3_12-001_field-trip1.jpg)  
+![A mineral with a shiny luster and flaky cleavage.](https://open-learning-course-data.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/ac6c04d57955b585a812bd1d38d542b3_12-001_field-trip1.jpg)  
 
 The luster and cleavage of this mica make it an easy mineral to identify. (Image by MIT OpenCourseWare.)
 

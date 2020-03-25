@@ -7,12 +7,12 @@ menu:
     weight: 730
     parent: c846ced6fc6d3bc964e047324e251a98_linear-regression
 ---
-*   [<Video 4: Making Predictions]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-4-making-predictions" %}})
-*   [2.5.1Climate Change]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2" %}})
-*   [2.5.2Reading Test Scores]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/reading-test-scores" %}})
-*   [2.5.3Detecting Flu Epidemics via Search Engine Query Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/detecting-flu-epidemics-via-search-engine-query-data" %}})
-*   [2.5.4State Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/state-data" %}})
-*   [\\>Reading Test Scores]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/reading-test-scores" %}})
+*   [<Video 4: Making Predictions]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-4-making-predictions/_index.md" %}})
+*   [2.5.1Climate Change]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/_index.md" %}})
+*   [2.5.2Reading Test Scores]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/reading-test-scores/_index.md" %}})
+*   [2.5.3Detecting Flu Epidemics via Search Engine Query Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/detecting-flu-epidemics-via-search-engine-query-data/_index.md" %}})
+*   [2.5.4State Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/state-data/_index.md" %}})
+*   [\\>Reading Test Scores]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/reading-test-scores/_index.md" %}})
 
 Climate Change
 --------------
@@ -21,7 +21,7 @@ There have been many studies documenting that the average global temperature has
 
 In this problem, we will attempt to study the relationship between average global temperature and several other factors.
 
-The file [climate\_change (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/3b53e75d1ddb97bd98f40ae5bbee2475_climate_change.csv) contains climate data from May 1983 to December 2008. The available variables include:
+The file [climate\_change (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/3b53e75d1ddb97bd98f40ae5bbee2475_climate_change.csv) contains climate data from May 1983 to December 2008. The available variables include:
 
 *   _Year_: the observation year.
 *   _Month_: the observation month.
@@ -195,5 +195,5 @@ We have observed that, for this problem, when we remove many variables the sign 
 
 CheckShow Answer
 
-*   [BackVideo 4: Making Predictions]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-4-making-predictions" %}})
-*   [ContinueReading Test Scores]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/reading-test-scores" %}})
+*   [BackVideo 4: Making Predictions]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-4-making-predictions/_index.md" %}})
+*   [ContinueReading Test Scores]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/reading-test-scores/_index.md" %}})

@@ -8,4 +8,4 @@ services:
       - "3001:3001"
     volumes:
       - .:/usr/share/
-    command: bash -c "yarn install && npm start"
+    command: bash -c "yarn install && npm run build:pdfjs && npm start"

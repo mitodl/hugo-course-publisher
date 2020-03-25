@@ -8,17 +8,17 @@ menu:
     weight: 1110
     parent: d4a650ea930c2c8c0f989b353a5a342e_assignment-3
 ---
-*   [<Assignment 3]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3" %}})
-*   [3.5.1Popularity of Music Records]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3" %}})
-*   [3.5.2Predicting the Baseball World Series Champion]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3/predicting-the-baseball-world-series-champion" %}})
-*   [\\>Trees]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees" %}})
+*   [<Assignment 3]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3" %}})
+*   [3.5.1Popularity of Music Records]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3" %}})
+*   [3.5.2Predicting the Baseball World Series Champion]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3/predicting-the-baseball-world-series-champion" %}})
+*   [\\>Trees]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees" %}})
 
 Predicting the Baseball World Series Champion
 ---------------------------------------------
 
 Last week, in the Moneyball lecture, we discussed how regular season performance is not strongly correlated with winning the World Series in baseball. In this homework question, we'll use the same data to investigate how well we can predict the World Series winner at the beginning of the playoffs.
 
-To begin, load the dataset [baseball (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/20168d0dad9b53e072396f5168dc5290_baseball.csv) into R using the read.csv function, and call the data frame "baseball". This is the same data file we used during the Moneyball lecture, and the data comes from [Baseball-Reference.com](http://www.baseball-reference.com/).
+To begin, load the dataset [baseball (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/20168d0dad9b53e072396f5168dc5290_baseball.csv) into R using the read.csv function, and call the data frame "baseball". This is the same data file we used during the Moneyball lecture, and the data comes from [Baseball-Reference.com](http://www.baseball-reference.com/).
 
 As a reminder, this dataset contains data concerning a baseball team's performance in a given year. It has the following variables:
 
@@ -377,5 +377,5 @@ This seems to confirm the claim made by Billy Beane in Moneyball that all that m
 
 CheckShow Answer
 
-*   [BackAssignment 3]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3" %}})
-*   [ContinueTrees]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees" %}})
+*   [BackAssignment 3]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3" %}})
+*   [ContinueTrees]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees" %}})

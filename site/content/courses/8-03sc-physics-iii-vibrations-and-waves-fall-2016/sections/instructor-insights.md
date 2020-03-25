@@ -6,7 +6,7 @@ menu:
     identifier: 04ff44e40d3409c8726bf5bd29021df8_instructor-insights
     weight: 20
 ---
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves" %}}) »
 
 Instructor Insights
 -------------------
@@ -50,7 +50,7 @@ Every fall and spring semester
 The Classroom
 -------------
 
-*   ![Tiered lecture seats facing three sets of sliding chalkboards. A large window on the left wall.](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/5e8287803ae25e62ff080c7d060d1985_classroom-1.jpg)
+*   ![Tiered lecture seats facing three sets of sliding chalkboards. A large window on the left wall.](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/5e8287803ae25e62ff080c7d060d1985_classroom-1.jpg)
     
     ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
     
@@ -58,7 +58,7 @@ The Classroom
     
     Lectures were held in a classroom with tiered seating, sliding chalkboards, an AV system, and an assisted listening device.
     
-*   ![4 rows of white tables and black chairs facing a 2 sets of sliding chalkboards. A window on the left wall.](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c4535f42b05545c4ef20fd941da57d4f_classroom-2.jpeg)
+*   ![4 rows of white tables and black chairs facing a 2 sets of sliding chalkboards. A window on the left wall.](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c4535f42b05545c4ef20fd941da57d4f_classroom-2.jpeg)
     
     [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
     
@@ -76,16 +76,16 @@ var pieData = \[ { value: 25, color: "#DD1E2F" }, { value: 20, color: "#EBB035" 
 
 ![The color used on the preceding chart which represents the percentage of the total grade contributed by problem sets.](/images/educator/edu_b-lab-key.png) 25% Problem sets
 
-![The color used on the preceding chart which represents the percentage of the total grade contributed by exam 1.](/images/educator/edu_b-lecture-key.png) 20% [Exam 1]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/exam-1" %}})
+![The color used on the preceding chart which represents the percentage of the total grade contributed by exam 1.](/images/educator/edu_b-lecture-key.png) 20% [Exam 1]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/exam-1/_index.md" %}})
 
-![The color used on the preceding chart which represents the percentage of the total grade contributed by exam 2.](/images/educator/edu_b-present-key.png) 20% [Exam 2]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2" %}})
+![The color used on the preceding chart which represents the percentage of the total grade contributed by exam 2.](/images/educator/edu_b-present-key.png) 20% [Exam 2]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2/_index.md" %}})
 
-![The color used on the preceding chart which represents the percentage of the total grade contributed by final exam.](/images/educator/edu_b-recitation-key.png) 35% [Final exam]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/final-exam" %}})
+![The color used on the preceding chart which represents the percentage of the total grade contributed by final exam.](/images/educator/edu_b-recitation-key.png) 35% [Final exam]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/final-exam/_index.md" %}})
 
 Student Information
 -------------------
 
-![71 students took this course when it was offered in Fall 2016.](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c2819975db4d32ae8b7d407fb08527b9_71.png)
+![71 students took this course when it was offered in Fall 2016.](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c2819975db4d32ae8b7d407fb08527b9_71.png)
 
 ### Breakdown by Year
 
@@ -161,4 +161,4 @@ Semester Breakdown
 
 ![Displays the symbol used on the preceding table to indicate dates when exams are held.](/images/educator/edu_b-present-key.png) Exam
 
-« [Previous]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus" %}}) | [Next]({{% ref "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves" %}}) »

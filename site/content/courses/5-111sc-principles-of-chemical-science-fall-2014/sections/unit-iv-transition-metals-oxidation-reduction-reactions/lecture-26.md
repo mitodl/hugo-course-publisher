@@ -8,12 +8,12 @@ menu:
     parent: >-
       898636543b8426a3a53091cb22239ee9_unit-iv-transition-metals-oxidation-reduction-reactions
 ---
-« [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-25" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-27" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-25" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-27" %}}) »
 
 Topics
 ------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/3b03d54d9e226ece0930e783d1d2b15c_Lecture_26.jpg)  | {{< br >}}{{< br >}}1.  Relationship between Cell Potential and Gibbs Free Energy{{< br >}}2.  Meaning of Standard Reduction Potentials{{< br >}}3.  Nernst Equation{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/3b03d54d9e226ece0930e783d1d2b15c_Lecture_26.jpg)  | {{< br >}}{{< br >}}1.  Relationship between Cell Potential and Gibbs Free Energy{{< br >}}2.  Meaning of Standard Reduction Potentials{{< br >}}3.  Nernst Equation{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -23,12 +23,12 @@ Viewers are introduced to agents of oxidation and agents of reduction. Are oxidi
 Lecture Notes
 -------------
 
-[Notes for Lecture 26 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/6b82fc0cbc1dcf5e58ed968b6d8b1882_MIT5_111F14_Lecture26.pdf)
+[Notes for Lecture 26 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/MIT5_111F14_Lecture26" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 26 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/69408f38994e9145f9cfcc5d7683dc67_MIT5_111F14_Lec26Clkr.pdf)
+[Lecture 26 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/MIT5_111F14_Lec26Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -51,8 +51,8 @@ John Essigmann describes how an early industry experience doing real science pus
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 26 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/6f3a939a6c1b8f389f84fed7d3598ef4_MIT5_111F14_Lec26Prob.pdf)
+[Problems for Lecture 26 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/MIT5_111F14_Lec26Prob" %}})
 
-[Solutions for Lecture 26 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/629c65943b4905560ca608a57669cb54_MIT5_111F14_Lec26Soln.pdf)
+[Solutions for Lecture 26 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/MIT5_111F14_Lec26Soln" %}})
 
-« [Previous]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-25" %}}) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-27" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-25" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-27" %}}) »

@@ -22,11 +22,11 @@ Lecture 16: Atomicity via Logging
 9.  What about Un-undo-able Actions?
 10.  Summary
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-9/lecture-16-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-9/lecture-16-outline/_index.md" %}})
 
 ### Lecture Slides
 
-*   [Lecture 16 Slides: Atomicity via Logging (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/76fa2168e5a4c4722c315a84b8e09a8c_MIT6_033S18lec16.pdf)
+*   [Lecture 16 Slides: Atomicity via Logging (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-9/MIT6_033S18lec16" %}})
 
 ### Reading
 
@@ -36,7 +36,7 @@ Recitation 16: Log-Structured File System (LFS)
 -----------------------------------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Log-structured File Systems (PDF)](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)" by R. & A. Arpaci-Dusseau
-*   [Log-Structured File System (LFS) Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-9/log-structured-file-system-lfs-assignment" %}})
+*   [Log-Structured File System (LFS) Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-9/log-structured-file-system-lfs-assignment/_index.md" %}})
 
 Hands-on Assignment 6: Write Ahead Log (WAL) System
 ---------------------------------------------------
@@ -58,11 +58,11 @@ Lecture 17: Fault Tolerance: Isolation
 8.  Another Possible Performance Improvement: Giving up on Conflict Serializability
 9.  Summary
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-9/lecture-17-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-9/lecture-17-outline/_index.md" %}})
 
 ### Lecture Slides
 
-*   [Lecture 17 Slides: Fault Tolerance: Isolation (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/92b03e933e2fec860b6bcb53a306e020_MIT6_033S18lec17.pdf)
+*   [Lecture 17 Slides: Fault Tolerance: Isolation (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-9/MIT6_033S18lec17" %}})
 
 ### Reading
 
@@ -72,7 +72,7 @@ Recitation 17: Databases
 ------------------------
 
 *   Read "[Concurrency Control and Recovery](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.38.1437)" by M. J. Franklin
-*   [Databases Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-9/databases-assignment" %}})
+*   [Databases Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-9/databases-assignment/_index.md" %}})
 
 Tutorial 9: \[No Tutorial this Week\]
 -------------------------------------

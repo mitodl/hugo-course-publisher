@@ -21,11 +21,11 @@ Lecture 8: Introduction to Networking
 8.  So What's New on the Internet?
 9.  Recurring Themes
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/lecture-8-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/lecture-8-outline/_index.md" %}})
 
 ### Lecture Slides
 
-*   [Lecture 8 Slides: Introduction to Networking (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/9e5a07cbc72a01efb233c667d45854d4_MIT6_033S18lec8.pdf)
+*   [Lecture 8 Slides: Introduction to Networking (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/MIT6_033S18lec8" %}})
 
 ### Reading
 
@@ -35,7 +35,7 @@ Recitation 8: The Design Philosophy of the DARPA Internet Protocols
 -------------------------------------------------------------------
 
 *   Read "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Design Philosophy of the DARPA Internet Protocols (PDF)](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf)" by D. Clark. (Skip Section 10)
-*   [DARPA Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/darpa-assignment" %}})
+*   [DARPA Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/darpa-assignment/_index.md" %}})
 
 Hands-on Assignment 4: Reliable Transport
 -----------------------------------------
@@ -54,11 +54,11 @@ Lecture 9: Routing
 5.  Distance-vector Routing
 6.  Summary
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/lecture-9-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/lecture-9-outline/_index.md" %}})
 
 ### Lecture Slides
 
-*   [Lecture 9 Slides: Routing (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/167d8ab5b4e6d60f276775bf678cd76c_MIT6_033S18lec9.pdf)
+*   [Lecture 9 Slides: Routing (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/MIT6_033S18lec9" %}})
 
 ### Reading
 
@@ -68,7 +68,7 @@ Recitation 9: Landmark Routing
 ------------------------------
 
 *   Read the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Landmark Hierarchy: An New Hierarchy for Routing Very Large Networks (PDF)](http://www.cs.cornell.edu/people/francis/p35-tsuchiya.pdf)" by P. Tsuchiya
-*   [Landmark Routing Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/landmark-routing-assignment" %}})
+*   [Landmark Routing Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/landmark-routing-assignment/_index.md" %}})
 
 Tutorial 5: Collaboration & Figures
 -----------------------------------

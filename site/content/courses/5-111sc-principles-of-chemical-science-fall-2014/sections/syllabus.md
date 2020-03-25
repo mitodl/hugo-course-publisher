@@ -6,7 +6,7 @@ menu:
     identifier: 5089c39352dc3641930e0a0402373e96_syllabus
     weight: 10
 ---
-« [Previous](./resolveuid/4b83661227b2af6d81ff5f4ca0082540) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/instructor-insights" %}}) »
+« [Previous](./resolveuid/4b83661227b2af6d81ff5f4ca0082540) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/instructor-insights" %}}) »
 
 Overview
 --------
@@ -25,11 +25,11 @@ Site Structure
 
 This OCW course site, designed for independent study, follows the sequence of topics covered in the MIT course _5.111 Principles of Chemical Science_ as taught on campus. The content is organized into five units:
 
-1.  [Unit I: The Atom]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom" %}})
-2.  [Unit II: Chemical Bonding & Structure]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure" %}})
-3.  [Unit III: Thermodynamics & Chemical Equilibrium]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium" %}})
-4.  [Unit IV: Transition Metals & Oxidation-Reduction Reactions]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions" %}})
-5.  [Unit V: Chemical Kinetics]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics" %}})
+1.  [Unit I: The Atom]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/_index.md" %}})
+2.  [Unit II: Chemical Bonding & Structure]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/_index.md" %}})
+3.  [Unit III: Thermodynamics & Chemical Equilibrium]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/_index.md" %}})
+4.  [Unit IV: Transition Metals & Oxidation-Reduction Reactions]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/_index.md" %}})
+5.  [Unit V: Chemical Kinetics]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/_index.md" %}})
 
 ### Curriculum Resources
 
@@ -87,4 +87,4 @@ Clickers (student response devices) are used in the on-campus classroom during l
 3.  Reward students that consistently come to class and participate. This allows students on the borderline between two grades to be pushed into the higher grade category based on excellent effort. In addition, because attendance is taken automatically by clicker, the instructors can post lecture notes online without worrying that students are being tempted to skip class.
 4.  Create an interactive lecture and promote team building within recitation sections. Clicker competitions between recitation groups motivate students to work together to learn the material. Winning clicker competitions does not affect students’ grades, but there are small prizes (usually snacks) for the winning recitation teams.
 
-« [Previous](./resolveuid/4b83661227b2af6d81ff5f4ca0082540) | [Next]({{% ref "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/instructor-insights" %}}) »
+« [Previous](./resolveuid/4b83661227b2af6d81ff5f4ca0082540) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/instructor-insights" %}}) »

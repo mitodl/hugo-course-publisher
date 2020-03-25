@@ -20,11 +20,11 @@ Lecture 23: Network Security and Distributed Denial of Service (DDoS) Attacks
 7.  Attacks on Routers
 8.  Moral of the Story
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-13/lecture-23-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-13/lecture-23-outline/_index.md" %}})
 
 ### Lecture Slides
 
-*   [Lecture 23 Slides: Network Security and DDoS Attacks (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/5d2ed67c1aa3722ee19b338c75d9b490_MIT6_033S18lec23.pdf)
+*   [Lecture 23 Slides: Network Security and DDoS Attacks (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-13/MIT6_033S18lec23" %}})
 
 ### Reading
 
@@ -34,7 +34,7 @@ Recitation 23: Botnets
 ----------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Your Botnet is My Botnet: Analysis of a Botnet Takeover (PDF)](https://seclab.cs.ucsb.edu/media/uploads/papers/torpig.pdf)" by B. Stone-Gross, et al.
-*   [Botnets Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-13/botnets-assignment" %}})
+*   [Botnets Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-13/botnets-assignment/_index.md" %}})
 
 Lecture 24: Bitcoin
 -------------------
@@ -50,11 +50,11 @@ Lecture 24: Bitcoin
 7.  Did we prevent Double-spending?
 8.  Discussion
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-13/lecture-24-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-13/lecture-24-outline/_index.md" %}})
 
 ### Lecture Slides
 
-*   [Lecture 24 Slides: Bitcoin (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/9352ca27cdf1d2f9773083aed59ea572_MIT6_033S18lec24.pdf)
+*   [Lecture 24 Slides: Bitcoin (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-13/MIT6_033S18lec24" %}})
 
 ### Reading
 
@@ -64,7 +64,7 @@ Recitation 24: Memory Corruption
 --------------------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[SoK: Eternal War in Memory (PDF)](https://people.eecs.berkeley.edu/~dawnsong/papers/Oakland13-SoK-CR.pdf)" by L. Szekeres, M. Payer, T. Wei & D. Song
-*   [Memory Corruption Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-13/memory-corruption-assignment" %}})
+*   [Memory Corruption Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-13/memory-corruption-assignment/_index.md" %}})
 
 Tutorial 13: \[No Tutorial\]
 ----------------------------

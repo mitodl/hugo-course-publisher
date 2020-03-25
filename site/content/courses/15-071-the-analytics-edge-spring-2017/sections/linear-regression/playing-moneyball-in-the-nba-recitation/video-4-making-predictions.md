@@ -7,16 +7,16 @@ menu:
     weight: 720
     parent: 3d4f0b49ab636ab4200c8f27a219c0dc_playing-moneyball-in-the-nba-recitation
 ---
-*   [<Video 3: Points Scored]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-3-points-scored" %}})
-*   [2.4.1Welcome to Recitation 2]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation" %}})
-*   [2.4.2Video 1: The Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-1-the-data" %}})
-*   [2.4.3Video 2: Playoffs and Wins]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-2-playoffs-and-wins" %}})
-*   [2.4.4Video 3: Points Scored]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-3-points-scored" %}})
-*   [2.4.5Video 4: Making Predictions]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-4-making-predictions" %}})
-*   [\\>Assignment 2]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2" %}})
+*   [<Video 3: Points Scored]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-3-points-scored" %}})
+*   [2.4.1Welcome to Recitation 2]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation" %}})
+*   [2.4.2Video 1: The Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-1-the-data" %}})
+*   [2.4.3Video 2: Playoffs and Wins]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-2-playoffs-and-wins" %}})
+*   [2.4.4Video 3: Points Scored]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-3-points-scored" %}})
+*   [2.4.5Video 4: Making Predictions]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-4-making-predictions" %}})
+*   [\\>Assignment 2]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2" %}})
 
 Video 4: Making Predictions
 ---------------------------
 
-*   [BackVideo 3: Points Scored]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-3-points-scored" %}})
-*   [ContinueAssignment 2]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2" %}})
+*   [BackVideo 3: Points Scored]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-3-points-scored" %}})
+*   [ContinueAssignment 2]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2" %}})

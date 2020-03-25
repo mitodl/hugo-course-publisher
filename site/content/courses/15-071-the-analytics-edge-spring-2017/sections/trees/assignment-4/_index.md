@@ -7,11 +7,11 @@ menu:
     weight: 1520
     parent: 19c8cf92e31d034a1ea15ad53194d892_trees
 ---
-*   [<Video 7: Cross-Validation]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-7-cross-validation" %}})
-*   [4.5.1Predicting Earnings from Census Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4" %}})
-*   [4.5.2Understanding Why People Vote]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote" %}})
-*   [4.5.3State Data Revisted]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/state-data-revisted" %}})
-*   [\\>Understanding Why People Vote]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote" %}})
+*   [<Video 7: Cross-Validation]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-7-cross-validation/_index.md" %}})
+*   [4.5.1Predicting Earnings from Census Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/_index.md" %}})
+*   [4.5.2Understanding Why People Vote]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote/_index.md" %}})
+*   [4.5.3State Data Revisted]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/state-data-revisted/_index.md" %}})
+*   [\\>Understanding Why People Vote]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote/_index.md" %}})
 
 Predicting Earnings from Census Data
 ------------------------------------
@@ -20,7 +20,7 @@ The United States government periodically collects demographic information by co
 
 In this problem, we are going to use census information about an individual to predict how much a person earns -- in particular, whether the person earns more than $50,000 per year. This data comes from the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Adult).
 
-The file [census (CSV - 3.3MB)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/23bdcd0033c04ce7b2ea204f161b30e0_census.csv) contains 1994 census data for 31,978 individuals in the United States.
+The file [census (CSV - 3.3MB)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/23bdcd0033c04ce7b2ea204f161b30e0_census.csv) contains 1994 census data for 31,978 individuals in the United States.
 
 The dataset includes the following 13 variables:
 
@@ -468,5 +468,5 @@ If you plot the tree with prp(model), where "model" is the name of your CART tre
 
 CheckShow Answer
 
-*   [BackVideo 7: Cross-Validation]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-7-cross-validation" %}})
-*   [ContinueUnderstanding Why People Vote]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote" %}})
+*   [BackVideo 7: Cross-Validation]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-7-cross-validation/_index.md" %}})
+*   [ContinueUnderstanding Why People Vote]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote/_index.md" %}})

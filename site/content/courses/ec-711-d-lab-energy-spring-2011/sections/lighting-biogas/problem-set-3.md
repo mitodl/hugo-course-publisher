@@ -29,4 +29,4 @@ Question 3
 
 Estimation. Normal commercial LEDs are rated at 40 lumens/watt. Suppose you want to design a reading light for households that is placed 50 cm from the reading material. How many LEDs would you use in your light that are rated at 20 mA and 3.6 V? Show all your calculations.
 
-[« Back]({{% ref "courses/ec-711-d-lab-energy-spring-2011/sections/lighting-biogas" %}}#ps3)
+[« Back]({{% getpage "courses/ec-711-d-lab-energy-spring-2011/sections/lighting-biogas/_index.md" %}}#ps3)

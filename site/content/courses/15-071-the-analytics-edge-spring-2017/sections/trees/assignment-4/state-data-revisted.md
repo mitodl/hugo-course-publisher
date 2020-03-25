@@ -7,11 +7,11 @@ menu:
     weight: 1540
     parent: 11ad34c810832b186afacd57f2616109_assignment-4
 ---
-*   [<Understanding Why People Vote]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote" %}})
-*   [4.5.1Predicting Earnings from Census Data]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4" %}})
-*   [4.5.2Understanding Why People Vote]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote" %}})
-*   [4.5.3State Data Revisted]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/state-data-revisted" %}})
-*   [\\>Text Analytics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics" %}})
+*   [<Understanding Why People Vote]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote" %}})
+*   [4.5.1Predicting Earnings from Census Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4" %}})
+*   [4.5.2Understanding Why People Vote]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote" %}})
+*   [4.5.3State Data Revisted]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/state-data-revisted" %}})
+*   [\\>Text Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics" %}})
 
 State Data Revisited
 --------------------
@@ -23,7 +23,7 @@ Load the dataset into R and convert it to a data frame by running the following 
 data(state)
 statedata = data.frame(state.x77)
 
-If you can't access the state dataset in R, here is a CSV file with the same data that you can load into R using the read.csv function: [statedataSimple (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/188d21c275a21a4ad828e6014675f5d4_statedataSimple.csv).  Be sure to call the output of the read.csv function "statedata".
+If you can't access the state dataset in R, here is a CSV file with the same data that you can load into R using the read.csv function: [statedataSimple (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/188d21c275a21a4ad828e6014675f5d4_statedataSimple.csv).  Be sure to call the output of the read.csv function "statedata".
 
 After you have loaded the data into R, inspect the data set using the command: str(statedata)
 
@@ -529,5 +529,5 @@ The original Area tree was overfitting the data - it was uninterpretable. Area i
 
 CheckShow Answer
 
-*   [BackUnderstanding Why People Vote]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote" %}})
-*   [ContinueText Analytics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics" %}})
+*   [BackUnderstanding Why People Vote]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/understanding-why-people-vote" %}})
+*   [ContinueText Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics" %}})

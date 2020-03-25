@@ -8,19 +8,19 @@ menu:
     weight: 370
     parent: 0af41c2fca6884fab36c0a31155319b9_assignment-1
 ---
-*   [<Stock Dynamics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
-*   [1.5.1An Analytical Detective]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1" %}})
-*   [1.5.2Stock Dynamics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
-*   [1.5.3Demographics and Employment in the United States]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
-*   [1.5.4Internet Privacy Poll]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll" %}})
-*   [\\>Internet Privacy Poll]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll" %}})
+*   [<Stock Dynamics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
+*   [1.5.1An Analytical Detective]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1" %}})
+*   [1.5.2Stock Dynamics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
+*   [1.5.3Demographics and Employment in the United States]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
+*   [1.5.4Internet Privacy Poll]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll" %}})
+*   [\\>Internet Privacy Poll]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll" %}})
 
 Demographics and Employment in the United States
 ------------------------------------------------
 
 In the wake of the Great Recession of 2009, there has been a good deal of focus on employment statistics, one of the most important metrics policymakers use to gauge the overall strength of the economy. In the United States, the government measures unemployment using [the Current Population Survey (CPS)](https://thedataweb.rm.census.gov/ftp/cps_ftp.html), which collects demographic and employment information from a wide range of Americans each month. In this exercise, we will employ the topics reviewed in the lectures as well as a few new techniques using the September 2013 version of this rich, nationally representative dataset.
 
-The observations in the dataset represent people surveyed in the September 2013 CPS who actually completed a survey. While the full dataset has 385 variables, in this exercise we will use a more compact version of the dataset, [CPSData (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/b7aa3ea7d1fcb58d70b89ae225669588_CPSData.csv), which has the following variables:
+The observations in the dataset represent people surveyed in the September 2013 CPS who actually completed a survey. While the full dataset has 385 variables, in this exercise we will use a more compact version of the dataset, [CPSData (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/b7aa3ea7d1fcb58d70b89ae225669588_CPSData.csv), which has the following variables:
 
 **PeopleInHousehold**: The number of people in the interviewee's household.
 
@@ -28,7 +28,7 @@ The observations in the dataset represent people surveyed in the September 2013 
 
 **State**: The state where the interviewee lives.
 
-**MetroAreaCode**: A code that identifies the metropolitan area in which the interviewee lives (missing if the interviewee does not live in a metropolitan area). The mapping from codes to names of metropolitan areas is provided in the file [MetroAreaCodes (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/0eeba3bf0732485a5a3e2eb6594f4482_MetroAreaCodes.csv).
+**MetroAreaCode**: A code that identifies the metropolitan area in which the interviewee lives (missing if the interviewee does not live in a metropolitan area). The mapping from codes to names of metropolitan areas is provided in the file [MetroAreaCodes (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/0eeba3bf0732485a5a3e2eb6594f4482_MetroAreaCodes.csv).
 
 **Age**: The age, in years, of the interviewee. 80 represents people aged 80-84, and 85 represents people aged 85 and higher.
 
@@ -42,7 +42,7 @@ The observations in the dataset represent people surveyed in the September 2013 
 
 **Hispanic**: Whether the interviewee is of Hispanic ethnicity.
 
-**CountryOfBirthCode**: A code identifying the country of birth of the interviewee. The mapping from codes to names of countries is provided in the file [CountryCodes (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/6f7b55715ac9f5032af8e507af05e87b_CountryCodes.csv).
+**CountryOfBirthCode**: A code identifying the country of birth of the interviewee. The mapping from codes to names of countries is provided in the file [CountryCodes (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/6f7b55715ac9f5032af8e507af05e87b_CountryCodes.csv).
 
 **Citizenship**: The United States citizenship status of the interviewee.
 
@@ -53,7 +53,7 @@ The observations in the dataset represent people surveyed in the September 2013 
 Problem 1.1 - Loading and Summarizing the Dataset
 -------------------------------------------------
 
-Load the dataset from [CPSData (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/b7aa3ea7d1fcb58d70b89ae225669588_CPSData.csv) into a data frame called CPS, and view the dataset with the summary() and str() commands.
+Load the dataset from [CPSData (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/b7aa3ea7d1fcb58d70b89ae225669588_CPSData.csv) into a data frame called CPS, and view the dataset with the summary() and str() commands.
 
 How many interviewees are in the dataset?
 
@@ -305,7 +305,7 @@ Problem 3.1 - Integrating Metropolitan Area Data
 
 Codes like MetroAreaCode and CountryOfBirthCode are a compact way to encode factor variables with text as their possible values, and they are therefore quite common in survey datasets. In fact, all but one of the variables in this dataset were actually stored by a numeric code in the original CPS datafile.
 
-When analyzing a variable stored by a numeric code, we will often want to convert it into the values the codes represent. To do this, we will use a dictionary, which maps the the code to the actual value of the variable. We have provided dictionaries [MetroAreaCodes.csv](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/0eeba3bf0732485a5a3e2eb6594f4482_MetroAreaCodes.csv) and [CountryCodes.csv](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/6f7b55715ac9f5032af8e507af05e87b_CountryCodes.csv), which respectively map MetroAreaCode and CountryOfBirthCode into their true values. Read these two dictionaries into data frames MetroAreaMap and CountryMap.
+When analyzing a variable stored by a numeric code, we will often want to convert it into the values the codes represent. To do this, we will use a dictionary, which maps the the code to the actual value of the variable. We have provided dictionaries [MetroAreaCodes.csv](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/0eeba3bf0732485a5a3e2eb6594f4482_MetroAreaCodes.csv) and [CountryCodes.csv](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/6f7b55715ac9f5032af8e507af05e87b_CountryCodes.csv), which respectively map MetroAreaCode and CountryOfBirthCode into their true values. Read these two dictionaries into data frames MetroAreaMap and CountryMap.
 
 How many observations (codes for metropolitan areas) are there in MetroAreaMap?
 
@@ -552,5 +552,5 @@ We see that New York has the most interviewees born in India (96), Boston has th
 
 CheckShow Answer
 
-*   [BackStock Dynamics]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
-*   [ContinueInternet Privacy Poll]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll" %}})
+*   [BackStock Dynamics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
+*   [ContinueInternet Privacy Poll]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll" %}})

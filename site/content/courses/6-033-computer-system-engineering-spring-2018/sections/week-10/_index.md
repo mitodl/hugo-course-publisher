@@ -22,11 +22,11 @@ Lecture 18: Distributed Transactions
 9.  2PC Summary
 10.  A Remaining Problem
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-10/lecture-18-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-10/lecture-18-outline/_index.md" %}})
 
 ### Lecture Slides
 
-*   [Lecture 18 Slides: Distributed Transactions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/cba270cd1bf2b3b23e4ab00971bc9ad2_MIT6_033S18lec18.pdf)
+*   [Lecture 18 Slides: Distributed Transactions (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-10/MIT6_033S18lec18" %}})
 
 ### Reading
 
@@ -41,14 +41,14 @@ Recitation 18: Consistency Guarantees
 -------------------------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Replicated Data Consistency Explained Through Baseball (PDF)](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/ConsistencyAndBaseballReport.pdf)" by D. Terry
-*   [Consistency Guarantees Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-10/consistency-guarantees-assignment" %}})
+*   [Consistency Guarantees Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-10/consistency-guarantees-assignment/_index.md" %}})
 
 Tutorial 10: Analysis and Evaluation
 ------------------------------------
 
-This recitation will discuss analysis and evaluation. You will also begin working on your final report.  Unlike the proposal document, the report should contain enough detail that it could feasibly be turned over to Facilities for implementation. It should also contain an evaluation of your design. See the [Design Project]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/design-project" %}}) section for more details.
+This recitation will discuss analysis and evaluation. You will also begin working on your final report.  Unlike the proposal document, the report should contain enough detail that it could feasibly be turned over to Facilities for implementation. It should also contain an evaluation of your design. See the [Design Project]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/design-project/_index.md" %}}) section for more details.
 
 Design Project Final Report Assignment
 --------------------------------------
 
-*   Assigned: [Design Project Final Report (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/85a82c1bd74e0931df5036a9cbc97de6_MIT6_033S18dpr.pdf), [Design Project Final Report Rubric (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/df7097db2a3753b906cd51adc0ef46a5_MIT6_033S18dpr_rubric.pdf)
+*   Assigned: [Design Project Final Report (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-10/MIT6_033S18dpr" %}}), [Design Project Final Report Rubric (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-10/MIT6_033S18dpr_rubric" %}})

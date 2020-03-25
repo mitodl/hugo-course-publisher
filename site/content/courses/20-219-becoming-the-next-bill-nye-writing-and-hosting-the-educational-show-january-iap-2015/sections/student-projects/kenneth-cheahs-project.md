@@ -8,7 +8,7 @@ menu:
     weight: 250
     parent: 6df56ca86d884c27d497aee73b724945_student-projects
 ---
-« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects" %}}) | [Next]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project" %}}) »
 
 [_Link to_ _Kenneth Cheah's Page on Tumblr_](http://mit219.tumblr.com/tagged/cheahyhk)
 
@@ -29,7 +29,7 @@ Day 1 Pitch
 
 This video is courtesy of [Kenneth Cheah](https://www.youtube.com/channel/UCy5Pf8DSg1wDNqU-RuD63Uw) on YouTube and is provided under our Creative Commons license.
 
-[\_Link back to Day 1\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor_and_Student_Work)
 
 Day 2 Script: Script for "IS Time Travel Possible?!"
 ----------------------------------------------------
@@ -67,7 +67,7 @@ With more mass, it takes a lot more energy to move the object at the same speed,
 Is it thus really impossible to travel back in time? We know we can travel forward (not efficiently), and maybe science has just not yet uncovered the holy grail of it all. Maybe one day, we would encounter time travellers, and know more about how possible or impossible this feat could be.  
 In the meantime though, I guess we could continue hosting more time traveller parties, maybe they just didn't like hawkings?
 
-[\_Link back to Day 2\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor_and_Student_Work)
 
 Day 3 Trailer
 -------------
@@ -76,14 +76,14 @@ This video is courtesy of [Kenneth Cheah](http://mit219.tumblr.com/tagged/cheahy
 
 Brief summary and trailer or video!
 
-[\_Link back to Day 3\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor_and_Student_Work)
 
 Day 4 Story Board
 -----------------
 
-![20.219inline1.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/21c75ec98e87be43eb71a1cf0bad8d2b_20.219inline1.jpg)![20.219inline2.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/cbe2a25057a8f12c8ba3929eaca755d7_20.219inline2.jpg)
+![20.219inline1.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/21c75ec98e87be43eb71a1cf0bad8d2b_20.219inline1.jpg)![20.219inline2.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/cbe2a25057a8f12c8ba3929eaca755d7_20.219inline2.jpg)
 
-[\_Link back to Day 4\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor_and_Student_Work)
 
 Script Draft 2
 --------------
@@ -132,14 +132,14 @@ Even if we did manage to put in more energy, we might not be actually increasing
 Is it thus really impossible to travel back in time? We know we can travel forward (not efficiently), and maybe science has just not yet uncovered the holy grail of it all. Maybe one day, we would encounter time travelers, and know more about how possible or impossible this feat could be.  
 In the meantime though, I guess we could continue hosting more time traveler parties in hope that one of them would finally see a guest from the future.
 
-[\_Link back to Day 5\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 5\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor_and_Student_Work)
 
 Rough Cut
 ---------
 
 This video is courtesy of [Kenneth Cheah](https://www.youtube.com/channel/UCy5Pf8DSg1wDNqU-RuD63Uw) on YouTube and is provided under our Creative Commons license.
 
-[\_Link back to Day 11\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts" %}}#Student\_Work)
+[\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student_Work)
 
 Final Project
 -------------
@@ -159,6 +159,6 @@ Production Assistant: Yuliya and PJ
 
 [See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108827817581/is-time-travel-possible-creative-commons-cc)
 
-[\_Link back to Day 13\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-13-screening-final-cuts" %}}#Student\_Work)
+[\_Link back to Day 13\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-13-screening-final-cuts" %}}#Student_Work)
 
-« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects" %}}) | [Next]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project" %}}) »

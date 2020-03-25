@@ -6,7 +6,7 @@ menu:
     identifier: 84eb1e49cca06c0161534f50406442d1_readings
     weight: 60
 ---
-To facilitate interactions during class between students, there are short required [questions]({{% ref "courses/8-591j-systems-biology-fall-2014/sections/pre-class-reading-questions" %}}) about the reading that will be due before class.
+To facilitate interactions during class between students, there are short required [questions]({{% getpage "courses/8-591j-systems-biology-fall-2014/sections/pre-class-reading-questions" %}}) about the reading that will be due before class.
 
 Required Texts
 --------------

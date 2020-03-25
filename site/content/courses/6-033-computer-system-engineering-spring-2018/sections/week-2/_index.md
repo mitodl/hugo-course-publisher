@@ -16,11 +16,11 @@ Lecture 2: Naming in Systems
 3.  Abstract View of Naming Schemes
 4.  Naming on the Internet: DNS
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-2/lecture-2-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-2/lecture-2-outline/_index.md" %}})
 
 ### Lecture Slides
 
-*   [Lecture 2 Slides: Naming in Systems (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/953fdb7104378ebb0b69e49f591282f9_MIT6_033S18lec2.pdf)
+*   [Lecture 2 Slides: Naming in Systems (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-2/MIT6_033S18lec2" %}})
 
 ### Reading
 
@@ -35,7 +35,7 @@ Recitation 3: Domain Name System (DNS)
 --------------------------------------
 
 *   Read Book section 4.4: "Case study: The Internet Domain Name System (DNS)"
-*   [Domain Name System (DNS) Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-2/domain-name-system-dns-assignment" %}})
+*   [Domain Name System (DNS) Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-2/domain-name-system-dns-assignment/_index.md" %}})
 
 Lecture 3: Operating Systems + Virtual Memory
 ---------------------------------------------
@@ -51,11 +51,11 @@ Lecture 3: Operating Systems + Virtual Memory
 7.  Abstraction
 8.  Virtual Memory as Naming
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-2/lecture-3-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-2/lecture-3-outline/_index.md" %}})
 
 ### Lecture Slides
 
-*   [Lecture 3 Slides: Operating Systems + Virtual Memory (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/a73b44311a419a65a9d0b8d04c29495f_MIT6_033S18lec3.pdf)
+*   [Lecture 3 Slides: Operating Systems + Virtual Memory (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-2/MIT6_033S18lec3" %}})
 
 ### Reading
 
@@ -65,7 +65,7 @@ Recitation 4: UNIX Part 1
 -------------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Unix Time-Sharing System (PDF)](http://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)" by D.M. Ritchie & K. Thompson. Recitation 4 focuses on the first four sections of the paper (Recitation 5 will focus on the rest.)
-*   [UNIX Assignment Part 1]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-2/unix-assignment-part-1" %}})
+*   [UNIX Assignment Part 1]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-2/unix-assignment-part-1/_index.md" %}})
 
 Hands-on Assignment 2: UNIX
 ---------------------------

@@ -7,15 +7,15 @@ menu:
     weight: 3260
     parent: db42b40ad705f431a7e23a1d11cec341_integer-optimization
 ---
-*   [<Video 4: The Solution]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-4-the-solution" %}})
-*   [9.5.1Even' Star Organic Farm Revisited]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9" %}})
-*   [9.5.2Gerrymandering New Mexico]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/gerrymandering-new-mexico" %}})
-*   [\\>Gerrymandering New Mexico]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/gerrymandering-new-mexico" %}})
+*   [<Video 4: The Solution]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-4-the-solution/_index.md" %}})
+*   [9.5.1Even' Star Organic Farm Revisited]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/_index.md" %}})
+*   [9.5.2Gerrymandering New Mexico]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/gerrymandering-new-mexico/_index.md" %}})
+*   [\\>Gerrymandering New Mexico]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/gerrymandering-new-mexico/_index.md" %}})
 
 Even' Star Organic Farm Revisited
 ---------------------------------
 
-Last week in the "Even' Star Organic Farm" optional homework problem, we formulated and solved the problem faced by Brett Grohsgal, the founder of the organic farm in southern Maryland. This week, we'll use integer optimization to improve the formulation and model some new decisions faced by Brett. We'll be using the spreadsheet [EvenStarFarmRevisited (ODS)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/6cd223a14aec5eb0c21e45ff237283bb_EvenStarFarmRevisited.ods) for LibreOffice or OpenOffice, and [EvenStarFarmRevisited (XLSX)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/040348f2170d8719fb1874e9a3e484ce_EvenStarFarmRevisited.xlsx) for Microsoft Excel.
+Last week in the "Even' Star Organic Farm" optional homework problem, we formulated and solved the problem faced by Brett Grohsgal, the founder of the organic farm in southern Maryland. This week, we'll use integer optimization to improve the formulation and model some new decisions faced by Brett. We'll be using the spreadsheet [EvenStarFarmRevisited (ODS)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/6cd223a14aec5eb0c21e45ff237283bb_EvenStarFarmRevisited.ods) for LibreOffice or OpenOffice, and [EvenStarFarmRevisited (XLSX)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/040348f2170d8719fb1874e9a3e484ce_EvenStarFarmRevisited.xlsx) for Microsoft Excel.
 
 Problem 1.1 - Adjusting the Formulation
 ---------------------------------------
@@ -247,5 +247,5 @@ CheckShow Answer
 
 Acknowledgements: This problem is based on the case study "[Introducing Integer Modeling with Excel Solver](https://pubsonline.informs.org/doi/10.1287/ited.7.1.88)" by Dessislava Pachamanova, _INFORMS Transactions on Education_ 7(1), p.88-98, 2006.
 
-*   [BackVideo 4: The Solution]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-4-the-solution" %}})
-*   [ContinueGerrymandering New Mexico]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/gerrymandering-new-mexico" %}})
+*   [BackVideo 4: The Solution]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-4-the-solution/_index.md" %}})
+*   [ContinueGerrymandering New Mexico]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/gerrymandering-new-mexico/_index.md" %}})

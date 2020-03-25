@@ -18,11 +18,11 @@ Lecture 25: Tor
 5.  Performance
 6.  Summary
 
-*   [Detailed Outline]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-14/lecture-25-outline" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-14/lecture-25-outline/_index.md" %}})
 
 ### Lecture Slides
 
-*   [Lecture 25 Slides: Tor (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/d836f7cd4d239062344e1ec1e99f03c8_MIT6_033S18lec25.pdf)
+*   [Lecture 25 Slides: Tor (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-14/MIT6_033S18lec25" %}})
 
 ### Reading
 
@@ -32,14 +32,14 @@ Recitation 25: Meltdown
 -----------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Meltdown (PDF)](https://meltdownattack.com/meltdown.pdf)" by M. Lipp, M. Schwarz, et al.
-*   [Meltdown Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-14/meltdown-assignment" %}})
+*   [Meltdown Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-14/meltdown-assignment/_index.md" %}})
 
 Lecture 26: Policy vs. Mechanism
 --------------------------------
 
 ### Lecture Slides
 
-*   [Lecture 26 Slides: Policy vs. Mechanism (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/a645fd66f27b801ffadbcd1f24d0d752_MIT6_033S18lec26.pdf)
+*   [Lecture 26 Slides: Policy vs. Mechanism (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-14/MIT6_033S18lec26" %}})
 
 ### Reading
 
@@ -49,7 +49,7 @@ Recitation 26: Trusting Trust
 -----------------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Reflections on Trusting Trust (PDF)](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)" by K. Thomson
-*   [Trusting Trust Assignment]({{% ref "courses/6-033-computer-system-engineering-spring-2018/sections/week-14/trusting-trust-assignment" %}})
+*   [Trusting Trust Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-14/trusting-trust-assignment/_index.md" %}})
 
 END OF CLASSES
 --------------

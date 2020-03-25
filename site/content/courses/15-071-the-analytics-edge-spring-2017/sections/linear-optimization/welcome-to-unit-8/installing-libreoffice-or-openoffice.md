@@ -7,11 +7,11 @@ menu:
     weight: 2660
     parent: 006d219b491802343c9c2e5dce950c20_welcome-to-unit-8
 ---
-*   [<Welcome to Unit 8]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8" %}})
-*   [8.1.1Welcome to Unit 8]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8" %}})
-*   [8.1.2Installing LibreOffice or OpenOffice]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/installing-libreoffice-or-openoffice" %}})
-*   [8.1.3Spreadsheet Tutorial]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/spreadsheet-tutorial" %}})
-*   [\\>Spreadsheet Tutorial]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/spreadsheet-tutorial" %}})
+*   [<Welcome to Unit 8]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8" %}})
+*   [8.1.1Welcome to Unit 8]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8" %}})
+*   [8.1.2Installing LibreOffice or OpenOffice]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/installing-libreoffice-or-openoffice" %}})
+*   [8.1.3Spreadsheet Tutorial]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/spreadsheet-tutorial" %}})
+*   [\\>Spreadsheet Tutorial]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/spreadsheet-tutorial" %}})
 
 Installing LibreOffice or OpenOffice
 ------------------------------------
@@ -32,5 +32,5 @@ We recommend using OpenOffice (or Microsoft Excel) if you have a Mac. To install
 
 Once you have installed LibreOffice or OpenOffice (or you are planning to just use Microsoft Excel), you are ready to start the first Lecture Sequence this week. If you have any questions or if you ran into any problems, please search in the Dicussion Forum for people with similar problems, or create a new post below.
 
-*   [BackWelcome to Unit 8]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8" %}})
-*   [ContinueSpreadsheet Tutorial]({{% ref "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/spreadsheet-tutorial" %}})
+*   [BackWelcome to Unit 8]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8" %}})
+*   [ContinueSpreadsheet Tutorial]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/spreadsheet-tutorial" %}})

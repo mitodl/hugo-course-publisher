@@ -3,9 +3,8 @@ title: Course Home
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 course_title: Shaping the Future of Work (15.662x)
 course_image_url: >-
-  https://open-learning-course-data-ci.s3.amazonaws.com/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/a55670dbf5fc5344ca7164f239ab901a_res-15-003s16.jpg
-course_thumbnail_image_url: >-
-  https://open-learning-course-data-ci.s3.amazonaws.com/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/c53fc2fc9a4ab00a45b7d985632e0989_res-15-003s16-th.jpg
+  https://open-learning-course-data.s3.amazonaws.com/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/a55670dbf5fc5344ca7164f239ab901a_res-15-003s16.jpg
+course_thumbnail_image_url: ''
 course_image_alternate_text: >-
   Protesters rally holding signs that read "save Market Basket" and "I won't
   shop here."

@@ -1,0 +1,11 @@
+---
+title: s17_ps13_sol.pdf
+description: Solutions to problem set.
+type: courses
+layout: pdf
+uid: 3cca87953b64e65ba383b8f7ab28b0df
+file_type: application/pdf
+file_location: >-
+  https://open-learning-course-data.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3cca87953b64e65ba383b8f7ab28b0df_s17_ps13_sol.pdf
+course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
+---

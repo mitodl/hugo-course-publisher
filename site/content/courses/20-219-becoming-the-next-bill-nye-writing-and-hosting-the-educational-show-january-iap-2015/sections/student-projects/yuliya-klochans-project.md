@@ -8,7 +8,7 @@ menu:
     weight: 300
     parent: 6df56ca86d884c27d497aee73b724945_student-projects
 ---
-« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project" %}}) | [Next]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/david-yams-project" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/david-yams-project" %}}) »
 
 [_Link to_ _Yuliya Klochan's Page on Tumblr_](http://mit219.tumblr.com/tagged/yklochan)
 
@@ -34,7 +34,7 @@ This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7
 
 The beginning of an odd mathematical journey that asks (but cannot always answer) questions like, "Is math true?" or "Could The Matrix scenario happen to us?"
 
-[\_Link back to Day 1\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor_and_Student_Work)
 
 Day 2 Math Woman Saves the World (the Script)
 ---------------------------------------------
@@ -120,39 +120,39 @@ Save the world with math. No superpowers required.
 **The End**
 
 [\_Link back to Day 2  
-\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience" %}}#Instructor\_and\_Student\_Work)
+\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor_and_Student_Work)
 
 Day 3 Trailer: Fractals!
 ------------------------
 
 This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
-[\_Link back to Day 3\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor_and_Student_Work)
 
 Day 4 Storyboard
 ----------------
 
-![YuliyaKlochan-day4storyboard-1.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/2636f62e59620991db84bb783891c615_YuliyaKlochan-day4storyboard-1.jpg)
+![YuliyaKlochan-day4storyboard-1.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/2636f62e59620991db84bb783891c615_YuliyaKlochan-day4storyboard-1.jpg)
 
-![YuliyaKlochan-day4storyboard-2.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ec4d041edaf79b5df1db43add958c4e6_YuliyaKlochan-day4storyboard-2.jpg)
+![YuliyaKlochan-day4storyboard-2.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ec4d041edaf79b5df1db43add958c4e6_YuliyaKlochan-day4storyboard-2.jpg)
 
-![YuliyaKlochan-day4storyboard-3.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/5219497ed45222dfafe0437da5543672_YuliyaKlochan-day4storyboard-3.jpg)
+![YuliyaKlochan-day4storyboard-3.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/5219497ed45222dfafe0437da5543672_YuliyaKlochan-day4storyboard-3.jpg)
 
-![YuliyaKlochan-day4storyboard-4.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/86d44ed71c8408b174ebda42708398bd_YuliyaKlochan-day4storyboard-4.jpg)
+![YuliyaKlochan-day4storyboard-4.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/86d44ed71c8408b174ebda42708398bd_YuliyaKlochan-day4storyboard-4.jpg)
 
-![YuliyaKlochan-day4storyboard-5.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/31442b804ebd46ff5829d43178deb7fc_YuliyaKlochan-day4storyboard-5.jpg)
+![YuliyaKlochan-day4storyboard-5.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/31442b804ebd46ff5829d43178deb7fc_YuliyaKlochan-day4storyboard-5.jpg)
 
-![YuliyaKlochan-day4storyboard-6.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ddcd52a0776fd578fdbea20aaeb5da49_YuliyaKlochan-day4storyboard-6.jpg)
+![YuliyaKlochan-day4storyboard-6.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ddcd52a0776fd578fdbea20aaeb5da49_YuliyaKlochan-day4storyboard-6.jpg)
 
-![YuliyaKlochan-day4storyboard-7.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/53ddafb7399c75d9740114ec0d052fbd_YuliyaKlochan-day4storyboard-7.jpg)
+![YuliyaKlochan-day4storyboard-7.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/53ddafb7399c75d9740114ec0d052fbd_YuliyaKlochan-day4storyboard-7.jpg)
 
-![YuliyaKlochan-day4storyboard-8.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/2cd5e78ea092d81c5ae4d1998065da83_YuliyaKlochan-day4storyboard-8.jpg)
+![YuliyaKlochan-day4storyboard-8.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/2cd5e78ea092d81c5ae4d1998065da83_YuliyaKlochan-day4storyboard-8.jpg)
 
-![YuliyaKlochan-day4storyboard-9.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/2f8f0821dea7ef449c40041a2ed60e57_YuliyaKlochan-day4storyboard-9.jpg)
+![YuliyaKlochan-day4storyboard-9.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/2f8f0821dea7ef449c40041a2ed60e57_YuliyaKlochan-day4storyboard-9.jpg)
 
-![YuliyaKlochan-day4storyboard-10.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/c1f067c2d2c55e330d4ecc5daf49b91e_YuliyaKlochan-day4storyboard-10.jpg)
+![YuliyaKlochan-day4storyboard-10.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/c1f067c2d2c55e330d4ecc5daf49b91e_YuliyaKlochan-day4storyboard-10.jpg)
 
-[\_Link back to Day 4\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor_and_Student_Work)
 
 Day 5 Script: Fractals Video Script (Draft 2)
 ---------------------------------------------
@@ -228,7 +228,7 @@ Look around you. What beautiful patterns do you see?
 **The End**
 
 [\_Link back to Day 5  
-\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor\_and\_Student\_Work)
+\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor_and_Student_Work)
 
 Day 6 Fractals! Script Revisited
 --------------------------------
@@ -243,7 +243,7 @@ To model a snowflake, for example, start by drawing an equilateral triangle. Div
 
 Take out the middle, and repeat the process, this time with 1, 2, 3, 4 times 3, which are 12 sides. Eventually, the shape will look something like this:
 
-![work8YulKlochan1.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/1e45e70575a13a247cc5d10d2834b79e_work8YulKlochan1.jpg)
+![work8YulKlochan1.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/1e45e70575a13a247cc5d10d2834b79e_work8YulKlochan1.jpg)
 
 This curve is called in mathematics a Koch Snowflake. It is a fractal because, if you zoom in, you'll get this same pattern (show pattern) again and again.
 
@@ -280,7 +280,7 @@ Thus, fractals allow us to learn nature's best practices, and then apply them to
 Look around you. What beautiful patterns do you see?
 
 [\_Link back to Day 6  
-\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours" %}}#Instructor\_and\_Student\_Work)
+\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours" %}}#Instructor_and_Student_Work)
 
 Day 7 Script (Fractals!)
 ------------------------
@@ -293,7 +293,7 @@ First, I'd draw an equilateral triangle, divide each side into three equal parts
 
 Then take out the middle, and repeat the process, this time with 1, 2, 3, 4 times 3, which are 12 sides. Eventually, the shape will look something like this:
 
-![work8YulKlochan.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/46aaa846b699f143f03edc11c43fc874_work8YulKlochan.jpg)
+![work8YulKlochan.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/46aaa846b699f143f03edc11c43fc874_work8YulKlochan.jpg)
 
 This curve is called in mathematics a Koch Snowflake. If I repeated the process again and again, and looked anywhere, I would see this same pattern: (Show)
 
@@ -329,7 +329,7 @@ Thus, fractals allow us to learn nature's best practices, and then apply them to
 
 Look around you. What beautiful patterns do you see?
 
-[\_Link back to Day 7\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 7\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production/_index.md" %}}#Instructor_and_Student_Work)
 
 Day 8 Fractals! Shot List
 -------------------------
@@ -366,14 +366,14 @@ Day 8 Fractals! Shot List
 *   "At the time, Cohen was having troubles with his landlord. The man wouldn't let him put a radio antenna on the roof! So, Cohen decided to make a more compact, fractal radio antenna instead _(show wire bent as Koch snowflake.)_ The landlord didn't notice it. And it worked better than the ones before! Working further, Cohen designed a new version, this time using a fractal called "the Menger Sponge" _(build a tangible model of the Sponge, and show it)_."
 
 [\_Link back to Day 8  
-\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/days-8-9-10-project-time" %}}#Student\_Work)
+\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/days-8-9-10-project-time" %}}#Student_Work)
 
 Fractals! Rough Cut
 -------------------
 
 This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
-[\_Link back to Day 11\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts" %}}#Student\_Work)
+[\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student_Work)
 
 Final Project
 -------------
@@ -392,7 +392,7 @@ Additional Scripting: Elizabeth Choe, Jaime Goldstein, Ceri Riley, George Zaidan
 
 [See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108819986121/fractals-creative-commons-cc-by-nc-sa-mit)
 
-[\_Link back to Day 13\_]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-13-screening-final-cuts" %}}#Student\_Work)
+[\_Link back to Day 13\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-13-screening-final-cuts" %}}#Student_Work)
 
 Science Out Loud
 ----------------
@@ -401,4 +401,4 @@ Yuliya's video was professionally produced by [Science Out Loud](http://k12video
 
 This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](http://k12videos.mit.edu/terms-and-conditions) license.
 
-« [Previous]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project" %}}) | [Next]({{% ref "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/david-yams-project" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/david-yams-project" %}}) »
