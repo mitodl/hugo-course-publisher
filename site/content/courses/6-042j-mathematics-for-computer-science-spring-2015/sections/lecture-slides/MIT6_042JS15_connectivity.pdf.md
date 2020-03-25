@@ -1,13 +1,11 @@
 ---
-title: 'Coloring & Connectivity: k-Connectivity'
-description: >-
-  This resource contains information regarding mathematics for computer science,
-  coloring & connectivity: k-Connectivity.
+title: 'Coloring & Connectivity: Connectivity'
+description: This file contains information regarding connectivity.
 type: courses
 layout: pdf
-uid: ef0263186ea99146c604f6df63807f7a
+uid: 2368c75fb72d387d241df03ac2cfba98
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/ef0263186ea99146c604f6df63807f7a_MIT6_042JS15_connectivity.pdf
+  https://open-learning-course-data.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/2368c75fb72d387d241df03ac2cfba98_MIT6_042JS15_Connectivity.pdf
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 ---
