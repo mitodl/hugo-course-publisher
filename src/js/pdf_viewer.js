@@ -4,7 +4,7 @@ export const initPdfViewers = () => {
     const pdfUrl = pdfWrapper.dataset.pdfurl
     window.fetch(pdfUrl).then(response => {
       if (response.status !== 200) {
-        console.log(`Problem fetching PDF: ${response.status}`)
+        console.error(`Problem fetching PDF: ${response.status}`)
         return
       }
       response.blob().then(blob => {
