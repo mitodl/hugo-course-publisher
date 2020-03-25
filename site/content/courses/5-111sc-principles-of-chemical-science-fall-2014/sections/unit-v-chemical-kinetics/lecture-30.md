@@ -12,7 +12,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/4d0d6e8e19f1b51c023f3ec3c3468842_Lecture_30.jpg)  | {{< br >}}{{< br >}}1.  Introduction to Kinetics{{< br >}}    1.  Rates of Chemical Reactions{{< br >}}    2.  Rate Expressions and Rate Laws{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/4d0d6e8e19f1b51c023f3ec3c3468842_Lecture_30.jpg)  | {{< br >}}{{< br >}}1.  Introduction to Kinetics{{< br >}}    1.  Rates of Chemical Reactions{{< br >}}    2.  Rate Expressions and Rate Laws{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -22,12 +22,12 @@ Whether a reaction will go forward spontaneously depends on the thermodynamics. 
 Lecture Notes
 -------------
 
-[Notes for Lecture 30 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/9751e46d3f1b60428fb647aaeb7241d9_MIT5_111F14_Lecture30.pdf)
+[Notes for Lecture 30 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lecture30" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 30 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/16c355a8eaa6547ee7e9eb260ae3a120_MIT5_111F14_Lec30Clkr.pdf)
+[Lecture 30 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lec30Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -39,8 +39,8 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 30 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/b82cbfa8cd8bc240999328cfc62fa177_MIT5_111F14_Lec30Prob.pdf)
+[Problems for Lecture 30 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lec30Prob" %}})
 
-[Solutions for Lecture 30 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/8a8f2fe894ad0909bcfdc88b88a7dead_MIT5_111F14_Lec30Soln.pdf)
+[Solutions for Lecture 30 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lec30Soln" %}})
 
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31" %}}) »

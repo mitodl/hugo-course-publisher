@@ -25,8 +25,8 @@ Worked Example
 
 Comparing Quadratic Approximations and Calculator Computations
 
-*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/782c303393c5b39e3a34f51d315441b7_MIT18_01SCF10_ex25prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/f806d7f06df82639483a24d467a4fa28_MIT18_01SCF10_ex25sol.pdf "Open in a new window.")
+*   [Problem (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-25-introduction-to-quadratic-appoximation/MIT18_01SCF10_ex25prb" %}})
+*   [Solution (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-25-introduction-to-quadratic-appoximation/MIT18_01SCF10_ex25sol" %}})
 
 Recitation Video
 ----------------

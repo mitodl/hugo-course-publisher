@@ -3,9 +3,8 @@ title: Course Home
 course_id: 12-001-introduction-to-geology-fall-2013
 course_title: Introduction to Geology
 course_image_url: >-
-  https://open-learning-course-data-ci.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/76ea2d54123485055dd1e6621b9edf6a_12-001f13.jpg
-course_thumbnail_image_url: >-
-  https://open-learning-course-data-ci.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/9c7d2d37144d9f570f3f70668e2bd681_12-001f13-th.jpg
+  https://open-learning-course-data.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/76ea2d54123485055dd1e6621b9edf6a_12-001f13.jpg
+course_thumbnail_image_url: ''
 course_image_alternate_text: >-
   A map of North America with colors that represent the ages of the underlying
   rocks.

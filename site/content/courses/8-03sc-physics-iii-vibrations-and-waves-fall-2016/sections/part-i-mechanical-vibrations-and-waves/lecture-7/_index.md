@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/032e02f9d29caa730e8490785a6febef_L7.jpg) | {{< br >}}{{< br >}}*   Symmetry{{< br >}}*   Infinitely long system{{< br >}}*   Sine waves{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/032e02f9d29caa730e8490785a6febef_L7.jpg) | {{< br >}}{{< br >}}*   Symmetry{{< br >}}*   Infinitely long system{{< br >}}*   Sine waves{{< br >}}{{< br >}} 
 
 Lecture Video: Symmetry, Infinite Number of Coupled Oscillators
 ---------------------------------------------------------------
@@ -22,21 +22,21 @@ The mathematical description of “symmetry” is introduced. Prof. Lee shows th
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 7 (PDF - 1.1MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/7440c1aa9211d0d26f3b25746883790f_MIT8_03SCF16_Lec7.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 7 (PDF - 1.1MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-7/MIT8_03SCF16_Lec7" %}})
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 7 (PDF - 1.9MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/ae3464780ff46b2e392782b3c0a9d43b_MIT8_03SCF16_hw_Lec7.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 7 (PDF - 1.9MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-7/MIT8_03SCF16_hw_Lec7" %}})
 
 Textbook Reading
 ----------------
 
-[Chapter 4: Symmetries (PDF - 1.3MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/65bf3bcea5d10494980d106b6492953f_MIT8_03SCF16_Text_Ch4.pdf) 
+[Chapter 4: Symmetries (PDF - 1.3MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch4" %}}) 
 
-[Chapter 5: Waves (PDF - 1.4MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/ea97accffbc79e01b1ad08734d36367c_MIT8_03SCF16_Text_Ch5.pdf) (through section 5.2) 
+[Chapter 5: Waves (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch5" %}}) (through section 5.2) 
 
 Problem Set
 -----------
 
-[Problem Set 4 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/24e89fceb17be74d222e4b63b4351a6a_MIT8_03SCF16_ProblemSet4.pdf)
+[Problem Set 4 (PDF)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-7/MIT8_03SCF16_ProblemSet4" %}})
 
 Problem Solving Help Video\*
 ----------------------------

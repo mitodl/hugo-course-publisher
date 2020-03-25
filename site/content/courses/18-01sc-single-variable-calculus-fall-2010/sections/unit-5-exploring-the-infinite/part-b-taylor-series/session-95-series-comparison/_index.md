@@ -31,8 +31,8 @@ Worked Example
 
 Using the Ratio Test
 
-*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/827156a850e1f9bc5617d8d0c5856f63_MIT18_01SCF10_ex95prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/deb763be346eb1b842a188b4d453149e_MIT18_01SCF10_ex95sol.pdf "Open in a new window.")
+*   [Problem (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/MIT18_01SCF10_ex95prb" %}})
+*   [Solution (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/MIT18_01SCF10_ex95sol" %}})
 
 Recitation Video
 ----------------

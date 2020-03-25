@@ -25,8 +25,8 @@ Worked Example
 
 Integral of (x-11)/(x2+9)(x+2)
 
-*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/db74068e212305557bcec0edaf1a313b_MIT18_01SCF10_ex75aprb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/3d2d08d3e8db306abe6426cb9616eacd_MIT18_01SCF10_ex75asol.pdf "Open in a new window.")
+*   [Problem (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/MIT18_01SCF10_ex75aprb" %}})
+*   [Solution (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/MIT18_01SCF10_ex75asol" %}})
 
 Lecture Video and Notes
 -----------------------
@@ -38,8 +38,8 @@ Worked Example
 
 Integral of x3/x2\-1
 
-*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/c946efb0a4f416a4ad1dd5217ad94f12_MIT18_01SCF10_ex75bprb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/fd3a4a1d64f1bd6678b8346f50f273c8_MIT18_01SCF10_ex75bsol.pdf "Open in a new window.")
+*   [Problem (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/MIT18_01SCF10_ex75bprb" %}})
+*   [Solution (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/MIT18_01SCF10_ex75bsol" %}})
 
 Recitation Video
 ----------------

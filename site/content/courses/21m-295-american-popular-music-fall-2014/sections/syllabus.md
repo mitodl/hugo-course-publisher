@@ -43,7 +43,7 @@ You will write three types of papers for this class: A short research essay, a f
 
 *   Research essay (4–6 pages) explores a topic in pop music before 1945. See page 6 for more details and a list of potential topics.
 *   Listening outlines (1–2 pages). You will create two listening outlines to be shared with the rest of the class and to be part of a short, informal presentation.
-*   The final project consists of two components. One is a written paper of 6–8 pages and the other is a more formal presentation on the ancestry of a work released within the last five years. In conjunction with this presentation, you will create a one-page handout. See the detailed [assignment description]({{% getpage "courses/21m-295-american-popular-music-fall-2014/sections/assignments/_index.md" %}}#Research\_essay) for more details.
+*   The final project consists of two components. One is a written paper of 6–8 pages and the other is a more formal presentation on the ancestry of a work released within the last five years. In conjunction with this presentation, you will create a one-page handout. See the detailed [assignment description]({{% getpage "courses/21m-295-american-popular-music-fall-2014/sections/assignments/_index.md" %}}#Research_essay) for more details.
 
 Exams
 -----

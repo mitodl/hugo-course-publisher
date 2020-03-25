@@ -22,7 +22,7 @@ menu:
 Video 7: Using Line Charts Instead
 ----------------------------------
 
-In this video, we'll be using the dataset [households (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/0d2d8b03be47ecde5f14b0a30c2490b1_households.csv). Please download this dataset before starting the video. This data comes from the [U.S. Census Bureau](http://www.census.gov/).
+In this video, we'll be using the dataset [households (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/0d2d8b03be47ecde5f14b0a30c2490b1_households.csv). Please download this dataset before starting the video. This data comes from the [U.S. Census Bureau](http://www.census.gov/).
 
 We'll be using the package "reshape2" in this video. It should already be installed for you (it was a dependency of an earlier package), but if the melt function does not work properly for you in this video, go ahead and install and load the package with the commands:
 

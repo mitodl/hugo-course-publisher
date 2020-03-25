@@ -24,8 +24,8 @@ Worked Example
 
 Hyperbolic Sine
 
-*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/0f0e4cb3f521e99b1300d0ed3cf0c7ef_MIT18_01SCF10_ex101prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/f5a44e75403692c5cfbf7882a79d77d3_MIT18_01SCF10_ex101sol.pdf "Open in a new window.")
+*   [Problem (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-101-conclusion/MIT18_01SCF10_ex101prb" %}})
+*   [Solution (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-101-conclusion/MIT18_01SCF10_ex101sol" %}})
 
 Lecture Video and Notes
 -----------------------

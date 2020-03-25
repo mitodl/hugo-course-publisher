@@ -31,7 +31,7 @@ Worked Example
 
 Proving That the Taylor Series of a Function is Equal to the Function
 
-*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/ead3fb58ee68fcf2feb7df2e52d2b702_MIT18_01SCF10_ex98prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/51bf782966d0896f0c183541e1c3cf22_MIT18_01SCF10_ex98sol.pdf "Open in a new window.")
+*   [Problem (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series/MIT18_01SCF10_ex98prb" %}})
+*   [Solution (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-98-taylors-series/MIT18_01SCF10_ex98sol" %}})
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-99-taylors-series-continued/_index.md" %}}) »

@@ -28,15 +28,15 @@ In this quick question, we'll be asking you questions about the following three 
 
 **The Scatterplot:**
 
-![Scatterplot from Video 1, Slide 3](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/2dfcddaf915538a51d3028359bbd2fcb_Scatterplot_Week7.jpg)
+![Scatterplot from Video 1, Slide 3](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/2dfcddaf915538a51d3028359bbd2fcb_Scatterplot_Week7.jpg)
 
 **The Histogram:**
 
-![Histogram from Video 1, Slide 7](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/2d2061176d857ff3a33d60d7c1fafd9c_Histogram_Week7.jpg)
+![Histogram from Video 1, Slide 7](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/2d2061176d857ff3a33d60d7c1fafd9c_Histogram_Week7.jpg)
 
 **The US Map:**
 
-![US Map from Video 1, Slide 8](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/2e9e352fb3c5db802e8d74e83b053498_USmap_Week7.jpg)
+![US Map from Video 1, Slide 8](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/2e9e352fb3c5db802e8d74e83b053498_USmap_Week7.jpg)
 
 In the Scatterplot, what are the geometric objects?
 

@@ -12,7 +12,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/f79945bfeea47ad463e2a7f0b9b07a34_Lecture_10.jpg)  | {{< br >}}{{< br >}}1.  Lewis Structures{{< br >}}2.  Formal Charge{{< br >}}3.  Resonance Structures{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/f79945bfeea47ad463e2a7f0b9b07a34_Lecture_10.jpg)  | {{< br >}}{{< br >}}1.  Lewis Structures{{< br >}}2.  Formal Charge{{< br >}}3.  Resonance Structures{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -22,12 +22,12 @@ Lewis structures are simplistic views of molecular structure. They are based on 
 Lecture Notes
 -------------
 
-[Notes for Lecture 10 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/3549685d450773a066a716832634203f_MIT5_111F14_Lec10.pdf)
+[Notes for Lecture 10 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-10/MIT5_111F14_Lec10" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 10 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/24dc37bc0c1dfb973de638a443503003_MIT5_111F14_Lec10Clkr.pdf)
+[Lecture 10 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/MIT5_111F14_Lec10Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -39,8 +39,8 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 10 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/abee91f1d2ffddbbe4127cd56c22ddf4_MIT5_111F14_Lec10Prob.pdf)
+[Problems for Lecture 10 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/MIT5_111F14_Lec10Prob" %}})
 
-[Solutions for Lecture 10 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/b381a9a13761c951237b14b96a4cd59a_MIT5_111F14_Lec10Soln.pdf)
+[Solutions for Lecture 10 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/MIT5_111F14_Lec10Soln" %}})
 
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-9/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-11/_index.md" %}}) »

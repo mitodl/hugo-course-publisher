@@ -29,8 +29,8 @@ Worked Example
 
 Finding the Radius of Convergence
 
-*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/5fb2a9365a808d0df900662aabb63fe5_MIT18_01SCF10_ex97prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/ce95c6111e8e778a8105153518663d99_MIT18_01SCF10_ex97sol.pdf "Open in a new window.")
+*   [Problem (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/MIT18_01SCF10_ex97prb" %}})
+*   [Solution (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/MIT18_01SCF10_ex97sol" %}})
 
 Recitation Video
 ----------------

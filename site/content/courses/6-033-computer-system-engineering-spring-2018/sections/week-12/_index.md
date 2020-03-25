@@ -23,7 +23,7 @@ Lecture 21: Authentication and Passwords
 
 ### Lecture Slides
 
-*   [Lecture 21 Slides: Authentication and Passwords (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/f5fc5ac7b97b7f463169a80526c8a2ce_MIT6_033S18lec21.pdf)
+*   [Lecture 21 Slides: Authentication and Passwords (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-12/MIT6_033S18lec21" %}})
 
 ### Reading
 
@@ -53,7 +53,7 @@ Lecture 22: Secure Channels
 
 ### Lecture Slides
 
-*   [Lecture 22 Slides: Secure Channels (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/3d996a720d4fc66f285a16fe174e0043_MIT6_033S18lec22.pdf)
+*   [Lecture 22 Slides: Secure Channels (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-12/MIT6_033S18lec22" %}})
 
 ### Reading
 

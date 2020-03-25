@@ -24,7 +24,7 @@ Worked Example
 
 The Function sinc(x)
 
-*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/915b9b766e0427c2af591b286f4e37ff_MIT18_01SCF10_ex08prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/79b4433976af9485f4e6d84919bc61de_MIT18_01SCF10_ex08sol.pdf "Open in a new window.")
+*   [Problem (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-8-limits-of-sine-and-cosine/MIT18_01SCF10_ex08prb" %}})
+*   [Solution (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-8-limits-of-sine-and-cosine/MIT18_01SCF10_ex08sol" %}})
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule/_index.md" %}}) »

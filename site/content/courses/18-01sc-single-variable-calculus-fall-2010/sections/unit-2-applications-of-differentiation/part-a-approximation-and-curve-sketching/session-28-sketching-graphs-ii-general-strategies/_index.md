@@ -25,8 +25,8 @@ Worked Example
 
 Graph Features
 
-*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/ac72acef5944940fc75a76ca8bee16a9_MIT18_01SCF10_ex28prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/e222d667734a7909e218f4fdcafe553e_MIT18_01SCF10_ex28sol.pdf "Open in a new window.") 
+*   [Problem (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-28-sketching-graphs-ii-general-strategies/MIT18_01SCF10_ex28prb" %}})
+*   [Solution (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-28-sketching-graphs-ii-general-strategies/MIT18_01SCF10_ex28sol" %}}) 
 
 Use the mathlet below to complete this worked example.
 

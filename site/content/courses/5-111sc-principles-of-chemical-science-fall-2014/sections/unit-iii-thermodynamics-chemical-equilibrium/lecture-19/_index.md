@@ -13,7 +13,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/7458e1f281f181a5ba125cef04bc45fe_Lecture_19.jpg)  | {{< br >}}{{< br >}}1.  Chemical Equilibrium{{< br >}}    1.  External Effects on K (Le Châtlier’s Principle) (continued){{< br >}}    2.  Temperature Dependence of K{{< br >}}    3.  Applications of Le Châtlier’s Principle{{< br >}}2.  Significant Figure Rules for Logs{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/7458e1f281f181a5ba125cef04bc45fe_Lecture_19.jpg)  | {{< br >}}{{< br >}}1.  Chemical Equilibrium{{< br >}}    1.  External Effects on K (Le Châtlier’s Principle) (continued){{< br >}}    2.  Temperature Dependence of K{{< br >}}    3.  Applications of Le Châtlier’s Principle{{< br >}}2.  Significant Figure Rules for Logs{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -23,12 +23,12 @@ A system in equilibrium that is subjected to a stress tends to respond in a way 
 Lecture Notes
 -------------
 
-[Notes for Lecture 19 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/e583cdf6c63235b19125e0ec5fa8dfbf_MIT5_111F14_Lec19.pdf)
+[Notes for Lecture 19 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-19/MIT5_111F14_Lec19" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 19 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/3bb5e77e622396ce84361562f90177de_MIT5_111F14_Lec19Clkr.pdf)
+[Lecture 19 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec19Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -40,9 +40,9 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 19 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/ed7471951749049a233a66ef5a251831_MIT5_111F14_Lec19Prob.pdf)
+[Problems for Lecture 19 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec19Prob" %}})
 
-[Solutions for Lecture 19 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/ef503c9bbca756d53f18f206b099a792_MIT5_111F14_Lec19Soln.pdf)
+[Solutions for Lecture 19 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec19Soln" %}})
 
 Acknowledgement
 ---------------

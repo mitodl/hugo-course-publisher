@@ -27,7 +27,7 @@ menu:
 Introduction to R
 -----------------
 
-The slides for this sequence can be downloaded here: [Introduction to the R Programming Language (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/95e1dea61a0c566e8b1fe4ab6b1309ff_MIT15_071S17_Unit1_IntroductionR.pdf).
+The slides for this sequence can be downloaded here: [Introduction to the R Programming Language (PDF)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/lecture-and-recitation-notes/MIT15_071S17_Unit1_IntroductionR" %}}).
 
 Before beginning this lecture, please download and install R for free from the following webpage: [The R Project](http://www.cran.r-project.org).
 

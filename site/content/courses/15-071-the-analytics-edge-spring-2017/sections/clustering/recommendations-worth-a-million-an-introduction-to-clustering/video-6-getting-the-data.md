@@ -33,7 +33,7 @@ In this video, we'll be downloading our dataset from the MovieLens website. Plea
 
 This video will show you how to load the data into R. 
 
-An R script file with all of the commands used in this Lecture can be downloadedhere: [Resource Unit6\_Netflix (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/bce720a6728936c3d24dbb2e70cc80bf_Unit6_Netflix.R).
+An R script file with all of the commands used in this Lecture can be downloadedhere: [Resource Unit6\_Netflix (R)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/bce720a6728936c3d24dbb2e70cc80bf_Unit6_Netflix.R).
 
 **Important Note:** We'll be using a text editor in this video to get the data into R. If you are on a Mac and are using TextEdit, the default file type is .rtf, so you will need to change the file type to txt. To do this, just go to Format → Make Plain Text, and the file will re-save as a txt file. Alternatively, depending on your operating system and web browser, you might just be able to save the file directly from the browser as a txt file.
 

@@ -3,9 +3,8 @@ title: Course Home
 course_id: 21g-049-french-photography-spring-2017
 course_title: French Photography
 course_image_url: >-
-  https://open-learning-course-data-ci.s3.amazonaws.com/21g-049-french-photography-spring-2017/1e49b0114f3758288898d58b1f8e85e0_21G-049S17.jpg
-course_thumbnail_image_url: >-
-  https://open-learning-course-data-ci.s3.amazonaws.com/21g-049-french-photography-spring-2017/a94fe7104b70acff03200b23544286c7_21G-049S17-th.jpg
+  https://open-learning-course-data.s3.amazonaws.com/21g-049-french-photography-spring-2017/1e49b0114f3758288898d58b1f8e85e0_21G-049S17.jpg
+course_thumbnail_image_url: ''
 course_image_alternate_text: 'A shop window displaying rows of corsets on dress forms. '
 course_image_caption_text: >-
   <p>A photo taken in 1912 by Eugène Atget of a Corsetière shop window on

@@ -21,9 +21,9 @@ menu:
 Video 2: Working with Data in R
 -------------------------------
 
-In this recitation, we'll be using the data [USDA (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/15b9bfcb9109c3dcdcd9372740d5b7cb_USDA.csv). Please download this dataset and save it to your computer in a location that you will remember. This data comes from the [USDA National Nutrient Database for Standard Reference](http://ndb.nal.usda.gov/).
+In this recitation, we'll be using the data [USDA (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/15b9bfcb9109c3dcdcd9372740d5b7cb_USDA.csv). Please download this dataset and save it to your computer in a location that you will remember. This data comes from the [USDA National Nutrient Database for Standard Reference](http://ndb.nal.usda.gov/).
 
-A script file with all of the R commands that will be used in this recitation can be downloaded here: [Unit1\_Recitation (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/15c14666af8215f8a5cc076653f6f408_Unit1_Recitation.R).
+A script file with all of the R commands that will be used in this recitation can be downloaded here: [Unit1\_Recitation (R)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/15c14666af8215f8a5cc076653f6f408_Unit1_Recitation.R).
 
 *   [BackVideo 1: The Importance of Food and Nutrition]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-1-the-importance-of-food-and-nutrition" %}})
 *   [ContinueVideo 3: Data Analysis]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-3-data-analysis" %}})

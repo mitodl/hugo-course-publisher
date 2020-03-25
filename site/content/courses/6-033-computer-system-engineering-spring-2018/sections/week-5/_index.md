@@ -25,7 +25,7 @@ Lecture 8: Introduction to Networking
 
 ### Lecture Slides
 
-*   [Lecture 8 Slides: Introduction to Networking (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/9e5a07cbc72a01efb233c667d45854d4_MIT6_033S18lec8.pdf)
+*   [Lecture 8 Slides: Introduction to Networking (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/MIT6_033S18lec8" %}})
 
 ### Reading
 
@@ -58,7 +58,7 @@ Lecture 9: Routing
 
 ### Lecture Slides
 
-*   [Lecture 9 Slides: Routing (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/167d8ab5b4e6d60f276775bf678cd76c_MIT6_033S18lec9.pdf)
+*   [Lecture 9 Slides: Routing (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/MIT6_033S18lec9" %}})
 
 ### Reading
 

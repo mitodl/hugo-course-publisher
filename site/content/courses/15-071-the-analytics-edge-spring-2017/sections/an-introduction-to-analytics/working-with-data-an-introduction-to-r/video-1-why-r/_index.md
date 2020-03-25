@@ -27,7 +27,7 @@ menu:
 Video 1: Why R?
 ---------------
 
-The slides from all videos in this Lecture Sequence can be downloaded here: [Introduction to the R Programming Language (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/95e1dea61a0c566e8b1fe4ab6b1309ff_MIT15_071S17_Unit1_IntroductionR.pdf).
+The slides from all videos in this Lecture Sequence can be downloaded here: [Introduction to the R Programming Language (PDF)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/lecture-and-recitation-notes/MIT15_071S17_Unit1_IntroductionR" %}}).
 
 *   [BackWorking with Data: An Introduction to R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question" %}})

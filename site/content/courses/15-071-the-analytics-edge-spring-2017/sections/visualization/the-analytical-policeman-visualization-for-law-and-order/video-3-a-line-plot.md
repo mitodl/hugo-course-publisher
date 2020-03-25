@@ -27,9 +27,9 @@ menu:
 Video 3: A Line Plot
 --------------------
 
-In the next few videos, we'll be using the dataset [mvt (CSV - 7.0MB)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/f696bd7b2341029c903ea725a8482b15_mvt.csv). Please download this dataset before starting this video. This data comes from the [Chicago Police Department](http://gis.chicagopolice.org/). 
+In the next few videos, we'll be using the dataset [mvt (CSV - 7.0MB)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/f696bd7b2341029c903ea725a8482b15_mvt.csv). Please download this dataset before starting this video. This data comes from the [Chicago Police Department](http://gis.chicagopolice.org/). 
 
-An R script file with all of the commands used in this lecture can be downloaded here: [Resource Unit7\_Crime (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/17a0cac3bf892ddcf5d2ab6f9bc79a4b_Unit7_Crime.R). 
+An R script file with all of the commands used in this lecture can be downloaded here: [Resource Unit7\_Crime (R)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/17a0cac3bf892ddcf5d2ab6f9bc79a4b_Unit7_Crime.R). 
 
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-545" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-550" %}})

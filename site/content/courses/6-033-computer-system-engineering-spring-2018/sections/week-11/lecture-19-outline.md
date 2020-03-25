@@ -32,7 +32,7 @@ menu:
         *   Decides all non-deterministic values (e.g., random(), time()).
     *   What if primary fails?
         *   Idea 1: Coordinator knows about both primary and backup, and decides which to use.
-            *   Won't work: Split brain syndrome. Multiple coordinators come to independent, and different, conclusions about who is primary when there are network partitions (see [Lecture 19 slides (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/f45114b12a920d47c39c6a05bcff1d93_MIT6_033S18lec19.pdf)).
+            *   Won't work: Split brain syndrome. Multiple coordinators come to independent, and different, conclusions about who is primary when there are network partitions (see [Lecture 19 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-11/MIT6_033S18lec19" %}})).
         *   Idea 2: Have human decide when to switch from primary to backup.
             *   Not unreasonable for small webservices.
 5.  View Servers
@@ -55,7 +55,7 @@ menu:
     *   Add two more:
         1.  Primary must reject forwarded requests (i.e., it won't accept an update from the backup).
         2.  Primary in view i must have been primary or backup in view i-1.
-    *   Now consider S1 being partitioned from the VS (see [Lecture 19 slides (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/f45114b12a920d47c39c6a05bcff1d93_MIT6_033S18lec19.pdf)).
+    *   Now consider S1 being partitioned from the VS (see [Lecture 19 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-11/MIT6_033S18lec19" %}})).
         *   Before S2 hears about View 2:
             *   S1 can process operations from coordinators, S2 will accept forwarded requests.
             *   S2 will reject operations from coordinators who have heard about view 2.

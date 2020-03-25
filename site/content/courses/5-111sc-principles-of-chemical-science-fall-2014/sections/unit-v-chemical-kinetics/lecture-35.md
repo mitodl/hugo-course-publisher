@@ -12,7 +12,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/e6f283be288a8bf147c57e02f3d526d5_Lecture_35.jpg)  | {{< br >}}{{< br >}}1.  Review of Course Material{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/e6f283be288a8bf147c57e02f3d526d5_Lecture_35.jpg)  | {{< br >}}{{< br >}}1.  Review of Course Material{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -22,11 +22,11 @@ In the final clicker competition of the semester, students are challenged to exp
 Lecture Notes
 -------------
 
-[Notes for Lecture 35 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/d9273e872e219ac54dd99eb61ba1cfb3_MIT5_111F14_Lecture35.pdf)
+[Notes for Lecture 35 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lecture35" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 35 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/9baba0be764c6eedc18e1b5b212482e6_MIT5_111F14_Lec35Clkr.pdf)
+[Lecture 35 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lec35Clkr" %}})
 
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-34" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/exams/_index.md" %}}) »

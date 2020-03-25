@@ -27,7 +27,7 @@ data(state)
 
 statedata = cbind(data.frame(state.x77), state.abb, state.area, state.center,  state.division, state.name, state.region)
 
-If you can't access the state dataset in R, here is a CSV file with the same data that you can load into R using the read.csv function: [statedata (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/b1ac404f54b7a0914b832e21afcb2fac_statedata.csv).
+If you can't access the state dataset in R, here is a CSV file with the same data that you can load into R using the read.csv function: [statedata (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/b1ac404f54b7a0914b832e21afcb2fac_statedata.csv).
 
 After you have loaded the data into R, inspect the data set using the command: str(statedata)
 

@@ -9,11 +9,11 @@ menu:
 Trip Resources
 --------------
 
-[Travel Tips (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/ec-711-d-lab-energy-spring-2011/be777a1746d4b2283888658b6b114d54_MITEC_711S11_trip_tips.pdf)
+[Travel Tips (PDF)]({{% getpage "courses/ec-711-d-lab-energy-spring-2011/sections/week-8-nicaragua-trip/MITEC_711S11_trip_tips" %}})
 
-[Packing list (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/ec-711-d-lab-energy-spring-2011/a388dd244c6607136a649ec922e8f499_MITEC_711S11_trip_pack.pdf)
+[Packing list (PDF)]({{% getpage "courses/ec-711-d-lab-energy-spring-2011/sections/week-8-nicaragua-trip/MITEC_711S11_trip_pack" %}})
 
-[Sample equipment travel letter (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/ec-711-d-lab-energy-spring-2011/bdb620eb52dbf8267672ea1d6ff15fc8_MITEC_711S11_trip_ltr.pdf)
+[Sample equipment travel letter (PDF)]({{% getpage "courses/ec-711-d-lab-energy-spring-2011/sections/week-8-nicaragua-trip/MITEC_711S11_trip_ltr" %}})
 
 Post-Trip Assignments
 ---------------------

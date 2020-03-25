@@ -6,7 +6,7 @@ menu:
     identifier: ce088e3778d0b7c9c849d4b38b029687_syllabus
     weight: 10
 ---
-![A U-shaped valley.](https://open-learning-course-data-ci.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/4f199a18bc4ad7f0f6e8ffa79ece47e6_Valle-de-Ordesa.jpg)
+![A U-shaped valley.](https://open-learning-course-data.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/4f199a18bc4ad7f0f6e8ffa79ece47e6_Valle-de-Ordesa.jpg)
 
 The Ordesa Valley in the Spanish Pyrenees was carved by a glacier. (Photograph courtesy of Taylor Perron.)
 

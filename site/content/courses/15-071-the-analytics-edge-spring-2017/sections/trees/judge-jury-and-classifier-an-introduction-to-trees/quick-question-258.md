@@ -29,7 +29,7 @@ Quick Question
 
 Suppose that you have the following CART tree:
 
-![Example of a cart tree.](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/b2eea6fba57db424a4844f679aee4bc9_QQ2_SupremeCourt.png)
+![Example of a cart tree.](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/b2eea6fba57db424a4844f679aee4bc9_QQ2_SupremeCourt.png)
 
 How many splits are in this tree?
 

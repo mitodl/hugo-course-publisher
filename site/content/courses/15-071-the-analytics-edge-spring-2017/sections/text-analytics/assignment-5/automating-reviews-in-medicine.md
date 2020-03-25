@@ -25,7 +25,7 @@ The dataset consists of the titles (variable _title_) and abstracts (variable _
 Problem 1.1 - Loading the Data
 ------------------------------
 
-Load [clinical\_trial (CSV - 2.9MB)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/b16ce1e8d533ce403f362639be9f03a8_clinical_trial.csv) into a data frame called trials (remembering to add the argument stringsAsFactors=FALSE), and investigate the data frame with summary() and str().
+Load [clinical\_trial (CSV - 2.9MB)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/b16ce1e8d533ce403f362639be9f03a8_clinical_trial.csv) into a data frame called trials (remembering to add the argument stringsAsFactors=FALSE), and investigate the data frame with summary() and str().
 
 **Important Note:** Some students have been getting errors like "invalid multibyte string" when performing certain parts of this homework question. If this is happening to you, use the argument fileEncoding="latin1" when reading in the file with read.csv. This should cause those errors to go away.
 
@@ -436,7 +436,7 @@ The decision maker for this problem, a researcher performing a review of the med
 
 This process is shown in the figure below.
 
-![CART model related to automating info retrieval reviews in medical literature.](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/20bb3f28bd041c71199daa89be8bb599_InfoRetrievalFigure2.png)
+![CART model related to automating info retrieval reviews in medical literature.](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/20bb3f28bd041c71199daa89be8bb599_InfoRetrievalFigure2.png)
 
 Problem 5.1 - Decision-Maker Tradeoffs
 --------------------------------------

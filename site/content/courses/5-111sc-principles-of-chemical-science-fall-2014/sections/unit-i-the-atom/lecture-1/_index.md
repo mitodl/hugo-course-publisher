@@ -12,7 +12,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c9d55ebfd6f1d1baa04b955a9cb017e5_Lecture_1.jpg)  | {{< br >}}{{< br >}}1.  General Course Information and Policies{{< br >}}2.  Course Material Overview{{< br >}}3.  Introduction to the 5.111 Teaching Team{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c9d55ebfd6f1d1baa04b955a9cb017e5_Lecture_1.jpg)  | {{< br >}}{{< br >}}1.  General Course Information and Policies{{< br >}}2.  Course Material Overview{{< br >}}3.  Introduction to the 5.111 Teaching Team{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -22,7 +22,7 @@ Professor Cathy Drennan introduces this series of lectures about basic chemical 
 Lecture Notes
 -------------
 
-[Notes for Lecture 1 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/805ae0a4e8dc0b0fb4f2c4bd0ae68ebb_MIT5_111F14_Lec1.pdf)
+[Notes for Lecture 1 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-1/MIT5_111F14_Lec1" %}})
 
 Textbook Reading
 ----------------
@@ -49,8 +49,8 @@ Problems and Solutions
 
 Review problems to complete before continuing to lecture 2. Students are expected to know this material, which is not covered in class.
 
-[5.111 Review Problems (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/83ccdfcfa3327eda57fde82e885985b7_MIT5_111F14_ProbReview.pdf)
+[5.111 Review Problems (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-1/MIT5_111F14_ProbReview" %}})
 
-[Solutions for 5.111 Review Problems (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/1c8a43a2a5e82bcdd0f8ae50adf2828f_MIT5_111F14_SolReview.pdf)
+[Solutions for 5.111 Review Problems (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-1/MIT5_111F14_SolReview" %}})
 
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2" %}}) »

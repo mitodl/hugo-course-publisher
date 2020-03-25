@@ -26,8 +26,8 @@ Worked Example
 
 Limit as x Goes to Infinity of x(1/x)
 
-*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/aaf691e8f0704057c24c49783fa557a7_MIT18_01SCF10_ex90prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/299f052a016230a785ca6bf44b79d6db_MIT18_01SCF10_ex90sol.pdf "Open in a new window.")
+*   [Problem (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule/MIT18_01SCF10_ex90prb" %}})
+*   [Solution (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule/MIT18_01SCF10_ex90sol" %}})
 
 Recitation Video
 ----------------

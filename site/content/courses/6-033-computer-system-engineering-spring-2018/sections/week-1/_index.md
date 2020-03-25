@@ -26,7 +26,7 @@ Lecture 1: Coping with Complexity: Enforced Modularity via Client/server Organiz
 
 ### Lecture Slides
 
-*   [Lecture 1 Slides: Coping with Complexity (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/aff13f0f0cef504f9e6af139d166d0b1_MIT6_033S18lec1.pdf)
+*   [Lecture 1 Slides: Coping with Complexity (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-1/MIT6_033S18lec1" %}})
 
 ### Reading
 

@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/991859ebf14808a879da7c0fde7b8bb6_L9.jpg) | {{< br >}}{{< br >}}*   Standing waves{{< br >}}*   Vibrating string{{< br >}}*   Wave equation{{< br >}}*   Fourier series{{< br >}}*   Fourier decomposition{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/991859ebf14808a879da7c0fde7b8bb6_L9.jpg) | {{< br >}}{{< br >}}*   Standing waves{{< br >}}*   Vibrating string{{< br >}}*   Wave equation{{< br >}}*   Fourier series{{< br >}}*   Fourier decomposition{{< br >}}{{< br >}} 
 
 Lecture Video: Wave Equation, Standing Waves, Fourier Series
 ------------------------------------------------------------
@@ -22,21 +22,21 @@ The standing wave solution of the wave equation is the focus this lecture. Using
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 9 (PDF - 1.1MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/e4278fad9bdd90bc05f163fd7f670f65_MIT8_03SCF16_Lec9.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 9 (PDF - 1.1MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-9/MIT8_03SCF16_Lec9" %}})
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 9 (PDF - 1.7MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c312362ae92a7ef6216443a44a1c90fa_MIT8_03SCF16_hw_Lec9.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 9 (PDF - 1.7MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-9/MIT8_03SCF16_hw_Lec9" %}})
 
 Textbook Reading
 ----------------
 
-[Chapter 5: Waves (PDF - 1.4MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/ea97accffbc79e01b1ad08734d36367c_MIT8_03SCF16_Text_Ch5.pdf) (section 5.3 to end)
+[Chapter 5: Waves (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch5" %}}) (section 5.3 to end)
 
-[Chapter 6: Continuum Limit and Fourier Series (PDF - 1.2MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/651d034b498a5dceecab775b0901fbd4_MIT8_03SCF16_Text_Ch6.pdf) (through section 6.1)
+[Chapter 6: Continuum Limit and Fourier Series (PDF - 1.2MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch6" %}}) (through section 6.1)
 
 Problem Set
 -----------
 
-[Problem Set 5 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/bc3781381fb2cba84933a3d53c51d155_MIT8_03SCF16_ProblemSet5.pdf)
+[Problem Set 5 (PDF)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-9/MIT8_03SCF16_ProblemSet5" %}})
 
 Problem Solving Help Video\*
 ----------------------------

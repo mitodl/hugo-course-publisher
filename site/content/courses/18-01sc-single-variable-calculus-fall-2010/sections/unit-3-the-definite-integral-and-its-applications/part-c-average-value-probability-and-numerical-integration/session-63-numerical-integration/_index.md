@@ -32,8 +32,8 @@ Worked Example
 
 Numerical Integration
 
-*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/aa8d3256e1dc70a7a1fb5b7734d90ab6_MIT18_01SCF10_ex63prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/defccdd353fb3162a123a5306dd2d92b_MIT18_01SCF10_ex63sol.pdf "Open in a new window.")
+*   [Problem (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-63-numerical-integration/MIT18_01SCF10_ex63prb" %}})
+*   [Solution (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-63-numerical-integration/MIT18_01SCF10_ex63sol" %}})
 
 Please use the mathlet below to complete this problem.
 

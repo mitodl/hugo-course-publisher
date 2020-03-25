@@ -29,9 +29,9 @@ menu:
 Video 4: Linear Regression in R
 -------------------------------
 
-Before starting this video, please download the datasets [wine (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/e6eb689583a501e5b4c6164d771880d9_wine.csv) and [wine\_test (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/fbf05b0e868bc87b4fbadac6fe406c30_wine_test.csv). Save them to a folder on your computer that you will remember, and in R, navigate to this folder (File->Change dir... on a PC, and Misc->Change Working Directory on a Mac). This data comes from [Liquid Assets](http://www.liquidasset.com/winedata.html).
+Before starting this video, please download the datasets [wine (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/e6eb689583a501e5b4c6164d771880d9_wine.csv) and [wine\_test (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/fbf05b0e868bc87b4fbadac6fe406c30_wine_test.csv). Save them to a folder on your computer that you will remember, and in R, navigate to this folder (File->Change dir... on a PC, and Misc->Change Working Directory on a Mac). This data comes from [Liquid Assets](http://www.liquidasset.com/winedata.html).
 
-A script file containing all of the R commands used in this lecture can be downloaded here: [Unit2\_WineRegression (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/4b42530dd2f3fc2cdd30ba7d12315265_Unit2_WineRegression.R).
+A script file containing all of the R commands used in this lecture can be downloaded here: [Unit2\_WineRegression (R)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/4b42530dd2f3fc2cdd30ba7d12315265_Unit2_WineRegression.R).
 
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/quick-question-73" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/quick-question-78" %}})

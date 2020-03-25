@@ -11,7 +11,7 @@ menu:
 
 A rocket sled can eject gas backwards or forwards at a speed \\(\\displaystyle u\\) relative to the sled. The initial mass of the fuel in the sled is equal to dry mass of the sled, \\(\\displaystyle m\_0\\). At \\(\\displaystyle t=0\\) the rocket sled has speed \\(\\displaystyle v\_0\\) and starts to eject fuel in the forward direction in order to slow down. You may ignore air resistance. You may treat \\(\\displaystyle u\\) as a given constant in the following questions.
 
-![A diagram of the Rocket Sled Problem.](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/13ada4c5e938ee9670f4a78034edabb0_ls06_01.svg)
+![A diagram of the Rocket Sled Problem.](https://open-learning-course-data.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/13ada4c5e938ee9670f4a78034edabb0_ls06_01.svg)
 
 **(Part a)** Let \\(\\displaystyle v\_ r(t)\\) be the x-component of the rocket sled velocity, and \\(\\displaystyle m\_ r(t)\\) the mass of the rocket, dry mass and the fuel inside the rocket, at a given time \\(\\displaystyle t\\). Derive differential equation for \\(\\displaystyle v\_ r\\) in terms of \\(\\displaystyle m\_ r\\).
 

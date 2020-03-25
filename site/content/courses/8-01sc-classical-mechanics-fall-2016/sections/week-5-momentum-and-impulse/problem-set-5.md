@@ -17,6 +17,6 @@ Problem Set 5 contains the following problems:
 4.  Center of Mass of a Rod
 5.  Two Particles Colliding
 
-*   [Problem Set 5 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/ebe813c4c1e0a146933380112612a58f_MIT8_01F16_pset5.pdf)
+*   [Problem Set 5 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset5" %}})
 
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.7-reduction-of-a-system-to-a-point-particle" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer" %}}) »

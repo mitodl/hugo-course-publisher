@@ -24,8 +24,8 @@ Worked Example
 
 Comparing Linear Approximations and Calculator Computations
 
-*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/f94c79bce97c8292a73f4a678200d80e_MIT18_01SCF10_ex23prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/3ec09c2e10fb07da17fccb0097419b3c_MIT18_01SCF10_ex23sol.pdf "Open in a new window.")
+*   [Problem (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-23-linear-approximation/MIT18_01SCF10_ex23prb" %}})
+*   [Solution (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-23-linear-approximation/MIT18_01SCF10_ex23sol" %}})
 
 Lecture Video and Notes
 -----------------------

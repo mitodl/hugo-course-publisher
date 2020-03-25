@@ -9,7 +9,7 @@ menu:
 ---
 Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Design Philosophy of the DARPA Internet Protocols (PDF)](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf)" by David Clark. Skip Section 10.
 
-Because networking is a new topic for many of you, we've put together a ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[short networking guide (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/b95bf0e79ebef3831b68ec8e4654f152_MIT6_033S18networking_guide.pdf) to the very basics of networking. It should help de-mystify some of the vocabulary in the DARPA paper.
+Because networking is a new topic for many of you, we've put together a ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[short networking guide (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/darpa-assignment/MIT6_033S18networking_guide" %}}) to the very basics of networking. It should help de-mystify some of the vocabulary in the DARPA paper.
 
 We also recommend [the "How Does the Internet Work?" guide](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm) (a bit longer, but still short), which goes into more detail than ours. It's from 2002, but the concepts still apply today.
 

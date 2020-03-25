@@ -29,7 +29,7 @@ menu:
 Quick Question
 --------------
 
-Using the data set [wine (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/b7caee99307eb87b00b3d3e80055b116_wine.csv), what is the correlation between HarvestRain and WinterRain?
+Using the data set [wine (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/b7caee99307eb87b00b3d3e80055b116_wine.csv), what is the correlation between HarvestRain and WinterRain?
 
 Exercise 1
 

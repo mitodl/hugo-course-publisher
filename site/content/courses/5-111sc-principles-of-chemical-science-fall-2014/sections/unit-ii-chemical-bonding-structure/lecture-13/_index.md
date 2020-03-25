@@ -12,7 +12,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/0decc4da47302a5c53051c6c79214350_Lecture_13.jpg)  | {{< br >}}{{< br >}}1.  Molecular Orbital Theory{{< br >}}    1.  Homonuclear Molecules with MOs Originating from s Orbitals{{< br >}}    2.  Homonuclear Molecules with MOs Originating from s and p Orbitals{{< br >}}    3.  Heteronuclear Diatomic Molecules{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/0decc4da47302a5c53051c6c79214350_Lecture_13.jpg)  | {{< br >}}{{< br >}}1.  Molecular Orbital Theory{{< br >}}    1.  Homonuclear Molecules with MOs Originating from s Orbitals{{< br >}}    2.  Homonuclear Molecules with MOs Originating from s and p Orbitals{{< br >}}    3.  Heteronuclear Diatomic Molecules{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -22,12 +22,12 @@ Why do some atoms readily form bonds with each other and other atoms don’t? Us
 Lecture Notes
 -------------
 
-[Notes for Lecture 13 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/bceb89367a2924eab97dcb476cec369e_MIT5_111F14_Lec13.pdf)
+[Notes for Lecture 13 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-13/MIT5_111F14_Lec13" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 13 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/020b2e349c4314db63b9794c924786de_MIT5_111F14_Lec13Clkr.pdf)
+[Lecture 13 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/MIT5_111F14_Lec13Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -40,8 +40,8 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 13 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/18185eaa518beceaed1432463ac3928e_MIT5_111F14_Lec13Prob.pdf)
+[Problems for Lecture 13 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/MIT5_111F14_Lec13Prob" %}})
 
-[Solutions for Lecture 13 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/901bb3225379643b4724190f11a1c42d_MIT5_111F14_Lec13Soln.pdf)
+[Solutions for Lecture 13 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/MIT5_111F14_Lec13Soln" %}})
 
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-12/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-14/_index.md" %}}) »

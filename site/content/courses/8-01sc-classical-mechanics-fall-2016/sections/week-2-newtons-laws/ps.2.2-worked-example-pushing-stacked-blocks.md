@@ -12,7 +12,7 @@ menu:
 
 Consider two blocks that are resting one on top of the other. The lower block has mass \\(\\displaystyle m\_1\\) and is resting on a surface. The upper block has mass \\(\\displaystyle m\_2<m\_1\\) . Suppose the coefficient of static friction between the blocks is \\(\\displaystyle \\mu \_ s\\) . A horizontal force of magnitude \\(\\displaystyle F\\) is applied to block 1 as shhown.
 
-![A diagram of the two blocks being pushed.](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/9af7d45fedb623eee81e08b6e024979f_week2ps3_1a.svg)
+![A diagram of the two blocks being pushed.](https://open-learning-course-data.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/9af7d45fedb623eee81e08b6e024979f_week2ps3_1a.svg)
 
 The goal of this problem is to calculate the maximum value of \\(\\displaystyle F\\) with which the lower block can be pushed horizontally so that the two blocks move together without slipping?
 

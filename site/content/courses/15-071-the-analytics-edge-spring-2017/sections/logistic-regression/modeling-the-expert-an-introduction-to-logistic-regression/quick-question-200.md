@@ -30,7 +30,7 @@ Quick Question
 
 This question will ask about the following ROC curve:
 
-![](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/27296a79a8430f35b09968891f4d55bc_ROC-Thresholds.png)
+![](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/27296a79a8430f35b09968891f4d55bc_ROC-Thresholds.png)
 
 Given this ROC curve, which threshold would you pick if you wanted to correctly identify a small group of patients who are receiving the worst care with high confidence?
 

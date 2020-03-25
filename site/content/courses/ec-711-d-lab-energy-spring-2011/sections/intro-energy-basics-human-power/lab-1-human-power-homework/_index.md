@@ -12,7 +12,7 @@ Water Pumping
 
 How much more power do you think that you can generate with your legs than your arms? First, estimate the answer.
 
-Then, look up the answer in David Gordon Wilson's paper "Understanding Pedal Power" ([PDF](https://open-learning-course-data-ci.s3.amazonaws.com/ec-711-d-lab-energy-spring-2011/15286019b5a06fde2d43af6c00f460d4_MITEC_711S11_lab1_pedal.pdf)) (Courtesy of David Gordon Wilson. Used with permission.)
+Then, look up the answer in David Gordon Wilson's paper "Understanding Pedal Power" ([PDF]({{% getpage "courses/ec-711-d-lab-energy-spring-2011/sections/intro-energy-basics-human-power/lab-1-human-power-homework/MITEC_711S11_lab1_pedal" %}})) (Courtesy of David Gordon Wilson. Used with permission.)
 
 Record both.
 

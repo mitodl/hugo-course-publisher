@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/e5df7bd9d2b565e83061693837eed098_L17.jpg) | {{< br >}}{{< br >}}*   Polarizer{{< br >}}*   Linearly polarized waves{{< br >}}*   Circularly polarized wave{{< br >}}*   Elliptically polarized waves{{< br >}}*   Unpolarized light{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/e5df7bd9d2b565e83061693837eed098_L17.jpg) | {{< br >}}{{< br >}}*   Polarizer{{< br >}}*   Linearly polarized waves{{< br >}}*   Circularly polarized wave{{< br >}}*   Elliptically polarized waves{{< br >}}*   Unpolarized light{{< br >}}{{< br >}} 
 
 Lecture Video: Polarization, Polarizer
 --------------------------------------
@@ -22,16 +22,16 @@ Prof. Lee discusses the concept of linearly, circularly and elliptical polarized
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 17 (PDF - 1.2MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/1b5b31e4e9931e022d9c87c9d0854216_MIT8_03SCF16_Lec17.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 17 (PDF - 1.2MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-17/MIT8_03SCF16_Lec17" %}})
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 17 (PDF - 2MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/80f6e601b7b8d3ceb8572a9b0df9320c_MIT8_03SCF16_hw_Lec17.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 17 (PDF - 2MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-17/MIT8_03SCF16_hw_Lec17" %}})
 
 Textbook Reading
 ----------------
 
-[Chapter 11: Two and Three Dimensions (PDF - 1.8MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/eeedf569bccb5ddd18a08cc54c2f7beb_MIT8_03SCF16_Text_Ch11.pdf) 
+[Chapter 11: Two and Three Dimensions (PDF - 1.8MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch11" %}}) 
 
-[Chapter 12: Polarization (PDF - 1.4MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/3346a46cafa9db6b17d5252a33335051_MIT8_03SCF16_Text_Ch12.pdf) (through section 12.3) 
+[Chapter 12: Polarization (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch12" %}}) (through section 12.3) 
 
 In-class Demonstrations
 -----------------------

@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/d84c4840774099632dde60e238f0fcc8_L2.jpg) | {{< br >}}{{< br >}}*   Energy conservation{{< br >}}*   Damped harmonic oscillators{{< br >}}*   Small angle approximation{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/d84c4840774099632dde60e238f0fcc8_L2.jpg) | {{< br >}}{{< br >}}*   Energy conservation{{< br >}}*   Damped harmonic oscillators{{< br >}}*   Small angle approximation{{< br >}}{{< br >}} 
 
 Lecture Video: Damped Free Oscillators
 --------------------------------------
@@ -22,14 +22,14 @@ A more realistic physical system, a damped oscillator, is introduced in this lec
 Lecture Notes
 -------------
 
-[Typed Notes for Lecture 2 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/910ef4a939ed4daa2eafd1f5b06f24fa_MIT8_03SCF16_Lec2.pdf)
+[Typed Notes for Lecture 2 (PDF)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-2/MIT8_03SCF16_Lec2" %}})
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 2 (PDF - 2MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/7d59f030fe17d65ac52e99f715163e98_MIT8_03SCF16_hw_Lec2.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 2 (PDF - 2MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-2/MIT8_03SCF16_hw_Lec2" %}})
 
 Textbook Reading
 ----------------
 
-[Chapter 2: Forced Oscillation and Resonance (PDF - 1.3MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/782069da3820fc514c10c26ae0c15b01_MIT8_03SCF16_Text_Ch2.pdf)
+[Chapter 2: Forced Oscillation and Resonance (PDF - 1.3MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch2" %}})
 
 In-class Demonstrations
 -----------------------

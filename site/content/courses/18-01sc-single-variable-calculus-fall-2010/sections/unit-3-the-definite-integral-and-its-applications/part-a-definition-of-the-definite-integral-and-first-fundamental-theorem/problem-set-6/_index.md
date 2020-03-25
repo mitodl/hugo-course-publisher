@@ -21,26 +21,26 @@ In this session you will:
 Problem Set
 -----------
 
-Use [Integration (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/b2afcc400bbfa669d9eeaca005bdd857_MIT18_01SC_pset3prb.pdf "Open in a new window.") to do the problems below.
+Use [Integration (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/problem-set-6/MIT18_01SC_pset3prb" %}}) to do the problems below.
 
 | Section | Topic | Exercises |
 | --- | --- | --- |
 | 3B | Definite integrals | 2a, 2b, 3b, 4a, 5 
 
-Use [Applications of Integration (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/3e92239404881253b589329ff8de0800_MIT18_01SC_pset4prb.pdf "Open in a new window.") to do the problems below.
+Use [Applications of Integration (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/problem-set-6/MIT18_01SC_pset4prb" %}}) to do the problems below.
 
 | Section | Topic | Exercises |
 | --- | --- | --- |
 | 4J | Other applications | 1 (Set up integral, but don’t evaluate) 
 
-Use [Integration (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/b2afcc400bbfa669d9eeaca005bdd857_MIT18_01SC_pset3prb.pdf "Open in a new window.") to do the problems below.
+Use [Integration (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/problem-set-6/MIT18_01SC_pset3prb" %}}) to do the problems below.
 
 | Section | Topic | Exercises |
 | --- | --- | --- |
 | 3C | Fundamental theorem of calculus | 1, 2a, 3a, 5a |
 | 3E | Change of variables; Estimating integrals | 6b, 6c 
 
-Use [Applications of Integration (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/3e92239404881253b589329ff8de0800_MIT18_01SC_pset4prb.pdf "Open in a new window.") to do the problems below.
+Use [Applications of Integration (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/problem-set-6/MIT18_01SC_pset4prb" %}}) to do the problems below.
 
 | Section | Topic | Exercises |
 | --- | --- | --- |
@@ -48,9 +48,9 @@ Use [Applications of Integration (PDF)](https://open-learning-course-data-ci.s3.
 
 ### Solutions
 
-[Solutions to Integration problems (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/a48839fb6b53e634f6d063fd99340380_MIT18_01SC_pset3sol.pdf "Open in a new window.")
+[Solutions to Integration problems (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/problem-set-6/MIT18_01SC_pset3sol" %}})
 
-[Solutions to Applications of Integration problems (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/4a247b0655701dfebcbd4e235c16c726_MIT18_01SC_pset4sol.pdf "Open in a new window.")
+[Solutions to Applications of Integration problems (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/problem-set-6/MIT18_01SC_pset4sol" %}})
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 

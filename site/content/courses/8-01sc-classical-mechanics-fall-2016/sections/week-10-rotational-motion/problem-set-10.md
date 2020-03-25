@@ -18,6 +18,6 @@ Problem Set 10 contains the following problems:
 5.  A Cylinder Rolling in a V-Groove
 6.  A Massive Pulley and a Block on an Incline
 
-*   [Problem Set 10 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/878cc2b018e6280e47318e3659631d4b_MIT8_01F16_pset10.pdf)
+*   [Problem Set 10 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset10" %}})
 
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/ps.10.1-blocks-and-massive-pulley" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum" %}}) »

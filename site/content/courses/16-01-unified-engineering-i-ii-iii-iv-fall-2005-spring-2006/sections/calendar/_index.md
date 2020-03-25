@@ -63,9 +63,9 @@ Calendar Key
 Course Calendar (PDF Format)
 ----------------------------
 
-16.01-16.02, Fall 2005 ([PDF](https://open-learning-course-data-ci.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3e0dedf9d04e28e3f6c4a5146eb8102f_calendar_fal2005.pdf))
+16.01-16.02, Fall 2005 ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/calendar/calendar_fal2005" %}}))
 
-16.03-16.04, Spring 2006 ([PDF](https://open-learning-course-data-ci.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/0eb7e45d831137b6644da1e2f1a5c72e_calendar_spr2006.pdf))
+16.03-16.04, Spring 2006 ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/calendar/calendar_spr2006" %}}))
 
 Course Calendar (HTML Format)
 -----------------------------

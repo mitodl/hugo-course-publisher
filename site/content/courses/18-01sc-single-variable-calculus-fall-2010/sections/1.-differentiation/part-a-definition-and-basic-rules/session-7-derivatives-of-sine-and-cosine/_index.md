@@ -29,8 +29,8 @@ Worked Example
 
 Geometric Derivatives of Sine and Cosine
 
-*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/c29d87caee7001fc2b32365c40bc7c93_MIT18_01SCF10_ex07prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/62ed1c8d2b1d28026a66480a7ce55a42_MIT18_01SCF10_ex07sol.pdf "Open in a new window.")
+*   [Problem (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/MIT18_01SCF10_ex07prb" %}})
+*   [Solution (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/MIT18_01SCF10_ex07sol" %}})
 
   Use the mathlet below to complete the worked example.
 

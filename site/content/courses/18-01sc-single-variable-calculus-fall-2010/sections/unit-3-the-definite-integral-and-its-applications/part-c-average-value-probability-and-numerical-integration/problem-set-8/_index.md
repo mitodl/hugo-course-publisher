@@ -21,7 +21,7 @@ In this session you will:
 Problems Set
 ------------
 
-Use [Applications of Integration (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/92e9fe301b92d11995b3775aedb4bd6a_MIT18_01SC_pset4prb.pdf "Open in a new window.") to do the problems below.
+Use [Applications of Integration (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/problem-set-8/MIT18_01SC_pset4prb" %}}) to do the problems below.
 
 | Section | Topic | Exercises |
 | --- | --- | --- |
@@ -29,7 +29,7 @@ Use [Applications of Integration (PDF)](https://open-learning-course-data-ci.s3.
 
 ### Solutions
 
-[Solutions to Applications of Integration problems (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/257c14227640a82d98c472c179bfcb2c_MIT18_01SC_pset4sol.pdf "Open in a new window.")
+[Solutions to Applications of Integration problems (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/problem-set-8/MIT18_01SC_pset4sol" %}})
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 

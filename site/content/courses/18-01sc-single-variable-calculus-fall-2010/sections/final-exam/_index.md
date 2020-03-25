@@ -18,9 +18,9 @@ In this session you will:
 Exam Materials
 --------------
 
-[Final Exam (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/93c7107d33490a892fdf426e5033062e_MIT18_01SCF10_final.pdf "Open in a new window.")
+[Final Exam (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/final-exam/MIT18_01SCF10_final" %}})
 
-[Solutions to Final Exam (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/bbbf05286af4bd705af325080bea0e23_MIT18_01SCF10_finalsol.pdf "Open in a new window.")
+[Solutions to Final Exam (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/final-exam/MIT18_01SCF10_finalsol" %}})
 
 Did this course have everything you needed to learn the subject? Are there ways we could improve it?  
 [Let us know](http://ocw.mit.edu/jsp/feedback.jsp?Referer=OCWScholar).

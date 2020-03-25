@@ -25,8 +25,8 @@ Worked Example
 
 Compound Interest
 
-*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/fe31d67dca131a9e328bad9d864e2a0f_MIT18_01SCF10_ex16prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/41a61f858e066ddcb402f34c0e4697af_MIT18_01SCF10_ex16sol.pdf "Open in a new window.")
+*   [Problem (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-16-the-derivative-of-a-x/MIT18_01SCF10_ex16prb" %}})
+*   [Solution (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-16-the-derivative-of-a-x/MIT18_01SCF10_ex16sol" %}})
 
 Lecture Video and Notes
 -----------------------

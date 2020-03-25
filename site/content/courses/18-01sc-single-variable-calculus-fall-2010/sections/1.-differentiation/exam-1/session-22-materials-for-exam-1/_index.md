@@ -20,8 +20,8 @@ In this session you will:
 Exam Materials
 --------------
 
-[Exam I (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/887263248c3f66128de1205f06993524_MIT18_01SCF10_exam1.pdf "Open in a new window.")
+[Exam I (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1/session-22-materials-for-exam-1/MIT18_01SCF10_exam1" %}})
 
-[Solutions to Exam I (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/0817fc547c8edd2c29172f670a4d1d66_MIT18_01SCF10_exam1sol.pdf "Open in a new window.")
+[Solutions to Exam I (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1/session-22-materials-for-exam-1/MIT18_01SCF10_exam1sol" %}})
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1/session-21-review-for-exam-1-computing-derivatives-using-differentiation-rules/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation" %}}) »

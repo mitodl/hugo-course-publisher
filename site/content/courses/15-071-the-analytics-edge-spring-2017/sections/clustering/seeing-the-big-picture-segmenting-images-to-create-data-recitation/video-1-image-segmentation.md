@@ -23,7 +23,7 @@ menu:
 Video 1: Image Segmentation
 ---------------------------
 
-The slides from all videos in this Recitation can be downloaded here: [Segmenting Images to Create Data (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/9258e775e0bf57ee47b6ddabe1834003_MIT15_071S17_Unit6_Recitation.pdf).
+The slides from all videos in this Recitation can be downloaded here: [Segmenting Images to Create Data (PDF)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/lecture-and-recitation-notes/MIT15_071S17_Unit6_Recitation" %}}).
 
 *   [BackSeeing the Big Picture: Segmenting Images to Create Data (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation" %}})
 *   [ContinueVideo 2: Clustering Pixels]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-2-clustering-pixels" %}})

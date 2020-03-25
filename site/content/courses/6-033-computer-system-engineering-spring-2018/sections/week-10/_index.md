@@ -26,7 +26,7 @@ Lecture 18: Distributed Transactions
 
 ### Lecture Slides
 
-*   [Lecture 18 Slides: Distributed Transactions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/cba270cd1bf2b3b23e4ab00971bc9ad2_MIT6_033S18lec18.pdf)
+*   [Lecture 18 Slides: Distributed Transactions (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-10/MIT6_033S18lec18" %}})
 
 ### Reading
 
@@ -51,4 +51,4 @@ This recitation will discuss analysis and evaluation. You will also begin workin
 Design Project Final Report Assignment
 --------------------------------------
 
-*   Assigned: [Design Project Final Report (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/85a82c1bd74e0931df5036a9cbc97de6_MIT6_033S18dpr.pdf), [Design Project Final Report Rubric (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/df7097db2a3753b906cd51adc0ef46a5_MIT6_033S18dpr_rubric.pdf)
+*   Assigned: [Design Project Final Report (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-10/MIT6_033S18dpr" %}}), [Design Project Final Report Rubric (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-10/MIT6_033S18dpr_rubric" %}})

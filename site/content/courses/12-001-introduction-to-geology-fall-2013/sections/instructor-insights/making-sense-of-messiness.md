@@ -15,7 +15,7 @@ The real world is messy, and we’re asking them to make sense of that messiness
 
 Many of our students are accustomed to classes that have assignments in which the problems are clear-cut and have precise answers. The earth sciences are not like that. For example, we might ask students to identify three different rock hand samples that all appear rough and grayish. Students don’t always know how to approach a problem like that.
 
-![Boxes of rock and mineral hand samples.](https://open-learning-course-data-ci.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/bfa2d132364d489cf9450c584b71ec1e_12-001_messiness1.jpg)  
+![Boxes of rock and mineral hand samples.](https://open-learning-course-data.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/bfa2d132364d489cf9450c584b71ec1e_12-001_messiness1.jpg)  
 
 Students learn to identify rocks and minerals in the first two labs of the course. (Image by MIT OpenCourseWare.)
 

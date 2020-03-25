@@ -41,7 +41,7 @@ Notice the repeated use of _unique_. The data we have available is not the trad
 Problem 1.1 - Bags of Words
 ---------------------------
 
-Load the data [wiki (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/689509df0b6105e6af7ea0b866825c45_wiki.csv) with the option stringsAsFactors=FALSE, calling the data frame "wiki". Convert the "Vandal" column to a factor using the command wiki$Vandal = as.factor(wiki$Vandal).
+Load the data [wiki (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/689509df0b6105e6af7ea0b866825c45_wiki.csv) with the option stringsAsFactors=FALSE, calling the data frame "wiki". Convert the "Vandal" column to a factor using the command wiki$Vandal = as.factor(wiki$Vandal).
 
 How many cases of vandalism were detected in the history of this page?
 

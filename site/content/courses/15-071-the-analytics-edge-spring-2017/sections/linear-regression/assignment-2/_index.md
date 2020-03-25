@@ -21,7 +21,7 @@ There have been many studies documenting that the average global temperature has
 
 In this problem, we will attempt to study the relationship between average global temperature and several other factors.
 
-The file [climate\_change (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/3b53e75d1ddb97bd98f40ae5bbee2475_climate_change.csv) contains climate data from May 1983 to December 2008. The available variables include:
+The file [climate\_change (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/3b53e75d1ddb97bd98f40ae5bbee2475_climate_change.csv) contains climate data from May 1983 to December 2008. The available variables include:
 
 *   _Year_: the observation year.
 *   _Month_: the observation month.

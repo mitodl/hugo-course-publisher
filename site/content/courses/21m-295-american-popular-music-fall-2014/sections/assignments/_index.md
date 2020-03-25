@@ -70,4 +70,4 @@ Research help from the Lewis Music Library: [Pop and rock sources](http://libgui
 
 Additional resources can be found at your local public or university library. Ask a reference librarian for assistance.
 
-[Paper Template and Citation Format Examples (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/21m-295-american-popular-music-fall-2014/4bae68cab5d12785c3bde33899dd5529_MIT21M_295F14_PaprTemplat.pdf)
+[Paper Template and Citation Format Examples (PDF)]({{% getpage "courses/21m-295-american-popular-music-fall-2014/sections/assignments/MIT21M_295F14_PaprTemplat" %}})

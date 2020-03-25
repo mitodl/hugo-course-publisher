@@ -12,7 +12,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/aafc786b207bda7d3122e4d57755caf5_Lecture_2.jpg)  | {{< br >}}{{< br >}}1.  Discovery of the Electron and the Nucleus{{< br >}}2.  The Need for Quantum Mechanics{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/aafc786b207bda7d3122e4d57755caf5_Lecture_2.jpg)  | {{< br >}}{{< br >}}1.  Discovery of the Electron and the Nucleus{{< br >}}2.  The Need for Quantum Mechanics{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -22,12 +22,12 @@ The backscattering experiment of Rutherford is recreated in the classroom settin
 Lecture Notes
 -------------
 
-[Notes for Lecture 2 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/e7edbbcf5e52214af28f11743c6f5cc4_MIT5_111F14_Lec2.pdf)
+[Notes for Lecture 2 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec2" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 2 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/c9fae6c161db1c8c165185fc484f7924_MIT5_111F14_Lec2Clkr.pdf)
+[Lecture 2 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec2Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -41,8 +41,8 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 2 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/4d487aaa0d1eafee850e1ce729120dfa_MIT5_111F14_Lec02Prob.pdf)
+[Problems for Lecture 2 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec02Prob" %}})
 
-[Solutions for Lecture 2 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/6012747897b29867a463fe6f2c99958f_MIT5_111F14_Lec02Soln.pdf)
+[Solutions for Lecture 2 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec02Soln" %}})
 
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-1/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3" %}}) »

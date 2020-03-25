@@ -25,9 +25,9 @@ menu:
 Video 3: A Logistic Regression Model
 ------------------------------------
 
-In this video, we'll use the dataset [framingham (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/5d689a024551e672313f7fd7eb1bee8d_framingham.csv) to build a logistic regression model. Please download this dataset to follow along. This data comes from the [BioLINCC website](https://biolincc.nhlbi.nih.gov/home/).
+In this video, we'll use the dataset [framingham (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/5d689a024551e672313f7fd7eb1bee8d_framingham.csv) to build a logistic regression model. Please download this dataset to follow along. This data comes from the [BioLINCC website](https://biolincc.nhlbi.nih.gov/home/).
 
-An R script file with all of the commands used in this lecture can be downloaded here: [Unit3\_Framingham (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/3a73d6c0252da6435115cac4a473dc08_Unit3_Framingham.R).
+An R script file with all of the commands used in this lecture can be downloaded here: [Unit3\_Framingham (R)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/3a73d6c0252da6435115cac4a473dc08_Unit3_Framingham.R).
 
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/quick-question-225" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/quick-question-233" %}})

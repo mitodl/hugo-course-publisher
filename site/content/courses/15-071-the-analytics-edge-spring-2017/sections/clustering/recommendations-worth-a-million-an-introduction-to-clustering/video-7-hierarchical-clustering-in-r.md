@@ -62,7 +62,7 @@ The lapply function runs the second argument (colMeans) on each element of the f
 
 Note that if you have a variable called "split" in your current R session, you will need to remove it with rm(split) so that you can use the split function.
 
-In this video, we use the spreadsheet [ClusterMeans (ODS](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/f5d06b43b7c6dffc27552d12924b69ee_ClusterMeans.ods)). This file can be opened in LibreOffice or OpenOffice. 
+In this video, we use the spreadsheet [ClusterMeans (ODS](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/f5d06b43b7c6dffc27552d12924b69ee_ClusterMeans.ods)). This file can be opened in LibreOffice or OpenOffice. 
 
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/recommendations-worth-a-million-an-introduction-to-clustering/quick-question-466" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/recommendations-worth-a-million-an-introduction-to-clustering/quick-question-476" %}})

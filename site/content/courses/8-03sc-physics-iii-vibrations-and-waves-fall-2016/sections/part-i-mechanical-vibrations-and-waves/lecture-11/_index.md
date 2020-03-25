@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/ee1a3cb5313f6877bcae63215b0e5a2d_L11.jpg) | {{< br >}}{{< br >}}*   Sound waves{{< br >}}*   Longitudinal wave{{< br >}}*   Wave equation{{< br >}}*   Speed of sound{{< br >}}*   Adiabatic process{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/ee1a3cb5313f6877bcae63215b0e5a2d_L11.jpg) | {{< br >}}{{< br >}}*   Sound waves{{< br >}}*   Longitudinal wave{{< br >}}*   Wave equation{{< br >}}*   Speed of sound{{< br >}}*   Adiabatic process{{< br >}}{{< br >}} 
 
 Lecture Video: Sound Waves
 --------------------------
@@ -22,23 +22,23 @@ Sound wave, a longitudinal wave, is discussed in this lecture. Prof. Lee calcula
 Lecture Notes
 -------------
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 11 (PDF - 1.2MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/40433e53644c3f106c4a16a1ffffbc47_MIT8_03SCF16_Lec11.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Typed Notes for Lecture 11 (PDF - 1.2MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-11/MIT8_03SCF16_Lec11" %}})
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 11 (PDF - 2.4MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/d6bc895c01300844f90a66092910e8fe_MIT8_03SCF16_hw_Lec11.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 11 (PDF - 2.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-11/MIT8_03SCF16_hw_Lec11" %}})
 
 Textbook Reading
 ----------------
 
-[Chapter 6: Continuum Limit and Fourier Series (PDF - 1.2MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/651d034b498a5dceecab775b0901fbd4_MIT8_03SCF16_Text_Ch6.pdf) (section 6.2 to end) 
+[Chapter 6: Continuum Limit and Fourier Series (PDF - 1.2MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch6" %}}) (section 6.2 to end) 
 
-[Chapter 7: Longitudinal Oscillations and Sound (PDF - 1.3MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/5409f0842a35a3e1d29b3fa5ad1ef055_MIT8_03SCF16_Text_Ch7.pdf) 
+[Chapter 7: Longitudinal Oscillations and Sound (PDF - 1.3MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch7" %}}) 
 
-[Chapter 8: Traveling Waves (PDF - 1.4MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/5d925d6ac6c62059fb2ddd4c289e6bb3_MIT8_03SCF16_Text_Ch8.pdf) (through section 8.2) 
+[Chapter 8: Traveling Waves (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch8" %}}) (through section 8.2) 
 
 Problem Set
 -----------
 
-[Problem Set 6 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/0f9b38b4e5dc70ad664a073055be5785_MIT8_03SCF16_ProblemSet6.pdf)
+[Problem Set 6 (PDF)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-11/MIT8_03SCF16_ProblemSet6" %}})
 
 Problem Solving Help Video\*
 ----------------------------

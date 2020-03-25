@@ -20,7 +20,7 @@ In this session you will:
 Problem Set
 -----------
 
-Use [Applications of Differentiation (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/35c43e5a17926719668efb8a504e9717_MIT18_01SC_pset2prb.pdf "Open in a new window.") to do the problems below.
+Use [Applications of Differentiation (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/problem-set-3/MIT18_01SC_pset2prb" %}}) to do the problems below.
 
 | Section | Topic | Exercises |
 | --- | --- | --- |
@@ -29,7 +29,7 @@ Use [Applications of Differentiation (PDF)](https://open-learning-course-data-ci
 
 ### Solutions
 
-[Solutions to Applications of Differentiation problems (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/f556ad6eaeb6efeeda61161d7a63c6d7_MIT18_01SC_pset2sol.pdf "Open in a new window.")
+[Solutions to Applications of Differentiation problems (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/problem-set-3/MIT18_01SC_pset2sol" %}})
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 

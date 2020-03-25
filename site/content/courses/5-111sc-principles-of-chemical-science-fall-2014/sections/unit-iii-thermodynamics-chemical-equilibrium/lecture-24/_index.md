@@ -13,7 +13,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/ed15682286b62727bd7ba26ef9e17d36_Lecture_24.jpg)  | {{< br >}}{{< br >}}1.  Acid-Base Titrations{{< br >}}    1.  Titration of Weak Acid with Strong Base (continued){{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/ed15682286b62727bd7ba26ef9e17d36_Lecture_24.jpg)  | {{< br >}}{{< br >}}1.  Acid-Base Titrations{{< br >}}    1.  Titration of Weak Acid with Strong Base (continued){{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -23,12 +23,12 @@ We finish the topic of acid-base titrations and consider why pKa is so important
 Lecture Notes
 -------------
 
-[Notes for Lecture 24 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/e7096a4ddba3df2f41d1e565a611bfc5_MIT5_111F14_Lec24.pdf)
+[Notes for Lecture 24 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-24/MIT5_111F14_Lec24" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 24 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/5b0472a745b91fa37ae097572488a706_MIT5_111F14_Lec24Clkr.pdf)
+[Lecture 24 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec24Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -53,8 +53,8 @@ Samuel Thompson brings a sense of play to his science research that he traces ba
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 24 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/ab233900a7d051e3f1bc99dd486f31f7_MIT5_111F14_Lec24Prob.pdf)
+[Problems for Lecture 24 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec24Prob" %}})
 
-[Solutions for Lecture 24 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/efc751719fb18c63ad6349213a972088_MIT5_111F14_Lec24Soln.pdf)
+[Solutions for Lecture 24 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec24Soln" %}})
 
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-23/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/_index.md" %}}) »

@@ -18,6 +18,6 @@ Problem Set 9 contains the following problems:
 5.  Bullet-Spring Collision
 6.  Elastic 2D Collision
 
-*   [Problem Set 9 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/aa4bd69ba9ac09a42a3d75892d2c46c6_MIT8_01F16_pset9.pdf)
+*   [Problem Set 9 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset9" %}})
 
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.7-change-in-the-kinetic-energy" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion" %}}) »

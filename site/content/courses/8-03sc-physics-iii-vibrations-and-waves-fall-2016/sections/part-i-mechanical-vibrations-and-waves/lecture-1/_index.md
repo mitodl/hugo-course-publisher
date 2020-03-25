@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/3819fcaffb7a61a8fe18e8ee80bdfb64_L1.jpg) | {{< br >}}{{< br >}}*   Periodic motion{{< br >}}*   Simple harmonic oscillators{{< br >}}*   Hooke’s Law{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/3819fcaffb7a61a8fe18e8ee80bdfb64_L1.jpg) | {{< br >}}{{< br >}}*   Periodic motion{{< br >}}*   Simple harmonic oscillators{{< br >}}*   Hooke’s Law{{< br >}}{{< br >}} 
 
 Lecture Video: Periodic Oscillations, Harmonic Oscillators
 ----------------------------------------------------------
@@ -22,19 +22,19 @@ In this lecture, Prof. Lee discusses the mathematical description of the periodi
 Lecture Notes
 -------------
 
-[Typed Notes for Lecture 1 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/f56c208532d7ab6cd7abfa2315cb4a7a_MIT8_03SCF16_Lec1.pdf)
+[Typed Notes for Lecture 1 (PDF)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-1/MIT8_03SCF16_Lec1" %}})
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 1 (PDF - 2.2MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/9dfe57588533271176506ee6acdf004f_MIT8_03SCF16_hw_Lec1.pdf)
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handwritten Notes for Lecture 1 (PDF - 2.2MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-1/MIT8_03SCF16_hw_Lec1" %}})
 
 Textbook Reading
 ----------------
 
-[Chapter 1: Harmonic Oscillation (PDF - 1.4MB)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/d0253416dabaf95ea866e046e63a8e74_MIT8_03SCF16_Text_Ch1.pdf)
+[Chapter 1: Harmonic Oscillation (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch1" %}})
 
 Problem Set
 -----------
 
-[Problem Set 1 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/ba437a6236bc47b5675d8ec88ef5234b_MIT8_03SCF16_ProblemSet1.pdf)
+[Problem Set 1 (PDF)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-1/MIT8_03SCF16_ProblemSet1" %}})
 
 Problem Solving Help Video\*
 ----------------------------

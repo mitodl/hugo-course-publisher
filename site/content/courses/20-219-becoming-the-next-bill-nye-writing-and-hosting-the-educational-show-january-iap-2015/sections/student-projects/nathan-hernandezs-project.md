@@ -37,7 +37,7 @@ Just a few things:
 *   Visuals
 *   Better things to do with my body
 
-[\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor_and_Student_Work)
 
 Day 2 Script: Draft for "How does Food Turn to Mush?"
 -----------------------------------------------------
@@ -78,7 +78,7 @@ Usually this process takes 10–14 days to reach a point at which it probably is
 
 How do you prevent your fresh food from going bad? My advice, eat your veggies.
 
-[\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor_and_Student_Work)
 
 Day 3 Pitch
 -----------
@@ -87,12 +87,12 @@ This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1
 
 Very rough
 
-[\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor_and_Student_Work)
 
 Day 4 Storyboard
 ----------------
 
-![Nathan-day4storyboard-1.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ca053e7d2a25b1c35da7d32369a2ddda_Nathan-day4storyboard-1.jpg)
+![Nathan-day4storyboard-1.jpg](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ca053e7d2a25b1c35da7d32369a2ddda_Nathan-day4storyboard-1.jpg)
 
 ### Script for the Scene
 
@@ -103,7 +103,7 @@ Day 4 Storyboard
 5.  it's like if I were to pop the balloon.
 6.  The water and nutrients that come out are what cause the muck you see in your fridge.
 
-[\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor_and_Student_Work)
 
 Rough Cut: Breaking Down Decomposition
 --------------------------------------
@@ -112,7 +112,7 @@ This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1
 
 **I will explain why it's so terrible.**
 
-[\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student\_Work)
+[\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student_Work)
 
 Final Project: Breaking Down Decomposition
 ------------------------------------------
@@ -131,6 +131,6 @@ Production Assistant: Andrea Desrosiers
 
 [See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108857321146/creative-commons-cc-by-nc-sa-mit)
 
-[\_Link back to Day 13\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-13-screening-final-cuts" %}}#Student\_Work)
+[\_Link back to Day 13\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-13-screening-final-cuts" %}}#Student_Work)
 
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project" %}}) »

@@ -15,13 +15,13 @@ As you know, in 6.033 you'll complete a series of three critiques, designed to b
 This Critique
 -------------
 
-For this critique, you should evaluate and assess MapReduce using the [critique worksheet (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/35980840d44ecd95ad8eec4fda5f3030_MIT6_033S18_Crit2Worksheet.pdf). This worksheet walks you through the process of analyzing the system described in lecture and in the textbook.
+For this critique, you should evaluate and assess MapReduce using the [critique worksheet (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-4/critique-assignment-2/MIT6_033S18_Crit2Worksheet" %}}). This worksheet walks you through the process of analyzing the system described in lecture and in the textbook.
 
 After filling in the worksheet, use the following guidelines to organize your analysis into a 2–3 page critique of MapReduce. Your audience is a community of peers who have not read the paper.
 
 Before beginning to write, think about how you might organize your critique. You might assess each module in turn, or each design goal. You might order design goals by importance (e. g. most to least important) or by strength (strongest to weakest-or the reverse!). **Use your introduction to forecast and your conclusion to recap.**
 
-The critique should be approximately 750–900 words. You should familiarize yourself with the [rubric (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/2c8eaac631f2d2324fa77fe0ffa313dd_MIT6_033S18_Crit2Rubric.pdf) to understand the specific elements we will use to evaluate your writing (your Teaching Assistant will also be grading this assignment, for technical content).
+The critique should be approximately 750–900 words. You should familiarize yourself with the [rubric (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-4/critique-assignment-2/MIT6_033S18_Crit2Rubric" %}}) to understand the specific elements we will use to evaluate your writing (your Teaching Assistant will also be grading this assignment, for technical content).
 
 *   **Introduction** explains the goals and components of the system before making a claim about how it prioritizes properties based upon its use cases.
 *   **Body** of the paper presents your analysis of the system by explaining how the system prioritizes properties within its design and the limits of the system and its modules.

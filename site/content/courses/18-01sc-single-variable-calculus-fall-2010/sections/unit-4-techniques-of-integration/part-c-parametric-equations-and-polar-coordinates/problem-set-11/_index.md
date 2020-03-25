@@ -21,7 +21,7 @@ In this session you will:
 Problem Set
 -----------
 
-Use [Applications of Integration (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/2557f5e0942da4ca041a690ad29fb4db_MIT18_01SC_pset4prb.pdf "Open in a new window.") to do the problems below.
+Use [Applications of Integration (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/problem-set-11/MIT18_01SC_pset4prb" %}}) to do the problems below.
 
 | Section | Topic | Exercises |
 | --- | --- | --- |
@@ -31,7 +31,7 @@ Use [Applications of Integration (PDF)](https://open-learning-course-data-ci.s3.
 
 ### Solutions
 
-[Solutions to Applications of Integration problems (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/d79b8c2edf681e2b38ddce74c468ea26_MIT18_01SC_pset4sol.pdf "Open in a new window.")
+[Solutions to Applications of Integration problems (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/problem-set-11/MIT18_01SC_pset4sol" %}})
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 

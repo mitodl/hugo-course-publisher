@@ -22,7 +22,7 @@ Lecture 25: Tor
 
 ### Lecture Slides
 
-*   [Lecture 25 Slides: Tor (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/d836f7cd4d239062344e1ec1e99f03c8_MIT6_033S18lec25.pdf)
+*   [Lecture 25 Slides: Tor (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-14/MIT6_033S18lec25" %}})
 
 ### Reading
 
@@ -39,7 +39,7 @@ Lecture 26: Policy vs. Mechanism
 
 ### Lecture Slides
 
-*   [Lecture 26 Slides: Policy vs. Mechanism (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/a645fd66f27b801ffadbcd1f24d0d752_MIT6_033S18lec26.pdf)
+*   [Lecture 26 Slides: Policy vs. Mechanism (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-14/MIT6_033S18lec26" %}})
 
 ### Reading
 

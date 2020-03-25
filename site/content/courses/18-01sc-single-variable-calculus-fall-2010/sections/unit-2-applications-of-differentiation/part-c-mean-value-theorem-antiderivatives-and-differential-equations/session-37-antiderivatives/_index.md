@@ -35,8 +35,8 @@ Worked Example
 
 Exploiting Derivative Rules
 
-*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/c083a2a2def41a9c22a0f09e4c1fa623_MIT18_01SCF10_ex37prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/f51f271e3252a71b8d698c3457f39c8e_MIT18_01SCF10_ex37sol.pdf "Open in a new window.")
+*   [Problem (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-37-antiderivatives/MIT18_01SCF10_ex37prb" %}})
+*   [Solution (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-37-antiderivatives/MIT18_01SCF10_ex37sol" %}})
 
 Lecture Video and Notes
 -----------------------

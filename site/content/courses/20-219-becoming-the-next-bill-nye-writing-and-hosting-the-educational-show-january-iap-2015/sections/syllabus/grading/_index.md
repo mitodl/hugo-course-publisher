@@ -19,7 +19,7 @@ The following are our class values, and all assignments will be graded keeping t
 *   Thoughtfulness
 *   Challenge
 
-This is the [Grading Rubric (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/c2ed478ee025e0c81ba06c63caeef992_MIT20_219IAP15_GradngRubrc.pdf) that we will use. Keep in mind that specificities will vary depending on the assignment and how far along we are in class. We will provide you with feedback (numerical and written) using this rubric for all assignments (which should give you a sense of where you stand in the class).
+This is the [Grading Rubric (PDF)]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/syllabus/grading/MIT20_219IAP15_GradngRubrc" %}}) that we will use. Keep in mind that specificities will vary depending on the assignment and how far along we are in class. We will provide you with feedback (numerical and written) using this rubric for all assignments (which should give you a sense of where you stand in the class).
 
 The total grade for this class will be based upon the following weighted factors:
 

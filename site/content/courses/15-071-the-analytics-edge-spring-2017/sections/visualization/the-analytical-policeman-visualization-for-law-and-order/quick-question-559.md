@@ -31,15 +31,15 @@ In this quick question, we'll ask you questions about the following plots. Plot 
 
 **Plot (1) **
 
-![Heatmap of total motor vehicle thefts according to time and day in shades of red.](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/bed89f26444014011197fb58867992c7_Week7_Crime_QQ4_1.png)
+![Heatmap of total motor vehicle thefts according to time and day in shades of red.](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/bed89f26444014011197fb58867992c7_Week7_Crime_QQ4_1.png)
 
 **Plot (2)**
 
-![Alternate heatmap of total motor vehicle thefts according to time and day in shades of red.](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/be57802c07c0cabbef69146663aaec19_Week7_Crime_QQ4_2.png)
+![Alternate heatmap of total motor vehicle thefts according to time and day in shades of red.](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/be57802c07c0cabbef69146663aaec19_Week7_Crime_QQ4_2.png)
 
 **Plot (3)**
 
-![Heatmap of total motor vehicle thefts according to time and day in shades of grey.](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/1d25eaf4f014108866b6b4a661b87ed1_Week7_Crime_QQ4_3.png)
+![Heatmap of total motor vehicle thefts according to time and day in shades of grey.](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/1d25eaf4f014108866b6b4a661b87ed1_Week7_Crime_QQ4_3.png)
 
 Which argument(s) did we change to get Plot (2)? Select all that apply.
 

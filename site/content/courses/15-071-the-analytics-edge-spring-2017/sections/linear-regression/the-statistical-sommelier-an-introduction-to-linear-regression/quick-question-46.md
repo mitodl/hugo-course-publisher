@@ -31,7 +31,7 @@ Quick Question
 
 The plots below show the relationship between two of the independent variables considered by Ashenfelter and the price of wine.
 
-![Plot of price vs. average growing season temperature.](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/5ad4d62205c0fb3bc07e63ce035d5c43_Wine_QQ1_Plot1.png) ![Plot of price vs. harvest rainfall.](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/53ba2e1c4dece92e46f81091cad607c1_Wine_QQ1_Plot2.png)
+![Plot of price vs. average growing season temperature.](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/5ad4d62205c0fb3bc07e63ce035d5c43_Wine_QQ1_Plot1.png) ![Plot of price vs. harvest rainfall.](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/53ba2e1c4dece92e46f81091cad607c1_Wine_QQ1_Plot2.png)
 
 What is the correct relationship between harvest rain, average growing season temperature, and wine prices?
 

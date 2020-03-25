@@ -20,7 +20,7 @@ In this session you will:
 Problem Set
 -----------
 
-Use [Differentiation (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/1557acc7f3cd5d1538b71fe77bcf9ec0_MIT18_01SC_pset1prb.pdf "Open in a new window.") to do the problems below.
+Use [Differentiation (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/problem-set-1/MIT18_01SC_pset1prb" %}}) to do the problems below.
 
 | Section | Topic | Exercises |
 | --- | --- | --- |
@@ -36,7 +36,7 @@ Use [Differentiation (PDF)](https://open-learning-course-data-ci.s3.amazonaws.co
 
 ### Solutions
 
-[Solutions to Differentiation problems (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/bc48678ef179556cc639b6b28e42d81c_MIT18_01SC_pset1sol.pdf "Open in a new window.")
+[Solutions to Differentiation problems (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/problem-set-1/MIT18_01SC_pset1sol" %}})
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 

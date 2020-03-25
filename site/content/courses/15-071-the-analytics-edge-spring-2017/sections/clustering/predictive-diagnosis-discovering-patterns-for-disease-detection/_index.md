@@ -23,7 +23,7 @@ menu:
 Video 1: Heart Attacks
 ----------------------
 
-The slides from all videos in this Lecture Sequence can be downloaded here: [Discovering Patterns for Disease Detection (PDF - 1.4MB)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/3d75c67e442e35d4194a59943ba87f14_MIT15_071S17_Unit6_HeartAttacks.pdf).
+The slides from all videos in this Lecture Sequence can be downloaded here: [Discovering Patterns for Disease Detection (PDF - 1.4MB)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/lecture-and-recitation-notes/MIT15_071S17_Unit6_HeartAttacks" %}}).
 
 *   [BackVideo 8: The Analytics Edge of Recommendation Systems]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-8-the-analytics-edge-of-recommendation-systems/_index.md" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/quick-question-481/_index.md" %}})

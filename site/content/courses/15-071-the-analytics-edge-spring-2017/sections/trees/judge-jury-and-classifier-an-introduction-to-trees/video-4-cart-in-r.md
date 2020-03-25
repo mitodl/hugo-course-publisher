@@ -27,9 +27,9 @@ menu:
 Video 4: CART in R
 ------------------
 
-In the next few videos, we'll be using the dataset [stevens (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/1fae15ece6119c72496aa45be0f4b024_stevens.csv) to build trees in R. Please download the dataset to follow along. This data comes from the [Supreme Court Forecasting Project](http://wusct.wustl.edu/data.php) website.
+In the next few videos, we'll be using the dataset [stevens (CSV)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/1fae15ece6119c72496aa45be0f4b024_stevens.csv) to build trees in R. Please download the dataset to follow along. This data comes from the [Supreme Court Forecasting Project](http://wusct.wustl.edu/data.php) website.
 
-An R script file with all of the R commands used in this lecture can be downloaded here: [Unit4\_SupremeCourt (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/4b3d86026f29ac088fd4a59adf74a01e_Unit4_SupremeCourt.R).
+An R script file with all of the R commands used in this lecture can be downloaded here: [Unit4\_SupremeCourt (R)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/4b3d86026f29ac088fd4a59adf74a01e_Unit4_SupremeCourt.R).
 
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/quick-question-267" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/quick-question-281" %}})

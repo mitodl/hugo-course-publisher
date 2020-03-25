@@ -21,13 +21,13 @@ In this session you will:
 Problems Set
 ------------
 
-Use [Applications of Differentiation (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/0d7855ac225e4020cd3f258691a286cd_MIT18_01SC_pset2prb.pdf "Open in a new window.") to do the problems below.
+Use [Applications of Differentiation (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/problem-set-5/MIT18_01SC_pset2prb" %}}) to do the problems below.
 
 | Section | Topic | Exercises |
 | --- | --- | --- |
 | 2G | Mean Value Theorem | 1b, 2b, 5, 6 
 
-Use [Integration (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/eaabc6c74a11402341dbc120fffa5ea5_MIT18_01SC_pset3prb.pdf "Open in a new window.") to do the problems below.
+Use [Integration (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/problem-set-5/MIT18_01SC_pset3prb" %}}) to do the problems below.
 
 | Section | Topic | Exercises |
 | --- | --- | --- |
@@ -36,9 +36,9 @@ Use [Integration (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18
 
 ### Solutions
 
-[Solutions to Applications of Differentiation problems (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/56a6f202a52849dd06f37dece53df29d_MIT18_01SC_pset2sol.pdf "Open in a new window.")
+[Solutions to Applications of Differentiation problems (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/problem-set-5/MIT18_01SC_pset2sol" %}})
 
-[Solutions to Integration problems (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/0c2dce083a72b3578eb1803326353b67_MIT18_01SC_pset3sol.pdf "Open in a new window.")
+[Solutions to Integration problems (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/problem-set-5/MIT18_01SC_pset3sol" %}})
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 

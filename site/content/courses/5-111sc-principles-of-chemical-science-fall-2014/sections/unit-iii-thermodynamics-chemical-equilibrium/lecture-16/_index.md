@@ -13,7 +13,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/35ea3d5a2627b7771fad5c6ca91b533d_Lecture_16.jpg)  | {{< br >}}{{< br >}}1.  Thermodynamics{{< br >}}    1.  Spontaneous Change and Free Energy{{< br >}}    2.  Entropy{{< br >}}    3.  Free Energy of Formation{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/35ea3d5a2627b7771fad5c6ca91b533d_Lecture_16.jpg)  | {{< br >}}{{< br >}}1.  Thermodynamics{{< br >}}    1.  Spontaneous Change and Free Energy{{< br >}}    2.  Entropy{{< br >}}    3.  Free Energy of Formation{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -23,12 +23,12 @@ If you mix two compounds together will they react spontaneously? How do you know
 Lecture Notes
 -------------
 
-[Notes for Lecture 16 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/1e588ca84ce7e70c0e3cb1fc8770ad7f_MIT5_111F14_Lec16.pdf)
+[Notes for Lecture 16 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-16/MIT5_111F14_Lec16" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 16 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/d7a23fbdf710023e9d67639a07a468e8_MIT5_111F14_Lec16Clkr.pdf)
+[Lecture 16 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec16Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -42,8 +42,8 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 16 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/ebbe225755d138c063d89ae0292bd360_MIT5_111F14_Lec16Prob.pdf)
+[Problems for Lecture 16 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec16Prob" %}})
 
-[Solutions for Lecture 16 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/446dfcd813f73f2c45ec4768bb47bae0_MIT5_111F14_Lec16Soln.pdf)
+[Solutions for Lecture 16 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec16Soln" %}})
 
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-15/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-17/_index.md" %}}) »

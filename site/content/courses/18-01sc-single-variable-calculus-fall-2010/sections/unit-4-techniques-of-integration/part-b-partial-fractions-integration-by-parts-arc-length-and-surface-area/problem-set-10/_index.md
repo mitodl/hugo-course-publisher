@@ -21,7 +21,7 @@ In this session you will:
 Problem Set
 -----------
 
-Use [Integration Techniques (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/cfe0b375ce6c0d7bb231f30e4fa18e44_MIT18_01SC_pset5prb.pdf "Open in a new window.") to do the problems below.
+Use [Integration Techniques (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/problem-set-10/MIT18_01SC_pset5prb" %}}) to do the problems below.
 
 | Section | Topic | Exercises |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ Use [Integration Techniques (PDF)](https://open-learning-course-data-ci.s3.amazo
 
 ### Solutions
 
-[Solutions to Integration Techniques problems (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/b8f998f4a1e047a51a59f1db698062af_MIT18_01SC_pset5sol.pdf "Open in a new window.")
+[Solutions to Integration Techniques problems (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/problem-set-10/MIT18_01SC_pset5sol" %}})
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 

@@ -3,9 +3,8 @@ title: Course Home
 course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
 course_title: 'Unified Engineering I, II, III, & IV'
 course_image_url: >-
-  https://open-learning-course-data-ci.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8f56bbb35d0e456dc8b70911bec7cd0d_16-01f05.jpg
-course_thumbnail_image_url: >-
-  https://open-learning-course-data-ci.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/efd5c344483ac7dcf8aa36900b3f42b9_16-01f05-th.jpg
+  https://open-learning-course-data.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8f56bbb35d0e456dc8b70911bec7cd0d_16-01f05.jpg
+course_thumbnail_image_url: ''
 course_image_alternate_text: >-
   Illustration of an aircraft wing showing connections between the disciplines
   of the course.

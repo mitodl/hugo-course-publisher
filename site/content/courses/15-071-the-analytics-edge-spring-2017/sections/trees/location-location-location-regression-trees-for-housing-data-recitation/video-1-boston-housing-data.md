@@ -24,7 +24,7 @@ menu:
 Video 1: Boston Housing Data
 ----------------------------
 
-The slides from all videos in this recitation can be downloaded here: [Regression Trees for Housing Data (PDF - 1.1MB)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/7f805ea16eb040351aeb70db90036148_MIT15_071S17_Unit4_Recitation.pdf).
+The slides from all videos in this recitation can be downloaded here: [Regression Trees for Housing Data (PDF - 1.1MB)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/lecture-and-recitation-notes/MIT15_071S17_Unit4_Recitation" %}}).
 
 *   [BackLocation, Location, Location: Regression Trees for Housing Data (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation" %}})
 *   [ContinueVideo 2: The Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-2-the-data" %}})

@@ -13,7 +13,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/a167b211a7bfde223d913d2fd32d6fd0_Lecture_18.jpg)  | {{< br >}}{{< br >}}1.  Chemical Equilibrium{{< br >}}    1.  Nature of Chemical Equilibrium{{< br >}}    2.  Meaning of the Chemical Equilibrium Constant K{{< br >}}    3.  External Effects on K (Le Châtlier's Principle){{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/a167b211a7bfde223d913d2fd32d6fd0_Lecture_18.jpg)  | {{< br >}}{{< br >}}1.  Chemical Equilibrium{{< br >}}    1.  Nature of Chemical Equilibrium{{< br >}}    2.  Meaning of the Chemical Equilibrium Constant K{{< br >}}    3.  External Effects on K (Le Châtlier's Principle){{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -23,12 +23,12 @@ Reactions reach chemical equilibrium when the rate of the forward reaction equal
 Lecture Notes
 -------------
 
-[Notes for Lecture 18 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/ec12f084d867a5e5532b12ee99bdc767_MIT5_111F14_Lec18.pdf)
+[Notes for Lecture 18 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-18/MIT5_111F14_Lec18" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 18 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/dc2c31954cfac487a59717849a44f10f_MIT5_111F14_Lec18Clkr.pdf)
+[Lecture 18 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec18Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -51,8 +51,8 @@ Nozomi Ando, a self-described artist and comic book lover, describes how her tra
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 18 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/517e9ef9c38ea95d3c03876dc53a44c9_MIT5_111F14_Lec18Prob.pdf)
+[Problems for Lecture 18 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec18Prob" %}})
 
-[Solutions for Lecture 18 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/4d0d7db1079f4fee2bdd58d95033f36d_MIT5_111F14_Lec18Soln.pdf)
+[Solutions for Lecture 18 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec18Soln" %}})
 
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-17/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-19/_index.md" %}}) »

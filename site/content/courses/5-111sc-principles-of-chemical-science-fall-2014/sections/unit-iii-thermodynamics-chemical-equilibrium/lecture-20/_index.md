@@ -13,7 +13,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/02988e8e708fabc33bedaf3c2e25da75_Lecture_20.jpg)  | {{< br >}}{{< br >}}1.  Solutions and Solubility{{< br >}}2.  Classification of Acids and Bases{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/02988e8e708fabc33bedaf3c2e25da75_Lecture_20.jpg)  | {{< br >}}{{< br >}}1.  Solutions and Solubility{{< br >}}2.  Classification of Acids and Bases{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -23,12 +23,12 @@ If you have ever tried to get a stain out of a favorite garment or struggled to 
 Lecture Notes
 -------------
 
-[Notes for Lecture 20 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/a4df4b5867cb5898550e7aca13b34453_MIT5_111F14_Lec20.pdf)
+[Notes for Lecture 20 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-20/MIT5_111F14_Lec20" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 20 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/34f8afd32c87ad4e59f14e2a40d1e5dd_MIT5_111F14_Lec20Clkr.pdf)
+[Lecture 20 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec20Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -52,8 +52,8 @@ Hector Hernandez describes how Le Chatelier’s principle and the effects of pre
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 20 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/feb68a6988b89dfc30037bf00689ecc0_MIT5_111F14_Lec20Prob.pdf)
+[Problems for Lecture 20 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec20Prob" %}})
 
-[Solutions for Lecture 20 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/7e17795c825ede37725ff7cbfd2de2cc_MIT5_111F14_Lec20Soln.pdf)
+[Solutions for Lecture 20 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec20Soln" %}})
 
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-19/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-21/_index.md" %}}) »

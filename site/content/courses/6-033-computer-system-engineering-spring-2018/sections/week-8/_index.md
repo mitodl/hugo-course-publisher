@@ -23,7 +23,7 @@ Lecture 14: Fault Tolerance: Reliability via Replication
 
 ### Lecture Slides
 
-*   [Lecture 14 Slides: Fault Tolerance: Reliability via Replication (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/8eb16d3628bbd77ee7e8471b9871ec09_MIT6_033S18lec14.pdf)
+*   [Lecture 14 Slides: Fault Tolerance: Reliability via Replication (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/MIT6_033S18lec14" %}})
 
 ### Reading
 
@@ -56,7 +56,7 @@ Lecture 15: Fault Tolerance: Introduction to Transactions
 
 ### Lecture Slides
 
-*   [Lecture 15 Slides: Fault Tolerance: Introduction to Transactions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/df1526408e3ec6f7e43aadfa1ce5f944_MIT6_033S18lec15.pdf)
+*   [Lecture 15 Slides: Fault Tolerance: Introduction to Transactions (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/MIT6_033S18lec15" %}})
 
 ### Reading
 
@@ -78,4 +78,4 @@ Your presentation should reflect the feedback you got on your preliminary report
 Design Project Pressentation (DPP)
 ----------------------------------
 
-*   Assigned: [Design Project Presentation (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/5b33bd84f663106474a0aa71928bbcce_MIT6_033S18dp_pres.pdf), [Design Project Presentation Evaluation Ideas (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/8c1339227ec3a880031c26d2ae95dca5_MIT6_033S18dp_eval.pdf)
+*   Assigned: [Design Project Presentation (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/MIT6_033S18dp_pres" %}}), [Design Project Presentation Evaluation Ideas (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/MIT6_033S18dp_eval" %}})

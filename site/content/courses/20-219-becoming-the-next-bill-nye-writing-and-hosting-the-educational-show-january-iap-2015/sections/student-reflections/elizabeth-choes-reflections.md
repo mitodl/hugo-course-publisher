@@ -25,7 +25,7 @@ It was really funny hearing Chris talk about the plastic elements of film today,
 
 The 3 - act structure of web video that Chris talked about was something I hadn't been able to verbalize or encapsulate like that - I'm going to have to steal that from him. I, too, also love the concept of making the unfamiliar familiar (and vice versa even more) - you thought you knew stuff about snot? Oh snap, turns out, you didn't, and it's weird and awesome as hell.
 
-[\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor_and_Student_Work)
 
 Day 2 Thoughts
 --------------
@@ -44,14 +44,14 @@ I forgot to mention this during class, but there were really great and interesti
 
 I'm really excited about the group of students we have in this class and to see you all opening up more about your creative process and questions. Don't hesitate to let the teaching staff know how we can best help you throughout this process.
 
-[\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 2\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}#Instructor_and_Student_Work)
 
 Day 3 Thoughts
 --------------
 
 This video is courtesy of [Elizabeth Choe](https://www.youtube.com/channel/UCOduGt2sk_wjQniqtWZt90A) on YouTube and is provided under our Creative Commons license.
 
-[\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor_and_Student_Work)
 
 Day 4 Reflections
 -----------------
@@ -68,7 +68,7 @@ tl;dr write a script! It's okay if you end up changing it! And really challenge 
 
 P.S. Totally empathize with how difficult this is, you all are doing a great job.
 
-[\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 4\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}#Instructor_and_Student_Work)
 
 Day 5 Thoughts
 --------------
@@ -79,19 +79,19 @@ It was so great hearing everyone's "revised" pitches at the beginning of the cla
 
 Hope you all had fun getting to work with the equipment today. I was watching Kenneth and PJ (FYI, Paul is actually a PJ, as I learned today) as they recorded because they stayed in the classroom, and it made me smile that 1) PJ offered the same directorial advice I was about to give ("Try one where you don't emphasize the word 'pizza' too much") and that 2) they tried some creative shots:
 
-![A cameraman taking a photo of two students setting up a camera and tripod.](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/bae617e87850cc5eca4b8c7050f7982d_blog1.jpg)
+![A cameraman taking a photo of two students setting up a camera and tripod.](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/bae617e87850cc5eca4b8c7050f7982d_blog1.jpg)
 
 I can't emphasize enough how awesome it is seeing you all brainstorm and work together-as Josh, Chris, and George have all said before, filmmaking is a process that depends so much on collaboration (I can't imagine teaching this class without them, for instance).
 
-![Two students working together on a computer.](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/7ec77097528e1f0e9e4fe624c8fcd7c8_day5_2.jpg)
+![Two students working together on a computer.](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/7ec77097528e1f0e9e4fe624c8fcd7c8_day5_2.jpg)
 
 It's 4:30 right now and Joshua and Nathan just came back from filming in Nathan's dorm (which, in my opinion, is the coolest one to see at MIT)… so, see? Lots of great things come out of not having to film by yourself:)
 
- ![Two students working together.](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/974254b5197d55126023e7ac3a7292f8_day5_3.jpg)
+ ![Two students working together.](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/974254b5197d55126023e7ac3a7292f8_day5_3.jpg)
 
 Very, very happy with the progress everyone is making, and even more excited to see where'll you all go next week.
 
-[\_Link back to Day 5\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 5\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}#Instructor_and_Student_Work)
 
 Day 6 Thoughts
 --------------
@@ -104,7 +104,7 @@ Working with this class has made me realize more and more how much our tradition
 
 I'm also feeling a lot of time crunch - pressure to finish lectures, to finish drafts, to finish the project… I racked my brain thinking of the best way to pace this class, and even so, we're still super pressed for time. What have been the most vital components of this class so far? Do you think there are things I could've taken out? I thought about just having one - on  -one feedback with drafts just using Google Docs, but I wonder how much you would've missed out on by not reading your complete scripts aloud to the class and seeing their reactions and feedback (and hearing the teaching staff's feedback for other scripts)…
 
-[\_Link back to Day 6\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 6\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours" %}}#Instructor_and_Student_Work)
 
 Day 7 Thoughts
 --------------
@@ -119,38 +119,38 @@ Public radio is good at being timely and analytical and giving you the news and 
 
 I think a radio show is better when the presenter, when the reporter exists as a person and, like, I feel like then there's more to listen for.
 
-[\_Link back to Day 7\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production/_index.md" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 7\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production/_index.md" %}}#Instructor_and_Student_Work)
 
 Day 9 Thoughts
 --------------
 
 Today I followed Yuliya / PJ / Kenneth around for a bit as they filmed part of Yuliya's video on fractals in E ast Campus (a dorm nearby, for those of you who are unfamiliar).
 
-![Two students working together.](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/475332e9ecde3d4ab079f6325ddbfdd4_day91.jpg)
+![Two students working together.](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/475332e9ecde3d4ab079f6325ddbfdd4_day91.jpg)
 
 (Just a little creepin' 'round the corner, don't mind me…)
 
 Beyond anything, I am thrilled with how you all are approaching shots, planning, hosting… I heard some great directorial advice from the guys. I know you are working under very tight time constraints and not the greatest equipment, and it's okay if you don't make a YouTube show. What's most important is that you can identify how to make things better / why things work or don't work in video, etc… and from what I'm overhearing, a lot of that is happening.
 
-![Two students working together with a tripod and camera](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ffa1ce4a916322fb1029c540ad7d416a_day9_2.jpg)
+![Two students working together with a tripod and camera](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/ffa1ce4a916322fb1029c540ad7d416a_day9_2.jpg)
 
 (Look! PJ's smiling!!)
 
 Then I hopped back over to the classroom, where Ceri was giving a brief tutorial on using the tablets in Illustrator to eventually create simple animations (jumping goats, in Andrea's case). Again, I know there's not a whole lot of time to create sweeping animations, but hopefully this gives you a little taste of some of the video production techniques you can play with long after this class ends.
 
-![Two students working on computers creating an animation.](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/c4311423d395246e3bef043c7361cdb1_day9_3.jpg)
+![Two students working on computers creating an animation.](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/c4311423d395246e3bef043c7361cdb1_day9_3.jpg)
 
 (Smiles from everyone today! Huzzah.)
 
 I'm guessing David and Joshua were filming in the hotel this afternoon - can't wait to see how all that turns out. Home stretch! Ceri and I will be around and online this weekend if anyone needs help.
 
-[\_Link back to Day 9\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/days-8-9-10-project-time" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 9\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/days-8-9-10-project-time" %}}#Instructor_and_Student_Work)
 
 Day 11 Thoughts
 ---------------
 
 This video is courtesy of [Elizabeth Choe](https://www.youtube.com/channel/UCOduGt2sk_wjQniqtWZt90A) on YouTube and is provided under our Creative Commons license.
 
-[\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Instructor\_and\_Student\_Work)
+[\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Instructor_and_Student_Work)
 
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/ceri-rileys-reflections" %}}) »

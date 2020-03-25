@@ -12,7 +12,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/8bab447c53bd0e6aa15b48f68a9ca9a1_Lecture_7.jpg)  | {{< br >}}{{< br >}}1.  Wavefunctions and Binding Energies for Multi-electron Atoms{{< br >}}2.  Electron Configurations{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/8bab447c53bd0e6aa15b48f68a9ca9a1_Lecture_7.jpg)  | {{< br >}}{{< br >}}1.  Wavefunctions and Binding Energies for Multi-electron Atoms{{< br >}}2.  Electron Configurations{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -22,12 +22,12 @@ After focusing on the hydrogen atom for several lectures, the course moves on to
 Lecture Notes
 -------------
 
-[Notes for Lecture 7 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/35926f353f18c1e7278702f3eb1c9060_MIT5_111F14_Lec7.pdf)
+[Notes for Lecture 7 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec7" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 7 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/3731c1e6e66883c2d246d132f91c44b2_MIT5_111F14_Lec7Clkr.pdf)
+[Lecture 7 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec7Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -40,8 +40,8 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 7 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/e2ce5c273ca7f0803d35d8cda4f85afb_MIT5_111F14_Lec07Prob.pdf)
+[Problems for Lecture 7 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec07Prob" %}})
 
-[Solutions for Lecture 7 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/8309091816c0e05d2cbe81ad73a39634_MIT5_111F14_Lec07Soln.pdf)
+[Solutions for Lecture 7 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec07Soln" %}})
 
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-6" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/_index.md" %}}) »

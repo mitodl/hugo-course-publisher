@@ -21,7 +21,7 @@ In this session you will:
 Problem Set
 -----------
 
-Use [Applications of Integration (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/8c4568635d5df671ce7859d2ec6f68b7_MIT18_01SC_pset4prb.pdf "Open in a new window.") to do the problems below.
+Use [Applications of Integration (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/problem-set-7/MIT18_01SC_pset4prb" %}}) to do the problems below.
 
 | Section | Topic | Exercises |
 | --- | --- | --- |
@@ -31,7 +31,7 @@ Use [Applications of Integration (PDF)](https://open-learning-course-data-ci.s3.
 
 ### Solutions
 
-[Solutions to Applications of Integration problems (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/0c5de02d4b2863ad003703f9b5ee1783_MIT18_01SC_pset4sol.pdf "Open in a new window.")
+[Solutions to Applications of Integration problems (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/problem-set-7/MIT18_01SC_pset4sol" %}})
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 

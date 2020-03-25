@@ -28,7 +28,7 @@ Lecture 12: In-Network Resource Management
 
 ### Lecture Slides
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 12 Slides: In-Network Resource Management (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/0139d45c186408d828399ba2abd77c19_MIT6_033S18lec12.pdf)
+*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 12 Slides: In-Network Resource Management (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-7/MIT6_033S18lec12" %}})
 
 ### Reading
 
@@ -56,7 +56,7 @@ Lecture 13: Networking: P2P Networks + Content Distribution Network (CDN)
 
 ### Lecture Slides
 
-*   [Lecture 13 Slides: Networking: P2P Networks + CDNs (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/cb323c9bfd706cc4af756a5e33b7ca8c_MIT6_033S18lec13.pdf)
+*   [Lecture 13 Slides: Networking: P2P Networks + CDNs (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-7/MIT6_033S18lec13" %}})
 
 ### Reading
 

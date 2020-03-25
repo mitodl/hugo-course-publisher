@@ -28,8 +28,8 @@ Part 1: Table-read
 
 | VIDEO CHAPTERS | SCRIPT DRAFTS |
 | --- | --- |
-| {{< br >}}{{< br >}} | [Joshua's Script (DOC)](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/889e423b42eafc2253c1eb0b9733838f_MIT20_219IAP15_Joshua.docx) |
-| {{< br >}}{{< br >}} | [Kenneth's Script (DOC)](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/6c745fe6fb54da07614c3dffffac89c7_MIT20_219IAP15_Kenneth.docx) 
+| {{< br >}}{{< br >}} | [Joshua's Script (DOC)](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/889e423b42eafc2253c1eb0b9733838f_MIT20_219IAP15_Joshua.docx) |
+| {{< br >}}{{< br >}} | [Kenneth's Script (DOC)](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/6c745fe6fb54da07614c3dffffac89c7_MIT20_219IAP15_Kenneth.docx) 
 
 Part 2: Post-production
 -----------------------
@@ -69,26 +69,26 @@ Finish editing your scripts and post to the Tumblr with day7script and your Kerb
 
 ### Survey
 
-Fill out the [Midpoint Survey (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/0ca33476042a8cc2e31dcdf2b7e2848d_MIT20_219IAP15_Midsurvy.pdf) sometime before the weekend!
+Fill out the [Midpoint Survey (PDF)]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production/MIT20_219IAP15_Midsurvy" %}}) sometime before the weekend!
 
 Instructor and Student Work
 ---------------------------
 
 ### Daily Blogs / Vlogs
 
-*   [Elizabeth's day 7 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections" %}}#Echoe\_s\_Day\_7\_Thoughts)
-*   [Ceri's day 7 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/ceri-rileys-reflections" %}}#Ceriley\_s\_Day\_7\_Reflections)
-*   [Joshua's day 7 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/joshua-cheongs-reflections" %}}#Joshch\_s\_Day\_7\_Thoughts)
-*   [Andrea's day 7 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/andrea-desrosierss-reflections" %}}#Day\_7\_Vlog)
-*   [PJ's day 7 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/paul-pj-folinos-reflections" %}}#Pjfolino\_s\_Day\_7\_Thoughts)
-*   [Yuliya's day 7 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/yuliya-klochans-reflections" %}}#Day\_7)
+*   [Elizabeth's day 7 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections" %}}#Echoe_s_Day_7_Thoughts)
+*   [Ceri's day 7 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/ceri-rileys-reflections" %}}#Ceriley_s_Day_7_Reflections)
+*   [Joshua's day 7 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/joshua-cheongs-reflections" %}}#Joshch_s_Day_7_Thoughts)
+*   [Andrea's day 7 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/andrea-desrosierss-reflections" %}}#Day_7_Vlog)
+*   [PJ's day 7 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/paul-pj-folinos-reflections" %}}#Pjfolino_s_Day_7_Thoughts)
+*   [Yuliya's day 7 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/yuliya-klochans-reflections" %}}#Day_7)
 
 ### Day 7 Scripts
 
-*   [Joshua's day 7 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project" %}}#Script:\_Final\_Iteration)
-*   [Andrea's day 7 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}#Ortho\_Script)
-*   [PJ's day 7 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project" %}}#Pjfolino\_s\_Script)
-*   [Yuliya's day 7 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project" %}}#DAY\_7\_Script\_\_Fractals\_\_)
-*   [David's day 7 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/david-yams-project" %}}#Script\_Draft\_3)
+*   [Joshua's day 7 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project" %}}#Script:_Final_Iteration)
+*   [Andrea's day 7 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}#Ortho_Script)
+*   [PJ's day 7 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project" %}}#Pjfolino_s_Script)
+*   [Yuliya's day 7 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project" %}}#DAY_7_Script__Fractals__)
+*   [David's day 7 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/david-yams-project" %}}#Script_Draft_3)
 
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/days-8-9-10-project-time" %}}) »

@@ -12,7 +12,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/191d5f0b38064d6a80d169d6c2020493_Lecture_11.jpg)  | {{< br >}}{{< br >}}1.  Breakdown of the Octet Rule{{< br >}}    1.  Odd Number of Valence Electrons{{< br >}}    2.  Octet Deficient Molecules{{< br >}}    3.  Valence Shell Expansion{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/191d5f0b38064d6a80d169d6c2020493_Lecture_11.jpg)  | {{< br >}}{{< br >}}1.  Breakdown of the Octet Rule{{< br >}}    1.  Odd Number of Valence Electrons{{< br >}}    2.  Octet Deficient Molecules{{< br >}}    3.  Valence Shell Expansion{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------
@@ -22,12 +22,12 @@ Radicals, expanded octets, and more, in this lecture about Lewis structures.
 Lecture Notes
 -------------
 
-[Notes for Lecture 11 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/f9902c1a0fe37ae489857862deffa086_MIT5_111F14_Lec11.pdf)
+[Notes for Lecture 11 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-11/MIT5_111F14_Lec11" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 11 Clicker Questions (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/89cff30eee9508ff3f20c6bea25f5a2c_MIT5_111F14_Lec11Clkr.pdf)
+[Lecture 11 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/MIT5_111F14_Lec11Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -42,8 +42,8 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 11 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/70c23656a0c02b351009759350e25a93_MIT5_111F14_Lec11Prob.pdf)
+[Problems for Lecture 11 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/MIT5_111F14_Lec11Prob" %}})
 
-[Solutions for Lecture 11 (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/7c4822d7eb6e1a39d725396ad1bbafa4_MIT5_111F14_Lec11Soln.pdf)
+[Solutions for Lecture 11 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/MIT5_111F14_Lec11Soln" %}})
 
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-10/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-12/_index.md" %}}) »

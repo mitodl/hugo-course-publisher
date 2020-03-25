@@ -25,8 +25,8 @@ Worked Example
 
 Integrating 1/(5x + 2)2 from 1 to Inﬁnity
 
-*   [Problem (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/a66fcfeb7409639c6cce6ad67831c25c_MIT18_01SCF10_ex91prb.pdf "Open in a new window.")
-*   [Solution (PDF)](https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/07163bb0b7ba935b72ae14d3d0850ed2_MIT18_01SCF10_ex91sol.pdf "Open in a new window.")
+*   [Problem (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-91-improper-integrals/MIT18_01SCF10_ex91prb" %}})
+*   [Solution (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-91-improper-integrals/MIT18_01SCF10_ex91sol" %}})
 
 Recitation Video
 ----------------
