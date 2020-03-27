@@ -1,6 +1,7 @@
 #desktop-header {
-  background-color: $bg-gray;
+  background-color: white;
   border-bottom: 1px solid $border-dark-color;
+  height: 88px;
 
   @include media-breakpoint-down(md) {
     display: none;
@@ -8,27 +9,63 @@
 
   .contents {
     display: flex;
-    margin: 0 auto;
+    justify-content: space-between;
     max-width: $max-content-width;
-    align-items: center;
+    margin: auto;
+    height: 100%;
 
-    .bmd-form-group {
-      padding-top: 0;
-    }
-
-    .btn {
-      margin-bottom: 0;
-    }
-
-    .ocw-logo-placeholder {
-      height: 57px;
-      width: 418px;
-      background-color: $darker-gray;
-      color: white;
-      font-size: 17px;
+    .right,
+    .left {
       display: flex;
       align-items: center;
-      justify-content: center;
+    }
+
+    .left {
+      .header-link {
+        color: $highlight-red;
+        text-decoration: none;
+        font-size: 16px;
+        font-weight: bold;
+      }
+
+      .red-box {
+        background-color: $highlight-red;
+        height: 24px;
+
+        &.one {
+          width: 175px;
+        }
+
+        &.two {
+          width: 126px;
+        }
+      }
+
+      .ocw-logo {
+        img {
+          height: 40px;
+        }
+      }
+    }
+
+    .right {
+      .small-link,
+      .spacer {
+        color: $link-blue;
+        margin: 0 2px;
+      }
+
+      .search {
+        height: 55px;
+        display: flex;
+        align-items: center;
+        border-left: 1px solid $border-light-color;
+        color: $text-gray;
+
+        i {
+          font-size: 30px;
+        }
+      }
     }
   }
 }
