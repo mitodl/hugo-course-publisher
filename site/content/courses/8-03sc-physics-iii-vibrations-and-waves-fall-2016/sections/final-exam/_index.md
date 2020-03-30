@@ -11,7 +11,7 @@ menu:
 Exam Information
 ----------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/b0cb2786ccdbdc8f1d8ba88ff8a96d24_exam_final.jpg) | {{< br >}}{{< br >}}Final exam covers Lectures 1 through 23, including [Exam 1]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/exam-1/_index.md" %}}) and [Exam 2]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2/_index.md" %}}).{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/b0cb2786ccdbdc8f1d8ba88ff8a96d24_exam_final.jpg) | {{< br >}}{{< br >}}Final exam covers Lectures 1 through 23, including [Exam 1]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/exam-1/_index.md" %}}) and [Exam 2]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2/_index.md" %}}).{{< br >}}{{< br >}} 
 
 Practice Exams and Solutions
 ----------------------------

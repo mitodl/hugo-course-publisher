@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/241d43da46e6ba876f18f5d9f1574018_L4.jpg) | {{< br >}}{{< br >}}*   Coupled oscillators{{< br >}}*   Normal modes{{< br >}}*   Multibody system{{< br >}}*   Transient behavior{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/241d43da46e6ba876f18f5d9f1574018_L4.jpg) | {{< br >}}{{< br >}}*   Coupled oscillators{{< br >}}*   Normal modes{{< br >}}*   Multibody system{{< br >}}*   Transient behavior{{< br >}}{{< br >}} 
 
 Lecture Video: Coupled Oscillators, Normal Modes
 ------------------------------------------------

@@ -6,6 +6,6 @@ layout: pdf
 uid: 45790724487e46dcc02f55d0fc092ab7
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/18-06-linear-algebra-spring-2010/45790724487e46dcc02f55d0fc092ab7_MIT18_06S10_Final_Answers.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/18-06-linear-algebra-spring-2010/45790724487e46dcc02f55d0fc092ab7_MIT18_06S10_Final_Answers.pdf
 course_id: 18-06-linear-algebra-spring-2010
 ---

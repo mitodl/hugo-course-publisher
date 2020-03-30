@@ -20,7 +20,7 @@ The United States government periodically collects demographic information by co
 
 In this problem, we are going to use census information about an individual to predict how much a person earns -- in particular, whether the person earns more than $50,000 per year. This data comes from the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Adult).
 
-The file [census (CSV - 3.3MB)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/23bdcd0033c04ce7b2ea204f161b30e0_census.csv) contains 1994 census data for 31,978 individuals in the United States.
+The file [census (CSV - 3.3MB)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/23bdcd0033c04ce7b2ea204f161b30e0_census.csv) contains 1994 census data for 31,978 individuals in the United States.
 
 The dataset includes the following 13 variables:
 

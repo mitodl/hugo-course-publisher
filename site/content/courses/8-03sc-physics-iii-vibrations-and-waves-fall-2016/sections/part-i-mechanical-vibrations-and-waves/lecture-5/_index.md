@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/399a78dfbe2d4f60a90700df0d142614_L5.jpg) | {{< br >}}{{< br >}}*   Coupled oscillators{{< br >}}*   Beat phenomena{{< br >}}*   Normal axis{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/399a78dfbe2d4f60a90700df0d142614_L5.jpg) | {{< br >}}{{< br >}}*   Coupled oscillators{{< br >}}*   Beat phenomena{{< br >}}*   Normal axis{{< br >}}{{< br >}} 
 
 Lecture Video: Beat Phenomena
 -----------------------------

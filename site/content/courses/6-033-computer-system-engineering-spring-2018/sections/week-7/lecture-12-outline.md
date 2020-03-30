@@ -107,7 +107,7 @@ menu:
     *   Algorithm:
         
         in each round:\]  
-        ` for each queue q:  
+         `for each queue q:  
           q.norm = q.weight / q.mean_packet_size  
          min = min of q.norm’s over all flows  
          for each queue q:  
@@ -151,7 +151,7 @@ menu:
     *   Algorithm:
         
         in each round:\]  
-        ` for each queue q:  
+         `for each queue q:  
           q.credit += q.quantum  
           while q.credit >= size of next packet p:  
            q.credit -= size of p  

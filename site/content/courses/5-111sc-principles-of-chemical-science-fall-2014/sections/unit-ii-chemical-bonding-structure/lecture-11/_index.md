@@ -12,7 +12,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/191d5f0b38064d6a80d169d6c2020493_Lecture_11.jpg)  | {{< br >}}{{< br >}}1.  Breakdown of the Octet Rule{{< br >}}    1.  Odd Number of Valence Electrons{{< br >}}    2.  Octet Deficient Molecules{{< br >}}    3.  Valence Shell Expansion{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/191d5f0b38064d6a80d169d6c2020493_Lecture_11.jpg)  | {{< br >}}{{< br >}}1.  Breakdown of the Octet Rule{{< br >}}    1.  Odd Number of Valence Electrons{{< br >}}    2.  Octet Deficient Molecules{{< br >}}    3.  Valence Shell Expansion{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

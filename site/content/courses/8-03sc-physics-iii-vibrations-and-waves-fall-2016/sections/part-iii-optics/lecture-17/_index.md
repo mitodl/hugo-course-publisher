@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/e5df7bd9d2b565e83061693837eed098_L17.jpg) | {{< br >}}{{< br >}}*   Polarizer{{< br >}}*   Linearly polarized waves{{< br >}}*   Circularly polarized wave{{< br >}}*   Elliptically polarized waves{{< br >}}*   Unpolarized light{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/e5df7bd9d2b565e83061693837eed098_L17.jpg) | {{< br >}}{{< br >}}*   Polarizer{{< br >}}*   Linearly polarized waves{{< br >}}*   Circularly polarized wave{{< br >}}*   Elliptically polarized waves{{< br >}}*   Unpolarized light{{< br >}}{{< br >}} 
 
 Lecture Video: Polarization, Polarizer
 --------------------------------------

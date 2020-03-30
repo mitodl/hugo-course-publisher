@@ -6,6 +6,6 @@ layout: pdf
 uid: e2479d78ae043e3cea7264cac2c0242b
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/e2479d78ae043e3cea7264cac2c0242b_MIT15_071S17_Unit5_Twitter.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/e2479d78ae043e3cea7264cac2c0242b_MIT15_071S17_Unit5_Twitter.pdf
 course_id: 15-071-the-analytics-edge-spring-2017
 ---

@@ -13,7 +13,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/a167b211a7bfde223d913d2fd32d6fd0_Lecture_18.jpg)  | {{< br >}}{{< br >}}1.  Chemical Equilibrium{{< br >}}    1.  Nature of Chemical Equilibrium{{< br >}}    2.  Meaning of the Chemical Equilibrium Constant K{{< br >}}    3.  External Effects on K (Le Châtlier's Principle){{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/a167b211a7bfde223d913d2fd32d6fd0_Lecture_18.jpg)  | {{< br >}}{{< br >}}1.  Chemical Equilibrium{{< br >}}    1.  Nature of Chemical Equilibrium{{< br >}}    2.  Meaning of the Chemical Equilibrium Constant K{{< br >}}    3.  External Effects on K (Le Châtlier's Principle){{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

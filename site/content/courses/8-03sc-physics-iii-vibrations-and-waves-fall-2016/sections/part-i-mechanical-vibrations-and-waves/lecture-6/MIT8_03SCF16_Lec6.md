@@ -6,6 +6,6 @@ layout: pdf
 uid: b4b43b0c651aa54ce5756eb062659227
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/b4b43b0c651aa54ce5756eb062659227_MIT8_03SCF16_Lec6.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/b4b43b0c651aa54ce5756eb062659227_MIT8_03SCF16_Lec6.pdf
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 ---

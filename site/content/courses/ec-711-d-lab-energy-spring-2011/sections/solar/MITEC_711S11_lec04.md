@@ -6,6 +6,6 @@ layout: pdf
 uid: 606b06bc1e38fa58d271651476d1469e
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/ec-711-d-lab-energy-spring-2011/606b06bc1e38fa58d271651476d1469e_MITEC_711S11_lec04.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/ec-711-d-lab-energy-spring-2011/606b06bc1e38fa58d271651476d1469e_MITEC_711S11_lec04.pdf
 course_id: ec-711-d-lab-energy-spring-2011
 ---

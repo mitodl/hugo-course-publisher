@@ -6,6 +6,6 @@ layout: pdf
 uid: d6accb47e5fd104d2d512b08a8f60b6e
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/d6accb47e5fd104d2d512b08a8f60b6e_MIT18_01SCF10_Ses97a.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/d6accb47e5fd104d2d512b08a8f60b6e_MIT18_01SCF10_Ses97a.pdf
 course_id: 18-01sc-single-variable-calculus-fall-2010
 ---

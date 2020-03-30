@@ -8,6 +8,6 @@ layout: pdf
 uid: 768d6fe735722547c3f5e74824532c53
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/18-06-linear-algebra-spring-2010/768d6fe735722547c3f5e74824532c53_MIT18_06S10_gramschmidtmat.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/18-06-linear-algebra-spring-2010/768d6fe735722547c3f5e74824532c53_MIT18_06S10_gramschmidtmat.pdf
 course_id: 18-06-linear-algebra-spring-2010
 ---

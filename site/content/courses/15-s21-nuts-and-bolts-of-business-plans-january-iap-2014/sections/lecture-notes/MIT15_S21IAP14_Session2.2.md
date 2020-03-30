@@ -6,6 +6,6 @@ layout: pdf
 uid: dab4a349c072c4d9bbc7158a5c0be788
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/dab4a349c072c4d9bbc7158a5c0be788_MIT15_S21IAP14_Session2.2.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/dab4a349c072c4d9bbc7158a5c0be788_MIT15_S21IAP14_Session2.2.pdf
 course_id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
 ---

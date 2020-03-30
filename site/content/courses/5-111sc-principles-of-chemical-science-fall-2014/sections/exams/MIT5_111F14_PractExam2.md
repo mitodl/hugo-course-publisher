@@ -8,6 +8,6 @@ layout: pdf
 uid: 3775a92f716707d301f055ace4a2ada7
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/3775a92f716707d301f055ace4a2ada7_MIT5_111F14_PractExam2.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/3775a92f716707d301f055ace4a2ada7_MIT5_111F14_PractExam2.pdf
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
 ---

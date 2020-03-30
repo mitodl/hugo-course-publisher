@@ -11,10 +11,7 @@ The full course textbook, Mathematics for Computer Science, is [available for do
 | SES # | COURSEWARE | READINGS |
 | --- | --- | --- |
 
-**Unit 1: Proofs **
-
-| | | |
-| --- | --- | --- |
+**Unit 1: Proofs**  |
 | 1 | [1.1 Intro to Proofs]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-1" %}}) | [Chapter 1.1–1.6 (PDF)]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/readings/MIT6_042JS15_Session1" %}}) |
 | 2 | [1.2 Proof Methods]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-2" %}}) | [Chapter 1.7–1.9 (PDF)]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/readings/MIT6_042JS15_Session2" %}}) |
 | 3 | [1.3 Well Ordering Principle]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-1" %}}) | [Chapter 2.1–2.3 (PDF)]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/readings/MIT6_042JS15_Session3" %}}) |

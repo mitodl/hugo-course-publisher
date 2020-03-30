@@ -25,4 +25,4 @@ The students in the course were asked to share their thoughts throughout the cou
 *   [Yulia Klochan's Reflections]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/yuliya-klochans-reflections/_index.md" %}})
 *   [David Yam's Reflections]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/david-yams-reflections/_index.md" %}})
 
-![A screenshot of the course Tumblr.](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/93bb33b65d7f3d035f33c1fb9f0322fb_reflections-screenshot.jpg)
+![A screenshot of the course Tumblr.](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/93bb33b65d7f3d035f33c1fb9f0322fb_reflections-screenshot.jpg)

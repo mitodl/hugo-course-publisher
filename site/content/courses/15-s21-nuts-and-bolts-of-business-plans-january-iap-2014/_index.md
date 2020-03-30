@@ -3,8 +3,9 @@ title: Course Home
 course_id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
 course_title: Nuts and Bolts of Business Plans
 course_image_url: >-
-  https://open-learning-course-data.s3.amazonaws.com/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/5d678a4444544691af4c007574815543_15-s21iap14.jpg
-course_thumbnail_image_url: ''
+  https://open-learning-course-data-ci.s3.amazonaws.com/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/5d678a4444544691af4c007574815543_15-s21iap14.jpg
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/6ca97e8daa30cb9887d788e0f4d6bf6c_15-s21iap14-th.jpg
 course_image_alternate_text: A diagram of a nut and bolt.
 course_image_caption_text: >-
   <p>A nut and bolt figuratively represent the content of this class. (Image by

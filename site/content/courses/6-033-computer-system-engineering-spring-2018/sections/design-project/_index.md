@@ -31,7 +31,7 @@ Deliverables
 Below are all DP deliverables and related material. The dates deliverables are assigned and due are available on the [course calendar]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/calendar" %}}).
 
 *   [Design Project Description (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-3/MIT6_033S18dp" %}})
-*   [Design Project FAQ (PDF) ]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-3/MIT6_033S18dp_faq" %}})
+*   [Design Project FAQ (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-3/MIT6_033S18dp_faq" %}}) 
 *   [Design Project Errata (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-3/MIT6_033S18dp_errata" %}})
 *   [Preliminary Report Assignment (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-3/MIT6_033S18dppr_writing" %}})
 *   [Presentation Assignment (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/MIT6_033S18dp_pres" %}}) ([Evaluation Tips (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/MIT6_033S18dp_eval" %}}))

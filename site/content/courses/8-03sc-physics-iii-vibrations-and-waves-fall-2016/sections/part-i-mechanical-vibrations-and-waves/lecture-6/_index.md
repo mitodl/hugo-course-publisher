@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/78b010299f43550052d5c27a9ca406b1_L6.jpg) | {{< br >}}{{< br >}}*   Coupled driven oscillator{{< br >}}*   Excitation{{< br >}}*   Resonance{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/78b010299f43550052d5c27a9ca406b1_L6.jpg) | {{< br >}}{{< br >}}*   Coupled driven oscillator{{< br >}}*   Excitation{{< br >}}*   Resonance{{< br >}}{{< br >}} 
 
 Lecture Video: Driven Oscillators, Resonance
 --------------------------------------------

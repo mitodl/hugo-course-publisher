@@ -19,10 +19,7 @@ menu:
 | --- | --- | --- |
 | 1 | {{< br >}}{{< br >}}Photography, France, How to talk / write about photographs{{< br >}}{{< br >}} | No readings. |
 
-**Week 2: What is photography? I. (Moment or Network) **
-
-| | | |
-| --- | --- | --- |
+**Week 2: What is photography? I. (Moment or Network)**  |
 | 2 | The Decisive Moment with Special Guest Dr. Nadya Bair | {{< br >}}{{< br >}}### Watch{{< br >}}{{< br >}}Travelartist Streetphotography. “[Henri Cartier-Bresson: The Decisive Moment](https://www.youtube.com/watch?v=77tzsMxhRiA).” August 31, 2016. YouTube.{{< br >}}{{< br >}}### Read{{< br >}}{{< br >}}[![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/3869307889/ref=nosim/mitopencourse-20) Cartier-Bresson, Henri. _The Decisive Moment_. Steidl, 2015. ISBN: 9783869307886. \[Buy from [Steidl](https://steidl.de/Books/The-Decisive-Moment-0516515559.html) Books\]{{< br >}}{{< br >}}Nadya Bair, “[The Decisive Network: Producing Henri Cartier-Bresson at Mid-century](http://www.tandfonline.com/doi/full/10.1080/03087298.2016.1146445).” _History of Photography_ 40, no. 2 (2016): 146-166.{{< br >}}{{< br >}} |
 | 3 | Making the News |
 

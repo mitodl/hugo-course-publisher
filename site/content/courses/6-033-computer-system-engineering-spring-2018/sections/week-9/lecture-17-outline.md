@@ -43,7 +43,7 @@ menu:
         | `write (y, y+10)` |   
         
         There are three conflicts:  
-        `  T2: write (x, 20); T1: read (x)  
+         `T2: write (x, 20); T1: read (x)  
           T2: write (y, 30); T1: read (y)  
           T2: write (y, 30); T1: write (y, y+10)`
         
@@ -57,7 +57,7 @@ menu:
         | `write (y, y+10)` |   
     
     Now our three conflicts are:  
-    `  T1: read (x); T2: write (x, 20)  
+     `T1: read (x); T2: write (x, 20)  
       T2: write (y, 30); T1: read (y)  
       T2: write (y, 30); T1: write (y, y+10)`
     
@@ -66,16 +66,16 @@ menu:
     (Note: this schedule was final-state serializable but not conflict serializable.)
     
     *   Example 3:| `T1:` | `T2:` | `T3:` | `T4:` |
-        | `read (x)  ` |   |   |   |
-        |   | `write (x)  ` |   |   |
-        |   |   | `read (y)  ` |   |
-        |   |   |   | `read (y)  ` |
-        | `write (y)  ` |   |   |   |
-        |   | `write (y)  ` |   |   |
-        |   |   | `write (z)  ` |   
+        | `read (x)`  |   |   |   |
+        |   | `write (x)`  |   |   |
+        |   |   | `read (y)`  |   |
+        |   |   |   | `read (y)`  |
+        | `write (y)`  |   |   |   |
+        |   | `write (y)`  |   |   |
+        |   |   | `write (z)`  |   
         
         The conflicts here are:  
-        `  T1: read (x); T2: write (x)  
+         `T1: read (x); T2: write (x)  
           T3: read (y); T1: write (y)  
           T3: read (y); T2: write (y)  
           T4: read (y); T1: write (y)  
@@ -83,7 +83,7 @@ menu:
           T1: write (y); T2: write (y)`
         
         The conflict graph is:  
-         ![Conflict graph between T1, T2, T3, and T4.](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/191c7334efddf3346e7d357d7122f6b8_Untitled-1.jpg)
+         ![Conflict graph between T1, T2, T3, and T4.](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/191c7334efddf3346e7d357d7122f6b8_Untitled-1.jpg)
         
     *   Acyclic conflict graph <=> conflict-serializable.
         *   Makes sense: conflict graph for any serial schedule is acyclic.
@@ -138,13 +138,13 @@ menu:
     *   Sometimes conflict serializability can seem like too strict a requirement.
     *   Example:
     | `T1` | `T2` | `T3` |
-    | `read (x) ` |   |   |
-    |   | `write (x) ` |   |
-    | `write (x) ` |   |   |
-    |   |   | `write (x) ` 
+    | `read (x)`  |   |   |
+    |   | `write (x)`  |   |
+    | `write (x)`  |   |   |
+    |   |   | `write (x)`  
     
     Conflict graph:  
-    ![Conflict graph between T1, T2, and T3.](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/08da808c5e1770946eb5ed6637fa7572_Untitled-2.jpg)
+    ![Conflict graph between T1, T2, and T3.](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/08da808c5e1770946eb5ed6637fa7572_Untitled-2.jpg)
     
     *   Not acyclic => not conflict serializable.
     *   But compare it to running T1, then T2, then T3 (serially).

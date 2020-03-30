@@ -7,7 +7,7 @@ menu:
     weight: 450
     parent: aa415ef7575219eea10afb9dc2dbef65_week-9
 ---
-Read "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Concurrency Control and Recovery](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.38.1437)_" _by Michael J. Franklin. Skip section 3.2.
+Read "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Concurrency Control and Recovery](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.38.1437)_"_ by Michael J. Franklin. Skip section 3.2.
 
 This paper is easiest to digest in chunks. You don't have to—in fact, probably shouldn't—read it all at once (or even read it in order).
 

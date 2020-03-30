@@ -12,7 +12,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/0decc4da47302a5c53051c6c79214350_Lecture_13.jpg)  | {{< br >}}{{< br >}}1.  Molecular Orbital Theory{{< br >}}    1.  Homonuclear Molecules with MOs Originating from s Orbitals{{< br >}}    2.  Homonuclear Molecules with MOs Originating from s and p Orbitals{{< br >}}    3.  Heteronuclear Diatomic Molecules{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/0decc4da47302a5c53051c6c79214350_Lecture_13.jpg)  | {{< br >}}{{< br >}}1.  Molecular Orbital Theory{{< br >}}    1.  Homonuclear Molecules with MOs Originating from s Orbitals{{< br >}}    2.  Homonuclear Molecules with MOs Originating from s and p Orbitals{{< br >}}    3.  Heteronuclear Diatomic Molecules{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

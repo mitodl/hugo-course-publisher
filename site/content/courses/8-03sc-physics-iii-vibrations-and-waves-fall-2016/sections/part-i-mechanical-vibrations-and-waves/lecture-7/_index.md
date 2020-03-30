@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/032e02f9d29caa730e8490785a6febef_L7.jpg) | {{< br >}}{{< br >}}*   Symmetry{{< br >}}*   Infinitely long system{{< br >}}*   Sine waves{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/032e02f9d29caa730e8490785a6febef_L7.jpg) | {{< br >}}{{< br >}}*   Symmetry{{< br >}}*   Infinitely long system{{< br >}}*   Sine waves{{< br >}}{{< br >}} 
 
 Lecture Video: Symmetry, Infinite Number of Coupled Oscillators
 ---------------------------------------------------------------

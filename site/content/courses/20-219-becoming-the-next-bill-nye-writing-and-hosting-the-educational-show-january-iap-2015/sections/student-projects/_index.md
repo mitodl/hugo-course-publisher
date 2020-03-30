@@ -19,4 +19,4 @@ The students have shared their course work so that you can see the steps and ite
 *   [Yulia Klochan's Project]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project/_index.md" %}})
 *   [David Yam's Project]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/david-yams-project/_index.md" %}})
 
-![Several people in a classroom sitting at tables in a discussion.](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/82977c425495d6b55f55ce43414c690a_class.jpg)
+![Several people in a classroom sitting at tables in a discussion.](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/82977c425495d6b55f55ce43414c690a_class.jpg)

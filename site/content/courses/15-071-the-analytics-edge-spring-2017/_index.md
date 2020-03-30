@@ -3,8 +3,9 @@ title: Course Home
 course_id: 15-071-the-analytics-edge-spring-2017
 course_title: The Analytics Edge
 course_image_url: >-
-  https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/64a9c191dbc2c2d349db7f00f49cfcd2_MIT15-071S17.jpg
-course_thumbnail_image_url: ''
+  https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/64a9c191dbc2c2d349db7f00f49cfcd2_MIT15-071S17.jpg
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/259767fe7f8ce9ade74d1f29372640ef_MIT15-071S17-th.jpg
 course_image_alternate_text: >-
   A set of male icons on left connected to a corresponding set of female icons
   on the right with numbered dotted lines.

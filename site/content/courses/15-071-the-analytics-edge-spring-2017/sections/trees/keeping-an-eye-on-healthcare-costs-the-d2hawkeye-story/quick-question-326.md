@@ -33,7 +33,7 @@ Quick Question
 
 The image below shows the penalty error matrix that we discussed in the previous video.
 
-![](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/2d20a1e450f8bd62006bf8e20477eb64_QQ4_PenaltyError.png)
+![](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/2d20a1e450f8bd62006bf8e20477eb64_QQ4_PenaltyError.png)
 
 We can interpret this matrix as follows. Suppose the actual outcome for an observation is 3, and we predict 2. We find 3 on the top of the matrix, and go down to the second row (since we forecasted 2). The penalty error for this mistake is 2. If for another observation we predict (forecast) 4, but the actual outcome is 1, that is a penalty error of 3.
 

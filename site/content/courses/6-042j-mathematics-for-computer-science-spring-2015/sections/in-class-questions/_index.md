@@ -43,10 +43,7 @@ Solutions to the following In-Class Questions are not available to the general p
 | 21 | [2.10 Trees]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp8-1" %}}) | [Session 21 In-Class Questions (PDF)]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/in-class-questions/MIT6_042JS15_cp21" %}}) |
 | 22 | [2.11 Stable Matching]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/stable-matching" %}}) | [Session 22 In-Class Questions (PDF)]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/in-class-questions/MIT6_042JS15_cp22" %}}) |
 
-**Unit 3: Counting  **
-
-| | | |
-| --- | --- | --- |
+**Unit 3: Counting**  |
 | 23 | [3.1 Sums & Products]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-2" %}}) | [Session 23 In-Class Questions (PDF)]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/in-class-questions/MIT6_042JS15_cp23" %}}) |
 | 24 | [3.2 Asymptotics]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3" %}}) | [Session 24 In-Class Questions (PDF)]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/in-class-questions/MIT6_042JS15_cp24" %}}) |
 | 25 | [3.3 Counting with Bijections]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp9-1" %}}) | [Session 25 In-Class Questions (PDF)]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/in-class-questions/MIT6_042JS15_cp25" %}}) |

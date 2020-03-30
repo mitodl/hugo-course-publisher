@@ -20,11 +20,11 @@ Each representative typically is affiliated with one of the two major political 
 
 Gerrymandering refers to the process of redrawing district boundaries so as to favor a particular political party. To illustrate this, suppose we have the hypothetical state below, with three districts. Each district is further subdivided along a grid into smaller subregions, where each subregion votes unanimously for either party. Suppose that in this hypothetical example, there is only one voter in each subregion.
 
-![Example of a gerrymandering grid in which Blue wins.](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/2cc4ad885d2156d89c14e3848a5fb9dc_gerrymandering_bluewins.png)
+![Example of a gerrymandering grid in which Blue wins.](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/2cc4ad885d2156d89c14e3848a5fb9dc_gerrymandering_bluewins.png)
 
 Based on the current district boundaries, the blue party has a majority in each district, so each district elects a blue representative. However, suppose we decide to redraw the boundaries in the following way:
 
-![Example of the same gerrymandering grid in which red wins.](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/96516b5e431f1672ee8ca633d2d2e93e_gerrymandering_redwins.png)
+![Example of the same gerrymandering grid in which red wins.](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/96516b5e431f1672ee8ca633d2d2e93e_gerrymandering_redwins.png)
 
 Now the blue party does not win in every district; in fact, the red party wins two of the three districts. 
 
@@ -35,15 +35,15 @@ The Data
 
 The state of New Mexico, located in the south of the US, currently has three districts:
 
-![Colored map showing New Mexico's congressional districts.](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/a716bfa776b2be85f666b0a4e6877f69_New_Mexico_Congressional_Districts.png)
+![Colored map showing New Mexico's congressional districts.](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/a716bfa776b2be85f666b0a4e6877f69_New_Mexico_Congressional_Districts.png)
 
 The state of New Mexico is also divided into counties:
 
-![Map showing the outlines of New Mexico's counties.](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/47316383de173f457bcc8726c7c9aef7_New_Mexico_County_Map.png)
+![Map showing the outlines of New Mexico's counties.](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/47316383de173f457bcc8726c7c9aef7_New_Mexico_County_Map.png)
 
-Counties are administrative units that are typically smaller than districts. In many states counties are split across districts, but in this problem we will assume that the new districts we will design will be built from the existing counties. 
+Counties are administrative units that are typically smaller than districts. In many states counties are split across districts, but in this problem we will assume that the new districts we will design will be built from the existing counties. 
 
-We have the voting record from the 2012 presidential election for each county in New Mexico. We will use the presidential election voting record of each county in 2012 as a proxy for how the county will vote in the next election for the house of representatives. This data is provided in [Gerrymandering (ODS)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/e584a070e342e7b633663ac538a60f69_Gerrymandering.ods) for LibreOffice and OpenOffice, or [Gerrymandering (XLSX)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/378b5f186924f2c3e9a0c48f4f366fef_Gerrymandering.xlsx) for Excel.
+We have the voting record from the 2012 presidential election for each county in New Mexico. We will use the presidential election voting record of each county in 2012 as a proxy for how the county will vote in the next election for the house of representatives. This data is provided in [Gerrymandering (ODS)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/e584a070e342e7b633663ac538a60f69_Gerrymandering.ods) for LibreOffice and OpenOffice, or [Gerrymandering (XLSX)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/378b5f186924f2c3e9a0c48f4f366fef_Gerrymandering.xlsx) for Excel.
 
 The Problem
 -----------

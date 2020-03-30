@@ -8,6 +8,6 @@ layout: pdf
 uid: 90772b2c0e019022ac714264af2afa22
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/90772b2c0e019022ac714264af2afa22_MIT5_111F14_Exam3EquSheet.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/90772b2c0e019022ac714264af2afa22_MIT5_111F14_Exam3EquSheet.pdf
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
 ---

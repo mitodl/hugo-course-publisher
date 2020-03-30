@@ -8,6 +8,6 @@ layout: pdf
 uid: 9b05c56ba05ca383673041fda383d26b
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/9b05c56ba05ca383673041fda383d26b_MIT5_111F14_Lec31Soln.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/9b05c56ba05ca383673041fda383d26b_MIT5_111F14_Lec31Soln.pdf
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
 ---

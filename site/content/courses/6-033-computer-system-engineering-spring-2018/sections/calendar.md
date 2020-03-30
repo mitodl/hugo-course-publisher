@@ -16,7 +16,7 @@ Part I: Operating Systems
 | Week 1 |   | Recitation 1 | Lecture 1 | Recitation 2 | Tutorial 1 |
 |   |   |   |   | System Critique #1 assigned |
 | Week 2 | Lecture 2 | Recitation 3 | Lecture 3 | Recitation 4 | Tutorial 2 |
-| Hands-on 1 assigned |   |   | Hands-on 2 assigned﻿ | Hands-on 1 due |
+| Hands-on 1 assigned |   |   | Hands-on 2 assigned   | Hands-on 1 due |
 | Week 3 |   | Lecture 4 | Lecture 5 | Recitation 5 | Tutorial 3 |
 |   |   |   |   | {{< br >}}{{< br >}}System Critique #1 due{{< br >}}{{< br >}}DP Preliminary Report assigned{{< br >}}{{< br >}} |
 | Week 4 | Lecture 6 | Recitation 6 | Lecture 7 | Recitation 7 | Tutorial 4 |

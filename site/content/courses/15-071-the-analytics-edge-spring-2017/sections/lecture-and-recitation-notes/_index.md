@@ -28,7 +28,7 @@ menu:
 | 6.4 Recitation: Seeing the Big Picture | [Segmenting Images to Create Data (PDF)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/lecture-and-recitation-notes/MIT15_071S17_Unit6_Recitation" %}}) |
 | 7.2 Visualizing the World | [An Introduction to Visualization (PDF)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/lecture-and-recitation-notes/MIT15_071S17_Unit7_WHO" %}}) |
 | 7.3 Visualization for Law and Order | [Predictive Policing (PDF)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/lecture-and-recitation-notes/MIT15_071S17_Unit7_Crime" %}}) |
-| 7.4 Recitation: ﻿The Good, the Bad, and the Ugly﻿ | [Bad vs. Good Visualizations﻿ (PDF)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/lecture-and-recitation-notes/MIT15_071S17_Unit7_Recitation" %}}) |
+| 7.4 Recitation: ﻿The Good, the Bad, and the Ugly   | [Bad vs. Good Visualizations﻿ (PDF)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/lecture-and-recitation-notes/MIT15_071S17_Unit7_Recitation" %}}) |
 | 8.2 Airline Revenue Management | [Introduction to Linear Optimization (PDF - 6.3MB)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/lecture-and-recitation-notes/MIT15_071S17_Unit8_RevenueManagement" %}}) |
 | 8.3 Radiation Therapy | [An Application of Linear Optimization (PDF - 1.8MB)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/lecture-and-recitation-notes/MIT15_071S17_Unit8_RadiationTherapy" %}}) |
 | 8.4 Recitation: Google AdWords | [Optimizing Online Advertising (PDF - 1.1MB)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/lecture-and-recitation-notes/MIT15_071S17_Unit8_Recitation" %}}) |

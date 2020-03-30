@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/18affe5d8b55327a4811a08c7a1052e1_L16.jpg) | {{< br >}}{{< br >}}*   Geometrical optics{{< br >}}*   2-dimensional waves{{< br >}}*   3-dimensional waves{{< br >}}*   Refraction law{{< br >}}*   Snell’s law{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/18affe5d8b55327a4811a08c7a1052e1_L16.jpg) | {{< br >}}{{< br >}}*   Geometrical optics{{< br >}}*   2-dimensional waves{{< br >}}*   3-dimensional waves{{< br >}}*   Refraction law{{< br >}}*   Snell’s law{{< br >}}{{< br >}} 
 
 Lecture Video: 2D and 3D waves, Snell’s Law
 -------------------------------------------

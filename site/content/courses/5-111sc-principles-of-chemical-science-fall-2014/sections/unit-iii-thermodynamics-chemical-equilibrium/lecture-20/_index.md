@@ -13,7 +13,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/02988e8e708fabc33bedaf3c2e25da75_Lecture_20.jpg)  | {{< br >}}{{< br >}}1.  Solutions and Solubility{{< br >}}2.  Classification of Acids and Bases{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/02988e8e708fabc33bedaf3c2e25da75_Lecture_20.jpg)  | {{< br >}}{{< br >}}1.  Solutions and Solubility{{< br >}}2.  Classification of Acids and Bases{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

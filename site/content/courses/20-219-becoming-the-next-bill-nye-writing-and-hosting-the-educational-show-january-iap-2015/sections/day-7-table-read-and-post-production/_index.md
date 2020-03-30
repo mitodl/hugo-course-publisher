@@ -28,8 +28,8 @@ Part 1: Table-read
 
 | VIDEO CHAPTERS | SCRIPT DRAFTS |
 | --- | --- |
-| {{< br >}}{{< br >}} | [Joshua's Script (DOC)](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/889e423b42eafc2253c1eb0b9733838f_MIT20_219IAP15_Joshua.docx) |
-| {{< br >}}{{< br >}} | [Kenneth's Script (DOC)](https://open-learning-course-data.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/6c745fe6fb54da07614c3dffffac89c7_MIT20_219IAP15_Kenneth.docx) 
+| {{< br >}}{{< br >}} | [Joshua's Script (DOC)](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/889e423b42eafc2253c1eb0b9733838f_MIT20_219IAP15_Joshua.docx) |
+| {{< br >}}{{< br >}} | [Kenneth's Script (DOC)](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/6c745fe6fb54da07614c3dffffac89c7_MIT20_219IAP15_Kenneth.docx) 
 
 Part 2: Post-production
 -----------------------

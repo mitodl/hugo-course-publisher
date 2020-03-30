@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/991859ebf14808a879da7c0fde7b8bb6_L9.jpg) | {{< br >}}{{< br >}}*   Standing waves{{< br >}}*   Vibrating string{{< br >}}*   Wave equation{{< br >}}*   Fourier series{{< br >}}*   Fourier decomposition{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/991859ebf14808a879da7c0fde7b8bb6_L9.jpg) | {{< br >}}{{< br >}}*   Standing waves{{< br >}}*   Vibrating string{{< br >}}*   Wave equation{{< br >}}*   Fourier series{{< br >}}*   Fourier decomposition{{< br >}}{{< br >}} 
 
 Lecture Video: Wave Equation, Standing Waves, Fourier Series
 ------------------------------------------------------------

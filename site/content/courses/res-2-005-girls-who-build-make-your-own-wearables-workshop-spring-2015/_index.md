@@ -3,8 +3,9 @@ title: Course Home
 course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015
 course_title: 'Girls Who Build: Make Your Own Wearables Workshop'
 course_image_url: >-
-  https://open-learning-course-data.s3.amazonaws.com/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/576a148b994ad12c915c30e593a90ff7_res-2-005.jpg
-course_thumbnail_image_url: ''
+  https://open-learning-course-data-ci.s3.amazonaws.com/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/576a148b994ad12c915c30e593a90ff7_res-2-005.jpg
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/0330290d8f3c0230be895fd8d5129bd5_res-2-005-th.jpg
 course_image_alternate_text: A girl holds up a boot that she is adding lights to.
 course_image_caption_text: >-
   <p>Girls programmed their own light-up shoes as part of the Girls Who Build
