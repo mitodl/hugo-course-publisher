@@ -10,15 +10,15 @@ The readings are assigned in: [![Buy at Amazon](/images/a_logo_17.gif)](http://w
 
 Reading assignments are also provided for the newer edition: [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0980232775/ref=nosim/mitopencourse-20) Strang, Gilbert. _Introduction to Linear Algebra_. 5th ed. [Wellesley-Cambridge Press](http://www.wellesleycambridge.com/), 2016. ISBN: 9780980232776.
 
-| SES # | TOPICS | READINGS in 4th Edition | READINGS IN 5TH EDITION |
+| SES # | TOPICS | READINGS in 4th Edition | READINGS IN 5TH EDITION |
 | --- | --- | --- | --- |
 | 1 | The geometry of linear equations | 1.1-2.1 | ﻿1.1-2.1 |
 | 2 | Elimination with matrices | 2.2-2.3 | 2.2-2.3 |
-| 3 | Matrix operations and inverses | 2.4-2.5 | ﻿2.4-2.5﻿ |
-| 4 | _LU_ and _LDU_ factorization | 2.6 | ﻿2.6﻿ |
-| 5 | Transposes and permutations | 2.7 | ﻿2.7﻿ |
-| 6 | Vector spaces and subspaces | 3.1 | ﻿3.1﻿ |
-| 7 | The nullspace: Solving Ax = 0 | 3.2 | ﻿3.2﻿ |
+| 3 | Matrix operations and inverses | 2.4-2.5 | ﻿2.4-2.5   |
+| 4 | _LU_ and _LDU_ factorization | 2.6 | ﻿2.6   |
+| 5 | Transposes and permutations | 2.7 | ﻿2.7   |
+| 6 | Vector spaces and subspaces | 3.1 | ﻿3.1   |
+| 7 | The nullspace: Solving Ax = 0 | 3.2 | ﻿3.2   |
 | 8 | Rectangular _PA_ \= _LU_ and Ax = b | 3.3-3.4 | 3.3 |
 | 9 | Row reduced echelon form | 3.3-3.4 | 3.3 |
 | 10 | Basis and dimension | 3.5 | 3.4 |

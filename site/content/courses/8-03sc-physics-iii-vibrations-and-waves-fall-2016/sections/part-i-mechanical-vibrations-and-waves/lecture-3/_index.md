@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/6c9b9fbd24837ada67f5ddc0c9d6284b_L3.jpg) | {{< br >}}{{< br >}}*   Driven oscillators{{< br >}}*   Transient phenomena{{< br >}}*   Resonance{{< br >}}*   Steady state solution{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/6c9b9fbd24837ada67f5ddc0c9d6284b_L3.jpg) | {{< br >}}{{< br >}}*   Driven oscillators{{< br >}}*   Transient phenomena{{< br >}}*   Resonance{{< br >}}*   Steady state solution{{< br >}}{{< br >}} 
 
 Lecture Video: Driven Oscillators, Transient Phenomena, Resonance
 -----------------------------------------------------------------

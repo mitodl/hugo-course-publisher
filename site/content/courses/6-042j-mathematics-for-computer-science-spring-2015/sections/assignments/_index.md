@@ -11,10 +11,7 @@ Solutions to the following Problem Sets are not available to the general public,
 | SES # | COURSEWARE | ASSIGNMENTS |
 | --- | --- | --- |
 
-**Unit 1: Proofs **
-
-| | | |
-| --- | --- | --- |
+**Unit 1: Proofs**  |
 | 1 | [1.1 Intro to Proofs]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-1" %}}) | [Problem Set 1 (PDF)]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/assignments/MIT6_042JS15_ps1" %}}) |
 | 2 | [1.2 Proof Methods]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-2" %}}) |
 | 3 | [1.3 Well Ordering Principle]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-1" %}}) |

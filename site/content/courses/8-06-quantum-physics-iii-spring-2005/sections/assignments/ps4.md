@@ -8,6 +8,6 @@ layout: pdf
 uid: f4b67d0386ae336fe56340e82d506cb6
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/8-06-quantum-physics-iii-spring-2005/f4b67d0386ae336fe56340e82d506cb6_ps4.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/8-06-quantum-physics-iii-spring-2005/f4b67d0386ae336fe56340e82d506cb6_ps4.pdf
 course_id: 8-06-quantum-physics-iii-spring-2005
 ---

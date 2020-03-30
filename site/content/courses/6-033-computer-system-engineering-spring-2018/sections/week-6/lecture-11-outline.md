@@ -32,11 +32,11 @@ menu:
     *   In particular, what if there are multiple senders?
         *   Ex:
         
-        ![Diagram of packet transmission with 2 Mb/s window.](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/4ebf5d77c8bf9a53f40a94e56925c899_Untitled-1.jpg)
+        ![Diagram of packet transmission with 2 Mb/s window.](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/4ebf5d77c8bf9a53f40a94e56925c899_Untitled-1.jpg)
         
         *   What should happen? Debatable. Reasonable alternative:
         
-        ![Diagram of packet transmission with 1 Mb/s window.](https://open-learning-course-data.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/ef6e32ff946a9a1d24427e739c1557a8_Untitled-2.jpg)
+        ![Diagram of packet transmission with 1 Mb/s window.](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/ef6e32ff946a9a1d24427e739c1557a8_Untitled-2.jpg)
         
         *   How do S1 and S2 figure this out? What happens if S3 arrives? Or if S1 starts sending less? Etc.
 5.  Congestion Control: Controlling the Source Rate to Achieve High Performance

@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/3819fcaffb7a61a8fe18e8ee80bdfb64_L1.jpg) | {{< br >}}{{< br >}}*   Periodic motion{{< br >}}*   Simple harmonic oscillators{{< br >}}*   Hooke’s Law{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/3819fcaffb7a61a8fe18e8ee80bdfb64_L1.jpg) | {{< br >}}{{< br >}}*   Periodic motion{{< br >}}*   Simple harmonic oscillators{{< br >}}*   Hooke’s Law{{< br >}}{{< br >}} 
 
 Lecture Video: Periodic Oscillations, Harmonic Oscillators
 ----------------------------------------------------------

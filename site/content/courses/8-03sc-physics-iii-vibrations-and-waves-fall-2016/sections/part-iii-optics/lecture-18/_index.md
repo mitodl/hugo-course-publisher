@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/43a0c77ffebf5435c8a8ecf0661d3f16_L18.jpg) | {{< br >}}{{< br >}}*   Wave plates{{< br >}}*   Quarter wave plate{{< br >}}*   Radiation{{< br >}}*   Oscillating charge{{< br >}}*   Dipole radiation{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/43a0c77ffebf5435c8a8ecf0661d3f16_L18.jpg) | {{< br >}}{{< br >}}*   Wave plates{{< br >}}*   Quarter wave plate{{< br >}}*   Radiation{{< br >}}*   Oscillating charge{{< br >}}*   Dipole radiation{{< br >}}{{< br >}} 
 
 Lecture Video: Wave Plates, Radiation
 -------------------------------------

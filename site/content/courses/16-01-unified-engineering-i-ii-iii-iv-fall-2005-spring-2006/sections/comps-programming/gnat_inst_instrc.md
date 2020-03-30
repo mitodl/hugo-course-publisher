@@ -10,6 +10,6 @@ layout: pdf
 uid: 8c721b591e17f8368d6a2a25f5bb5473
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8c721b591e17f8368d6a2a25f5bb5473_gnat_inst_instrc.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8c721b591e17f8368d6a2a25f5bb5473_gnat_inst_instrc.pdf
 course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
 ---

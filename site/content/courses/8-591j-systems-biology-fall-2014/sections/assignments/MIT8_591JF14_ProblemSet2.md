@@ -6,6 +6,6 @@ layout: pdf
 uid: ad03e8546e414b2514d778b9bcbdfde8
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/8-591j-systems-biology-fall-2014/ad03e8546e414b2514d778b9bcbdfde8_MIT8_591JF14_ProblemSet2.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/8-591j-systems-biology-fall-2014/ad03e8546e414b2514d778b9bcbdfde8_MIT8_591JF14_ProblemSet2.pdf
 course_id: 8-591j-systems-biology-fall-2014
 ---

@@ -30,7 +30,7 @@ The dataset contains just two fields:
 Problem 1.1 - Loading the Dataset
 ---------------------------------
 
-Begin by loading the dataset [emails (CSV - 8.5MB)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/67f7be241f1b459d7fdb8e9031384338_emails.csv) into a data frame called emails (don't open the file with Excel; import into R directly to avoid errors). Remember to pass the stringsAsFactors=FALSE option when loading the data.
+Begin by loading the dataset [emails (CSV - 8.5MB)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/67f7be241f1b459d7fdb8e9031384338_emails.csv) into a data frame called emails (don't open the file with Excel; import into R directly to avoid errors). Remember to pass the stringsAsFactors=FALSE option when loading the data.
 
 How many emails are in the dataset?
 
@@ -423,7 +423,7 @@ CheckShow Answer
 
 You may note that we did not ask you to fit a logistic regression model to predict whether an email was spam or ham. This is in contrast to our usual approach of comparing all three models. If you in fact tried to train a logistic regression model in R using this dataset, you would get the following warning:
 
-**glm.fit: algorithm did not converge **
+**glm.fit: algorithm did not converge** 
 
 This warning indicates that R's logistic regression solution procedure has failed.
 

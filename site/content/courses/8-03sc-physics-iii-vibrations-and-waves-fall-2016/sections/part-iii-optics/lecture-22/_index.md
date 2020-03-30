@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/22a8147d79136d7b0ef332e027414772_L22.jpg) | {{< br >}}{{< br >}}*   Huygens Principle{{< br >}}*   Diffraction{{< br >}}*   Resolution of a telescope{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/22a8147d79136d7b0ef332e027414772_L22.jpg) | {{< br >}}{{< br >}}*   Huygens Principle{{< br >}}*   Diffraction{{< br >}}*   Resolution of a telescope{{< br >}}{{< br >}} 
 
 Lecture Video: Diffraction, Resolution
 --------------------------------------

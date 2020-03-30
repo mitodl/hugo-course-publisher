@@ -15,10 +15,7 @@ menu:
 | --- | --- | --- |
 | 1 | {{< br >}}{{< br >}}Photography, France, How to talk / write about photographs{{< br >}}{{< br >}} |   |
 
-**Week 2: What is photography? I. (Moment or Network) **
-
-| | | |
-| --- | --- | --- |
+**Week 2: What is photography? I. (Moment or Network)**  |
 | 2 | The Decisive Moment with Special Guest Dr. Nadya Bair |   |
 | 3 | Making the News |   |
 

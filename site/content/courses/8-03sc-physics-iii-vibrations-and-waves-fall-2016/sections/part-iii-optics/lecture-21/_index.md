@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/807fa45446c1646b6b6645350f2b02cb_L21.jpg) | {{< br >}}{{< br >}}*   Phased radar{{< br >}}*   Single electron interference{{< br >}}*   Interference{{< br >}}*   Huygens Principle{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/807fa45446c1646b6b6645350f2b02cb_L21.jpg) | {{< br >}}{{< br >}}*   Phased radar{{< br >}}*   Single electron interference{{< br >}}*   Interference{{< br >}}*   Huygens Principle{{< br >}}{{< br >}} 
 
 Lecture Video: Phased Radar, Single Electron Interference
 ---------------------------------------------------------

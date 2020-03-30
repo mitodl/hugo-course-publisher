@@ -3,8 +3,9 @@ title: Course Home
 course_id: res-2-006-girls-who-build-cameras-summer-2016
 course_title: Girls Who Build Cameras
 course_image_url: >-
-  https://open-learning-course-data.s3.amazonaws.com/res-2-006-girls-who-build-cameras-summer-2016/79dbf8496c35fd78c2c1336060c66402_res-2-006sum16.jpg
-course_thumbnail_image_url: ''
+  https://open-learning-course-data-ci.s3.amazonaws.com/res-2-006-girls-who-build-cameras-summer-2016/79dbf8496c35fd78c2c1336060c66402_res-2-006sum16.jpg
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/res-2-006-girls-who-build-cameras-summer-2016/8e60dab55e9ba404c7dfe5645d5a8978_res-2-006sum16-th.jpg
 course_image_alternate_text: >-
   A photograph of a girl holding parts of a programmable camera as part of the
   Girls Who Build Cameras workshop.

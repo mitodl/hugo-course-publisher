@@ -3,8 +3,9 @@ title: Course Home
 course_id: 21m-295-american-popular-music-fall-2014
 course_title: American Popular Music
 course_image_url: >-
-  https://open-learning-course-data.s3.amazonaws.com/21m-295-american-popular-music-fall-2014/a57dec71093e5b2433d7f4fd060d667e_21m-295f14.jpg
-course_thumbnail_image_url: ''
+  https://open-learning-course-data-ci.s3.amazonaws.com/21m-295-american-popular-music-fall-2014/a57dec71093e5b2433d7f4fd060d667e_21m-295f14.jpg
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/21m-295-american-popular-music-fall-2014/a54a6d941de8a6ca69b6117106a410f5_21m-295f14-th.jpg
 course_image_alternate_text: Two guitars combined into one.
 course_image_caption_text: >-
   <p>An acoustic and an electric guitar. In this course, students analyzed the

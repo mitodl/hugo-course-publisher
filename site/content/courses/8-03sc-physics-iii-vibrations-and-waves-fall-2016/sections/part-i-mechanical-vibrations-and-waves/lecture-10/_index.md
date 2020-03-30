@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/73b37037e6271b6ba5b243eb3fcf8bfb_L10.jpg) | {{< br >}}{{< br >}}*   Vibrating string{{< br >}}*   Wave equation{{< br >}}*   Traveling wave{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/73b37037e6271b6ba5b243eb3fcf8bfb_L10.jpg) | {{< br >}}{{< br >}}*   Vibrating string{{< br >}}*   Wave equation{{< br >}}*   Traveling wave{{< br >}}{{< br >}} 
 
 Lecture Video: Traveling Waves
 ------------------------------

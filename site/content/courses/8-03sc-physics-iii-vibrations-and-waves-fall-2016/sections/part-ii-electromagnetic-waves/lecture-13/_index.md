@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c35a283d752d5d8fb8778b14b5a11e3f_L13.jpg) | {{< br >}}{{< br >}}*   Dispersion{{< br >}}*   Dispersive medium{{< br >}}*   Phase velocity{{< br >}}*   Group velocity{{< br >}}*   Beat phenomenon{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c35a283d752d5d8fb8778b14b5a11e3f_L13.jpg) | {{< br >}}{{< br >}}*   Dispersion{{< br >}}*   Dispersive medium{{< br >}}*   Phase velocity{{< br >}}*   Group velocity{{< br >}}*   Beat phenomenon{{< br >}}{{< br >}} 
 
 Lecture Video: Dispersive Medium, Phase Velocity, Group Velocity
 ----------------------------------------------------------------

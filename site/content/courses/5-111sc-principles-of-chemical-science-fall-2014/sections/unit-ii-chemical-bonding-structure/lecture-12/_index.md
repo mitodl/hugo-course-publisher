@@ -12,7 +12,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/333472e016823ba04bd206c343eadd0f_Lecture_12.jpg)  | {{< br >}}{{< br >}}1.  The Shapes of Molecules: VSEPR Theory{{< br >}}    1.  Molecules _without_ Lone Pairs{{< br >}}    2.  Molecules _with_ Lone Pairs{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/333472e016823ba04bd206c343eadd0f_Lecture_12.jpg)  | {{< br >}}{{< br >}}1.  The Shapes of Molecules: VSEPR Theory{{< br >}}    1.  Molecules _without_ Lone Pairs{{< br >}}    2.  Molecules _with_ Lone Pairs{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

@@ -33,12 +33,12 @@ The researchers grouped about 344,000 voters into different groups randomly - ab
 4.  "Neighbors" (variable **neighbors**) group members were given the same message as that for the "Self" group, except the message not only had the household voting records but also that of neighbors - maximizing social pressure.
 5.  "Control" (variable **control**) group members were not sent anything, and represented the typical voting situation.
 
-Additional variables include **sex **(0 for male, 1 for female), **yob** (year of birth), and the dependent variable **voting** (1 if they voted, 0 otherwise).
+Additional variables include **sex** (0 for male, 1 for female), **yob** (year of birth), and the dependent variable **voting** (1 if they voted, 0 otherwise).
 
 Problem 1.1 - Exploration and Logistic Regression
 -------------------------------------------------
 
-We will first get familiar with the data. Load the CSV file [gerber (CSV - 6.2MB)](https://open-learning-course-data.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/7ec8d2c9bb53ed9f946c98e5f6c9bff2_gerber.csv) into R. What proportion of people in this dataset voted in this election?
+We will first get familiar with the data. Load the CSV file [gerber (CSV - 6.2MB)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/7ec8d2c9bb53ed9f946c98e5f6c9bff2_gerber.csv) into R. What proportion of people in this dataset voted in this election?
 
 Exercise 1
 

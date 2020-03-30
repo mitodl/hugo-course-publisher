@@ -3,8 +3,9 @@ title: Course Home
 course_id: 18-01sc-single-variable-calculus-fall-2010
 course_title: Single Variable Calculus
 course_image_url: >-
-  https://open-learning-course-data.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/7b739fdc0a8fb0302fdbe037fbaa89a3_CHP_secant.jpg
-course_thumbnail_image_url: ''
+  https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/7b739fdc0a8fb0302fdbe037fbaa89a3_CHP_secant.jpg
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/18-01sc-single-variable-calculus-fall-2010/4f83f6023d195bbba97568501f73d873_18-01SCf10-th.jpg
 course_image_alternate_text: >-
   A graph of three lines, red, yellow, and blue that represent secant
   approximation. 

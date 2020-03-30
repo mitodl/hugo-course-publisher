@@ -6,6 +6,6 @@ layout: pdf
 uid: 4eed4d789978e4180aefc15e430b7a5e
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/4eed4d789978e4180aefc15e430b7a5e_MIT6_042JS15_PartialOrder.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/4eed4d789978e4180aefc15e430b7a5e_MIT6_042JS15_PartialOrder.pdf
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 ---

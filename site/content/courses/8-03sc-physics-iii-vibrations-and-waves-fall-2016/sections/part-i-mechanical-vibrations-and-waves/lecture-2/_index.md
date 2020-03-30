@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/d84c4840774099632dde60e238f0fcc8_L2.jpg) | {{< br >}}{{< br >}}*   Energy conservation{{< br >}}*   Damped harmonic oscillators{{< br >}}*   Small angle approximation{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/d84c4840774099632dde60e238f0fcc8_L2.jpg) | {{< br >}}{{< br >}}*   Energy conservation{{< br >}}*   Damped harmonic oscillators{{< br >}}*   Small angle approximation{{< br >}}{{< br >}} 
 
 Lecture Video: Damped Free Oscillators
 --------------------------------------

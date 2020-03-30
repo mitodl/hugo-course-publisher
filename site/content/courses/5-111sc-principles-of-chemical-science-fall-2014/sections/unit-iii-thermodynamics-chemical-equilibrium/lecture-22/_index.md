@@ -13,7 +13,7 @@ menu:
 Topics
 ------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/127de415cbe79d2666a663b56de9407f_Lecture_22.jpg)  | {{< br >}}{{< br >}}1.  pH of Salt Solutions{{< br >}}2.  Buffers!{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/5-111sc-principles-of-chemical-science-fall-2014/127de415cbe79d2666a663b56de9407f_Lecture_22.jpg)  | {{< br >}}{{< br >}}1.  pH of Salt Solutions{{< br >}}2.  Buffers!{{< br >}}{{< br >}} 
 
 Lecture Video
 -------------

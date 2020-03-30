@@ -64,7 +64,7 @@ Recitation 20: \[No Recitation\]
 Tutorial 11: Design Project Peer Review
 ---------------------------------------
 
-The focus of Tutorial 11 is peer review. You will read some portions of another team’s final design report (DPR) and offer feedback and insight. First, complete the [Preparation for Tutorial 11 (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-11/MIT6_033S18tut11" %}}). Then, take a look at the [Peer Review Assignment (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-11/MIT6_033S18_DP_PeerReview" %}}). See the [Design Project]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/design-project/_index.md" %}}) section for more information.
+The focus of Tutorial 11 is peer review. You will read some portions of another team’s final design report (DPR) and offer feedback and insight. First, complete the [Preparation for Tutorial 11 (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-11/MIT6_033S18tut11" %}}). Then, take a look at the [Peer Review Assignment (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-11/MIT6_033S18_DP_PeerReview" %}}). See the [Design Project]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/design-project/_index.md" %}}) section for more information.
 
 Design Project (DP) Peer Review Assignment
 ------------------------------------------

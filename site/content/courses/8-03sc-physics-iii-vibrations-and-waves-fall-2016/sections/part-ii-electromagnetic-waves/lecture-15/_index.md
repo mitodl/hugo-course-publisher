@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/4d7079ada384598988679c63039f3f09_L15.jpg) | {{< br >}}{{< br >}}*   Uncertainty principle{{< br >}}*   2-dimensional waves{{< br >}}*   Pulsar{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/4d7079ada384598988679c63039f3f09_L15.jpg) | {{< br >}}{{< br >}}*   Uncertainty principle{{< br >}}*   2-dimensional waves{{< br >}}*   Pulsar{{< br >}}{{< br >}} 
 
 Lecture Video: Uncertainty Principle, 2D Waves
 ----------------------------------------------

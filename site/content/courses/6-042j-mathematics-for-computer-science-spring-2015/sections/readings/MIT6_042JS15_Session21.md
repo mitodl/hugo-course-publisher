@@ -8,6 +8,6 @@ layout: pdf
 uid: dfa2be0e610ddb133986368515c74823
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/dfa2be0e610ddb133986368515c74823_MIT6_042JS15_Session21.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/6-042j-mathematics-for-computer-science-spring-2015/dfa2be0e610ddb133986368515c74823_MIT6_042JS15_Session21.pdf
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 ---

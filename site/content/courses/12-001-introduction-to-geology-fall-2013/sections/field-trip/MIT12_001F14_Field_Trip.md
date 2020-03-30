@@ -10,6 +10,6 @@ layout: pdf
 uid: f828208d0d04e1f39c1bb31d6fbe5f2d
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/f828208d0d04e1f39c1bb31d6fbe5f2d_MIT12_001F14_Field_Trip.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/f828208d0d04e1f39c1bb31d6fbe5f2d_MIT12_001F14_Field_Trip.pdf
 course_id: 12-001-introduction-to-geology-fall-2013
 ---

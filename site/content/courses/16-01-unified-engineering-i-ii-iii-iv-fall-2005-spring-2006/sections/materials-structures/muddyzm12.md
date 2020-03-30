@@ -8,6 +8,6 @@ layout: pdf
 uid: ce6cb5af0ebdeb0058e8f7a78262770c
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ce6cb5af0ebdeb0058e8f7a78262770c_muddyzm12.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/ce6cb5af0ebdeb0058e8f7a78262770c_muddyzm12.pdf
 course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
 ---

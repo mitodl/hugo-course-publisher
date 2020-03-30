@@ -6,6 +6,6 @@ layout: pdf
 uid: d039352aaa83a27f11bb2b3778ecfa96
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/18-06-linear-algebra-spring-2010/d039352aaa83a27f11bb2b3778ecfa96_MIT18_06S10_pset2_s10_soln.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/18-06-linear-algebra-spring-2010/d039352aaa83a27f11bb2b3778ecfa96_MIT18_06S10_pset2_s10_soln.pdf
 course_id: 18-06-linear-algebra-spring-2010
 ---

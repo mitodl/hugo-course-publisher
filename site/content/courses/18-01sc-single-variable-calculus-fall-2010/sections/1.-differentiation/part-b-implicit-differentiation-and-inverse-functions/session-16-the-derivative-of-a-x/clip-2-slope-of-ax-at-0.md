@@ -1,0 +1,74 @@
+---
+title: 'Clip 2: Slope of ax at 0'
+uid: 8486afd8ccea362d200e30100ece5688
+parent_uid: a08812a629e76732837d8a39d48fc8fa
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-16-the-derivative-of-a-x/clip-2-slope-of-ax-at-0
+short_url: clip-2-slope-of-ax-at-0
+inline_embed_id: '85436199clip2:slopeofaxat079904804'
+about_this_resource_text: >-
+  <p>&raquo;<a href="./resolveuid/8a4568c53334a525e3607584816aa460"
+  target="_blank"> Accompanying Notes (PDF)</a></p> <p
+  class="scholar_medsm">From Lecture 6 of <a
+  href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
+  Single Variable Calculus, Fall 2006</em></a></p>
+related_resources_text: ''
+transcript: ''
+embedded_media:
+  - uid: 452fe7108690db92e38cd936b5310e12
+    parent_uid: 8486afd8ccea362d200e30100ece5688
+    id: Video-InternetArchive-MP4
+    title: Video-Internet Archive-MP4
+    type: Video
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec06_300k.mp4'
+  - uid: f24d38b2aa32acb3f91983db85e9af76
+    parent_uid: 8486afd8ccea362d200e30100ece5688
+    id: 3Play-3PlayYouTubeid-MP4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    media_location: 9v25gg2qJYE
+  - uid: 1fa58143c4c4977729d95ef612b3e365
+    parent_uid: 8486afd8ccea362d200e30100ece5688
+    id: 9v25gg2qJYE.srt
+    title: 3play caption file
+    type: null
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-16-the-derivative-of-a-x/clip-2-slope-of-ax-at-0/9v25gg2qJYE.srt
+  - uid: b0ba61735f666dcb808fffddbca9947d
+    parent_uid: 8486afd8ccea362d200e30100ece5688
+    id: 9v25gg2qJYE.pdf
+    title: 3play pdf file
+    type: null
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-16-the-derivative-of-a-x/clip-2-slope-of-ax-at-0/9v25gg2qJYE.pdf
+  - uid: 4ce89019bf410870e254fbc6775be5c3
+    parent_uid: 8486afd8ccea362d200e30100ece5688
+    id: Caption-3Play YouTube id-SRT
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+  - uid: caa79216d2f1ae8b81f80e337bafdfc9
+    parent_uid: 8486afd8ccea362d200e30100ece5688
+    id: Transcript-3Play YouTube id-PDF
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+  - uid: 61b2aa8f9cddd5d8dda7efb12a8e72ec
+    parent_uid: 8486afd8ccea362d200e30100ece5688
+    id: Video-YouTube-Stream
+    title: Video-YouTube-Stream
+    type: Video
+    media_location: 9v25gg2qJYE
+  - uid: 5458b12cad810cb19b722695864022c3
+    parent_uid: 8486afd8ccea362d200e30100ece5688
+    id: Thumbnail-YouTube-JPG
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    media_location: 'https://img.youtube.com/vi/9v25gg2qJYE/default.jpg'
+  - uid: 4f5ab4ddfb52f87f97c7205eaf553974
+    parent_uid: 8486afd8ccea362d200e30100ece5688
+    id: Video-iTunesU-MP4
+    title: Video-iTunes U-MP4
+    type: Video
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+type: courses
+layout: video
+---

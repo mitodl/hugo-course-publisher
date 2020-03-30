@@ -12,7 +12,7 @@ menu:
 Exam Information
 ----------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/18418a4b92d58aa5c3cfbff33e031a07_exam2.jpg) | {{< br >}}{{< br >}}Exam two covers Lectures 9 through 16.{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/18418a4b92d58aa5c3cfbff33e031a07_exam2.jpg) | {{< br >}}{{< br >}}Exam two covers Lectures 9 through 16.{{< br >}}{{< br >}} 
 
 What You Should Know:
 ---------------------

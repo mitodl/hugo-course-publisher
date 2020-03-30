@@ -6,6 +6,6 @@ layout: pdf
 uid: 24e89fceb17be74d222e4b63b4351a6a
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/24e89fceb17be74d222e4b63b4351a6a_MIT8_03SCF16_ProblemSet4.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/24e89fceb17be74d222e4b63b4351a6a_MIT8_03SCF16_ProblemSet4.pdf
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 ---

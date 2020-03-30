@@ -12,7 +12,7 @@ menu:
 Lecture Topics
 --------------
 
-| ![](https://open-learning-course-data.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c5e75515d2806c73da23bb2d5f3bbc7a_L20.jpg) | {{< br >}}{{< br >}}*   Soap bubble{{< br >}}*   Interference{{< br >}}{{< br >}} 
+| ![](https://open-learning-course-data-ci.s3.amazonaws.com/8-03sc-physics-iii-vibrations-and-waves-fall-2016/c5e75515d2806c73da23bb2d5f3bbc7a_L20.jpg) | {{< br >}}{{< br >}}*   Soap bubble{{< br >}}*   Interference{{< br >}}{{< br >}} 
 
 Lecture Video: Interference, Soap Bubble
 ----------------------------------------

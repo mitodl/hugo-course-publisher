@@ -6,6 +6,6 @@ layout: pdf
 uid: 919176767ae7c778d10271f9b8a397d0
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/919176767ae7c778d10271f9b8a397d0_MIT8_01F16_chapter6.3.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/919176767ae7c778d10271f9b8a397d0_MIT8_01F16_chapter6.3.pdf
 course_id: 8-01sc-classical-mechanics-fall-2016
 ---

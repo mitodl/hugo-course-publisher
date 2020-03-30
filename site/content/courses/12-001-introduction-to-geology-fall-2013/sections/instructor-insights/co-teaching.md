@@ -15,7 +15,7 @@ The ability to observe instructors having a scientific repartee enhances the lea
 
 _Introduction to Geology_ has evolved over the years to become a more active experience for students and instructors. As co-teachers, we’ve reduced some of the traditional lecture time and have included more interactive hands-on activities. This is in recognition of the fact that so many things in earth science are tangible. During classes, we make a big effort to expose students to hand samples. We teach them how to identify rocks and minerals. We take them out into the field. In fact, the in-depth field trip we developed two years ago, which involves driving students to Upstate New York and back through western Massachusetts, has now become an integral part of the class.
 
-![A box of small brown minerals.](https://open-learning-course-data.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/884ed8a126caebc0bc2a972fb7db9f04_12-001_co-teach1.jpg)  
+![A box of small brown minerals.](https://open-learning-course-data-ci.s3.amazonaws.com/12-001-introduction-to-geology-fall-2013/884ed8a126caebc0bc2a972fb7db9f04_12-001_co-teach1.jpg)  
 
 A box of minerals to be identified by the students in the mineral identification lab. (Image by MIT OpenCourseWare.)
 

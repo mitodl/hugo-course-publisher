@@ -49,7 +49,7 @@ More raspberry pi kits per girl, team building activities, hands-on presentation
 Participant Information
 -----------------------
 
-![40 girls participated this workshop when it was facilitated in Summer 2016.](https://open-learning-course-data.s3.amazonaws.com/res-2-006-girls-who-build-cameras-summer-2016/b5e3ad16b0570101aac505192112d129_40.png)
+![40 girls participated this workshop when it was facilitated in Summer 2016.](https://open-learning-course-data-ci.s3.amazonaws.com/res-2-006-girls-who-build-cameras-summer-2016/b5e3ad16b0570101aac505192112d129_40.png)
 
 ### Typical Participant Background
 
@@ -58,7 +58,7 @@ High school girls (rising 9th-12th graders) from 22 local Massachusetts high sch
 The Classroom
 -------------
 
-*   ![The entrance of MIT Beaver Works with the lighted beaver logo on the wall.](https://open-learning-course-data.s3.amazonaws.com/res-2-006-girls-who-build-cameras-summer-2016/beeddfe0cbcf31709c6dd6be01342b6f_beaver_works.jpg)
+*   ![The entrance of MIT Beaver Works with the lighted beaver logo on the wall.](https://open-learning-course-data-ci.s3.amazonaws.com/res-2-006-girls-who-build-cameras-summer-2016/beeddfe0cbcf31709c6dd6be01342b6f_beaver_works.jpg)
     
     ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
     

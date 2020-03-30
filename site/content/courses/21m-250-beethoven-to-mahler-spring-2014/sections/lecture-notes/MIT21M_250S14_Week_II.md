@@ -10,6 +10,6 @@ layout: pdf
 uid: 5f5dab995fb72c10b1758be850627ca3
 file_type: application/pdf
 file_location: >-
-  https://open-learning-course-data.s3.amazonaws.com/21m-250-beethoven-to-mahler-spring-2014/5f5dab995fb72c10b1758be850627ca3_MIT21M_250S14_Week_II.pdf
+  https://open-learning-course-data-ci.s3.amazonaws.com/21m-250-beethoven-to-mahler-spring-2014/5f5dab995fb72c10b1758be850627ca3_MIT21M_250S14_Week_II.pdf
 course_id: 21m-250-beethoven-to-mahler-spring-2014
 ---

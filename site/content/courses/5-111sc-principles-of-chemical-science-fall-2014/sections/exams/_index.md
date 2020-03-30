@@ -23,7 +23,7 @@ Instructions for Taking an Exam
 Exam I
 ------
 
-Exam 1 covers Unit I: The Atom. You will see that most equations are given, but principles are not. You will need to know these principles. Examples include: How to determine the number of radial and angular nodes in a wavefunction; electron configurations; conservation of energy as applied to the photoelectric effect; the relationship between the four quantum numbers; and the physical significance of RPD. You should be able to sketch the RPD's for all orbitals up through n = 4. These are examples of principles that you should know, but not  an all-inclusive list.
+Exam 1 covers Unit I: The Atom. You will see that most equations are given, but principles are not. You will need to know these principles. Examples include: How to determine the number of radial and angular nodes in a wavefunction; electron configurations; conservation of energy as applied to the photoelectric effect; the relationship between the four quantum numbers; and the physical significance of RPD. You should be able to sketch the RPD's for all orbitals up through n = 4. These are examples of principles that you should know, but not an all-inclusive list.
 
 [Exam I Equation sheet (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/exams/MIT5_111F14_Exam1EquSheet" %}})
 
@@ -50,7 +50,7 @@ For **homo**nuclear diatomic molecules:
 For **hetero**nuclear diatomic molecules:
 
 *   The relative E ordering is πpx and πpy < σpz if Z < 8 for both atoms.
-*   You are not  responsible for predicting the energy level ordering if either one of the atoms has Z = or > 8.
+*   You are not responsible for predicting the energy level ordering if either one of the atoms has Z = or > 8.
 
 For MO diagrams,
 
