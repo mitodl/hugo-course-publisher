@@ -3,10 +3,9 @@ title: '6.3 Predictive Diagnosis: Discovering Patterns for Disease Detection '
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: b3e684a2782185403814d5093796789b_video-2-the-data-6
+    identifier: b3e684a2782185403814d5093796789b
     weight: 2130
-    parent: >-
-      0943bd811d9caf9e92bf3c7bf9d7b9f2_predictive-diagnosis-discovering-patterns-for-disease-detection
+    parent: 0943bd811d9caf9e92bf3c7bf9d7b9f2
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/quick-question-481" %}})
 *   [6.3.1Video 1: Heart Attacks]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection" %}})

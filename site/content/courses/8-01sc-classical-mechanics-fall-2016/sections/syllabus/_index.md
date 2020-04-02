@@ -3,7 +3,7 @@ title: Syllabus
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: 8488bde46909b726a411abeee039ef1a_syllabus
+    identifier: 8488bde46909b726a411abeee039ef1a
     weight: 10
 ---
 « [Previous](./resolveuid/8f538d2a785ea37ad30133ad74e8e40e) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus/about-the-team/_index.md" %}}) »

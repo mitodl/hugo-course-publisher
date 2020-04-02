@@ -3,9 +3,9 @@ title: 2.1  GCDs
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 405693053755e5d6fb1b1e2592fa311e_tp5-1
+    identifier: 405693053755e5d6fb1b1e2592fa311e
     weight: 960
-    parent: 20b0a2b7a262cb94efd44e9e00511cee_structures
+    parent: 20b0a2b7a262cb94efd44e9e00511cee
 ---
 *   [<Structures](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures)
 *   [2.1.1GCDs & Linear Combinations: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1)

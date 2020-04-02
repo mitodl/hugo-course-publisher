@@ -3,7 +3,7 @@ title: 'Week 9: Distributed Systems Part II'
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: aa415ef7575219eea10afb9dc2dbef65_week-9
+    identifier: aa415ef7575219eea10afb9dc2dbef65
     weight: 410
 ---
 Lecture 16: Atomicity via Logging

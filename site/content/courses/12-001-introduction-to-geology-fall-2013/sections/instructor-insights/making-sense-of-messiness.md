@@ -3,9 +3,9 @@ title: Making Sense of Messiness
 course_id: 12-001-introduction-to-geology-fall-2013
 menu:
   12-001-introduction-to-geology-fall-2013:
-    identifier: abd48cefe43d11ae8b573e0d4a6872b9_making-sense-of-messiness
+    identifier: abd48cefe43d11ae8b573e0d4a6872b9
     weight: 70
-    parent: 1c2cb2ad1c70fd66f19e20103dc94595_instructor-insights
+    parent: 1c2cb2ad1c70fd66f19e20103dc94595
 ---
 _In this section, Prof. Perron discusses how the course challenges students to make sense of complexities in the field._
 

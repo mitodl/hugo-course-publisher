@@ -3,7 +3,7 @@ title: 4. Techniques of Integration
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: 4da2f4d47b887d3f0da6a5405ecfef83_unit-4-techniques-of-integration
+    identifier: 4da2f4d47b887d3f0da6a5405ecfef83
     weight: 910
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/exam-3/materials-for-exam-3/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/_index.md" %}}) »

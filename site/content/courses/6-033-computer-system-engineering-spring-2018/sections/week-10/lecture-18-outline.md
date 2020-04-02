@@ -3,9 +3,9 @@ title: Lecture 18 Outline
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: b1089f5db898b0e43de11f7b4fb2a366_lecture-18-outline
+    identifier: b1089f5db898b0e43de11f7b4fb2a366
     weight: 470
-    parent: 62a94c78a5243c3060aa11c27ff81fc7_week-10
+    parent: 62a94c78a5243c3060aa11c27ff81fc7
 ---
 1.  Introduction
     *   Past two weeks: Transactions (atomicity + isolation) on a single machine.

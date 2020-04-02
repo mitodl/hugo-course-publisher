@@ -3,10 +3,9 @@ title: 'Session 28: Sketching Graphs II - General Strategies'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: >-
-      445cf54d4e7202de2ae3332dadd36def_session-28-sketching-graphs-ii-general-strategies
+    identifier: 445cf54d4e7202de2ae3332dadd36def
     weight: 370
-    parent: 8c88ae0417475c6dae97e569853bfd9e_part-a-approximation-and-curve-sketching
+    parent: 8c88ae0417475c6dae97e569853bfd9e
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-27-sketching-graphs-i-polynomials-and-rational-functions/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/problem-set-3/_index.md" %}}) »
 

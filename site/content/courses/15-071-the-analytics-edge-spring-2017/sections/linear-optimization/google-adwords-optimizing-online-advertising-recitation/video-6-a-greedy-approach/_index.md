@@ -3,10 +3,9 @@ title: '8.4 Google AdWords: Optimizing Online Advertising  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: ba7cbf9c8693f7f073ab2fc26c0c9b2d_video-6-a-greedy-approach
+    identifier: ba7cbf9c8693f7f073ab2fc26c0c9b2d
     weight: 2990
-    parent: >-
-      696dd6e442cc1fc47c9f2924e2edfb26_google-adwords-optimizing-online-advertising-recitation
+    parent: 696dd6e442cc1fc47c9f2924e2edfb26
 ---
 *   [<Video 5: Solving the Problem]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-5-solving-the-problem" %}})
 *   [8.4.1Welcome to Recitation 8]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation" %}})

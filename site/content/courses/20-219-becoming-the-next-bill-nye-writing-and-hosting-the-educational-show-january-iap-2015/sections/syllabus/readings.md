@@ -4,9 +4,9 @@ course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
-    identifier: d6745b8332b80e0a86c19e2d07a85d87_readings
+    identifier: d6745b8332b80e0a86c19e2d07a85d87
     weight: 80
-    parent: 203eeb3a4839933a901cefa7c34f24d7_syllabus
+    parent: 203eeb3a4839933a901cefa7c34f24d7
 ---
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/syllabus/editing" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/instructor-insights/_index.md" %}}) »
 

@@ -3,10 +3,9 @@ title: 'Part B: Partial Fractions, Integration by Parts, Arc Length, and Surface
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: >-
-      be9d889d28b57df1a77bbd83f2f4f214_part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area
+    identifier: be9d889d28b57df1a77bbd83f2f4f214
     weight: 1000
-    parent: 4da2f4d47b887d3f0da6a5405ecfef83_unit-4-techniques-of-integration
+    parent: 4da2f4d47b887d3f0da6a5405ecfef83
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/problem-set-9/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-74-integration-by-partial-fractions/_index.md" %}}) »
 

@@ -3,9 +3,9 @@ title: We Did Nothing Wrong Assignment
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: a4a9ba01b03011d9204cba12fbc0f60b_we-did-nothing-wrong
+    identifier: a4a9ba01b03011d9204cba12fbc0f60b
     weight: 60
-    parent: 70f007d84ae8a0b0ea4f00fa8931c506_week-1
+    parent: 70f007d84ae8a0b0ea4f00fa8931c506
 ---
 Read "[We Did Nothing Wrong: Why Software Quality Matters](http://www.baselinemag.com/c/a/Projects-Processes/We-Did-Nothing-Wrong)" by Deborah Gage and John McCormick in _Baseline Magazine_ on March 4, 2004. This paper details a number of software systems that failed in spectacular ways, with most of the focus on a radiation machine made by Multidata called the Cobalt-60.
 

@@ -3,7 +3,7 @@ title: 'Week 10: Distributed Systems Part III'
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: 62a94c78a5243c3060aa11c27ff81fc7_week-10
+    identifier: 62a94c78a5243c3060aa11c27ff81fc7
     weight: 460
 ---
 Lecture 18: Distributed Transactions

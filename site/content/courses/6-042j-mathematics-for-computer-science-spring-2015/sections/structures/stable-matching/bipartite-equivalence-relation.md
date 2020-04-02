@@ -3,9 +3,9 @@ title: 2.11 Stable Matching
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 62b3f45bb30ee721af4eeefc878b4058_bipartite-equivalence-relation
+    identifier: 62b3f45bb30ee721af4eeefc878b4058
     weight: 1760
-    parent: 47305688cc389e2f9dc3019a395b3b37_stable-matching
+    parent: 47305688cc389e2f9dc3019a395b3b37
 ---
 *   [<Bipartite Matching: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/bipartite-matching-video)
 *   [2.11.1Stable Matching: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching)

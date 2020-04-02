@@ -3,9 +3,9 @@ title: 'Part A: Definition and Basic Rules'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: 962d171611a101d49f865818d41217eb_part-a-definition-and-basic-rules
+    identifier: 962d171611a101d49f865818d41217eb
     weight: 30
-    parent: ff2c27eff0de39810c3e51a37548e568_1.-differentiation
+    parent: ff2c27eff0de39810c3e51a37548e568
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/_index.md" %}}) »
 

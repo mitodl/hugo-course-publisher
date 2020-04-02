@@ -3,9 +3,9 @@ title: 3.5 Assignment 3
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: d4a650ea930c2c8c0f989b353a5a342e_assignment-3
+    identifier: d4a650ea930c2c8c0f989b353a5a342e
     weight: 1100
-    parent: c4464cf49ddb1a4bc78cfaa6f93b74de_logistic-regression
+    parent: c4464cf49ddb1a4bc78cfaa6f93b74de
 ---
 *   [<Video 5: Test Set Predictions]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-5-test-set-predictions/_index.md" %}})
 *   [3.5.1Popularity of Music Records]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3/_index.md" %}})

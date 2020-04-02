@@ -3,7 +3,7 @@ title: Beethoven Concert
 course_id: 21m-250-beethoven-to-mahler-spring-2014
 menu:
   21m-250-beethoven-to-mahler-spring-2014:
-    identifier: df6177af1eaeee1dce1d4c398d186695_beethoven-concert
+    identifier: df6177af1eaeee1dce1d4c398d186695
     weight: 80
 ---
 Concert of Beethoven Sonatas

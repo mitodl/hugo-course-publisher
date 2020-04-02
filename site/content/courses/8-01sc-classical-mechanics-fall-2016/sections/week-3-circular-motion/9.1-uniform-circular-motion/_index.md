@@ -3,9 +3,9 @@ title: 9.1 Uniform Circular Motion
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: dfa7cfb25de407214c7b99d451dc900f_9.1-uniform-circular-motion
+    identifier: dfa7cfb25de407214c7b99d451dc900f
     weight: 630
-    parent: 3c7d357cbb95e729679b539d23714ede_week-3-circular-motion
+    parent: 3c7d357cbb95e729679b539d23714ede
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/8.3-angular-velocity" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/9.2-uniform-circular-motion-direction-of-the-acceleration" %}}) »
 

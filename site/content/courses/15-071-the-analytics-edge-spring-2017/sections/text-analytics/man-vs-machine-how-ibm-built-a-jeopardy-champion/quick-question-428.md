@@ -3,10 +3,9 @@ title: '5.3 Man vs. Machine: How IBM Built a Jeopardy Champion '
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 6f8e99cf30af3889c6c09803e769c268_quick-question-428
+    identifier: 6f8e99cf30af3889c6c09803e769c268
     weight: 1800
-    parent: >-
-      0c9bd7c26f88e1f372bb45bfb1705096_man-vs-machine-how-ibm-built-a-jeopardy-champion
+    parent: 0c9bd7c26f88e1f372bb45bfb1705096
 ---
 *   [<Video 5: How Watson Works - Steps 3 and 4]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-5-how-watson-works-steps-3-and-4" %}})
 *   [5.3.1Video 1: IBM Watson]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion" %}})

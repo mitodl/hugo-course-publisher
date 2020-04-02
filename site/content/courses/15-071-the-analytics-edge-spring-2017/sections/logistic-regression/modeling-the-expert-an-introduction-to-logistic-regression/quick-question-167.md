@@ -3,10 +3,9 @@ title: '3.2 Modeling the Expert: An Introduction to Logistic Regression'
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 8c08020699935e2bb0c50c4cd73fd74c_quick-question-167
+    identifier: 8c08020699935e2bb0c50c4cd73fd74c
     weight: 850
-    parent: >-
-      3063320a41756b8a4fa9892f61b52c0d_modeling-the-expert-an-introduction-to-logistic-regression
+    parent: 3063320a41756b8a4fa9892f61b52c0d
 ---
 *   [<Video 4: Logistic Regression in R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-4-logistic-regression-in-r" %}})
 *   [3.2.1Video 1: Replicating Expert Assessment]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression" %}})

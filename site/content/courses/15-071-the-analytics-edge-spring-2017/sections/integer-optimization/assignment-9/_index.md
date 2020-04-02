@@ -3,9 +3,9 @@ title: 9.5 Assignment 9
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 2dbce7a6bb3717df55b4be0179616ad6_assignment-9
+    identifier: 2dbce7a6bb3717df55b4be0179616ad6
     weight: 3260
-    parent: db42b40ad705f431a7e23a1d11cec341_integer-optimization
+    parent: db42b40ad705f431a7e23a1d11cec341
 ---
 *   [<Video 4: The Solution]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-4-the-solution/_index.md" %}})
 *   [9.5.1Even' Star Organic Farm Revisited]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/_index.md" %}})

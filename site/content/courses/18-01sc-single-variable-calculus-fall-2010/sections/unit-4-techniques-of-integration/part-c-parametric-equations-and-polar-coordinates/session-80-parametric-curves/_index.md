@@ -3,10 +3,9 @@ title: 'Session 80: Parametric Curves'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: b58d1c03b5e72b4fc2ef553cda5d94b7_session-80-parametric-curves
+    identifier: b58d1c03b5e72b4fc2ef553cda5d94b7
     weight: 1090
-    parent: >-
-      f19e1f54f348a68a730889ee63f5b9d6_part-c-parametric-equations-and-polar-coordinates
+    parent: f19e1f54f348a68a730889ee63f5b9d6
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-81-examples-using-parametrized-curves/_index.md" %}}) »
 

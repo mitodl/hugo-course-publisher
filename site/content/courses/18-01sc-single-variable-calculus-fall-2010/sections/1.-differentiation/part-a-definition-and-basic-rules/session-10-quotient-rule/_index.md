@@ -3,9 +3,9 @@ title: 'Session 10: Quotient Rule'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: 94a0d0fdde324bb54b34d0ea12a6d94d_session-10-quotient-rule
+    identifier: 94a0d0fdde324bb54b34d0ea12a6d94d
     weight: 130
-    parent: 962d171611a101d49f865818d41217eb_part-a-definition-and-basic-rules
+    parent: 962d171611a101d49f865818d41217eb
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/_index.md" %}}) »
 

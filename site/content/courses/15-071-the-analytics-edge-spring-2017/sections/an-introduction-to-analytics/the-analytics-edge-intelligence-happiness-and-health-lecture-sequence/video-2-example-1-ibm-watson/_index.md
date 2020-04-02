@@ -5,10 +5,9 @@ title: >-
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: d47941e37e10d553df10f1506d21de79_video-2-example-1-ibm-watson
+    identifier: d47941e37e10d553df10f1506d21de79
     weight: 90
-    parent: >-
-      9fb459369f44df97dad389bb5d1aa82c_the-analytics-edge-intelligence-happiness-and-health-lecture-sequence
+    parent: 9fb459369f44df97dad389bb5d1aa82c
 ---
 *   [<The Analytics Edge: Intelligence, Happiness, and Health (Lecture Sequence)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence" %}})
 *   [1.2.1Video 1: Introduction to The Analytics Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence" %}})

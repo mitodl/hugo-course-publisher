@@ -3,9 +3,9 @@ title: Problem Set 6
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: e75cbe5657dc1b51c934c400a80d903c_problem-set-6
+    identifier: e75cbe5657dc1b51c934c400a80d903c
     weight: 1240
-    parent: 28d93f13f552de729aab415b7158be8e_week-6-continuous-mass-transfer
+    parent: 28d93f13f552de729aab415b7158be8e
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work" %}}) »
 

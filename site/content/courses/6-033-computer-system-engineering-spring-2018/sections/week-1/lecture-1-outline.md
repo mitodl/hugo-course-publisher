@@ -3,9 +3,9 @@ title: Lecture 1 Outline
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: 6f82dc951f470c80136fe66e5ce7c473_lecture-1-outline
+    identifier: 6f82dc951f470c80136fe66e5ce7c473
     weight: 50
-    parent: 70f007d84ae8a0b0ea4f00fa8931c506_week-1
+    parent: 70f007d84ae8a0b0ea4f00fa8931c506
 ---
 1.  Introduction to Systems
     *   What is a system?

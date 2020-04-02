@@ -5,10 +5,9 @@ title: >-
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 20d828736498be17a983f7473b292a08_video-4-logistic-regression-models
+    identifier: 20d828736498be17a983f7473b292a08
     weight: 1080
-    parent: >-
-      cd55cbba60f6d5d37320e05f520c4cf1_election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation
+    parent: cd55cbba60f6d5d37320e05f520c4cf1
 ---
 *   [<Video 3: A Sophisticated Baseline Method]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-3-a-sophisticated-baseline-method" %}})
 *   [3.4.1Welcome to Recitation 3]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation" %}})

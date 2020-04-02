@@ -3,9 +3,9 @@ title: 'Part B: Taylor Series'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: 1c9b92776c16c587013d2f3b4e9b94a0_part-b-taylor-series
+    identifier: 1c9b92776c16c587013d2f3b4e9b94a0
     weight: 1270
-    parent: 6e3abd11deb09fc49199b1e8893935e7_unit-5-exploring-the-infinite
+    parent: 6e3abd11deb09fc49199b1e8893935e7
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-93-indefinite-integrals-and-singularities/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-94-infinite-series/_index.md" %}}) »
 

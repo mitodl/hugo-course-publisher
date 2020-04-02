@@ -3,9 +3,9 @@ title: Presentations and Sources
 course_id: 21g-049-french-photography-spring-2017
 menu:
   21g-049-french-photography-spring-2017:
-    identifier: 531dc9ed4b52fa866fe1d5627d7b5a44_presentations-and-sources
+    identifier: 531dc9ed4b52fa866fe1d5627d7b5a44
     weight: 120
-    parent: 5bd3d34afffcc08e9a877b3fd05637da_assignments
+    parent: 5bd3d34afffcc08e9a877b3fd05637da
 ---
 | Week | Presentation Topics / Sources |
 | --- | --- |

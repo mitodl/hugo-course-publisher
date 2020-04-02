@@ -3,10 +3,9 @@ title: Problem Set 7
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: fdbe350ca59afe09833c9efd91b52a3f_problem-set-7
+    identifier: fdbe350ca59afe09833c9efd91b52a3f
     weight: 790
-    parent: >-
-      82a633f32c2b0be84fba01f5e5741006_part-b-second-fundamental-theorem-areas-volumes
+    parent: 82a633f32c2b0be84fba01f5e5741006
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration" %}}) »
 

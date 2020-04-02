@@ -3,7 +3,7 @@ title: 'Week 6: Continuous Mass Transfer'
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: 28d93f13f552de729aab415b7158be8e_week-6-continuous-mass-transfer
+    identifier: 28d93f13f552de729aab415b7158be8e
     weight: 1090
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/problem-set-5/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/week-6-introduction/_index.md" %}}) »

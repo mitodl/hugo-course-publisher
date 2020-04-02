@@ -3,10 +3,9 @@ title: Problem Set 6
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: bc72db410b84f2d1a10a6c5a9399e431_problem-set-6
+    identifier: bc72db410b84f2d1a10a6c5a9399e431
     weight: 680
-    parent: >-
-      0b76caa8a52837fdba43c151842bb90a_part-a-definition-of-the-definite-integral-and-first-fundamental-theorem
+    parent: 0b76caa8a52837fdba43c151842bb90a
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-50-combining-the-fundamental-theorem-and-the-mean-value-theorem/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes" %}}) »
 

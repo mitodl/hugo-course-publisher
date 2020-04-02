@@ -3,9 +3,9 @@ title: Framing Engineering as Problem Solving
 course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015
 menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
-    identifier: 1bfb99c608a6fb3b5087201cd73059c9_framing-engineering-as-problem-solving
+    identifier: 1bfb99c608a6fb3b5087201cd73059c9
     weight: 30
-    parent: 93633c3e763e0e991be7a7388bafdbb7_instructor-insights
+    parent: 93633c3e763e0e991be7a7388bafdbb7
 ---
 _In this section, Kristen Railey shares how she and the volunteers framed engineering as problem solving during the workshop. She also describes her reactions, as the instructor, when some of the girls encountered disappointment when their code did not work as planned._
 

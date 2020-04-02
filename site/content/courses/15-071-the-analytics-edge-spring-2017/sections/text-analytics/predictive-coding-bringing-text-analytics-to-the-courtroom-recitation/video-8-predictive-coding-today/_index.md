@@ -3,10 +3,9 @@ title: '5.4 Predictive Coding: Bringing Text Analytics to the Courtroom  (Recita
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 452a514d74e9b441d73ae42c18939bda_video-8-predictive-coding-today
+    identifier: 452a514d74e9b441d73ae42c18939bda
     weight: 1900
-    parent: >-
-      d4b1a3b942ed98d194feb3777ba22595_predictive-coding-bringing-text-analytics-to-the-courtroom-recitation
+    parent: d4b1a3b942ed98d194feb3777ba22595
 ---
 *   [<Video 7: The ROC Curve]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-7-the-roc-curve" %}})
 *   [5.4.1Welcome to Recitation 5]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation" %}})

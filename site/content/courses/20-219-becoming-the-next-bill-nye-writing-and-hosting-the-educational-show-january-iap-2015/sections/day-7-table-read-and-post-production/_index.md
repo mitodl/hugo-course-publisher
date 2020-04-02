@@ -4,7 +4,7 @@ course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
-    identifier: d8c0d81b2a38c0d7c4ff4a8cfacacb2d_day-7-table-read-and-post-production
+    identifier: d8c0d81b2a38c0d7c4ff4a8cfacacb2d
     weight: 200
 ---
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/days-8-9-10-project-time" %}}) »

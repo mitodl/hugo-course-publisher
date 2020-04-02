@@ -3,10 +3,9 @@ title: PS.7.1 Worked Example - Collision and Sliding on a Rough Surface
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: >-
-      1a85f658a6b619d17082201370c974dd_ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface
+    identifier: 1a85f658a6b619d17082201370c974dd
     weight: 1440
-    parent: 1099b7667930f7e51cccc80d63899c02_week-7-kinetic-energy-and-work
+    parent: 1099b7667930f7e51cccc80d63899c02
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/22.5-summary-of-work-and-kinetic-energy" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/problem-set-7" %}}) »
 

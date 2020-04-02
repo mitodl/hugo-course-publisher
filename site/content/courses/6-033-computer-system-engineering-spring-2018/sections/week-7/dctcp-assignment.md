@@ -3,9 +3,9 @@ title: DCTCP Assignment
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: 72f0d675cb14ba194c5d7a81051af829_dctcp-assignment
+    identifier: 72f0d675cb14ba194c5d7a81051af829
     weight: 340
-    parent: 0abfab7fcd019a6a159d1afa3fd61f99_week-7
+    parent: 0abfab7fcd019a6a159d1afa3fd61f99
 ---
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Data Center TCP (DCTCP) (PDF - 2.98MB)](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)" by Mohammad Alizadeh, Albert Greenberg, et al.
 *   Skip section 3.3 except for the final paragraph, which gives an estimate for the parameter _K_.

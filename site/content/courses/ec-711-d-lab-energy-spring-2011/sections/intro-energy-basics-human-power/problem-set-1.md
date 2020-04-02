@@ -3,9 +3,9 @@ title: Problem Set 1
 course_id: ec-711-d-lab-energy-spring-2011
 menu:
   ec-711-d-lab-energy-spring-2011:
-    identifier: 5638dda948ce2cd5f89513c4a9b480a7_problem-set-1
+    identifier: 5638dda948ce2cd5f89513c4a9b480a7
     weight: 60
-    parent: 32a22e0de0add67342ce41445297fce7_intro-energy-basics-human-power
+    parent: 32a22e0de0add67342ce41445297fce7
 ---
 Problem 1
 ---------

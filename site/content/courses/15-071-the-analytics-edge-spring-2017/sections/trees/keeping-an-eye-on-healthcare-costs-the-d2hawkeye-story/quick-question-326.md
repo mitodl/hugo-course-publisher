@@ -3,10 +3,9 @@ title: '4.3 Keeping an Eye on Healthcare Costs: The D2Hawkeye Story '
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: c679795eed4f1bd8079e7f008721cf38_quick-question-326
+    identifier: c679795eed4f1bd8079e7f008721cf38
     weight: 1340
-    parent: >-
-      52a221ddc01190a445b1a393b15cb810_keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story
+    parent: 52a221ddc01190a445b1a393b15cb810
 ---
 *   [<Video 4: Error Measures]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-4-error-measures" %}})
 *   [4.3.1Video 1: The Story of D2Hawkeye]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story" %}})

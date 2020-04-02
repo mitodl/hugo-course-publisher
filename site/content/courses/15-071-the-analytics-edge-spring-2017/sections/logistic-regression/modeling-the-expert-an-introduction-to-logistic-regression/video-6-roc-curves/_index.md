@@ -3,10 +3,9 @@ title: '3.2 Modeling the Expert: An Introduction to Logistic Regression'
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: f62162651257bdbe48268a5e5b311096_video-6-roc-curves
+    identifier: f62162651257bdbe48268a5e5b311096
     weight: 880
-    parent: >-
-      3063320a41756b8a4fa9892f61b52c0d_modeling-the-expert-an-introduction-to-logistic-regression
+    parent: 3063320a41756b8a4fa9892f61b52c0d
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/quick-question-188" %}})
 *   [3.2.1Video 1: Replicating Expert Assessment]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression" %}})

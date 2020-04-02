@@ -3,10 +3,9 @@ title: 'Session 45: Some Easy Integrals'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: 4bffe5cc16196016e52210964dbeddc4_session-45-some-easy-integrals
+    identifier: 4bffe5cc16196016e52210964dbeddc4
     weight: 620
-    parent: >-
-      0b76caa8a52837fdba43c151842bb90a_part-a-definition-of-the-definite-integral-and-first-fundamental-theorem
+    parent: 0b76caa8a52837fdba43c151842bb90a
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-44-adding-areas-of-rectangles/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/_index.md" %}}) »
 

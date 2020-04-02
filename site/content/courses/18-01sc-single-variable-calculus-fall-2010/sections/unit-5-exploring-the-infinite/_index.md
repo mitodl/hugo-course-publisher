@@ -3,7 +3,7 @@ title: 5. Exploring the Infinite
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: 6e3abd11deb09fc49199b1e8893935e7_unit-5-exploring-the-infinite
+    identifier: 6e3abd11deb09fc49199b1e8893935e7
     weight: 1180
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/exam-4/session-86-materials-for-exam-4/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/_index.md" %}}) »

@@ -3,9 +3,9 @@ title: 'Lecture 8: The Periodic Table and Periodic Trends'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
-    identifier: 3ea46bd050d77305ee1a67bd41bfde89_lecture-8
+    identifier: 3ea46bd050d77305ee1a67bd41bfde89
     weight: 120
-    parent: 89ed642b22037e567593c80ff35cb3f4_unit-ii-chemical-bonding-structure
+    parent: 89ed642b22037e567593c80ff35cb3f4
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-9/_index.md" %}}) »
 

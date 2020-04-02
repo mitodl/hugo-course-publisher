@@ -3,10 +3,9 @@ title: 'Session 73: Completing the Square'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: 3d81cd65aedbbd557617501fb6a0b493_session-73-completing-the-square
+    identifier: 3d81cd65aedbbd557617501fb6a0b493
     weight: 980
-    parent: >-
-      6b4ef50053da70f0e8654886100e09bb_part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square
+    parent: 6b4ef50053da70f0e8654886100e09bb
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-72-trig-substitution/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/problem-set-9/_index.md" %}}) »
 

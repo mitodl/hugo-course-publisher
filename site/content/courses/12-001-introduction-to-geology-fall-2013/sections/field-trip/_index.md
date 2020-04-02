@@ -3,7 +3,7 @@ title: Field Trip
 course_id: 12-001-introduction-to-geology-fall-2013
 menu:
   12-001-introduction-to-geology-fall-2013:
-    identifier: de36fe69cf33ddf238bc3896d0ce9eff_field-trip
+    identifier: de36fe69cf33ddf238bc3896d0ce9eff
     weight: 110
 ---
 **Field Trip to Upstate New York: Assembly and Breakup of Supercontinents**

@@ -3,7 +3,7 @@ title: 'Week 1: Operating Systems Part I'
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: 70f007d84ae8a0b0ea4f00fa8931c506_week-1
+    identifier: 70f007d84ae8a0b0ea4f00fa8931c506
     weight: 40
 ---
 Recitation 1: Worse is Better

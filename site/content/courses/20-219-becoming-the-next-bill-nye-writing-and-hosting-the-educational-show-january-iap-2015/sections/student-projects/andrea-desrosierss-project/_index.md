@@ -4,9 +4,9 @@ course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
-    identifier: 1d079dd5c0b4174a4773f2520a5e0743_andrea-desrosierss-project
+    identifier: 1d079dd5c0b4174a4773f2520a5e0743
     weight: 270
-    parent: 6df56ca86d884c27d497aee73b724945_student-projects
+    parent: 6df56ca86d884c27d497aee73b724945
 ---
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project" %}}) »
 

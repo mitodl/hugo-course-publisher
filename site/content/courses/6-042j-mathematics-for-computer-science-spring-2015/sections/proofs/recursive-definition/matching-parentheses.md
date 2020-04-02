@@ -3,9 +3,9 @@ title: 1.10 Recursive Definition
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 07b69d15ceb477f320edfe861b5c21fc_matching-parentheses
+    identifier: 07b69d15ceb477f320edfe861b5c21fc
     weight: 770
-    parent: dc6ecd4f10b94f9f9744a385e4bab210_recursive-definition
+    parent: dc6ecd4f10b94f9f9744a385e4bab210
 ---
 *   [<Recursive Definition](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition)
 *   [1.10.1Recursive Data: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition)

@@ -3,9 +3,9 @@ title: Lecture 13 Outline
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: e46aed553f04cfcfdcdd9ab3513be6ed_lecture-13-outline
+    identifier: e46aed553f04cfcfdcdd9ab3513be6ed
     weight: 350
-    parent: 0abfab7fcd019a6a159d1afa3fd61f99_week-7
+    parent: 0abfab7fcd019a6a159d1afa3fd61f99
 ---
 1.  Introduction
     *   “New" technologies on the Internet. How do they work? Are they overcoming any problems in the existing architecture? Do they invalidate any of our assumptions? Do they provide opportunities?

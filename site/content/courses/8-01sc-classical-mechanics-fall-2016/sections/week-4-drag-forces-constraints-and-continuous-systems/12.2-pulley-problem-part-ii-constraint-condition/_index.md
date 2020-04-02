@@ -3,11 +3,9 @@ title: '12.2 Pulley Problem - Part II, Constraint Condition'
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: >-
-      e5a45c415f7a27b6b203fb8dbe933bd0_12.2-pulley-problem-part-ii-constraint-condition
+    identifier: e5a45c415f7a27b6b203fb8dbe933bd0
     weight: 780
-    parent: >-
-      919a2c506eb4551d940bb0dbab2356f0_week-4-drag-forces-constraints-and-continuous-systems
+    parent: 919a2c506eb4551d940bb0dbab2356f0
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/12.1-pulley-problems-part-i-set-up-the-equations" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/12.3-pulley-problem-part-iii-constraints-and-virtual-displacement-arguments" %}}) »
 

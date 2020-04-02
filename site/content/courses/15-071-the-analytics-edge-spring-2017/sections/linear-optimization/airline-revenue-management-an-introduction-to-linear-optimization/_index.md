@@ -3,10 +3,9 @@ title: '8.2 Airline Revenue Management: An Introduction to Linear Optimization '
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: >-
-      2900efa71aff756dfeba74c6d16f2d3d_airline-revenue-management-an-introduction-to-linear-optimization
+    identifier: 2900efa71aff756dfeba74c6d16f2d3d
     weight: 2680
-    parent: daafaa58867c9765f1c4c60a9c0ed426_linear-optimization
+    parent: daafaa58867c9765f1c4c60a9c0ed426
 ---
 *   [<Spreadsheet Tutorial]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/spreadsheet-tutorial/_index.md" %}})
 *   [8.2.1Video 1: Introduction]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/_index.md" %}})

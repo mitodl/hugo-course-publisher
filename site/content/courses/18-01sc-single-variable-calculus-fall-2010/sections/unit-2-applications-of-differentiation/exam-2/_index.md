@@ -3,9 +3,9 @@ title: Exam 2
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: 2e8fc5a27f94964a4603c27ff84434fc_exam-2
+    identifier: 2e8fc5a27f94964a4603c27ff84434fc
     weight: 550
-    parent: c2ca8a0d20e596b11e2ec5c48c7179ca_unit-2-applications-of-differentiation
+    parent: c2ca8a0d20e596b11e2ec5c48c7179ca
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/problem-set-5/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/exam-2/session-41-review-for-exam-2/_index.md" %}}) »
 

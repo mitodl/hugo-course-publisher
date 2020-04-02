@@ -3,7 +3,7 @@ title: Calendar
 course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
 menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
-    identifier: 0f11e3a88575774268b19fbbe9ada2d2_calendar
+    identifier: 0f11e3a88575774268b19fbbe9ada2d2
     weight: 20
 ---
 This section contains the calendars for the Fall 2005 and Spring 2006 semesters. The calendars are presented both in [PDF format](#pdf), as well as [HTML format](#html). Due to the complexity of the calendars, detailed explanations of the course format and a [calendar key](#calendar_key) are provided prior to the presentation of the calendars.

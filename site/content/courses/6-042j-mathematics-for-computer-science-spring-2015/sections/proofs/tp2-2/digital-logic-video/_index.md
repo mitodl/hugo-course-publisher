@@ -3,9 +3,9 @@ title: 1.4 Logic & Propositions
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: e3e3f5940c0632b46da910e10c86d2ef_digital-logic-video
+    identifier: e3e3f5940c0632b46da910e10c86d2ef
     weight: 300
-    parent: 8de160a9e7299f7fec8a58aef5106eef_tp2-2
+    parent: 8de160a9e7299f7fec8a58aef5106eef
 ---
 *   [<Propositional Operators](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/vertical-e6ef70d76365)
 *   [1.4.1Propositional Operators: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2)

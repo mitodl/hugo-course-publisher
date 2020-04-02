@@ -3,10 +3,9 @@ title: 'Part C: Parametric Equations and Polar Coordinates'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: >-
-      f19e1f54f348a68a730889ee63f5b9d6_part-c-parametric-equations-and-polar-coordinates
+    identifier: f19e1f54f348a68a730889ee63f5b9d6
     weight: 1080
-    parent: 4da2f4d47b887d3f0da6a5405ecfef83_unit-4-techniques-of-integration
+    parent: 4da2f4d47b887d3f0da6a5405ecfef83
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/problem-set-10/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves/_index.md" %}}) »
 

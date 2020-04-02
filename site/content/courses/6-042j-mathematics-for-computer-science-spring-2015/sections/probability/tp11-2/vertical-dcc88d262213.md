@@ -3,9 +3,9 @@ title: 4.1 Intro to Discrete Probability
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: ad83e19e58d292c485c4b3cec4bca701_vertical-dcc88d262213
+    identifier: ad83e19e58d292c485c4b3cec4bca701
     weight: 2240
-    parent: 4414c612ae424c737466f4715f85e319_tp11-2
+    parent: 4414c612ae424c737466f4715f85e319
 ---
 *   [<Intro to Discrete Probability](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2)
 *   [4.1.1Tree Model: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2)

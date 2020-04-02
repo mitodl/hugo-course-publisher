@@ -3,9 +3,9 @@ title: About the Team
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: 63b200b46b93d532b3879a3d37067265_about-the-team
+    identifier: 63b200b46b93d532b3879a3d37067265
     weight: 20
-    parent: 8488bde46909b726a411abeee039ef1a_syllabus
+    parent: 8488bde46909b726a411abeee039ef1a
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/readings/_index.md" %}}) »
 

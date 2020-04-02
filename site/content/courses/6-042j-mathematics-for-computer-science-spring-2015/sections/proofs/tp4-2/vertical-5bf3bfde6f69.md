@@ -3,9 +3,9 @@ title: 1.9  State Machines - Invariants
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 44f9694edcc7c2cd211fed7a017efdc6_vertical-5bf3bfde6f69
+    identifier: 44f9694edcc7c2cd211fed7a017efdc6
     weight: 730
-    parent: 470546ac81246c938505a0f7571765aa_tp4-2
+    parent: 470546ac81246c938505a0f7571765aa
 ---
 *   [<Derived Variables: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/vertical-ef00ae29a8ca)
 *   [1.9.1State Machines Invariants: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2)

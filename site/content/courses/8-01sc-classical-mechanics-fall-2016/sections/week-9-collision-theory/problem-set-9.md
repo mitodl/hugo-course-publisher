@@ -3,9 +3,9 @@ title: Problem Set 9
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: 40038e115d102264d1812356238564ec_problem-set-9
+    identifier: 40038e115d102264d1812356238564ec
     weight: 1790
-    parent: bc33ee80c8fd90e4dfda7092ddd24879_week-9-collision-theory
+    parent: bc33ee80c8fd90e4dfda7092ddd24879
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.7-change-in-the-kinetic-energy" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion" %}}) »
 

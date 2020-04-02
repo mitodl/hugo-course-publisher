@@ -3,9 +3,9 @@ title: 4.7 Sampling & Confidence
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 9d75474b6827a0564145140fa2e737ef_vertical-83cee7032f8c
+    identifier: 9d75474b6827a0564145140fa2e737ef
     weight: 2860
-    parent: a3bc4574329a2834df030de577ce1f81_tp14-1
+    parent: a3bc4574329a2834df030de577ce1f81
 ---
 *   [<Birthdays On Naboo](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/vertical-20063bed5f4a)
 *   [4.7.1Law Of Large Numbers: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1)

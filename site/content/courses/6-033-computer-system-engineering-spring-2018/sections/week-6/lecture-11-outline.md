@@ -3,9 +3,9 @@ title: Lecture 11 Outline
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: a832ff853be6a295c5a623b102707bb8_lecture-11-outline
+    identifier: a832ff853be6a295c5a623b102707bb8
     weight: 300
-    parent: 75800336c3a2ebee84a18bb126a5a60b_week-6
+    parent: 75800336c3a2ebee84a18bb126a5a60b
 ---
 1.  Introduction
     *   Last week: How to route scalably in the face of policy and economy.

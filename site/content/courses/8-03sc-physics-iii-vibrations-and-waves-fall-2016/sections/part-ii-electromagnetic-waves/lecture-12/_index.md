@@ -3,9 +3,9 @@ title: 'Lecture 12: Maxwell''s Equation, Electromagnetic Waves'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
-    identifier: 44d635cce8fdd43ae8995f001ae3388c_lecture-12
+    identifier: 44d635cce8fdd43ae8995f001ae3388c
     weight: 170
-    parent: 240ff61b57c23024881e75e9a0e68cde_part-ii-electromagnetic-waves
+    parent: 240ff61b57c23024881e75e9a0e68cde
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-13/_index.md" %}}) »
 

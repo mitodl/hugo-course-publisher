@@ -3,10 +3,9 @@ title: '7.4 The Good, the Bad, and the Ugly: Visualization Recitation  (Recitati
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 5d57bafe1422b8d9a742d6339058ab65_video-7-using-line-charts-instead
+    identifier: 5d57bafe1422b8d9a742d6339058ab65
     weight: 2620
-    parent: >-
-      0af39afbaff0a226a397da1206ecd712_the-good-the-bad-and-the-ugly-visualization-recitation-recitation
+    parent: 0af39afbaff0a226a397da1206ecd712
 ---
 *   [<Video 6: Scales]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-6-scales" %}})
 *   [7.4.1Welcome to Recitation 7]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation" %}})

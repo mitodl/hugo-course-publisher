@@ -3,7 +3,7 @@ title: 'Week 12: Rotations and Translation - Rolling'
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: fbf76190d89eeed2930e51f9ac3bf2a6_week-12-rotations-and-translation-rolling
+    identifier: fbf76190d89eeed2930e51f9ac3bf2a6
     weight: 2220
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/problem-set-11/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/week-12-introduction/_index.md" %}}) »

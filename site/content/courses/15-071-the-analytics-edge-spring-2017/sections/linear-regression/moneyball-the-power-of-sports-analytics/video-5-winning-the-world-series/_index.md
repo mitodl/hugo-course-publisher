@@ -3,9 +3,9 @@ title: '2.3 Moneyball: The Power of Sports Analytics '
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: a7a0fe58cf53ad2e8a4800f4efacbaed_video-5-winning-the-world-series
+    identifier: a7a0fe58cf53ad2e8a4800f4efacbaed
     weight: 640
-    parent: fcb6a63f4737920a80bf15309d3ee7b6_moneyball-the-power-of-sports-analytics
+    parent: fcb6a63f4737920a80bf15309d3ee7b6
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/quick-question-119" %}})
 *   [2.3.1A Quick Introduction to Baseball]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics" %}})

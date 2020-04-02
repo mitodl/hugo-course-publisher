@@ -3,9 +3,9 @@ title: Problem Set 1
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: 93a0806f20ed65401e0e178f23dae5d8_problem-set-1
+    identifier: 93a0806f20ed65401e0e178f23dae5d8
     weight: 160
-    parent: 962d171611a101d49f865818d41217eb_part-a-definition-and-basic-rules
+    parent: 962d171611a101d49f865818d41217eb
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-12-higher-derivatives/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions" %}}) »
 

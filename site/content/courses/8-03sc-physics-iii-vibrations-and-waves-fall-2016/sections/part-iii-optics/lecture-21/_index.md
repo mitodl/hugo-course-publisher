@@ -3,9 +3,9 @@ title: 'Lecture 21: Phased Radar, Single Electron Interference'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
-    identifier: babd702cf1121939a9e0c02a1d617ddb_lecture-21
+    identifier: babd702cf1121939a9e0c02a1d617ddb
     weight: 280
-    parent: 562065223db4e5d13c0186ef14e4db6a_part-iii-optics
+    parent: 562065223db4e5d13c0186ef14e4db6a
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-20/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-22/_index.md" %}}) »
 

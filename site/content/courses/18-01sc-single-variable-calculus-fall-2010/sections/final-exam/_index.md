@@ -3,7 +3,7 @@ title: 'Session 102: Materials for Final Exam'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: fe839db025a83d5085ecae3d78b54553_final-exam
+    identifier: fe839db025a83d5085ecae3d78b54553
     weight: 1360
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-101-conclusion/_index.md" %}})

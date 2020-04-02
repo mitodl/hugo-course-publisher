@@ -3,11 +3,9 @@ title: 'Part A: Definition of the Definite Integral and First Fundamental Theore
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: >-
-      0b76caa8a52837fdba43c151842bb90a_part-a-definition-of-the-definite-integral-and-first-fundamental-theorem
+    identifier: 0b76caa8a52837fdba43c151842bb90a
     weight: 590
-    parent: >-
-      4c201b00a0470284ebd6c546e0cc59ab_unit-3-the-definite-integral-and-its-applications
+    parent: 4c201b00a0470284ebd6c546e0cc59ab
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-43-definite-integrals/_index.md" %}}) »
 

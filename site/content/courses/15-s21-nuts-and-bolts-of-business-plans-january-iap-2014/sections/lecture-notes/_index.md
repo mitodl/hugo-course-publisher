@@ -3,7 +3,7 @@ title: Lecture Notes
 course_id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
 menu:
   15-s21-nuts-and-bolts-of-business-plans-january-iap-2014:
-    identifier: ca3d66e66d2902d9e3726a8a8c156fcd_lecture-notes
+    identifier: ca3d66e66d2902d9e3726a8a8c156fcd
     weight: 70
 ---
 | SES # | TOPICS | SUBTOPICS | LECTURE NOTES |

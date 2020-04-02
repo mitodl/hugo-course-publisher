@@ -3,10 +3,9 @@ title: 17.7 Reduction of a System to a Point Particle
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: >-
-      f28687ead20d420d06a39e668b5b95a4_17.7-reduction-of-a-system-to-a-point-particle
+    identifier: f28687ead20d420d06a39e668b5b95a4
     weight: 1070
-    parent: c1168b62a27dcf9f3fe2550af1ed72f5_week-5-momentum-and-impulse
+    parent: c1168b62a27dcf9f3fe2550af1ed72f5
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.6-velocity-and-acceleration-of-the-center-of-mass" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/problem-set-5" %}}) »
 

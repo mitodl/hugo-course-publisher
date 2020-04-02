@@ -3,7 +3,7 @@ title: Syllabus
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 592b98882b8ee6fcf59d73fc71ffa820_syllabus
+    identifier: 592b98882b8ee6fcf59d73fc71ffa820
     weight: 10
 ---
 Course Meeting Times

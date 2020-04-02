@@ -3,10 +3,9 @@ title: 'Part C: Mean Value Theorem, Antiderivatives and Differential Equations'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: >-
-      cc849d5801781635e7d929c121e176fe_part-c-mean-value-theorem-antiderivatives-and-differential-equations
+    identifier: cc849d5801781635e7d929c121e176fe
     weight: 460
-    parent: c2ca8a0d20e596b11e2ec5c48c7179ca_unit-2-applications-of-differentiation
+    parent: c2ca8a0d20e596b11e2ec5c48c7179ca
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/problem-set-4/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-34-introduction-to-the-mean-value-theorem/_index.md" %}}) »
 

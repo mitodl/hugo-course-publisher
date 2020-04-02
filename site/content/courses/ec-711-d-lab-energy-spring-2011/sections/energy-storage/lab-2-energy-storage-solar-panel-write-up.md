@@ -3,9 +3,9 @@ title: Lab 2 Writeup Assignment
 course_id: ec-711-d-lab-energy-spring-2011
 menu:
   ec-711-d-lab-energy-spring-2011:
-    identifier: 5e62a2ae6757222a296a99da52f7bade_lab-2-energy-storage-solar-panel-write-up
+    identifier: 5e62a2ae6757222a296a99da52f7bade
     weight: 90
-    parent: bd09c1cc93fd481d39456e105dc16816_energy-storage
+    parent: bd09c1cc93fd481d39456e105dc16816
 ---
 For each of the modules, provide the following analysis and discussion. As a general rule, you should present all of your raw data in a table or other easy to read format. If you are asked to show calculations, you can show one calculation or formula as an example and indicate that the rest of calculations were performed that way.
 

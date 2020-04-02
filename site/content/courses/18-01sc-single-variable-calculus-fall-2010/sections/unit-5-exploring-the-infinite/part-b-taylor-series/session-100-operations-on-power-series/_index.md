@@ -3,9 +3,9 @@ title: 'Session 100: Operations on Power Series'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: 7aaff01423b922b346afdcd6c0328e83_session-100-operations-on-power-series
+    identifier: 7aaff01423b922b346afdcd6c0328e83
     weight: 1340
-    parent: 1c9b92776c16c587013d2f3b4e9b94a0_part-b-taylor-series
+    parent: 1c9b92776c16c587013d2f3b4e9b94a0
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-99-taylors-series-continued/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-101-conclusion/_index.md" %}}) »
 

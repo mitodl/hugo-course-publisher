@@ -3,9 +3,9 @@ title: 1.1 Intro to Proofs
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: ea224ef6f868e6dea69a53241486c324_tp1-1
+    identifier: ea224ef6f868e6dea69a53241486c324
     weight: 80
-    parent: 95af5c7b87a2e15790a7ad18331a125f_proofs
+    parent: 95af5c7b87a2e15790a7ad18331a125f
 ---
 *   [<Proofs](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs)
 *   [1.1.1Welcome to 6.042: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1)

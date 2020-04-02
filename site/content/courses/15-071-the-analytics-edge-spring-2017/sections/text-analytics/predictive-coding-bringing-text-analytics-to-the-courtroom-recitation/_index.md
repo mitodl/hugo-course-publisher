@@ -3,10 +3,9 @@ title: '5.4 Predictive Coding: Bringing Text Analytics to the Courtroom  (Recita
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: >-
-      d4b1a3b942ed98d194feb3777ba22595_predictive-coding-bringing-text-analytics-to-the-courtroom-recitation
+    identifier: d4b1a3b942ed98d194feb3777ba22595
     weight: 1820
-    parent: 5847ad879afecf3e9b93c20cffe87acf_text-analytics
+    parent: 5847ad879afecf3e9b93c20cffe87acf
 ---
 *   [<Video 6: The Results]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-6-the-results/_index.md" %}})
 *   [5.4.1Welcome to Recitation 5]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/_index.md" %}})

@@ -3,10 +3,9 @@ title: '5.4 Predictive Coding: Bringing Text Analytics to the Courtroom  (Recita
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 035dbca412401abd0c08bb9c1c3c233d_video-1-the-story-of-enron
+    identifier: 035dbca412401abd0c08bb9c1c3c233d
     weight: 1830
-    parent: >-
-      d4b1a3b942ed98d194feb3777ba22595_predictive-coding-bringing-text-analytics-to-the-courtroom-recitation
+    parent: d4b1a3b942ed98d194feb3777ba22595
 ---
 *   [<Predictive Coding: Bringing Text Analytics to the Courtroom (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation" %}})
 *   [5.4.1Welcome to Recitation 5]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation" %}})

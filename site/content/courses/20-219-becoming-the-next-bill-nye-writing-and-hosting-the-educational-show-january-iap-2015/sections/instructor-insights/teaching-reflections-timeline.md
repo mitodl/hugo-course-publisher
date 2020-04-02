@@ -4,9 +4,9 @@ course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
-    identifier: bff85acf9745fca140eb0d6936576b7c_teaching-reflections-timeline
+    identifier: bff85acf9745fca140eb0d6936576b7c
     weight: 130
-    parent: 526193cf30dacdf1c6734faab57d51d7_instructor-insights
+    parent: 526193cf30dacdf1c6734faab57d51d7
 ---
 _This interactive timeline captures Elizabeth Choe reflecting on her teaching in self-recorded confessional-style videos. It provides a day-by-day insider view into the challenges she encountered, the dilemmas she faced, and the moments when teaching and learning in _20.219 Becoming the Next Bill Nye_ fell into place._
 

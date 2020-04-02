@@ -4,7 +4,7 @@ course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
-    identifier: 2dc5287f35ede8339c9b93f4238ac687_day-13-screening-final-cuts
+    identifier: 2dc5287f35ede8339c9b93f4238ac687
     weight: 230
 ---
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects" %}}) »

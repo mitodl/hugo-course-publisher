@@ -3,11 +3,9 @@ title: 'Session 90: Advanced Examples of L''Hospital''s Rule'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: >-
-      6cc72b08f8717a2d7b737df7f698c876_session-90-advanced-examples-of-lhospitals-rule
+    identifier: 6cc72b08f8717a2d7b737df7f698c876
     weight: 1230
-    parent: >-
-      7011962365c7a7e31179a33dc8e95275_part-a-lhospitals-rule-and-improper-integrals
+    parent: 7011962365c7a7e31179a33dc8e95275
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-89-lhospitals-rule-and-rates-of-growth/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-91-improper-integrals/_index.md" %}}) »
 

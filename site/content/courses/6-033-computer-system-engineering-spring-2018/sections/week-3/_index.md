@@ -3,7 +3,7 @@ title: 'Week 3: Operating Systems Part III'
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: 81056cb9554591390582b2e55570d21a_week-3
+    identifier: 81056cb9554591390582b2e55570d21a
     weight: 130
 ---
 Lecture 4: Bounded Buffers + Locks

@@ -3,9 +3,9 @@ title: Botnets Assignment
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: ea13cbf125e6cb4fd55253fee6563f83_botnets-assignment
+    identifier: ea13cbf125e6cb4fd55253fee6563f83
     weight: 600
-    parent: 87aba98430c8d18b3f717bdec998328f_week-13
+    parent: 87aba98430c8d18b3f717bdec998328f
 ---
 Read![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Your Botnet is My Botnet: Analysis of a Botnet Takeover (PDF)](https://seclab.cs.ucsb.edu/media/uploads/papers/torpig.pdf)" by Stone-Gross, et al. You can skim sections 5.2.1–5.2.3.
 

@@ -3,10 +3,9 @@ title: Problem Set 5
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: 97254795b765e86aaa7a43d7e75579c3_problem-set-5
+    identifier: 97254795b765e86aaa7a43d7e75579c3
     weight: 540
-    parent: >-
-      cc849d5801781635e7d929c121e176fe_part-c-mean-value-theorem-antiderivatives-and-differential-equations
+    parent: cc849d5801781635e7d929c121e176fe
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-40-separation-of-variables/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/exam-2" %}}) »
 

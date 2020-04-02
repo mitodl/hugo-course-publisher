@@ -3,9 +3,9 @@ title: 2.8  Degrees & Isomorphism
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: ae991a78397145a3f86bd1a00ad58adf_vertical-0403a1f6fa4c
+    identifier: ae991a78397145a3f86bd1a00ad58adf
     weight: 1450
-    parent: a3d452862b8219138b1e93f45114b315_tp7-2
+    parent: a3d452862b8219138b1e93f45114b315
 ---
 *   [< Degrees & Isomorphism](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2)
 *   [2.8.1Degree: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2)

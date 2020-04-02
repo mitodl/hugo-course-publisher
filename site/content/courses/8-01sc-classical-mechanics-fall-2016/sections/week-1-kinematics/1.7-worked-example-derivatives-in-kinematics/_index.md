@@ -3,10 +3,9 @@ title: 1.7 Worked Example - Derivatives in Kinematics
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: >-
-      4b4d3f00ac1019a8a4b66a56291c1228_1.7-worked-example-derivatives-in-kinematics
+    identifier: 4b4d3f00ac1019a8a4b66a56291c1228
     weight: 200
-    parent: 63e325a780c79e352fb5bddb9b8b2c6a_week-1-kinematics
+    parent: 63e325a780c79e352fb5bddb9b8b2c6a
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/1.6-derivatives" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/2.1-introduction-to-acceleration" %}}) »
 

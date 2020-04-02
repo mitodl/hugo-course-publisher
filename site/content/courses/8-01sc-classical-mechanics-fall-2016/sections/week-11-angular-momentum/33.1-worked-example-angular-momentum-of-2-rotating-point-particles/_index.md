@@ -3,10 +3,9 @@ title: 33.1 Worked Example - Angular Momentum of 2 Rotating Point Particles
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: >-
-      4dda04abf172a5441f39111d35ef45b3_33.1-worked-example-angular-momentum-of-2-rotating-point-particles
+    identifier: 4dda04abf172a5441f39111d35ef45b3
     weight: 2110
-    parent: d36579bd7dfcb71f76178b4b8d45c312_week-11-angular-momentum
+    parent: d36579bd7dfcb71f76178b4b8d45c312
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/32.4-angular-momentum-of-circular-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/33.2-angular-momentum-of-a-symmetric-object" %}}) »
 

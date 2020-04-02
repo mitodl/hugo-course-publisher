@@ -3,9 +3,9 @@ title: 2.10 Trees
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: c7f2521e8a2bdbb652a3411f0df14ab4_minimum-spanning-trees
+    identifier: c7f2521e8a2bdbb652a3411f0df14ab4
     weight: 1670
-    parent: cbeb9c37cb9ca67ccf216c0b8aeab325_tp8-1
+    parent: cbeb9c37cb9ca67ccf216c0b8aeab325
 ---
 *   [<Leaves](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-425ace1eec7d)
 *   [2.10.1Trees: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1)

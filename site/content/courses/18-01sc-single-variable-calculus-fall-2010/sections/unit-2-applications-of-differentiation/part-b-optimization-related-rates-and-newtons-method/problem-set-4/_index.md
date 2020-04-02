@@ -3,10 +3,9 @@ title: Problem Set 4
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: 25ab31647d7908fb92937192dc7da1d0_problem-set-4
+    identifier: 25ab31647d7908fb92937192dc7da1d0
     weight: 450
-    parent: >-
-      7bd0936fcddbb454b9e5dab2884cc641_part-b-optimization-related-rates-and-newtons-method
+    parent: 7bd0936fcddbb454b9e5dab2884cc641
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations" %}}) »
 

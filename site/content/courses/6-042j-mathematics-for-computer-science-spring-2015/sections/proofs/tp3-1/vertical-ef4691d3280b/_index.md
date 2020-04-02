@@ -3,9 +3,9 @@ title: 1.5 Quantifiers & Predicate Logic
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 7f46d5ade35f710989d4097648a7bead_vertical-ef4691d3280b
+    identifier: 7f46d5ade35f710989d4097648a7bead
     weight: 400
-    parent: 101f2dc98b9878a06c0f57e750015c84_tp3-1
+    parent: 101f2dc98b9878a06c0f57e750015c84
 ---
 *   [<Satisfiability](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-1/vertical-071a48267f00)
 *   [1.5.1Predicate Logic 1: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-1)

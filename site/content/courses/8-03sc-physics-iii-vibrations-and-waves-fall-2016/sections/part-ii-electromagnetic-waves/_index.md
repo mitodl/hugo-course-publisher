@@ -3,7 +3,7 @@ title: 'Part II: Electromagnetic Waves'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
-    identifier: 240ff61b57c23024881e75e9a0e68cde_part-ii-electromagnetic-waves
+    identifier: 240ff61b57c23024881e75e9a0e68cde
     weight: 160
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-11/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-12/_index.md" %}}) »

@@ -3,10 +3,9 @@ title: 'Lecture 20: Solubility and Acid-Base Equilibrium'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
-    identifier: 080258a791c4feab68e52d45cb5fd92e_lecture-20
+    identifier: 080258a791c4feab68e52d45cb5fd92e
     weight: 250
-    parent: >-
-      d1e2f8f6d6d078397f7b8fc6a1024b2a_unit-iii-thermodynamics-chemical-equilibrium
+    parent: d1e2f8f6d6d078397f7b8fc6a1024b2a
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-19/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-21/_index.md" %}}) »
 

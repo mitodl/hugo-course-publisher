@@ -3,10 +3,9 @@ title: '5.4 Predictive Coding: Bringing Text Analytics to the Courtroom  (Recita
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 54a5cfa02012d0816815948514b434c1_video-6-evaluating-the-model
+    identifier: 54a5cfa02012d0816815948514b434c1
     weight: 1880
-    parent: >-
-      d4b1a3b942ed98d194feb3777ba22595_predictive-coding-bringing-text-analytics-to-the-courtroom-recitation
+    parent: d4b1a3b942ed98d194feb3777ba22595
 ---
 *   [<Video 5: Building Models]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-5-building-models" %}})
 *   [5.4.1Welcome to Recitation 5]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation" %}})

@@ -3,9 +3,9 @@ title: 2.1  GCDs
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 5a4adc1ffd5b9bfc31101647e6a6745b_vertical-abe126e3ad2c
+    identifier: 5a4adc1ffd5b9bfc31101647e6a6745b
     weight: 1030
-    parent: 405693053755e5d6fb1b1e2592fa311e_tp5-1
+    parent: 405693053755e5d6fb1b1e2592fa311e
 ---
 *   [<Prime Factorization: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/prime-factorization-video)
 *   [2.1.1GCDs & Linear Combinations: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1)

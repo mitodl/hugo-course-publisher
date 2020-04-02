@@ -3,10 +3,9 @@ title: 'Lecture 22: Acid-Base Equilibrium: Salt Solutions and Buffers'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
-    identifier: 3967bba5a7b0073acd9ac713fa2d59eb_lecture-22
+    identifier: 3967bba5a7b0073acd9ac713fa2d59eb
     weight: 270
-    parent: >-
-      d1e2f8f6d6d078397f7b8fc6a1024b2a_unit-iii-thermodynamics-chemical-equilibrium
+    parent: d1e2f8f6d6d078397f7b8fc6a1024b2a
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-21/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-23/_index.md" %}}) »
 

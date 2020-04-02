@@ -3,9 +3,9 @@ title: 1.8  Induction
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 204cc8ce9c42a967c8a9370e652616a2_vertical-a8ffdfcb631b
+    identifier: 204cc8ce9c42a967c8a9370e652616a2
     weight: 680
-    parent: 5179d7c0c3f7a60a33d7c24d9d219172_tp4-1
+    parent: 5179d7c0c3f7a60a33d7c24d9d219172
 ---
 *   [<Induction Rules](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/vertical-7137716a91a6)
 *   [1.8.1Induction: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1)

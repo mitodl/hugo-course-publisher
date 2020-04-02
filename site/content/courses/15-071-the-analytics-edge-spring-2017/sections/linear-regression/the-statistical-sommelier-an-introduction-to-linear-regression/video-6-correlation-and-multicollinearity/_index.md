@@ -3,10 +3,9 @@ title: '2.2 The Statistical Sommelier: An Introduction to Linear Regression'
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 1ab830be7abc5468421c996f95e8e252_video-6-correlation-and-multicollinearity
+    identifier: 1ab830be7abc5468421c996f95e8e252
     weight: 510
-    parent: >-
-      4495fb4839343c3323b22ef2104af559_the-statistical-sommelier-an-introduction-to-linear-regression
+    parent: 4495fb4839343c3323b22ef2104af559
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/quick-question-88" %}})
 *   [2.2.1Video 1: Predicting the Quality of Wine]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression" %}})

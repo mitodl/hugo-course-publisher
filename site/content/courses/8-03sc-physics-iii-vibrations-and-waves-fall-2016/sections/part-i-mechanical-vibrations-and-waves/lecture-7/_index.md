@@ -3,9 +3,9 @@ title: 'Lecture 7: Symmetry, Infinite Number of Coupled Oscillators'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
-    identifier: aa7bcfd6ec863e35a88d1a5eba2076b6_lecture-7
+    identifier: aa7bcfd6ec863e35a88d1a5eba2076b6
     weight: 100
-    parent: 6682a3d163976bcbb2fbe67db27d8f04_part-i-mechanical-vibrations-and-waves
+    parent: 6682a3d163976bcbb2fbe67db27d8f04
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-6/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-8/_index.md" %}}) »
 

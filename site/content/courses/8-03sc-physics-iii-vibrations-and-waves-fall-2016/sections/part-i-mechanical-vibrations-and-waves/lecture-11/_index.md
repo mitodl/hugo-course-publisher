@@ -3,9 +3,9 @@ title: 'Lecture 11: Sound Waves'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
-    identifier: 255269d470c4990b3edd8effa5e8213a_lecture-11
+    identifier: 255269d470c4990b3edd8effa5e8213a
     weight: 150
-    parent: 6682a3d163976bcbb2fbe67db27d8f04_part-i-mechanical-vibrations-and-waves
+    parent: 6682a3d163976bcbb2fbe67db27d8f04
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-10/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves" %}}) »
 

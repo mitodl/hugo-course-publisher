@@ -3,7 +3,7 @@ title: Exams
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
-    identifier: 542fb9a775828df9e5388d70d4c04741_exams
+    identifier: 542fb9a775828df9e5388d70d4c04741
     weight: 430
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-35" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/resource-index" %}}) »

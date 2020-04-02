@@ -3,9 +3,9 @@ title: Lecture 23 Outline
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: 4793bb3a5463dd86f8d56dc6fdf33ccb_lecture-23-outline
+    identifier: 4793bb3a5463dd86f8d56dc6fdf33ccb
     weight: 590
-    parent: 87aba98430c8d18b3f717bdec998328f_week-13
+    parent: 87aba98430c8d18b3f717bdec998328f
 ---
 | Disclaimer: This is part of the security section in 6.033. Only use the information you learn in this portion of the class to secure your own systems, not to attack others. 
 

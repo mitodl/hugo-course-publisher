@@ -3,7 +3,7 @@ title: 3 Logistic Regression
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: c4464cf49ddb1a4bc78cfaa6f93b74de_logistic-regression
+    identifier: c4464cf49ddb1a4bc78cfaa6f93b74de
     weight: 770
 ---
 *   [BackState Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/state-data/_index.md" %}})

@@ -3,9 +3,9 @@ title: 4.2 Conditional Probability
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 719a707ae7a41f34c6885d5a02df431c_vertical-1f097d8a0a33
+    identifier: 719a707ae7a41f34c6885d5a02df431c
     weight: 2350
-    parent: 79ebde2b537e9e26dc39d5d2e1c8f1d9_tp12-1
+    parent: 79ebde2b537e9e26dc39d5d2e1c8f1d9
 ---
 *   [<Cavities and Candy](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-ca9fdfa21bb0)
 *   [4.2.1Conditional Probability Definitions: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1)

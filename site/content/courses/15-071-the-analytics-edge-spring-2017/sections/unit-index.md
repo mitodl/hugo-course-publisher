@@ -3,7 +3,7 @@ title: Unit Index
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 883b00d75d4bac8a589c8fb34101f032_unit-index
+    identifier: 883b00d75d4bac8a589c8fb34101f032
     weight: 50
 ---
 | Topics | Course Materials |

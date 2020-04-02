@@ -3,7 +3,7 @@ title: In-Class Questions
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 751443e04110d1d957e6e5a847c9853e_in-class-questions
+    identifier: 751443e04110d1d957e6e5a847c9853e
     weight: 40
 ---
 Solutions to the following In-Class Questions are not available to the general public, as the assignments took substantial effort to compose—often 4-6 hours per problem—so it is essential that the course staff be able to re-use problems in later terms. Instructors or their students at recognized institutions may contact Prof. Meyer to request solutions on a case-by-case basis.

@@ -3,9 +3,9 @@ title: Niépce Photos
 course_id: 21g-049-french-photography-spring-2017
 menu:
   21g-049-french-photography-spring-2017:
-    identifier: 3c45e491599e24a62f955e1517238299_niepce-photo
+    identifier: 3c45e491599e24a62f955e1517238299
     weight: 60
-    parent: 6c9a455d83741a2df31df3a4e0c2087d_visual-analysis-papers
+    parent: 6c9a455d83741a2df31df3a4e0c2087d
 ---
 Over the course of the semester, students are required to submit 3 visual analysis papers of 1,300 words each. Using visual and formal analysis as well as context discussed in readings and in class to explore the meaning of one or a pair of images. Students have the option of writing about the materials presented in different weeks, as detailed below.
 

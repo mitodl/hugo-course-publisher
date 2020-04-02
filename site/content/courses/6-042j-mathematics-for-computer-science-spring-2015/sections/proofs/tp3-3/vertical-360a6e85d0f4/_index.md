@@ -3,9 +3,9 @@ title: 1.7 Binary Relations
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 4941b091a92c7ad57d473ac2e53ba426_vertical-360a6e85d0f4
+    identifier: 4941b091a92c7ad57d473ac2e53ba426
     weight: 500
-    parent: dc4329a206935f01be73cf0b227cc3ed_tp3-3
+    parent: dc4329a206935f01be73cf0b227cc3ed
 ---
 *   [<Range of a Relation](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3/vertical-70020f5936fa)
 *   [1.7.1Relations: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3)

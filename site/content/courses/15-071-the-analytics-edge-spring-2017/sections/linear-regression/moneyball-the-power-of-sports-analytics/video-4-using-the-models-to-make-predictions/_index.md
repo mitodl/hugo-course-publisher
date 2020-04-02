@@ -3,10 +3,9 @@ title: '2.3 Moneyball: The Power of Sports Analytics '
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: >-
-      6f7a2882de1167a26875fd353266fee4_video-4-using-the-models-to-make-predictions
+    identifier: 6f7a2882de1167a26875fd353266fee4
     weight: 620
-    parent: fcb6a63f4737920a80bf15309d3ee7b6_moneyball-the-power-of-sports-analytics
+    parent: fcb6a63f4737920a80bf15309d3ee7b6
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/quick-question-109" %}})
 *   [2.3.1A Quick Introduction to Baseball]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics" %}})

@@ -3,11 +3,9 @@ title: 'Session 15: Implicit Differentiation and Inverse Functions'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: >-
-      5668bfaf4a4849cdc9fb5962b4a18003_session-15-implicit-differentiation-and-inverse-functions
+    identifier: 5668bfaf4a4849cdc9fb5962b4a18003
     weight: 200
-    parent: >-
-      ea455a8ae7f0daad0b8d5033112f5f5e_part-b-implicit-differentiation-and-inverse-functions
+    parent: ea455a8ae7f0daad0b8d5033112f5f5e
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-16-the-derivative-of-a-x/_index.md" %}}) »
 

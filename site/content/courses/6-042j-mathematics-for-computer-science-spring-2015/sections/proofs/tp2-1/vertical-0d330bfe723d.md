@@ -3,9 +3,9 @@ title: 1.3 Well Ordering Principle
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 741f326081934295dbbcbb664f773ab7_vertical-0d330bfe723d
+    identifier: 741f326081934295dbbcbb664f773ab7
     weight: 270
-    parent: 376535e1bbaf1919fdc3bdd7b7043dea_tp2-1
+    parent: 376535e1bbaf1919fdc3bdd7b7043dea
 ---
 *   [<Well Ordering Principle - Examples](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-1/vertical-69c747468b20)
 *   [1.3.1Well Ordering Principle 1: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-1)

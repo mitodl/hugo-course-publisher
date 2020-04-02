@@ -3,10 +3,9 @@ title: '5.2 Turning Tweets into Knowledge: An Introduction to Text Analytics'
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: e9e9d44ac8e568124e52cdb5056597b7_quick-question-362
+    identifier: e9e9d44ac8e568124e52cdb5056597b7
     weight: 1590
-    parent: >-
-      aea3bc9c07f7364865c46fec93dd8515_turning-tweets-into-knowledge-an-introduction-to-text-analytics
+    parent: aea3bc9c07f7364865c46fec93dd8515
 ---
 *   [<Video 2: Text Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-2-text-analytics" %}})
 *   [5.2.1Video 1: Twitter]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics" %}})

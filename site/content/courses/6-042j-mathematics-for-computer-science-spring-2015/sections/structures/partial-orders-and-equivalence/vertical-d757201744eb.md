@@ -3,9 +3,9 @@ title: 2.7 Partial Orders and Equivalence
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 7d305e12f34a46452b9d554128327161_vertical-d757201744eb
+    identifier: 7d305e12f34a46452b9d554128327161
     weight: 1430
-    parent: e3bcfae1ff3e4391a255e7aa0a942756_partial-orders-and-equivalence
+    parent: e3bcfae1ff3e4391a255e7aa0a942756
 ---
 *   [<Properties Of Relations](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-d7f7704d23b4)
 *   [2.7.1Partial Orders: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence)

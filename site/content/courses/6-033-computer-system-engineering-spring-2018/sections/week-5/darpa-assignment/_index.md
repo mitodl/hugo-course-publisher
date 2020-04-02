@@ -3,9 +3,9 @@ title: DARPA Assignment
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: d592637bbae871c659fff27fb133b62a_darpa-assignment
+    identifier: d592637bbae871c659fff27fb133b62a
     weight: 250
-    parent: a8eaa3de11de35a2f8d6b2d186c97fc6_week-5
+    parent: a8eaa3de11de35a2f8d6b2d186c97fc6
 ---
 Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Design Philosophy of the DARPA Internet Protocols (PDF)](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf)" by David Clark. Skip Section 10.
 

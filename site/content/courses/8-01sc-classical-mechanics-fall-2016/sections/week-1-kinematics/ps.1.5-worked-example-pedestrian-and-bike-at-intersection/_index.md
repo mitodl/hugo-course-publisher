@@ -3,10 +3,9 @@ title: 'PS.1.5 Worked Example: Pedestrian and Bike at Intersection'
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: >-
-      78b6dfdb143437ce0d071e7e7521a24e_ps.1.5-worked-example-pedestrian-and-bike-at-intersection
+    identifier: 78b6dfdb143437ce0d071e7e7521a24e
     weight: 360
-    parent: 63e325a780c79e352fb5bddb9b8b2c6a_week-1-kinematics
+    parent: 63e325a780c79e352fb5bddb9b8b2c6a
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.4-sketch-the-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/problem-set-1" %}}) »
 

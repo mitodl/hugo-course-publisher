@@ -3,9 +3,9 @@ title: CDN Assignment
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: 0de7a026cc518d642305b1769d62af0f_cdn-assignment
+    identifier: 0de7a026cc518d642305b1769d62af0f
     weight: 360
-    parent: 0abfab7fcd019a6a159d1afa3fd61f99_week-7
+    parent: 0abfab7fcd019a6a159d1afa3fd61f99
 ---
 Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Akamai Network: A Platform for High-Performance Internet Applications (PDF)](https://www.akamai.com/us/en/multimedia/documents/technical-publication/the-akamai-network-a-platform-for-high-performance-internet-applications-technical-publication.pdf)" by Erin Nygren, Ramesh Sitaraman, and Jennifer Sun; skim Section 9. This paper, from 2010, describes the Akamai platform, which improves the performance of technologies that the Internet was not designed for (e.g., streaming video). Incidentally, Akamai's headquarters are right down the street from MIT.
 

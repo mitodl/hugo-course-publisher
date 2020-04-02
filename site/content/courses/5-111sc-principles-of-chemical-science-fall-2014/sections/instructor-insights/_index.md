@@ -3,7 +3,7 @@ title: Instructor Insights
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
-    identifier: 1eb2fd824dc02f22bc85743316b46947_instructor-insights
+    identifier: 1eb2fd824dc02f22bc85743316b46947
     weight: 20
 ---
 Course Overview

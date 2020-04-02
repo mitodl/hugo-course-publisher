@@ -3,10 +3,9 @@ title: '8.4 Google AdWords: Optimizing Online Advertising  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 3083aeae63672e7661a334ffc021896d_video-8-extensions-and-the-edge
+    identifier: 3083aeae63672e7661a334ffc021896d
     weight: 3010
-    parent: >-
-      696dd6e442cc1fc47c9f2924e2edfb26_google-adwords-optimizing-online-advertising-recitation
+    parent: 696dd6e442cc1fc47c9f2924e2edfb26
 ---
 *   [<Video 7: Sensitivity Analysis]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-7-sensitivity-analysis" %}})
 *   [8.4.1Welcome to Recitation 8]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation" %}})

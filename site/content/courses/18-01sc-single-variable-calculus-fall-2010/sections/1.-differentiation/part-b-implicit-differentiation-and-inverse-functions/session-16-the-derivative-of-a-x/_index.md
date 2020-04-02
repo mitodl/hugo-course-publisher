@@ -3,10 +3,9 @@ title: 'Session 16: The Derivative of a^x'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: a08812a629e76732837d8a39d48fc8fa_session-16-the-derivative-of-a-x
+    identifier: a08812a629e76732837d8a39d48fc8fa
     weight: 210
-    parent: >-
-      ea455a8ae7f0daad0b8d5033112f5f5e_part-b-implicit-differentiation-and-inverse-functions
+    parent: ea455a8ae7f0daad0b8d5033112f5f5e
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-17-the-exponential-function-its-derivative-and-its-inverse/_index.md" %}}) »
 
