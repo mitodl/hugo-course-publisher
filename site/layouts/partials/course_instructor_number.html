@@ -13,7 +13,8 @@
     <tr>
       <td class="px-0 py-2">Course No.</td>
       <td class="px-0 py-2">
-        {{ range $course_number := .Params.course_info.course_numbers }}
+        {{ range $index, $course_number := .Params.course_info.course_numbers }}
+        {{ if $index }}, {{ end }}
         <a href="#" class="coming-soon pr-1">
           {{ $course_number }}
         </a>
