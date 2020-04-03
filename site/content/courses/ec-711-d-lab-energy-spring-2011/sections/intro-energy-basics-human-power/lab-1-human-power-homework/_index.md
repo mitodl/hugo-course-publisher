@@ -3,9 +3,9 @@ title: Lab 1 Analysis & Report
 course_id: ec-711-d-lab-energy-spring-2011
 menu:
   ec-711-d-lab-energy-spring-2011:
-    identifier: 292bd34ad8ecb81401c0de0ef3145cd4_lab-1-human-power-homework
+    identifier: 292bd34ad8ecb81401c0de0ef3145cd4
     weight: 40
-    parent: 32a22e0de0add67342ce41445297fce7_intro-energy-basics-human-power
+    parent: 32a22e0de0add67342ce41445297fce7
 ---
 Water Pumping
 -------------

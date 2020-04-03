@@ -3,7 +3,7 @@ title: 'Unit 1: Proofs'
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 95af5c7b87a2e15790a7ad18331a125f_proofs
+    identifier: 95af5c7b87a2e15790a7ad18331a125f
     weight: 70
 ---
 *   [ContinueIntro to Proofs](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1)

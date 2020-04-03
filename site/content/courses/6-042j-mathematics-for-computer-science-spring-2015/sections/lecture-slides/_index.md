@@ -3,7 +3,7 @@ title: Lecture Slides
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 118f09a289bcf0f7005f6299a530d329_lecture-slides
+    identifier: 118f09a289bcf0f7005f6299a530d329
     weight: 30
 ---
 | SES # | COURSEWARE | LECTURE SLIDES |

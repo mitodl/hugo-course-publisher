@@ -3,9 +3,9 @@ title: 2.4  RSA Encryption
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: df8008a79d68087d809bbd4cc447cdea_tp6-2
+    identifier: df8008a79d68087d809bbd4cc447cdea
     weight: 1190
-    parent: 20b0a2b7a262cb94efd44e9e00511cee_structures
+    parent: 20b0a2b7a262cb94efd44e9e00511cee
 ---
 *   [<Euler's Theorem](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/vertical-f4e414f3a824)
 *   [2.4.1RSA Public Key Encryption: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2)

@@ -3,9 +3,9 @@ title: 4.5 Assignment 4
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 11ad34c810832b186afacd57f2616109_assignment-4
+    identifier: 11ad34c810832b186afacd57f2616109
     weight: 1520
-    parent: 19c8cf92e31d034a1ea15ad53194d892_trees
+    parent: 19c8cf92e31d034a1ea15ad53194d892
 ---
 *   [<Video 7: Cross-Validation]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-7-cross-validation/_index.md" %}})
 *   [4.5.1Predicting Earnings from Census Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/_index.md" %}})

@@ -3,10 +3,9 @@ title: Problem Set 10
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: 1fe1bcbe130292137c7b4820b5a8b3a0_problem-set-10
+    identifier: 1fe1bcbe130292137c7b4820b5a8b3a0
     weight: 1070
-    parent: >-
-      be9d889d28b57df1a77bbd83f2f4f214_part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area
+    parent: be9d889d28b57df1a77bbd83f2f4f214
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-79-surface-area/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates" %}}) »
 

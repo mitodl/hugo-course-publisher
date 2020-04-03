@@ -3,10 +3,9 @@ title: '8.3 Radiation Therapy: An Application of Linear Optimization '
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: d50911ab0a07b12c10732226ad167e5f_quick-question-648
+    identifier: d50911ab0a07b12c10732226ad167e5f
     weight: 2890
-    parent: >-
-      7a59278a134c5085244c381fc6090890_radiation-therapy-an-application-of-linear-optimization
+    parent: 7a59278a134c5085244c381fc6090890
 ---
 *   [<Video 4: A Head and Neck Case]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/radiation-therapy-an-application-of-linear-optimization/video-4-a-head-and-neck-case" %}})
 *   [8.3.1Video 1: Introduction]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/radiation-therapy-an-application-of-linear-optimization" %}})

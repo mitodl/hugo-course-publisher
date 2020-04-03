@@ -3,10 +3,9 @@ title: 'Lecture 21: Acid-Base Equilibrium: Is MIT Water Safe to Drink?'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
-    identifier: 1f4d2b01744213a244311f67ec24ecae_lecture-21
+    identifier: 1f4d2b01744213a244311f67ec24ecae
     weight: 260
-    parent: >-
-      d1e2f8f6d6d078397f7b8fc6a1024b2a_unit-iii-thermodynamics-chemical-equilibrium
+    parent: d1e2f8f6d6d078397f7b8fc6a1024b2a
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-20/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-22/_index.md" %}}) »
 

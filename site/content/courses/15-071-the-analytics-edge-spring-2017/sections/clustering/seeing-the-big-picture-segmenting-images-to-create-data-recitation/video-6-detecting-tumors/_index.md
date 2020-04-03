@@ -3,10 +3,9 @@ title: '6.4 Seeing the Big Picture: Segmenting Images to Create Data  (Recitatio
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 4345a10d7637ddfb0f091b661423cd4f_video-6-detecting-tumors
+    identifier: 4345a10d7637ddfb0f091b661423cd4f
     weight: 2270
-    parent: >-
-      c6d206ccfb1528f6048f29e817450da7_seeing-the-big-picture-segmenting-images-to-create-data-recitation
+    parent: c6d206ccfb1528f6048f29e817450da7
 ---
 *   [<Video 5: K-Means Clustering]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-5-k-means-clustering" %}})
 *   [6.4.1Welcome to Recitation 6]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation" %}})

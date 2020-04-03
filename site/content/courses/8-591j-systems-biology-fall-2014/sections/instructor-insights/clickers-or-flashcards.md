@@ -3,9 +3,9 @@ title: Clickers or Flashcards?
 course_id: 8-591j-systems-biology-fall-2014
 menu:
   8-591j-systems-biology-fall-2014:
-    identifier: ef058c984405d52c2431363be79e5018_clickers-or-flashcards
+    identifier: ef058c984405d52c2431363be79e5018
     weight: 40
-    parent: b93901ceb2691028d9324ac654b23cf0_instructor-insights
+    parent: b93901ceb2691028d9324ac654b23cf0
 ---
 _In this section, Jeff Gore discusses his decision to use flashcards instead of clickers in the course._
 

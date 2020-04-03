@@ -3,7 +3,7 @@ title: Thermodynamics and Propulsion
 course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
 menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
-    identifier: 05b2ba6343e43028bad4cdf50e0b363a_thermo-propulsion
+    identifier: 05b2ba6343e43028bad4cdf50e0b363a
     weight: 50
 ---
 Instructor

@@ -3,9 +3,9 @@ title: 7.5 Assignment 7
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 056c6914368d638a59e4cebbc43acfe5_assignment-7
+    identifier: 056c6914368d638a59e4cebbc43acfe5
     weight: 2630
-    parent: ab87d151cf8cfe95c873e816df164d38_visualization
+    parent: ab87d151cf8cfe95c873e816df164d38
 ---
 *   [<Video 7: Using Line Charts Instead]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-7-using-line-charts-instead" %}})
 *   [7.5.1Visualizing Attributes of Parole Violators]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/assignment-7" %}})

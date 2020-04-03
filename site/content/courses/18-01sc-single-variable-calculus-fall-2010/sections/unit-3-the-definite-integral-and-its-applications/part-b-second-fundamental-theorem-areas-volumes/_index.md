@@ -3,11 +3,9 @@ title: 'Part B: Second Fundamental Theorem, Areas, Volumes'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: >-
-      82a633f32c2b0be84fba01f5e5741006_part-b-second-fundamental-theorem-areas-volumes
+    identifier: 82a633f32c2b0be84fba01f5e5741006
     weight: 690
-    parent: >-
-      4c201b00a0470284ebd6c546e0cc59ab_unit-3-the-definite-integral-and-its-applications
+    parent: 4c201b00a0470284ebd6c546e0cc59ab
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/problem-set-6/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus/_index.md" %}}) »
 

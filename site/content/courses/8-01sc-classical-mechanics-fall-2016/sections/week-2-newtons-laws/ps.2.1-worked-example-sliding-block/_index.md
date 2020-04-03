@@ -3,9 +3,9 @@ title: 'PS.2.1 Worked Example: Sliding Block'
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: 049199c2b750bf9b074389e653cf5020_ps.2.1-worked-example-sliding-block
+    identifier: 049199c2b750bf9b074389e653cf5020
     weight: 540
-    parent: cf6d9ae85d7b6e788f1e70cf24afc329_week-2-newtons-laws
+    parent: cf6d9ae85d7b6e788f1e70cf24afc329
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/dd.1.1-friction-at-the-nanoscale" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks" %}}) »
 

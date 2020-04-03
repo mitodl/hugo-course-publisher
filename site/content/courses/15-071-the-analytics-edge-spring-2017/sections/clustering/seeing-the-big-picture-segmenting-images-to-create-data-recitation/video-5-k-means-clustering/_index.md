@@ -3,10 +3,9 @@ title: '6.4 Seeing the Big Picture: Segmenting Images to Create Data  (Recitatio
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 463ba1ca1b89e0017fa87ebc26673bd4_video-5-k-means-clustering
+    identifier: 463ba1ca1b89e0017fa87ebc26673bd4
     weight: 2260
-    parent: >-
-      c6d206ccfb1528f6048f29e817450da7_seeing-the-big-picture-segmenting-images-to-create-data-recitation
+    parent: c6d206ccfb1528f6048f29e817450da7
 ---
 *   [<Video 4: MRI Image]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-4-mri-image" %}})
 *   [6.4.1Welcome to Recitation 6]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation" %}})

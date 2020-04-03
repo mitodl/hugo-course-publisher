@@ -3,9 +3,9 @@ title: 3.1 Sums & Products
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: b88455938952339a92de012310e338f1_vertical-46a80f3884d6
+    identifier: b88455938952339a92de012310e338f1
     weight: 1850
-    parent: 93998ab0044352e85efcb877380e8e28_tp8-2
+    parent: 93998ab0044352e85efcb877380e8e28
 ---
 *   [<Perturbation by Young Gauss](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-56598c481e1a)
 *   [3.1.1Arithmetic Sums: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2)

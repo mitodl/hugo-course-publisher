@@ -3,7 +3,7 @@ title: 'Week 5: Momentum and Impulse'
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: c1168b62a27dcf9f3fe2550af1ed72f5_week-5-momentum-and-impulse
+    identifier: c1168b62a27dcf9f3fe2550af1ed72f5
     weight: 920
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/problem-set-4/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/week-5-introduction/_index.md" %}}) »

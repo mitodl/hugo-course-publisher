@@ -3,10 +3,9 @@ title: 'Part B: Optimization, Related Rates and Newton''s Method'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: >-
-      7bd0936fcddbb454b9e5dab2884cc641_part-b-optimization-related-rates-and-newtons-method
+    identifier: 7bd0936fcddbb454b9e5dab2884cc641
     weight: 390
-    parent: c2ca8a0d20e596b11e2ec5c48c7179ca_unit-2-applications-of-differentiation
+    parent: c2ca8a0d20e596b11e2ec5c48c7179ca
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/problem-set-3/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-29-optimization-problems/_index.md" %}}) »
 

@@ -3,10 +3,9 @@ title: '6.4 Seeing the Big Picture: Segmenting Images to Create Data  (Recitatio
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: f38d14c2d66c55044b9e071235d5fdd8_video-7-comparing-methods
+    identifier: f38d14c2d66c55044b9e071235d5fdd8
     weight: 2280
-    parent: >-
-      c6d206ccfb1528f6048f29e817450da7_seeing-the-big-picture-segmenting-images-to-create-data-recitation
+    parent: c6d206ccfb1528f6048f29e817450da7
 ---
 *   [<Video 6: Detecting Tumors]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-6-detecting-tumors" %}})
 *   [6.4.1Welcome to Recitation 6]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation" %}})

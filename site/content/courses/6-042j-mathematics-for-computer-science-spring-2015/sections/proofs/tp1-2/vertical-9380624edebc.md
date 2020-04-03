@@ -3,9 +3,9 @@ title: 1.2 Proof Methods
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 4ffc020199af966d34335699386f1e96_vertical-9380624edebc
+    identifier: 4ffc020199af966d34335699386f1e96
     weight: 170
-    parent: 604f8e0726803e778aac7885f0f6eaf0_tp1-2
+    parent: 604f8e0726803e778aac7885f0f6eaf0
 ---
 *   [<When to Prove by Cases](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-2/vertical-ba5ad72ae7ec)
 *   [1.2.1Proof By Contradiction: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-2)

@@ -3,9 +3,9 @@ title: 4.2 Conditional Probability
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 3407fecb22fa07b26c844fbdd7cd8fb7_vertical-1c440a383ad3
+    identifier: 3407fecb22fa07b26c844fbdd7cd8fb7
     weight: 2360
-    parent: 79ebde2b537e9e26dc39d5d2e1c8f1d9_tp12-1
+    parent: 79ebde2b537e9e26dc39d5d2e1c8f1d9
 ---
 *   [<Bayes' Theorem: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-1f097d8a0a33)
 *   [4.2.1Conditional Probability Definitions: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1)

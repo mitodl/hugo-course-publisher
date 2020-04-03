@@ -3,7 +3,7 @@ title: 2 Linear Regression
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: c846ced6fc6d3bc964e047324e251a98_linear-regression
+    identifier: c846ced6fc6d3bc964e047324e251a98
     weight: 390
 ---
 *   [BackInternet Privacy Poll]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll/_index.md" %}})

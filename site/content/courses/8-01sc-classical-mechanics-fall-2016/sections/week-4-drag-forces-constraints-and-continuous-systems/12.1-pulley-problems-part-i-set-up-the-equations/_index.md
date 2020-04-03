@@ -3,11 +3,9 @@ title: '12.1 Pulley Problems - Part I, Set up the Equations'
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: >-
-      05c9879cc9102f5cb8c237c856cafd97_12.1-pulley-problems-part-i-set-up-the-equations
+    identifier: 05c9879cc9102f5cb8c237c856cafd97
     weight: 770
-    parent: >-
-      919a2c506eb4551d940bb0dbab2356f0_week-4-drag-forces-constraints-and-continuous-systems
+    parent: 919a2c506eb4551d940bb0dbab2356f0
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/week-4-introduction" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/12.2-pulley-problem-part-ii-constraint-condition" %}}) »
 

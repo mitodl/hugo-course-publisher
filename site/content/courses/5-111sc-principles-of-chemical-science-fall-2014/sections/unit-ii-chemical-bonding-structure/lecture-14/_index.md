@@ -3,9 +3,9 @@ title: 'Lecture 14: Valence Bond Theory and Hybridization'
 course_id: 5-111sc-principles-of-chemical-science-fall-2014
 menu:
   5-111sc-principles-of-chemical-science-fall-2014:
-    identifier: bc4e02be0613a6fcdb1fe751834b8e16_lecture-14
+    identifier: bc4e02be0613a6fcdb1fe751834b8e16
     weight: 180
-    parent: 89ed642b22037e567593c80ff35cb3f4_unit-ii-chemical-bonding-structure
+    parent: 89ed642b22037e567593c80ff35cb3f4
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-13/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/_index.md" %}}) »
 

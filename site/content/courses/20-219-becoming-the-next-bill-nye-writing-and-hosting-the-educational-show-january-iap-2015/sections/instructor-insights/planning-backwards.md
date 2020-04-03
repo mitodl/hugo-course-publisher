@@ -4,9 +4,9 @@ course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
-    identifier: a0230e428e9afc439b1625558c1717d3_planning-backwards
+    identifier: a0230e428e9afc439b1625558c1717d3
     weight: 100
-    parent: 526193cf30dacdf1c6734faab57d51d7_instructor-insights
+    parent: 526193cf30dacdf1c6734faab57d51d7
 ---
 _Below, Elizabeth Choe and Jaime Goldstein discuss how they used backward design (Wiggins & McTighe, 2005) to identify course goals and how they used a rubric to communicate to students the non-linearity of video production work in the context of a course in which content was, by necessity, modularized to promote sequential skill development. Their conversation has been edited for clarity, length, and content._
 

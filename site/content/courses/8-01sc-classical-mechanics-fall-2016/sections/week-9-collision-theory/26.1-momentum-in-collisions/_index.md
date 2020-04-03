@@ -3,9 +3,9 @@ title: 26.1 Momentum in Collisions
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: 18f46ffbbe76a46e978065aa344ceef1_26.1-momentum-in-collisions
+    identifier: 18f46ffbbe76a46e978065aa344ceef1
     weight: 1630
-    parent: bc33ee80c8fd90e4dfda7092ddd24879_week-9-collision-theory
+    parent: bc33ee80c8fd90e4dfda7092ddd24879
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/week-9-introduction" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/26.2-kinetic-energy-in-collisions" %}}) »
 

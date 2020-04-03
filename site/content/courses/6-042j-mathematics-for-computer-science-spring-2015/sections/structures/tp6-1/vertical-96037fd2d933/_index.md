@@ -3,9 +3,9 @@ title: 2.3  Euler's Theorem
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 1b0d56990646d4c3cc468d6e0be6464a_vertical-96037fd2d933
+    identifier: 1b0d56990646d4c3cc468d6e0be6464a
     weight: 1140
-    parent: 8083cb558a36eb8dad32920ceb95cfdb_tp6-1
+    parent: 8083cb558a36eb8dad32920ceb95cfdb
 ---
 *   [<Euler's Totient Function](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/vertical-62a25d1dd25f)
 *   [2.3.1Modular Exponentiation Euler's Function: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1)

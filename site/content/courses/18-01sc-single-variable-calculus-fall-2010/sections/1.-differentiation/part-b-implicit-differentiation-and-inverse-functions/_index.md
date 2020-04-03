@@ -3,10 +3,9 @@ title: 'Part B: Implicit Differentiation and Inverse Functions'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: >-
-      ea455a8ae7f0daad0b8d5033112f5f5e_part-b-implicit-differentiation-and-inverse-functions
+    identifier: ea455a8ae7f0daad0b8d5033112f5f5e
     weight: 170
-    parent: ff2c27eff0de39810c3e51a37548e568_1.-differentiation
+    parent: ff2c27eff0de39810c3e51a37548e568
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/problem-set-1/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-13-implicit-differentiation/_index.md" %}}) »
 

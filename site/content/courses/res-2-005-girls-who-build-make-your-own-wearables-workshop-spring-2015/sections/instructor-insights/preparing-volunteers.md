@@ -3,9 +3,9 @@ title: Preparing Volunteers
 course_id: res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015
 menu:
   res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015:
-    identifier: 1f493c870fc82e0e70a87df3f3a9f17a_preparing-volunteers
+    identifier: 1f493c870fc82e0e70a87df3f3a9f17a
     weight: 50
-    parent: 93633c3e763e0e991be7a7388bafdbb7_instructor-insights
+    parent: 93633c3e763e0e991be7a7388bafdbb7
 ---
 _In this section, Kristen Railey shares her insights about preparing volunteers to support participants, including changes she’d like to make in future iterations of the workshop._
 

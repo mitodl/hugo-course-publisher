@@ -3,9 +3,9 @@ title: 'Session 11: Chain Rule'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: 68feb14ba590b3b088c989717ae12492_session-11-chain-rule
+    identifier: 68feb14ba590b3b088c989717ae12492
     weight: 140
-    parent: 962d171611a101d49f865818d41217eb_part-a-definition-and-basic-rules
+    parent: 962d171611a101d49f865818d41217eb
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-12-higher-derivatives/_index.md" %}}) »
 

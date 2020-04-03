@@ -3,9 +3,9 @@ title: 2.9 Coloring & Connectivity
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 8d160b87cb8ba14435decca9ffc6016e_vertical-857c6f8a582c
+    identifier: 8d160b87cb8ba14435decca9ffc6016e
     weight: 1530
-    parent: 109f4d41cb88fdaade16336e6c117167_tp7-3
+    parent: 109f4d41cb88fdaade16336e6c117167
 ---
 *   [<Chromatic Number](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/vertical-312af3a98ad1)
 *   [2.9.1Coloring: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3)

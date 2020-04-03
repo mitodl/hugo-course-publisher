@@ -3,11 +3,9 @@ title: 12.5 Worked Example - 2 Blocks and 2 Pulleys
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: >-
-      f748652cb4c51b416e16e3ed086b9a18_12.5-worked-example-2-blocks-and-2-pulleys
+    identifier: f748652cb4c51b416e16e3ed086b9a18
     weight: 810
-    parent: >-
-      919a2c506eb4551d940bb0dbab2356f0_week-4-drag-forces-constraints-and-continuous-systems
+    parent: 919a2c506eb4551d940bb0dbab2356f0
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/12.4-pulley-problem-part-iv-solving-the-system-of-equations" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/13.1-rope-hanging-between-trees" %}}) »
 

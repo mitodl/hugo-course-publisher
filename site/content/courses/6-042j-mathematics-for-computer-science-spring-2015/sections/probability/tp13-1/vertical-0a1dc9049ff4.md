@@ -3,9 +3,9 @@ title: 4.5 Expectation
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 90fda877efb63e4664c02e2391cf24bc_vertical-0a1dc9049ff4
+    identifier: 90fda877efb63e4664c02e2391cf24bc
     weight: 2680
-    parent: 025c498f3f5e1c53924f7e40eb06a220_tp13-1
+    parent: 025c498f3f5e1c53924f7e40eb06a220
 ---
 *   [<Great Expectations](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-88fafb62d4f8)
 *   [4.5.1Expectation: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1)

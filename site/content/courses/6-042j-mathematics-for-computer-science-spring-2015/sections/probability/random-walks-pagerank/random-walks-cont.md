@@ -3,9 +3,9 @@ title: 4.8 Random Walks & Pagerank
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 1ab26783f36ce84dea0b68e44c1ccbb6_random-walks-cont
+    identifier: 1ab26783f36ce84dea0b68e44c1ccbb6
     weight: 2940
-    parent: ec31be5e21ec45ab3eab7ab45d2e85b7_random-walks-pagerank
+    parent: ec31be5e21ec45ab3eab7ab45d2e85b7
 ---
 *   [<Random Walks](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank/random-walks-0)
 *   [4.8.1Random Walks: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank)

@@ -3,10 +3,9 @@ title: 'Part A: L''Hospital''s Rule and Improper Integrals'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: >-
-      7011962365c7a7e31179a33dc8e95275_part-a-lhospitals-rule-and-improper-integrals
+    identifier: 7011962365c7a7e31179a33dc8e95275
     weight: 1190
-    parent: 6e3abd11deb09fc49199b1e8893935e7_unit-5-exploring-the-infinite
+    parent: 6e3abd11deb09fc49199b1e8893935e7
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-87-lhospitals-rule/_index.md" %}}) »
 

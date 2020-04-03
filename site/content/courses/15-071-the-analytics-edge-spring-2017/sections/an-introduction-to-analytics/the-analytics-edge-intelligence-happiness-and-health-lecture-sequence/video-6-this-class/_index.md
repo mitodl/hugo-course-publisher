@@ -5,10 +5,9 @@ title: >-
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 3697235ab9798298ffc243742c5e644d_video-6-this-class
+    identifier: 3697235ab9798298ffc243742c5e644d
     weight: 130
-    parent: >-
-      9fb459369f44df97dad389bb5d1aa82c_the-analytics-edge-intelligence-happiness-and-health-lecture-sequence
+    parent: 9fb459369f44df97dad389bb5d1aa82c
 ---
 *   [<Video 5: Example 4 - D2Hawkeye]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-5-example-4-d2hawkeye" %}})
 *   [1.2.1Video 1: Introduction to The Analytics Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence" %}})

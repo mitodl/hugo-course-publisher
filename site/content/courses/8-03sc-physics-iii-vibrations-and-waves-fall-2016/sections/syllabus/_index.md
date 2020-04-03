@@ -3,7 +3,7 @@ title: Syllabus
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
-    identifier: b58121fc044ca70bf31efe5baa5b87f6_syllabus
+    identifier: b58121fc044ca70bf31efe5baa5b87f6
     weight: 10
 ---
 « [Previous](./resolveuid/19cb51d5cef7d0467691d444accc451d) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/instructor-insights" %}}) »

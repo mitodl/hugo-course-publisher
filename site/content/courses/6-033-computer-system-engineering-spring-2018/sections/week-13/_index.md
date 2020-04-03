@@ -3,7 +3,7 @@ title: 'Week 13: Security Part III'
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: 87aba98430c8d18b3f717bdec998328f_week-13
+    identifier: 87aba98430c8d18b3f717bdec998328f
     weight: 580
 ---
 Lecture 23: Network Security and Distributed Denial of Service (DDoS) Attacks

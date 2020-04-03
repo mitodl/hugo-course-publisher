@@ -4,9 +4,9 @@ course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
-    identifier: b923e518c6b99f570dd904b61083f145_elizabeth-choes-reflections
+    identifier: b923e518c6b99f570dd904b61083f145
     weight: 330
-    parent: dadfeb1198fbe700d205d71a4c85f081_student-reflections
+    parent: dadfeb1198fbe700d205d71a4c85f081
 ---
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/ceri-rileys-reflections" %}}) »
 

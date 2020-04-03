@@ -4,9 +4,9 @@ course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
-    identifier: 4cdc73134a0d59d41bc06e46b48b9564_david-yams-reflections
+    identifier: 4cdc73134a0d59d41bc06e46b48b9564
     weight: 410
-    parent: dadfeb1198fbe700d205d71a4c85f081_student-reflections
+    parent: dadfeb1198fbe700d205d71a4c85f081
 ---
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/yuliya-klochans-reflections" %}})
 

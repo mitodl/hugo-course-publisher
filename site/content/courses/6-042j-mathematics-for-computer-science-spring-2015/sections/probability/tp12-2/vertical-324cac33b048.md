@@ -3,9 +3,9 @@ title: 4.3 Independence & Causality
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: f63022c535bcd949fd501ad10a3dc289_vertical-324cac33b048
+    identifier: f63022c535bcd949fd501ad10a3dc289
     weight: 2460
-    parent: 90eace8a4b31041773628667f8f3497b_tp12-2
+    parent: 90eace8a4b31041773628667f8f3497b
 ---
 *   [<Independent vs Disjoint](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-2/vertical-6700220de664)
 *   [4.3.1Independence: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-2)

@@ -3,7 +3,7 @@ title: 'Part III: Optics'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
-    identifier: 562065223db4e5d13c0186ef14e4db6a_part-iii-optics
+    identifier: 562065223db4e5d13c0186ef14e4db6a
     weight: 220
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-16/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-17/_index.md" %}}) »

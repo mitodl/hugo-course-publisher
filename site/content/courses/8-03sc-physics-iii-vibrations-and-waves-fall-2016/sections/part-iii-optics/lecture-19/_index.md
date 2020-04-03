@@ -3,9 +3,9 @@ title: 'Lecture 19: Waves in Medium'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
-    identifier: e069a26ef953d236dc90bcdcb2466c4e_lecture-19
+    identifier: e069a26ef953d236dc90bcdcb2466c4e
     weight: 260
-    parent: 562065223db4e5d13c0186ef14e4db6a_part-iii-optics
+    parent: 562065223db4e5d13c0186ef14e4db6a
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-18/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-20/_index.md" %}}) »
 

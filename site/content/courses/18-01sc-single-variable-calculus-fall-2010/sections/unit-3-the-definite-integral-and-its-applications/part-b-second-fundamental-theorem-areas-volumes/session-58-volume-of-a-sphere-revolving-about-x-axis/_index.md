@@ -3,11 +3,9 @@ title: 'Session 58: Volume of a Sphere, Revolving About x-axis'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: >-
-      ea17c591946bebd5f9a9889e9e6fa3ee_session-58-volume-of-a-sphere-revolving-about-x-axis
+    identifier: ea17c591946bebd5f9a9889e9e6fa3ee
     weight: 770
-    parent: >-
-      82a633f32c2b0be84fba01f5e5741006_part-b-second-fundamental-theorem-areas-volumes
+    parent: 82a633f32c2b0be84fba01f5e5741006
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-57-how-to-calculate-volumes/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/_index.md" %}}) »
 

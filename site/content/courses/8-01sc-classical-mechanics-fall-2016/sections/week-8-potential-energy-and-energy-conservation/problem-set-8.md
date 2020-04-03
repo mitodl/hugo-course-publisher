@@ -3,10 +3,9 @@ title: Problem Set 8
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: 3803dba00e2e651a5c1495e6d8faab40_problem-set-8
+    identifier: 3803dba00e2e651a5c1495e6d8faab40
     weight: 1600
-    parent: >-
-      1394998143efcc493f7c98265cfbd3ae_week-8-potential-energy-and-energy-conservation
+    parent: 1394998143efcc493f7c98265cfbd3ae
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/25.3-reading-potential-energy-diagrams" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory" %}}) »
 

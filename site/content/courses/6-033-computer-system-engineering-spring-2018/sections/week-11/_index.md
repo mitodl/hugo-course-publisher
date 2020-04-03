@@ -3,7 +3,7 @@ title: 'Week 11: Security Part I'
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: c7a234fbb37ee20a41b9581882a0afcd_week-11
+    identifier: c7a234fbb37ee20a41b9581882a0afcd
     weight: 490
 ---
 Lecture 19: Availability via Replication

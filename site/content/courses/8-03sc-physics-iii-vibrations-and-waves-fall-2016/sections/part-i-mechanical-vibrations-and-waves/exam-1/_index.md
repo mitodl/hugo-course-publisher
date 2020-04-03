@@ -3,9 +3,9 @@ title: Exam 1
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
-    identifier: 766280587df7eac43ea13bd07d2c6250_exam-1
+    identifier: 766280587df7eac43ea13bd07d2c6250
     weight: 130
-    parent: 6682a3d163976bcbb2fbe67db27d8f04_part-i-mechanical-vibrations-and-waves
+    parent: 6682a3d163976bcbb2fbe67db27d8f04
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-9/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-10/_index.md" %}}) »
 

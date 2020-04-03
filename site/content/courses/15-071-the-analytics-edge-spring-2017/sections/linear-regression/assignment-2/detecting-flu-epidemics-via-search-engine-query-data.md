@@ -3,10 +3,9 @@ title: 2.5 Assignment 2
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: >-
-      d64b92473ae1fb2350f1b27dc8fbde0b_detecting-flu-epidemics-via-search-engine-query-data
+    identifier: d64b92473ae1fb2350f1b27dc8fbde0b
     weight: 750
-    parent: d3823600300c03000e79696e835f8f2f_assignment-2
+    parent: d3823600300c03000e79696e835f8f2f
 ---
 *   [<Reading Test Scores]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/reading-test-scores" %}})
 *   [2.5.1Climate Change]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2" %}})

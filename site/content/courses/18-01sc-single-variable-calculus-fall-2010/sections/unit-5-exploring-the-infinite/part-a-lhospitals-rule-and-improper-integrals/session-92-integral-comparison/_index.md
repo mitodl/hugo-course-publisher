@@ -3,10 +3,9 @@ title: 'Session 92: Integral Comparison'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: ed231e9c56356bb1e18c555d00f08398_session-92-integral-comparison
+    identifier: ed231e9c56356bb1e18c555d00f08398
     weight: 1250
-    parent: >-
-      7011962365c7a7e31179a33dc8e95275_part-a-lhospitals-rule-and-improper-integrals
+    parent: 7011962365c7a7e31179a33dc8e95275
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-91-improper-integrals/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-93-indefinite-integrals-and-singularities/_index.md" %}}) »
 

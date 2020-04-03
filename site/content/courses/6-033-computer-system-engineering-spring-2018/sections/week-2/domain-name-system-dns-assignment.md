@@ -3,9 +3,9 @@ title: Domain Name System (DNS) Assignment
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: 296c66eaa30e98fbbe0474d631d544ec_domain-name-system-dns-assignment
+    identifier: 296c66eaa30e98fbbe0474d631d544ec
     weight: 100
-    parent: d23c09ff9de9dc9cb98905d72c54fd66_week-2
+    parent: d23c09ff9de9dc9cb98905d72c54fd66
 ---
 Read Book section 4.4: "Case Study: The Internet Domain Name System (DNS)".
 

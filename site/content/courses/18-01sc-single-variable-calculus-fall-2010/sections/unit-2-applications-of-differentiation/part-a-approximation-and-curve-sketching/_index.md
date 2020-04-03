@@ -3,9 +3,9 @@ title: 'Part A: Approximation and Curve Sketching'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: 8c88ae0417475c6dae97e569853bfd9e_part-a-approximation-and-curve-sketching
+    identifier: 8c88ae0417475c6dae97e569853bfd9e
     weight: 310
-    parent: c2ca8a0d20e596b11e2ec5c48c7179ca_unit-2-applications-of-differentiation
+    parent: c2ca8a0d20e596b11e2ec5c48c7179ca
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-23-linear-approximation/_index.md" %}}) »
 

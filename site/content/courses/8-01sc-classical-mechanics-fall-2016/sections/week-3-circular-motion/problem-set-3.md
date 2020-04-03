@@ -3,9 +3,9 @@ title: Problem Set 3
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: b48569882d632e38e951e3761d791ad5_problem-set-3
+    identifier: b48569882d632e38e951e3761d791ad5
     weight: 740
-    parent: 3c7d357cbb95e729679b539d23714ede_week-3-circular-motion
+    parent: 3c7d357cbb95e729679b539d23714ede
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems" %}}) »
 

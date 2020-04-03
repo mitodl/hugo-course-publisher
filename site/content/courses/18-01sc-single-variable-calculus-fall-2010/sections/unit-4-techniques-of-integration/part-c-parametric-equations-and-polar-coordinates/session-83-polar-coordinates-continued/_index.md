@@ -3,10 +3,9 @@ title: 'Session 83: Polar Coordinates, Continued'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: 48426d55f5c623f4eacc4fd415a7a577_session-83-polar-coordinates-continued
+    identifier: 48426d55f5c623f4eacc4fd415a7a577
     weight: 1120
-    parent: >-
-      f19e1f54f348a68a730889ee63f5b9d6_part-c-parametric-equations-and-polar-coordinates
+    parent: f19e1f54f348a68a730889ee63f5b9d6
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-82-polar-coordinates/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/_index.md" %}}) »
 

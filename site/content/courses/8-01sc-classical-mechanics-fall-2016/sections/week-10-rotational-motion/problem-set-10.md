@@ -3,9 +3,9 @@ title: Problem Set 10
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: 4cc15f433fd82d724dc9a100b00d26e6_problem-set-10
+    identifier: 4cc15f433fd82d724dc9a100b00d26e6
     weight: 2040
-    parent: 146d8dd77c99bbafceb8ed10af8bee47_week-10-rotational-motion
+    parent: 146d8dd77c99bbafceb8ed10af8bee47
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/ps.10.1-blocks-and-massive-pulley" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum" %}}) »
 

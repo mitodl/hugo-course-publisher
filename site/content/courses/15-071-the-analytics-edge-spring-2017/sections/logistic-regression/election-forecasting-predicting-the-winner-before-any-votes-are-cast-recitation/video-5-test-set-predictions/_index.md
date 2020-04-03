@@ -5,10 +5,9 @@ title: >-
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: bafc7d5602f9e47a53ea0d210aa17805_video-5-test-set-predictions
+    identifier: bafc7d5602f9e47a53ea0d210aa17805
     weight: 1090
-    parent: >-
-      cd55cbba60f6d5d37320e05f520c4cf1_election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation
+    parent: cd55cbba60f6d5d37320e05f520c4cf1
 ---
 *   [<Video 4: Logistic Regression Models]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-4-logistic-regression-models" %}})
 *   [3.4.1Welcome to Recitation 3]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation" %}})

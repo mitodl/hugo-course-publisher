@@ -3,7 +3,7 @@ title: 1 An Introduction to Analytics
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: bebdc8ab5b1f9682d6b762b671b5cf25_an-introduction-to-analytics
+    identifier: bebdc8ab5b1f9682d6b762b671b5cf25
     weight: 60
 ---
 *   [ContinueWelcome to Unit 1]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/welcome-to-unit-1/_index.md" %}})

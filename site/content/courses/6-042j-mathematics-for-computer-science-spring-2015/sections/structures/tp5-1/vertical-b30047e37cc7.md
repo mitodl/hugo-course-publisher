@@ -3,9 +3,9 @@ title: 2.1  GCDs
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 931735a579c9592721890d239a612bae_vertical-b30047e37cc7
+    identifier: 931735a579c9592721890d239a612bae
     weight: 980
-    parent: 405693053755e5d6fb1b1e2592fa311e_tp5-1
+    parent: 405693053755e5d6fb1b1e2592fa311e
 ---
 *   [<Euclidean Algorithm: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/euclidean-algorithm-video)
 *   [2.1.1GCDs & Linear Combinations: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1)

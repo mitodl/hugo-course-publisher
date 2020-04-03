@@ -3,10 +3,9 @@ title: Teaching Online to Improve Residential Education
 course_id: res-15-003-shaping-the-future-of-work-15-662x-spring-2016
 menu:
   res-15-003-shaping-the-future-of-work-15-662x-spring-2016:
-    identifier: >-
-      2a9b49a80ffbe349812d37ac6b7d3fea_teaching-online-to-improve-residential-education
+    identifier: 2a9b49a80ffbe349812d37ac6b7d3fea
     weight: 20
-    parent: 533d102efe069d1db963beda43cca2a1_instructor-insights
+    parent: 533d102efe069d1db963beda43cca2a1
 ---
 _In this section, Professor Tom Kochan describes how residential MBA students in the MIT Sloan School of Management served as Community Teaching Assistants in the MOOC,_ 15.662x Shaping the Future of Work_, and the ways in which this interaction between residential and online participants enriched on campus learning._
 

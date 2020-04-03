@@ -3,10 +3,9 @@ title: '7.3 The Analytical Policeman: Visualization for Law and Order'
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 55ef385f4486a0de2d074daf0049a5ab_quick-question-540
+    identifier: 55ef385f4486a0de2d074daf0049a5ab
     weight: 2430
-    parent: >-
-      716f78f61fe6c5f47370d7a3c4127827_the-analytical-policeman-visualization-for-law-and-order
+    parent: 716f78f61fe6c5f47370d7a3c4127827
 ---
 *   [<The Analytical Policeman: Visualization for Law and Order]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order" %}})
 *   [7.3.1Video 1: Predictive Policing]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order" %}})

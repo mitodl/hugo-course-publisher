@@ -3,10 +3,9 @@ title: '8.4 Google AdWords: Optimizing Online Advertising  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 2d0a67f494dc2dadf7504c69427d6a55_video-7-sensitivity-analysis
+    identifier: 2d0a67f494dc2dadf7504c69427d6a55
     weight: 3000
-    parent: >-
-      696dd6e442cc1fc47c9f2924e2edfb26_google-adwords-optimizing-online-advertising-recitation
+    parent: 696dd6e442cc1fc47c9f2924e2edfb26
 ---
 *   [<Video 6: A Greedy Approach]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-6-a-greedy-approach" %}})
 *   [8.4.1Welcome to Recitation 8]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation" %}})

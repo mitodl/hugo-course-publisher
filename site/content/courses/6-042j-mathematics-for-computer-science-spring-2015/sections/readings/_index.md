@@ -3,7 +3,7 @@ title: Readings
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 1bd2d3576523fe6c8a8f82aaec579197_readings
+    identifier: 1bd2d3576523fe6c8a8f82aaec579197
     weight: 20
 ---
 The full course textbook, Mathematics for Computer Science, is [available for download (PDF 5.9MB)]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/readings/MIT6_042JS15_textbook" %}}).

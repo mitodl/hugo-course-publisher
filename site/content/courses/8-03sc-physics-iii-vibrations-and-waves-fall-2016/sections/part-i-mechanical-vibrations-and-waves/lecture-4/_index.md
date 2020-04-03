@@ -3,9 +3,9 @@ title: 'Lecture 4: Coupled Oscillators, Normal Modes'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
-    identifier: 05ac767b412018173f891143fb7c00eb_lecture-4
+    identifier: 05ac767b412018173f891143fb7c00eb
     weight: 70
-    parent: 6682a3d163976bcbb2fbe67db27d8f04_part-i-mechanical-vibrations-and-waves
+    parent: 6682a3d163976bcbb2fbe67db27d8f04
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-3/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-5/_index.md" %}}) »
 

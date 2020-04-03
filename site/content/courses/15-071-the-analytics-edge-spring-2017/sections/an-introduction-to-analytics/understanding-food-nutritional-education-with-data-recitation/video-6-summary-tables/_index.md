@@ -3,10 +3,9 @@ title: '1.4 Understanding Food: Nutritional Education with Data  (Recitation)'
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 34529fa513c12be0756196f923431249_video-6-summary-tables
+    identifier: 34529fa513c12be0756196f923431249
     weight: 340
-    parent: >-
-      7ae5f9abee30803e522bc737bfb5e185_understanding-food-nutritional-education-with-data-recitation
+    parent: 7ae5f9abee30803e522bc737bfb5e185
 ---
 *   [<Video 5: Adding Variables]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-5-adding-variables" %}})
 *   [1.4.1Welcome to Recitation 1]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation" %}})

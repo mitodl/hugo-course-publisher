@@ -3,7 +3,7 @@ title: Readings
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: 8897a3b7567fb55281b32f8a1de7b53b_readings
+    identifier: 8897a3b7567fb55281b32f8a1de7b53b
     weight: 30
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/syllabus/about-the-team" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/_index.md" %}}) »

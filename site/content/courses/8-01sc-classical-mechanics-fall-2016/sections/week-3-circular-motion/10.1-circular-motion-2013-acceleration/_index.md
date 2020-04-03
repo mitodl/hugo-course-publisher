@@ -3,9 +3,9 @@ title: 10.1 Circular Motion – Acceleration
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: fc4bb7fe8852f18ed0a7cc1c4ea5e402_10.1-circular-motion-2013-acceleration
+    identifier: fc4bb7fe8852f18ed0a7cc1c4ea5e402
     weight: 660
-    parent: 3c7d357cbb95e729679b539d23714ede_week-3-circular-motion
+    parent: 3c7d357cbb95e729679b539d23714ede
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/9.3-period-and-frequency" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/10.2-angular-acceleration" %}}) »
 

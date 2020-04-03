@@ -4,9 +4,9 @@ course_id: >-
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015
 menu:
   20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015:
-    identifier: f96632a88b4225f3f84e318abddd7856_nathan-hernandezs-reflections
+    identifier: f96632a88b4225f3f84e318abddd7856
     weight: 390
-    parent: dadfeb1198fbe700d205d71a4c85f081_student-reflections
+    parent: dadfeb1198fbe700d205d71a4c85f081
 ---
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/paul-pj-folinos-reflections" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/yuliya-klochans-reflections" %}}) »
 

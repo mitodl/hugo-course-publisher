@@ -3,9 +3,9 @@ title: Lecture 4 Outline
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: 4bd4d775885a266147dc64a6eba38676_lecture-4-outline
+    identifier: 4bd4d775885a266147dc64a6eba38676
     weight: 140
-    parent: 81056cb9554591390582b2e55570d21a_week-3
+    parent: 81056cb9554591390582b2e55570d21a
 ---
 1.  Previously
     *   We're on a quest to enforce modularity on a single machine.

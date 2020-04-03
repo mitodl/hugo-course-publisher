@@ -3,9 +3,9 @@ title: 3.1 Sums & Products
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 8de8c902996349cb0873a6ff1a10a492_vertical-d3f74a0ca5a8
+    identifier: 8de8c902996349cb0873a6ff1a10a492
     weight: 1870
-    parent: 93998ab0044352e85efcb877380e8e28_tp8-2
+    parent: 93998ab0044352e85efcb877380e8e28
 ---
 *   [<Annuities](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-7019fdda010c)
 *   [3.1.1Arithmetic Sums: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2)

@@ -3,10 +3,9 @@ title: '7.2 Visualizing the World: An Introduction to Visualization'
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 9df5bf169354da7932a27538c025bb7e_quick-question-526
+    identifier: 9df5bf169354da7932a27538c025bb7e
     weight: 2390
-    parent: >-
-      274ac6b9daf6cd65874ec643ab327953_visualizing-the-world-an-introduction-to-visualization
+    parent: 274ac6b9daf6cd65874ec643ab327953
 ---
 *   [<Video 4: Basic Scatterplots Using ggplot]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/video-4-basic-scatterplots-using-ggplot" %}})
 *   [7.2.1Video 1: The Power of Visualizations]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization" %}})

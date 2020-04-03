@@ -3,9 +3,9 @@ title: Problem Set 12
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: 7a5814a420a1f4565d0df5ef0b30c31d_problem-set-12
+    identifier: 7a5814a420a1f4565d0df5ef0b30c31d
     weight: 2410
-    parent: fbf76190d89eeed2930e51f9ac3bf2a6_week-12-rotations-and-translation-rolling
+    parent: fbf76190d89eeed2930e51f9ac3bf2a6
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum" %}})
 

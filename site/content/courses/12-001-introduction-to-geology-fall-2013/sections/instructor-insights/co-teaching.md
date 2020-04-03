@@ -3,9 +3,9 @@ title: Co-Teaching
 course_id: 12-001-introduction-to-geology-fall-2013
 menu:
   12-001-introduction-to-geology-fall-2013:
-    identifier: e843f795081ac616d0cebdff6e956e33_co-teaching
+    identifier: e843f795081ac616d0cebdff6e956e33
     weight: 40
-    parent: 1c2cb2ad1c70fd66f19e20103dc94595_instructor-insights
+    parent: 1c2cb2ad1c70fd66f19e20103dc94595
 ---
 _In this section, Prof. Perron shares insights about co-teaching._
 

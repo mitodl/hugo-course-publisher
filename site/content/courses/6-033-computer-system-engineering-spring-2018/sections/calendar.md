@@ -3,7 +3,7 @@ title: Calendar
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: dcd25f88acf3f72ba2ad5aae10daef4f_calendar
+    identifier: dcd25f88acf3f72ba2ad5aae10daef4f
     weight: 20
 ---
 The course has three major components: Lectures, Recitations, and Tutorials. A variety of assignments support the objectives of the class: Quizzes, Hands-on Experiments, System Critiques, and the Design Project ("DP").

@@ -3,9 +3,9 @@ title: 'Session 95: Series Comparison'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: e6b5bcf01d4fe02cb8f15ed900b23542_session-95-series-comparison
+    identifier: e6b5bcf01d4fe02cb8f15ed900b23542
     weight: 1290
-    parent: 1c9b92776c16c587013d2f3b4e9b94a0_part-b-taylor-series
+    parent: 1c9b92776c16c587013d2f3b4e9b94a0
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-94-infinite-series/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-96-stacking-blocks/_index.md" %}}) »
 

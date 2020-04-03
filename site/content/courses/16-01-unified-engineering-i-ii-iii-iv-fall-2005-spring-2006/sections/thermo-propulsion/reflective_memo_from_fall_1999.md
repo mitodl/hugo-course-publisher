@@ -3,9 +3,9 @@ title: Reflective Memo from Fall 1999
 course_id: 16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006
 menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
-    identifier: e6ee1b83843e1b23ec41fdacb7e3416a_reflective_memo_from_fall_1999
+    identifier: e6ee1b83843e1b23ec41fdacb7e3416a
     weight: 90
-    parent: 05b2ba6343e43028bad4cdf50e0b363a_thermo-propulsion
+    parent: 05b2ba6343e43028bad4cdf50e0b363a
 ---
 Fall Term 1999, 62 students in the class, 13 lectures, plus 5 recitation sections that I taught.
 

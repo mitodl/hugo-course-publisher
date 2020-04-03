@@ -3,9 +3,9 @@ title: Conveying the Social Relevance of Geology
 course_id: 12-001-introduction-to-geology-fall-2013
 menu:
   12-001-introduction-to-geology-fall-2013:
-    identifier: a9c623ed5ba59002d8a7cabe1d13ee9e_conveying-the-social-relevance-of-geology
+    identifier: a9c623ed5ba59002d8a7cabe1d13ee9e
     weight: 60
-    parent: 1c2cb2ad1c70fd66f19e20103dc94595_instructor-insights
+    parent: 1c2cb2ad1c70fd66f19e20103dc94595
 ---
 _In this section, Prof. Perron discusses how the instructors convey the social relevance of geology in 12.001._
 

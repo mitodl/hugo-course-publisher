@@ -3,9 +3,9 @@ title: Planning a Good Field Trip
 course_id: 12-001-introduction-to-geology-fall-2013
 menu:
   12-001-introduction-to-geology-fall-2013:
-    identifier: ef6931d2c8e6bc0b8e9a5572a78fe125_planning-a-good-field-trip
+    identifier: ef6931d2c8e6bc0b8e9a5572a78fe125
     weight: 50
-    parent: 1c2cb2ad1c70fd66f19e20103dc94595_instructor-insights
+    parent: 1c2cb2ad1c70fd66f19e20103dc94595
 ---
 _In this section, Prof. Perron shares insights about planning a good field trip._
 

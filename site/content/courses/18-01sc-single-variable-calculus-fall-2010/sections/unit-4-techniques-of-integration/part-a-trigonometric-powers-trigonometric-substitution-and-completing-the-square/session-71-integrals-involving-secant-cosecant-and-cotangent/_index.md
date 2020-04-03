@@ -3,11 +3,9 @@ title: 'Session 71: Integrals Involving secant, cosecant and cotangent'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: >-
-      369ea1a042d34dea55d07a2b967f59af_session-71-integrals-involving-secant-cosecant-and-cotangent
+    identifier: 369ea1a042d34dea55d07a2b967f59af
     weight: 960
-    parent: >-
-      6b4ef50053da70f0e8654886100e09bb_part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square
+    parent: 6b4ef50053da70f0e8654886100e09bb
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-70-preview-of-trig-substitution-and-polar-coordinates/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-72-trig-substitution/_index.md" %}}) »
 

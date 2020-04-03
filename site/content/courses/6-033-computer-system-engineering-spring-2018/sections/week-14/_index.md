@@ -3,7 +3,7 @@ title: 'Week 14: Security Part IV'
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: a53ea92f4c3dbec43ffae7cf73d6eb29_week-14
+    identifier: a53ea92f4c3dbec43ffae7cf73d6eb29
     weight: 630
 ---
 Lecture 25: Tor

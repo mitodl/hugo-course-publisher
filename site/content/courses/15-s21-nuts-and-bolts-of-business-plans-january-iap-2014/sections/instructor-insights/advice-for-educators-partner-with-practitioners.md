@@ -3,10 +3,9 @@ title: 'Advice for Educators: Partner with Practitioners'
 course_id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
 menu:
   15-s21-nuts-and-bolts-of-business-plans-january-iap-2014:
-    identifier: >-
-      af386daaf958796636a97ab93e85af35_advice-for-educators-partner-with-practitioners
+    identifier: af386daaf958796636a97ab93e85af35
     weight: 50
-    parent: 68847d16d9620f2b7563d82fad77467d_instructor-insights
+    parent: 68847d16d9620f2b7563d82fad77467d
 ---
 I wouldn’t try to teach this course—even with all the work I’ve done in the field—by myself. The course involves so much material; you need a team.
 

@@ -3,7 +3,7 @@ title: Design Project
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: 7359417784bd559facb2aadc9d04abe7_design-project
+    identifier: 7359417784bd559facb2aadc9d04abe7
     weight: 670
 ---
 Design Project Overview

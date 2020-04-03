@@ -3,9 +3,9 @@ title: 5.5 Assignment 5
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 81eae0fd28f287336b792210ba33dfbb_assignment-5
+    identifier: 81eae0fd28f287336b792210ba33dfbb
     weight: 1910
-    parent: 5847ad879afecf3e9b93c20cffe87acf_text-analytics
+    parent: 5847ad879afecf3e9b93c20cffe87acf
 ---
 *   [<Video 8: Predictive Coding Today]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-8-predictive-coding-today/_index.md" %}})
 *   [5.5.1Separating Spam from Ham (Part 1)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/_index.md" %}})

@@ -3,9 +3,9 @@ title: 2.10 Trees
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: f27baedbb7ff1c6b93c780ab901b300c_vertical-04923c3ed451
+    identifier: f27baedbb7ff1c6b93c780ab901b300c
     weight: 1610
-    parent: cbeb9c37cb9ca67ccf216c0b8aeab325_tp8-1
+    parent: cbeb9c37cb9ca67ccf216c0b8aeab325
 ---
 *   [<Trees: Many Definitions](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1/vertical-91c45efd7596)
 *   [2.10.1Trees: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1)

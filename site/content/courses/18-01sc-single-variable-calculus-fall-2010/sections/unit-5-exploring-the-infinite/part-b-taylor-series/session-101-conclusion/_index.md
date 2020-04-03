@@ -3,9 +3,9 @@ title: 'Session 101: Conclusion'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: c22c320788f09de5fe78a6e305cad2b4_session-101-conclusion
+    identifier: c22c320788f09de5fe78a6e305cad2b4
     weight: 1350
-    parent: 1c9b92776c16c587013d2f3b4e9b94a0_part-b-taylor-series
+    parent: 1c9b92776c16c587013d2f3b4e9b94a0
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-100-operations-on-power-series/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/final-exam/_index.md" %}}) »
 

@@ -3,9 +3,9 @@ title: '4.4 Random Variables, Density Functions'
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: 5d7758f26a3a9363385cf88d08150951_vertical-12926a05d1ba
+    identifier: 5d7758f26a3a9363385cf88d08150951
     weight: 2500
-    parent: 5d000a4e2a13daae80b1331e90d2f442_tp12-3
+    parent: 5d000a4e2a13daae80b1331e90d2f442
 ---
 *   [<Random Variables: Independence: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-3/vertical-af2ad400f984)
 *   [4.4.1Bigger Number Game: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-3)

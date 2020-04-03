@@ -3,9 +3,9 @@ title: 'Lab 4 Wiring Solar Panels: Instructions and Writeup Assignment'
 course_id: ec-711-d-lab-energy-spring-2011
 menu:
   ec-711-d-lab-energy-spring-2011:
-    identifier: f14900f478f23db9257193b8b3c5f9c8_lab-4-instructions-and-writeup
+    identifier: f14900f478f23db9257193b8b3c5f9c8
     weight: 140
-    parent: 97d18199d8e130f96762504a4894e1bc_solar
+    parent: 97d18199d8e130f96762504a4894e1bc
 ---
 For each of these modules, provide the following analysis and discussion. As a general rule, you should present all of your raw data in a table or other easy to read format. If you are asked to show calculations, you can show one calculation or formula as an example and indicate that the rest of calculations were performed that way.
 

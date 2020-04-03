@@ -3,9 +3,9 @@ title: 'Session 12: Higher Derivatives'
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: f0a4bb746fd734de38118b0ff7607e0b_session-12-higher-derivatives
+    identifier: f0a4bb746fd734de38118b0ff7607e0b
     weight: 150
-    parent: 962d171611a101d49f865818d41217eb_part-a-definition-and-basic-rules
+    parent: 962d171611a101d49f865818d41217eb
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/problem-set-1/_index.md" %}}) »
 

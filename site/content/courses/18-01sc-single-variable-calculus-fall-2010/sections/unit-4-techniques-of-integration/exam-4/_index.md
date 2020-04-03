@@ -3,9 +3,9 @@ title: Exam 4
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: 6484ae5940462fadf99f0d827e877e70_exam-4
+    identifier: 6484ae5940462fadf99f0d827e877e70
     weight: 1150
-    parent: 4da2f4d47b887d3f0da6a5405ecfef83_unit-4-techniques-of-integration
+    parent: 4da2f4d47b887d3f0da6a5405ecfef83
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/problem-set-11/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4/_index.md" %}}) »
 

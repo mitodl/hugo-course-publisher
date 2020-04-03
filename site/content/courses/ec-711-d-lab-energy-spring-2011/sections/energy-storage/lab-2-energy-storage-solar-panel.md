@@ -3,9 +3,9 @@ title: Lab 2 Instructions
 course_id: ec-711-d-lab-energy-spring-2011
 menu:
   ec-711-d-lab-energy-spring-2011:
-    identifier: 5e001ecb027ee84ad79b0cb04f1b0990_lab-2-energy-storage-solar-panel
+    identifier: 5e001ecb027ee84ad79b0cb04f1b0990
     weight: 80
-    parent: bd09c1cc93fd481d39456e105dc16816_energy-storage
+    parent: bd09c1cc93fd481d39456e105dc16816
 ---
 Power Module
 ------------

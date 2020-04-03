@@ -3,7 +3,7 @@ title: 6 Clustering
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 6e34350394a0f94851f48f324b5f657f_clustering
+    identifier: 6e34350394a0f94851f48f324b5f657f
     weight: 1940
 ---
 *   [BackAutomating Reviews in Medicine]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/automating-reviews-in-medicine/_index.md" %}})

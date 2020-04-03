@@ -3,9 +3,9 @@ title: Course History
 course_id: 15-s21-nuts-and-bolts-of-business-plans-january-iap-2014
 menu:
   15-s21-nuts-and-bolts-of-business-plans-january-iap-2014:
-    identifier: 660f69dc90f68ff44c2c5cba6ae66746_course-history
+    identifier: 660f69dc90f68ff44c2c5cba6ae66746
     weight: 30
-    parent: 68847d16d9620f2b7563d82fad77467d_instructor-insights
+    parent: 68847d16d9620f2b7563d82fad77467d
 ---
 _In this section, Joseph Hadzima shares how he started 15.S21 Nuts and Bolts of New Ventures/Business Plans in response to a dare and how he networked to find engaging speakers for the course. He also describes the origins of two key elements in the course: an emphasis on developing business plans and the bringing together of students from business, science, and engineering for the purpose of developing new ventures._
 

@@ -3,9 +3,9 @@ title: Memory Corruption Assignment
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: f16c7835ea5199312f17c5652cc47102_memory-corruption-assignment
+    identifier: f16c7835ea5199312f17c5652cc47102
     weight: 620
-    parent: 87aba98430c8d18b3f717bdec998328f_week-13
+    parent: 87aba98430c8d18b3f717bdec998328f
 ---
 For this recitation, you'll be reading ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[SoK: Eternal War in Memory (PDF)](https://people.eecs.berkeley.edu/~dawnsong/papers/Oakland13-SoK-CR.pdf)" by Lazlo Szekeres, Mathia Payer, Tao Wei, and Dawn Song. This paper describes a variety of memory corruption bugs, and potential solutions. Don't worry about memorizing every single type of attack described in this paper; aim to understand what makes these attacks possible, and the general ideas behind the solutions.
 

@@ -3,9 +3,9 @@ title: Lecture 14 Outline
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: e41330e2fb4f3118bfb788e686385fc7_lecture-14-outline
+    identifier: e41330e2fb4f3118bfb788e686385fc7
     weight: 380
-    parent: 038398268d831a706fad0af0bfa301d7_week-8
+    parent: 038398268d831a706fad0af0bfa301d7
 ---
 1.  Introduction
     *   Done with OSes, networking.

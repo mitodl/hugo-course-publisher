@@ -3,9 +3,9 @@ title: 2.5 Assignment 2
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: d3823600300c03000e79696e835f8f2f_assignment-2
+    identifier: d3823600300c03000e79696e835f8f2f
     weight: 730
-    parent: c846ced6fc6d3bc964e047324e251a98_linear-regression
+    parent: c846ced6fc6d3bc964e047324e251a98
 ---
 *   [<Video 4: Making Predictions]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-4-making-predictions/_index.md" %}})
 *   [2.5.1Climate Change]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/_index.md" %}})

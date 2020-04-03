@@ -3,9 +3,9 @@ title: UNIX Assignment Part 1
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: 37760e09a6c509c9e969bcefe6230e7d_unix-assignment-part-1
+    identifier: 37760e09a6c509c9e969bcefe6230e7d
     weight: 120
-    parent: d23c09ff9de9dc9cb98905d72c54fd66_week-2
+    parent: d23c09ff9de9dc9cb98905d72c54fd66
 ---
 Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The UNIX Time-Sharing System (PDF)](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)" by Dennis Ritchie and Ken Thompson. Recitation 4 will focus on the first four sections of the paper; Recitation 5 will focus on the rest.
 

@@ -3,9 +3,9 @@ title: Log-Structured File System (LFS) Assignment
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: cbb27708c82e11a7a3f9be7fc848063b_log-structured-file-system-lfs-assignment
+    identifier: cbb27708c82e11a7a3f9be7fc848063b
     weight: 430
-    parent: aa415ef7575219eea10afb9dc2dbef65_week-9
+    parent: aa415ef7575219eea10afb9dc2dbef65
 ---
 Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Log-Structured File Systems (PDF)](http://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf)" by R. & A. Arpaci-Dusseau
 

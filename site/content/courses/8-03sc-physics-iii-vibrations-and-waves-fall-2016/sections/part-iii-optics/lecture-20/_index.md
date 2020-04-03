@@ -3,9 +3,9 @@ title: 'Lecture 20: Interference, Soap Bubble'
 course_id: 8-03sc-physics-iii-vibrations-and-waves-fall-2016
 menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
-    identifier: 421db63c9b50ba466bc29ae6df431a14_lecture-20
+    identifier: 421db63c9b50ba466bc29ae6df431a14
     weight: 270
-    parent: 562065223db4e5d13c0186ef14e4db6a_part-iii-optics
+    parent: 562065223db4e5d13c0186ef14e4db6a
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-19/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-21/_index.md" %}}) »
 

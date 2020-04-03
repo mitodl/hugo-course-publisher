@@ -3,10 +3,9 @@ title: Exam 3
 course_id: 18-01sc-single-variable-calculus-fall-2010
 menu:
   18-01sc-single-variable-calculus-fall-2010:
-    identifier: d008dd74a84e2b230239ba6f9604c6fa_exam-3
+    identifier: d008dd74a84e2b230239ba6f9604c6fa
     weight: 880
-    parent: >-
-      4c201b00a0470284ebd6c546e0cc59ab_unit-3-the-definite-integral-and-its-applications
+    parent: 4c201b00a0470284ebd6c546e0cc59ab
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/problem-set-8/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/exam-3/review-for-exam-3/_index.md" %}}) »
 

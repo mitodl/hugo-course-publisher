@@ -3,10 +3,9 @@ title: '9.3 eHarmony: Maximizing the Probability of Love '
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: c616e1a84cbef628f458bec9f000bbaf_quick-question-698
+    identifier: c616e1a84cbef628f458bec9f000bbaf
     weight: 3150
-    parent: >-
-      11e612d89845c6c96a7307cebaa24191_eharmony-maximizing-the-probability-of-love
+    parent: 11e612d89845c6c96a7307cebaa24191
 ---
 *   [<eHarmony: Maximizing the Probability of Love]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/eharmony-maximizing-the-probability-of-love" %}})
 *   [9.3.1Video 1: The Goal of eHarmony]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/eharmony-maximizing-the-probability-of-love" %}})

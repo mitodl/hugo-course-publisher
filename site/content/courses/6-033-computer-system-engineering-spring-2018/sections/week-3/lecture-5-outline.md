@@ -3,9 +3,9 @@ title: Lecture 5 Outline
 course_id: 6-033-computer-system-engineering-spring-2018
 menu:
   6-033-computer-system-engineering-spring-2018:
-    identifier: 05b631a6ef1c2f86b87712c4e1b89310_lecture-5-outline
+    identifier: 05b631a6ef1c2f86b87712c4e1b89310
     weight: 150
-    parent: 81056cb9554591390582b2e55570d21a_week-3
+    parent: 81056cb9554591390582b2e55570d21a
 ---
 Students: This lecture involved looking at the details of a lot of code. Please see the slides for those implementations: `yield(), wait(), yield_wait().`
 

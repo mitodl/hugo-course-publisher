@@ -3,9 +3,9 @@ title: Harcourt Photos
 course_id: 21g-049-french-photography-spring-2017
 menu:
   21g-049-french-photography-spring-2017:
-    identifier: 9792aef79004f6b4ad7c3c3ce4d7b1e6_harcourt-photos
+    identifier: 9792aef79004f6b4ad7c3c3ce4d7b1e6
     weight: 80
-    parent: 6c9a455d83741a2df31df3a4e0c2087d_visual-analysis-papers
+    parent: 6c9a455d83741a2df31df3a4e0c2087d
 ---
 Week 5
 ------

@@ -5,10 +5,9 @@ title: >-
 course_id: 15-071-the-analytics-edge-spring-2017
 menu:
   15-071-the-analytics-edge-spring-2017:
-    identifier: 14da7d12ae8a4e886ad3ec1166945b9c_video-6-the-cp-parameter
+    identifier: 14da7d12ae8a4e886ad3ec1166945b9c
     weight: 1500
-    parent: >-
-      aef27920c51cefd188ed937539251bd9_location-location-location-regression-trees-for-housing-data-recitation
+    parent: aef27920c51cefd188ed937539251bd9
 ---
 *   [<Video 5: Putting it all Together]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-5-putting-it-all-together" %}})
 *   [4.4.1Welcome to Recitation 4]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation" %}})

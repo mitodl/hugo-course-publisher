@@ -3,9 +3,9 @@ title: 2.8  Degrees & Isomorphism
 course_id: 6-042j-mathematics-for-computer-science-spring-2015
 menu:
   6-042j-mathematics-for-computer-science-spring-2015:
-    identifier: a3d452862b8219138b1e93f45114b315_tp7-2
+    identifier: a3d452862b8219138b1e93f45114b315
     weight: 1440
-    parent: 20b0a2b7a262cb94efd44e9e00511cee_structures
+    parent: 20b0a2b7a262cb94efd44e9e00511cee
 ---
 *   [<Equivalence Relations & Partial Orders](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-d757201744eb)
 *   [2.8.1Degree: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2)

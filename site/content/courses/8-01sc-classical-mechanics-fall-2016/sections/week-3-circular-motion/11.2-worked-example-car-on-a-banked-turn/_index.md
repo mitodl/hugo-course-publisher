@@ -3,9 +3,9 @@ title: 11.2 Worked Example - Car on a Banked Turn
 course_id: 8-01sc-classical-mechanics-fall-2016
 menu:
   8-01sc-classical-mechanics-fall-2016:
-    identifier: c71831d1bf7eac4ff0e021abe0cb6641_11.2-worked-example-car-on-a-banked-turn
+    identifier: c71831d1bf7eac4ff0e021abe0cb6641
     weight: 710
-    parent: 3c7d357cbb95e729679b539d23714ede_week-3-circular-motion
+    parent: 3c7d357cbb95e729679b539d23714ede
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/11.1-newtons-2nd-law-and-circular-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/11.3-demo-rotating-bucket" %}}) »
 
