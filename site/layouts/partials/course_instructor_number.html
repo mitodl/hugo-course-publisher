@@ -12,7 +12,13 @@
     </tr>
     <tr>
       <td class="px-0 py-2">Course No.</td>
-      <td class="px-0 py-2">{{ .Params.course_info.course_number }}</td>
+      <td class="px-0 py-2">
+        {{ range $course_number := .Params.course_info.course_numbers }}
+        <a href="#" class="coming-soon pr-1">
+          {{ $course_number }}
+        </a>
+        {{ end }}
+      </td>
     </tr>
   </table>
 </div>
