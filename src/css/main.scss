@@ -133,6 +133,10 @@ table {
   background-color: $dark-gray;
 }
 
+.bg-link-blue {
+  background-color: $link-blue;
+}
+
 .bg-white-desktop {
   @include media-breakpoint-up(lg) {
     background-color: $white !important;
