@@ -4,6 +4,11 @@
     height: 50px;
   }
 
+  .download-btn {
+    color: $white;
+    background-color: $link-blue;
+  }
+
   .pdf-wrapper {
     height: 0;
     padding-bottom: 130%;
