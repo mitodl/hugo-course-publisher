@@ -6,6 +6,8 @@ menu:
     identifier: 9e7f58a6a5308e13cc42a1813a4fbd62
     weight: 310
     parent: 562065223db4e5d13c0186ef14e4db6a
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-23/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/final-exam/_index.md" %}}) »
 

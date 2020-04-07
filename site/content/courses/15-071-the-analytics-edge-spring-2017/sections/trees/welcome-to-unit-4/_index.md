@@ -6,6 +6,8 @@ menu:
     identifier: 1bbf68ce76a47a1d41c90293ba65ab6e
     weight: 1130
     parent: 19c8cf92e31d034a1ea15ad53194d892
+type: courses
+layout: videogallery
 ---
 *   [<Trees]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees" %}})
 *   [4.1.1Welcome to Unit 4]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/welcome-to-unit-4" %}})

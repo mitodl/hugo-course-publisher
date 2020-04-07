@@ -6,6 +6,8 @@ menu:
     identifier: 252f83b91a54bc0db02e8b2cdb45007c
     weight: 2310
     parent: ab87d151cf8cfe95c873e816df164d38
+type: courses
+layout: videogallery
 ---
 *   [<Visualization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization" %}})
 *   [7.1.1Welcome to Unit 7]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/welcome-to-unit-7" %}})

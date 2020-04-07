@@ -8,6 +8,8 @@ menu:
     identifier: e99b687702dcfd34e72858762102d0d1
     weight: 110
     parent: 9fb459369f44df97dad389bb5d1aa82c
+type: courses
+layout: videogallery
 ---
 *   [<Video 3: Example 2 - eHarmony]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-3-example-2-eharmony" %}})
 *   [1.2.1Video 1: Introduction to The Analytics Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence" %}})

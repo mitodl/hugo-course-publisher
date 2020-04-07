@@ -6,6 +6,8 @@ menu:
     identifier: 63f40bde98fd3fdc8c2ddf21ec19f21f
     weight: 2220
     parent: c6d206ccfb1528f6048f29e817450da7
+type: courses
+layout: videogallery
 ---
 *   [<Video 1: Image Segmentation]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-1-image-segmentation" %}})
 *   [6.4.1Welcome to Recitation 6]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation" %}})

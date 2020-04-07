@@ -6,6 +6,8 @@ menu:
     identifier: 704aebfd21aaf26247ff8b18917e1143
     weight: 520
     parent: dc4329a206935f01be73cf0b227cc3ed
+type: courses
+layout: videogallery
 ---
 *   [<Total Injection](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3/vertical-5c792a4ae3f8)
 *   [1.7.1Relations: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3)

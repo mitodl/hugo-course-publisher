@@ -6,6 +6,8 @@ menu:
     identifier: 3ff95f518a19e1941fc4a5346971b130
     weight: 860
     parent: 7b14af4d984597ad410998ecc9fb9f71
+type: courses
+layout: videogallery
 ---
 *   [<Countable Sets: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/countable-sets-video)
 *   [1.11.1Cardinality: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3)

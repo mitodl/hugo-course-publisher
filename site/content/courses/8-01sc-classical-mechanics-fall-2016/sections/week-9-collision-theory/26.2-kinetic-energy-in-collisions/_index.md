@@ -6,6 +6,8 @@ menu:
     identifier: 2ebec2a90ad827ea35ada76b78bd67bd
     weight: 1640
     parent: bc33ee80c8fd90e4dfda7092ddd24879
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/26.1-momentum-in-collisions" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/26.3-totally-inelastic-collisions" %}}) »
 

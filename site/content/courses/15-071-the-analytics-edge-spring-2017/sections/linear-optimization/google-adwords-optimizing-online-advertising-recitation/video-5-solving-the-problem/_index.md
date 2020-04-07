@@ -6,6 +6,8 @@ menu:
     identifier: ec76b4ff67804c693ea4a3a2695b4d2d
     weight: 2980
     parent: 696dd6e442cc1fc47c9f2924e2edfb26
+type: courses
+layout: videogallery
 ---
 *   [<Video 4: Modeling the Problem]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-4-modeling-the-problem" %}})
 *   [8.4.1Welcome to Recitation 8]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation" %}})

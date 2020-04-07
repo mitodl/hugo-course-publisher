@@ -6,6 +6,8 @@ menu:
     identifier: 8d5ffa6bd6d68dfae0e2c923557e22af
     weight: 2560
     parent: 0af39afbaff0a226a397da1206ecd712
+type: courses
+layout: videogallery
 ---
 *   [<The Good, the Bad, and the Ugly: Visualization Recitation (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation" %}})
 *   [7.4.1Welcome to Recitation 7]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation" %}})

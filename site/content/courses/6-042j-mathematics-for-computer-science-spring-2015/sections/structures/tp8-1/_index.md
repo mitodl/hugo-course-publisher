@@ -6,6 +6,8 @@ menu:
     identifier: cbeb9c37cb9ca67ccf216c0b8aeab325
     weight: 1590
     parent: 20b0a2b7a262cb94efd44e9e00511cee
+type: courses
+layout: videogallery
 ---
 *   [<Connected Components in Integers](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3/vertical-fef93eac28bc)
 *   [2.10.1Trees: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp8-1)

@@ -6,6 +6,8 @@ menu:
     identifier: d44952475cd843d935c5b75d0b2f9baa
     weight: 2330
     parent: 79ebde2b537e9e26dc39d5d2e1c8f1d9
+type: courses
+layout: videogallery
 ---
 *   [<Dicey Sum](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-c84a5906e76d)
 *   [4.2.1Conditional Probability Definitions: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1)

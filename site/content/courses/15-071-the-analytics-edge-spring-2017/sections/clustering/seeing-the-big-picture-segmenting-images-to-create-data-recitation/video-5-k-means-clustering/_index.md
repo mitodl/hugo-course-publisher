@@ -6,6 +6,8 @@ menu:
     identifier: 463ba1ca1b89e0017fa87ebc26673bd4
     weight: 2260
     parent: c6d206ccfb1528f6048f29e817450da7
+type: courses
+layout: videogallery
 ---
 *   [<Video 4: MRI Image]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-4-mri-image" %}})
 *   [6.4.1Welcome to Recitation 6]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation" %}})

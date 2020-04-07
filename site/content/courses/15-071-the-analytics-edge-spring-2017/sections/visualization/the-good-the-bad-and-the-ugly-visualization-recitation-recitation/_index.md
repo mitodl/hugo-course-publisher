@@ -6,6 +6,8 @@ menu:
     identifier: 0af39afbaff0a226a397da1206ecd712
     weight: 2550
     parent: ab87d151cf8cfe95c873e816df164d38
+type: courses
+layout: videogallery
 ---
 *   [<Video 7: The Analytics Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-7-the-analytics-edge/_index.md" %}})
 *   [7.4.1Welcome to Recitation 7]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/_index.md" %}})

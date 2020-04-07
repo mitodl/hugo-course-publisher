@@ -6,6 +6,8 @@ menu:
     identifier: 9acad4fe0ca1e09e47dd0c5f58460040
     weight: 460
     parent: ffb87b8b4f73c33bd6b35402fc830d03
+type: courses
+layout: videogallery
 ---
 *   [< Sets](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-2)
 *   [1.6.1Sets Definitions: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-2)

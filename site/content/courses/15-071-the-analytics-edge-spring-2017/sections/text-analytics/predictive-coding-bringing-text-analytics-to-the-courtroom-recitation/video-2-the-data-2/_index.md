@@ -6,6 +6,8 @@ menu:
     identifier: d2b6e4bccf8f0017b1fc3de36e683c9a
     weight: 1840
     parent: d4b1a3b942ed98d194feb3777ba22595
+type: courses
+layout: videogallery
 ---
 *   [<Video 1: The Story of Enron]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-1-the-story-of-enron" %}})
 *   [5.4.1Welcome to Recitation 5]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation" %}})

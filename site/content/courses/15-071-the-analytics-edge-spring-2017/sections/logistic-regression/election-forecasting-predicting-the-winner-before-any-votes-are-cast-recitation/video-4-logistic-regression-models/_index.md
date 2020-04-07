@@ -8,6 +8,8 @@ menu:
     identifier: 20d828736498be17a983f7473b292a08
     weight: 1080
     parent: cd55cbba60f6d5d37320e05f520c4cf1
+type: courses
+layout: videogallery
 ---
 *   [<Video 3: A Sophisticated Baseline Method]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-3-a-sophisticated-baseline-method" %}})
 *   [3.4.1Welcome to Recitation 3]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation" %}})

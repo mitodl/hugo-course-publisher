@@ -6,6 +6,8 @@ menu:
     identifier: d35aadf5c6d2e1543aee74e2dfdda970
     weight: 120
     parent: 962d171611a101d49f865818d41217eb
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-8-limits-of-sine-and-cosine/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule/_index.md" %}}) »
 

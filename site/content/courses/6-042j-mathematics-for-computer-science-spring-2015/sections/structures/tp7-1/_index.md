@@ -6,6 +6,8 @@ menu:
     identifier: 30a03ec26577751dfb8c5b6d0813ce12
     weight: 1300
     parent: 20b0a2b7a262cb94efd44e9e00511cee
+type: courses
+layout: videogallery
 ---
 *   [<Counting Paths](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/counting-paths)
 *   [2.6.1DAGs: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1)

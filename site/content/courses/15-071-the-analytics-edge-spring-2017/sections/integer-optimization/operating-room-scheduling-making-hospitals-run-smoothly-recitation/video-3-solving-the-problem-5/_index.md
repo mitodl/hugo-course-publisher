@@ -6,6 +6,8 @@ menu:
     identifier: 162e5921904a950780e7596c005168c3
     weight: 3240
     parent: 1ebaa9f0a112c16192d91227cd28b727
+type: courses
+layout: videogallery
 ---
 *   [<Video 2: An Optimization Model]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-2-an-optimization-model" %}})
 *   [9.4.1Welcome to Recitation 9]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation" %}})

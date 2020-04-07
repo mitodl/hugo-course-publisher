@@ -6,6 +6,8 @@ menu:
     identifier: b0f86e4b63f0d0f58ef1b5a8f357f718
     weight: 970
     parent: 405693053755e5d6fb1b1e2592fa311e
+type: courses
+layout: videogallery
 ---
 *   [< GCDs](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1)
 *   [2.1.1GCDs & Linear Combinations: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1)

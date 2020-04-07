@@ -6,6 +6,8 @@ menu:
     identifier: 28c8d6e8c2c0dfa62a9b458789417a05
     weight: 890
     parent: d008dd74a84e2b230239ba6f9604c6fa
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/exam-3" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/exam-3/materials-for-exam-3/_index.md" %}}) »
 

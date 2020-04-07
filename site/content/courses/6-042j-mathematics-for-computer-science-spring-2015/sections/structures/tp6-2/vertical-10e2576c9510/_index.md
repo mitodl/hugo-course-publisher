@@ -6,6 +6,8 @@ menu:
     identifier: 47ecda1473454286d8259977ef9b554b
     weight: 1210
     parent: df8008a79d68087d809bbd4cc447cdea
+type: courses
+layout: videogallery
 ---
 *   [<RSA Encryption](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/vertical-3299faa6fc3d)
 *   [2.4.1RSA Public Key Encryption: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2)

@@ -6,6 +6,8 @@ menu:
     identifier: 7a8cdab56a9e46b35225a2bc22295a0f
     weight: 1210
     parent: 7011962365c7a7e31179a33dc8e95275
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-87-lhospitals-rule/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-89-lhospitals-rule-and-rates-of-growth/_index.md" %}}) »
 

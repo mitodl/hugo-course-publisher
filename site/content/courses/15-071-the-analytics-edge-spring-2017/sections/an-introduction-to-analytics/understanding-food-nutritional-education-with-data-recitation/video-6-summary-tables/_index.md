@@ -6,6 +6,8 @@ menu:
     identifier: 34529fa513c12be0756196f923431249
     weight: 340
     parent: 7ae5f9abee30803e522bc737bfb5e185
+type: courses
+layout: videogallery
 ---
 *   [<Video 5: Adding Variables]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-5-adding-variables" %}})
 *   [1.4.1Welcome to Recitation 1]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation" %}})

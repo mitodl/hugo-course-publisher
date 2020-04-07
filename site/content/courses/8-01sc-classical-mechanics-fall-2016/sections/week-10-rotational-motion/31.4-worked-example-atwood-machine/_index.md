@@ -6,6 +6,8 @@ menu:
     identifier: 770f89d773c1236df48f673fd378e5a4
     weight: 1990
     parent: 146d8dd77c99bbafceb8ed10af8bee47
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/31.3-worked-example-find-the-moment-of-inertia-of-a-disc-from-a-falling-mass" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/31.5-massive-pulley-problems" %}}) »
 

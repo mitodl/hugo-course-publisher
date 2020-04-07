@@ -6,6 +6,8 @@ menu:
     identifier: 8a96d7cd01b950c8be68959be293ab00
     weight: 1860
     parent: d4b1a3b942ed98d194feb3777ba22595
+type: courses
+layout: videogallery
 ---
 *   [<Video 3: Pre-Processing]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-3-pre-processing" %}})
 *   [5.4.1Welcome to Recitation 5]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation" %}})

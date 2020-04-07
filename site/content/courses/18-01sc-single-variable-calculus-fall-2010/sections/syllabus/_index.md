@@ -5,6 +5,8 @@ menu:
   18-01sc-single-variable-calculus-fall-2010:
     identifier: 08db2ed910adc41a6bceda6c3bf65e1f
     weight: 10
+type: courses
+layout: videogallery
 ---
 « [Previous](./resolveuid/fc3961119e304b7f2adff858411b95ae) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation" %}}) »
 

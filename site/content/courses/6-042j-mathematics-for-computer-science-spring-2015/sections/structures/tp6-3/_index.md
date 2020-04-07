@@ -6,6 +6,8 @@ menu:
     identifier: 711aeeca155265f221e5af2643f1a05f
     weight: 1240
     parent: 20b0a2b7a262cb94efd44e9e00511cee
+type: courses
+layout: videogallery
 ---
 *   [<RSA computations](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/vertical-dea30f1864f2)
 *   [2.5.1Digraphs: Walks & Paths: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3)

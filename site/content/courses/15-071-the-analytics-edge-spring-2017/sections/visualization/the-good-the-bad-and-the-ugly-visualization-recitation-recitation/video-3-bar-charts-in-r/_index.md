@@ -6,6 +6,8 @@ menu:
     identifier: b69a45f6aacc80e937f4661dbb5bb822
     weight: 2580
     parent: 0af39afbaff0a226a397da1206ecd712
+type: courses
+layout: videogallery
 ---
 *   [<Video 2: Pie Charts]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-2-pie-charts" %}})
 *   [7.4.1Welcome to Recitation 7]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation" %}})

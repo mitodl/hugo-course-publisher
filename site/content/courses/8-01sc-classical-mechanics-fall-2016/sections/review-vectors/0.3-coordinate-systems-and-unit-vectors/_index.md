@@ -6,6 +6,8 @@ menu:
     identifier: b5ed45d27d0206a641481b289c91aa1a
     weight: 80
     parent: f8da8d9bf6a478e6808baa7e6aa62306
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors/0.2-vector-operators" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors/0.4-vectors-magnitude-and-direction" %}}) »
 

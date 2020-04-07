@@ -8,6 +8,8 @@ menu:
     identifier: 8741d74cb0863663cea90529b643e153
     weight: 1450
     parent: aef27920c51cefd188ed937539251bd9
+type: courses
+layout: videogallery
 ---
 *   [<Location, Location, Location: Regression Trees for Housing Data (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation" %}})
 *   [4.4.1Welcome to Recitation 4]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation" %}})

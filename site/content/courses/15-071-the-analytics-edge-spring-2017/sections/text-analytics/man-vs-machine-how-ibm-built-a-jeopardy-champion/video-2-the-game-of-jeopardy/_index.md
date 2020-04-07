@@ -6,6 +6,8 @@ menu:
     identifier: 8e417dbee2351e2efc59f87409ee7506
     weight: 1730
     parent: 0c9bd7c26f88e1f372bb45bfb1705096
+type: courses
+layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/quick-question-405" %}})
 *   [5.3.1Video 1: IBM Watson]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion" %}})

@@ -6,6 +6,8 @@ menu:
     identifier: e9ff977a008f11e6cad8d3e13b3f1b62
     weight: 2370
     parent: 79ebde2b537e9e26dc39d5d2e1c8f1d9
+type: courses
+layout: videogallery
 ---
 *   [<Two Boys](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/vertical-1c440a383ad3)
 *   [4.2.1Conditional Probability Definitions: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1)

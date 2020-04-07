@@ -6,6 +6,8 @@ menu:
     identifier: 0e6db31791e13ca80e855c92186dafb0
     weight: 170
     parent: 89ed642b22037e567593c80ff35cb3f4
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-12/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-14/_index.md" %}}) »
 

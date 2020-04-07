@@ -6,6 +6,8 @@ menu:
     identifier: ab5149d959c5d77fcf43b183d041c866
     weight: 1210
     parent: 28d93f13f552de729aab415b7158be8e
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/19.6-rocket-problem-6-solution-for-no-external-forces" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem" %}}) »
 

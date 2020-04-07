@@ -6,6 +6,8 @@ menu:
     identifier: 68624ffad0f7a8c01f23c4a6a20422bb
     weight: 2000
     parent: b091b1bec85a85e060a83b7905c9dcce
+type: courses
+layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/recommendations-worth-a-million-an-introduction-to-clustering/quick-question-438" %}})
 *   [6.2.1Video 1: Introduction to Netflix]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/recommendations-worth-a-million-an-introduction-to-clustering" %}})

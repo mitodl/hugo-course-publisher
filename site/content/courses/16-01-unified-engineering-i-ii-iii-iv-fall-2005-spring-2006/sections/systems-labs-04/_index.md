@@ -5,6 +5,9 @@ menu:
   16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006:
     identifier: 87e8f47c351cccd450e9b5e03c5bbee2
     weight: 150
+type: courses
+layout: videogallery
+is_media_gallery: true
 ---
 Instructor
 ----------

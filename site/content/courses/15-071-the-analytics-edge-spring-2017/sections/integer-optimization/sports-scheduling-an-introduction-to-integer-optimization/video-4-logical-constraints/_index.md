@@ -6,6 +6,8 @@ menu:
     identifier: 209100b38ec9d10b5925656d460ca2ad
     weight: 3110
     parent: fbf2b7049246466ef24736bff248b7c3
+type: courses
+layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/quick-question-685" %}})
 *   [9.2.1Video 1: Introduction]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization" %}})

@@ -6,6 +6,8 @@ menu:
     identifier: 46404de99864de4d6558ed86dd31c1ea
     weight: 100
     parent: f8da8d9bf6a478e6808baa7e6aa62306
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors/0.4-vectors-magnitude-and-direction" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors/0.6-going-between-representations" %}}) »
 

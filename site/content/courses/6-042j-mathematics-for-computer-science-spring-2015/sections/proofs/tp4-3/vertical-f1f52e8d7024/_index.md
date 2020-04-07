@@ -6,6 +6,8 @@ menu:
     identifier: 6cc03e5eec8176fbb79f4590cb8aeb8d
     weight: 910
     parent: 7b14af4d984597ad410998ecc9fb9f71
+type: courses
+layout: videogallery
 ---
 *   [<Halting Problem Basics \[Optional\]](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-1ef05b471b3d)
 *   [1.11.1Cardinality: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3)

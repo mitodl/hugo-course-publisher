@@ -6,6 +6,8 @@ menu:
     identifier: 2ca2e4f174a66019fbe68e97bba87376
     weight: 1260
     parent: 11f9b44dc2960689414b8c313764a18d
+type: courses
+layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/quick-question-306" %}})
 *   [4.2.1Video 1: The Supreme Court]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees" %}})

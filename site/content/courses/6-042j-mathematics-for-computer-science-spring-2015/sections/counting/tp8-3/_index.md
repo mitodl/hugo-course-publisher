@@ -6,6 +6,8 @@ menu:
     identifier: 7fcb07616e2948a6ad10caa832263c78
     weight: 1960
     parent: 39106ddf6e8110d0b3ef0b61eb07512d
+type: courses
+layout: videogallery
 ---
 *   [<Sum's Upper Lower Bounds](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-9f131aae203e)
 *   [3.2.1Asymptotic Notation: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3)

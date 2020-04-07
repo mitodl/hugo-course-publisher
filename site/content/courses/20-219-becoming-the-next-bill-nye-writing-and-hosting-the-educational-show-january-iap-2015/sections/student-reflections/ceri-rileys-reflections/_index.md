@@ -7,6 +7,8 @@ menu:
     identifier: 1d988e035e65811fe6d8e82355f3c4a7
     weight: 340
     parent: dadfeb1198fbe700d205d71a4c85f081
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/kenneth-cheahs-reflections" %}}) »
 

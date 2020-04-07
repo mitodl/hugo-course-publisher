@@ -6,6 +6,8 @@ menu:
     identifier: 5e9398f5808e614ec06fe6634bc50d7e
     weight: 3220
     parent: 1ebaa9f0a112c16192d91227cd28b727
+type: courses
+layout: videogallery
 ---
 *   [<Operating Room Scheduling: Making Hospitals Run Smoothly (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation" %}})
 *   [9.4.1Welcome to Recitation 9]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation" %}})

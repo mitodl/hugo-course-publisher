@@ -6,6 +6,8 @@ menu:
     identifier: 19c7a1c6b044e1b2c2b1916f5be9f51f
     weight: 1890
     parent: d4b1a3b942ed98d194feb3777ba22595
+type: courses
+layout: videogallery
 ---
 *   [<Video 6: Evaluating the Model]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-6-evaluating-the-model" %}})
 *   [5.4.1Welcome to Recitation 5]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation" %}})

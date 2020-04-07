@@ -6,6 +6,8 @@ menu:
     identifier: 3083aeae63672e7661a334ffc021896d
     weight: 3010
     parent: 696dd6e442cc1fc47c9f2924e2edfb26
+type: courses
+layout: videogallery
 ---
 *   [<Video 7: Sensitivity Analysis]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-7-sensitivity-analysis" %}})
 *   [8.4.1Welcome to Recitation 8]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation" %}})

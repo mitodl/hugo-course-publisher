@@ -6,6 +6,8 @@ menu:
     identifier: 4f0a4b2464cbeba350fefae41b407cd6
     weight: 400
     parent: c846ced6fc6d3bc964e047324e251a98
+type: courses
+layout: videogallery
 ---
 *   [<Linear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression" %}})
 *   [2.1.1Welcome to Unit 2]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/welcome-to-unit-2" %}})

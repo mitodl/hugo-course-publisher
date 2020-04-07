@@ -6,6 +6,8 @@ menu:
     identifier: 732f4df8011e8b8d47802b72ec9c5762
     weight: 380
     parent: 101f2dc98b9878a06c0f57e750015c84
+type: courses
+layout: videogallery
 ---
 *   [<Quantifiers & Predicate Logic](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-1)
 *   [1.5.1Predicate Logic 1: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-1)

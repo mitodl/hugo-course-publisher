@@ -6,6 +6,8 @@ menu:
     identifier: 79b4616b3b2fda510a4176440e50bfb1
     weight: 2610
     parent: 0af39afbaff0a226a397da1206ecd712
+type: courses
+layout: videogallery
 ---
 *   [<Video 5: World Maps in R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-5-world-maps-in-r" %}})
 *   [7.4.1Welcome to Recitation 7]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation" %}})

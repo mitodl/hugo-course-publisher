@@ -6,6 +6,8 @@ menu:
     identifier: 1825bfbbd3647c86fa9771d985c21513
     weight: 1280
     parent: 1c9b92776c16c587013d2f3b4e9b94a0
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/_index.md" %}}) »
 

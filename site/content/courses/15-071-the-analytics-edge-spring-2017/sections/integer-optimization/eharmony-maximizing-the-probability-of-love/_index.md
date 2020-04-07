@@ -6,6 +6,8 @@ menu:
     identifier: 11e612d89845c6c96a7307cebaa24191
     weight: 3140
     parent: db42b40ad705f431a7e23a1d11cec341
+type: courses
+layout: videogallery
 ---
 *   [<Video 5: The Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-5-the-edge/_index.md" %}})
 *   [9.3.1Video 1: The Goal of eHarmony]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/eharmony-maximizing-the-probability-of-love/_index.md" %}})

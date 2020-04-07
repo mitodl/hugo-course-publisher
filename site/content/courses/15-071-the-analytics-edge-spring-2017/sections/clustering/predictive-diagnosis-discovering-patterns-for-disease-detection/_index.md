@@ -6,6 +6,8 @@ menu:
     identifier: 0943bd811d9caf9e92bf3c7bf9d7b9f2
     weight: 2110
     parent: 6e34350394a0f94851f48f324b5f657f
+type: courses
+layout: videogallery
 ---
 *   [<Video 8: The Analytics Edge of Recommendation Systems]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-8-the-analytics-edge-of-recommendation-systems/_index.md" %}})
 *   [6.3.1Video 1: Heart Attacks]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/_index.md" %}})

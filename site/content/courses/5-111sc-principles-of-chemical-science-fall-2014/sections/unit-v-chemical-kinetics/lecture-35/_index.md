@@ -6,6 +6,8 @@ menu:
     identifier: cfdef97d2484c33111437c192f705162
     weight: 420
     parent: 124cd4e89ed86cbe95d852c3908bfac3
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-34" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/exams/_index.md" %}}) »
 

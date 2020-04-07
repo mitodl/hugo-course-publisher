@@ -6,6 +6,8 @@ menu:
     identifier: fc4bb7fe8852f18ed0a7cc1c4ea5e402
     weight: 660
     parent: 3c7d357cbb95e729679b539d23714ede
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/9.3-period-and-frequency" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/10.2-angular-acceleration" %}}) »
 

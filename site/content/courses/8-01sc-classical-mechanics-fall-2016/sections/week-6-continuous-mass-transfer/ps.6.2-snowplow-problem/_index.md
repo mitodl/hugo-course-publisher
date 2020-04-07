@@ -6,6 +6,8 @@ menu:
     identifier: a58a3ece6fdc129d75645ca98d437fce
     weight: 1230
     parent: 28d93f13f552de729aab415b7158be8e
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/problem-set-6" %}}) »
 

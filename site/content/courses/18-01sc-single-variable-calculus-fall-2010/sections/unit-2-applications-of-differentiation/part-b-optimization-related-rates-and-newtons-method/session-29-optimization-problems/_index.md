@@ -6,6 +6,8 @@ menu:
     identifier: 588fcaecbbe5091660dfdf0b2efe6908
     weight: 400
     parent: 7bd0936fcddbb454b9e5dab2884cc641
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-30-optimization-problems-ii/_index.md" %}}) »
 

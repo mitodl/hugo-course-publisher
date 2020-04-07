@@ -6,6 +6,8 @@ menu:
     identifier: 51ed3daac148e3d07b469713f381a97e
     weight: 2940
     parent: 696dd6e442cc1fc47c9f2924e2edfb26
+type: courses
+layout: videogallery
 ---
 *   [<Google AdWords: Optimizing Online Advertising (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation" %}})
 *   [8.4.1Welcome to Recitation 8]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation" %}})

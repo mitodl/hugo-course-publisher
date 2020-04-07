@@ -6,6 +6,8 @@ menu:
     identifier: c0e12457eea57533f2df4a7f420a5b38
     weight: 2340
     parent: 274ac6b9daf6cd65874ec643ab327953
+type: courses
+layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-505" %}})
 *   [7.2.1Video 1: The Power of Visualizations]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization" %}})

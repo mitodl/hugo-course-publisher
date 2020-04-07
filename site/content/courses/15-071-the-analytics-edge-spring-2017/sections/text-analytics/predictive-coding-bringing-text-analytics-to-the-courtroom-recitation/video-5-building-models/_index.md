@@ -6,6 +6,8 @@ menu:
     identifier: bfe9f6891834528bfc4766f67aa144c6
     weight: 1870
     parent: d4b1a3b942ed98d194feb3777ba22595
+type: courses
+layout: videogallery
 ---
 *   [<Video 4: Bag of Words]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-4-bag-of-words-2" %}})
 *   [5.4.1Welcome to Recitation 5]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation" %}})

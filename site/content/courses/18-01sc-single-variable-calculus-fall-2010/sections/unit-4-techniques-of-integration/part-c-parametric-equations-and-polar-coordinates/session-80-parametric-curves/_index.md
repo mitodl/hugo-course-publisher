@@ -6,6 +6,8 @@ menu:
     identifier: b58d1c03b5e72b4fc2ef553cda5d94b7
     weight: 1090
     parent: f19e1f54f348a68a730889ee63f5b9d6
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-81-examples-using-parametrized-curves/_index.md" %}}) »
 

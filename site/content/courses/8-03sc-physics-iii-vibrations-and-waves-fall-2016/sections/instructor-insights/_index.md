@@ -5,6 +5,8 @@ menu:
   8-03sc-physics-iii-vibrations-and-waves-fall-2016:
     identifier: 04ff44e40d3409c8726bf5bd29021df8
     weight: 20
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves" %}}) »
 

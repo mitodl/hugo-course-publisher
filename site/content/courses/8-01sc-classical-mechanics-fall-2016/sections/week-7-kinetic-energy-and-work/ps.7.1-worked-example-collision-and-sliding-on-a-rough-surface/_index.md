@@ -6,6 +6,8 @@ menu:
     identifier: 1a85f658a6b619d17082201370c974dd
     weight: 1440
     parent: 1099b7667930f7e51cccc80d63899c02
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/22.5-summary-of-work-and-kinetic-energy" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/problem-set-7" %}}) »
 

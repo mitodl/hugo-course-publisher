@@ -6,6 +6,8 @@ menu:
     identifier: bb452cf26f640545fd86309bbe4c1e09
     weight: 610
     parent: 3c7d357cbb95e729679b539d23714ede
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/8.1-polar-coordinates" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/8.3-angular-velocity" %}}) »
 

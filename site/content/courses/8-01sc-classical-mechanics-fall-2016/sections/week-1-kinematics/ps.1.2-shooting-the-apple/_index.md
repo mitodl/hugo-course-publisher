@@ -6,6 +6,8 @@ menu:
     identifier: 3d4cf0c9ea1b525e0dda74b39d1080a8
     weight: 330
     parent: 63e325a780c79e352fb5bddb9b8b2c6a
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.1-three-questions-before-starting" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.3-worked-example-braking-car" %}}) »
 

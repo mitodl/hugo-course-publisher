@@ -6,6 +6,8 @@ menu:
     identifier: d99be1d93dd7fc0a70ba351d93404d9c
     weight: 3040
     parent: db42b40ad705f431a7e23a1d11cec341
+type: courses
+layout: videogallery
 ---
 *   [<Integer Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization" %}})
 *   [9.1.1Welcome to Unit 9]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/welcome-to-unit-9" %}})

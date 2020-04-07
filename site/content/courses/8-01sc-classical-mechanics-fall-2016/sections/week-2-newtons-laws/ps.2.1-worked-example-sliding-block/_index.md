@@ -6,6 +6,8 @@ menu:
     identifier: 049199c2b750bf9b074389e653cf5020
     weight: 540
     parent: cf6d9ae85d7b6e788f1e70cf24afc329
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/dd.1.1-friction-at-the-nanoscale" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks" %}}) »
 

@@ -6,6 +6,8 @@ menu:
     identifier: 5f6a10de78bd30e31029095bd5d73d7b
     weight: 640
     parent: 5179d7c0c3f7a60a33d7c24d9d219172
+type: courses
+layout: videogallery
 ---
 *   [<Unstacking Game Score](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/vertical-cc43092b621f)
 *   [1.8.1Induction: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1)

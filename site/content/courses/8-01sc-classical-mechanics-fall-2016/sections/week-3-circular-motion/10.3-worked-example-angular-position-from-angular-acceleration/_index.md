@@ -6,6 +6,8 @@ menu:
     identifier: 8992e0cfaf5f2ab2d813cd1facefbf81
     weight: 680
     parent: 3c7d357cbb95e729679b539d23714ede
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/10.2-angular-acceleration" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/10.4-review-of-rotational-kinematics" %}}) »
 

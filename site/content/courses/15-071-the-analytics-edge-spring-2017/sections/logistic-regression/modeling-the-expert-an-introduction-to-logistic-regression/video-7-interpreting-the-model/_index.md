@@ -6,6 +6,8 @@ menu:
     identifier: 1e61720ecc150a7b0c5eb3fe60c5ffa1
     weight: 900
     parent: 3063320a41756b8a4fa9892f61b52c0d
+type: courses
+layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/quick-question-200" %}})
 *   [3.2.1Video 1: Replicating Expert Assessment]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression" %}})

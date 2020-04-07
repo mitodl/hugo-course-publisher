@@ -8,6 +8,8 @@ menu:
     identifier: dd0e31df5551708af83d36da17c4c663
     weight: 120
     parent: 9fb459369f44df97dad389bb5d1aa82c
+type: courses
+layout: videogallery
 ---
 *   [<Video 4: Example 3 - The Framingham Heart Study]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-4-example-3-the-framingham-heart-study" %}})
 *   [1.2.1Video 1: Introduction to The Analytics Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence" %}})

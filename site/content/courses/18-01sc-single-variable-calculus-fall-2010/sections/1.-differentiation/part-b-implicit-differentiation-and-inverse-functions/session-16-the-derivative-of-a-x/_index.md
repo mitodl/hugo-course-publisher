@@ -6,6 +6,8 @@ menu:
     identifier: a08812a629e76732837d8a39d48fc8fa
     weight: 210
     parent: ea455a8ae7f0daad0b8d5033112f5f5e
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-17-the-exponential-function-its-derivative-and-its-inverse/_index.md" %}}) »
 

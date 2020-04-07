@@ -6,6 +6,8 @@ menu:
     identifier: 041c3127fd08cfd7d4e7305dc781718b
     weight: 330
     parent: 7ae5f9abee30803e522bc737bfb5e185
+type: courses
+layout: videogallery
 ---
 *   [<Video 4: Creating Plots in R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-4-creating-plots-in-r" %}})
 *   [1.4.1Welcome to Recitation 1]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation" %}})

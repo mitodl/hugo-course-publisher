@@ -6,6 +6,8 @@ menu:
     identifier: 2177d0e5d0ce54c654575859c51c9b60
     weight: 410
     parent: cf6d9ae85d7b6e788f1e70cf24afc329
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/4.1-newtons-first-and-second-laws" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/4.3-reference-frames" %}}) »
 

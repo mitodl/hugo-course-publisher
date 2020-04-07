@@ -6,6 +6,8 @@ menu:
     identifier: 8de92a30b4b3f264b6a68332032322e6
     weight: 1060
     parent: c1168b62a27dcf9f3fe2550af1ed72f5
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.5-worked-example-center-of-mass-of-a-uniform-rod" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.7-reduction-of-a-system-to-a-point-particle" %}}) »
 

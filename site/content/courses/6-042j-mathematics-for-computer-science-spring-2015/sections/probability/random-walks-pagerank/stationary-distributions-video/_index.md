@@ -6,6 +6,8 @@ menu:
     identifier: 543c714fd5158fb86cde0a76b4d8446c
     weight: 2910
     parent: ec31be5e21ec45ab3eab7ab45d2e85b7
+type: courses
+layout: videogallery
 ---
 *   [<Random Walks & Pagerank](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank)
 *   [4.8.1Random Walks: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank)

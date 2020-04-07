@@ -6,6 +6,8 @@ menu:
     identifier: f02a2b52b26ae5f08dddd7d9208d585d
     weight: 320
     parent: 7ae5f9abee30803e522bc737bfb5e185
+type: courses
+layout: videogallery
 ---
 *   [<Video 3: Data Analysis]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-3-data-analysis" %}})
 *   [1.4.1Welcome to Recitation 1]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation" %}})

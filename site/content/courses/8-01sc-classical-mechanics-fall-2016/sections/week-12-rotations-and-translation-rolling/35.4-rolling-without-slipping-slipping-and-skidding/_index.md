@@ -6,6 +6,8 @@ menu:
     identifier: 30156a4d14f433f7b6acb21aedd09d31
     weight: 2270
     parent: fbf76190d89eeed2930e51f9ac3bf2a6
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/35.3-rolling-wheel-in-the-ground-frame" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/35.5-contact-point-of-a-wheel-rolling-without-slipping" %}}) »
 

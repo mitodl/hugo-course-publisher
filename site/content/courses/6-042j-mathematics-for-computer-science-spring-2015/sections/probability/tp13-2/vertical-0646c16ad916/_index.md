@@ -6,6 +6,8 @@ menu:
     identifier: efa2fcf6c3494d78c828caf2c2299d36
     weight: 2750
     parent: f195ee849b9aee3ccf61f90bea10cebb
+type: courses
+layout: videogallery
 ---
 *   [<Inside the TA's Brain](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-82fa33baa07e)
 *   [4.6.1Deviation From The Mean: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2)

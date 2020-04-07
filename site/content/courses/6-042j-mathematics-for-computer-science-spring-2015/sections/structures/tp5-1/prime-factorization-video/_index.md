@@ -6,6 +6,8 @@ menu:
     identifier: 51dcf33092f43e021cae3d73b71b0ad3
     weight: 1020
     parent: 405693053755e5d6fb1b1e2592fa311e
+type: courses
+layout: videogallery
 ---
 *   [<Revisiting Die Hard: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/revisiting-die-hard-video)
 *   [2.1.1GCDs & Linear Combinations: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1)

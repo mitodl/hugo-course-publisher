@@ -6,6 +6,8 @@ menu:
     identifier: d2dac4c5783973f0083cdd3859d4cda5
     weight: 820
     parent: e1f8a1b789b83e57da0e01f4ada7283a
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-60-integrals-and-averages/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability/_index.md" %}}) »
 
