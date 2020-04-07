@@ -1,12 +1,10 @@
 {{ define "main" }}
 {{ partial "course_section.html" . }}
-<h1> GALLERY </h2>
-
-<ul>
   {{ range (where .Pages ".Params.layout" "video") }}
-  <li>
+  <div class="video">
     <h3>{{ .Params.title }}</h3>
-  </li>
+    <div>{{ .Params.about_this_resource_text | safeHTML | plainify }}</div>
+  </div>
   {{ end }}
 </ul>
 {{ end }}
