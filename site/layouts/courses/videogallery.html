@@ -1,9 +1,10 @@
 {{ define "main" }}
 {{ partial "course_section.html" . }}
   {{ range (where .Pages ".Params.layout" "video") }}
-  <div class="video">
+  <div class="video mb-2 border-light-grey rounded">
     <h3>{{ .Params.title }}</h3>
     <div>{{ .Params.about_this_resource_text | safeHTML | plainify }}</div>
+    {{ partial "youtube_player.html" . }}
   </div>
   {{ end }}
 </ul>
