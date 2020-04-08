@@ -1,0 +1,12 @@
+{
+  "12-001-introduction-to-geology-fall-2013": "Traditional course with big tables and image gallery.",
+  "6-042j-mathematics-for-computer-science-spring-2015": "Course with multilevel left nav, lecture videos interspersed (ideal candidate for “show me the lectures” feature), and some interactive assessments.",
+  "16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006": "Crazy course from a metadata perspective (multiple instructors, hundreds of tags, overlapping video typs, etc).",
+  "5-111sc-principles-of-chemical-science-fall-2014" :"Scholar course with multilevel left nav and lecture videos interspersed",
+  "21m-295-american-popular-music-fall-2014": "Should be standard.",
+  "res-3-004-visualizing-materials-science-fall-2017": "Small content in the Supplementary Resource format.",
+  "8-01sc-classical-mechanics-fall-2016": "Scholar course, but more standard than some of the other courses.",
+  "18-06-linear-algebra-spring-2010": "Traditional course with video lectures and 6 course features.",
+  "6-033-computer-system-engineering-spring-2018":"Large left nav (not a scholar course). Was a request where I also asked if we could remove aspects of the left nav (e.g., sub menus).",
+  "8-591j-systems-biology-fall-2014" :"Request to see how instructor insights behaves in Sandbox, it is a multi-menu instructor insights."
+}
