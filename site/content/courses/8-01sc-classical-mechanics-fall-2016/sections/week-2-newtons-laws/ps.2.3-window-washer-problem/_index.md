@@ -6,6 +6,8 @@ menu:
     identifier: 490e27c79c4c14bb971b8ce6ece1d220
     weight: 560
     parent: cf6d9ae85d7b6e788f1e70cf24afc329
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/problem-set-2" %}}) »
 

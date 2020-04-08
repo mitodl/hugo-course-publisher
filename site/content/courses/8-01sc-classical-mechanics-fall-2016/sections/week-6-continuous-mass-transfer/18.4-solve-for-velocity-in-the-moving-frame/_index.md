@@ -6,6 +6,8 @@ menu:
     identifier: 9fb8e827040a6b8befe95b0076e804ce
     weight: 1140
     parent: 28d93f13f552de729aab415b7158be8e
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/18.3-solve-for-velocity-in-the-ground-frame" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/19.1-rocket-problem-1-set-up-the-problem" %}}) »
 

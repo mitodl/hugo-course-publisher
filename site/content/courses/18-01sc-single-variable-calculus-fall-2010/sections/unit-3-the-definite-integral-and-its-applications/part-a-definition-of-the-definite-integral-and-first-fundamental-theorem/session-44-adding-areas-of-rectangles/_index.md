@@ -6,6 +6,8 @@ menu:
     identifier: 9f42b86cbcb7812f84f2846c3d7ce9f5
     weight: 610
     parent: 0b76caa8a52837fdba43c151842bb90a
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-43-definite-integrals/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-45-some-easy-integrals/_index.md" %}}) »
 

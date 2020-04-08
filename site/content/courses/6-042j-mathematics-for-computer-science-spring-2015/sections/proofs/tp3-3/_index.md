@@ -6,6 +6,8 @@ menu:
     identifier: dc4329a206935f01be73cf0b227cc3ed
     weight: 480
     parent: 95af5c7b87a2e15790a7ad18331a125f
+type: courses
+layout: videogallery
 ---
 *   [<Difference](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-2/vertical-049c9a1dd957)
 *   [1.7.1Relations: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3)

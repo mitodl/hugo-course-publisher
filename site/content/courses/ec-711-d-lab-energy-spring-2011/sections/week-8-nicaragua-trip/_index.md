@@ -5,6 +5,9 @@ menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: fb9d6e56eac497fb24b46d3ac31a62da
     weight: 180
+type: courses
+layout: videogallery
+is_media_gallery: true
 ---
 Trip Resources
 --------------

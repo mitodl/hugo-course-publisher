@@ -6,6 +6,8 @@ menu:
     identifier: 6dde6688f1fa20f2de5a06f1a9aa9665
     weight: 2350
     parent: fbf76190d89eeed2930e51f9ac3bf2a6
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.1-kinetic-energy-of-translation-and-rotation" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.3-angular-momentum-of-translation-and-rotation" %}}) »
 

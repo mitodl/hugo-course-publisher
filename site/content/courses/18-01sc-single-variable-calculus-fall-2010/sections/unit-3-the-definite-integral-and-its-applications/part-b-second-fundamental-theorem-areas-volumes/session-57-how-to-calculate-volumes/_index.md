@@ -6,6 +6,8 @@ menu:
     identifier: 896b940a6076521ff57b68f0bccc57a0
     weight: 760
     parent: 82a633f32c2b0be84fba01f5e5741006
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-56-geometric-interpretation-of-definite-integrals/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-58-volume-of-a-sphere-revolving-about-x-axis/_index.md" %}}) »
 

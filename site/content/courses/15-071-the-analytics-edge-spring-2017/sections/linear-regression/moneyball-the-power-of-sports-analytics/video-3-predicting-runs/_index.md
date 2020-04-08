@@ -6,6 +6,8 @@ menu:
     identifier: bf2dc78df3180c13511a832922454f59
     weight: 600
     parent: fcb6a63f4737920a80bf15309d3ee7b6
+type: courses
+layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/quick-question-106" %}})
 *   [2.3.1A Quick Introduction to Baseball]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics" %}})

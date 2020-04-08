@@ -6,6 +6,8 @@ menu:
     identifier: 33fa178e64d4cd25dd867bb0db6ee3a5
     weight: 1950
     parent: 6e34350394a0f94851f48f324b5f657f
+type: courses
+layout: videogallery
 ---
 *   [<Clustering]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering" %}})
 *   [6.1.1Welcome to Unit 6]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/welcome-to-unit-6" %}})

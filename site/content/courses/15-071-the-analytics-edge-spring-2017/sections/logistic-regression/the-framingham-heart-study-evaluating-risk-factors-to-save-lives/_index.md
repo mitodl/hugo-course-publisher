@@ -6,6 +6,8 @@ menu:
     identifier: 58bb606548df9c3a8c148318a4e0e5c7
     weight: 930
     parent: c4464cf49ddb1a4bc78cfaa6f93b74de
+type: courses
+layout: videogallery
 ---
 *   [<Video 8: The Analytics Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-8-the-analytics-edge/_index.md" %}})
 *   [3.3.1Video 1: The Framingham Heart Study]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/_index.md" %}})

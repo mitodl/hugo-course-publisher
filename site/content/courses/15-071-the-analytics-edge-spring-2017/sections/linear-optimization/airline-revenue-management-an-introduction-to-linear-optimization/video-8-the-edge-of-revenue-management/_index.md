@@ -6,6 +6,8 @@ menu:
     identifier: 0cd767ebf8c6279f86f216e785139b90
     weight: 2810
     parent: 2900efa71aff756dfeba74c6d16f2d3d
+type: courses
+layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/quick-question-620" %}})
 *   [8.2.1Video 1: Introduction]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization" %}})

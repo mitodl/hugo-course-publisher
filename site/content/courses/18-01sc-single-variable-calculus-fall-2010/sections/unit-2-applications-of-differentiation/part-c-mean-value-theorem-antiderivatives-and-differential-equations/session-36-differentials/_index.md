@@ -6,6 +6,8 @@ menu:
     identifier: fa53a54f73841c72094dc4856e73978e
     weight: 490
     parent: cc849d5801781635e7d929c121e176fe
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-35-using-the-mean-value-theorem/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-37-antiderivatives/_index.md" %}}) »
 

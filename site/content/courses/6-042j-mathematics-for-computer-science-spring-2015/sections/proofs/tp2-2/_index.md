@@ -6,6 +6,8 @@ menu:
     identifier: 8de160a9e7299f7fec8a58aef5106eef
     weight: 280
     parent: 95af5c7b87a2e15790a7ad18331a125f
+type: courses
+layout: videogallery
 ---
 *   [<A Bogus Well Ordering Principle Proof](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-1/vertical-0d330bfe723d)
 *   [1.4.1Propositional Operators: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2)

@@ -6,6 +6,8 @@ menu:
     identifier: 117ccde2d58f68e213efc11a6b2848fb
     weight: 710
     parent: 3d4f0b49ab636ab4200c8f27a219c0dc
+type: courses
+layout: videogallery
 ---
 *   [<Video 2: Playoffs and Wins]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-2-playoffs-and-wins" %}})
 *   [2.4.1Welcome to Recitation 2]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation" %}})

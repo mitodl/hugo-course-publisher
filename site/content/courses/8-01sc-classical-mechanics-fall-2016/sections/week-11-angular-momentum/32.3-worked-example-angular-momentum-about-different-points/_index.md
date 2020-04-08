@@ -6,6 +6,8 @@ menu:
     identifier: 884110c0b77ae3a5d780c9d382fb5a33
     weight: 2090
     parent: d36579bd7dfcb71f76178b4b8d45c312
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/32.2-calculating-angular-momentum" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/32.4-angular-momentum-of-circular-motion" %}}) »
 

@@ -8,6 +8,8 @@ menu:
     identifier: cd55cbba60f6d5d37320e05f520c4cf1
     weight: 1040
     parent: c4464cf49ddb1a4bc78cfaa6f93b74de
+type: courses
+layout: videogallery
 ---
 *   [<Video 6: Overall Impact]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/video-6-overall-impact/_index.md" %}})
 *   [3.4.1Welcome to Recitation 3]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/_index.md" %}})

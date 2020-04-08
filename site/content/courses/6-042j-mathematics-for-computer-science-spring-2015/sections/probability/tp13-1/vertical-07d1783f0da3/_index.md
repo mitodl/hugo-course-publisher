@@ -6,6 +6,8 @@ menu:
     identifier: 264ec4271e9bf721357f6e77d50cabc6
     weight: 2580
     parent: 025c498f3f5e1c53924f7e40eb06a220
+type: courses
+layout: videogallery
 ---
 *   [<Uneven Dice](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-d324b518e79a)
 *   [4.5.1Expectation: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1)

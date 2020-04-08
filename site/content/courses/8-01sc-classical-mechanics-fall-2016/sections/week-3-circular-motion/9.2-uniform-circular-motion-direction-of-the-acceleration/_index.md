@@ -6,6 +6,8 @@ menu:
     identifier: 99b2aae91efd1f4b85d004692793deb9
     weight: 640
     parent: 3c7d357cbb95e729679b539d23714ede
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/9.1-uniform-circular-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/9.3-period-and-frequency" %}}) »
 

@@ -6,6 +6,8 @@ menu:
     identifier: 6b3dcf5df1b96c6d56f173303bd60a95
     weight: 1080
     parent: 30a0182e39fc2a66241efb67db839b1d
+type: courses
+layout: videogallery
 ---
 *   [<Divisibility and Congruence](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-2/vertical-d0520d30ae3f)
 *   [2.2.1Congruence mod n: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-2)

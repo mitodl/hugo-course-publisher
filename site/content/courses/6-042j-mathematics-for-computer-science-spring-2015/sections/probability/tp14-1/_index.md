@@ -6,6 +6,8 @@ menu:
     identifier: a3bc4574329a2834df030de577ce1f81
     weight: 2800
     parent: 90a207e82f8b3b1369067b58f9c6f169
+type: courses
+layout: videogallery
 ---
 *   [<Implications of Expectation](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-4699d069607e)
 *   [4.7.1Law Of Large Numbers: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1)

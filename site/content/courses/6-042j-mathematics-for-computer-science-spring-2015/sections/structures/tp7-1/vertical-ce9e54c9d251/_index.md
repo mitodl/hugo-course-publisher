@@ -6,6 +6,8 @@ menu:
     identifier: 73fc19cef8be1c0516653a1d3df499ce
     weight: 1340
     parent: 30a03ec26577751dfb8c5b6d0813ce12
+type: courses
+layout: videogallery
 ---
 *   [<Scheduling Prerequisites](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/vertical-cb2dbc0f9d11)
 *   [2.6.1DAGs: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1)

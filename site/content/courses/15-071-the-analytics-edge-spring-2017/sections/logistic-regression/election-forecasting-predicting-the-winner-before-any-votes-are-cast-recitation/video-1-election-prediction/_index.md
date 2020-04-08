@@ -8,6 +8,8 @@ menu:
     identifier: 1b20fb75340f27697ffe9d500a06dad9
     weight: 1050
     parent: cd55cbba60f6d5d37320e05f520c4cf1
+type: courses
+layout: videogallery
 ---
 *   [<Election Forecasting: Predicting the Winner Before any Votes are Cast (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation" %}})
 *   [3.4.1Welcome to Recitation 3]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation" %}})

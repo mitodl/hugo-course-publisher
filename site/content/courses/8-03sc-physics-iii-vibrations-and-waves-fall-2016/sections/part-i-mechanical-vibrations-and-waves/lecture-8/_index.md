@@ -6,6 +6,8 @@ menu:
     identifier: ca53d2a975399f6f97d2cbedae117060
     weight: 110
     parent: 6682a3d163976bcbb2fbe67db27d8f04
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-7/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-9/_index.md" %}}) »
 

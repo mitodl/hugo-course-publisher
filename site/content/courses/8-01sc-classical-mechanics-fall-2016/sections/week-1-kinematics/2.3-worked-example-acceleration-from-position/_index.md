@@ -6,6 +6,8 @@ menu:
     identifier: e2681bc376381c8323b6624545050a09
     weight: 230
     parent: 63e325a780c79e352fb5bddb9b8b2c6a
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/2.2-acceleration-in-1d" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/2.4-integration" %}}) »
 

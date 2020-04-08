@@ -6,6 +6,8 @@ menu:
     identifier: 5ad4adabcbfd96519c29e15788beb6c4
     weight: 1890
     parent: 93998ab0044352e85efcb877380e8e28
+type: courses
+layout: videogallery
 ---
 *   [<Harmonic Numbers](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-c496866a2419)
 *   [3.1.1Arithmetic Sums: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2)

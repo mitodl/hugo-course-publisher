@@ -6,6 +6,8 @@ menu:
     identifier: b230ed3c9600c2eaae03c8ae234dd977
     weight: 220
     parent: 63e325a780c79e352fb5bddb9b8b2c6a
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/2.1-introduction-to-acceleration" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/2.3-worked-example-acceleration-from-position" %}}) »
 

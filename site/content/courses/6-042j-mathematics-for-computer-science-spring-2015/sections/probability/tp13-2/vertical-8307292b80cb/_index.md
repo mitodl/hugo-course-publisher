@@ -6,6 +6,8 @@ menu:
     identifier: f72196b0fb5125ce246847fc86beda90
     weight: 2710
     parent: f195ee849b9aee3ccf61f90bea10cebb
+type: courses
+layout: videogallery
 ---
 *   [<Don't Expect the Expectation](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-18d81b8ca2e1)
 *   [4.6.1Deviation From The Mean: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2)

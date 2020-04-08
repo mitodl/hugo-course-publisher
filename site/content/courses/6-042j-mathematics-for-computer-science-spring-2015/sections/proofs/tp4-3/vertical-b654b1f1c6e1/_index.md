@@ -6,6 +6,8 @@ menu:
     identifier: 2b923648e33acab15b802e2ba689daec
     weight: 890
     parent: 7b14af4d984597ad410998ecc9fb9f71
+type: courses
+layout: videogallery
 ---
 *   [<Countable and Uncountable Sets](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-3077e4479731)
 *   [1.11.1Cardinality: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3)

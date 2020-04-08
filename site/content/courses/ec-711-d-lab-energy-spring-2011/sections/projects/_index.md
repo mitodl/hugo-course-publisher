@@ -5,6 +5,9 @@ menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: b769b31f283dae0eca5f75068d997bdb
     weight: 190
+type: courses
+layout: videogallery
+is_media_gallery: true
 ---
 During the first seven weeks of class, project work builds incrementally as described in each week's lectures, labs, and assignments. The [Project Work list]({{% getpage "courses/ec-711-d-lab-energy-spring-2011/sections/wind-micro-hydro/_index.md" %}}#Assignments) in Week 5 Assignments summarizes much of that preliminary work.
 

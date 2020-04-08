@@ -8,6 +8,8 @@ menu:
     identifier: e6c5cd7b6c458a54bf3513e7c7c4921e
     weight: 1070
     parent: cd55cbba60f6d5d37320e05f520c4cf1
+type: courses
+layout: videogallery
 ---
 *   [<Video 2: Dealing with Missing Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-2-dealing-with-missing-data" %}})
 *   [3.4.1Welcome to Recitation 3]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation" %}})

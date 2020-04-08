@@ -6,6 +6,8 @@ menu:
     identifier: f38128e4b503ea049e1fd330c59669a7
     weight: 450
     parent: cf6d9ae85d7b6e788f1e70cf24afc329
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/5.1-universal-law-of-gravitation" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/5.3-gravity-at-the-surface-of-the-earth-the-value-of-g" %}}) »
 

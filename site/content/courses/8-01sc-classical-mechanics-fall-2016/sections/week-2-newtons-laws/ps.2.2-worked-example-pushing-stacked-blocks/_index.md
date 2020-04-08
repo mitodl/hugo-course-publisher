@@ -6,6 +6,8 @@ menu:
     identifier: 00aef6423d37f1e08db3ced31e4003c0
     weight: 550
     parent: cf6d9ae85d7b6e788f1e70cf24afc329
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.1-worked-example-sliding-block" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.3-window-washer-problem" %}}) »
 

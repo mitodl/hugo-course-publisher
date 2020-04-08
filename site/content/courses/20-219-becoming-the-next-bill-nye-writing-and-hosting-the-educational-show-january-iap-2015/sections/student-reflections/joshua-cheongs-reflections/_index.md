@@ -7,6 +7,8 @@ menu:
     identifier: 7b1a98fc328d4951fd19a2109aff7506
     weight: 360
     parent: dadfeb1198fbe700d205d71a4c85f081
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/kenneth-cheahs-reflections" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/andrea-desrosierss-reflections" %}}) »
 

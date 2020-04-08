@@ -6,6 +6,8 @@ menu:
     identifier: db37fee9220d4ca01ae046baacb7fc38
     weight: 190
     parent: 1ac933da13d13dfa2e3803abf2d6971f
+type: courses
+layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question-4" %}})
 *   [1.3.1Download and Install R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r" %}})

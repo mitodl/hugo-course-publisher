@@ -6,6 +6,8 @@ menu:
     identifier: 869e8587bad05bba6781da19b701a57a
     weight: 820
     parent: 919a2c506eb4551d940bb0dbab2356f0
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/12.5-worked-example-2-blocks-and-2-pulleys" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/13.2-differential-analysis-of-a-massive-rope" %}}) »
 

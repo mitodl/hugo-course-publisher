@@ -6,6 +6,8 @@ menu:
     identifier: 602ce034a62f6b4a95884c519f8f4412
     weight: 850
     parent: e1f8a1b789b83e57da0e01f4ada7283a
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-63-numerical-integration/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-65-bell-curve-conclusion/_index.md" %}}) »
 

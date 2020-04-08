@@ -6,6 +6,8 @@ menu:
     identifier: 647a1b5c5d6b626d39aa4ad77903806e
     weight: 2440
     parent: 716f78f61fe6c5f47370d7a3c4127827
+type: courses
+layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-540" %}})
 *   [7.3.1Video 1: Predictive Policing]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order" %}})

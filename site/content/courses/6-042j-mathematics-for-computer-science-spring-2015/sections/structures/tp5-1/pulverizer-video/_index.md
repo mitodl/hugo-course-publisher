@@ -6,6 +6,8 @@ menu:
     identifier: 4f0d2a1617bb084a25bc66ef9e653651
     weight: 990
     parent: 405693053755e5d6fb1b1e2592fa311e
+type: courses
+layout: videogallery
 ---
 *   [<Run Euclid Run](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/vertical-b30047e37cc7)
 *   [2.1.1GCDs & Linear Combinations: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1)

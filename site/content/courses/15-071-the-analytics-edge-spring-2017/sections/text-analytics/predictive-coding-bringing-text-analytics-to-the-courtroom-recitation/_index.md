@@ -6,6 +6,8 @@ menu:
     identifier: d4b1a3b942ed98d194feb3777ba22595
     weight: 1820
     parent: 5847ad879afecf3e9b93c20cffe87acf
+type: courses
+layout: videogallery
 ---
 *   [<Video 6: The Results]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-6-the-results/_index.md" %}})
 *   [5.4.1Welcome to Recitation 5]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/_index.md" %}})

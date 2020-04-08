@@ -6,6 +6,8 @@ menu:
     identifier: c49bcae20a4ca2c2df6ffcf549f3c5f3
     weight: 330
     parent: 898636543b8426a3a53091cb22239ee9
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-28" %}}) »
 

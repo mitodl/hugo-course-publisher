@@ -5,5 +5,8 @@ menu:
   ec-711-d-lab-energy-spring-2011:
     identifier: 97d18199d8e130f96762504a4894e1bc
     weight: 130
+type: courses
+layout: videogallery
+is_media_gallery: true
 ---
 null

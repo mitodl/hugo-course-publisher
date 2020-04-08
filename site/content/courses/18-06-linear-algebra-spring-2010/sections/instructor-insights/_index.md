@@ -5,6 +5,8 @@ menu:
   18-06-linear-algebra-spring-2010:
     identifier: 3f3b7835cf477d3ba10b05fbe03cbffa
     weight: 30
+type: courses
+layout: videogallery
 ---
 Instructor Insights
 -------------------

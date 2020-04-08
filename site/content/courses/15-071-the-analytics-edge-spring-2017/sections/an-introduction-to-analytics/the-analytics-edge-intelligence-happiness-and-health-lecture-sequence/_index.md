@@ -8,6 +8,8 @@ menu:
     identifier: 9fb459369f44df97dad389bb5d1aa82c
     weight: 80
     parent: bebdc8ab5b1f9682d6b762b671b5cf25
+type: courses
+layout: videogallery
 ---
 *   [<Welcome to Unit 1]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/welcome-to-unit-1/_index.md" %}})
 *   [1.2.1Video 1: Introduction to The Analytics Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/_index.md" %}})

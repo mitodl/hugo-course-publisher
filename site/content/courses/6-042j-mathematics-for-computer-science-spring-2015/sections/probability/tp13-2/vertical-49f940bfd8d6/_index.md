@@ -6,6 +6,8 @@ menu:
     identifier: 3371149b256c64a83ee658774d2d4987
     weight: 2730
     parent: f195ee849b9aee3ccf61f90bea10cebb
+type: courses
+layout: videogallery
 ---
 *   [<Markov Bound](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/vertical-ecd276750fa8)
 *   [4.6.1Deviation From The Mean: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2)

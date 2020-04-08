@@ -6,6 +6,8 @@ menu:
     identifier: c00c7194c0cea091fd9bc5f3ba49fe85
     weight: 340
     parent: 63e325a780c79e352fb5bddb9b8b2c6a
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.2-shooting-the-apple" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.4-sketch-the-motion" %}}) »
 

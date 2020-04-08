@@ -6,6 +6,8 @@ menu:
     identifier: 0f1188dc261abcd9fb9aa4c677f9db3a
     weight: 350
     parent: 63e325a780c79e352fb5bddb9b8b2c6a
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.3-worked-example-braking-car" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.5-worked-example-pedestrian-and-bike-at-intersection" %}}) »
 

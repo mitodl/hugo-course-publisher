@@ -6,6 +6,8 @@ menu:
     identifier: 4091add94fdb8a1848b4bd553bd85760
     weight: 2970
     parent: 696dd6e442cc1fc47c9f2924e2edfb26
+type: courses
+layout: videogallery
 ---
 *   [<Video 3: Prices and Queries]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-3-prices-and-queries" %}})
 *   [8.4.1Welcome to Recitation 8]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation" %}})

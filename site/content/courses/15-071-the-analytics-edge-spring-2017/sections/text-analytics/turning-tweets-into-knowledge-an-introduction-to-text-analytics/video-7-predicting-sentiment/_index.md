@@ -6,6 +6,8 @@ menu:
     identifier: 6faa3dc62c17bf81844bb5d994e997d9
     weight: 1680
     parent: aea3bc9c07f7364865c46fec93dd8515
+type: courses
+layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/quick-question-390" %}})
 *   [5.2.1Video 1: Twitter]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics" %}})

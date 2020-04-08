@@ -8,6 +8,8 @@ menu:
     identifier: 7ec4c75199831ed5fc361da93d0a2ec1
     weight: 2300
     parent: fbf76190d89eeed2930e51f9ac3bf2a6
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/36.1-friction-on-a-rolling-wheel" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/36.3-spool-demo" %}}) »
 

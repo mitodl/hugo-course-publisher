@@ -6,6 +6,8 @@ menu:
     identifier: f914f1dccfe8c98b34b42bcf2aa6e075
     weight: 930
     parent: 6b4ef50053da70f0e8654886100e09bb
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-69-integral-of-sin-n-x-cos-m-x-even-exponents/_index.md" %}}) »
 

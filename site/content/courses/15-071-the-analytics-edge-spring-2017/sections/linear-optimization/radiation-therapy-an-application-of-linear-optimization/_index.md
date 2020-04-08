@@ -6,6 +6,8 @@ menu:
     identifier: 7a59278a134c5085244c381fc6090890
     weight: 2820
     parent: daafaa58867c9765f1c4c60a9c0ed426
+type: courses
+layout: videogallery
 ---
 *   [<Video 8: The Edge of Revenue Management]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-8-the-edge-of-revenue-management/_index.md" %}})
 *   [8.3.1Video 1: Introduction]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/radiation-therapy-an-application-of-linear-optimization/_index.md" %}})

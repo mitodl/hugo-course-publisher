@@ -6,6 +6,8 @@ menu:
     identifier: 17929c9ec324e987cc81f0233bae0eee
     weight: 1060
     parent: be9d889d28b57df1a77bbd83f2f4f214
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-78-computing-the-length-of-a-curve/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/problem-set-10/_index.md" %}}) »
 

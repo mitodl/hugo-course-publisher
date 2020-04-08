@@ -6,6 +6,8 @@ menu:
     identifier: 2093fa038f0b9e63c68049a3ed4867fd
     weight: 40
     parent: 36cc671ac04c270e9cac7a210efd6846
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2" %}}) »
 

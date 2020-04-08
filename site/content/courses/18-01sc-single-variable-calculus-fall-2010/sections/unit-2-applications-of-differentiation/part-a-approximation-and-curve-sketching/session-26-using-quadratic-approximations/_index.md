@@ -6,6 +6,8 @@ menu:
     identifier: 83a48b57d3d2a4086881aa5771dbfcba
     weight: 350
     parent: 8c88ae0417475c6dae97e569853bfd9e
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-25-introduction-to-quadratic-appoximation/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-27-sketching-graphs-i-polynomials-and-rational-functions/_index.md" %}}) »
 

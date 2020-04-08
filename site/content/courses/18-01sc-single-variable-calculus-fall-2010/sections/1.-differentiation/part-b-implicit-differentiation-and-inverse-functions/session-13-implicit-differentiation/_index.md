@@ -6,6 +6,8 @@ menu:
     identifier: 796ea10c25d27cfaf1a12bb6262c8bff
     weight: 180
     parent: ea455a8ae7f0daad0b8d5033112f5f5e
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation/_index.md" %}}) »
 

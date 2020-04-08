@@ -6,6 +6,8 @@ menu:
     identifier: 30a0182e39fc2a66241efb67db839b1d
     weight: 1060
     parent: 20b0a2b7a262cb94efd44e9e00511cee
+type: courses
+layout: videogallery
 ---
 *   [<GCDs II](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/vertical-912ad2b397a4)
 *   [2.2.1Congruence mod n: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-2)

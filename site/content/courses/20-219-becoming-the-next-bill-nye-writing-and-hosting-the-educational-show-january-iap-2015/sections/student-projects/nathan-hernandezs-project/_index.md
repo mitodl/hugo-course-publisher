@@ -7,6 +7,8 @@ menu:
     identifier: 65f298a79f2a0550e78ed9fc7ff17ff4
     weight: 290
     parent: 6df56ca86d884c27d497aee73b724945
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project" %}}) »
 

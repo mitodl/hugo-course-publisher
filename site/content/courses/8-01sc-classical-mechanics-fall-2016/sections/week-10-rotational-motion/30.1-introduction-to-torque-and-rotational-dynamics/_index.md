@@ -6,6 +6,8 @@ menu:
     identifier: 016638c7858e4b42d525668d3166eba0
     weight: 1910
     parent: 146d8dd77c99bbafceb8ed10af8bee47
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/29.6-derivation-of-the-parallel-axis-theorem" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/30.2-cross-product" %}}) »
 

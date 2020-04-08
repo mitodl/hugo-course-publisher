@@ -6,6 +6,9 @@ menu:
     identifier: cc396362e27aa4169fbb66fd1cb19b76
     weight: 200
     parent: b769b31f283dae0eca5f75068d997bdb
+type: courses
+layout: videogallery
+is_media_gallery: true
 ---
 2011 Projects
 -------------

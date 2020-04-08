@@ -6,6 +6,8 @@ menu:
     identifier: 88e03c4e4209b708b104844551a8a091
     weight: 1730
     parent: 47305688cc389e2f9dc3019a395b3b37
+type: courses
+layout: videogallery
 ---
 *   [<Mating Ritual](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/mating-ritual-0)
 *   [2.11.1Stable Matching: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching)

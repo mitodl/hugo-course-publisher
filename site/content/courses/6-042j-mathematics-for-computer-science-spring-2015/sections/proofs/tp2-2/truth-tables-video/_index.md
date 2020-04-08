@@ -6,6 +6,8 @@ menu:
     identifier: 3dc85d2964027d254560f6c2d785769f
     weight: 310
     parent: 8de160a9e7299f7fec8a58aef5106eef
+type: courses
+layout: videogallery
 ---
 *   [<Digital Logic: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/digital-logic-video)
 *   [1.4.1Propositional Operators: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2)

@@ -6,6 +6,8 @@ menu:
     identifier: 738ec89ee32e8ed68e9df4d6924ebe0b
     weight: 2190
     parent: 0943bd811d9caf9e92bf3c7bf9d7b9f2
+type: courses
+layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/quick-question-499" %}})
 *   [6.3.1Video 1: Heart Attacks]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection" %}})

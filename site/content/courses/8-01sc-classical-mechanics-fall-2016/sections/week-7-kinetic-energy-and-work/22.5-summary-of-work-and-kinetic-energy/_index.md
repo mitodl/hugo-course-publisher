@@ -6,6 +6,8 @@ menu:
     identifier: ad04436f146e97c235883711b1ac5558
     weight: 1430
     parent: 1099b7667930f7e51cccc80d63899c02
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/22.4-non-conservative-forces" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface" %}}) »
 

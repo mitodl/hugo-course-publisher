@@ -6,6 +6,8 @@ menu:
     identifier: fbf2b7049246466ef24736bff248b7c3
     weight: 3050
     parent: db42b40ad705f431a7e23a1d11cec341
+type: courses
+layout: videogallery
 ---
 *   [<Welcome to Unit 9]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/welcome-to-unit-9/_index.md" %}})
 *   [9.2.1Video 1: Introduction]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/_index.md" %}})

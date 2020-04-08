@@ -7,6 +7,8 @@ menu:
     identifier: 199a8a68327fee7d62ee54642710c541
     weight: 300
     parent: 6df56ca86d884c27d497aee73b724945
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/david-yams-project" %}}) »
 

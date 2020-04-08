@@ -6,6 +6,8 @@ menu:
     identifier: f0a4bb746fd734de38118b0ff7607e0b
     weight: 150
     parent: 962d171611a101d49f865818d41217eb
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/problem-set-1/_index.md" %}}) »
 

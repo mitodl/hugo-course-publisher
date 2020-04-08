@@ -6,6 +6,8 @@ menu:
     identifier: 109f4d41cb88fdaade16336e6c117167
     weight: 1510
     parent: 20b0a2b7a262cb94efd44e9e00511cee
+type: courses
+layout: videogallery
 ---
 *   [<Non-Isomorphic Graphs](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/vertical-3c93d1aadcac)
 *   [2.9.1Coloring: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-3)

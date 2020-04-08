@@ -6,6 +6,8 @@ menu:
     identifier: 4eff05d7dd9bd856611cfe4f4cddcb98
     weight: 60
     parent: 962d171611a101d49f865818d41217eb
+type: courses
+layout: videogallery
 ---
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-2-examples-of-derivatives/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-4-limits-and-continuity/_index.md" %}}) »
 
