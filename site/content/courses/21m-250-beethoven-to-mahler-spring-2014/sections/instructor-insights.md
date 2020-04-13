@@ -6,4 +6,3 @@ menu:
     identifier: 2cb302aa7633a76a63a79e4e27e2c938
     weight: 20
 ---
-null
