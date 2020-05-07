@@ -1,11 +1,19 @@
 {{ define "main" }}
 {{ partial "course_section.html" . }}
-  {{ range (where .Pages ".Params.layout" "video") }}
+{{ range $index, $video := (where .Pages ".Params.layout" "video") }}
   <div class="video mb-2 border-light-grey rounded">
-    <h3>{{ .Params.title }}</h3>
-    <div>{{ .Params.about_this_resource_text | safeHTML | plainify }}</div>
-    {{ partial "youtube_player.html" . }}
+    <a class="topic-toggle"
+       href="#video-container_{{ $index }}"
+       data-toggle="collapse"
+       aria-controls="video-container_{{ $index }}"
+       aria-expanded="false">
+      EXPAND
+    </a>
+    <div class="video-container_{{ $index }}">
+      <h3>{{ $video.Params.title }}</h3>
+      <div>{{ $video.Params.about_this_resource_text | safeHTML | plainify }}</div>
+      {{ partial "youtube_player.html" . }}
+    </div>
   </div>
-  {{ end }}
-</ul>
+{{ end }}
 {{ end }}
