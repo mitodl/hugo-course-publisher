@@ -2,14 +2,14 @@
 {{ partial "course_section.html" . }}
 {{ range $index, $video := (where .Pages ".Params.layout" "video") }}
   <div class="video mb-2 border-light-grey rounded">
-    <a class="topic-toggle"
+    <a class="video-toggle"
        href="#video-container_{{ $index }}"
        data-toggle="collapse"
        aria-controls="video-container_{{ $index }}"
        aria-expanded="false">
       EXPAND
     </a>
-    <div class="video-container_{{ $index }}">
+    <div id="video-container_{{ $index }}" class="video-container collapse">
       <h3>{{ $video.Params.title }}</h3>
       <div>{{ $video.Params.about_this_resource_text | safeHTML | plainify }}</div>
       {{ partial "youtube_player.html" . }}
