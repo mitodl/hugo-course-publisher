@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-25-level-curves-and-contour-plots/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-25-level-curves-and-contour-plots/_index.md" %}}) »
 
 Overview
 --------
@@ -62,4 +62,4 @@ Problems and Solutions
 
 [Solutions (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-24-functions-of-two-variables-graphs/MIT18_02SC_pb_23_comb" %}})
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-25-level-curves-and-contour-plots/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-25-level-curves-and-contour-plots/_index.md" %}}) »

@@ -7,7 +7,7 @@ menu:
     weight: 1480
     parent: dd6fb5d90caac5e5061b3b20b27d5d15
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/final-exam-1/review/session-102-unit-4-review" %}})
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/final-exam-1/review/session-102-unit-4-review/_index.md" %}})
 
 Overview
 --------
@@ -27,4 +27,4 @@ Exam and Solutions
 Did this course have everything you needed to learn the subject? Are there ways we could improve it?  
 [Let us know](http://ocw.mit.edu/jsp/feedback.jsp?Referer=OCWScholar).
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/final-exam-1/review/session-102-unit-4-review" %}})
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/final-exam-1/review/session-102-unit-4-review/_index.md" %}})

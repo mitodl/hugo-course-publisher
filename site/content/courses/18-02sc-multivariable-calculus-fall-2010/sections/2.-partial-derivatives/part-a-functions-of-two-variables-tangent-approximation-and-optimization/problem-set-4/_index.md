@@ -7,7 +7,7 @@ menu:
     weight: 450
     parent: 5ee00816c5fb6f611e7327400ba69bef
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-31-example/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-31-example/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/_index.md" %}}) »
 
 Overview
 --------
@@ -41,4 +41,4 @@ Problem Set Solutions
 
 [Solutions to Supplemental Problems referenced in this problem set (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/problem-set-4/MIT18_02SC_SupProbSol2" %}})
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-31-example/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/session-31-example/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/_index.md" %}}) »

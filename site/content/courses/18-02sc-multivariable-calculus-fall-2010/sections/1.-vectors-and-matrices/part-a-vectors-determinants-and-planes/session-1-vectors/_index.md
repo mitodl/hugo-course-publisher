@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-2-dot-products/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-2-dot-products/_index.md" %}}) »
 
 Overview
 --------
@@ -63,4 +63,4 @@ Problems and Solutions
 
 [Solutions (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors/MIT18_02SC_pb_1_comb" %}})
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-2-dot-products/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-2-dot-products/_index.md" %}}) »

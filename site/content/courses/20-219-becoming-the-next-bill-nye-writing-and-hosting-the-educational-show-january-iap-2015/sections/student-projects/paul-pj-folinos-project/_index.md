@@ -10,7 +10,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project/_index.md" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project/_index.md" %}}) »
 
 [_Link to Paul (PJ) Folino's Page on Tumblr_](http://mit219.tumblr.com/tagged/pjfolino)
 
@@ -191,7 +191,7 @@ _(In Naval Construction design lab, simulation on desktop behind me)_ Computers 
 So even though ships might seem like these complicated, intricate things… they are really just based on physical principles that we already know.
 
 [\_Link back to Day 6  
-\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours" %}}#Instructor_and_Student_Work)
+\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours/_index.md" %}}#Instructor_and_Student_Work)
 
 Day 7 Script
 ------------
@@ -362,4 +362,4 @@ Paul's video was professionally produced by [Science Out Loud](http://k12videos.
 
 This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](https://www.k12videos.mit.edu/faqs) license.
 
-« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project/_index.md" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project/_index.md" %}}) »

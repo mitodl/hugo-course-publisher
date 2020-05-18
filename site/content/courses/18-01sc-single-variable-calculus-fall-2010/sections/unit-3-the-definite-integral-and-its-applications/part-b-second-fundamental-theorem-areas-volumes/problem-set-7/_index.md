@@ -7,7 +7,7 @@ menu:
     weight: 790
     parent: 82a633f32c2b0be84fba01f5e5741006
 ---
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/_index.md" %}}) »
 
 Overview
 --------
@@ -34,4 +34,4 @@ Use [Applications of Integration (PDF)]({{% getpage "courses/18-01sc-single-vari
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-59-volume-of-a-parabaloid-revolving-about-y-axis/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/_index.md" %}}) »

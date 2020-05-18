@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics/international-trade/_index.md" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics/international-trade/_index.md" %}}) »
 
 Session Overview
 ----------------
@@ -25,8 +25,8 @@ Session Activities
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\\\[R&T\\\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus" %}}#_R_T_) Chapter 14, "Imperfectly Competitive Markets for Factors of Production."
-*   \[[Perloff]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus" %}}#_Perloff_)\] Chapter 15, "Factor Markets and Vertical Integration." (optional)
+*   [\\\[R&T\\\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_R_T_) Chapter 14, "Imperfectly Competitive Markets for Factors of Production."
+*   \[[Perloff]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_Perloff_)\] Chapter 15, "Factor Markets and Vertical Integration." (optional)
 
 ### Lecture Videos
 
@@ -54,4 +54,4 @@ These optional resources are provided for students that wish to explore this top
 | --- | --- | --- |
 | [_14.64 Labor Economics and Public Policy, Fall 2009_](./resolveuid/e622054a701ceb2270808498b48968b0). | MIT OpenCourseWare | An in-depth course on labor economics. 
 
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics/international-trade/_index.md" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics/international-trade/_index.md" %}}) »

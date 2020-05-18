@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-5" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-7" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-5/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-7/_index.md" %}}) »
 
 Topics
 ------
@@ -24,12 +24,12 @@ Where is that electron anyway? In this lecture, the probability of finding an el
 Lecture Notes
 -------------
 
-[Notes for Lecture 6 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec6" %}})
+[Notes for Lecture 6 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-6/MIT5_111F14_Lec6" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 6 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec6Clkr" %}})
+[Lecture 6 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-6/MIT5_111F14_Lec6Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -54,8 +54,8 @@ Ben Ofori-Okai describes his realization that his love of problem-solving in mat
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 6 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec06Prob" %}})
+[Problems for Lecture 6 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-6/MIT5_111F14_Lec06Prob" %}})
 
-[Solutions for Lecture 6 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec06Soln" %}})
+[Solutions for Lecture 6 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-6/MIT5_111F14_Lec06Soln" %}})
 
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-5" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-7" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-5/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-7/_index.md" %}}) »

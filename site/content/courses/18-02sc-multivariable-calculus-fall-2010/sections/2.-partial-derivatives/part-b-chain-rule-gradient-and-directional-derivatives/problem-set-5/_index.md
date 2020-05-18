@@ -7,7 +7,7 @@ menu:
     weight: 540
     parent: e7048e4bfd0d70c8ef294e9d7a9c4a9d
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-38-directional-derivatives/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-38-directional-derivatives/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/_index.md" %}}) »
 
 Overview
 --------
@@ -23,7 +23,7 @@ Problem Set
 [Problem Set 5 (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/problem-set-5/MIT18_02SC_pset5" %}})  
 [Problem Set 5 Solutions (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/problem-set-5/MIT18_02SC_pset5sol" %}})
 
-[Supplemental Problems referenced in this problem set (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/problem-set-4/MIT18_02SC_SupProb2" %}})  
-[Solutions to Supplemental Problems referenced in this problem set (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-a-functions-of-two-variables-tangent-approximation-and-optimization/problem-set-4/MIT18_02SC_SupProbSol2" %}})
+[Supplemental Problems referenced in this problem set (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/problem-set-5/MIT18_02SC_SupProb2" %}})  
+[Solutions to Supplemental Problems referenced in this problem set (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/problem-set-5/MIT18_02SC_SupProbSol2" %}})
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-38-directional-derivatives/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-38-directional-derivatives/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/_index.md" %}}) »

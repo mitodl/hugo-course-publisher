@@ -32,7 +32,7 @@ Table-read
 | {{< br >}}{{< br >}} | [Yuliya's Script (DOC)](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/3c915481a58d47dd1c87e8c260dde10a_MIT20_219IAP15_Fractals.docx) |
 | {{< br >}}{{< br >}} | [David's Script (DOC)](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/fa6a637af9a24439c26ec60782a671fc_MIT20_219IAP15_Cold.docx) |
 | {{< br >}}{{< br >}} | Nathan's script is not available |
-| {{< br >}}{{< br >}} | [Andrea's Script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}#Ortho_Script) |
+| {{< br >}}{{< br >}} | [Andrea's Script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project/_index.md" %}}#Ortho_Script) |
 | {{< br >}}{{< br >}} | [PJ's Script (DOC)](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/7f91a6ca759e3e98f938ae25c1c5ef91_MIT20_219IAP15_Folino.docx) 
 
 Assignment
@@ -47,7 +47,7 @@ Instructor and Student Work
 
 ### Daily Blogs / Vlogs
 
-*   [Elizabeth's day 6 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections" %}}#Echoe_s_Day_6_Thoughts)
+*   [Elizabeth's day 6 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections/_index.md" %}}#Echoe_s_Day_6_Thoughts)
 *   [Andrea's day 6 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/andrea-desrosierss-reflections" %}}#Day_6_Vlog)
 *   [PJ's day 6 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/paul-pj-folinos-reflections" %}}#Pjfolino_s_Day_6_Thoughts)
 *   [Nathan's day 6 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/nathan-hernandezs-reflections" %}}#Day_6_Reflection)

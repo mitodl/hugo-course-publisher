@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/_index.md" %}}) »
 
 Overview
 --------
@@ -34,4 +34,4 @@ Summing the Geometric Series
 *   [Problem (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-94-infinite-series/MIT18_01SCF10_ex94prb" %}})
 *   [Solution (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-94-infinite-series/MIT18_01SCF10_ex94sol" %}})
 
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/_index.md" %}}) »

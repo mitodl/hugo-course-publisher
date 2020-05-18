@@ -81,7 +81,7 @@ Really hope that this next script is something better. Started it from scratch, 
 
 Felt that Paul and Yulia had really interesting scripts and everybody who presented today presented really well. (On a side note, I feel that people in America present better in general overall!) I would be very interested in watching their videos when it comes out! All the best guys. We've got about a week plus left. XD
 
-[\_Link back to Day 6\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours" %}}#Instructor_and_Student_Work)
+[\_Link back to Day 6\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours/_index.md" %}}#Instructor_and_Student_Work)
 
 Day 11 Thoughts
 ---------------

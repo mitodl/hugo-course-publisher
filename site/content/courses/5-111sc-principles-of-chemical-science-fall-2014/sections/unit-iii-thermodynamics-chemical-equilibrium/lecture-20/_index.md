@@ -29,7 +29,7 @@ Lecture Notes
 Clicker Questions
 -----------------
 
-[Lecture 20 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec20Clkr" %}})
+[Lecture 20 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-20/MIT5_111F14_Lec20Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -53,8 +53,8 @@ Hector Hernandez describes how Le Chatelier’s principle and the effects of pre
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 20 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec20Prob" %}})
+[Problems for Lecture 20 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-20/MIT5_111F14_Lec20Prob" %}})
 
-[Solutions for Lecture 20 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec20Soln" %}})
+[Solutions for Lecture 20 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-20/MIT5_111F14_Lec20Soln" %}})
 
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-19/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-21/_index.md" %}}) »

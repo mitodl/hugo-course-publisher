@@ -10,7 +10,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/ceri-rileys-reflections" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/_index.md" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/ceri-rileys-reflections" %}}) »
 
 [Day 1](#Echoe_s_Day_1_Thoughts) | [Day 2](#Echoe_s_Day_2_Thoughts) | [Day 3](#Echoe_s_Day_3_Thoughts) | [Day 4](#Echoe_s_Day_4_Thoughts) | [Day 5](#Echoe_s_Day_5_Thoughts) | [Day 6](#Echoe_s_Day_6_Thoughts) | [Day 7](#Echoe_s_Day_7_Thoughts) | [Day 9](#Echoe_s_Day_9_Thoughts) | [Day 11](#Echoe_s_Day_11_Thoughts)
 
@@ -106,7 +106,7 @@ Working with this class has made me realize more and more how much our tradition
 
 I'm also feeling a lot of time crunch - pressure to finish lectures, to finish drafts, to finish the project… I racked my brain thinking of the best way to pace this class, and even so, we're still super pressed for time. What have been the most vital components of this class so far? Do you think there are things I could've taken out? I thought about just having one - on  -one feedback with drafts just using Google Docs, but I wonder how much you would've missed out on by not reading your complete scripts aloud to the class and seeing their reactions and feedback (and hearing the teaching staff's feedback for other scripts)…
 
-[\_Link back to Day 6\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours" %}}#Instructor_and_Student_Work)
+[\_Link back to Day 6\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours/_index.md" %}}#Instructor_and_Student_Work)
 
 Day 7 Thoughts
 --------------
@@ -155,4 +155,4 @@ This video is courtesy of [Elizabeth Choe](https://www.youtube.com/channel/UCOdu
 
 [\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Instructor_and_Student_Work)
 
-« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/ceri-rileys-reflections" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/_index.md" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/ceri-rileys-reflections" %}}) »

@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.2-shooting-the-apple" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.4-sketch-the-motion" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.2-shooting-the-apple/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.4-sketch-the-motion/_index.md" %}}) »
 
 At time \\(\\displaystyle t=0 \\), a car moving along the +\\(\\displaystyle x \\)-axis passes through \\(\\displaystyle x=0 \\) with a constant velocity of magnitude \\(\\displaystyle v\_0 \\). At some time later, \\(\\displaystyle t\_1 \\), it starts to slow down. The acceleration of the car as a function of time is given by:
 
@@ -25,4 +25,4 @@ where \\(\\displaystyle c \\) is a positive constants in SI units, and \\(\\disp
 
 **(Part d)**. What is \\(\\displaystyle x(t) \\), the position of the car as a function of time during the time interval \\(\\displaystyle t\_1 \\lt t \\leq t\_2 \\)?
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.2-shooting-the-apple" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.4-sketch-the-motion" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.2-shooting-the-apple/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.4-sketch-the-motion/_index.md" %}}) »

@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/exam-1-review/MIT18_06SCF11_Ses1.14sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/ae051c7b15bd20481cbab408d5fca486)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/exam-1-review/l88D4r74gtM" %}})
 
 ### Suggested Reading
 
@@ -34,6 +34,6 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/0f5a0643c2eaa5667603aa39ec807f70)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/exam-1-review/AMLekTJR5_U" %}})
 
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/exam-1/_index.md" %}}) »

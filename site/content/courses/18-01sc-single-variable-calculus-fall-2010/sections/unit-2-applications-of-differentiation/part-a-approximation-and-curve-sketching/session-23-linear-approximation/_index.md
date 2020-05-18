@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-24-examples-of-linear-approximation/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-24-examples-of-linear-approximation/_index.md" %}}) »
 
 Overview
 --------
@@ -34,4 +34,4 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-24-examples-of-linear-approximation/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-24-examples-of-linear-approximation/_index.md" %}}) »

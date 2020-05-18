@@ -31,7 +31,7 @@ Lecture Notes
 Textbook Reading
 ----------------
 
-[Chapter 12: Polarization (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch12" %}}) (section 12.4 to end) 
+[Chapter 12: Polarization (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-19/MIT8_03SCF16_Text_Ch12" %}}) (section 12.4 to end) 
 
 Problem Set
 -----------

@@ -31,7 +31,7 @@ Lecture Notes
 Textbook Reading
 ----------------
 
-[Chapter 2: Forced Oscillation and Resonance (PDF - 1.3MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch2" %}})
+[Chapter 2: Forced Oscillation and Resonance (PDF - 1.3MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-2/MIT8_03SCF16_Text_Ch2" %}})
 
 In-class Demonstrations
 -----------------------

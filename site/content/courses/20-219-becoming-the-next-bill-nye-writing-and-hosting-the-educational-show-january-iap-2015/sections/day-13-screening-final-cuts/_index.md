@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/_index.md" %}}) »
 
 Contents
 --------
@@ -45,12 +45,12 @@ Part 2: Screening
 Student Work
 ------------
 
-*   [Kenneth's final project]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project" %}}#Final_Project)
-*   [Joshua's final project]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project" %}}#Final_Project)
-*   [Andrea's final project]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}#Final_Project)
-*   [PJ's final project]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project" %}}#Final_Project)
-*   [Nathan's final project]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project" %}}#Final_Project:_Breaking_Down_Decomposition)
-*   [Yuliya's final project]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project" %}}#Final_Project)
-*   [David's final project]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/david-yams-project" %}}#Final_Project)
+*   [Kenneth's final project]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project/_index.md" %}}#Final_Project)
+*   [Joshua's final project]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project/_index.md" %}}#Final_Project)
+*   [Andrea's final project]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project/_index.md" %}}#Final_Project)
+*   [PJ's final project]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project/_index.md" %}}#Final_Project)
+*   [Nathan's final project]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project/_index.md" %}}#Final_Project:_Breaking_Down_Decomposition)
+*   [Yuliya's final project]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project/_index.md" %}}#Final_Project)
+*   [David's final project]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/david-yams-project/_index.md" %}}#Final_Project)
 
-« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/_index.md" %}}) »

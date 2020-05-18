@@ -10,7 +10,7 @@ type: courses
 layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/quick-question-494" %}})
-*   [6.3.1Video 1: Heart Attacks]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection" %}})
+*   [6.3.1Video 1: Heart Attacks]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/_index.md" %}})
 *   [6.3.2Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/quick-question-481" %}})
 *   [6.3.3Video 2: The Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-2-the-data-6" %}})
 *   [6.3.4Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/quick-question-486" %}})

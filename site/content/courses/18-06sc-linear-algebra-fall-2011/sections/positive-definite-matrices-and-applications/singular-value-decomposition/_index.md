@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/singular-value-decomposition/MIT18_06SCF11_Ses3.5sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/6d3cc0942a8d806901fa2d66843652c6)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/singular-value-decomposition/TX_vooSnhm8" %}})
 
 ### Suggested Reading
 
@@ -34,7 +34,7 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/2ee97af6c631e8b1263af52999dc5336)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/singular-value-decomposition/pSbafxDHdgE" %}})
 
 Check Yourself
 --------------

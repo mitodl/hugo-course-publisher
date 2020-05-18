@@ -16,6 +16,6 @@ Mathematics is a tool for describing the world around us. Linear equations give 
 
 In this unit we write systems of linear equations in the matrix form _A_x = b. We explore how the properties of _A_ and b determine the solutions x (if any exist) and pay particular attention to the solutions to _A_x = 0. For a given matrix _A_ we ask which b can be written in the form _A_x.
 
-Looking for something specific in this course? The [Resource Index]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/resource-index/_index.md" %}}) compiles links to most course resources in a single page.
+Looking for something specific in this course? The [Resource Index]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/resource-index" %}}) compiles links to most course resources in a single page.
 
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/syllabus/meet-the-tas/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/_index.md" %}}) »

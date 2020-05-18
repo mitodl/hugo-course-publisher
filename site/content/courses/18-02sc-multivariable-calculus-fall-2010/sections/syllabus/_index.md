@@ -8,7 +8,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous](./resolveuid/7261fa356aaabb7a709e66753aad81ce) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/index.htm" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/_index.md" %}}) »
 
 Introduction
 ------------
@@ -116,4 +116,4 @@ Technical Requirements
 
 This course includes functionality that does not display correctly in Internet Explorer. For best results, we recommend viewing this course with [Firefox](http://www.mozilla.com/en-US/firefox/), [Safari](http://www.apple.com/safari/) or [Chrome](http://www.google.com/chrome).
 
-« [Previous](./resolveuid/7261fa356aaabb7a709e66753aad81ce) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/index.htm" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/_index.md" %}}) »

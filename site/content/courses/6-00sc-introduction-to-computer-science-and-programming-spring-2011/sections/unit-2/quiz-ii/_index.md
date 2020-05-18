@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-19-more-optimization-and-clustering/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3" %}}) »
+« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-19-more-optimization-and-clustering/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3/_index.md" %}}) »
 
 Quiz 2 covers all material (lectures, recitations, and problem sets) from the beginning of the course through [More Optimization and Clustering]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-19-more-optimization-and-clustering/_index.md" %}}).
 
@@ -40,4 +40,4 @@ The quiz should be completed in 90 minutes. This is an open book exam.
 *   [Quiz 2 Problems (PDF)]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/quiz-ii/MIT6_00SCS11_q2" %}})
 *   [Quiz 2 Solutions (PDF)]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/quiz-ii/MIT6_00SCS11_q2_soln" %}})
 
-« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-19-more-optimization-and-clustering/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3" %}}) »
+« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-19-more-optimization-and-clustering/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3/_index.md" %}}) »

@@ -29,7 +29,7 @@ Lecture Notes
 Clicker Questions
 -----------------
 
-[Lecture 18 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec18Clkr" %}})
+[Lecture 18 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-18/MIT5_111F14_Lec18Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -52,8 +52,8 @@ Nozomi Ando, a self-described artist and comic book lover, describes how her tra
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 18 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec18Prob" %}})
+[Problems for Lecture 18 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-18/MIT5_111F14_Lec18Prob" %}})
 
-[Solutions for Lecture 18 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec18Soln" %}})
+[Solutions for Lecture 18 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-18/MIT5_111F14_Lec18Soln" %}})
 
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-17/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-19/_index.md" %}}) »

@@ -29,7 +29,7 @@ Lecture Notes
 Clicker Questions
 -----------------
 
-[Lecture 12 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/MIT5_111F14_Lec12Clkr" %}})
+[Lecture 12 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-12/MIT5_111F14_Lec12Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -53,8 +53,8 @@ Stefanie Sydlik describes how an exciting “Take Your Daughter to Work Day” c
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 12 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/MIT5_111F14_Lec12Prob" %}})
+[Problems for Lecture 12 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-12/MIT5_111F14_Lec12Prob" %}})
 
-[Solutions for Lecture 12 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/MIT5_111F14_Lec12Soln" %}})
+[Solutions for Lecture 12 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-12/MIT5_111F14_Lec12Soln" %}})
 
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-11/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-13/_index.md" %}}) »

@@ -71,7 +71,7 @@ Instructor and Student Work
 
 ### Day 2 Blogs / Vlogs
 
-*   [Elizabeth's day 2 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections" %}}#Echoe_s_Day_2_Thoughts)
+*   [Elizabeth's day 2 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections/_index.md" %}}#Echoe_s_Day_2_Thoughts)
 *   [Ceri's day 2 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/ceri-rileys-reflections" %}}#Reflection_Day_2)
 *   [Kenneth's day 2 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/kenneth-cheahs-reflections" %}}#Blog_Entry_Day_2__Cheahyhk_)
 *   [Andrea's day 2 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/andrea-desrosierss-reflections" %}}#Day_2_Andrea_s_Struggles)
@@ -82,12 +82,12 @@ Instructor and Student Work
 
 ### Day 2 Scripts
 
-*   [Kenneth's day 2 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project" %}}#Day_2_Script)
-*   [Joshua's day 2 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project" %}}#Day_2_Script)
-*   [Andrea's day 2 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}#Day_2_Script)
-*   [PJ's day 2 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project" %}}#Day_2_Script)
-*   [Nathan's day 2 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project" %}}#Day_2_Script)
-*   [Yuliya's day 2 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project" %}}#Math_Woman_Saves_the_World)
-*   [David's day 2 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/david-yams-project" %}}#Day_2_Script)
+*   [Kenneth's day 2 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project/_index.md" %}}#Day_2_Script)
+*   [Joshua's day 2 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project/_index.md" %}}#Day_2_Script)
+*   [Andrea's day 2 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project/_index.md" %}}#Day_2_Script)
+*   [PJ's day 2 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project/_index.md" %}}#Day_2_Script)
+*   [Nathan's day 2 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project/_index.md" %}}#Day_2_Script)
+*   [Yuliya's day 2 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project/_index.md" %}}#Math_Woman_Saves_the_World)
+*   [David's day 2 script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/david-yams-project/_index.md" %}}#Day_2_Script)
 
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}) »

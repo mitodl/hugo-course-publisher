@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/problem-set-4/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-4-welfare-economics" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/problem-set-4/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-4-welfare-economics/_index.md" %}}) »
 
 Session Overview
 ----------------
@@ -29,8 +29,8 @@ Read the recitation notes, which cover new content that adds to and supplements 
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\\\[R&T\\\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus" %}}#_R_T_) Chapter 9, "Competitive Markets for Goods and Services."
-*   \[[Perloff]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus" %}}#_Perloff_)\] Chapter 8, "Competitive Firms and Markets." (optional)
+*   [\\\[R&T\\\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_R_T_) Chapter 9, "Competitive Markets for Goods and Services."
+*   \[[Perloff]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_Perloff_)\] Chapter 8, "Competitive Firms and Markets." (optional)
 
 ### Lecture Videos
 
@@ -47,4 +47,4 @@ This concept quiz covers key vocabulary terms and also tests your intuitive unde
 
 $( function($){ var quizMulti = { multiList: \[ { ques: "If you compare the elasticity of short-run supply in the markets for two different goods and one market has more firms than the other, which will have a more elastic supply curve?", ans: "The market with more firms.", ansSel: \["The market with fewer firms.", "There is no difference.", "It depends on the specific production function."\], ansInfo: "The supply curve becomes flatter (more elastic) with more firms in the market, because a given increase in price calls forth more production when there are many firms rather than one." }, { ques: "In the long run, firms should decide to shut down if what condition holds?", ans: "Price is less than both average cost and average variable cost.", ansSel: \["Price is less than average variable cost.", "Price is less than average cost.", "Price is less than average fixed cost."\], ansInfo: "In the long run, all costs are variable, and thus average variable cost and average cost are equivalent. The firm will shut down if price is less than average cost. Average fixed cost is not a relevant concept in the long-run, because all costs are considered to be variable." }, { ques: "In the long run, what cost measure is minimized?", ans: "Average cost.", ansSel: \["Marginal cost.", "Labor supply costs.", "Total cost."\], ansInfo: "In the long-run, average cost is minimized and the equilibrium is found where price equals minimum average costs." }, { ques: "In recent years, the American automobile manufacturing industry has struggled; assume that some companies are earning negative profits (i.e., they are losing money). In the long-run, what changes will we expect to see in this market?", ans: "Firm exit.", ansSel: \["Firm entry.", "A shift toward using more capital than labor.", "A shift toward using more labor than capital."\], ansInfo: "If profits are negative, firms should exit." }, { ques: "Which of the following is a reason that the long-run supply curve may not be flat and may instead be upward-sloping?", ans: "All of these.", ansSel: \["Entry is limited.", "Firms are different (i.e., some have lower costs than others).", "Input prices increase with output."\], ansInfo: "All of these factors will contribute to a failure of the mechanism by which competition leads to cost minimization in the long-run, and thus will generate an upward-sloping supply curve." }\] }; var options = { allRandom: false, Random: false, help: "", showHTML: false, animationType: 0, showWrongAns: true, title: "Concept test 1", }; $("#quizArea").jQuizMe(quizMulti, options); });
 
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/problem-set-4/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-4-welfare-economics" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/problem-set-4/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-4-welfare-economics/_index.md" %}}) »

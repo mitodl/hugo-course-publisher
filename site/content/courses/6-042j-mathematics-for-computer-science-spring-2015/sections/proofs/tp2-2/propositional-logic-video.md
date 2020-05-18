@@ -22,7 +22,7 @@ menu:
 Propositional Logic
 -------------------
 
-There is no video for this section, but [slides on Propositional Logic are available]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/lecture-slides/MIT6_042JS16_PropositLogic" %}}).
+There is no video for this section, but [slides on Propositional Logic are available]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/propositional-logic-videoMIT6_042JS16_PropositLogic" %}}).
 
 *   [BackImplies: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/implies-video)
 *   [ContinueSoundness and Validity](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/vertical-ed6030bda119)

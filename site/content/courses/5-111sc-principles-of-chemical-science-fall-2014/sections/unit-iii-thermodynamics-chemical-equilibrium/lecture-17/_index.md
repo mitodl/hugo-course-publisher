@@ -29,7 +29,7 @@ Lecture Notes
 Clicker Questions
 -----------------
 
-[Lecture 17 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec17Clkr" %}})
+[Lecture 17 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-17/MIT5_111F14_Lec17Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -52,8 +52,8 @@ Lourdes Alemán, a Cuban-American, shares her greatest source of inspiration thr
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 17 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec17Prob" %}})
+[Problems for Lecture 17 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-17/MIT5_111F14_Lec17Prob" %}})
 
-[Solutions for Lecture 17 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec17Soln" %}})
+[Solutions for Lecture 17 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-17/MIT5_111F14_Lec17Soln" %}})
 
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-16/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-18/_index.md" %}}) »

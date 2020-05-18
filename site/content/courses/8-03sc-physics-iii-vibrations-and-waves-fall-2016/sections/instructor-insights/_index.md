@@ -8,7 +8,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/_index.md" %}}) »
 
 Instructor Insights
 -------------------
@@ -163,4 +163,4 @@ Semester Breakdown
 
 ![Displays the symbol used on the preceding table to indicate dates when exams are held.](/images/educator/edu_b-present-key.png) Exam
 
-« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/_index.md" %}}) »

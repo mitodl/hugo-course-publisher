@@ -16,6 +16,6 @@ We will spend some time on random walks and Monte Carlo simulations, a very powe
 
 At the end of Unit 2 there will be an exam covering all material (lectures, recitations, and problem sets) from the beginning of the course through [More Optimization and Clustering]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-19-more-optimization-and-clustering/_index.md" %}}).
 
-Looking for something specific in this course? The [Resource Index]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/resource-index/_index.md" %}}) compiles links to most course resources in a single page.
+Looking for something specific in this course? The [Resource Index]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/resource-index" %}}) compiles links to most course resources in a single page.
 
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/quiz-i/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/lecture-10-hashing-and-classes/_index.md" %}}) »

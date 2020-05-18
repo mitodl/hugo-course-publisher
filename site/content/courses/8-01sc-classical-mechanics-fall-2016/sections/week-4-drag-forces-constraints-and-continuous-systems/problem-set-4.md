@@ -7,7 +7,7 @@ menu:
     weight: 910
     parent: 919a2c506eb4551d940bb0dbab2356f0
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/14.3-resistive-forces-high-speed-case" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/14.3-resistive-forces-high-speed-case" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/_index.md" %}}) »
 
 Problem Set 4 contains the following problems:
 
@@ -18,6 +18,6 @@ Problem Set 4 contains the following problems:
 5.  Drag Force at Low Speeds
 6.  Two Pulleys, Two Strings and Two Blocks
 
-*   [Problem Set 4 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset4" %}})
+*   [Problem Set 4 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/problem-set-4MIT8_01F16_pset4" %}})
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/14.3-resistive-forces-high-speed-case" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/14.3-resistive-forces-high-speed-case" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/_index.md" %}}) »

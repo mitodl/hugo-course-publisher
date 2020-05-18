@@ -53,7 +53,7 @@ Instructor and Student Work
 
 ### Blogs / Vlogs
 
-*   [Elizabeth's day 3 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections" %}}#Echoe_s_Day_3_Thoughts)
+*   [Elizabeth's day 3 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections/_index.md" %}}#Echoe_s_Day_3_Thoughts)
 *   [Ceri's day 3 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/ceri-rileys-reflections" %}}#Reflection_Day_3 )
 *   [Kenneth's day 3 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/kenneth-cheahs-reflections" %}}#CHEAHYHK_DAY_3)
 *   [Joshua's day 3 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/joshua-cheongs-reflections" %}}#Day_3_Reflections)
@@ -64,12 +64,12 @@ Instructor and Student Work
 
 ### Trailers
 
-*   [Kenneth's day 3 trailer]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project" %}}#Day_3_Trailer)
-*   [Joshua's day 3 trailer]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project" %}}#Day_3_Trailer)
-*   [Andrea's day 3 trailer]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}#Day_3_Trailer)
-*   [PJ's day 3 trailer]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project" %}}#Subdivision_Pitch)
-*   [Nathan's day 3 trailer]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project" %}}#Day_3_Pitch)
-*   [Yuliya's day 3 trailer]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project" %}}#Day_3_Trailer:_Fractals_)
-*   [David's day 3 trailer]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/david-yams-project" %}}#Day_3_Pitch)
+*   [Kenneth's day 3 trailer]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project/_index.md" %}}#Day_3_Trailer)
+*   [Joshua's day 3 trailer]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project/_index.md" %}}#Day_3_Trailer)
+*   [Andrea's day 3 trailer]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project/_index.md" %}}#Day_3_Trailer)
+*   [PJ's day 3 trailer]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project/_index.md" %}}#Subdivision_Pitch)
+*   [Nathan's day 3 trailer]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project/_index.md" %}}#Day_3_Pitch)
+*   [Yuliya's day 3 trailer]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project/_index.md" %}}#Day_3_Trailer:_Fractals_)
+*   [David's day 3 trailer]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/david-yams-project/_index.md" %}}#Day_3_Pitch)
 
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-4-storytellers-toolkit-pt.-2" %}}) »

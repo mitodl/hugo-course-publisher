@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture <
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/multiplication-and-inverse-matrices/MIT18_06SCF11_Ses1.3sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/d83ded9024aae1310ab3236a216d34d7)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/multiplication-and-inverse-matrices/FX4C-JpTFgY" %}})
 
 ### Suggested Reading
 
@@ -34,7 +34,7 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/f9354bd85c6f923d33f8e8129e30c094)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/multiplication-and-inverse-matrices/zWxhmBCdvFs" %}})
 
 Check Yourself
 --------------

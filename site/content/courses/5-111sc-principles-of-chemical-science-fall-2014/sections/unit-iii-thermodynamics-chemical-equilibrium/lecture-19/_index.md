@@ -29,7 +29,7 @@ Lecture Notes
 Clicker Questions
 -----------------
 
-[Lecture 19 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec19Clkr" %}})
+[Lecture 19 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-19/MIT5_111F14_Lec19Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -41,9 +41,9 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 19 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec19Prob" %}})
+[Problems for Lecture 19 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-19/MIT5_111F14_Lec19Prob" %}})
 
-[Solutions for Lecture 19 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec19Soln" %}})
+[Solutions for Lecture 19 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-19/MIT5_111F14_Lec19Soln" %}})
 
 Acknowledgement
 ---------------

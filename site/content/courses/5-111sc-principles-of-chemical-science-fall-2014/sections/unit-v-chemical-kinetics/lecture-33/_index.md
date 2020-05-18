@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-32" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-34" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-32/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-34/_index.md" %}}) »
 
 Topics
 ------
@@ -24,12 +24,12 @@ Using liquid nitrogen, we observe that lowering the temperature slows reaction r
 Lecture Notes
 -------------
 
-[Notes for Lecture 33 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lecture33" %}})
+[Notes for Lecture 33 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-33/MIT5_111F14_Lecture33" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 33 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lec33Clkr" %}})
+[Lecture 33 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-33/MIT5_111F14_Lec33Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -41,8 +41,8 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 33 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lec33Prob" %}})
+[Problems for Lecture 33 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-33/MIT5_111F14_Lec33Prob" %}})
 
-[Solutions for Lecture 33 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lec33Soln" %}})
+[Solutions for Lecture 33 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-33/MIT5_111F14_Lec33Soln" %}})
 
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-32" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-34" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-32/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-34/_index.md" %}}) »

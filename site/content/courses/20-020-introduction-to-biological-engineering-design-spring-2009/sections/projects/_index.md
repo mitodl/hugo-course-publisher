@@ -25,9 +25,9 @@ Team Presentations
 
 Each team will give three presentations during the course of their work.
 
-*   3 Ideas Presentation ([guidelines]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/projects/proj_guide_3ideas/_index.md" %}}))
-*   Technical Specification Review ([guidelines]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/projects/proj_guide_techspec/_index.md" %}}))
-*   Final Presentation with supporting technical documents ([guidelines]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/projects/proj_guide_final/_index.md" %}}))
+*   3 Ideas Presentation ([guidelines]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/projects/proj_guide_3ideas" %}}))
+*   Technical Specification Review ([guidelines]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/projects/proj_guide_techspec" %}}))
+*   Final Presentation with supporting technical documents ([guidelines]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/projects/proj_guide_final" %}}))
 
 Team Mentoring by 20.902 Students
 ---------------------------------

@@ -7,7 +7,7 @@ menu:
     weight: 120
     parent: 5ec6e19ff0b098e40ec65f8bcf898f57
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-8-equations-of-planes/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-8-equations-of-planes/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/_index.md" %}}) »
 
 Overview
 --------
@@ -26,4 +26,4 @@ Problem Set
 [Supplemental Problems referenced in this problem set (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/problem-set-1/MIT18_02SC_SupProb1" %}})  
 [Solutions to Supplemental Problems referenced in this problem set (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/problem-set-1/MIT18_02SC_SupProbSol1" %}})
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-8-equations-of-planes/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-8-equations-of-planes/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/_index.md" %}}) »

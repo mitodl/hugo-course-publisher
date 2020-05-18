@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-6" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-6/_index.md" %}}) »
 
 Topics
 ------
@@ -24,12 +24,12 @@ In this lecture, we look at the visible spectrum produced by the hydrogen atom. 
 Lecture Notes
 -------------
 
-[Notes for Lecture 5 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec5" %}})
+[Notes for Lecture 5 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-5/MIT5_111F14_Lec5" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 5 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec5Clkr" %}})
+[Lecture 5 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-5/MIT5_111F14_Lec5Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -43,8 +43,8 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 5 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec05Prob" %}})
+[Problems for Lecture 5 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-5/MIT5_111F14_Lec05Prob" %}})
 
-[Solutions for Lecture 5 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec05Soln" %}})
+[Solutions for Lecture 5 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-5/MIT5_111F14_Lec05Soln" %}})
 
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-6" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-6/_index.md" %}}) »

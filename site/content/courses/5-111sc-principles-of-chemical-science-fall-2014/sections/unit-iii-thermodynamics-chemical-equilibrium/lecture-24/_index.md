@@ -29,7 +29,7 @@ Lecture Notes
 Clicker Questions
 -----------------
 
-[Lecture 24 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec24Clkr" %}})
+[Lecture 24 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-24/MIT5_111F14_Lec24Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -54,8 +54,8 @@ Samuel Thompson brings a sense of play to his science research that he traces ba
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 24 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec24Prob" %}})
+[Problems for Lecture 24 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-24/MIT5_111F14_Lec24Prob" %}})
 
-[Solutions for Lecture 24 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/MIT5_111F14_Lec24Soln" %}})
+[Solutions for Lecture 24 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-24/MIT5_111F14_Lec24Soln" %}})
 
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iii-thermodynamics-chemical-equilibrium/lecture-23/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/_index.md" %}}) »

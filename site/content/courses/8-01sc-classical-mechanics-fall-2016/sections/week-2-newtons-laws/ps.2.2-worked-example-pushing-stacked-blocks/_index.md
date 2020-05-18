@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.1-worked-example-sliding-block" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.3-window-washer-problem" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.1-worked-example-sliding-block/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.3-window-washer-problem/_index.md" %}}) »
 
 Consider two blocks that are resting one on top of the other. The lower block has mass \\(\\displaystyle m\_1\\) and is resting on a surface. The upper block has mass \\(\\displaystyle m\_2<m\_1\\) . Suppose the coefficient of static friction between the blocks is \\(\\displaystyle \\mu \_ s\\) . A horizontal force of magnitude \\(\\displaystyle F\\) is applied to block 1 as shhown.
 
@@ -36,4 +36,4 @@ Worked Example - Stacked Blocks - Solve for the Maximum Force
 Worked Example - Stacked Blocks - Choosing the System of 2 Blocks Together
 --------------------------------------------------------------------------
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.1-worked-example-sliding-block" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.3-window-washer-problem" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.1-worked-example-sliding-block/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.3-window-washer-problem/_index.md" %}}) »

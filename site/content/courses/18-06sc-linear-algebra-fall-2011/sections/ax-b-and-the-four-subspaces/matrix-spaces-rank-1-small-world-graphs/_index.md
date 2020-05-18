@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/matrix-spaces-rank-1-small-world-graphs/MIT18_06SCF11_Ses1.11sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/0165be6d5715e8b1d4b77bef22e614d5)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/matrix-spaces-rank-1-small-world-graphs/2IdtqGM6KWU" %}})
 
 ### Suggested Reading
 
@@ -34,7 +34,7 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/7db51b0ebe096ee57bb0e6bcf9a1b43d)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/matrix-spaces-rank-1-small-world-graphs/BaBoztM9Q1w" %}})
 
 Check Yourself
 --------------

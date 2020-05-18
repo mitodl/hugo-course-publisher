@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-48-examples-of-double-integration/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-48-examples-of-double-integration/_index.md" %}}) »
 
 Overview
 --------
@@ -42,4 +42,4 @@ Problems and Solutions
 
 [Solutions (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-47-definition-of-double-integration/MIT18_02SC_pb_35_comb" %}})
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-48-examples-of-double-integration/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-48-examples-of-double-integration/_index.md" %}}) »

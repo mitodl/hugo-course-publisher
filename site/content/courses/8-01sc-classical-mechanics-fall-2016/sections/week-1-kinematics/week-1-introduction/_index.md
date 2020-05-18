@@ -9,6 +9,6 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/1.1-coordinate-systems-and-unit-vectors-in-1d-position-vector-in-1d" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/1.1-coordinate-systems-and-unit-vectors-in-1d-position-vector-in-1d" %}}) »
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/1.1-coordinate-systems-and-unit-vectors-in-1d-position-vector-in-1d" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/1.1-coordinate-systems-and-unit-vectors-in-1d-position-vector-in-1d" %}}) »

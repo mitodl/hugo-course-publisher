@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/MIT18_06SCF11_Ses1.12sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/3f8e0016948ea0224d2cd16dd4f4e80c)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/6-wh6yvk6uc" %}})
 
 ### Suggested Reading
 
@@ -34,7 +34,7 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/789f87ed894d05254c8bb49f122d57e4)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/h0m2tsmSPTI" %}})
 
 Check Yourself
 --------------

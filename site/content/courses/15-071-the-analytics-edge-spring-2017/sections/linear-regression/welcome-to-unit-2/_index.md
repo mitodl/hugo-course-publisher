@@ -9,12 +9,12 @@ menu:
 type: courses
 layout: videogallery
 ---
-*   [<Linear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression" %}})
+*   [<Linear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/_index.md" %}})
 *   [2.1.1Welcome to Unit 2]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/welcome-to-unit-2" %}})
-*   [\\>The Statistical Sommelier: An Introduction to Linear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression" %}})
+*   [\\>The Statistical Sommelier: An Introduction to Linear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/_index.md" %}})
 
 Welcome to Unit 2
 -----------------
 
-*   [BackLinear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression" %}})
-*   [ContinueThe Statistical Sommelier: An Introduction to Linear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression" %}})
+*   [BackLinear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/_index.md" %}})
+*   [ContinueThe Statistical Sommelier: An Introduction to Linear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/_index.md" %}})

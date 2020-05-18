@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-75-applications-and-examples/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-75-applications-and-examples/_index.md" %}}) »
 
 Overview
 --------
@@ -62,4 +62,4 @@ Problems and Solutions
 
 [Solutions (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-74-triple-integrals-rectangular-and-cylindrical-coordinates/MIT18_02SC_pb_74_comb" %}})
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-75-applications-and-examples/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-75-applications-and-examples/_index.md" %}}) »

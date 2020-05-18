@@ -28,7 +28,7 @@ menu:
     *   Definition should make sense: Concurrent reads are generally fine, but problems arise as soon as writes get involved.
     *   A schedule is conflict serializable if the order of all of its conflicts is the same as the order of the conflicts in some sequential schedule.
         *   By "order of conflicts" we mean the ordering of the steps in each individual conflict.
-    *   See [Lecture 17 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-9/MIT6_033S18lec17" %}}) for examples. A schedule can be final-state serializable but not conflict serializable.
+    *   See [Lecture 17 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-9/lecture-17-outline/MIT6_033S18lec17" %}}) for examples. A schedule can be final-state serializable but not conflict serializable.
 4.  Conflict Graphs
     *   Nodes are transactions.
     *   Edges are directed.

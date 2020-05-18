@@ -7,7 +7,7 @@ menu:
     weight: 1600
     parent: 1394998143efcc493f7c98265cfbd3ae
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/25.3-reading-potential-energy-diagrams" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/25.3-reading-potential-energy-diagrams" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/_index.md" %}}) »
 
 Problem Set 8 contains the following problems:
 
@@ -17,6 +17,6 @@ Problem Set 8 contains the following problems:
 4.  Orbital Collisions
 5.  Exponential Potential Energy Diagram
 
-*   [Problem Set 8 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset8" %}})
+*   [Problem Set 8 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/problem-set-8MIT8_01F16_pset8" %}})
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/25.3-reading-potential-energy-diagrams" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/25.3-reading-potential-energy-diagrams" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/_index.md" %}}) »

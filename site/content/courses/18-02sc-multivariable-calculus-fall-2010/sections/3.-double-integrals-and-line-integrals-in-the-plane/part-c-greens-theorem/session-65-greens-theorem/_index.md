@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-66-curl-f-equals-0-implies-conservative/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-66-curl-f-equals-0-implies-conservative/_index.md" %}}) »
 
 Overview
 --------
@@ -52,4 +52,4 @@ Problems and Solutions
 
 [Solutions (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-65-greens-theorem/MIT18_02SC_pb_65_comb" %}})
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-66-curl-f-equals-0-implies-conservative/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-66-curl-f-equals-0-implies-conservative/_index.md" %}}) »

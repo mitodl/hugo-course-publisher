@@ -9,6 +9,6 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.2-worked-example-wheel-rolling-without-slipping-down-inclined-plane" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.4-summary-of-angular-momentum-and-kinetic-energy" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.2-worked-example-wheel-rolling-without-slipping-down-inclined-plane/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.4-summary-of-angular-momentum-and-kinetic-energy/_index.md" %}}) »
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.2-worked-example-wheel-rolling-without-slipping-down-inclined-plane" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.4-summary-of-angular-momentum-and-kinetic-energy" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.2-worked-example-wheel-rolling-without-slipping-down-inclined-plane/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.4-summary-of-angular-momentum-and-kinetic-energy/_index.md" %}}) »

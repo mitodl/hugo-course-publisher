@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-30" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-32" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-30/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-32/_index.md" %}}) »
 
 Topics
 ------
@@ -24,12 +24,12 @@ Professor Drennan recites Mala Radhakrishnan’s poem “_Days of Our Half-Lives
 Lecture Notes
 -------------
 
-[Notes for Lecture 31 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lecture31" %}})
+[Notes for Lecture 31 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31/MIT5_111F14_Lecture31" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 31 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lec31Clkr" %}})
+[Lecture 31 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31/MIT5_111F14_Lec31Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -42,13 +42,13 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 31 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lec31Prob" %}})
+[Problems for Lecture 31 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31/MIT5_111F14_Lec31Prob" %}})
 
-[Solutions for Lecture 31 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lec31Soln" %}})
+[Solutions for Lecture 31 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31/MIT5_111F14_Lec31Soln" %}})
 
 Acknowledgement
 ---------------
 
 Mala Radhakrishnan’s poem “_Days of Our Half-Lives_” in _[Atomic Romances, Molecular Dances](http://www.lulu.com/shop/mala-radhakrishnan/atomic-romances-molecular-dances/paperback/product-15572338.html)_ is used with permission.
 
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-30" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-32" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-30/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-32/_index.md" %}}) »

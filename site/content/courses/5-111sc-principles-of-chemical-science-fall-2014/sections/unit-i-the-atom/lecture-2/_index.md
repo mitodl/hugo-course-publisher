@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-1/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-1/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3/_index.md" %}}) »
 
 Topics
 ------
@@ -24,12 +24,12 @@ The backscattering experiment of Rutherford is recreated in the classroom settin
 Lecture Notes
 -------------
 
-[Notes for Lecture 2 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec2" %}})
+[Notes for Lecture 2 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2/MIT5_111F14_Lec2" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 2 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec2Clkr" %}})
+[Lecture 2 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2/MIT5_111F14_Lec2Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -43,8 +43,8 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 2 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec02Prob" %}})
+[Problems for Lecture 2 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2/MIT5_111F14_Lec02Prob" %}})
 
-[Solutions for Lecture 2 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec02Soln" %}})
+[Solutions for Lecture 2 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2/MIT5_111F14_Lec02Soln" %}})
 
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-1/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-1/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3/_index.md" %}}) »

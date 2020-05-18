@@ -20,7 +20,7 @@ Lecture 23: Network Security and Distributed Denial of Service (DDoS) Attacks
 7.  Attacks on Routers
 8.  Moral of the Story
 
-*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-13/lecture-23-outline/_index.md" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-13/lecture-23-outline" %}})
 
 ### Lecture Slides
 
@@ -34,7 +34,7 @@ Recitation 23: Botnets
 ----------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Your Botnet is My Botnet: Analysis of a Botnet Takeover (PDF)](https://seclab.cs.ucsb.edu/media/uploads/papers/torpig.pdf)" by B. Stone-Gross, et al.
-*   [Botnets Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-13/botnets-assignment/_index.md" %}})
+*   [Botnets Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-13/botnets-assignment" %}})
 
 Lecture 24: Bitcoin
 -------------------

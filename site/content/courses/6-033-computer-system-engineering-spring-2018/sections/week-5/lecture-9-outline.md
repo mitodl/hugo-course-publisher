@@ -68,7 +68,7 @@ menu:
     *   Good thing: Overhead is much better. N nodes, L links => 2L advertisements, not 2NL as in link-state.
     *   Bad thing: Counting to INFINITY
         *   When a node A has no route to destination B, it will advertise a cost of INFINITY to B. A cost of INFINITY B is interpreted as there being no route to B. So INFINITY must be larger than the longest path in the network.
-            *   But because the order in which advertisements are sent matters, sometimes nodes can incorrectly think there's a route when there isn't one. This can last for up to INFINITY steps ([see Lecture 9 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/MIT6_033S18lec9" %}}))
+            *   But because the order in which advertisements are sent matters, sometimes nodes can incorrectly think there's a route when there isn't one. This can last for up to INFINITY steps ([see Lecture 9 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/lecture-9-outlineMIT6_033S18lec9" %}}))
             *   Ironically, INFINITY is typically around 16 or 32.
 6.  Summary
     *   Link-state routing: Nice, easy to reason about failures, but overhead prevents it from scaling. In practice, good for MIT-sized networks.

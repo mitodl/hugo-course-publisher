@@ -9,12 +9,12 @@ menu:
 type: courses
 layout: videogallery
 ---
-*   [<Clustering]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering" %}})
+*   [<Clustering]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/_index.md" %}})
 *   [6.1.1Welcome to Unit 6]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/welcome-to-unit-6" %}})
-*   [\\>Recommendations Worth a Million: An Introduction to Clustering]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/recommendations-worth-a-million-an-introduction-to-clustering" %}})
+*   [\\>Recommendations Worth a Million: An Introduction to Clustering]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/recommendations-worth-a-million-an-introduction-to-clustering/_index.md" %}})
 
 Welcome to Unit 6
 -----------------
 
-*   [BackClustering]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering" %}})
-*   [ContinueRecommendations Worth a Million: An Introduction to Clustering]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/recommendations-worth-a-million-an-introduction-to-clustering" %}})
+*   [BackClustering]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/_index.md" %}})
+*   [ContinueRecommendations Worth a Million: An Introduction to Clustering]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/recommendations-worth-a-million-an-introduction-to-clustering/_index.md" %}})

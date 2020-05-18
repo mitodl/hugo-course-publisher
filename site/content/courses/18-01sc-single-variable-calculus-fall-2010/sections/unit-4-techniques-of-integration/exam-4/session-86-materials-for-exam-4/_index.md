@@ -7,7 +7,7 @@ menu:
     weight: 1170
     parent: 6484ae5940462fadf99f0d827e877e70
 ---
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/_index.md" %}}) »
 
 Overview
 --------
@@ -24,4 +24,4 @@ Exam Materials
 
 [Solutions to Exam IV (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/exam-4/session-86-materials-for-exam-4/MIT18_01SCF10_exam4sol" %}})
 
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/_index.md" %}}) »

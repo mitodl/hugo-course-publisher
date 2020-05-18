@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/diagonalization-and-powers-of-a/MIT18_06SCF11_Ses2.9sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/d404622e0a39f004d40ef4bea4c52929)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/diagonalization-and-powers-of-a/13r9QY6cmjc" %}})
 
 ### Suggested Reading
 
@@ -34,7 +34,7 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/d7fb35f365c2d4686ef3009c878ed90b)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/diagonalization-and-powers-of-a/5IGTFgPqlkw" %}})
 
 Check Yourself
 --------------

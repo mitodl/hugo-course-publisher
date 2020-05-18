@@ -9,8 +9,8 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/3.5-demos-for-projectile-motion/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.2-shooting-the-apple/_index.md" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/3.5-demos-for-projectile-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.2-shooting-the-apple/_index.md" %}}) »
 
 This sequence will provide some guided problems and example problems. We start with a brief note about problem solving strategies.
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/3.5-demos-for-projectile-motion/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.2-shooting-the-apple/_index.md" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/3.5-demos-for-projectile-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.2-shooting-the-apple/_index.md" %}}) »

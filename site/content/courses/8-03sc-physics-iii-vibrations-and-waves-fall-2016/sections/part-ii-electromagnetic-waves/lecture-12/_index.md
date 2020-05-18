@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-13/_index.md" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-13/_index.md" %}}) »
 
 Lecture Topics
 --------------
@@ -31,9 +31,9 @@ Lecture Notes
 Textbook Reading
 ----------------
 
-[Chapter 8: Traveling Waves (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch8" %}}) (section 8.3 to end) 
+[Chapter 8: Traveling Waves (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-12/MIT8_03SCF16_Text_Ch8" %}}) (section 8.3 to end) 
 
-[Chapter 9: The Boundary at Infinity (PDF - 1.3MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch9" %}}) (through section 9.2) 
+[Chapter 9: The Boundary at Infinity (PDF - 1.3MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-12/MIT8_03SCF16_Text_Ch9" %}}) (through section 9.2) 
 
 Problem Solving Help Video\*
 ----------------------------
@@ -53,4 +53,4 @@ Webpage: [The Idea of the Curl of a Vector Field](https://mathinsight.org/curl_i
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-13/_index.md" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-13/_index.md" %}}) »

@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-10-meaning-of-matrix-multiplication/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-10-meaning-of-matrix-multiplication/_index.md" %}}) »
 
 Overview
 --------
@@ -47,4 +47,4 @@ Problems and Solutions
 
 [Solutions (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-9-matrix-multiplication/MIT18_02SC_pb_10_comb" %}})
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-10-meaning-of-matrix-multiplication/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-10-meaning-of-matrix-multiplication/_index.md" %}}) »

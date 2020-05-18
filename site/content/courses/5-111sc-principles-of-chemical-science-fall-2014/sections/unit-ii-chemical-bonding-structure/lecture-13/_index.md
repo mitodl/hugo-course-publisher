@@ -29,7 +29,7 @@ Lecture Notes
 Clicker Questions
 -----------------
 
-[Lecture 13 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/MIT5_111F14_Lec13Clkr" %}})
+[Lecture 13 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-13/MIT5_111F14_Lec13Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -42,8 +42,8 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 13 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/MIT5_111F14_Lec13Prob" %}})
+[Problems for Lecture 13 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-13/MIT5_111F14_Lec13Prob" %}})
 
-[Solutions for Lecture 13 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/MIT5_111F14_Lec13Soln" %}})
+[Solutions for Lecture 13 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-13/MIT5_111F14_Lec13Soln" %}})
 
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-12/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-14/_index.md" %}}) »

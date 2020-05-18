@@ -9,12 +9,12 @@ menu:
 type: courses
 layout: videogallery
 ---
-*   [<Logistic Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression" %}})
+*   [<Logistic Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/_index.md" %}})
 *   [3.1.1Welcome to Unit 3]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/welcome-to-unit-3" %}})
-*   [\\>Modeling the Expert: An Introduction to Logistic Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression" %}})
+*   [\\>Modeling the Expert: An Introduction to Logistic Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/_index.md" %}})
 
 Welcome to Unit 3
 -----------------
 
-*   [BackLogistic Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression" %}})
-*   [ContinueModeling the Expert: An Introduction to Logistic Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression" %}})
+*   [BackLogistic Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/_index.md" %}})
+*   [ContinueModeling the Expert: An Introduction to Logistic Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/_index.md" %}})

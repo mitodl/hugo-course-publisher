@@ -7,7 +7,7 @@ menu:
     weight: 1340
     parent: 55dd338036332e8cfa4236beffad3294
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-96-summary-of-multiple-integration" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/exam-4" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-96-summary-of-multiple-integration/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/exam-4/_index.md" %}}) »
 
 Overview
 --------
@@ -23,7 +23,7 @@ Problem Set
 [Problem Set 12 (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/problem-set-12/MIT18_02SC_pset12" %}})  
 [Problem Set 12 Solutions (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/problem-set-12/MIT18_02SC_pset12sol" %}})
 
-[Supplemental Problems referenced in this problem set (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/problem-set-11/MIT18_02SC_SupProb6" %}})  
-[Solutions to Supplemental Problems referenced in this problem set (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/problem-set-11/MIT18_02SC_SupProbSol6" %}})
+[Supplemental Problems referenced in this problem set (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/problem-set-12/MIT18_02SC_SupProb6" %}})  
+[Solutions to Supplemental Problems referenced in this problem set (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/problem-set-12/MIT18_02SC_SupProbSol6" %}})
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-96-summary-of-multiple-integration" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/exam-4" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-96-summary-of-multiple-integration/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/exam-4/_index.md" %}}) »

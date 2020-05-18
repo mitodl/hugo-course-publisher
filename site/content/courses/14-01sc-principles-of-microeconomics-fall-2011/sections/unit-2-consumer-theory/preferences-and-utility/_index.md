@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/budget-constraints/_index.md" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/budget-constraints/_index.md" %}}) »
 
 Session Overview
 ----------------
@@ -64,4 +64,4 @@ See the \[Perloff\] chapter for the topics covered, as well as quizzes, applicat
 | --- | --- | --- |
 | {{< br >}}{{< br >}}"Axioms of Consumer Preference and the Theory of Choice."  Lec #3 in _14.03 Microeconomic Theory and Public Policy, Fall 2010_.{{< br >}}{{< br >}} | MIT OpenCourseWare | Alternative notes with an advanced theoretical approach. 
 
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/budget-constraints/_index.md" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/budget-constraints/_index.md" %}}) »

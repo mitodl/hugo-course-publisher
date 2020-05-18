@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-33-examples/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-33-examples/_index.md" %}}) »
 
 Overview
 --------
@@ -42,4 +42,4 @@ Problems and Solutions
 
 [Solutions (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-32-total-differentials-and-the-chain-rule/MIT18_02SC_pb_30_comb" %}})
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-33-examples/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-33-examples/_index.md" %}}) »

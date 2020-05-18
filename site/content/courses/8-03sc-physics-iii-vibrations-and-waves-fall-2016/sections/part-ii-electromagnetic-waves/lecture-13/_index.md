@@ -31,9 +31,9 @@ Lecture Notes
 Textbook Reading
 ----------------
 
-[Chapter 8: Traveling Waves (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch8" %}}) (section 8.3 to end) 
+[Chapter 8: Traveling Waves (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-13/MIT8_03SCF16_Text_Ch8" %}}) (section 8.3 to end) 
 
-[Chapter 9: The Boundary at Infinity (PDF - 1.3MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch9" %}}) (through section 9.2) 
+[Chapter 9: The Boundary at Infinity (PDF - 1.3MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-13/MIT8_03SCF16_Text_Ch9" %}}) (through section 9.2) 
 
 Problem Set
 -----------

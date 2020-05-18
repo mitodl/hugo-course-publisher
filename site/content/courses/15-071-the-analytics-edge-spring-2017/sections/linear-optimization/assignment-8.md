@@ -8,8 +8,8 @@ menu:
     parent: daafaa58867c9765f1c4c60a9c0ed426
 ---
 *   [<Video 8: Extensions and the Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-8-extensions-and-the-edge" %}})
-*   [8.5.1Even' Star Organic Farm]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/assignment-8" %}})
-*   [\\>Integer Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization" %}})
+*   [8.5.1Even' Star Organic Farm]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/assignment-8/_index.md" %}})
+*   [\\>Integer Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/_index.md" %}})
 
 Even' Star Organic Farm
 -----------------------
@@ -355,4 +355,4 @@ CheckShow Answer
 Acknowledgements: This problem is based on the case study "[Introducing Integer Modeling with Excel Solver](https://pubsonline.informs.org/doi/pdf/10.1287/ited.7.1.88)" by Dessislava Pachamanova, INFORMS Transactions on Education 7:1(88-98). Publication year 2006.
 
 *   [BackVideo 8: Extensions and the Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-8-extensions-and-the-edge" %}})
-*   [ContinueInteger Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization" %}})
+*   [ContinueInteger Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/_index.md" %}})

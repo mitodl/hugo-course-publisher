@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/complex-matrices-fast-fourier-transform-fft/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/complex-matrices-fast-fourier-transform-fft/_index.md" %}}) »
 
 Session Overview
 ----------------
@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/MIT18_06SCF11_Ses3.1sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/8b7622bf59449df1c89208bb3d10a0a9)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/UCc9q_cAhho" %}})
 
 ### Suggested Reading
 
@@ -34,7 +34,7 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/b383d7a883d770987459b09e9c7976a8)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/lpnY5QVjU5w" %}})
 
 Check Yourself
 --------------
@@ -46,4 +46,4 @@ Work the problems on your own and check your answers when you're done.
 *   [Problems (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/MIT18_06SCF11_Ses3.1prob" %}})
 *   [Solutions (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/MIT18_06SCF11_Ses3.1sol" %}})
 
-« [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/complex-matrices-fast-fourier-transform-fft/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/complex-matrices-fast-fourier-transform-fft/_index.md" %}}) »

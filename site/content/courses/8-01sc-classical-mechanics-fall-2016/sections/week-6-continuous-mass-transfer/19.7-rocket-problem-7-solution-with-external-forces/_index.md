@@ -9,6 +9,6 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/19.6-rocket-problem-6-solution-for-no-external-forces" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/19.6-rocket-problem-6-solution-for-no-external-forces" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem/_index.md" %}}) »
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/19.6-rocket-problem-6-solution-for-no-external-forces" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/19.6-rocket-problem-6-solution-for-no-external-forces" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem/_index.md" %}}) »

@@ -20,7 +20,7 @@ Lecture 19: Availability via Replication
 7.  Recruiting New Backups
 8.  Dealing with Centralization
 
-*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-11/lecture-19-outline/_index.md" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-11/lecture-19-outline" %}})
 
 ### Lecture Slides
 
@@ -34,7 +34,7 @@ Recitation 19: Raft
 -------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[In Search of an Understandable Consensus Algorithm (PDF)](https://raft.github.io/raft.pdf)" by D. Ongaro & J. Ousterhout
-*   [Raft Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-11/raft-assignment/_index.md" %}})
+*   [Raft Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-11/raft-assignment" %}})
 
 Lecture 20: Introduction to Security
 ------------------------------------
@@ -48,7 +48,7 @@ Lecture 20: Introduction to Security
 5.  Guard Model
 6.  What Can Go Wrong?
 
-*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-11/lecture-20-outline/_index.md" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-11/lecture-20-outline" %}})
 
 ### Lecture Slides
 

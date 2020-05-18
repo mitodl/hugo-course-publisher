@@ -7,7 +7,7 @@ menu:
     weight: 1370
     parent: 0965bb3a959cb82bae94acd89d51076e
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/exam-4/practice-exam/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/physics-applications" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/exam-4/practice-exam/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/physics-applications/_index.md" %}}) »
 
 Overview
 --------
@@ -24,4 +24,4 @@ Problems and Solutions
 
 [Exam 4 Solutions (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/exam-4/exam/MIT18_02SC_exam4sol" %}})
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/exam-4/practice-exam/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/physics-applications" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/exam-4/practice-exam/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/physics-applications/_index.md" %}}) »

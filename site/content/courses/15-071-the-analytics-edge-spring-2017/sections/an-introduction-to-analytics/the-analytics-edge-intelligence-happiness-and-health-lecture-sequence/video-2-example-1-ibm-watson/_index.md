@@ -11,8 +11,8 @@ menu:
 type: courses
 layout: videogallery
 ---
-*   [<The Analytics Edge: Intelligence, Happiness, and Health (Lecture Sequence)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence" %}})
-*   [1.2.1Video 1: Introduction to The Analytics Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence" %}})
+*   [<The Analytics Edge: Intelligence, Happiness, and Health (Lecture Sequence)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/_index.md" %}})
+*   [1.2.1Video 1: Introduction to The Analytics Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/_index.md" %}})
 *   [1.2.2Video 2: Example 1 - IBM Watson]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-2-example-1-ibm-watson" %}})
 *   [1.2.3Video 3: Example 2 - eHarmony]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-3-example-2-eharmony" %}})
 *   [1.2.4Video 4: Example 3 - The Framingham Heart Study]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-4-example-3-the-framingham-heart-study" %}})
@@ -23,5 +23,5 @@ layout: videogallery
 Video 2: Example 1 - IBM Watson
 -------------------------------
 
-*   [BackThe Analytics Edge: Intelligence, Happiness, and Health (Lecture Sequence)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence" %}})
+*   [BackThe Analytics Edge: Intelligence, Happiness, and Health (Lecture Sequence)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/_index.md" %}})
 *   [ContinueVideo 3: Example 2 - eHarmony]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-3-example-2-eharmony" %}})

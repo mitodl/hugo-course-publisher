@@ -21,7 +21,7 @@ Lecture 8: Introduction to Networking
 8.  So What's New on the Internet?
 9.  Recurring Themes
 
-*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/lecture-8-outline/_index.md" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/lecture-8-outline" %}})
 
 ### Lecture Slides
 
@@ -54,7 +54,7 @@ Lecture 9: Routing
 5.  Distance-vector Routing
 6.  Summary
 
-*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/lecture-9-outline/_index.md" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/lecture-9-outline" %}})
 
 ### Lecture Slides
 
@@ -68,7 +68,7 @@ Recitation 9: Landmark Routing
 ------------------------------
 
 *   Read the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Landmark Hierarchy: An New Hierarchy for Routing Very Large Networks (PDF)](http://www.cs.cornell.edu/people/francis/p35-tsuchiya.pdf)" by P. Tsuchiya
-*   [Landmark Routing Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/landmark-routing-assignment/_index.md" %}})
+*   [Landmark Routing Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-5/landmark-routing-assignment" %}})
 
 Tutorial 5: Collaboration & Figures
 -----------------------------------

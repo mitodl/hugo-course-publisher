@@ -7,7 +7,7 @@ menu:
     weight: 1120
     parent: fae0471018712678ad1b80e80246916a
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-78-applications-gravitational-attraction/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-78-applications-gravitational-attraction/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/_index.md" %}}) »
 
 Overview
 --------
@@ -26,4 +26,4 @@ Problem Set
 [Supplemental Problems referenced in this problem set (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/problem-set-10/MIT18_02SC_SupProb5" %}})  
 [Solutions to Supplemental Problems referenced in this problem set (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/problem-set-10/MIT18_02SC_SupProbSol5" %}})
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-78-applications-gravitational-attraction/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-a-triple-integrals/session-78-applications-gravitational-attraction/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/_index.md" %}}) »

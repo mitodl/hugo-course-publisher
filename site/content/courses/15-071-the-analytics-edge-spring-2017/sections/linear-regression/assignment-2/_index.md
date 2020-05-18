@@ -7,7 +7,7 @@ menu:
     weight: 730
     parent: c846ced6fc6d3bc964e047324e251a98
 ---
-*   [<Video 4: Making Predictions]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-4-making-predictions/_index.md" %}})
+*   [<Video 4: Making Predictions]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-4-making-predictions" %}})
 *   [2.5.1Climate Change]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/_index.md" %}})
 *   [2.5.2Reading Test Scores]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/reading-test-scores/_index.md" %}})
 *   [2.5.3Detecting Flu Epidemics via Search Engine Query Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/detecting-flu-epidemics-via-search-engine-query-data/_index.md" %}})
@@ -195,5 +195,5 @@ We have observed that, for this problem, when we remove many variables the sign 
 
 CheckShow Answer
 
-*   [BackVideo 4: Making Predictions]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-4-making-predictions/_index.md" %}})
+*   [BackVideo 4: Making Predictions]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-4-making-predictions" %}})
 *   [ContinueReading Test Scores]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/reading-test-scores/_index.md" %}})

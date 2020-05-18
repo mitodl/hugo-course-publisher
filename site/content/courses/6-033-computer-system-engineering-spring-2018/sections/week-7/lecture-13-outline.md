@@ -67,7 +67,7 @@ menu:
         *   Now A doesn't even know S's IP (private IPs aren't routable). It also doesn't know N2's IP; it has no way to get that.
         *   For Skype: Means that A and S can't call each other.
         *   Skype provides a directory service, so assume we can get N2's public IP.  When N2 gets packet destined for S, it has no idea what to do with it.
-        *   (See [Lecture 13 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-7/MIT6_033S18lec13" %}}) for example.)
+        *   (See [Lecture 13 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-7/lecture-13-outline/MIT6_033S18lec13" %}}) for example.)
     *   Skype will employ an additional node—a "supernode"—P, with a public IP, and route A and S's calls through P: 
         
         ![Diagram showing connection between client A and client S through nodes.](https://open-learning-course-data-ci.s3.amazonaws.com/6-033-computer-system-engineering-spring-2018/46892ea3a63a6724e3aa77ee0b0114a2_Untitled-2.jpg)

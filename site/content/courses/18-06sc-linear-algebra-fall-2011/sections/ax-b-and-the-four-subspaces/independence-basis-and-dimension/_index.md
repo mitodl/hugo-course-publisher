@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/independence-basis-and-dimension/MIT18_06SCF11_Ses1.9sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/265592b34ca558541dcce602b51d550a)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/independence-basis-and-dimension/yjBerM5jWsc" %}})
 
 ### Suggested Reading
 
@@ -34,7 +34,7 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/0d432adcd7958f5dbedecccd20ec1efc)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/independence-basis-and-dimension/MMWqGD4Urso" %}})
 
 Check Yourself
 --------------

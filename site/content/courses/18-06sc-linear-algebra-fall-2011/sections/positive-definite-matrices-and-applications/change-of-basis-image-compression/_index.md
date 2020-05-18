@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/change-of-basis-image-compression/MIT18_06SCF11_Ses3.7sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/2c2725cfd10398f6bd17434648b447fc)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/change-of-basis-image-compression/0h43aV4aH7I" %}})
 
 ### Suggested Reading
 
@@ -34,7 +34,7 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/69b441b154a30aeebf1fc42fff8001ce)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/change-of-basis-image-compression/rMv2rDiOTsI" %}})
 
 Check Yourself
 --------------

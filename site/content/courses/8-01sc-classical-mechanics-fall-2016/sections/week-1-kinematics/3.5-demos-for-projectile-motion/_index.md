@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/3.4-projectile-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.1-three-questions-before-starting" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/3.4-projectile-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.1-three-questions-before-starting/_index.md" %}}) »
 
 Demo: Shooting an Apple
 -----------------------
@@ -17,4 +17,4 @@ Demo: Shooting an Apple
 Demo: Relative Motion Gun
 -------------------------
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/3.4-projectile-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.1-three-questions-before-starting" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/3.4-projectile-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.1-three-questions-before-starting/_index.md" %}}) »

@@ -7,7 +7,7 @@ menu:
     identifier: 6df56ca86d884c27d497aee73b724945
     weight: 240
 ---
-« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-13-screening-final-cuts/_index.md" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project/_index.md" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-13-screening-final-cuts" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project/_index.md" %}}) »
 
 The students have shared their course work so that you can see the steps and iterations that led to the creation of their final projects.
 

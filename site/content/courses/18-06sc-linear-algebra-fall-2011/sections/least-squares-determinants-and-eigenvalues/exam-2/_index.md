@@ -7,7 +7,7 @@ menu:
     weight: 330
     parent: cf73d07ac972ab3c450a0f10d0be0664
 ---
-« [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/exam-2-review/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications" %}}) »
+« [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/exam-2-review/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/_index.md" %}}) »
 
 Session Overview
 ----------------
@@ -22,4 +22,4 @@ Check Yourself
 *   [Exams (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/exam-2/MIT18_06SCF11_ex2" %}})
 *   [Solutions (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/exam-2/MIT18_06SCF11_ex2s" %}})
 
-« [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/exam-2-review/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications" %}}) »
+« [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/exam-2-review/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/_index.md" %}}) »

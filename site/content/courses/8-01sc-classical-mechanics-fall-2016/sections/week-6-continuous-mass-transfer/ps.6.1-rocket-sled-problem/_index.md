@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/19.7-rocket-problem-7-solution-with-external-forces" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/19.7-rocket-problem-7-solution-with-external-forces" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem/_index.md" %}}) »
 
 A rocket sled can eject gas backwards or forwards at a speed \\(\\displaystyle u\\) relative to the sled. The initial mass of the fuel in the sled is equal to dry mass of the sled, \\(\\displaystyle m\_0\\). At \\(\\displaystyle t=0\\) the rocket sled has speed \\(\\displaystyle v\_0\\) and starts to eject fuel in the forward direction in order to slow down. You may ignore air resistance. You may treat \\(\\displaystyle u\\) as a given constant in the following questions.
 
@@ -30,4 +30,4 @@ Rocket Sled - Integrate the Rocket Equation
 Rocket Sled - Solve for Initial Velocity
 ----------------------------------------
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/19.7-rocket-problem-7-solution-with-external-forces" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/19.7-rocket-problem-7-solution-with-external-forces" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem/_index.md" %}}) »

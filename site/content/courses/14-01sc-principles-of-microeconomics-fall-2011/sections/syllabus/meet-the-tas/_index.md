@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/_index.md" %}}) »
 
 ![jess_image.jpg](https://open-learning-course-data-ci.s3.amazonaws.com/14-01sc-principles-of-microeconomics-fall-2011/d0ce9da3b7d3c62b63bda660db06c4d9_jess_image.jpg) **Jessica Leight**
 
@@ -25,4 +25,4 @@ Greg Hutko is a graduate of the MIT Department of Economics, and is currently te
 
 ### Meet Greg Hutko
 
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/_index.md" %}}) »

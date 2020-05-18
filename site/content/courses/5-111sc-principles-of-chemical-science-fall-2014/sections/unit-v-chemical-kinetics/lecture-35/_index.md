@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-34" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/exams/_index.md" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-34/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/exams/_index.md" %}}) »
 
 Topics
 ------
@@ -24,11 +24,11 @@ In the final clicker competition of the semester, students are challenged to exp
 Lecture Notes
 -------------
 
-[Notes for Lecture 35 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lecture35" %}})
+[Notes for Lecture 35 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-35/MIT5_111F14_Lecture35" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 35 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lec35Clkr" %}})
+[Lecture 35 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-35/MIT5_111F14_Lec35Clkr" %}})
 
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-34" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/exams/_index.md" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-34/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/exams/_index.md" %}}) »

@@ -9,14 +9,14 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/elasticity/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/elasticity/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/_index.md" %}}) »
 
 Preparation
 -----------
 
 The problem set is comprised of challenging questions that test your understanding of the material covered in the course. Make sure you have mastered the concepts and problem solving techniques from the following sessions before attempting the problem set:
 
-*   [Introduction to Microeconomics]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/introduction-to-microeconomics" %}})
+*   [Introduction to Microeconomics]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/introduction-to-microeconomics/_index.md" %}})
 *   [Applying Supply and Demand]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/applying-supply-and-demand/_index.md" %}})
 *   [Elasticity]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/elasticity/_index.md" %}})
 
@@ -31,4 +31,4 @@ Problem Solving Video
 
 In the video below, a teaching assistant demonstrates his approach to the solution for problems 1 and 4 from the problem set. The teaching assistant notes common mistakes made by students and provides problem solving techniques for approaching similar questions on the problem set and exams.
 
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/elasticity/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/elasticity/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/_index.md" %}}) »

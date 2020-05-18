@@ -9,6 +9,6 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/10.1-circular-motion-2013-acceleration" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/10.3-worked-example-angular-position-from-angular-acceleration" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/10.1-circular-motion-2013-acceleration/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/10.3-worked-example-angular-position-from-angular-acceleration/_index.md" %}}) »
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/10.1-circular-motion-2013-acceleration" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/10.3-worked-example-angular-position-from-angular-acceleration" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/10.1-circular-motion-2013-acceleration/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/10.3-worked-example-angular-position-from-angular-acceleration/_index.md" %}}) »

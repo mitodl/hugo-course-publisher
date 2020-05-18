@@ -21,7 +21,7 @@ Lecture 4: Bounded Buffers + Locks
 8.  Example: Locks for File Systems
 9.  Implementing Locks
 
-*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-3/lecture-4-outline/_index.md" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-3/lecture-4-outline" %}})
 
 ### Lecture Slides
 
@@ -43,7 +43,7 @@ Lecture 5: Threads
 5.  Preemption
 6.  Reflection/Summary
 
-*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-3/lecture-5-outline/_index.md" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-3/lecture-5-outline" %}})
 
 ### Lecture Slides
 
@@ -57,7 +57,7 @@ Recitation 5: UNIX
 ------------------
 
 *   Read "![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Unix Time-Sharing System (PDF)](https://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)" by D. M. Ritchie & K. Thompson. Start with Section 5
-*   [UNIX Assignment Part 2]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-3/unix-assignment-part-2/_index.md" %}})
+*   [UNIX Assignment Part 2]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-3/unix-assignment-part-2" %}})
 
 Tutorial 3: Design Project Discussion
 -------------------------------------

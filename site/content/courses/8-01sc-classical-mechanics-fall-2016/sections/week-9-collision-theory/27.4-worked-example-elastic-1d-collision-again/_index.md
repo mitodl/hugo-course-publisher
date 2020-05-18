@@ -9,6 +9,6 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/27.3-kinetic-energy-and-momentum-equation" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/27.5-worked-example-gravitational-slingshot" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/27.3-kinetic-energy-and-momentum-equation" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/27.5-worked-example-gravitational-slingshot/_index.md" %}}) »
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/27.3-kinetic-energy-and-momentum-equation" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/27.5-worked-example-gravitational-slingshot" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/27.3-kinetic-energy-and-momentum-equation" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/27.5-worked-example-gravitational-slingshot/_index.md" %}}) »

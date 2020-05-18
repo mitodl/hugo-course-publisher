@@ -7,12 +7,12 @@ menu:
     weight: 380
     parent: 0af41c2fca6884fab36c0a31155319b9
 ---
-*   [<Demographics and Employment in the United States]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
-*   [1.5.1An Analytical Detective]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1" %}})
-*   [1.5.2Stock Dynamics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics" %}})
-*   [1.5.3Demographics and Employment in the United States]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
-*   [1.5.4Internet Privacy Poll]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll" %}})
-*   [\\>Linear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression" %}})
+*   [<Demographics and Employment in the United States]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states/_index.md" %}})
+*   [1.5.1An Analytical Detective]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/_index.md" %}})
+*   [1.5.2Stock Dynamics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/stock-dynamics/_index.md" %}})
+*   [1.5.3Demographics and Employment in the United States]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states/_index.md" %}})
+*   [1.5.4Internet Privacy Poll]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/internet-privacy-poll/_index.md" %}})
+*   [\\>Linear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/_index.md" %}})
 
 Internet Privacy Poll
 ---------------------
@@ -498,5 +498,5 @@ Next week, we will begin to more formally characterize how an outcome variable l
 
 CheckShow Answer
 
-*   [BackDemographics and Employment in the United States]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states" %}})
-*   [ContinueLinear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression" %}})
+*   [BackDemographics and Employment in the United States]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/demographics-and-employment-in-the-united-states/_index.md" %}})
+*   [ContinueLinear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/_index.md" %}})

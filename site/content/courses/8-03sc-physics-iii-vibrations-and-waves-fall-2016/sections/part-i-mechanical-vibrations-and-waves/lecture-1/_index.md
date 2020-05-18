@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-2/_index.md" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-2/_index.md" %}}) »
 
 Lecture Topics
 --------------
@@ -31,7 +31,7 @@ Lecture Notes
 Textbook Reading
 ----------------
 
-[Chapter 1: Harmonic Oscillation (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch1" %}})
+[Chapter 1: Harmonic Oscillation (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-1/MIT8_03SCF16_Text_Ch1" %}})
 
 Problem Set
 -----------
@@ -54,4 +54,4 @@ In-class Demonstrations
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-2/_index.md" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-2/_index.md" %}}) »

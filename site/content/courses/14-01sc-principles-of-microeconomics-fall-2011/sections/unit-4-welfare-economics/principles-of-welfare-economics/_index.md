@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-4-welfare-economics/problem-set-5/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-4-welfare-economics/problem-set-5/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/_index.md" %}}) »
 
 Session Overview
 ----------------
@@ -29,8 +29,8 @@ Read the recitation notes, which cover new content that adds to and supplements 
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\\\[R&T\\\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus" %}}#_R_T_) Chapter 6, "Markets, Maximizers, and Efficiency."
-*   \[[Perloff]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus" %}}#_Perloff_)\] Chapter 9, "Welfare Economics." (optional)
+*   [\\\[R&T\\\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_R_T_) Chapter 6, "Markets, Maximizers, and Efficiency."
+*   \[[Perloff]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_Perloff_)\] Chapter 9, "Welfare Economics." (optional)
 
 ### Lecture Videos
 
@@ -58,4 +58,4 @@ See the course website for [Econ 302](http://econ302.wikidot.com/applying-the-co
 
 *   [Chapter 9](http://econ302.wikidot.com/applying-the-competitive-model)
 
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-4-welfare-economics/problem-set-5/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-4-welfare-economics/problem-set-5/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/_index.md" %}}) »

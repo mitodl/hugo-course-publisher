@@ -66,7 +66,7 @@ Instructor and Student Work
 
 ### Day 4 Blogs / Vlogs
 
-*   [Elizabeth's day 4 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections" %}}#Echoe_s_Day_4_Thoughts)
+*   [Elizabeth's day 4 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections/_index.md" %}}#Echoe_s_Day_4_Thoughts)
 *   [Ceri's day 4 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/ceri-rileys-reflections" %}}#Reflection_Day_4)
 *   [Kenneth's day 4 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/kenneth-cheahs-reflections" %}}#Day_4_Blog_Post)
 *   [Joshua's day 4 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/joshua-cheongs-reflections" %}}#Vlog_Day_4)
@@ -78,12 +78,12 @@ Instructor and Student Work
 
 ### Day 4 Storyboard
 
-*   [Kenneth's day 4 storyboard]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project" %}}#Day_4_Story_Board)
-*   [Joshua's day 4 storyboard]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project" %}}#Day_4_Storyboard)
-*   [Andrea's day 4 storyboard]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}#Day_4_Storyboard)
-*   [PJ's day 4 storyboard]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project" %}}#Paul_s_Storyboard)
-*   [Nathan's day 4 storyboard]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project" %}}#Day_4_Storyboard)
-*   [Yuliya's day 4 storyboard]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project" %}}#Day_4_Storyboard)
-*   [David's day 4 storyboard]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/david-yams-project" %}}#Day_4_Storyboard)
+*   [Kenneth's day 4 storyboard]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project/_index.md" %}}#Day_4_Story_Board)
+*   [Joshua's day 4 storyboard]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project/_index.md" %}}#Day_4_Storyboard)
+*   [Andrea's day 4 storyboard]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project/_index.md" %}}#Day_4_Storyboard)
+*   [PJ's day 4 storyboard]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project/_index.md" %}}#Paul_s_Storyboard)
+*   [Nathan's day 4 storyboard]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project/_index.md" %}}#Day_4_Storyboard)
+*   [Yuliya's day 4 storyboard]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project/_index.md" %}}#Day_4_Storyboard)
+*   [David's day 4 storyboard]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/david-yams-project/_index.md" %}}#Day_4_Storyboard)
 
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-5-storytellers-toolkit-pt.-3" %}}) »

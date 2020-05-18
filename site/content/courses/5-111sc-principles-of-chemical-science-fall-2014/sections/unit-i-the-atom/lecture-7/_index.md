@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-6" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/_index.md" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-6/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/_index.md" %}}) »
 
 Topics
 ------
@@ -24,12 +24,12 @@ After focusing on the hydrogen atom for several lectures, the course moves on to
 Lecture Notes
 -------------
 
-[Notes for Lecture 7 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec7" %}})
+[Notes for Lecture 7 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-7/MIT5_111F14_Lec7" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 7 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec7Clkr" %}})
+[Lecture 7 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-7/MIT5_111F14_Lec7Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -42,8 +42,8 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 7 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec07Prob" %}})
+[Problems for Lecture 7 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-7/MIT5_111F14_Lec07Prob" %}})
 
-[Solutions for Lecture 7 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec07Soln" %}})
+[Solutions for Lecture 7 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-7/MIT5_111F14_Lec07Soln" %}})
 
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-6" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/_index.md" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-6/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/_index.md" %}}) »

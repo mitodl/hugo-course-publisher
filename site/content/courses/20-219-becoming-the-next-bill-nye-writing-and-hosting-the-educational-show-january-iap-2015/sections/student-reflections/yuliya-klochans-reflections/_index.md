@@ -106,7 +106,7 @@ Day 6 Vlog
 
 This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
-[\_Link back to Day 6\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours" %}}#Instructor_and_Student_Work)
+[\_Link back to Day 6\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours/_index.md" %}}#Instructor_and_Student_Work)
 
 Day 7
 -----

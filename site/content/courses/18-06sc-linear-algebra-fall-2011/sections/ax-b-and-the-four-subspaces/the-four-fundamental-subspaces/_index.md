@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/MIT18_06SCF11_Ses1.10sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/afe0e43e133e663fbea3a48fb8372bfa)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/nHlE7EgJFds" %}})
 
 ### Suggested Reading
 
@@ -34,7 +34,7 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/69f8d92836fa1181356ea9d7f04fd816)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/D8u1LV9CnCk" %}})
 
 Check Yourself
 --------------

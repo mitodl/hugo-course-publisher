@@ -31,9 +31,9 @@ Lecture Notes
 Textbook Reading
 ----------------
 
-[Chapter 4: Symmetries (PDF - 1.3MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch4" %}}) 
+[Chapter 4: Symmetries (PDF - 1.3MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-6/MIT8_03SCF16_Text_Ch4" %}}) 
 
-[Chapter 5: Waves (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch5" %}}) (through section 5.2) 
+[Chapter 5: Waves (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-6/MIT8_03SCF16_Text_Ch5" %}}) (through section 5.2) 
 
 In-class Demonstrations
 -----------------------

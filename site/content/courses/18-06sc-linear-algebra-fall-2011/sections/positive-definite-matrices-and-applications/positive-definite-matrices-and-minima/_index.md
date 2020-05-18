@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima/MIT18_06SCF11_Ses3.3sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/8a8c96758f45cd0d32d8b96e73114213)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima/vF7eyJ2g3kU" %}})
 
 ### Suggested Reading
 
@@ -34,7 +34,7 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/7c7219cb65176015a7442048e3de3a75)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima/cfn2ZUuWPd0" %}})
 
 Check Yourself
 --------------

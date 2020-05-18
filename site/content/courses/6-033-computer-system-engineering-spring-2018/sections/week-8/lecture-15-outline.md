@@ -33,13 +33,13 @@ menu:
     *   Attempt 1:
         *   Store a spreadsheet of account balances in a single file.
         *   Load the file into memory, make updates, write back to disk when done.
-        *   (See [Lecture 15 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/MIT6_033S18lec15" %}}) for code).
+        *   (See [Lecture 15 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/lecture-15-outlineMIT6_033S18lec15" %}}) for code).
     *   If system crashes in the middle? Okay—on reload, we'll read the file, will look as if transfer never happened.
     *   If we crash halfway through writing file? Can't handle that.
     *   Golden rule: Never modify the only copy.
 4.  Achieving Atomicity with Shadow Copies
     *   New idea: Write to a "shadow copy" of the file first, then rename the file in one step.
-        *   (See [Lecture 15 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/MIT6_033S18lec15" %}}) for code.)
+        *   (See [Lecture 15 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/lecture-15-outlineMIT6_033S18lec15" %}}) for code.)
     *   If we crash halfway through writing the shadow copy? Still have intact old copy.
     *   This makes rename a "commit point."
         *   Crash before a commit point => old values.
@@ -53,7 +53,7 @@ menu:
         1.  Point "bank\_file" at "tmp\_bankfile"'s inode.
         2.  Remove "tmp\_bankfile" directory entry.
         3.  Remove refcount on the original file's inode.
-    *   (See [Lecture 15 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/MIT6_033S18lec15" %}}) slides for code.)
+    *   (See [Lecture 15 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/lecture-15-outlineMIT6_033S18lec15" %}}) slides for code.)
     *   Is this atomic?
         *   Crash before setting dirent => rename didn't happen.
         *   Crash after setting dirent => rename happened, but refcounts are wrong.
@@ -97,7 +97,7 @@ menu:
     
 10.  Isolation
     *   Isn't isolation obvious? Can't we just put locks everywhere?
-        *   (See [Lecture 15 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/MIT6_033S18lec15" %}}) for code)
+        *   (See [Lecture 15 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/lecture-15-outlineMIT6_033S18lec15" %}}) for code)
     *   Not exactly:
         *   This solution may be correct, but will perform poorly. Very poorly for the scale of systems that we're dealing with now.
             *   We don't \*really\* want only one thread to be in the transfer() code at once.

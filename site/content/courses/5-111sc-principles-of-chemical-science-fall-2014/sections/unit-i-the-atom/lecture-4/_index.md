@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-5" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-5/_index.md" %}}) »
 
 Topics
 ------
@@ -24,12 +24,12 @@ The idea that matter (and thus an electron) has both particle-like and wave-like
 Lecture Notes
 -------------
 
-[Notes for Lecture 4 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec4" %}})
+[Notes for Lecture 4 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4/MIT5_111F14_Lec4" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 4 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec4Clkr" %}})
+[Lecture 4 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4/MIT5_111F14_Lec4Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -53,8 +53,8 @@ Darcy Wanger describes her realization that science is not something “done—i
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 4 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec04Prob" %}})
+[Problems for Lecture 4 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4/MIT5_111F14_Lec04Prob" %}})
 
-[Solutions for Lecture 4 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec04Soln" %}})
+[Solutions for Lecture 4 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4/MIT5_111F14_Lec04Soln" %}})
 
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-5" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-5/_index.md" %}}) »

@@ -7,7 +7,7 @@ menu:
     weight: 2210
     parent: d36579bd7dfcb71f76178b4b8d45c312
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/34.5-worked-example-particle-hits-pivoted-ring" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/34.5-worked-example-particle-hits-pivoted-ring/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/_index.md" %}}) »
 
 Problem Set 11 contains the following problems:
 
@@ -17,6 +17,6 @@ Problem Set 11 contains the following problems:
 4.  Elastic Collision of Object and Pivoted Ring
 5.  A Spaceship and a Planet
 
-*   [Problem Set 11 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset11" %}})
+*   [Problem Set 11 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/problem-set-11MIT8_01F16_pset11" %}})
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/34.5-worked-example-particle-hits-pivoted-ring" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/34.5-worked-example-particle-hits-pivoted-ring/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/_index.md" %}}) »

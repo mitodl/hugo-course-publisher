@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-61-conservative-fields-path-independence-exact-differentials" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-63-potential-functions/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-61-conservative-fields-path-independence-exact-differentials/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-63-potential-functions/_index.md" %}}) »
 
 Overview
 --------
@@ -47,4 +47,4 @@ Problems and Solutions
 
 [Solutions (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-62-gradient-fields/MIT18_02SC_pb_62_comb" %}})
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-61-conservative-fields-path-independence-exact-differentials" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-63-potential-functions/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-61-conservative-fields-path-independence-exact-differentials/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-63-potential-functions/_index.md" %}}) »

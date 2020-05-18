@@ -7,8 +7,8 @@ menu:
     weight: 2120
     parent: 0943bd811d9caf9e92bf3c7bf9d7b9f2
 ---
-*   [<Predictive Diagnosis: Discovering Patterns for Disease Detection]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection" %}})
-*   [6.3.1Video 1: Heart Attacks]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection" %}})
+*   [<Predictive Diagnosis: Discovering Patterns for Disease Detection]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/_index.md" %}})
+*   [6.3.1Video 1: Heart Attacks]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/_index.md" %}})
 *   [6.3.2Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/quick-question-481" %}})
 *   [6.3.3Video 2: The Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-2-the-data-6" %}})
 *   [6.3.4Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/quick-question-486" %}})
@@ -40,5 +40,5 @@ Logistic Regression, CART, and Random Forest are all designed to be used to pred
 
 CheckShow Answer
 
-*   [BackPredictive Diagnosis: Discovering Patterns for Disease Detection]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection" %}})
+*   [BackPredictive Diagnosis: Discovering Patterns for Disease Detection]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/_index.md" %}})
 *   [ContinueVideo 2: The Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-2-the-data-6" %}})

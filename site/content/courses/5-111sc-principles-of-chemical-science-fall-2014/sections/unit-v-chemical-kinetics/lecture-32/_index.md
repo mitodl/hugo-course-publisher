@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-33" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-33/_index.md" %}}) »
 
 Topics
 ------
@@ -24,12 +24,12 @@ Chemists experimentally determine rate laws and then use that experimental infor
 Lecture Notes
 -------------
 
-[Notes for Lecture 32 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lecture32" %}})
+[Notes for Lecture 32 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-32/MIT5_111F14_Lecture32" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 32 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lec32Clkr" %}})
+[Lecture 32 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-32/MIT5_111F14_Lec32Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -42,8 +42,8 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 32 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lec32Prob" %}})
+[Problems for Lecture 32 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-32/MIT5_111F14_Lec32Prob" %}})
 
-[Solutions for Lecture 32 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/MIT5_111F14_Lec32Soln" %}})
+[Solutions for Lecture 32 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-32/MIT5_111F14_Lec32Soln" %}})
 
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-33" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-31/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-33/_index.md" %}}) »

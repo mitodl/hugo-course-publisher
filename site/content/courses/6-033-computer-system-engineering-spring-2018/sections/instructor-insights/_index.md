@@ -79,7 +79,7 @@ The students' grades were based on the following activities:
 
 ### Rubrics
 
-A [rubric (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-10/MIT6_033S18dpr_rubric" %}}) was used to grade students’ design project final reports.
+A [rubric (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/instructor-insights/MIT6_033S18dpr_rubric" %}}) was used to grade students’ design project final reports.
 
 Student Information
 -------------------

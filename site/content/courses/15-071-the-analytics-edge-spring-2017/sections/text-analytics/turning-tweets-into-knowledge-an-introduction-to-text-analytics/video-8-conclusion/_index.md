@@ -10,7 +10,7 @@ type: courses
 layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/quick-question-395" %}})
-*   [5.2.1Video 1: Twitter]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics" %}})
+*   [5.2.1Video 1: Twitter]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/_index.md" %}})
 *   [5.2.2Video 2: Text Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-2-text-analytics" %}})
 *   [5.2.3Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/quick-question-362" %}})
 *   [5.2.4Video 3: Creating the Dataset]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-3-creating-the-dataset" %}})
@@ -24,10 +24,10 @@ layout: videogallery
 *   [5.2.12Video 7: Predicting Sentiment]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-7-predicting-sentiment" %}})
 *   [5.2.13Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/quick-question-395" %}})
 *   [5.2.14Video 8: Conclusion]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-8-conclusion" %}})
-*   [\\>Man vs. Machine: How IBM Built a Jeopardy Champion]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion" %}})
+*   [\\>Man vs. Machine: How IBM Built a Jeopardy Champion]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/_index.md" %}})
 
 Video 8: Conclusion
 -------------------
 
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/quick-question-395" %}})
-*   [ContinueMan vs. Machine: How IBM Built a Jeopardy Champion]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion" %}})
+*   [ContinueMan vs. Machine: How IBM Built a Jeopardy Champion]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/_index.md" %}})
