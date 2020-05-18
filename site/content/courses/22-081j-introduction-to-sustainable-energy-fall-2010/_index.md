@@ -4,7 +4,8 @@ course_id: 22-081j-introduction-to-sustainable-energy-fall-2010
 course_title: Introduction to Sustainable Energy
 course_image_url: >-
   https://open-learning-course-data-ci.s3.amazonaws.com/22-081j-introduction-to-sustainable-energy-fall-2010/61602f1b9bd68d301f9fbe3893c266d9_22-081jf10.jpg
-course_thumbnail_image_url: ''
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/22-081j-introduction-to-sustainable-energy-fall-2010/11f0284693e27324c13884323a27aa86_22-081jf10-th.jpg
 course_image_alternate_text: Earth encompassed by recycling symbol.
 course_image_caption_text: >-
   <p>Meeting energy needs in a sustainable manner is a global challenge. (Image

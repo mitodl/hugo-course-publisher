@@ -26,7 +26,7 @@ Topics Covered
 *   Time-dependent Perturbation Theory
 *   Quantum Computing
 
-Topics covered, in detail ([PDF](/courses/physics/8-06-quantum-physics-iii-spring-2005/syllabus/calendar.pdf))
+Topics covered, in detail ([PDF]({{% getpage "courses/8-06-quantum-physics-iii-spring-2005/sections/syllabus/calendar" %}}))
 
 Texts
 -----

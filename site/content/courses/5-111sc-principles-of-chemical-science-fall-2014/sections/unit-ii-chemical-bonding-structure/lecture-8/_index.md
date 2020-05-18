@@ -53,6 +53,6 @@ Problems and Solutions
 Acknowledgement
 ---------------
 
-Excerpt of "[Meet the Elements](https://youtu.be/Uy0m7jnyv6U)" by [They Might be Gaints](http://www.theymightbegiants.com/), courtesy of Idlewild / Disney Sound, used with permission. From [_Here Comes Science_](http://www.theymightbegiants.com/music/here-comes-science/), 2009.
+Excerpt of "[Meet the Elements](https://youtu.be/Uy0m7jnyv6U)" by [They Might be Giants](http://www.theymightbegiants.com/), courtesy of Idlewild / Disney Sound, used with permission. From [_Here Comes Science_](https://www.theymightbegiants.com/here-comes-science), 2009.
 
 « [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-9/_index.md" %}}) »

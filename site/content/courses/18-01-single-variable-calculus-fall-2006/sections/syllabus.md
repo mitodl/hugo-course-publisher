@@ -76,4 +76,4 @@ Grading
 
 [link](/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures-creole/lecture-2-limits)
 
-[link2](/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures-creole/lecture-2-limits/18_01_f07_lec02_Creole_new2.srt)
+[link2](https://open-learning-course-data-ci.s3.amazonaws.com/18-01-single-variable-calculus-fall-2006/4cde661010cee735cfc84d408eafe006_18_01_f07_lec02_Creole_new2.srt)

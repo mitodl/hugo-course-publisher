@@ -100,7 +100,7 @@ Recitation 5 ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-f
 
 ### Software
 
-3.5 Version of GNAT ([EXE](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/comps-programming/gnat_315p_nt.exe))
+3.5 Version of GNAT ([EXE](https://open-learning-course-data-ci.s3.amazonaws.com/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/4cefff5084bcc9d83880bcef5eb14130_gnat_315p_nt.exe))
 
 GNAT installation instructions ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/comps-programming/gnat_inst_instrc" %}}))
 

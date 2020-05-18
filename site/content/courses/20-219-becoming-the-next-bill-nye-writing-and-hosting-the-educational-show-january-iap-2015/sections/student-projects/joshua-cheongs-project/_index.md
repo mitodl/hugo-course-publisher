@@ -222,7 +222,7 @@ Final Project: Why can't I find my glove? The Science of Search
 
 This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
 
-[Creative Commons: CC BY-NC-SA](http://k12videos.mit.edu/terms-conditions/?rq=Creative%20Commons), MIT
+[Creative Commons: CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/us/), MIT
 
 Hosted By: Joshua Cheong
 

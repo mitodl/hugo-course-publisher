@@ -25,7 +25,7 @@ Session Activities
 
 Read the recitation notes, which cover new content that adds to and supplements the material covered in lecture.
 
-*   [Recitation: Calculating Elasticities (PDF)](/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/preferences-and-utility/MIT14_01SCF11_rec02.pdf)
+*   [Recitation: Calculating Elasticities (PDF)]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/preferences-and-utility/MIT14_01SCF11_rec02" %}})
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
@@ -36,7 +36,7 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Resources
 
-*   [Graphs and Figures (PDF)](/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/preferences-and-utility/MIT14_01SCF11_graph04.pdf)
+*   [Graphs and Figures (PDF)]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/preferences-and-utility/MIT14_01SCF11_graph04" %}})
 
 Check Yourself
 --------------
