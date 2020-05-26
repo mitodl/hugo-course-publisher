@@ -73,8 +73,8 @@ Propulsion, 16.03-16.04
 Additional Resources for Thermodynamics (16.01-02)
 --------------------------------------------------
 
-Pedagogical Resource: [Reflective Memo from Fall 2003](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/thermo-propulsion/reflectmemo03-htm)
+Pedagogical Resource: [Reflective Memo from Fall 2003]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/thermo-propulsion/reflectmemo03-htm" %}})
 
 Compendium of Equations used in the Course ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/thermo-propulsion/equationcompendium" %}}))
 
-[All Concept Questions](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/thermo-propulsion/thermodoclist)
+[All Concept Questions]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/thermo-propulsion/thermodoclist" %}})

@@ -9,7 +9,7 @@ menu:
 Format
 ------
 
-Students will need both the course textbook ([![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20) Simmons, George F. _Calculus with Analytic Geometry_. 2nd ed. New York, NY: McGraw-Hill, October 1, 1996, ISBN: 9780070576421) and the [course reader](/courses/mathematics/18-01-single-variable-calculus-fall-2006/readings/course-reader) (18.01/18.01A Supplementary Notes, Exercises and Solutions; Jerison, D., and A. Mattuck. _Calculus 1)_ to complete the assigned problem sets. The course reader is where to find the exercises labeled 1A, 1B, etc.
+Students will need both the course textbook ([![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20) Simmons, George F. _Calculus with Analytic Geometry_. 2nd ed. New York, NY: McGraw-Hill, October 1, 1996, ISBN: 9780070576421) and the [course reader]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/readings/course-reader" %}}) (18.01/18.01A Supplementary Notes, Exercises and Solutions; Jerison, D., and A. Mattuck. _Calculus 1)_ to complete the assigned problem sets. The course reader is where to find the exercises labeled 1A, 1B, etc.
 
 Problem sets have two parts, I and II
 

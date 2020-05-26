@@ -21,7 +21,7 @@ This course provides an introduction to mathematical modeling of computational p
 Prerequisites
 -------------
 
-A firm grasp of Python and a solid background in discrete mathematics are necessary prerequisites to this course. You are expected to have mastered the material presented in [_6.01 Introduction to EECS I_](/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011) and [_6.042J Mathematics for Computer Science_](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010).
+A firm grasp of Python and a solid background in discrete mathematics are necessary prerequisites to this course. You are expected to have mastered the material presented in [\_6.01 Introduction to EECS I\_]({{% getpage "courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/sections/_index.md/_index.md" %}}) and [\_6.042J Mathematics for Computer Science\_]({{% getpage "courses/6-042j-mathematics-for-computer-science-fall-2010/sections/_index.md/_index.md" %}}).
 
 If you have not taken and been successful in each of these subjects, please speak with a TA or professor before enrolling. We do allow students who have equivalent, other experience with the material described above to enroll, but with the firm understanding that mastery of this material is assumed and that course staff will not feel obligated to cover it or to help students who are struggling with it.
 
@@ -41,7 +41,7 @@ For the student who finds books helpful, we also suggest:
 Software
 --------
 
-[6.006 programming environment setup](/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/Syllabus/software)
+[6.006 programming environment setup]({{% getpage "courses/6-006-introduction-to-algorithms-fall-2011/sections/Syllabus/software" %}})
 
 Lectures and Recitations
 ------------------------

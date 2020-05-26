@@ -12,7 +12,7 @@ Course Meeting Times
 Lectures: 3 sessions / week, 1 hour / session
 
 Recitation: 2 sessions / week, 1 hour / session[  
-](/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures-creole)
+]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/video-lectures-creole" %}})
 
 Prerequisites
 -------------
@@ -47,7 +47,7 @@ Textbook
 Course Reader
 -------------
 
-18.01/18.01A [Supplementary Notes, Exercises and Solutions](/courses/mathematics/18-01-single-variable-calculus-fall-2006/readings/course-reader); Jerison, D., and A. Mattuck. _Calculus 1_.
+18.01/18.01A [Supplementary Notes, Exercises and Solutions]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/readings/course-reader" %}}); Jerison, D., and A. Mattuck. _Calculus 1_.
 
 Homework
 --------
@@ -74,6 +74,6 @@ Grading
 | Final | 250 |
 | **Total** | **900** 
 
-[link](/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures-creole/lecture-2-limits)
+[link]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/video-lectures-creole/lecture-2-limits" %}})
 
 [link2](https://open-learning-course-data-ci.s3.amazonaws.com/18-01-single-variable-calculus-fall-2006/4cde661010cee735cfc84d408eafe006_18_01_f07_lec02_Creole_new2.srt)

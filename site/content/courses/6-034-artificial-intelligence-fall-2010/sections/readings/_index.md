@@ -10,7 +10,7 @@ Unless otherwise noted, the readings below are from the course textbook:
 
 [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0201533774/ref=nosim/mitopencourse-20) Winston, Patrick Henry. _Artificial Intelligence_. 3rd ed. Addison-Wesley, 1992. ISBN: 9780201533774.
 
-Additional resources, where relevant, are listed with the respective [Lecture Videos](/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) under the "Related Resources" tab.
+Additional resources, where relevant, are listed with the respective [Lecture Videos]({{% getpage "courses/6-034-artificial-intelligence-fall-2010/sections/lecture-videos" %}}) under the "Related Resources" tab.
 
 | LEC # | TOPICS | READINGS |
 | --- | --- | --- |

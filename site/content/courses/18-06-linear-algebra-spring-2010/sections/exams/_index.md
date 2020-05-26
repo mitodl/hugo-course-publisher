@@ -15,4 +15,4 @@ There will be three one-hour exams at class times and a final exam.
 | Exam 3 ([PDF]({{% getpage "courses/18-06-linear-algebra-spring-2010/sections/exams/MIT18_06S10_exam3_s10" %}})) | ([PDF]({{% getpage "courses/18-06-linear-algebra-spring-2010/sections/exams/MIT18_06S10_exam3_s10_soln" %}})) |
 | Final exam ([PDF]({{% getpage "courses/18-06-linear-algebra-spring-2010/sections/exams/MIT18_06S10_Final_Exam" %}})) | ([PDF]({{% getpage "courses/18-06-linear-algebra-spring-2010/sections/exams/MIT18_06S10_Final_Answers" %}})) 
 
-Exams and quizzes from previous years can be found in the [study materials](/courses/mathematics/18-06-linear-algebra-spring-2010/study-materials) section.
+Exams and quizzes from previous years can be found in the [study materials]({{% getpage "courses/18-06-linear-algebra-spring-2010/sections/study-materials" %}}) section.

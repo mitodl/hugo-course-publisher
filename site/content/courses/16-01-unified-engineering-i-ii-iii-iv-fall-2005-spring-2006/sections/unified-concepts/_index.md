@@ -14,7 +14,7 @@ These lectures are led by various instructors.
 Learning Objectives
 -------------------
 
-These lectures do not have expressed learning objectives. They serve a variety of functions that support the Unified Engineering curriculum. For more information, refer to the course [syllabus](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/syllabus).
+These lectures do not have expressed learning objectives. They serve a variety of functions that support the Unified Engineering curriculum. For more information, refer to the course [syllabus]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus" %}}).
 
 Schedule
 --------

@@ -9,7 +9,7 @@ menu:
 Format
 ------
 
-Students will need both the course textbook ([![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20) Simmons, George F. _Calculus with Analytic Geometry_. 2nd ed. New York, NY: McGraw-Hill, October 1, 1996, ISBN: 9780070576421) and the [course reader](/courses/mathematics/18-01-single-variable-calculus-fall-2006/readings/course-reader) (18.01/18.01A Supplementary Notes, Exercises and Solutions; Jerison, D., and A. Mattuck. _Calculus 1)_ to complete the assigned problem sets. The course reader is where to find the exercises labeled 1A, 1B, etc.
+Students will need both the course textbook ([![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20) Simmons, George F. _Calculus with Analytic Geometry_. 2nd ed. New York, NY: McGraw-Hill, October 1, 1996, ISBN: 9780070576421) and the [course reader]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/readings/course-reader" %}}) (18.01/18.01A Supplementary Notes, Exercises and Solutions; Jerison, D., and A. Mattuck. _Calculus 1)_ to complete the assigned problem sets. The course reader is where to find the exercises labeled 1A, 1B, etc.
 
 Problem sets have two parts, I and II
 
@@ -34,9 +34,9 @@ Key to Notation
 
 2.1 = Section 2.1 of the Simmons book
 
-Notes G = section G of the [Notes (Course Reader)](/courses/mathematics/18-01-single-variable-calculus-fall-2006/readings/course-reader)
+Notes G = section G of the [Notes (Course Reader)]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/readings/course-reader" %}})
 
-1A-3 = Exercise 1A-3 in Section E (Exercises) of the [Notes](/courses/mathematics/18-01-single-variable-calculus-fall-2006/readings/course-reader) (solved in section S)
+1A-3 = Exercise 1A-3 in Section E (Exercises) of the [Notes]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/readings/course-reader" %}}) (solved in section S)
 
 2.4/13; 81/4 = in Simmons, respectively, section 2.4 Problem 13; page 81 Problem 4
 

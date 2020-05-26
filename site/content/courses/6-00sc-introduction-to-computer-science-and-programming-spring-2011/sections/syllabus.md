@@ -6,7 +6,7 @@ menu:
     identifier: e96b35e94a979cbd2101868dae215a07
     weight: 10
 ---
-« [Previous](/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) | [Next](/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/software) »
+« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/_index.md/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/software" %}}) »
 
 About This Course
 -----------------
@@ -52,12 +52,12 @@ A second edition of the textbook is now available. However, there may be some di
 
 If you choose not to purchase the textbook, you will probably find it useful to buy or borrow another book that covers Python. You might check your local public library's resources, or search online for a free Python text, such as [_How to Think Like a Computer Scientist_](http://www.greenteapress.com/thinkpython/html/index.html) or ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_An Introduction to Python_ (PDF)](http://tdc-www.harvard.edu/Python.pdf).
 
-Online readings will be posted on the appropriate session pages. A more complete list of readings and references (not all of which are specifically assigned during lectures) can be found in the [References](/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/references) section.
+Online readings will be posted on the appropriate session pages. A more complete list of readings and references (not all of which are specifically assigned during lectures) can be found in the [References]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/references" %}}) section.
 
 Technical Requirements
 ----------------------
 
-Since one of the goals of this course is to become familiar with programming, you will need to install and use the Python programming language and the interpreter IDLE. Please see the [Software](/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/software) section for information and instructions on downloading the required software.
+Since one of the goals of this course is to become familiar with programming, you will need to install and use the Python programming language and the interpreter IDLE. Please see the [Software]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/software" %}}) section for information and instructions on downloading the required software.
 
 Most lectures involve programming demonstrations, and the code involved will generally be posted twice: once as a handout in PDF format, and again as a code file in .PY (Python) format. Additionally, many problem sets have accompanying code required for completing the assignment, and these are posted as .PY (Python) files. If you do not have the software installed, you will not be able to properly open and use these files.
 
@@ -66,4 +66,4 @@ Acknowledgments
 
 We would like to thank course TAs Mitchell Peabody, Gartheeban Ganeshapillai, and Sarina Canelake for their participation in filming 6.00 recitations for OCW Scholar, and Niki Castle and Elaina Cherry for their work and dedication adapting the 6.00 materials for Scholar students. We would also like to thank Eric Grimson for his role in the development of 6.00 teaching material over the years, and for allowing us to record a guest lecture.
 
-« [Previous](/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm) | [Next](/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/software) »
+« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/_index.md/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/software" %}}) »

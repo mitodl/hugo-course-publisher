@@ -10,7 +10,7 @@ Readings are assigned from the course text:
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262017473) [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0262017474/ref=nosim/mitopencourse-20) Tester, Jefferson W., Elisabeth M. Drake, Michael J. Driscoll, Michael W. Golay, and William A. Peters. [_S__ustainable Energy: Choosing Among Options_](https://mitpress.mit.edu/9780262017473). 2nd edition. MIT Press, 2012. ISBN: 9780262017473.
 
-Additional readings are listed on the [Related Resources](/courses/nuclear-engineering/22-081j-introduction-to-sustainable-energy-fall-2010/related-resources) page. All lecture slides posted below are used with permission of the authors. Many lecture sessions are split in two, with separate lecturers, presentations, and readings for each part.
+Additional readings are listed on the [Related Resources]({{% getpage "courses/22-081j-introduction-to-sustainable-energy-fall-2010/sections/related-resources" %}}) page. All lecture slides posted below are used with permission of the authors. Many lecture sessions are split in two, with separate lecturers, presentations, and readings for each part.
 
 | LEC # | INSTRUCTORS | TOPICS | SLIDES | READINGS |
 | --- | --- | --- | --- | --- |

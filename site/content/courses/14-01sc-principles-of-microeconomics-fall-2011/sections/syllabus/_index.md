@@ -6,7 +6,7 @@ menu:
     identifier: 8abb293b49d8047a3f3674bfa02e78f7
     weight: 10
 ---
-« [Previous](/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/index.htm) | [Next](/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/Syllabus/meet-the-tas) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/_index.md/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/Syllabus/meet-the-tas" %}}) »
 
 About this Course
 -----------------
@@ -22,7 +22,7 @@ Prerequisites and Preparation
 
 This course will include some basic uni-variate calculus material, as taught in the MIT course _18.01 Single Variable Calculus_ or in a comparable high-school calculus course. There are no other prerequisites.
 
-Visit [_18.01SC Single Variable Calculus_](/courses/mathematics/18-01sc-single-variable-calculus-fall-2010) to learn or review this material.
+Visit [\_18.01SC Single Variable Calculus\_]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/_index.md/_index.md" %}}) to learn or review this material.
 
 Course Goals
 ------------
@@ -83,6 +83,6 @@ There will also be a three hour final, which will be cumulative and cover all of
 Acknowledgements
 ----------------
 
-This course includes substantial contributions from several talented [14.01SC Teaching Assistants](/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/Syllabus/meet-the-tas).
+This course includes substantial contributions from several talented [14.01SC Teaching Assistants]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/Syllabus/meet-the-tas" %}}).
 
-« [Previous](/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/index.htm) | [Next](/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/Syllabus/meet-the-tas) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/_index.md/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/Syllabus/meet-the-tas" %}}) »

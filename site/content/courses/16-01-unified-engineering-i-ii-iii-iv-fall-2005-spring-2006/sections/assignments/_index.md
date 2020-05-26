@@ -9,7 +9,7 @@ menu:
 Assignment Schedule
 -------------------
 
-Students are assigned one problem set per week. Each week's assignment is made available on Monday, and is due on Tuesday of the following week (8 days later). One problem is assigned for each lecture. Problems included in Monday's assignment cover lectures from the previous Friday through the following Thursday. For example, Problem Set 2 is available on Monday of Week 2, due on Tuesday of Week 3, and includes one problem for each lecture between Friday of Week 1 and Thursday of Week 2. Assignment key dates are listed in the [calendar](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/calendar).
+Students are assigned one problem set per week. Each week's assignment is made available on Monday, and is due on Tuesday of the following week (8 days later). One problem is assigned for each lecture. Problems included in Monday's assignment cover lectures from the previous Friday through the following Thursday. For example, Problem Set 2 is available on Monday of Week 2, due on Tuesday of Week 3, and includes one problem for each lecture between Friday of Week 1 and Thursday of Week 2. Assignment key dates are listed in the [calendar]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/calendar" %}}).
 
 Problem set solutions are posted promptly after the due date, and graded problems are typically returned to students within 2-3 days. This schedule allows students to study for exams using both school solutions and their own graded papers.
 
@@ -35,7 +35,7 @@ The table below contains the weekly assignments for both the Fall 2005 and Sprin
 1.  Original format (all discipline problems covered in a single problem set)
 2.  Discipline-specific format (each problem is broken out into a separate file based on its discipline).
 
-The abbreviations used in problem numbering correspond to the discipline abbreviations found in the [syllabus](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/syllabus).
+The abbreviations used in problem numbering correspond to the discipline abbreviations found in the [syllabus]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus" %}}).
 
 ### 16.01-16.02
 

@@ -9,20 +9,20 @@ menu:
 type: courses
 layout: videogallery
 ---
-*   [<A Bogus Well Ordering Principle Proof](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-1/vertical-0d330bfe723d)
-*   [1.4.1Propositional Operators: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2)
-*   [1.4.2Propositional Operators](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/vertical-e6ef70d76365)
-*   [1.4.3Digital Logic: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/digital-logic-video)
-*   [1.4.4Truth Tables: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/truth-tables-video)
-*   [1.4.5Equivalence and Truth Table](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/vertical-b8b2711c0ce8)
-*   [1.4.6Implies: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/implies-video)
-*   [1.4.7Propositional Logic: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/propositional-logic-video)
-*   [1.4.8Soundness and Validity](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/vertical-ed6030bda119)
-*   [1.4.9Logical Connectives](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/vertical-a28e46f96fa1)
-*   [\>Propositional Operators](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/vertical-e6ef70d76365)
+*   [<A Bogus Well Ordering Principle Proof]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-1/vertical-0d330bfe723d" %}})
+*   [1.4.1Propositional Operators: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2" %}})
+*   [1.4.2Propositional Operators]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/vertical-e6ef70d76365" %}})
+*   [1.4.3Digital Logic: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/digital-logic-video" %}})
+*   [1.4.4Truth Tables: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/truth-tables-video" %}})
+*   [1.4.5Equivalence and Truth Table]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/vertical-b8b2711c0ce8" %}})
+*   [1.4.6Implies: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/implies-video" %}})
+*   [1.4.7Propositional Logic: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/propositional-logic-video" %}})
+*   [1.4.8Soundness and Validity]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/vertical-ed6030bda119" %}})
+*   [1.4.9Logical Connectives]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/vertical-a28e46f96fa1" %}})
+*   [\\>Propositional Operators]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/vertical-e6ef70d76365" %}})
 
 Propositional Operators
 -----------------------
 
-*   [BackA Bogus Well Ordering Principle Proof](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-1/vertical-0d330bfe723d)
-*   [ContinuePropositional Operators](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/vertical-e6ef70d76365)
+*   [BackA Bogus Well Ordering Principle Proof]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-1/vertical-0d330bfe723d" %}})
+*   [ContinuePropositional Operators]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/vertical-e6ef70d76365" %}})
