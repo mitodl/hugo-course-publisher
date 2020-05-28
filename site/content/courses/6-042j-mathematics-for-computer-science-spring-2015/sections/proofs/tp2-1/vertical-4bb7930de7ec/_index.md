@@ -10,7 +10,7 @@ type: courses
 layout: videogallery
 ---
 *   [<Well Ordering Proofs and Counterexamples]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-1/vertical-001819756631" %}})
-*   [1.3.1Well Ordering Principle 1: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-1" %}})
+*   [1.3.1Well Ordering Principle 1: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-1/_index.md" %}})
 *   [1.3.2Domain for Well Ordering Principle]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-1/vertical-1d9c2a0e507a" %}})
 *   [1.3.3Well Ordering Principle 2: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-1/vertical-735460178366" %}})
 *   [1.3.4Well Ordering Proofs and Counterexamples]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-1/vertical-001819756631" %}})

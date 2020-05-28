@@ -15,7 +15,7 @@ Introduction
 
 ### Prerequisites
 
-The prerequisite to this course is _[18.01 Single Variable Calculus]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/_index.md/_index.md" %}})_.
+The prerequisite to this course is _[18.01 Single Variable Calculus]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections" %}})_.
 
 ### Course Overview
 

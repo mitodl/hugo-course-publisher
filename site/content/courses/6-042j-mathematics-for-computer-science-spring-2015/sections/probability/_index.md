@@ -7,12 +7,12 @@ menu:
     weight: 2220
 ---
 *   [BackClass Schedules]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp10-1/class-schedules" %}})
-*   [ContinueIntro to Discrete Probability]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2" %}})
+*   [ContinueIntro to Discrete Probability]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/_index.md" %}})
 
 **4.1 Intro to Discrete Probability**
 
-*   [4.1.1 Tree Model: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2" %}})
-*   [4.1.2 Socks and Shoes]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-dcc88d262213" %}})
+*   [4.1.1 Tree Model: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/_index.md" %}})
+*   [4.1.2 Socks and Shoes]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-dcc88d262213/_index.md" %}})
 *   [4.1.3 Simplified Monty Hall Tree: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-65858dc50455" %}})
 *   [4.1.4 Simplify Prize Tree]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-9542d6e9bbc8" %}})
 *   [4.1.5 Sample Spaces: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-7e0be1baca38" %}})
@@ -22,7 +22,7 @@ menu:
 
 **4.2 Conditional Probability**
 
-*   [4.2.1 Conditional Probability Definitions: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-1" %}})
+*   [4.2.1 Conditional Probability Definitions: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-1/_index.md" %}})
 *   [4.2.2 Dicey Sum]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-1/vertical-c84a5906e76d" %}})
 *   [4.2.3 Law of Total Probability: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-1/vertical-4689ff047559" %}})
 *   [4.2.4 Cavities and Candy]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-1/vertical-ca9fdfa21bb0" %}})
@@ -35,7 +35,7 @@ menu:
 
 **4.3 Independence & Causality**
 
-*   [4.3.1 Independence: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-2" %}})
+*   [4.3.1 Independence: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-2/_index.md" %}})
 *   [4.3.2 Independent Dice Rolls]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-2/vertical-8ff8e74ce854" %}})
 *   [4.3.3 Mutual Independence: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-2/vertical-9c80216b7495" %}})
 *   [4.3.4 Mutually Independent Dice Rolls]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-2/vertical-725617c4e7c2" %}})
@@ -45,7 +45,7 @@ menu:
 
 **4.4 Random Variables, Density Functions**
 
-*   [4.4.1 Bigger Number Game: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-3" %}})
+*   [4.4.1 Bigger Number Game: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-3/_index.md" %}})
 *   [4.4.2 Random Variables: Independence: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-3/vertical-af2ad400f984" %}})
 *   [4.4.3 Odd Heads and Matches]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-3/vertical-12926a05d1ba" %}})
 *   [4.4.4 Random Variables: Uniform & Binomial: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-3/vertical-c596d4103fc3" %}})
@@ -56,7 +56,7 @@ menu:
 
 **4.5 Expectation**
 
-*   [4.5.1 Expectation: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-1" %}})
+*   [4.5.1 Expectation: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-1/_index.md" %}})
 *   [4.5.2 Uneven Dice]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-1/vertical-d324b518e79a" %}})
 *   [4.5.3 Expected Number Of Heads: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-1/vertical-07d1783f0da3" %}})
 *   [4.5.4 Expected Number of Heads]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-1/vertical-932dca21218a" %}})
@@ -72,7 +72,7 @@ menu:
 
 **4.6 Deviation: Markov & Chebyshev Bounds**
 
-*   [4.6.1 Deviation From The Mean: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-2" %}})
+*   [4.6.1 Deviation From The Mean: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-2/_index.md" %}})
 *   [4.6.2 Don't Expect the Expectation]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-2/vertical-18d81b8ca2e1" %}})
 *   [4.6.3 Markov Bounds: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-2/vertical-8307292b80cb" %}})
 *   [4.6.4 Markov Bound]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-2/vertical-ecd276750fa8" %}})
@@ -86,7 +86,7 @@ menu:
 
 **4.7 Sampling & Confidence**
 
-*   [4.7.1 Law Of Large Numbers: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp14-1" %}})
+*   [4.7.1 Law Of Large Numbers: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp14-1/_index.md" %}})
 *   [4.7.2 Not So Strong]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp14-1/vertical-84aa6f70d1c0" %}})
 *   [4.7.3 Independent Sampling Theorem: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp14-1/vertical-872c5ec0974e" %}})
 *   [4.7.4 Sampling Coin Tosses]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp14-1/vertical-b7cee8c0e19c" %}})
@@ -99,11 +99,11 @@ menu:
 
 **4.8 Random Walks & Pagerank**
 
-*   [4.8.1 Random Walks: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/random-walks-pagerank" %}})
+*   [4.8.1 Random Walks: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/random-walks-pagerank/_index.md" %}})
 *   [4.8.2 Stationary Distributions: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/random-walks-pagerank/stationary-distributions-video" %}})
 *   [4.8.3 Page Rank: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/random-walks-pagerank/page-rank-video" %}})
-*   [4.8.4 Random Walks]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/random-walks-pagerank/random-walks-0" %}})
-*   [4.8.5 Random Walks (cont.)]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/random-walks-pagerank/random-walks-cont" %}})
+*   [4.8.4 Random Walks]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/random-walks-pagerank/random-walks-0/_index.md" %}})
+*   [4.8.5 Random Walks (cont.)]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/random-walks-pagerank/random-walks-cont/_index.md" %}})
 
 *   [BackClass Schedules]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp10-1/class-schedules" %}})
-*   [ContinueIntro to Discrete Probability]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2" %}})
+*   [ContinueIntro to Discrete Probability]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/_index.md" %}})

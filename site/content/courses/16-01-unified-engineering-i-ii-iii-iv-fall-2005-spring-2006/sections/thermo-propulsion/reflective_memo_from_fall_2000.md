@@ -22,7 +22,7 @@ Teaching Methods and the Learning Environment
 
 I took several actions intended to improve learning. These are discussed in greater detail below. Implementation of all of these new elements produced an unsustainable workload for me. I am hopeful that the next time around things will be easier.
 
-a) I put all my lecture notes on the [web]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/thermo-propulsion" %}}). Reviewing these notes will provide a good overview of both the subject content and the teaching methods.
+a) I put all my lecture notes on the [web]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/thermo-propulsion/_index.md" %}}). Reviewing these notes will provide a good overview of both the subject content and the teaching methods.
 
 b) I added sections to the notes for areas of difficulty identified in last year's mud cards (enthalpy, shaft work vs. flow work, and frame dependence of stagnation quantities).
 

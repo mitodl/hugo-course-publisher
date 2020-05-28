@@ -7,8 +7,8 @@ menu:
     weight: 1970
     parent: 7fcb07616e2948a6ad10caa832263c78
 ---
-*   [<Asymptotics]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3" %}})
-*   [3.2.1Asymptotic Notation: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3" %}})
+*   [<Asymptotics]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/_index.md" %}})
+*   [3.2.1Asymptotic Notation: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/_index.md" %}})
 *   [3.2.2Asymptotics as Relations]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/vertical-3800c4b1c397" %}})
 *   [3.2.3Asymptotic Properties: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/vertical-e35ce9684389" %}})
 *   [3.2.4Little oh Big Oh]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/vertical-5c04897d10e6" %}})
@@ -51,5 +51,5 @@ Asymptotics as Relations
     CheckShow Answer
     
 
-*   [BackAsymptotics]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3" %}})
+*   [BackAsymptotics]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/_index.md" %}})
 *   [ContinueAsymptotic Properties: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/vertical-e35ce9684389" %}})

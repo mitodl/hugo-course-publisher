@@ -9,8 +9,8 @@ menu:
 type: courses
 layout: videogallery
 ---
-*   [<Proofs]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs" %}})
-*   [1.1.1Welcome to 6.042: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-1" %}})
+*   [<Proofs]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/_index.md" %}})
+*   [1.1.1Welcome to 6.042: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-1/_index.md" %}})
 *   [1.1.2Intro To Proofs: Part 1: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-1/intro-to-proofs-part-1-video" %}})
 *   [1.1.3Intro to Proofs: Part 2: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-1/intro-to-proofs-part-2-video" %}})
 *   [1.1.4Definitions To Know For Proofs]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-1/vertical-96ac16077819" %}})
@@ -20,5 +20,5 @@ layout: videogallery
 Welcome to 6.042
 ----------------
 
-*   [BackProofs]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs" %}})
+*   [BackProofs]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/_index.md" %}})
 *   [ContinueIntro To Proofs: Part 1: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-1/intro-to-proofs-part-1-video" %}})

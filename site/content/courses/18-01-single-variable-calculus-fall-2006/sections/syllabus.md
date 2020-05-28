@@ -12,7 +12,7 @@ Course Meeting Times
 Lectures: 3 sessions / week, 1 hour / session
 
 Recitation: 2 sessions / week, 1 hour / session[  
-]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/video-lectures-creole" %}})
+]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/video-lectures-creole/_index.md" %}})
 
 Prerequisites
 -------------

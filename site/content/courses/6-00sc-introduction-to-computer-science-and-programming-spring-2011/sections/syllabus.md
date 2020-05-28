@@ -6,7 +6,7 @@ menu:
     identifier: e96b35e94a979cbd2101868dae215a07
     weight: 10
 ---
-« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/_index.md/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/software" %}}) »
+« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/software" %}}) »
 
 About This Course
 -----------------
@@ -66,4 +66,4 @@ Acknowledgments
 
 We would like to thank course TAs Mitchell Peabody, Gartheeban Ganeshapillai, and Sarina Canelake for their participation in filming 6.00 recitations for OCW Scholar, and Niki Castle and Elaina Cherry for their work and dedication adapting the 6.00 materials for Scholar students. We would also like to thank Eric Grimson for his role in the development of 6.00 teaching material over the years, and for allowing us to record a guest lecture.
 
-« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/_index.md/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/software" %}}) »
+« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/software" %}}) »

@@ -14,7 +14,7 @@ During class sessions, questions are posed to the class to stimulate discussion 
 
 This section shows all of the class activities in a schedule format. The same documents are also available in other sections of this Web site.
 
-Some of the Course Note files contain figures with associated animations or interactive simulations that can be found on the [Visualizations]({{% getpage "courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/sections/visualizations" %}}) page. A table correlating the figures to the animations can be found here ([PDF]({{% getpage "courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/sections/class-activities/visualizn_links" %}})).
+Some of the Course Note files contain figures with associated animations or interactive simulations that can be found on the [Visualizations]({{% getpage "courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/sections/visualizations/_index.md" %}}) page. A table correlating the figures to the animations can be found here ([PDF]({{% getpage "courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/sections/class-activities/visualizn_links" %}})).
 
 | WK # | SES # | TOPICS | READINGS | SLIDES | CONCEPT Qs | PROBLEM SOLVING | EXPERIMENTS |
 | --- | --- | --- | --- | --- | --- | --- | --- |

@@ -8,7 +8,7 @@ menu:
 ---
 This page lists the papers assigned to and presented by 20.902 students in the 20.020 class. Each week during the 20.020 three-hour studio session, a 20.902 student leads a presentation and discussion on a relevant paper.
 
-Some additional readings for the 20.020 students are woven into their homework, as described on the [assignments]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/assignments" %}}) page.
+Some additional readings for the 20.020 students are woven into their homework, as described on the [assignments]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/assignments/_index.md" %}}) page.
 
 Schedule
 --------

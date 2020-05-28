@@ -38,13 +38,13 @@ All courses taught in the Department of Aeronautics and Astronautics disclose a 
 
 | DISCIPLINES | ABBREVIATIONS | LEARNING OBJECTIVES |
 | --- | --- | --- |
-| [Computers and Programming]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/comps-programming" %}}) | C | 16.01-02, Fall ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus/learning_objectives_fall_version" %}})) |
-| [Fluid Mechanics]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/fluid-mechanics" %}}) | F | 16.01-04, Fall-Spring ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus/obj" %}})) |
-| [Materials and Structures]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/materials-structures" %}}) | M | 16.01-04, Fall-Spring ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus/fall_2003_ms_lo" %}})) |
-| [Signals and Systems]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/signals-systems" %}}) | S | 16.01-02, Fall ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus/objectives" %}}))  {{< br >}}  {{< br >}}16.03-04, Spring ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus/ss_lo_s04" %}})) |
-| [Systems and Labs]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/systems-labs-04" %}}) | S/L | 16.01-02, Fall ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus/fall_2003_systems_lo" %}})) |
-| [Thermodynamics]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/thermo-propulsion" %}})  {{< br >}}  {{< br >}}[Propulsion]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/thermo-propulsion" %}}) | T  {{< br >}}  {{< br >}}P | 16.01-02, Fall ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus/thermo_1" %}}))  {{< br >}}  {{< br >}}16.03-04, Spring ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus/PROPULSION_lo" %}})) |
-| [Unified Concepts]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/systems-labs-06" %}}) | U |   
+| [Computers and Programming]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/comps-programming/_index.md" %}}) | C | 16.01-02, Fall ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus/learning_objectives_fall_version" %}})) |
+| [Fluid Mechanics]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/fluid-mechanics/_index.md" %}}) | F | 16.01-04, Fall-Spring ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus/obj" %}})) |
+| [Materials and Structures]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/materials-structures/_index.md" %}}) | M | 16.01-04, Fall-Spring ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus/fall_2003_ms_lo" %}})) |
+| [Signals and Systems]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/signals-systems/_index.md" %}}) | S | 16.01-02, Fall ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus/objectives" %}}))  {{< br >}}  {{< br >}}16.03-04, Spring ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus/ss_lo_s04" %}})) |
+| [Systems and Labs]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/systems-labs-04/_index.md" %}}) | S/L | 16.01-02, Fall ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus/fall_2003_systems_lo" %}})) |
+| [Thermodynamics]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/thermo-propulsion/_index.md" %}})  {{< br >}}  {{< br >}}[Propulsion]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/thermo-propulsion/_index.md" %}}) | T  {{< br >}}  {{< br >}}P | 16.01-02, Fall ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus/thermo_1" %}}))  {{< br >}}  {{< br >}}16.03-04, Spring ([PDF]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/syllabus/PROPULSION_lo" %}})) |
+| [Unified Concepts]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/systems-labs-06/_index.md" %}}) | U |   
 
 Discipline Section Organization
 -------------------------------
@@ -53,7 +53,7 @@ Each discipline in Unified Engineering is presented on a separate section of the
 
 ### Lec #
 
-Lecture number. Refer to the [calendar]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/calendar" %}}) section for more details on how each lecture session fits into the overall course schedule.
+Lecture number. Refer to the [calendar]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/calendar/_index.md" %}}) section for more details on how each lecture session fits into the overall course schedule.
 
 ### Topics
 
@@ -73,7 +73,7 @@ Reading assignments for the lecture. These may be from published textbooks, or l
 
 ### Assignments / Solutions
 
-Work to be completed by students. Each lecture has one associated problem. The problem and its solution are linked in both the section table and in the [assignments]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/assignments" %}}) section. [Systems and Labs]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/systems-labs-04" %}}) assignments, or "Systems Problems", are larger in scope than individual problem set problems, and may be project-based or lab-based.
+Work to be completed by students. Each lecture has one associated problem. The problem and its solution are linked in both the section table and in the [assignments]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/assignments/_index.md" %}}) section. [Systems and Labs]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/systems-labs-04/_index.md" %}}) assignments, or "Systems Problems", are larger in scope than individual problem set problems, and may be project-based or lab-based.
 
 ### Handouts / Supporting Files
 

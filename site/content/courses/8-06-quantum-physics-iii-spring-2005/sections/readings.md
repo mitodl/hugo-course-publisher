@@ -17,7 +17,7 @@ Texts
 
 [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0306447908/ref=nosim/mitopencourse-20) Shankar, Ramamurti. _Principles of Quantum Mechanics_. 2nd ed. New York, NY: Plenum Press, 1994. ISBN: 9780306447907.
 
-The following table lists the reading assignments for each of the nine topics covered in this course. For more detailed information on these reading assigments, please see the individual assignments in the [assignments]({{% getpage "courses/8-06-quantum-physics-iii-spring-2005/sections/assignments" %}}) section.
+The following table lists the reading assignments for each of the nine topics covered in this course. For more detailed information on these reading assigments, please see the individual assignments in the [assignments]({{% getpage "courses/8-06-quantum-physics-iii-spring-2005/sections/assignments/_index.md" %}}) section.
 
 | LEC # | TOPICS | READINGS |
 | --- | --- | --- |

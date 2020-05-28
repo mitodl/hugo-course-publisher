@@ -49,9 +49,9 @@ The lecture and studio notes for each week are linked in the following table.
 | 12 | L21 | Project work day (cont.) |   | [Week 12 Notes]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/lecture-and-studio-notes/wk12" %}}) |
 | S12 | Consulations on projects |   |
 | L22 | Tips on oral presentations |   |
-| 13 | L23 | Project work day |   | No notes – see [projects]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/projects" %}}) page for presentations |
+| 13 | L23 | Project work day |   | No notes – see [projects]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/projects/_index.md" %}}) page for presentations |
 | S13 | Final presentations day 1 | Three teams present |
 | L24 | Q&A and project work | Class evaluation |
-| 14 | L25 | Q&A and project work (cont.) |   | No notes – see [projects]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/projects" %}}) page for presentations |
+| 14 | L25 | Q&A and project work (cont.) |   | No notes – see [projects]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/projects/_index.md" %}}) page for presentations |
 | S14 | Final presentations day 2 | Three teams present |
 | L26 | Wrap-up and celebration |

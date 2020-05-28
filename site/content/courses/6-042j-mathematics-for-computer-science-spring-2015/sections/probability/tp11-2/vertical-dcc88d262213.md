@@ -7,16 +7,16 @@ menu:
     weight: 2240
     parent: 4414c612ae424c737466f4715f85e319
 ---
-*   [<Intro to Discrete Probability](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2)
-*   [4.1.1Tree Model: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2)
-*   [4.1.2Socks and Shoes](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-dcc88d262213)
-*   [4.1.3Simplified Monty Hall Tree: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-65858dc50455)
-*   [4.1.4Simplify Prize Tree](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-9542d6e9bbc8)
-*   [4.1.5Sample Spaces: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-7e0be1baca38)
-*   [4.1.6Sum Rule Practice](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-eb54695f6f66)
-*   [4.1.7Addition Rule](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-d95cbbc345c2)
-*   [4.1.8Fun With Coins](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-a2b75a4824b8)
-*   [\>Simplified Monty Hall Tree: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-65858dc50455)
+*   [<Intro to Discrete Probability]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/_index.md" %}})
+*   [4.1.1Tree Model: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/_index.md" %}})
+*   [4.1.2Socks and Shoes]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-dcc88d262213/_index.md" %}})
+*   [4.1.3Simplified Monty Hall Tree: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-65858dc50455" %}})
+*   [4.1.4Simplify Prize Tree]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-9542d6e9bbc8" %}})
+*   [4.1.5Sample Spaces: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-7e0be1baca38" %}})
+*   [4.1.6Sum Rule Practice]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-eb54695f6f66" %}})
+*   [4.1.7Addition Rule]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-d95cbbc345c2" %}})
+*   [4.1.8Fun With Coins]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-a2b75a4824b8" %}})
+*   [\\>Simplified Monty Hall Tree: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-65858dc50455" %}})
 
 Socks And Shoes
 ---------------
@@ -88,11 +88,11 @@ Now let's say that Parker chooses a pair of shoes at random and a pair of socks 
     
     &nbsp;Numerical Response&nbsp;
     
-    Using the four step method we construct a probability tree: ![Socks and Shoes Tree](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-dcc88d262213/socks_and_shoes_tree.jpg)  
+    Using the four step method we construct a probability tree: ![Socks and Shoes Tree](GETPAGESHORTCODESTARTcourses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/_index.mdGETPAGESHORTCODEEND/vertical-dcc88d262213/socks_and_shoes_tree.jpg)  
     The probability of the event of interest is the sum of its outcomes. Therefore the probability that he chooses shoes and socks of the same color is: \\(\\frac{12}{65}+\\frac{12}{65}=\\frac{24}{65}\\).
     
     CheckShow Answer
     
 
 *   [BackIntro to Discrete Probability](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2)
-*   [ContinueSimplified Monty Hall Tree: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-65858dc50455)
+*   [ContinueSimplified Monty Hall Tree: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-65858dc50455" %}})

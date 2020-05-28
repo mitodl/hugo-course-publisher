@@ -7,8 +7,8 @@ menu:
     weight: 290
     parent: 8de160a9e7299f7fec8a58aef5106eef
 ---
-*   [<Logic & Propositions]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2" %}})
-*   [1.4.1Propositional Operators: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2" %}})
+*   [<Logic & Propositions]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/_index.md" %}})
+*   [1.4.1Propositional Operators: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/_index.md" %}})
 *   [1.4.2Propositional Operators]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/vertical-e6ef70d76365" %}})
 *   [1.4.3Digital Logic: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/digital-logic-video" %}})
 *   [1.4.4Truth Tables: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/truth-tables-video" %}})
@@ -112,5 +112,5 @@ Exercise 4
 
 CheckShow Answer
 
-*   [BackLogic & Propositions]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2" %}})
+*   [BackLogic & Propositions]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/_index.md" %}})
 *   [ContinueDigital Logic: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/digital-logic-video" %}})

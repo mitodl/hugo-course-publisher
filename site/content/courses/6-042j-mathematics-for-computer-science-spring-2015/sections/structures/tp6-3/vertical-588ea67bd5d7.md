@@ -7,14 +7,14 @@ menu:
     weight: 1270
     parent: 711aeeca155265f221e5af2643f1a05f
 ---
-*   [<Digraphs: Connected Vertices: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/vertical-2c95b0b170e2)
-*   [2.5.1Digraphs: Walks & Paths: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3)
-*   [2.5.2Walks and Paths](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/vertical-5a67aa9a3a6d)
-*   [2.5.3Digraphs: Connected Vertices: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/vertical-2c95b0b170e2)
-*   [2.5.4Longest Path](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/vertical-588ea67bd5d7)
-*   [2.5.5Adjacency Matrix](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/adjacency-matrix)
-*   [2.5.6Counting Paths](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/counting-paths)
-*   [\>Adjacency Matrix](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/adjacency-matrix)
+*   [<Digraphs: Connected Vertices: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-3/vertical-2c95b0b170e2" %}})
+*   [2.5.1Digraphs: Walks & Paths: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-3/_index.md" %}})
+*   [2.5.2Walks and Paths]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-3/vertical-5a67aa9a3a6d" %}})
+*   [2.5.3Digraphs: Connected Vertices: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-3/vertical-2c95b0b170e2" %}})
+*   [2.5.4Longest Path]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-3/vertical-588ea67bd5d7" %}})
+*   [2.5.5Adjacency Matrix]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-3/adjacency-matrix" %}})
+*   [2.5.6Counting Paths]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-3/counting-paths" %}})
+*   [\\>Adjacency Matrix]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-3/adjacency-matrix" %}})
 
 Longest Path
 ------------
@@ -40,5 +40,5 @@ Consider some graph that has 10 edges and 16 vertices.
 
 The minimum possible longest path can't be 0, because we have a non-zero number of edges. A graph with edges from the first 10 vertices to the 11th has only length 1 paths. Hence, the minimum longest path is 1.
 
-*   [BackDigraphs: Connected Vertices: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/vertical-2c95b0b170e2)
-*   [ContinueAdjacency Matrix](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/adjacency-matrix)
+*   [BackDigraphs: Connected Vertices: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-3/vertical-2c95b0b170e2" %}})
+*   [ContinueAdjacency Matrix]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-3/adjacency-matrix" %}})

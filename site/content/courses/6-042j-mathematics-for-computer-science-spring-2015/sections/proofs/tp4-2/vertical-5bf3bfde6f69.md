@@ -7,14 +7,14 @@ menu:
     weight: 730
     parent: 470546ac81246c938505a0f7571765aa
 ---
-*   [<Derived Variables: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/vertical-ef00ae29a8ca)
-*   [1.9.1State Machines Invariants: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2)
-*   [1.9.2State Machine Invariants](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/vertical-ee3144f200f1)
-*   [1.9.3Derived Variables: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/vertical-ef00ae29a8ca)
-*   [1.9.4Derived Variables and Termination](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/vertical-5bf3bfde6f69)
-*   [1.9.5Integer Multiplication](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/vertical-85cff195fae3)
-*   [1.9.6Chocolate Bars](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/vertical-ffd6266c03ec)
-*   [\>Integer Multiplication](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/vertical-85cff195fae3)
+*   [<Derived Variables: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-2/vertical-ef00ae29a8ca" %}})
+*   [1.9.1State Machines Invariants: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-2/_index.md" %}})
+*   [1.9.2State Machine Invariants]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-2/vertical-ee3144f200f1" %}})
+*   [1.9.3Derived Variables: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-2/vertical-ef00ae29a8ca" %}})
+*   [1.9.4Derived Variables and Termination]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-2/vertical-5bf3bfde6f69" %}})
+*   [1.9.5Integer Multiplication]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-2/vertical-85cff195fae3" %}})
+*   [1.9.6Chocolate Bars]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-2/vertical-ffd6266c03ec" %}})
+*   [\\>Integer Multiplication]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-2/vertical-85cff195fae3" %}})
 
 Derived Variables and Termination
 ---------------------------------
@@ -48,5 +48,5 @@ Derived Variables and Termination
     CheckShow Answer
     
 
-*   [BackDerived Variables: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/vertical-ef00ae29a8ca)
-*   [ContinueInteger Multiplication](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/vertical-85cff195fae3)
+*   [BackDerived Variables: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-2/vertical-ef00ae29a8ca" %}})
+*   [ContinueInteger Multiplication]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-2/vertical-85cff195fae3" %}})

@@ -18,15 +18,15 @@ Prerequisites
 
 This course is the header course for the Theory of Computation concentration. You are expected, and strongly encouraged, to have taken:
 
-*   _[6.006 Introduction to Algorithms]({{% getpage "courses/6-006-introduction-to-algorithms-fall-2011/sections/_index.md/_index.md" %}})_
-*   _[6.042J / 18.062J Mathematics for Computer Science]({{% getpage "courses/6-042j-mathematics-for-computer-science-fall-2010/sections/_index.md/_index.md" %}})_
+*   _[6.006 Introduction to Algorithms]({{% getpage "courses/6-006-introduction-to-algorithms-fall-2011/sections" %}})_
+*   _[6.042J / 18.062J Mathematics for Computer Science]({{% getpage "courses/6-042j-mathematics-for-computer-science-fall-2010/sections" %}})_
 
 Petitions for waivers will be considered by the course staff. Students will be responsible for material covered in prerequisites.
 
 Course Description
 ------------------
 
-This course assumes that students know how to analyze simple algorithms and data structures from having taken [6.006]({{% getpage "courses/6-006-introduction-to-algorithms-fall-2011/sections/_index.md/_index.md" %}}). It introduces students to the design of computer algorithms, as well as analysis of sophisticated algorithms.
+This course assumes that students know how to analyze simple algorithms and data structures from having taken [6.006]({{% getpage "courses/6-006-introduction-to-algorithms-fall-2011/sections" %}}). It introduces students to the design of computer algorithms, as well as analysis of sophisticated algorithms.
 
 Course Objectives
 -----------------
