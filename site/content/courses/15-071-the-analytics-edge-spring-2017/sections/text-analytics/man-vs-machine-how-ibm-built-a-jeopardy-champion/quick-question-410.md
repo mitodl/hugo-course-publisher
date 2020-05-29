@@ -8,7 +8,7 @@ menu:
     parent: 0c9bd7c26f88e1f372bb45bfb1705096
 ---
 *   [<Video 2: The Game of Jeopardy]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-2-the-game-of-jeopardy" %}})
-*   [5.3.1Video 1: IBM Watson]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion" %}})
+*   [5.3.1Video 1: IBM Watson]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/_index.md" %}})
 *   [5.3.2Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/quick-question-405" %}})
 *   [5.3.3Video 2: The Game of Jeopardy]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-2-the-game-of-jeopardy" %}})
 *   [5.3.4Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/quick-question-410" %}})

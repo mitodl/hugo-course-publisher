@@ -190,13 +190,13 @@ PyDev in Aptana Studio
     sudo apt-get install -y sun-java6-jdk sun-java6-fonts ant ant-optional  
     libglade2-0 libgnome2-0 libgnomecanvas2-0 libgnomecanvas2-common  
     libgnomeui-0 libgnomeui-common sat4j git
-5.  [Download Aptana Studio](http://www.aptana.com/products/studio3/download) and extract it in your home directory.
+5.  [Download Aptana Studio](http://www.aptana.com/) and extract it in your home directory.
 
 ### Mac OS X
 
-[Download and install Aptana Studio](http://www.aptana.com/products/studio3/download).
+[Download and install Aptana Studio](http://www.aptana.com/).
 
 ### Windows
 
 1.  Download the latest version of the [Java SE 6 JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html).
-2.  [Download and install Aptana Studio](http://www.aptana.com/products/studio3/download).
+2.  [Download and install Aptana Studio](http://www.aptana.com/).

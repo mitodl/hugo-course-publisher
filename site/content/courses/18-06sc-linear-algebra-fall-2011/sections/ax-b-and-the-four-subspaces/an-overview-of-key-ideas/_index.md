@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/an-overview-of-key-ideas/MIT18_06SCF11_Ses1.13sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/203505b17cb9f1cedc1db2a2d384184f)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/an-overview-of-key-ideas/0oBJN8F616U" %}})
 
 ### Suggested Reading
 
@@ -34,6 +34,6 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/0013a5b9019fc1d7da3b303c4d395b83)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/an-overview-of-key-ideas/OZxzHcW663g" %}})
 
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/elimination-with-matrices/_index.md" %}}) »

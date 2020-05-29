@@ -31,7 +31,7 @@ Lecture Notes
 Textbook Reading
 ----------------
 
-[Chapter 3: Normal Modes (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch3" %}}) 
+[Chapter 3: Normal Modes (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-5/MIT8_03SCF16_Text_Ch3" %}}) 
 
 Problem Set
 -----------

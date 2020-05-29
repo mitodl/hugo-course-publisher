@@ -9,6 +9,6 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/23.1-introduction-to-potential-energy" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/23.1-introduction-to-potential-energy" %}}) »
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/23.1-introduction-to-potential-energy" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/23.1-introduction-to-potential-energy" %}}) »

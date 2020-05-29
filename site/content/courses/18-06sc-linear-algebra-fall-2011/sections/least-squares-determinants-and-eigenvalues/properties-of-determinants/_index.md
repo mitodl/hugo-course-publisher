@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/properties-of-determinants/MIT18_06SCF11_Ses2.5sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/e004880d8554094799e4c0945f2c5fa8)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/properties-of-determinants/srxexLishgY" %}})
 
 ### Suggested Reading
 
@@ -34,7 +34,7 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/746b62a30e41b19c396700071b8786ce)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/properties-of-determinants/55AoWKZZtww" %}})
 
 Check Yourself
 --------------

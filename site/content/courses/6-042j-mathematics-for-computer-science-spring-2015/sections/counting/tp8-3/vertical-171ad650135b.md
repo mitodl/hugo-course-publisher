@@ -7,17 +7,17 @@ menu:
     weight: 2040
     parent: 7fcb07616e2948a6ad10caa832263c78
 ---
-*   [<Practice with Big O](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-4c14279fa60f)
-*   [3.2.1Asymptotic Notation: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3)
-*   [3.2.2Asymptotics as Relations](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-3800c4b1c397)
-*   [3.2.3Asymptotic Properties: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-e35ce9684389)
-*   [3.2.4Little oh Big Oh](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-5c04897d10e6)
-*   [3.2.5Theta](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/theta)
-*   [3.2.6Asymptotic Blunders: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-f4d8cd185706)
-*   [3.2.7Asymptotics the Right Way](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-9df50ab7aa43)
-*   [3.2.8Practice with Big O](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-4c14279fa60f)
-*   [3.2.9Practice with Order of Growth](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-171ad650135b)
-*   [\>Counting with Bijections](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-1)
+*   [<Practice with Big O]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/vertical-4c14279fa60f" %}})
+*   [3.2.1Asymptotic Notation: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/_index.md" %}})
+*   [3.2.2Asymptotics as Relations]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/vertical-3800c4b1c397" %}})
+*   [3.2.3Asymptotic Properties: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/vertical-e35ce9684389" %}})
+*   [3.2.4Little oh Big Oh]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/vertical-5c04897d10e6" %}})
+*   [3.2.5Theta]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/theta" %}})
+*   [3.2.6Asymptotic Blunders: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/vertical-f4d8cd185706" %}})
+*   [3.2.7Asymptotics the Right Way]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/vertical-9df50ab7aa43" %}})
+*   [3.2.8Practice with Big O]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/vertical-4c14279fa60f" %}})
+*   [3.2.9Practice with Order of Growth]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/vertical-171ad650135b" %}})
+*   [\\>Counting with Bijections]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp9-1/_index.md" %}})
 
 Practice with Order of Growth
 -----------------------------
@@ -93,5 +93,5 @@ For each pair of \\(f(n) \\) and \\(g(n) \\) below, determine which of the liste
     CheckShow Answer
     
 
-*   [BackPractice with Big O](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-3/vertical-4c14279fa60f)
-*   [ContinueCounting with Bijections](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-1)
+*   [BackPractice with Big O]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/vertical-4c14279fa60f" %}})
+*   [ContinueCounting with Bijections]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp9-1/_index.md" %}})

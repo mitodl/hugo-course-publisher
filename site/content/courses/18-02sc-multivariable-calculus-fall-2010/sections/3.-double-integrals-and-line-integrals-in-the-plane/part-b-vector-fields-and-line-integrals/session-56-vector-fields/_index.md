@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-57-work-and-line-integrals/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-57-work-and-line-integrals/_index.md" %}}) »
 
 Overview
 --------
@@ -40,4 +40,4 @@ Problems and Solutions
 
 [Solutions (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-56-vector-fields/MIT18_02SC_pb_56_comb" %}})
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-57-work-and-line-integrals/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-57-work-and-line-integrals/_index.md" %}}) »

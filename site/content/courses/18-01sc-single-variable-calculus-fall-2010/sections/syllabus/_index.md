@@ -8,7 +8,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous](./resolveuid/fc3961119e304b7f2adff858411b95ae) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/index.htm" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/_index.md" %}}) »
 
 Introduction
 ------------
@@ -105,4 +105,4 @@ Technical Requirements
 
 This course includes features that do not display correctly in Internet Explorer. For best results, we recommend viewing this course with [Firefox](http://www.mozilla.com/en-US/firefox/), [Safari](http://www.apple.com/safari/) or [Chrome](http://www.google.com/chrome).
 
-« [Previous](./resolveuid/fc3961119e304b7f2adff858411b95ae) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/index.htm" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/_index.md" %}}) »

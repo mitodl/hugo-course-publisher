@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-25" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-27" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-25/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-27/_index.md" %}}) »
 
 Topics
 ------
@@ -24,12 +24,12 @@ Viewers are introduced to agents of oxidation and agents of reduction. Are oxidi
 Lecture Notes
 -------------
 
-[Notes for Lecture 26 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/MIT5_111F14_Lecture26" %}})
+[Notes for Lecture 26 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26/MIT5_111F14_Lecture26" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 26 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/MIT5_111F14_Lec26Clkr" %}})
+[Lecture 26 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26/MIT5_111F14_Lec26Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -52,8 +52,8 @@ John Essigmann describes how an early industry experience doing real science pus
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 26 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/MIT5_111F14_Lec26Prob" %}})
+[Problems for Lecture 26 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26/MIT5_111F14_Lec26Prob" %}})
 
-[Solutions for Lecture 26 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/MIT5_111F14_Lec26Soln" %}})
+[Solutions for Lecture 26 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-26/MIT5_111F14_Lec26Soln" %}})
 
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-25" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-27" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-25/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-27/_index.md" %}}) »

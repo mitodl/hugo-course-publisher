@@ -84,7 +84,7 @@ It was good to be able to review other people's scripts as well. It seems like w
 
 I like Jaime's comment on my delivery. She is absolutely right, I need to loosen up a bit! I think I am going to employ that tactic we learned early in the class, where we say our lines in a completely different way or accent. I feel bad for whoever my partner is because I am going to be very annoying. I look forward to the editing lecture tomorrow and shooting the video come Wednesday.
 
-[\_Link back to Day 6\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours" %}}#Instructor_and_Student_Work)
+[\_Link back to Day 6\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours/_index.md" %}}#Instructor_and_Student_Work)
 
 Day 7 Thoughts
 --------------

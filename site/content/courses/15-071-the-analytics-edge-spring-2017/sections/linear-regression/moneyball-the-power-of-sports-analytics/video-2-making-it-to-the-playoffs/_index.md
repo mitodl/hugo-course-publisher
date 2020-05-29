@@ -9,9 +9,9 @@ menu:
 type: courses
 layout: videogallery
 ---
-*   [<Video 1: The Story of Moneyball]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/video-1-the-story-of-moneyball" %}})
-*   [2.3.1A Quick Introduction to Baseball]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics" %}})
-*   [2.3.2Video 1: The Story of Moneyball]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/video-1-the-story-of-moneyball" %}})
+*   [<Video 1: The Story of Moneyball]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/video-1-the-story-of-moneyball/_index.md" %}})
+*   [2.3.1A Quick Introduction to Baseball]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/_index.md" %}})
+*   [2.3.2Video 1: The Story of Moneyball]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/video-1-the-story-of-moneyball/_index.md" %}})
 *   [2.3.3Video 2: Making it to the Playoffs]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/video-2-making-it-to-the-playoffs" %}})
 *   [2.3.4Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/quick-question-106" %}})
 *   [2.3.5Video 3: Predicting Runs]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/video-3-predicting-runs" %}})
@@ -27,5 +27,5 @@ layout: videogallery
 Video 2: Making it to the Playoffs
 ----------------------------------
 
-*   [BackVideo 1: The Story of Moneyball]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/video-1-the-story-of-moneyball" %}})
+*   [BackVideo 1: The Story of Moneyball]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/video-1-the-story-of-moneyball/_index.md" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/quick-question-106" %}})

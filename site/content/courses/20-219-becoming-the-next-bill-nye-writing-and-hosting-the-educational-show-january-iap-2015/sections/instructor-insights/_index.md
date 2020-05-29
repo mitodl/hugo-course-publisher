@@ -9,3 +9,4 @@ menu:
 type: courses
 layout: videogallery
 ---
+null

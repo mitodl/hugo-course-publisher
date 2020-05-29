@@ -7,15 +7,15 @@ menu:
     weight: 1430
     parent: e3bcfae1ff3e4391a255e7aa0a942756
 ---
-*   [<Properties Of Relations](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-d7f7704d23b4)
-*   [2.7.1Partial Orders: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence)
-*   [2.7.2Population Partial Order](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-f4ebf555fc18)
-*   [2.7.3Representing Partial Orders As Subset Relations: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-a604c5db7bb5)
-*   [2.7.4Equivalence Relations: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-c6c01eb0d061)
-*   [2.7.5Relational Properties](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-6ea0ba8a2d05)
-*   [2.7.6Properties Of Relations](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-d7f7704d23b4)
-*   [2.7.7Equivalence Relations & Partial Orders](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-d757201744eb)
-*   [\> Degrees & Isomorphism](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2)
+*   [<Properties Of Relations]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/vertical-d7f7704d23b4" %}})
+*   [2.7.1Partial Orders: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/_index.md" %}})
+*   [2.7.2Population Partial Order]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/vertical-f4ebf555fc18" %}})
+*   [2.7.3Representing Partial Orders As Subset Relations: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/vertical-a604c5db7bb5" %}})
+*   [2.7.4Equivalence Relations: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/vertical-c6c01eb0d061" %}})
+*   [2.7.5Relational Properties]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/vertical-6ea0ba8a2d05" %}})
+*   [2.7.6Properties Of Relations]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/vertical-d7f7704d23b4" %}})
+*   [2.7.7Equivalence Relations & Partial Orders]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/vertical-d757201744eb" %}})
+*   [\\> Degrees & Isomorphism]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-2/_index.md" %}})
 
 Equivalence Relations & Partial Orders
 --------------------------------------
@@ -57,5 +57,5 @@ For each of the following relations, indicate whether it is an **equivalence rel
     CheckShow Answer
     
 
-*   [BackProperties Of Relations](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-d7f7704d23b4)
-*   [Continue Degrees & Isomorphism](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2)
+*   [BackProperties Of Relations]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/vertical-d7f7704d23b4" %}})
+*   [Continue Degrees & Isomorphism]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-2/_index.md" %}})

@@ -7,7 +7,7 @@ menu:
     weight: 310
     parent: 7afcc16e1e669d994325103cb87d25c3
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/exam-1" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/exam-1/session-22-review-of-topics" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/exam-1/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/exam-1/session-22-review-of-topics/_index.md" %}}) »
 
 Overview
 --------
@@ -24,4 +24,4 @@ Practice Exams and Solutions
 
 [Solutions (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/exam-1/practice-exam/MIT18_02SC_prac1Asol" %}})
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/exam-1" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/exam-1/session-22-review-of-topics" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/exam-1/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/exam-1/session-22-review-of-topics/_index.md" %}}) »

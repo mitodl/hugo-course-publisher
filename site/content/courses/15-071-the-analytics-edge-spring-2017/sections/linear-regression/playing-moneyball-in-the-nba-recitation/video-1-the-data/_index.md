@@ -9,9 +9,9 @@ menu:
 type: courses
 layout: videogallery
 ---
-*   [<Playing Moneyball in the NBA (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation" %}})
-*   [2.4.1Welcome to Recitation 2]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation" %}})
-*   [2.4.2Video 1: The Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-1-the-data" %}})
+*   [<Playing Moneyball in the NBA (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/_index.md" %}})
+*   [2.4.1Welcome to Recitation 2]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/_index.md" %}})
+*   [2.4.2Video 1: The Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-1-the-data/_index.md" %}})
 *   [2.4.3Video 2: Playoffs and Wins]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-2-playoffs-and-wins" %}})
 *   [2.4.4Video 3: Points Scored]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-3-points-scored" %}})
 *   [2.4.5Video 4: Making Predictions]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-4-making-predictions" %}})
@@ -24,5 +24,5 @@ In this recitation, we'll apply some of the ideas from Moneyball to data from th
 
 A script file containing all of the R commands used in this recitation can be downloaded here: [Unit2\_Recitation (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/d568d82169b3ab478e6ae60f01b9b1d8_Unit2_Recitation.R).
 
-*   [BackPlaying Moneyball in the NBA (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation" %}})
+*   [BackPlaying Moneyball in the NBA (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/_index.md" %}})
 *   [ContinueVideo 2: Playoffs and Wins]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-2-playoffs-and-wins" %}})

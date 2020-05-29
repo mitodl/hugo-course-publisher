@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-2-core-elements-of-a-program/_index.md" %}}) »
+« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-2-core-elements-of-a-program/_index.md" %}}) »
 
 Session Overview
 ----------------
@@ -75,4 +75,4 @@ After watching the lecture, you may want to view some of the following resources
 *   [The Python Standard Library](http://docs.python.org/library/)
 *   [_6.01SC Introduction to Electrical Engineering and Computer Science I_](./resolveuid/a6fb3e82ce4c5f1c99b858b3950d498d)
 
-« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-2-core-elements-of-a-program/_index.md" %}}) »
+« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-2-core-elements-of-a-program/_index.md" %}}) »

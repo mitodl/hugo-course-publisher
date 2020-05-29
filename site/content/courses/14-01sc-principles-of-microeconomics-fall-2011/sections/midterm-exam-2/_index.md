@@ -6,17 +6,17 @@ menu:
     identifier: 68f8f062a1d7c90a66a704a60dcfb901
     weight: 330
 ---
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/oligopoly-ii/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/oligopoly-ii/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics/_index.md" %}}) »
 
 Preparation
 -----------
 
 Midterm exam 2 covers material from the beginning of the course, with a focus on:
 
-*   [Unit 3: Producer Theory]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory" %}})
-*   [Unit 4: Welfare Economics]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-4-welfare-economics" %}})
+*   [Unit 3: Producer Theory]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/_index.md" %}})
+*   [Unit 4: Welfare Economics]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-4-welfare-economics/_index.md" %}})
 *   [Unit 5: Monopoly and Oligopoly  
-    ]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly" %}})
+    ]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/_index.md" %}})
 
 The exam tests your conceptual, mathematical and graphical understanding of the material covered in this portion of the course.
 
@@ -43,4 +43,4 @@ The exam should be completed in 2 hours. This is a closed book exam. You are not
 *   [Midterm 2 Problems (PDF)]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/midterm-exam-2/MIT14_01SCF11_exam02" %}})
 *   [Midterm 2 Solutions (PDF)]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/midterm-exam-2/MIT14_01SCF11_exam02_soln" %}})
 
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/oligopoly-ii/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/oligopoly-ii/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics/_index.md" %}}) »

@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/introduction-to-microeconomics" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/elasticity/_index.md" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/introduction-to-microeconomics/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/elasticity/_index.md" %}}) »
 
 Session Overview
 ----------------
@@ -29,9 +29,9 @@ Read the recitation notes, which cover new content that adds to and supplements 
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\\\[R&T\\\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus" %}}#_R_T_) Chapter 3, "Demand and Supply."
-*   [\\\[R&T\\\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus" %}}#_R_T_) Chapter 4, "Applications of Demand and Supply." Sections 4.1-4.2.
-*   \[[Perloff]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus" %}}#_Perloff_)\] Chapter 2, "Supply and Demand." (optional)
+*   [\\\[R&T\\\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_R_T_) Chapter 3, "Demand and Supply."
+*   [\\\[R&T\\\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_R_T_) Chapter 4, "Applications of Demand and Supply." Sections 4.1-4.2.
+*   \[[Perloff]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_Perloff_)\] Chapter 2, "Supply and Demand." (optional)
 
 ### Lecture Videos
 
@@ -69,4 +69,4 @@ See the course website for [Econ 302](http://econ302.wikidot.com/supply-and-dema
 | [Government Intervention and Economics: Price Ceiling](http://www.college-cram.com/study/economics/government-intervention/price-ceiling/) | [College-Cram.com](http://College-Cram.com) |   |
 | [Government Intervention and Economics: Price Floor](http://www.college-cram.com/study/economics/government-intervention/price-floor/) | [College-Cram.com](http://College-Cram.com) |   
 
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/introduction-to-microeconomics" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/elasticity/_index.md" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/introduction-to-microeconomics/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/elasticity/_index.md" %}}) »

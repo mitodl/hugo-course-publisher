@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2/_index.md" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2/_index.md" %}}) »
 
 Lecture Topics
 --------------
@@ -31,9 +31,9 @@ Lecture Notes
 Textbook Reading
 ----------------
 
-[Chapter 11: Two and Three Dimensions (PDF - 1.8MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch11" %}}) 
+[Chapter 11: Two and Three Dimensions (PDF - 1.8MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-17/MIT8_03SCF16_Text_Ch11" %}}) 
 
-[Chapter 12: Polarization (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch12" %}}) (through section 12.3) 
+[Chapter 12: Polarization (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-17/MIT8_03SCF16_Text_Ch12" %}}) (through section 12.3) 
 
 In-class Demonstrations
 -----------------------
@@ -44,4 +44,4 @@ In-class Demonstrations
 | [Fiber Optic Bundle](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=M%204&show=0) | {{< br >}}{{< br >}} |
 | [Polarization of Microwaves](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=K%203&show=0) | {{< br >}}{{< br >}} 
 
-« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2/_index.md" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2/_index.md" %}}) »

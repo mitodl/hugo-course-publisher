@@ -7,7 +7,7 @@ menu:
     weight: 790
     parent: 9fa9495fe35f5fa9506bb63e2d42812f
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-55-example/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-55-example/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/_index.md" %}}) »
 
 Overview
 --------
@@ -26,4 +26,4 @@ Problem Set
 [Supplemental Problems referenced in this problem set (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/problem-set-7/MIT18_02SC_SupProb3" %}})  
 [Solutions to Supplemental Problems referenced in this problem set (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/problem-set-7/MIT18_02SC_SupProbSol3" %}})
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-55-example/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-55-example/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/_index.md" %}}) »

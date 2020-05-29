@@ -36,7 +36,7 @@ The _Java® Demos_ were developed by [Pavel Grinfeld](https://drexel.edu/coas/fa
 
 ### MATLAB® Information
 
-*   Best Guide to MATLAB® (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://homen.vsb.cz/~lud0016/NM/matlab_guide.pdf))
+*   Best Guide to MATLAB® (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://homel.vsb.cz/~dom033/predmety/parisLA/01_matlab.pdf))
 *   Short MATLAB® Tutorial ([PDF]({{% getpage "courses/18-06-linear-algebra-spring-2010/sections/related-resources/MIT18_06S10_matlab" %}})) and Cool [MATLAB® demos](http://www.mathworks.com/products/demos/) by Mathworks
 *   [MATLAB® Recitation Demos from 1997](http://web.mit.edu/18.06/www/MATLAB/Recitation.html)
 *   [MATLAB® Teaching Codes](http://web.mit.edu/18.06/www/Course-Info/Tcodes.html)

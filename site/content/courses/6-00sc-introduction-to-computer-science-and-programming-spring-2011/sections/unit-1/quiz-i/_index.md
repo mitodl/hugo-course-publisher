@@ -7,7 +7,7 @@ menu:
     weight: 140
     parent: 975ad7bfdd9c4ffe26b6710fa718d5e6
 ---
-« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-9-memory-and-search-methods/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2" %}}) »
+« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-9-memory-and-search-methods/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/_index.md" %}}) »
 
 Quiz 1 covers all material (lectures, recitations, and problem sets) from the beginning of the course through [Efficiency and Order of Growth]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-8-efficiency-and-order-of-growth/_index.md" %}}).
 
@@ -31,4 +31,4 @@ The quiz should be completed in 90 minutes. This is an open book exam.
 *   [Quiz 1 Problems (PDF)]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/quiz-i/MIT6_00SCS11_q1" %}})
 *   [Quiz 1 Solutions (PDF)]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/quiz-i/MIT6_00SCS11_q1_soln" %}})
 
-« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-9-memory-and-search-methods/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2" %}}) »
+« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-9-memory-and-search-methods/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/_index.md" %}}) »

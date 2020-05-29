@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/problem-set-6/_index.md" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/problem-set-6/_index.md" %}}) »
 
 Session Overview
 ----------------
@@ -25,8 +25,8 @@ Session Activities
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\\\[R&T\\\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus" %}}#_R_T_) Chapter 10, "Monopoly."
-*   \[[Perloff]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus" %}}#_Perloff_)\] Chapter 11, "Monopoly." (optional)
+*   [\\\[R&T\\\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_R_T_) Chapter 10, "Monopoly."
+*   \[[Perloff]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_Perloff_)\] Chapter 11, "Monopoly." (optional)
 
 ### Lecture Videos
 
@@ -54,4 +54,4 @@ See the \[Perloff\] chapter for the topics covered, as well as quizzes, applicat
 
 *   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [Chapter 11 (PDF - 1.6MB)](http://faculty.bcitbusiness.ca/KevinW/6500/Perloff/11M_Perloff_8008884_02_Micro_C11.pdf)
 
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/problem-set-6/_index.md" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/problem-set-6/_index.md" %}}) »

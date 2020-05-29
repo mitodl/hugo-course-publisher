@@ -4,7 +4,8 @@ course_id: 6-006-introduction-to-algorithms-fall-2011
 course_title: Introduction to Algorithms
 course_image_url: >-
   https://open-learning-course-data-ci.s3.amazonaws.com/6-006-introduction-to-algorithms-fall-2011/1075c5ac06ae4c2cea8c89e9772da78a_6-006f11.jpg
-course_thumbnail_image_url: ''
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/6-006-introduction-to-algorithms-fall-2011/7c05c4b07ae02751be6d2c63b11f8b6e_6-006f11-th.jpg
 course_image_alternate_text: 'The 6.006 course logo, with a 2x2x2 Rubik''s Cube in place of each zero.'
 course_image_caption_text: >-
   <p>In Problem Set 6, students develop algorithms for solving the 2x2x2 Rubik's

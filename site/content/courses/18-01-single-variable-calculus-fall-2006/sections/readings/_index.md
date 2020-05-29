@@ -10,7 +10,7 @@ Listed in the table below are reading assignments for each lecture session.
 
 "Text" refers to the course textbook: [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20) Simmons, George F. _Calculus with Analytic Geometry_. 2nd ed. New York, NY: McGraw-Hill, October 1, 1996. ISBN: 9780070576421.
 
-"Notes" refers to the [course reader](/courses/mathematics/18-01-single-variable-calculus-fall-2006/readings/course-reader): 18.01/18.01A Supplementary Notes, Exercises and Solutions; Jerison, D., and A. Mattuck. _Calculus 1_.
+"Notes" refers to the [course reader]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/readings/course-reader" %}}): 18.01/18.01A Supplementary Notes, Exercises and Solutions; Jerison, D., and A. Mattuck. _Calculus 1_.
 
 | SES # | TOPICS | READINGS |
 | --- | --- | --- |

@@ -9,16 +9,16 @@ menu:
 type: courses
 layout: videogallery
 ---
-*   [<Euler's Theorem](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/vertical-f4e414f3a824)
-*   [2.4.1RSA Public Key Encryption: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2)
-*   [2.4.2RSA Encryption](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/vertical-3299faa6fc3d)
-*   [2.4.3Reducing Factoring To SAT: Video](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/vertical-10e2576c9510)
-*   [2.4.4Relative Primality](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/vertical-d2f6dc0d86f4)
-*   [2.4.5RSA computations](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/vertical-dea30f1864f2)
-*   [\>RSA Encryption](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/vertical-3299faa6fc3d)
+*   [<Euler's Theorem]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-1/vertical-f4e414f3a824" %}})
+*   [2.4.1RSA Public Key Encryption: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-2/_index.md" %}})
+*   [2.4.2RSA Encryption]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-2/vertical-3299faa6fc3d" %}})
+*   [2.4.3Reducing Factoring To SAT: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-2/vertical-10e2576c9510" %}})
+*   [2.4.4Relative Primality]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-2/vertical-d2f6dc0d86f4" %}})
+*   [2.4.5RSA computations]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-2/vertical-dea30f1864f2" %}})
+*   [\\>RSA Encryption]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-2/vertical-3299faa6fc3d" %}})
 
 RSA Public Key Encryption
 -------------------------
 
-*   [BackEuler's Theorem](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/vertical-f4e414f3a824)
-*   [ContinueRSA Encryption](/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-2/vertical-3299faa6fc3d)
+*   [BackEuler's Theorem]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-1/vertical-f4e414f3a824" %}})
+*   [ContinueRSA Encryption]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-2/vertical-3299faa6fc3d" %}})

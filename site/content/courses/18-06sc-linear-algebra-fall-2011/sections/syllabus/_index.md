@@ -8,7 +8,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous](/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm) | [Next](/courses/mathematics/18-06sc-linear-algebra-fall-2011/Syllabus/meet-the-tas) »
+« [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/Syllabus/meet-the-tas/_index.md" %}}) »
 
 Video Introduction by Professor Strang
 --------------------------------------
@@ -23,7 +23,7 @@ This course covers matrix theory and linear algebra, emphasizing topics useful i
 Prerequisites
 -------------
 
-[18.02 Multivariable Calculus](/courses/mathematics/18-02-multivariable-calculus-fall-2007) is a formal prerequisite for MIT students wishing to enroll in 18.06 Linear Algebra, but knowledge of calculus is not required to learn the subject.
+[18.02 Multivariable Calculus]({{% getpage "courses/18-02-multivariable-calculus-fall-2007/sections" %}}) is a formal prerequisite for MIT students wishing to enroll in 18.06 Linear Algebra, but knowledge of calculus is not required to learn the subject.
 
 To succeed in this course you will need to be comfortable with vectors, matrices, and three-dimensional coordinate systems. This material is presented in the first few lectures of 18.02 Multivariable Calculus, and again here.
 
@@ -96,6 +96,6 @@ The Help Session Videos were developed by:
 *   David Shirokoff
 *   Nikola Kamburov
 
-To learn more about each of the TA's, visit the [Meet the TAs](/courses/mathematics/18-06sc-linear-algebra-fall-2011/Syllabus/meet-the-tas) page.
+To learn more about each of the TA's, visit the [Meet the TAs]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/Syllabus/meet-the-tas/_index.md" %}}) page.
 
-« [Previous](/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm) | [Next](/courses/mathematics/18-06sc-linear-algebra-fall-2011/Syllabus/meet-the-tas) »
+« [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/Syllabus/meet-the-tas/_index.md" %}}) »

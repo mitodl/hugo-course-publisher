@@ -6,15 +6,15 @@ menu:
     identifier: d46e8fdc6892926428d5f67b02821e82
     weight: 150
 ---
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/problem-set-3/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/problem-set-3/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/_index.md" %}}) »
 
 Preparation
 -----------
 
 Midterm exam 1 covers material from the beginning of the course:
 
-*   [Unit 1: Supply and Demand]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand" %}})
-*   [Unit 2: Consumer Theory]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory" %}})
+*   [Unit 1: Supply and Demand]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/_index.md" %}})
+*   [Unit 2: Consumer Theory]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/_index.md" %}})
 
 The exam tests your conceptual, mathematical and graphical understanding of the material covered in this portion of the course.
 
@@ -41,4 +41,4 @@ The exam should be completed in 2 hours. This is a closed book exam. You are not
 *   [Midterm 1 Problems (PDF)]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/midterm-exam-1/MIT14_01SCF11_exam01" %}})
 *   [Midterm 1 Solutions (PDF)]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/midterm-exam-1/MIT14_01SCF11_exam01_sol" %}})
 
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/problem-set-3/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/problem-set-3/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/_index.md" %}}) »

@@ -24,7 +24,7 @@ Lecture 12: In-Network Resource Management
 11.  Deficit Round-Robin
 12.  Discussion
 
-*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-7/lecture-12-outline/_index.md" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-7/lecture-12-outline" %}})
 
 ### Lecture Slides
 
@@ -38,7 +38,7 @@ Recitation 12: Data Center Transmission Control Protocol (DCTP)
 ---------------------------------------------------------------
 
 *   Read "_![This resource may not render correctly in a screen reader.](/images/inacessible.gif)_[Data Center TCP (DCTCP) (PDF - 3.1MB)](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)" by M. Alizadeh, A. Greenberg, D. Maltz, J. Padhye & P. Patel
-*   [DCTP Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-7/dctcp-assignment/_index.md" %}})
+*   [DCTP Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-7/dctcp-assignment" %}})
 
 Lecture 13: Networking: P2P Networks + Content Distribution Network (CDN)
 -------------------------------------------------------------------------
@@ -66,7 +66,7 @@ Recitation 13: Content Distribution Networks (CDNs)
 ---------------------------------------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Akamai Network: A Platform for High-Performance Internet Applications (PDF)](https://www.akamai.com/us/en/multimedia/documents/technical-publication/the-akamai-network-a-platform-for-high-performance-internet-applications-technical-publication.pdf)" by E. Nygren, R. Sitaraman & J. Sun
-*   [CDN Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-7/cdn-assignment/_index.md" %}})
+*   [CDN Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-7/cdn-assignment" %}})
 
 Tutorial 7: \[No Tutorial this Week\]
 -------------------------------------

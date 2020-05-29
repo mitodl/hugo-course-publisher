@@ -64,7 +64,7 @@ How to Use This Site
 
 This version of 8._01 Classical Mechanics_ on OCW is modified from the materials presented in the fall 2016 course taught at MIT. The course is broken into twelve weeks, as listed above. Each week contains 3-4 lessons on distinct topics. Each lesson consists of a series of videos explaining the topic, which are meant to be viewed in sequence.
 
-The [first lesson]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors/0.1-vectors-vs.-scalars/_index.md" %}}) is on vectors; the "Previous" and "Next" buttons can be used to navigate between videos. Alternatively, all videos can be accessed on the "Week" page corresponding to that lesson.
+The [first lesson]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors/0.1-vectors-vs.-scalars" %}}) is on vectors; the "Previous" and "Next" buttons can be used to navigate between videos. Alternatively, all videos can be accessed on the "Week" page corresponding to that lesson.
 
 Grades
 ------

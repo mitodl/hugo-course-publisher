@@ -7,7 +7,7 @@ menu:
     weight: 1080
     parent: c1168b62a27dcf9f3fe2550af1ed72f5
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.7-reduction-of-a-system-to-a-point-particle" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.7-reduction-of-a-system-to-a-point-particle" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/_index.md" %}}) »
 
 Problem Set 5 contains the following problems:
 
@@ -17,6 +17,6 @@ Problem Set 5 contains the following problems:
 4.  Center of Mass of a Rod
 5.  Two Particles Colliding
 
-*   [Problem Set 5 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset5" %}})
+*   [Problem Set 5 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/problem-set-5MIT8_01F16_pset5" %}})
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.7-reduction-of-a-system-to-a-point-particle" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.7-reduction-of-a-system-to-a-point-particle" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/_index.md" %}}) »

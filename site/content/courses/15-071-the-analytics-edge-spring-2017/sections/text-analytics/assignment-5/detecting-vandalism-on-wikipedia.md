@@ -7,11 +7,11 @@ menu:
     weight: 1920
     parent: 81eae0fd28f287336b792210ba33dfbb
 ---
-*   [<Assignment 5]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5" %}})
-*   [5.5.1Separating Spam from Ham (Part 1)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5" %}})
-*   [5.5.2Detecting Vandalism on Wikipedia]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/detecting-vandalism-on-wikipedia" %}})
-*   [5.5.3Automating Reviews in Medicine]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/automating-reviews-in-medicine" %}})
-*   [\\>Automating Reviews in Medicine]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/automating-reviews-in-medicine" %}})
+*   [<Assignment 5]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/_index.md" %}})
+*   [5.5.1Separating Spam from Ham (Part 1)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/_index.md" %}})
+*   [5.5.2Detecting Vandalism on Wikipedia]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/detecting-vandalism-on-wikipedia/_index.md" %}})
+*   [5.5.3Automating Reviews in Medicine]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/automating-reviews-in-medicine/_index.md" %}})
+*   [\\>Automating Reviews in Medicine]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/automating-reviews-in-medicine/_index.md" %}})
 
 Detecting Vandalism on Wikipedia
 --------------------------------
@@ -462,5 +462,5 @@ By adding new independent variables, we were able to significantly improve our a
 
 CheckShow Answer
 
-*   [BackAssignment 5]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5" %}})
-*   [ContinueAutomating Reviews in Medicine]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/automating-reviews-in-medicine" %}})
+*   [BackAssignment 5]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/_index.md" %}})
+*   [ContinueAutomating Reviews in Medicine]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/automating-reviews-in-medicine/_index.md" %}})

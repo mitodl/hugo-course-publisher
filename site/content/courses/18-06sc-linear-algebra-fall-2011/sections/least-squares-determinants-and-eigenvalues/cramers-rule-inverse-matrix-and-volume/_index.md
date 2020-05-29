@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/MIT18_06SCF11_Ses2.7sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/fb1488040869b7b3359e17ebcb3139e3)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/QNpj-gOXW9M" %}})
 
 ### Suggested Reading
 
@@ -34,7 +34,7 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/ebbf9697dc8dd2c5dcb46065c13f9876)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/qEBi0K5wfOs" %}})
 *   观看视频: 习题讲解 --
     
     \[watch this recitation in Mandarin\]

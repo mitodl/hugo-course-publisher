@@ -31,7 +31,7 @@ Lecture Notes
 Textbook Reading
 ----------------
 
-[Chapter 13: Interference and Diffraction (PDF - 1.6MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch13" %}}) 
+[Chapter 13: Interference and Diffraction (PDF - 1.6MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-22/MIT8_03SCF16_Text_Ch13" %}}) 
 
 Notes:
 

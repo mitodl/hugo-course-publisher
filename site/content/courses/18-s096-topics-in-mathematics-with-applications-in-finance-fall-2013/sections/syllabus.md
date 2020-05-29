@@ -17,7 +17,7 @@ Prerequisites
 *   [_18.01 Single Variable Calculus_](http://ocw2.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006)
 *   [_18.02 Multivariable Calculus_](http://ocw2.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007)
 *   [_18.03 Differential Equations_](http://ocw2.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010)
-*   [_18.05 Introduction to Probability and Statistics_](http://ocw2.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014) or [_18.440 Probability and Random Variables_](/courses/mathematics/18-440-probability-and-random-variables-spring-2014)
+*   [_18.05 Introduction to Probability and Statistics_](http://ocw2.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014) or [\_18.440 Probability and Random Variables\_]({{% getpage "courses/18-440-probability-and-random-variables-spring-2014/sections" %}})
 *   [_18.06 Linear Algebra_](http://ocw2.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010)
 
 Broad familiarity with linear algebra, statistics, stochastic processes and partial differential equations will be helpful (but not required). Prior knowledge of economics or finance is not required but may be helpful for some lectures.

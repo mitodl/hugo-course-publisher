@@ -31,7 +31,7 @@ Lecture Notes
 Textbook Reading
 ----------------
 
-[Chapter 10: Signals and Fourier Analysis (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch10" %}})
+[Chapter 10: Signals and Fourier Analysis (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-15/MIT8_03SCF16_Text_Ch10" %}})
 
 Problem Set
 -----------

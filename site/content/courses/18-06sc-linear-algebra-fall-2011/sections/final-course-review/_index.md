@@ -23,13 +23,13 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/final-course-review/MIT18_06SCF11_FinalRevsum" %}})
-*   [Lecture Video Transcript (PDF)](./resolveuid/67e85afc79dece185c29098155875c49)
+*   [Lecture Video Transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/final-course-review/RWvi4Vx4CDc" %}})
 
 ### Problem Solving Video
 
 *   Watch the recitation video on
     
-*   [Recitation Video Transcript (PDF)](./resolveuid/4e0d9f449b9a58e1548520a930d834f0)
+*   [Recitation Video Transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/final-course-review/4PnArrxCZLE" %}})
 
 Looking for something specific in this course? The [Resource Index]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/resource-index" %}}) compiles links to most course resources in a single page.
 

@@ -16,7 +16,7 @@ Lecture 2: Naming in Systems
 3.  Abstract View of Naming Schemes
 4.  Naming on the Internet: DNS
 
-*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-2/lecture-2-outline/_index.md" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-2/lecture-2-outline" %}})
 
 ### Lecture Slides
 
@@ -35,7 +35,7 @@ Recitation 3: Domain Name System (DNS)
 --------------------------------------
 
 *   Read Book section 4.4: "Case study: The Internet Domain Name System (DNS)"
-*   [Domain Name System (DNS) Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-2/domain-name-system-dns-assignment/_index.md" %}})
+*   [Domain Name System (DNS) Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-2/domain-name-system-dns-assignment" %}})
 
 Lecture 3: Operating Systems + Virtual Memory
 ---------------------------------------------
@@ -51,7 +51,7 @@ Lecture 3: Operating Systems + Virtual Memory
 7.  Abstraction
 8.  Virtual Memory as Naming
 
-*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-2/lecture-3-outline/_index.md" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-2/lecture-3-outline" %}})
 
 ### Lecture Slides
 
@@ -65,7 +65,7 @@ Recitation 4: UNIX Part 1
 -------------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[The Unix Time-Sharing System (PDF)](http://people.eecs.berkeley.edu/~brewer/cs262/unix.pdf)" by D.M. Ritchie & K. Thompson. Recitation 4 focuses on the first four sections of the paper (Recitation 5 will focus on the rest.)
-*   [UNIX Assignment Part 1]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-2/unix-assignment-part-1/_index.md" %}})
+*   [UNIX Assignment Part 1]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-2/unix-assignment-part-1" %}})
 
 Hands-on Assignment 2: UNIX
 ---------------------------

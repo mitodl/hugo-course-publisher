@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/physics-applications/session-97-curl-and-physics" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/final-exam-1/practice-final-exam/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/physics-applications/session-97-curl-and-physics/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/final-exam-1/practice-final-exam/_index.md" %}}) »
 
 Overview
 --------
@@ -33,4 +33,4 @@ Related Readings
 
 [Maxwell's Equation and Harmonic Functions (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/physics-applications/session-98-maxwells-equations/MIT18_02SC_MNotes_v15.2to3" %}})
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/physics-applications/session-97-curl-and-physics" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/final-exam-1/practice-final-exam/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/4.-triple-integrals-and-surface-integrals-in-3-space/physics-applications/session-97-curl-and-physics/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/final-exam-1/practice-final-exam/_index.md" %}}) »

@@ -6,7 +6,7 @@ menu:
     identifier: 106785126d2882a801ccc0fc608f8ef3
     weight: 20
 ---
-« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/syllabus" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/references" %}}) »
+« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/syllabus/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/references" %}}) »
 
 In 6.00, we will use the [Python programming language](http://python.org/). You'll also need an editor and/or development environment for writing and debugging your programs. In 6.00, we will be using [IDLE](https://docs.python.org/3/library/idle.html), a programming environment specially designed for Python programming and included with the Python distribution. These programs are available for installation on your personal computers (see below).
 
@@ -80,4 +80,4 @@ For additional practice, try using IDLE to calculate:
     a\*x^2 + b\*x + c  
     x1 = ( - b + sqrt ( b\*b - 4\*a\*c ) ) / ( 2\*a )
 
-« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/syllabus" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/references" %}}) »
+« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/syllabus/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/references" %}}) »

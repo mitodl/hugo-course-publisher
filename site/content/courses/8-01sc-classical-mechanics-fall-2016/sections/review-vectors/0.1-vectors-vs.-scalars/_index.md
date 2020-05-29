@@ -9,6 +9,6 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors/0.2-vector-operators" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors/0.2-vector-operators" %}}) »
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors/0.2-vector-operators" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors/0.2-vector-operators" %}}) »

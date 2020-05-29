@@ -17,6 +17,6 @@ Problem Set 12 contains the following problems:
 4.  Yo-yo Rolling on Inclined Plane
 5.  Billiards
 
-*   [Problem Set 12 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset12" %}})
+*   [Problem Set 12 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/problem-set-12MIT8_01F16_pset12" %}})
 
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/dd.3.3-gyroscopes-3-nutation-and-total-angular-momentum" %}})

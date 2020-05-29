@@ -14,6 +14,6 @@ In order to become better statistical thinkers, we will learn to spot and avoid 
 
 Unit 3 concludes with a Final Exam covering all material (lectures, recitations, and problem sets) from the beginning of the course through [Queuing Network Models](http://ocw2.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-25-queuing-network-models).
 
-Looking for something specific in this course? The [Resource Index]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/resource-index/_index.md" %}}) compiles links to most course resources in a single page.
+Looking for something specific in this course? The [Resource Index]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/resource-index" %}}) compiles links to most course resources in a single page.
 
 « [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-2/quiz-ii/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3/lecture-20-more-clustering/_index.md" %}}) »

@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-81-examples-using-parametrized-curves/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-81-examples-using-parametrized-curves/_index.md" %}}) »
 
 Overview
 --------
@@ -39,4 +39,4 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-81-examples-using-parametrized-curves/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-81-examples-using-parametrized-curves/_index.md" %}}) »

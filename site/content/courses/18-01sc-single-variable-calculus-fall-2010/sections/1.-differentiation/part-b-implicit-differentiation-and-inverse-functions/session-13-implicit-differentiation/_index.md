@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation/_index.md" %}}) »
 
 Overview
 --------
@@ -29,4 +29,4 @@ Implicit Differentiation and the Chain Rule
 *   [Problem (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-13-implicit-differentiation/MIT18_01SCF10_ex13prb" %}})
 *   [Solution (PDF)]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-13-implicit-differentiation/MIT18_01SCF10_ex13sol" %}})
 
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation/_index.md" %}}) »

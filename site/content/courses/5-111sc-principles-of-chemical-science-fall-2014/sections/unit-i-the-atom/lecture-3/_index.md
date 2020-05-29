@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4/_index.md" %}}) »
 
 Topics
 ------
@@ -24,12 +24,12 @@ The idea that light is both a wave and a particle is introduced. The properties 
 Lecture Notes
 -------------
 
-[Notes for Lecture 3 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec3" %}})
+[Notes for Lecture 3 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3/MIT5_111F14_Lec3" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 3 Clicker Questions (PDF - 1.3MB)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec3Clkr" %}})
+[Lecture 3 Clicker Questions (PDF - 1.3MB)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3/MIT5_111F14_Lec3Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -53,13 +53,13 @@ Cathy Drennan explains how her dyslexia, and other people’s low expectations o
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 3 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec03Prob" %}})
+[Problems for Lecture 3 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3/MIT5_111F14_Lec03Prob" %}})
 
-[Solutions for Lecture 3 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/MIT5_111F14_Lec03Soln" %}})
+[Solutions for Lecture 3 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-3/MIT5_111F14_Lec03Soln" %}})
 
 Acknowledgement
 ---------------
 
 Excerpt of “[ROY G. BIV](https://youtu.be/Gf33ueRXMzQ)” by [They Might Be Giants](http://www.theymightbegiants.com/), courtesy of Idlewild / Disney Sound, used with permission. From [_Here Comes Science_](https://www.theymightbegiants.com/here-comes-science), 2009.
 
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-2/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-i-the-atom/lecture-4/_index.md" %}}) »

@@ -10,7 +10,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/kenneth-cheahs-reflections" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections/_index.md" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/kenneth-cheahs-reflections" %}}) »
 
 [Day 1](#DAY_1-Ceriley) | [Day 2](#Reflection_Day_2) | [Day 3](#Reflection_Day_3) | [Day 4](#Reflection_Day_4) | [Day 5](#Ceriley_s_Day_5_Reflections) | [Day 7](#Ceriley_s_Day_7_Reflections) | [Day 11](#Ceriley_s_Day_11_Reflections)
 
@@ -115,4 +115,4 @@ Soapbox aside; let me know if you need any animation help (or anything else). It
 
 [\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student_Work)
 
-« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/kenneth-cheahs-reflections" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections/_index.md" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/kenneth-cheahs-reflections" %}}) »

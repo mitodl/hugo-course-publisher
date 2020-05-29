@@ -7,7 +7,7 @@ menu:
     weight: 3260
     parent: db42b40ad705f431a7e23a1d11cec341
 ---
-*   [<Video 4: The Solution]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-4-the-solution/_index.md" %}})
+*   [<Video 4: The Solution]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-4-the-solution" %}})
 *   [9.5.1Even' Star Organic Farm Revisited]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/_index.md" %}})
 *   [9.5.2Gerrymandering New Mexico]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/gerrymandering-new-mexico/_index.md" %}})
 *   [\\>Gerrymandering New Mexico]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/gerrymandering-new-mexico/_index.md" %}})
@@ -247,5 +247,5 @@ CheckShow Answer
 
 Acknowledgements: This problem is based on the case study "[Introducing Integer Modeling with Excel Solver](https://pubsonline.informs.org/doi/10.1287/ited.7.1.88)" by Dessislava Pachamanova, _INFORMS Transactions on Education_ 7(1), p.88-98, 2006.
 
-*   [BackVideo 4: The Solution]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-4-the-solution/_index.md" %}})
+*   [BackVideo 4: The Solution]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-4-the-solution" %}})
 *   [ContinueGerrymandering New Mexico]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/gerrymandering-new-mexico/_index.md" %}})

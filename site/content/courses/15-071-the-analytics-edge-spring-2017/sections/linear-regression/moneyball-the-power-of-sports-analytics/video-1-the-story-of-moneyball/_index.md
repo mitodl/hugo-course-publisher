@@ -9,9 +9,9 @@ menu:
 type: courses
 layout: videogallery
 ---
-*   [<Moneyball: The Power of Sports Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics" %}})
-*   [2.3.1A Quick Introduction to Baseball]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics" %}})
-*   [2.3.2Video 1: The Story of Moneyball]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/video-1-the-story-of-moneyball" %}})
+*   [<Moneyball: The Power of Sports Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/_index.md" %}})
+*   [2.3.1A Quick Introduction to Baseball]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/_index.md" %}})
+*   [2.3.2Video 1: The Story of Moneyball]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/video-1-the-story-of-moneyball/_index.md" %}})
 *   [2.3.3Video 2: Making it to the Playoffs]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/video-2-making-it-to-the-playoffs" %}})
 *   [2.3.4Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/quick-question-106" %}})
 *   [2.3.5Video 3: Predicting Runs]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/video-3-predicting-runs" %}})
@@ -31,7 +31,7 @@ In this lecture, we will be using the dataset [baseball (CSV)](https://open-lear
 
 A script file containing all of the R commands used in this lecture can be downloaded here: [Unit2\_Moneyball (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/12e92ec2937a917cf288db31d2d27450_Unit2_Moneyball.R).
 
-The slides from all videos in this Lecture Sequence can be downloaded here: [The Power of Sports Analytics (PDF - 1.4MB)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/lecture-and-recitation-notes/MIT15_071S17_Unit2_Moneyball" %}}).
+The slides from all videos in this Lecture Sequence can be downloaded here: [The Power of Sports Analytics (PDF - 1.4MB)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/video-1-the-story-of-moneyball/MIT15_071S17_Unit2_Moneyball" %}}).
 
-*   [BackMoneyball: The Power of Sports Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics" %}})
+*   [BackMoneyball: The Power of Sports Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/_index.md" %}})
 *   [ContinueVideo 2: Making it to the Playoffs]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/video-2-making-it-to-the-playoffs" %}})

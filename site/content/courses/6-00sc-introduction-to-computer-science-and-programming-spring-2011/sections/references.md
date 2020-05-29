@@ -6,7 +6,7 @@ menu:
     identifier: e96c4f6f4fbe2d6c994e20e1a0c829c5
     weight: 30
 ---
-« [Previous](/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/software) | [Next](/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1) »
+« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/software" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/_index.md" %}}) »
 
 Textbooks
 ---------
@@ -53,7 +53,7 @@ Further Readings
     *   [Section 11.5](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap11.html) in _How to Think Like a Computer Scientist_
     *   The [Exceptions](http://docs.python.org/release/2.5.4/tut/node10.html) chapter in the Python Tutorial
 *   Recursion
-    *   The [Recursion](/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-6-recursion/lecture-6-recursion) chapter in _An Introduction to Python_
+    *   The [Recursion]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-6-recursion/lecture-6-recursion/_index.md" %}}) chapter in _An Introduction to Python_
     *   [Sections 4.9-4.11](http://www.greenteapress.com/thinkpython/thinkCSpy/html/chap04.html) in _How to Think Like a Computer Scientist_
 
 Probability and Statistics for Computer Scientists
@@ -79,4 +79,4 @@ Although two of these are Wikipedia articles, these pages have a lot of informat
 *   Wikipedia article on [Depth-first search](http://en.wikipedia.org/wiki/Depth-first_search)
 *   Wikipedia article on [Breadth-first search](http://en.wikipedia.org/wiki/Breadth-first_search)
 
-« [Previous](/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/software) | [Next](/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1) »
+« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/software" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/_index.md" %}}) »

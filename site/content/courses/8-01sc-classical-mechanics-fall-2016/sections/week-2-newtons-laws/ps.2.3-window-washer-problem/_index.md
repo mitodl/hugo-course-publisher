@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/problem-set-2" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/problem-set-2" %}}) »
 
 ![A diagram showing a window washer standing on a platform hanging from the ceiling by two pulleys.](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/8795a8d9c0b50bce53c101ec09dd4356_ls02_02.svg)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -46,4 +46,4 @@ Now that we know the system, we can solve for \\(\\displaystyle F\_{wB}\\).
 Window Washer Solution
 ----------------------
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/problem-set-2" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/problem-set-2" %}}) »

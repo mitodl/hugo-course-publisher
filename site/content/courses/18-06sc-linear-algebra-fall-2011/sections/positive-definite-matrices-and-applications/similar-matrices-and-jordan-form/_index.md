@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/similar-matrices-and-jordan-form/MIT18_06SCF11_Ses3.4sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/6dba2d879d4f00b41cdcfca2fde10a3c)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/similar-matrices-and-jordan-form/TSdXJw83kyA" %}})
 
 ### Suggested Reading
 
@@ -34,7 +34,7 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/d884415d8533b2bce595c5817459c53f)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/similar-matrices-and-jordan-form/KUuxdk_V7To" %}})
 
 Check Yourself
 --------------

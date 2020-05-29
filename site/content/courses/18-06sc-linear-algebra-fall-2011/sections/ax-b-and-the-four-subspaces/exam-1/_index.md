@@ -7,7 +7,7 @@ menu:
     weight: 190
     parent: 34303ce19b45724122d2bd33d64df688
 ---
-« [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/exam-1-review/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues" %}}) »
+« [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/exam-1-review/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/_index.md" %}}) »
 
 Session Overview
 ----------------
@@ -22,4 +22,4 @@ Check Yourself
 *   [Exams (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/exam-1/MIT18_06SCF11_ex1" %}})
 *   [Solutions (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/exam-1/MIT18_06SCF11_ex1s" %}})
 
-« [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/exam-1-review/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues" %}}) »
+« [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/exam-1-review/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/_index.md" %}}) »

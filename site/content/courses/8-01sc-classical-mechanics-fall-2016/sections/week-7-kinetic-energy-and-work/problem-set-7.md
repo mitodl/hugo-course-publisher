@@ -7,7 +7,7 @@ menu:
     weight: 1450
     parent: 1099b7667930f7e51cccc80d63899c02
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/_index.md" %}}) »
 
 Problem Set 7 contains the following problems:
 
@@ -15,6 +15,6 @@ Problem Set 7 contains the following problems:
 2.  Collision and Sliding on a Rough Surface
 3.  Inclined Plane
 
-*   [Problem Set 7 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset7" %}})
+*   [Problem Set 7 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/problem-set-7MIT8_01F16_pset7" %}})
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/_index.md" %}}) »

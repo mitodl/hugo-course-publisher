@@ -9,12 +9,12 @@ menu:
 type: courses
 layout: videogallery
 ---
-*   [<Integer Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization" %}})
+*   [<Integer Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/_index.md" %}})
 *   [9.1.1Welcome to Unit 9]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/welcome-to-unit-9" %}})
-*   [\\>Sports Scheduling: An Introduction to Integer Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization" %}})
+*   [\\>Sports Scheduling: An Introduction to Integer Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/_index.md" %}})
 
 Welcome to Unit 9
 -----------------
 
-*   [BackInteger Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization" %}})
-*   [ContinueSports Scheduling: An Introduction to Integer Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization" %}})
+*   [BackInteger Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/_index.md" %}})
+*   [ContinueSports Scheduling: An Introduction to Integer Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/_index.md" %}})

@@ -7,7 +7,7 @@ menu:
     weight: 260
     parent: ea455a8ae7f0daad0b8d5033112f5f5e
 ---
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-20-hyperbolic-trig-functions/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-20-hyperbolic-trig-functions/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1/_index.md" %}}) »
 
 Overview
 --------
@@ -54,4 +54,4 @@ Use [Integration Techniques (PDF)]({{% getpage "courses/18-01sc-single-variable-
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-20-hyperbolic-trig-functions/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-20-hyperbolic-trig-functions/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/exam-1/_index.md" %}}) »

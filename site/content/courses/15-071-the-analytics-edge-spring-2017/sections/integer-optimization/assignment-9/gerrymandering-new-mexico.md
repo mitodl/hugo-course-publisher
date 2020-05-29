@@ -7,9 +7,9 @@ menu:
     weight: 3270
     parent: 2dbce7a6bb3717df55b4be0179616ad6
 ---
-*   [<Assignment 9]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9" %}})
-*   [9.5.1Even' Star Organic Farm Revisited]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9" %}})
-*   [9.5.2Gerrymandering New Mexico]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/gerrymandering-new-mexico" %}})
+*   [<Assignment 9]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/_index.md" %}})
+*   [9.5.1Even' Star Organic Farm Revisited]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/_index.md" %}})
+*   [9.5.2Gerrymandering New Mexico]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/gerrymandering-new-mexico/_index.md" %}})
 
 Gerrymandering New Mexico
 -------------------------
@@ -602,4 +602,4 @@ You can find these numbers by looking at the left-hand-sides of the constraints.
 
 CheckShow Answer
 
-*   [BackAssignment 9]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9" %}})
+*   [BackAssignment 9]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/_index.md" %}})

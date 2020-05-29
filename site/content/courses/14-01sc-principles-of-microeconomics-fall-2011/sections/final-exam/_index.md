@@ -14,8 +14,8 @@ Preparation
 The final exam is cumulative and covers material from the beginning of the course. Please review all of the subject content, especially from the units which have not been covered in previous exams:
 
 *   [Unit 6: Topics in Intermediate Microeconomics  
-    ]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics" %}})
-*   [Unit 7: Equity and Efficiency]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-7-equity-and-efficiency" %}})
+    ]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics/_index.md" %}})
+*   [Unit 7: Equity and Efficiency]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-7-equity-and-efficiency/_index.md" %}})
 
 The final exam tests your conceptual, mathematical and graphical understanding of the material covered throughout the entire course.
 

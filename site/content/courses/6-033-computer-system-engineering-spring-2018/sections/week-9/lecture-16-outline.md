@@ -31,7 +31,7 @@ menu:
         *   COMMIT records specify that transaction committed..
         *   ABORT records specify that transaction aborted.
             *   Not always needed.
-    *   (See [Lecture 16 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-9/MIT6_033S18lec16" %}}) for the log for this example.)
+    *   (See [Lecture 16 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-9/lecture-16-outlineMIT6_033S18lec16" %}}) for the log for this example.)
     *   Nice: Updates are small appends.
 4.  How to Use a Log for Transactions
     *   On begin: Allocate new transaction ID (TID).
@@ -43,7 +43,7 @@ menu:
         *   Another way to do it would be to put checksums on each record and ignore partially-written records.
     *   On abort: Nothing (could write an ABORT record but not strictly needed).
     *   On recover: Nothing.
-    *   (see [Lecture 16 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-9/MIT6_033S18lec16" %}}) for code.)
+    *   (see [Lecture 16 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-9/lecture-16-outlineMIT6_033S18lec16" %}}) for code.)
 5.  Performance of Log
     *   Writes: Good. Sequential = fast.
     *   Reads: Terrible. Must scan entire log.
@@ -56,7 +56,7 @@ menu:
     *   "Log" = write to log. "Install" = write to cell storage.
     *   How to recover:
         *   Scan the log backwards, determine what actions aborted, and undo them.
-        *   (see [Lecture 16 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-9/MIT6_033S18lec16" %}}) for code.)
+        *   (see [Lecture 16 slides (PDF)]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-9/lecture-16-outlineMIT6_033S18lec16" %}}) for code.)
         *   What if we crash during recovery? No worries; recover() is idempotent. Can do it repeatedly.
     *   How to write:
         *   Log before install, not the other way; otherwise, can't recover from a crash in between the two writes.

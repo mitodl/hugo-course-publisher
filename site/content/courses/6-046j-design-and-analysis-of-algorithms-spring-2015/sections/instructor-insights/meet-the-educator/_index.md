@@ -10,3 +10,4 @@ type: courses
 layout: videogallery
 is_media_gallery: true
 ---
+null

@@ -18,7 +18,7 @@ Readings refer to chapters and/or sections of the course textbook:
 | | | |
 | --- | --- | --- |
 | 1 | Algorithmic thinking, peak finding | 1, 3, D.1 |
-| 2 | Models of computation, Python cost model, document distance | 1, 3, [Python Cost Model](/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/readings/python-cost-model) |
+| 2 | Models of computation, Python cost model, document distance | 1, 3, [Python Cost Model]({{% getpage "courses/6-006-introduction-to-algorithms-fall-2011/sections/readings/python-cost-model/_index.md" %}}) |
 
 **Unit 2: Sorting and Trees**
 
@@ -26,7 +26,7 @@ Readings refer to chapters and/or sections of the course textbook:
 | --- | --- | --- |
 | 3 | Insertion sort, merge sort | 1.2, 2.1–2.3, 4.3–4.6 |
 | 4 | Heaps and heap sort | 6.1–6.4 |
-| 5 | Binary search trees, BST sort | 10.4, 12.1–12.3, [Binary Search Trees](/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/readings/binary-search-trees) |
+| 5 | Binary search trees, BST sort | 10.4, 12.1–12.3, [Binary Search Trees]({{% getpage "courses/6-006-introduction-to-algorithms-fall-2011/sections/readings/binary-search-trees/_index.md" %}}) |
 | 6 | AVL trees, AVL sort | 13.2, 14 |
 | 7 | Counting sort, radix sort, lower bounds for sorting and searching | 8.1–8.3 |
 

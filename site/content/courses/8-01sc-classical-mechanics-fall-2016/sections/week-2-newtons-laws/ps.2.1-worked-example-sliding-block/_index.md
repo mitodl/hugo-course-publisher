@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/dd.1.1-friction-at-the-nanoscale" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/dd.1.1-friction-at-the-nanoscale" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/_index.md" %}}) »
 
 ![A diagram of the mass impacting the spring and then rebounding.](https://open-learning-course-data-ci.s3.amazonaws.com/8-01sc-classical-mechanics-fall-2016/e7c3c8b94d995cd3d77c1628abb04621_week2ps1.svg)
 
@@ -19,4 +19,4 @@ A block of mass \\(\\displaystyle m\\) is sliding down an inclined plane of angl
 
 **(Part b)** What is the x-component of the block's acceleration vector when it is sliding up?
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/dd.1.1-friction-at-the-nanoscale" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/dd.1.1-friction-at-the-nanoscale" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/_index.md" %}}) »

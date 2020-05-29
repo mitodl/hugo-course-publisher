@@ -9,6 +9,6 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/35.1-translation-and-rotation-of-a-wheel" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/35.1-translation-and-rotation-of-a-wheel" %}}) »
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/35.1-translation-and-rotation-of-a-wheel" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/35.1-translation-and-rotation-of-a-wheel" %}}) »

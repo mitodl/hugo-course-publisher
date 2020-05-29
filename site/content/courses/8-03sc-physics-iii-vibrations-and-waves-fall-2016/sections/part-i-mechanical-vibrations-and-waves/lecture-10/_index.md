@@ -31,11 +31,11 @@ Lecture Notes
 Textbook Reading
 ----------------
 
-[Chapter 6: Continuum Limit and Fourier Series (PDF - 1.2MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch6" %}}) (section 6.2 to end) 
+[Chapter 6: Continuum Limit and Fourier Series (PDF - 1.2MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-10/MIT8_03SCF16_Text_Ch6" %}}) (section 6.2 to end) 
 
-[Chapter 7: Longitudinal Oscillations and Sound (PDF - 1.3MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch7" %}}) 
+[Chapter 7: Longitudinal Oscillations and Sound (PDF - 1.3MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-10/MIT8_03SCF16_Text_Ch7" %}}) 
 
-[Chapter 8: Traveling Waves (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch8" %}}) (through section 8.2) 
+[Chapter 8: Traveling Waves (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-10/MIT8_03SCF16_Text_Ch8" %}}) (through section 8.2) 
 
 In-class Demonstrations
 -----------------------

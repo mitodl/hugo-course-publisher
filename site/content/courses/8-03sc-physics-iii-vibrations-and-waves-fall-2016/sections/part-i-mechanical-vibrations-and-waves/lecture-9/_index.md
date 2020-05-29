@@ -31,9 +31,9 @@ Lecture Notes
 Textbook Reading
 ----------------
 
-[Chapter 5: Waves (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch5" %}}) (section 5.3 to end)
+[Chapter 5: Waves (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-9/MIT8_03SCF16_Text_Ch5" %}}) (section 5.3 to end)
 
-[Chapter 6: Continuum Limit and Fourier Series (PDF - 1.2MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch6" %}}) (through section 6.1)
+[Chapter 6: Continuum Limit and Fourier Series (PDF - 1.2MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-9/MIT8_03SCF16_Text_Ch6" %}}) (through section 6.1)
 
 Problem Set
 -----------

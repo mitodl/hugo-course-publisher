@@ -45,8 +45,8 @@ Student Work
 
 ### Shot Lists
 
-*   [Andrea's day 8 shot list]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}#Ortho_Shot_List-prelim)
-*   [PJ's day 8 shot list]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project" %}}#Pjfolino_s_Day_8_Shot_List)
-*   [Yuliya's day 8 shot list]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project" %}}#Fractals__Shot_List)
+*   [Andrea's day 8 shot list]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project/_index.md" %}}#Ortho_Shot_List-prelim)
+*   [PJ's day 8 shot list]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project/_index.md" %}}#Pjfolino_s_Day_8_Shot_List)
+*   [Yuliya's day 8 shot list]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project/_index.md" %}}#Fractals__Shot_List)
 
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-7-table-read-and-post-production/_index.md" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}) »

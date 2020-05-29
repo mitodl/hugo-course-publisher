@@ -10,7 +10,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project/_index.md" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project/_index.md" %}}) »
 
 [_Link to_ _Joshua Cheong's Page on Tumblr_](http://mit219.tumblr.com/tagged/joshch)
 
@@ -222,7 +222,7 @@ Final Project: Why can't I find my glove? The Science of Search
 
 This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
 
-[Creative Commons: CC BY-NC-SA](http://k12videos.mit.edu/terms-conditions/?rq=Creative%20Commons), MIT
+[Creative Commons: CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/us/), MIT
 
 Hosted By: Joshua Cheong
 
@@ -242,4 +242,4 @@ Production Assistant: David Yam
 
 [\_Link back to Day 13\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-13-screening-final-cuts" %}}#Student_Work)
 
-« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}) »
+« [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project/_index.md" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project/_index.md" %}}) »

@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/MIT18_06SCF11_Ses2.3sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/0874a421068b100dbc6aa592d0ab6d10)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/osh80YCg_GM" %}})
 
 ### Suggested Reading
 
@@ -34,7 +34,7 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/79bfc67661f7d63dec8228fb2856002c)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/AmQcoopBUTk" %}})
 
 Check Yourself
 --------------

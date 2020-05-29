@@ -10,7 +10,7 @@ type: courses
 layout: videogallery
 ---
 *   [<Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/quick-question-428" %}})
-*   [5.3.1Video 1: IBM Watson]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion" %}})
+*   [5.3.1Video 1: IBM Watson]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/_index.md" %}})
 *   [5.3.2Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/quick-question-405" %}})
 *   [5.3.3Video 2: The Game of Jeopardy]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-2-the-game-of-jeopardy" %}})
 *   [5.3.4Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/quick-question-410" %}})
@@ -21,7 +21,7 @@ layout: videogallery
 *   [5.3.9Video 5: How Watson Works - Steps 3 and 4]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-5-how-watson-works-steps-3-and-4" %}})
 *   [5.3.10Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/quick-question-428" %}})
 *   [5.3.11Video 6: The Results]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-6-the-results" %}})
-*   [\\>Predictive Coding: Bringing Text Analytics to the Courtroom (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation" %}})
+*   [\\>Predictive Coding: Bringing Text Analytics to the Courtroom (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/_index.md" %}})
 
 Video 6: The Results
 --------------------
@@ -29,4 +29,4 @@ Video 6: The Results
 The figure in this video of Watson's progress comes from the academic paper "Building Watson: An Overview of the DeepQA Project", by D. Ferrucci, E. Brown, J. Chu-Carroll, J. Fan, D. Gondek, A. A. Kalyanpur, A. Lally, J. W. Murdock, E. Nyberg, J. Prager, N. Schlaefer, and C. Welty, Association for the Advancement of Artificial Intelligence, 2010.
 
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/quick-question-428" %}})
-*   [ContinuePredictive Coding: Bringing Text Analytics to the Courtroom (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation" %}})
+*   [ContinuePredictive Coding: Bringing Text Analytics to the Courtroom (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/_index.md" %}})

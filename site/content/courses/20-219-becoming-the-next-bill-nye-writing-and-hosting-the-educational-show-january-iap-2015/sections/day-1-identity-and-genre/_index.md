@@ -110,7 +110,7 @@ Instructor and Student Work
 
 ### Day 1 Blogs
 
-*   [Elizabeth's day 1 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections" %}}#Echoe_s_Day_1_Thoughts)  
+*   [Elizabeth's day 1 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/elizabeth-choes-reflections/_index.md" %}}#Echoe_s_Day_1_Thoughts)  
     
 *   [Ceri's day 1 blog]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-reflections/ceri-rileys-reflections" %}}#DAY_1-Ceriley)  
     
@@ -130,11 +130,11 @@ Instructor and Student Work
 
 ### Day 1 Pitches
 
-*   [Kenneth's day 1 pitch]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project" %}}#Day_1_Pitch)
-*   [Joshua's day 1 pitch]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project" %}}#Day_1_Pitch)
-*   [Andrea's day 1 pitch]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project" %}}#Day_1_Pitch)
-*   [PJ's day 1 pitch]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project" %}}#Day_1_Pitch)
-*   [Nathan's day 1 pitch]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project" %}}#Day_1_Pitch)
-*   [Yuliya's day 1 pitch]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project" %}}#G_del_s_Theorem_Video_Pitch) 
+*   [Kenneth's day 1 pitch]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/kenneth-cheahs-project/_index.md" %}}#Day_1_Pitch)
+*   [Joshua's day 1 pitch]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/joshua-cheongs-project/_index.md" %}}#Day_1_Pitch)
+*   [Andrea's day 1 pitch]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project/_index.md" %}}#Day_1_Pitch)
+*   [PJ's day 1 pitch]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/paul-pj-folinos-project/_index.md" %}}#Day_1_Pitch)
+*   [Nathan's day 1 pitch]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/nathan-hernandezs-project/_index.md" %}}#Day_1_Pitch)
+*   [Yuliya's day 1 pitch]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/yuliya-klochans-project/_index.md" %}}#G_del_s_Theorem_Video_Pitch) 
 
 « [Previous]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/instructor-insights/_index.md" %}}) | [Next]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-2-audience/_index.md" %}}) »

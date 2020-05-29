@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/productivity-and-costs/_index.md" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/productivity-and-costs/_index.md" %}}) »
 
 Session Overview
 ----------------
@@ -29,8 +29,8 @@ Read the recitation notes, which cover new content that adds to and supplements 
 
 Before watching the lecture video, read the course textbook for an introduction to the material covered in this session:
 
-*   [\\\[R&T\\\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus" %}}#_R_T_) Chapter 8, "Production and Cost."
-*   \[[Perloff]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus" %}}#_Perloff_)\] Chapter 6, "Firms and Production." (optional)
+*   [\\\[R&T\\\]]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_R_T_) Chapter 8, "Production and Cost."
+*   \[[Perloff]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}#_Perloff_)\] Chapter 6, "Firms and Production." (optional)
 
 ### Lecture Videos
 
@@ -47,4 +47,4 @@ This concept quiz covers key vocabulary terms and also tests your intuitive unde
 
 $( function($){ var quizMulti = { multiList: \[ { ques: "What is the primary objective of firms?", ans: "Maximizing profit.", ansSel: \["Minimizing costs.", "Maximizing revenue.", "Maximizing utility."\], ansInfo: "Costs and revenue are relevant to the firm's decision, but their primary objective is maximizing profit. Utility is maximized by consumers, not firms." }, { ques: "What is the difference between the short-run and the long-run from the perspective of production theory?", ans: "In the short run, only labor varies, and in the long run both labor and capital vary.", ansSel: \["In the short run, all inputs are variable, and in the long run they are invariable.", "In the short run, all inputs are invariable, and in the long run they are variable.", "In the short run, only capital varies, and in the long run both labor and capital vary."\], ansInfo: "In the short run, it is easy for a firm to adjust how many employees it has, but it cannot immediately build a new factory or install new equipment. In the long-run, both labor and capital can be changed." }, { ques: "Which of the following is NOT a property of isoquants?", ans: "Always non-linear.", ansSel: \["Downward sloping.", "Do not cross.", "Further out is better."\], ansInfo: "Isoquants can be linear when inputs are perfectly substitutable, and thus it is not the case that they are always non-linear." }, { ques: "What is the term used to describe a production function in which you can double all inputs and output increases by more than double?", ans: "Increasing returns to scale.", ansSel: \["Leontief.", "Constant returns to scale.", "Decreasing returns to scale."\], ansInfo: "" }\] }; var options = { allRandom: false, Random: false, help: "", showHTML: false, animationType: 0, showWrongAns: true, title: "Concept test 1", }; $("#quizArea").jQuizMe(quizMulti, options); });
 
-« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/productivity-and-costs/_index.md" %}}) »
+« [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/productivity-and-costs/_index.md" %}}) »

@@ -48,17 +48,17 @@ Calendar Key
 
 | DISCIPLINES | ABBREVIATIONS |
 | --- | --- |
-| [Computers and Programming](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/comps-programming) | C |
-| [Fluid Mechanics](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/fluid-mechanics) | F |
-| [Materials and Structures](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/materials-structures) | M |
-| [Signals and Systems](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/signals-systems) | S |
-| Systems and Labs ([2004](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/systems-labs-04) / [2006](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/systems-labs-06)) | S/L |
-| [Thermodynamics](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/thermo-propulsion)  {{< br >}}  {{< br >}}[Propulsion](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/thermo-propulsion) | T  {{< br >}}  {{< br >}}P |
-| [Unified Concepts](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/unified-concepts) | U |
+| [Computers and Programming]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/comps-programming/_index.md" %}}) | C |
+| [Fluid Mechanics]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/fluid-mechanics/_index.md" %}}) | F |
+| [Materials and Structures]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/materials-structures/_index.md" %}}) | M |
+| [Signals and Systems]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/signals-systems/_index.md" %}}) | S |
+| Systems and Labs ([2004]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/systems-labs-04/_index.md" %}}) / [2006]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/systems-labs-06/_index.md" %}})) | S/L |
+| [Thermodynamics]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/thermo-propulsion/_index.md" %}})  {{< br >}}  {{< br >}}[Propulsion]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/thermo-propulsion/_index.md" %}}) | T  {{< br >}}  {{< br >}}P |
+| [Unified Concepts]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/unified-concepts/_index.md" %}}) | U |
 | ACTIVITIES | ABBREVIATIONS |
-| [Homework](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/assignments) | HW |
-| Systems Problems ([2004](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/systems-labs-04) / [2006](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/systems-labs-06)) | SP |
-| [Quizzes](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/exams) | Q 
+| [Homework]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/assignments/_index.md" %}}) | HW |
+| Systems Problems ([2004]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/systems-labs-04/_index.md" %}}) / [2006]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/systems-labs-06/_index.md" %}})) | SP |
+| [Quizzes]({{% getpage "courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/sections/exams/_index.md" %}}) | Q 
 
 Course Calendar (PDF Format)
 ----------------------------

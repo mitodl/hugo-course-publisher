@@ -9,6 +9,6 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.4-center-of-mass-of-a-system-of-extended-objects" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.6-velocity-and-acceleration-of-the-center-of-mass" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.4-center-of-mass-of-a-system-of-extended-objects/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.6-velocity-and-acceleration-of-the-center-of-mass" %}}) »
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.4-center-of-mass-of-a-system-of-extended-objects" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.6-velocity-and-acceleration-of-the-center-of-mass" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.4-center-of-mass-of-a-system-of-extended-objects/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.6-velocity-and-acceleration-of-the-center-of-mass" %}}) »

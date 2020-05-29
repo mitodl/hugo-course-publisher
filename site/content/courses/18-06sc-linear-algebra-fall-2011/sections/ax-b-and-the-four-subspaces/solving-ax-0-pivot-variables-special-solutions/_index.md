@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions/MIT18_06SCF11_Ses1.7sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/11def16763845b3602821117592f4b56)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions/VqP2tREMvt0" %}})
 
 ### Suggested Reading
 
@@ -34,7 +34,7 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/e48cdbd12025cad3a61600319f38f19e)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions/3cMyj8EKFGo" %}})
 
 Check Yourself
 --------------

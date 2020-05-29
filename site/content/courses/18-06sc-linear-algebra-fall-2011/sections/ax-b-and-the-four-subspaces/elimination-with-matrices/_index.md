@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/elimination-with-matrices/MIT18_06SCF11_Ses1.2sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/265e502cbb641058a996fbb83c26e0a8)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/elimination-with-matrices/QVKj3LADCnA" %}})
 
 ### Suggested Reading
 
@@ -34,7 +34,7 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/b96aab30dca7e88a637e3e98932de472)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/elimination-with-matrices/GLFg2UBMAxc" %}})
 
 Check Yourself
 --------------

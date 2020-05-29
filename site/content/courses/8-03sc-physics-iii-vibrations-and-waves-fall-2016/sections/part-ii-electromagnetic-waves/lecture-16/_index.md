@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-15/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-15/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/_index.md" %}}) »
 
 Lecture Topics
 --------------
@@ -31,9 +31,9 @@ Lecture Notes
 Textbook Reading
 ----------------
 
-[Chapter 11: Two and Three Dimensions (PDF - 1.8MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch11" %}}) 
+[Chapter 11: Two and Three Dimensions (PDF - 1.8MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-16/MIT8_03SCF16_Text_Ch11" %}}) 
 
-[Chapter 12: Polarization (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch12" %}}) (through section 12.3) 
+[Chapter 12: Polarization (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-16/MIT8_03SCF16_Text_Ch12" %}}) (through section 12.3) 
 
 In-class Demonstrations
 -----------------------
@@ -50,4 +50,4 @@ Video: [Total Internal Refraction](https://www.youtube.com/watch?v=WRuatAcd2WY) 
 
 Video: [Snell's Law](https://www.youtube.com/watch?v=y55tzg_jW9I) by [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
 
-« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-15/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/lecture-15/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/_index.md" %}}) »

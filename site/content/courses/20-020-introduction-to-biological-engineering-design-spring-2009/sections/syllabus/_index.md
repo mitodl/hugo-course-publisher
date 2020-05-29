@@ -112,8 +112,8 @@ Course catalog description of 20.902:
 
 Two particular aspects of 20.902 are woven into the 20.020 OCW site.
 
-*   Papers on the [readings](/courses/biological-engineering/20-020-introduction-to-biological-engineering-design-spring-2009/readings-20-902) page are assigned only to the 20.902 students. However, 20.020 students are exposed to these papers through the weekly in-class presentations and discussions.
-*   The project mentoring roles and expectations for 20.902 students are included on the [projects](/courses/biological-engineering/20-020-introduction-to-biological-engineering-design-spring-2009/projects) page
+*   Papers on the [readings]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/readings-20-902/_index.md" %}}) page are assigned only to the 20.902 students. However, 20.020 students are exposed to these papers through the weekly in-class presentations and discussions.
+*   The project mentoring roles and expectations for 20.902 students are included on the [projects]({{% getpage "courses/20-020-introduction-to-biological-engineering-design-spring-2009/sections/projects/_index.md" %}}) page
 
 ### Requirements and Grading
 

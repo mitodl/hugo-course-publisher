@@ -9,12 +9,12 @@ menu:
 type: courses
 layout: videogallery
 ---
-*   [<Visualization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization" %}})
+*   [<Visualization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/_index.md" %}})
 *   [7.1.1Welcome to Unit 7]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/welcome-to-unit-7" %}})
-*   [\\>Visualizing the World: An Introduction to Visualization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization" %}})
+*   [\\>Visualizing the World: An Introduction to Visualization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/_index.md" %}})
 
 Welcome to Unit 7
 -----------------
 
-*   [BackVisualization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization" %}})
-*   [ContinueVisualizing the World: An Introduction to Visualization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization" %}})
+*   [BackVisualization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/_index.md" %}})
+*   [ContinueVisualizing the World: An Introduction to Visualization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/_index.md" %}})

@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-88-examples-of-lhospitals-rule/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-88-examples-of-lhospitals-rule/_index.md" %}}) »
 
 Overview
 --------
@@ -34,4 +34,4 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-88-examples-of-lhospitals-rule/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-88-examples-of-lhospitals-rule/_index.md" %}}) »

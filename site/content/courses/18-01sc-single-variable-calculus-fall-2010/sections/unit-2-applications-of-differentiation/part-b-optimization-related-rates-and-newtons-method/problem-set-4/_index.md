@@ -7,7 +7,7 @@ menu:
     weight: 450
     parent: 7bd0936fcddbb454b9e5dab2884cc641
 ---
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/_index.md" %}}) »
 
 Overview
 --------
@@ -37,4 +37,4 @@ _This problem set is from exercises and solutions written by David Jerison and A
   
  
 
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/_index.md" %}}) »

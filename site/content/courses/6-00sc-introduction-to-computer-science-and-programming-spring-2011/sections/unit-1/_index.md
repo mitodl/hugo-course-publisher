@@ -6,7 +6,7 @@ menu:
     identifier: 975ad7bfdd9c4ffe26b6710fa718d5e6
     weight: 40
 ---
-« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/references/_index.md" %}}) | [Next](.{{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-1-introduction-to-6.00/_index.md" %}}) »
+« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/references" %}}) | [Next](.{{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-1-introduction-to-6.00/_index.md" %}}) »
 
 We will start the semester by discussing the difference between imperative knowledge and definitional knowledge, between fixed program and stored program computers, and finally the definitions of syntax, static semantics, and semantics. We cover straight line, branching, and looping programs. Other topics include binary representation of numbers, orders of growth, and debugging programs.
 
@@ -16,6 +16,6 @@ By the end of Unit 1 you should be familiar with the following algorithmic techn
 
 Unit 1 ends with a quiz covering all material (lectures, recitations, and problem sets) through [Efficiency and Order of Growth]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-8-efficiency-and-order-of-growth/_index.md" %}}).
 
-Looking for something specific in this course? The [Resource Index]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/resource-index/_index.md" %}}) compiles links to most course resources in a single page.
+Looking for something specific in this course? The [Resource Index]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/resource-index" %}}) compiles links to most course resources in a single page.
 
-« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/references/_index.md" %}}) | [Next](.{{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-1-introduction-to-6.00/_index.md" %}}) »
+« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/references" %}}) | [Next](.{{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-1-introduction-to-6.00/_index.md" %}}) »

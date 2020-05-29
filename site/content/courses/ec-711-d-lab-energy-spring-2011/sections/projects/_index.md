@@ -13,4 +13,4 @@ During the first seven weeks of class, project work builds incrementally as desc
 
 After the spring break trips, the class focuses intensely on their projects. This page describes the project design process and deliverables starting with Week 9.
 
-Examples of student work can be found on the [Project Results]({{% getpage "courses/ec-711-d-lab-energy-spring-2011/sections/projects/project-results/_index.md" %}}) page.
+Examples of student work can be found on the [Project Results]({{% getpage "courses/ec-711-d-lab-energy-spring-2011/sections/projects/project-results" %}}) page.

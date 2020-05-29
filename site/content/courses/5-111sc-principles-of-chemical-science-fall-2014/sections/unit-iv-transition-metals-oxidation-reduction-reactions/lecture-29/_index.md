@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-28" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/_index.md" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-28/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/_index.md" %}}) »
 
 Topics
 ------
@@ -24,12 +24,12 @@ This lecture starts with a challenge: can you correctly predict the color of a t
 Lecture Notes
 -------------
 
-[Notes for Lecture 29 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/MIT5_111F14_Lecture29" %}})
+[Notes for Lecture 29 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-29/MIT5_111F14_Lecture29" %}})
 
 Clicker Questions
 -----------------
 
-[Lecture 29 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/MIT5_111F14_Lec29Clkr" %}})
+[Lecture 29 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-29/MIT5_111F14_Lec29Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -41,8 +41,8 @@ Textbook Reading
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 29 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/MIT5_111F14_Lec29Prob" %}})
+[Problems for Lecture 29 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-29/MIT5_111F14_Lec29Prob" %}})
 
-[Solutions for Lecture 29 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/MIT5_111F14_Lec29Soln" %}})
+[Solutions for Lecture 29 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-29/MIT5_111F14_Lec29Soln" %}})
 
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-28" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/_index.md" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-28/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/_index.md" %}}) »

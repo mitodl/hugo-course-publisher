@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-10/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-10/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/_index.md" %}}) »
 
 Lecture Topics
 --------------
@@ -31,11 +31,11 @@ Lecture Notes
 Textbook Reading
 ----------------
 
-[Chapter 6: Continuum Limit and Fourier Series (PDF - 1.2MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch6" %}}) (section 6.2 to end) 
+[Chapter 6: Continuum Limit and Fourier Series (PDF - 1.2MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-11/MIT8_03SCF16_Text_Ch6" %}}) (section 6.2 to end) 
 
-[Chapter 7: Longitudinal Oscillations and Sound (PDF - 1.3MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch7" %}}) 
+[Chapter 7: Longitudinal Oscillations and Sound (PDF - 1.3MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-11/MIT8_03SCF16_Text_Ch7" %}}) 
 
-[Chapter 8: Traveling Waves (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/syllabus/MIT8_03SCF16_Text_Ch8" %}}) (through section 8.2) 
+[Chapter 8: Traveling Waves (PDF - 1.4MB)]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-11/MIT8_03SCF16_Text_Ch8" %}}) (through section 8.2) 
 
 Problem Set
 -----------
@@ -62,4 +62,4 @@ Demonstration: [Two Speakers Facing Each Other with a Microphone](http://tsgphys
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 
-« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-10/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves" %}}) »
+« [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-10/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-ii-electromagnetic-waves/_index.md" %}}) »

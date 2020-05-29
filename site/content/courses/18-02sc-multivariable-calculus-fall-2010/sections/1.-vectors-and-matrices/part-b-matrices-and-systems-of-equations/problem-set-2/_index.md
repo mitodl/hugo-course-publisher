@@ -7,7 +7,7 @@ menu:
     weight: 200
     parent: 5785559cca754f05db711c0de8a26bc4
 ---
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-14-solutions-to-square-systems/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-c-parametric-equations-for-curves" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-14-solutions-to-square-systems/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/_index.md" %}}) »
 
 Overview
 --------
@@ -23,7 +23,7 @@ Problem Set
 [Problem Set 2 (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/problem-set-2/MIT18_02SC_pset2" %}})  
 [Problem Set 2 Solutions (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/problem-set-2/MIT18_02SC_pset2sol" %}})
 
-[Supplemental Problems referenced in this problem set (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/problem-set-1/MIT18_02SC_SupProb1" %}})  
-[Solutions to Supplemental Problems referenced in this problem set (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/problem-set-1/MIT18_02SC_SupProbSol1" %}})
+[Supplemental Problems referenced in this problem set (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/problem-set-2/MIT18_02SC_SupProb1" %}})  
+[Solutions to Supplemental Problems referenced in this problem set (PDF)]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/problem-set-2/MIT18_02SC_SupProbSol1" %}})
 
-« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-14-solutions-to-square-systems/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-c-parametric-equations-for-curves" %}}) »
+« [Previous]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-14-solutions-to-square-systems/_index.md" %}}) | [Next]({{% getpage "courses/18-02sc-multivariable-calculus-fall-2010/sections/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/_index.md" %}}) »

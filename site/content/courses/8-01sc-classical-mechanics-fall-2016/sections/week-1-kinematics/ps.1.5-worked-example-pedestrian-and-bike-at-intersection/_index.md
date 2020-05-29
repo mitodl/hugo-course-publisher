@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.4-sketch-the-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/problem-set-1" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.4-sketch-the-motion/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/problem-set-1" %}}) »
 
 You are in a car standing by a traffic light and at time \\(\\displaystyle t=0 \\) the light turns green. You start to accelerate during the first \\(\\displaystyle t\_1 \\) seconds so that the acceleration of your car is given by:
 
@@ -41,4 +41,4 @@ We also know that the bicycle and the car are at the same location when the bicy
 
 Use (eq.1) and (eq. 2) to obtain the value of \\(\\displaystyle b\_2 \\). Express your answer in terms of \\(\\displaystyle t\_1 \\), \\(\\displaystyle b\_1 \\), and \\(\\displaystyle v\_0 \\). Do not use \\(\\displaystyle t\_2 \\) in your answer.
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.4-sketch-the-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/problem-set-1" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.4-sketch-the-motion/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/problem-set-1" %}}) »

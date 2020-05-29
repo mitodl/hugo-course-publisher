@@ -6,7 +6,7 @@ menu:
     identifier: 542fb9a775828df9e5388d70d4c04741
     weight: 430
 ---
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-35" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/resource-index" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-35/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/resource-index" %}}) »
 
 General Information
 -------------------
@@ -107,4 +107,4 @@ Approximately 80% of the final exam is on Exam 1–4 material. The remaining 20%
 
 [Final Exam Solutions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/exams/MIT5_111F14_FinalExamSol" %}})
 
-« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-35" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/resource-index" %}}) »
+« [Previous]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-v-chemical-kinetics/lecture-35/_index.md" %}}) | [Next]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/resource-index" %}}) »

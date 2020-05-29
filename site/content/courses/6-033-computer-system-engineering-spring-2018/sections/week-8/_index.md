@@ -19,7 +19,7 @@ Lecture 14: Fault Tolerance: Reliability via Replication
 6.  Whole-Disk Failures
 7.  Your Future
 
-*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/lecture-14-outline/_index.md" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/lecture-14-outline" %}})
 
 ### Lecture Slides
 
@@ -33,7 +33,7 @@ Recitation 14: Distributed Storage
 ----------------------------------
 
 *   Read "[The Google File System](https://ai.google/research/pubs/pub51)" by S. Ghemawat, H. Gobioff & S-T Leung
-*   [Distributed Storage Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/distributed-storage-assignment/_index.md" %}})
+*   [Distributed Storage Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/distributed-storage-assignment" %}})
 
 Lecture 15: Fault Tolerance: Introduction to Transactions
 ---------------------------------------------------------
@@ -52,7 +52,7 @@ Lecture 15: Fault Tolerance: Introduction to Transactions
 10.  Isolation
 11.  The Future
 
-*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/lecture-15-outline/_index.md" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-8/lecture-15-outline" %}})
 
 ### Lecture Slides
 

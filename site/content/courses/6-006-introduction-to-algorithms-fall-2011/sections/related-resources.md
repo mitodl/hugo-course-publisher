@@ -24,7 +24,7 @@ Python
 *   [Debugging In Python](http://pythonconquerstheuniverse.wordpress.com/category/python-debugger/)
 *   [6.01 Python Resource list](http://courses.csail.mit.edu/6.01/fall07/resource.html)
 *   [IPython](http://scipy-ipython.readthedocs.io/en/latest/), an enhanced interactive shell for use on the command line.
-*   [Python Cost Model](/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/readings/python-cost-model)
+*   [Python Cost Model]({{% getpage "courses/6-006-introduction-to-algorithms-fall-2011/sections/readings/python-cost-model/_index.md" %}})
 *   [Python video tutorials](http://www.catonmat.net/blog/learning-python-programming-language-through-video-lectures/)
 
 [![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0672328623/ref=nosim/mitopencourse-20) Beazley, David. _Python Essential Reference_. 3rd ed. Sams, 2006. ISBN: 9780672328626. \[Preview with [Google Books](http://books.google.com/books?id=kQom0WiUbZQC&printsec=frontcover)\]

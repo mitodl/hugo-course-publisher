@@ -29,7 +29,7 @@ Lecture Notes
 Clicker Questions
 -----------------
 
-[Lecture 9 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/MIT5_111F14_Lec9Clkr" %}})
+[Lecture 9 Clicker Questions (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-9/MIT5_111F14_Lec9Clkr" %}})
 
 Textbook Reading
 ----------------
@@ -54,9 +54,9 @@ Kateryna Kozyrytska, a female biochemist born in Ukraine, describes how as a sci
 Problems and Solutions
 ----------------------
 
-[Problems for Lecture 9 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/MIT5_111F14_Lec09Prob" %}})
+[Problems for Lecture 9 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-9/MIT5_111F14_Lec09Prob" %}})
 
-[Solutions for Lecture 9 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/MIT5_111F14_Lec09Soln" %}})
+[Solutions for Lecture 9 (PDF)]({{% getpage "courses/5-111sc-principles-of-chemical-science-fall-2014/sections/unit-ii-chemical-bonding-structure/lecture-9/MIT5_111F14_Lec09Soln" %}})
 
 Acknowledgement
 ---------------

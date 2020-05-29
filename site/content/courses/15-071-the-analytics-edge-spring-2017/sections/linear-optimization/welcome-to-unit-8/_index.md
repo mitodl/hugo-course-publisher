@@ -11,12 +11,12 @@ layout: videogallery
 ---
 *   [<Linear Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/_index.md" %}})
 *   [8.1.1Welcome to Unit 8]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/_index.md" %}})
-*   [8.1.2Installing LibreOffice or OpenOffice]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/installing-libreoffice-or-openoffice/_index.md" %}})
-*   [8.1.3Spreadsheet Tutorial]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/spreadsheet-tutorial/_index.md" %}})
-*   [\\>Installing LibreOffice or OpenOffice]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/installing-libreoffice-or-openoffice/_index.md" %}})
+*   [8.1.2Installing LibreOffice or OpenOffice]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/installing-libreoffice-or-openoffice" %}})
+*   [8.1.3Spreadsheet Tutorial]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/spreadsheet-tutorial" %}})
+*   [\\>Installing LibreOffice or OpenOffice]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/installing-libreoffice-or-openoffice" %}})
 
 Welcome to Unit 8
 -----------------
 
 *   [BackLinear Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/_index.md" %}})
-*   [ContinueInstalling LibreOffice or OpenOffice]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/installing-libreoffice-or-openoffice/_index.md" %}})
+*   [ContinueInstalling LibreOffice or OpenOffice]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/installing-libreoffice-or-openoffice" %}})

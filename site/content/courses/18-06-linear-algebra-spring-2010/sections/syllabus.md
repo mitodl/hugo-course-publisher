@@ -67,4 +67,4 @@ Grading
 MATLAB®
 -------
 
-Some homework problems will require you to use MATLAB, an important tool for numerical linear algebra. No previous MATLAB experience is required in 18.06. The [related resources](/courses/mathematics/18-06-linear-algebra-spring-2010/related-resources) section has links to information about MATLAB, including a tutorial.
+Some homework problems will require you to use MATLAB, an important tool for numerical linear algebra. No previous MATLAB experience is required in 18.06. The [related resources]({{% getpage "courses/18-06-linear-algebra-spring-2010/sections/related-resources/_index.md" %}}) section has links to information about MATLAB, including a tutorial.

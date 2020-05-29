@@ -16,9 +16,9 @@ Installation Files
 Style Guide
 -----------
 
-*   [Style Guide (PDF)]({{% getpage "courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/sections/assignments/MIT6_0002F16_StyleGuide" %}})
+*   [Style Guide (PDF)]({{% getpage "courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/sections/software/MIT6_0002F16_StyleGuide" %}})
 
 Additional Python Resources
 ---------------------------
 
-*   [Additional Python Resources (PDF)]({{% getpage "courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/sections/assignments/MIT6_0002F16_PythonResurcs" %}})
+*   [Additional Python Resources (PDF)]({{% getpage "courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/sections/software/MIT6_0002F16_PythonResurcs" %}})

@@ -7,7 +7,7 @@ menu:
     weight: 20
     parent: d8efae912fd602f9ac2e2cb9d064d22e
 ---
-« [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/syllabus" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces" %}}) »
+« [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/syllabus/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/_index.md" %}}) »
 
 ![A woman in a black coat with a blue necklace stands in front of a pond.](https://open-learning-course-data-ci.s3.amazonaws.com/18-06sc-linear-algebra-fall-2011/ec0216b840a3d00276201e9b320d4f22_martina_photo.jpg) **Martina Balagovic**  
 _Hi, I am Martina. By now, I taught linear algebra classes in three universities and in many different flavors. I love algebra, and this is probably my favorite class to teach. It gives students the chance to soar into rigorous, abstract algebraic thinking, while being firmly grounded by its many examples. This way one can reason abstractly and then check one's intuition and reasoning on small, very concrete examples. At the same time, one can explore numerous applications in engineering and computer science. I hope the examples we prepared for you will be useful!_
@@ -50,4 +50,4 @@ _Hi, I am Nikola. I hope you find these recitation videos, supplementing Prof. S
 
 Nikola Kamburov is a Ph.D. student in the Department of Mathematics at MIT. He grew up in Bulgaria and he earned his bachelor's degree in mathematics from Princeton University. His research focuses on nonlinear partial differential equations.
 
-« [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/syllabus" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces" %}}) »
+« [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/syllabus/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/_index.md" %}}) »

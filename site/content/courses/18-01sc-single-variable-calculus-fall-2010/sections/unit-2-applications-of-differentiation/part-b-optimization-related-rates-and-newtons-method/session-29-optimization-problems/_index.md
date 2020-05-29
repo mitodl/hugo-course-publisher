@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-30-optimization-problems-ii/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-30-optimization-problems-ii/_index.md" %}}) »
 
 Overview
 --------
@@ -28,4 +28,4 @@ Recitation Video
 
 ### Minimum Triangle Area
 
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-30-optimization-problems-ii/_index.md" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-30-optimization-problems-ii/_index.md" %}}) »

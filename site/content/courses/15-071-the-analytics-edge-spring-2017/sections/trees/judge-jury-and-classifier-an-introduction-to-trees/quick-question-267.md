@@ -8,20 +8,20 @@ menu:
     parent: 11f9b44dc2960689414b8c313764a18d
 ---
 *   [<Video 3: Splitting and Predictions]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/video-3-splitting-and-predictions" %}})
-*   [4.2.1Video 1: The Supreme Court]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees" %}})
+*   [4.2.1Video 1: The Supreme Court]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/_index.md" %}})
 *   [4.2.2Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/quick-question-253" %}})
 *   [4.2.3Video 2: CART]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/video-2-cart" %}})
-*   [4.2.4Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/quick-question-258" %}})
+*   [4.2.4Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/quick-question-258/_index.md" %}})
 *   [4.2.5Video 3: Splitting and Predictions]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/video-3-splitting-and-predictions" %}})
 *   [4.2.6Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/quick-question-267" %}})
-*   [4.2.7Video 4: CART in R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/video-4-cart-in-r" %}})
+*   [4.2.7Video 4: CART in R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/video-4-cart-in-r/_index.md" %}})
 *   [4.2.8Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/quick-question-281" %}})
 *   [4.2.9Video 5: Random Forests]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/video-5-random-forests" %}})
 *   [4.2.10Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/quick-question-297" %}})
 *   [4.2.11Video 6: Cross-Validation]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/video-6-cross-validation" %}})
 *   [4.2.12Quick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/quick-question-306" %}})
 *   [4.2.13Video 7: The Model v. The Experts]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/video-7-the-model-v-the-experts" %}})
-*   [\\>Video 4: CART in R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/video-4-cart-in-r" %}})
+*   [\\>Video 4: CART in R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/video-4-cart-in-r/_index.md" %}})
 
 Quick Question
 --------------
@@ -74,4 +74,4 @@ Since 70% of these observations have outcome A, we will predict A if the thresho
 CheckShow Answer
 
 *   [BackVideo 3: Splitting and Predictions]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/video-3-splitting-and-predictions" %}})
-*   [ContinueVideo 4: CART in R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/video-4-cart-in-r" %}})
+*   [ContinueVideo 4: CART in R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/video-4-cart-in-r/_index.md" %}})

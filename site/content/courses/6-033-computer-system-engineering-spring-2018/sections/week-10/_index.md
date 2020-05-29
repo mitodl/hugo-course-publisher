@@ -22,7 +22,7 @@ Lecture 18: Distributed Transactions
 9.  2PC Summary
 10.  A Remaining Problem
 
-*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-10/lecture-18-outline/_index.md" %}})
+*   [Detailed Outline]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-10/lecture-18-outline" %}})
 
 ### Lecture Slides
 
@@ -41,7 +41,7 @@ Recitation 18: Consistency Guarantees
 -------------------------------------
 
 *   Read ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Replicated Data Consistency Explained Through Baseball (PDF)](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/ConsistencyAndBaseballReport.pdf)" by D. Terry
-*   [Consistency Guarantees Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-10/consistency-guarantees-assignment/_index.md" %}})
+*   [Consistency Guarantees Assignment]({{% getpage "courses/6-033-computer-system-engineering-spring-2018/sections/week-10/consistency-guarantees-assignment" %}})
 
 Tutorial 10: Analysis and Evaluation
 ------------------------------------

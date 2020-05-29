@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/exam-3-review/MIT18_06SCF11_Ses3.9sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/246e18f190adc4a5ebed3bf57b0a70c6)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/exam-3-review/HgC1l_6ySkc" %}})
 
 ### Suggested Reading
 
@@ -34,6 +34,6 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/75b06674c5c0542b51d73280140fbce0)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/exam-3-review/OsHY7ycgbaE" %}})
 
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/left-and-right-inverses-pseudoinverse/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/exam-3/_index.md" %}}) »

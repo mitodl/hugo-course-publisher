@@ -9,7 +9,7 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3/lecture-21-using-graphs-to-model-problems-part-1/_index.md" %}}) »
+« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3/lecture-21-using-graphs-to-model-problems-part-1/_index.md" %}}) »
 
 Session Overview
 ----------------
@@ -75,4 +75,4 @@ _Note: Solutions are not available for this assignment._
 
 Problem set 10 is assigned in this session.  The instructions and solutions can be found on the session page where it is due, Lecture 22 [Using Graphs to Model Problems, Part 2]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3/lecture-22-using-graphs-to-model-problems-part-2/_index.md" %}}).
 
-« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3/lecture-21-using-graphs-to-model-problems-part-1/_index.md" %}}) »
+« [Previous]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3/_index.md" %}}) | [Next]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3/lecture-21-using-graphs-to-model-problems-part-1/_index.md" %}}) »

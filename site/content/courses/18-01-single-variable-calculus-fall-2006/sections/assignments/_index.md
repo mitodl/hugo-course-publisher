@@ -9,7 +9,7 @@ menu:
 Format
 ------
 
-Students will need both the course textbook ([![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20) Simmons, George F. _Calculus with Analytic Geometry_. 2nd ed. New York, NY: McGraw-Hill, October 1, 1996, ISBN: 9780070576421) and the [course reader](/courses/mathematics/18-01-single-variable-calculus-fall-2006/readings/course-reader) (18.01/18.01A Supplementary Notes, Exercises and Solutions; Jerison, D., and A. Mattuck. _Calculus 1)_ to complete the assigned problem sets. The course reader is where to find the exercises labeled 1A, 1B, etc.
+Students will need both the course textbook ([![Buy at Amazon](/images/a_logo_17.gif)](http://www.amazon.com/exec/obidos/ASIN/0070576424/ref=nosim/mitopencourse-20) Simmons, George F. _Calculus with Analytic Geometry_. 2nd ed. New York, NY: McGraw-Hill, October 1, 1996, ISBN: 9780070576421) and the [course reader]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/readings/course-reader" %}}) (18.01/18.01A Supplementary Notes, Exercises and Solutions; Jerison, D., and A. Mattuck. _Calculus 1)_ to complete the assigned problem sets. The course reader is where to find the exercises labeled 1A, 1B, etc.
 
 Problem sets have two parts, I and II
 
@@ -34,27 +34,27 @@ Key to Notation
 
 2.1 = Section 2.1 of the Simmons book
 
-Notes G = section G of the [Notes (Course Reader)](/courses/mathematics/18-01-single-variable-calculus-fall-2006/readings/course-reader)
+Notes G = section G of the [Notes (Course Reader)]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/readings/course-reader" %}})
 
-1A-3 = Exercise 1A-3 in Section E (Exercises) of the [Notes](/courses/mathematics/18-01-single-variable-calculus-fall-2006/readings/course-reader) (solved in section S)
+1A-3 = Exercise 1A-3 in Section E (Exercises) of the [Notes]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/readings/course-reader" %}}) (solved in section S)
 
 2.4/13; 81/4 = in Simmons, respectively, section 2.4 Problem 13; page 81 Problem 4
 
 Homeworks
 ---------
 
-Problem Set 1 ([PDF](/courses/mathematics/18-01-single-variable-calculus-fall-2006/assignments/ps1.pdf))
+Problem Set 1 ([PDF]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/assignments/ps1" %}}))
 
-Problem Set 2 ([PDF 1](/courses/mathematics/18-01-single-variable-calculus-fall-2006/assignments/ps2a.pdf)) ([PDF 2](/courses/mathematics/18-01-single-variable-calculus-fall-2006/assignments/ps2b.pdf))
+Problem Set 2 ([PDF 1]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/assignments/ps2a" %}})) ([PDF 2]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/assignments/ps2b" %}}))
 
-Problem Set 3 ([PDF](/courses/mathematics/18-01-single-variable-calculus-fall-2006/assignments/ps3.pdf))
+Problem Set 3 ([PDF]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/assignments/ps3" %}}))
 
-Problem Set 4 ([PDF](/courses/mathematics/18-01-single-variable-calculus-fall-2006/assignments/ps4.pdf))
+Problem Set 4 ([PDF]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/assignments/ps4" %}}))
 
-Problem Set 5 ([PDF](/courses/mathematics/18-01-single-variable-calculus-fall-2006/assignments/ps5.pdf))
+Problem Set 5 ([PDF]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/assignments/ps5" %}}))
 
-Problem Set 6 ([PDF](/courses/mathematics/18-01-single-variable-calculus-fall-2006/assignments/ps6.pdf))
+Problem Set 6 ([PDF]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/assignments/ps6" %}}))
 
-Problem Set 7 ([PDF](/courses/mathematics/18-01-single-variable-calculus-fall-2006/assignments/ps7.pdf))
+Problem Set 7 ([PDF]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/assignments/ps7" %}}))
 
-Problem Set 8 ([PDF 1](/courses/mathematics/18-01-single-variable-calculus-fall-2006/assignments/ps8a.pdf)) ([PDF 2](/courses/mathematics/18-01-single-variable-calculus-fall-2006/assignments/ps8b.pdf))
+Problem Set 8 ([PDF 1]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/assignments/ps8a" %}})) ([PDF 2]({{% getpage "courses/18-01-single-variable-calculus-fall-2006/sections/assignments/ps8b" %}}))

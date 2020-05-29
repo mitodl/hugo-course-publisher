@@ -7,7 +7,7 @@ menu:
     weight: 1140
     parent: f19e1f54f348a68a730889ee63f5b9d6
 ---
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/exam-4" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/exam-4/_index.md" %}}) »
 
 Overview
 --------
@@ -34,4 +34,4 @@ Use [Applications of Integration (PDF)]({{% getpage "courses/18-01sc-single-vari
 
 _This problem set is from exercises and solutions written by David Jerison and Arthur Mattuck._
 
-« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/exam-4" %}}) »
+« [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/exam-4/_index.md" %}}) »

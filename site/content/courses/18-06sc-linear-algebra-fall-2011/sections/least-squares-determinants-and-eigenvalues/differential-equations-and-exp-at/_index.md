@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/MIT18_06SCF11_Ses2.10sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/2f7dd57cfc78b436934383c9673c73b1)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/IZqwi0wJovM" %}})
 
 ### Suggested Reading
 
@@ -34,7 +34,7 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/a5f152ce863bb363fa7ba97e6c66a867)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/FzncDO1eSNI" %}})
 *   观看视频: 习题讲解 --
     
     \[watch this recitation in Mandarin\]

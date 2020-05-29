@@ -7,7 +7,7 @@ menu:
     weight: 740
     parent: 3c7d357cbb95e729679b539d23714ede
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/_index.md" %}}) »
 
 Problem Set 3 contains the following problems:
 
@@ -18,6 +18,6 @@ Problem Set 3 contains the following problems:
 5.  Satellite
 6.  A Coin on a Rotating Disk
 
-*   [Problem Set 3 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset3" %}})
+*   [Problem Set 3 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/problem-set-3MIT8_01F16_pset3" %}})
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/_index.md" %}}) »

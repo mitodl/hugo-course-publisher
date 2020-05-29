@@ -9,12 +9,12 @@ menu:
 type: courses
 layout: videogallery
 ---
-*   [<An Introduction to Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics" %}})
+*   [<An Introduction to Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/_index.md" %}})
 *   [1.1.1Welcome to Unit 1]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/welcome-to-unit-1" %}})
-*   [\\>The Analytics Edge: Intelligence, Happiness, and Health (Lecture Sequence)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence" %}})
+*   [\\>The Analytics Edge: Intelligence, Happiness, and Health (Lecture Sequence)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/_index.md" %}})
 
 Welcome to Unit 1
 -----------------
 
-*   [BackAn Introduction to Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics" %}})
-*   [ContinueThe Analytics Edge: Intelligence, Happiness, and Health (Lecture Sequence)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence" %}})
+*   [BackAn Introduction to Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/_index.md" %}})
+*   [ContinueThe Analytics Edge: Intelligence, Happiness, and Health (Lecture Sequence)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/_index.md" %}})

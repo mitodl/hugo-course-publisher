@@ -9,6 +9,6 @@ menu:
 type: courses
 layout: videogallery
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/36.5-analyze-force-and-torque-in-translation-and-rotation-problems" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.2-worked-example-wheel-rolling-without-slipping-down-inclined-plane" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/36.5-analyze-force-and-torque-in-translation-and-rotation-problems" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.2-worked-example-wheel-rolling-without-slipping-down-inclined-plane/_index.md" %}}) »
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/36.5-analyze-force-and-torque-in-translation-and-rotation-problems" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.2-worked-example-wheel-rolling-without-slipping-down-inclined-plane" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/36.5-analyze-force-and-torque-in-translation-and-rotation-problems" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.2-worked-example-wheel-rolling-without-slipping-down-inclined-plane/_index.md" %}}) »

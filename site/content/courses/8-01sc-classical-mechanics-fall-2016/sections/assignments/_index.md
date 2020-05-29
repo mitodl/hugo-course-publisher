@@ -6,7 +6,7 @@ menu:
     identifier: 14fc866ff60fc69f19eb4338bbc87675
     weight: 40
 ---
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/readings/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/readings/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors/_index.md" %}}) »
 
 | LESSON # | Lesson Titles | PROBLEM SETS | related worked examples |
 | --- | --- | --- | --- |
@@ -16,7 +16,7 @@ menu:
 
 | | | | |
 | --- | --- | --- | --- |
-| 1 | 1D Kinematics - Position and Velocity | [Problem Set 1 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset1_new" %}}) | {{< br >}}{{< br >}}[Derivatives in Kinematics]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/1.7-worked-example-derivatives-in-kinematics" %}}){{< br >}}{{< br >}}[Acceleration from Position]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/2.3-worked-example-acceleration-from-position" %}}){{< br >}}{{< br >}}[Shooting the Apple]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.2-shooting-the-apple" %}}){{< br >}}{{< br >}}[Braking Car]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.3-worked-example-braking-car" %}}){{< br >}}{{< br >}}[Sketch the Motion]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.4-sketch-the-motion" %}}){{< br >}}{{< br >}}[Pedestrian and Bike at Intersection]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.5-worked-example-pedestrian-and-bike-at-intersection" %}}){{< br >}}{{< br >}} |
+| 1 | 1D Kinematics - Position and Velocity | [Problem Set 1 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset1_new" %}}) | {{< br >}}{{< br >}}[Derivatives in Kinematics]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/1.7-worked-example-derivatives-in-kinematics" %}}){{< br >}}{{< br >}}[Acceleration from Position]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/2.3-worked-example-acceleration-from-position" %}}){{< br >}}{{< br >}}[Shooting the Apple]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.2-shooting-the-apple/_index.md" %}}){{< br >}}{{< br >}}[Braking Car]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.3-worked-example-braking-car/_index.md" %}}){{< br >}}{{< br >}}[Sketch the Motion]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.4-sketch-the-motion/_index.md" %}}){{< br >}}{{< br >}}[Pedestrian and Bike at Intersection]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.5-worked-example-pedestrian-and-bike-at-intersection" %}}){{< br >}}{{< br >}} |
 | 2 | 1D Kinematics - Acceleration |
 | 3 | 2D Kinematics - Position, Velocity, and Acceleration |
 
@@ -24,7 +24,7 @@ menu:
 
 | | | | |
 | --- | --- | --- | --- |
-| 4 | Newton's Laws of Motion | [Problem Set 2 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset2" %}}) | {{< br >}}{{< br >}}[Gravity Superposition]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/5.2-worked-example-gravity-superposition" %}}){{< br >}}{{< br >}}[Sliding Block]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.1-worked-example-sliding-block" %}}){{< br >}}{{< br >}}[Pushing Stacked Blocks]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks" %}}){{< br >}}{{< br >}}[Window Washer Problem]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.3-window-washer-problem" %}}){{< br >}}{{< br >}} |
+| 4 | Newton's Laws of Motion | [Problem Set 2 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset2" %}}) | {{< br >}}{{< br >}}[Gravity Superposition]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/5.2-worked-example-gravity-superposition/_index.md" %}}){{< br >}}{{< br >}}[Sliding Block]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.1-worked-example-sliding-block/_index.md" %}}){{< br >}}{{< br >}}[Pushing Stacked Blocks]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/_index.md" %}}){{< br >}}{{< br >}}[Window Washer Problem]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.3-window-washer-problem/_index.md" %}}){{< br >}}{{< br >}} |
 | 5 | Gravity |
 | 6 | Contact Forces |
 | 7 | Tension and Springs |
@@ -34,7 +34,7 @@ menu:
 
 | | | | |
 | --- | --- | --- | --- |
-| 8 | Circular Motion - Position and Velocity | [Problem Set 3 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset3" %}}) | {{< br >}}{{< br >}}[Angular Position from Angular Acceleration]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/10.3-worked-example-angular-position-from-angular-acceleration" %}}){{< br >}}{{< br >}}[Car on a Banked Turn]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/11.2-worked-example-car-on-a-banked-turn" %}}){{< br >}}{{< br >}}[Orbital Circular Motion]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion" %}}){{< br >}}{{< br >}} |
+| 8 | Circular Motion - Position and Velocity | [Problem Set 3 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset3" %}}) | {{< br >}}{{< br >}}[Angular Position from Angular Acceleration]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/10.3-worked-example-angular-position-from-angular-acceleration/_index.md" %}}){{< br >}}{{< br >}}[Car on a Banked Turn]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/11.2-worked-example-car-on-a-banked-turn" %}}){{< br >}}{{< br >}}[Orbital Circular Motion]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion" %}}){{< br >}}{{< br >}} |
 | 9 | Uniform Circular Motion |
 | 10 | Circular Motion - Acceleration |
 | 11 | Newton's 2nd Law and Circular Motion |
@@ -43,7 +43,7 @@ menu:
 
 | | | | |
 | --- | --- | --- | --- |
-| 12 | Pulleys and Constraints | [Problem Set 4 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset4" %}}) |  [2 Blocks and 2 Pulleys]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/12.5-worked-example-2-blocks-and-2-pulleys" %}}) |
+| 12 | Pulleys and Constraints | [Problem Set 4 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset4" %}}) |  [2 Blocks and 2 Pulleys]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/12.5-worked-example-2-blocks-and-2-pulleys/_index.md" %}}) |
 | 13 | Massive Rope |
 | 14 | Resistive Forces |
 
@@ -51,7 +51,7 @@ menu:
 
 | | | | |
 | --- | --- | --- | --- |
-| 15 | Momentum and Impulse | [Problem Set 5 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset5" %}}) | {{< br >}}{{< br >}}[Bouncing Ball]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/15.3-worked-example-bouncing-ball" %}}){{< br >}}{{< br >}}[Center of Mass of 3 Objects]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.2-worked-example-center-of-mass-of-3-objects" %}}){{< br >}}{{< br >}}[Center of Mass of a Uniform Rod]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.5-worked-example-center-of-mass-of-a-uniform-rod" %}}){{< br >}}{{< br >}} |
+| 15 | Momentum and Impulse | [Problem Set 5 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset5" %}}) | {{< br >}}{{< br >}}[Bouncing Ball]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/15.3-worked-example-bouncing-ball/_index.md" %}}){{< br >}}{{< br >}}[Center of Mass of 3 Objects]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.2-worked-example-center-of-mass-of-3-objects" %}}){{< br >}}{{< br >}}[Center of Mass of a Uniform Rod]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.5-worked-example-center-of-mass-of-a-uniform-rod" %}}){{< br >}}{{< br >}} |
 | 16 | Conservation of Momentum |
 | 17 | Center of Mass and Motion of the Center of Mass |
 
@@ -59,14 +59,14 @@ menu:
 
 | | | | |
 | --- | --- | --- | --- |
-| 18 | Relative Velocity and Recoil | [Problem Set 6 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset6" %}}) | {{< br >}}{{< br >}}[Rocket Sled Problem]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem" %}}){{< br >}}{{< br >}}[Snowplow Problem]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem" %}}){{< br >}}{{< br >}} |
+| 18 | Relative Velocity and Recoil | [Problem Set 6 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset6" %}}) | {{< br >}}{{< br >}}[Rocket Sled Problem]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem/_index.md" %}}){{< br >}}{{< br >}}[Snowplow Problem]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem/_index.md" %}}){{< br >}}{{< br >}} |
 | 19 | Continuous Mass Transfer |
 
 **Week 7: Kinetic Energy and Work**
 
 | | | | |
 | --- | --- | --- | --- |
-| 20 | Kinetic Energy and Work in 1D | [Problem Set 7 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset7" %}}) | {{< br >}}{{< br >}}[Block Going Down a Ramp]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/21.6-worked-example-block-going-down-a-ramp" %}}){{< br >}}{{< br >}}[Collision and Sliding on a Rough Surface]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface" %}}){{< br >}}{{< br >}} |
+| 20 | Kinetic Energy and Work in 1D | [Problem Set 7 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset7" %}}) | {{< br >}}{{< br >}}[Block Going Down a Ramp]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/21.6-worked-example-block-going-down-a-ramp" %}}){{< br >}}{{< br >}}[Collision and Sliding on a Rough Surface]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface/_index.md" %}}){{< br >}}{{< br >}} |
 | 21 | Kinetic Energy and Work in 2D and 3D |
 | 22 | Conservative and Non-conservative Forces |
 
@@ -82,7 +82,7 @@ menu:
 
 | | | | |
 | --- | --- | --- | --- |
-| 26 | Types of Collision | [Problem Set 9 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset9" %}}) | {{< br >}}{{< br >}}[Elastic 1D Collision]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/27.1-worked-example-elastic-1d-collision" %}}){{< br >}}{{< br >}}[Elastic 1D Collision Again]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/27.4-worked-example-elastic-1d-collision-again" %}}){{< br >}}{{< br >}}[Gravitational Slingshot]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/27.5-worked-example-gravitational-slingshot" %}}){{< br >}}{{< br >}}[1D Elastic Collision in CM]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.4-worked-example-1d-elastic-collision-in-cm" %}}){{< br >}}{{< br >}} |
+| 26 | Types of Collision | [Problem Set 9 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset9" %}}) | {{< br >}}{{< br >}}[Elastic 1D Collision]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/27.1-worked-example-elastic-1d-collision" %}}){{< br >}}{{< br >}}[Elastic 1D Collision Again]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/27.4-worked-example-elastic-1d-collision-again" %}}){{< br >}}{{< br >}}[Gravitational Slingshot]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/27.5-worked-example-gravitational-slingshot/_index.md" %}}){{< br >}}{{< br >}}[1D Elastic Collision in CM]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.4-worked-example-1d-elastic-collision-in-cm" %}}){{< br >}}{{< br >}} |
 | 27 | Elastic Collisions |
 | Deep Dive 2 | Center of Mass Reference Frame |
 
@@ -90,7 +90,7 @@ menu:
 
 | | | | |
 | --- | --- | --- | --- |
-| 28 | Motion of a Rigid Body | [Problem Set 10 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset10" %}}) | {{< br >}}{{< br >}}[Find the Moment of Inertia of a Disc from a Falling Mass]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/31.3-worked-example-find-the-moment-of-inertia-of-a-disc-from-a-falling-mass" %}}){{< br >}}{{< br >}}[Atwood Machine]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/31.4-worked-example-atwood-machine" %}}){{< br >}}{{< br >}}[Two Blocks and a Pulley Using Energy]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/31.7-worked-example-two-blocks-and-a-pulley-using-energy" %}}){{< br >}}{{< br >}}[Blocks and Massive Pulley]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/ps.10.1-blocks-and-massive-pulley" %}}){{< br >}}{{< br >}} |
+| 28 | Motion of a Rigid Body | [Problem Set 10 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset10" %}}) | {{< br >}}{{< br >}}[Find the Moment of Inertia of a Disc from a Falling Mass]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/31.3-worked-example-find-the-moment-of-inertia-of-a-disc-from-a-falling-mass" %}}){{< br >}}{{< br >}}[Atwood Machine]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/31.4-worked-example-atwood-machine/_index.md" %}}){{< br >}}{{< br >}}[Two Blocks and a Pulley Using Energy]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/31.7-worked-example-two-blocks-and-a-pulley-using-energy" %}}){{< br >}}{{< br >}}[Blocks and Massive Pulley]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/ps.10.1-blocks-and-massive-pulley/_index.md" %}}){{< br >}}{{< br >}} |
 | 29 | Moment of Inertia |
 | 30 | Torque |
 | 31 | Rotational Dynamics |
@@ -99,7 +99,7 @@ menu:
 
 | | | | |
 | --- | --- | --- | --- |
-| 32 | Angular Momentum of a Point Particle | [Problem Set 11 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset11" %}}) | {{< br >}}{{< br >}}[Angular Momentum About Different Points]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/32.3-worked-example-angular-momentum-about-different-points" %}}){{< br >}}{{< br >}}[Angular Momentum of 2 Rotating Point Particles]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/33.1-worked-example-angular-momentum-of-2-rotating-point-particles" %}}){{< br >}}{{< br >}}[Particle Hits Pivoted Ring]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/34.5-worked-example-particle-hits-pivoted-ring" %}}){{< br >}}{{< br >}} |
+| 32 | Angular Momentum of a Point Particle | [Problem Set 11 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset11" %}}) | {{< br >}}{{< br >}}[Angular Momentum About Different Points]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/32.3-worked-example-angular-momentum-about-different-points/_index.md" %}}){{< br >}}{{< br >}}[Angular Momentum of 2 Rotating Point Particles]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/33.1-worked-example-angular-momentum-of-2-rotating-point-particles/_index.md" %}}){{< br >}}{{< br >}}[Particle Hits Pivoted Ring]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/34.5-worked-example-particle-hits-pivoted-ring/_index.md" %}}){{< br >}}{{< br >}} |
 | 33 | Angular Momentum of a Rigid Body about a Fixed Axis |
 | 34 | Torque and Angular Impulse |
 
@@ -107,9 +107,9 @@ menu:
 
 | | | | |
 | --- | --- | --- | --- |
-| 35 | Rolling Kinematics | [Problem Set 12 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset12" %}}) | {{< br >}}{{< br >}}[Wheel Rolling Without Slipping Down Inclined Plane - Torque Method]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/36.2-worked-example-wheel-rolling-without-slipping-down-inclined-plane-torque-method" %}}){{< br >}}{{< br >}}[Yoyo Pulled Along the Ground]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/36.4-worked-example-yoyo-pulled-along-the-ground" %}}){{< br >}}{{< br >}}[Wheel Rolling Without Slipping Down Inclined Plane]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.2-worked-example-wheel-rolling-without-slipping-down-inclined-plane" %}}){{< br >}}{{< br >}} |
+| 35 | Rolling Kinematics | [Problem Set 12 (PDF)]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/assignments/MIT8_01F16_pset12" %}}) | {{< br >}}{{< br >}}[Wheel Rolling Without Slipping Down Inclined Plane - Torque Method]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/36.2-worked-example-wheel-rolling-without-slipping-down-inclined-plane-torque-method" %}}){{< br >}}{{< br >}}[Yoyo Pulled Along the Ground]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/36.4-worked-example-yoyo-pulled-along-the-ground" %}}){{< br >}}{{< br >}}[Wheel Rolling Without Slipping Down Inclined Plane]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.2-worked-example-wheel-rolling-without-slipping-down-inclined-plane/_index.md" %}}){{< br >}}{{< br >}} |
 | 36 | Rolling Dynamics |
 | 37 | Rolling Kinetic Energy and Angular Momentum |
 | Deep Dive 3 | Gyroscopes 
 
-« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/readings/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors" %}}) »
+« [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/readings/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/review-vectors/_index.md" %}}) »

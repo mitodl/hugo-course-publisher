@@ -24,7 +24,7 @@ Session Activities
 *   Watch the video lecture
     
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/factorization-into-a-lu/MIT18_06SCF11_Ses1.4sum" %}})
-*   [Lecture video transcript (PDF)](./resolveuid/6a1ed7a39cbff2dd88de7c559c5373ad)
+*   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/factorization-into-a-lu/MsIvs_6vC38" %}})
 
 ### Suggested Reading
 
@@ -34,7 +34,7 @@ Session Activities
 
 *   Watch the recitation video on
     
-*   [Recitation video transcript (PDF)](./resolveuid/2bc2e009a682eaa46a198af45d6dc80c)
+*   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/factorization-into-a-lu/-eA2D_rIcNA" %}})
 
 Check Yourself
 --------------
