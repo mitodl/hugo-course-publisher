@@ -48,7 +48,7 @@ course_info:
       Physics:
         - Classical Mechanics
   course_numbers:
-    - '8.01'
+    - 8.01SC
   term: Fall 2016
   level: Undergraduate
 menu:

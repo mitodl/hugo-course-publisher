@@ -36,7 +36,7 @@ course_info:
       Linear Algebra: []
       Differential Equations: []
   course_numbers:
-    - 18.019SC
+    - 18.02SC
   term: Fall 2010
   level: Undergraduate
 menu:

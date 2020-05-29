@@ -52,7 +52,7 @@ course_info:
       Applied Mathematics: []
       Probability and Statistics: []
   course_numbers:
-    - '6.042'
+    - 6.042J
     - 18.062J
   term: Spring 2015
   level: Undergraduate

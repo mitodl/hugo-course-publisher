@@ -41,7 +41,7 @@ course_info:
     Mathematics:
       Linear Algebra: []
   course_numbers:
-    - 18.059SC
+    - 18.06SC
   term: Fall 2011
   level: Undergraduate
 menu:

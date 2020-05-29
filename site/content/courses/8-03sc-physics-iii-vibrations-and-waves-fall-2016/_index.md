@@ -31,7 +31,7 @@ course_info:
         - Electromagnetism
         - 'Atomic, Molecular, Optical Physics'
   course_numbers:
-    - '8.03'
+    - 8.03SC
   term: Fall 2016
   level: Undergraduate
 menu:

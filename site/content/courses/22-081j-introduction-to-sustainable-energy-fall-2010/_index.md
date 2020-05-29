@@ -59,7 +59,7 @@ course_info:
       Electrical Engineering:
         - Electric Power
   course_numbers:
-    - '22.081'
+    - 22.081J
     - 2.650J
     - 10.291J
     - 1.818J
