@@ -34,6 +34,8 @@ Video 7: Hierarchical Clustering in R
 
 clusterMovies = hclust(distances, method = "ward.D")
 
+{{< youtube GPOUGpF-Sno >}}
+
 An Advanced Approach to Finding Cluster Centroids
 -------------------------------------------------
 

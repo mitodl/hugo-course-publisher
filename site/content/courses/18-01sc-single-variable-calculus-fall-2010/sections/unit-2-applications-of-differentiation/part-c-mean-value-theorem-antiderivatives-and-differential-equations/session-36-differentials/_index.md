@@ -21,20 +21,28 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube -MI0b4h3rS0 >}}
+
 Recitation Video
 ----------------
 
 ### Computing Differentials
+
+{{< youtube aefQ2FYugAY >}}
 
 Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
 
+{{< youtube -MI0b4h3rS0 >}}
+
 Recitation Video
 ----------------
 
 ### Linear Approximation with Differentials
+
+{{< youtube ed-rB3k\_56U >}}
 
 Worked Example
 --------------

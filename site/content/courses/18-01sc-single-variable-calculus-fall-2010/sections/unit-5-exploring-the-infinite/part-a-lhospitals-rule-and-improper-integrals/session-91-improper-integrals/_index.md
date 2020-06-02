@@ -21,6 +21,14 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube KhwQKE\_tld0 >}}
+
+{{< youtube KhwQKE\_tld0 >}}
+
+{{< youtube KhwQKE\_tld0 >}}
+
+{{< youtube KhwQKE\_tld0 >}}
+
 Worked Example
 --------------
 
@@ -34,14 +42,20 @@ Recitation Video
 
 ### A Solid With Finite Volume and Inﬁnite Cross Section
 
+{{< youtube bo8SFHppXZk >}}
+
 Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
 
+{{< youtube KhwQKE\_tld0 >}}
+
 Recitation Video
 ----------------
 
 ### Improper Integrals
+
+{{< youtube owkMzpN8WDc >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-92-integral-comparison/_index.md" %}}) »

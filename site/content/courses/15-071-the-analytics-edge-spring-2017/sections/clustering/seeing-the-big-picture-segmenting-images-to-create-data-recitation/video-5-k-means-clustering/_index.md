@@ -24,6 +24,8 @@ layout: videogallery
 Video 5: K-Means Clustering
 ---------------------------
 
+{{< youtube WIKsL9tPoAE >}}
+
 Scree Plots
 -----------
 

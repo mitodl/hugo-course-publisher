@@ -21,10 +21,16 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube YN7k\_bXXggY >}}
+
+{{< youtube YN7k\_bXXggY >}}
+
 Recitation Video
 ----------------
 
 ### Maximum Surface Area
+
+{{< youtube Q9iJWDFUspU >}}
 
 Worked Example
 --------------

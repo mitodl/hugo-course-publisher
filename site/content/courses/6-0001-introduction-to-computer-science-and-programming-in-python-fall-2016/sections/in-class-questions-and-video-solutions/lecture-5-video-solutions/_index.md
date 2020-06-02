@@ -14,11 +14,19 @@ layout: videogallery
 Tuples
 ------
 
+{{< youtube ncpb4wIsQu8 >}}
+
 Simple Lists
 ------------
+
+{{< youtube zYVWQpCitKQ >}}
 
 List Operations
 ---------------
 
+{{< youtube SrkqbLOQcEo >}}
+
 List Aliasing / Mutation
 ------------------------
+
+{{< youtube FKp-6sojt9A >}}

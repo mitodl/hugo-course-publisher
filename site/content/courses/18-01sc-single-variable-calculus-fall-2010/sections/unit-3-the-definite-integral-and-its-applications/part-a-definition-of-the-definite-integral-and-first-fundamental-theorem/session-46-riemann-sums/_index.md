@@ -21,6 +21,8 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube hjZhPczMkL4 >}}
+
 Worked Example
 --------------
 
@@ -34,16 +36,24 @@ Recitation Video
 
 ### Riemann Sum
 
+{{< youtube ELWqePHYjCk >}}
+
 Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
+
+{{< youtube hjZhPczMkL4 >}}
 
 Recitation Video
 ----------------
 
 ### Computing the Volume of a Paraboloid
 
+{{< youtube QLo5dRFEyl8 >}}
+
 ### Diffusion of a Chemical
+
+{{< youtube rqkvDrYmKcc >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-45-some-easy-integrals/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-47-introduction-of-the-fundamental-theorem-of-calculus/_index.md" %}}) »

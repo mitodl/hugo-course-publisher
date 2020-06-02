@@ -19,4 +19,6 @@ Snow of density \\(\\displaystyle \\rho\\) covers a road to a uniform depth of \
 
 **(Part b)** Calculate \\(\\displaystyle v\_{\\text {term}}\\), the terminal speed reached by the truck. Express you answer in terms of some or all of the following: \\(\\displaystyle \\rho\\), \\(\\displaystyle D\\), \\(\\displaystyle W\\), \\(\\displaystyle M\\) and \\(\\displaystyle F\_0\\).
 
+{{< youtube nWaoEjE8a8M >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/problem-set-6" %}}) »

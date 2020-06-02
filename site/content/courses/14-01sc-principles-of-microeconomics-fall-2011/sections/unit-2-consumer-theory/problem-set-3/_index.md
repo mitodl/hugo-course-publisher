@@ -30,4 +30,6 @@ Problem Solving Video
 
 In the video below, a teaching assistant demonstrates his approach to the solution for problem 5 from the problem set. The teaching assistant notes common mistakes made by students and provides problem solving techniques for approaching similar questions on the problem set and exams.
 
+*   {{< youtube 1dL8mTyyjRM >}}
+
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/applying-consumer-theory-labor/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/midterm-exam-1/_index.md" %}}) »

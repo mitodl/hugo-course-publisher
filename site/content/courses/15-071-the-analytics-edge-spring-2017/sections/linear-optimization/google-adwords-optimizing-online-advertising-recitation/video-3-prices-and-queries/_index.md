@@ -24,5 +24,7 @@ layout: videogallery
 Video 3: Prices and Queries
 ---------------------------
 
+{{< youtube ril5Z4UxI3w >}}
+
 *   [BackVideo 2: How Online Advertising Works]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-2-how-online-advertising-works" %}})
 *   [ContinueVideo 4: Modeling the Problem]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-4-modeling-the-problem" %}})

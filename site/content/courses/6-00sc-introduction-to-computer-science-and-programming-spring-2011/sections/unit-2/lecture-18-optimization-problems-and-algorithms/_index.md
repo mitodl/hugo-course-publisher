@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube BRjwkgQct28 >}}
+
 > ### About this Video
 > 
 > Topics covered: Modeling, optimization, greedy algorithms, 0-1 knapsack problem.

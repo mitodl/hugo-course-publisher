@@ -24,6 +24,8 @@ layout: videogallery
 Video 1: The Story of Enron
 ---------------------------
 
+{{< youtube hqiH39PShmA >}}
+
 The slides from all videos in this Recitation can be downloaded here: [Bringing Text Analytics to the Courtroom (PDF)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-1-the-story-of-enronMIT15_071S17_Unit5_Recitation" %}}).
 
 *   [BackPredictive Coding: Bringing Text Analytics to the Courtroom (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/_index.md" %}})

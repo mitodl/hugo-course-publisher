@@ -22,5 +22,7 @@ layout: videogallery
 Video 4: Creating Plots in R
 ----------------------------
 
+{{< youtube Q-nk311H-Fw >}}
+
 *   [BackVideo 3: Data Analysis]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-3-data-analysis" %}})
 *   [ContinueVideo 5: Adding Variables]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-5-adding-variables" %}})

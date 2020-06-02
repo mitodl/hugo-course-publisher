@@ -21,6 +21,8 @@ Lecture Video
 
 This lecture starts with a challenge: can you correctly predict the color of a transition metal complex based on its ligands and its geometry? The theory is put to the test with a demo using nickel compounds. We also try to predict the geometry of an unknown nickel site on an enzyme based on its magnetic properties. See if you are up to the challenge.
 
+{{< youtube CFPnZ66nge4 >}}
+
 Lecture Notes
 -------------
 

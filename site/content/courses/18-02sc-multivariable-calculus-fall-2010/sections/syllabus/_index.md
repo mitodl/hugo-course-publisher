@@ -91,6 +91,8 @@ Recitation Video
 
 This OCW Scholar course includes dozens of Recitation Videos – brief problem solving sessions taught by an experienced MIT Recitation Instructor – developed and recorded especially for you, the independent learner. Meet the recitation instructors and learn more about how to benefit from this help by watching their introductory video.
 
+{{< youtube 2y4tCiWbVRI >}}
+
 Readings, Activities and Exams
 ------------------------------
 

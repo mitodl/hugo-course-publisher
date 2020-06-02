@@ -29,6 +29,8 @@ Contents
 Day 1 Pitch
 -----------
 
+{{< youtube GXvoGKLnGn8 >}}
+
 This video is courtesy of [Kenneth Cheah](https://www.youtube.com/channel/UCy5Pf8DSg1wDNqU-RuD63Uw) on YouTube and is provided under our Creative Commons license.
 
 [\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor_and_Student_Work)
@@ -73,6 +75,8 @@ In the meantime though, I guess we could continue hosting more time traveller pa
 
 Day 3 Trailer
 -------------
+
+{{< youtube BPEygcf5Qv4 >}}
 
 This video is courtesy of [Kenneth Cheah](http://mit219.tumblr.com/tagged/cheahyhk) on Tumblr and is provided under our Creative Commons license.
 
@@ -139,12 +143,16 @@ In the meantime though, I guess we could continue hosting more time traveler par
 Rough Cut
 ---------
 
+{{< youtube H5yiAANS0Fc >}}
+
 This video is courtesy of [Kenneth Cheah](https://www.youtube.com/channel/UCy5Pf8DSg1wDNqU-RuD63Uw) on YouTube and is provided under our Creative Commons license.
 
 [\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student_Work)
 
 Final Project
 -------------
+
+{{< youtube NGhXP83J24Q >}}
 
 This video is courtesy of [Kenneth Cheah](https://www.youtube.com/channel/UCy5Pf8DSg1wDNqU-RuD63Uw) on YouTube and is provided under our Creative Commons license.
 

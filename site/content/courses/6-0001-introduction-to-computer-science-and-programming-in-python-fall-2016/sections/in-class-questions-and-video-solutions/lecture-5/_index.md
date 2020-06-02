@@ -27,6 +27,8 @@ layout: videogallery
     
     CheckShow Answer Videos
     
+    {{< youtube ncpb4wIsQu8 >}}
+    
   
 3.  ### Simple Lists
     
@@ -47,6 +49,8 @@ layout: videogallery
     &nbsp;\["life", "everything", 42, 0\]&nbsp;
     
     CheckShow Answer Videos
+    
+    {{< youtube zYVWQpCitKQ >}}
     
   
 5.  ### List Operations
@@ -69,6 +73,8 @@ layout: videogallery
     
     CheckShow Answer Videos
     
+    {{< youtube SrkqbLOQcEo >}}
+    
 6.  ### List Aliasing/Mutation
     
       
@@ -88,3 +94,5 @@ layout: videogallery
     &nbsp;\['bacon', 'eggs', \['toast', 'jam'\]\]&nbsp;
     
     CheckShow Answer Videos
+    
+    {{< youtube FKp-6sojt9A >}}

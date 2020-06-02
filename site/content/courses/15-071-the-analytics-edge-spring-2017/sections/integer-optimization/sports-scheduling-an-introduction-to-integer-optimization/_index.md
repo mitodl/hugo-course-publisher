@@ -24,6 +24,8 @@ layout: videogallery
 Video 1: Introduction
 ---------------------
 
+{{< youtube 9aKidJvppF0 >}}
+
 The slides from all videos in this lecture can be downloaded here: [An Introduction to Integer Optimization (PDF - 1.1MB)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/MIT15_071S17_Unit9_SportsScheduling" %}}).
 
 *   [BackWelcome to Unit 9]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/welcome-to-unit-9" %}})

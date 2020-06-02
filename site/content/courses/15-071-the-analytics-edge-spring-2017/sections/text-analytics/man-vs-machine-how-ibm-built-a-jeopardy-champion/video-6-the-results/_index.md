@@ -26,6 +26,8 @@ layout: videogallery
 Video 6: The Results
 --------------------
 
+{{< youtube fEXkGiLYDug >}}
+
 The figure in this video of Watson's progress comes from the academic paper "Building Watson: An Overview of the DeepQA Project", by D. Ferrucci, E. Brown, J. Chu-Carroll, J. Fan, D. Gondek, A. A. Kalyanpur, A. Lally, J. W. Murdock, E. Nyberg, J. Prager, N. Schlaefer, and C. Welty, Association for the Advancement of Artificial Intelligence, 2010.
 
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/quick-question-428" %}})

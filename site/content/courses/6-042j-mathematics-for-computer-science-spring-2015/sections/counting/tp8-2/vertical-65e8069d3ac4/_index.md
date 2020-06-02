@@ -28,5 +28,7 @@ layout: videogallery
 Integral Method
 ---------------
 
+{{< youtube EegG5TPL29c >}}
+
 *   [BackHarmonic Numbers]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-2/vertical-c496866a2419" %}})
 *   [ContinueIntegral Method Demystified]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-2/vertical-efaab47d6b5a" %}})

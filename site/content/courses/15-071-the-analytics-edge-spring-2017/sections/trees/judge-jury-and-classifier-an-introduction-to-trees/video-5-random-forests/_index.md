@@ -30,5 +30,7 @@ Video 5: Random Forests
 
 **Important Note:** In this video, we install the package "randomForest". If you get an installation warning that says: "Warning: cannot remove prior installation of packages 'randomForest'", please try quitting and re-starting R. 
 
+{{< youtube ykiTs5MipJU >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/quick-question-281" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/quick-question-297" %}})

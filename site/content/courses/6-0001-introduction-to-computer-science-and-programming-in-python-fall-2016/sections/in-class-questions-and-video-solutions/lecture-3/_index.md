@@ -31,6 +31,8 @@ layout: videogallery
     
     CheckShow Answer Videos
     
+    {{< youtube -jjUoTiaSHw >}}
+    
   
 3.  ### For Loops with Strings
     
@@ -57,3 +59,5 @@ layout: videogallery
     &nbsp;10&nbsp;
     
     CheckShow Answer Videos
+    
+    {{< youtube 4WtaFLayz\_w >}}

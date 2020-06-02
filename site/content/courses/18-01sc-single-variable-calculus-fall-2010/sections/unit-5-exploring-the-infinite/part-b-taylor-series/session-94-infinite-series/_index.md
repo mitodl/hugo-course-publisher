@@ -21,10 +21,20 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube MK\_0QHbUnIA >}}
+
+{{< youtube MK\_0QHbUnIA >}}
+
+{{< youtube MK\_0QHbUnIA >}}
+
+{{< youtube MK\_0QHbUnIA >}}
+
 Recitation Video
 ----------------
 
 ### Limit of a Series
+
+{{< youtube LpW6zanbSf8 >}}
 
 Worked Example
 --------------

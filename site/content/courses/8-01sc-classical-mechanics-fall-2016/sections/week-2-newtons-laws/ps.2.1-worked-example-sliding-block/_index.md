@@ -19,4 +19,6 @@ A block of mass \\(\\displaystyle m\\) is sliding down an inclined plane of angl
 
 **(Part b)** What is the x-component of the block's acceleration vector when it is sliding up?
 
+{{< youtube 7WDiK3flILc >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/dd.1.1-friction-at-the-nanoscale" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/_index.md" %}}) »

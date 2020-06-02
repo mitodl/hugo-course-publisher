@@ -21,6 +21,8 @@ Lecture Video: Periodic Oscillations, Harmonic Oscillators
 
 In this lecture, Prof. Lee discusses the mathematical description of the periodic oscillation and simple harmonic oscillators. The first 5 minutes are devoted to course information.
 
+{{< youtube 4ysFC9vd3GE >}}
+
 Lecture Notes
 -------------
 
@@ -48,9 +50,9 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Air Cart Between Springs](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%201&show=0) | {{< br >}}{{< br >}} |
-| [Mass on a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%202&show=0) | {{< br >}}{{< br >}} |
-| [Two Pendulums with Different Amplitudes](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2010&show=0) | {{< br >}}{{< br >}} 
+| [Air Cart Between Springs](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%201&show=0) | {{< youtube 4ysFC9vd3GE >}} |
+| [Mass on a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%202&show=0) | {{< youtube 4ysFC9vd3GE >}} |
+| [Two Pendulums with Different Amplitudes](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2010&show=0) | {{< youtube 4ysFC9vd3GE >}} 
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 

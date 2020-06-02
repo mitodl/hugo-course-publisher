@@ -24,5 +24,7 @@ layout: videogallery
 Video 8: Predictive Coding Today
 --------------------------------
 
+{{< youtube \_JGetImYLis >}}
+
 *   [BackVideo 7: The ROC Curve]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-7-the-roc-curve" %}})
 *   [ContinueAssignment 5]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/assignment-5/_index.md" %}})

@@ -17,4 +17,6 @@ A rope of mass \\(\\displaystyle m \\) hangs between two trees, making an angle 
 
 Calculate \\(\\displaystyle T\_{mid}\\), the tension in the rope at the midpoint. Express your answer in terms of \\(\\displaystyle m\\), \\(\\displaystyle g\\), and \\(\\displaystyle \\theta\\).
 
+{{< youtube 9NS0JcjNdp4 >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/12.5-worked-example-2-blocks-and-2-pulleys/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/13.2-differential-analysis-of-a-massive-rope" %}}) »

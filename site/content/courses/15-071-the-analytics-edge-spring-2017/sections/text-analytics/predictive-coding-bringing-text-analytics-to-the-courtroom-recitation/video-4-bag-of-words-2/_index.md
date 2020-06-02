@@ -24,5 +24,7 @@ layout: videogallery
 Video 4: Bag of Words
 ---------------------
 
+{{< youtube EQYlOQjzYOA >}}
+
 *   [BackVideo 3: Pre-Processing]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-3-pre-processing" %}})
 *   [ContinueVideo 5: Building Models]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-5-building-models" %}})

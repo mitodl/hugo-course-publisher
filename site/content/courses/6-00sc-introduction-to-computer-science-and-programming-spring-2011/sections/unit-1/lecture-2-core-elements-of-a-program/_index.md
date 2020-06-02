@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube SLvTCHhu5SE >}}
+
 > ### About this Video
 > 
 > Topics covered: IDLE, types of objects, operators, overloading, commands, variables, assignment, input, straight line and branching programs, looping constructs, Turing completeness, conditionals, nesting.
@@ -31,6 +33,8 @@ Session Activities
 > *   [Lecture code (PY)](https://open-learning-course-data-ci.s3.amazonaws.com/6-00sc-introduction-to-computer-science-and-programming-spring-2011/75648ea44a52fd47d463f349da3d4598_lec02.py)
 
 ### Recitation Videos
+
+*   {{< youtube 88fqFjfxgwI >}}
 
 > ### About this Video
 > 

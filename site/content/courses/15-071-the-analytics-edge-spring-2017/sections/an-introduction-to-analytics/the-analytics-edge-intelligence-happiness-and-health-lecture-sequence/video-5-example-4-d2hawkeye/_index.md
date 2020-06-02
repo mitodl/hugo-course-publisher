@@ -23,5 +23,7 @@ layout: videogallery
 Video 5: Example 4 - D2Hawkeye
 ------------------------------
 
+{{< youtube 08Ih9GGB5-c >}}
+
 *   [BackVideo 4: Example 3 - The Framingham Heart Study]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-4-example-3-the-framingham-heart-study" %}})
 *   [ContinueVideo 6: This Class]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-6-this-class" %}})

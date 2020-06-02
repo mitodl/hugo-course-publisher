@@ -23,5 +23,7 @@ layout: videogallery
 Video 5: Test Set Predictions
 -----------------------------
 
+{{< youtube mw0jJm\_3KXs >}}
+
 *   [BackVideo 4: Logistic Regression Models]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-4-logistic-regression-models" %}})
 *   [ContinueAssignment 3]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/assignment-3/_index.md" %}})

@@ -28,5 +28,7 @@ layout: videogallery
 Hall's Theorem
 --------------
 
+{{< youtube i5AWE-OoOsY >}}
+
 *   [BackBipartite Equivalence Relation]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/stable-matching/bipartite-equivalence-relation" %}})
 *   [ContinueBottleneck]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/stable-matching/bottleneck-3" %}})

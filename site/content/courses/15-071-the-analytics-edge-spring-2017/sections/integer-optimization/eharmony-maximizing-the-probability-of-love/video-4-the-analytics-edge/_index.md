@@ -22,5 +22,7 @@ layout: videogallery
 Video 4: The Analytics Edge
 ---------------------------
 
+{{< youtube bzxoBEh4is8 >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/eharmony-maximizing-the-probability-of-love/quick-question-711/_index.md" %}})
 *   [ContinueOperating Room Scheduling: Making Hospitals Run Smoothly (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/_index.md" %}})

@@ -21,6 +21,8 @@ Lecture Video: Polarization, Polarizer
 
 Prof. Lee discusses the concept of linearly, circularly and elliptical polarized waves. He focuses on the mathematical description of polarized waves. He also shows the way to produce polarized light using a polarizer in class.
 
+{{< youtube TjxR7lAwWhI >}}
+
 Lecture Notes
 -------------
 
@@ -40,8 +42,8 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Total Internal Reflection](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=M%202&show=0) | {{< br >}}{{< br >}} |
-| [Fiber Optic Bundle](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=M%204&show=0) | {{< br >}}{{< br >}} |
-| [Polarization of Microwaves](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=K%203&show=0) | {{< br >}}{{< br >}} 
+| [Total Internal Reflection](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=M%202&show=0) | {{< youtube TjxR7lAwWhI >}} |
+| [Fiber Optic Bundle](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=M%204&show=0) | {{< youtube TjxR7lAwWhI >}} |
+| [Polarization of Microwaves](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=K%203&show=0) | {{< youtube TjxR7lAwWhI >}} 
 
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/exam-2/_index.md" %}}) »

@@ -14,14 +14,24 @@ layout: videogallery
 Class Definition
 ----------------
 
+{{< youtube vqn\_yk5aFcI >}}
+
 Class Instance
 --------------
+
+{{< youtube 2\_\_KumJsGXc >}}
 
 Methods
 -------
 
+{{< youtube goalLDamePE >}}
+
 Method Call
 -----------
 
+{{< youtube \_ax4eNMI9Dw >}}
+
 Special Methods
 ---------------
+
+{{< youtube qq7I2MQNrtU >}}

@@ -26,9 +26,13 @@ Recitation Video
 
 ### Rules of Logs
 
+{{< youtube 9YgOmJdom6o >}}
+
 Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
+
+{{< youtube eHJuAByQf5A >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-17-the-exponential-function-its-derivative-and-its-inverse/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-19-an-interesting-limit-involving-e/_index.md" %}}) »

@@ -28,5 +28,7 @@ layout: videogallery
 Optimal Stable Matching
 -----------------------
 
+{{< youtube n4KKgKpp--0 >}}
+
 *   [BackMating Ritual]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/stable-matching/mating-ritual-0" %}})
 *   [ContinueBoy Optimal]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/stable-matching/boy-optimal" %}})

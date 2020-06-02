@@ -21,6 +21,8 @@ Lecture Video
 
 If you mix two compounds together will they react spontaneously? How do you know? Find out the key to spontaneity in this lecture. Also, what does Robert Frost’s poetry have to do with entropy, and how can you prepare toothpaste for an elephant? Find out.
 
+{{< youtube OjhZYx1FbhI >}}
+
 Lecture Notes
 -------------
 

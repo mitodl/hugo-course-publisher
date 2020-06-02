@@ -21,6 +21,8 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube R9a\_NHXrBcg >}}
+
 Recitation Video
 ----------------
 
@@ -30,5 +32,11 @@ Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
+
+{{< youtube R9a\_NHXrBcg >}}
+
+{{< youtube jBkXbAgMj6s >}}
+
+{{< youtube jBkXbAgMj6s >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-61-integrals-and-weighted-averages/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-63-numerical-integration/_index.md" %}}) »

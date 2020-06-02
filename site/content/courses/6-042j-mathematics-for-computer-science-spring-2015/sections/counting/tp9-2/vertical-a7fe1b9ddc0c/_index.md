@@ -20,5 +20,7 @@ layout: videogallery
 Binomial Theorem
 ----------------
 
+{{< youtube jwjDj4GoSV0 >}}
+
 *   [BackTwo Pair Poker Hands: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp9-2/vertical-cb7317c8f4ec" %}})
 *   [ContinueMultinomial Theorem: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp9-2/vertical-436d8f042056" %}})

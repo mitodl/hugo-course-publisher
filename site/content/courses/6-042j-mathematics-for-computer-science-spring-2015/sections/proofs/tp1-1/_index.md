@@ -20,5 +20,7 @@ layout: videogallery
 Welcome to 6.042
 ----------------
 
+{{< youtube wIq4CssPoO0 >}}
+
 *   [BackProofs]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/_index.md" %}})
 *   [ContinueIntro To Proofs: Part 1: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-1/intro-to-proofs-part-1-video" %}})

@@ -28,5 +28,7 @@ layout: videogallery
 Bipartite Matching
 ------------------
 
+{{< youtube HZLKDC9OSaQ >}}
+
 *   [BackBoy Optimal]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/stable-matching/boy-optimal" %}})
 *   [ContinueBipartite Equivalence Relation]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/stable-matching/bipartite-equivalence-relation" %}})

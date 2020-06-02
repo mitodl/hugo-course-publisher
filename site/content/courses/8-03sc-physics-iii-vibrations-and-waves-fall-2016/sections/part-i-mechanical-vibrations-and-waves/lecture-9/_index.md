@@ -21,6 +21,8 @@ Lecture Video: Wave Equation, Standing Waves, Fourier Series
 
 The standing wave solution of the wave equation is the focus this lecture. Using a vibrating string as an example, Prof. Lee demonstrates that a shape can be decomposed into many normal modes which could be used to describe the motion of the string.
 
+{{< youtube 1JeBWHzrRD4 >}}
+
 Lecture Notes
 -------------
 
@@ -54,8 +56,8 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} |
-| [Rijke Tube](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2065&show=0) | {{< br >}}{{< br >}} 
+| [Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | {{< youtube 1JeBWHzrRD4 >}} and {{< youtube 1JeBWHzrRD4 >}} |
+| [Rijke Tube](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2065&show=0) | {{< youtube 1JeBWHzrRD4 >}} 
 
 Related Resources
 -----------------

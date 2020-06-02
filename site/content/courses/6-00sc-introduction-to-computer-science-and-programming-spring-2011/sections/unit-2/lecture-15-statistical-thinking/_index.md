@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube VqZBqoZgL7k >}}
+
 > ### About this Video
 > 
 > Topics covered: Variance, standard deviation, standard error.
@@ -31,6 +33,8 @@ Session Activities
 > *   [Lecture code (PY)](https://open-learning-course-data-ci.s3.amazonaws.com/6-00sc-introduction-to-computer-science-and-programming-spring-2011/05fb26590ec9b19506a0f290a669b8ab_lec15.py)
 
 ### Recitation Videos
+
+*   {{< youtube yVkt3Px4KHA >}}
 
 > ### About this Video
 > 

@@ -21,10 +21,16 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube 1RLctDS2hUQ >}}
+
+{{< youtube 1RLctDS2hUQ >}}
+
 Recitation Video
 ----------------
 
 ### Definite Integral by Substitution
+
+{{< youtube C9luv3o6emw >}}
 
 Worked Example
 --------------
@@ -38,5 +44,7 @@ Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
+
+{{< youtube 1RLctDS2hUQ >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-48-the-fundamental-theorem-of-calculus/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-50-combining-the-fundamental-theorem-and-the-mean-value-theorem/_index.md" %}}) »

@@ -17,4 +17,6 @@ A pulley of mass \\(\\displaystyle m\_ p\\), radius \\(\\displaystyle R\\), and 
 
 Find the direction and magnitude of the acceleration of the block 1 hanging over the edge of the table. The positive direction is chosen to be downward.
 
+{{< youtube IWD-Aue6aIk >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/31.7-worked-example-two-blocks-and-a-pulley-using-energy" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/problem-set-10" %}}) »

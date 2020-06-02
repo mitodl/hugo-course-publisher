@@ -28,6 +28,8 @@ layout: videogallery
 Video 1: Predictive Policing
 ----------------------------
 
+{{< youtube vhkBbC9qp1M >}}
+
 The slides from all videos in this lecture can be downloaded here: [Predictive Policing (PDF)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/MIT15_071S17_Unit7_Crime" %}}).
 
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-531" %}})

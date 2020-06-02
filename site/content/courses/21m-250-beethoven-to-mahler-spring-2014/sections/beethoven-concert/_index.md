@@ -19,6 +19,8 @@ This concert took place as part of the [Handel & Haydn partnership with MIT](htt
 
 Violinist Susanna Ogata and English keyboardist Ian Watson are period-instrument specialists. Here, they demonstrate sonatas of Beethoven from a time of crisis and renewal (1801–1803) on fortepiano, a historic instrument that preceded the modern piano and sounds quite different, and period violin.
 
+{{< youtube 97Hk\_vH2qw0 >}}
+
 ### **Program**
 
 Sonata for Fortepiano and Violin No. 4 in A minor, Op. 23 (1801)

@@ -29,6 +29,8 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Lecture Videos
 
+*   {{< youtube f8Kn9GkR514 >}}
+
 ### Resources
 
 *   [Graphs and Figures (PDF)]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics/uncertainty/MIT14_01SCF11_graph20" %}})

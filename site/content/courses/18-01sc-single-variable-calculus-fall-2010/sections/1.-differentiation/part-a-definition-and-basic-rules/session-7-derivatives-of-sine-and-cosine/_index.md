@@ -21,10 +21,16 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube kCPVBl953eY >}}
+
+{{< youtube kCPVBl953eY >}}
+
 Recitation Video
 ----------------
 
 ### Derivatives of Sine and Cosine
+
+{{< youtube Bb-bgJdOqig >}}
 
 Worked Example
 --------------

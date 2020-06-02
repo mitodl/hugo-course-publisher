@@ -26,5 +26,7 @@ layout: videogallery
 Video 4: How Watson Works - Steps 1 and 2
 -----------------------------------------
 
+{{< youtube \_L315IjxyUM >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/quick-question-415" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/quick-question-420" %}})

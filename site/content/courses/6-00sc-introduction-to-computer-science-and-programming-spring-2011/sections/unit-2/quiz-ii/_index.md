@@ -27,7 +27,9 @@ Use the practice quiz as an opportunity to think through the problems and identi
 
 The video below was recorded during a review session held by a Teaching Assistant. Students were able to ask any questions they had after studying and attempting the practice quiz.
 
-*   > _About this Video_
+*   {{< youtube AKDkrI6BCcw >}}
+    
+    > _About this Video_
     > 
     > Topics covered: Practice quiz 2 solutions, distributions, coefficient of variation, unit testing, hashing, function parameters, probability, double under bar methods, binary search vs. bisection search, amortized analysis, complexity, merge sort, lambda functions, polymorphism vs. inheritance, catching exceptions, Monte Carlo definition, confidence interval.
     

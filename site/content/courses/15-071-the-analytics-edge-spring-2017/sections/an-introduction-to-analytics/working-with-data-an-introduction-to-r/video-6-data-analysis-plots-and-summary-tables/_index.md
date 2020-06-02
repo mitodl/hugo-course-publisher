@@ -29,6 +29,8 @@ layout: videogallery
 Video 6: Data Analysis - Plots and Summary Tables
 -------------------------------------------------
 
+{{< youtube FYXIRXnQ8Fc >}}
+
 In the above video, we state that the outliers in a boxplot are computed as any points greater than the third quartile plus the inter-quartile range (IQR), or any points less than the first quartile minus the inter-quartile range (IQR). They are actually computed as any points greater than the third quartile plus 1.5\*IQR, or less than the first quartile minus 1.5\*IQR. 
 
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question-28" %}})

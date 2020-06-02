@@ -24,5 +24,7 @@ layout: videogallery
 Asymptotic Blunders: Video
 --------------------------
 
+{{< youtube Y9Blo\_G-Mvg >}}
+
 *   [BackTheta]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/theta" %}})
 *   [ContinueAsymptotics the Right Way]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/vertical-9df50ab7aa43" %}})

@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube bX3jvD7XFPs >}}
+
 > ### About this Video
 > 
 > Topics covered: Purposes of the course, declarative and imperative knowledge, flow of control, algorithms, fixed program and stored program computers, termination conditions, interpretation, compilation, syntax, static semantics, semantics, and types of errors.

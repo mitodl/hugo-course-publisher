@@ -29,6 +29,8 @@ layout: videogallery
     
     CheckShow Answer Videos
     
+    {{< youtube w4uxYDPsjbw >}}
+    
   
 3.  ### Comparisons
     
@@ -50,6 +52,8 @@ layout: videogallery
     
     CheckShow Answer Videos
     
+    {{< youtube lniF6ys2CIk >}}
+    
   
 5.  ### Branching
     
@@ -69,6 +73,8 @@ layout: videogallery
     
     CheckShow Answer Videos
     
+    {{< youtube jjbWNcIjmzc >}}
+    
   
 7.  ### While Loops
     
@@ -85,6 +91,8 @@ layout: videogallery
     &nbsp;You got out of the Lost Forest!&nbsp;
     
     CheckShow Answer Videos
+    
+    {{< youtube P-0w8xWcnDQ >}}
     
   
 9.  ### For Loops
@@ -106,3 +114,5 @@ layout: videogallery
     &nbsp;24&nbsp;
     
     CheckShow Answer Videos
+    
+    {{< youtube mrvBnZIEsZY >}}

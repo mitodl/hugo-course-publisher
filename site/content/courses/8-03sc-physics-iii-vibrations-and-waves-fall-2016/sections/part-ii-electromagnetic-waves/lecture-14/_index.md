@@ -21,6 +21,8 @@ Lecture Video: Fourier Transform, AM Radio
 
 Prof. Lee discusses the big challenge of communication using dispersive medium. He introduces the possible solution: AM radio, which was one of the greatest achievements in radio broadcasting technology.
 
+{{< youtube VGAlyJ7e0IQ >}}
+
 Lecture Notes
 -------------
 

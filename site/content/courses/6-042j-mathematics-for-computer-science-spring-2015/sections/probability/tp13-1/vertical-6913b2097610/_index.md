@@ -28,5 +28,7 @@ layout: videogallery
 Total Expectation
 -----------------
 
+{{< youtube mqoDXWrSais >}}
+
 *   [BackExpected Number of Heads]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-1/vertical-932dca21218a" %}})
 *   [ContinueAnother Dice and Coin Game]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-1/vertical-3506cf32b49b" %}})

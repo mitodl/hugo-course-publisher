@@ -25,6 +25,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube xrypSZU8cBE >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/ec4a06f77bb71a2f095593c16c69d50c_MIT18_02SC_L19Brds_5a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/66dc2988e907e02a37161500ecc86a74_MIT18_02SC_L19Brds_5.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/6e8b5ff26d1dfcabc2926dbaf87347d5_MIT18_02SC_L19Brds_6a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/47ab25c4a0e2b34d0e2ae98e41b8a0a4_MIT18_02SC_L19Brds_6.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/774e839b5a51a8777f99c8316fbd715d_MIT18_02SC_L19Brds_7a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/1fca2a271630a0bf143dd8253912c21c_MIT18_02SC_L19Brds_7.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/10036f96b3a8eedac5aa295d7f4b11d6_MIT18_02SC_L19Brds_8a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/38be4b23dda603461ac4cc4fde76c004_MIT18_02SC_L19Brds_8.png "Open in a new window.")  
@@ -40,7 +42,11 @@ Recitation Video
 
 ### Line Integrals: Path dependence
 
+{{< youtube gBuIwfdoOn0 >}}
+
 ### Line Integrals: Parametrization Independence
+
+{{< youtube tkAgpKg-tPs >}}
 
 Problems and Solutions
 ----------------------

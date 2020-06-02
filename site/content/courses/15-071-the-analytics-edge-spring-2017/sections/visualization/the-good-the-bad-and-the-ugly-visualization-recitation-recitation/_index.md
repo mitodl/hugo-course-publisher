@@ -23,5 +23,7 @@ layout: videogallery
 Welcome to Recitation 7
 -----------------------
 
+{{< youtube 1r6cLE2BoTA >}}
+
 *   [BackVideo 7: The Analytics Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/video-7-the-analytics-edge" %}})
 *   [ContinueVideo 1: Introduction]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-1-introduction" %}})

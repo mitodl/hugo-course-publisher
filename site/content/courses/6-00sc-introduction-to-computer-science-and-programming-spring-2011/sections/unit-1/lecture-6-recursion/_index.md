@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube WbWb0u8bJrU >}}
+
 > ### About this Video
 > 
 > Topics covered: Dictionaries, modular abstraction, divide and conquer, recursion, tower of Hanoi, base case, Fibonacci sequence.
@@ -31,6 +33,8 @@ Session Activities
 > *   [Lecture code (PY)](https://open-learning-course-data-ci.s3.amazonaws.com/6-00sc-introduction-to-computer-science-and-programming-spring-2011/47eb608478d8fb1ed999357c3b2fec8c_lec06.py)
 
 ### Recitation Videos
+
+*   {{< youtube Fixc8hVo\_cY >}}
 
 > ### About this Video
 > 

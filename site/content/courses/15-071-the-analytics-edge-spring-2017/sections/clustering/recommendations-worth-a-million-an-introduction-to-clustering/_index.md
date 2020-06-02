@@ -30,6 +30,8 @@ layout: videogallery
 Video 1: Introduction to Netflix
 --------------------------------
 
+{{< youtube WTuwV-rWxUc >}}
+
 The slides from all videos in this Lecture Sequence can be downloaded here: [Introduction to Clustering (PDF - 1.3MB)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/recommendations-worth-a-million-an-introduction-to-clustering/MIT15_071S17_Unit6_Netflix" %}}).
 
 *   [BackWelcome to Unit 6]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/welcome-to-unit-6" %}})

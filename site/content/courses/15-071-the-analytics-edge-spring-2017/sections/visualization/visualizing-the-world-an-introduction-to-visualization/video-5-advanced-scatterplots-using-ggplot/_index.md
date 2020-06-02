@@ -25,5 +25,7 @@ layout: videogallery
 Video 5: Advanced Scatterplots Using ggplot
 -------------------------------------------
 
+{{< youtube pj\_Ro7sFpUE >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-526" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-531" %}})

@@ -25,4 +25,6 @@ where \\(\\displaystyle c \\) is a positive constants in SI units, and \\(\\disp
 
 **(Part d)**. What is \\(\\displaystyle x(t) \\), the position of the car as a function of time during the time interval \\(\\displaystyle t\_1 \\lt t \\leq t\_2 \\)?
 
+{{< youtube pb5hUGBjS3A >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.2-shooting-the-apple/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.4-sketch-the-motion/_index.md" %}}) »

@@ -33,6 +33,8 @@ In this video, we'll be solving our optimization problem using the spreadsheet A
 
 If you are using LibreOffice or OpenOffice, the functions and solver will look very similar to what you see in this video. **If you are using Microsoft Excel, please see the helpful tips below this video.**
 
+{{< youtube wQvjFfMvXrk >}}
+
 Helpful Tips for Excel
 ----------------------
 

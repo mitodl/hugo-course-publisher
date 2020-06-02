@@ -25,6 +25,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube \_CdoRiNSrqI >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/45bd48545dfe6db98953472b0e9c2f9f_MIT18_02SC_L23Brds_12a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/c98e5d8b17b38994a1c20902872a5a0a_MIT18_02SC_L23Brds_12.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/0a799f6423b4d46a778698719b23ddf9_MIT18_02SC_L23Brds_13a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/4f4d8dff92ebb07e4f09ac39367d2f5f_MIT18_02SC_L23Brds_13.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/d1aa692762b3bb5014d15b77d5e5ae23_MIT18_02SC_L23Brds_14a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/cad2108085eb090cbc38fcea68919ec0_MIT18_02SC_L23Brds_14.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/06570c0d01aa05b735b30b334196d695_MIT18_02SC_L23Brds_15a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/e12fc69499c0c5ae2e680dcf1830d074_MIT18_02SC_L23Brds_15.png "Open in a new window.")  
@@ -39,6 +41,8 @@ Recitation Video
 ----------------
 
 ### Green's Theorem in Normal Form
+
+{{< youtube 1ye7dm9aUj0 >}}
 
 Examples
 --------

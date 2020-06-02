@@ -38,5 +38,7 @@ This data comes from the [DE-SynPUF dataset](http://www.cms.gov/Research-Statist
 
 An R script file with all of the R commands used in this lecture can be downloaded here: [Unit4\_D2Hawkeye (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/38db138e560092bd669a8916a3b8b4d7_Unit4_D2Hawkeye.R)
 
+{{< youtube ag4Qe2uheP0 >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/quick-question-337" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/quick-question-342" %}})

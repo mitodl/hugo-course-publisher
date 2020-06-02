@@ -19,4 +19,6 @@ Blocks 1 and 2 lie on a frictionless surface and are connected by three massless
 
 **(Part b)** Draw free-body diagrams for the right and the left pulley.
 
+{{< youtube 3V5y9uq5au0 >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/12.4-pulley-problem-part-iv-solving-the-system-of-equations" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/13.1-rope-hanging-between-trees/_index.md" %}}) »

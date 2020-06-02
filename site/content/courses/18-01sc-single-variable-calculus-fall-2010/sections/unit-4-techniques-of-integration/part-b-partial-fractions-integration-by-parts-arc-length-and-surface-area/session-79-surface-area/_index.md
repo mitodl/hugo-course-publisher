@@ -21,10 +21,16 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube TpWQlKHPyJ4 >}}
+
+{{< youtube TpWQlKHPyJ4 >}}
+
 Recitation Video
 ----------------
 
 ### Surface Area of a Torus
+
+{{< youtube tMVwXglUp60 >}}
 
 Worked Example
 --------------

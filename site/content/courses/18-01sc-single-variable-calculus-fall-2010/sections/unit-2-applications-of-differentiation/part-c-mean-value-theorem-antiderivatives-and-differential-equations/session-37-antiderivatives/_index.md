@@ -21,15 +21,23 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube -MI0b4h3rS0 >}}
+
+{{< youtube -MI0b4h3rS0 >}}
+
 Recitation Video
 ----------------
 
 ### Computing Antiderivatives
 
+{{< youtube v90JNWCTupk >}}
+
 Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
+
+{{< youtube -MI0b4h3rS0 >}}
 
 Worked Example
 --------------
@@ -43,5 +51,7 @@ Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
+
+{{< youtube -MI0b4h3rS0 >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-38-integration-by-substitution/_index.md" %}}) »

@@ -25,6 +25,8 @@ layout: videogallery
 Video 1: The Power of Visualizations
 ------------------------------------
 
+{{< youtube cYGYTNZTP7M >}}
+
 The slides from all videos in this lecture can be downloaded here: [An Introduction to Visualization (PDF)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/MIT15_071S17_Unit7_WHO" %}}).
 
 *   [BackWelcome to Unit 7]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/welcome-to-unit-7" %}})

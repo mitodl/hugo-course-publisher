@@ -26,6 +26,8 @@ layout: videogallery
 Video 1: The Framingham Heart Study
 -----------------------------------
 
+{{< youtube O7AoQhYEdLA >}}
+
 The slides from all videos in this Lecture Sequence can be downloaded here: [Evaluating Risk Factors to Save Lives (PDF)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/MIT15_071S17_Unit3_Framingham" %}}).
 
 *   [BackVideo 8: The Analytics Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-8-the-analytics-edge" %}})

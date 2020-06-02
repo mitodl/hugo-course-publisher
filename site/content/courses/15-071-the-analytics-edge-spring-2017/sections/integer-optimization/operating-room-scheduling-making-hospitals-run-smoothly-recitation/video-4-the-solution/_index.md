@@ -20,5 +20,7 @@ layout: videogallery
 Video 4: The Solution
 ---------------------
 
+{{< youtube lkrsGRNsoEU >}}
+
 *   [BackVideo 3: Solving the Problem]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-3-solving-the-problem-5/_index.md" %}})
 *   [ContinueAssignment 9]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/assignment-9/_index.md" %}})

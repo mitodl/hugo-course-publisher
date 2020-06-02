@@ -15,7 +15,7 @@ Video Introduction by Prof. Deepto Chakrabarty and Dr. Peter Dourmashkin
 
 ### Classical Mechanics Course Introduction
 
- 
+{{< youtube F3N5EkMX\_ks >}} 
 
 Course Meeting Times
 --------------------

@@ -23,5 +23,7 @@ layout: videogallery
 Simplified Monty Hall Tree
 --------------------------
 
+{{< youtube L30HPgryd6I >}}
+
 *   [BackSocks and Shoes]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-dcc88d262213/_index.md" %}})
 *   [ContinueSimplify Prize Tree]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-9542d6e9bbc8" %}})

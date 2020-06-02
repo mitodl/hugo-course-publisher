@@ -28,5 +28,7 @@ layout: videogallery
 Mating Ritual
 -------------
 
+{{< youtube 6vgHIImFwHo >}}
+
 *   [BackStable Matching]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/stable-matching/_index.md" %}})
 *   [ContinueDerived Variables]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/stable-matching/derived-variables-0" %}})

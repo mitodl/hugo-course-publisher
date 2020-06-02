@@ -17,4 +17,6 @@ A particle of mass \\(\\displaystyle m \\) is moving along the +\\(\\displaystyl
 
 **(Part 1)** What are the units of the constant \\(\\displaystyle b \\)? Enter m for meters, s for seconds and kg for kilograms. Make a sketch of what you think the trajectory of the particle is as it moves through the plates. Draw a coordinate system showing the position of the particle at time \\(\\displaystyle t \\). Clearly indicate your origin, choice of axis, and draw in the coordinate functions for the position of the particle at time \\(\\displaystyle t \\)?
 
+{{< youtube ZjGjNsmsNBU >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.3-worked-example-braking-car/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/ps.1.5-worked-example-pedestrian-and-bike-at-intersection" %}}) »

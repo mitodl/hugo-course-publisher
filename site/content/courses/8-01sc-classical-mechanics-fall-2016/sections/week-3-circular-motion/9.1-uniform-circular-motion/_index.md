@@ -17,4 +17,6 @@ The tangential component of the acceleration is zero.
 
 The magnitude of the radial acceleration can be written as \\(|a\_r|=\\frac{v^2}{r}=r \\omega^2=r(2 \\pi f)^2=\\frac{4 \\pi^2 r}{T^2}\\).
 
+{{< youtube emrHcqEvXpw >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/8.3-angular-velocity" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/9.2-uniform-circular-motion-direction-of-the-acceleration" %}}) »

@@ -29,5 +29,7 @@ layout: videogallery
 Video 8: Conclusion
 -------------------
 
+{{< youtube eUZHMoJ1EJE >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/quick-question-395" %}})
 *   [ContinueMan vs. Machine: How IBM Built a Jeopardy Champion]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/_index.md" %}})

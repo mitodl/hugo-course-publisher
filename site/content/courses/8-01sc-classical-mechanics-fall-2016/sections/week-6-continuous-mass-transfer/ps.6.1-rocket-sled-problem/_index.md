@@ -24,10 +24,16 @@ A rocket sled can eject gas backwards or forwards at a speed \\(\\displaystyle u
 Rocket Sled - Differential Equation
 -----------------------------------
 
+{{< youtube dvWKCH0ocu8 >}}
+
 Rocket Sled - Integrate the Rocket Equation
 -------------------------------------------
 
+{{< youtube 7Kq8BINVDiw >}}
+
 Rocket Sled - Solve for Initial Velocity
 ----------------------------------------
+
+{{< youtube bHocXJ4rv5g >}}
 
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/19.7-rocket-problem-7-solution-with-external-forces" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/ps.6.2-snowplow-problem/_index.md" %}}) »

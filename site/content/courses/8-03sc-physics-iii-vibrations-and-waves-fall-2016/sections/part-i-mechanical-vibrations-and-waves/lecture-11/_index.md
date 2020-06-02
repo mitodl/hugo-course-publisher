@@ -21,6 +21,8 @@ Lecture Video: Sound Waves
 
 Sound wave, a longitudinal wave, is discussed in this lecture. Prof. Lee calculates the speed of sound using two extreme cases: (1) constant temperature (2) adiabatic process. He also measures the speed of sound using an in-class demo.
 
+{{< youtube RhIh1zw0-BM >}}
+
 Lecture Notes
 -------------
 
@@ -52,8 +54,8 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Standing Sound Waves in a Glass Tube](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2052&show=0) | {{< br >}}{{< br >}} |
-| [Helium Balloon](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2048&show=0) | {{< br >}}{{< br >}} 
+| [Standing Sound Waves in a Glass Tube](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2052&show=0) | {{< youtube RhIh1zw0-BM >}} |
+| [Helium Balloon](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2048&show=0) | {{< youtube RhIh1zw0-BM >}} 
 
 Related Resources
 -----------------

@@ -23,5 +23,7 @@ layout: videogallery
 Video 6: This Class
 -------------------
 
+{{< youtube QDzTeo6n0Q8 >}}
+
 *   [BackVideo 5: Example 4 - D2Hawkeye]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-5-example-4-d2hawkeye" %}})
 *   [ContinueWorking with Data: An Introduction to R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/_index.md" %}})

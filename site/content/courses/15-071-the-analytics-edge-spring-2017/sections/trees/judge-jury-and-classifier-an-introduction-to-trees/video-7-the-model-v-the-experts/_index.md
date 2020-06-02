@@ -28,5 +28,7 @@ layout: videogallery
 Video 7: The Model v. The Experts
 ---------------------------------
 
+{{< youtube YaEufT\_7EbU >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/quick-question-306" %}})
 *   [ContinueKeeping an Eye on Healthcare Costs: The D2Hawkeye Story]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/_index.md" %}})

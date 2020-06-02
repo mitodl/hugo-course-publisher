@@ -28,7 +28,17 @@ This session could be called: Making People Care 101. We'll cover what makes for
 Part 1: Writing Workshop
 ------------------------
 
+{{< youtube AjK2zF9yN0k >}}
+
 ### Video chapters
+
+*   {{< youtube AjK2zF9yN0k >}}
+*   {{< youtube AjK2zF9yN0k >}}
+*   {{< youtube AjK2zF9yN0k >}}
+*   {{< youtube AjK2zF9yN0k >}}
+*   {{< youtube AjK2zF9yN0k >}}
+*   {{< youtube AjK2zF9yN0k >}}
+*   {{< youtube AjK2zF9yN0k >}}
 
 ### In-class Media
 
@@ -36,6 +46,8 @@ Part 1: Writing Workshop
 
 Part 2: Hosting Workshop
 ------------------------
+
+{{< youtube 6lUGb3VIPmY >}}
 
 Assignments
 -----------

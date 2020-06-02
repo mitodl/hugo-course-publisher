@@ -14,8 +14,14 @@ layout: videogallery
 Black Box and Glass Box Testing
 -------------------------------
 
+{{< youtube 5McjE8e5gIg >}}
+
 Errors
 ------
 
+{{< youtube -wz4iU2V-Yo >}}
+
 Exceptions
 ----------
+
+{{< youtube 0Whyfs88TYE >}}

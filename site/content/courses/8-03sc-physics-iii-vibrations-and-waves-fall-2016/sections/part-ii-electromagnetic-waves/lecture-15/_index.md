@@ -21,6 +21,8 @@ Lecture Video: Uncertainty Principle, 2D Waves
 
 The uncertainty principle is introduced in this lecture. Prof. Lee shows that the wave description of the system leads to the uncertainty principle. He also starts the discussion of the 2D waves in the end of the lecture.
 
+{{< youtube In0E5\_JrPpo >}}
+
 Lecture Notes
 -------------
 
@@ -48,7 +50,7 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Chladni Figures (Speaker Driven)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2038&show=0) | {{< br >}}{{< br >}} 
+| [Chladni Figures (Speaker Driven)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2038&show=0) | {{< youtube In0E5\_JrPpo >}} 
 
 Related Resources
 -----------------

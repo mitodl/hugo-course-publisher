@@ -104,12 +104,16 @@ Seems kind of odd that I won't be working on the video as much this weekend. I'l
 Day 6 Vlog
 ----------
 
+{{< youtube 7wgEJBFx8Qk >}}
+
 This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
 [\_Link back to Day 6\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours/_index.md" %}}#Instructor_and_Student_Work)
 
 Day 7
 -----
+
+{{< youtube zIkFlvzJLNY >}}
 
 This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 

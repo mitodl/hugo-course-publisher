@@ -21,6 +21,8 @@ Lecture Video: Diffraction, Resolution
 
 The phenomena related to diffraction are the focus of the lecture. Prof. Lee explains the mathematical description of the diffraction pattern of the wave traveling through a wide slit.
 
+{{< youtube FY6iXM9X5Fo >}}
+
 Lecture Notes
 -------------
 
@@ -44,7 +46,7 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Single-Slit Diffraction with a Laser](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%202&show=0) | {{< br >}}{{< br >}} 
+| [Single-Slit Diffraction with a Laser](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%202&show=0) | {{< youtube FY6iXM9X5Fo >}} 
 
 Related Resources
 -----------------

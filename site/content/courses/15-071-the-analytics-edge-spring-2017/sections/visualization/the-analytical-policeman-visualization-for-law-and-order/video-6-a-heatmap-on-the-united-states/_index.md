@@ -30,5 +30,7 @@ Video 6: A Heatmap on the United States
 
 In this video, we'll be using the dataset [murders (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/36129924d80acf17557ee219a6c3c79c_murders.csv). This data is provided by the U.S. Census Bureau and the FBI, and is decribed [in this Wikipedia entry about gun violence in the U.S. by state.](http://en.wikipedia.org/wiki/Gun_violence_in_the_United_States_by_state). 
 
+{{< youtube 8hBr-bpykso >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-567" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-575" %}})

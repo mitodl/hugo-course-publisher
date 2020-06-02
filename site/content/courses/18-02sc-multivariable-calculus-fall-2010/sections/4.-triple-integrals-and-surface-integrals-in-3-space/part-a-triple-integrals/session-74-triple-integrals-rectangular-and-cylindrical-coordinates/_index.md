@@ -26,6 +26,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube 44R5HgbrUmc >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/c3795878b4c467595b41bda96ce73ddb_MIT18_02SC_L25Brds_1a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/c359812749037cc1b5e868b5edfc577c_MIT18_02SC_L25Brds_1.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/b65ea323427afc4ad13945a492101463_MIT18_02SC_L25Brds_2a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/863096aebe795b6100e27799972abf75_MIT18_02SC_L25Brds_2.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/daa4c877b347e41110a2e6b9bab2ca3f_MIT18_02SC_L25Brds_3a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/2d234648e860476f257daaf08ebb06e6_MIT18_02SC_L25Brds_3.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/4b5953c8829e0aa373497231b630c8c0_MIT18_02SC_L25Brds_4a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/5f8962844dc18bea084a6c57411a6b60_MIT18_02SC_L25Brds_4.png "Open in a new window.")  
@@ -41,6 +43,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube 44R5HgbrUmc >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/0526a77d911d8c37cb31c44fc58770be_MIT18_02SC_L25Brds_7a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/9f1f64ec866c281bfcb6c41064181e26_MIT18_02SC_L25Brds_7.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/f156a9c29c9866f373c4d0ff3910652f_MIT18_02SC_L25Brds_8a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/3f4f3dbc2b44726adacf658f01e9ed51_MIT18_02SC_L25Brds_8.png "Open in a new window.")
@@ -49,6 +53,8 @@ Recitation Video
 ----------------
 
 ### Volume in Cylindrical Coordinates
+
+{{< youtube qA83eznsKp8 >}}
 
 Examples
 --------

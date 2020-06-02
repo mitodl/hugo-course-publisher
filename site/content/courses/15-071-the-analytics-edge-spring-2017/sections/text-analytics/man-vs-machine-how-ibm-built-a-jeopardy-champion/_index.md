@@ -26,6 +26,8 @@ layout: videogallery
 Video 1: IBM Watson
 -------------------
 
+{{< youtube Mge-sj1UVFM >}}
+
 The slides from all videos in this Lecture Sequence can be downloaded here: [How IBM Built a Jeopardy Champion (PDF - 1.1MB)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/MIT15_071S17_Unit5_Watson" %}}).
 
 *   [BackVideo 8: Conclusion]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-8-conclusion" %}})

@@ -37,6 +37,8 @@ Exercise 2
 
 CheckShow Answer Videos
 
+{{< youtube 5McjE8e5gIg >}}
+
   
   
 6.  ### Errors
@@ -58,6 +60,8 @@ CheckShow Answer Videos
     &nbsp;You are not allowed to print the loop variable i&nbsp;
     
     CheckShow Answer Videos
+    
+    {{< youtube -wz4iU2V-Yo >}}
     
   
 8.  ### Exceptions
@@ -82,3 +86,5 @@ Exercise 5
 &nbsp;prints "Division by zero."&nbsp;
 
 CheckShow Answer Videos
+
+{{< youtube 0Whyfs88TYE >}}

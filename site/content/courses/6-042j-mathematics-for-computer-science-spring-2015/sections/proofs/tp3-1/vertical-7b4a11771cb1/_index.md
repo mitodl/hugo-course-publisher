@@ -23,5 +23,7 @@ layout: videogallery
 Predicate Logic 2
 -----------------
 
+{{< youtube T1AtlGrCoU8 >}}
+
 *   [BackQuantifiers & Predicate Logic]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-1/_index.md" %}})
 *   [ContinueSatisfiability]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-1/vertical-071a48267f00" %}})

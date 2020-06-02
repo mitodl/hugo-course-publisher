@@ -21,6 +21,8 @@ Lecture Video: Maxwell's Equation, Electromagnetic Waves
 
 Prof. Lee shows the Electromagnetic wave equation can be derived by using Maxwell’s Equation. The exciting realization is that the speed of the EM wave matches with the speed of light. He also shows the progressing EM waves can be reflected by a perfect conductor.
 
+{{< youtube 8kcvyoHsXrw >}}
+
 Lecture Notes
 -------------
 

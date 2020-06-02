@@ -21,6 +21,8 @@ Lecture Video
 
 Crystal field theory was developed to explain the special features of transition metal complexes, including their beautiful colors and their magnetic properties. In part I of this topic, we consider d-block coordination complexes that have octahedral geometry, and see whether we can change the color of a paper flower dipped in an octahedral cobalt chloride complex just by adding water.
 
+{{< youtube lLdPSLNxDqA >}}
+
 Lecture Notes
 -------------
 

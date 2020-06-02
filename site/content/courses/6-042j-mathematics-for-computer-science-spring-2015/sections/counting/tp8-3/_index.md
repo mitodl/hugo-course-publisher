@@ -24,5 +24,7 @@ layout: videogallery
 Asymptotic Notation
 -------------------
 
+{{< youtube CWkh5kb4TGc >}}
+
 *   [BackSum's Upper Lower Bounds]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-2/vertical-9f131aae203e" %}})
 *   [ContinueAsymptotics as Relations]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/vertical-3800c4b1c397" %}})

@@ -23,5 +23,7 @@ layout: videogallery
 Video 2: Example 1 - IBM Watson
 -------------------------------
 
+{{< youtube Vd6yR63nfHY >}}
+
 *   [BackThe Analytics Edge: Intelligence, Happiness, and Health (Lecture Sequence)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/_index.md" %}})
 *   [ContinueVideo 3: Example 2 - eHarmony]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-3-example-2-eharmony" %}})

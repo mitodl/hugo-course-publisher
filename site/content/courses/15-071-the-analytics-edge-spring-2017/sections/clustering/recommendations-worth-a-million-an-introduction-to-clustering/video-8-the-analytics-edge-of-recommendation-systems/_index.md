@@ -30,5 +30,7 @@ layout: videogallery
 Video 8: The Analytics Edge of Recommendation Systems
 -----------------------------------------------------
 
+{{< youtube sJalJ1A9NDg >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/recommendations-worth-a-million-an-introduction-to-clustering/quick-question-476" %}})
 *   [ContinuePredictive Diagnosis: Discovering Patterns for Disease Detection]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/_index.md" %}})

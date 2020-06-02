@@ -34,4 +34,6 @@ In the video below, a teaching assistant demonstrates his approach to the soluti
 
 *   Problem 2a-b Solution Video
 
+### {{< youtube FWkzErtrlIw >}}
+
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics/uncertainty/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics/capital-supply-and-markets-i/_index.md" %}}) »

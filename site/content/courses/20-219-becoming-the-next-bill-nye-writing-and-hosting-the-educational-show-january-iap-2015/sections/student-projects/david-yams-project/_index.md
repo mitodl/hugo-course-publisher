@@ -59,6 +59,8 @@ Whilst Iceman has honed the ability to do just about everything in winter wearin
 Day 3 Pitch
 -----------
 
+{{< youtube q4524Q4xnqA >}}
+
 This video is courtesy of [David Yam](https://www.youtube.com/channel/UCgSZYDkQ8_cF8Nwb-dNVvxA) on YouTube and is provided under our Creative Commons license.
 
 [\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor_and_Student_Work)
@@ -166,6 +168,8 @@ David's rough cut is not available.
 
 Final Project
 -------------
+
+{{< youtube aFwEKt4rD9w >}}
 
 This video is courtesy of [David Yam](https://www.youtube.com/channel/UCgSZYDkQ8_cF8Nwb-dNVvxA) on YouTube and is provided under our Creative Commons license.
 

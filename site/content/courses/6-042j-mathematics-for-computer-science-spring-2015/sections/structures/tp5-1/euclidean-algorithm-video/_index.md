@@ -25,5 +25,7 @@ layout: videogallery
 Euclidean Algorithm
 -------------------
 
+{{< youtube dW0f62lcCLE >}}
+
 *   [Back GCDs]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-1/_index.md" %}})
 *   [ContinueRun Euclid Run]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-1/vertical-b30047e37cc7" %}})

@@ -21,6 +21,8 @@ Lecture Video: Review for Final Exam
 
 This class session is devoted to a review of the entire course in anticipation of the final exam.
 
+{{< youtube jwh7LqjT4w0 >}}
+
 Lecture Notes
 -------------
 

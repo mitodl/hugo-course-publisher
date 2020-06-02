@@ -24,6 +24,8 @@ Unified Engineering is the sophomore-level engineering course taken by every und
 
 ### Course Introduction to by Professor Waitz
 
+{{< youtube 7mOpiYDCX08 >}}
+
 Logistics
 ---------
 

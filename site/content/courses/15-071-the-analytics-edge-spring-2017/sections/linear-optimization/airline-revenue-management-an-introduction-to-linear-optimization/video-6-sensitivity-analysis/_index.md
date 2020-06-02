@@ -29,5 +29,7 @@ layout: videogallery
 Video 6: Sensitivity Analysis
 -----------------------------
 
+{{< youtube aDdkt8rRWGs >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/quick-question-606" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/quick-question-614" %}})

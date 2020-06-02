@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube miw2CiKp1r0 >}}
+
 > ### About this Video
 > 
 > Topics covered: Knapsack problem, local and global optima, supervised and unsupervised machine learning, training error, clustering, linkage, feature vectors.

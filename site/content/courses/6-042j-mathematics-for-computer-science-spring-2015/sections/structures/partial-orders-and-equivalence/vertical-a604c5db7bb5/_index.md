@@ -22,5 +22,7 @@ layout: videogallery
 Representing Partial Orders As Subset Relations
 -----------------------------------------------
 
+{{< youtube bHvMYZvZp7Y >}}
+
 *   [BackPopulation Partial Order]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/vertical-f4ebf555fc18" %}})
 *   [ContinueEquivalence Relations: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/vertical-c6c01eb0d061" %}})

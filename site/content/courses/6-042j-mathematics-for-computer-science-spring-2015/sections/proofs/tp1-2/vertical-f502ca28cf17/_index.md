@@ -22,5 +22,7 @@ layout: videogallery
 Proof By Cases
 --------------
 
+{{< youtube vzpFQ3uNyPo >}}
+
 *   [BackProof By Contradiction]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-2/vertical-2835de2f30b6" %}})
 *   [ContinueWhen to Prove by Cases]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-2/vertical-ba5ad72ae7ec" %}})

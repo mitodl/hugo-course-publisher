@@ -14,14 +14,24 @@ layout: videogallery
 Strings
 -------
 
+{{< youtube w4uxYDPsjbw >}}
+
 Comparisons
 -----------
+
+{{< youtube lniF6ys2CIk >}}
 
 Branching
 ---------
 
+{{< youtube jjbWNcIjmzc >}}
+
 While Loops
 -----------
 
+{{< youtube P-0w8xWcnDQ >}}
+
 For Loops
 ---------
+
+{{< youtube mrvBnZIEsZY >}}

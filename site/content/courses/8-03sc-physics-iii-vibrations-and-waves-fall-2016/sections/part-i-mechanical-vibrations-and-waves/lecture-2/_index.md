@@ -21,6 +21,8 @@ Lecture Video: Damped Free Oscillators
 
 A more realistic physical system, a damped oscillator, is introduced in this lecture. Prof. Lee shows the mathematical solutions actually match the behavior of physical systems. He also does an in-class demo to compare damped and undamped oscillators.
 
+{{< youtube T2n6fVybLcU >}}
+
 Lecture Notes
 -------------
 
@@ -38,10 +40,10 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Oscillating Steel Ball on a Track](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2012&show=0) | {{< br >}}{{< br >}},{{< br >}}{{< br >}}, and{{< br >}}{{< br >}} |
-| [Physical Pendulum](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%207&show=0) | {{< br >}}{{< br >}} |
-| [Damped and Undamped Masses on a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2011&show=0) | {{< br >}}{{< br >}},{{< br >}}{{< br >}},{{< br >}}{{< br >}},{{< br >}}{{< br >}}, and{{< br >}}{{< br >}} |
-| [Driven Torsional Balance Oscillator](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2060&show=0) | {{< br >}}{{< br >}} 
+| [Oscillating Steel Ball on a Track](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2012&show=0) | {{< youtube T2n6fVybLcU >}}, {{< youtube T2n6fVybLcU >}}, and {{< youtube T2n6fVybLcU >}} |
+| [Physical Pendulum](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%207&show=0) | {{< youtube T2n6fVybLcU >}} |
+| [Damped and Undamped Masses on a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2011&show=0) | {{< youtube T2n6fVybLcU >}}, {{< youtube T2n6fVybLcU >}}, {{< youtube T2n6fVybLcU >}}, {{< youtube T2n6fVybLcU >}}, and {{< youtube T2n6fVybLcU >}} |
+| [Driven Torsional Balance Oscillator](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2060&show=0) | {{< youtube T2n6fVybLcU >}} 
 
 Related Resources
 -----------------

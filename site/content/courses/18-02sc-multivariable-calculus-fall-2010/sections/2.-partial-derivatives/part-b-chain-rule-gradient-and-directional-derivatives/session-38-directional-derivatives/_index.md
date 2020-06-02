@@ -25,6 +25,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube 2XraaWefBd8 >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/4746a42d38a56d6de62fbce8f1586e9c_MIT18_02SC_L12Brds_14a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/e4e43cc58c679f1e9b5b94611b87c9e5_MIT18_02SC_L12Brds_14.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/ebf5e209457400c681df64ebda17171e_MIT18_02SC_L12Brds_15a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/b252ef83c848cbdd91d26632db26d7c5_MIT18_02SC_L12Brds_15.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/807c1bf335837bf92991fb6c02ec31cb_MIT18_02SC_L12Brds_16a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/2129ea2a9bd4db4c69ed5e338eae644b_MIT18_02SC_L12Brds_16.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/87ed36dc1bcbcbea2dd3963d6b6b1e10_MIT18_02SC_L12Brds_17a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/c04d3c160dba8b32a73a2a4bed23f38f_MIT18_02SC_L12Brds_17.png "Open in a new window.")  
@@ -39,6 +41,8 @@ Recitation Video
 ----------------
 
 ### Gradient and Directional Derivative
+
+{{< youtube XZ1QwS1IKgw >}}
 
 Problems and Solutions
 ----------------------

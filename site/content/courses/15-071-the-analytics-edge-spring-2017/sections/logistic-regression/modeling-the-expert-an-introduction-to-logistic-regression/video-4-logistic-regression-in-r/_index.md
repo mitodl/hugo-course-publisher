@@ -33,6 +33,8 @@ In this video, we'll be using the dataset [quality (CSV)](https://open-learning-
 
 An R script file with all of the commands used in this lecture can be downloaded here: [Unit3\_ModelingExpert (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/b6bc987749db09111285d5a2a287e733_Unit3_ModelingExpert.R).
 
+{{< youtube JcKvI821H0c >}}
+
 The variables in the dataset quality.csv are as follows:
 
 *   **MemberID** numbers the patients from 1 to 131, and is just an identifying number.

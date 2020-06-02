@@ -21,15 +21,25 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube eRCN3daFCmU >}}
+
+{{< youtube eRCN3daFCmU >}}
+
+{{< youtube eRCN3daFCmU >}}
+
 Recitation Video
 ----------------
 
 ### Quadratic Approximation of a Product
 
+{{< youtube 0YGiDaUOse4 >}}
+
 Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
+
+{{< youtube eRCN3daFCmU >}}
 
 Worked Example
 --------------

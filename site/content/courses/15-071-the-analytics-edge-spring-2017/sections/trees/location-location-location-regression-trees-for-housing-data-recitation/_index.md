@@ -25,5 +25,7 @@ layout: videogallery
 Welcome to Recitation 4
 -----------------------
 
+{{< youtube WCb-\_SRDzKE >}}
+
 *   [BackVideo 9: Results]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-9-results" %}})
 *   [ContinueVideo 1: Boston Housing Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-1-boston-housing-data" %}})

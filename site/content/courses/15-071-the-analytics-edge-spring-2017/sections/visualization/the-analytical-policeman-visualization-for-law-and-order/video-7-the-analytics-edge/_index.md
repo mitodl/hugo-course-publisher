@@ -28,5 +28,7 @@ layout: videogallery
 Video 7: The Analytics Edge
 ---------------------------
 
+{{< youtube 2Yl5IkDMoUU >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-575" %}})
 *   [ContinueThe Good, the Bad, and the Ugly: Visualization Recitation (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/_index.md" %}})

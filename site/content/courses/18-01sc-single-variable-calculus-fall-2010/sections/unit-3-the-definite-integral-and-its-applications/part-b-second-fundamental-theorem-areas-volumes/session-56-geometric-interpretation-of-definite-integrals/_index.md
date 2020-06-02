@@ -21,12 +21,20 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube \_JXPe2J069c >}}
+
+{{< youtube \_JXPe2J069c >}}
+
 Recitation Video
 ----------------
 
 ### Area Between the Graphs of Sine and Cosine
 
+{{< youtube 9J\_VCHpvMbY >}}
+
 ### Area Between y=x3 and y=3x-2
+
+{{< youtube U3ebQ5Z4Jt8 >}}
 
 Worked Example
 --------------

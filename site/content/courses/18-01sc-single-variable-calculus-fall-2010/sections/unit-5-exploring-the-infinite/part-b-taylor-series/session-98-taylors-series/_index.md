@@ -21,12 +21,22 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube wOHrNt9ScYs >}}
+
+{{< youtube wOHrNt9ScYs >}}
+
+{{< youtube wOHrNt9ScYs >}}
+
 Recitation Video
 ----------------
 
 ### Finding Taylor's Series
 
+{{< youtube BSqNgPkeWIM >}}
+
 ### Taylor's Series of a Polynomial
+
+{{< youtube 19x213y\_uk4 >}}
 
 Worked Example
 --------------

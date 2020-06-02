@@ -28,6 +28,8 @@ layout: videogallery
 Video 1: The Supreme Court
 --------------------------
 
+{{< youtube CLaRAzHxJGo >}}
+
 The slides from all videos in this Lecture Sequence can be downloaded here: [An Introduction to Trees (PDF - 1.1MB)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/MIT15_071S17_Unit4_SupremeCourt" %}}).
 
 *   [BackWelcome to Unit 4]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/welcome-to-unit-4" %}})

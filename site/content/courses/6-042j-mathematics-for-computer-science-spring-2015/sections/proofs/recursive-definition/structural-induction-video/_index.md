@@ -22,5 +22,7 @@ layout: videogallery
 Structural Induction
 --------------------
 
+{{< youtube VWIDwHCGJDQ >}}
+
 *   [BackFunctions of F18]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/recursive-definition/functions-of-f18" %}})
 *   [ContinueStructural Induction: Definition]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/recursive-definition/structural-induction-definition" %}})

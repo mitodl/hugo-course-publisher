@@ -21,9 +21,17 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube eRCN3daFCmU >}}
+
+{{< youtube eRCN3daFCmU >}}
+
+{{< youtube twzGBqPeW0M >}}
+
 Recitation Video
 ----------------
 
 ### Sketching a Curve
+
+{{< youtube aWV4khIBvCM >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-26-using-quadratic-approximations/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-28-sketching-graphs-ii-general-strategies/_index.md" %}}) »

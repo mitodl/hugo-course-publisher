@@ -27,5 +27,7 @@ layout: videogallery
 Video 6: The Analytics Edge in Sports
 -------------------------------------
 
+{{< youtube 1G6iJmM64LA >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/quick-question-126" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/quick-question-134" %}})

@@ -28,5 +28,7 @@ layout: videogallery
 Mean Time To Failure
 --------------------
 
+{{< youtube Dqx56lZ\_icg >}}
+
 *   [BackAnother Dice and Coin Game]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-1/vertical-3506cf32b49b" %}})
 *   [ContinueThree Machines Failing]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-1/vertical-f2cac6de0392" %}})

@@ -23,5 +23,7 @@ layout: videogallery
 Predicate Logic 3
 -----------------
 
+{{< youtube L5uBeAGJV1k >}}
+
 *   [BackSatisfiability]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-1/vertical-071a48267f00" %}})
 *   [ContinueName That Predicate!]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-1/vertical-f68a21116180" %}})

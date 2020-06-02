@@ -21,5 +21,7 @@ layout: videogallery
 Inverses mod n
 --------------
 
+{{< youtube CAKSh3M0y8k >}}
+
 *   [BackDivisibility and Congruence]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-2/vertical-d0520d30ae3f" %}})
 *   [ContinueInverses mod n]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-2/vertical-ff85901537e3" %}})

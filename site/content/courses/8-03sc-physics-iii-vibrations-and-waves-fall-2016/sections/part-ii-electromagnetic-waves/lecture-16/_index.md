@@ -21,6 +21,8 @@ Lecture Video: 2D and 3D waves, Snell’s Law
 
 The main focus of the lecture is the mathematical description of 2D and 3D waves. Prof. Lee also shows that the wave description of light leads to reflection law and Snell’s laws in geometrical optics.
 
+{{< youtube \_kKIQ1h9UuA >}}
+
 Lecture Notes
 -------------
 
@@ -40,8 +42,8 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Chladni Figures (Speaker Driven)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2038&show=0) | {{< br >}}{{< br >}} |
-| [Oscillating Soap Film](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2040&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} 
+| [Chladni Figures (Speaker Driven)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2038&show=0) | {{< youtube \_kKIQ1h9UuA >}} |
+| [Oscillating Soap Film](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2040&show=0) | {{< youtube \_kKIQ1h9UuA >}} and {{< youtube \_kKIQ1h9UuA >}} 
 
 Related Resources
 -----------------

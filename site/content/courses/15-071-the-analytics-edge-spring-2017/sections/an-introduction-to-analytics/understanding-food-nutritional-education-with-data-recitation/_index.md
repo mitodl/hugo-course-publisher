@@ -22,5 +22,7 @@ layout: videogallery
 Welcome to Recitation 1
 -----------------------
 
+{{< youtube ktGKsoTGIho >}}
+
 *   [BackVideo 7: Saving with Script Files]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-7-saving-with-script-files/_index.md" %}})
 *   [ContinueVideo 1: The Importance of Food and Nutrition]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-1-the-importance-of-food-and-nutrition" %}})

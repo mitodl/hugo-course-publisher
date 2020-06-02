@@ -27,5 +27,7 @@ layout: videogallery
 Video 4: Using the Models to Make Predictions
 ---------------------------------------------
 
+{{< youtube j9sl8e7wLnc >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/quick-question-109" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/quick-question-119" %}})

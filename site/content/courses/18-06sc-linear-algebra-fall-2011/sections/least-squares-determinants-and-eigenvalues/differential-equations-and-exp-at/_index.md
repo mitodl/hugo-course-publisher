@@ -21,8 +21,7 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture
-    
+*   Watch the video lecture {{< youtube IZqwi0wJovM >}}
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/MIT18_06SCF11_Ses2.10sum" %}})
 *   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/IZqwi0wJovM" %}})
 
@@ -32,12 +31,9 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on
-    
+*   Watch the recitation video on {{< youtube FzncDO1eSNI >}}
 *   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/FzncDO1eSNI" %}})
-*   观看视频: 习题讲解 --
-    
-    \[watch this recitation in Mandarin\]
+*   观看视频: 习题讲解 -- {{< youtube fiSp3Ss-Yo8 >}} \[watch this recitation in Mandarin\]
 
 Check Yourself
 --------------

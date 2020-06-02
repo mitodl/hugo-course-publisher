@@ -25,5 +25,7 @@ layout: videogallery
 Tree Coloring
 -------------
 
+{{< youtube g2mOvmC1TKc >}}
+
 *   [BackTrees: Many Definitions]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp8-1/vertical-91c45efd7596" %}})
 *   [Continue2-Colorable Trees]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp8-1/vertical-b69812803f1e" %}})

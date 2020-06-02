@@ -20,5 +20,7 @@ layout: videogallery
 Random Walks
 ------------
 
+{{< youtube -j7MoM3P\_J8 >}}
+
 *   [BackAbove Average Number of Fingers]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp14-1/vertical-2f9ccec3fdf7" %}})
 *   [ContinueStationary Distributions: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/random-walks-pagerank/stationary-distributions-video" %}})

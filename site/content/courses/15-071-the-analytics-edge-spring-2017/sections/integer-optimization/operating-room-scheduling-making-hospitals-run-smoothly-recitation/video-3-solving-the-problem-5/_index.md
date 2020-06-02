@@ -26,5 +26,7 @@ If you are using Excel, remember that you can indicate that the decision variabl
 
 Also, you might get a different solution than the one Angie gets in the following video. There are _multiple optimal solutions_ to this problem, so your solution might be another feasible solution with the optimal objective function value. You'll see in the next video how the constraints can be adjusted to find the optimal solution that better fits the problem. 
 
+{{< youtube ayrdDJPAD5M >}}
+
 *   [BackVideo 2: An Optimization Model]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-2-an-optimization-model" %}})
 *   [ContinueVideo 4: The Solution]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-4-the-solution" %}})

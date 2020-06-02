@@ -25,6 +25,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube bHdzkFrgRcA >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![MIT18_02SC_L3Brds_3a.png](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/a8073d3a3f354a81f3c5b875bbdb9900_MIT18_02SC_L3Brds_3a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/be93d811bea896280840a1615bb7e769_MIT18_02SC_L3Brds_3.png "Open in a new window.")[![MIT18_02SC_L3Brds_4a.png](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/f6bb961ffcebd6dbcb35913cc7c64a0c_MIT18_02SC_L3Brds_4a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/e34ab73ec0e23f7aea5c115c79b478d8_MIT18_02SC_L3Brds_4.png "Open in a new window.")

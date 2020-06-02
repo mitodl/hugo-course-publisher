@@ -25,5 +25,7 @@ layout: videogallery
 Trees
 -----
 
+{{< youtube ZEsk64C0fJg >}}
+
 *   [BackConnected Components in Integers]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-3/vertical-fef93eac28bc" %}})
 *   [ContinueTrees: Many Definitions]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp8-1/vertical-91c45efd7596" %}})

@@ -29,6 +29,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube YBajUR3EFSM >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/3c5c90382c9eb9533068725e696b27f4_MIT18_02SC_L4Brds_1a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/daa4cc200013a386be014b9f3d3ebd40_MIT18_02SC_L4Brds_1.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/174e5dbb1be6c18b4d35ddd5a1a02a1f_MIT18_02SC_L4Brds_2a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/5055ffb9ec65399e2e995f675ba1f0ab_MIT18_02SC_L4Brds_2.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/3d393063f3eba06267c780fa61afd8bb_MIT18_02SC_L4Brds_3a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/253a902e406ab971870b704d042efc92_MIT18_02SC_L4Brds_3.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/12ffe22b34430230eeb1e5cc6ad4b8e9_MIT18_02SC_L4Brds_4a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/b3bccc949fa1a0acbe10e0aae4cc4a7d_MIT18_02SC_L4Brds_4.png "Open in a new window.")  
@@ -44,6 +46,8 @@ Recitation Video
 
 ### Equations of Planes
 
+{{< youtube XmQM5pHxX-o >}}
+
 Problems and Solutions
 ----------------------
 
@@ -55,6 +59,8 @@ Recitation Video
 ----------------
 
 ### Distance of a Point to a Plane
+
+{{< youtube SgJo7\_4mp6w >}}
 
 Reading and Examples
 --------------------

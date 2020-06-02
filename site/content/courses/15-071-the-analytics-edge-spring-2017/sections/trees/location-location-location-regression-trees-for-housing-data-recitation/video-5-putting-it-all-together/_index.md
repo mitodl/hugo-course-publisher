@@ -25,5 +25,7 @@ layout: videogallery
 Video 5: Putting it all Together
 --------------------------------
 
+{{< youtube cllmFIIbzrc >}}
+
 *   [BackVideo 4: Regression Trees]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-4-regression-trees" %}})
 *   [ContinueVideo 6: The CP Parameter]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-6-the-cp-parameter" %}})

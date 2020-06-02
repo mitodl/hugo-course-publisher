@@ -33,6 +33,8 @@ Contents
 Day 1 Pitch: The Science of Poaching an Egg Pitch
 -------------------------------------------------
 
+{{< youtube 2nSxmWTdDU4 >}}
+
 This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQMgOZfa6T-XZR2WC1Q) on YouTube and is provided under our Creative Commons license.
 
 I have never been able to poach an egg well. Come to find out, there is a lot of science behind poaching eggs!
@@ -92,6 +94,8 @@ III. Conclusion
 
 Day 3 Trailer: Subdivision Pitch
 --------------------------------
+
+{{< youtube rcRAb0-vc60 >}}
 
 This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQMgOZfa6T-XZR2WC1Q) on YouTube and is provided under our Creative Commons license.
 
@@ -334,12 +338,16 @@ To Shoot:
 Rough Cut
 ---------
 
+{{< youtube RMSuV5fwCnE >}}
+
 This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQMgOZfa6T-XZR2WC1Q) on YouTube and is provided under our Creative Commons license.
 
 [\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student_Work)
 
 Final Project
 -------------
+
+{{< youtube PPhxbP8oSfc >}}
 
 This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQMgOZfa6T-XZR2WC1Q) on YouTube and is provided under our Creative Commons license.
 
@@ -359,6 +367,8 @@ Science Out Loud
 ----------------
 
 Paul's video was professionally produced by [Science Out Loud](http://k12videos.mit.edu/science-out-loud) after this course finished.
+
+{{< youtube pnIlE1xD-yM >}}
 
 This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](https://www.k12videos.mit.edu/faqs) license.
 

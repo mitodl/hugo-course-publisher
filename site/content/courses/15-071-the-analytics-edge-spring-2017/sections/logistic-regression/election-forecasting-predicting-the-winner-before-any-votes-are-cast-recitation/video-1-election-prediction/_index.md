@@ -23,6 +23,8 @@ layout: videogallery
 Video 1: Election Prediction
 ----------------------------
 
+{{< youtube 9i1sOSIccgw >}}
+
 The slides from all videos in this Recitation can be downloaded here: [Election Forecasting (PDF)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-1-election-predictionMIT15_071S17_Unit3_Recitation" %}}).
 
 Errata in slides:

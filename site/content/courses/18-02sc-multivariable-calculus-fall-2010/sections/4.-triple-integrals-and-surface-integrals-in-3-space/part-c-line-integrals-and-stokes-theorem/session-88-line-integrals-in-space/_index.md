@@ -25,6 +25,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube seO7-TwXH\_I >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/64c3d376e500eb552ec9f8cfd538c2e3_MIT18_02SC_L30Brds_1a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/56553347cf588f22ce3d634b5655d711_MIT18_02SC_L30Brds_1.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/c4bb6b3e85f8b5678692c5b39399721a_MIT18_02SC_L30Brds_2a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/73667f29e5990788f285c71b97b51dac_MIT18_02SC_L30Brds_2.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/296866ff1b895fda488060e4fa53002a_MIT18_02SC_L30Brds_3a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/d35149b65ddfe073fd3ebe9bc31274ba_MIT18_02SC_L30Brds_3.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/b0cc9094cfbb0577bc6e684e73904725_MIT18_02SC_L30Brds_4a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/ec0cfec06d601e7875a83d65f2790673_MIT18_02SC_L30Brds_4.png "Open in a new window.")  
@@ -39,6 +41,8 @@ Recitation Video
 ----------------
 
 ### Line Integral on a Helix
+
+{{< youtube YmAMEi-Faz8 >}}
 
 Problems and Solutions
 ----------------------

@@ -22,5 +22,7 @@ layout: videogallery
 The Ring Z n
 ------------
 
+{{< youtube dZgI16nMuqE >}}
+
 *   [BackEuler's Totient Function]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-1/vertical-62a25d1dd25f" %}})
 *   [ContinueThe Ring]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-1/vertical-cad174bba3a3" %}})

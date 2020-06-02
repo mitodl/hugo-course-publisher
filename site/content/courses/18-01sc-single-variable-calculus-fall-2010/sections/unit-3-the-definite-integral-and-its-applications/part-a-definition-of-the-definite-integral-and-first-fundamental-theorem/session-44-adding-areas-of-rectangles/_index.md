@@ -21,10 +21,16 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube hjZhPczMkL4 >}}
+
+{{< youtube hjZhPczMkL4 >}}
+
 Recitation Video
 ----------------
 
 ### Summation Notation Practice
+
+{{< youtube iHErQuZ8M-I >}}
 
 Worked Example
 --------------

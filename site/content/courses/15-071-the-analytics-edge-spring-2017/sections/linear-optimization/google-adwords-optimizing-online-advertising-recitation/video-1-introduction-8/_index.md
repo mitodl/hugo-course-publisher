@@ -24,6 +24,8 @@ layout: videogallery
 Video 1: Introduction
 ---------------------
 
+{{< youtube AByfsx3Dkek >}}
+
 The slides from all videos in this recitation can be downloaded here: [Optimizing Online Advertising (PDF - 1.1MB)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-1-introduction-8MIT15_071S17_Unit8_Recitation" %}}).
 
 *   [BackGoogle AdWords: Optimizing Online Advertising (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/_index.md" %}})

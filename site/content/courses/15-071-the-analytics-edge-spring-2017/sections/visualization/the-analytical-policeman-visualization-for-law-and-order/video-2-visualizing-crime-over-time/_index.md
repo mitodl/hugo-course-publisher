@@ -28,5 +28,7 @@ layout: videogallery
 Video 2: Visualizing Crime Over Time
 ------------------------------------
 
+{{< youtube Kdbia6SXSFA >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-540" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-545" %}})

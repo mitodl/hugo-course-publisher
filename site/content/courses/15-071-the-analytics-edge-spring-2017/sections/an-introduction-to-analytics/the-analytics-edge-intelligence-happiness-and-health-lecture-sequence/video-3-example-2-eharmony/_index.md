@@ -23,5 +23,7 @@ layout: videogallery
 Video 3: Example 2 - eHarmony
 -----------------------------
 
+{{< youtube 9lMOz\_7bIGU >}}
+
 *   [BackVideo 2: Example 1 - IBM Watson]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-2-example-1-ibm-watson" %}})
 *   [ContinueVideo 4: Example 3 - The Framingham Heart Study]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-4-example-3-the-framingham-heart-study" %}})

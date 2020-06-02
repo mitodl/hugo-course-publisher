@@ -16,5 +16,7 @@ layout: videogallery
 Welcome to Unit 3
 -----------------
 
+{{< youtube ruFpq-\_wpc0 >}}
+
 *   [BackLogistic Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/_index.md" %}})
 *   [ContinueModeling the Expert: An Introduction to Logistic Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/_index.md" %}})

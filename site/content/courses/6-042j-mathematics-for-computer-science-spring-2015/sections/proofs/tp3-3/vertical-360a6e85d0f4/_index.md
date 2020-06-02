@@ -26,5 +26,7 @@ layout: videogallery
 Relational Mappings
 -------------------
 
+{{< youtube gFD1Lp6zK3w >}}
+
 *   [BackRange of a Relation]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-3/vertical-70020f5936fa" %}})
 *   [ContinueTotal Injection]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-3/vertical-5c792a4ae3f8" %}})

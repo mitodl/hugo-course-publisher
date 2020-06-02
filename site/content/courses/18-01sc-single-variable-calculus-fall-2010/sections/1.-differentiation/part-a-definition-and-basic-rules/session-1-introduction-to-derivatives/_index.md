@@ -21,6 +21,16 @@ Lecture Videos and Notes
 
 ### Video Excerpts
 
+{{< youtube 7K1sB05pE0A >}}
+
+{{< youtube 7K1sB05pE0A >}}
+
+{{< youtube 7K1sB05pE0A >}}
+
+{{< youtube 7K1sB05pE0A >}}
+
+{{< youtube 7K1sB05pE0A >}}
+
 Worked Example
 --------------
 
@@ -41,6 +51,10 @@ Recitation Video
 
 ### Definition of Derivative
 
+{{< youtube \_nbtaQtX6JA >}}
+
 ### Graphing a Derivative Function
+
+{{< youtube Gbtma\_UQpro >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-2-examples-of-derivatives/_index.md" %}}) »

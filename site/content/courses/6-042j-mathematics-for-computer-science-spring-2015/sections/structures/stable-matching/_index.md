@@ -28,5 +28,7 @@ layout: videogallery
 Stable Matching
 ---------------
 
+{{< youtube RE5PmdGNgj0 >}}
+
 *   [BackGraph Algorithm]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp8-1/vertical-f8c5c236b9c0" %}})
 *   [ContinueMatching Ritual: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/stable-matching/matching-ritual-video" %}})

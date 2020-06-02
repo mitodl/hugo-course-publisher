@@ -31,6 +31,8 @@ In this lecture, we will be using the dataset [baseball (CSV)](https://open-lear
 
 A script file containing all of the R commands used in this lecture can be downloaded here: [Unit2\_Moneyball (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/12e92ec2937a917cf288db31d2d27450_Unit2_Moneyball.R).
 
+{{< youtube WacNWdXhvVM >}}
+
 The slides from all videos in this Lecture Sequence can be downloaded here: [The Power of Sports Analytics (PDF - 1.4MB)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/video-1-the-story-of-moneyball/MIT15_071S17_Unit2_Moneyball" %}}).
 
 *   [BackMoneyball: The Power of Sports Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/_index.md" %}})

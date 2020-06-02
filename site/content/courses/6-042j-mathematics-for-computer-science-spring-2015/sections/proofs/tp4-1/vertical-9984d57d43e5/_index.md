@@ -26,5 +26,7 @@ layout: videogallery
 Bogus Induction
 ---------------
 
+{{< youtube D3E5CKebKuQ >}}
+
 *   [Back Induction]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-1/_index.md" %}})
 *   [ContinueSame Colored Horses]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-1/vertical-e9a3ad8170fd" %}})

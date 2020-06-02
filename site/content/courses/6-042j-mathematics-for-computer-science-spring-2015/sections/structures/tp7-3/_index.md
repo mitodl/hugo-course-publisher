@@ -23,5 +23,7 @@ layout: videogallery
 Coloring
 --------
 
+{{< youtube Penh4mv5gAg >}}
+
 *   [BackNon-Isomorphic Graphs]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-2/vertical-3c93d1aadcac/_index.md" %}})
 *   [ContinueChromatic Number]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-3/vertical-312af3a98ad1" %}})

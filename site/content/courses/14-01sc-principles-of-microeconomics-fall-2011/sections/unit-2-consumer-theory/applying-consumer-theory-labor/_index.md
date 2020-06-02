@@ -33,10 +33,14 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 The lecture video for this session consists of two parts.
 
+*   {{< youtube -5XT0Mzl72E >}}
+
 ### Resources
 
 *   [Graphs and Figures (PDF)]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/applying-consumer-theory-labor/MIT14_01SCF11_graph07" %}})
 *   [Tables (PDF)]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/applying-consumer-theory-labor/MIT14_01SCF11_table07" %}})
+
+*   {{< youtube aflMMnyAO0E >}}
 
 Flash and JavaScript are required for this feature.
 

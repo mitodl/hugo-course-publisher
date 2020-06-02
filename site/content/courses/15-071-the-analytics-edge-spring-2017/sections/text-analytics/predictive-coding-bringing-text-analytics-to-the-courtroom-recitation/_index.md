@@ -24,5 +24,7 @@ layout: videogallery
 Welcome to Recitation 5
 -----------------------
 
+{{< youtube ww-S4khiumM >}}
+
 *   [BackVideo 6: The Results]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-6-the-results" %}})
 *   [ContinueVideo 1: The Story of Enron]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-1-the-story-of-enron" %}})

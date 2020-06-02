@@ -27,6 +27,10 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube 9FLItlbBUPY >}}
+
+{{< youtube bHdzkFrgRcA >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![MIT18_02SC_L2Brds_10a.png](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/1a67aa454132aae68047e183e0ea627a_MIT18_02SC_L2Brds_10a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/243fa3145d9da2bcdf17e136cd1bad66_MIT18_02SC_L2Brds_10.png "Open in a new window.")[![MIT18_02SC_L2Brds_11a.png](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/a4bc120b155e651585b76413919dd557_MIT18_02SC_L2Brds_11a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/cce9be6f25d8ff92e27224885b6a6679_MIT18_02SC_L2Brds_11.png "Open in a new window.")[![MIT18_02SC_L2Brds_12a.png](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/bf2f55a1b8c77b4be870d33105d512da_MIT18_02SC_L2Brds_12a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/c6f4973d19d9675cd570c0a8925c422e_MIT18_02SC_L2Brds_12.png "Open in a new window.")[![MIT18_02SC_L2Brds_13a.png](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/ae3c3e56504688e83ce11a8ddab78ed8_MIT18_02SC_L2Brds_13a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/6f8bdaee9f566ca64a8caa23131bd939_MIT18_02SC_L2Brds_13.png "Open in a new window.")  
@@ -41,6 +45,8 @@ Recitation Video
 ----------------
 
 ### Area Using Cross Product
+
+{{< youtube QHaAoQQy07I >}}
 
 Problems and Solutions
 ----------------------

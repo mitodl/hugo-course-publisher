@@ -15,4 +15,6 @@ layout: videogallery
 
 Block 1 of mass \\(\\displaystyle 3m\\) is sliding along a frictionless horizontal table to the right with speed \\(\\displaystyle v\_0\\). Block 1 collides with block 2 of mass \\(\\displaystyle m\\) that is moving to the left with speed \\(\\displaystyle v\_0\\). After the collision, the two blocks stick together and the blocks enter a rough surface at \\(\\displaystyle x=0\\) with a coefficient of kinetic friction that increases with distance as \\(\\displaystyle \\mu (x)=b x^2\\) for \\(\\displaystyle 0\\leq x\\leq d\\), where \\(\\displaystyle b\\) is a positive constant. The blocks come to rest at \\(\\displaystyle x=d\\). The downward gravitational acceleration has magnitude \\(\\displaystyle g\\). Determine an expression for the initial speed \\(\\displaystyle v\_0\\) of the blocks.
 
+{{< youtube Lpd\_TddOSZY >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/22.5-summary-of-work-and-kinetic-energy" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/problem-set-7" %}}) »

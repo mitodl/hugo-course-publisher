@@ -21,5 +21,7 @@ layout: videogallery
 Digraphs: Walks & Paths
 -----------------------
 
+{{< youtube MX-mBxt6huU >}}
+
 *   [BackRSA computations]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-2/vertical-dea30f1864f2" %}})
 *   [ContinueWalks and Paths]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-3/vertical-5a67aa9a3a6d" %}})

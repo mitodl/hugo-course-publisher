@@ -21,6 +21,8 @@ Lecture Video
 
 We finish the topic of acid-base titrations and consider why pKa is so important. Chemist Samuel Thompson talks about a problem he encountered in his undergraduate research that had to do with the pKa of a molecular probe. Learn what the problem was and how he solved it.
 
+{{< youtube Om\_5b29d\_9g >}}
+
 Lecture Notes
 -------------
 

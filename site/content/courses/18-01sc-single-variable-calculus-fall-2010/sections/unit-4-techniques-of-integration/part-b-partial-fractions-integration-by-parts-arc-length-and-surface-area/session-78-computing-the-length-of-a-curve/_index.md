@@ -21,10 +21,20 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube TpWQlKHPyJ4 >}}
+
+{{< youtube TpWQlKHPyJ4 >}}
+
+{{< youtube TpWQlKHPyJ4 >}}
+
+{{< youtube TpWQlKHPyJ4 >}}
+
 Recitation Video
 ----------------
 
 ### Arc Length of y=x3/2
+
+{{< youtube VOlbVNxyNfM >}}
 
 Worked Example
 --------------

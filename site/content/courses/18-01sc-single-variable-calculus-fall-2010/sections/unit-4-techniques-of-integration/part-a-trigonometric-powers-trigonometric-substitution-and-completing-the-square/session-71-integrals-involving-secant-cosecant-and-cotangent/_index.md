@@ -21,10 +21,20 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube CXKoCMVqM9s >}}
+
+{{< youtube CXKoCMVqM9s >}}
+
+{{< youtube CXKoCMVqM9s >}}
+
+{{< youtube CXKoCMVqM9s >}}
+
 Recitation Video
 ----------------
 
 ### Integral of tan4θ
+
+{{< youtube 98X2TyxXQdU >}}
 
 Worked Example
 --------------

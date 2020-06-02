@@ -20,5 +20,7 @@ layout: videogallery
 Page Rank
 ---------
 
+{{< youtube QKO\_2WQkZ0k >}}
+
 *   [BackStationary Distributions: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/random-walks-pagerank/stationary-distributions-video" %}})
 *   [ContinueRandom Walks]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/random-walks-pagerank/random-walks-0/_index.md" %}})

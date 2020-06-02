@@ -27,6 +27,8 @@ layout: videogallery
     
     CheckShow Answer Videos
     
+    {{< youtube vqn\_yk5aFcI >}}
+    
   
 3.  ### Class Instance
     
@@ -47,6 +49,8 @@ layout: videogallery
     &nbsp;`mycar = Car(2, 4)`&nbsp;
     
     CheckShow Answer Videos
+    
+    {{< youtube 2\_\_KumJsGXc >}}
     
   
 5.  ### Methods
@@ -69,6 +73,8 @@ layout: videogallery
     
     CheckShow Answer Videos
     
+    {{< youtube goalLDamePE >}}
+    
   
 7.  ### Method Call
     
@@ -90,6 +96,8 @@ layout: videogallery
     
     CheckShow Answer Videos
     
+    {{< youtube \_ax4eNMI9Dw >}}
+    
   
 9.  ### Special Methods
     
@@ -108,3 +116,5 @@ layout: videogallery
     &nbsp;An error&nbsp;
     
     CheckShow Answer Videos
+    
+    {{< youtube qq7I2MQNrtU >}}

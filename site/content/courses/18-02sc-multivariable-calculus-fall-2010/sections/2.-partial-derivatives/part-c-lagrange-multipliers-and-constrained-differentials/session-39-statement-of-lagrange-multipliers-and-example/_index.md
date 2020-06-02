@@ -25,6 +25,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube 15HVevXRsBA >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/715877dd753715c59676b963428f8d84_MIT18_02SC_L13Brds_1a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/346385388d5ac042d85b0a21ab6b967f_MIT18_02SC_L13Brds_1.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/0d5d82eebe61baadd1c35a8912af00c4_MIT18_02SC_L13Brds_2a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/3ada545f2ea0c880db82593993c03fb1_MIT18_02SC_L13Brds_2.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/e40f99992f00462ae033e775f6d3c524_MIT18_02SC_L13Brds_3a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/3ae0129e01906330b668b32caeea2c46_MIT18_02SC_L13Brds_3.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/8eafba60afff0d748b95423a6950cdc7_MIT18_02SC_L13Brds_4a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/21b461d824fec48c43e5ff69abbc2ca6_MIT18_02SC_L13Brds_4.png "Open in a new window.")  
@@ -39,6 +41,8 @@ Recitation Video
 ----------------
 
 ### Lagrange Multipliers
+
+{{< youtube HyqBcD\_e\_Uw >}}
 
 Problems and Solutions
 ----------------------

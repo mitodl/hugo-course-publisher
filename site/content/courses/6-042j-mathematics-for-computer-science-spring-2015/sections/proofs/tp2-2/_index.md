@@ -24,5 +24,7 @@ layout: videogallery
 Propositional Operators
 -----------------------
 
+{{< youtube 0exBzsexUoI >}}
+
 *   [BackA Bogus Well Ordering Principle Proof]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-1/vertical-0d330bfe723d" %}})
 *   [ContinuePropositional Operators]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/vertical-e6ef70d76365" %}})

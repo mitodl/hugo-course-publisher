@@ -25,6 +25,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube z5TPjZrsp2k >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![MIT18_02SC_L21Brds_1a.png](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/5717f9efda1b7877fac0e35e5f9f6050_MIT18_02SC_L21Brds_1a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/00577a3b0e7588153757fedd8ff5eafb_MIT18_02SC_L21Brds_1.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/05332c124db69e7217ebdaf8f7d7873e_MIT18_02SC_L21Brds_2a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/16a99c6919fa790fee71ed0aab353493_MIT18_02SC_L21Brds_2.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/fc11992de0723957e48016081394bfcc_MIT18_02SC_L21Brds_3a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/a65322f43f5be5b6a32dd490a6358ee5_MIT18_02SC_L21Brds_3.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/0b726cf9e288b68056ce677166136bde_MIT18_02SC_L21Brds_4a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/c13d4c91b6b90487c7ba81d60efb32d9_MIT18_02SC_L21Brds_4.png "Open in a new window.")  
@@ -39,6 +41,8 @@ Recitation Video
 ----------------
 
 ### Non-Conservative Vector Fields
+
+{{< youtube n9gSOBwauRw >}}
 
 Problems and Solutions
 ----------------------

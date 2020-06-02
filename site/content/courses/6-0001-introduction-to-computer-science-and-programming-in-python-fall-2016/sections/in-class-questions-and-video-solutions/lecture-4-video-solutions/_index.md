@@ -14,5 +14,9 @@ layout: videogallery
 Function Calls
 --------------
 
+{{< youtube 4gPwo38MNss >}}
+
 Functions as Arguments
 ----------------------
+
+{{< youtube QaOHeMnpnmU >}}

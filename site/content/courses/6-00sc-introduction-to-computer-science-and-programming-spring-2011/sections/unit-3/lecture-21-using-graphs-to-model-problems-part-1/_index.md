@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube UiZlaJX3IRk >}}
+
 > ### About this Video
 > 
 > Topics covered: Pseudocode, graphs, nodes, edges, adjacency matrix, adjacency list.

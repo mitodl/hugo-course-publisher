@@ -21,5 +21,7 @@ layout: videogallery
 State Machines Invariants
 -------------------------
 
+{{< youtube VuG2JNcRXYg >}}
+
 *   [BackA Bogus Induction]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-1/vertical-87911985518e" %}})
 *   [ContinueState Machine Invariants]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-2/vertical-ee3144f200f1" %}})

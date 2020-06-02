@@ -24,5 +24,7 @@ layout: videogallery
 Video 5: The Analytics Edge
 ---------------------------
 
+{{< youtube va-mL-\_jui4 >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/quick-question-499" %}})
 *   [ContinueSeeing the Big Picture: Segmenting Images to Create Data (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/_index.md" %}})

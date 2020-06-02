@@ -25,5 +25,7 @@ layout: videogallery
 Video 6: The CP Parameter
 -------------------------
 
+{{< youtube 5CExAUWzHEQ >}}
+
 *   [BackVideo 5: Putting it all Together]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-5-putting-it-all-together" %}})
 *   [ContinueVideo 7: Cross-Validation]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-7-cross-validation" %}})

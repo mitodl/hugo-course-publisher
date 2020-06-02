@@ -29,6 +29,8 @@ Introduction to Baseball Video
 
 If you are unfamiliar with the game of baseball, please watch this short video clip for a quick introduction to the game. You don't need to be a baseball expert to understand this lecture, but basic knowledge of the game will be helpful to you.
 
+{{< youtube 0bKkGeROiPA >}}
+
 TruScribe. "Baseball Rules of Engagement." March 27, 2012. YouTube. This video is from [TrueScribeVideos](http://www.truscribe.com) and is not covered by our [Creative Commons license](http://ocw.mit.edu/terms/#cc).
 
 *   [BackVideo 8: Comparing the Model to the Experts]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-8-comparing-the-model-to-the-experts" %}})

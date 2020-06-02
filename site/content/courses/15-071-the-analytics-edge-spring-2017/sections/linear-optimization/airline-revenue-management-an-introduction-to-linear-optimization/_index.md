@@ -29,6 +29,8 @@ layout: videogallery
 Video 1: Introduction
 ---------------------
 
+{{< youtube UA3QA3KE4sw >}}
+
 The slides from all videos in this lecture can be downloaded here: [Introduction to Linear Optimization (PDF - 6.3MB)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/MIT15_071S17_Unit8_RevenueManagement" %}}).
 
 *   [BackSpreadsheet Tutorial]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/spreadsheet-tutorial" %}})

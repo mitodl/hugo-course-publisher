@@ -21,4 +21,6 @@ The SI unit of power is the watt (W) which is equal to 1 joule per second:
 
 \\\[ \\displaystyle 1 \\text{W}\\equiv 1\\frac{\\text{J}}{\\text{s}} \\\]
 
+{{< youtube FSW9EQNZvxI >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/20.5-work-kinetic-energy-theorem" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-7-kinetic-energy-and-work/21.1-scalar-product-properties" %}}) »

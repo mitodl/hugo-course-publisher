@@ -20,5 +20,7 @@ layout: videogallery
 RSA Public Key Encryption
 -------------------------
 
+{{< youtube ZUZ8VbX1YNQ >}}
+
 *   [BackEuler's Theorem]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-1/vertical-f4e414f3a824" %}})
 *   [ContinueRSA Encryption]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-2/vertical-3299faa6fc3d" %}})

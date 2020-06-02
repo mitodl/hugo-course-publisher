@@ -21,6 +21,8 @@ Lecture Video
 
 Whether a reaction will go forward spontaneously depends on the thermodynamics. How fast a reaction goes depends on the kinetics. Decomposition of a molecule might be thermodynamically favorable (the molecule is unstable) but kinetically slow (the molecule is inert). In thinking about chemical reactions, rate matters. This lecture provides an introduction to kinetics and shows one of the coolest reactions known: the oscillating clock reaction. Watch as colors change quickly as different steps in the reaction become spontaneous.
 
+{{< youtube B7iFcW8USjQ >}}
+
 Lecture Notes
 -------------
 

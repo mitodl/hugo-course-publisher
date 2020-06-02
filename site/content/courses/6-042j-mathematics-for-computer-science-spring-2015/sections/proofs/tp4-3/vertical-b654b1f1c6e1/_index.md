@@ -27,5 +27,7 @@ layout: videogallery
 The Halting Problem \[Optional\]
 --------------------------------
 
+{{< youtube WQHOImO0pX0 >}}
+
 *   [BackCountable and Uncountable Sets]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/vertical-3077e4479731" %}})
 *   [ContinueHalting Problem Basics \\\[Optional\\\]]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/vertical-1ef05b471b3d" %}})

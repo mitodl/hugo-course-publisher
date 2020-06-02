@@ -23,5 +23,7 @@ layout: videogallery
 Random Variables: Uniform & Binomial
 ------------------------------------
 
+{{< youtube L2yOSFsMvnc >}}
+
 *   [BackOdd Heads and Matches]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-3/vertical-12926a05d1ba" %}})
 *   [ContinueLate For A Date]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-3/vertical-5a2c58463701" %}})

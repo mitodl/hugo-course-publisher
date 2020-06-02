@@ -24,5 +24,7 @@ layout: videogallery
 Video 6: Detecting Tumors
 -------------------------
 
+{{< youtube R250-aMpyAo >}}
+
 *   [BackVideo 5: K-Means Clustering]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-5-k-means-clustering/_index.md" %}})
 *   [ContinueVideo 7: Comparing Methods]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-7-comparing-methods" %}})

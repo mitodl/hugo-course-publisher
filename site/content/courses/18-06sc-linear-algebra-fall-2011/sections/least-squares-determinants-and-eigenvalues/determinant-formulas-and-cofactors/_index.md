@@ -21,8 +21,7 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture
-    
+*   Watch the video lecture {{< youtube 23LLB9mNJvc >}}
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors/MIT18_06SCF11_Ses2.6sum" %}})
 *   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors/23LLB9mNJvc" %}})
 
@@ -32,13 +31,10 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on
-    
+*   Watch the recitation video on {{< youtube B17h10EF59g >}}
 *   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors/B17h10EF59g" %}})
 
-*   观看视频: 习题讲解 --
-    
-    \[watch this recitation in Mandarin\]
+*   观看视频: 习题讲解 -- {{< youtube ZyYGJc9jNno >}} \[watch this recitation in Mandarin\]
 
 Check Yourself
 --------------

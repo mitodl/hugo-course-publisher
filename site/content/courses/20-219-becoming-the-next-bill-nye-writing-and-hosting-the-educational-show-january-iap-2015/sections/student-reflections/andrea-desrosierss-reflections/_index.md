@@ -56,6 +56,8 @@ OK, on to script writing….
 Day 3 Reflections
 -----------------
 
+{{< youtube PXPZpFHd9Lg >}}
+
 This audio is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/aedesros) on Tumblr and is provided under our Creative Commons license.
 
 [\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor_and_Student_Work)
@@ -87,12 +89,16 @@ One of my goals in this class was to get more comfortable both behind and in fro
 Day 6 Vlog
 ----------
 
+{{< youtube bxyqAe8Fd68 >}}
+
 This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC3DqNsxRmnJvZEuS1N4B-vg) on YouTube and is provided under our Creative Commons license.
 
 [\_Link back to Day 6\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-6-table-read-and-office-hours/_index.md" %}}#Instructor_and_Student_Work)
 
 Day 7 Vlog
 ----------
+
+{{< youtube 0wZ3OpSnbEU >}}
 
 This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC3DqNsxRmnJvZEuS1N4B-vg) on YouTube and is provided under our Creative Commons license.
 

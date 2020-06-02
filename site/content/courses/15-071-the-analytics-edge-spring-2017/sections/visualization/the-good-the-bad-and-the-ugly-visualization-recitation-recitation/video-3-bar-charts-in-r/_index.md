@@ -27,5 +27,7 @@ In this video, we'll use the dataset [intl (CSV)](https://open-learning-course-d
 
 An R script file with all of the commands used in this recitation can be downloaded here: [Resource Unit7\_Recitation (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/666aaa7f2146df6e575dac0b0c89a8e8_Unit7_Recitation.R).
 
+{{< youtube En0xvjBnmfU >}}
+
 *   [BackVideo 2: Pie Charts]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-2-pie-charts" %}})
 *   [ContinueVideo 4: A Better Visualization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-4-a-better-visualization" %}})

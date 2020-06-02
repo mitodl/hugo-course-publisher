@@ -26,5 +26,7 @@ Video 4: MRI Image
 
 **Caution:** We suggest that you do not run the "dist" function the first time it comes up in the video if you are following along in R. Running this function may cause errors on your computer. [See 6.4.5 for details]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/caution" %}}).
 
+{{< youtube 35kwBJQwmLg >}}
+
 *   [BackCaution]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/caution" %}})
 *   [ContinueVideo 5: K-Means Clustering]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-5-k-means-clustering/_index.md" %}})

@@ -28,5 +28,7 @@ layout: videogallery
 Linearity Of Expectation
 ------------------------
 
+{{< youtube KFcodn4qfrQ >}}
+
 *   [BackThree Machines Failing]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-1/vertical-f2cac6de0392" %}})
 *   [ContinueFair and Biased Coins]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-1/vertical-4f20b89f006a" %}})

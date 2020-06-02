@@ -29,6 +29,8 @@ layout: videogallery
 Video 1: Replicating Expert Assessment
 --------------------------------------
 
+{{< youtube wYcMru4gYF4 >}}
+
 The slides from all videos in this Lecture Sequence can be downloaded here: [An Introduction to Logistic Regression (PDF - 1.2MB)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/MIT15_071S17_Unit3_ModelingExpert" %}}).
 
 *   [BackWelcome to Unit 3]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/welcome-to-unit-3" %}})

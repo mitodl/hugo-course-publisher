@@ -29,18 +29,39 @@ Part 1: Student Interviews
 
 ### Kenneth's Interview
 
+{{< youtube 3coxJFCY3T4 >}}
+
 ### Joshua's Interview
+
+{{< youtube KKj4FAMF1Bk >}}
 
 ### Nathan and Andrea's Interview
 
+{{< youtube bhGIdWQqUYw >}}
+
 ### PJ's Interview
 
+{{< youtube PfbifHBnFJA >}}
+
 ### Yuliya's Interview
+
+{{< youtube gb80yhA2o4A >}}
 
 Part 2: Screening
 -----------------
 
+{{< youtube qkkI9Z9tKvo >}}
+
 ### Chapters
+
+*   {{< youtube qkkI9Z9tKvo >}}
+*   {{< youtube qkkI9Z9tKvo >}}
+*   {{< youtube qkkI9Z9tKvo >}}
+*   {{< youtube qkkI9Z9tKvo >}}
+*   {{< youtube qkkI9Z9tKvo >}}
+*   {{< youtube qkkI9Z9tKvo >}}
+*   {{< youtube qkkI9Z9tKvo >}}
+*   {{< youtube qkkI9Z9tKvo >}}
 
 Student Work
 ------------

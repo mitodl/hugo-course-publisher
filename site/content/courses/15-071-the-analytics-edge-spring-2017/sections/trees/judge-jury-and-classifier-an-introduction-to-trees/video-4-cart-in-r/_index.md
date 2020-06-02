@@ -32,5 +32,7 @@ In the next few videos, we'll be using the dataset [stevens (CSV)](https://open-
 
 An R script file with all of the R commands used in this lecture can be downloaded here: [Unit4\_SupremeCourt (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/4b3d86026f29ac088fd4a59adf74a01e_Unit4_SupremeCourt.R).
 
+{{< youtube JvtqThS69bw >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/quick-question-267" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/quick-question-281" %}})

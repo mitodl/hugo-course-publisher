@@ -11,4 +11,6 @@ layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/35.5-contact-point-of-a-wheel-rolling-without-slipping" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/36.2-worked-example-wheel-rolling-without-slipping-down-inclined-plane-torque-method" %}}) »
 
+{{< youtube hxa6jAYA980 >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/35.5-contact-point-of-a-wheel-rolling-without-slipping" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/36.2-worked-example-wheel-rolling-without-slipping-down-inclined-plane-torque-method" %}}) »

@@ -25,6 +25,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube z5TPjZrsp2k >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/fa0d8f3c8d1f5673a01eab5a422f27fa_MIT18_02SC_L21Brds_7a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/b7b88508af7ae4bf1b41f5dbfd837362_MIT18_02SC_L21Brds_7.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/027d9e7496d29cb8f675ff48a1e17f93_MIT18_02SC_L21Brds_8a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/e9ff8fd017b3b880e9b8d45f13e2f283_MIT18_02SC_L21Brds_8.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/67bad0d526187cedff12b81e1399786a_MIT18_02SC_L21Brds_9a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/4995e217519ea23854834c007f159a40_MIT18_02SC_L21Brds_9.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/dfb1678488c5075b88a4567fa69ad60c_MIT18_02SC_L21Brds_10a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/a8052ab7336af8244c7e51508793ec6c_MIT18_02SC_L21Brds_10.png "Open in a new window.")  
@@ -40,6 +42,8 @@ Recitation Video
 ----------------
 
 ### Potentials of Gradient Fields
+
+{{< youtube Tgk9wURblAw >}}
 
 Problems and Solutions
 ----------------------

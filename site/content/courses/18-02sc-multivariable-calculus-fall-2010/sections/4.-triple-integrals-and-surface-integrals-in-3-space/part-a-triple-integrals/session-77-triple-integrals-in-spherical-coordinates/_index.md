@@ -25,6 +25,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube RMBGQtwkoyU >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/faefce91a9e2560e1ea5a1c1888d9d88_MIT18_02SC_L26Brds_6a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/aa679ea1a5e870ae04f9c4b7869486e0_MIT18_02SC_L26Brds_6.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/756bae1b7167566d25fe34b0146dba1f_MIT18_02SC_L26Brds_7a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/7091fb2c8c95f69bec3e6c8c07e24576_MIT18_02SC_L26Brds_7.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/bd5a54ad7892e98debaeae398c4ff2a6_MIT18_02SC_L26Brds_8a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/bf9e520815c9e0d57c84076ad0e0d575_MIT18_02SC_L26Brds_8.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/ab5a1851b3e49a795982357de49e4a6e_MIT18_02SC_L26Brds_9a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/b6edba1c9e8fff6f6270f2b48ec91acd_MIT18_02SC_L26Brds_9.png "Open in a new window.")  
@@ -34,6 +36,8 @@ Recitation Video
 ----------------
 
 ### Average Distance on a Sphere
+
+{{< youtube RoTz\_ylFHfY >}}
 
 Related Readings
 ----------------

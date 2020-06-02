@@ -29,6 +29,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube 9FLItlbBUPY >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![MIT18_02SC_L2Brds_8a.png](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/4be6c6e8e33022bb16899bd070541b20_MIT18_02SC_L2Brds_8a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/5b22ec142ea6f7eb1950b653a9650bcf_MIT18_02SC_L2Brds_8.png "Open in a new window.")[![MIT18_02SC_L2Brds_9a.png](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/77ffc177ea8c4cbad7b45d91b5849ea8_MIT18_02SC_L2Brds_9a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/baa9a4ea0bb33800d7ab7d127a008ae4_MIT18_02SC_L2Brds_9.png "Open in a new window.")
@@ -42,6 +44,8 @@ Recitation Video
 ----------------
 
 ### Determinants
+
+{{< youtube PxkEoEbCJT8 >}}
 
 Related Readings
 ----------------
@@ -59,6 +63,8 @@ Recitation Video
 ----------------
 
 ### Volume of a Parallelepiped
+
+{{< youtube QCGJVKaCDuI >}}
 
 Problems and Solutions
 ----------------------

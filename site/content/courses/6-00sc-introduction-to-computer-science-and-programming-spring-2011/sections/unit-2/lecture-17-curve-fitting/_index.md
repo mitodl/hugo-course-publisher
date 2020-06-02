@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube TIQTYgmavC4 >}}
+
 > ### About this Video
 > 
 > Topics covered: Arrays, curve fitting, numpy, pylab, least squares fit, prediction.
@@ -33,6 +35,8 @@ Session Activities
 > *   [Lecture data files (ZIP)](https://open-learning-course-data-ci.s3.amazonaws.com/6-00sc-introduction-to-computer-science-and-programming-spring-2011/95bc8ed64ad26e01b14fc5fc5d85cdfa_lec17_data.zip) (This ZIP file contains: 3 .txt files.)
 
 ### Recitation Videos
+
+*   {{< youtube FBKxrPEeCSU >}}
 
 > ### About this Video
 > 

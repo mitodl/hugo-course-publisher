@@ -20,5 +20,7 @@ layout: videogallery
 Welcome to Recitation 9
 -----------------------
 
+{{< youtube X3dLfxatijE >}}
+
 *   [BackVideo 4: The Analytics Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/eharmony-maximizing-the-probability-of-love/video-4-the-analytics-edge" %}})
 *   [ContinueVideo 1: The Problem]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-1-the-problem" %}})

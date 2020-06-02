@@ -22,5 +22,7 @@ layout: videogallery
 Recursive Data
 --------------
 
+{{< youtube TXNXT3oBROw >}}
+
 *   [BackChocolate Bars]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-2/vertical-ffd6266c03ec" %}})
 *   [ContinueMatching Parentheses]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/recursive-definition/matching-parentheses" %}})

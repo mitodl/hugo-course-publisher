@@ -24,5 +24,7 @@ layout: videogallery
 Video 4: Modeling the Problem
 -----------------------------
 
+{{< youtube BvZlP1ZyToo >}}
+
 *   [BackVideo 3: Prices and Queries]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-3-prices-and-queries" %}})
 *   [ContinueVideo 5: Solving the Problem]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-5-solving-the-problem/_index.md" %}})

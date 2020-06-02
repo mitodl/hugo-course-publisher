@@ -26,5 +26,7 @@ layout: videogallery
 Chebyshev Bounds: Video
 -----------------------
 
+{{< youtube uaa4P-kkLrA >}}
+
 *   [BackMarkov Bound]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-2/vertical-ecd276750fa8" %}})
 *   [ContinueInside the TA's Brain]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-2/vertical-82fa33baa07e" %}})

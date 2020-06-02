@@ -37,6 +37,8 @@ corpus \= tm\_map(corpus, PlainTextDocument)
 
 Then you can continue with the R commands as they are in the video.
 
+{{< youtube FqiB9tmtdSc >}}
+
 Non-Standard Stop Word Lists
 ----------------------------
 

@@ -14,5 +14,9 @@ layout: videogallery
 Getters and Setters
 -------------------
 
+{{< youtube C\_pgH5QhIZ8 >}}
+
 Subclass
 --------
+
+{{< youtube 8s0d87sjy1A >}}

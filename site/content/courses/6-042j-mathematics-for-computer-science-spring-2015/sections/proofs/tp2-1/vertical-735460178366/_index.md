@@ -23,5 +23,7 @@ layout: videogallery
 Well Ordering Principle 2
 -------------------------
 
+{{< youtube I1HpgnWQI7I >}}
+
 *   [BackDomain for Well Ordering Principle]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-1/vertical-1d9c2a0e507a" %}})
 *   [ContinueWell Ordering Proofs and Counterexamples]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-1/vertical-001819756631" %}})

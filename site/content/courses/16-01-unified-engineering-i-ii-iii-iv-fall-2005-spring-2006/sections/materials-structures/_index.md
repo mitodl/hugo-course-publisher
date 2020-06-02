@@ -38,6 +38,8 @@ Sample Lecture
 
 ### Sample Lecture M15: Yielding and Plasticity
 
+{{< youtube YjUOaNbLnn0 >}}
+
 _Video Note_  
 The materials selection graph shown in the video (from the Ashby and Jones book) is courtesy of Michael Ashby.
 

@@ -21,6 +21,8 @@ Lecture Video: Coupled Oscillators, Normal Modes
 
 Prof. Lee analyzes a highly symmetric system which contains multiple objects. By physics intuition, one could identify a special kind of motion – the normal modes. He shows that there is a general strategy for solving the normal modes.
 
+{{< youtube BX4QPdP7fT8 >}}
+
 Lecture Notes
 -------------
 
@@ -38,11 +40,11 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Double Pendulum](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2069&show=0) | {{< br >}}{{< br >}} |
-| [Weighted Hacksaw Blade](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2021&show=0) | {{< br >}}{{< br >}} |
-| [Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0) | {{< br >}}{{< br >}} |
-| [Two Pendulums Coupled with a Rod](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2018&show=0) | {{< br >}}{{< br >}} |
-| [Wilberforce Pendulum](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2022&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} 
+| [Double Pendulum](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2069&show=0) | {{< youtube BX4QPdP7fT8 >}} |
+| [Weighted Hacksaw Blade](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2021&show=0) | {{< youtube BX4QPdP7fT8 >}} |
+| [Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0) | {{< youtube BX4QPdP7fT8 >}} |
+| [Two Pendulums Coupled with a Rod](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2018&show=0) | {{< youtube BX4QPdP7fT8 >}} |
+| [Wilberforce Pendulum](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2022&show=0) | {{< youtube BX4QPdP7fT8 >}} and {{< youtube BX4QPdP7fT8 >}} 
 
 Related Resources
 -----------------

@@ -31,6 +31,8 @@ layout: videogallery
     
     CheckShow Answer Videos
     
+    {{< youtube 4gPwo38MNss >}}
+    
   
 3.  ### Functions as Arguments
     
@@ -51,3 +53,5 @@ layout: videogallery
     &nbsp;nothing, it will show an error&nbsp;
     
     CheckShow Answer Videos
+    
+    {{< youtube QaOHeMnpnmU >}}

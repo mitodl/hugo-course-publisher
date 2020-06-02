@@ -21,8 +21,7 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture
-    
+*   Watch the video lecture {{< youtube JibVXBElKL0 >}}
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/MIT18_06SCF11_Ses1.5sum" %}})
 *   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/JibVXBElKL0" %}})
 
@@ -32,11 +31,9 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on
-    
+*   Watch the recitation video on {{< youtube QQpvGlF\_1Qo >}}
 *   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/QQpvGlF_1Qo" %}})
-*   观看视频: 习题讲解 --
-    
+*   观看视频: 习题讲解 -- {{< youtube VyPIQ\_8QqEk >}}
 
 Check Yourself
 --------------

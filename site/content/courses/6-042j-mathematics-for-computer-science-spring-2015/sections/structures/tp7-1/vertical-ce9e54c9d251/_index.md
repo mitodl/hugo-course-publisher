@@ -22,5 +22,7 @@ layout: videogallery
 Time versus Processors
 ----------------------
 
+{{< youtube cUYTlKA8jaw >}}
+
 *   [BackScheduling Prerequisites]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-1/vertical-cb2dbc0f9d11" %}})
 *   [ContinueProcessor Time Bounds]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-1/vertical-a69125071411" %}})

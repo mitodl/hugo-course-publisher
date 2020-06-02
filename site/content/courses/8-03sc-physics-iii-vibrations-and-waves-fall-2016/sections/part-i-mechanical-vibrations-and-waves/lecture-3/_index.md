@@ -21,6 +21,8 @@ Lecture Video: Driven Oscillators, Transient Phenomena, Resonance
 
 Driven damped oscillators is the focus of this lecture. Prof. Lee shows the transient behavior, which looks completely chaotic at times, can be described by mathematics. He also discusses interesting phenomena such as resonance.
 
+{{< youtube FCFpaKcpuXQ >}}
+
 Lecture Notes
 -------------
 
@@ -52,10 +54,10 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Driven Cart on Air Track](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2058&show=0) | {{< br >}}{{< br >}} |
-| Ball on String Pendulum | {{< br >}}{{< br >}} |
-| [Driven Mechanical Oscillator](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2059&show=0) | {{< br >}}{{< br >}} |
-| [Breaking Glass with Sound](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2066&show=0) | {{< br >}}{{< br >}} 
+| [Driven Cart on Air Track](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2058&show=0) | {{< youtube FCFpaKcpuXQ >}} |
+| Ball on String Pendulum | {{< youtube FCFpaKcpuXQ >}} |
+| [Driven Mechanical Oscillator](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2059&show=0) | {{< youtube FCFpaKcpuXQ >}} |
+| [Breaking Glass with Sound](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2066&show=0) | {{< youtube FCFpaKcpuXQ >}} 
 
 Related Resources
 -----------------

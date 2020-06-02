@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube ddtobc-AOK4 >}}
+
 > ### About this Video
 > 
 > Topics covered: Plotting, randomness, probability, Pascal's algorithm, Monte Carlo simulation, inferential statistics, gambler's fallacy, law of large numbers.

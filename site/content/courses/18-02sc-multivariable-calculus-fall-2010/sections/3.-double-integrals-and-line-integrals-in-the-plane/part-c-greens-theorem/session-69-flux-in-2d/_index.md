@@ -25,6 +25,10 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube \_CdoRiNSrqI >}}
+
+{{< youtube \_CdoRiNSrqI >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/328b95ad6785b8b0a54f0d23daa20681_MIT18_02SC_L23Brds_1a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/0d24f2ec51708935aaa8ad2b53c0b44b_MIT18_02SC_L23Brds_1.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/11c708ee519a1a5b60a2a45aa654e541_MIT18_02SC_L23Brds_2a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/3a5ec5e0af8f7ff0a778169143ce5e26_MIT18_02SC_L23Brds_2.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/0d2407e7385584b8d0a068dc5e52074c_MIT18_02SC_L23Brds_3a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/17fec054394f9bad1164224f93fed55f_MIT18_02SC_L23Brds_3.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/801cf40bd8bf96ad0b04e0e4f4f24ccf_MIT18_02SC_L23Brds_4a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/7d6a944b8a56f6bdd1127a832c8a5ff3_MIT18_02SC_L23Brds_4.png "Open in a new window.")  
@@ -40,6 +44,8 @@ Recitation Video
 ----------------
 
 ### Flux Across a Curve
+
+{{< youtube mEI7ACWmx\_8 >}}
 
 Problems and Solutions
 ----------------------

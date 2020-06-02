@@ -28,5 +28,7 @@ In this recitation, we'll be using the dataset [energy\_bids (CSV - 2.0MB)](http
 
 An R script file with all of the commands we will be using in this recitation can be downloaded here: [Resource Unit5\_Recitation (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/011d033b38637b575bcdf6a154a3fcf6_Unit5_Recitation.R).
 
+{{< youtube S-UZTbRqjeo >}}
+
 *   [BackVideo 1: The Story of Enron]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-1-the-story-of-enron" %}})
 *   [ContinueVideo 3: Pre-Processing]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-3-pre-processing" %}})

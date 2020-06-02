@@ -23,5 +23,7 @@ layout: videogallery
 Video 2: Pie Charts
 -------------------
 
+{{< youtube \_EtlZAMQ2gc >}}
+
 *   [BackVideo 1: Introduction]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-1-introduction" %}})
 *   [ContinueVideo 3: Bar Charts in R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-3-bar-charts-in-r/_index.md" %}})

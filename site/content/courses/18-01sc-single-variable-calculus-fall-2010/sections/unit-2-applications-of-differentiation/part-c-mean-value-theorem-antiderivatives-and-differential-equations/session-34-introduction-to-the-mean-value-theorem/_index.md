@@ -21,10 +21,16 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube 4Q37iOyBq44 >}}
+
+{{< youtube 4Q37iOyBq44 >}}
+
 Recitation Video
 ----------------
 
 ### Increasing or Decreasing
+
+{{< youtube z1FRDkxlmg8 >}}
 
 Worked Example
 --------------

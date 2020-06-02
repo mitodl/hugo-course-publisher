@@ -31,6 +31,8 @@ Contents
 Day 1 Pitch
 -----------
 
+{{< youtube 0BmWrrZq5A4 >}}
+
 This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
 
 OMG! Can my password be stolen from Facebook's database?
@@ -66,6 +68,8 @@ So the next time you do a Google search, know that you're in good hands with the
 
 Day 3 Trailer
 -------------
+
+{{< youtube RMRI-Q3PMLE >}}
 
 This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
 
@@ -213,12 +217,16 @@ Aha! So that's where my gloves are! And that's the story of Search!
 Rough Cut
 ---------
 
+{{< youtube W7LI4nNxk64 >}}
+
 This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
 
 [\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student_Work)
 
 Final Project: Why can't I find my glove? The Science of Search
 ---------------------------------------------------------------
+
+{{< youtube 5eF2qCWtifM >}}
 
 This video is courtesy of [Joshua Cheong](https://www.youtube.com/channel/UCZgMyNeT7hCiNSjnV_5iwVQ) on YouTube and is provided under our Creative Commons license.
 

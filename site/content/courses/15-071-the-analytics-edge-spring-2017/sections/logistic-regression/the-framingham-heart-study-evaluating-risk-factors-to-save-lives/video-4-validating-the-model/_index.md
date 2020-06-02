@@ -26,6 +26,8 @@ layout: videogallery
 Video 4: Validating the Model
 -----------------------------
 
+{{< youtube n80gFc12u60 >}}
+
 In this video, we mention that the Framingham Risk Model was tested on diverse cohorts. The original Framingham Risk Model was actually computed by a different sort of regression, called a Cox Proportional Hazards Model. This method is different but related to logistic regression, and it will return a similar estimate of 10-year CHD risk.
 
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/quick-question-233" %}})

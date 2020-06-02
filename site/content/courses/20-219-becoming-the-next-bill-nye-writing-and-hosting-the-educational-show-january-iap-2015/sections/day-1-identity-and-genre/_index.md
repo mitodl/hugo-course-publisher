@@ -29,7 +29,15 @@ We will discuss who you are, what brought you to this class, what / who inspires
 Part 1: Video Best Practices
 ----------------------------
 
+{{< youtube VBgVRviSKek >}}
+
 ### Video Chapters
+
+*   {{< youtube VBgVRviSKek >}}
+*   {{< youtube VBgVRviSKek >}}
+*   {{< youtube VBgVRviSKek >}}
+*   {{< youtube VBgVRviSKek >}}
+*   {{< youtube VBgVRviSKek >}}
 
 ### In-class Media: Video Best Practices
 
@@ -71,12 +79,23 @@ Students began watching each of the videos below and recorded how long they cont
 Part 2: Visual Storytelling
 ---------------------------
 
+{{< youtube 17uL1VoaWTQ >}}
+
 ### Video Chapters
+
+*   {{< youtube 17uL1VoaWTQ >}}
+*   {{< youtube 17uL1VoaWTQ >}}
+*   {{< youtube 17uL1VoaWTQ >}}
 
 Part 3: Wrap-up and Assignment
 ------------------------------
 
+{{< youtube aHygKFodPKg >}}
+
 ### Video Chapters
+
+*   {{< youtube aHygKFodPKg >}}
+*   {{< youtube aHygKFodPKg >}}
 
 ### In-class Media: Stem Pitch
 
@@ -93,6 +112,8 @@ What's one aspect of science / engineering that you find fascinating? Can you te
 ### Daily Blog / Vlog
 
 Provide documentation on your process / difficulties in completing this assignment. This can take the form of a written blog post reflection, photos, another "selfie" video (<2 min.), or other creative media format of your choice. Upload the post to the class tumblr with the tag #day1**.**
+
+{{< youtube TXkB42FCriU >}}
 
 This video is courtesy of [Elizabeth Choe](http://mit219.tumblr.com/tagged/echoe) on Tumblr and is provided under our Creative Commons license.
 

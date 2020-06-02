@@ -32,6 +32,8 @@ I also have to refrain from jumping into all the discussions because I have a lo
 Reflection Day 2
 ----------------
 
+{{< youtube A7dxk0beojA >}}
+
 This video is courtesy of [Ceri Riley](https://www.youtube.com/channel/UCQD8LaT39JafbO-L-VGet9A) on YouTube and is provided under our Creative Commons license.
 
 I think my written posts will always be more composed than an off-the-cuff vlog, but it's still good practice to get more comfortable in front of the camera!
@@ -40,6 +42,8 @@ I think my written posts will always be more composed than an off-the-cuff vlog,
 
 Reflection Day 3
 ----------------
+
+{{< youtube DpqY4j3nK3A >}}
 
 This video is courtesy of [Ceri Riley](https://www.youtube.com/channel/UCQD8LaT39JafbO-L-VGet9A) on YouTube and is provided under our Creative Commons license.
 
@@ -55,6 +59,8 @@ karldallas. "[Olivier's Hamlet film (1948): To Be Or Not To Be soliloquy](https:
 
 Reflection Day 4
 ----------------
+
+{{< youtube es4aS15Y\_Ck >}}
 
 This video is courtesy of [Ceri Riley](https://www.youtube.com/channel/UCQD8LaT39JafbO-L-VGet9A) on YouTube and is provided under our Creative Commons license.
 

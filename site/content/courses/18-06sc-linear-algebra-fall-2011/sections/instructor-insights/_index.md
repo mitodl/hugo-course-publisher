@@ -13,6 +13,8 @@ Instructor Insights
 
 In the following video, Professor Gilbert Strang describes various aspects of how he teaches _18.06 Linear Algebra_.
 
+{{< youtube 7UJ4CFRGd-U >}}
+
 Curriculum Information
 ----------------------
 

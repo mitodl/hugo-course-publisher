@@ -25,5 +25,7 @@ layout: videogallery
 Law Of Total Probability
 ------------------------
 
+{{< youtube F3y8qupFfUs >}}
+
 *   [BackDicey Sum]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-1/vertical-c84a5906e76d" %}})
 *   [ContinueCavities and Candy]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-1/vertical-ca9fdfa21bb0" %}})

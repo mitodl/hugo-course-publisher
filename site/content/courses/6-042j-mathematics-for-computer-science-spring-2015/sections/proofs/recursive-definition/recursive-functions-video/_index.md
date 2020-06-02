@@ -22,5 +22,7 @@ layout: videogallery
 Recursive Functions
 -------------------
 
+{{< youtube tOsdeaYDCMk >}}
+
 *   [BackCounting Cases]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/recursive-definition/counting-cases" %}})
 *   [Continue Infinite Sets]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/_index.md" %}})

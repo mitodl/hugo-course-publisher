@@ -27,5 +27,7 @@ layout: videogallery
 Cantor's Theorem
 ----------------
 
+{{< youtube 4dj1ogUwTEM >}}
+
 *   [BackCountable Sets: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/countable-sets-video" %}})
 *   [ContinueCantor's Diagonal Argument]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/vertical-733f8439bc8d" %}})

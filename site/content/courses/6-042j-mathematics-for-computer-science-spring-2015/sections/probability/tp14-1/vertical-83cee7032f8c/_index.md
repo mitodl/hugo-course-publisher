@@ -25,5 +25,7 @@ layout: videogallery
 Sampling & Confidence
 ---------------------
 
+{{< youtube Q-6Cw8tYVeY >}}
+
 *   [BackBirthdays On Naboo]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp14-1/vertical-20063bed5f4a" %}})
 *   [ContinueConfidence]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp14-1/vertical-b6f0d030cb36" %}})

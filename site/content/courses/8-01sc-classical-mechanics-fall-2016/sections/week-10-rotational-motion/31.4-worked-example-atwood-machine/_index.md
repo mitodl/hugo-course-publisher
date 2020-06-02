@@ -17,4 +17,6 @@ A uniform massive pulley of radius \\(R\\) and moment of inertia about its cente
 
 Assume \\(m\_2> m\_1\\). Find the acceleration of the objects.
 
+{{< youtube FlHKTvUjD6g >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/31.3-worked-example-find-the-moment-of-inertia-of-a-disc-from-a-falling-mass" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/31.5-massive-pulley-problems" %}}) »

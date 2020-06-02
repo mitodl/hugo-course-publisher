@@ -22,5 +22,7 @@ layout: videogallery
 Video 3: Predicting Compatibility Scores
 ----------------------------------------
 
+{{< youtube pelPpuYUAho >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/eharmony-maximizing-the-probability-of-love/quick-question-703" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/eharmony-maximizing-the-probability-of-love/quick-question-711/_index.md" %}})

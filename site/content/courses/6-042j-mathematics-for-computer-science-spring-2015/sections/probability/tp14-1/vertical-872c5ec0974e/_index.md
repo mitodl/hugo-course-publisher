@@ -25,5 +25,7 @@ layout: videogallery
 Independent Sampling Theorem
 ----------------------------
 
+{{< youtube MMn7q1M7pGI >}}
+
 *   [BackNot So Strong]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp14-1/vertical-84aa6f70d1c0" %}})
 *   [ContinueSampling Coin Tosses]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp14-1/vertical-b7cee8c0e19c" %}})

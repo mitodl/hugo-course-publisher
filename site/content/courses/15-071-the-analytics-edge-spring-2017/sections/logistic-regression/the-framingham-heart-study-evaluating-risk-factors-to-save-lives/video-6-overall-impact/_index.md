@@ -26,5 +26,7 @@ layout: videogallery
 Video 6: Overall Impact
 -----------------------
 
+{{< youtube H5uEHZBRWtc >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/quick-question-248" %}})
 *   [ContinueElection Forecasting: Predicting the Winner Before any Votes are Cast (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/_index.md" %}})

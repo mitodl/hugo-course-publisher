@@ -26,5 +26,7 @@ layout: videogallery
 Relations
 ---------
 
+{{< youtube FkfsmwAtDdY >}}
+
 *   [BackDifference]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-2/vertical-049c9a1dd957" %}})
 *   [ContinueRange of a Relation]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-3/vertical-70020f5936fa" %}})

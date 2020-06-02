@@ -26,6 +26,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube o7UCBjGsRTE >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/0235b431e264380acebb560d4ca326ba_MIT18_02SC_L20Brds_9a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/809299ec52327a1368ff34d3aac8191f_MIT18_02SC_L20Brds_9.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/b528e5154a2cfe32f6990a6cbc9938c8_MIT18_02SC_L20Brds_10a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/214524f2dd4e8d800353352588e8d931_MIT18_02SC_L20Brds_10.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/b95900a612dc4cd3faa4c75fb3996c8a_MIT18_02SC_L20Brds_11a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/11d3335866048adcd46c3d6e9b228e8a_MIT18_02SC_L20Brds_11.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/76ed10797f3786cfe5f7fab55a984090_MIT18_02SC_L20Brds_12a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/5b8c0552cd25a37593e120e6eb165e2d_MIT18_02SC_L20Brds_12.png "Open in a new window.")  
@@ -41,10 +43,14 @@ Recitation Video
 
 ### Fundamental Theorem of Line Integrals
 
+{{< youtube 9rVojYcPeoU >}}
+
 Lecture Video
 -------------
 
 ### Video Excerpts
+
+{{< youtube o7UCBjGsRTE >}}
 
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 

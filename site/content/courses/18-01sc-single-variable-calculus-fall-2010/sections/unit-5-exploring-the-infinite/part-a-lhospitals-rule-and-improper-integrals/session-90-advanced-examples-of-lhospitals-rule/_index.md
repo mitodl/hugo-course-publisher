@@ -21,6 +21,10 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube PNTnmH6jsRI >}}
+
+{{< youtube PNTnmH6jsRI >}}
+
 Worked Example
 --------------
 
@@ -34,11 +38,17 @@ Recitation Video
 
 ### Failure of L'Hospital's Rule
 
+{{< youtube QKXAd2PhZGY >}}
+
 ### Indeterminate Forms
+
+{{< youtube bnhIRhnBa1A >}}
 
 Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
+
+{{< youtube KhwQKE\_tld0 >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-89-lhospitals-rule-and-rates-of-growth/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-91-improper-integrals/_index.md" %}}) »

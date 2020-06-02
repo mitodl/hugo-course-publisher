@@ -30,6 +30,8 @@ Before watching the Lecture Video, read the course textbook for an introduction 
 
 ### Lecture Videos
 
+*   {{< youtube kEJf57FF0Vs >}}
+
 ### Resources
 
 *   [Graphs and Figures (PDF)]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-7-equity-and-efficiency/equity-and-efficiency/MIT14_01SCF11_graph23" %}})

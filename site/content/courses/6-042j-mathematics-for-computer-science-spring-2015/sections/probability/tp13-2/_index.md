@@ -26,5 +26,7 @@ layout: videogallery
 Deviation From The Mean: Video
 ------------------------------
 
+{{< youtube ALn1McUXg-c >}}
+
 *   [BackExpectation of a Uniform Distribution]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-1/vertical-0a1dc9049ff4" %}})
 *   [ContinueDon't Expect the Expectation]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-2/vertical-18d81b8ca2e1" %}})

@@ -23,6 +23,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube pmolioUklXI >}}
+
 Check Yourself
 --------------
 

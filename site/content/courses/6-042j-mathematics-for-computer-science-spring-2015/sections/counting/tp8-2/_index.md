@@ -28,5 +28,7 @@ layout: videogallery
 Arithmetic Sums
 ---------------
 
+{{< youtube v6axtBS6IF8 >}}
+
 *   [BackCounting]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/_index.md" %}})
 *   [ContinuePerturbation by Young Gauss]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-2/vertical-56598c481e1a" %}})

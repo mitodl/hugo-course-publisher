@@ -23,5 +23,7 @@ layout: videogallery
 Sample Spaces
 -------------
 
+{{< youtube Amd\_bNYzgUw >}}
+
 *   [BackSimplify Prize Tree]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-9542d6e9bbc8" %}})
 *   [ContinueSum Rule Practice]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-eb54695f6f66" %}})

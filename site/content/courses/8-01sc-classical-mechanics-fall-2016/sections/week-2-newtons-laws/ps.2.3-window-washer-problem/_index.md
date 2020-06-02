@@ -37,6 +37,8 @@ A window washer of mass \\(\\displaystyle m\\) is sitting on a horizontal platfo
 Window Washer Free Body Diagrams
 --------------------------------
 
+{{< youtube XeTsZhYHY\_E >}}
+
 Now that we know the system, we can solve for \\(\\displaystyle F\_{wB}\\).
 
 **(Part d)** What is the magnitude of the force exerted by the person on rope B, \\(\\displaystyle F\_{wB}\\)? Express your answer in terms of \\(\\displaystyle a\\), \\(\\displaystyle m\\) and \\(\\displaystyle g\\) as needed.
@@ -45,5 +47,7 @@ Now that we know the system, we can solve for \\(\\displaystyle F\_{wB}\\).
 
 Window Washer Solution
 ----------------------
+
+{{< youtube ozIdCgo5uI4 >}}
 
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/problem-set-2" %}}) »

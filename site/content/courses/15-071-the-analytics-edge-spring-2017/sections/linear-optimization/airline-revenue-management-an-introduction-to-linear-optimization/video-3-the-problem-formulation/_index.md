@@ -29,5 +29,7 @@ layout: videogallery
 Video 3: The Problem Formulation
 --------------------------------
 
+{{< youtube 6m4l2k9hBZw >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/quick-question-581" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/quick-question-590" %}})

@@ -22,5 +22,7 @@ layout: videogallery
 Video 3: Data Analysis
 ----------------------
 
+{{< youtube jXu7NEuZED4 >}}
+
 *   [BackVideo 2: Working with Data in R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-2-working-with-data-in-r/_index.md" %}})
 *   [ContinueVideo 4: Creating Plots in R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-4-creating-plots-in-r" %}})

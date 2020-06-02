@@ -21,6 +21,8 @@ Lecture Video: Beat Phenomena
 
 Prof. Wyslouch shows the solution of two coupled pendula. A very interesting result from the calculation is that beat phenomena could be identified in the motion of the pendula, similar to what one could feel with sound waves.
 
+{{< youtube I0YACDaY-ww >}}
+
 Lecture Notes
 -------------
 
@@ -48,9 +50,9 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} |
-| [Wave Beats](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2041&show=0) | {{< br >}}{{< br >}} |
-| [Coupled Tunning Forks](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2046&show=0) | {{< br >}}{{< br >}} 
+| [Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0) | {{< youtube I0YACDaY-ww >}} and {{< youtube I0YACDaY-ww >}} |
+| [Wave Beats](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2041&show=0) | {{< youtube I0YACDaY-ww >}} |
+| [Coupled Tunning Forks](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2046&show=0) | {{< youtube I0YACDaY-ww >}} 
 
 Related Resources
 -----------------

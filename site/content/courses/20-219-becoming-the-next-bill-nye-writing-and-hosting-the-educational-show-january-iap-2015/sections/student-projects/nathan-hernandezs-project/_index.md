@@ -27,6 +27,8 @@ Contents
 Day 1 Pitch
 -----------
 
+{{< youtube 5DpVemTczV8 >}}
+
 This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1vNk_LtxsFjmerk7_M7HJg) on YouTube and is provided under our Creative Commons license.
 
 Lots lots lots lots to improve
@@ -85,6 +87,8 @@ How do you prevent your fresh food from going bad? My advice, eat your veggies.
 Day 3 Pitch
 -----------
 
+{{< youtube 7LTzsMNPuuk >}}
+
 This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1vNk_LtxsFjmerk7_M7HJg) on YouTube and is provided under our Creative Commons license.
 
 Very rough
@@ -110,6 +114,8 @@ Day 4 Storyboard
 Rough Cut: Breaking Down Decomposition
 --------------------------------------
 
+{{< youtube RINP7d9ohaw >}}
+
 This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1vNk_LtxsFjmerk7_M7HJg) on YouTube and is provided under our Creative Commons license.
 
 **I will explain why it's so terrible.**
@@ -118,6 +124,8 @@ This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1
 
 Final Project: Breaking Down Decomposition
 ------------------------------------------
+
+{{< youtube W1TMyIn2SIg >}}
 
 This video is courtesy of [WaywardLightning](https://www.youtube.com/channel/UC1vNk_LtxsFjmerk7_M7HJg) on YouTube and is provided under our Creative Commons license.
 

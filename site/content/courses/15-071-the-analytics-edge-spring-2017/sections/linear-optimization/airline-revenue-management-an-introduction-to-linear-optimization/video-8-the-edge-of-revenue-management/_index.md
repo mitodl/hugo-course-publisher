@@ -29,5 +29,7 @@ layout: videogallery
 Video 8: The Edge of Revenue Management
 ---------------------------------------
 
+{{< youtube S0g0ad4zX7A >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/quick-question-620" %}})
 *   [ContinueRadiation Therapy: An Application of Linear Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/radiation-therapy-an-application-of-linear-optimization/_index.md" %}})

@@ -21,6 +21,8 @@ Lecture Video
 
 Radicals, expanded octets, and more, in this lecture about Lewis structures.
 
+{{< youtube Hc5ODj1Ml6c >}}
+
 Lecture Notes
 -------------
 

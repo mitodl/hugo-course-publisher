@@ -26,6 +26,8 @@ layout: videogallery
 Video 2: The Game of Jeopardy
 -----------------------------
 
+{{< youtube 1-\_pwzJ8nPw >}}
+
 **Errata:** Only the first two rounds of Jeopardy have six categories, each with five questions.  Final Jeopardy consists of only one question, with the players wagering a dollar amount up to their current winnings.
 
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/quick-question-405" %}})

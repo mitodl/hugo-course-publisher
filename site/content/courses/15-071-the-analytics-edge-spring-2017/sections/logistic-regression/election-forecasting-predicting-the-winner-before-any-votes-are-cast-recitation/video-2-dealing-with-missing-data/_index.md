@@ -29,5 +29,7 @@ An R script file with all of the commands used in this lecture can be downloaded
 
 **Important Note**: On some operating systems, the imputed results will be slightly different even if you set the random seed. This is just due to the randomess involved in the multiple imputation process. We've provided the imputed data here: [PollingData\_Imputed (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/9567137abd96e74164d4a4d90245c561_PollingData_Imputed.csv). If your results are not matching after the imputation, you can use this dataset instead.
 
+{{< youtube isTQo2B\_1Ng >}}
+
 *   [BackVideo 1: Election Prediction]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-1-election-prediction" %}})
 *   [ContinueVideo 3: A Sophisticated Baseline Method]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-3-a-sophisticated-baseline-method" %}})

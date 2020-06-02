@@ -33,6 +33,8 @@ Contents
 Day 1 Pitch
 -----------
 
+{{< youtube LrJq-UIHKE8 >}}
+
 This video is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/aedesros) on Tumblr and is provided under our Creative Commons license.
 
 [\_Link back to Day 1\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-1-identity-and-genre" %}}#Instructor_and_Student_Work)
@@ -113,6 +115,8 @@ Andrea: (need closing statements…)
 Day 3 - Andrea's Trailer Take 2  
 
 ----------------------------------
+
+{{< youtube gfMHRcpwQAY >}}
 
 This video is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/aedesros) on Tumblr and is provided under our Creative Commons license.
 
@@ -408,12 +412,16 @@ Where braces use bone remodeling to make teeth straighter for mostly cosmetic re
 Rough Cut
 ---------
 
+{{< youtube mmDRqnTlII0 >}}
+
 This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC3DqNsxRmnJvZEuS1N4B-vg) on YouTube and is provided under our Creative Commons license.
 
 [\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student_Work)
 
 Final Project
 -------------
+
+{{< youtube QSkVGto19SA >}}
 
 This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC3DqNsxRmnJvZEuS1N4B-vg) on YouTube and is provided under our Creative Commons license.
 
@@ -445,6 +453,8 @@ Science Out Loud
 ----------------
 
 Andrea's video was professionally produced by [Science Out Loud](http://k12videos.mit.edu/science-out-loud) after this course finished.
+
+{{< youtube 6zzA4BU2e58 >}}
 
 This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](https://www.k12videos.mit.edu/faqs) license.
 

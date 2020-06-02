@@ -23,5 +23,7 @@ layout: videogallery
 Video 4: A Better Visualization
 -------------------------------
 
+{{< youtube 4bsc1II5KK0 >}}
+
 *   [BackVideo 3: Bar Charts in R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-3-bar-charts-in-r/_index.md" %}})
 *   [ContinueVideo 5: World Maps in R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-5-world-maps-in-r/_index.md" %}})

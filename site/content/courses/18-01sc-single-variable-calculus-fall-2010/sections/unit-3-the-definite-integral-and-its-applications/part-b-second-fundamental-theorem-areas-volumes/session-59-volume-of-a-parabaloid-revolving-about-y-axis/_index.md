@@ -21,12 +21,20 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube ShGBRUx2ub8 >}}
+
+{{< youtube ShGBRUx2ub8 >}}
+
 Recitation Video
 ----------------
 
 ### Volume of a Paraboloid via Disks
 
+{{< youtube ksAdC6Z99dE >}}
+
 ### Volume of Revolution via Shells
+
+{{< youtube MYXMC7koJyY >}}
 
 Worked Example
 --------------

@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube A2WFReES8CY >}}
+
 > ### About this Video
 > 
 > Topics covered: Careers in computer science, computational thinking, abstraction, automation.

@@ -38,5 +38,7 @@ An R script file with all of the commands used in this Lecture can be downloaded
 
 **Important Note:** We'll be using a text editor in this video to get the data into R. If you are on a Mac and are using TextEdit, the default file type is .rtf, so you will need to change the file type to txt. To do this, just go to Format → Make Plain Text, and the file will re-save as a txt file. Alternatively, depending on your operating system and web browser, you might just be able to save the file directly from the browser as a txt file.
 
+{{< youtube UQHz2U1ik9c >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/recommendations-worth-a-million-an-introduction-to-clustering/quick-question-458" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/recommendations-worth-a-million-an-introduction-to-clustering/quick-question-466" %}})

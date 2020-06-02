@@ -27,6 +27,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube UYe98CcxPbs >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/f29bce8ba30a7edf5d1d5c15e30a94b0_MIT18_02SC_L9Brds_1a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/9648e5d1b749d1226e0f13fcbda7c041_MIT18_02SC_L9Brds_1.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/1bd4c5ae7638511e0b5503b6d50df8e9_MIT18_02SC_L9Brds_2a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/7c46d4d2f4e37b0eb7b856be0c77f771_MIT18_02SC_L9Brds_2.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/7156682fcb5305f74585d8f20a511607_MIT18_02SC_L9Brds_3a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/2cd905a2d506eb35e5c600d23b68f0c0_MIT18_02SC_L9Brds_3.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/8ca6df97b120d81092a5c682bc777857_MIT18_02SC_L9Brds_4a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/3477eb4bfb1a95f6f7825346f2130c9b_MIT18_02SC_L9Brds_4.png "Open in a new window.")  
@@ -43,6 +45,8 @@ Recitation Video
 ----------------
 
 ### Tangent Plane Approximation
+
+{{< youtube idNIKTaBEaI >}}
 
 Examples
 --------

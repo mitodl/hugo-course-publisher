@@ -13,4 +13,6 @@ layout: videogallery
 
 A special case of Two Dimensional Motion is the motion of an object with an initial velocity with a non-zero horizontal component under the influence of only the gravitational force. This motion is referred to as Projectile Motion.
 
+{{< youtube 83NmtaE7fEk >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/3.3-instantaneous-acceleration-in-2d" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/3.5-demos-for-projectile-motion" %}}) »

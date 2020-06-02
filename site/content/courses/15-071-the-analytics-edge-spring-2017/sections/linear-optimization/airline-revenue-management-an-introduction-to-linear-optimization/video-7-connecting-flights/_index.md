@@ -31,6 +31,8 @@ Video 7: Connecting Flights
 
 In this video, we'll be solving our optimization problem using the spreadsheet AirlineRM\_Connecting. If you are using LibreOffice or OpenOffice, please download and open the spreadsheet [AirlineRM\_Connecting (ODS)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/271485a3c50161ab6c401dc835409ef7_AirlineRM_Connecting.ods). If you are using Microsoft Excel, please download and open the spreadsheet [AirlineRM\_Connecting (XLSX)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/ce9d2d35810ba685623eeb31573bb39c_AirlineRM_Connecting.xlsx). The following spreadsheets have the completed model as it is at the end of the video: [AirlineRM\_Connecting\_Complete (ODS)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/507c8b9a3622aa007f2f8966bc4c401e_AirlineRM_Connecting_Complete.ods) and [AirlineRM\_Connecting\_Complete (XLSX)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/e56b807a910d31772be77a1a6c9540e3_AirlineRM_Connecting_Complete.xlsx).
 
+{{< youtube DCcPG4aS5I0 >}}
+
 Solving Optimization Problems in R
 ----------------------------------
 

@@ -29,5 +29,7 @@ layout: videogallery
 Video 8: The Analytics Edge
 ---------------------------
 
+{{< youtube m0Yce2rtZJ8 >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/quick-question-208" %}})
 *   [ContinueThe Framingham Heart Study: Evaluating Risk Factors to Save Lives]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/_index.md" %}})

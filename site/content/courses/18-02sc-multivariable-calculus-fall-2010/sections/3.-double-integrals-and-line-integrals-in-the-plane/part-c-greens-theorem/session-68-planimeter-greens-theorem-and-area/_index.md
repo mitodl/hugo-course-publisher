@@ -24,6 +24,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube tYdoS0tkAHA >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/31b053a57c06df97469158dbf8249432_MIT18_02SC_L22Brds_19a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/2e98c143afb15e511e21be83d8c87781_MIT18_02SC_L22Brds_19.png "Open in a new window.")
@@ -33,7 +35,11 @@ Recitation Video
 
 ### Green's Theorem: Area Under an Arch
 
+{{< youtube KXof0q88xbg >}}
+
 ### Application of Green's Theorem
+
+{{< youtube grns\_GNYWe4 >}}
 
 Examples
 --------

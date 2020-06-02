@@ -11,4 +11,6 @@ layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.2-relative-velocity-is-independent-of-reference-frame" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.4-worked-example-1d-elastic-collision-in-cm" %}}) »
 
+{{< youtube 7x62TdS0Nn0 >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.2-relative-velocity-is-independent-of-reference-frame" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.4-worked-example-1d-elastic-collision-in-cm" %}}) »

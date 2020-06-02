@@ -29,6 +29,8 @@ layout: videogallery
 Video 5: Data Analysis - Summary Statistics and Scatterplots
 ------------------------------------------------------------
 
+{{< youtube Goo1EUY-Y8M >}}
+
 This video covers a lot of material regarding basic data analysis in R. Don't worry if you don't absorb everything, as the focus of the recitation and the homework assignment is to go over all of these topics again. By the time you are done with the homework assignment for this week, you will hopefully feel much more comfortable performing basic data analysis in R.
 
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question-20" %}})

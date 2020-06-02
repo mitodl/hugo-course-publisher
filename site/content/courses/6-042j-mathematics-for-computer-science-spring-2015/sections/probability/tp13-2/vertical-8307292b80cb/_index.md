@@ -26,5 +26,7 @@ layout: videogallery
 Markov Bounds: Video
 --------------------
 
+{{< youtube m07lrb7m0D0 >}}
+
 *   [BackDon't Expect the Expectation]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-2/vertical-18d81b8ca2e1" %}})
 *   [ContinueMarkov Bound]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-2/vertical-ecd276750fa8" %}})

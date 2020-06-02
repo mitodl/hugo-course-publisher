@@ -26,6 +26,8 @@ layout: videogallery
 Video 4: A Head and Neck Case
 -----------------------------
 
+{{< youtube 98cyATFdwIk >}}
+
 The images in this video of the brain scans come from the [Computational Environment for Radiotherapy Research (CERR)](https://github.com/cerr/CERR). 
 
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/radiation-therapy-an-application-of-linear-optimization/quick-question-643" %}})

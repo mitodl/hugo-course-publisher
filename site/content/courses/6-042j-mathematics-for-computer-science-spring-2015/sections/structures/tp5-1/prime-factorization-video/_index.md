@@ -25,5 +25,7 @@ layout: videogallery
 Unique Factorization
 --------------------
 
+{{< youtube QsKtEuUyIdw >}}
+
 *   [BackRevisiting Die Hard: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-1/revisiting-die-hard-video" %}})
 *   [ContinueUnique Primes]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-1/vertical-abe126e3ad2c" %}})

@@ -26,6 +26,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube 60e4hdCi1D4 >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/dc2e0b90affa65598a14c4064ce45221_MIT18_02SC_L17Brds_10a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/156217692dac0f968a63e461df3bca3f_MIT18_02SC_L17Brds_10.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/f5e16de91b38f1c497df399edf1e8bb7_MIT18_02SC_L17Brds_11a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/4ee4d6f8794185c15efdba701992ff96_MIT18_02SC_L17Brds_11.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/1bcf04a5e3bca57bb7d1677e30fafe0e_MIT18_02SC_L17Brds_12a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/47ca256adba17e0d45575492753e41b2_MIT18_02SC_L17Brds_12.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/8dc5c61dcd0d628bf33c3d463f61841f_MIT18_02SC_L17Brds_13a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/89cb2f578dc7bae84d0329955a6b59bb_MIT18_02SC_L17Brds_13.png "Open in a new window.")  
@@ -40,6 +42,8 @@ Recitation Video
 ----------------
 
 ### Integrals with Density
+
+{{< youtube -pr1TLyPyDw >}}
 
 Problems and Solutions
 ----------------------

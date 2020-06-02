@@ -30,5 +30,7 @@ layout: videogallery
 Video 8: Comparing the Model to the Experts
 -------------------------------------------
 
+{{< youtube xYnq8nVcN4g >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/quick-question-101" %}})
 *   [ContinueMoneyball: The Power of Sports Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/_index.md" %}})

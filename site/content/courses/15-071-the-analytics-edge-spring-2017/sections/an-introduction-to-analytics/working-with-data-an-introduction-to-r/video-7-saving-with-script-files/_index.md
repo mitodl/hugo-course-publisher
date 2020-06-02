@@ -31,5 +31,7 @@ Video 7: Saving with Script Files
 
 A script file containing all of the R commands used in this lecture can be downloaded here: [Unit1\_IntroductionR (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/77a5d5c9ab1b51dc18e29f06f4defc34_Unit1_IntroductionR.R).
 
+{{< youtube dDHsLmwd9No >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question-40" %}})
 *   [ContinueUnderstanding Food: Nutritional Education with Data (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/_index.md" %}})
