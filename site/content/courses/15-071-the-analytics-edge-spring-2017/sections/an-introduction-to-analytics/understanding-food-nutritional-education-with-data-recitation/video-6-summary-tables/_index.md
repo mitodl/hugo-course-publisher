@@ -22,5 +22,7 @@ layout: videogallery
 Video 6: Summary Tables
 -----------------------
 
+{{< youtube B0d9FBokqvY >}}
+
 *   [BackVideo 5: Adding Variables]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-5-adding-variables" %}})
 *   [ContinueAssignment 1]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/assignment-1/_index.md" %}})

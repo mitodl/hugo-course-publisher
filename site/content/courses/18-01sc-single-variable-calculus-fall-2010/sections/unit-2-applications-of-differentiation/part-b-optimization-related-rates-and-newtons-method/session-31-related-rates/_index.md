@@ -21,12 +21,22 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube YN7k\_bXXggY >}}
+
+{{< youtube sRIDVAcoG5A >}}
+
+{{< youtube sRIDVAcoG5A >}}
+
 Recitation Video
 ----------------
 
 ### Inflating a Balloon
 
+{{< youtube RiRQDZjYkzo >}}
+
 ### Sliding Ladder
+
+{{< youtube d484GRz9zjY >}}
 
 Worked Example
 --------------

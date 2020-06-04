@@ -32,5 +32,7 @@ layout: videogallery
 Video 5: CART to Predict Cost
 -----------------------------
 
+{{< youtube Goi9xfybb80 >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/quick-question-326/_index.md" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/quick-question-337" %}})

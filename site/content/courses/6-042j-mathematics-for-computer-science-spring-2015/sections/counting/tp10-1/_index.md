@@ -22,5 +22,7 @@ layout: videogallery
 The Pigeonhole Principle
 ------------------------
 
+{{< youtube 4Dz4vNUxnZM >}}
+
 *   [BackMultinomial Theorem: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp9-2/vertical-436d8f042056" %}})
 *   [ContinueRolling Dice]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp10-1/vertical-4e860a9da2fe" %}})

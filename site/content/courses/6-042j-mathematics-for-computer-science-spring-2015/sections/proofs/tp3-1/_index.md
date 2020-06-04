@@ -23,5 +23,7 @@ layout: videogallery
 Predicate Logic 1
 -----------------
 
+{{< youtube UroprmQHTLc >}}
+
 *   [BackLogical Connectives]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/vertical-a28e46f96fa1" %}})
 *   [ContinuePredicate Logic 2: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-1/vertical-7b4a11771cb1" %}})

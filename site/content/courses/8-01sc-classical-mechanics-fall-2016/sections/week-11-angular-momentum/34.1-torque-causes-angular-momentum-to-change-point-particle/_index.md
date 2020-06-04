@@ -11,4 +11,6 @@ layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/33.5-kinetic-energy-of-a-symmetric-object" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/34.2-torque-causes-angular-momentum-to-change-system-of-particles" %}}) »
 
+{{< youtube DSk8HTcB7x0 >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/33.5-kinetic-energy-of-a-symmetric-object" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/34.2-torque-causes-angular-momentum-to-change-system-of-particles" %}}) »

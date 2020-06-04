@@ -26,5 +26,7 @@ layout: videogallery
 Variance: Video
 ---------------
 
+{{< youtube o57CTwt1-ck >}}
+
 *   [BackInside the TA's Brain]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-2/vertical-82fa33baa07e" %}})
 *   [ContinuePractice with Variance]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-2/vertical-1b1a945bfd78" %}})

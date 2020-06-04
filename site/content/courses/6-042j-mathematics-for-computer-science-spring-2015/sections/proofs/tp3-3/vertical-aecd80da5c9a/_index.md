@@ -26,5 +26,7 @@ layout: videogallery
 Finite Cardinality
 ------------------
 
+{{< youtube fpy5Hsz5t6E >}}
+
 *   [BackTotal Injection]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-3/vertical-5c792a4ae3f8" %}})
 *   [ContinueA inj B]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-3/vertical-faefc8383410" %}})

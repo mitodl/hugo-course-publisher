@@ -27,5 +27,7 @@ layout: videogallery
 Set Theory Axioms \[Optional\]
 ------------------------------
 
+{{< youtube zcvsyL7GtH4 >}}
+
 *   [BackRussell's Paradox \\\[and ZFC optional\\\]]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/vertical-ac3ff158ffcb" %}})
 *   [ContinueSet Theory Axioms \\\[Optional\\\]]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/set-theory-axioms-optional-0" %}})

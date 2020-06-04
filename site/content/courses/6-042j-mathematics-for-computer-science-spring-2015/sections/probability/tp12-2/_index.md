@@ -22,5 +22,7 @@ layout: videogallery
 Independence
 ------------
 
+{{< youtube 1vQ2x5O\_xqk >}}
+
 *   [BackWatch Out For Crocodiles]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-1/vertical-b7574f507526" %}})
 *   [ContinueIndependent Dice Rolls]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-2/vertical-8ff8e74ce854" %}})

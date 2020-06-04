@@ -25,5 +25,7 @@ layout: videogallery
 Spanning Trees
 --------------
 
+{{< youtube \_RqqzyWDVMA >}}
+
 *   [Back2-Colorable Trees]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp8-1/vertical-b69812803f1e" %}})
 *   [ContinueSpan all the Graphs!]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp8-1/vertical-63394d192790" %}})

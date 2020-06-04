@@ -21,6 +21,8 @@ Lecture Video
 
 Thermodynamics is key to understanding the reactivity of molecules and compounds. In this first of three lectures on thermodynamics, viewers are introduced to ∆H, and asked to consider how much heat it will take to break one type of molecular bond versus another. Viewers are also asked whether a particular chemical reaction will release heat or absorb heat.
 
+{{< youtube wS1MX-C2V9w >}}
+
 Lecture Notes
 -------------
 

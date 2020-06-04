@@ -22,5 +22,7 @@ layout: videogallery
 Partial Orders
 --------------
 
+{{< youtube 0w9luYcxHrw >}}
+
 *   [BackThe Divisibility DAG]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-1/vertical-839e7a19a176/_index.md" %}})
 *   [ContinuePopulation Partial Order]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/vertical-f4ebf555fc18" %}})

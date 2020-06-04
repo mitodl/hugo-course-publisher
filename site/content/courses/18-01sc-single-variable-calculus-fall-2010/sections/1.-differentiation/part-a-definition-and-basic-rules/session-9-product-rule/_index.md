@@ -21,10 +21,18 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube kCPVBl953eY >}}
+
+{{< youtube 4sTKcvYMNxk >}}
+
+{{< youtube 4sTKcvYMNxk >}}
+
 Recitation Video
 ----------------
 
 ### Product Rule
+
+{{< youtube 55ncRlBZstA >}}
 
 Worked Example
 --------------

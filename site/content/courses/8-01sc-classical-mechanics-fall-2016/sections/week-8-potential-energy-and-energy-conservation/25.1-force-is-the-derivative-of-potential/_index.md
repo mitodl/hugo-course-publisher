@@ -11,4 +11,6 @@ layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/24.4-newtons-2nd-law-and-energy-conservation" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/25.2-stable-and-unstable-equilibrium-points" %}}) »
 
+{{< youtube EHCACV8rdig >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/24.4-newtons-2nd-law-and-energy-conservation" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-8-potential-energy-and-energy-conservation/25.2-stable-and-unstable-equilibrium-points" %}}) »

@@ -22,5 +22,7 @@ layout: videogallery
 Isomorphism
 -----------
 
+{{< youtube hVerxuP4cFg >}}
+
 *   [BackCounting Degrees & Edges]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-2/vertical-0403a1f6fa4c" %}})
 *   [ContinueIsomorphism]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-2/vertical-206635abfb7b/_index.md" %}})

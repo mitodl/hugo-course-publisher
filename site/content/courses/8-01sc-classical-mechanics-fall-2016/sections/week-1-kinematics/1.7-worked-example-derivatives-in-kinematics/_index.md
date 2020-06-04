@@ -19,4 +19,6 @@ where \\(\\displaystyle a\_0 \\) is a positive constant, \\(\\displaystyle g\\) 
 
 Find \\(\\displaystyle a\\), the \\(\\displaystyle y \\)-component of the acceleration as a function of time.
 
+{{< youtube jtOxRPQDuJs >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/1.6-derivatives" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/2.1-introduction-to-acceleration" %}}) »

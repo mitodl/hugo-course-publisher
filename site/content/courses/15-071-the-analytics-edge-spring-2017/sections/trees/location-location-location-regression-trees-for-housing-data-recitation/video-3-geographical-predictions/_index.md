@@ -25,5 +25,7 @@ layout: videogallery
 Video 3: Geographical Predictions
 ---------------------------------
 
+{{< youtube jcvxkX2V-SM >}}
+
 *   [BackVideo 2: The Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-2-the-data/_index.md" %}})
 *   [ContinueVideo 4: Regression Trees]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-4-regression-trees" %}})

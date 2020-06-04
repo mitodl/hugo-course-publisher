@@ -21,20 +21,34 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube aeXp1zC6Hls >}}
+
 Recitation Video
 ----------------
 
 ### Finding u and v' When Integrating by Parts
+
+{{< youtube pWXh5t-37Qg >}}
 
 Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
 
+{{< youtube aeXp1zC6Hls >}}
+
+{{< youtube aeXp1zC6Hls >}}
+
+{{< youtube aeXp1zC6Hls >}}
+
+{{< youtube aeXp1zC6Hls >}}
+
 Recitation Video
 ----------------
 
 ### Integrating sinn(x) Using Reduction
+
+{{< youtube hV5af\_07ToE >}}
 
 Worked Example
 --------------

@@ -21,20 +21,30 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube 5q\_3FDOkVRQ >}}
+
+{{< youtube 5q\_3FDOkVRQ >}}
+
 Recitation Video
 ----------------
 
 ### Graphing the Arctan Function
+
+{{< youtube aYMt2ZVGd7g >}}
 
 Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
 
+{{< youtube 5q\_3FDOkVRQ >}}
+
 Recitation Video
 ----------------
 
 ### Derivative of the Arccos Function
+
+{{< youtube cdRMY39EYbs >}}
 
 Worked Example
 --------------

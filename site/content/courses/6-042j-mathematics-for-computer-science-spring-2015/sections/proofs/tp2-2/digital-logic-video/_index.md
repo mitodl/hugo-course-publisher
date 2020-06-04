@@ -24,5 +24,7 @@ layout: videogallery
 Digital Logic
 -------------
 
+{{< youtube eMWG-jTh-GE >}}
+
 *   [BackPropositional Operators]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/vertical-e6ef70d76365" %}})
 *   [ContinueTruth Tables: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/truth-tables-video" %}})

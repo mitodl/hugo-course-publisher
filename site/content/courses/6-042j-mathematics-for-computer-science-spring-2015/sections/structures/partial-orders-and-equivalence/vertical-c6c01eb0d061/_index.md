@@ -22,5 +22,7 @@ layout: videogallery
 Equivalence Relations
 ---------------------
 
+{{< youtube s-E5T3igntw >}}
+
 *   [BackRepresenting Partial Orders As Subset Relations: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/vertical-a604c5db7bb5" %}})
 *   [ContinueRelational Properties]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/vertical-6ea0ba8a2d05" %}})

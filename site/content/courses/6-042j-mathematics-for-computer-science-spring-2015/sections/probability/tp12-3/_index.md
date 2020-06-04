@@ -23,5 +23,7 @@ layout: videogallery
 Bigger Number Game
 ------------------
 
+{{< youtube BH4qlkYCLW0 >}}
+
 *   [BackParadox]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-2/paradox" %}})
 *   [ContinueRandom Variables: Independence: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-3/vertical-af2ad400f984" %}})

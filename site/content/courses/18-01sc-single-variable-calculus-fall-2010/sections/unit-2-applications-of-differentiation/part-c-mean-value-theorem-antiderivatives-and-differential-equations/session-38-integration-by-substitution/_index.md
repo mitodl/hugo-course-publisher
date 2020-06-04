@@ -21,10 +21,18 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube -MI0b4h3rS0 >}}
+
+{{< youtube -MI0b4h3rS0 >}}
+
+{{< youtube -MI0b4h3rS0 >}}
+
 Recitation Video
 ----------------
 
 ### Antidifferentiation by Substitution
+
+{{< youtube W7sNkRpcydk >}}
 
 Worked Example
 --------------

@@ -31,6 +31,8 @@ Video 1: Twitter
 
 The current valuation of Twitter mentioned in this video is from early 2014.
 
+{{< youtube 8fW7ooZLIuc >}}
+
 The slides from all videos in this Lecture Sequence can be downloaded here: [Turning Tweets into Knowledge (PDF)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/MIT15_071S17_Unit5_Twitter" %}}).
 
 *   [BackWelcome to Unit 5]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/welcome-to-unit-5" %}})

@@ -16,5 +16,7 @@ layout: videogallery
 Welcome to Unit 4
 -----------------
 
+{{< youtube BKsi-Khu7Bs >}}
+
 *   [BackTrees]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/_index.md" %}})
 *   [ContinueJudge, Jury, and Classifier: An Introduction to Trees]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/_index.md" %}})

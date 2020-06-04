@@ -30,5 +30,7 @@ layout: videogallery
 Video 2: One-Variable Linear Regression
 ---------------------------------------
 
+{{< youtube wT3Y2K-fxXw >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/quick-question-46/_index.md" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/quick-question-54/_index.md" %}})

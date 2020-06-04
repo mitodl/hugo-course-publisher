@@ -32,5 +32,7 @@ layout: videogallery
 Video 8: Predicting Healthcare Costs in R
 -----------------------------------------
 
+{{< youtube iJvEgQkLjow >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/quick-question-349" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/quick-question-357" %}})

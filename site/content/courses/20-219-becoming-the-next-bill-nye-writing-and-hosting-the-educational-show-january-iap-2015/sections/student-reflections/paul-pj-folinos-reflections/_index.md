@@ -47,6 +47,8 @@ The script was a good exercise to mentally hash out the video. I transported mys
 Day 3 Thoughts
 --------------
 
+{{< youtube ZCO2uAbgv6Y >}}
+
 This video is courtesy of [Paul PJ Folino](http://mit219.tumblr.com/tagged/pjfolino) on Tumblr and is provided under our Creative Commons license.
 
 [\_Link back to Day 3\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-3-storytellers-toolkit-pt.-1" %}}#Instructor_and_Student_Work)

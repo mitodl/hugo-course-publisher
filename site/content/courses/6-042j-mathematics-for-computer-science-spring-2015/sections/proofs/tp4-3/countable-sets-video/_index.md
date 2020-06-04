@@ -27,5 +27,7 @@ layout: videogallery
 Countable Sets
 --------------
 
+{{< youtube AipSRi3CyLg >}}
+
 *   [BackCantor, Schroeder-Bernstein]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/vertical-e7c2a3883170" %}})
 *   [ContinueCantor's Theorem: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/vertical-4eaa04fd577b" %}})

@@ -25,5 +25,7 @@ layout: videogallery
 Bayes' Theorem
 --------------
 
+{{< youtube e-yQFC6dACA >}}
+
 *   [BackCavities and Candy]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-1/vertical-ca9fdfa21bb0" %}})
 *   [ContinueTwo Boys]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-1/vertical-1c440a383ad3" %}})

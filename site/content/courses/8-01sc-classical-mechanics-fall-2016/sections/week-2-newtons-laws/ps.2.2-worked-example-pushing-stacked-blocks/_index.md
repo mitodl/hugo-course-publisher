@@ -24,6 +24,8 @@ The goal of this problem is to calculate the maximum value of \\(\\displaystyle 
 Worked Example - Stacked Blocks - Free Body Diagrams and Applying Newton's 2nd Law
 ----------------------------------------------------------------------------------
 
+{{< youtube 63U4\_OxohOw >}}
+
 **(Part c)** How is the acceleration of each of the two blocks related when the blocks do not slip relative to each other?
 
 **(Part d)** What is the maximum pushing force? Write your answer using some or all of the following: g, \\(\\displaystyle M\_1\\), \\(\\displaystyle M\_2\\),\\(\\displaystyle \\mu \_ k\\) and \\(\\displaystyle \\mu \_ s\\).
@@ -31,9 +33,13 @@ Worked Example - Stacked Blocks - Free Body Diagrams and Applying Newton's 2nd L
 Worked Example - Stacked Blocks - Solve for the Maximum Force
 -------------------------------------------------------------
 
+{{< youtube uhaFP0xEmzM >}}
+
 **(Part e)** Why can't we choose blocks 1 and 2 together to be our system?
 
 Worked Example - Stacked Blocks - Choosing the System of 2 Blocks Together
 --------------------------------------------------------------------------
+
+{{< youtube l062G7RC8-o >}}
 
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.1-worked-example-sliding-block/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/ps.2.3-window-washer-problem/_index.md" %}}) »

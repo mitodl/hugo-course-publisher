@@ -28,5 +28,7 @@ layout: videogallery
 Video 5: A Geographical Hot Spot Map
 ------------------------------------
 
+{{< youtube plpDQpjB044 >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-559/_index.md" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-567" %}})

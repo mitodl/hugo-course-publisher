@@ -20,5 +20,7 @@ layout: videogallery
 Bijections
 ----------
 
+{{< youtube n0lce1dMAh8 >}}
+
 *   [BackCounting Practice]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp9-1/vertical-049622956720" %}})
 *   [ContinueSelecting Donuts]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp9-1/vertical-74c5f1c609a4" %}})

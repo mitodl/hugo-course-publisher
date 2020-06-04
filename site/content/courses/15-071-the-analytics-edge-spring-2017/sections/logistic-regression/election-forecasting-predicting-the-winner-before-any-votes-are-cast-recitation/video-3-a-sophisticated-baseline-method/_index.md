@@ -23,5 +23,7 @@ layout: videogallery
 Video 3: A Sophisticated Baseline Method
 ----------------------------------------
 
+{{< youtube lm\_qReHVm0A >}}
+
 *   [BackVideo 2: Dealing with Missing Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-2-dealing-with-missing-data/_index.md" %}})
 *   [ContinueVideo 4: Logistic Regression Models]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-4-logistic-regression-models" %}})

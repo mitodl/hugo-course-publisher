@@ -16,5 +16,7 @@ layout: videogallery
 Welcome to Unit 6
 -----------------
 
+{{< youtube PLRK4oOkXuI >}}
+
 *   [BackClustering]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/_index.md" %}})
 *   [ContinueRecommendations Worth a Million: An Introduction to Clustering]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/recommendations-worth-a-million-an-introduction-to-clustering/_index.md" %}})

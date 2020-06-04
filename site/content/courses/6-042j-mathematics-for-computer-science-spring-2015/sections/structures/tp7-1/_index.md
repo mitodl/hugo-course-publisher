@@ -22,5 +22,7 @@ layout: videogallery
 DAGs
 ----
 
+{{< youtube Sdw8\_0RDZuw >}}
+
 *   [BackCounting Paths]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-3/counting-paths" %}})
 *   [ContinueDAGs]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-1/vertical-dcde59c77eab" %}})

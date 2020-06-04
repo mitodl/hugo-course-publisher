@@ -28,7 +28,18 @@ We'll screen everyone's rough cuts to the class for feedback and critiques. Your
 Screening
 ---------
 
+{{< youtube VQi6t2NfWig >}}
+
 ### Chapters
+
+*   {{< youtube VQi6t2NfWig >}}
+*   {{< youtube VQi6t2NfWig >}}
+*   {{< youtube VQi6t2NfWig >}}
+*   {{< youtube VQi6t2NfWig >}}
+*   {{< youtube VQi6t2NfWig >}}
+*   {{< youtube VQi6t2NfWig >}}
+*   {{< youtube VQi6t2NfWig >}}
+*   {{< youtube VQi6t2NfWig >}}
 
 Assignment
 ----------

@@ -24,5 +24,7 @@ layout: videogallery
 Video 4: Understanding Cluster Patterns
 ---------------------------------------
 
+{{< youtube NAQhRc3OQAw >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/quick-question-494" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/quick-question-499" %}})

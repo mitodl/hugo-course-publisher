@@ -27,5 +27,7 @@ Video 4: Regression Trees
 
 In this video, Iain shows a different way to plot a CART tree by using the plot and text functions instead of the prp function. This is just another way to visualize the CART tree, and shows the tree in a slightly different way. Both are valid options for plotting your CART trees.
 
+{{< youtube IZ0qGEZkTIw >}}
+
 *   [BackVideo 3: Geographical Predictions]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-3-geographical-predictions" %}})
 *   [ContinueVideo 5: Putting it all Together]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-5-putting-it-all-together" %}})

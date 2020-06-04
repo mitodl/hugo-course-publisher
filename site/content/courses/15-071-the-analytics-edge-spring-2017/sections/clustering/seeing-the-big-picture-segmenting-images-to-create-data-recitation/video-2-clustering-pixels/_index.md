@@ -28,5 +28,7 @@ In this Recitation, we'll be using the following data files: [flower (CSV)](http
 
 An R script file with all of the commands used in this Recitation can be downloaded here: [Resource Unit6\_Recitation (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/baa1351025fe4c21bb35c33fd297e11b_Unit6_Recitation.R).
 
+{{< youtube 8jpO-p1YvdM >}}
+
 *   [BackVideo 1: Image Segmentation]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-1-image-segmentation" %}})
 *   [ContinueVideo 3: Hierarchical Clustering]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-3-hierarchical-clustering" %}})

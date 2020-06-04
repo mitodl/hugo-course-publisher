@@ -14,5 +14,9 @@ layout: videogallery
 String Manipulations
 --------------------
 
+{{< youtube -jjUoTiaSHw >}}
+
 For Loops With Strings
 ----------------------
+
+{{< youtube 4WtaFLayz\_w >}}

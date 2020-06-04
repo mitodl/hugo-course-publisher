@@ -26,6 +26,8 @@ layout: videogallery
 Video 2: An Optimization Problem
 --------------------------------
 
+{{< youtube EXYgISgOw0g >}}
+
 Check That You Are Minimizing
 -----------------------------
 

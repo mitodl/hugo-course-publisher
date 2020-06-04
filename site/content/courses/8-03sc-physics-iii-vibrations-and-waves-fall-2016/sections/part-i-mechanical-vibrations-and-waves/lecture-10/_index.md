@@ -21,6 +21,8 @@ Lecture Video: Traveling Waves
 
 Prof. Lee introduces the traveling wave solution of the wave equation. He also shows the string “remembers” the shape of the traveling wave though energy stored in the form of kinematic energy.
 
+{{< youtube SnNmbVH5DAM >}}
+
 Lecture Notes
 -------------
 
@@ -42,7 +44,7 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Bell Labs Wave Machine (Mismatched Impedance)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | {{< br >}}{{< br >}},{{< br >}}{{< br >}}, and{{< br >}}{{< br >}} 
+| [Bell Labs Wave Machine (Mismatched Impedance)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | {{< youtube SnNmbVH5DAM >}}, {{< youtube SnNmbVH5DAM >}}, and {{< youtube SnNmbVH5DAM >}} 
 
 Related Resources
 -----------------

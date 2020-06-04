@@ -21,6 +21,8 @@ Lecture Video: Dispersive Medium, Phase Velocity, Group Velocity
 
 Sending a square pulse as a basic communication tool is the main focus of this lecture. Prof. Lee discusses the phenomenon of dispersion in a realistic medium and the strategy to describe this kind of physics situation.
 
+{{< youtube QxemLb8-5AA >}}
+
 Lecture Notes
 -------------
 
@@ -50,7 +52,7 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | {{< br >}}{{< br >}} 
+| [Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | {{< youtube QxemLb8-5AA >}} 
 
 _\* **Note**: This Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 

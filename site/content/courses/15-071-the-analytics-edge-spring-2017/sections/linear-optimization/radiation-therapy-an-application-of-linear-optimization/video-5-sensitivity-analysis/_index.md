@@ -26,5 +26,7 @@ layout: videogallery
 Video 5: Sensitivity Analysis
 -----------------------------
 
+{{< youtube 8T248H2ax8c >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/radiation-therapy-an-application-of-linear-optimization/quick-question-648" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/radiation-therapy-an-application-of-linear-optimization/quick-question-654" %}})

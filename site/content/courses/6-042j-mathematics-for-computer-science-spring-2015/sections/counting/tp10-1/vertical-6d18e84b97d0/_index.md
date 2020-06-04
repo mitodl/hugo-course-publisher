@@ -22,5 +22,7 @@ layout: videogallery
 Inclusion-Exclusion Example
 ---------------------------
 
+{{< youtube 51-b2mgZVNY >}}
+
 *   [BackRolling Dice]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp10-1/vertical-4e860a9da2fe" %}})
 *   [ContinueInclusion-Exclusion 2 Sets: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp10-1/vertical-d7d25ffeb295" %}})

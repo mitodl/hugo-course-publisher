@@ -20,5 +20,7 @@ layout: videogallery
 Bookkeeper Rule, Multinomial Theorem
 ------------------------------------
 
+{{< youtube juGgfHsO-xM >}}
+
 *   [BackBinomial Theorem: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp9-2/vertical-a7fe1b9ddc0c" %}})
 *   [ContinuePigeonhole Principle, Inclusion-Exclusion]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp10-1/_index.md" %}})

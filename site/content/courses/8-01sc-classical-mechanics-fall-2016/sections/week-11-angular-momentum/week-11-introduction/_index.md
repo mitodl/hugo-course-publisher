@@ -11,4 +11,6 @@ layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/32.1-angular-momentum-for-a-point-particle" %}}) »
 
+{{< youtube 6h3T3qIkxqw >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/32.1-angular-momentum-for-a-point-particle" %}}) »

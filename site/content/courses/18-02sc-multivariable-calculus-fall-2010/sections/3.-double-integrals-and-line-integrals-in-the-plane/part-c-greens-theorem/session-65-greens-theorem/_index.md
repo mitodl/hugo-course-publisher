@@ -25,6 +25,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube tYdoS0tkAHA >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![MIT18_02SC_L22Brds_1a.png](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/c7c2b2976156b3b7827d7cd1c360392e_MIT18_02SC_L22Brds_1a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/c1f271ad337e9d80951255c06aecb8d8_MIT18_02SC_L22Brds_1.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/73508e9c342b97575b2d486a28c69835_MIT18_02SC_L22Brds_2a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/540ad1f19aeda99c7f66f63d963b64e8_MIT18_02SC_L22Brds_2.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/9858e897717d85c1e2ba75f4eeecc031_MIT18_02SC_L22Brds_3a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/d9d6d9c3e0e8914185483c70fa467b33_MIT18_02SC_L22Brds_3.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/46eeaaca9a7000bf2e9b0f8d1543eee1_MIT18_02SC_L22Brds_4a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/2571442f6764e195a2216735bbcdc858_MIT18_02SC_L22Brds_4.png "Open in a new window.")  
@@ -44,6 +46,8 @@ Recitation Video
 ----------------
 
 ### Green's Theorem: An Off Center Circle
+
+{{< youtube jUrPIbJWpOA >}}
 
 Problems and Solutions
 ----------------------

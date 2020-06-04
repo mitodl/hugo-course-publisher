@@ -17,4 +17,6 @@ A particle is moving in a circle of radius \\(\\displaystyle r\\) with an angula
 
 Find the particle's angular position \\(\\displaystyle \\theta (t)\\) as a function of time to obtain the arc length travelled by the particle during the time \\(\\displaystyle t\\) and defined as \\(\\displaystyle s(t)=r(\\theta (t)-\\theta (0))\\). Express your answer in terms of \\(\\displaystyle r\\), \\(\\displaystyle A\\), \\(\\displaystyle B\\), \\(\\displaystyle t\\), and \\(\\displaystyle v\_0\\)
 
+{{< youtube lufK0UlJ7aE >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/10.2-angular-acceleration" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/10.4-review-of-rotational-kinematics" %}}) »

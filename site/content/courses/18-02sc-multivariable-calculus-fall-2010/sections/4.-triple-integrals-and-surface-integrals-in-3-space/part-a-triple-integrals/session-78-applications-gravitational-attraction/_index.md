@@ -25,6 +25,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube RMBGQtwkoyU >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/d75e60d7cae6da8b9ba2834e3ecf3f51_MIT18_02SC_L26Brds_13a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/2144906914744933e9e90d30168bbcb0_MIT18_02SC_L26Brds_13.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/4c69dd4af72901a484999cbf637a71a8_MIT18_02SC_L26Brds_14a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/72552cddaac0f66c43196d5aed6dd910_MIT18_02SC_L26Brds_14.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/964c9b989c7d61cf9b34f5dde93859ec_MIT18_02SC_L26Brds_15a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/550d7a30cf284ae1c605f184ac77a287_MIT18_02SC_L26Brds_15.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/4a893289e9ae56186fbedd7106ed7be4_MIT18_02SC_L26Brds_16a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/879541990cfb81655a4c28e48c69662b_MIT18_02SC_L26Brds_16.png "Open in a new window.")  
@@ -39,6 +41,8 @@ Recitation Video
 ----------------
 
 ### Gravity and a Half-Sphere
+
+{{< youtube jAwWnppdcBE >}}
 
 Problems and Solutions
 ----------------------

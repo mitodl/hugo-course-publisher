@@ -34,5 +34,7 @@ Before starting this video, please download the datasets [wine (CSV)](https://op
 
 A script file containing all of the R commands used in this lecture can be downloaded here: [Unit2\_WineRegression (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/4b42530dd2f3fc2cdd30ba7d12315265_Unit2_WineRegression.R).
 
+{{< youtube Du0HgYO3E6U >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/quick-question-73" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/quick-question-78/_index.md" %}})

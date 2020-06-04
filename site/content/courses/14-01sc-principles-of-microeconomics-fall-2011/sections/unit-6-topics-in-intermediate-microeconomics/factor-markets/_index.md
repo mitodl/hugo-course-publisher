@@ -30,6 +30,8 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Lecture Videos
 
+*   {{< youtube IuQjBqzmUKA >}}
+
 ### Resources
 
 *   [Graphs and Figures (PDF)]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-6-topics-in-intermediate-microeconomics/factor-markets/MIT14_01SCF11_graph18" %}})

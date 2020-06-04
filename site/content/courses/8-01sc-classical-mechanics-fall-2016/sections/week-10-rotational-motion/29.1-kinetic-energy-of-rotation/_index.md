@@ -11,4 +11,6 @@ layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/28.3-review-of-angular-velocity-and-acceleration" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/29.2-moment-of-inertia-of-a-rod" %}}) »
 
+{{< youtube 0QF\_uCgZW4Y >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/28.3-review-of-angular-velocity-and-acceleration" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-10-rotational-motion/29.2-moment-of-inertia-of-a-rod" %}}) »

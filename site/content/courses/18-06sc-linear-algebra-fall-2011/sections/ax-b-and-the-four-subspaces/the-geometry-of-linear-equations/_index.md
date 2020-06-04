@@ -21,8 +21,7 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture
-    
+*   Watch the video lecture {{< youtube J7DzL2\_Na80 >}}
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/MIT18_06SCF11_Ses1.1sum" %}})
 *   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/J7DzL2_Na80" %}})
 
@@ -32,12 +31,9 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on
-    
+*   Watch the recitation video on {{< youtube My5w4MXWBew >}}
 *   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/My5w4MXWBew" %}})
-*   观看视频: 习题讲解 --
-    
-    \[watch this recitation in Mandarin\]
+*   观看视频: 习题讲解 -- {{< youtube mgbjhzDndOY >}} \[watch this recitation in Mandarin\]
 
 Check Yourself
 --------------

@@ -22,6 +22,8 @@ layout: videogallery
 Video 1: The Goal of eHarmony
 -----------------------------
 
+{{< youtube suHTm7R7kfQ >}}
+
 The slides from all videos in this lecture can be downloaded here: [Maximizing the Probability of Love (PDF)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/eharmony-maximizing-the-probability-of-love/MIT15_071S17_Unit9_eHarmony" %}}).
 
 *   [BackVideo 5: The Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-5-the-edge" %}})

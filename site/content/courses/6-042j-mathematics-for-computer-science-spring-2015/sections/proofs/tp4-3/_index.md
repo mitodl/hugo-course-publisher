@@ -27,5 +27,7 @@ layout: videogallery
 Cardinality
 -----------
 
+{{< youtube QzSCf62kzjE >}}
+
 *   [BackRecursive Functions: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/recursive-definition/recursive-functions-video" %}})
 *   [ContinueCantor, Schroeder-Bernstein]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/vertical-e7c2a3883170" %}})

@@ -14,8 +14,14 @@ layout: videogallery
 Shell vs. Editor
 ----------------
 
+{{< youtube Y6J8I056Ffw >}}
+
 Python vs. Math
 ---------------
 
+{{< youtube F-\_PKUUM-qY >}}
+
 Bindings
 --------
+
+{{< youtube EFCdr\_43qmU >}}

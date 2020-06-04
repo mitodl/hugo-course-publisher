@@ -24,5 +24,7 @@ layout: videogallery
 Video 3: Hierarchical Clustering
 --------------------------------
 
+{{< youtube t8nLB1AmUgE >}}
+
 *   [BackVideo 2: Clustering Pixels]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-2-clustering-pixels/_index.md" %}})
 *   [ContinueCaution]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/caution" %}})

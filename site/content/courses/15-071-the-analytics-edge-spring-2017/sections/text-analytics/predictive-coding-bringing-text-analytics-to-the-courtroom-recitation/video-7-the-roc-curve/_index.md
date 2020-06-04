@@ -24,5 +24,7 @@ layout: videogallery
 Video 7: The ROC Curve
 ----------------------
 
+{{< youtube xglWbWk\_swE >}}
+
 *   [BackVideo 6: Evaluating the Model]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-6-evaluating-the-model" %}})
 *   [ContinueVideo 8: Predictive Coding Today]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-8-predictive-coding-today" %}})

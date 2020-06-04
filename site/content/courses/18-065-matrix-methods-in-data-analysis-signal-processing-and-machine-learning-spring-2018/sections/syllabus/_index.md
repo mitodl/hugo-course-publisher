@@ -12,6 +12,8 @@ layout: videogallery
 Video Introduction by Professor Strang
 --------------------------------------
 
+{{< youtube Cx5Z-OslNWE >}}
+
 Course Meeting Times
 --------------------
 

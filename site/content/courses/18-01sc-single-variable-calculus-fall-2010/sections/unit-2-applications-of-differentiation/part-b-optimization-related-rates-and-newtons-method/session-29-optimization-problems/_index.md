@@ -21,11 +21,19 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube twzGBqPeW0M >}}
+
+{{< youtube YN7k\_bXXggY >}}
+
 Recitation Video
 ----------------
 
 ### Closest Point to the Origin
 
+{{< youtube -CsEPYeSBsg >}}
+
 ### Minimum Triangle Area
+
+{{< youtube 2keGgDBJKGU >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-30-optimization-problems-ii/_index.md" %}}) »

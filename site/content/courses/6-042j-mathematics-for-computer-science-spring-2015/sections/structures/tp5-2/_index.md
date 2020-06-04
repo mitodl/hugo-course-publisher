@@ -21,5 +21,7 @@ layout: videogallery
 Congruence mod n
 ----------------
 
+{{< youtube KvtLWgCTwn4 >}}
+
 *   [BackGCDs II]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-1/vertical-912ad2b397a4" %}})
 *   [ContinueDivisibility and Congruence]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-2/vertical-d0520d30ae3f" %}})

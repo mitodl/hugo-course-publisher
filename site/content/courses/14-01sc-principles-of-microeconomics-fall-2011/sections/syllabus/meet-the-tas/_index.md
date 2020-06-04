@@ -25,4 +25,6 @@ Greg Hutko is a graduate of the MIT Department of Economics, and is currently te
 
 ### Meet Greg Hutko
 
+{{< youtube 4j8mTdmATVg >}}
+
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/syllabus/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/_index.md" %}}) »

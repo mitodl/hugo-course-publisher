@@ -16,5 +16,7 @@ layout: videogallery
 Welcome to Unit 7
 -----------------
 
+{{< youtube ByiCbXfwGbc >}}
+
 *   [BackVisualization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/_index.md" %}})
 *   [ContinueVisualizing the World: An Introduction to Visualization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/_index.md" %}})

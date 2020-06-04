@@ -28,5 +28,7 @@ layout: videogallery
 Book Stacking
 -------------
 
+{{< youtube CdhuVhWTSMI >}}
+
 *   [BackAnnuities]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-2/vertical-7019fdda010c" %}})
 *   [ContinueHarmonic Numbers]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-2/vertical-c496866a2419" %}})

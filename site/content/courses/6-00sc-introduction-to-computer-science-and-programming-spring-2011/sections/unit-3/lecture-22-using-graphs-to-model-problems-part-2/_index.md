@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube hmtXhZTfAes >}}
+
 > ### About this Video
 > 
 > Topics covered: Dynamic programming, optimal path, overlapping subproblems, weighted edges, specifications, restrictions, efficiency, pseudo-polynomials.
@@ -31,6 +33,8 @@ Session Activities
 > *   [Lecture code (PY)](https://open-learning-course-data-ci.s3.amazonaws.com/6-00sc-introduction-to-computer-science-and-programming-spring-2011/dc7d1685ab8b22d2f31d132be9f2ce46_lec22.py)
 
 ### Recitation Videos
+
+*   {{< youtube \_QnAUd-em3E >}}
 
 > ### About this Video
 > 

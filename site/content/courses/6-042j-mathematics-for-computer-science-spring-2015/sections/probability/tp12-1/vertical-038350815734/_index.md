@@ -25,5 +25,7 @@ layout: videogallery
 Monty Hall Conditional Confusions
 ---------------------------------
 
+{{< youtube BEAv82FinM0 >}}
+
 *   [BackTwo Boys]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-1/vertical-1c440a383ad3" %}})
 *   [ContinueConditional Probability]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-1/vertical-b447cf681095" %}})

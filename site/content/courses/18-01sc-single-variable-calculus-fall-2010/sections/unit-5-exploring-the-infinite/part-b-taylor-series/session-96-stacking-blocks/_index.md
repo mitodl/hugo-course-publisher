@@ -21,4 +21,8 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube MK\_0QHbUnIA >}}
+
+{{< youtube wOHrNt9ScYs >}}
+
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-95-series-comparison/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/_index.md" %}}) »

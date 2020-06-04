@@ -28,5 +28,7 @@ layout: videogallery
 Video 4: A Heatmap
 ------------------
 
+{{< youtube DU0\_NM0mZPE >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-550" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-analytical-policeman-visualization-for-law-and-order/quick-question-559/_index.md" %}})

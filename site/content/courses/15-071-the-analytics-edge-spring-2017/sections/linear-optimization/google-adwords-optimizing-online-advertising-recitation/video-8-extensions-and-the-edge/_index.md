@@ -24,5 +24,7 @@ layout: videogallery
 Video 8: Extensions and the Edge
 --------------------------------
 
+{{< youtube EGDQfE7MREw >}}
+
 *   [BackVideo 7: Sensitivity Analysis]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-7-sensitivity-analysis/_index.md" %}})
 *   [ContinueAssignment 8]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/assignment-8/_index.md" %}})

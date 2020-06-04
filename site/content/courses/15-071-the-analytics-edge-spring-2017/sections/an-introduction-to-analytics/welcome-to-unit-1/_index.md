@@ -16,5 +16,7 @@ layout: videogallery
 Welcome to Unit 1
 -----------------
 
+{{< youtube ag7TLcT7VPQ >}}
+
 *   [BackAn Introduction to Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/_index.md" %}})
 *   [ContinueThe Analytics Edge: Intelligence, Happiness, and Health (Lecture Sequence)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/_index.md" %}})

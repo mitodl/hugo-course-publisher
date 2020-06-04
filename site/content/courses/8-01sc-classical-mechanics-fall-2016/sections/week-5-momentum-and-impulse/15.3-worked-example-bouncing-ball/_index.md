@@ -21,4 +21,6 @@ The time average of a force \\(\\vec{F}(t)\\) between times \\(t\_1\\) and \\(t\
 
 A ball of mass \\(\\displaystyle m\\) is released from rest from a height \\(\\displaystyle h\_ i\\) above a horizontal surface. It hits the surface and bounces off vertically to reach a maximum height \\(\\displaystyle h\_ f\\). The ball is in contact with the table for a time \\(\\displaystyle T\\). Calculate \\(\\displaystyle N\_{ave}\\), the magnitude of the time average normal force exerted by the table on the ball. Express your answer in terms of \\(\\displaystyle m\\), \\(\\displaystyle g\\), \\(\\displaystyle T\\), \\(\\displaystyle h\_ i\\), and \\(\\displaystyle h\_ f\\).
 
+{{< youtube bEpq3yjismU >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/15.2-impulse-is-a-vector" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/15.4-momentum-of-a-system-of-point-particles" %}}) »

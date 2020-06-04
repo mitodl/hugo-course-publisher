@@ -28,6 +28,8 @@ layout: videogallery
 Video 3: Splitting and Predictions
 ----------------------------------
 
+{{< youtube 3cN7bSffVm4 >}}
+
 **Note:** There is a small error on Slide 2 of this video. For the given example, the percentage of observations with outcome affirm is 10/(10+2) = 0.83.
 
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/quick-question-258/_index.md" %}})

@@ -30,6 +30,8 @@ layout: videogallery
 Video 1: Predicting the Quality of Wine
 ---------------------------------------
 
+{{< youtube f-EN4QySwAs >}}
+
 The slides from all videos in this Lecture Sequence can be downloaded here: [Introduction to Linear Regression (PDF - 1.3MB)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/MIT15_071S17_Unit2_WineRegression" %}}).
 
 *   [BackWelcome to Unit 2]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/welcome-to-unit-2" %}})

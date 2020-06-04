@@ -23,5 +23,7 @@ layout: videogallery
 Tree Model
 ----------
 
+{{< youtube dEsFEK4vnV4 >}}
+
 *   [BackProbability]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/_index.md" %}})
 *   [ContinueSocks and Shoes]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-dcc88d262213/_index.md" %}})

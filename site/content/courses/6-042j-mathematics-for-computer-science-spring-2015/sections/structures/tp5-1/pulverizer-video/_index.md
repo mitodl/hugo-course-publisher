@@ -25,5 +25,7 @@ layout: videogallery
 Pulverizer
 ----------
 
+{{< youtube yzKPotFLfsc >}}
+
 *   [BackRun Euclid Run]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-1/vertical-b30047e37cc7" %}})
 *   [ContinueGCDs I]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-1/vertical-d1904394a7b7" %}})

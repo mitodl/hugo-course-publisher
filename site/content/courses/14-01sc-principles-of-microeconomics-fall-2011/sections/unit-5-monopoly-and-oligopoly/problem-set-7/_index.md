@@ -30,4 +30,6 @@ Problem Solving Video
 
 In the video below, a teaching assistant demonstrates his approach to the solution for problem 2a-e from the problem set. The teaching assistant notes common mistakes made by students and provides problem solving techniques for approaching similar questions on the problem set and exams.
 
+*   {{< youtube xqmb6D2CpRc >}}
+
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/oligopoly-i/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/oligopoly-ii/_index.md" %}}) »

@@ -21,6 +21,8 @@ Lecture Video: Quantum Waves and Gravitational Waves
 
 Prof. Lee makes the connection between what we have learned so far and Quantum Mechanics. He also explains the detection of the gravitational waves by LIGO using the knowledge learned in the previous lectures.
 
+{{< youtube Roj7FVjl-gw >}}
+
 Lecture Notes
 -------------
 

@@ -21,8 +21,7 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture
-    
+*   Watch the video lecture {{< youtube lGGDIGizcQ0 >}}
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/markov-matrices-fourier-series/MIT18_06SCF11_Ses2.11sum" %}})
 *   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/markov-matrices-fourier-series/lGGDIGizcQ0" %}})
 
@@ -32,8 +31,7 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on
-    
+*   Watch the recitation video on {{< youtube wuyAeWE3iIM >}}
 *   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/markov-matrices-fourier-series/wuyAeWE3iIM" %}})
 
 Check Yourself

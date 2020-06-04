@@ -25,5 +25,7 @@ layout: videogallery
 Conditional Probability Definitions
 -----------------------------------
 
+{{< youtube Cu9\_LaaWgHo >}}
+
 *   [BackFun With Coins]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp11-2/vertical-a2b75a4824b8" %}})
 *   [ContinueDicey Sum]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-1/vertical-c84a5906e76d" %}})

@@ -21,12 +21,24 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube jBkXbAgMj6s >}}
+
+{{< youtube jBkXbAgMj6s >}}
+
+{{< youtube jBkXbAgMj6s >}}
+
+{{< youtube jBkXbAgMj6s >}}
+
 Recitation Video
 ----------------
 
 ### Explanation of Simpson's Rule
 
+{{< youtube uc4xJsi99bk >}}
+
 ### Using the Trapezoid and Simpson’s Rules
+
+{{< youtube l2SjUREZk0c >}}
 
 Worked Example
 --------------

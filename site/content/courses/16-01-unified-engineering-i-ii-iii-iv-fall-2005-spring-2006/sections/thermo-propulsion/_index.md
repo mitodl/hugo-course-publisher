@@ -31,6 +31,8 @@ Sample Lecture
 
 ### Sample Lecture P9: Energy Exchange with Moving Blades
 
+{{< youtube Y8CXbAesjaU >}}
+
 Thermodynamics, 16.01-16.02
 ---------------------------
 

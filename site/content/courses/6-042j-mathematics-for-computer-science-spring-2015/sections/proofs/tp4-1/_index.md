@@ -26,5 +26,7 @@ layout: videogallery
 Induction
 ---------
 
+{{< youtube XnV8GAuAqJM >}}
+
 *   [BackMapping Lemma: Sizes of Domains and Codomains]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-3/vertical-7d9a2d67e3b9" %}})
 *   [ContinueBogus Induction: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-1/vertical-9984d57d43e5" %}})

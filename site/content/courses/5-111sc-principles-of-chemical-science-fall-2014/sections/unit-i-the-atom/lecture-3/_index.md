@@ -21,6 +21,8 @@ Lecture Video
 
 The idea that light is both a wave and a particle is introduced. The properties of waves are described and the applications of diffraction are presented.
 
+{{< youtube \_U6YamvF7BE >}}
+
 Lecture Notes
 -------------
 

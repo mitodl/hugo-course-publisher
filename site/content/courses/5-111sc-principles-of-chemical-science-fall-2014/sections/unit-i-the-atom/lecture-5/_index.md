@@ -21,6 +21,8 @@ Lecture Video
 
 In this lecture, we look at the visible spectrum produced by the hydrogen atom. A series of lines of different colors appear and we consider why the hydrogen atom produces this particular spectrum.
 
+{{< youtube kO0VmaLkgj8 >}}
+
 Lecture Notes
 -------------
 

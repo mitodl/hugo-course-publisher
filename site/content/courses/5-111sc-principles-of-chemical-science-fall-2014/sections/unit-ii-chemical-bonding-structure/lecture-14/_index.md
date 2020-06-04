@@ -21,6 +21,8 @@ Lecture Video
 
 Valence bond theory and hybridization can be used to explain and/or predict the geometry of any atom in a molecule. In particular, the concept of hybridization is important for understanding the geometry of organic molecules.
 
+{{< youtube BBbuj0XpaiQ >}}
+
 Lecture Notes
 -------------
 

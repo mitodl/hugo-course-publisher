@@ -21,6 +21,14 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube BSAA0akmPEU >}}
+
+{{< youtube BSAA0akmPEU >}}
+
+{{< youtube BSAA0akmPEU >}}
+
+{{< youtube BSAA0akmPEU >}}
+
 Worked Example
 --------------
 
@@ -33,5 +41,7 @@ Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
+
+{{< youtube BSAA0akmPEU >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-24-examples-of-linear-approximation/_index.md" %}}) »

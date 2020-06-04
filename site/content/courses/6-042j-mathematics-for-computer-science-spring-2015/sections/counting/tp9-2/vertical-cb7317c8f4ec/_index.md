@@ -20,5 +20,7 @@ layout: videogallery
 Two Pair Poker Hands
 --------------------
 
+{{< youtube HswnmlLPGZ4 >}}
+
 *   [BackChoosing Integers]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp9-2/vertical-c197c8335ccf" %}})
 *   [ContinueBinomial Theorem: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp9-2/vertical-a7fe1b9ddc0c" %}})

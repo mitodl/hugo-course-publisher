@@ -26,5 +26,7 @@ layout: videogallery
 WOP vs Induction \[optional\]
 -----------------------------
 
+{{< youtube K8ZfzNN1miQ >}}
+
 *   [BackUnstacking Game Score]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-1/vertical-cc43092b621f" %}})
 *   [ContinueStrong vs Ordinary Induction vs WOP \\\[optional\\\]]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-1/vertical-b16ab258826d" %}})

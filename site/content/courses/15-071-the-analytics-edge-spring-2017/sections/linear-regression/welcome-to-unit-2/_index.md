@@ -16,5 +16,7 @@ layout: videogallery
 Welcome to Unit 2
 -----------------
 
+{{< youtube Sn-5Dwt\_1qw >}}
+
 *   [BackLinear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/_index.md" %}})
 *   [ContinueThe Statistical Sommelier: An Introduction to Linear Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/_index.md" %}})

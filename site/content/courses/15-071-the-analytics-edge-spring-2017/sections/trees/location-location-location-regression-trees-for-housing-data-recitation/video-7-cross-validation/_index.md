@@ -27,5 +27,7 @@ Video 7: Cross-Validation
 
 **Syntax Information:** In this video, we use (0:10)\*0.001 to define the cp values that we want to test in our model. Alternatively, we could replace this with the sequence function seq(0,0.01,0.001) which we learned in Unit 1. For some people, the sequence function is more intuitive, and you should use whichever syntax makes more sense to you personally.
 
+{{< youtube IXwPD4R6V6M >}}
+
 *   [BackVideo 6: The CP Parameter]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-6-the-cp-parameter" %}})
 *   [ContinueAssignment 4]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/assignment-4/_index.md" %}})

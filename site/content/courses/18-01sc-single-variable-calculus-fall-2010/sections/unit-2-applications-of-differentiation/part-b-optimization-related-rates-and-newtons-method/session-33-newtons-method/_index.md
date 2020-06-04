@@ -21,6 +21,12 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube sRIDVAcoG5A >}}
+
+{{< youtube 4Q37iOyBq44 >}}
+
+{{< youtube 4Q37iOyBq44 >}}
+
 Worked Example
 --------------
 
@@ -33,5 +39,7 @@ Recitation Video
 ----------------
 
 ### Using Newton's Method
+
+{{< youtube ER5B\_YBFMJo >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-32-ring-on-a-string/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/problem-set-4/_index.md" %}}) »

@@ -26,6 +26,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube PxCxlsl\_YwY >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![MIT18_02SC_L1Brds_8a.png](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/f101f00f5f25a94a31e61bc8ffaeb406_MIT18_02SC_L1Brds_8a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/98ee2f0ac2466c89729860392c7efdc7_MIT18_02SC_L1Brds_8.png "Open in a new window.")[![MIT18_02SC_L1Brds_9a.png](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/25bbd85a652b66f45e68fb90ba35a41c_MIT18_02SC_L1Brds_9a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/8e9be84d1639812c2fd73ff0aa635b00_MIT18_02SC_L1Brds_9.png "Open in a new window.")[![MIT18_02SC_L1Brds_10a.png](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/16a040a54f781808455b1274fd660177_MIT18_02SC_L1Brds_10a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/922a33d42fd06cb1fc5c512b4bc64499_MIT18_02SC_L1Brds_10.png "Open in a new window.")[![MIT18_02SC_L1Brds_11a.png](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/c0d93c1bf8173ddc3768fd6a8c2c01d7_MIT18_02SC_L1Brds_11a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/9ea32f6f9a8768e2247403338386b4a7_MIT18_02SC_L1Brds_11.png "Open in a new window.")  
@@ -40,6 +42,8 @@ Recitation Video
 ----------------
 
 ### Dot Products and Angles
+
+{{< youtube hfyluFvlZ-o >}}
 
 Problems and Solutions
 ----------------------

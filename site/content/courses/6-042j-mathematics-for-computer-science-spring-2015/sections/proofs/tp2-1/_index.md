@@ -23,5 +23,7 @@ layout: videogallery
 Well Ordering Principle 1
 -------------------------
 
+{{< youtube fV3v6qQ3w4A >}}
+
 *   [BackA Bogus Proof by Contradiction]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-2/vertical-cdf72f5374ab" %}})
 *   [ContinueDomain for Well Ordering Principle]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-1/vertical-1d9c2a0e507a" %}})

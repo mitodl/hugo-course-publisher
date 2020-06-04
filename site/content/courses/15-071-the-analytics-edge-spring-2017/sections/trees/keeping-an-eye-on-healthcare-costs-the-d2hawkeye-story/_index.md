@@ -32,6 +32,8 @@ layout: videogallery
 Video 1: The Story of D2Hawkeye
 -------------------------------
 
+{{< youtube D-9R7zfUTWw >}}
+
 The slides from all videos in this Lecture Sequence can be downloaded here: [The D2Hawkeye Story (PDF - 1.3MB)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/MIT15_071S17_Unit4_D2Hawkeye" %}}).
 
 *   [BackVideo 7: The Model v. The Experts]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/video-7-the-model-v-the-experts" %}})

@@ -29,6 +29,8 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Lecture Videos
 
+*   {{< youtube RFTa52F8YZ0 >}}
+
 Check Yourself
 --------------
 

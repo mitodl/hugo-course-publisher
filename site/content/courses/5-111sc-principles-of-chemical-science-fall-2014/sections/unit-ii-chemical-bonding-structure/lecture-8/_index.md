@@ -21,6 +21,8 @@ Lecture Video
 
 The periodic table is to chemistry like the laws of motion are to physics. In this lecture, we discover the secrets of the periodic table and meet the elements.
 
+{{< youtube LWmVdG0uj2g >}}
+
 Lecture Notes
 -------------
 

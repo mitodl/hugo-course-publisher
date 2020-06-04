@@ -30,6 +30,8 @@ Video 6: Cross-Validation
 
 **Important Note:** In this video, we install and load two new packages so that we can perform cross-validation: "caret", and "e1071". You may need to additionally install and load the following packages for cross-validation to work on your computer: "class" and "ggplot2". If you receive an error message after trying to load caret and e1071, please try installing and loading these two additional packages.
 
+{{< youtube CROEh9u0VLM >}}
+
 Cross-Validation for Random Forests
 -----------------------------------
 

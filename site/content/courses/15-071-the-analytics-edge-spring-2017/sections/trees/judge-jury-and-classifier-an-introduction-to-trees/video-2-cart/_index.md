@@ -28,5 +28,7 @@ layout: videogallery
 Video 2: CART
 -------------
 
+{{< youtube W5zVgQ4SbX8 >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/quick-question-253" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/judge-jury-and-classifier-an-introduction-to-trees/quick-question-258/_index.md" %}})

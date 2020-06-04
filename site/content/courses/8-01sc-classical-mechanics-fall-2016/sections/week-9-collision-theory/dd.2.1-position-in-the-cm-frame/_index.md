@@ -11,4 +11,6 @@ layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/27.6-2d-collisions" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.2-relative-velocity-is-independent-of-reference-frame" %}}) »
 
+{{< youtube -M8swpL-Ij8 >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/27.6-2d-collisions" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-9-collision-theory/dd.2.2-relative-velocity-is-independent-of-reference-frame" %}}) »

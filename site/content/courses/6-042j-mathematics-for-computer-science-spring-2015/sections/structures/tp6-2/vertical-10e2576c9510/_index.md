@@ -20,5 +20,7 @@ layout: videogallery
 Reducing Factoring To SAT
 -------------------------
 
+{{< youtube yWIQCewgfwY >}}
+
 *   [BackRSA Encryption]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-2/vertical-3299faa6fc3d" %}})
 *   [ContinueRelative Primality]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-2/vertical-d2f6dc0d86f4" %}})

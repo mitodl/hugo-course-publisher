@@ -29,4 +29,6 @@ One way to measure an angle is in radians. A full circle has \\(2\\pi\\) radians
 
 [Wolfram: Radian](http://mathworld.wolfram.com/Radian.html)
 
+{{< youtube S9\_Oe51XkVY >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/8.1-polar-coordinates" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/8.3-angular-velocity" %}}) »

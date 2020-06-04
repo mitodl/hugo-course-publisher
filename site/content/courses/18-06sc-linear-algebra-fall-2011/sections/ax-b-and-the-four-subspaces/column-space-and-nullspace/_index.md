@@ -21,8 +21,7 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture
-    
+*   Watch the video lecture {{< youtube 8o5Cmfpeo6g >}}
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/column-space-and-nullspace/MIT18_06SCF11_Ses1.6sum" %}})
 *   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/column-space-and-nullspace/8o5Cmfpeo6g" %}})
 
@@ -32,8 +31,7 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on
-    
+*   Watch the recitation video on {{< youtube S8DQZjE4V8U >}}
 *   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/ax-b-and-the-four-subspaces/column-space-and-nullspace/S8DQZjE4V8U" %}})
 
 Check Yourself

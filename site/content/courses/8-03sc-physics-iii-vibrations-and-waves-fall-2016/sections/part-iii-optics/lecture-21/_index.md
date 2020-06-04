@@ -21,6 +21,8 @@ Lecture Video: Phased Radar, Single Electron Interference
 
 Prof. Lee explains how phased radar works. He also discusses the implication of the single electron interference experiment and its relation to Quantum Physics.
 
+{{< youtube mqhO9GT8hD4 >}}
+
 Lecture Notes
 -------------
 
@@ -44,8 +46,8 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Ripple Tank (Interference of Two Point Sources)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%201&show=0) | {{< br >}}{{< br >}} |
-| [Moiré Pattern](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%202&show=0) | {{< br >}}{{< br >}} |
-| [Single-Slit Diffraction with a Laser](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%202&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} 
+| [Ripple Tank (Interference of Two Point Sources)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%201&show=0) | {{< youtube mqhO9GT8hD4 >}} |
+| [Moiré Pattern](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%202&show=0) | {{< youtube mqhO9GT8hD4 >}} |
+| [Single-Slit Diffraction with a Laser](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=Q%202&show=0) | {{< youtube mqhO9GT8hD4 >}} and {{< youtube mqhO9GT8hD4 >}} 
 
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-20/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-iii-optics/lecture-22/_index.md" %}}) »

@@ -21,6 +21,8 @@ Lecture Video: Waves in Medium
 
 Prof. Lee discusses the propagation of light in the dielectric medium. He also shows an interesting phenomenon, the Brewster’s angle, and demonstrates the effect in the class.
 
+{{< youtube sBKHUPDUI1o >}}
+
 Lecture Notes
 -------------
 
@@ -43,7 +45,7 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Brewster's Angle](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%203&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} 
+| [Brewster's Angle](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%203&show=0) | {{< youtube sBKHUPDUI1o >}} and {{< youtube sBKHUPDUI1o >}} 
 
 Related Resources
 -----------------

@@ -26,5 +26,7 @@ layout: videogallery
 Video 2: Risk Factors
 ---------------------
 
+{{< youtube X\_reyHNRYws >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/quick-question-220" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/quick-question-225" %}})

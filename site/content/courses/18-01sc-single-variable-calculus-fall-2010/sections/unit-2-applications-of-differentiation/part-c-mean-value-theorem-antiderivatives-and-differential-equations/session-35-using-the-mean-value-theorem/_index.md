@@ -21,6 +21,10 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube 4Q37iOyBq44 >}}
+
+{{< youtube 4Q37iOyBq44 >}}
+
 Worked Example
 --------------
 
@@ -34,6 +38,10 @@ Recitation Video
 
 ### Comparing Functions Using the MVT
 
+{{< youtube G\_HS1Dan\_x4 >}}
+
 ### Derivative With a Discontinuity
+
+{{< youtube 7EKztFcTiUU >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-34-introduction-to-the-mean-value-theorem/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials/_index.md" %}}) »

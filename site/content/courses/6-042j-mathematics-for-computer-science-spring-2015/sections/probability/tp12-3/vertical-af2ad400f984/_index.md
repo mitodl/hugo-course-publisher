@@ -23,5 +23,7 @@ layout: videogallery
 Random Variables: Independence
 ------------------------------
 
+{{< youtube VJzv6WJTtNc >}}
+
 *   [BackRandom Variables, Density Functions]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-3/_index.md" %}})
 *   [ContinueOdd Heads and Matches]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-3/vertical-12926a05d1ba" %}})

@@ -21,4 +21,6 @@ Two identical particles form a system. At the instant shown in the figure the pa
 
 **(Part c)** How do your results for angular momentum about A and B compare?
 
+{{< youtube d2POYCmmM8A >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/32.2-calculating-angular-momentum" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/32.4-angular-momentum-of-circular-motion" %}}) »

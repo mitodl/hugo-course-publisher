@@ -26,5 +26,7 @@ In this recitation, we'll be using the data [USDA (CSV)](https://open-learning-c
 
 A script file with all of the R commands that will be used in this recitation can be downloaded here: [Unit1\_Recitation (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/15c14666af8215f8a5cc076653f6f408_Unit1_Recitation.R).
 
+{{< youtube oTnXMW4mx-c >}}
+
 *   [BackVideo 1: The Importance of Food and Nutrition]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-1-the-importance-of-food-and-nutrition" %}})
 *   [ContinueVideo 3: Data Analysis]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-3-data-analysis" %}})

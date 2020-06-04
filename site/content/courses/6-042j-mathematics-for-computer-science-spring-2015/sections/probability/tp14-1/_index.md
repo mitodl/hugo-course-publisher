@@ -25,5 +25,7 @@ layout: videogallery
 Law Of Large Numbers
 --------------------
 
+{{< youtube -yo3YxfY47g >}}
+
 *   [BackImplications of Expectation]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-2/vertical-4699d069607e" %}})
 *   [ContinueNot So Strong]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp14-1/vertical-84aa6f70d1c0" %}})

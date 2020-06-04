@@ -20,6 +20,8 @@ Express you answer in terms of some or all of the following: \\(\\displaystyle m
 Worked Example - Orbital Circular Motion – Radius
 -------------------------------------------------
 
+{{< youtube gEX7MjWwocE >}}
+
 **(Part b)** What is the magnitude of the velocity of the satellite?
 
 Express you answer in terms of some or all of the following: \\(\\displaystyle m\_1\\), \\(\\displaystyle m\_2\\), \\(\\displaystyle \\pi\\), \\(\\displaystyle T\\), and the universal gravitational constant \\(\\displaystyle G\\).
@@ -27,11 +29,15 @@ Express you answer in terms of some or all of the following: \\(\\displaystyle m
 Orbital Circular Motion - Velocity
 ----------------------------------
 
+{{< youtube bX4liSWB4Gk >}}
+
 **(Part c)** If the asteroid rotates about its axis with a period \\(\\displaystyle T\_{\\text {a}}\\), at what radius must the satellite orbit the asteroid so that the satellite appears stationary to the person on the asteroid?
 
 Express you answer in terms of some or all of the following: \\(\\displaystyle m\_1\\), \\(\\displaystyle m\_2\\), \\(\\displaystyle \\pi\\), \\(\\displaystyle T\_ a\\), and \\(\\displaystyle G\\).
 
 Orbital Circular Motion - Period
 --------------------------------
+
+{{< youtube vkWY73HnNYA >}}
 
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/11.3-demo-rotating-bucket" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-3-circular-motion/problem-set-3" %}}) »

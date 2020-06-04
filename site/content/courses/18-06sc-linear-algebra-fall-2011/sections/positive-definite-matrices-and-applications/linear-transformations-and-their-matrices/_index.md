@@ -21,8 +21,7 @@ Session Activities
 
 ### Lecture Video and Summary
 
-*   Watch the video lecture
-    
+*   Watch the video lecture {{< youtube Ts3o2I8\_Mxc >}}
 *   Read the accompanying [lecture summary (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/linear-transformations-and-their-matrices/MIT18_06SCF11_Ses3.6sum" %}})
 *   [Lecture video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/linear-transformations-and-their-matrices/Ts3o2I8_Mxc" %}})
 
@@ -32,8 +31,7 @@ Session Activities
 
 ### Problem Solving Video
 
-*   Watch the recitation video on
-    
+*   Watch the recitation video on {{< youtube 2uDvRUowBzg >}}
 *   [Recitation video transcript (PDF)]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/linear-transformations-and-their-matrices/2uDvRUowBzg" %}})
 
 Check Yourself

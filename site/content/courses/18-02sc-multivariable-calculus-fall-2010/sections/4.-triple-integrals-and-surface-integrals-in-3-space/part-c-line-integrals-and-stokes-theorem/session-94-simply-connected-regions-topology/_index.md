@@ -25,6 +25,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube sr7kCpzAuYw >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/31ac6dbb8dd25b12bf0b82cc4a4c1bad_MIT18_02SC_L32Brds_1a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/a095cde6665fd1c4177b9f07702f56cb_MIT18_02SC_L32Brds_1.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/be8340a4c48f1b619ebdb6baceada189_MIT18_02SC_L32Brds_2a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/3318eba81c5b3e308dce6abc3a0ea275_MIT18_02SC_L32Brds_2.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/745b67eaae7acef57832872a4cae8eee_MIT18_02SC_L32Brds_3a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/257caa4c846aa0a47a910222dd3bd305_MIT18_02SC_L32Brds_3.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/25555b09c7c39921a80278dbe2dd56eb_MIT18_02SC_L32Brds_4a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/277f54d02cd2440d8617e7c5a7cffb60_MIT18_02SC_L32Brds_4.png "Open in a new window.")  
@@ -40,7 +42,11 @@ Recitation Video
 
 ### Simply Connected Regions
 
+{{< youtube 6S3BJSsc72Q >}}
+
 ### More Stokes' Theorem
+
+{{< youtube vnWXYI4UQrs >}}
 
 Problems and Solutions
 ----------------------

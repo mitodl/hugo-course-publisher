@@ -21,6 +21,8 @@ Lecture Video: Interference, Soap Bubble
 
 The phenomena related to interference are discussed in this lecture. Prof. Lee explains the origin of the color on soap bubbles and performs an estimation on the thickness of a soap bubble.
 
+{{< youtube VkbtIDSHfSc >}}
+
 Lecture Notes
 -------------
 
@@ -56,8 +58,8 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Reflection off Soap Bubbles](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%207&show=0) | {{< br >}}{{< br >}} |
-| [Reflection off a Soap Film](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%208&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} 
+| [Reflection off Soap Bubbles](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%207&show=0) | {{< youtube VkbtIDSHfSc >}} |
+| [Reflection off a Soap Film](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=P%208&show=0) | {{< youtube VkbtIDSHfSc >}} and {{< youtube VkbtIDSHfSc >}} 
 
 Related Resources
 -----------------

@@ -17,4 +17,6 @@ Two identical particles of mass \\(\\displaystyle m\\) move in a circle of radiu
 
 Calculate \\(\\displaystyle \\vec{L}\_ S\\), the angular momentum of the system about point \\(\\displaystyle S\\). Express your answer in terms of \\(\\displaystyle m\\), \\(\\displaystyle R\\), \\(\\displaystyle h\\), \\(\\displaystyle \\omega \_ z\\), \\(\\displaystyle \\hat{k}\\), and \\(\\displaystyle \\hat{r}\\) as needed.
 
+{{< youtube mHVnpuhfpvI >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/32.4-angular-momentum-of-circular-motion" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/33.2-angular-momentum-of-a-symmetric-object" %}}) »

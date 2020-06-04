@@ -25,5 +25,7 @@ layout: videogallery
 Video 3: What is Data Visualization?
 ------------------------------------
 
+{{< youtube 2wtc5Su-fZA >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-510" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/visualizing-the-world-an-introduction-to-visualization/quick-question-515/_index.md" %}})

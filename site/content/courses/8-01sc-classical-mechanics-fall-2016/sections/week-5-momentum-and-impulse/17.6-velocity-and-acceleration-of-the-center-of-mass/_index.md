@@ -11,6 +11,8 @@ layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.5-worked-example-center-of-mass-of-a-uniform-rod" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-5-momentum-and-impulse/17.7-reduction-of-a-system-to-a-point-particle" %}}) »
 
+{{< youtube QPV-DmpGXeQ >}}
+
 **Motion of the center of mass and the point particle approximation.**
 
 1\. The center of mass of a rigid object moves like a point particle (explain the point particle approximation done so far)

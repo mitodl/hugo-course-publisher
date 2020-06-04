@@ -20,5 +20,7 @@ layout: videogallery
 Sum And Product Rules
 ---------------------
 
+{{< youtube yTrtVwKZkwU >}}
+
 *   [BackPractice with Order of Growth]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/vertical-171ad650135b" %}})
 *   [ContinueCounting Practice]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp9-1/vertical-049622956720" %}})

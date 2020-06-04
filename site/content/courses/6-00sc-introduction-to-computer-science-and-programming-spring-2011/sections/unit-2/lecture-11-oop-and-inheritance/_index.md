@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube FBpe3xFvPrQ >}}
+
 > ### About this Video
 > 
 > Topics covered: Object-oriented programming (OOP), abstract data types, specifications, subclasses, inheritance.
@@ -31,6 +33,8 @@ Session Activities
 > *   [Lecture code (PY)](https://open-learning-course-data-ci.s3.amazonaws.com/6-00sc-introduction-to-computer-science-and-programming-spring-2011/0a04963bd0302d2d8a4e60dd2b9ba40e_lec11.py)
 
 ### Recitation Videos
+
+*   {{< youtube ZFc\_utdoexI >}}
 
 > ### About this Video
 > 

@@ -21,6 +21,10 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube Bv9kVDcj7yo >}}
+
+{{< youtube Bv9kVDcj7yo >}}
+
 Worked Example
 --------------
 

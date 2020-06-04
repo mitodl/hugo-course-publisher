@@ -21,6 +21,8 @@ Lecture Video
 
 A system in equilibrium that is subjected to a stress tends to respond in a way that minimizes that stress. In this lecture, viewers will learn about chemical reactions but will also learn some important life lessons.
 
+{{< youtube AVL5AwJrrEU >}}
+
 Lecture Notes
 -------------
 

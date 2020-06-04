@@ -24,5 +24,7 @@ layout: videogallery
 Video 7: Comparing Methods
 --------------------------
 
+{{< youtube 8ryWylXv0WE >}}
+
 *   [BackVideo 6: Detecting Tumors]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-6-detecting-tumors" %}})
 *   [ContinueAssignment 6]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/assignment-6/_index.md" %}})

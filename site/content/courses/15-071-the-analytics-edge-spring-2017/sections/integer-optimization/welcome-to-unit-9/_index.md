@@ -16,5 +16,7 @@ layout: videogallery
 Welcome to Unit 9
 -----------------
 
+{{< youtube -G\_d3A0x\_0Y >}}
+
 *   [BackInteger Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/_index.md" %}})
 *   [ContinueSports Scheduling: An Introduction to Integer Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/_index.md" %}})

@@ -22,5 +22,7 @@ layout: videogallery
 Scheduling
 ----------
 
+{{< youtube 1TpzSCMLg08 >}}
+
 *   [BackDAGs]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-1/vertical-dcde59c77eab" %}})
 *   [ContinueScheduling Prerequisites]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-1/vertical-cb2dbc0f9d11" %}})

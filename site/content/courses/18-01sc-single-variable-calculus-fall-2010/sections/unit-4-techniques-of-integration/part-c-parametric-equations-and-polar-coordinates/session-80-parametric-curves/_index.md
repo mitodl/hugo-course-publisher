@@ -21,10 +21,16 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube TpWQlKHPyJ4 >}}
+
+{{< youtube XRkgBWbWvg4 >}}
+
 Recitation Video
 ----------------
 
 ### Parametric Arc Length
+
+{{< youtube v1AQ8Yi3yB8 >}}
 
 Worked Example
 --------------
@@ -38,5 +44,7 @@ Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
+
+{{< youtube XRkgBWbWvg4 >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-81-examples-using-parametrized-curves/_index.md" %}}) »

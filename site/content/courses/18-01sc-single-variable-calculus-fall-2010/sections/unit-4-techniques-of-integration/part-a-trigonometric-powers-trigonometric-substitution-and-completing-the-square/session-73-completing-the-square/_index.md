@@ -21,10 +21,14 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube CXKoCMVqM9s >}}
+
 Recitation Video
 ----------------
 
 ### Integration by Completing the Square
+
+{{< youtube CMbvq16z0gA >}}
 
 Worked Example
 --------------

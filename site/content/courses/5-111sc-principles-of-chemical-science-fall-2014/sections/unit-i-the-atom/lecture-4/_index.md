@@ -21,6 +21,8 @@ Lecture Video
 
 The idea that matter (and thus an electron) has both particle-like and wave-like properties is introduced, and chemist Darcy Wanger Grinolds introduces us to quantum dot technology. We also start to consider the impact that the Schrödinger equation had on our understanding of the atom.
 
+{{< youtube Qg7pQ\_CYaIQ >}}
+
 Lecture Notes
 -------------
 

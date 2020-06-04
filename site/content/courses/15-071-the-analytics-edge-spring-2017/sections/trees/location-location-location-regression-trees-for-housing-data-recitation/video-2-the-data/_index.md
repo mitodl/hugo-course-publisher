@@ -29,5 +29,7 @@ In this recitation, Iain will be using the dataset [boston (CSV)](https://open-l
 
 An R script file with all of the R commands used in this recitation can be downloaded here: [Resource Unit4\_Recitation (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/07abfd3fd112a229c1bf1dbe9f454d98_Unit4_Recitation.R).
 
+{{< youtube vsAzc7GvQSs >}}
+
 *   [BackVideo 1: Boston Housing Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-1-boston-housing-data" %}})
 *   [ContinueVideo 3: Geographical Predictions]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/video-3-geographical-predictions" %}})

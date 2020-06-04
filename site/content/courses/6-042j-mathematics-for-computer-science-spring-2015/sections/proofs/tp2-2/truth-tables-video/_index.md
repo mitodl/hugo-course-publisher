@@ -24,5 +24,7 @@ layout: videogallery
 Truth Tables
 ------------
 
+{{< youtube \_3WDzxt5p8c >}}
+
 *   [BackDigital Logic: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/digital-logic-video" %}})
 *   [ContinueEquivalence and Truth Table]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-2/vertical-b8b2711c0ce8" %}})

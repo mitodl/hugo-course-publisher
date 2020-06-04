@@ -22,5 +22,7 @@ layout: videogallery
 Degrees
 -------
 
+{{< youtube TIpnudrzvgg >}}
+
 *   [BackEquivalence Relations & Partial Orders]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/partial-orders-and-equivalence/vertical-d757201744eb" %}})
 *   [ContinueCounting Degrees & Edges]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-2/vertical-0403a1f6fa4c" %}})

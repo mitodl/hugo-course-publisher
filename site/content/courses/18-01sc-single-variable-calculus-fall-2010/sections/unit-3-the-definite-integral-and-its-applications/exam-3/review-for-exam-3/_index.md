@@ -21,4 +21,12 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube zUEuKrxgHws >}}
+
+{{< youtube zUEuKrxgHws >}}
+
+{{< youtube zUEuKrxgHws >}}
+
+{{< youtube zUEuKrxgHws >}}
+
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/exam-3/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/exam-3/materials-for-exam-3/_index.md" %}}) »

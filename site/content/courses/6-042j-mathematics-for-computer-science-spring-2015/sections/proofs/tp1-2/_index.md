@@ -22,5 +22,7 @@ layout: videogallery
 Proof By Contradiction
 ----------------------
 
+{{< youtube CpW0ZJ7i0oc >}}
+
 *   [BackModus Ponens]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-1/vertical-acfe05b95a4e" %}})
 *   [ContinueProof By Contradiction]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-2/vertical-2835de2f30b6" %}})

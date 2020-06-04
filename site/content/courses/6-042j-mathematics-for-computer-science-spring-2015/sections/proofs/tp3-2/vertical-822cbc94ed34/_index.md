@@ -18,5 +18,7 @@ layout: videogallery
 Sets Operations
 ---------------
 
+{{< youtube Mhip1rljvRo >}}
+
 *   [Back Sets]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-2/_index.md" %}})
 *   [ContinueDifference]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-2/vertical-049c9a1dd957" %}})

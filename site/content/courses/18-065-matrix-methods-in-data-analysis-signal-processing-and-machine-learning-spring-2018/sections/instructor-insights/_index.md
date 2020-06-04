@@ -14,6 +14,8 @@ Instructor Insights
 
 Below, Professor Gilbert Strang describes various aspects of how he taught _18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning_.
 
+{{< youtube t36jZG07MYc >}}
+
 Curriculum Information
 ----------------------
 

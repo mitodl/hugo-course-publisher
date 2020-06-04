@@ -21,11 +21,19 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube kCPVBl953eY >}}
+
+{{< youtube kCPVBl953eY >}}
+
 Recitation Video
 ----------------
 
 ### Constant Multiple Rule
 
+{{< youtube Eaei-Y5AO\_E >}}
+
 ### Tangent to Graph of Polynomial
+
+{{< youtube rfx1x-2dwSI >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/_index.md" %}}) »

@@ -26,6 +26,8 @@ Recitation Video
 
 ### Hyperbolic Trig Functions
 
+{{< youtube er\_tQOBgo-I >}}
+
 Worked Example
 --------------
 

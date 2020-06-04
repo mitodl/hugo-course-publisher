@@ -24,5 +24,7 @@ layout: videogallery
 Video 6: Evaluating the Model
 -----------------------------
 
+{{< youtube 6m39f8lDONs >}}
+
 *   [BackVideo 5: Building Models]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-5-building-models" %}})
 *   [ContinueVideo 7: The ROC Curve]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-7-the-roc-curve" %}})

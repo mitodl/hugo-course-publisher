@@ -17,4 +17,6 @@ The center of two spherical planets of masses \\(\\displaystyle m\_1 \\) and \\(
 
 Express your answer in terms of the gravitational constant \\(\\displaystyle G \\), \\(\\displaystyle m\_1 \\), \\(\\displaystyle m\_2 \\) and \\(\\displaystyle d \\) as needed.
 
+{{< youtube \_mqFIqnCPak >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/5.1-universal-law-of-gravitation" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/5.3-gravity-at-the-surface-of-the-earth-the-value-of-g" %}}) »

@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube C2BBAW78fYg >}}
+
 > ### About this Video
 > 
 > Topics covered: Subclasses, inheritance, generator, analytic methods, simulation methods, simulations, models, random walk.

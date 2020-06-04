@@ -21,6 +21,14 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube --lPz7VFnKI >}}
+
+{{< youtube --lPz7VFnKI >}}
+
+{{< youtube --lPz7VFnKI >}}
+
+{{< youtube --lPz7VFnKI >}}
+
 Worked Example
 --------------
 
@@ -34,9 +42,13 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube --lPz7VFnKI >}}
+
 Recitation Video
 ----------------
 
 ### Integration of Taylor's Series
+
+{{< youtube 2\_7htv5eviM >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-99-taylors-series-continued/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-101-conclusion/_index.md" %}}) »

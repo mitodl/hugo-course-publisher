@@ -21,6 +21,8 @@ Lecture Video: Translation Symmetry
 
 Prof. Lee introduces the concept of “boundary conditions” which enables us to solve a finite system using the general solution of an infinitely long system. In the end of the lecture, a wave equation is derived in the continuous limit.
 
+{{< youtube J1uHGy1tRmM >}}
+
 Lecture Notes
 -------------
 
@@ -40,7 +42,7 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | {{< br >}}{{< br >}} 
+| [Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | {{< youtube J1uHGy1tRmM >}} 
 
 Related Resources
 -----------------

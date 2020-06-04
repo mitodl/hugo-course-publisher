@@ -21,6 +21,8 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube 9v25gg2qJYE >}}
+
 Worked Example
 --------------
 
@@ -34,14 +36,20 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube 9v25gg2qJYE >}}
+
 Recitation Video
 ----------------
 
 ### Log and Exponent Derivatives
 
+{{< youtube wezQdmwolMU >}}
+
 Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
+
+{{< youtube 9v25gg2qJYE >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-16-the-derivative-of-a-x/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-18-derivatives-of-other-exponential-functions/_index.md" %}}) »

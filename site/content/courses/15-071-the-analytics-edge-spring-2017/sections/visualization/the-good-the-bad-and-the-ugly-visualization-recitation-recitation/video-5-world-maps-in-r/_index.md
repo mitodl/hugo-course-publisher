@@ -25,5 +25,7 @@ Video 5: World Maps in R
 
 In this video, we'll use the dataset [intlall (CSV)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/f6ef04f3a5eda773e1fe836e68143185_intlall.csv). Please download this dataset before starting the video. This data comes from the [MIT International Students Office](http://web.mit.edu/iso/).
 
+{{< youtube 2rnsbodsJVc >}}
+
 *   [BackVideo 4: A Better Visualization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-4-a-better-visualization" %}})
 *   [ContinueVideo 6: Scales]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-6-scales" %}})

@@ -22,5 +22,7 @@ layout: videogallery
 Inclusion-Exclusion 2 Sets
 --------------------------
 
+{{< youtube nwpzBE9IwJQ >}}
+
 *   [BackInclusion-Exclusion Example: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp10-1/vertical-6d18e84b97d0" %}})
 *   [ContinuePigeonhole Principle]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp10-1/vertical-138fcb49e968" %}})

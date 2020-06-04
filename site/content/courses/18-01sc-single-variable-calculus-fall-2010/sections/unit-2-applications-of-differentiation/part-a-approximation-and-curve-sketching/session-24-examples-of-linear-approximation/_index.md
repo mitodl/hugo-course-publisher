@@ -21,6 +21,12 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube BSAA0akmPEU >}}
+
+{{< youtube BSAA0akmPEU >}}
+
+{{< youtube BSAA0akmPEU >}}
+
 Worked Example
 --------------
 
@@ -34,9 +40,15 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube BSAA0akmPEU >}}
+
+{{< youtube eRCN3daFCmU >}}
+
 Recitation Video
 ----------------
 
 ### Implicit Differentiation and Linear Approximation
+
+{{< youtube 8gGbViZjoRw >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-23-linear-approximation/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-25-introduction-to-quadratic-appoximation/_index.md" %}}) »

@@ -21,6 +21,8 @@ Lecture Video: Wave Plates, Radiation
 
 How do we generate electromagnetic waves? Prof. Lee discusses the answer to this equation in class and shows an accelerated charge could lead to radiation which could propagate to the edge of the universe.
 
+{{< youtube Dlhma3z57SA >}}
+
 Lecture Notes
 -------------
 
@@ -38,9 +40,9 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Polarizing Filters and Light](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%201&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} |
-| [Polarization in a Sugar Solution](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%208&show=0) | {{< br >}}{{< br >}} |
-| [Polarization of Radio Waves (Dipole Antenna)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%2012&show=0) | {{< br >}}{{< br >}}and{{< br >}}{{< br >}} 
+| [Polarizing Filters and Light](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%201&show=0) | {{< youtube Dlhma3z57SA >}} and {{< youtube Dlhma3z57SA >}} |
+| [Polarization in a Sugar Solution](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%208&show=0) | {{< youtube Dlhma3z57SA >}} |
+| [Polarization of Radio Waves (Dipole Antenna)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=T%2012&show=0) | {{< youtube Dlhma3z57SA >}} and {{< youtube Dlhma3z57SA >}} 
 
 Related Resources
 -----------------

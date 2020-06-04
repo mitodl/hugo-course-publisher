@@ -21,6 +21,8 @@ Lecture Video
 
 Why do some atoms readily form bonds with each other and other atoms don’t? Using molecular orbital theory, we can rationalize why molecular hydrogen (H2) is an abundant molecule whereas molecular helium (He2) is not. If you want to power your starship with dilithium (Li2) crystals, you should watch this lecture.
 
+{{< youtube O192jrR80oo >}}
+
 Lecture Notes
 -------------
 

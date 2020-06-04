@@ -21,6 +21,8 @@ Lecture Video
 
 After focusing on the hydrogen atom for several lectures, the course moves on to consider atoms with more than one electron. Now, the pull of the positively charged nucleus on the negatively charged electron is harder to predict as shielding comes into play. Also, we try our hand at electron configurations.
 
+{{< youtube -jJz5OMmuP0 >}}
+
 Lecture Notes
 -------------
 

@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube aqd0sR5rygk >}}
+
 > ### About this Video
 > 
 > Topics covered: Queuing network simulations, Poisson distributions, wait time, queue length, server utilization, FIFO, LIFO, SRPT.

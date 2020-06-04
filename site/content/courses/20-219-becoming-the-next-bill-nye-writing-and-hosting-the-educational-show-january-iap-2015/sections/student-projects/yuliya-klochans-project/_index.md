@@ -32,6 +32,8 @@ Contents
 Day 1 Gödel's Theorem Video Pitch
 ---------------------------------
 
+{{< youtube AHJDrCiXNRA >}}
+
 This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
 The beginning of an odd mathematical journey that asks (but cannot always answer) questions like, "Is math true?" or "Could The Matrix scenario happen to us?"
@@ -126,6 +128,8 @@ Save the world with math. No superpowers required.
 
 Day 3 Trailer: Fractals!
 ------------------------
+
+{{< youtube SAQxC4DHic0 >}}
 
 This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
@@ -373,12 +377,16 @@ Day 8 Fractals! Shot List
 Fractals! Rough Cut
 -------------------
 
+{{< youtube bB7KvV3tRZA >}}
+
 This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
 [\_Link back to Day 11\_]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/day-11-12-screening-rough-cuts/_index.md" %}}#Student_Work)
 
 Final Project
 -------------
+
+{{< youtube tgUyvasUtbA >}}
 
 This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
@@ -400,6 +408,8 @@ Science Out Loud
 ----------------
 
 Yuliya's video was professionally produced by [Science Out Loud](http://k12videos.mit.edu/science-out-loud) after this course finished.
+
+{{< youtube WFtTdf3I6Ug >}}
 
 This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](http://k12videos.mit.edu/terms-and-conditions) license.
 

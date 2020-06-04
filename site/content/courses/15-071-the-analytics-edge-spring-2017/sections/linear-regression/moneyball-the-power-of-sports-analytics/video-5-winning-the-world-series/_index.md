@@ -27,5 +27,7 @@ layout: videogallery
 Video 5: Winning the World Series
 ---------------------------------
 
+{{< youtube D2FQ-JnltPw >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/quick-question-119" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/quick-question-126" %}})

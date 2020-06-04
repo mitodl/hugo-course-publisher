@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube K1w2o5i0NGQ >}}
+
 > ### About this Video
 > 
 > Topics covered: Statistics, plotting, correlation, causation, bias, logical fallacies, data enhancement, Texas sharpshooter fallacy.
@@ -32,6 +34,8 @@ Session Activities
 > *   [Lecture slides (PDF)]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-3/lecture-24-avoiding-statistical-fallacies/MIT6_00SCS11_lec24_slides" %}})
 
 ### Recitation Videos
+
+*   {{< youtube rM3shFQyieU >}}
 
 > ### About this Video
 > 

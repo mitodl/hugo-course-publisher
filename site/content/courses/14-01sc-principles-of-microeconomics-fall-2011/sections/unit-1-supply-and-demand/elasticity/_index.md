@@ -30,6 +30,8 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Lecture Videos
 
+*   {{< youtube Ye4vL7u6N2g >}}
+
 ### Resources
 
 *   [Graphs and Figures (PDF)]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/elasticity/MIT14_01SCF11_graph03" %}})

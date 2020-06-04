@@ -21,10 +21,18 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube R9a\_NHXrBcg >}}
+
+{{< youtube R9a\_NHXrBcg >}}
+
+{{< youtube R9a\_NHXrBcg >}}
+
 Recitation Video
 ----------------
 
 ### Average Velocity
+
+{{< youtube Psks\_KK0YZ8 >}}
 
 Worked Example
 --------------

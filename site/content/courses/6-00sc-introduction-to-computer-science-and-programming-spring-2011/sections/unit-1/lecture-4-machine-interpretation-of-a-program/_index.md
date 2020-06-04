@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube Mx0uXIBD-yA >}}
+
 > ### About this Video
 > 
 > Topics covered: Decomposition, module, function, abstraction, formal parameter, actual parameter, argument, assert, scope, mapping, stack, last in first out, LIFO, strings, slicing.
@@ -31,6 +33,8 @@ Session Activities
 > *   [Lecture code (PY)](https://open-learning-course-data-ci.s3.amazonaws.com/6-00sc-introduction-to-computer-science-and-programming-spring-2011/e3f2450fe7bfcad1f1306f18ac95c9bd_lec04.py)
 
 ### Recitation Videos
+
+*   {{< youtube nx6NnzIGrKE >}}
 
 > ### About this Video
 > 

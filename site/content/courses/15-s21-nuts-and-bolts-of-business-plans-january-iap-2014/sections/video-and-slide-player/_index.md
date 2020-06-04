@@ -12,4 +12,16 @@ The selected lecture videos in this section are presented with the corresponding
 
 The benefit of this pop-out player is that you are able view the videos while the slides advance automatically. You can also toggle back and forth using the "Previous page" and "Next page" links below the slide window.
 
-Note: This is a simple player. Once you have toggled between slides or jumped ahead in the video, your last viewed slide will remain on screen until the video has reached another slide queue.
+Note: This is a simple player. Once you have toggled between slides or jumped ahead in the video, your last viewed slide will remain on screen until the video has reached another slide queue. 
+
+{{< youtube ZcPNcoTbkIU >}}
+
+{{< youtube Lau7bwQAWr4 >}}
+
+{{< youtube Azq6S6Hx0gU >}}
+
+{{< youtube b9Yyj3htBLE >}}
+
+{{< youtube 3vKlYA7vXOk >}}
+
+{{< youtube sfYD3LX-Rgw >}}

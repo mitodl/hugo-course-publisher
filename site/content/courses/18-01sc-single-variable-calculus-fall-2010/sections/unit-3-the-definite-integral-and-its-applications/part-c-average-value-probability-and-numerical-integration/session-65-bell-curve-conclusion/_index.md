@@ -21,4 +21,6 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube zUEuKrxgHws >}}
+
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-64-numerical-integration-continued/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/problem-set-8/_index.md" %}}) »

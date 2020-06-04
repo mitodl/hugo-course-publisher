@@ -21,5 +21,7 @@ layout: videogallery
 Digraphs: Connected Vertices
 ----------------------------
 
+{{< youtube QORX1OUabio >}}
+
 *   [BackWalks and Paths]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-3/vertical-5a67aa9a3a6d" %}})
 *   [ContinueLongest Path]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-3/vertical-588ea67bd5d7" %}})

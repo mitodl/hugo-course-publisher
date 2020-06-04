@@ -21,6 +21,8 @@ Recitation Video
 
 ### Series Calculation Using a Riemann Sum
 
+{{< youtube zcuYFf5R0NU >}}
+
 Worked Example
 --------------
 
@@ -33,5 +35,7 @@ Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
+
+{{< youtube --lPz7VFnKI >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-100-operations-on-power-series/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/final-exam/_index.md" %}}) »

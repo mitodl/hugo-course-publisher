@@ -21,15 +21,21 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube 4sTKcvYMNxk >}}
+
 Recitation Video
 ----------------
 
 ### Chain Rule
 
+{{< youtube aeQA5d3gZTI >}}
+
 Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
+
+{{< youtube 4sTKcvYMNxk >}}
 
 Worked Example
 --------------

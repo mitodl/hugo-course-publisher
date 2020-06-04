@@ -24,5 +24,7 @@ layout: videogallery
 Video 3: Predicting Heart Attacks using Clustering
 --------------------------------------------------
 
+{{< youtube fsF79kN9G28 >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/quick-question-486" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/quick-question-494" %}})

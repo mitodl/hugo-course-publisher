@@ -20,5 +20,7 @@ layout: videogallery
 Intro to Proofs: Part 2
 -----------------------
 
+{{< youtube wfr4XbR5VP8 >}}
+
 *   [BackIntro To Proofs: Part 1: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-1/intro-to-proofs-part-1-video" %}})
 *   [ContinueDefinitions To Know For Proofs]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp1-1/vertical-96ac16077819" %}})

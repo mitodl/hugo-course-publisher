@@ -21,12 +21,22 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube MK\_0QHbUnIA >}}
+
+{{< youtube MK\_0QHbUnIA >}}
+
+{{< youtube MK\_0QHbUnIA >}}
+
 Recitation Video
 ----------------
 
 ### Comparison Tests
 
+{{< youtube dGKvUUmMGoU >}}
+
 ### Ratio Test for Convergence
+
+{{< youtube rUis1mSzwyA >}}
 
 Worked Example
 --------------
@@ -41,6 +51,10 @@ Recitation Video
 
 ### Integral Test for Convergence
 
+{{< youtube e4cURLXGjrM >}}
+
 ### Using the Integral Test for Estimation
+
+{{< youtube QEBkT-Pgqos >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-94-infinite-series/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-b-taylor-series/session-96-stacking-blocks/_index.md" %}}) »

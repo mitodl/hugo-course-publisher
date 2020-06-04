@@ -30,8 +30,12 @@ What are the non-verbal elements that go into a video, and how do you integrate 
 Part 1: What's the Point of your Video?
 ---------------------------------------
 
+{{< youtube gUNY29Zpu7g >}}
+
 Part 2: Visual Language
 -----------------------
+
+{{< youtube BZfqcnlpofI >}}
 
 ### In-class Media: Visual Language
 
@@ -43,6 +47,8 @@ Part 2: Visual Language
 
 Part 3: Producing a Video
 -------------------------
+
+{{< youtube ftrKlCmELm4 >}}
 
 ### In-class Media: Producing Case Studies
 
@@ -56,6 +62,8 @@ Part 3: Producing a Video
 
 Part 4: Filming
 ---------------
+
+{{< youtube 02NyrrxEGqM >}}
 
 Assignments
 -----------

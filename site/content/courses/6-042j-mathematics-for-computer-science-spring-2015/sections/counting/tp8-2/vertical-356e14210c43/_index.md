@@ -28,5 +28,7 @@ layout: videogallery
 Stirling's Formula
 ------------------
 
+{{< youtube lU\_QT5GSuxI >}}
+
 *   [BackIntegral Method Demystified]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-2/vertical-efaab47d6b5a" %}})
 *   [ContinueApplying Stirling's Formula]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-2/vertical-109177f07958" %}})

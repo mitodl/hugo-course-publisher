@@ -21,6 +21,8 @@ Lecture Video: Driven Oscillators, Resonance
 
 Driving force is introduced in the coupled system. Prof. Wyslouch solves the system and he demonstrates that one could “excite” one of the normal modes by driving the system at the frequency it likes: normal mode frequency.
 
+{{< youtube Ahv7Akj2xs4 >}}
+
 Lecture Notes
 -------------
 
@@ -40,7 +42,7 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0) | {{< br >}}{{< br >}} |
-| [Coupled Air Carts](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2020&show=0) | {{< br >}}{{< br >}} 
+| [Two Rigid Pendulums Coupled with a Spring](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2019&show=0) | {{< youtube Ahv7Akj2xs4 >}} |
+| [Coupled Air Carts](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2020&show=0) | {{< youtube Ahv7Akj2xs4 >}} 
 
 « [Previous]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-5/_index.md" %}}) | [Next]({{% getpage "courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/sections/part-i-mechanical-vibrations-and-waves/lecture-7/_index.md" %}}) »

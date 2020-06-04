@@ -24,6 +24,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube wu8kXZSAp20 >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/299d926296d9e3e66c83dabad5781735_MIT18_02SC_L29Brds_5a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/14685e3061a5d090551b89e6da490fb6_MIT18_02SC_L29Brds_5.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/80cda6d939133dcdfbbb2743a7a4c255_MIT18_02SC_L29Brds_6a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/9a6c0c99ec1c86465705d167148e7d80_MIT18_02SC_L29Brds_6.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/f9499fc1df99040525fc1d17da38c20c_MIT18_02SC_L29Brds_7a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/1dd7d2f45fde63b1d25289001884d4bd_MIT18_02SC_L29Brds_7.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/4d5eee8ce827e853fb7f0421eba9f0ba_MIT18_02SC_L29Brds_8a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/c25e14cf1756ebf0e63bb795cefe9e4d_MIT18_02SC_L29Brds_8.png "Open in a new window.")  

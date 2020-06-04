@@ -22,5 +22,7 @@ layout: videogallery
 Video 2: Using Integer Optimization
 -----------------------------------
 
+{{< youtube AlDhA-NY5IA >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/eharmony-maximizing-the-probability-of-love/quick-question-698" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/eharmony-maximizing-the-probability-of-love/quick-question-703" %}})

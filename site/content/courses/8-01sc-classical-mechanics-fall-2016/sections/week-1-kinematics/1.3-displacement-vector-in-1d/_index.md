@@ -15,4 +15,6 @@ layout: videogallery
 
 **Displacement:** Is the change in the position of an object. If at time \\(t=t\_1\\) the object is at position \\(\\vec{r}(t\_1)\\), and at a later time \\(t=t\_2 > t\_1\\) the object is at position \\(\\vec{r}(t\_2)\\), the displacement vector is defined as \\(\\Delta \\vec{r} = \\vec{r}(t\_2) - \\vec{r}(t\_1)\\). In one dimension, the displacement vector has one component. For example, if the motion is along the x-axis, the displacement vector becomes \\(\\Delta \\vec{r} = \\Delta x \\hat{i} = (x(t\_2) - x(t\_1))\\hat{i}\\). The component of the displacement vector can be positive, when the final position is larger than the initial one. It can be negative, when the final position is smaller than the initial one. It can aslo be zero, if the object ends at the starting point.
 
+{{< youtube W1lxlbJ0BZU >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/1.2-position-vector-in-1d" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/1.4-average-velocity-in-1d" %}}) »

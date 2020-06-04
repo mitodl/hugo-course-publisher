@@ -29,5 +29,7 @@ layout: videogallery
 Video 3: Vectors and Data Frames
 --------------------------------
 
+{{< youtube MvERdFp8mvI >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question-4" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question-9" %}})

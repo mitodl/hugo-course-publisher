@@ -21,6 +21,10 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube PNTnmH6jsRI >}}
+
+{{< youtube PNTnmH6jsRI >}}
+
 Worked Example
 --------------
 
@@ -33,5 +37,9 @@ Lecture Video and Notes
 -----------------------
 
 ### Video Excerpts
+
+{{< youtube PNTnmH6jsRI >}}
+
+{{< youtube PNTnmH6jsRI >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-88-examples-of-lhospitals-rule/_index.md" %}}) »

@@ -28,7 +28,12 @@ Guest lecturer Josh Gunn, founder of [Planet Nutshell](http://planetnutshell.com
 Part 1: Animation
 -----------------
 
+{{< youtube 3HnHQXWIFd4 >}}
+
 ### Chapters
+
+*   {{< youtube 3HnHQXWIFd4 >}}
+*   {{< youtube 3HnHQXWIFd4 >}}
 
 ### In-class Media
 
@@ -41,7 +46,13 @@ Part 1: Animation
 Part 2: Storyboarding
 ---------------------
 
+{{< youtube VHyCh1mDneE >}}
+
 ### Chapters
+
+*   {{< youtube VHyCh1mDneE >}}
+*   {{< youtube VHyCh1mDneE >}}
+*   {{< youtube VHyCh1mDneE >}}
 
 ### In-class Media
 

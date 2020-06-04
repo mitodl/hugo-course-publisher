@@ -20,5 +20,7 @@ layout: videogallery
 Video 2: Playoffs and Wins
 --------------------------
 
+{{< youtube 4YP38f2u36E >}}
+
 *   [BackVideo 1: The Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-1-the-data/_index.md" %}})
 *   [ContinueVideo 3: Points Scored]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-3-points-scored" %}})

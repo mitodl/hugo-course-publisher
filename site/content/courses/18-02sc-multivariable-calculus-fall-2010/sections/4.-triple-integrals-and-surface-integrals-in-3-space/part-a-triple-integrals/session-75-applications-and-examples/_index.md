@@ -24,6 +24,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube 44R5HgbrUmc >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/98ff6e0e275f8822baef55ea28de9e88_MIT18_02SC_L25Brds_9a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/0ca28def2642d223a8bf763d6dba54db_MIT18_02SC_L25Brds_9.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/eeb0e54f217fd75fd30e89e5809c1026_MIT18_02SC_L25Brds_10a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/7ef2efe2156b72bf22063011cc9257da_MIT18_02SC_L25Brds_10.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/a4c59cf4e2462ff0c1e16074bdb9ee2b_MIT18_02SC_L25Brds_11a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/ff702c95ffcda9de18529e808b4d6f9c_MIT18_02SC_L25Brds_11.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/adfee9b9b25129b12983d171f09ba2d2_MIT18_02SC_L25Brds_12a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/79ae65c3cbf41cd916f5993a7266799a_MIT18_02SC_L25Brds_12.png "Open in a new window.")  
@@ -35,7 +37,11 @@ Recitation Video
 
 ### Average Height
 
+{{< youtube cbSkFpO2jgQ >}}
+
 ### Moment of Inertia of a Cylinder
+
+{{< youtube iYFogDTPlRo >}}
 
 Problems and Solutions
 ----------------------

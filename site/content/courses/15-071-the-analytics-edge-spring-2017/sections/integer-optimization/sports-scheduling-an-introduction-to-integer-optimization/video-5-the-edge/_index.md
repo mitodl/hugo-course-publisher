@@ -24,5 +24,7 @@ layout: videogallery
 Video 5: The Edge
 -----------------
 
+{{< youtube EOWyWHTA\_vQ >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/quick-question-693" %}})
 *   [ContinueeHarmony: Maximizing the Probability of Love]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/eharmony-maximizing-the-probability-of-love/_index.md" %}})

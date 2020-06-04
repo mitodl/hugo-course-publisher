@@ -30,5 +30,7 @@ In this video, we'll use the dataset [framingham (CSV)](https://open-learning-co
 
 An R script file with all of the commands used in this lecture can be downloaded here: [Unit3\_Framingham (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/3a73d6c0252da6435115cac4a473dc08_Unit3_Framingham.R).
 
+{{< youtube 0x4PfWpy-ls >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/quick-question-225" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/quick-question-233" %}})

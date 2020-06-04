@@ -28,6 +28,10 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube 3\_goGnJm5sA >}}
+
+{{< youtube 3\_goGnJm5sA >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/811cedc3f04f22cc5770cbeec3b44324_MIT18_02SC_L10Brds_1a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/f421b1ffd4e74c27763158c569af4582_MIT18_02SC_L10Brds_1.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/bde290b16f41b4c3aed261255b8f3e78_MIT18_02SC_L10Brds_2a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/98dab53a41965395eda5978ddb614824_MIT18_02SC_L10Brds_2.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/5df670cb077564d9617bdf89bbf7f6dc_MIT18_02SC_L10Brds_3a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/30789126bd7b8415089db5429a9987c8_MIT18_02SC_L10Brds_3.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/ff1bf24e744dd0fb17d67f326951b85c_MIT18_02SC_L10Brds_4a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/6dfd6696bf53cdb5572b48077403b943_MIT18_02SC_L10Brds_4.png "Open in a new window.")  
@@ -56,6 +60,8 @@ Recitation Video
 ----------------
 
 ### Second Derivative Test
+
+{{< youtube oQgHo7acids >}}
 
 Problems and Solutions
 ----------------------

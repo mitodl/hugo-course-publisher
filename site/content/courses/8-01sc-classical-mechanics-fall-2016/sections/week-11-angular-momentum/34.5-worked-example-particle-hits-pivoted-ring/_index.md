@@ -29,4 +29,6 @@ The mechanical energy is constant.
 
 **(Part d)** Determine an expression for \\(\\displaystyle \\omega \_ f\\), the angular speed of the system immediately after the collision. Write your answer using some or all of the following: \\(\\displaystyle R\\), \\(\\displaystyle m\_1\\), \\(\\displaystyle m\_2\\) and \\(\\displaystyle v\_ i\\)
 
+{{< youtube c15RtHXBVuQ >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/34.4-demo-bicycle-wheel" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-11-angular-momentum/problem-set-11" %}}) »

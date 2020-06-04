@@ -24,5 +24,7 @@ layout: videogallery
 Welcome to Recitation 8
 -----------------------
 
+{{< youtube kntypWFmyyM >}}
+
 *   [BackVideo 6: The Analytics Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/radiation-therapy-an-application-of-linear-optimization/video-6-the-analytics-edge" %}})
 *   [ContinueVideo 1: Introduction]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-1-introduction-8" %}})

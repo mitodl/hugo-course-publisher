@@ -26,5 +26,7 @@ layout: videogallery
 Video 3: Watson's Database and Tools
 ------------------------------------
 
+{{< youtube 6Rl8scykyEQ >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/quick-question-410" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/quick-question-415" %}})

@@ -20,6 +20,8 @@ layout: videogallery
 Video 1: The Problem
 --------------------
 
+{{< youtube SSzcvj2biAQ >}}
+
 The slides from all videos in this recitation can be downloaded here: [An Optimization Model for Hospitals (PDF)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-1-the-problemMIT15_071S17_Unit9_Recitation" %}}).
 
 *   [BackOperating Room Scheduling: Making Hospitals Run Smoothly (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/_index.md" %}})

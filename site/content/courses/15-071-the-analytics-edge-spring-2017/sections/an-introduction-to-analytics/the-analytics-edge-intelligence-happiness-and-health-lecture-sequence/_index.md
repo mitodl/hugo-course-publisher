@@ -23,6 +23,8 @@ layout: videogallery
 Video 1: Introduction to The Analytics Edge
 -------------------------------------------
 
+{{< youtube -mW-DYFyGqg >}}
+
 The slides from all videos in this Lecture Sequence can be downloaded here: [Introduction to the Analytics Edge (PDF)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/MIT15_071S17_Unit1_AnalyticsEdgeIntro" %}}).
 
 *   [BackWelcome to Unit 1]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/welcome-to-unit-1" %}})

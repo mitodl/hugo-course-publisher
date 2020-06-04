@@ -24,5 +24,7 @@ layout: videogallery
 Asymptotic Properties
 ---------------------
 
+{{< youtube HeyEK0TWiBw >}}
+
 *   [BackAsymptotics as Relations]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/vertical-3800c4b1c397" %}})
 *   [ContinueLittle oh Big Oh]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-3/vertical-5c04897d10e6" %}})

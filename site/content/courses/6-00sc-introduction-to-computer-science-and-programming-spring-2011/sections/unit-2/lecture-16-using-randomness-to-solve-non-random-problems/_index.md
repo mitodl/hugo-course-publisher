@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube Q148jV9ljPM >}}
+
 > ### About this Video
 > 
 > Topics covered: Gaussian distributions, analytical models, simulations, exponential growth, probability, distributions, Monty Hall problem.

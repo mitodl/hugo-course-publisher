@@ -29,5 +29,7 @@ layout: videogallery
 Video 2: Getting Started in R
 -----------------------------
 
+{{< youtube E\_KUHMuoPLE >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/working-with-data-an-introduction-to-r/quick-question-4" %}})

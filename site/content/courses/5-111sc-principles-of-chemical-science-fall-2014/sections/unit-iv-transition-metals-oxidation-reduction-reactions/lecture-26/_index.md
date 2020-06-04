@@ -21,6 +21,8 @@ Lecture Video
 
 Viewers are introduced to agents of oxidation and agents of reduction. Are oxidizing agents really that bad for you? Hear from Professor John Essigmann about the double-edged sword that is oxidation-reduction. Oxidizing agents can protect us from disease but can also damage our genetic material. Friend or foe, you decide.
 
+{{< youtube f6Z99Gu6XEE >}}
+
 Lecture Notes
 -------------
 

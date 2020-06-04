@@ -25,6 +25,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube 2XraaWefBd8 >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/b496d99e32d3ee67ab4b66884c018cfd_MIT18_02SC_L12Brds_10a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/eabd09e2ca6de7a2deb8932d9dc79e04_MIT18_02SC_L12Brds_10.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/050548dde50ffde6063d70b62cc0623f_MIT18_02SC_L12Brds_11a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/b75767585183236897b56f3343494ffa_MIT18_02SC_L12Brds_11.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/516dbb17bc3fdb8cb2f54c9ce746bdc6_MIT18_02SC_L12Brds_12a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/9e17dec49fa82e36bcfcec9180e21fe4_MIT18_02SC_L12Brds_12.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/01ba9e09c511ef90ddb622c78e197bc1_MIT18_02SC_L12Brds_13a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/a666e204c2a33f385c1549e68490a00b_MIT18_02SC_L12Brds_13.png "Open in a new window.")
@@ -38,6 +40,8 @@ Recitation Video
 ----------------
 
 ### Tangent Planes
+
+{{< youtube 6paZkmBMZwQ >}}
 
 Problems and Solutions
 ----------------------

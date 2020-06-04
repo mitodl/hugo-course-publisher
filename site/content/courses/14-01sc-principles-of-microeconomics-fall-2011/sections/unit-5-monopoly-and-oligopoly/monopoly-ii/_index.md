@@ -35,6 +35,8 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Lecture Videos
 
+*   {{< youtube jmsPn679o5k >}}
+
 ### Resources
 
 *   [Graphs and Figures (PDF)]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-5-monopoly-and-oligopoly/monopoly-ii/MIT14_01SCF11_graph15" %}})

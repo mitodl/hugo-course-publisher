@@ -29,5 +29,7 @@ layout: videogallery
 Video 2: Text Analytics
 -----------------------
 
+{{< youtube aktu4aRQ5X4 >}}
+
 *   [BackTurning Tweets into Knowledge: An Introduction to Text Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/_index.md" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/quick-question-362" %}})

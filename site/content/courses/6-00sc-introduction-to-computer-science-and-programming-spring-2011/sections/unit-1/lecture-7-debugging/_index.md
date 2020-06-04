@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube 5gt2WDBl8-0 >}}
+
 > ### About this Video
 > 
 > Topics covered: Binary, float, floating point, approximations, debugging, runtime error.
@@ -32,6 +34,8 @@ Session Activities
 > *   [Lecture slides (PDF)]({{% getpage "courses/6-00sc-introduction-to-computer-science-and-programming-spring-2011/sections/unit-1/lecture-7-debugging/MIT6_00SCS11_lec07_slides" %}})
 
 ### Recitation Videos
+
+*   {{< youtube 7BpomdjZ\_Os >}}
 
 > _About this Video_
 > 

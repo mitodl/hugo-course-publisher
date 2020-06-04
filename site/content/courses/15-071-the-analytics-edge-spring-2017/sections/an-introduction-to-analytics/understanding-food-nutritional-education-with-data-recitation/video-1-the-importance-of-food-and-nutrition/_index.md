@@ -22,6 +22,8 @@ layout: videogallery
 Video 1: The Importance of Food and Nutrition
 ---------------------------------------------
 
+{{< youtube rg0TYEdU0TA >}}
+
 The slides from all videos in this Recitation can be downloaded here: [Nutritional Education with Data (PDF - 2.1MB)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-1-the-importance-of-food-and-nutritionMIT15_071S17_Unit1_Recitation" %}}).
 
 *   [BackUnderstanding Food: Nutritional Education with Data (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/_index.md" %}})

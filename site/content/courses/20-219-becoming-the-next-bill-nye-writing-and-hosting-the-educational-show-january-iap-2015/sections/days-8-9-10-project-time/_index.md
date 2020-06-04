@@ -28,12 +28,24 @@ You will have all of class time to film and edit your final projects. Ceri Riley
 Part 1: Animation
 -----------------
 
+{{< youtube iR6FUYCNi5A >}}
+
 ### Chapters
+
+*   {{< youtube iR6FUYCNi5A >}}
+*   {{< youtube iR6FUYCNi5A >}}
+*   {{< youtube iR6FUYCNi5A >}}
+*   {{< youtube iR6FUYCNi5A >}}
 
 Part 2: Rough Cuts
 ------------------
 
+{{< youtube kQnA60blp6o >}}
+
 ### Chapters
+
+*   {{< youtube kQnA60blp6o >}}
+*   {{< youtube kQnA60blp6o >}}
 
 Assignment
 ----------

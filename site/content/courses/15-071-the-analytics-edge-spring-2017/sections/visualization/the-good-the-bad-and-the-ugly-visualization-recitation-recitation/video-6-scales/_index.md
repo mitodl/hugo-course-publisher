@@ -23,5 +23,7 @@ layout: videogallery
 Video 6: Scales
 ---------------
 
+{{< youtube iR1nRg-jm1o >}}
+
 *   [BackVideo 5: World Maps in R]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-5-world-maps-in-r/_index.md" %}})
 *   [ContinueVideo 7: Using Line Charts Instead]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-7-using-line-charts-instead/_index.md" %}})

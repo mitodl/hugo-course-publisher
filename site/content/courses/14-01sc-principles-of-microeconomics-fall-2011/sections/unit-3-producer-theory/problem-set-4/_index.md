@@ -31,4 +31,6 @@ Problem Solving Video
 
 In the video below, a teaching assistant demonstrates his approach to the solution for problem 3 from the problem set. The teaching assistant notes common mistakes made by students and provides problem solving techniques for approaching similar questions on the problem set and exams.
 
+*   {{< youtube qRkAq\_G\_9cs >}}
+
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/competition-i/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-3-producer-theory/competition-ii/_index.md" %}}) »

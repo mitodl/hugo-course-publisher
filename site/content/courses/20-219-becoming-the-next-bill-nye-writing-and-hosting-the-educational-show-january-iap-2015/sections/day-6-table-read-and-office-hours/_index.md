@@ -27,13 +27,15 @@ Half of the class will read their script aloud while everyone will make live com
 Table-read
 ----------
 
+{{< youtube XDBr39cwmbg >}}
+
 | VIDEO CHAPTERS | SCRIPT DRAFTS |
 | --- | --- |
-| {{< br >}}{{< br >}} | [Yuliya's Script (DOC)](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/3c915481a58d47dd1c87e8c260dde10a_MIT20_219IAP15_Fractals.docx) |
-| {{< br >}}{{< br >}} | [David's Script (DOC)](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/fa6a637af9a24439c26ec60782a671fc_MIT20_219IAP15_Cold.docx) |
-| {{< br >}}{{< br >}} | Nathan's script is not available |
-| {{< br >}}{{< br >}} | [Andrea's Script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project/_index.md" %}}#Ortho_Script) |
-| {{< br >}}{{< br >}} | [PJ's Script (DOC)](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/7f91a6ca759e3e98f938ae25c1c5ef91_MIT20_219IAP15_Folino.docx) 
+| {{< youtube XDBr39cwmbg >}} | [Yuliya's Script (DOC)](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/3c915481a58d47dd1c87e8c260dde10a_MIT20_219IAP15_Fractals.docx) |
+| {{< youtube XDBr39cwmbg >}} | [David's Script (DOC)](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/fa6a637af9a24439c26ec60782a671fc_MIT20_219IAP15_Cold.docx) |
+| {{< youtube XDBr39cwmbg >}} | Nathan's script is not available |
+| {{< youtube XDBr39cwmbg >}} | [Andrea's Script]({{% getpage "courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/sections/student-projects/andrea-desrosierss-project/_index.md" %}}#Ortho_Script) |
+| {{< youtube XDBr39cwmbg >}} | [PJ's Script (DOC)](https://open-learning-course-data-ci.s3.amazonaws.com/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/7f91a6ca759e3e98f938ae25c1c5ef91_MIT20_219IAP15_Folino.docx) 
 
 Assignment
 ----------

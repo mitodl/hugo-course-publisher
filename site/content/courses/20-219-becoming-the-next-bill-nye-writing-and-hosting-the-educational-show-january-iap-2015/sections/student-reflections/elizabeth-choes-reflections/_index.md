@@ -19,6 +19,8 @@ layout: videogallery
 Day 1 Thoughts
 --------------
 
+{{< youtube TXkB42FCriU >}}
+
 Phew! Day 1 over. Man, 3 hours goes by waaaay faster when you're talking than when you're listening. Thanks for being a good audience, you guys are troopers. Let me know if lecture starts feeling too tedious or if you all want me to break up the sessions more.
 
 Y'all are a **Quiet** bunch! But I suppose that is to be expected on the first day. We'll be sure to shake things up tomorrow… Loved hearing people's experiences with video, and it was interesting to see how my personal tastes aligned (distaste of Khan Academy - agree with Paul on that one, and then same with the +1 for Veritasium with Andrea) or didn't align with that of others.
@@ -50,6 +52,8 @@ I'm really excited about the group of students we have in this class and to see 
 
 Day 3 Thoughts
 --------------
+
+{{< youtube csmoWTVA1GU >}}
 
 This video is courtesy of [Elizabeth Choe](https://www.youtube.com/channel/UCOduGt2sk_wjQniqtWZt90A) on YouTube and is provided under our Creative Commons license.
 
@@ -150,6 +154,8 @@ I'm guessing David and Joshua were filming in the hotel this afternoon - can't w
 
 Day 11 Thoughts
 ---------------
+
+{{< youtube YjZKOZqsOzM >}}
 
 This video is courtesy of [Elizabeth Choe](https://www.youtube.com/channel/UCOduGt2sk_wjQniqtWZt90A) on YouTube and is provided under our Creative Commons license.
 

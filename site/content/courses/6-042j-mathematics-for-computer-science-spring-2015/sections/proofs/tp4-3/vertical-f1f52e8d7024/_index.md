@@ -27,5 +27,7 @@ layout: videogallery
 Russell's Paradox
 -----------------
 
+{{< youtube 5hETv64GIuE >}}
+
 *   [BackHalting Problem Basics \\\[Optional\\\]]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/vertical-1ef05b471b3d" %}})
 *   [ContinueRussell's Paradox \\\[and ZFC optional\\\]]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-3/vertical-ac3ff158ffcb" %}})

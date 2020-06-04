@@ -18,5 +18,7 @@ layout: videogallery
 Sets Definitions
 ----------------
 
+{{< youtube KZ7jjLTQ9r4 >}}
+
 *   [BackPredicate Logic]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-1/vertical-384645055c08" %}})
 *   [ContinueSets Operations: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp3-2/vertical-822cbc94ed34" %}})

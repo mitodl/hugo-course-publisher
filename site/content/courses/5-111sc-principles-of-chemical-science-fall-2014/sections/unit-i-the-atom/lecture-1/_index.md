@@ -21,6 +21,8 @@ Lecture Video
 
 Professor Cathy Drennan introduces this series of lectures about basic chemical principles. She describes her path to becoming a chemist and reveals her first impression of the discipline of chemistry. Goals for students of this material are presented as well as some examples about how real world problems can be solved through the applications of chemical principles. Teaching assistants for the course are introduced.
 
+{{< youtube YkYeYhXUeEE >}}
+
 Lecture Notes
 -------------
 

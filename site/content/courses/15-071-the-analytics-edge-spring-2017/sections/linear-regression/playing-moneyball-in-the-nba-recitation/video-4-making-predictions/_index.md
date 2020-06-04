@@ -20,5 +20,7 @@ layout: videogallery
 Video 4: Making Predictions
 ---------------------------
 
+{{< youtube E16wcCKx89w >}}
+
 *   [BackVideo 3: Points Scored]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-3-points-scored" %}})
 *   [ContinueAssignment 2]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/assignment-2/_index.md" %}})

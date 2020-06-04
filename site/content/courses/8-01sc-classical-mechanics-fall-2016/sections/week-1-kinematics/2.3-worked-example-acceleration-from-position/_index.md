@@ -25,4 +25,6 @@ where \\(\\displaystyle b \\) is a positive constant.
 
 **(Part d)** Do a plot of \\(\\displaystyle x(t) \\), \\(\\displaystyle v(t) \\) and \\(\\displaystyle a(t) \\) vs. time.
 
+{{< youtube qmCbc9dbwXU >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/2.2-acceleration-in-1d" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-1-kinematics/2.4-integration" %}}) »

@@ -23,6 +23,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube ChiM2-MV-qM >}}
+
 The following image shows the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/fa54abd8308d5d43bbb5856e9c9bb3b5_MIT18_02SC_L15Brds_14a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/e27c6afa6ab36df9c63a7977b05f53b6_MIT18_02SC_L15Brds_14.png "Open in a new window.")

@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube GmkRmETGghw >}}
+
 > ### About this Video
 > 
 > Topics covered: Efficiency, problem reduction, RAM, best case, worst case, expected case, growth, exponential growth, polynomial growth, logarithmic growth, global variables.
@@ -32,6 +34,8 @@ Session Activities
 > *   [showGrowth code (PY)](https://open-learning-course-data-ci.s3.amazonaws.com/6-00sc-introduction-to-computer-science-and-programming-spring-2011/f141695bb5aad941c1a9cbd3b2aaa296_showGrowth.py)
 
 ### Recitation Videos
+
+*   {{< youtube 8I0BmT1ccuw >}}
 
 > ### About this Video
 > 

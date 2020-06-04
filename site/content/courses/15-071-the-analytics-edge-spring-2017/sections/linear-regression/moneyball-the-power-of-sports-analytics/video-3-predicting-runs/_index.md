@@ -27,5 +27,7 @@ layout: videogallery
 Video 3: Predicting Runs
 ------------------------
 
+{{< youtube mwL\_\_eKs3fI >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/quick-question-106" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/quick-question-109" %}})

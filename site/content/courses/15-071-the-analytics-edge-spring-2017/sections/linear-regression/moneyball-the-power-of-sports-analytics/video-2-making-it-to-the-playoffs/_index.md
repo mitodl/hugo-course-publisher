@@ -27,5 +27,7 @@ layout: videogallery
 Video 2: Making it to the Playoffs
 ----------------------------------
 
+{{< youtube kYjwB3vfnZg >}}
+
 *   [BackVideo 1: The Story of Moneyball]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/video-1-the-story-of-moneyball/_index.md" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/quick-question-106" %}})

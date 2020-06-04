@@ -21,9 +21,17 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube BGE3wb7H2PA >}}
+
+{{< youtube BGE3wb7H2PA >}}
+
+{{< youtube BGE3wb7H2PA >}}
+
 Recitation Video
 ----------------
 
 ### Graph of r = 1 + cos (θ/2)
+
+{{< youtube E7oR\_JBgUzA >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-83-polar-coordinates-continued/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/problem-set-11/_index.md" %}}) »

@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube B8is52oxHBw >}}
+
 > ### About this Video
 > 
 > Topics covered: Tuples, lists, dictionaries, methods, identifiers, modifying objects, aliasing, mutability.

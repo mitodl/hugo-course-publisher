@@ -28,5 +28,7 @@ layout: videogallery
 Geometric Sums
 --------------
 
+{{< youtube ZDQk45NQbEo >}}
+
 *   [BackPerturbation by Young Gauss]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-2/vertical-56598c481e1a" %}})
 *   [ContinueAnnuities]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/counting/tp8-2/vertical-7019fdda010c" %}})

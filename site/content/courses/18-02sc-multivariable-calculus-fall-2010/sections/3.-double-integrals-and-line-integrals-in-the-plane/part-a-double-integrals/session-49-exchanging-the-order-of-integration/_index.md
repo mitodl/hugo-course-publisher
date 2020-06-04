@@ -25,6 +25,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube YP\_B0AapU0c >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/b3f8a62fdcebb1ddc62df0f318851c44_MIT18_02SC_L16Brds_13a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/e7e48174583ab938750a1632f9d8bcdf_MIT18_02SC_L16Brds_13.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/05a10f23b9462f374c19fc5460502018_MIT18_02SC_L16Brds_14a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/08090c0eb2a3e63d367fb4e6e75acb9f_MIT18_02SC_L16Brds_14.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/255a70b22c2135a18d97b9c1bb328860_MIT18_02SC_L16Brds_15a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/8f2d814773bb8f20cea910e610410560_MIT18_02SC_L16Brds_15.png "Open in a new window.")
@@ -38,6 +40,8 @@ Recitation Video
 ----------------
 
 ### Changing the Order of Integration
+
+{{< youtube p06QDsAPY4g >}}
 
 Problems and Solutions
 ----------------------

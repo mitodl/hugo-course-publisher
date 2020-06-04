@@ -24,5 +24,7 @@ layout: videogallery
 Video 5: Building Models
 ------------------------
 
+{{< youtube Cks6Wn29TLg >}}
+
 *   [BackVideo 4: Bag of Words]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-4-bag-of-words-2" %}})
 *   [ContinueVideo 6: Evaluating the Model]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-6-evaluating-the-model" %}})

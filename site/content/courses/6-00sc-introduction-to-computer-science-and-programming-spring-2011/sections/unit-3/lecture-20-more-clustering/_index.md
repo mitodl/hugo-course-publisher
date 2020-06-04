@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube Iu4xTLKcbPo >}}
+
 > ### About this Video
 > 
 > Topics covered: Feature vectors, scaling, k-means clustering.
@@ -33,6 +35,8 @@ Session Activities
 > *   [Lecture data files (ZIP)](https://open-learning-course-data-ci.s3.amazonaws.com/6-00sc-introduction-to-computer-science-and-programming-spring-2011/825878e7db0c30e1d516d3281c251d4c_lec20_data.zip) (This ZIP file contains: 3 .txt files.)
 
 ### Recitation Videos
+
+*   {{< youtube UHRhUufAlE4 >}}
 
 > ### About this Video
 > 

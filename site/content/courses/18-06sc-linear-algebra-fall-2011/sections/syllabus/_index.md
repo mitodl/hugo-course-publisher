@@ -15,6 +15,8 @@ Video Introduction by Professor Strang
 
 ### Linear Algebra Course Introduction
 
+{{< youtube YeyrH-Oc2p4 >}}
+
 Course Overview
 ---------------
 

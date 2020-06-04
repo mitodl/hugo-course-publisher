@@ -13,6 +13,8 @@ layout: videogallery
 
 Acceleration in Circular Motion: \\(\\vec{a} = r\\frac{d^2\\theta}{dt^2}\\hat{\\theta} + r(\\frac{d\\theta}{dt})^2(-\\hat{r})\\)
 
+{{< youtube \_0PrwAbgoMA >}}
+
 **For circular motion, show that \\( \\frac{d \\hat{\\theta}}{dt} = -\\frac{d \\theta}{dt}\\hat{r}\\)**
 
 We know that \\( \\hat{\\theta } \\) changes direction as we go around a circle, and so if a particle is undergoing circular motion, we expect \\(\\frac{d\\hat{\\theta }}{dt}\\) to be non-zero. To figure out exactly what it is, let us write \\(\\hat{\\theta }\\) in terms of \\(\\hat{i}\\) and \\(\\hat{j}\\) for an arbitrary \\(\\theta\\).

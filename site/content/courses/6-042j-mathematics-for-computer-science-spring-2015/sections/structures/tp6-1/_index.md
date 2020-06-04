@@ -22,5 +22,7 @@ layout: videogallery
 Modular Exponentiation Euler's Function
 ---------------------------------------
 
+{{< youtube TeRYL7kkhqs >}}
+
 *   [BackInverses With Linear Combinations]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-2/vertical-9282c2de10f6" %}})
 *   [ContinueEuler's Totient Function]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp6-1/vertical-62a25d1dd25f" %}})

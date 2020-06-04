@@ -16,5 +16,7 @@ layout: videogallery
 Welcome to Unit 5
 -----------------
 
+{{< youtube MYcoFYXPba4 >}}
+
 *   [BackText Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/_index.md" %}})
 *   [ContinueTurning Tweets into Knowledge: An Introduction to Text Analytics]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/_index.md" %}})

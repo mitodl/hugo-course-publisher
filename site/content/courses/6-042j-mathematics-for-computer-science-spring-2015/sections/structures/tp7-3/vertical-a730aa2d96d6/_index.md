@@ -23,5 +23,7 @@ layout: videogallery
 k-Connectivity
 --------------
 
+{{< youtube 5wCZqdCDafc >}}
+
 *   [BackConnectivity: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-3/vertical-857c6f8a582c" %}})
 *   [Continuek-Connected \\\[optional\\\]]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-3/vertical-7dbbc5839c46" %}})

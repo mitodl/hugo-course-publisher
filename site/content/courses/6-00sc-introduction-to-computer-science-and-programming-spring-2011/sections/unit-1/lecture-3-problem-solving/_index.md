@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube ggxY20cXql8 >}}
+
 > ### About this Video
 > 
 > Topics covered: Termination, decrementing functions, exhaustive enumeration, brute force, while loop, for loop, approximation, specifications, bisection search.

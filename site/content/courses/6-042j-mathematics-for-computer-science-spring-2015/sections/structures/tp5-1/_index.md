@@ -25,5 +25,7 @@ layout: videogallery
 GCDs & Linear Combinations
 --------------------------
 
+{{< youtube et3FOZdI6pk >}}
+
 *   [BackStructures]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/_index.md" %}})
 *   [ContinueEuclidean Algorithm: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-1/euclidean-algorithm-video" %}})

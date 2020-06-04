@@ -25,6 +25,8 @@ Lecture Video
 
 ### Video Excerpts
 
+{{< youtube phk05iSMezA >}}
+
 The following images show the chalkboard contents from these video excerpts. Click each image to enlarge.
 
 [![Chalkboard 1.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/416e0ccc2ead19e2d6dca2f65b500533_MIT18_02SC_L27Brds_9a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/b81282c3ee245db7ea187d7e8727dba0_MIT18_02SC_L27Brds_9.png "Open in a new window.")[![Chalkboard 2.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/ac890e8f8e041ceab5614e144634dc5e_MIT18_02SC_L27Brds_10a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/f979588aa0b62cc81ed614a17a7b63d4_MIT18_02SC_L27Brds_10.png "Open in a new window.")[![Chalkboard 3.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/6be820b7ec751e5770519a5b9c663c08_MIT18_02SC_L27Brds_11a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/66acea63edc3fbc1a5a097fbbe87d7d3_MIT18_02SC_L27Brds_11.png "Open in a new window.")[![Chalkboard 4.](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/fa8ee0a2e1815f875cd0b99d52941f9d_MIT18_02SC_L27Brds_12a.png)](https://open-learning-course-data-ci.s3.amazonaws.com/18-02sc-multivariable-calculus-fall-2010/516791fb3bcad67f1c01a73db50d849d_MIT18_02SC_L27Brds_12.png "Open in a new window.")  
@@ -40,7 +42,11 @@ Recitation Video
 
 ### Flux Through a Square
 
+{{< youtube MosaZngFjZY >}}
+
 ### Flux Through Surfaces
+
+{{< youtube -PGcTRLh1u4 >}}
 
 Problems and Solutions
 ----------------------

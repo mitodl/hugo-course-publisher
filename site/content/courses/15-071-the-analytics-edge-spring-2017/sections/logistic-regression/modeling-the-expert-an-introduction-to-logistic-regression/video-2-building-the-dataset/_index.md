@@ -29,5 +29,7 @@ layout: videogallery
 Video 2: Building the Dataset
 -----------------------------
 
+{{< youtube iq7cPtJzgZM >}}
+
 *   [BackModeling the Expert: An Introduction to Logistic Regression]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/_index.md" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/quick-question-144" %}})

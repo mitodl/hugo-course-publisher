@@ -29,6 +29,8 @@ layout: videogallery
     
     CheckShow Answer Videos
     
+    {{< youtube C\_pgH5QhIZ8 >}}
+    
   
 3.  ### Subclass
     
@@ -61,3 +63,5 @@ Exercise 3
 &nbsp;Runs, creates a Dog object with age=7 and name="Ruffles", and prints "ruff ruff"&nbsp;
 
 CheckShow Answer Videos
+
+{{< youtube 8s0d87sjy1A >}}

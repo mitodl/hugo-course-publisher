@@ -26,5 +26,7 @@ layout: videogallery
 Strong Induction
 ----------------
 
+{{< youtube TUueMeRooBk >}}
+
 *   [BackSame Colored Horses]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-1/vertical-e9a3ad8170fd" %}})
 *   [ContinueUnstacking Game Score]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-1/vertical-cc43092b621f" %}})

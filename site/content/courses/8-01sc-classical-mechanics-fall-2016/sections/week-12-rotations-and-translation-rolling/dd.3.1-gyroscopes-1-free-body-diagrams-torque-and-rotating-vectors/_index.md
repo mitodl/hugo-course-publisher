@@ -11,4 +11,6 @@ layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.4-summary-of-angular-momentum-and-kinetic-energy/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes" %}}) »
 
+{{< youtube ThP6wQkf5ec >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/37.4-summary-of-angular-momentum-and-kinetic-energy/_index.md" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-12-rotations-and-translation-rolling/dd.3.2-gyroscopes-2-precessional-angular-velocity-and-titled-gyroscopes" %}}) »

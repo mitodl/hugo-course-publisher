@@ -30,5 +30,7 @@ layout: videogallery
 Video 6: Correlation and Multicollinearity
 ------------------------------------------
 
+{{< youtube gE1wRDQMR8E >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/quick-question-88" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/quick-question-96/_index.md" %}})

@@ -32,5 +32,7 @@ layout: videogallery
 Video 9: Results
 ----------------
 
+{{< youtube xyZEB6vkPb8 >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/quick-question-357" %}})
 *   [ContinueLocation, Location, Location: Regression Trees for Housing Data (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/trees/location-location-location-regression-trees-for-housing-data-recitation/_index.md" %}})

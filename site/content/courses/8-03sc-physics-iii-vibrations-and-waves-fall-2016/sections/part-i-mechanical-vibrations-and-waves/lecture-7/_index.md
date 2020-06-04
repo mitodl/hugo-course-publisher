@@ -21,6 +21,8 @@ Lecture Video: Symmetry, Infinite Number of Coupled Oscillators
 
 The mathematical description of “symmetry” is introduced. Prof. Lee shows that the concept of symmetry can be used to solve infinite numbers of coupled oscillators and that the sine waves we see in daily life are coming from translation symmetry.
 
+{{< youtube b1eKhyC9TTo >}}
+
 Lecture Notes
 -------------
 
@@ -52,8 +54,8 @@ In-class Demonstrations
 
 | HOW IT'S DONE | SEE IT IN THE LECTURE |
 | --- | --- |
-| [Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | {{< br >}}{{< br >}} |
-| [Vibrating Spring (Hand Driven)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2035&show=0) | {{< br >}}{{< br >}} 
+| [Bell Labs Wave Machine](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2027&show=0) | {{< youtube b1eKhyC9TTo >}} |
+| [Vibrating Spring (Hand Driven)](http://tsgphysics.mit.edu/front/?page=demo.php&letnum=C%2035&show=0) | {{< youtube b1eKhyC9TTo >}} 
 
 _\* **Note**: These Problem Solving Help video was originally produced as part of a physics course that is no longer available on OCW._
 

@@ -24,5 +24,7 @@ layout: videogallery
 Welcome to Recitation 6
 -----------------------
 
+{{< youtube o5bqy\_5T07Y >}}
+
 *   [BackVideo 5: The Analytics Edge]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-5-the-analytics-edge" %}})
 *   [ContinueVideo 1: Image Segmentation]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-1-image-segmentation" %}})

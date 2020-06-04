@@ -20,5 +20,7 @@ layout: videogallery
 Welcome to Recitation 2
 -----------------------
 
+{{< youtube xAuh5VptDQ4 >}}
+
 *   [BackQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/moneyball-the-power-of-sports-analytics/quick-question-134" %}})
 *   [ContinueVideo 1: The Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-regression/playing-moneyball-in-the-nba-recitation/video-1-the-data/_index.md" %}})

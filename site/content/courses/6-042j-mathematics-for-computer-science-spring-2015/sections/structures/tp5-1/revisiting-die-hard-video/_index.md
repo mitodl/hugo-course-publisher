@@ -25,5 +25,7 @@ layout: videogallery
 Die Hard Primes
 ---------------
 
+{{< youtube c3qNBNl1h8g >}}
+
 *   [BackGCDs I]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-1/vertical-d1904394a7b7" %}})
 *   [ContinuePrime Factorization: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp5-1/prime-factorization-video" %}})

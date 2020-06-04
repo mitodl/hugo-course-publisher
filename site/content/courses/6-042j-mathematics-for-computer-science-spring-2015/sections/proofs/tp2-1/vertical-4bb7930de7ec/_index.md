@@ -23,5 +23,7 @@ layout: videogallery
 Well Ordering Principle 3
 -------------------------
 
+{{< youtube hNrtGiCFPGs >}}
+
 *   [BackWell Ordering Proofs and Counterexamples]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-1/vertical-001819756631" %}})
 *   [ContinueWOP Proof for Geometric Sum]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp2-1/vertical-21c9adce63e4" %}})

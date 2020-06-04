@@ -29,5 +29,7 @@ layout: videogallery
 Video 2: A Single Flight
 ------------------------
 
+{{< youtube MK3DduTjcrA >}}
+
 *   [BackAirline Revenue Management: An Introduction to Linear Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/_index.md" %}})
 *   [ContinueQuick Question]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/quick-question-581" %}})

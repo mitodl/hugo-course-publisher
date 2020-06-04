@@ -31,4 +31,8 @@ Problem Solving Video
 
 In the video below, a teaching assistant demonstrates his approach to the solution for problems 1 and 4 from the problem set. The teaching assistant notes common mistakes made by students and provides problem solving techniques for approaching similar questions on the problem set and exams.
 
+*   {{< youtube 35QyfmSFTZw >}}
+
+*   {{< youtube WRuAAoyEmY0 >}}
+
 « [Previous]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-1-supply-and-demand/elasticity/_index.md" %}}) | [Next]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/_index.md" %}}) »

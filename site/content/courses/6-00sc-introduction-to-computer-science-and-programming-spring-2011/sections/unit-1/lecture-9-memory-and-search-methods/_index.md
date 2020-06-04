@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube 6wTuOMgTrU4 >}}
+
 > ### About this Video
 > 
 > Topics covered: Memory, storage, indirection, sorting.

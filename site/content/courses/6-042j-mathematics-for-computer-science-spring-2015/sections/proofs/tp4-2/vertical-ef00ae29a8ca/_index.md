@@ -21,5 +21,7 @@ layout: videogallery
 Derived Variables
 -----------------
 
+{{< youtube a7JUH-EtHtI >}}
+
 *   [BackState Machine Invariants]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-2/vertical-ee3144f200f1" %}})
 *   [ContinueDerived Variables and Termination]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/proofs/tp4-2/vertical-5bf3bfde6f69" %}})

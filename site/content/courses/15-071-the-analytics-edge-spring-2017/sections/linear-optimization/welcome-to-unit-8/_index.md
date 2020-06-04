@@ -18,5 +18,7 @@ layout: videogallery
 Welcome to Unit 8
 -----------------
 
+{{< youtube VDtL2g9Viik >}}
+
 *   [BackLinear Optimization]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/_index.md" %}})
 *   [ContinueInstalling LibreOffice or OpenOffice]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/linear-optimization/welcome-to-unit-8/installing-libreoffice-or-openoffice" %}})

@@ -34,6 +34,8 @@ Before watching the lecture video, read the course textbook for an introduction 
 
 ### Lecture Videos
 
+*   {{< youtube 9kH0x7V\_0Ig >}}
+
 ### Resources
 
 *   [Graphs and Figures (PDF)]({{% getpage "courses/14-01sc-principles-of-microeconomics-fall-2011/sections/unit-2-consumer-theory/preferences-and-utility/MIT14_01SCF11_graph04" %}})

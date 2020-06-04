@@ -21,10 +21,16 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube 4sTKcvYMNxk >}}
+
+{{< youtube 4sTKcvYMNxk >}}
+
 Recitation Video
 ----------------
 
 ### Quotient Rule
+
+{{< youtube D7nf7pKddwM >}}
 
 Worked Example
 --------------

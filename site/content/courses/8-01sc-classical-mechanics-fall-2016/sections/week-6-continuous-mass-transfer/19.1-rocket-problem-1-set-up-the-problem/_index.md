@@ -11,4 +11,6 @@ layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/18.4-solve-for-velocity-in-the-moving-frame" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/19.2-rocket-problem-2-momentum-diagrams" %}}) »
 
+{{< youtube YGR5\_Hf9dDg >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/18.4-solve-for-velocity-in-the-moving-frame" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-6-continuous-mass-transfer/19.2-rocket-problem-2-momentum-diagrams" %}}) »

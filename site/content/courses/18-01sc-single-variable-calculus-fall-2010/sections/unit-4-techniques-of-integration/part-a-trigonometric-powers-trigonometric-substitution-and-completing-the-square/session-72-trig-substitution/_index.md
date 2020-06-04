@@ -21,6 +21,12 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube CXKoCMVqM9s >}}
+
+{{< youtube CXKoCMVqM9s >}}
+
+{{< youtube CXKoCMVqM9s >}}
+
 Worked Example
 --------------
 
@@ -33,5 +39,7 @@ Recitation Video
 ----------------
 
 ### Hyperbolic Trig Substitution
+
+{{< youtube Nv3C7q88MqA >}}
 
 « [Previous]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-71-integrals-involving-secant-cosecant-and-cotangent/_index.md" %}}) | [Next]({{% getpage "courses/18-01sc-single-variable-calculus-fall-2010/sections/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-73-completing-the-square/_index.md" %}}) »

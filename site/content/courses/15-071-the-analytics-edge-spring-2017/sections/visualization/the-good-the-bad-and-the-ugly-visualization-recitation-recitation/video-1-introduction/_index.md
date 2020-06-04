@@ -23,6 +23,8 @@ layout: videogallery
 Video 1: Introduction
 ---------------------
 
+{{< youtube JAmiDL8pBhg >}}
+
 The slides from all videos in this Recitation can be downloaded here: [Bad vs. Good Visualizations﻿ (PDF)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-1-introductionMIT15_071S17_Unit7_Recitation" %}}).
 
 *   [BackThe Good, the Bad, and the Ugly: Visualization Recitation (Recitation)]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/_index.md" %}})

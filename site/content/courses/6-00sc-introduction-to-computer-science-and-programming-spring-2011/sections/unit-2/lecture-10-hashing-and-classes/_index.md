@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube pjLbxB9TXJs >}}
+
 > ### About this Video
 > 
 > Topics covered: Hashing, bucket, collision, linear rehash, exceptions, classes, modules, built-in classes.

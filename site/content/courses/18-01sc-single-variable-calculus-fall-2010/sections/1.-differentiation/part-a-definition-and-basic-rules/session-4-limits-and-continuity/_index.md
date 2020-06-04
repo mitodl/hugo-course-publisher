@@ -21,10 +21,16 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube ryLdyDrBfvI >}}
+
+{{< youtube ryLdyDrBfvI >}}
+
 Recitation Video
 ----------------
 
 ### Smoothing a Piecewise Function
+
+{{< youtube Fj7pbLwbSmU >}}
 
 Worked Example
 --------------

@@ -23,5 +23,7 @@ layout: videogallery
 Welcome to Recitation 3
 -----------------------
 
+{{< youtube VKFwl-T7Hs0 >}}
+
 *   [BackVideo 6: Overall Impact]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/video-6-overall-impact" %}})
 *   [ContinueVideo 1: Election Prediction]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-1-election-prediction" %}})

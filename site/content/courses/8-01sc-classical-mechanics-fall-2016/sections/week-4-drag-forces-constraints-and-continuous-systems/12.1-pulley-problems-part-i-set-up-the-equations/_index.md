@@ -26,4 +26,6 @@ The solution of this problem is divided into four parts:
 
 The video below will help you to set up the equations needed to answer the question.
 
+{{< youtube FNOfxJxceIM >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/week-4-introduction" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-4-drag-forces-constraints-and-continuous-systems/12.2-pulley-problem-part-ii-constraint-condition" %}}) »

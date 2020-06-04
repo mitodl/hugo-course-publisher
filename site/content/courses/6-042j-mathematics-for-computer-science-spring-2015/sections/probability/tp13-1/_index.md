@@ -28,5 +28,7 @@ layout: videogallery
 Expectation
 -----------
 
+{{< youtube YVQdVzSkcmQ >}}
+
 *   [BackDice And Coin Game]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp12-3/vertical-f27f5990f502" %}})
 *   [ContinueUneven Dice]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-1/vertical-d324b518e79a" %}})

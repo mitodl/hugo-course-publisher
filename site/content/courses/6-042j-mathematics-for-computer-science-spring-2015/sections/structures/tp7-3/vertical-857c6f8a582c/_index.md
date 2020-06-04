@@ -23,5 +23,7 @@ layout: videogallery
 Connectivity
 ------------
 
+{{< youtube TIQ3xN38jgM >}}
+
 *   [BackChromatic Number]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-3/vertical-312af3a98ad1" %}})
 *   [Continuek-Connectivity: Video]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/structures/tp7-3/vertical-a730aa2d96d6" %}})

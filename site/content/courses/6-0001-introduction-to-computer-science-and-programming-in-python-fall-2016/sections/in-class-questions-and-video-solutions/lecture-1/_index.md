@@ -32,6 +32,8 @@ layout: videogallery
     
     CheckShow Answer Videos
     
+    {{< youtube Y6J8I056Ffw >}}
+    
   
 3.  ### Python vs. Math
     
@@ -52,6 +54,8 @@ layout: videogallery
     &nbsp;None of the Above&nbsp;
     
     CheckShow Answer Videos
+    
+    {{< youtube F-\_PKUUM-qY >}}
     
   
 5.  ### Bindings
@@ -83,3 +87,5 @@ layout: videogallery
     &nbsp;75&nbsp;
     
     CheckShow Answer Videos
+    
+    {{< youtube EFCdr\_43qmU >}}

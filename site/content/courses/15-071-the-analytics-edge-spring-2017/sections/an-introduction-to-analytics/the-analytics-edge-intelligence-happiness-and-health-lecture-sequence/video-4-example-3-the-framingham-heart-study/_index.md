@@ -23,5 +23,7 @@ layout: videogallery
 Video 4: Example 3 - The Framingham Heart Study
 -----------------------------------------------
 
+{{< youtube oAW8AgU0FE4 >}}
+
 *   [BackVideo 3: Example 2 - eHarmony]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-3-example-2-eharmony" %}})
 *   [ContinueVideo 5: Example 4 - D2Hawkeye]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-5-example-4-d2hawkeye" %}})

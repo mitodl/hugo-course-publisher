@@ -11,4 +11,6 @@ layout: videogallery
 ---
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/5.3-gravity-at-the-surface-of-the-earth-the-value-of-g" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/6.2-static-friction-lesson" %}}) »
 
+{{< youtube IV9NhNIrrDw >}}
+
 « [Previous]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/5.3-gravity-at-the-surface-of-the-earth-the-value-of-g" %}}) | [Next]({{% getpage "courses/8-01sc-classical-mechanics-fall-2016/sections/week-2-newtons-laws/6.2-static-friction-lesson" %}}) »

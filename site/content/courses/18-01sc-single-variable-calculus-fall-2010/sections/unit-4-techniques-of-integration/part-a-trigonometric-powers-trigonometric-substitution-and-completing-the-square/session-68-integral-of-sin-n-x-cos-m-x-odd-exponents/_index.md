@@ -21,12 +21,24 @@ Lecture Video and Notes
 
 ### Video Excerpts
 
+{{< youtube Bv9kVDcj7yo >}}
+
+{{< youtube Bv9kVDcj7yo >}}
+
+{{< youtube Bv9kVDcj7yo >}}
+
+{{< youtube Bv9kVDcj7yo >}}
+
 Recitation Video
 ----------------
 
 ### Trig Integral Practice
 
+{{< youtube y\_CA5btuoQk >}}
+
 ### Trig Integrals and a Volume of Revolution
+
+{{< youtube Wj0oH3ehk18 >}}
 
 Worked Example
 --------------

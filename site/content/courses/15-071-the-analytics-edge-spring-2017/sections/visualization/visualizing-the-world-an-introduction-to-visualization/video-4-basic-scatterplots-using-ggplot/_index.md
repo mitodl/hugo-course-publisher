@@ -29,6 +29,8 @@ In the rest of this lecture, we'll be using the data file [WHO (CSV)](https://op
 
 An R script file with all of the commands used in this lecture can be downloaded here: [Resource Unit7\_WHO (R)](https://open-learning-course-data-ci.s3.amazonaws.com/15-071-the-analytics-edge-spring-2017/27fb60c95b9851db49831751f9ccf614_Unit7_WHO.R).
 
+{{< youtube nqqYjtK1zIk >}}
+
 Colors and shapes in R
 ----------------------
 

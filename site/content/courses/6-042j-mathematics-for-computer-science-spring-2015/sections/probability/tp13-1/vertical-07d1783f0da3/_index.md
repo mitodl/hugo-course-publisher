@@ -28,5 +28,7 @@ layout: videogallery
 Expected Number Of Heads
 ------------------------
 
+{{< youtube D9l-pIg1Ayo >}}
+
 *   [BackUneven Dice]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-1/vertical-d324b518e79a" %}})
 *   [ContinueExpected Number of Heads]({{% getpage "courses/6-042j-mathematics-for-computer-science-spring-2015/sections/probability/tp13-1/vertical-932dca21218a" %}})

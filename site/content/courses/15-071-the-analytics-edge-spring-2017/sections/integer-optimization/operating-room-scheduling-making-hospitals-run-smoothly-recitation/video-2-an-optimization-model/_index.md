@@ -20,5 +20,7 @@ layout: videogallery
 Video 2: An Optimization Model
 ------------------------------
 
+{{< youtube J9-3p\_J9o2Y >}}
+
 *   [BackVideo 1: The Problem]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-1-the-problem" %}})
 *   [ContinueVideo 3: Solving the Problem]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/integer-optimization/operating-room-scheduling-making-hospitals-run-smoothly-recitation/video-3-solving-the-problem-5/_index.md" %}})

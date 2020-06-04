@@ -30,6 +30,8 @@ corpus \= tm\_map(corpus, PlainTextDocument)
 
 Then you can continue with the R commands as they are in the video.
 
+{{< youtube qhOVXxNXAug >}}
+
 If the code length(stopwords("english")) does not return 174 for you, then please run the line of code in [stopwords (TXT) file](./resolveuid/fe588eb69d663b5e0fbdf6c8a2564dfd), which will store the standard stop words in a variable called sw. When removing stop words, use tm\_map(corpus, removeWords, sw) instead of tm\_map(corpus, removeWords, stopwords("english")). 
 
 *   [BackVideo 2: The Data]({{% getpage "courses/15-071-the-analytics-edge-spring-2017/sections/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-2-the-data-2/_index.md" %}})

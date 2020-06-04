@@ -29,12 +29,23 @@ Today's class begins with a visit with students from Cummings Middle School. The
 Part 1: Middle School Consultations
 -----------------------------------
 
+{{< youtube rCG6r6gotZQ >}}
+
 ### Video Chapters
+
+*   {{< youtube rCG6r6gotZQ >}}
+*   {{< youtube rCG6r6gotZQ >}}
+*   {{< youtube rCG6r6gotZQ >}}
 
 Part 2: BioBuilder.org
 ----------------------
 
+{{< youtube Ui2q2uoA-\_g >}}
+
 ### Video Chapters
+
+*   {{< youtube Ui2q2uoA-\_g >}}
+*   {{< youtube Ui2q2uoA-\_g >}}
 
 ### In-class Media
 
@@ -45,7 +56,14 @@ Part 2: BioBuilder.org
 Part 3: Nugget Workshop and Wrap-up
 -----------------------------------
 
+{{< youtube ViSVJJoo7nE >}}
+
 ### Video Chapters
+
+*   {{< youtube ViSVJJoo7nE >}}
+*   {{< youtube ViSVJJoo7nE >}}
+*   {{< youtube ViSVJJoo7nE >}}
+*   {{< youtube ViSVJJoo7nE >}}
 
 ### In-class Media
 

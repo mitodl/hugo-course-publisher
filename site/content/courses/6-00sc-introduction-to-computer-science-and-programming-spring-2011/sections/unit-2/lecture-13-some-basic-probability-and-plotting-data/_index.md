@@ -21,6 +21,8 @@ Session Activities
 
 ### Lecture Videos
 
+*   {{< youtube hGQw3KJ7i6Q >}}
+
 > ### About this Video
 > 
 > This lecture begins a deeper look at simulations with an introduction to randomness, probability, and plotting through programming.
