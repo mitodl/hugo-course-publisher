@@ -52,6 +52,7 @@
     "eslint-plugin-mocha": "^6.2.1",
     "eslint-plugin-react": "^7.16.0",
     "exports-loader": "^0.7.0",
+    "expose-loader": "^0.7.5",
     "fancy-log": "^1.3.2",
     "file-loader": "^5.0.2",
     "gulp": "^4.0.2",
@@ -97,13 +98,18 @@
     "@babel/preset-react": "^7.7.0",
     "bootstrap": "^4.3.1",
     "bootstrap-material-design": "^4.1.2",
+    "hammerjs": "2.0.7",
+    "imagesloaded": "4.1.1",
     "jquery": "^3.5.1",
     "material-icons": "^0.3.1",
+    "nanogallery2": "^2.4.2",
     "offcanvas-bootstrap": "^2.5.2",
     "popper.js": "^1.16.0",
     "prettier-eslint": "^9.0.1",
     "react-bootstrap": "^1.0.0-beta.15",
     "react-hot-loader": "^4.12.17",
+    "screenfull": "3.2.0",
+    "shifty": "1.5.3",
     "tippy.js": "^5.2.0"
   }
 }
