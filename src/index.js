@@ -6,11 +6,11 @@ import Popper from "popper.js"
 import "bootstrap-material-design"
 import tippy from "tippy.js"
 import "offcanvas-bootstrap/dist/js/bootstrap.offcanvas.js"
-import 'shifty';
-import 'hammerjs';
-import 'imagesloaded';
-import 'screenfull';
-import 'nanogallery2/src/jquery.nanogallery2.core.js';
+import "shifty"
+import "hammerjs"
+import "imagesloaded"
+import "screenfull"
+import "nanogallery2/src/jquery.nanogallery2.core.js"
 import { initTheme } from "./js/stylesheets"
 import { initPdfViewers } from "./js/pdf_viewer"
 
