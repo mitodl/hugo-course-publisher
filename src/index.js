@@ -1,13 +1,14 @@
 import "./css/main.scss"
 import "../node_modules/tippy.js/dist/tippy.css"
+import "../node_modules/nanogallery2/src/css/nanogallery2.css"
 
-import $ from "jquery"
 import Popper from "popper.js"
 import "bootstrap-material-design"
 import tippy from "tippy.js"
 import "offcanvas-bootstrap/dist/js/bootstrap.offcanvas.js"
 import { initTheme } from "./js/stylesheets"
 import { initPdfViewers } from "./js/pdf_viewer"
+import { initImageGalleries } from "./js/image_gallery"
 
 window.jQuery = $
 window.$ = $
@@ -27,4 +28,5 @@ $(document).ready(() => {
 
   initTheme()
   initPdfViewers()
+  initImageGalleries()
 })
