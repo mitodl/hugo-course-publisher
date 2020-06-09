@@ -50,7 +50,7 @@ course_info:
       Biological Engineering:
         - Synthetic Biology
   course_numbers:
-    - '8.591'
+    - 8.591J
     - 7.81J
     - '7.32'
   term: Fall 2014

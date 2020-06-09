@@ -36,7 +36,7 @@ course_info:
       Calculus: []
       Differential Equations: []
   course_numbers:
-    - 18.009SC
+    - 18.01SC
   term: Fall 2010
   level: Undergraduate
 menu:

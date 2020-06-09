@@ -39,7 +39,7 @@ course_info:
       Applied Mathematics: []
       Discrete Mathematics: []
   course_numbers:
-    - '6.042'
+    - 6.042J
     - 18.062J
   term: Fall 2010
   level: Undergraduate

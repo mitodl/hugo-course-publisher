@@ -43,7 +43,7 @@ course_info:
     Mathematics:
       Applied Mathematics: []
   course_numbers:
-    - '6.046'
+    - 6.046J
     - 18.410J
   term: Spring 2015
   level: Undergraduate

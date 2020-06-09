@@ -36,7 +36,7 @@ course_info:
         - Organic Chemistry
         - Physical Chemistry
   course_numbers:
-    - '5.111'
+    - 5.111SC
   term: Fall 2014
   level: Undergraduate
 menu:

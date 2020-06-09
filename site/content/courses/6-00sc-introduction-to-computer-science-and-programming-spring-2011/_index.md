@@ -31,7 +31,7 @@ course_info:
   instructors:
     - Prof. John Guttag
   departments:
-    - Chemistry
+    - Electrical Engineering and Computer Science
   course_features:
     - feature: AV lectures
       subfeature: Video
@@ -46,7 +46,7 @@ course_info:
     Engineering:
       Computer Science: []
   course_numbers:
-    - '5.99'
+    - 6.00SC
   term: Spring 2011
   level: Undergraduate
 menu:

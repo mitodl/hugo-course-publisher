@@ -42,7 +42,7 @@ course_info:
       Economics:
         - Microeconomics
   course_numbers:
-    - 14.009SC
+    - 14.01SC
   term: Fall 2011
   level: Undergraduate
 menu:
