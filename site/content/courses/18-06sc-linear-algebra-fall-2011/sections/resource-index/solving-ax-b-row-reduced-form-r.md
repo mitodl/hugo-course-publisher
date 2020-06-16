@@ -1,13 +1,67 @@
 ---
-title: 'Solving Ax = b: Row Reduced Form R'
-uid: 80145cbbd7e3ccd4a67b5f62b01ea131
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 9Q1q7s1jTzU
+    parent_uid: 80145cbbd7e3ccd4a67b5f62b01ea131
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 11a5d479622e0b4c0d330a312797f690
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/9Q1q7s1jTzU/default.jpg'
+    parent_uid: 80145cbbd7e3ccd4a67b5f62b01ea131
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0b81785d820e3cd1f121a63b508f09f8
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 80145cbbd7e3ccd4a67b5f62b01ea131
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: eebade88c35830a409d3dcc5320eb003
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/08.mp4'
+    parent_uid: 80145cbbd7e3ccd4a67b5f62b01ea131
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 11d84582aa8f96221f7c081af284e012
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 9Q1q7s1jTzU
+    parent_uid: 80145cbbd7e3ccd4a67b5f62b01ea131
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4f7929804b964ab7cf766a784c1d36e9
+  - id: 9Q1q7s1jTzU.srt
+    parent_uid: 80145cbbd7e3ccd4a67b5f62b01ea131
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/solving-ax-b-row-reduced-form-r/9Q1q7s1jTzU.srt
+    title: 3play caption file
+    type: null
+    uid: b5e3150b28d951941835254202998b59
+  - id: 9Q1q7s1jTzU.pdf
+    parent_uid: 80145cbbd7e3ccd4a67b5f62b01ea131
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/solving-ax-b-row-reduced-form-r/9Q1q7s1jTzU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4d4534a6e0c47248fd6f2d2683e85716
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 80145cbbd7e3ccd4a67b5f62b01ea131
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 923882ba18ddd80b3079abc983cf4359
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 80145cbbd7e3ccd4a67b5f62b01ea131
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c627c4fe45a6704963c4618c83a4248f
+inline_embed_id: 98028346solvingaxbrowreducedformr45011578
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: solving-ax-b-row-reduced-form-r
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/solving-ax-b-row-reduced-form-r
-short_url: solving-ax-b-row-reduced-form-r
-inline_embed_id: 98028346solvingaxbrowreducedformr45011578
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Solving Ax = b: Row Reduced Form R'
 transcript: >-
   <p><span m="5870">OK,</span> <span m="6570">when</span> <span
   m="6780">the</span> <span m="6890">camera</span> <span m="7310">says,</span>
@@ -2518,61 +2572,7 @@ transcript: >-
   m="2826200">I'll</span> <span m="2826340">see</span> <span
   m="2826630">you</span> <span m="2826810">on</span> <span
   m="2827220">Monday.</span></p>
-embedded_media:
-  - uid: 11a5d479622e0b4c0d330a312797f690
-    parent_uid: 80145cbbd7e3ccd4a67b5f62b01ea131
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 9Q1q7s1jTzU
-  - uid: 0b81785d820e3cd1f121a63b508f09f8
-    parent_uid: 80145cbbd7e3ccd4a67b5f62b01ea131
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9Q1q7s1jTzU/default.jpg'
-  - uid: eebade88c35830a409d3dcc5320eb003
-    parent_uid: 80145cbbd7e3ccd4a67b5f62b01ea131
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 11d84582aa8f96221f7c081af284e012
-    parent_uid: 80145cbbd7e3ccd4a67b5f62b01ea131
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/08.mp4'
-  - uid: 4f7929804b964ab7cf766a784c1d36e9
-    parent_uid: 80145cbbd7e3ccd4a67b5f62b01ea131
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 9Q1q7s1jTzU
-  - uid: b5e3150b28d951941835254202998b59
-    parent_uid: 80145cbbd7e3ccd4a67b5f62b01ea131
-    id: 9Q1q7s1jTzU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/solving-ax-b-row-reduced-form-r/9Q1q7s1jTzU.srt
-  - uid: 4d4534a6e0c47248fd6f2d2683e85716
-    parent_uid: 80145cbbd7e3ccd4a67b5f62b01ea131
-    id: 9Q1q7s1jTzU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/solving-ax-b-row-reduced-form-r/9Q1q7s1jTzU.pdf
-  - uid: 923882ba18ddd80b3079abc983cf4359
-    parent_uid: 80145cbbd7e3ccd4a67b5f62b01ea131
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c627c4fe45a6704963c4618c83a4248f
-    parent_uid: 80145cbbd7e3ccd4a67b5f62b01ea131
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 80145cbbd7e3ccd4a67b5f62b01ea131
 type: courses
 layout: video
 ---

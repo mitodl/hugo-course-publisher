@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Symmetric Matrices and Positive Definiteness'
-uid: 6cd4bac285963a613bae56f0457d16ab
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: lpnY5QVjU5w
+    parent_uid: 6cd4bac285963a613bae56f0457d16ab
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9a2d3cc16affb554af25313a3b591a7d
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: lpnY5QVjU5w
+    parent_uid: 6cd4bac285963a613bae56f0457d16ab
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 73e04d578e9c12281fec016d88e9616c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/symmetric-matrices-positive/id488155309?i=108454356
+    parent_uid: 6cd4bac285963a613bae56f0457d16ab
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 285d29c50df3af673aa6b9cbc93eedde
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110711_D1_300k.mp4
+    parent_uid: 6cd4bac285963a613bae56f0457d16ab
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9076e528e2c6b695dafea89396e8e891
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/lpnY5QVjU5w/default.jpg'
+    parent_uid: 6cd4bac285963a613bae56f0457d16ab
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d7991be072a26bcef7d309b68382f087
+  - id: lpnY5QVjU5w.srt
+    parent_uid: 6cd4bac285963a613bae56f0457d16ab
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-symmetric-matrices-and-positive-definiteness/lpnY5QVjU5w.srt
+    title: 3play caption file
+    type: null
+    uid: fd19a4fb76737e6b4e084d1ddbe4a79f
+  - id: lpnY5QVjU5w.pdf
+    parent_uid: 6cd4bac285963a613bae56f0457d16ab
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-symmetric-matrices-and-positive-definiteness/lpnY5QVjU5w.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2252b25296a279bf096c577002fc96cd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6cd4bac285963a613bae56f0457d16ab
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a276ca61cf632a0035604a5de711d4b5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6cd4bac285963a613bae56f0457d16ab
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d272c47f78c0ca9d169f004544006a25
+inline_embed_id: 16705279problemsolvingsymmetricmatricesandpositivedefiniteness78148936
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: problem-solving-symmetric-matrices-and-positive-definiteness
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-symmetric-matrices-and-positive-definiteness
-short_url: problem-solving-symmetric-matrices-and-positive-definiteness
-inline_embed_id: 16705279problemsolvingsymmetricmatricesandpositivedefiniteness78148936
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Symmetric Matrices and Positive Definiteness'
 transcript: >-
   <p><span m='8700'>PROFESSOR: Hi,</span> <span m='9180'>everyone.</span> <span
   m='9490'>Welcome</span> <span m='9760'>back.</span> <span m='10780'>So</span>
@@ -647,63 +703,7 @@ transcript: >-
   m='756120'>And</span> <span m='756420'>I'll</span> <span m='756590'>see</span>
   <span m='756740'>you</span> <span m='756800'>next</span> <span
   m='757020'>time.</span> </p>
-embedded_media:
-  - uid: 9a2d3cc16affb554af25313a3b591a7d
-    parent_uid: 6cd4bac285963a613bae56f0457d16ab
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: lpnY5QVjU5w
-  - uid: 73e04d578e9c12281fec016d88e9616c
-    parent_uid: 6cd4bac285963a613bae56f0457d16ab
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: lpnY5QVjU5w
-  - uid: 285d29c50df3af673aa6b9cbc93eedde
-    parent_uid: 6cd4bac285963a613bae56f0457d16ab
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/symmetric-matrices-positive/id488155309?i=108454356
-  - uid: 9076e528e2c6b695dafea89396e8e891
-    parent_uid: 6cd4bac285963a613bae56f0457d16ab
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110711_D1_300k.mp4
-  - uid: d7991be072a26bcef7d309b68382f087
-    parent_uid: 6cd4bac285963a613bae56f0457d16ab
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/lpnY5QVjU5w/default.jpg'
-  - uid: fd19a4fb76737e6b4e084d1ddbe4a79f
-    parent_uid: 6cd4bac285963a613bae56f0457d16ab
-    id: lpnY5QVjU5w.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-symmetric-matrices-and-positive-definiteness/lpnY5QVjU5w.srt
-  - uid: 2252b25296a279bf096c577002fc96cd
-    parent_uid: 6cd4bac285963a613bae56f0457d16ab
-    id: lpnY5QVjU5w.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-symmetric-matrices-and-positive-definiteness/lpnY5QVjU5w.pdf
-  - uid: a276ca61cf632a0035604a5de711d4b5
-    parent_uid: 6cd4bac285963a613bae56f0457d16ab
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d272c47f78c0ca9d169f004544006a25
-    parent_uid: 6cd4bac285963a613bae56f0457d16ab
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6cd4bac285963a613bae56f0457d16ab
 type: courses
 layout: video
 ---

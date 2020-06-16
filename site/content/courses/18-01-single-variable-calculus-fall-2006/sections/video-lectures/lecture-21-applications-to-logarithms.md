@@ -1,19 +1,91 @@
 ---
-title: 'Lecture 21: Applications to Logarithms'
-uid: 45369951a1bb4bf2c122411a7a2ab2f2
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-21-applications-to-logarithms
-short_url: lecture-21-applications-to-logarithms
-inline_embed_id: '19042140lecture21:applicationstologarithms40298768'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Applications to
   logarithms and geometry</p> <p><strong>Instructor:</strong> Prof. David
   Jerison</p></div>
+embedded_media:
+  - id: lec21.jpg
+    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-21-applications-to-logarithms/lec21.jpg
+    title: Lecture 21
+    type: null
+    uid: 76517aae2b71b792c6d1378ba81d43a3
+  - id: Video-YouTube-Stream
+    media_location: _JXPe2J069c
+    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 60b5150071e63ec98fe52ceb98f695e0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/_JXPe2J069c/default.jpg'
+    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5c28afa51b63dda51093bbe6a962e56c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c1b728b3507578f78efa0dab277ada99
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec21_300k.mp4'
+    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 722f651b82f7e46fa608dd345e521f06
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 37efe29db71ef5a13ce5327f7038b961
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 3b39190c3059f859ec4c78fd57f757d3
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: _JXPe2J069c
+    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 35f7f023156452b6e134c9d4a7313489
+  - id: JXPe2J069c.srt
+    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-21-applications-to-logarithms/JXPe2J069c.srt
+    title: 3play caption file
+    type: null
+    uid: 1e0cb39b15637ebafe8bda4098989194
+  - id: JXPe2J069c.pdf
+    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-21-applications-to-logarithms/JXPe2J069c.pdf
+    title: 3play pdf file
+    type: null
+    uid: 25be045439d9ed90bb52ec7b8a9937d4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 612c591bc69b36b1abb442142a7e9647
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c4f7dafea17a5caf46c0e947f1a66dbd
+inline_embed_id: '19042140lecture21:applicationstologarithms40298768'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/df90380a9805621e488cac35fe009764">PDF -
   1.4MB</a>)</p></div>
+short_url: lecture-21-applications-to-logarithms
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-21-applications-to-logarithms
+title: 'Lecture 21: Applications to Logarithms'
 transcript: >-
   <p><span m='0'>The</span> <span m='1290'>following</span> <span
   m='1900'>content</span> <span m='2330'>is provided under</span> <span
@@ -2816,79 +2888,7 @@ transcript: >-
   m='3012470'>more</span> <span m='3012670'>things,</span> <span
   m='3012960'>including</span> <span m='3013640'>three</span> <span
   m='3013820'>dimensions.</span> </p>
-embedded_media:
-  - uid: 76517aae2b71b792c6d1378ba81d43a3
-    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
-    id: lec21.jpg
-    title: Lecture 21
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-21-applications-to-logarithms/lec21.jpg
-  - uid: 60b5150071e63ec98fe52ceb98f695e0
-    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: _JXPe2J069c
-  - uid: 5c28afa51b63dda51093bbe6a962e56c
-    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/_JXPe2J069c/default.jpg'
-  - uid: c1b728b3507578f78efa0dab277ada99
-    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: 722f651b82f7e46fa608dd345e521f06
-    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec21_300k.mp4'
-  - uid: 37efe29db71ef5a13ce5327f7038b961
-    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 3b39190c3059f859ec4c78fd57f757d3
-    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 35f7f023156452b6e134c9d4a7313489
-    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: _JXPe2J069c
-  - uid: 1e0cb39b15637ebafe8bda4098989194
-    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
-    id: JXPe2J069c.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-21-applications-to-logarithms/JXPe2J069c.srt
-  - uid: 25be045439d9ed90bb52ec7b8a9937d4
-    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
-    id: JXPe2J069c.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-21-applications-to-logarithms/JXPe2J069c.pdf
-  - uid: 612c591bc69b36b1abb442142a7e9647
-    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c4f7dafea17a5caf46c0e947f1a66dbd
-    parent_uid: 45369951a1bb4bf2c122411a7a2ab2f2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 45369951a1bb4bf2c122411a7a2ab2f2
 type: courses
 layout: video
 ---

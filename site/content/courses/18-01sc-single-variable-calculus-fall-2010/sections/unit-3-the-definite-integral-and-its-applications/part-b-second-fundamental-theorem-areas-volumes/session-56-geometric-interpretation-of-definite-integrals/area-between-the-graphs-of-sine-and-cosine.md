@@ -1,13 +1,68 @@
 ---
-title: Area Between the Graphs of Sine and Cosine
-uid: a1c624381dc4219f4faef1268ac77582
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 9J_VCHpvMbY
+    parent_uid: a1c624381dc4219f4faef1268ac77582
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8be18653040d1442e70900c34551f7d0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/9J_VCHpvMbY/default.jpg'
+    parent_uid: a1c624381dc4219f4faef1268ac77582
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ba02da9795b642f35ca8d5a7e21d67a4
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 9J_VCHpvMbY
+    parent_uid: a1c624381dc4219f4faef1268ac77582
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 344cd92e87abe72f968131bc4d59da0c
+  - id: 9J_VCHpvMbY.srt
+    parent_uid: a1c624381dc4219f4faef1268ac77582
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-56-geometric-interpretation-of-definite-integrals/area-between-the-graphs-of-sine-and-cosine/9J_VCHpvMbY.srt
+    title: 3play caption file
+    type: null
+    uid: a3cfaa16df729bb59020eafd9cf03c5b
+  - id: 9J_VCHpvMbY.pdf
+    parent_uid: a1c624381dc4219f4faef1268ac77582
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-56-geometric-interpretation-of-definite-integrals/area-between-the-graphs-of-sine-and-cosine/9J_VCHpvMbY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 79fe68c39926026e34df3fab67806732
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a1c624381dc4219f4faef1268ac77582
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ca51690fb4f64db6ef11db73e1b7da75
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a1c624381dc4219f4faef1268ac77582
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 29ce63c499f447fdbc0ee5a871c6dee6
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_42_300k.mp4'
+    parent_uid: a1c624381dc4219f4faef1268ac77582
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8fe14823d9f60a89f1b937ce1dd065c2
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/area-between-graphs-sine-cosine/id414308064?i=90319628
+    parent_uid: a1c624381dc4219f4faef1268ac77582
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 766119c40cad3bcc9fbf643798aefb6d
+inline_embed_id: 47097273areabetweenthegraphsofsineandcosine8614876
 parent_uid: ab02e80b2f16511d81481be8277cb20d
+related_resources_text: ''
+short_url: area-between-the-graphs-of-sine-and-cosine
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-56-geometric-interpretation-of-definite-integrals/area-between-the-graphs-of-sine-and-cosine
-short_url: area-between-the-graphs-of-sine-and-cosine
-inline_embed_id: 47097273areabetweenthegraphsofsineandcosine8614876
-about_this_resource_text: ''
-related_resources_text: ''
+title: Area Between the Graphs of Sine and Cosine
 transcript: >-
   <p><span m='7020'>PROFESSOR: Hi.</span> <span m='7390'>Welcome</span> <span
   m='7710'>back</span> <span m='7910'>to</span> <span
@@ -246,62 +301,7 @@ transcript: >-
   m='235370'>terribly.</span> <span m='236790'>So</span> <span
   m='237400'>I'll</span> <span m='237560'>end</span> <span
   m='237860'>there.</span> </p>
-embedded_media:
-  - uid: 8be18653040d1442e70900c34551f7d0
-    parent_uid: a1c624381dc4219f4faef1268ac77582
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 9J_VCHpvMbY
-  - uid: ba02da9795b642f35ca8d5a7e21d67a4
-    parent_uid: a1c624381dc4219f4faef1268ac77582
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9J_VCHpvMbY/default.jpg'
-  - uid: 344cd92e87abe72f968131bc4d59da0c
-    parent_uid: a1c624381dc4219f4faef1268ac77582
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 9J_VCHpvMbY
-  - uid: a3cfaa16df729bb59020eafd9cf03c5b
-    parent_uid: a1c624381dc4219f4faef1268ac77582
-    id: 9J_VCHpvMbY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-56-geometric-interpretation-of-definite-integrals/area-between-the-graphs-of-sine-and-cosine/9J_VCHpvMbY.srt
-  - uid: 79fe68c39926026e34df3fab67806732
-    parent_uid: a1c624381dc4219f4faef1268ac77582
-    id: 9J_VCHpvMbY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-56-geometric-interpretation-of-definite-integrals/area-between-the-graphs-of-sine-and-cosine/9J_VCHpvMbY.pdf
-  - uid: ca51690fb4f64db6ef11db73e1b7da75
-    parent_uid: a1c624381dc4219f4faef1268ac77582
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 29ce63c499f447fdbc0ee5a871c6dee6
-    parent_uid: a1c624381dc4219f4faef1268ac77582
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8fe14823d9f60a89f1b937ce1dd065c2
-    parent_uid: a1c624381dc4219f4faef1268ac77582
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_42_300k.mp4'
-  - uid: 766119c40cad3bcc9fbf643798aefb6d
-    parent_uid: a1c624381dc4219f4faef1268ac77582
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/area-between-graphs-sine-cosine/id414308064?i=90319628
+uid: a1c624381dc4219f4faef1268ac77582
 type: courses
 layout: video
 ---

@@ -1,16 +1,70 @@
 ---
-title: 'Recitation 2: B-trees'
-uid: 0aa6d2318687217d3b332190d8d710e6
-parent_uid: 8c671299aae36eba669ca13490c21dec
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-2-b-trees
-short_url: recitation-2-b-trees
-inline_embed_id: '60574762recitation2:b-trees40159468'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this recitation, problems related to 2-3
   Trees and B-Trees are discussed.</p> <p><strong>Instructors:</strong> Amartya
   Shankha Biswas</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: TOb1tuEZ2X4
+    parent_uid: 0aa6d2318687217d3b332190d8d710e6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f9b49e0b5dcea7c75b7973a597a44fe2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TOb1tuEZ2X4/default.jpg'
+    parent_uid: 0aa6d2318687217d3b332190d8d710e6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5444421907a6076ad9510c499c996ee7
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: TOb1tuEZ2X4
+    parent_uid: 0aa6d2318687217d3b332190d8d710e6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f7a7b27bee412c8c140af8dd6f1c7664
+  - id: TOb1tuEZ2X4.srt
+    parent_uid: 0aa6d2318687217d3b332190d8d710e6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-2-b-trees/TOb1tuEZ2X4.srt
+    title: 3play caption file
+    type: null
+    uid: 5bb1a7665ed24985db176acd52b38f33
+  - id: TOb1tuEZ2X4.pdf
+    parent_uid: 0aa6d2318687217d3b332190d8d710e6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-2-b-trees/TOb1tuEZ2X4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4c9519a7cf698e22a382a37c59371045
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0aa6d2318687217d3b332190d8d710e6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: be213e193ec3ea105280d0dd86251271
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0aa6d2318687217d3b332190d8d710e6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: cea4d26f005be7cf0aae73f57c55a469
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 0aa6d2318687217d3b332190d8d710e6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f542eb1464cf7455488e2506523bf4b9
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec02_300k.mp4'
+    parent_uid: 0aa6d2318687217d3b332190d8d710e6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f438340a66dda5733ff0a7e0f3ecd5b0
+inline_embed_id: '60574762recitation2:b-trees40159468'
+parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
+short_url: recitation-2-b-trees
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-2-b-trees
+title: 'Recitation 2: B-trees'
 transcript: >-
   <p><span m="70">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -1896,61 +1950,7 @@ transcript: >-
   m="1840010">of</span> <span m="1840130">the</span> <span
   m="1840190">other</span> <span m="1840490">topics,</span> <span
   m="1841600">lecture,</span> <span m="1841970">anything?</span></p>
-embedded_media:
-  - uid: f9b49e0b5dcea7c75b7973a597a44fe2
-    parent_uid: 0aa6d2318687217d3b332190d8d710e6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TOb1tuEZ2X4
-  - uid: 5444421907a6076ad9510c499c996ee7
-    parent_uid: 0aa6d2318687217d3b332190d8d710e6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TOb1tuEZ2X4/default.jpg'
-  - uid: f7a7b27bee412c8c140af8dd6f1c7664
-    parent_uid: 0aa6d2318687217d3b332190d8d710e6
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TOb1tuEZ2X4
-  - uid: 5bb1a7665ed24985db176acd52b38f33
-    parent_uid: 0aa6d2318687217d3b332190d8d710e6
-    id: TOb1tuEZ2X4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-2-b-trees/TOb1tuEZ2X4.srt
-  - uid: 4c9519a7cf698e22a382a37c59371045
-    parent_uid: 0aa6d2318687217d3b332190d8d710e6
-    id: TOb1tuEZ2X4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-2-b-trees/TOb1tuEZ2X4.pdf
-  - uid: be213e193ec3ea105280d0dd86251271
-    parent_uid: 0aa6d2318687217d3b332190d8d710e6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: cea4d26f005be7cf0aae73f57c55a469
-    parent_uid: 0aa6d2318687217d3b332190d8d710e6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f542eb1464cf7455488e2506523bf4b9
-    parent_uid: 0aa6d2318687217d3b332190d8d710e6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: f438340a66dda5733ff0a7e0f3ecd5b0
-    parent_uid: 0aa6d2318687217d3b332190d8d710e6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec02_300k.mp4'
+uid: 0aa6d2318687217d3b332190d8d710e6
 type: courses
 layout: video
 ---

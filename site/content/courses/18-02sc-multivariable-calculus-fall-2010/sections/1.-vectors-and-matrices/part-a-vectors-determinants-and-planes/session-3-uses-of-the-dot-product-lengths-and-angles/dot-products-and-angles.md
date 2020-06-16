@@ -1,13 +1,68 @@
 ---
-title: Dot Products and Angles
-uid: 01deae10cf9cecf7a82d7e7d90e0e002
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: hfyluFvlZ-o
+    parent_uid: 01deae10cf9cecf7a82d7e7d90e0e002
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 57ccaaf84095baf1b1aaf12199dd38c1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/hfyluFvlZ-o/default.jpg'
+    parent_uid: 01deae10cf9cecf7a82d7e7d90e0e002
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b3b840304d58150a47e08e980da17c90
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: hfyluFvlZ-o
+    parent_uid: 01deae10cf9cecf7a82d7e7d90e0e002
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 56922185dbc195c8d48e080c85089037
+  - id: hfyluFvlZ-o.srt
+    parent_uid: 01deae10cf9cecf7a82d7e7d90e0e002
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-3-uses-of-the-dot-product-lengths-and-angles/dot-products-and-angles/hfyluFvlZ-o.srt
+    title: 3play caption file
+    type: null
+    uid: 5eb8b3256798bbbfe905392fdb495558
+  - id: hfyluFvlZ-o.pdf
+    parent_uid: 01deae10cf9cecf7a82d7e7d90e0e002
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-3-uses-of-the-dot-product-lengths-and-angles/dot-products-and-angles/hfyluFvlZ-o.pdf
+    title: 3play pdf file
+    type: null
+    uid: 25f6abd6c24263901c3b86a8d06f33d0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 01deae10cf9cecf7a82d7e7d90e0e002
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cacb27015967d65445b6286ae8725432
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 01deae10cf9cecf7a82d7e7d90e0e002
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 25e7ae398b9047cfc95ddd4c505c0eb9
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/dot-products-and-angles/id414355340?i=90322856
+    parent_uid: 01deae10cf9cecf7a82d7e7d90e0e002
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 33731f959d82447b47f0c8667e137135
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_02_300k.mp4'
+    parent_uid: 01deae10cf9cecf7a82d7e7d90e0e002
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 36572779258d488d6e294bdee3dc02a3
+inline_embed_id: 34745044dotproductsandangles83371667
 parent_uid: 6bffee600f9e4f4fdbab82ddbed0e07d
+related_resources_text: ''
+short_url: dot-products-and-angles
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-3-uses-of-the-dot-product-lengths-and-angles/dot-products-and-angles
-short_url: dot-products-and-angles
-inline_embed_id: 34745044dotproductsandangles83371667
-about_this_resource_text: ''
-related_resources_text: ''
+title: Dot Products and Angles
 transcript: >-
   <p><span m='7070'>JOEL LEWIS: Hi.</span> <span m='7670'>Welcome</span> <span
   m='7980'>back</span> <span m='8180'>to</span> <span
@@ -564,62 +619,7 @@ transcript: >-
   <span m='520520'>OK.</span> <span m='521140'>So</span> <span
   m='522230'>I'll</span> <span m='522380'>end</span> <span
   m='522670'>there.</span> </p>
-embedded_media:
-  - uid: 57ccaaf84095baf1b1aaf12199dd38c1
-    parent_uid: 01deae10cf9cecf7a82d7e7d90e0e002
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: hfyluFvlZ-o
-  - uid: b3b840304d58150a47e08e980da17c90
-    parent_uid: 01deae10cf9cecf7a82d7e7d90e0e002
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/hfyluFvlZ-o/default.jpg'
-  - uid: 56922185dbc195c8d48e080c85089037
-    parent_uid: 01deae10cf9cecf7a82d7e7d90e0e002
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: hfyluFvlZ-o
-  - uid: 5eb8b3256798bbbfe905392fdb495558
-    parent_uid: 01deae10cf9cecf7a82d7e7d90e0e002
-    id: hfyluFvlZ-o.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-3-uses-of-the-dot-product-lengths-and-angles/dot-products-and-angles/hfyluFvlZ-o.srt
-  - uid: 25f6abd6c24263901c3b86a8d06f33d0
-    parent_uid: 01deae10cf9cecf7a82d7e7d90e0e002
-    id: hfyluFvlZ-o.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-3-uses-of-the-dot-product-lengths-and-angles/dot-products-and-angles/hfyluFvlZ-o.pdf
-  - uid: cacb27015967d65445b6286ae8725432
-    parent_uid: 01deae10cf9cecf7a82d7e7d90e0e002
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 25e7ae398b9047cfc95ddd4c505c0eb9
-    parent_uid: 01deae10cf9cecf7a82d7e7d90e0e002
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 33731f959d82447b47f0c8667e137135
-    parent_uid: 01deae10cf9cecf7a82d7e7d90e0e002
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/dot-products-and-angles/id414355340?i=90322856
-  - uid: 36572779258d488d6e294bdee3dc02a3
-    parent_uid: 01deae10cf9cecf7a82d7e7d90e0e002
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_02_300k.mp4'
+uid: 01deae10cf9cecf7a82d7e7d90e0e002
 type: courses
 layout: video
 ---

@@ -1,13 +1,62 @@
 ---
-title: 'Video 1: Twitter'
-uid: 8118258b21b73c872c19fc0cb0f11523
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 8fW7ooZLIuc
+    parent_uid: 8118258b21b73c872c19fc0cb0f11523
+    title: Video-YouTube-Stream
+    type: Video
+    uid: aeeca5e3b1648e3bb7e050ea9ad873cd
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 8fW7ooZLIuc
+    parent_uid: 8118258b21b73c872c19fc0cb0f11523
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2199d5d82ba5691e738a925f31700d7c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/8fW7ooZLIuc/default.jpg'
+    parent_uid: 8118258b21b73c872c19fc0cb0f11523
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 75851d1e6a192bc707ae38c03efbb3e4
+  - id: 8fW7ooZLIuc.srt
+    parent_uid: 8118258b21b73c872c19fc0cb0f11523
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-1-twitter-0/8fW7ooZLIuc.srt
+    title: 3play caption file
+    type: null
+    uid: 824a2a283864078f5fa1b3bac0cd42e5
+  - id: 8fW7ooZLIuc.pdf
+    parent_uid: 8118258b21b73c872c19fc0cb0f11523
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-1-twitter-0/8fW7ooZLIuc.pdf
+    title: 3play pdf file
+    type: null
+    uid: f0ea7e04b9dacfb530c244c59a2be514
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8118258b21b73c872c19fc0cb0f11523
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1ec477405977ad38d92ce8640005db18
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8118258b21b73c872c19fc0cb0f11523
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 51e3ca2460e05fae0121b249cbb486c2
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.2.01_300k.mp4
+    parent_uid: 8118258b21b73c872c19fc0cb0f11523
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2ee1a55a58dd21ea7ccc2ee48e6047d5
+inline_embed_id: 43101838video1twitter79468980
 parent_uid: aea3bc9c07f7364865c46fec93dd8515
+related_resources_text: ''
+short_url: video-1-twitter-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-1-twitter-0
-short_url: video-1-twitter-0
-inline_embed_id: 43101838video1twitter79468980
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: Twitter'
 transcript: >-
   <p><span m='9500'>This</span> <span m='9800'>is</span> <span
   m='10100'>our</span> <span m='10400'>first</span> <span
@@ -121,56 +170,7 @@ transcript: >-
   m='124022'>analytics</span> <span m='124504'>to</span> <span
   m='124985'>address</span> <span m='125467'>these</span> <span
   m='125948'>questions.</span> </p>
-embedded_media:
-  - uid: aeeca5e3b1648e3bb7e050ea9ad873cd
-    parent_uid: 8118258b21b73c872c19fc0cb0f11523
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 8fW7ooZLIuc
-  - uid: 2199d5d82ba5691e738a925f31700d7c
-    parent_uid: 8118258b21b73c872c19fc0cb0f11523
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 8fW7ooZLIuc
-  - uid: 75851d1e6a192bc707ae38c03efbb3e4
-    parent_uid: 8118258b21b73c872c19fc0cb0f11523
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8fW7ooZLIuc/default.jpg'
-  - uid: 824a2a283864078f5fa1b3bac0cd42e5
-    parent_uid: 8118258b21b73c872c19fc0cb0f11523
-    id: 8fW7ooZLIuc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-1-twitter-0/8fW7ooZLIuc.srt
-  - uid: f0ea7e04b9dacfb530c244c59a2be514
-    parent_uid: 8118258b21b73c872c19fc0cb0f11523
-    id: 8fW7ooZLIuc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/turning-tweets-into-knowledge-an-introduction-to-text-analytics/video-1-twitter-0/8fW7ooZLIuc.pdf
-  - uid: 1ec477405977ad38d92ce8640005db18
-    parent_uid: 8118258b21b73c872c19fc0cb0f11523
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 51e3ca2460e05fae0121b249cbb486c2
-    parent_uid: 8118258b21b73c872c19fc0cb0f11523
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 2ee1a55a58dd21ea7ccc2ee48e6047d5
-    parent_uid: 8118258b21b73c872c19fc0cb0f11523
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.2.01_300k.mp4
+uid: 8118258b21b73c872c19fc0cb0f11523
 type: courses
 layout: video
 ---

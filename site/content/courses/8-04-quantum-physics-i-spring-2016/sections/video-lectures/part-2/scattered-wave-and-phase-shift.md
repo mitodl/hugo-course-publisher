@@ -1,13 +1,67 @@
 ---
-title: Scattered wave and phase shift
-uid: de956ab91850d23aedeb80113ae85173
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: w49WAat6ymk
+    parent_uid: de956ab91850d23aedeb80113ae85173
+    title: Video-YouTube-Stream
+    type: Video
+    uid: aed3dae05735682f5367b8b5fa0394c6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/w49WAat6ymk/default.jpg'
+    parent_uid: de956ab91850d23aedeb80113ae85173
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ed2deb9bdd2e90449e48e66340364671
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: w49WAat6ymk
+    parent_uid: de956ab91850d23aedeb80113ae85173
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 43238cb952c94c9af4bd26bea8c935f4
+  - id: w49WAat6ymk.srt
+    parent_uid: de956ab91850d23aedeb80113ae85173
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/scattered-wave-and-phase-shift/w49WAat6ymk.srt
+    title: 3play caption file
+    type: null
+    uid: f9dd30a5a5195419ef8af0a536ef47a9
+  - id: w49WAat6ymk.pdf
+    parent_uid: de956ab91850d23aedeb80113ae85173
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/scattered-wave-and-phase-shift/w49WAat6ymk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 56b2b31b147df8f008133f154631d795
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: de956ab91850d23aedeb80113ae85173
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f90d8bcb1f59964467de2720978c6f58
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: de956ab91850d23aedeb80113ae85173
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f064db2b58a99f31ae79339e383cccf8
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: de956ab91850d23aedeb80113ae85173
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 63eebe3ecf2b213deab0bd1046521ed1
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec17_s5_300k.mp4'
+    parent_uid: de956ab91850d23aedeb80113ae85173
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8b30ba0fc384a87b1c620a859f6bc032
+inline_embed_id: 55437591scatteredwaveandphaseshift91110275
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: scattered-wave-and-phase-shift
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/scattered-wave-and-phase-shift
-short_url: scattered-wave-and-phase-shift
-inline_embed_id: 55437591scatteredwaveandphaseshift91110275
-about_this_resource_text: ''
-related_resources_text: ''
+title: Scattered wave and phase shift
 transcript: >-
   <p><span m='1550'>PROFESSOR:</span> <span m='1640'>Let's</span> <span
   m='1910'>look</span> <span m='2210'>at</span> <span m='2330'>the</span> <span
@@ -328,61 +382,7 @@ transcript: >-
   m='511460'>e</span> <span m='511790'>to</span> <span m='511970'>the</span>
   <span m='512179'>i</span> <span m='512690'>delta</span> <span
   m='514230'>sine</span> <span m='514530'>delta.</span> </p>
-embedded_media:
-  - uid: aed3dae05735682f5367b8b5fa0394c6
-    parent_uid: de956ab91850d23aedeb80113ae85173
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: w49WAat6ymk
-  - uid: ed2deb9bdd2e90449e48e66340364671
-    parent_uid: de956ab91850d23aedeb80113ae85173
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/w49WAat6ymk/default.jpg'
-  - uid: 43238cb952c94c9af4bd26bea8c935f4
-    parent_uid: de956ab91850d23aedeb80113ae85173
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: w49WAat6ymk
-  - uid: f9dd30a5a5195419ef8af0a536ef47a9
-    parent_uid: de956ab91850d23aedeb80113ae85173
-    id: w49WAat6ymk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/scattered-wave-and-phase-shift/w49WAat6ymk.srt
-  - uid: 56b2b31b147df8f008133f154631d795
-    parent_uid: de956ab91850d23aedeb80113ae85173
-    id: w49WAat6ymk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/scattered-wave-and-phase-shift/w49WAat6ymk.pdf
-  - uid: f90d8bcb1f59964467de2720978c6f58
-    parent_uid: de956ab91850d23aedeb80113ae85173
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f064db2b58a99f31ae79339e383cccf8
-    parent_uid: de956ab91850d23aedeb80113ae85173
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 63eebe3ecf2b213deab0bd1046521ed1
-    parent_uid: de956ab91850d23aedeb80113ae85173
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 8b30ba0fc384a87b1c620a859f6bc032
-    parent_uid: de956ab91850d23aedeb80113ae85173
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec17_s5_300k.mp4'
+uid: de956ab91850d23aedeb80113ae85173
 type: courses
 layout: video
 ---

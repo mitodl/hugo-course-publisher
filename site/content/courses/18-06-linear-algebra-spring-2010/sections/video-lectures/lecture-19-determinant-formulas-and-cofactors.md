@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 19: Determinant formulas and cofactors'
-uid: 52ef65a06611f530adcdff80f3d56e4e
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-19-determinant-formulas-and-cofactors
-short_url: lecture-19-determinant-formulas-and-cofactors
-inline_embed_id: '26319125lecture19:determinantformulasandcofactors570191'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert  Strang
   teaching 18.06 were recorded in Fall 1999 and do not correspond  precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L19.jpg
+    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-19-determinant-formulas-and-cofactors/18.06_L19.jpg
+    title: 18.06_L19.jpg
+    type: null
+    uid: 044fe7952192dabe8f4a4536d45bb50a
+  - id: Video-YouTube-Stream
+    media_location: 23LLB9mNJvc
+    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 97aa3e4856765e7f16576a2a2af09954
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/23LLB9mNJvc/default.jpg'
+    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 95847d4ba6cf3af693a63e69edb6f9a8
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 751570483eb9e10817e55c73a30d91c5
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/19.mp4'
+    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: becc88f66472349b9ac906717f4d90cd
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 94e11b10ff719771e59e240d59a23643
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 7c99a0e5a5b8e8997b915e0ac5141d17
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 23LLB9mNJvc
+    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e2ab1f95ee61987b11e73c84e0a35b34
+  - id: 23LLB9mNJvc.srt
+    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-19-determinant-formulas-and-cofactors/23LLB9mNJvc.srt
+    title: 3play caption file
+    type: null
+    uid: 03a5a56d49049529f5fbdd6234750188
+  - id: 23LLB9mNJvc.pdf
+    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-19-determinant-formulas-and-cofactors/23LLB9mNJvc.pdf
+    title: 3play pdf file
+    type: null
+    uid: fa572a369c5feb991dabe351a9741f03
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b85ce0ddf96d7a68585ddaaaf3abbcc5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: dfb397a65446d4bdf25fa48b886619c4
+inline_embed_id: '26319125lecture19:determinantformulasandcofactors570191'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-19-determinant-formulas-and-cofactors
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-19-determinant-formulas-and-cofactors
+title: 'Lecture 19: Determinant formulas and cofactors'
 transcript: >-
   <p><span m="8150">OK,</span> <span m="8730">this</span> <span
   m="9110">is</span> <span m="10090">the</span> <span m="10900">second</span>
@@ -3371,79 +3443,7 @@ transcript: >-
   m="3182360">determinant.</span></p><p><span m="3184640">Thanks.</span> <span
   m="3185520">See</span> <span m="3186040">you</span> <span
   m="3186240">on</span> <span m="3186710">Wednesday.</span></p>
-embedded_media:
-  - uid: 044fe7952192dabe8f4a4536d45bb50a
-    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
-    id: 18.06_L19.jpg
-    title: 18.06_L19.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-19-determinant-formulas-and-cofactors/18.06_L19.jpg
-  - uid: 97aa3e4856765e7f16576a2a2af09954
-    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 23LLB9mNJvc
-  - uid: 95847d4ba6cf3af693a63e69edb6f9a8
-    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/23LLB9mNJvc/default.jpg'
-  - uid: 751570483eb9e10817e55c73a30d91c5
-    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: becc88f66472349b9ac906717f4d90cd
-    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/19.mp4'
-  - uid: 94e11b10ff719771e59e240d59a23643
-    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 7c99a0e5a5b8e8997b915e0ac5141d17
-    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: e2ab1f95ee61987b11e73c84e0a35b34
-    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 23LLB9mNJvc
-  - uid: 03a5a56d49049529f5fbdd6234750188
-    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
-    id: 23LLB9mNJvc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-19-determinant-formulas-and-cofactors/23LLB9mNJvc.srt
-  - uid: fa572a369c5feb991dabe351a9741f03
-    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
-    id: 23LLB9mNJvc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-19-determinant-formulas-and-cofactors/23LLB9mNJvc.pdf
-  - uid: b85ce0ddf96d7a68585ddaaaf3abbcc5
-    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: dfb397a65446d4bdf25fa48b886619c4
-    parent_uid: 52ef65a06611f530adcdff80f3d56e4e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 52ef65a06611f530adcdff80f3d56e4e
 type: courses
 layout: video
 ---

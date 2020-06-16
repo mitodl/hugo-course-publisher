@@ -1,13 +1,62 @@
 ---
-title: 'Video 2: The Game of Jeopardy'
-uid: 5fe636bd5233a52b10a9eed3b070c962
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 1-_pwzJ8nPw
+    parent_uid: 5fe636bd5233a52b10a9eed3b070c962
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 47d8218caf43af9bfa4d9da19fb90764
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 1-_pwzJ8nPw
+    parent_uid: 5fe636bd5233a52b10a9eed3b070c962
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6149ca00ecb4d8adcfb3c005021428d2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/1-_pwzJ8nPw/default.jpg'
+    parent_uid: 5fe636bd5233a52b10a9eed3b070c962
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0286348da676ac033905cc38f73878ea
+  - id: 1-_pwzJ8nPw.srt
+    parent_uid: 5fe636bd5233a52b10a9eed3b070c962
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-2-the-game-of-jeopardy/video-2-the-game-of-jeopardy-0/1-_pwzJ8nPw.srt
+    title: 3play caption file
+    type: null
+    uid: 730da9c40a22dc959907cfbe14d4e51d
+  - id: 1-_pwzJ8nPw.pdf
+    parent_uid: 5fe636bd5233a52b10a9eed3b070c962
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-2-the-game-of-jeopardy/video-2-the-game-of-jeopardy-0/1-_pwzJ8nPw.pdf
+    title: 3play pdf file
+    type: null
+    uid: e6b43c23bccbce8768449dca80cad2b0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5fe636bd5233a52b10a9eed3b070c962
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0dfed098ea26bc11b6e85a25c19acb09
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5fe636bd5233a52b10a9eed3b070c962
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e040e0091be30f9409a93d0276aa5ba5
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.3.03_300k.mp4
+    parent_uid: 5fe636bd5233a52b10a9eed3b070c962
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: df5e80378b9dc05602589e326c4ff7c7
+inline_embed_id: 1904552video2thegameofjeopardy51181157
 parent_uid: 8e417dbee2351e2efc59f87409ee7506
+related_resources_text: ''
+short_url: video-2-the-game-of-jeopardy-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-2-the-game-of-jeopardy/video-2-the-game-of-jeopardy-0
-short_url: video-2-the-game-of-jeopardy-0
-inline_embed_id: 1904552video2thegameofjeopardy51181157
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 2: The Game of Jeopardy'
 transcript: >-
   <p><span m='9500'>The</span> <span m='9905'>game</span> <span
   m='10311'>of</span> <span m='10717'>Jeopardy</span> <span m='11122'>has</span>
@@ -162,56 +211,7 @@ transcript: >-
   m='165240'>Watson.</span> </p><p><span m='165950'>What</span> <span
   m='166296'>is</span> <span m='166643'>violin?</span> </p><p><span
   m='166990'>Good.</span> </p>
-embedded_media:
-  - uid: 47d8218caf43af9bfa4d9da19fb90764
-    parent_uid: 5fe636bd5233a52b10a9eed3b070c962
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 1-_pwzJ8nPw
-  - uid: 6149ca00ecb4d8adcfb3c005021428d2
-    parent_uid: 5fe636bd5233a52b10a9eed3b070c962
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 1-_pwzJ8nPw
-  - uid: 0286348da676ac033905cc38f73878ea
-    parent_uid: 5fe636bd5233a52b10a9eed3b070c962
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/1-_pwzJ8nPw/default.jpg'
-  - uid: 730da9c40a22dc959907cfbe14d4e51d
-    parent_uid: 5fe636bd5233a52b10a9eed3b070c962
-    id: 1-_pwzJ8nPw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-2-the-game-of-jeopardy/video-2-the-game-of-jeopardy-0/1-_pwzJ8nPw.srt
-  - uid: e6b43c23bccbce8768449dca80cad2b0
-    parent_uid: 5fe636bd5233a52b10a9eed3b070c962
-    id: 1-_pwzJ8nPw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-2-the-game-of-jeopardy/video-2-the-game-of-jeopardy-0/1-_pwzJ8nPw.pdf
-  - uid: 0dfed098ea26bc11b6e85a25c19acb09
-    parent_uid: 5fe636bd5233a52b10a9eed3b070c962
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e040e0091be30f9409a93d0276aa5ba5
-    parent_uid: 5fe636bd5233a52b10a9eed3b070c962
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: df5e80378b9dc05602589e326c4ff7c7
-    parent_uid: 5fe636bd5233a52b10a9eed3b070c962
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.3.03_300k.mp4
+uid: 5fe636bd5233a52b10a9eed3b070c962
 type: courses
 layout: video
 ---

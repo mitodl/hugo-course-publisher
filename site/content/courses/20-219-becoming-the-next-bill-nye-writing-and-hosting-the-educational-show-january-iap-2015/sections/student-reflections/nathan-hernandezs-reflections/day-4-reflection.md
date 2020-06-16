@@ -1,11 +1,4 @@
 ---
-title: Day 4 Reflection
-uid: 5a2180c7d4d77bcffa1e4487b37626f9
-parent_uid: f96632a88b4225f3f84e318abddd7856
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/nathan-hernandezs-reflections/day-4-reflection
-short_url: day-4-reflection
-inline_embed_id: 32001825day4reflection23321513
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -17,7 +10,69 @@ about_this_resource_text: >-
   <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-MP3
+    media_location: C-xZ_Lm7eNY
+    parent_uid: 5a2180c7d4d77bcffa1e4487b37626f9
+    title: Video-YouTube-MP3
+    type: Video
+    uid: e9107b7526c505e0d767e67ff63963b6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/C-xZ_Lm7eNY/default.jpg'
+    parent_uid: 5a2180c7d4d77bcffa1e4487b37626f9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f83b6c955ded364366771aa8d625ac18
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: C-xZ_Lm7eNY
+    parent_uid: 5a2180c7d4d77bcffa1e4487b37626f9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 286312aaea756b0692fac664ae333127
+  - id: C-xZ_Lm7eNY.srt
+    parent_uid: 5a2180c7d4d77bcffa1e4487b37626f9
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/nathan-hernandezs-reflections/day-4-reflection/C-xZ_Lm7eNY.srt
+    title: 3play caption file
+    type: null
+    uid: 1c1f45b8e13ec790cc0ffe14e7110441
+  - id: C-xZ_Lm7eNY.pdf
+    parent_uid: 5a2180c7d4d77bcffa1e4487b37626f9
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/nathan-hernandezs-reflections/day-4-reflection/C-xZ_Lm7eNY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3d73d850ad9c4aa2728795468fe310e0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5a2180c7d4d77bcffa1e4487b37626f9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 58559ec507bd50fbdfc1cd6aa928a3be
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5a2180c7d4d77bcffa1e4487b37626f9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ce6d0af93f2e36293ee14fcc266044f5
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 5a2180c7d4d77bcffa1e4487b37626f9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d698ce5eb38c867fd77591b8d195e19e
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_NH_D04_Reflection_audio_360p.mp4
+    parent_uid: 5a2180c7d4d77bcffa1e4487b37626f9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: aa64b7f5916f24203e50c2c9f45dfb6e
+inline_embed_id: 32001825day4reflection23321513
+parent_uid: f96632a88b4225f3f84e318abddd7856
 related_resources_text: ''
+short_url: day-4-reflection
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/nathan-hernandezs-reflections/day-4-reflection
+title: Day 4 Reflection
 transcript: >-
   <p><span m="880">NATHAN HERNANDEZ: All</span> <span m="1080">right,</span>
   <span m="1290">day</span> <span m="1460">4.</span> <span
@@ -283,62 +338,7 @@ transcript: >-
   m="223300">production</span> <span m="224120">out</span> <span
   m="224300">of</span> <span m="224410">it.</span> <span m="227880">See
   you.</span></p>
-embedded_media:
-  - uid: e9107b7526c505e0d767e67ff63963b6
-    parent_uid: 5a2180c7d4d77bcffa1e4487b37626f9
-    id: Video-YouTube-MP3
-    title: Video-YouTube-MP3
-    type: Video
-    media_location: C-xZ_Lm7eNY
-  - uid: f83b6c955ded364366771aa8d625ac18
-    parent_uid: 5a2180c7d4d77bcffa1e4487b37626f9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/C-xZ_Lm7eNY/default.jpg'
-  - uid: 286312aaea756b0692fac664ae333127
-    parent_uid: 5a2180c7d4d77bcffa1e4487b37626f9
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: C-xZ_Lm7eNY
-  - uid: 1c1f45b8e13ec790cc0ffe14e7110441
-    parent_uid: 5a2180c7d4d77bcffa1e4487b37626f9
-    id: C-xZ_Lm7eNY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/nathan-hernandezs-reflections/day-4-reflection/C-xZ_Lm7eNY.srt
-  - uid: 3d73d850ad9c4aa2728795468fe310e0
-    parent_uid: 5a2180c7d4d77bcffa1e4487b37626f9
-    id: C-xZ_Lm7eNY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/nathan-hernandezs-reflections/day-4-reflection/C-xZ_Lm7eNY.pdf
-  - uid: 58559ec507bd50fbdfc1cd6aa928a3be
-    parent_uid: 5a2180c7d4d77bcffa1e4487b37626f9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ce6d0af93f2e36293ee14fcc266044f5
-    parent_uid: 5a2180c7d4d77bcffa1e4487b37626f9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d698ce5eb38c867fd77591b8d195e19e
-    parent_uid: 5a2180c7d4d77bcffa1e4487b37626f9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: aa64b7f5916f24203e50c2c9f45dfb6e
-    parent_uid: 5a2180c7d4d77bcffa1e4487b37626f9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_NH_D04_Reflection_audio_360p.mp4
+uid: 5a2180c7d4d77bcffa1e4487b37626f9
 type: courses
 layout: video
 ---

@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 12B: Deep Neural Nets'
-uid: a0bfc251500691dcea20b3e78fedecd8
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-12b-deep-neural-nets
-short_url: lecture-12b-deep-neural-nets
-inline_embed_id: '77511257lecture12b:deepneuralnets76443030'
 about_this_resource_text: >-
   <p><strong>Description</strong>: In this lecture, Prof. Winston discusses
   modern breakthroughs in neural net research.</p>
   <p><strong>Instructor</strong>: Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: VrMHA3yX_QI
+    parent_uid: a0bfc251500691dcea20b3e78fedecd8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5eb1a9e513adc9f07623b8733fb97ee3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/VrMHA3yX_QI/default.jpg'
+    parent_uid: a0bfc251500691dcea20b3e78fedecd8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: dde433f0f1e8e75f13822675ce861545
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: VrMHA3yX_QI
+    parent_uid: a0bfc251500691dcea20b3e78fedecd8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9db6549504bbcdd1f87417b368ea1d38
+  - id: VrMHA3yX_QI.srt
+    parent_uid: a0bfc251500691dcea20b3e78fedecd8
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-12b-deep-neural-nets/VrMHA3yX_QI.srt
+    title: 3play caption file
+    type: null
+    uid: 6606d548ed1fd623cb0b0dc2b9853889
+  - id: VrMHA3yX_QI.pdf
+    parent_uid: a0bfc251500691dcea20b3e78fedecd8
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-12b-deep-neural-nets/VrMHA3yX_QI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2adffca2acd3c22da036a81e893b029a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a0bfc251500691dcea20b3e78fedecd8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 917b1d47f040ba54b06d50a0501aa587
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a0bfc251500691dcea20b3e78fedecd8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1557a5492d1fa5893aedf983a2a31a61
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT6.034F10/MIT6_034F10_lec12B_300k.mp4'
+    parent_uid: a0bfc251500691dcea20b3e78fedecd8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: fcbc2b8c7eedd29418530a4430f32e85
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id765641080'
+    parent_uid: a0bfc251500691dcea20b3e78fedecd8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b7f9ff0015d27319dff1906a40350b6e
+inline_embed_id: '77511257lecture12b:deepneuralnets76443030'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
+short_url: lecture-12b-deep-neural-nets
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-12b-deep-neural-nets
+title: 'Lecture 12B: Deep Neural Nets'
 transcript: >-
   <p><span m="40">The</span> <span m="140">following</span> <span
   m="610">content</span> <span m="1100">is</span> <span m="1220">provided</span>
@@ -3075,61 +3129,7 @@ transcript: >-
   m="2938000">don't</span> <span m="2938280">see</span> <span
   m="2938550">like</span> <span m="2938770">we</span> <span
   m="2938940">see.</span></p>
-embedded_media:
-  - uid: 5eb1a9e513adc9f07623b8733fb97ee3
-    parent_uid: a0bfc251500691dcea20b3e78fedecd8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: VrMHA3yX_QI
-  - uid: dde433f0f1e8e75f13822675ce861545
-    parent_uid: a0bfc251500691dcea20b3e78fedecd8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/VrMHA3yX_QI/default.jpg'
-  - uid: 9db6549504bbcdd1f87417b368ea1d38
-    parent_uid: a0bfc251500691dcea20b3e78fedecd8
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: VrMHA3yX_QI
-  - uid: 6606d548ed1fd623cb0b0dc2b9853889
-    parent_uid: a0bfc251500691dcea20b3e78fedecd8
-    id: VrMHA3yX_QI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-12b-deep-neural-nets/VrMHA3yX_QI.srt
-  - uid: 2adffca2acd3c22da036a81e893b029a
-    parent_uid: a0bfc251500691dcea20b3e78fedecd8
-    id: VrMHA3yX_QI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-12b-deep-neural-nets/VrMHA3yX_QI.pdf
-  - uid: 917b1d47f040ba54b06d50a0501aa587
-    parent_uid: a0bfc251500691dcea20b3e78fedecd8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1557a5492d1fa5893aedf983a2a31a61
-    parent_uid: a0bfc251500691dcea20b3e78fedecd8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: fcbc2b8c7eedd29418530a4430f32e85
-    parent_uid: a0bfc251500691dcea20b3e78fedecd8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT6.034F10/MIT6_034F10_lec12B_300k.mp4'
-  - uid: b7f9ff0015d27319dff1906a40350b6e
-    parent_uid: a0bfc251500691dcea20b3e78fedecd8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id765641080'
+uid: a0bfc251500691dcea20b3e78fedecd8
 type: courses
 layout: video
 ---

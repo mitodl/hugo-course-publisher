@@ -1,13 +1,68 @@
 ---
-title: 'Coordinate Free Proofs: Centroid of a Triangle'
-uid: 8a6c695e35bfd53305e5c071dc31d48e
+about_this_resource_text: ''
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: AYixF5nY3Vc
+    parent_uid: 8a6c695e35bfd53305e5c071dc31d48e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 638dc6e7f9700c49ec6174fee81eea17
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_01_300k.mp4'
+    parent_uid: 8a6c695e35bfd53305e5c071dc31d48e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4605fe3d5c9757802f48b15155c19e9c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/coordinate-free-proofs-centroid/id414355340?i=90322858
+    parent_uid: 8a6c695e35bfd53305e5c071dc31d48e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d9f296e25b9c509675780da003920ae6
+  - id: AYixF5nY3Vc.srt
+    parent_uid: 8a6c695e35bfd53305e5c071dc31d48e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors/coordinate-free-proofs-centroid-of-a-triangle/AYixF5nY3Vc.srt
+    title: 3play caption file
+    type: null
+    uid: 15ad203f94b8926ba2409ae0e0987d6f
+  - id: AYixF5nY3Vc.pdf
+    parent_uid: 8a6c695e35bfd53305e5c071dc31d48e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors/coordinate-free-proofs-centroid-of-a-triangle/AYixF5nY3Vc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1de388ae43151f82a3fd76049a2f033b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8a6c695e35bfd53305e5c071dc31d48e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 36e1acf8b3027140635c1a8aa0c139c8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8a6c695e35bfd53305e5c071dc31d48e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 12c94aebe0ff0c5b0232ceb673ddf2f7
+  - id: Video-YouTube-Stream
+    media_location: AYixF5nY3Vc
+    parent_uid: 8a6c695e35bfd53305e5c071dc31d48e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 517a8a92c72e0bd6031684818da08872
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/AYixF5nY3Vc/default.jpg'
+    parent_uid: 8a6c695e35bfd53305e5c071dc31d48e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 14196cf2ed3d5207754ec553142daccc
+inline_embed_id: '6481589coordinatefreeproofs:centroidofatriangle21467835'
 parent_uid: a55f30b541f0fdb28aa6929b363cf479
+related_resources_text: ''
+short_url: coordinate-free-proofs-centroid-of-a-triangle
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors/coordinate-free-proofs-centroid-of-a-triangle
-short_url: coordinate-free-proofs-centroid-of-a-triangle
-inline_embed_id: '6481589coordinatefreeproofs:centroidofatriangle21467835'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Coordinate Free Proofs: Centroid of a Triangle'
 transcript: >-
   <p><span m='7000'>JOEL LEWIS: Hi.</span> <span m='7410'>Welcome</span> <span
   m='7730'>to</span> <span m='7830'>recitation.</span> <span m='8720'>In</span>
@@ -790,62 +845,7 @@ transcript: >-
   m='669530'>So</span> <span m='670230'>I</span> <span m='670310'>think</span>
   <span m='670530'>I'll</span> <span m='670660'>end</span> <span
   m='670870'>there.</span> </p>
-embedded_media:
-  - uid: 638dc6e7f9700c49ec6174fee81eea17
-    parent_uid: 8a6c695e35bfd53305e5c071dc31d48e
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: AYixF5nY3Vc
-  - uid: 4605fe3d5c9757802f48b15155c19e9c
-    parent_uid: 8a6c695e35bfd53305e5c071dc31d48e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_01_300k.mp4'
-  - uid: d9f296e25b9c509675780da003920ae6
-    parent_uid: 8a6c695e35bfd53305e5c071dc31d48e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/coordinate-free-proofs-centroid/id414355340?i=90322858
-  - uid: 15ad203f94b8926ba2409ae0e0987d6f
-    parent_uid: 8a6c695e35bfd53305e5c071dc31d48e
-    id: AYixF5nY3Vc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors/coordinate-free-proofs-centroid-of-a-triangle/AYixF5nY3Vc.srt
-  - uid: 1de388ae43151f82a3fd76049a2f033b
-    parent_uid: 8a6c695e35bfd53305e5c071dc31d48e
-    id: AYixF5nY3Vc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors/coordinate-free-proofs-centroid-of-a-triangle/AYixF5nY3Vc.pdf
-  - uid: 36e1acf8b3027140635c1a8aa0c139c8
-    parent_uid: 8a6c695e35bfd53305e5c071dc31d48e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 12c94aebe0ff0c5b0232ceb673ddf2f7
-    parent_uid: 8a6c695e35bfd53305e5c071dc31d48e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 517a8a92c72e0bd6031684818da08872
-    parent_uid: 8a6c695e35bfd53305e5c071dc31d48e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: AYixF5nY3Vc
-  - uid: 14196cf2ed3d5207754ec553142daccc
-    parent_uid: 8a6c695e35bfd53305e5c071dc31d48e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/AYixF5nY3Vc/default.jpg'
+uid: 8a6c695e35bfd53305e5c071dc31d48e
 type: courses
 layout: video
 ---

@@ -1,13 +1,72 @@
 ---
-title: Representing Partial Orders As Subset Relations
-uid: 52d6117a250a15059c5c41bc42f676f9
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 52d6117a250a15059c5c41bc42f676f9
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 034f70173e687fc5db94aedea7eac485
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 52d6117a250a15059c5c41bc42f676f9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 555d0e164057b055fefb714090d9c469
+  - id: Video-YouTube-Stream
+    media_location: bHvMYZvZp7Y
+    parent_uid: 52d6117a250a15059c5c41bc42f676f9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c25fe7be49074fcf0dfdd2fd3bac24ce
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/bHvMYZvZp7Y/default.jpg'
+    parent_uid: 52d6117a250a15059c5c41bc42f676f9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c8c3c91bea7f9db38726fa80b6634408
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: bHvMYZvZp7Y
+    parent_uid: 52d6117a250a15059c5c41bc42f676f9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bfdfda8df14ab1573dcc8c2cdb67192a
+  - id: bHvMYZvZp7Y.srt
+    parent_uid: 52d6117a250a15059c5c41bc42f676f9
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-a604c5db7bb5/representing-partial-orders-as-subset-relations/bHvMYZvZp7Y.srt
+    title: 3play caption file
+    type: null
+    uid: 847116fa99dbc5e7e6d15e0459a260d4
+  - id: bHvMYZvZp7Y.pdf
+    parent_uid: 52d6117a250a15059c5c41bc42f676f9
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-a604c5db7bb5/representing-partial-orders-as-subset-relations/bHvMYZvZp7Y.pdf
+    title: 3play pdf file
+    type: null
+    uid: e7dbdef44f23e2fd411d2fd7d290632b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 52d6117a250a15059c5c41bc42f676f9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ee54264507a0401c3b22612c44b4e3a7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 52d6117a250a15059c5c41bc42f676f9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b79b4d69f54cd33860a3a8ae84b89d95
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_reppo_ipod.mp4'
+    parent_uid: 52d6117a250a15059c5c41bc42f676f9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2de06ce7c57a4d1d6e21d1ca82db6be3
+inline_embed_id: 56777777representingpartialordersassubsetrelations98151495
 parent_uid: 7a87bb9b57b50fd68642b8010b49df56
+related_resources_text: ''
+short_url: representing-partial-orders-as-subset-relations
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-a604c5db7bb5/representing-partial-orders-as-subset-relations
-short_url: representing-partial-orders-as-subset-relations
-inline_embed_id: 56777777representingpartialordersassubsetrelations98151495
-about_this_resource_text: ''
-related_resources_text: ''
+title: Representing Partial Orders As Subset Relations
 transcript: >-
   <p><span m='530'>PROFESSOR: So</span> <span m='680'>we've</span> <span
   m='830'>seen</span> <span m='1050'>that</span> <span m='1390'>partial</span>
@@ -515,66 +574,7 @@ transcript: >-
   m='415110'>on</span> <span m='415410'>some</span> <span
   m='415700'>collection</span> <span m='416240'>of</span> <span
   m='416320'>sets.</span> </p>
-embedded_media:
-  - uid: 034f70173e687fc5db94aedea7eac485
-    parent_uid: 52d6117a250a15059c5c41bc42f676f9
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 555d0e164057b055fefb714090d9c469
-    parent_uid: 52d6117a250a15059c5c41bc42f676f9
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: c25fe7be49074fcf0dfdd2fd3bac24ce
-    parent_uid: 52d6117a250a15059c5c41bc42f676f9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: bHvMYZvZp7Y
-  - uid: c8c3c91bea7f9db38726fa80b6634408
-    parent_uid: 52d6117a250a15059c5c41bc42f676f9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/bHvMYZvZp7Y/default.jpg'
-  - uid: bfdfda8df14ab1573dcc8c2cdb67192a
-    parent_uid: 52d6117a250a15059c5c41bc42f676f9
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: bHvMYZvZp7Y
-  - uid: 847116fa99dbc5e7e6d15e0459a260d4
-    parent_uid: 52d6117a250a15059c5c41bc42f676f9
-    id: bHvMYZvZp7Y.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-a604c5db7bb5/representing-partial-orders-as-subset-relations/bHvMYZvZp7Y.srt
-  - uid: e7dbdef44f23e2fd411d2fd7d290632b
-    parent_uid: 52d6117a250a15059c5c41bc42f676f9
-    id: bHvMYZvZp7Y.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-a604c5db7bb5/representing-partial-orders-as-subset-relations/bHvMYZvZp7Y.pdf
-  - uid: ee54264507a0401c3b22612c44b4e3a7
-    parent_uid: 52d6117a250a15059c5c41bc42f676f9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b79b4d69f54cd33860a3a8ae84b89d95
-    parent_uid: 52d6117a250a15059c5c41bc42f676f9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 2de06ce7c57a4d1d6e21d1ca82db6be3
-    parent_uid: 52d6117a250a15059c5c41bc42f676f9
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_reppo_ipod.mp4'
+uid: 52d6117a250a15059c5c41bc42f676f9
 type: courses
 layout: video
 ---

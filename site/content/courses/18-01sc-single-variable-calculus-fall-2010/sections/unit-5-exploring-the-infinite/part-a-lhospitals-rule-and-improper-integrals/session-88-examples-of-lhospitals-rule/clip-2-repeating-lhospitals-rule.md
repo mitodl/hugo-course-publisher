@@ -1,18 +1,72 @@
 ---
-title: 'Clip 2: Repeating L''Hospital''s Rule'
-uid: 20f389ec56e81fea909fff1aa407c399
-parent_uid: 7a8cdab56a9e46b35225a2bc22295a0f
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-88-examples-of-lhospitals-rule/clip-2-repeating-lhospitals-rule
-short_url: clip-2-repeating-lhospitals-rule
-inline_embed_id: '18945565clip2:repeatingl''hospital''srule64866822'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/98e9e2eba406e051a6a8899bd404c886" title="Open
   in a new window." target="_blank">Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 35 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: PNTnmH6jsRI
+    parent_uid: 20f389ec56e81fea909fff1aa407c399
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 49d0e11f8bdd6b37cad8dcd9ce1216a3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/PNTnmH6jsRI/default.jpg'
+    parent_uid: 20f389ec56e81fea909fff1aa407c399
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e66a877572f22314bce0d9c6f0a33c4e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: PNTnmH6jsRI
+    parent_uid: 20f389ec56e81fea909fff1aa407c399
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a533b9e2ff37b94ba87f128fdd7a6174
+  - id: PNTnmH6jsRI.srt
+    parent_uid: 20f389ec56e81fea909fff1aa407c399
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-88-examples-of-lhospitals-rule/clip-2-repeating-lhospitals-rule/PNTnmH6jsRI.srt
+    title: 3play caption file
+    type: null
+    uid: 63b75881396e33a52f2b67fa35764834
+  - id: PNTnmH6jsRI.pdf
+    parent_uid: 20f389ec56e81fea909fff1aa407c399
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-88-examples-of-lhospitals-rule/clip-2-repeating-lhospitals-rule/PNTnmH6jsRI.pdf
+    title: 3play pdf file
+    type: null
+    uid: e110eebc37745e78a0492293ff665035
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 20f389ec56e81fea909fff1aa407c399
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1c8be6819f9a363b6eb5ece01bc7a955
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 20f389ec56e81fea909fff1aa407c399
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e8c10fb9519bda6e72ed959d9d490980
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec35_300k.mp4'
+    parent_uid: 20f389ec56e81fea909fff1aa407c399
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9bea98833d410a541e0b70ca891fefb3
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 20f389ec56e81fea909fff1aa407c399
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a802e513ac0093a2cead95ad8abd60b2
+inline_embed_id: '18945565clip2:repeatingl''hospital''srule64866822'
+parent_uid: 7a8cdab56a9e46b35225a2bc22295a0f
 related_resources_text: ''
+short_url: clip-2-repeating-lhospitals-rule
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-88-examples-of-lhospitals-rule/clip-2-repeating-lhospitals-rule
+title: 'Clip 2: Repeating L''Hospital''s Rule'
 transcript: >-
   <p><span m='0'>The</span> <span m='120'>following</span> <span
   m='1270'>content</span> <span m='1420'>is</span> <span m='1680'>provided under
@@ -2477,61 +2531,7 @@ transcript: >-
   m='2918470'>use</span> <span m='2919060'>L'Hôpital's</span> <span
   m='2919680'>Rule.</span> <span m='2920640'>OK,</span> <span m='2921120'>see
   you</span> <span m='2921260'>next</span> <span m='2921510'>time.</span> </p>
-embedded_media:
-  - uid: 49d0e11f8bdd6b37cad8dcd9ce1216a3
-    parent_uid: 20f389ec56e81fea909fff1aa407c399
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: PNTnmH6jsRI
-  - uid: e66a877572f22314bce0d9c6f0a33c4e
-    parent_uid: 20f389ec56e81fea909fff1aa407c399
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/PNTnmH6jsRI/default.jpg'
-  - uid: a533b9e2ff37b94ba87f128fdd7a6174
-    parent_uid: 20f389ec56e81fea909fff1aa407c399
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: PNTnmH6jsRI
-  - uid: 63b75881396e33a52f2b67fa35764834
-    parent_uid: 20f389ec56e81fea909fff1aa407c399
-    id: PNTnmH6jsRI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-88-examples-of-lhospitals-rule/clip-2-repeating-lhospitals-rule/PNTnmH6jsRI.srt
-  - uid: e110eebc37745e78a0492293ff665035
-    parent_uid: 20f389ec56e81fea909fff1aa407c399
-    id: PNTnmH6jsRI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-88-examples-of-lhospitals-rule/clip-2-repeating-lhospitals-rule/PNTnmH6jsRI.pdf
-  - uid: 1c8be6819f9a363b6eb5ece01bc7a955
-    parent_uid: 20f389ec56e81fea909fff1aa407c399
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e8c10fb9519bda6e72ed959d9d490980
-    parent_uid: 20f389ec56e81fea909fff1aa407c399
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 9bea98833d410a541e0b70ca891fefb3
-    parent_uid: 20f389ec56e81fea909fff1aa407c399
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec35_300k.mp4'
-  - uid: a802e513ac0093a2cead95ad8abd60b2
-    parent_uid: 20f389ec56e81fea909fff1aa407c399
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 20f389ec56e81fea909fff1aa407c399
 type: courses
 layout: video
 ---

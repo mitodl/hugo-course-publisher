@@ -1,13 +1,67 @@
 ---
-title: Viral videos and visual storytelling
-uid: 6a3e4536b831820f7f946aa1bfa4b6b6
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 17uL1VoaWTQ
+    parent_uid: 6a3e4536b831820f7f946aa1bfa4b6b6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: eac754fbc5213b695a7efc81da19b084
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/17uL1VoaWTQ/default.jpg'
+    parent_uid: 6a3e4536b831820f7f946aa1bfa4b6b6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b15b6bbe78d00bf7fc03e2c951e65cb0
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 17uL1VoaWTQ
+    parent_uid: 6a3e4536b831820f7f946aa1bfa4b6b6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6b1ae29e79fef87fc85bf685a1e5ff9b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 6a3e4536b831820f7f946aa1bfa4b6b6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e41f70d951eca5ad7dc3dd8d9ae5c874
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D01P2_300k.mp4'
+    parent_uid: 6a3e4536b831820f7f946aa1bfa4b6b6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8f66a37931b45353ca502f38a0b48de0
+  - id: 17uL1VoaWTQ.srt
+    parent_uid: 6a3e4536b831820f7f946aa1bfa4b6b6
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/viral-videos-and-visual-storytelling/17uL1VoaWTQ.srt
+    title: 3play caption file
+    type: null
+    uid: 03df8ab06eb2213313628e38b85a57ef
+  - id: 17uL1VoaWTQ.pdf
+    parent_uid: 6a3e4536b831820f7f946aa1bfa4b6b6
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/viral-videos-and-visual-storytelling/17uL1VoaWTQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9e3bb0043c9988b7d249a3654b484de3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6a3e4536b831820f7f946aa1bfa4b6b6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 77566a8a0a01767f716a2f718ad6cb1b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6a3e4536b831820f7f946aa1bfa4b6b6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 260df30cf553c1e18c4953ec809bd392
+inline_embed_id: 8710474viralvideosandvisualstorytelling74295975
 parent_uid: e7ab07a59bf478a18a95a815093ec211
+related_resources_text: ''
+short_url: viral-videos-and-visual-storytelling
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/viral-videos-and-visual-storytelling
-short_url: viral-videos-and-visual-storytelling
-inline_embed_id: 8710474viralvideosandvisualstorytelling74295975
-about_this_resource_text: ''
-related_resources_text: ''
+title: Viral videos and visual storytelling
 transcript: >-
   <p><span m='80'>The</span> <span m='170'>following</span> <span
   m='610'>content</span> <span m='1120'>is</span> <span m='1230'>provided</span>
@@ -2569,61 +2623,7 @@ transcript: >-
   m='2186990'>going</span> <span m='2187090'>to</span> <span
   m='2187130'>be</span> <span m='2187210'>doing</span> <span m='2187420'>this
   week.</span> </p>
-embedded_media:
-  - uid: eac754fbc5213b695a7efc81da19b084
-    parent_uid: 6a3e4536b831820f7f946aa1bfa4b6b6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 17uL1VoaWTQ
-  - uid: b15b6bbe78d00bf7fc03e2c951e65cb0
-    parent_uid: 6a3e4536b831820f7f946aa1bfa4b6b6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/17uL1VoaWTQ/default.jpg'
-  - uid: 6b1ae29e79fef87fc85bf685a1e5ff9b
-    parent_uid: 6a3e4536b831820f7f946aa1bfa4b6b6
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 17uL1VoaWTQ
-  - uid: e41f70d951eca5ad7dc3dd8d9ae5c874
-    parent_uid: 6a3e4536b831820f7f946aa1bfa4b6b6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 8f66a37931b45353ca502f38a0b48de0
-    parent_uid: 6a3e4536b831820f7f946aa1bfa4b6b6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D01P2_300k.mp4'
-  - uid: 03df8ab06eb2213313628e38b85a57ef
-    parent_uid: 6a3e4536b831820f7f946aa1bfa4b6b6
-    id: 17uL1VoaWTQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/viral-videos-and-visual-storytelling/17uL1VoaWTQ.srt
-  - uid: 9e3bb0043c9988b7d249a3654b484de3
-    parent_uid: 6a3e4536b831820f7f946aa1bfa4b6b6
-    id: 17uL1VoaWTQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-1-identity-and-genre/viral-videos-and-visual-storytelling/17uL1VoaWTQ.pdf
-  - uid: 77566a8a0a01767f716a2f718ad6cb1b
-    parent_uid: 6a3e4536b831820f7f946aa1bfa4b6b6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 260df30cf553c1e18c4953ec809bd392
-    parent_uid: 6a3e4536b831820f7f946aa1bfa4b6b6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6a3e4536b831820f7f946aa1bfa4b6b6
 type: courses
 layout: video
 ---

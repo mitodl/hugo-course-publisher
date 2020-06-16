@@ -1,20 +1,75 @@
 ---
-title: 'Mega-Recitation 6: Boosting'
-uid: c711b49802b55f7046bebaaca1f2f882
-parent_uid: 6be7704ddfe26b4e12703167347dd5bb
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-6-boosting
-short_url: mega-recitation-6-boosting
-inline_embed_id: '11214643mega-recitation6:boosting25776667'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This mega-recitation covers the boosting
   problem from Quiz 4, Fall 2009. We determine which classifiers to use, then
   perform three rounds of boosting, adjusting the weights in each round. This
   gives us an expression for the final classifier.</p>
   <p><strong>Instructor:</strong> Mark Seifter</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ZZmzMJB-tow
+    parent_uid: c711b49802b55f7046bebaaca1f2f882
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 07647f47395d6bdd6dc8368647193b89
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/mega-recitation-6-boosting/id765641080?i=194482868
+    parent_uid: c711b49802b55f7046bebaaca1f2f882
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f0e60e3fbde54256244072cbbd706288
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_rec06_300k.mp4'
+    parent_uid: c711b49802b55f7046bebaaca1f2f882
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 61bb2dc0b2602cbe3471127cb9f9aef8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ZZmzMJB-tow/default.jpg'
+    parent_uid: c711b49802b55f7046bebaaca1f2f882
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 33548d8259cf4acd4e1ba85bee509937
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ZZmzMJB-tow
+    parent_uid: c711b49802b55f7046bebaaca1f2f882
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 07f8c4f02a345aeca5ab4de69b03e781
+  - id: ZZmzMJB-tow.srt
+    parent_uid: c711b49802b55f7046bebaaca1f2f882
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-6-boosting/ZZmzMJB-tow.srt
+    title: 3play caption file
+    type: null
+    uid: 2599a50e6d2654efa81a4e2c9981b459
+  - id: ZZmzMJB-tow.pdf
+    parent_uid: c711b49802b55f7046bebaaca1f2f882
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-6-boosting/ZZmzMJB-tow.pdf
+    title: 3play pdf file
+    type: null
+    uid: dc39866c70b0ea8114d0e5daa19ab4e6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c711b49802b55f7046bebaaca1f2f882
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 199ecadd1e25d92e52517b8c30a2af79
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c711b49802b55f7046bebaaca1f2f882
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3306e739b8a1580a8ed4a1a7762165bc
+inline_embed_id: '11214643mega-recitation6:boosting25776667'
+parent_uid: 6be7704ddfe26b4e12703167347dd5bb
 related_resources_text: >-
   <p><a href="./resolveuid/47e0a5f385ea3126d928bdc239f1eecd"
   target="_blank">Quiz 4, Fall 2009 (PDF)</a></p>
+short_url: mega-recitation-6-boosting
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-6-boosting
+title: 'Mega-Recitation 6: Boosting'
 transcript: >-
   <p><span m='50'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1220'>is</span> <span m='1330'>provided</span>
@@ -3441,62 +3496,7 @@ transcript: >-
   m='2993020'>it</span> <span m='2993110'>won't</span> <span
   m='2993340'>get</span> <span m='2993450'>anything</span> <span
   m='2993750'>better.</span> </p>
-embedded_media:
-  - uid: 07647f47395d6bdd6dc8368647193b89
-    parent_uid: c711b49802b55f7046bebaaca1f2f882
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ZZmzMJB-tow
-  - uid: f0e60e3fbde54256244072cbbd706288
-    parent_uid: c711b49802b55f7046bebaaca1f2f882
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/mega-recitation-6-boosting/id765641080?i=194482868
-  - uid: 61bb2dc0b2602cbe3471127cb9f9aef8
-    parent_uid: c711b49802b55f7046bebaaca1f2f882
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_rec06_300k.mp4'
-  - uid: 33548d8259cf4acd4e1ba85bee509937
-    parent_uid: c711b49802b55f7046bebaaca1f2f882
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ZZmzMJB-tow/default.jpg'
-  - uid: 07f8c4f02a345aeca5ab4de69b03e781
-    parent_uid: c711b49802b55f7046bebaaca1f2f882
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ZZmzMJB-tow
-  - uid: 2599a50e6d2654efa81a4e2c9981b459
-    parent_uid: c711b49802b55f7046bebaaca1f2f882
-    id: ZZmzMJB-tow.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-6-boosting/ZZmzMJB-tow.srt
-  - uid: dc39866c70b0ea8114d0e5daa19ab4e6
-    parent_uid: c711b49802b55f7046bebaaca1f2f882
-    id: ZZmzMJB-tow.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-6-boosting/ZZmzMJB-tow.pdf
-  - uid: 199ecadd1e25d92e52517b8c30a2af79
-    parent_uid: c711b49802b55f7046bebaaca1f2f882
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3306e739b8a1580a8ed4a1a7762165bc
-    parent_uid: c711b49802b55f7046bebaaca1f2f882
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: c711b49802b55f7046bebaaca1f2f882
 type: courses
 layout: video
 ---

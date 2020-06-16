@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 14: Low Rank Changes in A and Its Inverse'
-uid: ca9ef9c6a11c9143705b6606448b4ddb
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-14-low-rank-changes-in-a-and-its-inverse
-short_url: lecture-14-low-rank-changes-in-a-and-its-inverse
-inline_embed_id: 25678389lecture14lowrankchangesinaanditsinverse46568815
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>In this lecture, Professor Strang
   introduces the concept of low rank matrices. He demonstrates how using the
@@ -17,7 +10,62 @@ about_this_resource_text: >-
   data<br /> Note: Formula in class is correct in the textbook.</p> <p>Related
   section in textbook: III.1</p> <p><strong>Instructor:</strong> Prof. Gilbert
   Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: XhSk_Lw2X_U
+    parent_uid: ca9ef9c6a11c9143705b6606448b4ddb
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 05a71b2834ce871de7c8d30a04055968
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/XhSk_Lw2X_U/default.jpg'
+    parent_uid: ca9ef9c6a11c9143705b6606448b4ddb
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cd691678bd756ba6121392617f5d72cb
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: XhSk_Lw2X_U
+    parent_uid: ca9ef9c6a11c9143705b6606448b4ddb
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 58c8abe8a325c5efb09004f5b2edf1af
+  - id: XhSk_Lw2X_U.srt
+    parent_uid: ca9ef9c6a11c9143705b6606448b4ddb
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-14-low-rank-changes-in-a-and-its-inverse/XhSk_Lw2X_U.srt
+    title: 3play caption file
+    type: null
+    uid: 8088311816aead415acadc4af58c59f2
+  - id: XhSk_Lw2X_U.pdf
+    parent_uid: ca9ef9c6a11c9143705b6606448b4ddb
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-14-low-rank-changes-in-a-and-its-inverse/XhSk_Lw2X_U.pdf
+    title: 3play pdf file
+    type: null
+    uid: 988b4c05680f40a5a4b3be7004a32500
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ca9ef9c6a11c9143705b6606448b4ddb
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 76f92384da7e7c323521b6f687d603cb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ca9ef9c6a11c9143705b6606448b4ddb
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b918bf5e4204f2b3ec29d75dc4ee929b
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture14_300k.mp4'
+    parent_uid: ca9ef9c6a11c9143705b6606448b4ddb
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f8ee1aede75cad2878280b82f359e328
+inline_embed_id: 25678389lecture14lowrankchangesinaanditsinverse46568815
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-14-low-rank-changes-in-a-and-its-inverse
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-14-low-rank-changes-in-a-and-its-inverse
+title: 'Lecture 14: Low Rank Changes in A and Its Inverse'
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2505,55 +2553,7 @@ transcript: >-
   m="3028030">of</span> <span m="3028210">low</span> <span
   m="3028480">rank.</span> <span m="3029440">Good.</span> <span
   m="3029950">Thank</span> <span m="3030270">you.</span></p>
-embedded_media:
-  - uid: 05a71b2834ce871de7c8d30a04055968
-    parent_uid: ca9ef9c6a11c9143705b6606448b4ddb
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: XhSk_Lw2X_U
-  - uid: cd691678bd756ba6121392617f5d72cb
-    parent_uid: ca9ef9c6a11c9143705b6606448b4ddb
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/XhSk_Lw2X_U/default.jpg'
-  - uid: 58c8abe8a325c5efb09004f5b2edf1af
-    parent_uid: ca9ef9c6a11c9143705b6606448b4ddb
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: XhSk_Lw2X_U
-  - uid: 8088311816aead415acadc4af58c59f2
-    parent_uid: ca9ef9c6a11c9143705b6606448b4ddb
-    id: XhSk_Lw2X_U.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-14-low-rank-changes-in-a-and-its-inverse/XhSk_Lw2X_U.srt
-  - uid: 988b4c05680f40a5a4b3be7004a32500
-    parent_uid: ca9ef9c6a11c9143705b6606448b4ddb
-    id: XhSk_Lw2X_U.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-14-low-rank-changes-in-a-and-its-inverse/XhSk_Lw2X_U.pdf
-  - uid: 76f92384da7e7c323521b6f687d603cb
-    parent_uid: ca9ef9c6a11c9143705b6606448b4ddb
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b918bf5e4204f2b3ec29d75dc4ee929b
-    parent_uid: ca9ef9c6a11c9143705b6606448b4ddb
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f8ee1aede75cad2878280b82f359e328
-    parent_uid: ca9ef9c6a11c9143705b6606448b4ddb
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture14_300k.mp4'
+uid: ca9ef9c6a11c9143705b6606448b4ddb
 type: courses
 layout: video
 ---

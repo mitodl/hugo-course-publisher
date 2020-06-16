@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 19: Architectures: GPS, SOAR, Subsumption, Society of Mind'
-uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-19-architectures-gps-soar-subsumption-society-of-mind
-short_url: lecture-19-architectures-gps-soar-subsumption-society-of-mind
-inline_embed_id: '16211933lecture19:architectures:gps,soar,subsumption,societyofmind40306700'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, we consider cognitive
   architectures, including General Problem Solver, SOAR, Emotion Machine,
   Subsumption, and Genesis. Each is based on a different hypothesis about human
   intelligence, such as the importance of language and stories.</p>
   <p><strong>Instructor:</strong> Patrick H. Winston</p>
+embedded_media:
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-19-architectures-gps/id765641080?i=194476710
+    parent_uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e548fc7ff913cf79886cf2f8dbc46022
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec19_300k.mp4'
+    parent_uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3ddb21a1977c451749c6aa8fc1b2e4ae
+  - id: Video-YouTube-Stream
+    media_location: PimSbFGrwXM
+    parent_uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 65a9a896feb518e6172ea36c2957b814
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/PimSbFGrwXM/default.jpg'
+    parent_uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4e664b91c7059ed6f1d640b9034aa6ba
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: PimSbFGrwXM
+    parent_uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8eab4e5acedc85c795197b94be19a817
+  - id: PimSbFGrwXM.srt
+    parent_uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-19-architectures-gps-soar-subsumption-society-of-mind/PimSbFGrwXM.srt
+    title: 3play caption file
+    type: null
+    uid: ca3a0f82978c9b7fc2cfee093e3a1c6e
+  - id: PimSbFGrwXM.pdf
+    parent_uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-19-architectures-gps-soar-subsumption-society-of-mind/PimSbFGrwXM.pdf
+    title: 3play pdf file
+    type: null
+    uid: ad66d2f09b3bc313458cf50d41459314
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7dbfa003e247cf5ae47c7e6f0a4fe6f4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b6fd0a8958f812849f1f41378e62fd9c
+inline_embed_id: '16211933lecture19:architectures:gps,soar,subsumption,societyofmind40306700'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
+short_url: lecture-19-architectures-gps-soar-subsumption-society-of-mind
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-19-architectures-gps-soar-subsumption-society-of-mind
+title: 'Lecture 19: Architectures: GPS, SOAR, Subsumption, Society of Mind'
 transcript: >-
   <p><span m='9660'>PROFESSOR: [INAUDIBLE].</span> </p><p><span m='12360'>"Thus
   Spake Zarathustra" was made famous</span> <span m='15310'>and popular by
@@ -814,62 +869,7 @@ transcript: >-
   to do today.</span> </p><p><span m='2929620'>And I'll give you a demonstration
   of some of this</span> <span m='2931290'>stuff on another occasion.</span>
   </p><p></p>
-embedded_media:
-  - uid: e548fc7ff913cf79886cf2f8dbc46022
-    parent_uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-19-architectures-gps/id765641080?i=194476710
-  - uid: 3ddb21a1977c451749c6aa8fc1b2e4ae
-    parent_uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec19_300k.mp4'
-  - uid: 65a9a896feb518e6172ea36c2957b814
-    parent_uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: PimSbFGrwXM
-  - uid: 4e664b91c7059ed6f1d640b9034aa6ba
-    parent_uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/PimSbFGrwXM/default.jpg'
-  - uid: 8eab4e5acedc85c795197b94be19a817
-    parent_uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: PimSbFGrwXM
-  - uid: ca3a0f82978c9b7fc2cfee093e3a1c6e
-    parent_uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
-    id: PimSbFGrwXM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-19-architectures-gps-soar-subsumption-society-of-mind/PimSbFGrwXM.srt
-  - uid: ad66d2f09b3bc313458cf50d41459314
-    parent_uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
-    id: PimSbFGrwXM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-19-architectures-gps-soar-subsumption-society-of-mind/PimSbFGrwXM.pdf
-  - uid: 7dbfa003e247cf5ae47c7e6f0a4fe6f4
-    parent_uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b6fd0a8958f812849f1f41378e62fd9c
-    parent_uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6c476e3bab60a3ad89c0cde49a2cbdbe
 type: courses
 layout: video
 ---

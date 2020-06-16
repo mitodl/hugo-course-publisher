@@ -1,13 +1,68 @@
 ---
-title: Meet the Educator
-uid: 8b81015ead3a9fdfd3a67d185b09b87e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-MP4
+    media_location: U4x-hzhohB8
+    parent_uid: 8b81015ead3a9fdfd3a67d185b09b87e
+    title: Video-YouTube-MP4
+    type: Video
+    uid: e02c7929ca2fe7e89e60ac27840e47e7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/U4x-hzhohB8/default.jpg'
+    parent_uid: 8b81015ead3a9fdfd3a67d185b09b87e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a816bca3ecfc92288568f159199bf544
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 8b81015ead3a9fdfd3a67d185b09b87e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 19e286f95a435b40a971a0d258007935
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.046JS15/MIT6_046JS15_meet_the_educator_300k.mp4
+    parent_uid: 8b81015ead3a9fdfd3a67d185b09b87e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5545431c4d099ca8ef790fbfa570e4c3
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: U4x-hzhohB8
+    parent_uid: 8b81015ead3a9fdfd3a67d185b09b87e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fe90152b807ee4dbf58eddb6f07a78c1
+  - id: U4x-hzhohB8.srt
+    parent_uid: 8b81015ead3a9fdfd3a67d185b09b87e
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/meet-the-educator/meet-the-educator/U4x-hzhohB8.srt
+    title: 3play caption file
+    type: null
+    uid: 41241c9f0298ae1f0245a66d87ba2791
+  - id: U4x-hzhohB8.pdf
+    parent_uid: 8b81015ead3a9fdfd3a67d185b09b87e
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/meet-the-educator/meet-the-educator/U4x-hzhohB8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7c346b0cda77f2e92f69c969f4768ea1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8b81015ead3a9fdfd3a67d185b09b87e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9e72c720219fc9f40c12a14c85d015af
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8b81015ead3a9fdfd3a67d185b09b87e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b1d5fa034bc4760437c53e846f7d8e47
+inline_embed_id: 63789766meettheeducator81442565
 parent_uid: 02397c007b38feedcf8062a305c1d6b7
+related_resources_text: ''
+short_url: meet-the-educator
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/meet-the-educator/meet-the-educator
-short_url: meet-the-educator
-inline_embed_id: 63789766meettheeducator81442565
-about_this_resource_text: ''
-related_resources_text: ''
+title: Meet the Educator
 transcript: >-
   <p><span m='5650'>ERIK DEMAINE: Hi,</span> <span m='5950'>I'm</span> <span
   m='6210'>Erik</span> <span m='6480'>Demaine,</span> <span m='6870'>and</span>
@@ -222,62 +277,7 @@ transcript: >-
   m='186980'>time</span> <span m='187180'>will</span> <span m='187260'>be</span>
   <span m='187410'>even</span> <span m='187600'>better,</span> <span
   m='187970'>hopefully.</span> </p>
-embedded_media:
-  - uid: e02c7929ca2fe7e89e60ac27840e47e7
-    parent_uid: 8b81015ead3a9fdfd3a67d185b09b87e
-    id: Video-YouTube-MP4
-    title: Video-YouTube-MP4
-    type: Video
-    media_location: U4x-hzhohB8
-  - uid: a816bca3ecfc92288568f159199bf544
-    parent_uid: 8b81015ead3a9fdfd3a67d185b09b87e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/U4x-hzhohB8/default.jpg'
-  - uid: 19e286f95a435b40a971a0d258007935
-    parent_uid: 8b81015ead3a9fdfd3a67d185b09b87e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 5545431c4d099ca8ef790fbfa570e4c3
-    parent_uid: 8b81015ead3a9fdfd3a67d185b09b87e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.046JS15/MIT6_046JS15_meet_the_educator_300k.mp4
-  - uid: fe90152b807ee4dbf58eddb6f07a78c1
-    parent_uid: 8b81015ead3a9fdfd3a67d185b09b87e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: U4x-hzhohB8
-  - uid: 41241c9f0298ae1f0245a66d87ba2791
-    parent_uid: 8b81015ead3a9fdfd3a67d185b09b87e
-    id: U4x-hzhohB8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/meet-the-educator/meet-the-educator/U4x-hzhohB8.srt
-  - uid: 7c346b0cda77f2e92f69c969f4768ea1
-    parent_uid: 8b81015ead3a9fdfd3a67d185b09b87e
-    id: U4x-hzhohB8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/meet-the-educator/meet-the-educator/U4x-hzhohB8.pdf
-  - uid: 9e72c720219fc9f40c12a14c85d015af
-    parent_uid: 8b81015ead3a9fdfd3a67d185b09b87e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b1d5fa034bc4760437c53e846f7d8e47
-    parent_uid: 8b81015ead3a9fdfd3a67d185b09b87e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 8b81015ead3a9fdfd3a67d185b09b87e
 type: courses
 layout: video
 ---

@@ -1,13 +1,67 @@
 ---
-title: Creation and annihilation operators acting on energy eigenstates
-uid: 44362ac998aa1d1238d21f33b471f1fd
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: BRFekCz4XQY
+    parent_uid: 44362ac998aa1d1238d21f33b471f1fd
+    title: Video-YouTube-Stream
+    type: Video
+    uid: dd556d8cd48e25259fd4590bee6ab836
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BRFekCz4XQY/default.jpg'
+    parent_uid: 44362ac998aa1d1238d21f33b471f1fd
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f8a68399f1a6daae0877b6902b0df38f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: BRFekCz4XQY
+    parent_uid: 44362ac998aa1d1238d21f33b471f1fd
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6b6fc9a78bc98e8c2621398f61cc9cbf
+  - id: BRFekCz4XQY.srt
+    parent_uid: 44362ac998aa1d1238d21f33b471f1fd
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/creation-and-annihilation-operators-acting-on-energy-eigenstates/BRFekCz4XQY.srt
+    title: 3play caption file
+    type: null
+    uid: 9043be38584d8a49423387310b004608
+  - id: BRFekCz4XQY.pdf
+    parent_uid: 44362ac998aa1d1238d21f33b471f1fd
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/creation-and-annihilation-operators-acting-on-energy-eigenstates/BRFekCz4XQY.pdf
+    title: 3play pdf file
+    type: null
+    uid: cd974cc2a2d0b25a57e70bbdec86dfa2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 44362ac998aa1d1238d21f33b471f1fd
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 59e659d84cfcf3e58915b46cf9bf641b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 44362ac998aa1d1238d21f33b471f1fd
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5c1e07cc3b6e74c81cb9826e0b722418
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 44362ac998aa1d1238d21f33b471f1fd
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 40d0526f1e05ad6cf66e6a19f7604177
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec15_s3_300k.mp4'
+    parent_uid: 44362ac998aa1d1238d21f33b471f1fd
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7f8d751ba19098ed20c783202b7faf9a
+inline_embed_id: 24063500creationandannihilationoperatorsactingonenergyeigenstates55393593
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: creation-and-annihilation-operators-acting-on-energy-eigenstates
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/creation-and-annihilation-operators-acting-on-energy-eigenstates
-short_url: creation-and-annihilation-operators-acting-on-energy-eigenstates
-inline_embed_id: 24063500creationandannihilationoperatorsactingonenergyeigenstates55393593
-about_this_resource_text: ''
-related_resources_text: ''
+title: Creation and annihilation operators acting on energy eigenstates
 transcript: >-
   <p><span m='290'>PROFESSOR:</span> <span m='455'>Important</span> <span
   m='860'>thing</span> <span m='1140'>to</span> <span m='1290'>do</span> <span
@@ -952,61 +1006,7 @@ transcript: >-
   m='1258600'>phi</span> <span m='1258990'>n.</span> <span
   m='1261120'>How</span> <span m='1261360'>much</span> <span m='1261690'>it
   is.</span> </p>
-embedded_media:
-  - uid: dd556d8cd48e25259fd4590bee6ab836
-    parent_uid: 44362ac998aa1d1238d21f33b471f1fd
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BRFekCz4XQY
-  - uid: f8a68399f1a6daae0877b6902b0df38f
-    parent_uid: 44362ac998aa1d1238d21f33b471f1fd
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BRFekCz4XQY/default.jpg'
-  - uid: 6b6fc9a78bc98e8c2621398f61cc9cbf
-    parent_uid: 44362ac998aa1d1238d21f33b471f1fd
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BRFekCz4XQY
-  - uid: 9043be38584d8a49423387310b004608
-    parent_uid: 44362ac998aa1d1238d21f33b471f1fd
-    id: BRFekCz4XQY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/creation-and-annihilation-operators-acting-on-energy-eigenstates/BRFekCz4XQY.srt
-  - uid: cd974cc2a2d0b25a57e70bbdec86dfa2
-    parent_uid: 44362ac998aa1d1238d21f33b471f1fd
-    id: BRFekCz4XQY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/creation-and-annihilation-operators-acting-on-energy-eigenstates/BRFekCz4XQY.pdf
-  - uid: 59e659d84cfcf3e58915b46cf9bf641b
-    parent_uid: 44362ac998aa1d1238d21f33b471f1fd
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5c1e07cc3b6e74c81cb9826e0b722418
-    parent_uid: 44362ac998aa1d1238d21f33b471f1fd
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 40d0526f1e05ad6cf66e6a19f7604177
-    parent_uid: 44362ac998aa1d1238d21f33b471f1fd
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 7f8d751ba19098ed20c783202b7faf9a
-    parent_uid: 44362ac998aa1d1238d21f33b471f1fd
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec15_s3_300k.mp4'
+uid: 44362ac998aa1d1238d21f33b471f1fd
 type: courses
 layout: video
 ---

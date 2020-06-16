@@ -1,13 +1,69 @@
 ---
-title: LU Decomposition
-uid: e31bf52b153e1e15618b5925aa313c1c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: '-eA2D_rIcNA'
+    parent_uid: e31bf52b153e1e15618b5925aa313c1c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c970ff19f1777a5e92c4b9173d7cfefa
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: '-eA2D_rIcNA'
+    parent_uid: e31bf52b153e1e15618b5925aa313c1c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3a33d539d58c92d8486c1998f6a801f5
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lu-decomposition/id488155309?i=108454336
+    parent_uid: e31bf52b153e1e15618b5925aa313c1c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 682669a34eae188de52b3f31cd7b8e97
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110706_B1_300k.mp4
+    parent_uid: e31bf52b153e1e15618b5925aa313c1c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b6cd334c902040e15842309526a0f166
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-eA2D_rIcNA/default.jpg'
+    parent_uid: e31bf52b153e1e15618b5925aa313c1c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b84d629917e4d6c8fe03893bd5e3f104
+  - id: '-eA2D_rIcNA.srt'
+    parent_uid: e31bf52b153e1e15618b5925aa313c1c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lu-decomposition/-eA2D_rIcNA.srt
+    title: 3play caption file
+    type: null
+    uid: e2967d7dd97ac5e815af3ac9099d1392
+  - id: '-eA2D_rIcNA.pdf'
+    parent_uid: e31bf52b153e1e15618b5925aa313c1c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lu-decomposition/-eA2D_rIcNA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 087ffa796da9818d3198d7c771ba004b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e31bf52b153e1e15618b5925aa313c1c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9b1054772df8cbe3fc3632c7463555a8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e31bf52b153e1e15618b5925aa313c1c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f5e7852456491df72db2234a172d272e
+inline_embed_id: 92989301ludecomposition77243200
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: lu-decomposition
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lu-decomposition
-short_url: lu-decomposition
-inline_embed_id: 92989301ludecomposition77243200
-about_this_resource_text: ''
-related_resources_text: ''
+title: LU Decomposition
 transcript: >-
   <p><span m='6180'>BEN HARRIS: Hi.</span> <span m='6590'>I'm</span> <span
   m='6820'>Ben.</span> </p><p><span m='8220'>Today</span> <span
@@ -489,63 +545,7 @@ transcript: >-
   m='566350'>can</span> <span m='566640'>have</span> <span m='567000'>LU</span>
   <span m='567290'>decompositions.</span> <span m='569164'>Good.</span>
   </p><p><span m='572660'>Thanks.</span> </p>
-embedded_media:
-  - uid: c970ff19f1777a5e92c4b9173d7cfefa
-    parent_uid: e31bf52b153e1e15618b5925aa313c1c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-eA2D_rIcNA'
-  - uid: 3a33d539d58c92d8486c1998f6a801f5
-    parent_uid: e31bf52b153e1e15618b5925aa313c1c
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-eA2D_rIcNA'
-  - uid: 682669a34eae188de52b3f31cd7b8e97
-    parent_uid: e31bf52b153e1e15618b5925aa313c1c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lu-decomposition/id488155309?i=108454336
-  - uid: b6cd334c902040e15842309526a0f166
-    parent_uid: e31bf52b153e1e15618b5925aa313c1c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110706_B1_300k.mp4
-  - uid: b84d629917e4d6c8fe03893bd5e3f104
-    parent_uid: e31bf52b153e1e15618b5925aa313c1c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-eA2D_rIcNA/default.jpg'
-  - uid: e2967d7dd97ac5e815af3ac9099d1392
-    parent_uid: e31bf52b153e1e15618b5925aa313c1c
-    id: '-eA2D_rIcNA.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lu-decomposition/-eA2D_rIcNA.srt
-  - uid: 087ffa796da9818d3198d7c771ba004b
-    parent_uid: e31bf52b153e1e15618b5925aa313c1c
-    id: '-eA2D_rIcNA.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lu-decomposition/-eA2D_rIcNA.pdf
-  - uid: 9b1054772df8cbe3fc3632c7463555a8
-    parent_uid: e31bf52b153e1e15618b5925aa313c1c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f5e7852456491df72db2234a172d272e
-    parent_uid: e31bf52b153e1e15618b5925aa313c1c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: e31bf52b153e1e15618b5925aa313c1c
 type: courses
 layout: video
 ---

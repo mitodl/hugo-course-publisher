@@ -1,13 +1,67 @@
 ---
-title: Week 9 Introduction
-uid: 7124573300d4c0153545225274eae400
+about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Deepto Chakrabarty</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: MoRip5VVdkI
+    parent_uid: 7124573300d4c0153545225274eae400
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ea8acd439ff9b7eb60afaf8912b3b7c3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/MoRip5VVdkI/default.jpg'
+    parent_uid: 7124573300d4c0153545225274eae400
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0d3773143f06591cda06584bae378e9f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: MoRip5VVdkI
+    parent_uid: 7124573300d4c0153545225274eae400
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c8946919442e7606061f866e4cb0196c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 7124573300d4c0153545225274eae400
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2c76d3ca6e97184d2cb763286a6af4af
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W09Intro_360p.mp4'
+    parent_uid: 7124573300d4c0153545225274eae400
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 84f000883c3e120a4f1b4aced594c9de
+  - id: MoRip5VVdkI.srt
+    parent_uid: 7124573300d4c0153545225274eae400
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/week-9-introduction/week-9-introduction/MoRip5VVdkI.srt
+    title: 3play caption file
+    type: null
+    uid: 0dad03f5cc3e59ede3b9585052759000
+  - id: MoRip5VVdkI.pdf
+    parent_uid: 7124573300d4c0153545225274eae400
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/week-9-introduction/week-9-introduction/MoRip5VVdkI.pdf
+    title: 3play pdf file
+    type: null
+    uid: ee1004e503e8267f37719452cddafb63
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7124573300d4c0153545225274eae400
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 31b7426744a72b462558b2ee204297c2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7124573300d4c0153545225274eae400
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 828080f3cc8bedff7f0cfd5148b8f5b2
+inline_embed_id: 20932027week9introduction39298604
 parent_uid: b4cadb9794c48f081f798ea3f224e263
+related_resources_text: ''
+short_url: week-9-introduction
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/week-9-introduction/week-9-introduction
-short_url: week-9-introduction
-inline_embed_id: 20932027week9introduction39298604
-about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Deepto Chakrabarty</p>'
-related_resources_text: ''
+title: Week 9 Introduction
 transcript: >-
   <p><span m='540'>This week, we will use the concepts of momentum and
   energy</span> <span m='4410'>to examine an application of great importance--
@@ -37,61 +91,7 @@ transcript: >-
   dimension,</span> <span m='83150'>that the relative velocity of one particle
   with respect</span> <span m='85980'>to the other is simply reversed by the
   collision.</span> </p>
-embedded_media:
-  - uid: ea8acd439ff9b7eb60afaf8912b3b7c3
-    parent_uid: 7124573300d4c0153545225274eae400
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: MoRip5VVdkI
-  - uid: 0d3773143f06591cda06584bae378e9f
-    parent_uid: 7124573300d4c0153545225274eae400
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/MoRip5VVdkI/default.jpg'
-  - uid: c8946919442e7606061f866e4cb0196c
-    parent_uid: 7124573300d4c0153545225274eae400
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: MoRip5VVdkI
-  - uid: 2c76d3ca6e97184d2cb763286a6af4af
-    parent_uid: 7124573300d4c0153545225274eae400
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 84f000883c3e120a4f1b4aced594c9de
-    parent_uid: 7124573300d4c0153545225274eae400
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W09Intro_360p.mp4'
-  - uid: 0dad03f5cc3e59ede3b9585052759000
-    parent_uid: 7124573300d4c0153545225274eae400
-    id: MoRip5VVdkI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/week-9-introduction/week-9-introduction/MoRip5VVdkI.srt
-  - uid: ee1004e503e8267f37719452cddafb63
-    parent_uid: 7124573300d4c0153545225274eae400
-    id: MoRip5VVdkI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/week-9-introduction/week-9-introduction/MoRip5VVdkI.pdf
-  - uid: 31b7426744a72b462558b2ee204297c2
-    parent_uid: 7124573300d4c0153545225274eae400
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 828080f3cc8bedff7f0cfd5148b8f5b2
-    parent_uid: 7124573300d4c0153545225274eae400
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 7124573300d4c0153545225274eae400
 type: courses
 layout: video
 ---

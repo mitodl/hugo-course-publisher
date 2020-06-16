@@ -1,18 +1,90 @@
 ---
-title: 'Lecture 24: Numerical Integration'
-uid: 2e6350596694f1b8d54c7553bd491fd4
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-24-numerical-integration
-short_url: lecture-24-numerical-integration
-inline_embed_id: '8084751lecture24:numericalintegration17235574'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Numerical
   integration</p> <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec24.jpg
+    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-24-numerical-integration/lec24.jpg
+    title: Lecture 24
+    type: null
+    uid: cf6bf32013fda470db924c80b94788d6
+  - id: Video-YouTube-Stream
+    media_location: jBkXbAgMj6s
+    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3a1cffbae8b638cd93830cec9e8992b2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/jBkXbAgMj6s/default.jpg'
+    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c28aaaa02491be284a205dae0fad8ac6
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec24_300k.mp4'
+    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e2158fa16aec6895a5b9dda3ac40d6aa
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 27310ce6b4823a7f7901d3af14d31755
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: f9ba167dd7669d43d964d5aff247a90b
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 13e966eb2cfde84514498da1550d4aad
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: jBkXbAgMj6s
+    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9d493bdba26dd3027aa80db2231461db
+  - id: jBkXbAgMj6s.srt
+    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-24-numerical-integration/jBkXbAgMj6s.srt
+    title: 3play caption file
+    type: null
+    uid: 1bea35f49906fca3ff38296ed260c64d
+  - id: jBkXbAgMj6s.pdf
+    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-24-numerical-integration/jBkXbAgMj6s.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9ce321dcca02e5149118e32b566aff44
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8fde1f0301eb8ba9f39bd59177fd897d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5ea0a3dd370460508c809cd0c136c6a4
+inline_embed_id: '8084751lecture24:numericalintegration17235574'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/f141a3b7777511268cd1b1e1d21e38fb">PDF -
   1.1MB</a>)</p></div>
+short_url: lecture-24-numerical-integration
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-24-numerical-integration
+title: 'Lecture 24: Numerical Integration'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='530'>content</span> <span m='1020'>is</span> <span m='1120'>provided</span>
@@ -2783,79 +2855,7 @@ transcript: >-
   m='3025650'>As</span> <span m='3025830'>I</span> <span m='3025940'>will</span>
   <span m='3026100'>show</span> <span m='3026410'>you</span> <span
   m='3027300'>next</span> <span m='3027640'>time.</span> </p>
-embedded_media:
-  - uid: cf6bf32013fda470db924c80b94788d6
-    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
-    id: lec24.jpg
-    title: Lecture 24
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-24-numerical-integration/lec24.jpg
-  - uid: 3a1cffbae8b638cd93830cec9e8992b2
-    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: jBkXbAgMj6s
-  - uid: c28aaaa02491be284a205dae0fad8ac6
-    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/jBkXbAgMj6s/default.jpg'
-  - uid: e2158fa16aec6895a5b9dda3ac40d6aa
-    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec24_300k.mp4'
-  - uid: 27310ce6b4823a7f7901d3af14d31755
-    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: f9ba167dd7669d43d964d5aff247a90b
-    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 13e966eb2cfde84514498da1550d4aad
-    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 9d493bdba26dd3027aa80db2231461db
-    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: jBkXbAgMj6s
-  - uid: 1bea35f49906fca3ff38296ed260c64d
-    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
-    id: jBkXbAgMj6s.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-24-numerical-integration/jBkXbAgMj6s.srt
-  - uid: 9ce321dcca02e5149118e32b566aff44
-    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
-    id: jBkXbAgMj6s.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-24-numerical-integration/jBkXbAgMj6s.pdf
-  - uid: 8fde1f0301eb8ba9f39bd59177fd897d
-    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5ea0a3dd370460508c809cd0c136c6a4
-    parent_uid: 2e6350596694f1b8d54c7553bd491fd4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 2e6350596694f1b8d54c7553bd491fd4
 type: courses
 layout: video
 ---

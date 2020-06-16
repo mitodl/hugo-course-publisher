@@ -1,13 +1,73 @@
 ---
-title: Comments on the spectrum and continuity conditions
-uid: a4e040ea412125511f63e7346398fb6e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: gMnQ21-pjOA
+    parent_uid: a4e040ea412125511f63e7346398fb6e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8f270e9dcc604e867796ed593686d196
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/9U7BSZD-Y_o/default.jpg'
+    parent_uid: a4e040ea412125511f63e7346398fb6e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 38ca3d0f339f6739329f5507b06572e2
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: gMnQ21-pjOA
+    parent_uid: a4e040ea412125511f63e7346398fb6e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5242a1e81d185860d833f342c87a11d4
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: a4e040ea412125511f63e7346398fb6e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c101c8cd58ec909e40d82857e137d996
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec10_s4_300k.mp4'
+    parent_uid: a4e040ea412125511f63e7346398fb6e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c3239bd2e830a35f7fb6c237bf418f05
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/gMnQ21-pjOA/default.jpg'
+    parent_uid: a4e040ea412125511f63e7346398fb6e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 70e2a775cc506611260524aca294926d
+  - id: gMnQ21-pjOA.srt
+    parent_uid: a4e040ea412125511f63e7346398fb6e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/comments-on-the-spectrum-and-continuity-conditions/gMnQ21-pjOA.srt
+    title: 3play caption file
+    type: null
+    uid: 21377763755dc6b0bdb591d8219b8432
+  - id: gMnQ21-pjOA.pdf
+    parent_uid: a4e040ea412125511f63e7346398fb6e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/comments-on-the-spectrum-and-continuity-conditions/gMnQ21-pjOA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0d338f473f29e5d465efc5ce35ff39ce
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a4e040ea412125511f63e7346398fb6e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0251189ec7aaad4aa63285941889654c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a4e040ea412125511f63e7346398fb6e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 07ab411edc660f322f16b73257290880
+inline_embed_id: 48102365commentsonthespectrumandcontinuityconditions95118246
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: comments-on-the-spectrum-and-continuity-conditions
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/comments-on-the-spectrum-and-continuity-conditions
-short_url: comments-on-the-spectrum-and-continuity-conditions
-inline_embed_id: 48102365commentsonthespectrumandcontinuityconditions95118246
-about_this_resource_text: ''
-related_resources_text: ''
+title: Comments on the spectrum and continuity conditions
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='447'>Would</span> <span
   m='894'>solving</span> <span m='1790'>this</span> <span
@@ -535,67 +595,7 @@ transcript: >-
   m='786270'>will</span> <span m='786480'>see</span> <span
   m='786880'>that</span> <span m='787380'>it's</span> <span
   m='787670'>quite</span> <span m='788000'>doable.</span> </p>
-embedded_media:
-  - uid: 8f270e9dcc604e867796ed593686d196
-    parent_uid: a4e040ea412125511f63e7346398fb6e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: gMnQ21-pjOA
-  - uid: 38ca3d0f339f6739329f5507b06572e2
-    parent_uid: a4e040ea412125511f63e7346398fb6e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9U7BSZD-Y_o/default.jpg'
-  - uid: 5242a1e81d185860d833f342c87a11d4
-    parent_uid: a4e040ea412125511f63e7346398fb6e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: gMnQ21-pjOA
-  - uid: c101c8cd58ec909e40d82857e137d996
-    parent_uid: a4e040ea412125511f63e7346398fb6e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: c3239bd2e830a35f7fb6c237bf418f05
-    parent_uid: a4e040ea412125511f63e7346398fb6e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec10_s4_300k.mp4'
-  - uid: 70e2a775cc506611260524aca294926d
-    parent_uid: a4e040ea412125511f63e7346398fb6e
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/gMnQ21-pjOA/default.jpg'
-  - uid: 21377763755dc6b0bdb591d8219b8432
-    parent_uid: a4e040ea412125511f63e7346398fb6e
-    id: gMnQ21-pjOA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/comments-on-the-spectrum-and-continuity-conditions/gMnQ21-pjOA.srt
-  - uid: 0d338f473f29e5d465efc5ce35ff39ce
-    parent_uid: a4e040ea412125511f63e7346398fb6e
-    id: gMnQ21-pjOA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/comments-on-the-spectrum-and-continuity-conditions/gMnQ21-pjOA.pdf
-  - uid: 0251189ec7aaad4aa63285941889654c
-    parent_uid: a4e040ea412125511f63e7346398fb6e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 07ab411edc660f322f16b73257290880
-    parent_uid: a4e040ea412125511f63e7346398fb6e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a4e040ea412125511f63e7346398fb6e
 type: courses
 layout: video
 ---

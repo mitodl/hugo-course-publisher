@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 10: Introduction to Learning, Nearest Neighbors'
-uid: 5ecfa634ca4a6d6a6acb0be675223f88
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-10-introduction-to-learning-nearest-neighbors
-short_url: lecture-10-introduction-to-learning-nearest-neighbors
-inline_embed_id: '99741113lecture10:introductiontolearning,nearestneighbors34547889'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture begins with a high-level view of
   learning, then covers nearest neighbors using several graphical examples.  We
   then discuss how to learn motor skills such as bouncing a tennis ball, and
   consider the effects of sleep deprivation.</p> <p><strong>Instructor:</strong>
   Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 09mb78oiPkA
+    parent_uid: 5ecfa634ca4a6d6a6acb0be675223f88
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8aaffda82e9c2d72155a3f0f226bc185
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-10-introduction-to/id765641080?i=194473719
+    parent_uid: 5ecfa634ca4a6d6a6acb0be675223f88
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b43f7e42e989330cc11e6424cde393c9
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec10_300k.mp4'
+    parent_uid: 5ecfa634ca4a6d6a6acb0be675223f88
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 76d20a78d8be28170cfccc45946cd923
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/09mb78oiPkA/default.jpg'
+    parent_uid: 5ecfa634ca4a6d6a6acb0be675223f88
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 626a9a867ddcf87068ae8c3247eb07bb
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 09mb78oiPkA
+    parent_uid: 5ecfa634ca4a6d6a6acb0be675223f88
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ee5e710a866002ff66e3bfe98610abb7
+  - id: 09mb78oiPkA.srt
+    parent_uid: 5ecfa634ca4a6d6a6acb0be675223f88
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-10-introduction-to-learning-nearest-neighbors/09mb78oiPkA.srt
+    title: 3play caption file
+    type: null
+    uid: d541d586220082ff5ba56851e123c600
+  - id: 09mb78oiPkA.pdf
+    parent_uid: 5ecfa634ca4a6d6a6acb0be675223f88
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-10-introduction-to-learning-nearest-neighbors/09mb78oiPkA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2dc043b8db5e1b94973f099d9a1f1672
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5ecfa634ca4a6d6a6acb0be675223f88
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 71abbf4928250eef79d258a67c7b5f60
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5ecfa634ca4a6d6a6acb0be675223f88
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 148bf2cbebf71e030cbefe8274767a30
+inline_embed_id: '99741113lecture10:introductiontolearning,nearestneighbors34547889'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
+short_url: lecture-10-introduction-to-learning-nearest-neighbors
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-10-introduction-to-learning-nearest-neighbors
+title: 'Lecture 10: Introduction to Learning, Nearest Neighbors'
 transcript: >-
   <p><span m='9670'>PROF.</span> </p><p><span m='9717'>PATRICK WINSTON: Well
   that's the Kodo Drummers.</span> </p><p><span m='12460'>They're a group of
@@ -853,62 +908,7 @@ transcript: >-
   correlation with cause.</span> </p><p><span m='2971930'>They see the
   correlation, but they don't understand the</span> <span m='2974040'>cause, so
   that's why they make a mistake.</span> </p><p></p>
-embedded_media:
-  - uid: 8aaffda82e9c2d72155a3f0f226bc185
-    parent_uid: 5ecfa634ca4a6d6a6acb0be675223f88
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 09mb78oiPkA
-  - uid: b43f7e42e989330cc11e6424cde393c9
-    parent_uid: 5ecfa634ca4a6d6a6acb0be675223f88
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-10-introduction-to/id765641080?i=194473719
-  - uid: 76d20a78d8be28170cfccc45946cd923
-    parent_uid: 5ecfa634ca4a6d6a6acb0be675223f88
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec10_300k.mp4'
-  - uid: 626a9a867ddcf87068ae8c3247eb07bb
-    parent_uid: 5ecfa634ca4a6d6a6acb0be675223f88
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/09mb78oiPkA/default.jpg'
-  - uid: ee5e710a866002ff66e3bfe98610abb7
-    parent_uid: 5ecfa634ca4a6d6a6acb0be675223f88
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 09mb78oiPkA
-  - uid: d541d586220082ff5ba56851e123c600
-    parent_uid: 5ecfa634ca4a6d6a6acb0be675223f88
-    id: 09mb78oiPkA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-10-introduction-to-learning-nearest-neighbors/09mb78oiPkA.srt
-  - uid: 2dc043b8db5e1b94973f099d9a1f1672
-    parent_uid: 5ecfa634ca4a6d6a6acb0be675223f88
-    id: 09mb78oiPkA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-10-introduction-to-learning-nearest-neighbors/09mb78oiPkA.pdf
-  - uid: 71abbf4928250eef79d258a67c7b5f60
-    parent_uid: 5ecfa634ca4a6d6a6acb0be675223f88
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 148bf2cbebf71e030cbefe8274767a30
-    parent_uid: 5ecfa634ca4a6d6a6acb0be675223f88
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 5ecfa634ca4a6d6a6acb0be675223f88
 type: courses
 layout: video
 ---

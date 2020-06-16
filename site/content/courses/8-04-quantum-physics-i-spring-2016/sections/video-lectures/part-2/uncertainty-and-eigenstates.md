@@ -1,13 +1,67 @@
 ---
-title: Uncertainty and eigenstates
-uid: b075223e65cb9b813274072eadccf20e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 1D4VPbhDy_A
+    parent_uid: b075223e65cb9b813274072eadccf20e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6b15c8a59153b94370d49f175c7998bc
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 1D4VPbhDy_A
+    parent_uid: b075223e65cb9b813274072eadccf20e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1bcd7caa74208faf9b181881093eba0b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: b075223e65cb9b813274072eadccf20e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 20ea585124a8da72d59dd84b117168bf
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec10_s1_300k.mp4'
+    parent_uid: b075223e65cb9b813274072eadccf20e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: cb48c894b322f6df55da1b8b5e4e6b36
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/1D4VPbhDy_A/default.jpg'
+    parent_uid: b075223e65cb9b813274072eadccf20e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 11c9fdf6ef141b191b152d62d712e6bd
+  - id: 1D4VPbhDy_A.srt
+    parent_uid: b075223e65cb9b813274072eadccf20e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/uncertainty-and-eigenstates/1D4VPbhDy_A.srt
+    title: 3play caption file
+    type: null
+    uid: 6a041a2c1b83a576659c7ffa0adcf7dc
+  - id: 1D4VPbhDy_A.pdf
+    parent_uid: b075223e65cb9b813274072eadccf20e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/uncertainty-and-eigenstates/1D4VPbhDy_A.pdf
+    title: 3play pdf file
+    type: null
+    uid: 615280f02ca30f454afd209c160cf55d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b075223e65cb9b813274072eadccf20e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2db92b5193dcb0512e202ac5bd642504
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b075223e65cb9b813274072eadccf20e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4a20245b366d60d682c5f6b7b6a97b89
+inline_embed_id: 6610187uncertaintyandeigenstates75234252
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: uncertainty-and-eigenstates
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/uncertainty-and-eigenstates
-short_url: uncertainty-and-eigenstates
-inline_embed_id: 6610187uncertaintyandeigenstates75234252
-about_this_resource_text: ''
-related_resources_text: ''
+title: Uncertainty and eigenstates
 transcript: >-
   <p><span m='470'>PROFESSOR:</span> <span m='705'>This</span> <span
   m='940'>definition</span> <span m='2350'>in</span> <span m='2820'>which</span>
@@ -627,61 +681,7 @@ transcript: >-
   m='950430'>precise</span> <span m='950700'>result</span> <span
   m='950910'>is</span> <span m='951160'>more</span> <span
   m='951480'>powerful.</span> </p>
-embedded_media:
-  - uid: 6b15c8a59153b94370d49f175c7998bc
-    parent_uid: b075223e65cb9b813274072eadccf20e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 1D4VPbhDy_A
-  - uid: 1bcd7caa74208faf9b181881093eba0b
-    parent_uid: b075223e65cb9b813274072eadccf20e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 1D4VPbhDy_A
-  - uid: 20ea585124a8da72d59dd84b117168bf
-    parent_uid: b075223e65cb9b813274072eadccf20e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: cb48c894b322f6df55da1b8b5e4e6b36
-    parent_uid: b075223e65cb9b813274072eadccf20e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec10_s1_300k.mp4'
-  - uid: 11c9fdf6ef141b191b152d62d712e6bd
-    parent_uid: b075223e65cb9b813274072eadccf20e
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/1D4VPbhDy_A/default.jpg'
-  - uid: 6a041a2c1b83a576659c7ffa0adcf7dc
-    parent_uid: b075223e65cb9b813274072eadccf20e
-    id: 1D4VPbhDy_A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/uncertainty-and-eigenstates/1D4VPbhDy_A.srt
-  - uid: 615280f02ca30f454afd209c160cf55d
-    parent_uid: b075223e65cb9b813274072eadccf20e
-    id: 1D4VPbhDy_A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/uncertainty-and-eigenstates/1D4VPbhDy_A.pdf
-  - uid: 2db92b5193dcb0512e202ac5bd642504
-    parent_uid: b075223e65cb9b813274072eadccf20e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4a20245b366d60d682c5f6b7b6a97b89
-    parent_uid: b075223e65cb9b813274072eadccf20e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b075223e65cb9b813274072eadccf20e
 type: courses
 layout: video
 ---

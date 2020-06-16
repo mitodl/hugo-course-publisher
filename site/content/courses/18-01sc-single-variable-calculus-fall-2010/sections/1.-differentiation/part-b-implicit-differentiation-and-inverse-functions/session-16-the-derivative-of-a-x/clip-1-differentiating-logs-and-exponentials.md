@@ -1,13 +1,67 @@
 ---
-title: 'Clip 1: Differentiating Logs and Exponentials'
-uid: cdd74169811a88c642c1b55fa4849a8b
+about_this_resource_text: "<p>&raquo;<a target=\"_blank\" href=\"./resolveuid/b24b2d455e45059be6ba7e2efb4d6529\"> Accompanying Notes (PDF)</a></p>\r\n<p class=\"scholar_medsm\">From Lecture 6 of <a href=\"http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/\"><em>18.01 Single Variable Calculus, Fall 2006</em></a></p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 9v25gg2qJYE
+    parent_uid: cdd74169811a88c642c1b55fa4849a8b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6cec5b149799027bb3136b483f654b36
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/9v25gg2qJYE/default.jpg'
+    parent_uid: cdd74169811a88c642c1b55fa4849a8b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8c796c2880a3de5ddecdbcb8a2ef287e
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec06_300k.mp4'
+    parent_uid: cdd74169811a88c642c1b55fa4849a8b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1a3d45b99502d4b56776e53459260547
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 9v25gg2qJYE
+    parent_uid: cdd74169811a88c642c1b55fa4849a8b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8b5e6eb212a7877b65391dc14457c44f
+  - id: 9v25gg2qJYE.srt
+    parent_uid: cdd74169811a88c642c1b55fa4849a8b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-16-the-derivative-of-a-x/clip-1-differentiating-logs-and-exponentials/9v25gg2qJYE.srt
+    title: 3play caption file
+    type: null
+    uid: c350059d6c267c959520d3c3a45fd467
+  - id: 9v25gg2qJYE.pdf
+    parent_uid: cdd74169811a88c642c1b55fa4849a8b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-16-the-derivative-of-a-x/clip-1-differentiating-logs-and-exponentials/9v25gg2qJYE.pdf
+    title: 3play pdf file
+    type: null
+    uid: b705fde005e6a97070408ac7e2bb650f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cdd74169811a88c642c1b55fa4849a8b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: fb79fd74330c7cfafb1553905f2cedc5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cdd74169811a88c642c1b55fa4849a8b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f9d197e3d74d122a466e9f6640d8a815
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: cdd74169811a88c642c1b55fa4849a8b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1d01308d3b0090d8d7be1231108561da
+inline_embed_id: '41805805clip1:differentiatinglogsandexponentials51288754'
 parent_uid: a08812a629e76732837d8a39d48fc8fa
+related_resources_text: ''
+short_url: clip-1-differentiating-logs-and-exponentials
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-16-the-derivative-of-a-x/clip-1-differentiating-logs-and-exponentials
-short_url: clip-1-differentiating-logs-and-exponentials
-inline_embed_id: '41805805clip1:differentiatinglogsandexponentials51288754'
-about_this_resource_text: "<p>&raquo;<a target=\"_blank\" href=\"./resolveuid/b24b2d455e45059be6ba7e2efb4d6529\"> Accompanying Notes (PDF)</a></p>\r\n<p class=\"scholar_medsm\">From Lecture 6 of <a href=\"http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/\"><em>18.01 Single Variable Calculus, Fall 2006</em></a></p>"
-related_resources_text: ''
+title: 'Clip 1: Differentiating Logs and Exponentials'
 transcript: >-
   <p><span m="40">The following</span> <span m="500">content</span> <span
   m="1120">is</span> <span m="1340">provided</span> <span m="1560">under
@@ -2519,61 +2573,7 @@ transcript: >-
   m="2873240">to</span> <span m="2873380">calculate.</span></p><p><span
   m="2874550">Okay,</span> <span m="2874880">see you</span> <span
   m="2875250">next</span> <span m="2875500">time.</span></p>
-embedded_media:
-  - uid: 6cec5b149799027bb3136b483f654b36
-    parent_uid: cdd74169811a88c642c1b55fa4849a8b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 9v25gg2qJYE
-  - uid: 8c796c2880a3de5ddecdbcb8a2ef287e
-    parent_uid: cdd74169811a88c642c1b55fa4849a8b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9v25gg2qJYE/default.jpg'
-  - uid: 1a3d45b99502d4b56776e53459260547
-    parent_uid: cdd74169811a88c642c1b55fa4849a8b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec06_300k.mp4'
-  - uid: 8b5e6eb212a7877b65391dc14457c44f
-    parent_uid: cdd74169811a88c642c1b55fa4849a8b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 9v25gg2qJYE
-  - uid: c350059d6c267c959520d3c3a45fd467
-    parent_uid: cdd74169811a88c642c1b55fa4849a8b
-    id: 9v25gg2qJYE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-16-the-derivative-of-a-x/clip-1-differentiating-logs-and-exponentials/9v25gg2qJYE.srt
-  - uid: b705fde005e6a97070408ac7e2bb650f
-    parent_uid: cdd74169811a88c642c1b55fa4849a8b
-    id: 9v25gg2qJYE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-16-the-derivative-of-a-x/clip-1-differentiating-logs-and-exponentials/9v25gg2qJYE.pdf
-  - uid: fb79fd74330c7cfafb1553905f2cedc5
-    parent_uid: cdd74169811a88c642c1b55fa4849a8b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f9d197e3d74d122a466e9f6640d8a815
-    parent_uid: cdd74169811a88c642c1b55fa4849a8b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1d01308d3b0090d8d7be1231108561da
-    parent_uid: cdd74169811a88c642c1b55fa4849a8b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: cdd74169811a88c642c1b55fa4849a8b
 type: courses
 layout: video
 ---

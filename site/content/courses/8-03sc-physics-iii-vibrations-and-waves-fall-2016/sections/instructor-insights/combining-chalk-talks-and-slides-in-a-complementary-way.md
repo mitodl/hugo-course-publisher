@@ -1,13 +1,62 @@
 ---
-title: Combining Chalk Talks and Slides in a Complementary Way
-uid: f75bef336d1026b8e6bdb5b3261128a5
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: gDzWxDqb8Xg
+    parent_uid: f75bef336d1026b8e6bdb5b3261128a5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9df132423e20b84a6ca32b2368b6d454
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/gDzWxDqb8Xg/default.jpg'
+    parent_uid: f75bef336d1026b8e6bdb5b3261128a5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f934f90dc613bdf17ce3c29d0fe754ce
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: gDzWxDqb8Xg
+    parent_uid: f75bef336d1026b8e6bdb5b3261128a5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3d795cb59910e8cde7c3b45bac8765d2
+  - id: gDzWxDqb8Xg.srt
+    parent_uid: f75bef336d1026b8e6bdb5b3261128a5
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/combining-chalk-talks-and-slides-in-a-complementary-way/gDzWxDqb8Xg.srt
+    title: 3play caption file
+    type: null
+    uid: d5431d5533e63f48303792a6a0cca275
+  - id: gDzWxDqb8Xg.pdf
+    parent_uid: f75bef336d1026b8e6bdb5b3261128a5
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/combining-chalk-talks-and-slides-in-a-complementary-way/gDzWxDqb8Xg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5f63b4360684ec051a577c0dfb09431e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f75bef336d1026b8e6bdb5b3261128a5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 01dc74e4372230d25d5d3fd0bc3eca29
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f75bef336d1026b8e6bdb5b3261128a5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 05aeed502286ab205d68e50abf60ce4b
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator07_Chalkboards_300k.mp4
+    parent_uid: f75bef336d1026b8e6bdb5b3261128a5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 39e4ef092cbece938f614d108aa03744
+inline_embed_id: 78529629combiningchalktalksandslidesinacomplementaryway73904819
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
+related_resources_text: ''
+short_url: combining-chalk-talks-and-slides-in-a-complementary-way
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/combining-chalk-talks-and-slides-in-a-complementary-way
-short_url: combining-chalk-talks-and-slides-in-a-complementary-way
-inline_embed_id: 78529629combiningchalktalksandslidesinacomplementaryway73904819
-about_this_resource_text: ''
-related_resources_text: ''
+title: Combining Chalk Talks and Slides in a Complementary Way
 transcript: >-
   <p><span m='6000'>YEN-JIE LEE:</span> <span m='6120'>I</span> <span
   m='6240'>think</span> <span m='6720'>chalkboard</span> <span
@@ -124,56 +173,7 @@ transcript: >-
   m='131430'>complementary</span> <span m='132270'>to</span> <span
   m='132480'>my</span> <span m='132660'>chalkboard</span> <span
   m='134700'>teaching</span> <span m='135180'>style.</span> </p>
-embedded_media:
-  - uid: 9df132423e20b84a6ca32b2368b6d454
-    parent_uid: f75bef336d1026b8e6bdb5b3261128a5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: gDzWxDqb8Xg
-  - uid: f934f90dc613bdf17ce3c29d0fe754ce
-    parent_uid: f75bef336d1026b8e6bdb5b3261128a5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/gDzWxDqb8Xg/default.jpg'
-  - uid: 3d795cb59910e8cde7c3b45bac8765d2
-    parent_uid: f75bef336d1026b8e6bdb5b3261128a5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: gDzWxDqb8Xg
-  - uid: d5431d5533e63f48303792a6a0cca275
-    parent_uid: f75bef336d1026b8e6bdb5b3261128a5
-    id: gDzWxDqb8Xg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/combining-chalk-talks-and-slides-in-a-complementary-way/gDzWxDqb8Xg.srt
-  - uid: 5f63b4360684ec051a577c0dfb09431e
-    parent_uid: f75bef336d1026b8e6bdb5b3261128a5
-    id: gDzWxDqb8Xg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/combining-chalk-talks-and-slides-in-a-complementary-way/gDzWxDqb8Xg.pdf
-  - uid: 01dc74e4372230d25d5d3fd0bc3eca29
-    parent_uid: f75bef336d1026b8e6bdb5b3261128a5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 05aeed502286ab205d68e50abf60ce4b
-    parent_uid: f75bef336d1026b8e6bdb5b3261128a5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 39e4ef092cbece938f614d108aa03744
-    parent_uid: f75bef336d1026b8e6bdb5b3261128a5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator07_Chalkboards_300k.mp4
+uid: f75bef336d1026b8e6bdb5b3261128a5
 type: courses
 layout: video
 ---

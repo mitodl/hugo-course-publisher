@@ -1,13 +1,68 @@
 ---
-title: 'Instructor Interview: Teaching as a Team'
-uid: b4aab433321e3c469c8e3cd78eb0c343
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: YzUx6j3Qv4I
+    parent_uid: b4aab433321e3c469c8e3cd78eb0c343
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8ad4c1681e163b40c127e4f5c0f60594
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/YzUx6j3Qv4I/default.jpg'
+    parent_uid: b4aab433321e3c469c8e3cd78eb0c343
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0636d1c4871906a1d9d55c157d0b4182
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: YzUx6j3Qv4I
+    parent_uid: b4aab433321e3c469c8e3cd78eb0c343
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8a1d42cc88f367f71509dd03a826d32c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: b4aab433321e3c469c8e3cd78eb0c343
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 329968905e83d207e16e03836fa35245
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_Teaching_as_a_Team_300k.mp4
+    parent_uid: b4aab433321e3c469c8e3cd78eb0c343
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3d1bedb1380a690d9db04853fc34a2ef
+  - id: YzUx6j3Qv4I.srt
+    parent_uid: b4aab433321e3c469c8e3cd78eb0c343
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-teaching-as-a-team/YzUx6j3Qv4I.srt
+    title: 3play caption file
+    type: null
+    uid: fb7f4d5f555573f10ca3d9bf8534c777
+  - id: YzUx6j3Qv4I.pdf
+    parent_uid: b4aab433321e3c469c8e3cd78eb0c343
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-teaching-as-a-team/YzUx6j3Qv4I.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6147a506c486def1fe5923c7b90e0991
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b4aab433321e3c469c8e3cd78eb0c343
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1804d88fdaf04741f12e060577921f73
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b4aab433321e3c469c8e3cd78eb0c343
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 89aebd15bbf183d0c86bfd0eb6d9ebb4
+inline_embed_id: '3036690instructorinterview:teachingasateam13338332'
 parent_uid: 526193cf30dacdf1c6734faab57d51d7
+related_resources_text: ''
+short_url: instructor-interview-teaching-as-a-team
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-teaching-as-a-team
-short_url: instructor-interview-teaching-as-a-team
-inline_embed_id: '3036690instructorinterview:teachingasateam13338332'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Instructor Interview: Teaching as a Team'
 transcript: >-
   <p><span m="5950">ELIZABETH CHOE: Pulling</span> <span
   m="6280">together</span> <span m="6550">this</span> <span
@@ -339,62 +394,7 @@ transcript: >-
   m="293130">relevant</span> <span m="293500">ones</span> <span
   m="294080">to</span> <span m="294310">match</span> <span m="294590">to</span>
   <span m="294700">the</span> <span m="294830">objectives.</span></p>
-embedded_media:
-  - uid: 8ad4c1681e163b40c127e4f5c0f60594
-    parent_uid: b4aab433321e3c469c8e3cd78eb0c343
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: YzUx6j3Qv4I
-  - uid: 0636d1c4871906a1d9d55c157d0b4182
-    parent_uid: b4aab433321e3c469c8e3cd78eb0c343
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/YzUx6j3Qv4I/default.jpg'
-  - uid: 8a1d42cc88f367f71509dd03a826d32c
-    parent_uid: b4aab433321e3c469c8e3cd78eb0c343
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: YzUx6j3Qv4I
-  - uid: 329968905e83d207e16e03836fa35245
-    parent_uid: b4aab433321e3c469c8e3cd78eb0c343
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 3d1bedb1380a690d9db04853fc34a2ef
-    parent_uid: b4aab433321e3c469c8e3cd78eb0c343
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_Teaching_as_a_Team_300k.mp4
-  - uid: fb7f4d5f555573f10ca3d9bf8534c777
-    parent_uid: b4aab433321e3c469c8e3cd78eb0c343
-    id: YzUx6j3Qv4I.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-teaching-as-a-team/YzUx6j3Qv4I.srt
-  - uid: 6147a506c486def1fe5923c7b90e0991
-    parent_uid: b4aab433321e3c469c8e3cd78eb0c343
-    id: YzUx6j3Qv4I.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-teaching-as-a-team/YzUx6j3Qv4I.pdf
-  - uid: 1804d88fdaf04741f12e060577921f73
-    parent_uid: b4aab433321e3c469c8e3cd78eb0c343
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 89aebd15bbf183d0c86bfd0eb6d9ebb4
-    parent_uid: b4aab433321e3c469c8e3cd78eb0c343
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b4aab433321e3c469c8e3cd78eb0c343
 type: courses
 layout: video
 ---

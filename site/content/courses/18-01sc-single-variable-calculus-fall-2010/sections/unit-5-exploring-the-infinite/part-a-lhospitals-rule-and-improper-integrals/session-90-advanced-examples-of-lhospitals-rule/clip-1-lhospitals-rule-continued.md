@@ -1,13 +1,67 @@
 ---
-title: 'Clip 1: L''Hospital''s Rule, Continued'
-uid: 3e20854ab8f99f529491d3fa5f48a351
+about_this_resource_text: "<p>&raquo; <a href=\"./resolveuid/80e1548d9a1a19c8fddafc6834462ac9\" target=\"_blank\" title=\"Open in a new window.\">Accompanying Notes (PDF)</a></p>\r\n<p class=\"scholar_medsm\">From Lecture 36 of <a href=\"http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/\"><em>18.01 Single Variable Calculus, Fall 2006</em></a></p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: KhwQKE_tld0
+    parent_uid: 3e20854ab8f99f529491d3fa5f48a351
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9e590c5976ab15572fae6d78f51ed515
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/KhwQKE_tld0/default.jpg'
+    parent_uid: 3e20854ab8f99f529491d3fa5f48a351
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6f7d2139e349e05e2c048aa4f791947f
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec36_300k.mp4'
+    parent_uid: 3e20854ab8f99f529491d3fa5f48a351
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 53d1e123d8633907be3578fcadfb1df0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: KhwQKE_tld0
+    parent_uid: 3e20854ab8f99f529491d3fa5f48a351
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 25b22481d187a4195ed7b2ecc8f42b5a
+  - id: KhwQKE_tld0.srt
+    parent_uid: 3e20854ab8f99f529491d3fa5f48a351
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule/clip-1-lhospitals-rule-continued/KhwQKE_tld0.srt
+    title: 3play caption file
+    type: null
+    uid: c72074c1aef75f81f695a0fb11d60781
+  - id: KhwQKE_tld0.pdf
+    parent_uid: 3e20854ab8f99f529491d3fa5f48a351
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule/clip-1-lhospitals-rule-continued/KhwQKE_tld0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 165ddce620f59975bdb02e62cee7f438
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3e20854ab8f99f529491d3fa5f48a351
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6020026a4a8110e88f98d1d9cfd5cc84
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3e20854ab8f99f529491d3fa5f48a351
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 733ed2e3839f24e8d1703fa0a5965ca6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 3e20854ab8f99f529491d3fa5f48a351
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0557bc5c5d5a9cfb9a76e27fb2630903
+inline_embed_id: '23230479clip1:l''hospital''srule,continued17308355'
 parent_uid: 6cc72b08f8717a2d7b737df7f698c876
+related_resources_text: ''
+short_url: clip-1-lhospitals-rule-continued
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule/clip-1-lhospitals-rule-continued
-short_url: clip-1-lhospitals-rule-continued
-inline_embed_id: '23230479clip1:l''hospital''srule,continued17308355'
-about_this_resource_text: "<p>&raquo; <a href=\"./resolveuid/80e1548d9a1a19c8fddafc6834462ac9\" target=\"_blank\" title=\"Open in a new window.\">Accompanying Notes (PDF)</a></p>\r\n<p class=\"scholar_medsm\">From Lecture 36 of <a href=\"http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/\"><em>18.01 Single Variable Calculus, Fall 2006</em></a></p>"
-related_resources_text: ''
+title: 'Clip 1: L''Hospital''s Rule, Continued'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='530'>content</span> <span m='1270'>is</span> <span m='1420'>provided</span>
@@ -2618,61 +2672,7 @@ transcript: >-
   m='2962100'>we'll</span> <span m='2962210'>do</span> <span
   m='2962320'>that</span> <span m='2962560'>next</span> <span
   m='2962860'>time.</span> </p>
-embedded_media:
-  - uid: 9e590c5976ab15572fae6d78f51ed515
-    parent_uid: 3e20854ab8f99f529491d3fa5f48a351
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: KhwQKE_tld0
-  - uid: 6f7d2139e349e05e2c048aa4f791947f
-    parent_uid: 3e20854ab8f99f529491d3fa5f48a351
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/KhwQKE_tld0/default.jpg'
-  - uid: 53d1e123d8633907be3578fcadfb1df0
-    parent_uid: 3e20854ab8f99f529491d3fa5f48a351
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec36_300k.mp4'
-  - uid: 25b22481d187a4195ed7b2ecc8f42b5a
-    parent_uid: 3e20854ab8f99f529491d3fa5f48a351
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: KhwQKE_tld0
-  - uid: c72074c1aef75f81f695a0fb11d60781
-    parent_uid: 3e20854ab8f99f529491d3fa5f48a351
-    id: KhwQKE_tld0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule/clip-1-lhospitals-rule-continued/KhwQKE_tld0.srt
-  - uid: 165ddce620f59975bdb02e62cee7f438
-    parent_uid: 3e20854ab8f99f529491d3fa5f48a351
-    id: KhwQKE_tld0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-90-advanced-examples-of-lhospitals-rule/clip-1-lhospitals-rule-continued/KhwQKE_tld0.pdf
-  - uid: 6020026a4a8110e88f98d1d9cfd5cc84
-    parent_uid: 3e20854ab8f99f529491d3fa5f48a351
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 733ed2e3839f24e8d1703fa0a5965ca6
-    parent_uid: 3e20854ab8f99f529491d3fa5f48a351
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0557bc5c5d5a9cfb9a76e27fb2630903
-    parent_uid: 3e20854ab8f99f529491d3fa5f48a351
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 3e20854ab8f99f529491d3fa5f48a351
 type: courses
 layout: video
 ---

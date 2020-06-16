@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 11: Competition II'
-uid: 03947463c7b1c8d8757e75cf0f77f1e4
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: zeU8i3pxX9g
+    parent_uid: 03947463c7b1c8d8757e75cf0f77f1e4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9e03c87298d425edde6d794cb955af31
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/zeU8i3pxX9g/default.jpg'
+    parent_uid: 03947463c7b1c8d8757e75cf0f77f1e4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8d1aaf0983093a9d97c505ca9f5ef26b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: zeU8i3pxX9g
+    parent_uid: 03947463c7b1c8d8757e75cf0f77f1e4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9d72aa267481efc2fdde328fef5d4e38
+  - id: zeU8i3pxX9g.srt
+    parent_uid: 03947463c7b1c8d8757e75cf0f77f1e4
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/competition-ii/lecture-11-competition-ii/zeU8i3pxX9g.srt
+    title: 3play caption file
+    type: null
+    uid: 0be1c068af4719c97171e7405c93528b
+  - id: zeU8i3pxX9g.pdf
+    parent_uid: 03947463c7b1c8d8757e75cf0f77f1e4
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/competition-ii/lecture-11-competition-ii/zeU8i3pxX9g.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8c2886351f898ffc179f4aee452fbce3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 03947463c7b1c8d8757e75cf0f77f1e4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 91ea323395b4321ab162c531993dfec5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 03947463c7b1c8d8757e75cf0f77f1e4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 144520381504a6dae948ddfe3fd4cddd
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-11-competition-ii/id496265654?i=109892688
+    parent_uid: 03947463c7b1c8d8757e75cf0f77f1e4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 399ea2a8d335e4ab7b64ffafc2cf9c80
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec11_300k.mp4'
+    parent_uid: 03947463c7b1c8d8757e75cf0f77f1e4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: edd3e8ee591f926db6fa336f9bad329f
+inline_embed_id: 30536202lecture11competitionii17709839
 parent_uid: 032b458b15b16f20745336ff876c9f66
+related_resources_text: ''
+short_url: lecture-11-competition-ii
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/competition-ii/lecture-11-competition-ii
-short_url: lecture-11-competition-ii
-inline_embed_id: 30536202lecture11competitionii17709839
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 11: Competition II'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -3543,62 +3598,7 @@ transcript: >-
   m='3004890'>profits</span> <span m='3005240'>or</span> <span
   m='3005320'>any</span> <span m='3005470'>of</span> <span
   m='3005640'>that.</span> </p>
-embedded_media:
-  - uid: 9e03c87298d425edde6d794cb955af31
-    parent_uid: 03947463c7b1c8d8757e75cf0f77f1e4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: zeU8i3pxX9g
-  - uid: 8d1aaf0983093a9d97c505ca9f5ef26b
-    parent_uid: 03947463c7b1c8d8757e75cf0f77f1e4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/zeU8i3pxX9g/default.jpg'
-  - uid: 9d72aa267481efc2fdde328fef5d4e38
-    parent_uid: 03947463c7b1c8d8757e75cf0f77f1e4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: zeU8i3pxX9g
-  - uid: 0be1c068af4719c97171e7405c93528b
-    parent_uid: 03947463c7b1c8d8757e75cf0f77f1e4
-    id: zeU8i3pxX9g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/competition-ii/lecture-11-competition-ii/zeU8i3pxX9g.srt
-  - uid: 8c2886351f898ffc179f4aee452fbce3
-    parent_uid: 03947463c7b1c8d8757e75cf0f77f1e4
-    id: zeU8i3pxX9g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/competition-ii/lecture-11-competition-ii/zeU8i3pxX9g.pdf
-  - uid: 91ea323395b4321ab162c531993dfec5
-    parent_uid: 03947463c7b1c8d8757e75cf0f77f1e4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 144520381504a6dae948ddfe3fd4cddd
-    parent_uid: 03947463c7b1c8d8757e75cf0f77f1e4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 399ea2a8d335e4ab7b64ffafc2cf9c80
-    parent_uid: 03947463c7b1c8d8757e75cf0f77f1e4
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-11-competition-ii/id496265654?i=109892688
-  - uid: edd3e8ee591f926db6fa336f9bad329f
-    parent_uid: 03947463c7b1c8d8757e75cf0f77f1e4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec11_300k.mp4'
+uid: 03947463c7b1c8d8757e75cf0f77f1e4
 type: courses
 layout: video
 ---

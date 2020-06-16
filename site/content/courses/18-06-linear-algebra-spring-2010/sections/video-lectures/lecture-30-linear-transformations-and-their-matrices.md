@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 30: Linear transformations and their matrices'
-uid: c024f510dfb0bd83ff16f804d5983c27
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-30-linear-transformations-and-their-matrices
-short_url: lecture-30-linear-transformations-and-their-matrices
-inline_embed_id: '90997373lecture30:lineartransformationsandtheirmatrices98658916'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L30.jpg
+    parent_uid: c024f510dfb0bd83ff16f804d5983c27
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-30-linear-transformations-and-their-matrices/18.06_L30.jpg
+    title: 18.06_L30.jpg
+    type: null
+    uid: 7f43e4585b1376a47691a56b45059c84
+  - id: Video-YouTube-Stream
+    media_location: Ts3o2I8_Mxc
+    parent_uid: c024f510dfb0bd83ff16f804d5983c27
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 31942eedb21e1ca9872db5ad07f79105
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Ts3o2I8_Mxc/default.jpg'
+    parent_uid: c024f510dfb0bd83ff16f804d5983c27
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f2775307d70f225ee2ba162a958d69ee
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: c024f510dfb0bd83ff16f804d5983c27
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e388a46a9f139d7316fce3e928152bf4
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/30.mp4'
+    parent_uid: c024f510dfb0bd83ff16f804d5983c27
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b9ff6df5ab86d947ff86cd1a58291949
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: c024f510dfb0bd83ff16f804d5983c27
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: cd7303895e3f652895300d835e7bf406
+  - id: Thumbnail-OCW-JPG
+    parent_uid: c024f510dfb0bd83ff16f804d5983c27
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 009a386eb0ba11bf5cd747e22bc4fae6
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Ts3o2I8_Mxc
+    parent_uid: c024f510dfb0bd83ff16f804d5983c27
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 95d5e3a5d1050be0223ce5081232df50
+  - id: Ts3o2I8_Mxc.srt
+    parent_uid: c024f510dfb0bd83ff16f804d5983c27
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-30-linear-transformations-and-their-matrices/Ts3o2I8_Mxc.srt
+    title: 3play caption file
+    type: null
+    uid: 10c6a6ed5c32c1257fb05ae88028e1c3
+  - id: Ts3o2I8_Mxc.pdf
+    parent_uid: c024f510dfb0bd83ff16f804d5983c27
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-30-linear-transformations-and-their-matrices/Ts3o2I8_Mxc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7ad2350defc787c1261729c57131ec6c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c024f510dfb0bd83ff16f804d5983c27
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 620f3f7088afe2de5417829a215b51ec
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c024f510dfb0bd83ff16f804d5983c27
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4b0009c10a96a5d3c6b46506e72426ef
+inline_embed_id: '90997373lecture30:lineartransformationsandtheirmatrices98658916'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-30-linear-transformations-and-their-matrices
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-30-linear-transformations-and-their-matrices
+title: 'Lecture 30: Linear transformations and their matrices'
 transcript: >-
   <p><span m="7170">OK,</span> <span m="7780">this</span> <span
   m="8210">is</span> <span m="8360">the</span> <span m="8520">lecture</span>
@@ -2621,79 +2693,7 @@ transcript: >-
   m="2955410">going.</span> <span m="2956260">OK,</span> <span
   m="2956440">see</span> <span m="2956940">you</span> <span
   m="2956960">on</span> <span m="2957120">Monday.</span></p>
-embedded_media:
-  - uid: 7f43e4585b1376a47691a56b45059c84
-    parent_uid: c024f510dfb0bd83ff16f804d5983c27
-    id: 18.06_L30.jpg
-    title: 18.06_L30.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-30-linear-transformations-and-their-matrices/18.06_L30.jpg
-  - uid: 31942eedb21e1ca9872db5ad07f79105
-    parent_uid: c024f510dfb0bd83ff16f804d5983c27
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Ts3o2I8_Mxc
-  - uid: f2775307d70f225ee2ba162a958d69ee
-    parent_uid: c024f510dfb0bd83ff16f804d5983c27
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Ts3o2I8_Mxc/default.jpg'
-  - uid: e388a46a9f139d7316fce3e928152bf4
-    parent_uid: c024f510dfb0bd83ff16f804d5983c27
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: b9ff6df5ab86d947ff86cd1a58291949
-    parent_uid: c024f510dfb0bd83ff16f804d5983c27
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/30.mp4'
-  - uid: cd7303895e3f652895300d835e7bf406
-    parent_uid: c024f510dfb0bd83ff16f804d5983c27
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 009a386eb0ba11bf5cd747e22bc4fae6
-    parent_uid: c024f510dfb0bd83ff16f804d5983c27
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 95d5e3a5d1050be0223ce5081232df50
-    parent_uid: c024f510dfb0bd83ff16f804d5983c27
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Ts3o2I8_Mxc
-  - uid: 10c6a6ed5c32c1257fb05ae88028e1c3
-    parent_uid: c024f510dfb0bd83ff16f804d5983c27
-    id: Ts3o2I8_Mxc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-30-linear-transformations-and-their-matrices/Ts3o2I8_Mxc.srt
-  - uid: 7ad2350defc787c1261729c57131ec6c
-    parent_uid: c024f510dfb0bd83ff16f804d5983c27
-    id: Ts3o2I8_Mxc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-30-linear-transformations-and-their-matrices/Ts3o2I8_Mxc.pdf
-  - uid: 620f3f7088afe2de5417829a215b51ec
-    parent_uid: c024f510dfb0bd83ff16f804d5983c27
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4b0009c10a96a5d3c6b46506e72426ef
-    parent_uid: c024f510dfb0bd83ff16f804d5983c27
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: c024f510dfb0bd83ff16f804d5983c27
 type: courses
 layout: video
 ---

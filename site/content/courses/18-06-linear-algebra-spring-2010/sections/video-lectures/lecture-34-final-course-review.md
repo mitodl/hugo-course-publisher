@@ -1,17 +1,89 @@
 ---
-title: 'Lecture 34: Final course review'
-uid: 22064b22590e8a1b4468e146c455f121
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-34-final-course-review
-short_url: lecture-34-final-course-review
-inline_embed_id: '68826990lecture34:finalcoursereview30300785'
 about_this_resource_text: "<div class=\"vidpad\">\r\n<p>These video lectures of Professor Gilbert Strang teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to the current  edition of the textbook. However, this book is still the best reference  for more information on the topics covered in each lecture.</p>\r\n<p><a href=\"http://www.amazon.com/exec/obidos/ASIN/0980232775/ref=nosim/mitopencourse-20\"><img alt=\"Buy at Amazon\" src=\"/images/a_logo_17.gif\" align=\"absmiddle\" border=\"0\" /></a> Strang, Gilbert. <em>Introduction to Linear Algebra</em>. 5th ed. <a href=\"http://www.wellesleycambridge.com/\">Wellesley-Cambridge Press</a>, 2016. ISBN: 9780980232776.</p>\r\n<p><strong>Instructor/speaker:</strong> Prof. Gilbert Strang</p>\r\n</div>"
+embedded_media:
+  - id: 18.06_L34.jpg
+    parent_uid: 22064b22590e8a1b4468e146c455f121
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-34-final-course-review/18.06_L34.jpg
+    title: 18.06_L34.jpg
+    type: null
+    uid: 6239d4cb446515e2d1fc9d1b676f8103
+  - id: Video-YouTube-Stream
+    media_location: RWvi4Vx4CDc
+    parent_uid: 22064b22590e8a1b4468e146c455f121
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9c102e7b5b7e8b7e9ce15ad7950899ec
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/RWvi4Vx4CDc/default.jpg'
+    parent_uid: 22064b22590e8a1b4468e146c455f121
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ab41fc5498123cfc5773bdd5252e6a17
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: 22064b22590e8a1b4468e146c455f121
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2f36650e06e480602db1ebe7fda59ff5
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/34.mp4'
+    parent_uid: 22064b22590e8a1b4468e146c455f121
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 40f62f3843f16d274115f62b001ff54d
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: 22064b22590e8a1b4468e146c455f121
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 473b00f9f4e592f4a6ef5c30850dd132
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 22064b22590e8a1b4468e146c455f121
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 2197aeaa36d24bc05651639667fe2b10
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: RWvi4Vx4CDc
+    parent_uid: 22064b22590e8a1b4468e146c455f121
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d36bb178f4cd5290e4bf28ab6e39b10c
+  - id: RWvi4Vx4CDc.srt
+    parent_uid: 22064b22590e8a1b4468e146c455f121
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-34-final-course-review/RWvi4Vx4CDc.srt
+    title: 3play caption file
+    type: null
+    uid: 4021da1ba0144936e87f8dc173d9e018
+  - id: RWvi4Vx4CDc.pdf
+    parent_uid: 22064b22590e8a1b4468e146c455f121
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-34-final-course-review/RWvi4Vx4CDc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 583f8dc980a005b1b4d4e5f134fe54c4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 22064b22590e8a1b4468e146c455f121
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 12754cd71c4c29363dbed43ca9e621cd
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 22064b22590e8a1b4468e146c455f121
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: df876e801b969cb942d30f6e0ca894f3
+inline_embed_id: '68826990lecture34:finalcoursereview30300785'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-34-final-course-review
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-34-final-course-review
+title: 'Lecture 34: Final course review'
 transcript: >-
   <p><span m="7840">OK.</span> <span m="8460">Good.</span> <span
   m="9050">The</span> <span m="9680">final</span> <span m="10460">class</span>
@@ -2255,79 +2327,7 @@ transcript: >-
   m="2590340">the</span> <span m="2590470">course.</span></p><p><span
   m="2591130">Thank</span> <span m="2591360">you.</span></p><p><span
   m="2591400">Thanks.</span></p>
-embedded_media:
-  - uid: 6239d4cb446515e2d1fc9d1b676f8103
-    parent_uid: 22064b22590e8a1b4468e146c455f121
-    id: 18.06_L34.jpg
-    title: 18.06_L34.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-34-final-course-review/18.06_L34.jpg
-  - uid: 9c102e7b5b7e8b7e9ce15ad7950899ec
-    parent_uid: 22064b22590e8a1b4468e146c455f121
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: RWvi4Vx4CDc
-  - uid: ab41fc5498123cfc5773bdd5252e6a17
-    parent_uid: 22064b22590e8a1b4468e146c455f121
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/RWvi4Vx4CDc/default.jpg'
-  - uid: 2f36650e06e480602db1ebe7fda59ff5
-    parent_uid: 22064b22590e8a1b4468e146c455f121
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 40f62f3843f16d274115f62b001ff54d
-    parent_uid: 22064b22590e8a1b4468e146c455f121
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/34.mp4'
-  - uid: 473b00f9f4e592f4a6ef5c30850dd132
-    parent_uid: 22064b22590e8a1b4468e146c455f121
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 2197aeaa36d24bc05651639667fe2b10
-    parent_uid: 22064b22590e8a1b4468e146c455f121
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: d36bb178f4cd5290e4bf28ab6e39b10c
-    parent_uid: 22064b22590e8a1b4468e146c455f121
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: RWvi4Vx4CDc
-  - uid: 4021da1ba0144936e87f8dc173d9e018
-    parent_uid: 22064b22590e8a1b4468e146c455f121
-    id: RWvi4Vx4CDc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-34-final-course-review/RWvi4Vx4CDc.srt
-  - uid: 583f8dc980a005b1b4d4e5f134fe54c4
-    parent_uid: 22064b22590e8a1b4468e146c455f121
-    id: RWvi4Vx4CDc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-34-final-course-review/RWvi4Vx4CDc.pdf
-  - uid: 12754cd71c4c29363dbed43ca9e621cd
-    parent_uid: 22064b22590e8a1b4468e146c455f121
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: df876e801b969cb942d30f6e0ca894f3
-    parent_uid: 22064b22590e8a1b4468e146c455f121
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 22064b22590e8a1b4468e146c455f121
 type: courses
 layout: video
 ---

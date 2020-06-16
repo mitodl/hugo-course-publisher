@@ -1,13 +1,69 @@
 ---
-title: An Overview of Key Ideas
-uid: 54bfd31bc38a47b1719e194c0caa7522
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: OZxzHcW663g
+    parent_uid: 54bfd31bc38a47b1719e194c0caa7522
+    title: Video-YouTube-Stream
+    type: Video
+    uid: dcacf3ba052473fffad6f8c1e591bc45
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/an-overview-of-key-ideas/id488155309?i=108813457
+    parent_uid: 54bfd31bc38a47b1719e194c0caa7522
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 130a58fdb7d34e359f3a5fb4e71f273e
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110711_M3_300k.mp4
+    parent_uid: 54bfd31bc38a47b1719e194c0caa7522
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f49ea2b9a30498de51a6312ba8f4e198
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: OZxzHcW663g
+    parent_uid: 54bfd31bc38a47b1719e194c0caa7522
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1f7a8cf0055c7aca5e11e1cf34fd6d38
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/OZxzHcW663g/default.jpg'
+    parent_uid: 54bfd31bc38a47b1719e194c0caa7522
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 17f4a269d2b526069fe0a1d0c77f3fc5
+  - id: OZxzHcW663g.srt
+    parent_uid: 54bfd31bc38a47b1719e194c0caa7522
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/an-overview-of-key-ideas/an-overview-of-key-ideas/OZxzHcW663g.srt
+    title: 3play caption file
+    type: null
+    uid: 17d3a7d57365a5fe457fc98b3e20af9e
+  - id: OZxzHcW663g.pdf
+    parent_uid: 54bfd31bc38a47b1719e194c0caa7522
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/an-overview-of-key-ideas/an-overview-of-key-ideas/OZxzHcW663g.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0013a5b9019fc1d7da3b303c4d395b83
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 54bfd31bc38a47b1719e194c0caa7522
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6c643b27326f3a86d46a8be20ee3e5e9
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 54bfd31bc38a47b1719e194c0caa7522
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ba6e232c16abe75f80ccb23e6f4fa48b
+inline_embed_id: 86172745anoverviewofkeyideas88065227
 parent_uid: ff755187ef4826e2abafb9c76026cfdb
+related_resources_text: ''
+short_url: an-overview-of-key-ideas
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/an-overview-of-key-ideas/an-overview-of-key-ideas
-short_url: an-overview-of-key-ideas
-inline_embed_id: 86172745anoverviewofkeyideas88065227
-about_this_resource_text: ''
-related_resources_text: ''
+title: An Overview of Key Ideas
 transcript: >-
   <p><span m='5200'>MARTINA BALAGOVIC: Welcome.</span> </p><p><span
   m='6300'>Today's</span> <span m='6760'>problem</span> <span
@@ -376,63 +432,7 @@ transcript: >-
   m='456870'>and</span> <span m='457460'>this</span> <span m='457620'>is</span>
   <span m='457740'>everything</span> <span m='458040'>that we</span> <span
   m='458340'>can say</span> <span m='458640'>about it.</span> </p>
-embedded_media:
-  - uid: dcacf3ba052473fffad6f8c1e591bc45
-    parent_uid: 54bfd31bc38a47b1719e194c0caa7522
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: OZxzHcW663g
-  - uid: 130a58fdb7d34e359f3a5fb4e71f273e
-    parent_uid: 54bfd31bc38a47b1719e194c0caa7522
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/an-overview-of-key-ideas/id488155309?i=108813457
-  - uid: f49ea2b9a30498de51a6312ba8f4e198
-    parent_uid: 54bfd31bc38a47b1719e194c0caa7522
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110711_M3_300k.mp4
-  - uid: 1f7a8cf0055c7aca5e11e1cf34fd6d38
-    parent_uid: 54bfd31bc38a47b1719e194c0caa7522
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: OZxzHcW663g
-  - uid: 17f4a269d2b526069fe0a1d0c77f3fc5
-    parent_uid: 54bfd31bc38a47b1719e194c0caa7522
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/OZxzHcW663g/default.jpg'
-  - uid: 17d3a7d57365a5fe457fc98b3e20af9e
-    parent_uid: 54bfd31bc38a47b1719e194c0caa7522
-    id: OZxzHcW663g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/an-overview-of-key-ideas/an-overview-of-key-ideas/OZxzHcW663g.srt
-  - uid: 0013a5b9019fc1d7da3b303c4d395b83
-    parent_uid: 54bfd31bc38a47b1719e194c0caa7522
-    id: OZxzHcW663g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/an-overview-of-key-ideas/an-overview-of-key-ideas/OZxzHcW663g.pdf
-  - uid: 6c643b27326f3a86d46a8be20ee3e5e9
-    parent_uid: 54bfd31bc38a47b1719e194c0caa7522
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ba6e232c16abe75f80ccb23e6f4fa48b
-    parent_uid: 54bfd31bc38a47b1719e194c0caa7522
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 54bfd31bc38a47b1719e194c0caa7522
 type: courses
 layout: video
 ---

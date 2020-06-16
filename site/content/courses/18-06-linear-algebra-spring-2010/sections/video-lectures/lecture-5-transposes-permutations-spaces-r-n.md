@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 5: Transposes, permutations, spaces R^n'
-uid: acdf48e0f7efb66b9eef7e5408c39569
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-5-transposes-permutations-spaces-r-n
-short_url: lecture-5-transposes-permutations-spaces-r-n
-inline_embed_id: '93755024lecture5:transposes,permutations,spacesr^n31642041'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang 
   teaching 18.06 were   recorded in Fall 1999 and do not correspond  precisely
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L05.jpg
+    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-5-transposes-permutations-spaces-r-n/18.06_L05.jpg
+    title: 18.06_L05.jpg
+    type: null
+    uid: 538e4610dcc90eade3c934cfb89f1926
+  - id: Video-YouTube-Stream
+    media_location: JibVXBElKL0
+    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e602adee560ee87e0ffe2be46074b521
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/JibVXBElKL0/default.jpg'
+    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1b305b118f49f4f861035fd8f5f59184
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d83e018da2d220f73b6292875063a0c7
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/05.mp4'
+    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f82575a24580cb008cccb95c3244b720
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: ddd53ae03e930068d551b0b242341f06
+  - id: Thumbnail-OCW-JPG
+    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 0d3524be38d4e82f4ab4652d7a2e082c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: JibVXBElKL0
+    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 166de91c7a23682bb5150482fce94c80
+  - id: JibVXBElKL0.srt
+    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-5-transposes-permutations-spaces-r-n/JibVXBElKL0.srt
+    title: 3play caption file
+    type: null
+    uid: d9a7ceb5afc30fbb3c94671450d27bed
+  - id: JibVXBElKL0.pdf
+    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-5-transposes-permutations-spaces-r-n/JibVXBElKL0.pdf
+    title: 3play pdf file
+    type: null
+    uid: c69adb4aa79fccdc5d4225163689471e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2ea3c59863b7b922e24411b13073351d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ba832020bdbc8f3af2cd8c7800c2b1a9
+inline_embed_id: '93755024lecture5:transposes,permutations,spacesr^n31642041'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-5-transposes-permutations-spaces-r-n
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-5-transposes-permutations-spaces-r-n
+title: 'Lecture 5: Transposes, permutations, spaces R^n'
 transcript: >-
   <p><span m="9860">Okay.</span> <span m="10620">This</span> <span
   m="11270">is</span> <span m="11810">lecture</span> <span m="12210">five</span>
@@ -2577,79 +2649,7 @@ transcript: >-
   m="2847990">are</span> <span m="2848030">others</span> <span
   m="2848330">to</span> <span m="2848470">come.</span></p><p><span
   m="2850230">Okay,</span> <span m="2850720">thanks.</span></p>
-embedded_media:
-  - uid: 538e4610dcc90eade3c934cfb89f1926
-    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
-    id: 18.06_L05.jpg
-    title: 18.06_L05.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-5-transposes-permutations-spaces-r-n/18.06_L05.jpg
-  - uid: e602adee560ee87e0ffe2be46074b521
-    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: JibVXBElKL0
-  - uid: 1b305b118f49f4f861035fd8f5f59184
-    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/JibVXBElKL0/default.jpg'
-  - uid: d83e018da2d220f73b6292875063a0c7
-    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: f82575a24580cb008cccb95c3244b720
-    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/05.mp4'
-  - uid: ddd53ae03e930068d551b0b242341f06
-    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 0d3524be38d4e82f4ab4652d7a2e082c
-    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 166de91c7a23682bb5150482fce94c80
-    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: JibVXBElKL0
-  - uid: d9a7ceb5afc30fbb3c94671450d27bed
-    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
-    id: JibVXBElKL0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-5-transposes-permutations-spaces-r-n/JibVXBElKL0.srt
-  - uid: c69adb4aa79fccdc5d4225163689471e
-    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
-    id: JibVXBElKL0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-5-transposes-permutations-spaces-r-n/JibVXBElKL0.pdf
-  - uid: 2ea3c59863b7b922e24411b13073351d
-    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ba832020bdbc8f3af2cd8c7800c2b1a9
-    parent_uid: acdf48e0f7efb66b9eef7e5408c39569
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: acdf48e0f7efb66b9eef7e5408c39569
 type: courses
 layout: video
 ---

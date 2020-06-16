@@ -1,13 +1,69 @@
 ---
-title: Computing the Four Fundamental Subspaces
-uid: d90b1bb2f3ac0e8c593b763afdcc14e2
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: D8u1LV9CnCk
+    parent_uid: d90b1bb2f3ac0e8c593b763afdcc14e2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 73d897165f60084bf8b5da5790ba47f1
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: D8u1LV9CnCk
+    parent_uid: d90b1bb2f3ac0e8c593b763afdcc14e2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 792c40768363f6142a5335397cc71383
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/computing-four-fundamental/id488155309?i=108454340
+    parent_uid: d90b1bb2f3ac0e8c593b763afdcc14e2
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 314c155467ccb2d9e05a2b11ce070904
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110526_B2_300k.mp4
+    parent_uid: d90b1bb2f3ac0e8c593b763afdcc14e2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d71a536cc284ad70c6cbb25211702d37
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/D8u1LV9CnCk/default.jpg'
+    parent_uid: d90b1bb2f3ac0e8c593b763afdcc14e2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 642b24b6e0af8e0a6ab94c32361a9b3f
+  - id: D8u1LV9CnCk.srt
+    parent_uid: d90b1bb2f3ac0e8c593b763afdcc14e2
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/computing-the-four-fundamental-subspaces/D8u1LV9CnCk.srt
+    title: 3play caption file
+    type: null
+    uid: 0cb1d48a4ffeda15c5c9ad1b94b4d45b
+  - id: D8u1LV9CnCk.pdf
+    parent_uid: d90b1bb2f3ac0e8c593b763afdcc14e2
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/computing-the-four-fundamental-subspaces/D8u1LV9CnCk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 69f8d92836fa1181356ea9d7f04fd816
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d90b1bb2f3ac0e8c593b763afdcc14e2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bad19249500ff11c0afc1005ec6a5dd8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d90b1bb2f3ac0e8c593b763afdcc14e2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6e281d47946d467d523869b044117221
+inline_embed_id: 94453986computingthefourfundamentalsubspaces20670520
 parent_uid: 0050fe07f47ab375ac0f3abe492f8ae1
+related_resources_text: ''
+short_url: computing-the-four-fundamental-subspaces
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/computing-the-four-fundamental-subspaces
-short_url: computing-the-four-fundamental-subspaces
-inline_embed_id: 94453986computingthefourfundamentalsubspaces20670520
-about_this_resource_text: ''
-related_resources_text: ''
+title: Computing the Four Fundamental Subspaces
 transcript: >-
   <p><span m='8466'>BEN HARRIS:</span> <span m='8970'>Hi,</span> <span
   m='9350'>and</span> <span m='9500'>welcome</span> <span m='9880'>back.</span>
@@ -501,63 +557,7 @@ transcript: >-
   m='640870'>I</span> <span m='640950'>hope</span> <span m='641200'>this</span>
   <span m='641380'>picture</span> <span m='641810'>is</span> <span
   m='642030'>helpful.</span> </p>
-embedded_media:
-  - uid: 73d897165f60084bf8b5da5790ba47f1
-    parent_uid: d90b1bb2f3ac0e8c593b763afdcc14e2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: D8u1LV9CnCk
-  - uid: 792c40768363f6142a5335397cc71383
-    parent_uid: d90b1bb2f3ac0e8c593b763afdcc14e2
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: D8u1LV9CnCk
-  - uid: 314c155467ccb2d9e05a2b11ce070904
-    parent_uid: d90b1bb2f3ac0e8c593b763afdcc14e2
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/computing-four-fundamental/id488155309?i=108454340
-  - uid: d71a536cc284ad70c6cbb25211702d37
-    parent_uid: d90b1bb2f3ac0e8c593b763afdcc14e2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110526_B2_300k.mp4
-  - uid: 642b24b6e0af8e0a6ab94c32361a9b3f
-    parent_uid: d90b1bb2f3ac0e8c593b763afdcc14e2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/D8u1LV9CnCk/default.jpg'
-  - uid: 0cb1d48a4ffeda15c5c9ad1b94b4d45b
-    parent_uid: d90b1bb2f3ac0e8c593b763afdcc14e2
-    id: D8u1LV9CnCk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/computing-the-four-fundamental-subspaces/D8u1LV9CnCk.srt
-  - uid: 69f8d92836fa1181356ea9d7f04fd816
-    parent_uid: d90b1bb2f3ac0e8c593b763afdcc14e2
-    id: D8u1LV9CnCk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/computing-the-four-fundamental-subspaces/D8u1LV9CnCk.pdf
-  - uid: bad19249500ff11c0afc1005ec6a5dd8
-    parent_uid: d90b1bb2f3ac0e8c593b763afdcc14e2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6e281d47946d467d523869b044117221
-    parent_uid: d90b1bb2f3ac0e8c593b763afdcc14e2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: d90b1bb2f3ac0e8c593b763afdcc14e2
 type: courses
 layout: video
 ---

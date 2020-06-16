@@ -1,11 +1,4 @@
 ---
-title: 'Final Project: Breaking Down Decomposition'
-uid: 7031f7beca8b2ffa1a47555bc3c4c018
-parent_uid: 65f298a79f2a0550e78ed9fc7ff17ff4
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/nathan-hernandezs-project/final-project-breaking-down-decomposition-1
-short_url: final-project-breaking-down-decomposition-1
-inline_embed_id: '69411187finalproject:breakingdowndecomposition57792217'
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,69 @@ about_this_resource_text: >-
   Commons BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: W1TMyIn2SIg
+    parent_uid: 7031f7beca8b2ffa1a47555bc3c4c018
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 881a10fe010c4d203c68b13c7c48dc53
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/W1TMyIn2SIg/default.jpg'
+    parent_uid: 7031f7beca8b2ffa1a47555bc3c4c018
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b5b6b48778575ba655b34da0dc9081bc
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: W1TMyIn2SIg
+    parent_uid: 7031f7beca8b2ffa1a47555bc3c4c018
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f6283c36c915fe1d1daddbfeb701d990
+  - id: W1TMyIn2SIg.srt
+    parent_uid: 7031f7beca8b2ffa1a47555bc3c4c018
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/nathan-hernandezs-project/final-project-breaking-down-decomposition-1/W1TMyIn2SIg.srt
+    title: 3play caption file
+    type: null
+    uid: 831c2f47ccce3de4c3c83e16e38879b8
+  - id: W1TMyIn2SIg.pdf
+    parent_uid: 7031f7beca8b2ffa1a47555bc3c4c018
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/nathan-hernandezs-project/final-project-breaking-down-decomposition-1/W1TMyIn2SIg.pdf
+    title: 3play pdf file
+    type: null
+    uid: ee0f0f840a4681ee5dc177aa5ce4c7b6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7031f7beca8b2ffa1a47555bc3c4c018
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b4726f7aaf234ba9a81e0ccf97b160a8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7031f7beca8b2ffa1a47555bc3c4c018
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8661ee2c02e30985c8240d5f9a1638f3
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 7031f7beca8b2ffa1a47555bc3c4c018
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 67ae393695de5aad06ae794430f8858f
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_NH_D13_Final_Project_360p.mp4
+    parent_uid: 7031f7beca8b2ffa1a47555bc3c4c018
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d1fe10f5781418fa87fae8391a4ac1fa
+inline_embed_id: '69411187finalproject:breakingdowndecomposition57792217'
+parent_uid: 65f298a79f2a0550e78ed9fc7ff17ff4
 related_resources_text: ''
+short_url: final-project-breaking-down-decomposition-1
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/nathan-hernandezs-project/final-project-breaking-down-decomposition-1
+title: 'Final Project: Breaking Down Decomposition'
 transcript: >-
   <p><span m="390">Why</span> <span m="610">does</span> <span
   m="655">your</span> <span m="700">fridge</span> <span m="1140">start</span>
@@ -221,62 +276,7 @@ transcript: >-
   m="140730">why</span> <span m="140850">we</span> <span m="140970">have</span>
   <span m="141160">all</span> <span m="141280">this.</span></p><p><span
   m="141580">[MUSIC PLAYING]</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: 881a10fe010c4d203c68b13c7c48dc53
-    parent_uid: 7031f7beca8b2ffa1a47555bc3c4c018
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: W1TMyIn2SIg
-  - uid: b5b6b48778575ba655b34da0dc9081bc
-    parent_uid: 7031f7beca8b2ffa1a47555bc3c4c018
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/W1TMyIn2SIg/default.jpg'
-  - uid: f6283c36c915fe1d1daddbfeb701d990
-    parent_uid: 7031f7beca8b2ffa1a47555bc3c4c018
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: W1TMyIn2SIg
-  - uid: 831c2f47ccce3de4c3c83e16e38879b8
-    parent_uid: 7031f7beca8b2ffa1a47555bc3c4c018
-    id: W1TMyIn2SIg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/nathan-hernandezs-project/final-project-breaking-down-decomposition-1/W1TMyIn2SIg.srt
-  - uid: ee0f0f840a4681ee5dc177aa5ce4c7b6
-    parent_uid: 7031f7beca8b2ffa1a47555bc3c4c018
-    id: W1TMyIn2SIg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/nathan-hernandezs-project/final-project-breaking-down-decomposition-1/W1TMyIn2SIg.pdf
-  - uid: b4726f7aaf234ba9a81e0ccf97b160a8
-    parent_uid: 7031f7beca8b2ffa1a47555bc3c4c018
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8661ee2c02e30985c8240d5f9a1638f3
-    parent_uid: 7031f7beca8b2ffa1a47555bc3c4c018
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 67ae393695de5aad06ae794430f8858f
-    parent_uid: 7031f7beca8b2ffa1a47555bc3c4c018
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: d1fe10f5781418fa87fae8391a4ac1fa
-    parent_uid: 7031f7beca8b2ffa1a47555bc3c4c018
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_NH_D13_Final_Project_360p.mp4
+uid: 7031f7beca8b2ffa1a47555bc3c4c018
 type: courses
 layout: video
 ---

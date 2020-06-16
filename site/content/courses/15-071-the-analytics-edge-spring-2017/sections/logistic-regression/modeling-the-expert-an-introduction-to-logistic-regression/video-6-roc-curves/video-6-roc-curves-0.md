@@ -1,13 +1,62 @@
 ---
-title: 'Video 6: ROC Curves'
-uid: 6b84313fbeb78cbe52d63413bfb5bb01
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: D8HcmzYnBv0
+    parent_uid: 6b84313fbeb78cbe52d63413bfb5bb01
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f1d23ae587ed5656ce91d7da129f8e26
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: D8HcmzYnBv0
+    parent_uid: 6b84313fbeb78cbe52d63413bfb5bb01
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 93bc36f86f6da8f9e5e94b2dc279d875
+  - id: D8HcmzYnBv0.srt
+    parent_uid: 6b84313fbeb78cbe52d63413bfb5bb01
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-6-roc-curves/video-6-roc-curves-0/D8HcmzYnBv0.srt
+    title: 3play caption file
+    type: null
+    uid: c78d3697b56f111dbdbfe9dc22162172
+  - id: D8HcmzYnBv0.pdf
+    parent_uid: 6b84313fbeb78cbe52d63413bfb5bb01
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-6-roc-curves/video-6-roc-curves-0/D8HcmzYnBv0.pdf
+    title: 3play pdf file
+    type: null
+    uid: b2058b265bd737e0422bc76844330904
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6b84313fbeb78cbe52d63413bfb5bb01
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d268afde553d993f5f68d2ba445be99d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6b84313fbeb78cbe52d63413bfb5bb01
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e2bb631f59c923c11f532faec368b384
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/D8HcmzYnBv0/default.jpg'
+    parent_uid: 6b84313fbeb78cbe52d63413bfb5bb01
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8032f395e9fc8c139f92b1f47c8d733d
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.2.10_300k.mp4
+    parent_uid: 6b84313fbeb78cbe52d63413bfb5bb01
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f6d9ef9b7eed35a0511198a15310bb5b
+inline_embed_id: 15263687video6roccurves58657797
 parent_uid: f62162651257bdbe48268a5e5b311096
+related_resources_text: ''
+short_url: video-6-roc-curves-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-6-roc-curves/video-6-roc-curves-0
-short_url: video-6-roc-curves-0
-inline_embed_id: 15263687video6roccurves58657797
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 6: ROC Curves'
 transcript: >-
   <p><span m='4500'>Picking</span> <span m='4930'>a</span> <span
   m='5360'>good</span> <span m='5790'>threshold</span> <span
@@ -471,56 +520,7 @@ transcript: >-
   m='475591'>the</span> <span m='476007'>strength</span> <span
   m='476422'>of</span> <span m='476838'>our</span> <span
   m='477254'>model.</span> </p>
-embedded_media:
-  - uid: f1d23ae587ed5656ce91d7da129f8e26
-    parent_uid: 6b84313fbeb78cbe52d63413bfb5bb01
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: D8HcmzYnBv0
-  - uid: 93bc36f86f6da8f9e5e94b2dc279d875
-    parent_uid: 6b84313fbeb78cbe52d63413bfb5bb01
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: D8HcmzYnBv0
-  - uid: c78d3697b56f111dbdbfe9dc22162172
-    parent_uid: 6b84313fbeb78cbe52d63413bfb5bb01
-    id: D8HcmzYnBv0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-6-roc-curves/video-6-roc-curves-0/D8HcmzYnBv0.srt
-  - uid: b2058b265bd737e0422bc76844330904
-    parent_uid: 6b84313fbeb78cbe52d63413bfb5bb01
-    id: D8HcmzYnBv0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-6-roc-curves/video-6-roc-curves-0/D8HcmzYnBv0.pdf
-  - uid: d268afde553d993f5f68d2ba445be99d
-    parent_uid: 6b84313fbeb78cbe52d63413bfb5bb01
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e2bb631f59c923c11f532faec368b384
-    parent_uid: 6b84313fbeb78cbe52d63413bfb5bb01
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8032f395e9fc8c139f92b1f47c8d733d
-    parent_uid: 6b84313fbeb78cbe52d63413bfb5bb01
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/D8HcmzYnBv0/default.jpg'
-  - uid: f6d9ef9b7eed35a0511198a15310bb5b
-    parent_uid: 6b84313fbeb78cbe52d63413bfb5bb01
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.2.10_300k.mp4
+uid: 6b84313fbeb78cbe52d63413bfb5bb01
 type: courses
 layout: video
 ---

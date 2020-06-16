@@ -1,13 +1,62 @@
 ---
-title: Behind-the-Scenes Demo Prep
-uid: adf99e0c8f1358e48104a75f070f5ad7
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: cektQp7QQhk
+    parent_uid: adf99e0c8f1358e48104a75f070f5ad7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ef6dd6031516dbfe23f170c88bd89894
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/cektQp7QQhk/default.jpg'
+    parent_uid: adf99e0c8f1358e48104a75f070f5ad7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d4114497c6f2e3239779b5a63bb75eed
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: cektQp7QQhk
+    parent_uid: adf99e0c8f1358e48104a75f070f5ad7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3f25b7fda217acf6a6d394bb6c068a37
+  - id: cektQp7QQhk.srt
+    parent_uid: adf99e0c8f1358e48104a75f070f5ad7
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/behind-the-scenes-demo-prep/cektQp7QQhk.srt
+    title: 3play caption file
+    type: null
+    uid: a38ef1f7ddaa48066a23dae9c7b32274
+  - id: cektQp7QQhk.pdf
+    parent_uid: adf99e0c8f1358e48104a75f070f5ad7
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/behind-the-scenes-demo-prep/cektQp7QQhk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 87b422df8893f948f00ba5572f149fe6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: adf99e0c8f1358e48104a75f070f5ad7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 23f24afc2331d4b9f0a53d1627baf37e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: adf99e0c8f1358e48104a75f070f5ad7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f6023d56b6a1619829e14aaa8b9e2545
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator05_Behind-the-Scenes_Demo_Prep_300k.mp4
+    parent_uid: adf99e0c8f1358e48104a75f070f5ad7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1ec12082fb33f2f8d5be39fa088c3549
+inline_embed_id: 12119959behindthescenesdemoprep74315502
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
+related_resources_text: ''
+short_url: behind-the-scenes-demo-prep
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/behind-the-scenes-demo-prep
-short_url: behind-the-scenes-demo-prep
-inline_embed_id: 12119959behindthescenesdemoprep74315502
-about_this_resource_text: ''
-related_resources_text: ''
+title: Behind-the-Scenes Demo Prep
 transcript: >-
   <p><span m='5190'>YEN-JIE LEE:</span> <span m='5245'>So</span> <span
   m='5390'>to</span> <span m='5540'>make</span> <span m='5990'>the</span> <span
@@ -128,56 +177,7 @@ transcript: >-
   m='128030'>using</span> <span m='128389'>program</span> <span
   m='129440'>during</span> <span m='129800'>my</span> <span
   m='129949'>lecture.</span> </p>
-embedded_media:
-  - uid: ef6dd6031516dbfe23f170c88bd89894
-    parent_uid: adf99e0c8f1358e48104a75f070f5ad7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: cektQp7QQhk
-  - uid: d4114497c6f2e3239779b5a63bb75eed
-    parent_uid: adf99e0c8f1358e48104a75f070f5ad7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/cektQp7QQhk/default.jpg'
-  - uid: 3f25b7fda217acf6a6d394bb6c068a37
-    parent_uid: adf99e0c8f1358e48104a75f070f5ad7
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: cektQp7QQhk
-  - uid: a38ef1f7ddaa48066a23dae9c7b32274
-    parent_uid: adf99e0c8f1358e48104a75f070f5ad7
-    id: cektQp7QQhk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/behind-the-scenes-demo-prep/cektQp7QQhk.srt
-  - uid: 87b422df8893f948f00ba5572f149fe6
-    parent_uid: adf99e0c8f1358e48104a75f070f5ad7
-    id: cektQp7QQhk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/behind-the-scenes-demo-prep/cektQp7QQhk.pdf
-  - uid: 23f24afc2331d4b9f0a53d1627baf37e
-    parent_uid: adf99e0c8f1358e48104a75f070f5ad7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f6023d56b6a1619829e14aaa8b9e2545
-    parent_uid: adf99e0c8f1358e48104a75f070f5ad7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1ec12082fb33f2f8d5be39fa088c3549
-    parent_uid: adf99e0c8f1358e48104a75f070f5ad7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator05_Behind-the-Scenes_Demo_Prep_300k.mp4
+uid: adf99e0c8f1358e48104a75f070f5ad7
 type: courses
 layout: video
 ---

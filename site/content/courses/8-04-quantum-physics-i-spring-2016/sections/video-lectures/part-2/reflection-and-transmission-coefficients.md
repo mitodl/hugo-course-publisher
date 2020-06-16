@@ -1,13 +1,67 @@
 ---
-title: Reflection and transmission coefficients
-uid: ea7ae8f72244421fe624959afe48b933
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: bX-k26w-tsU
+    parent_uid: ea7ae8f72244421fe624959afe48b933
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3d5587aa2d9ab1e5dd5d170a19c1da91
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/bX-k26w-tsU/default.jpg'
+    parent_uid: ea7ae8f72244421fe624959afe48b933
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0ffa2509d40a9579edd530644f6dfce0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: bX-k26w-tsU
+    parent_uid: ea7ae8f72244421fe624959afe48b933
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 188c4b6fbf67b40e3355c4339f236594
+  - id: bX-k26w-tsU.srt
+    parent_uid: ea7ae8f72244421fe624959afe48b933
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/reflection-and-transmission-coefficients/bX-k26w-tsU.srt
+    title: 3play caption file
+    type: null
+    uid: 3cbcd967928c1469d0b8081bb6ab31d9
+  - id: bX-k26w-tsU.pdf
+    parent_uid: ea7ae8f72244421fe624959afe48b933
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/reflection-and-transmission-coefficients/bX-k26w-tsU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9734de7595fbb45427406a3701e4abdd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ea7ae8f72244421fe624959afe48b933
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4c5a55159792138aff27a40b14288b00
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ea7ae8f72244421fe624959afe48b933
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ef83fc7bf02c78349963b2977cd21ada
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: ea7ae8f72244421fe624959afe48b933
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6a056ed079818d8deb4e0ec202b57a8a
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec16_s2_300k.mp4'
+    parent_uid: ea7ae8f72244421fe624959afe48b933
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d78aeb34ee2d45945604396aeb760365
+inline_embed_id: 80465819reflectionandtransmissioncoefficients80817789
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: reflection-and-transmission-coefficients
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/reflection-and-transmission-coefficients
-short_url: reflection-and-transmission-coefficients
-inline_embed_id: 80465819reflectionandtransmissioncoefficients80817789
-about_this_resource_text: ''
-related_resources_text: ''
+title: Reflection and transmission coefficients
 transcript: >-
   <p><span m='220'>PROFESSOR:</span> <span m='265'>We</span> <span
   m='310'>can</span> <span m='580'>write,</span> <span m='1270'>however,</span>
@@ -368,61 +422,7 @@ transcript: >-
   m='489770'>packet</span> <span m='490150'>that</span> <span
   m='490270'>you're</span> <span m='490480'>sending</span> <span
   m='490880'>in.</span> </p>
-embedded_media:
-  - uid: 3d5587aa2d9ab1e5dd5d170a19c1da91
-    parent_uid: ea7ae8f72244421fe624959afe48b933
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: bX-k26w-tsU
-  - uid: 0ffa2509d40a9579edd530644f6dfce0
-    parent_uid: ea7ae8f72244421fe624959afe48b933
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/bX-k26w-tsU/default.jpg'
-  - uid: 188c4b6fbf67b40e3355c4339f236594
-    parent_uid: ea7ae8f72244421fe624959afe48b933
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: bX-k26w-tsU
-  - uid: 3cbcd967928c1469d0b8081bb6ab31d9
-    parent_uid: ea7ae8f72244421fe624959afe48b933
-    id: bX-k26w-tsU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/reflection-and-transmission-coefficients/bX-k26w-tsU.srt
-  - uid: 9734de7595fbb45427406a3701e4abdd
-    parent_uid: ea7ae8f72244421fe624959afe48b933
-    id: bX-k26w-tsU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/reflection-and-transmission-coefficients/bX-k26w-tsU.pdf
-  - uid: 4c5a55159792138aff27a40b14288b00
-    parent_uid: ea7ae8f72244421fe624959afe48b933
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ef83fc7bf02c78349963b2977cd21ada
-    parent_uid: ea7ae8f72244421fe624959afe48b933
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6a056ed079818d8deb4e0ec202b57a8a
-    parent_uid: ea7ae8f72244421fe624959afe48b933
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: d78aeb34ee2d45945604396aeb760365
-    parent_uid: ea7ae8f72244421fe624959afe48b933
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec16_s2_300k.mp4'
+uid: ea7ae8f72244421fe624959afe48b933
 type: courses
 layout: video
 ---

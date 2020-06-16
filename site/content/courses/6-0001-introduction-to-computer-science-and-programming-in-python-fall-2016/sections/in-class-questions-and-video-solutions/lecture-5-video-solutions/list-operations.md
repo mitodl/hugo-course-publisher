@@ -1,16 +1,71 @@
 ---
-title: List Operations
-uid: ec9758c22da965c3657e4c75de77a9d6
-parent_uid: a57c778604ec07438250f01957eb34b1
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-5-video-solutions/list-operations
-short_url: list-operations
-inline_embed_id: 25437844listoperations60196519
 about_this_resource_text: >-
   <p><strong>Description:</strong> This in-class exercise demonstrates more
   simple list operations in Python, including indexing, extending, sorting, and
   deleting.</p> <p><strong>Instructor:</strong> Dr. Ana Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: SrkqbLOQcEo
+    parent_uid: ec9758c22da965c3657e4c75de77a9d6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 010ce9533878ed692f7455b546f5fb08
+  - id: SrkqbLOQcEo.srt
+    parent_uid: ec9758c22da965c3657e4c75de77a9d6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-5-video-solutions/list-operations/SrkqbLOQcEo.srt
+    title: 3play caption file
+    type: null
+    uid: a643c362e0d6f2c6292733b3933b6213
+  - id: SrkqbLOQcEo.pdf
+    parent_uid: ec9758c22da965c3657e4c75de77a9d6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-5-video-solutions/list-operations/SrkqbLOQcEo.pdf
+    title: 3play pdf file
+    type: null
+    uid: fa4700cda2b934b3f58b0cd212a97e7f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ec9758c22da965c3657e4c75de77a9d6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7ef741e08ab8156990fd1cccef563614
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ec9758c22da965c3657e4c75de77a9d6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e9e3aed81457fca8fe842248e5b29a25
+  - id: Video-YouTube-Stream
+    media_location: SrkqbLOQcEo
+    parent_uid: ec9758c22da965c3657e4c75de77a9d6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c7cafe96d82090c37ec10ee61c375b09
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/SrkqbLOQcEo/default.jpg'
+    parent_uid: ec9758c22da965c3657e4c75de77a9d6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bc658af18885f22435e2ed68cb39d396
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: ec9758c22da965c3657e4c75de77a9d6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 609d3fa6c5e2208d4457cf9a9928db45
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_05_exercise_03_300k.mp4
+    parent_uid: ec9758c22da965c3657e4c75de77a9d6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 208c5ce89e5368492d8470e383bcaf53
+inline_embed_id: 25437844listoperations60196519
+parent_uid: a57c778604ec07438250f01957eb34b1
 related_resources_text: ''
+short_url: list-operations
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-5-video-solutions/list-operations
+title: List Operations
 transcript: >-
   <p><span m='790'>The</span> <span m='850'>following</span> <span
   m='1300'>content</span> <span m='1870'>is</span> <span
@@ -168,62 +223,7 @@ transcript: >-
   m='183550'>exactly</span> <span m='183940'>is</span> <span
   m='184060'>going</span> <span m='184390'>on.</span> <span
   m='184960'>OK.</span> </p>
-embedded_media:
-  - uid: 010ce9533878ed692f7455b546f5fb08
-    parent_uid: ec9758c22da965c3657e4c75de77a9d6
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: SrkqbLOQcEo
-  - uid: a643c362e0d6f2c6292733b3933b6213
-    parent_uid: ec9758c22da965c3657e4c75de77a9d6
-    id: SrkqbLOQcEo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-5-video-solutions/list-operations/SrkqbLOQcEo.srt
-  - uid: fa4700cda2b934b3f58b0cd212a97e7f
-    parent_uid: ec9758c22da965c3657e4c75de77a9d6
-    id: SrkqbLOQcEo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-5-video-solutions/list-operations/SrkqbLOQcEo.pdf
-  - uid: 7ef741e08ab8156990fd1cccef563614
-    parent_uid: ec9758c22da965c3657e4c75de77a9d6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e9e3aed81457fca8fe842248e5b29a25
-    parent_uid: ec9758c22da965c3657e4c75de77a9d6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c7cafe96d82090c37ec10ee61c375b09
-    parent_uid: ec9758c22da965c3657e4c75de77a9d6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: SrkqbLOQcEo
-  - uid: bc658af18885f22435e2ed68cb39d396
-    parent_uid: ec9758c22da965c3657e4c75de77a9d6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/SrkqbLOQcEo/default.jpg'
-  - uid: 609d3fa6c5e2208d4457cf9a9928db45
-    parent_uid: ec9758c22da965c3657e4c75de77a9d6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: 208c5ce89e5368492d8470e383bcaf53
-    parent_uid: ec9758c22da965c3657e4c75de77a9d6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_05_exercise_03_300k.mp4
+uid: ec9758c22da965c3657e4c75de77a9d6
 type: courses
 layout: video
 ---

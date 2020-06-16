@@ -1,13 +1,68 @@
 ---
-title: 'Problem Solving: Determinants'
-uid: 89f95e0513ecf4045ca1cea284399448
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: B17h10EF59g
+    parent_uid: 89f95e0513ecf4045ca1cea284399448
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f42b6628b7e8a76e485812d5ee073c59
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: B17h10EF59g
+    parent_uid: 89f95e0513ecf4045ca1cea284399448
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 68baba8ec70bebfe37a288917c8f93a8
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/itunes-u/determinants/id488155309?i=108454354'
+    parent_uid: 89f95e0513ecf4045ca1cea284399448
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f164bd9cd321867a8d1bcae4871f9f08
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110526_L1_300k.mp4
+    parent_uid: 89f95e0513ecf4045ca1cea284399448
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b037c31c92bfb82c5bed0d80df47dbc1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/B17h10EF59g/default.jpg'
+    parent_uid: 89f95e0513ecf4045ca1cea284399448
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0bb00d789eaa8bc0427cde2b129734fe
+  - id: B17h10EF59g.srt
+    parent_uid: 89f95e0513ecf4045ca1cea284399448
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants/B17h10EF59g.srt
+    title: 3play caption file
+    type: null
+    uid: 1510aea8ba7e1bcd76016d2b6afa856b
+  - id: B17h10EF59g.pdf
+    parent_uid: 89f95e0513ecf4045ca1cea284399448
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants/B17h10EF59g.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1e0bdeba34df5f71c05546c4df30587e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 89f95e0513ecf4045ca1cea284399448
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3e0211d1731f927b82a7d36c4d84b86e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 89f95e0513ecf4045ca1cea284399448
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 771cf82ea6324262c18de9419400b10d
+inline_embed_id: 62039870problemsolvingdeterminants39312151
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: problem-solving-determinants
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants
-short_url: problem-solving-determinants
-inline_embed_id: 62039870problemsolvingdeterminants39312151
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Determinants'
 transcript: >-
   <p><span m='6310'>LINAN CHEN: Hi</span> <span m='6530'>everyone.</span> <span
   m='7350'>I'm</span> <span m='7590'>Linan.</span> <span m='8300'>Welcome</span>
@@ -665,62 +720,7 @@ transcript: >-
   m='764800'>looking</span> <span m='765100'>forward</span> <span
   m='765330'>to</span> <span m='765430'>see you</span> <span
   m='765730'>soon.</span> </p>
-embedded_media:
-  - uid: f42b6628b7e8a76e485812d5ee073c59
-    parent_uid: 89f95e0513ecf4045ca1cea284399448
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: B17h10EF59g
-  - uid: 68baba8ec70bebfe37a288917c8f93a8
-    parent_uid: 89f95e0513ecf4045ca1cea284399448
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: B17h10EF59g
-  - uid: f164bd9cd321867a8d1bcae4871f9f08
-    parent_uid: 89f95e0513ecf4045ca1cea284399448
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/itunes-u/determinants/id488155309?i=108454354'
-  - uid: b037c31c92bfb82c5bed0d80df47dbc1
-    parent_uid: 89f95e0513ecf4045ca1cea284399448
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110526_L1_300k.mp4
-  - uid: 0bb00d789eaa8bc0427cde2b129734fe
-    parent_uid: 89f95e0513ecf4045ca1cea284399448
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/B17h10EF59g/default.jpg'
-  - uid: 1510aea8ba7e1bcd76016d2b6afa856b
-    parent_uid: 89f95e0513ecf4045ca1cea284399448
-    id: B17h10EF59g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants/B17h10EF59g.srt
-  - uid: 1e0bdeba34df5f71c05546c4df30587e
-    parent_uid: 89f95e0513ecf4045ca1cea284399448
-    id: B17h10EF59g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants/B17h10EF59g.pdf
-  - uid: 3e0211d1731f927b82a7d36c4d84b86e
-    parent_uid: 89f95e0513ecf4045ca1cea284399448
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 771cf82ea6324262c18de9419400b10d
-    parent_uid: 89f95e0513ecf4045ca1cea284399448
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 89f95e0513ecf4045ca1cea284399448
 type: courses
 layout: video
 ---

@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 9: Periodic Table; Ionic and Covalent Bonds'
-uid: e6cda11578a3b7e07c665e5ae9bf2fa2
-parent_uid: 1defa0f1c01ba42e057e92fc7b1dec88
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-9/lecture-9-periodic-table-ionic-and-covalent-bonds
-short_url: lecture-9-periodic-table-ionic-and-covalent-bonds
-inline_embed_id: 33984533lecture9periodictableionicandcovalentbonds24423411
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: In this lecture, we complete the discussion of the
@@ -13,7 +6,68 @@ about_this_resource_text: >-
   between elements. Chemist Kateryna Kozyrytska tells us about why the concept
   of electronegativity is important in the design of antibiotics.</p>
   <p><strong>Instructor:</strong> Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: NIZFPnHtrBA
+    parent_uid: e6cda11578a3b7e07c665e5ae9bf2fa2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 59688a56d14d9a66b7c51a1eb57d9e3a
+  - id: NIZFPnHtrBA.srt
+    parent_uid: e6cda11578a3b7e07c665e5ae9bf2fa2
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-9/lecture-9-periodic-table-ionic-and-covalent-bonds/NIZFPnHtrBA.srt
+    title: 3play caption file
+    type: null
+    uid: 2ff7d39b49b3ec835dac1c3cef664a37
+  - id: NIZFPnHtrBA.pdf
+    parent_uid: e6cda11578a3b7e07c665e5ae9bf2fa2
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-9/lecture-9-periodic-table-ionic-and-covalent-bonds/NIZFPnHtrBA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 77a3883841137ca4f07a932ecbf4ec06
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e6cda11578a3b7e07c665e5ae9bf2fa2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 480e555f87b4dc78fa8e0bc1c9819edb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e6cda11578a3b7e07c665e5ae9bf2fa2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d5ad6bec0768cc119445002fd2be935d
+  - id: Video-YouTube-Stream
+    media_location: NIZFPnHtrBA
+    parent_uid: e6cda11578a3b7e07c665e5ae9bf2fa2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d86dfe3c2f2902c25b055c6002b617a6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/NIZFPnHtrBA/default.jpg'
+    parent_uid: e6cda11578a3b7e07c665e5ae9bf2fa2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 860ffbb38d36fcf791a300ab0cd949d0
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: e6cda11578a3b7e07c665e5ae9bf2fa2
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7ae8b580beb3b86a52c93d6fe8bfd4bb
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L09_300k.mp4'
+    parent_uid: e6cda11578a3b7e07c665e5ae9bf2fa2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 22830032b9cd3906213741e4e63de00f
+inline_embed_id: 33984533lecture9periodictableionicandcovalentbonds24423411
+parent_uid: 1defa0f1c01ba42e057e92fc7b1dec88
 related_resources_text: ''
+short_url: lecture-9-periodic-table-ionic-and-covalent-bonds
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-9/lecture-9-periodic-table-ionic-and-covalent-bonds
+title: 'Lecture 9: Periodic Table; Ionic and Covalent Bonds'
 transcript: >-
   <p><span m="30">The</span> <span m="130">following</span> <span
   m="600">content</span> <span m="1090">is</span> <span m="1210">provided</span>
@@ -3657,61 +3711,7 @@ transcript: >-
   m="3220060">should</span> <span m="3220210">be</span> <span
   m="3220290">taking</span> <span m="3220690">certain</span> <span
   m="3221050">vitamin</span> <span m="3221510">supplements.</span></p>
-embedded_media:
-  - uid: 59688a56d14d9a66b7c51a1eb57d9e3a
-    parent_uid: e6cda11578a3b7e07c665e5ae9bf2fa2
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: NIZFPnHtrBA
-  - uid: 2ff7d39b49b3ec835dac1c3cef664a37
-    parent_uid: e6cda11578a3b7e07c665e5ae9bf2fa2
-    id: NIZFPnHtrBA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-9/lecture-9-periodic-table-ionic-and-covalent-bonds/NIZFPnHtrBA.srt
-  - uid: 77a3883841137ca4f07a932ecbf4ec06
-    parent_uid: e6cda11578a3b7e07c665e5ae9bf2fa2
-    id: NIZFPnHtrBA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-9/lecture-9-periodic-table-ionic-and-covalent-bonds/NIZFPnHtrBA.pdf
-  - uid: 480e555f87b4dc78fa8e0bc1c9819edb
-    parent_uid: e6cda11578a3b7e07c665e5ae9bf2fa2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d5ad6bec0768cc119445002fd2be935d
-    parent_uid: e6cda11578a3b7e07c665e5ae9bf2fa2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d86dfe3c2f2902c25b055c6002b617a6
-    parent_uid: e6cda11578a3b7e07c665e5ae9bf2fa2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: NIZFPnHtrBA
-  - uid: 860ffbb38d36fcf791a300ab0cd949d0
-    parent_uid: e6cda11578a3b7e07c665e5ae9bf2fa2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/NIZFPnHtrBA/default.jpg'
-  - uid: 7ae8b580beb3b86a52c93d6fe8bfd4bb
-    parent_uid: e6cda11578a3b7e07c665e5ae9bf2fa2
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: 22830032b9cd3906213741e4e63de00f
-    parent_uid: e6cda11578a3b7e07c665e5ae9bf2fa2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L09_300k.mp4'
+uid: e6cda11578a3b7e07c665e5ae9bf2fa2
 type: courses
 layout: video
 ---

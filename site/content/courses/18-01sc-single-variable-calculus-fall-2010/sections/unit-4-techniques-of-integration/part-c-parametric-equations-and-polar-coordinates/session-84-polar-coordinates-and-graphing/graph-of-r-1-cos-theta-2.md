@@ -1,13 +1,68 @@
 ---
-title: Graph of r = 1 + cos (&theta;/2)
-uid: 6aa9e798b5fce91005764051cf752e3e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: E7oR_JBgUzA
+    parent_uid: 6aa9e798b5fce91005764051cf752e3e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 186bf8d2a9ab9edaf78930ccbeebef9e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/E7oR_JBgUzA/default.jpg'
+    parent_uid: 6aa9e798b5fce91005764051cf752e3e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4051c8388899a82c95b231b8ef3fefcd
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/graph-of-r-1-cos-theta-2/id414308064?i=90320234
+    parent_uid: 6aa9e798b5fce91005764051cf752e3e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8ae65325734e7185b8c147156da83ddb
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_62_300k.mp4'
+    parent_uid: 6aa9e798b5fce91005764051cf752e3e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8d72434f9e6b94f9b854bc450a5e8362
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: E7oR_JBgUzA
+    parent_uid: 6aa9e798b5fce91005764051cf752e3e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 589527383b2ae7cf0a5d73488861744c
+  - id: E7oR_JBgUzA.srt
+    parent_uid: 6aa9e798b5fce91005764051cf752e3e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/graph-of-r-1-cos-theta-2/E7oR_JBgUzA.srt
+    title: 3play caption file
+    type: null
+    uid: 0a5d65744f845af636f3bf22d47eb907
+  - id: E7oR_JBgUzA.pdf
+    parent_uid: 6aa9e798b5fce91005764051cf752e3e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/graph-of-r-1-cos-theta-2/E7oR_JBgUzA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 818f39d2b2f8a5c94aac9ee49282ba44
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6aa9e798b5fce91005764051cf752e3e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0ac14f07e971b9a9f6ade1ebbdb3ce78
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6aa9e798b5fce91005764051cf752e3e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2c454303eed2baad52c271a260f32833
+inline_embed_id: 94439264graphofr=1+cos(&theta;/2)79265600
 parent_uid: cfd25e33da1a2e54749f33591f59a4ba
+related_resources_text: ''
+short_url: graph-of-r-1-cos-theta-2
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/graph-of-r-1-cos-theta-2
-short_url: graph-of-r-1-cos-theta-2
-inline_embed_id: 94439264graphofr=1+cos(&theta;/2)79265600
-about_this_resource_text: ''
-related_resources_text: ''
+title: Graph of r = 1 + cos (&theta;/2)
 transcript: >-
   <p><span m='0'>CHRISTINE BREINER:</span> <span m='6810'>Welcome</span> <span
   m='7230'>back</span> <span m='7315'>to</span> <span
@@ -1503,62 +1558,7 @@ transcript: >-
   m='1177390'>is</span> <span m='1177560'>where</span> <span
   m='1177740'>I</span> <span m='1177870'>will</span> <span
   m='1178020'>stop.</span> </p>
-embedded_media:
-  - uid: 186bf8d2a9ab9edaf78930ccbeebef9e
-    parent_uid: 6aa9e798b5fce91005764051cf752e3e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: E7oR_JBgUzA
-  - uid: 4051c8388899a82c95b231b8ef3fefcd
-    parent_uid: 6aa9e798b5fce91005764051cf752e3e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/E7oR_JBgUzA/default.jpg'
-  - uid: 8ae65325734e7185b8c147156da83ddb
-    parent_uid: 6aa9e798b5fce91005764051cf752e3e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/graph-of-r-1-cos-theta-2/id414308064?i=90320234
-  - uid: 8d72434f9e6b94f9b854bc450a5e8362
-    parent_uid: 6aa9e798b5fce91005764051cf752e3e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_62_300k.mp4'
-  - uid: 589527383b2ae7cf0a5d73488861744c
-    parent_uid: 6aa9e798b5fce91005764051cf752e3e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: E7oR_JBgUzA
-  - uid: 0a5d65744f845af636f3bf22d47eb907
-    parent_uid: 6aa9e798b5fce91005764051cf752e3e
-    id: E7oR_JBgUzA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/graph-of-r-1-cos-theta-2/E7oR_JBgUzA.srt
-  - uid: 818f39d2b2f8a5c94aac9ee49282ba44
-    parent_uid: 6aa9e798b5fce91005764051cf752e3e
-    id: E7oR_JBgUzA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/graph-of-r-1-cos-theta-2/E7oR_JBgUzA.pdf
-  - uid: 0ac14f07e971b9a9f6ade1ebbdb3ce78
-    parent_uid: 6aa9e798b5fce91005764051cf752e3e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2c454303eed2baad52c271a260f32833
-    parent_uid: 6aa9e798b5fce91005764051cf752e3e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6aa9e798b5fce91005764051cf752e3e
 type: courses
 layout: video
 ---

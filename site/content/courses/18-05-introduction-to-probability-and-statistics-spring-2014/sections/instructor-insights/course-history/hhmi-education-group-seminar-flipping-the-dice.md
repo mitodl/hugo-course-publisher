@@ -1,13 +1,61 @@
 ---
-title: 'HHMI Education Group Seminar: Flipping the Dice'
-uid: 3befc92b56ffe742ed3b2371af3df269
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-MP4
+    media_location: 7KOwsepQcXI
+    parent_uid: 3befc92b56ffe742ed3b2371af3df269
+    title: Video-YouTube-MP4
+    type: Video
+    uid: 1122d85fadbadf2b3bafd7124d69b0ee
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.05S14/MIT18_05S14_hhmi_seminar_300k.mp4'
+    parent_uid: 3befc92b56ffe742ed3b2371af3df269
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2e703400859a1ad17a78bfb9c9fdee15
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/7KOwsepQcXI/default.jpg'
+    parent_uid: 3befc92b56ffe742ed3b2371af3df269
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ae82621333e9a4370f818a9436326668
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: 7KOwsepQcXI
+    parent_uid: 3befc92b56ffe742ed3b2371af3df269
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0abc07847254e9b4a4c905e1ccf21247
+  - id: 7KOwsepQcXI.srt
+    parent_uid: 3befc92b56ffe742ed3b2371af3df269
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/instructor-insights/course-history/hhmi-education-group-seminar-flipping-the-dice/7KOwsepQcXI.srt
+    title: 3play caption file
+    type: null
+    uid: 8e8334793092b79c27d08774c07d8926
+  - id: 7KOwsepQcXI.pdf
+    parent_uid: 3befc92b56ffe742ed3b2371af3df269
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/instructor-insights/course-history/hhmi-education-group-seminar-flipping-the-dice/7KOwsepQcXI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3fd2b40ef2397903ae62579f6b7590b8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3befc92b56ffe742ed3b2371af3df269
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f76d7f6b786e63a38ee3d3eb69e1fcfd
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3befc92b56ffe742ed3b2371af3df269
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0ee456d55fc0f129f2b9c564fa4e28d2
+inline_embed_id: '2311755hhmieducationgroupseminar:flippingthedice99001180'
 parent_uid: 2d69a0de0f5808a23880f4a28f594d72
+related_resources_text: ''
+short_url: hhmi-education-group-seminar-flipping-the-dice
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/instructor-insights/course-history/hhmi-education-group-seminar-flipping-the-dice
-short_url: hhmi-education-group-seminar-flipping-the-dice
-inline_embed_id: '2311755hhmieducationgroupseminar:flippingthedice99001180'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'HHMI Education Group Seminar: Flipping the Dice'
 transcript: >-
   <p><span m='40'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1230'>is</span> <span m='1340'>provided</span>
@@ -4472,55 +4520,7 @@ transcript: >-
   m='3173940'>it</span> <span m='3174100'>and just</span> <span
   m='3174530'>thank</span> <span m='3174740'>you</span> <span
   m='3174820'>so</span> <span m='3175020'>much.</span> </p>
-embedded_media:
-  - uid: 1122d85fadbadf2b3bafd7124d69b0ee
-    parent_uid: 3befc92b56ffe742ed3b2371af3df269
-    id: Video-YouTube-MP4
-    title: Video-YouTube-MP4
-    type: Video
-    media_location: 7KOwsepQcXI
-  - uid: 2e703400859a1ad17a78bfb9c9fdee15
-    parent_uid: 3befc92b56ffe742ed3b2371af3df269
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.05S14/MIT18_05S14_hhmi_seminar_300k.mp4'
-  - uid: ae82621333e9a4370f818a9436326668
-    parent_uid: 3befc92b56ffe742ed3b2371af3df269
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/7KOwsepQcXI/default.jpg'
-  - uid: 0abc07847254e9b4a4c905e1ccf21247
-    parent_uid: 3befc92b56ffe742ed3b2371af3df269
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 7KOwsepQcXI
-  - uid: 8e8334793092b79c27d08774c07d8926
-    parent_uid: 3befc92b56ffe742ed3b2371af3df269
-    id: 7KOwsepQcXI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/instructor-insights/course-history/hhmi-education-group-seminar-flipping-the-dice/7KOwsepQcXI.srt
-  - uid: 3fd2b40ef2397903ae62579f6b7590b8
-    parent_uid: 3befc92b56ffe742ed3b2371af3df269
-    id: 7KOwsepQcXI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/instructor-insights/course-history/hhmi-education-group-seminar-flipping-the-dice/7KOwsepQcXI.pdf
-  - uid: f76d7f6b786e63a38ee3d3eb69e1fcfd
-    parent_uid: 3befc92b56ffe742ed3b2371af3df269
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0ee456d55fc0f129f2b9c564fa4e28d2
-    parent_uid: 3befc92b56ffe742ed3b2371af3df269
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 3befc92b56ffe742ed3b2371af3df269
 type: courses
 layout: video
 ---

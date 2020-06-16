@@ -1,13 +1,62 @@
 ---
-title: Concert of Beethoven Sonatas
-uid: aaed1b7649f686885777c367bd242829
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 97Hk_vH2qw0
+    parent_uid: aaed1b7649f686885777c367bd242829
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 941b9e55a4001b3f0515ddec567acdc6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/97Hk_vH2qw0/default.jpg'
+    parent_uid: aaed1b7649f686885777c367bd242829
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 43f8a112b562f66b13654557c12cb35c
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT21M.250S14/MIT21M_250S14_concert_final_300k.mp4
+    parent_uid: aaed1b7649f686885777c367bd242829
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 22840ebb394fc6152c0ee32aaeaabfa2
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 97Hk_vH2qw0
+    parent_uid: aaed1b7649f686885777c367bd242829
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 77bb4d877f6465a3add7cf470e34f7fc
+  - id: 97Hk_vH2qw0.srt
+    parent_uid: aaed1b7649f686885777c367bd242829
+    technical_location: >-
+      https://ocw.mit.edu/courses/music-and-theater-arts/21m-250-beethoven-to-mahler-spring-2014/beethoven-concert/concert-of-beethoven-sonatas/97Hk_vH2qw0.srt
+    title: 3play caption file
+    type: null
+    uid: d0401f03a1a45f856ef15ba4ccedb1af
+  - id: 97Hk_vH2qw0.pdf
+    parent_uid: aaed1b7649f686885777c367bd242829
+    technical_location: >-
+      https://ocw.mit.edu/courses/music-and-theater-arts/21m-250-beethoven-to-mahler-spring-2014/beethoven-concert/concert-of-beethoven-sonatas/97Hk_vH2qw0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1695053afef16cb683443b6cf1731a1a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: aaed1b7649f686885777c367bd242829
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cf9889da3eac3173fa662934a943353b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: aaed1b7649f686885777c367bd242829
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4735b38de636b0d12ecf7d3448af8eaf
+inline_embed_id: 67124194concertofbeethovensonatas57637262
 parent_uid: df6177af1eaeee1dce1d4c398d186695
+related_resources_text: ''
+short_url: concert-of-beethoven-sonatas
 technical_location: >-
   https://ocw.mit.edu/courses/music-and-theater-arts/21m-250-beethoven-to-mahler-spring-2014/beethoven-concert/concert-of-beethoven-sonatas
-short_url: concert-of-beethoven-sonatas
-inline_embed_id: 67124194concertofbeethovensonatas57637262
-about_this_resource_text: ''
-related_resources_text: ''
+title: Concert of Beethoven Sonatas
 transcript: >-
   <p><span m='5290'>TERESA NEFF: May</span> <span m='5490'>I</span> <span
   m='5570'>introduce</span> <span m='6320'>Susanna</span> <span
@@ -2139,56 +2188,7 @@ transcript: >-
   m='5051640'>to</span> <span m='5051690'>check</span> <span
   m='5051740'>out</span> <span m='5051790'>the</span> <span
   m='5051840'>piano.</span> </p>
-embedded_media:
-  - uid: 941b9e55a4001b3f0515ddec567acdc6
-    parent_uid: aaed1b7649f686885777c367bd242829
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 97Hk_vH2qw0
-  - uid: 43f8a112b562f66b13654557c12cb35c
-    parent_uid: aaed1b7649f686885777c367bd242829
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/97Hk_vH2qw0/default.jpg'
-  - uid: 22840ebb394fc6152c0ee32aaeaabfa2
-    parent_uid: aaed1b7649f686885777c367bd242829
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT21M.250S14/MIT21M_250S14_concert_final_300k.mp4
-  - uid: 77bb4d877f6465a3add7cf470e34f7fc
-    parent_uid: aaed1b7649f686885777c367bd242829
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 97Hk_vH2qw0
-  - uid: d0401f03a1a45f856ef15ba4ccedb1af
-    parent_uid: aaed1b7649f686885777c367bd242829
-    id: 97Hk_vH2qw0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/music-and-theater-arts/21m-250-beethoven-to-mahler-spring-2014/beethoven-concert/concert-of-beethoven-sonatas/97Hk_vH2qw0.srt
-  - uid: 1695053afef16cb683443b6cf1731a1a
-    parent_uid: aaed1b7649f686885777c367bd242829
-    id: 97Hk_vH2qw0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/music-and-theater-arts/21m-250-beethoven-to-mahler-spring-2014/beethoven-concert/concert-of-beethoven-sonatas/97Hk_vH2qw0.pdf
-  - uid: cf9889da3eac3173fa662934a943353b
-    parent_uid: aaed1b7649f686885777c367bd242829
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4735b38de636b0d12ecf7d3448af8eaf
-    parent_uid: aaed1b7649f686885777c367bd242829
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: aaed1b7649f686885777c367bd242829
 type: courses
 layout: video
 ---

@@ -1,13 +1,69 @@
 ---
-title: Inverse Matrices
-uid: 0118e59bf988ae9168d0d50bbdfc9ff3
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: zWxhmBCdvFs
+    parent_uid: 0118e59bf988ae9168d0d50bbdfc9ff3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ebe4396b82562f19c10b5be2854e66ec
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: zWxhmBCdvFs
+    parent_uid: 0118e59bf988ae9168d0d50bbdfc9ff3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 605ced640b3f495e2d622997d4ba674b
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/inverse-matrices/id488155309?i=108454345
+    parent_uid: 0118e59bf988ae9168d0d50bbdfc9ff3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 80fcd67c3334f05d9021f9d206405abe
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110526_A1_300k.mp4
+    parent_uid: 0118e59bf988ae9168d0d50bbdfc9ff3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 032efcc20c41050fa21a8eeaaa30db9b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/zWxhmBCdvFs/default.jpg'
+    parent_uid: 0118e59bf988ae9168d0d50bbdfc9ff3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 65ab9da8d04d1a82b30e13e78f3980d1
+  - id: zWxhmBCdvFs.srt
+    parent_uid: 0118e59bf988ae9168d0d50bbdfc9ff3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/inverse-matrices/zWxhmBCdvFs.srt
+    title: 3play caption file
+    type: null
+    uid: 3fe97abaa6c0941bde4a213f7b85dcf3
+  - id: zWxhmBCdvFs.pdf
+    parent_uid: 0118e59bf988ae9168d0d50bbdfc9ff3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/inverse-matrices/zWxhmBCdvFs.pdf
+    title: 3play pdf file
+    type: null
+    uid: e4c83d4ecccf6b842cd326d377fafb10
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0118e59bf988ae9168d0d50bbdfc9ff3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f9eddfb330c0505f61ac72dcdeabac04
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0118e59bf988ae9168d0d50bbdfc9ff3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5f8fd28c6cf8a719fe471dcd49e3251c
+inline_embed_id: 44478485inversematrices22120372
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: inverse-matrices
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/inverse-matrices
-short_url: inverse-matrices
-inline_embed_id: 44478485inversematrices22120372
-about_this_resource_text: ''
-related_resources_text: ''
+title: Inverse Matrices
 transcript: >-
   <p><span m='6040'>PROFESSOR: Hi</span> <span m='6200'>there.</span> <span
   m='6610'>My</span> <span m='6690'>name is</span> <span m='6970'>Ana.</span>
@@ -448,63 +504,7 @@ transcript: >-
   m='501840'>today.</span> <span m='502370'>See</span> <span
   m='502520'>you</span> <span m='502560'>next</span> <span
   m='502810'>time.</span> </p>
-embedded_media:
-  - uid: ebe4396b82562f19c10b5be2854e66ec
-    parent_uid: 0118e59bf988ae9168d0d50bbdfc9ff3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: zWxhmBCdvFs
-  - uid: 605ced640b3f495e2d622997d4ba674b
-    parent_uid: 0118e59bf988ae9168d0d50bbdfc9ff3
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: zWxhmBCdvFs
-  - uid: 80fcd67c3334f05d9021f9d206405abe
-    parent_uid: 0118e59bf988ae9168d0d50bbdfc9ff3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/inverse-matrices/id488155309?i=108454345
-  - uid: 032efcc20c41050fa21a8eeaaa30db9b
-    parent_uid: 0118e59bf988ae9168d0d50bbdfc9ff3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110526_A1_300k.mp4
-  - uid: 65ab9da8d04d1a82b30e13e78f3980d1
-    parent_uid: 0118e59bf988ae9168d0d50bbdfc9ff3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/zWxhmBCdvFs/default.jpg'
-  - uid: 3fe97abaa6c0941bde4a213f7b85dcf3
-    parent_uid: 0118e59bf988ae9168d0d50bbdfc9ff3
-    id: zWxhmBCdvFs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/inverse-matrices/zWxhmBCdvFs.srt
-  - uid: e4c83d4ecccf6b842cd326d377fafb10
-    parent_uid: 0118e59bf988ae9168d0d50bbdfc9ff3
-    id: zWxhmBCdvFs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/inverse-matrices/zWxhmBCdvFs.pdf
-  - uid: f9eddfb330c0505f61ac72dcdeabac04
-    parent_uid: 0118e59bf988ae9168d0d50bbdfc9ff3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5f8fd28c6cf8a719fe471dcd49e3251c
-    parent_uid: 0118e59bf988ae9168d0d50bbdfc9ff3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 0118e59bf988ae9168d0d50bbdfc9ff3
 type: courses
 layout: video
 ---

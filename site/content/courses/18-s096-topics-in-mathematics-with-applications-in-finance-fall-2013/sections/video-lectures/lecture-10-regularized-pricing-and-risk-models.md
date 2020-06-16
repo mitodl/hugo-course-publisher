@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 10: Regularized Pricing and Risk Models'
-uid: 79e71cc1f7a5385f180bdae971024f9d
-parent_uid: d23a85587c0c7524ea054e655c999532
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-10-regularized-pricing-and-risk-models
-short_url: lecture-10-regularized-pricing-and-risk-models
-inline_embed_id: '24975603lecture10:regularizedpricingandriskmodels42171187'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This is a guest lecture on regularized
   pricing and risk models, featuring explanations of bonds, swaps, and yield
   curve models.</p> <p><strong>Instructor:</strong> Ivan Masyukov</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: aga-Tak3c3M
+    parent_uid: 79e71cc1f7a5385f180bdae971024f9d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 370d0a278e2faedc43886c3f4680b055
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/aga-Tak3c3M/default.jpg'
+    parent_uid: 79e71cc1f7a5385f180bdae971024f9d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ff93f2d5afd08d7827245bb83460f91b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: 79e71cc1f7a5385f180bdae971024f9d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2e7bd93e9c962f1f32f7d7b012449e37
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec10_300k.mp4'
+    parent_uid: 79e71cc1f7a5385f180bdae971024f9d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 273db44f88765178131be8231de42c40
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: aga-Tak3c3M
+    parent_uid: 79e71cc1f7a5385f180bdae971024f9d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f33e9774ab5410f2a23429cd8a2a399b
+  - id: aga-Tak3c3M.srt
+    parent_uid: 79e71cc1f7a5385f180bdae971024f9d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-10-regularized-pricing-and-risk-models/aga-Tak3c3M.srt
+    title: 3play caption file
+    type: null
+    uid: 89e94b6577596ebe418b6e48a74913a2
+  - id: aga-Tak3c3M.pdf
+    parent_uid: 79e71cc1f7a5385f180bdae971024f9d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-10-regularized-pricing-and-risk-models/aga-Tak3c3M.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2f02529f65ad96016709e85c00d4c08b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 79e71cc1f7a5385f180bdae971024f9d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e48c53f881183e58c7f584f7e2928704
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 79e71cc1f7a5385f180bdae971024f9d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9ff939dccb4181cd7fe73b9ad503bf24
+inline_embed_id: '24975603lecture10:regularizedpricingandriskmodels42171187'
+parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
+short_url: lecture-10-regularized-pricing-and-risk-models
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-10-regularized-pricing-and-risk-models
+title: 'Lecture 10: Regularized Pricing and Risk Models'
 transcript: >-
   <p><span m='70'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -4762,61 +4816,7 @@ transcript: >-
   m='5376170'>things.</span> </p><p><span m='5379914'>PROFESSOR: Thanks
   again.</span> </p><p><span m='5380850'>IVAN MASYUKOV: Thank</span> <span
   m='5381060'>you.</span> </p><p></p>
-embedded_media:
-  - uid: 370d0a278e2faedc43886c3f4680b055
-    parent_uid: 79e71cc1f7a5385f180bdae971024f9d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: aga-Tak3c3M
-  - uid: ff93f2d5afd08d7827245bb83460f91b
-    parent_uid: 79e71cc1f7a5385f180bdae971024f9d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/aga-Tak3c3M/default.jpg'
-  - uid: 2e7bd93e9c962f1f32f7d7b012449e37
-    parent_uid: 79e71cc1f7a5385f180bdae971024f9d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: 273db44f88765178131be8231de42c40
-    parent_uid: 79e71cc1f7a5385f180bdae971024f9d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec10_300k.mp4'
-  - uid: f33e9774ab5410f2a23429cd8a2a399b
-    parent_uid: 79e71cc1f7a5385f180bdae971024f9d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: aga-Tak3c3M
-  - uid: 89e94b6577596ebe418b6e48a74913a2
-    parent_uid: 79e71cc1f7a5385f180bdae971024f9d
-    id: aga-Tak3c3M.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-10-regularized-pricing-and-risk-models/aga-Tak3c3M.srt
-  - uid: 2f02529f65ad96016709e85c00d4c08b
-    parent_uid: 79e71cc1f7a5385f180bdae971024f9d
-    id: aga-Tak3c3M.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-10-regularized-pricing-and-risk-models/aga-Tak3c3M.pdf
-  - uid: e48c53f881183e58c7f584f7e2928704
-    parent_uid: 79e71cc1f7a5385f180bdae971024f9d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9ff939dccb4181cd7fe73b9ad503bf24
-    parent_uid: 79e71cc1f7a5385f180bdae971024f9d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 79e71cc1f7a5385f180bdae971024f9d
 type: courses
 layout: video
 ---

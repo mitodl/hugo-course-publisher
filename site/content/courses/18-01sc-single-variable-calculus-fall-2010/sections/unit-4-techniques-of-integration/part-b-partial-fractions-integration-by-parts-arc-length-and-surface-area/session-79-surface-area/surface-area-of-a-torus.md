@@ -1,13 +1,68 @@
 ---
-title: Surface Area of a Torus
-uid: 4388e3bef1faa8e778b5e503f26ac804
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: tMVwXglUp60
+    parent_uid: 4388e3bef1faa8e778b5e503f26ac804
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b48b4ad50024d52aaf13770f775a85a6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/tMVwXglUp60/default.jpg'
+    parent_uid: 4388e3bef1faa8e778b5e503f26ac804
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 866e82c7e2379011109dcf7b88104894
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: tMVwXglUp60
+    parent_uid: 4388e3bef1faa8e778b5e503f26ac804
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 47c3a411bed5c74079a4a10fbbc5ce65
+  - id: tMVwXglUp60.srt
+    parent_uid: 4388e3bef1faa8e778b5e503f26ac804
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-79-surface-area/surface-area-of-a-torus/tMVwXglUp60.srt
+    title: 3play caption file
+    type: null
+    uid: 0bb0b60a00ac2d55576ab9f8c1b8d95b
+  - id: tMVwXglUp60.pdf
+    parent_uid: 4388e3bef1faa8e778b5e503f26ac804
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-79-surface-area/surface-area-of-a-torus/tMVwXglUp60.pdf
+    title: 3play pdf file
+    type: null
+    uid: e5d78397b0742551a595933abfece0e5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4388e3bef1faa8e778b5e503f26ac804
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: fe1398a7ec5073dd7093362b294c1a63
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4388e3bef1faa8e778b5e503f26ac804
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4bab6fbc90e1b1a74640b87c5797820d
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_59_300k.mp4'
+    parent_uid: 4388e3bef1faa8e778b5e503f26ac804
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4e71e1d7bbf81374abe9f9eebc18c240
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/surface-area-of-a-torus/id414308064?i=90319635
+    parent_uid: 4388e3bef1faa8e778b5e503f26ac804
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d147fe529de5bb9e921a589dbcd27075
+inline_embed_id: 57762759surfaceareaofatorus5221550
 parent_uid: 17929c9ec324e987cc81f0233bae0eee
+related_resources_text: ''
+short_url: surface-area-of-a-torus
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-79-surface-area/surface-area-of-a-torus
-short_url: surface-area-of-a-torus
-inline_embed_id: 57762759surfaceareaofatorus5221550
-about_this_resource_text: ''
-related_resources_text: ''
+title: Surface Area of a Torus
 transcript: >-
   <p><span m='6940'>Hi.</span> <span m='7370'>Welcome</span> <span
   m='7740'>back</span> <span m='7960'>to</span> <span
@@ -1367,62 +1422,7 @@ transcript: >-
   m='1252810'>I</span> <span m='1252920'>think</span> <span
   m='1253140'>I'll</span> <span m='1253340'>end</span> <span
   m='1253520'>there.</span> </p>
-embedded_media:
-  - uid: b48b4ad50024d52aaf13770f775a85a6
-    parent_uid: 4388e3bef1faa8e778b5e503f26ac804
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: tMVwXglUp60
-  - uid: 866e82c7e2379011109dcf7b88104894
-    parent_uid: 4388e3bef1faa8e778b5e503f26ac804
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/tMVwXglUp60/default.jpg'
-  - uid: 47c3a411bed5c74079a4a10fbbc5ce65
-    parent_uid: 4388e3bef1faa8e778b5e503f26ac804
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: tMVwXglUp60
-  - uid: 0bb0b60a00ac2d55576ab9f8c1b8d95b
-    parent_uid: 4388e3bef1faa8e778b5e503f26ac804
-    id: tMVwXglUp60.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-79-surface-area/surface-area-of-a-torus/tMVwXglUp60.srt
-  - uid: e5d78397b0742551a595933abfece0e5
-    parent_uid: 4388e3bef1faa8e778b5e503f26ac804
-    id: tMVwXglUp60.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-79-surface-area/surface-area-of-a-torus/tMVwXglUp60.pdf
-  - uid: fe1398a7ec5073dd7093362b294c1a63
-    parent_uid: 4388e3bef1faa8e778b5e503f26ac804
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4bab6fbc90e1b1a74640b87c5797820d
-    parent_uid: 4388e3bef1faa8e778b5e503f26ac804
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4e71e1d7bbf81374abe9f9eebc18c240
-    parent_uid: 4388e3bef1faa8e778b5e503f26ac804
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_59_300k.mp4'
-  - uid: d147fe529de5bb9e921a589dbcd27075
-    parent_uid: 4388e3bef1faa8e778b5e503f26ac804
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/surface-area-of-a-torus/id414308064?i=90319635
+uid: 4388e3bef1faa8e778b5e503f26ac804
 type: courses
 layout: video
 ---

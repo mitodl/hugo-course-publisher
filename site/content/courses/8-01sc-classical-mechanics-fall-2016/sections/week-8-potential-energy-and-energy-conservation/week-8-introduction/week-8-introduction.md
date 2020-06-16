@@ -1,13 +1,67 @@
 ---
-title: Week 8 Introduction
-uid: c68de7050cb0afc083a7d1e46f3e060d
+about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Deepto Chakrabarty</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: EX0uHJbIw68
+    parent_uid: c68de7050cb0afc083a7d1e46f3e060d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 83c121a3af2bf4d767d85c519ac67f7b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/EX0uHJbIw68/default.jpg'
+    parent_uid: c68de7050cb0afc083a7d1e46f3e060d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 95a797f28928b6b035d0976fe1f749a4
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: EX0uHJbIw68
+    parent_uid: c68de7050cb0afc083a7d1e46f3e060d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 470e222e5f59be6fe76ddcfb51d71d17
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: c68de7050cb0afc083a7d1e46f3e060d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7b0b8fdcb74a8a133648794022d74213
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W08Intro_360p.mp4'
+    parent_uid: c68de7050cb0afc083a7d1e46f3e060d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0d4d28a048b5d189881dd57621d12f1d
+  - id: EX0uHJbIw68.srt
+    parent_uid: c68de7050cb0afc083a7d1e46f3e060d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-8-potential-energy-and-energy-conservation/week-8-introduction/week-8-introduction/EX0uHJbIw68.srt
+    title: 3play caption file
+    type: null
+    uid: edd9aada0ce2e6795275a225cce026f3
+  - id: EX0uHJbIw68.pdf
+    parent_uid: c68de7050cb0afc083a7d1e46f3e060d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-8-potential-energy-and-energy-conservation/week-8-introduction/week-8-introduction/EX0uHJbIw68.pdf
+    title: 3play pdf file
+    type: null
+    uid: 82f2150b3b0833d62ae16069d074447f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c68de7050cb0afc083a7d1e46f3e060d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 24b9a0cfb9754c93dffb72cd301d8f20
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c68de7050cb0afc083a7d1e46f3e060d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4a692a9f39b2d785f91bfed87a3f4135
+inline_embed_id: 45774369week8introduction31566485
 parent_uid: fcdd8dba5c173c1530e44947500174b8
+related_resources_text: ''
+short_url: week-8-introduction
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-8-potential-energy-and-energy-conservation/week-8-introduction/week-8-introduction
-short_url: week-8-introduction
-inline_embed_id: 45774369week8introduction31566485
-about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Deepto Chakrabarty</p>'
-related_resources_text: ''
+title: Week 8 Introduction
 transcript: >-
   <p><span m='950'>This week, we will continue our discussion of energy.</span>
   </p><p><span m='4460'>We will introduce the concept of potential
@@ -28,61 +82,7 @@ transcript: >-
   provide</span> <span m='43760'>an elegant way of understanding the
   behavior</span> <span m='46040'>of the system for a given value of the total
   mechanical energy.</span> </p><p></p>
-embedded_media:
-  - uid: 83c121a3af2bf4d767d85c519ac67f7b
-    parent_uid: c68de7050cb0afc083a7d1e46f3e060d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: EX0uHJbIw68
-  - uid: 95a797f28928b6b035d0976fe1f749a4
-    parent_uid: c68de7050cb0afc083a7d1e46f3e060d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/EX0uHJbIw68/default.jpg'
-  - uid: 470e222e5f59be6fe76ddcfb51d71d17
-    parent_uid: c68de7050cb0afc083a7d1e46f3e060d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: EX0uHJbIw68
-  - uid: 7b0b8fdcb74a8a133648794022d74213
-    parent_uid: c68de7050cb0afc083a7d1e46f3e060d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 0d4d28a048b5d189881dd57621d12f1d
-    parent_uid: c68de7050cb0afc083a7d1e46f3e060d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W08Intro_360p.mp4'
-  - uid: edd9aada0ce2e6795275a225cce026f3
-    parent_uid: c68de7050cb0afc083a7d1e46f3e060d
-    id: EX0uHJbIw68.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-8-potential-energy-and-energy-conservation/week-8-introduction/week-8-introduction/EX0uHJbIw68.srt
-  - uid: 82f2150b3b0833d62ae16069d074447f
-    parent_uid: c68de7050cb0afc083a7d1e46f3e060d
-    id: EX0uHJbIw68.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-8-potential-energy-and-energy-conservation/week-8-introduction/week-8-introduction/EX0uHJbIw68.pdf
-  - uid: 24b9a0cfb9754c93dffb72cd301d8f20
-    parent_uid: c68de7050cb0afc083a7d1e46f3e060d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4a692a9f39b2d785f91bfed87a3f4135
-    parent_uid: c68de7050cb0afc083a7d1e46f3e060d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: c68de7050cb0afc083a7d1e46f3e060d
 type: courses
 layout: video
 ---

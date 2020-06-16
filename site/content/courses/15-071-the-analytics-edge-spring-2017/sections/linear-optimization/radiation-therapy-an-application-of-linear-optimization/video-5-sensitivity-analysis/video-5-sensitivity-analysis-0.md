@@ -1,13 +1,62 @@
 ---
-title: 'Video 5: Sensitivity Analysis'
-uid: b7fc87087918a749a674a16caaea5625
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 8T248H2ax8c
+    parent_uid: b7fc87087918a749a674a16caaea5625
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f99892a51112d810b00582ba2127cd07
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 8T248H2ax8c
+    parent_uid: b7fc87087918a749a674a16caaea5625
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 886fff54e6ba537c93c49a82d507f1a7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/8T248H2ax8c/default.jpg'
+    parent_uid: b7fc87087918a749a674a16caaea5625
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d2be608cfbbf1f71aef001de84ba4bcb
+  - id: 8T248H2ax8c.srt
+    parent_uid: b7fc87087918a749a674a16caaea5625
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/radiation-therapy-an-application-of-linear-optimization/video-5-sensitivity-analysis/video-5-sensitivity-analysis-0/8T248H2ax8c.srt
+    title: 3play caption file
+    type: null
+    uid: 81a07100c4d75e0494cd18e1a2815198
+  - id: 8T248H2ax8c.pdf
+    parent_uid: b7fc87087918a749a674a16caaea5625
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/radiation-therapy-an-application-of-linear-optimization/video-5-sensitivity-analysis/video-5-sensitivity-analysis-0/8T248H2ax8c.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6a7744396a870e478ef57585c41ec838
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b7fc87087918a749a674a16caaea5625
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9172414d1c15a9fc01364eff63e6d6c9
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b7fc87087918a749a674a16caaea5625
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 80ff1f00420fe6da4587bd24843a0d38
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.3.09_300k.mp4
+    parent_uid: b7fc87087918a749a674a16caaea5625
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 312e5278c1dca7dda9b426a0170e9131
+inline_embed_id: 57306297video5sensitivityanalysis31503071
 parent_uid: a10ced6c1f0f3ddcaa30efb14db63365
+related_resources_text: ''
+short_url: video-5-sensitivity-analysis-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/radiation-therapy-an-application-of-linear-optimization/video-5-sensitivity-analysis/video-5-sensitivity-analysis-0
-short_url: video-5-sensitivity-analysis-0
-inline_embed_id: 57306297video5sensitivityanalysis31503071
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 5: Sensitivity Analysis'
 transcript: >-
   <p><span m='4500'>In</span> <span m='4875'>the</span> <span
   m='5250'>previous</span> <span m='5626'>video,</span> <span m='6001'>we</span>
@@ -257,56 +306,7 @@ transcript: >-
   m='227630'>explore</span> <span m='228140'>different</span> <span
   m='228650'>trade-offs</span> <span m='229160'>in</span> <span
   m='229670'>our</span> <span m='230180'>problem.</span> </p>
-embedded_media:
-  - uid: f99892a51112d810b00582ba2127cd07
-    parent_uid: b7fc87087918a749a674a16caaea5625
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 8T248H2ax8c
-  - uid: 886fff54e6ba537c93c49a82d507f1a7
-    parent_uid: b7fc87087918a749a674a16caaea5625
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 8T248H2ax8c
-  - uid: d2be608cfbbf1f71aef001de84ba4bcb
-    parent_uid: b7fc87087918a749a674a16caaea5625
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8T248H2ax8c/default.jpg'
-  - uid: 81a07100c4d75e0494cd18e1a2815198
-    parent_uid: b7fc87087918a749a674a16caaea5625
-    id: 8T248H2ax8c.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/radiation-therapy-an-application-of-linear-optimization/video-5-sensitivity-analysis/video-5-sensitivity-analysis-0/8T248H2ax8c.srt
-  - uid: 6a7744396a870e478ef57585c41ec838
-    parent_uid: b7fc87087918a749a674a16caaea5625
-    id: 8T248H2ax8c.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/radiation-therapy-an-application-of-linear-optimization/video-5-sensitivity-analysis/video-5-sensitivity-analysis-0/8T248H2ax8c.pdf
-  - uid: 9172414d1c15a9fc01364eff63e6d6c9
-    parent_uid: b7fc87087918a749a674a16caaea5625
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 80ff1f00420fe6da4587bd24843a0d38
-    parent_uid: b7fc87087918a749a674a16caaea5625
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 312e5278c1dca7dda9b426a0170e9131
-    parent_uid: b7fc87087918a749a674a16caaea5625
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.3.09_300k.mp4
+uid: b7fc87087918a749a674a16caaea5625
 type: courses
 layout: video
 ---

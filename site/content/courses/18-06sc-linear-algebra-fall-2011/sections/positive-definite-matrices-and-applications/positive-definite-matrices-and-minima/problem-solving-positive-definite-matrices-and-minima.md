@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Positive Definite Matrices and Minima'
-uid: 2780c0c9db45f51fa4f3f3f2072e00b1
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: cfn2ZUuWPd0
+    parent_uid: 2780c0c9db45f51fa4f3f3f2072e00b1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1e99d360c2d309f93e24a0078332005a
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: cfn2ZUuWPd0
+    parent_uid: 2780c0c9db45f51fa4f3f3f2072e00b1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 97ba9ddd4560457de6abdd73ff994718
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/positive-definite-matrices/id488155309?i=108454331
+    parent_uid: 2780c0c9db45f51fa4f3f3f2072e00b1
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8cd01ebedb5b1a31eee3d28c61dd8df8
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110714_M2_300k.mp4
+    parent_uid: 2780c0c9db45f51fa4f3f3f2072e00b1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 99e8cf9df335ad8e295d6d0ae3b6e642
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/cfn2ZUuWPd0/default.jpg'
+    parent_uid: 2780c0c9db45f51fa4f3f3f2072e00b1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a9bd38ff11ff5afaca35984775a4024d
+  - id: cfn2ZUuWPd0.srt
+    parent_uid: 2780c0c9db45f51fa4f3f3f2072e00b1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima/problem-solving-positive-definite-matrices-and-minima/cfn2ZUuWPd0.srt
+    title: 3play caption file
+    type: null
+    uid: 15a3c630c39e551fba825e2cbc60df30
+  - id: cfn2ZUuWPd0.pdf
+    parent_uid: 2780c0c9db45f51fa4f3f3f2072e00b1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima/problem-solving-positive-definite-matrices-and-minima/cfn2ZUuWPd0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7c7219cb65176015a7442048e3de3a75
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2780c0c9db45f51fa4f3f3f2072e00b1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: fa16491d597c16addfd5eccfef22fc18
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2780c0c9db45f51fa4f3f3f2072e00b1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9f42d8db2b0d80f8fae83f5c6d91b649
+inline_embed_id: '44808973problemsolving:positivedefinitematricesandminima46757754'
 parent_uid: c75e4546e980a4f34fba9c17295b6b7b
+related_resources_text: ''
+short_url: problem-solving-positive-definite-matrices-and-minima
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima/problem-solving-positive-definite-matrices-and-minima
-short_url: problem-solving-positive-definite-matrices-and-minima
-inline_embed_id: '44808973problemsolving:positivedefinitematricesandminima46757754'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Positive Definite Matrices and Minima'
 transcript: >-
   <p><span m='6800'>MARTINA BALAGOVIC: Hi.</span> <span m='7280'>Welcome</span>
   <span m='7660'>to</span> <span m='7740'>recitation.</span> <span
@@ -672,63 +728,7 @@ transcript: >-
   m='767590'>all</span> <span m='767710'>I</span> <span m='767750'>wanted</span>
   <span m='767920'>to</span> <span m='768080'>say</span> <span
   m='768380'>for</span> <span m='768680'>today.</span> </p>
-embedded_media:
-  - uid: 1e99d360c2d309f93e24a0078332005a
-    parent_uid: 2780c0c9db45f51fa4f3f3f2072e00b1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: cfn2ZUuWPd0
-  - uid: 97ba9ddd4560457de6abdd73ff994718
-    parent_uid: 2780c0c9db45f51fa4f3f3f2072e00b1
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: cfn2ZUuWPd0
-  - uid: 8cd01ebedb5b1a31eee3d28c61dd8df8
-    parent_uid: 2780c0c9db45f51fa4f3f3f2072e00b1
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/positive-definite-matrices/id488155309?i=108454331
-  - uid: 99e8cf9df335ad8e295d6d0ae3b6e642
-    parent_uid: 2780c0c9db45f51fa4f3f3f2072e00b1
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110714_M2_300k.mp4
-  - uid: a9bd38ff11ff5afaca35984775a4024d
-    parent_uid: 2780c0c9db45f51fa4f3f3f2072e00b1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/cfn2ZUuWPd0/default.jpg'
-  - uid: 15a3c630c39e551fba825e2cbc60df30
-    parent_uid: 2780c0c9db45f51fa4f3f3f2072e00b1
-    id: cfn2ZUuWPd0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima/problem-solving-positive-definite-matrices-and-minima/cfn2ZUuWPd0.srt
-  - uid: 7c7219cb65176015a7442048e3de3a75
-    parent_uid: 2780c0c9db45f51fa4f3f3f2072e00b1
-    id: cfn2ZUuWPd0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima/problem-solving-positive-definite-matrices-and-minima/cfn2ZUuWPd0.pdf
-  - uid: fa16491d597c16addfd5eccfef22fc18
-    parent_uid: 2780c0c9db45f51fa4f3f3f2072e00b1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9f42d8db2b0d80f8fae83f5c6d91b649
-    parent_uid: 2780c0c9db45f51fa4f3f3f2072e00b1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 2780c0c9db45f51fa4f3f3f2072e00b1
 type: courses
 layout: video
 ---

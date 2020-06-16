@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Determinants and Volume'
-uid: 4e6de3b304265fd6e8076a4025962f5a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: qEBi0K5wfOs
+    parent_uid: 4e6de3b304265fd6e8076a4025962f5a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6f1525a3e6c75aa7456c28c51d3fdb80
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: qEBi0K5wfOs
+    parent_uid: 4e6de3b304265fd6e8076a4025962f5a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fb70082335256514968a609846881528
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/gram-schmidt-orthogonalization/id488155309?i=108454352
+    parent_uid: 4e6de3b304265fd6e8076a4025962f5a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 86ac27617f6a5fc1963d9378173775d3
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110609_L4_300k.mp4
+    parent_uid: 4e6de3b304265fd6e8076a4025962f5a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f16172f3398a7133027f1a3b2c21dc2b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/qEBi0K5wfOs/default.jpg'
+    parent_uid: 4e6de3b304265fd6e8076a4025962f5a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 37540e7b20171aa887da861a44495efd
+  - id: qEBi0K5wfOs.srt
+    parent_uid: 4e6de3b304265fd6e8076a4025962f5a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants-and-volume/qEBi0K5wfOs.srt
+    title: 3play caption file
+    type: null
+    uid: 53e2d4225a53c4983ab2f266acf19e1b
+  - id: qEBi0K5wfOs.pdf
+    parent_uid: 4e6de3b304265fd6e8076a4025962f5a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants-and-volume/qEBi0K5wfOs.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6f7a3bc7c3fea17e79e5288c7cc743cc
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4e6de3b304265fd6e8076a4025962f5a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 48797ff4919da2c306354c18c6a4e156
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4e6de3b304265fd6e8076a4025962f5a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6606aea31b682f0259f40db0984e757d
+inline_embed_id: 15552726problemsolvingdeterminantsandvolume12736515
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: problem-solving-determinants-and-volume
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants-and-volume
-short_url: problem-solving-determinants-and-volume
-inline_embed_id: 15552726problemsolvingdeterminantsandvolume12736515
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Determinants and Volume'
 transcript: >-
   <p><span m='7080'>LINAN CHEN: Hello.</span> <span m='7780'>Welcome</span>
   <span m='8260'>back</span> <span m='8440'>to</span> <span
@@ -725,63 +781,7 @@ transcript: >-
   m='825560'>looking</span> <span m='825890'>forward</span> <span
   m='826290'>to</span> <span m='826380'>seeing</span> <span
   m='826680'>you</span> <span m='826840'>soon.</span> </p>
-embedded_media:
-  - uid: 6f1525a3e6c75aa7456c28c51d3fdb80
-    parent_uid: 4e6de3b304265fd6e8076a4025962f5a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: qEBi0K5wfOs
-  - uid: fb70082335256514968a609846881528
-    parent_uid: 4e6de3b304265fd6e8076a4025962f5a
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: qEBi0K5wfOs
-  - uid: 86ac27617f6a5fc1963d9378173775d3
-    parent_uid: 4e6de3b304265fd6e8076a4025962f5a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/gram-schmidt-orthogonalization/id488155309?i=108454352
-  - uid: f16172f3398a7133027f1a3b2c21dc2b
-    parent_uid: 4e6de3b304265fd6e8076a4025962f5a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110609_L4_300k.mp4
-  - uid: 37540e7b20171aa887da861a44495efd
-    parent_uid: 4e6de3b304265fd6e8076a4025962f5a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/qEBi0K5wfOs/default.jpg'
-  - uid: 53e2d4225a53c4983ab2f266acf19e1b
-    parent_uid: 4e6de3b304265fd6e8076a4025962f5a
-    id: qEBi0K5wfOs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants-and-volume/qEBi0K5wfOs.srt
-  - uid: 6f7a3bc7c3fea17e79e5288c7cc743cc
-    parent_uid: 4e6de3b304265fd6e8076a4025962f5a
-    id: qEBi0K5wfOs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants-and-volume/qEBi0K5wfOs.pdf
-  - uid: 48797ff4919da2c306354c18c6a4e156
-    parent_uid: 4e6de3b304265fd6e8076a4025962f5a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6606aea31b682f0259f40db0984e757d
-    parent_uid: 4e6de3b304265fd6e8076a4025962f5a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 4e6de3b304265fd6e8076a4025962f5a
 type: courses
 layout: video
 ---

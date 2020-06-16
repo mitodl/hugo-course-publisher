@@ -1,13 +1,68 @@
 ---
-title: Subspaces of Three Dimensional Space
-uid: b3714d52ef943390d8d6b490460f96a9
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: QQpvGlF_1Qo
+    parent_uid: b3714d52ef943390d8d6b490460f96a9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 25ae8df5a3a0a3b72f305b12167f77f2
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: QQpvGlF_1Qo
+    parent_uid: b3714d52ef943390d8d6b490460f96a9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ff52dcbb703209888db527651a28e0bf
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/subspaces-three-dimensional/id488155309?i=108454343
+    parent_uid: b3714d52ef943390d8d6b490460f96a9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 926e81789ccf483240fb91032a8e540c
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.06SCF11/MIT18_06SC_110607_L2_300k.mp4'
+    parent_uid: b3714d52ef943390d8d6b490460f96a9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d563ee0503b32d250dee0dcdd3baefcc
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QQpvGlF_1Qo/default.jpg'
+    parent_uid: b3714d52ef943390d8d6b490460f96a9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a581c4a1f385e7670320551670070c02
+  - id: QQpvGlF_1Qo.srt
+    parent_uid: b3714d52ef943390d8d6b490460f96a9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/subspaces-of-three-dimensional-space/QQpvGlF_1Qo.srt
+    title: 3play caption file
+    type: null
+    uid: b9ed5faab464dd4db26911aef4955f54
+  - id: QQpvGlF_1Qo.pdf
+    parent_uid: b3714d52ef943390d8d6b490460f96a9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/subspaces-of-three-dimensional-space/QQpvGlF_1Qo.pdf
+    title: 3play pdf file
+    type: null
+    uid: f90dceb9a6b4958ec32157474a45eda5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b3714d52ef943390d8d6b490460f96a9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: fe135631d7a26b54f9708daef0111da8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b3714d52ef943390d8d6b490460f96a9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 50dd83a42f78dc71818461dc7281a133
+inline_embed_id: 9861396subspacesofthreedimensionalspace19749853
 parent_uid: 78c64d70411ee481e2bbd7a7244a0bf3
+related_resources_text: ''
+short_url: subspaces-of-three-dimensional-space
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/subspaces-of-three-dimensional-space
-short_url: subspaces-of-three-dimensional-space
-inline_embed_id: 9861396subspacesofthreedimensionalspace19749853
-about_this_resource_text: ''
-related_resources_text: ''
+title: Subspaces of Three Dimensional Space
 transcript: >-
   <p><span m='6860'>PROFESSOR: Hi,</span> <span m='7580'>welcome</span> <span
   m='8000'>back</span> <span m='8210'>to</span> <span
@@ -769,62 +824,7 @@ transcript: >-
   m='882360'>and</span> <span m='882540'>I'll</span> <span m='882630'>see</span>
   <span m='882790'>you</span> <span m='882890'>next</span> <span
   m='883170'>time.</span> </p>
-embedded_media:
-  - uid: 25ae8df5a3a0a3b72f305b12167f77f2
-    parent_uid: b3714d52ef943390d8d6b490460f96a9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QQpvGlF_1Qo
-  - uid: ff52dcbb703209888db527651a28e0bf
-    parent_uid: b3714d52ef943390d8d6b490460f96a9
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QQpvGlF_1Qo
-  - uid: 926e81789ccf483240fb91032a8e540c
-    parent_uid: b3714d52ef943390d8d6b490460f96a9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/subspaces-three-dimensional/id488155309?i=108454343
-  - uid: d563ee0503b32d250dee0dcdd3baefcc
-    parent_uid: b3714d52ef943390d8d6b490460f96a9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.06SCF11/MIT18_06SC_110607_L2_300k.mp4'
-  - uid: a581c4a1f385e7670320551670070c02
-    parent_uid: b3714d52ef943390d8d6b490460f96a9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QQpvGlF_1Qo/default.jpg'
-  - uid: b9ed5faab464dd4db26911aef4955f54
-    parent_uid: b3714d52ef943390d8d6b490460f96a9
-    id: QQpvGlF_1Qo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/subspaces-of-three-dimensional-space/QQpvGlF_1Qo.srt
-  - uid: f90dceb9a6b4958ec32157474a45eda5
-    parent_uid: b3714d52ef943390d8d6b490460f96a9
-    id: QQpvGlF_1Qo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/subspaces-of-three-dimensional-space/QQpvGlF_1Qo.pdf
-  - uid: fe135631d7a26b54f9708daef0111da8
-    parent_uid: b3714d52ef943390d8d6b490460f96a9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 50dd83a42f78dc71818461dc7281a133
-    parent_uid: b3714d52ef943390d8d6b490460f96a9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b3714d52ef943390d8d6b490460f96a9
 type: courses
 layout: video
 ---

@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 18: Complexity: Fixed-Parameter Algorithms'
-uid: cdf85d48b6247cbff0e731844ce445e8
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-18-complexity-fixed-parameter-algorithms
-short_url: lecture-18-complexity-fixed-parameter-algorithms
-inline_embed_id: '81350518lecture18:complexity:fixed-parameteralgorithms14428533'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Demaine tackles
   NP-hard problems using fixed-parameter algorithms.</p>
   <p><strong>Instructors:</strong> Erik Demaine</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 4q-jmGrmxKs
+    parent_uid: cdf85d48b6247cbff0e731844ce445e8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 19d9470e4207c812df307a92d88cb159
+  - id: Video-YouTube-Stream
+    media_location: 4q-jmGrmxKs
+    parent_uid: cdf85d48b6247cbff0e731844ce445e8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5c662433da15225592b8ce5f8b339301
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: cdf85d48b6247cbff0e731844ce445e8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 94888c6ce3e87aa05c4edbe49042035f
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec18_300k.mp4'
+    parent_uid: cdf85d48b6247cbff0e731844ce445e8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b30ad0106abfd7f3ce28cfa4d52bcf8b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4q-jmGrmxKs/default.jpg'
+    parent_uid: cdf85d48b6247cbff0e731844ce445e8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3be6a48a1bd1daf960ac68086e3bfb5b
+  - id: 4q-jmGrmxKs.srt
+    parent_uid: cdf85d48b6247cbff0e731844ce445e8
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-18-complexity-fixed-parameter-algorithms/4q-jmGrmxKs.srt
+    title: 3play caption file
+    type: null
+    uid: 98cd4c658fd73909fc85c87b55ca602f
+  - id: 4q-jmGrmxKs.pdf
+    parent_uid: cdf85d48b6247cbff0e731844ce445e8
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-18-complexity-fixed-parameter-algorithms/4q-jmGrmxKs.pdf
+    title: 3play pdf file
+    type: null
+    uid: b145855395face57d2bdd372c51f91cd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cdf85d48b6247cbff0e731844ce445e8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2433b78f117c9f721b325ab44f7645ff
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cdf85d48b6247cbff0e731844ce445e8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2f72faa3b639f27b718d718a42bf38fe
+inline_embed_id: '81350518lecture18:complexity:fixed-parameteralgorithms14428533'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-18-complexity-fixed-parameter-algorithms
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-18-complexity-fixed-parameter-algorithms
+title: 'Lecture 18: Complexity: Fixed-Parameter Algorithms'
 transcript: >-
   <p><span m='70'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -4738,61 +4792,7 @@ transcript: >-
   m='4655640'>questions?</span> <span m='4658300'>Cool.</span> <span
   m='4658560'>See</span> <span m='4658950'>you</span> <span
   m='4659160'>next</span> <span m='4659400'>week.</span> </p>
-embedded_media:
-  - uid: 19d9470e4207c812df307a92d88cb159
-    parent_uid: cdf85d48b6247cbff0e731844ce445e8
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4q-jmGrmxKs
-  - uid: 5c662433da15225592b8ce5f8b339301
-    parent_uid: cdf85d48b6247cbff0e731844ce445e8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4q-jmGrmxKs
-  - uid: 94888c6ce3e87aa05c4edbe49042035f
-    parent_uid: cdf85d48b6247cbff0e731844ce445e8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: b30ad0106abfd7f3ce28cfa4d52bcf8b
-    parent_uid: cdf85d48b6247cbff0e731844ce445e8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec18_300k.mp4'
-  - uid: 3be6a48a1bd1daf960ac68086e3bfb5b
-    parent_uid: cdf85d48b6247cbff0e731844ce445e8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4q-jmGrmxKs/default.jpg'
-  - uid: 98cd4c658fd73909fc85c87b55ca602f
-    parent_uid: cdf85d48b6247cbff0e731844ce445e8
-    id: 4q-jmGrmxKs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-18-complexity-fixed-parameter-algorithms/4q-jmGrmxKs.srt
-  - uid: b145855395face57d2bdd372c51f91cd
-    parent_uid: cdf85d48b6247cbff0e731844ce445e8
-    id: 4q-jmGrmxKs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-18-complexity-fixed-parameter-algorithms/4q-jmGrmxKs.pdf
-  - uid: 2433b78f117c9f721b325ab44f7645ff
-    parent_uid: cdf85d48b6247cbff0e731844ce445e8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2f72faa3b639f27b718d718a42bf38fe
-    parent_uid: cdf85d48b6247cbff0e731844ce445e8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: cdf85d48b6247cbff0e731844ce445e8
 type: courses
 layout: video
 ---

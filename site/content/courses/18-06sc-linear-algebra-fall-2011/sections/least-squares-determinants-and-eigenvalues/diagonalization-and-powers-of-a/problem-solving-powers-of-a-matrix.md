@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Powers of a Matrix'
-uid: 3a25c6bf9d592fa46da80ceacb414de9
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 5IGTFgPqlkw
+    parent_uid: 3a25c6bf9d592fa46da80ceacb414de9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 520ba848f72a4efa1f421e4fff183b14
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: 5IGTFgPqlkw
+    parent_uid: 3a25c6bf9d592fa46da80ceacb414de9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3b29ea0d8e950f1b348f4b82a2290593
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/powers-of-a-matrix/id488155309?i=108454330
+    parent_uid: 3a25c6bf9d592fa46da80ceacb414de9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3c6a977ab6c0f2e38ca658063db2500e
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110531_B2_300k.mp4
+    parent_uid: 3a25c6bf9d592fa46da80ceacb414de9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8ab9f23f01add09355b7f6e09cb31f3c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/5IGTFgPqlkw/default.jpg'
+    parent_uid: 3a25c6bf9d592fa46da80ceacb414de9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3a83d176429fe8d976971a4ed1cdcf71
+  - id: 5IGTFgPqlkw.srt
+    parent_uid: 3a25c6bf9d592fa46da80ceacb414de9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/diagonalization-and-powers-of-a/problem-solving-powers-of-a-matrix/5IGTFgPqlkw.srt
+    title: 3play caption file
+    type: null
+    uid: 3170e240fd336abf1571e928cbf1eb24
+  - id: 5IGTFgPqlkw.pdf
+    parent_uid: 3a25c6bf9d592fa46da80ceacb414de9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/diagonalization-and-powers-of-a/problem-solving-powers-of-a-matrix/5IGTFgPqlkw.pdf
+    title: 3play pdf file
+    type: null
+    uid: d7fb35f365c2d4686ef3009c878ed90b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3a25c6bf9d592fa46da80ceacb414de9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 39b126a5208c11bcccb3b6783c2a4941
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3a25c6bf9d592fa46da80ceacb414de9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1b783974ae82b080adf0d445a7d050f4
+inline_embed_id: '79436994problemsolving:powersofamatrix77454564'
 parent_uid: dcb9a660b4e1e1d4837bad83344a716e
+related_resources_text: ''
+short_url: problem-solving-powers-of-a-matrix
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/diagonalization-and-powers-of-a/problem-solving-powers-of-a-matrix
-short_url: problem-solving-powers-of-a-matrix
-inline_embed_id: '79436994problemsolving:powersofamatrix77454564'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Powers of a Matrix'
 transcript: >-
   <p><span m='8320'>PROFESSOR: Hi,</span> <span m='8770'>and</span> <span
   m='9040'>welcome.</span> <span m='10260'>Today,</span> <span
@@ -416,63 +472,7 @@ transcript: >-
   m='543910'>powers</span> <span m='544390'>of</span> <span
   m='544530'>the</span> <span m='544600'>diagonal</span> <span
   m='545080'>matrix.</span> </p>
-embedded_media:
-  - uid: 520ba848f72a4efa1f421e4fff183b14
-    parent_uid: 3a25c6bf9d592fa46da80ceacb414de9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 5IGTFgPqlkw
-  - uid: 3b29ea0d8e950f1b348f4b82a2290593
-    parent_uid: 3a25c6bf9d592fa46da80ceacb414de9
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 5IGTFgPqlkw
-  - uid: 3c6a977ab6c0f2e38ca658063db2500e
-    parent_uid: 3a25c6bf9d592fa46da80ceacb414de9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/powers-of-a-matrix/id488155309?i=108454330
-  - uid: 8ab9f23f01add09355b7f6e09cb31f3c
-    parent_uid: 3a25c6bf9d592fa46da80ceacb414de9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110531_B2_300k.mp4
-  - uid: 3a83d176429fe8d976971a4ed1cdcf71
-    parent_uid: 3a25c6bf9d592fa46da80ceacb414de9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/5IGTFgPqlkw/default.jpg'
-  - uid: 3170e240fd336abf1571e928cbf1eb24
-    parent_uid: 3a25c6bf9d592fa46da80ceacb414de9
-    id: 5IGTFgPqlkw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/diagonalization-and-powers-of-a/problem-solving-powers-of-a-matrix/5IGTFgPqlkw.srt
-  - uid: d7fb35f365c2d4686ef3009c878ed90b
-    parent_uid: 3a25c6bf9d592fa46da80ceacb414de9
-    id: 5IGTFgPqlkw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/diagonalization-and-powers-of-a/problem-solving-powers-of-a-matrix/5IGTFgPqlkw.pdf
-  - uid: 39b126a5208c11bcccb3b6783c2a4941
-    parent_uid: 3a25c6bf9d592fa46da80ceacb414de9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1b783974ae82b080adf0d445a7d050f4
-    parent_uid: 3a25c6bf9d592fa46da80ceacb414de9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 3a25c6bf9d592fa46da80ceacb414de9
 type: courses
 layout: video
 ---

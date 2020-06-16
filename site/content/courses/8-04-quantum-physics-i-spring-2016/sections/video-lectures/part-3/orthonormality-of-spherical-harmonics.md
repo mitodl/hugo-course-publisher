@@ -1,13 +1,67 @@
 ---
-title: Orthonormality of spherical harmonics
-uid: f3fa8db72d1ef1bc03974a7445070f35
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: gKSRrTik1SA
+    parent_uid: f3fa8db72d1ef1bc03974a7445070f35
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a6dfd0c049749b8cd3d004c153b5bc68
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/gKSRrTik1SA/default.jpg'
+    parent_uid: f3fa8db72d1ef1bc03974a7445070f35
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ddb9f5993bd5b7e91361081e07b26171
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: gKSRrTik1SA
+    parent_uid: f3fa8db72d1ef1bc03974a7445070f35
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b23d7ff64ce5b6b245f9bb4ac6a1c88e
+  - id: gKSRrTik1SA.srt
+    parent_uid: f3fa8db72d1ef1bc03974a7445070f35
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/orthonormality-of-spherical-harmonics/gKSRrTik1SA.srt
+    title: 3play caption file
+    type: null
+    uid: b939dd3f5218e716a500e40ecb633f90
+  - id: gKSRrTik1SA.pdf
+    parent_uid: f3fa8db72d1ef1bc03974a7445070f35
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/orthonormality-of-spherical-harmonics/gKSRrTik1SA.pdf
+    title: 3play pdf file
+    type: null
+    uid: b7dd2048c606449b165c2f189d16af8e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f3fa8db72d1ef1bc03974a7445070f35
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bd467dd36202dd227ac690bf0ea8e38c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f3fa8db72d1ef1bc03974a7445070f35
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2083aecf1313e451014aef031e692b03
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: f3fa8db72d1ef1bc03974a7445070f35
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 54f1a516b3f9910a9b94961ccce46dd5
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec21_s2_300k.mp4'
+    parent_uid: f3fa8db72d1ef1bc03974a7445070f35
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5159ac4ca76a2ed154e1617058fcafbb
+inline_embed_id: 5467593orthonormalityofsphericalharmonics51077550
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: orthonormality-of-spherical-harmonics
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/orthonormality-of-spherical-harmonics
-short_url: orthonormality-of-spherical-harmonics
-inline_embed_id: 5467593orthonormalityofsphericalharmonics51077550
-about_this_resource_text: ''
-related_resources_text: ''
+title: Orthonormality of spherical harmonics
 transcript: >-
   <p><span m='720'>PROFESSOR:</span> <span m='945'>How</span> <span
   m='1170'>do</span> <span m='1320'>we</span> <span m='3340'>state</span> <span
@@ -753,61 +807,7 @@ transcript: >-
   <span m='1066010'>is</span> <span m='1066310'>0.</span> <span
   m='1067210'>This</span> <span m='1067510'>is</span> <span m='1067810'>0</span>
   <span m='1069010'>angular</span> <span m='1069610'>momentum.</span> </p>
-embedded_media:
-  - uid: a6dfd0c049749b8cd3d004c153b5bc68
-    parent_uid: f3fa8db72d1ef1bc03974a7445070f35
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: gKSRrTik1SA
-  - uid: ddb9f5993bd5b7e91361081e07b26171
-    parent_uid: f3fa8db72d1ef1bc03974a7445070f35
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/gKSRrTik1SA/default.jpg'
-  - uid: b23d7ff64ce5b6b245f9bb4ac6a1c88e
-    parent_uid: f3fa8db72d1ef1bc03974a7445070f35
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: gKSRrTik1SA
-  - uid: b939dd3f5218e716a500e40ecb633f90
-    parent_uid: f3fa8db72d1ef1bc03974a7445070f35
-    id: gKSRrTik1SA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/orthonormality-of-spherical-harmonics/gKSRrTik1SA.srt
-  - uid: b7dd2048c606449b165c2f189d16af8e
-    parent_uid: f3fa8db72d1ef1bc03974a7445070f35
-    id: gKSRrTik1SA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/orthonormality-of-spherical-harmonics/gKSRrTik1SA.pdf
-  - uid: bd467dd36202dd227ac690bf0ea8e38c
-    parent_uid: f3fa8db72d1ef1bc03974a7445070f35
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2083aecf1313e451014aef031e692b03
-    parent_uid: f3fa8db72d1ef1bc03974a7445070f35
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 54f1a516b3f9910a9b94961ccce46dd5
-    parent_uid: f3fa8db72d1ef1bc03974a7445070f35
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 5159ac4ca76a2ed154e1617058fcafbb
-    parent_uid: f3fa8db72d1ef1bc03974a7445070f35
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec21_s2_300k.mp4'
+uid: f3fa8db72d1ef1bc03974a7445070f35
 type: courses
 layout: video
 ---

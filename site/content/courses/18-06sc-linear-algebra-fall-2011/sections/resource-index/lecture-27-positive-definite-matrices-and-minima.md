@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 27: Positive Definite Matrices and Minima'
-uid: 7bbe9a95a404007da1050b514194b58e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: vF7eyJ2g3kU
+    parent_uid: 7bbe9a95a404007da1050b514194b58e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8608a37bf7a3e8b1f0aaa7b30ab3a421
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/vF7eyJ2g3kU/default.jpg'
+    parent_uid: 7bbe9a95a404007da1050b514194b58e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f466165fe9e325bd7fccbbc5e194d8fc
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 7bbe9a95a404007da1050b514194b58e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c9420f9b0cfaf019fb6dfb70dfedb558
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/27.mp4'
+    parent_uid: 7bbe9a95a404007da1050b514194b58e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4a6c8dfa49e4a09a857dc4eaf202e732
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: vF7eyJ2g3kU
+    parent_uid: 7bbe9a95a404007da1050b514194b58e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5929090a5c4700667d7d1dec8e7b1be6
+  - id: vF7eyJ2g3kU.srt
+    parent_uid: 7bbe9a95a404007da1050b514194b58e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-27-positive-definite-matrices-and-minima/vF7eyJ2g3kU.srt
+    title: 3play caption file
+    type: null
+    uid: 950df661ba818b594357aa6ab9c70ad4
+  - id: vF7eyJ2g3kU.pdf
+    parent_uid: 7bbe9a95a404007da1050b514194b58e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-27-positive-definite-matrices-and-minima/vF7eyJ2g3kU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 91bc2a7ba124f1c84236e056732a8d89
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7bbe9a95a404007da1050b514194b58e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ef2c672aa74c95ac7c16252aad0fa30d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7bbe9a95a404007da1050b514194b58e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b1886517f19788e148f5b5493570b24c
+inline_embed_id: 72415044lecture27positivedefinitematricesandminima53657566
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: lecture-27-positive-definite-matrices-and-minima
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-27-positive-definite-matrices-and-minima
-short_url: lecture-27-positive-definite-matrices-and-minima
-inline_embed_id: 72415044lecture27positivedefinitematricesandminima53657566
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 27: Positive Definite Matrices and Minima'
 transcript: >-
   <p><span m="5560">OK,</span> <span m="9990">this</span> <span
   m="10150">is</span> <span m="10540">the</span> <span m="10970">lecture</span>
@@ -2817,61 +2871,7 @@ transcript: >-
   m="3025760">OK.</span> <span m="3028760">See</span> <span
   m="3028910">you</span> <span m="3028990">on</span> <span
   m="3029130">Friday.</span></p>
-embedded_media:
-  - uid: 8608a37bf7a3e8b1f0aaa7b30ab3a421
-    parent_uid: 7bbe9a95a404007da1050b514194b58e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: vF7eyJ2g3kU
-  - uid: f466165fe9e325bd7fccbbc5e194d8fc
-    parent_uid: 7bbe9a95a404007da1050b514194b58e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/vF7eyJ2g3kU/default.jpg'
-  - uid: c9420f9b0cfaf019fb6dfb70dfedb558
-    parent_uid: 7bbe9a95a404007da1050b514194b58e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 4a6c8dfa49e4a09a857dc4eaf202e732
-    parent_uid: 7bbe9a95a404007da1050b514194b58e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/27.mp4'
-  - uid: 5929090a5c4700667d7d1dec8e7b1be6
-    parent_uid: 7bbe9a95a404007da1050b514194b58e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: vF7eyJ2g3kU
-  - uid: 950df661ba818b594357aa6ab9c70ad4
-    parent_uid: 7bbe9a95a404007da1050b514194b58e
-    id: vF7eyJ2g3kU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-27-positive-definite-matrices-and-minima/vF7eyJ2g3kU.srt
-  - uid: 91bc2a7ba124f1c84236e056732a8d89
-    parent_uid: 7bbe9a95a404007da1050b514194b58e
-    id: vF7eyJ2g3kU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/lecture-27-positive-definite-matrices-and-minima/vF7eyJ2g3kU.pdf
-  - uid: ef2c672aa74c95ac7c16252aad0fa30d
-    parent_uid: 7bbe9a95a404007da1050b514194b58e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b1886517f19788e148f5b5493570b24c
-    parent_uid: 7bbe9a95a404007da1050b514194b58e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 7bbe9a95a404007da1050b514194b58e
 type: courses
 layout: video
 ---

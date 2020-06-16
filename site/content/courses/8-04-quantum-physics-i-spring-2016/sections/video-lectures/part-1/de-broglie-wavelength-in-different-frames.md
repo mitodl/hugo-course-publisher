@@ -1,13 +1,73 @@
 ---
-title: de Broglie wavelength in different frames
-uid: 602bf29587a505983dd84f15409665c8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 8x94EgM2Mpg
+    parent_uid: 602bf29587a505983dd84f15409665c8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 60d1d4eaf2f9aa52eba9e209845c701e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/PVGN31MXIME/default.jpg'
+    parent_uid: 602bf29587a505983dd84f15409665c8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 40568d5fc86050227bd1db198dacad83
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 8x94EgM2Mpg
+    parent_uid: 602bf29587a505983dd84f15409665c8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: cc4701cc628ea41f19b3f248ea870e98
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 602bf29587a505983dd84f15409665c8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 356301a0ddbd5cf266ebb7580734ffef
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec04_s1_300k.mp4'
+    parent_uid: 602bf29587a505983dd84f15409665c8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ad7369422a0caaf84158d6966dc4737f
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/8x94EgM2Mpg/default.jpg'
+    parent_uid: 602bf29587a505983dd84f15409665c8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 29869911033ff694379e1a46c06b69dd
+  - id: 8x94EgM2Mpg.srt
+    parent_uid: 602bf29587a505983dd84f15409665c8
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/de-broglie-wavelength-in-different-frames/8x94EgM2Mpg.srt
+    title: 3play caption file
+    type: null
+    uid: 90a949c3123218513dfd2e02eddf5cae
+  - id: 8x94EgM2Mpg.pdf
+    parent_uid: 602bf29587a505983dd84f15409665c8
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/de-broglie-wavelength-in-different-frames/8x94EgM2Mpg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7b9cdfa509a82747d8eb3cbee293efc5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 602bf29587a505983dd84f15409665c8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 178f21004460d8af7d002626208997db
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 602bf29587a505983dd84f15409665c8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b72c4ba00e31bff83cb519fa5a2411be
+inline_embed_id: 17201653debrogliewavelengthindifferentframes10252408
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: de-broglie-wavelength-in-different-frames
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/de-broglie-wavelength-in-different-frames
-short_url: de-broglie-wavelength-in-different-frames
-inline_embed_id: 17201653debrogliewavelengthindifferentframes10252408
-about_this_resource_text: ''
-related_resources_text: ''
+title: de Broglie wavelength in different frames
 transcript: >-
   <p><span m='1010'>BARTON ZWIEBACH:</span> <span m='1085'>De</span> <span
   m='1160'>Broglie,</span> <span m='2270'>as</span> <span m='2450'>we</span>
@@ -676,67 +736,7 @@ transcript: >-
   m='890750'>something</span> <span m='891110'>very</span> <span
   m='891350'>strange</span> <span m='892010'>happening</span> <span
   m='892530'>here.</span> </p>
-embedded_media:
-  - uid: 60d1d4eaf2f9aa52eba9e209845c701e
-    parent_uid: 602bf29587a505983dd84f15409665c8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 8x94EgM2Mpg
-  - uid: 40568d5fc86050227bd1db198dacad83
-    parent_uid: 602bf29587a505983dd84f15409665c8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/PVGN31MXIME/default.jpg'
-  - uid: cc4701cc628ea41f19b3f248ea870e98
-    parent_uid: 602bf29587a505983dd84f15409665c8
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 8x94EgM2Mpg
-  - uid: 356301a0ddbd5cf266ebb7580734ffef
-    parent_uid: 602bf29587a505983dd84f15409665c8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: ad7369422a0caaf84158d6966dc4737f
-    parent_uid: 602bf29587a505983dd84f15409665c8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec04_s1_300k.mp4'
-  - uid: 29869911033ff694379e1a46c06b69dd
-    parent_uid: 602bf29587a505983dd84f15409665c8
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8x94EgM2Mpg/default.jpg'
-  - uid: 90a949c3123218513dfd2e02eddf5cae
-    parent_uid: 602bf29587a505983dd84f15409665c8
-    id: 8x94EgM2Mpg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/de-broglie-wavelength-in-different-frames/8x94EgM2Mpg.srt
-  - uid: 7b9cdfa509a82747d8eb3cbee293efc5
-    parent_uid: 602bf29587a505983dd84f15409665c8
-    id: 8x94EgM2Mpg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/de-broglie-wavelength-in-different-frames/8x94EgM2Mpg.pdf
-  - uid: 178f21004460d8af7d002626208997db
-    parent_uid: 602bf29587a505983dd84f15409665c8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b72c4ba00e31bff83cb519fa5a2411be
-    parent_uid: 602bf29587a505983dd84f15409665c8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 602bf29587a505983dd84f15409665c8
 type: courses
 layout: video
 ---

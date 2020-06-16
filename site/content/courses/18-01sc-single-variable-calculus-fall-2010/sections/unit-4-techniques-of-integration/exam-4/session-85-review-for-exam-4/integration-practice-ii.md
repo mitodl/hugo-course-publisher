@@ -1,13 +1,68 @@
 ---
-title: Integration Practice II
-uid: f86264e1b7fb9b51dc19f2231296bd39
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 1cejTnuMo1Y
+    parent_uid: f86264e1b7fb9b51dc19f2231296bd39
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 562d1d47644278ff2f18b168c5000edb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/1cejTnuMo1Y/default.jpg'
+    parent_uid: f86264e1b7fb9b51dc19f2231296bd39
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 95ff9657727a936cc86bcafc95691843
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/integration-practice-ii/id414308064?i=90320228
+    parent_uid: f86264e1b7fb9b51dc19f2231296bd39
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5ca89df7c1e977931b6187d6f51b4a67
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_64_300k.mp4'
+    parent_uid: f86264e1b7fb9b51dc19f2231296bd39
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 48c8d8035e59928d50f65c198f746501
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 1cejTnuMo1Y
+    parent_uid: f86264e1b7fb9b51dc19f2231296bd39
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 261ec17977860ca6da4decc8ed3380ef
+  - id: 1cejTnuMo1Y.srt
+    parent_uid: f86264e1b7fb9b51dc19f2231296bd39
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4/integration-practice-ii/1cejTnuMo1Y.srt
+    title: 3play caption file
+    type: null
+    uid: 53ad6f4f9b7d67fae00ef50e924603da
+  - id: 1cejTnuMo1Y.pdf
+    parent_uid: f86264e1b7fb9b51dc19f2231296bd39
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4/integration-practice-ii/1cejTnuMo1Y.pdf
+    title: 3play pdf file
+    type: null
+    uid: d2835649b9952c3b3c0c0aed9956bf70
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f86264e1b7fb9b51dc19f2231296bd39
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 243a782a9f8dcd1f90132db877dfd991
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f86264e1b7fb9b51dc19f2231296bd39
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4e4caf1538549e7494c8b502b7cb5dd3
+inline_embed_id: 5390754integrationpracticeii99209394
 parent_uid: 4699d63d2fc16b8bd7fc498a382dc972
+related_resources_text: ''
+short_url: integration-practice-ii
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4/integration-practice-ii
-short_url: integration-practice-ii
-inline_embed_id: 5390754integrationpracticeii99209394
-about_this_resource_text: ''
-related_resources_text: ''
+title: Integration Practice II
 transcript: >-
   <p><span m='6920'>Welcome</span> <span m='7290'>back to</span> <span
   m='7460'>recitation.</span> <span m='8580'>In</span> <span
@@ -1061,62 +1116,7 @@ transcript: >-
   m='883450'>that</span> <span m='883750'>is</span> <span
   m='883860'>where</span> <span m='883990'>I</span> <span m='884060'>will</span>
   <span m='884200'>stop.</span> </p>
-embedded_media:
-  - uid: 562d1d47644278ff2f18b168c5000edb
-    parent_uid: f86264e1b7fb9b51dc19f2231296bd39
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 1cejTnuMo1Y
-  - uid: 95ff9657727a936cc86bcafc95691843
-    parent_uid: f86264e1b7fb9b51dc19f2231296bd39
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/1cejTnuMo1Y/default.jpg'
-  - uid: 5ca89df7c1e977931b6187d6f51b4a67
-    parent_uid: f86264e1b7fb9b51dc19f2231296bd39
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/integration-practice-ii/id414308064?i=90320228
-  - uid: 48c8d8035e59928d50f65c198f746501
-    parent_uid: f86264e1b7fb9b51dc19f2231296bd39
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_64_300k.mp4'
-  - uid: 261ec17977860ca6da4decc8ed3380ef
-    parent_uid: f86264e1b7fb9b51dc19f2231296bd39
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 1cejTnuMo1Y
-  - uid: 53ad6f4f9b7d67fae00ef50e924603da
-    parent_uid: f86264e1b7fb9b51dc19f2231296bd39
-    id: 1cejTnuMo1Y.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4/integration-practice-ii/1cejTnuMo1Y.srt
-  - uid: d2835649b9952c3b3c0c0aed9956bf70
-    parent_uid: f86264e1b7fb9b51dc19f2231296bd39
-    id: 1cejTnuMo1Y.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4/integration-practice-ii/1cejTnuMo1Y.pdf
-  - uid: 243a782a9f8dcd1f90132db877dfd991
-    parent_uid: f86264e1b7fb9b51dc19f2231296bd39
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4e4caf1538549e7494c8b502b7cb5dd3
-    parent_uid: f86264e1b7fb9b51dc19f2231296bd39
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f86264e1b7fb9b51dc19f2231296bd39
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: State Machines Invariants
-uid: 893cbbfeccf5130ecd64f525d69cd901
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: cbc43e08ade5c1213452b5e8e5af1995
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: fb3c9b544628d90338c0eb93a9eae347
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_statemachines_ipod.mp4
+    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b1c5374fde8c54972057ffeb833922c5
+  - id: Video-YouTube-Stream
+    media_location: VuG2JNcRXYg
+    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b2028491b4cd74b976f79678e3a502ed
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/VuG2JNcRXYg/default.jpg'
+    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 37877177d71561fd3a33a61b7eb4b9f8
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: VuG2JNcRXYg
+    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f771345e59f87e350edee0fbbaffa07b
+  - id: VuG2JNcRXYg.srt
+    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/state-machines-invariants/VuG2JNcRXYg.srt
+    title: 3play caption file
+    type: null
+    uid: 3871c6ba0950e708ad8a46cb43c81aed
+  - id: VuG2JNcRXYg.pdf
+    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/state-machines-invariants/VuG2JNcRXYg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 46a368e2323f181f77c1bbbba6fd4639
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 72f744a8427448c3504fa83333307802
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 29d9315d7b050f8b9eaec09896133261
+inline_embed_id: 91053964statemachinesinvariants54481980
 parent_uid: 470546ac81246c938505a0f7571765aa
+related_resources_text: ''
+short_url: state-machines-invariants
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/state-machines-invariants
-short_url: state-machines-invariants
-inline_embed_id: 91053964statemachinesinvariants54481980
-about_this_resource_text: ''
-related_resources_text: ''
+title: State Machines Invariants
 transcript: >-
   <p><span m='730'>PROFESSOR: So</span> <span m='860'>we're</span> <span
   m='950'>going</span> <span m='1070'>to</span> <span m='1120'>talk</span> <span
@@ -1938,67 +1998,7 @@ transcript: >-
   m='1548110'>correctness</span> <span m='1548780'>and</span> <span
   m='1549100'>to</span> <span m='1549970'>programming</span> <span
   m='1550500'>language</span> <span m='1551100'>parsing.</span> </p>
-embedded_media:
-  - uid: cbc43e08ade5c1213452b5e8e5af1995
-    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: fb3c9b544628d90338c0eb93a9eae347
-    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: b1c5374fde8c54972057ffeb833922c5
-    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_statemachines_ipod.mp4
-  - uid: b2028491b4cd74b976f79678e3a502ed
-    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: VuG2JNcRXYg
-  - uid: 37877177d71561fd3a33a61b7eb4b9f8
-    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/VuG2JNcRXYg/default.jpg'
-  - uid: f771345e59f87e350edee0fbbaffa07b
-    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: VuG2JNcRXYg
-  - uid: 3871c6ba0950e708ad8a46cb43c81aed
-    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
-    id: VuG2JNcRXYg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/state-machines-invariants/VuG2JNcRXYg.srt
-  - uid: 46a368e2323f181f77c1bbbba6fd4639
-    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
-    id: VuG2JNcRXYg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/state-machines-invariants/VuG2JNcRXYg.pdf
-  - uid: 72f744a8427448c3504fa83333307802
-    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 29d9315d7b050f8b9eaec09896133261
-    parent_uid: 893cbbfeccf5130ecd64f525d69cd901
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 893cbbfeccf5130ecd64f525d69cd901
 type: courses
 layout: video
 ---

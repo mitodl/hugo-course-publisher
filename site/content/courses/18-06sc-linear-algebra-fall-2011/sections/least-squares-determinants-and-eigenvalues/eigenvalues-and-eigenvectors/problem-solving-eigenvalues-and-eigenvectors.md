@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Eigenvalues and Eigenvectors'
-uid: 787e0f96696dbe97e7fae15700a5a92d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: mVeuZzJdd1w
+    parent_uid: 787e0f96696dbe97e7fae15700a5a92d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 44bddeea562f0d6bf7214258791b5408
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: mVeuZzJdd1w
+    parent_uid: 787e0f96696dbe97e7fae15700a5a92d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e9e786dd966b0e8be23135ae832c4cb6
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/eigenvalues-eigenvectors/id488155309?i=108454351
+    parent_uid: 787e0f96696dbe97e7fae15700a5a92d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 944677827dd16f541b77ce67d0566ed7
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110706_N2_300k.mp4
+    parent_uid: 787e0f96696dbe97e7fae15700a5a92d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0264543baf426f88f5148c1244a242e3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/mVeuZzJdd1w/default.jpg'
+    parent_uid: 787e0f96696dbe97e7fae15700a5a92d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 491b32066286649ab74fc497bd2ab853
+  - id: mVeuZzJdd1w.srt
+    parent_uid: 787e0f96696dbe97e7fae15700a5a92d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/eigenvalues-and-eigenvectors/problem-solving-eigenvalues-and-eigenvectors/mVeuZzJdd1w.srt
+    title: 3play caption file
+    type: null
+    uid: 5ceac9d3957106ccde449c10ef755162
+  - id: mVeuZzJdd1w.pdf
+    parent_uid: 787e0f96696dbe97e7fae15700a5a92d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/eigenvalues-and-eigenvectors/problem-solving-eigenvalues-and-eigenvectors/mVeuZzJdd1w.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6c525b41e0a7c9f8440dfa4176c877ff
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 787e0f96696dbe97e7fae15700a5a92d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cd49512d170c79e6aa24ad17a6376d85
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 787e0f96696dbe97e7fae15700a5a92d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9e6b37be9d224dd513bcbeafa7a5a26d
+inline_embed_id: '87832378problemsolving:eigenvaluesandeigenvectors23394751'
 parent_uid: 3d8f60a80fef5e0fbd7a13ad5eb457f7
+related_resources_text: ''
+short_url: problem-solving-eigenvalues-and-eigenvectors
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/eigenvalues-and-eigenvectors/problem-solving-eigenvalues-and-eigenvectors
-short_url: problem-solving-eigenvalues-and-eigenvectors
-inline_embed_id: '87832378problemsolving:eigenvaluesandeigenvectors23394751'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Eigenvalues and Eigenvectors'
 transcript: >-
   <p><span m='7110'>PROFESSOR: Hi</span> <span m='7280'>guys.</span> <span
   m='8540'>Today,</span> <span m='9360'>we</span> <span m='9630'>are</span>
@@ -362,63 +418,7 @@ transcript: >-
   m='557340'>be</span> <span m='557650'>the</span> <span m='557980'>same.</span>
   <span m='559630'>OK,</span> <span m='560120'>we're</span> <span
   m='560310'>done.</span> </p>
-embedded_media:
-  - uid: 44bddeea562f0d6bf7214258791b5408
-    parent_uid: 787e0f96696dbe97e7fae15700a5a92d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: mVeuZzJdd1w
-  - uid: e9e786dd966b0e8be23135ae832c4cb6
-    parent_uid: 787e0f96696dbe97e7fae15700a5a92d
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: mVeuZzJdd1w
-  - uid: 944677827dd16f541b77ce67d0566ed7
-    parent_uid: 787e0f96696dbe97e7fae15700a5a92d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/eigenvalues-eigenvectors/id488155309?i=108454351
-  - uid: 0264543baf426f88f5148c1244a242e3
-    parent_uid: 787e0f96696dbe97e7fae15700a5a92d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110706_N2_300k.mp4
-  - uid: 491b32066286649ab74fc497bd2ab853
-    parent_uid: 787e0f96696dbe97e7fae15700a5a92d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/mVeuZzJdd1w/default.jpg'
-  - uid: 5ceac9d3957106ccde449c10ef755162
-    parent_uid: 787e0f96696dbe97e7fae15700a5a92d
-    id: mVeuZzJdd1w.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/eigenvalues-and-eigenvectors/problem-solving-eigenvalues-and-eigenvectors/mVeuZzJdd1w.srt
-  - uid: 6c525b41e0a7c9f8440dfa4176c877ff
-    parent_uid: 787e0f96696dbe97e7fae15700a5a92d
-    id: mVeuZzJdd1w.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/eigenvalues-and-eigenvectors/problem-solving-eigenvalues-and-eigenvectors/mVeuZzJdd1w.pdf
-  - uid: cd49512d170c79e6aa24ad17a6376d85
-    parent_uid: 787e0f96696dbe97e7fae15700a5a92d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9e6b37be9d224dd513bcbeafa7a5a26d
-    parent_uid: 787e0f96696dbe97e7fae15700a5a92d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 787e0f96696dbe97e7fae15700a5a92d
 type: courses
 layout: video
 ---

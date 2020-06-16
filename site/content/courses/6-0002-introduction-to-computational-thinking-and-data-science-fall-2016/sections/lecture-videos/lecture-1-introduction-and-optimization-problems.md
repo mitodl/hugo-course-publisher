@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 1: Introduction and Optimization Problems'
-uid: afab0ab93ee1ed8008328c4a3dd0609a
-parent_uid: dfe2b9f5ab127795415ac86facf4a535
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems
-short_url: lecture-1-introduction-and-optimization-problems
-inline_embed_id: 84770030lecture1introductionandoptimizationproblems66005298
 about_this_resource_text: >-
   <p><strong>Description:</strong> Prof. Guttag provides an overview of the
   course and discusses how we use computational models to understand the world
   in which we live, in particular he discusses the knapsack problem and greedy
   algoriths.</p> <p><strong>Instructor:</strong> John Guttag</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: C1lhuz6pZC0
+    parent_uid: afab0ab93ee1ed8008328c4a3dd0609a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8857ca1d3de0decee578649c075478b3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/C1lhuz6pZC0/default.jpg'
+    parent_uid: afab0ab93ee1ed8008328c4a3dd0609a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 43385bce108b816ab642a869f0021ffa
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: C1lhuz6pZC0
+    parent_uid: afab0ab93ee1ed8008328c4a3dd0609a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e34b7e924d2613a77156072724443427
+  - id: C1lhuz6pZC0.srt
+    parent_uid: afab0ab93ee1ed8008328c4a3dd0609a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems/C1lhuz6pZC0.srt
+    title: 3play caption file
+    type: null
+    uid: a5537cf841bbd153c799099f848024eb
+  - id: C1lhuz6pZC0.pdf
+    parent_uid: afab0ab93ee1ed8008328c4a3dd0609a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems/C1lhuz6pZC0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1a33a68ce69d3931e73e60bf586ec7f0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: afab0ab93ee1ed8008328c4a3dd0609a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bb6dfd031c92f85fc6da3790373f2763
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: afab0ab93ee1ed8008328c4a3dd0609a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c98f9c6c38a20111802399d42048df74
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
+    parent_uid: afab0ab93ee1ed8008328c4a3dd0609a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 84af49aefc512391ce7f4c6021e19888
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec01_300k.mp4'
+    parent_uid: afab0ab93ee1ed8008328c4a3dd0609a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0543c4b5ede7809cb0149b6ecd005c39
+inline_embed_id: 84770030lecture1introductionandoptimizationproblems66005298
+parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
+short_url: lecture-1-introduction-and-optimization-problems
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems
+title: 'Lecture 1: Introduction and Optimization Problems'
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1330">content</span> <span m="1810">is</span> <span
@@ -2314,61 +2368,7 @@ transcript: >-
   m="2444810">than</span> <span m="2444990">brute</span> <span
   m="2445230">force.</span> <span m="2446730">See</span> <span
   m="2446950">you</span> <span m="2447070">then.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: 8857ca1d3de0decee578649c075478b3
-    parent_uid: afab0ab93ee1ed8008328c4a3dd0609a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: C1lhuz6pZC0
-  - uid: 43385bce108b816ab642a869f0021ffa
-    parent_uid: afab0ab93ee1ed8008328c4a3dd0609a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/C1lhuz6pZC0/default.jpg'
-  - uid: e34b7e924d2613a77156072724443427
-    parent_uid: afab0ab93ee1ed8008328c4a3dd0609a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: C1lhuz6pZC0
-  - uid: a5537cf841bbd153c799099f848024eb
-    parent_uid: afab0ab93ee1ed8008328c4a3dd0609a
-    id: C1lhuz6pZC0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems/C1lhuz6pZC0.srt
-  - uid: 1a33a68ce69d3931e73e60bf586ec7f0
-    parent_uid: afab0ab93ee1ed8008328c4a3dd0609a
-    id: C1lhuz6pZC0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-1-introduction-and-optimization-problems/C1lhuz6pZC0.pdf
-  - uid: bb6dfd031c92f85fc6da3790373f2763
-    parent_uid: afab0ab93ee1ed8008328c4a3dd0609a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c98f9c6c38a20111802399d42048df74
-    parent_uid: afab0ab93ee1ed8008328c4a3dd0609a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 84af49aefc512391ce7f4c6021e19888
-    parent_uid: afab0ab93ee1ed8008328c4a3dd0609a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
-  - uid: 0543c4b5ede7809cb0149b6ecd005c39
-    parent_uid: afab0ab93ee1ed8008328c4a3dd0609a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec01_300k.mp4'
+uid: afab0ab93ee1ed8008328c4a3dd0609a
 type: courses
 layout: video
 ---

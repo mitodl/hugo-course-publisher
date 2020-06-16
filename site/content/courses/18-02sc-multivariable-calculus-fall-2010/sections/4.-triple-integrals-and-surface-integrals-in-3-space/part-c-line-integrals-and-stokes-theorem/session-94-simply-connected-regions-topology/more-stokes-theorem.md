@@ -1,13 +1,68 @@
 ---
-title: More Stokes' Theorem
-uid: 3f1f852f34346043c31f37e0a2d1714e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: vnWXYI4UQrs
+    parent_uid: 3f1f852f34346043c31f37e0a2d1714e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0968df30b544389d6e130bc8b901b057
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/vnWXYI4UQrs/default.jpg'
+    parent_uid: 3f1f852f34346043c31f37e0a2d1714e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4394b64515143b8b551d8602e0ef7fd0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: vnWXYI4UQrs
+    parent_uid: 3f1f852f34346043c31f37e0a2d1714e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 415282320e758f8e0ce21e8e4a90301e
+  - id: vnWXYI4UQrs.srt
+    parent_uid: 3f1f852f34346043c31f37e0a2d1714e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-94-simply-connected-regions-topology/more-stokes-theorem/vnWXYI4UQrs.srt
+    title: 3play caption file
+    type: null
+    uid: 6e2f7082419ace834eec1b66af178208
+  - id: vnWXYI4UQrs.pdf
+    parent_uid: 3f1f852f34346043c31f37e0a2d1714e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-94-simply-connected-regions-topology/more-stokes-theorem/vnWXYI4UQrs.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2cbae6ebfed2adb8dc90999b90c8f1d3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3f1f852f34346043c31f37e0a2d1714e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 17cce3c3540e9b1a7d47ff10e1fb5c7e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3f1f852f34346043c31f37e0a2d1714e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fa9763d314f26f35f2ed9dc5fcf15df2
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/more-stokes-theorem/id414355340?i=90323149
+    parent_uid: 3f1f852f34346043c31f37e0a2d1714e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: da92ca953cc856ffbf8a20aba3593916
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_68_300k.mp4'
+    parent_uid: 3f1f852f34346043c31f37e0a2d1714e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b04cfb239116e3ff62268268269f56a0
+inline_embed_id: 37806129morestokes'theorem74586518
 parent_uid: 9da45f785868f3aefcb2c3ec1ad5293e
+related_resources_text: ''
+short_url: more-stokes-theorem
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-94-simply-connected-regions-topology/more-stokes-theorem
-short_url: more-stokes-theorem
-inline_embed_id: 37806129morestokes'theorem74586518
-about_this_resource_text: ''
-related_resources_text: ''
+title: More Stokes' Theorem
 transcript: >-
   <p><span m='7030'>Hi.</span> <span m='7600'>Welcome</span> <span
   m='7930'>back</span> <span m='8140'>to</span> <span
@@ -497,62 +552,7 @@ transcript: >-
   m='497285'>function.</span> <span m='497760'>So</span> <span
   m='497970'>I'll</span> <span m='498060'>stop</span> <span
   m='498380'>there.</span> </p>
-embedded_media:
-  - uid: 0968df30b544389d6e130bc8b901b057
-    parent_uid: 3f1f852f34346043c31f37e0a2d1714e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: vnWXYI4UQrs
-  - uid: 4394b64515143b8b551d8602e0ef7fd0
-    parent_uid: 3f1f852f34346043c31f37e0a2d1714e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/vnWXYI4UQrs/default.jpg'
-  - uid: 415282320e758f8e0ce21e8e4a90301e
-    parent_uid: 3f1f852f34346043c31f37e0a2d1714e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: vnWXYI4UQrs
-  - uid: 6e2f7082419ace834eec1b66af178208
-    parent_uid: 3f1f852f34346043c31f37e0a2d1714e
-    id: vnWXYI4UQrs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-94-simply-connected-regions-topology/more-stokes-theorem/vnWXYI4UQrs.srt
-  - uid: 2cbae6ebfed2adb8dc90999b90c8f1d3
-    parent_uid: 3f1f852f34346043c31f37e0a2d1714e
-    id: vnWXYI4UQrs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-94-simply-connected-regions-topology/more-stokes-theorem/vnWXYI4UQrs.pdf
-  - uid: 17cce3c3540e9b1a7d47ff10e1fb5c7e
-    parent_uid: 3f1f852f34346043c31f37e0a2d1714e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fa9763d314f26f35f2ed9dc5fcf15df2
-    parent_uid: 3f1f852f34346043c31f37e0a2d1714e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: da92ca953cc856ffbf8a20aba3593916
-    parent_uid: 3f1f852f34346043c31f37e0a2d1714e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/more-stokes-theorem/id414355340?i=90323149
-  - uid: b04cfb239116e3ff62268268269f56a0
-    parent_uid: 3f1f852f34346043c31f37e0a2d1714e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_68_300k.mp4'
+uid: 3f1f852f34346043c31f37e0a2d1714e
 type: courses
 layout: video
 ---

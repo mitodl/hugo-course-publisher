@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Substitution'
-uid: 6f2769cc535a36e90aba3dc0e7ff31ba
-parent_uid: def23901ebbad92ea90a23199cbba444
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-38-integration-by-substitution/clip-1-substitution
-short_url: clip-1-substitution
-inline_embed_id: '85531534clip1:substitution8277202'
 about_this_resource_text: >-
   <p>&raquo; <a target="_blank"
   href="./resolveuid/4ae5ff13fdcb547a5b8e184f69f83043">Accompanying Notes
   (PDF)</a></p> <p class="scholar_medsm">From Lecture 15 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: '-MI0b4h3rS0'
+    parent_uid: 6f2769cc535a36e90aba3dc0e7ff31ba
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5ff0c2750f7f333af75d99e08b0f1025
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-MI0b4h3rS0/default.jpg'
+    parent_uid: 6f2769cc535a36e90aba3dc0e7ff31ba
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 133178fdbfd416f4ba0449ebb13f5269
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: '-MI0b4h3rS0'
+    parent_uid: 6f2769cc535a36e90aba3dc0e7ff31ba
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2c8b07d6e600eeb3e6a5c6266d28bbed
+  - id: '-MI0b4h3rS0.srt'
+    parent_uid: 6f2769cc535a36e90aba3dc0e7ff31ba
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-38-integration-by-substitution/clip-1-substitution/-MI0b4h3rS0.srt
+    title: 3play caption file
+    type: null
+    uid: e23bfbbc1d4f20c4d46586e146c9ce56
+  - id: '-MI0b4h3rS0.pdf'
+    parent_uid: 6f2769cc535a36e90aba3dc0e7ff31ba
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-38-integration-by-substitution/clip-1-substitution/-MI0b4h3rS0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1e39e2bcd0a1ec688f387e683f3b9a04
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6f2769cc535a36e90aba3dc0e7ff31ba
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0a8ca39737fd950ce2f87fe23b0d7a97
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6f2769cc535a36e90aba3dc0e7ff31ba
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 40d460d06d5a5fc605d01887e8261651
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec15_300k.mp4'
+    parent_uid: 6f2769cc535a36e90aba3dc0e7ff31ba
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b81ff7278e336b713b32a5c0a072d7fd
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 6f2769cc535a36e90aba3dc0e7ff31ba
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f67d7d6599b446d24de6d1ba2b330c2a
+inline_embed_id: '85531534clip1:substitution8277202'
+parent_uid: def23901ebbad92ea90a23199cbba444
 related_resources_text: ''
+short_url: clip-1-substitution
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-38-integration-by-substitution/clip-1-substitution
+title: 'Clip 1: Substitution'
 transcript: >-
   <p><span m="120">The</span> <span m="370">following</span> <span
   m="540">content</span> <span m="1270">is</span> <span m="1420">provided</span>
@@ -2107,61 +2161,7 @@ transcript: >-
   <span m="2928330">the</span> <span m="2928400">test.</span> <span
   m="2928940">So,</span> <span m="2930800">see</span> <span m="2930950">you
   tomorrow.</span></p>
-embedded_media:
-  - uid: 5ff0c2750f7f333af75d99e08b0f1025
-    parent_uid: 6f2769cc535a36e90aba3dc0e7ff31ba
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-MI0b4h3rS0'
-  - uid: 133178fdbfd416f4ba0449ebb13f5269
-    parent_uid: 6f2769cc535a36e90aba3dc0e7ff31ba
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-MI0b4h3rS0/default.jpg'
-  - uid: 2c8b07d6e600eeb3e6a5c6266d28bbed
-    parent_uid: 6f2769cc535a36e90aba3dc0e7ff31ba
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-MI0b4h3rS0'
-  - uid: e23bfbbc1d4f20c4d46586e146c9ce56
-    parent_uid: 6f2769cc535a36e90aba3dc0e7ff31ba
-    id: '-MI0b4h3rS0.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-38-integration-by-substitution/clip-1-substitution/-MI0b4h3rS0.srt
-  - uid: 1e39e2bcd0a1ec688f387e683f3b9a04
-    parent_uid: 6f2769cc535a36e90aba3dc0e7ff31ba
-    id: '-MI0b4h3rS0.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-38-integration-by-substitution/clip-1-substitution/-MI0b4h3rS0.pdf
-  - uid: 0a8ca39737fd950ce2f87fe23b0d7a97
-    parent_uid: 6f2769cc535a36e90aba3dc0e7ff31ba
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 40d460d06d5a5fc605d01887e8261651
-    parent_uid: 6f2769cc535a36e90aba3dc0e7ff31ba
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b81ff7278e336b713b32a5c0a072d7fd
-    parent_uid: 6f2769cc535a36e90aba3dc0e7ff31ba
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec15_300k.mp4'
-  - uid: f67d7d6599b446d24de6d1ba2b330c2a
-    parent_uid: 6f2769cc535a36e90aba3dc0e7ff31ba
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 6f2769cc535a36e90aba3dc0e7ff31ba
 type: courses
 layout: video
 ---

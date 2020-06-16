@@ -1,13 +1,62 @@
 ---
-title: 'Video 7: Cross-Validation'
-uid: 445b933500d099ecc73b738b4a13049d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: IXwPD4R6V6M
+    parent_uid: 445b933500d099ecc73b738b4a13049d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: cb6fd9e8fcbee8075619b684d3bdc597
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: IXwPD4R6V6M
+    parent_uid: 445b933500d099ecc73b738b4a13049d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 91e80ea99a055093db5c39e7c89a0968
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/IXwPD4R6V6M/default.jpg'
+    parent_uid: 445b933500d099ecc73b738b4a13049d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: eea7713110da31b3988203af052fbaf4
+  - id: IXwPD4R6V6M.srt
+    parent_uid: 445b933500d099ecc73b738b4a13049d
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/location-location-location-regression-trees-for-housing-data-recitation/video-7-cross-validation/video-7-cross-validation-0/IXwPD4R6V6M.srt
+    title: 3play caption file
+    type: null
+    uid: dbb6867157e446092c57a8f87d6f9e20
+  - id: IXwPD4R6V6M.pdf
+    parent_uid: 445b933500d099ecc73b738b4a13049d
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/location-location-location-regression-trees-for-housing-data-recitation/video-7-cross-validation/video-7-cross-validation-0/IXwPD4R6V6M.pdf
+    title: 3play pdf file
+    type: null
+    uid: 965767a2ce9f40f0b878c37f063471f8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 445b933500d099ecc73b738b4a13049d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 16382ba38e5d498f3dc9f57f9de4450e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 445b933500d099ecc73b738b4a13049d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 69322131097a699587b5e3ae3d4dda60
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.4.08_300k.mp4
+    parent_uid: 445b933500d099ecc73b738b4a13049d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0e0a95d6604f105690e5aed6fc5b118e
+inline_embed_id: 22492470video7crossvalidation6785155
 parent_uid: 6fc7a0e47d44d24efd6c876af7f8e2de
+related_resources_text: ''
+short_url: video-7-cross-validation-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/location-location-location-regression-trees-for-housing-data-recitation/video-7-cross-validation/video-7-cross-validation-0
-short_url: video-7-cross-validation-0
-inline_embed_id: 22492470video7crossvalidation6785155
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 7: Cross-Validation'
 transcript: >-
   <p><span m='5150'>OK,</span> <span m='5475'>so</span> <span
   m='5800'>now</span> <span m='6125'>we</span> <span m='6450'>know</span> <span
@@ -348,56 +397,7 @@ transcript: >-
   m='418553'>end</span> <span m='418961'>of</span> <span m='419368'>the</span>
   <span m='419776'>presentation</span> <span m='420184'>Thank</span> <span
   m='420592'>you.</span> </p>
-embedded_media:
-  - uid: cb6fd9e8fcbee8075619b684d3bdc597
-    parent_uid: 445b933500d099ecc73b738b4a13049d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: IXwPD4R6V6M
-  - uid: 91e80ea99a055093db5c39e7c89a0968
-    parent_uid: 445b933500d099ecc73b738b4a13049d
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: IXwPD4R6V6M
-  - uid: eea7713110da31b3988203af052fbaf4
-    parent_uid: 445b933500d099ecc73b738b4a13049d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/IXwPD4R6V6M/default.jpg'
-  - uid: dbb6867157e446092c57a8f87d6f9e20
-    parent_uid: 445b933500d099ecc73b738b4a13049d
-    id: IXwPD4R6V6M.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/location-location-location-regression-trees-for-housing-data-recitation/video-7-cross-validation/video-7-cross-validation-0/IXwPD4R6V6M.srt
-  - uid: 965767a2ce9f40f0b878c37f063471f8
-    parent_uid: 445b933500d099ecc73b738b4a13049d
-    id: IXwPD4R6V6M.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/location-location-location-regression-trees-for-housing-data-recitation/video-7-cross-validation/video-7-cross-validation-0/IXwPD4R6V6M.pdf
-  - uid: 16382ba38e5d498f3dc9f57f9de4450e
-    parent_uid: 445b933500d099ecc73b738b4a13049d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 69322131097a699587b5e3ae3d4dda60
-    parent_uid: 445b933500d099ecc73b738b4a13049d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0e0a95d6604f105690e5aed6fc5b118e
-    parent_uid: 445b933500d099ecc73b738b4a13049d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.4.08_300k.mp4
+uid: 445b933500d099ecc73b738b4a13049d
 type: courses
 layout: video
 ---

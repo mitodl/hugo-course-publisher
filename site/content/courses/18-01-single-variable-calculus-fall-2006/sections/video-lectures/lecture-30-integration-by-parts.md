@@ -1,19 +1,91 @@
 ---
-title: 'Lecture 30: Integration by Parts'
-uid: d5f979ee21920fdc9d436d2a8a135b97
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-30-integration-by-parts
-short_url: lecture-30-integration-by-parts
-inline_embed_id: '60072761lecture30:integrationbyparts78912933'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Integration by parts,
   reduction formulae</p> <p><strong>Instructor:</strong> Prof. David
   Jerison</p></div>
+embedded_media:
+  - id: lec30.jpg
+    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-30-integration-by-parts/lec30.jpg
+    title: Lecture 30
+    type: null
+    uid: b1d1af6550b0ef74f55bbccb1e35ee96
+  - id: Video-YouTube-Stream
+    media_location: aeXp1zC6Hls
+    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 138145b83de3eed55f8da75f7f9eb604
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/aeXp1zC6Hls/default.jpg'
+    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e5667fe20088976bc5ca220593fbf32d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 386db96451bff65adaaa42f5d926ce82
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec30_300k.mp4'
+    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d0f83928000d4f3daf2ce65030e5b48f
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: d48b3cf2fe841745a1f0bde34f9c9b4a
+  - id: Thumbnail-OCW-JPG
+    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: fe2b1a966fd654e04cbceb56b803a068
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: aeXp1zC6Hls
+    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c49cde97cfea12d2ccb6633c1c566b8d
+  - id: aeXp1zC6Hls.srt
+    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-30-integration-by-parts/aeXp1zC6Hls.srt
+    title: 3play caption file
+    type: null
+    uid: 1c18a8dd17c1e9d9e55e208120b4a2c7
+  - id: aeXp1zC6Hls.pdf
+    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-30-integration-by-parts/aeXp1zC6Hls.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7670e692e662cd8908778da9d241e209
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 966e47d2887c6ab9245c51c2da6e8f10
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e3c5d9209b29323541578e5b73f1a97c
+inline_embed_id: '60072761lecture30:integrationbyparts78912933'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/e2ae9ec87ea3cb1a02d02400c4c2a276">PDF -
   1.4MB</a>)</p></div>
+short_url: lecture-30-integration-by-parts
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-30-integration-by-parts
+title: 'Lecture 30: Integration by Parts'
 transcript: >-
   <p><span m='0'>The</span> <span m='90'>following</span> <span
   m='520'>content</span> <span m='1290'>is</span> <span m='1420'>provided</span>
@@ -2750,79 +2822,7 @@ transcript: >-
   m='3073840'>there.</span> <span m='3076930'>So</span> <span
   m='3077170'>just,</span> <span m='3079070'>right</span> <span
   m='3079210'>there.</span> </p>
-embedded_media:
-  - uid: b1d1af6550b0ef74f55bbccb1e35ee96
-    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
-    id: lec30.jpg
-    title: Lecture 30
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-30-integration-by-parts/lec30.jpg
-  - uid: 138145b83de3eed55f8da75f7f9eb604
-    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: aeXp1zC6Hls
-  - uid: e5667fe20088976bc5ca220593fbf32d
-    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/aeXp1zC6Hls/default.jpg'
-  - uid: 386db96451bff65adaaa42f5d926ce82
-    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: d0f83928000d4f3daf2ce65030e5b48f
-    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec30_300k.mp4'
-  - uid: d48b3cf2fe841745a1f0bde34f9c9b4a
-    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: fe2b1a966fd654e04cbceb56b803a068
-    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: c49cde97cfea12d2ccb6633c1c566b8d
-    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: aeXp1zC6Hls
-  - uid: 1c18a8dd17c1e9d9e55e208120b4a2c7
-    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
-    id: aeXp1zC6Hls.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-30-integration-by-parts/aeXp1zC6Hls.srt
-  - uid: 7670e692e662cd8908778da9d241e209
-    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
-    id: aeXp1zC6Hls.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-30-integration-by-parts/aeXp1zC6Hls.pdf
-  - uid: 966e47d2887c6ab9245c51c2da6e8f10
-    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e3c5d9209b29323541578e5b73f1a97c
-    parent_uid: d5f979ee21920fdc9d436d2a8a135b97
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: d5f979ee21920fdc9d436d2a8a135b97
 type: courses
 layout: video
 ---

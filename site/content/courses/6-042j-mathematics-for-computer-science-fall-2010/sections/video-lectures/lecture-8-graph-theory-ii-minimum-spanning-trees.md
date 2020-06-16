@@ -1,16 +1,71 @@
 ---
-title: 'Lecture 8: Graph Theory II: Minimum Spanning Trees'
-uid: dd294d5aa91d79e92e582bcabb9a90e1
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-8-graph-theory-ii-minimum-spanning-trees
-short_url: lecture-8-graph-theory-ii-minimum-spanning-trees
-inline_embed_id: '7779091lecture8:graphtheoryii:minimumspanningtrees76434389'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Explores the various measures of connectivity
   of graphs and how these can be used to categorize and analyze graphs.</p>
   <p><strong>Speaker:</strong> Marten van Dijk</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: GJpt_3ie4WU
+    parent_uid: dd294d5aa91d79e92e582bcabb9a90e1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: af4869a50652d4a36f9897e202504838
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/GJpt_3ie4WU/default.jpg'
+    parent_uid: dd294d5aa91d79e92e582bcabb9a90e1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2de5e1a595d3e2949b0e91422f8c3f3c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-8-graph-theory-ii/id503873536?i=110644969
+    parent_uid: dd294d5aa91d79e92e582bcabb9a90e1
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b059c0261c1519e6707886acd845e971
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec08_300k.mp4'
+    parent_uid: dd294d5aa91d79e92e582bcabb9a90e1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0bfaec62e027ce18de4ed35058d3d2a1
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: GJpt_3ie4WU
+    parent_uid: dd294d5aa91d79e92e582bcabb9a90e1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1d9767bdcaa14167bf35dd0c50f01cec
+  - id: GJpt_3ie4WU.srt
+    parent_uid: dd294d5aa91d79e92e582bcabb9a90e1
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-8-graph-theory-ii-minimum-spanning-trees/GJpt_3ie4WU.srt
+    title: 3play caption file
+    type: null
+    uid: 27c002738e434bc0471ca8ae29d78f9c
+  - id: GJpt_3ie4WU.pdf
+    parent_uid: dd294d5aa91d79e92e582bcabb9a90e1
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-8-graph-theory-ii-minimum-spanning-trees/GJpt_3ie4WU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4cd9e7dafa48708210af272844003398
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: dd294d5aa91d79e92e582bcabb9a90e1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2b6d464f7b7b7f0be803064349471c2f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: dd294d5aa91d79e92e582bcabb9a90e1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0e7d8cd6d99fa80e002b3224b53817b9
+inline_embed_id: '7779091lecture8:graphtheoryii:minimumspanningtrees76434389'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
+short_url: lecture-8-graph-theory-ii-minimum-spanning-trees
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-8-graph-theory-ii-minimum-spanning-trees
+title: 'Lecture 8: Graph Theory II: Minimum Spanning Trees'
 transcript: >-
   <p><span m='410'>The</span> <span m='510'>following</span> <span
   m='950'>content</span> <span m='1550'>is</span> <span m='1660'>provided</span>
@@ -4105,62 +4160,7 @@ transcript: >-
   m='4999740'>the</span> <span m='4999970'>different proof</span> <span
   m='5000310'>techniques.</span> </p><p><span m='5001290'>OK.</span> <span
   m='5001610'>Thank</span> <span m='5001960'>you.</span> </p><p></p>
-embedded_media:
-  - uid: af4869a50652d4a36f9897e202504838
-    parent_uid: dd294d5aa91d79e92e582bcabb9a90e1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: GJpt_3ie4WU
-  - uid: 2de5e1a595d3e2949b0e91422f8c3f3c
-    parent_uid: dd294d5aa91d79e92e582bcabb9a90e1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/GJpt_3ie4WU/default.jpg'
-  - uid: b059c0261c1519e6707886acd845e971
-    parent_uid: dd294d5aa91d79e92e582bcabb9a90e1
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-8-graph-theory-ii/id503873536?i=110644969
-  - uid: 0bfaec62e027ce18de4ed35058d3d2a1
-    parent_uid: dd294d5aa91d79e92e582bcabb9a90e1
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec08_300k.mp4'
-  - uid: 1d9767bdcaa14167bf35dd0c50f01cec
-    parent_uid: dd294d5aa91d79e92e582bcabb9a90e1
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: GJpt_3ie4WU
-  - uid: 27c002738e434bc0471ca8ae29d78f9c
-    parent_uid: dd294d5aa91d79e92e582bcabb9a90e1
-    id: GJpt_3ie4WU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-8-graph-theory-ii-minimum-spanning-trees/GJpt_3ie4WU.srt
-  - uid: 4cd9e7dafa48708210af272844003398
-    parent_uid: dd294d5aa91d79e92e582bcabb9a90e1
-    id: GJpt_3ie4WU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-8-graph-theory-ii-minimum-spanning-trees/GJpt_3ie4WU.pdf
-  - uid: 2b6d464f7b7b7f0be803064349471c2f
-    parent_uid: dd294d5aa91d79e92e582bcabb9a90e1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0e7d8cd6d99fa80e002b3224b53817b9
-    parent_uid: dd294d5aa91d79e92e582bcabb9a90e1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: dd294d5aa91d79e92e582bcabb9a90e1
 type: courses
 layout: video
 ---

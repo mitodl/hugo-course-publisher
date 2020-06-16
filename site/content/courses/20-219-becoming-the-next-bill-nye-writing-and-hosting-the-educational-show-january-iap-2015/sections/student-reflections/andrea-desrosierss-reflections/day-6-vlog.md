@@ -1,11 +1,4 @@
 ---
-title: Day 6 Vlog
-uid: 88e5ceaea2605da64b4777aa5e26d311
-parent_uid: 0a26ad074929732e5270b0bfe8bbced9
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/andrea-desrosierss-reflections/day-6-vlog
-short_url: day-6-vlog
-inline_embed_id: 34120181day6vlog45238999
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,69 @@ about_this_resource_text: >-
   Commons BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: bxyqAe8Fd68
+    parent_uid: 88e5ceaea2605da64b4777aa5e26d311
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4e6384c9cadbca1aa2ed8370c99cb874
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/bxyqAe8Fd68/default.jpg'
+    parent_uid: 88e5ceaea2605da64b4777aa5e26d311
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2eb4b7a4cc1e85581063a4134f340e47
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: bxyqAe8Fd68
+    parent_uid: 88e5ceaea2605da64b4777aa5e26d311
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4219d11a7a779dba716b6db1c0ff9ca6
+  - id: bxyqAe8Fd68.srt
+    parent_uid: 88e5ceaea2605da64b4777aa5e26d311
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/andrea-desrosierss-reflections/day-6-vlog/bxyqAe8Fd68.srt
+    title: 3play caption file
+    type: null
+    uid: dd6417afc0b1e186ce3bc8d4758377d8
+  - id: bxyqAe8Fd68.pdf
+    parent_uid: 88e5ceaea2605da64b4777aa5e26d311
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/andrea-desrosierss-reflections/day-6-vlog/bxyqAe8Fd68.pdf
+    title: 3play pdf file
+    type: null
+    uid: dd8a1343d73e8d0527ea7d726c5599aa
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 88e5ceaea2605da64b4777aa5e26d311
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9aea8dfeb706bd5536bbde859127d969
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 88e5ceaea2605da64b4777aa5e26d311
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a343ab628f14cad06211edac66a2f06c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 88e5ceaea2605da64b4777aa5e26d311
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: cceb21538f7da28b53ee076fb879a606
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_AD_D06_Reflections_360p.mp4
+    parent_uid: 88e5ceaea2605da64b4777aa5e26d311
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2f5e12bd4c78e907a3f38cdf209967fe
+inline_embed_id: 34120181day6vlog45238999
+parent_uid: 0a26ad074929732e5270b0bfe8bbced9
 related_resources_text: ''
+short_url: day-6-vlog
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/andrea-desrosierss-reflections/day-6-vlog
+title: Day 6 Vlog
 transcript: >-
   <p><span m="1210">ANDREA: Hi</span> <span m="1390">there.</span> <span
   m="2510">This</span> <span m="2700">is</span> <span m="2940">Andrea's</span>
@@ -226,62 +281,7 @@ transcript: >-
   <span m="185920">lot</span> <span m="186110">of</span> <span
   m="186180">fun.</span></p><p><span m="187280">So</span> <span
   m="187820">cheers,</span> <span m="188140">everyone.</span></p>
-embedded_media:
-  - uid: 4e6384c9cadbca1aa2ed8370c99cb874
-    parent_uid: 88e5ceaea2605da64b4777aa5e26d311
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: bxyqAe8Fd68
-  - uid: 2eb4b7a4cc1e85581063a4134f340e47
-    parent_uid: 88e5ceaea2605da64b4777aa5e26d311
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/bxyqAe8Fd68/default.jpg'
-  - uid: 4219d11a7a779dba716b6db1c0ff9ca6
-    parent_uid: 88e5ceaea2605da64b4777aa5e26d311
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: bxyqAe8Fd68
-  - uid: dd6417afc0b1e186ce3bc8d4758377d8
-    parent_uid: 88e5ceaea2605da64b4777aa5e26d311
-    id: bxyqAe8Fd68.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/andrea-desrosierss-reflections/day-6-vlog/bxyqAe8Fd68.srt
-  - uid: dd8a1343d73e8d0527ea7d726c5599aa
-    parent_uid: 88e5ceaea2605da64b4777aa5e26d311
-    id: bxyqAe8Fd68.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/andrea-desrosierss-reflections/day-6-vlog/bxyqAe8Fd68.pdf
-  - uid: 9aea8dfeb706bd5536bbde859127d969
-    parent_uid: 88e5ceaea2605da64b4777aa5e26d311
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a343ab628f14cad06211edac66a2f06c
-    parent_uid: 88e5ceaea2605da64b4777aa5e26d311
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: cceb21538f7da28b53ee076fb879a606
-    parent_uid: 88e5ceaea2605da64b4777aa5e26d311
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 2f5e12bd4c78e907a3f38cdf209967fe
-    parent_uid: 88e5ceaea2605da64b4777aa5e26d311
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_AD_D06_Reflections_360p.mp4
+uid: 88e5ceaea2605da64b4777aa5e26d311
 type: courses
 layout: video
 ---

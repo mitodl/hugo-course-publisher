@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Jump Discontinuities'
-uid: 5d175176fc2dc24e8666874d5e3173ac
-parent_uid: d0bc8735c3a450ca5aad8ed8059d679d
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-1-jump-discontinuities
-short_url: clip-1-jump-discontinuities
-inline_embed_id: '99161588clip1:jumpdiscontinuities9123807'
 about_this_resource_text: >-
   <p>&raquo;<a href="./resolveuid/e9959b5c91eb8602638d940b3b20ab27"
   target="_blank"> Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 2 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ryLdyDrBfvI
+    parent_uid: 5d175176fc2dc24e8666874d5e3173ac
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b9d346696f3a0d439bdf212a5f0fad64
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
+    parent_uid: 5d175176fc2dc24e8666874d5e3173ac
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0e385f3af4d7435553e22a2dc3368c1b
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
+    parent_uid: 5d175176fc2dc24e8666874d5e3173ac
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4728554dfe0804d57c7011b017254c5e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ryLdyDrBfvI
+    parent_uid: 5d175176fc2dc24e8666874d5e3173ac
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 33b219c7eb6765cfdfe9d142b2be8081
+  - id: ryLdyDrBfvI.srt
+    parent_uid: 5d175176fc2dc24e8666874d5e3173ac
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-1-jump-discontinuities/ryLdyDrBfvI.srt
+    title: 3play caption file
+    type: null
+    uid: e9895e84327c649d4393123e2b2e223d
+  - id: ryLdyDrBfvI.pdf
+    parent_uid: 5d175176fc2dc24e8666874d5e3173ac
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-1-jump-discontinuities/ryLdyDrBfvI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8adcf271c22d20b5d5bdf536ff4d0731
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5d175176fc2dc24e8666874d5e3173ac
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 67fa53d64947cb080577b43add89ce7c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5d175176fc2dc24e8666874d5e3173ac
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e3d98924f0590c764fe5e2d6729fbae9
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 5d175176fc2dc24e8666874d5e3173ac
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f363b8e25a8e2a2907fad68a86726ede
+inline_embed_id: '99161588clip1:jumpdiscontinuities9123807'
+parent_uid: d0bc8735c3a450ca5aad8ed8059d679d
 related_resources_text: ''
+short_url: clip-1-jump-discontinuities
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-1-jump-discontinuities
+title: 'Clip 1: Jump Discontinuities'
 transcript: >-
   <p><span m="110">The</span> <span m="360">following</span> <span
   m="1410">content</span> <span m="1670">is provided</span> <span
@@ -2566,61 +2620,7 @@ transcript: >-
   m="3162770">me</span> <span m="3163230">other</span> <span
   m="3163430">stuff</span> <span m="3163770">after</span> <span
   m="3164070">lecture.</span></p>
-embedded_media:
-  - uid: b9d346696f3a0d439bdf212a5f0fad64
-    parent_uid: 5d175176fc2dc24e8666874d5e3173ac
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ryLdyDrBfvI
-  - uid: 0e385f3af4d7435553e22a2dc3368c1b
-    parent_uid: 5d175176fc2dc24e8666874d5e3173ac
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
-  - uid: 4728554dfe0804d57c7011b017254c5e
-    parent_uid: 5d175176fc2dc24e8666874d5e3173ac
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
-  - uid: 33b219c7eb6765cfdfe9d142b2be8081
-    parent_uid: 5d175176fc2dc24e8666874d5e3173ac
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ryLdyDrBfvI
-  - uid: e9895e84327c649d4393123e2b2e223d
-    parent_uid: 5d175176fc2dc24e8666874d5e3173ac
-    id: ryLdyDrBfvI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-1-jump-discontinuities/ryLdyDrBfvI.srt
-  - uid: 8adcf271c22d20b5d5bdf536ff4d0731
-    parent_uid: 5d175176fc2dc24e8666874d5e3173ac
-    id: ryLdyDrBfvI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-1-jump-discontinuities/ryLdyDrBfvI.pdf
-  - uid: 67fa53d64947cb080577b43add89ce7c
-    parent_uid: 5d175176fc2dc24e8666874d5e3173ac
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e3d98924f0590c764fe5e2d6729fbae9
-    parent_uid: 5d175176fc2dc24e8666874d5e3173ac
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f363b8e25a8e2a2907fad68a86726ede
-    parent_uid: 5d175176fc2dc24e8666874d5e3173ac
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 5d175176fc2dc24e8666874d5e3173ac
 type: courses
 layout: video
 ---

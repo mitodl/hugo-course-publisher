@@ -1,13 +1,62 @@
 ---
-title: 'Video 3: Predicting Heart Attacks using Clustering'
-uid: 58197ebb100f5b918181cb8202497dfb
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: fsF79kN9G28
+    parent_uid: 58197ebb100f5b918181cb8202497dfb
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 01a40997d627db3dad93a187a92b0b79
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: fsF79kN9G28
+    parent_uid: 58197ebb100f5b918181cb8202497dfb
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b26f52d688076f88e32ba4f48c071822
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/fsF79kN9G28/default.jpg'
+    parent_uid: 58197ebb100f5b918181cb8202497dfb
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 01bc69aaf122cba40d0182902c60f9cc
+  - id: fsF79kN9G28.srt
+    parent_uid: 58197ebb100f5b918181cb8202497dfb
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-3-predicting-heart-attacks-using-clustering/video-3-predicting-heart-attacks-using-clustering-0/fsF79kN9G28.srt
+    title: 3play caption file
+    type: null
+    uid: 21316828016a2d7fbddaad8fe956d707
+  - id: fsF79kN9G28.pdf
+    parent_uid: 58197ebb100f5b918181cb8202497dfb
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-3-predicting-heart-attacks-using-clustering/video-3-predicting-heart-attacks-using-clustering-0/fsF79kN9G28.pdf
+    title: 3play pdf file
+    type: null
+    uid: f1d0151c67564b4505e08432a8645778
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 58197ebb100f5b918181cb8202497dfb
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 349b26b06a0f1f04a456d0717fa2c4dc
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 58197ebb100f5b918181cb8202497dfb
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: baebbe81ea614f8b39a0538b1c9267fa
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.3.05_300k.mp4
+    parent_uid: 58197ebb100f5b918181cb8202497dfb
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 25ac5e8c0621267f45925a231d8f514a
+inline_embed_id: 55748943video3predictingheartattacksusingclustering23019763
 parent_uid: d7f89a0bf4f5ad76faeb94bf9b442e5b
+related_resources_text: ''
+short_url: video-3-predicting-heart-attacks-using-clustering-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-3-predicting-heart-attacks-using-clustering/video-3-predicting-heart-attacks-using-clustering-0
-short_url: video-3-predicting-heart-attacks-using-clustering-0
-inline_embed_id: 55748943video3predictingheartattacksusingclustering23019763
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: Predicting Heart Attacks using Clustering'
 transcript: >-
   <p><span m='4500'>Let</span> <span m='4776'>us</span> <span
   m='5053'>discuss</span> <span m='5330'>the</span> <span
@@ -288,56 +337,7 @@ transcript: >-
   m='316591'>to</span> <span m='317195'>73%,</span> <span m='317800'>from</span>
   <span m='318572'>58%</span> <span m='319345'>to</span> <span
   m='320117'>78%.</span> </p>
-embedded_media:
-  - uid: 01a40997d627db3dad93a187a92b0b79
-    parent_uid: 58197ebb100f5b918181cb8202497dfb
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: fsF79kN9G28
-  - uid: b26f52d688076f88e32ba4f48c071822
-    parent_uid: 58197ebb100f5b918181cb8202497dfb
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: fsF79kN9G28
-  - uid: 01bc69aaf122cba40d0182902c60f9cc
-    parent_uid: 58197ebb100f5b918181cb8202497dfb
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/fsF79kN9G28/default.jpg'
-  - uid: 21316828016a2d7fbddaad8fe956d707
-    parent_uid: 58197ebb100f5b918181cb8202497dfb
-    id: fsF79kN9G28.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-3-predicting-heart-attacks-using-clustering/video-3-predicting-heart-attacks-using-clustering-0/fsF79kN9G28.srt
-  - uid: f1d0151c67564b4505e08432a8645778
-    parent_uid: 58197ebb100f5b918181cb8202497dfb
-    id: fsF79kN9G28.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/predictive-diagnosis-discovering-patterns-for-disease-detection/video-3-predicting-heart-attacks-using-clustering/video-3-predicting-heart-attacks-using-clustering-0/fsF79kN9G28.pdf
-  - uid: 349b26b06a0f1f04a456d0717fa2c4dc
-    parent_uid: 58197ebb100f5b918181cb8202497dfb
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: baebbe81ea614f8b39a0538b1c9267fa
-    parent_uid: 58197ebb100f5b918181cb8202497dfb
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 25ac5e8c0621267f45925a231d8f514a
-    parent_uid: 58197ebb100f5b918181cb8202497dfb
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.3.05_300k.mp4
+uid: 58197ebb100f5b918181cb8202497dfb
 type: courses
 layout: video
 ---

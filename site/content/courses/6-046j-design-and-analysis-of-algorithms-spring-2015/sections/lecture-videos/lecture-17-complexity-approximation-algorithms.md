@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 17: Complexity: Approximation Algorithms'
-uid: 1f087eebe86fabc3eb50a5f47537e8e6
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-17-complexity-approximation-algorithms
-short_url: lecture-17-complexity-approximation-algorithms
-inline_embed_id: '90873438lecture17:complexity:approximationalgorithms78982074'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Devadas introduces
   approximation algorithms in the context of NP-hard
   problems.</p><p><strong>Instructors:</strong> Srinivas Devadas</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: MEz1J9wY2iM
+    parent_uid: 1f087eebe86fabc3eb50a5f47537e8e6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9f7923c55583773217a0a17e1d467a94
+  - id: MEz1J9wY2iM.srt
+    parent_uid: 1f087eebe86fabc3eb50a5f47537e8e6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-17-complexity-approximation-algorithms/MEz1J9wY2iM.srt
+    title: 3play caption file
+    type: null
+    uid: 861535928582a2de38cc1aba3e9cde1b
+  - id: MEz1J9wY2iM.pdf
+    parent_uid: 1f087eebe86fabc3eb50a5f47537e8e6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-17-complexity-approximation-algorithms/MEz1J9wY2iM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 272d4a9d48200af44540305ae9583053
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1f087eebe86fabc3eb50a5f47537e8e6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5066fc25fba66b4bbc6786ef9eeb3441
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1f087eebe86fabc3eb50a5f47537e8e6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1f0dd739b1cf4061048478057cefa063
+  - id: Video-YouTube-Stream
+    media_location: MEz1J9wY2iM
+    parent_uid: 1f087eebe86fabc3eb50a5f47537e8e6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: eda232a34a808d12e325d45a3024dc58
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/MEz1J9wY2iM/default.jpg'
+    parent_uid: 1f087eebe86fabc3eb50a5f47537e8e6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e2a2f7bc7e97e300ce1203f51468320f
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 1f087eebe86fabc3eb50a5f47537e8e6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3e49e3cc009644f610e69f20c7398203
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec17_300k.mp4'
+    parent_uid: 1f087eebe86fabc3eb50a5f47537e8e6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b804bd32f5b1f7f904790dc79186b264
+inline_embed_id: '90873438lecture17:complexity:approximationalgorithms78982074'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-17-complexity-approximation-algorithms
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-17-complexity-approximation-algorithms
+title: 'Lecture 17: Complexity: Approximation Algorithms'
 transcript: >-
   <p><span m="60">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4545,61 +4599,7 @@ transcript: >-
   lecture</span> <span m="4864090">today.</span> <span m="4865690">See</span>
   <span m="4865880">you</span> <span m="4865940">guys</span> <span
   m="4866240">next time.</span></p>
-embedded_media:
-  - uid: 9f7923c55583773217a0a17e1d467a94
-    parent_uid: 1f087eebe86fabc3eb50a5f47537e8e6
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: MEz1J9wY2iM
-  - uid: 861535928582a2de38cc1aba3e9cde1b
-    parent_uid: 1f087eebe86fabc3eb50a5f47537e8e6
-    id: MEz1J9wY2iM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-17-complexity-approximation-algorithms/MEz1J9wY2iM.srt
-  - uid: 272d4a9d48200af44540305ae9583053
-    parent_uid: 1f087eebe86fabc3eb50a5f47537e8e6
-    id: MEz1J9wY2iM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-17-complexity-approximation-algorithms/MEz1J9wY2iM.pdf
-  - uid: 5066fc25fba66b4bbc6786ef9eeb3441
-    parent_uid: 1f087eebe86fabc3eb50a5f47537e8e6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1f0dd739b1cf4061048478057cefa063
-    parent_uid: 1f087eebe86fabc3eb50a5f47537e8e6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: eda232a34a808d12e325d45a3024dc58
-    parent_uid: 1f087eebe86fabc3eb50a5f47537e8e6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: MEz1J9wY2iM
-  - uid: e2a2f7bc7e97e300ce1203f51468320f
-    parent_uid: 1f087eebe86fabc3eb50a5f47537e8e6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/MEz1J9wY2iM/default.jpg'
-  - uid: 3e49e3cc009644f610e69f20c7398203
-    parent_uid: 1f087eebe86fabc3eb50a5f47537e8e6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: b804bd32f5b1f7f904790dc79186b264
-    parent_uid: 1f087eebe86fabc3eb50a5f47537e8e6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec17_300k.mp4'
+uid: 1f087eebe86fabc3eb50a5f47537e8e6
 type: courses
 layout: video
 ---

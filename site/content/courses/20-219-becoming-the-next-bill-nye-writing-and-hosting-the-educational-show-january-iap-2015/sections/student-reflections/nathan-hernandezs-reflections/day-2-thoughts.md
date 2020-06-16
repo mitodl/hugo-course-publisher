@@ -1,11 +1,4 @@
 ---
-title: Day 2 Thoughts
-uid: b1874025c2cf669052e9a4c16b51a0c2
-parent_uid: f96632a88b4225f3f84e318abddd7856
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/nathan-hernandezs-reflections/day-2-thoughts
-short_url: day-2-thoughts
-inline_embed_id: 53629133day2thoughts90352502
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,69 @@ about_this_resource_text: >-
   Commons BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: RAYbryTHOMA
+    parent_uid: b1874025c2cf669052e9a4c16b51a0c2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1eca50c5a135d3c6d5db2bb3f3475e9f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/RAYbryTHOMA/default.jpg'
+    parent_uid: b1874025c2cf669052e9a4c16b51a0c2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 20fe00c99d29aed3f3c9c8e1ad8bba7a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: RAYbryTHOMA
+    parent_uid: b1874025c2cf669052e9a4c16b51a0c2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a8bdaa564606191ec4746b5b9f03d8fc
+  - id: RAYbryTHOMA.srt
+    parent_uid: b1874025c2cf669052e9a4c16b51a0c2
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/nathan-hernandezs-reflections/day-2-thoughts/RAYbryTHOMA.srt
+    title: 3play caption file
+    type: null
+    uid: 75c0c45b7e02f0e8ce4c184a11e3393c
+  - id: RAYbryTHOMA.pdf
+    parent_uid: b1874025c2cf669052e9a4c16b51a0c2
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/nathan-hernandezs-reflections/day-2-thoughts/RAYbryTHOMA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 81fda60b007e25d1fa453c29cb09a545
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b1874025c2cf669052e9a4c16b51a0c2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 27ae55c6b21a0099f15697d5f869ca12
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b1874025c2cf669052e9a4c16b51a0c2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 622a3f9401105af3b102399043fcfda2
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: b1874025c2cf669052e9a4c16b51a0c2
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 00ea5cd88de79b86926a39806135043f
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_NH_D02_Reflections_360p.mp4
+    parent_uid: b1874025c2cf669052e9a4c16b51a0c2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6aaf785895b91e27362de51c0ac4b120
+inline_embed_id: 53629133day2thoughts90352502
+parent_uid: f96632a88b4225f3f84e318abddd7856
 related_resources_text: ''
+short_url: day-2-thoughts
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/nathan-hernandezs-reflections/day-2-thoughts
+title: Day 2 Thoughts
 transcript: >-
   <p><span m="180">SPEAKER: All right.</span> <span m="550">So</span> <span
   m="950">day</span> <span m="1140">two--</span> <span m="3240">yeah,</span>
@@ -223,62 +278,7 @@ transcript: >-
   <span m="188680">since I have</span> <span m="188930">no</span> <span
   m="189150">script.</span></p><p><span m="189540">So</span> <span
   m="190100">yeah,</span> <span m="190700">bye.</span></p>
-embedded_media:
-  - uid: 1eca50c5a135d3c6d5db2bb3f3475e9f
-    parent_uid: b1874025c2cf669052e9a4c16b51a0c2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: RAYbryTHOMA
-  - uid: 20fe00c99d29aed3f3c9c8e1ad8bba7a
-    parent_uid: b1874025c2cf669052e9a4c16b51a0c2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/RAYbryTHOMA/default.jpg'
-  - uid: a8bdaa564606191ec4746b5b9f03d8fc
-    parent_uid: b1874025c2cf669052e9a4c16b51a0c2
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: RAYbryTHOMA
-  - uid: 75c0c45b7e02f0e8ce4c184a11e3393c
-    parent_uid: b1874025c2cf669052e9a4c16b51a0c2
-    id: RAYbryTHOMA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/nathan-hernandezs-reflections/day-2-thoughts/RAYbryTHOMA.srt
-  - uid: 81fda60b007e25d1fa453c29cb09a545
-    parent_uid: b1874025c2cf669052e9a4c16b51a0c2
-    id: RAYbryTHOMA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/nathan-hernandezs-reflections/day-2-thoughts/RAYbryTHOMA.pdf
-  - uid: 27ae55c6b21a0099f15697d5f869ca12
-    parent_uid: b1874025c2cf669052e9a4c16b51a0c2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 622a3f9401105af3b102399043fcfda2
-    parent_uid: b1874025c2cf669052e9a4c16b51a0c2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 00ea5cd88de79b86926a39806135043f
-    parent_uid: b1874025c2cf669052e9a4c16b51a0c2
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 6aaf785895b91e27362de51c0ac4b120
-    parent_uid: b1874025c2cf669052e9a4c16b51a0c2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_NH_D02_Reflections_360p.mp4
+uid: b1874025c2cf669052e9a4c16b51a0c2
 type: courses
 layout: video
 ---

@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 4: Factorization into A = LU'
-uid: aee7c474318a3fa46126207c1b107c15
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-4-factorization-into-a-lu
-short_url: lecture-4-factorization-into-a-lu
-inline_embed_id: '79803073lecture4:factorizationintoa=lu76100047'
 about_this_resource_text: >-
   <div id="vid_about" itemprop="description" class="tabContent"><div
   class="vidpad"><p>These  video lectures of Professor Gilbert Strang teaching
@@ -20,12 +13,91 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div></div>
+embedded_media:
+  - id: 18.06_L04.jpg
+    parent_uid: aee7c474318a3fa46126207c1b107c15
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-4-factorization-into-a-lu/18.06_L04.jpg
+    title: 18.06_L04.jpg
+    type: null
+    uid: 089169f7c399c4f8a41ea155966537e4
+  - id: Video-YouTube-Stream
+    media_location: MsIvs_6vC38
+    parent_uid: aee7c474318a3fa46126207c1b107c15
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c944a1af34e95974bd18998812905b40
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: aee7c474318a3fa46126207c1b107c15
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: adb4aa268fb3a14071d14c816291c848
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/04.mp4'
+    parent_uid: aee7c474318a3fa46126207c1b107c15
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6776905ed8943c80902c4a98600a1cb6
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: aee7c474318a3fa46126207c1b107c15
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 7cf09e13979a518c473bc9d8e9f4d3e0
+  - id: Thumbnail-OCW-JPG
+    parent_uid: aee7c474318a3fa46126207c1b107c15
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: d26ce8991aa2955f63ef11da856f0c02
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: MsIvs_6vC38
+    parent_uid: aee7c474318a3fa46126207c1b107c15
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ad7012e7e26c070f39166fdeefa24db1
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/MsIvs_6vC38/default.jpg'
+    parent_uid: aee7c474318a3fa46126207c1b107c15
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 80c4785267d7f305b57e1afa06185f34
+  - id: MsIvs_6vC38.srt
+    parent_uid: aee7c474318a3fa46126207c1b107c15
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-4-factorization-into-a-lu/MsIvs_6vC38.srt
+    title: 3play caption file
+    type: null
+    uid: c7fb50a2ef916ec699fd36bbf7eeb4b3
+  - id: MsIvs_6vC38.pdf
+    parent_uid: aee7c474318a3fa46126207c1b107c15
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-4-factorization-into-a-lu/MsIvs_6vC38.pdf
+    title: 3play pdf file
+    type: null
+    uid: bcac89b9054d2f1b8efc7b8c1a859068
+  - id: Caption-3Play YouTube id-SRT_1
+    parent_uid: aee7c474318a3fa46126207c1b107c15
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8171685e51394788d3e8f86dea7061ab
+  - id: Transcript-3Play YouTube id-PDF_1
+    parent_uid: aee7c474318a3fa46126207c1b107c15
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 75b95bf63897c983707ec26e18eb478c
+inline_embed_id: '79803073lecture4:factorizationintoa=lu76100047'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a target="_blank"
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433">Readings</a><br /><a
   target="_blank"
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents">Table of
   Contents</a></p>
+short_url: lecture-4-factorization-into-a-lu
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-4-factorization-into-a-lu
+title: 'Lecture 4: Factorization into A = LU'
 transcript: >-
   <p><span m="12380"> Okay, this is linear algebra, lecture
   four.</span></p><p><span m="16800">And, the first thing I have to do is
@@ -661,79 +733,7 @@ transcript: >-
   them.</span></p><p><span m="2868820">So the next lecture, finishes Chapter
   2</span> <span m="2871660">and moves to Chapter 3.</span></p><p><span
   m="2875160">Thank you.</span></p>
-embedded_media:
-  - uid: 089169f7c399c4f8a41ea155966537e4
-    parent_uid: aee7c474318a3fa46126207c1b107c15
-    id: 18.06_L04.jpg
-    title: 18.06_L04.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-4-factorization-into-a-lu/18.06_L04.jpg
-  - uid: c944a1af34e95974bd18998812905b40
-    parent_uid: aee7c474318a3fa46126207c1b107c15
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: MsIvs_6vC38
-  - uid: adb4aa268fb3a14071d14c816291c848
-    parent_uid: aee7c474318a3fa46126207c1b107c15
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 6776905ed8943c80902c4a98600a1cb6
-    parent_uid: aee7c474318a3fa46126207c1b107c15
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/04.mp4'
-  - uid: 7cf09e13979a518c473bc9d8e9f4d3e0
-    parent_uid: aee7c474318a3fa46126207c1b107c15
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: d26ce8991aa2955f63ef11da856f0c02
-    parent_uid: aee7c474318a3fa46126207c1b107c15
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: ad7012e7e26c070f39166fdeefa24db1
-    parent_uid: aee7c474318a3fa46126207c1b107c15
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: MsIvs_6vC38
-  - uid: 80c4785267d7f305b57e1afa06185f34
-    parent_uid: aee7c474318a3fa46126207c1b107c15
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/MsIvs_6vC38/default.jpg'
-  - uid: c7fb50a2ef916ec699fd36bbf7eeb4b3
-    parent_uid: aee7c474318a3fa46126207c1b107c15
-    id: MsIvs_6vC38.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-4-factorization-into-a-lu/MsIvs_6vC38.srt
-  - uid: bcac89b9054d2f1b8efc7b8c1a859068
-    parent_uid: aee7c474318a3fa46126207c1b107c15
-    id: MsIvs_6vC38.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-4-factorization-into-a-lu/MsIvs_6vC38.pdf
-  - uid: 8171685e51394788d3e8f86dea7061ab
-    parent_uid: aee7c474318a3fa46126207c1b107c15
-    id: Caption-3Play YouTube id-SRT_1
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 75b95bf63897c983707ec26e18eb478c
-    parent_uid: aee7c474318a3fa46126207c1b107c15
-    id: Transcript-3Play YouTube id-PDF_1
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: aee7c474318a3fa46126207c1b107c15
 type: courses
 layout: video
 ---

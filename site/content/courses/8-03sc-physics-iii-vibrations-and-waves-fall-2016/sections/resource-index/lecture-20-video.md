@@ -1,13 +1,61 @@
 ---
-title: 'Lecture Video 20: Interference, Soap Bubble'
-uid: aabb63c9f52b29f5e69a6035c4366ac4
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: VkbtIDSHfSc
+    parent_uid: aabb63c9f52b29f5e69a6035c4366ac4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6964239e1ecee39bc2317fad72f193f4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/VkbtIDSHfSc/default.jpg'
+    parent_uid: aabb63c9f52b29f5e69a6035c4366ac4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0f9afd18b7de731c12d204fbb9d08d68
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: VkbtIDSHfSc
+    parent_uid: aabb63c9f52b29f5e69a6035c4366ac4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 80fa0eec99f796887f3b71725b55849a
+  - id: VkbtIDSHfSc.srt
+    parent_uid: aabb63c9f52b29f5e69a6035c4366ac4
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-20-video/VkbtIDSHfSc.srt
+    title: 3play caption file
+    type: null
+    uid: afbbb39338db09df6f87579696a99fcb
+  - id: VkbtIDSHfSc.pdf
+    parent_uid: aabb63c9f52b29f5e69a6035c4366ac4
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-20-video/VkbtIDSHfSc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 852af1a41ebf2343813d12f79fc35a5d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: aabb63c9f52b29f5e69a6035c4366ac4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b43e13ab94ff5e3f59747e400aaa12a1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: aabb63c9f52b29f5e69a6035c4366ac4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6a3556f4b3cda951e8be6af8dc3c6533
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec20_300k.mp4'
+    parent_uid: aabb63c9f52b29f5e69a6035c4366ac4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 796d8ae5bde3f224cbc87079ea6324e8
+inline_embed_id: 82121430lecture20video78823029
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-20-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-20-video
-short_url: lecture-20-video
-inline_embed_id: 82121430lecture20video78823029
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture Video 20: Interference, Soap Bubble'
 transcript: >-
   <p><span m="2550">The</span> <span m="2640">following</span> <span
   m="3090">content</span> <span m="3600">is</span> <span
@@ -4172,55 +4220,7 @@ transcript: >-
   m="4929730">colorful</span> <span m="4930540">pattern</span> <span
   m="4930875">develop</span> <span m="4931680">from</span> <span
   m="4931920">this</span> <span m="4932160">experiment.</span></p>
-embedded_media:
-  - uid: 6964239e1ecee39bc2317fad72f193f4
-    parent_uid: aabb63c9f52b29f5e69a6035c4366ac4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: VkbtIDSHfSc
-  - uid: 0f9afd18b7de731c12d204fbb9d08d68
-    parent_uid: aabb63c9f52b29f5e69a6035c4366ac4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/VkbtIDSHfSc/default.jpg'
-  - uid: 80fa0eec99f796887f3b71725b55849a
-    parent_uid: aabb63c9f52b29f5e69a6035c4366ac4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: VkbtIDSHfSc
-  - uid: afbbb39338db09df6f87579696a99fcb
-    parent_uid: aabb63c9f52b29f5e69a6035c4366ac4
-    id: VkbtIDSHfSc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-20-video/VkbtIDSHfSc.srt
-  - uid: 852af1a41ebf2343813d12f79fc35a5d
-    parent_uid: aabb63c9f52b29f5e69a6035c4366ac4
-    id: VkbtIDSHfSc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-20-video/VkbtIDSHfSc.pdf
-  - uid: b43e13ab94ff5e3f59747e400aaa12a1
-    parent_uid: aabb63c9f52b29f5e69a6035c4366ac4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6a3556f4b3cda951e8be6af8dc3c6533
-    parent_uid: aabb63c9f52b29f5e69a6035c4366ac4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 796d8ae5bde3f224cbc87079ea6324e8
-    parent_uid: aabb63c9f52b29f5e69a6035c4366ac4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec20_300k.mp4'
+uid: aabb63c9f52b29f5e69a6035c4366ac4
 type: courses
 layout: video
 ---

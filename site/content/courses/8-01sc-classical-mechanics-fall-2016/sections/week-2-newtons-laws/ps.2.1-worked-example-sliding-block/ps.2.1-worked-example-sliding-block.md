@@ -1,13 +1,67 @@
 ---
-title: 'PS.2.1 Worked Example: Sliding Block'
-uid: 7c680db7f47dfbb7982714bcd1b39e90
+about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 7WDiK3flILc
+    parent_uid: 7c680db7f47dfbb7982714bcd1b39e90
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4eb3f504eb60f74eaa0433e5e7f2331a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/7WDiK3flILc/default.jpg'
+    parent_uid: 7c680db7f47dfbb7982714bcd1b39e90
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c6f6deafb49e3a52d9e50a9c30135eb8
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 7WDiK3flILc
+    parent_uid: 7c680db7f47dfbb7982714bcd1b39e90
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d060688ec71438ec4ded1063c0db2dd3
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 7c680db7f47dfbb7982714bcd1b39e90
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 92d016dc2f2dde3066ddf9d8ac04e591
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W02PS01v01_360p.mp4'
+    parent_uid: 7c680db7f47dfbb7982714bcd1b39e90
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1dc6ce5bf51bde8cd44020593eb399b6
+  - id: 7WDiK3flILc.srt
+    parent_uid: 7c680db7f47dfbb7982714bcd1b39e90
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.1-worked-example-sliding-block/ps.2.1-worked-example-sliding-block/7WDiK3flILc.srt
+    title: 3play caption file
+    type: null
+    uid: d81f695287645b247c0c7bddd4a8e0ba
+  - id: 7WDiK3flILc.pdf
+    parent_uid: 7c680db7f47dfbb7982714bcd1b39e90
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.1-worked-example-sliding-block/ps.2.1-worked-example-sliding-block/7WDiK3flILc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 96784d9e4b5694d51eda8f044664e4f7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7c680db7f47dfbb7982714bcd1b39e90
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8866dbdd1f0a03ea7c047493815f4e14
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7c680db7f47dfbb7982714bcd1b39e90
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fa8509b5ccb97552d6614764b5acdf38
+inline_embed_id: 637524ps.2.1workedexampleslidingblock3899235
 parent_uid: 049199c2b750bf9b074389e653cf5020
+related_resources_text: ''
+short_url: ps.2.1-worked-example-sliding-block
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.1-worked-example-sliding-block/ps.2.1-worked-example-sliding-block
-short_url: ps.2.1-worked-example-sliding-block
-inline_embed_id: 637524ps.2.1workedexampleslidingblock3899235
-about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
-related_resources_text: ''
+title: 'PS.2.1 Worked Example: Sliding Block'
 transcript: >-
   <p><span m='3430'>Let's consider the following problem.</span> </p><p><span
   m='5410'>Suppose we have an inclined plane.</span> </p><p><span m='8830'>And
@@ -114,61 +168,7 @@ transcript: >-
   <span m='366460'>is bigger than the acceleration as the block is going
   down.</span> </p><p><span m='371040'>And that's because of the
   direction</span> <span m='373080'>of the kinetic friction force.</span> </p>
-embedded_media:
-  - uid: 4eb3f504eb60f74eaa0433e5e7f2331a
-    parent_uid: 7c680db7f47dfbb7982714bcd1b39e90
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 7WDiK3flILc
-  - uid: c6f6deafb49e3a52d9e50a9c30135eb8
-    parent_uid: 7c680db7f47dfbb7982714bcd1b39e90
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/7WDiK3flILc/default.jpg'
-  - uid: d060688ec71438ec4ded1063c0db2dd3
-    parent_uid: 7c680db7f47dfbb7982714bcd1b39e90
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 7WDiK3flILc
-  - uid: 92d016dc2f2dde3066ddf9d8ac04e591
-    parent_uid: 7c680db7f47dfbb7982714bcd1b39e90
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 1dc6ce5bf51bde8cd44020593eb399b6
-    parent_uid: 7c680db7f47dfbb7982714bcd1b39e90
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W02PS01v01_360p.mp4'
-  - uid: d81f695287645b247c0c7bddd4a8e0ba
-    parent_uid: 7c680db7f47dfbb7982714bcd1b39e90
-    id: 7WDiK3flILc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.1-worked-example-sliding-block/ps.2.1-worked-example-sliding-block/7WDiK3flILc.srt
-  - uid: 96784d9e4b5694d51eda8f044664e4f7
-    parent_uid: 7c680db7f47dfbb7982714bcd1b39e90
-    id: 7WDiK3flILc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.1-worked-example-sliding-block/ps.2.1-worked-example-sliding-block/7WDiK3flILc.pdf
-  - uid: 8866dbdd1f0a03ea7c047493815f4e14
-    parent_uid: 7c680db7f47dfbb7982714bcd1b39e90
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fa8509b5ccb97552d6614764b5acdf38
-    parent_uid: 7c680db7f47dfbb7982714bcd1b39e90
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 7c680db7f47dfbb7982714bcd1b39e90
 type: courses
 layout: video
 ---

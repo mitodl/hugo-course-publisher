@@ -1,13 +1,68 @@
 ---
-title: Graphing the Arctan Function
-uid: ce1f1db66b0fb24f2600ce37da32d721
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: aYMt2ZVGd7g
+    parent_uid: ce1f1db66b0fb24f2600ce37da32d721
+    title: Video-YouTube-Stream
+    type: Video
+    uid: eeed7877191c5d0c486c9fdcf20fcd78
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/aYMt2ZVGd7g/default.jpg'
+    parent_uid: ce1f1db66b0fb24f2600ce37da32d721
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0494ac2eb20bdd2240015aa07676ccd2
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/graphing-the-arctan-function/id414308064?i=90318983
+    parent_uid: ce1f1db66b0fb24f2600ce37da32d721
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e7d5eaad457e249be1162f6ad98d971e
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_11_300k.mp4'
+    parent_uid: ce1f1db66b0fb24f2600ce37da32d721
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 24ead88db0d13ac6dc6dd964edd9588e
+  - id: 3Play-3PlayVideoid-MP4
+    media_location: '21784'
+    parent_uid: ce1f1db66b0fb24f2600ce37da32d721
+    title: 3Play-3Play Video id
+    type: 3Play
+    uid: fd74ee970d176d52379825176e87cd3a
+  - id: 21784.srt
+    parent_uid: ce1f1db66b0fb24f2600ce37da32d721
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/graphing-the-arctan-function/21784.srt
+    title: 3play caption file
+    type: null
+    uid: 97c6556056eea38fe0a650014b096cb0
+  - id: 21784.pdf
+    parent_uid: ce1f1db66b0fb24f2600ce37da32d721
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/graphing-the-arctan-function/21784.pdf
+    title: 3play pdf file
+    type: null
+    uid: e106b769a05af07e166558d8a0d78504
+  - id: Caption-3Play Video id-SRT
+    parent_uid: ce1f1db66b0fb24f2600ce37da32d721
+    title: Caption-3Play Video id-SRT-English - US
+    type: Caption
+    uid: a5d33aba0dc0ca4edd5a50c4944aacea
+  - id: Transcript-3Play Video id-PDF
+    parent_uid: ce1f1db66b0fb24f2600ce37da32d721
+    title: Transcript-3Play Video id-PDF-English - US
+    type: Transcript
+    uid: b28a29220c158b6f7b9ce02ece075697
+inline_embed_id: 7740810graphingthearctanfunction23669768
 parent_uid: 5668bfaf4a4849cdc9fb5962b4a18003
+related_resources_text: ''
+short_url: graphing-the-arctan-function
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/graphing-the-arctan-function
-short_url: graphing-the-arctan-function
-inline_embed_id: 7740810graphingthearctanfunction23669768
-about_this_resource_text: ''
-related_resources_text: ''
+title: Graphing the Arctan Function
 transcript: >-
   <p><span m='7230'>Hi.</span> <span m='7690'>Welcome</span> <span
   m='8030'>to</span> <span m='8110'>recitation.</span> <span
@@ -281,62 +336,7 @@ transcript: >-
   m='260120'>on</span> <span m='260230'>the</span> <span m='260300'>board</span>
   <span m='260490'>ahead of time.</span> <span m='261600'>So</span> <span
   m='261870'>that's</span> <span m='262110'>that.</span> </p>
-embedded_media:
-  - uid: eeed7877191c5d0c486c9fdcf20fcd78
-    parent_uid: ce1f1db66b0fb24f2600ce37da32d721
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: aYMt2ZVGd7g
-  - uid: 0494ac2eb20bdd2240015aa07676ccd2
-    parent_uid: ce1f1db66b0fb24f2600ce37da32d721
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/aYMt2ZVGd7g/default.jpg'
-  - uid: e7d5eaad457e249be1162f6ad98d971e
-    parent_uid: ce1f1db66b0fb24f2600ce37da32d721
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/graphing-the-arctan-function/id414308064?i=90318983
-  - uid: 24ead88db0d13ac6dc6dd964edd9588e
-    parent_uid: ce1f1db66b0fb24f2600ce37da32d721
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_11_300k.mp4'
-  - uid: fd74ee970d176d52379825176e87cd3a
-    parent_uid: ce1f1db66b0fb24f2600ce37da32d721
-    id: 3Play-3PlayVideoid-MP4
-    title: 3Play-3Play Video id
-    type: 3Play
-    media_location: '21784'
-  - uid: 97c6556056eea38fe0a650014b096cb0
-    parent_uid: ce1f1db66b0fb24f2600ce37da32d721
-    id: 21784.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/graphing-the-arctan-function/21784.srt
-  - uid: e106b769a05af07e166558d8a0d78504
-    parent_uid: ce1f1db66b0fb24f2600ce37da32d721
-    id: 21784.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/graphing-the-arctan-function/21784.pdf
-  - uid: a5d33aba0dc0ca4edd5a50c4944aacea
-    parent_uid: ce1f1db66b0fb24f2600ce37da32d721
-    id: Caption-3Play Video id-SRT
-    title: Caption-3Play Video id-SRT-English - US
-    type: Caption
-  - uid: b28a29220c158b6f7b9ce02ece075697
-    parent_uid: ce1f1db66b0fb24f2600ce37da32d721
-    id: Transcript-3Play Video id-PDF
-    title: Transcript-3Play Video id-PDF-English - US
-    type: Transcript
+uid: ce1f1db66b0fb24f2600ce37da32d721
 type: courses
 layout: video
 ---

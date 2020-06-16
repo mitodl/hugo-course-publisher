@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 31: Eigenvectors of Circulant Matrices: Fourier Matrix'
-uid: c2ad1c7aa4fbb2b871741c8e96fa2cf7
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-31-eigenvectors-of-circulant-matrices-fourier-matrix
-short_url: lecture-31-eigenvectors-of-circulant-matrices-fourier-matrix
-inline_embed_id: 85527801lecture31eigenvectorsofcirculantmatricesfouriermatrix11468198
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>This lecture continues with
   constant-diagonal circulant matrices. Each lower diagonal continues on an
@@ -18,7 +11,62 @@ about_this_resource_text: >-
   matrix<br /> Eigenvalues of \(C =\) (Fourier matrix)(column zero of \(C\))</p>
   <p>Related section in textbook: IV.2</p> <p><strong>Instructor:</strong> Prof.
   Gilbert Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 1pFv7e9xtHo
+    parent_uid: c2ad1c7aa4fbb2b871741c8e96fa2cf7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e733fd40a027a21ea315612902dd8e23
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/1pFv7e9xtHo/default.jpg'
+    parent_uid: c2ad1c7aa4fbb2b871741c8e96fa2cf7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6f87b7232a5672c38592bb394a53fa8d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 1pFv7e9xtHo
+    parent_uid: c2ad1c7aa4fbb2b871741c8e96fa2cf7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 00112096bef145c1a1ea5b8db1f2b798
+  - id: 1pFv7e9xtHo.srt
+    parent_uid: c2ad1c7aa4fbb2b871741c8e96fa2cf7
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-31-eigenvectors-of-circulant-matrices-fourier-matrix/1pFv7e9xtHo.srt
+    title: 3play caption file
+    type: null
+    uid: 9e41a811c9e7bd72f90beaa8b511daa9
+  - id: 1pFv7e9xtHo.pdf
+    parent_uid: c2ad1c7aa4fbb2b871741c8e96fa2cf7
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-31-eigenvectors-of-circulant-matrices-fourier-matrix/1pFv7e9xtHo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 674f6ce6e9be264b68acc9a7c52655ff
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c2ad1c7aa4fbb2b871741c8e96fa2cf7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b35a561e7e5b0cbd82264d28b48ffd58
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c2ad1c7aa4fbb2b871741c8e96fa2cf7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: dc77885cb967fa6bb0a18ddc24756938
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture31_300k.mp4'
+    parent_uid: c2ad1c7aa4fbb2b871741c8e96fa2cf7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 608c364d32455cdaba167f0afaa8ce6e
+inline_embed_id: 85527801lecture31eigenvectorsofcirculantmatricesfouriermatrix11468198
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-31-eigenvectors-of-circulant-matrices-fourier-matrix
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-31-eigenvectors-of-circulant-matrices-fourier-matrix
+title: 'Lecture 31: Eigenvectors of Circulant Matrices: Fourier Matrix'
 transcript: >-
   <p><span m="1161">NARRATOR:</span> <span m="1550">The</span> <span
   m="1640">following</span> <span m="2090">content</span> <span
@@ -2522,55 +2570,7 @@ transcript: >-
   m="3151910">do</span> <span m="3152090">the</span> <span
   m="3152210">projects.</span> <span m="3153280">OK,</span> <span
   m="3153950">thank</span> <span m="3154250">you.</span></p>
-embedded_media:
-  - uid: e733fd40a027a21ea315612902dd8e23
-    parent_uid: c2ad1c7aa4fbb2b871741c8e96fa2cf7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 1pFv7e9xtHo
-  - uid: 6f87b7232a5672c38592bb394a53fa8d
-    parent_uid: c2ad1c7aa4fbb2b871741c8e96fa2cf7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/1pFv7e9xtHo/default.jpg'
-  - uid: 00112096bef145c1a1ea5b8db1f2b798
-    parent_uid: c2ad1c7aa4fbb2b871741c8e96fa2cf7
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 1pFv7e9xtHo
-  - uid: 9e41a811c9e7bd72f90beaa8b511daa9
-    parent_uid: c2ad1c7aa4fbb2b871741c8e96fa2cf7
-    id: 1pFv7e9xtHo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-31-eigenvectors-of-circulant-matrices-fourier-matrix/1pFv7e9xtHo.srt
-  - uid: 674f6ce6e9be264b68acc9a7c52655ff
-    parent_uid: c2ad1c7aa4fbb2b871741c8e96fa2cf7
-    id: 1pFv7e9xtHo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-31-eigenvectors-of-circulant-matrices-fourier-matrix/1pFv7e9xtHo.pdf
-  - uid: b35a561e7e5b0cbd82264d28b48ffd58
-    parent_uid: c2ad1c7aa4fbb2b871741c8e96fa2cf7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: dc77885cb967fa6bb0a18ddc24756938
-    parent_uid: c2ad1c7aa4fbb2b871741c8e96fa2cf7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 608c364d32455cdaba167f0afaa8ce6e
-    parent_uid: c2ad1c7aa4fbb2b871741c8e96fa2cf7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture31_300k.mp4'
+uid: c2ad1c7aa4fbb2b871741c8e96fa2cf7
 type: courses
 layout: video
 ---

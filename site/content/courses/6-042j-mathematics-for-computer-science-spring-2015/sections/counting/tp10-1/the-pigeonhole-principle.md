@@ -1,13 +1,73 @@
 ---
-title: The Pigeonhole Principle
-uid: 30dca7b23f9a0ad8be07efa1de6f3072
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 7b64f3abe54b08e5b6a35872b7df780d
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 52e40c63c227f0709f8f49803746e3d8
+  - id: Video-YouTube-Stream
+    media_location: 4Dz4vNUxnZM
+    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1be910eecb1571ca3f259c8a0f24638a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4Dz4vNUxnZM/default.jpg'
+    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 08b98929ac2db1ea4f4f41b0529e1e05
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 4Dz4vNUxnZM
+    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fec9279d5427025987c5691cbc00dc5c
+  - id: 4Dz4vNUxnZM.srt
+    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp10-1/the-pigeonhole-principle/4Dz4vNUxnZM.srt
+    title: 3play caption file
+    type: null
+    uid: 38636688c54a9a9e39f1e15c2c121c65
+  - id: 4Dz4vNUxnZM.pdf
+    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp10-1/the-pigeonhole-principle/4Dz4vNUxnZM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 387dde5a5d0604a9baf3e2f11920dce0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2d796d10f0805a4ae828759901450604
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e6ace901683e6d265ae78051d816b8e4
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_pigeonhole_video_ipod.mp4
+    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 19b4ddc94b409a5241a07c2640994dd6
+inline_embed_id: 87895822thepigeonholeprinciple28517277
 parent_uid: d45e95172acf2a430d67a0ef15468161
+related_resources_text: ''
+short_url: the-pigeonhole-principle
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp10-1/the-pigeonhole-principle
-short_url: the-pigeonhole-principle
-inline_embed_id: 87895822thepigeonholeprinciple28517277
-about_this_resource_text: ''
-related_resources_text: ''
+title: The Pigeonhole Principle
 transcript: >-
   <p><span m='460'>ALBERT MEYER: The</span> <span m='920'>pigeonhole</span>
   <span m='1440'>principle</span> <span m='1980'>is</span> <span
@@ -314,67 +374,7 @@ transcript: >-
   m='247980'>And</span> <span m='248290'>that</span> <span m='248580'>is</span>
   <span m='248880'>the</span> <span m='248980'>generalized</span> <span
   m='249650'>pigeonhole</span> <span m='250160'>principle.</span> </p>
-embedded_media:
-  - uid: 7b64f3abe54b08e5b6a35872b7df780d
-    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 52e40c63c227f0709f8f49803746e3d8
-    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 1be910eecb1571ca3f259c8a0f24638a
-    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4Dz4vNUxnZM
-  - uid: 08b98929ac2db1ea4f4f41b0529e1e05
-    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4Dz4vNUxnZM/default.jpg'
-  - uid: fec9279d5427025987c5691cbc00dc5c
-    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4Dz4vNUxnZM
-  - uid: 38636688c54a9a9e39f1e15c2c121c65
-    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
-    id: 4Dz4vNUxnZM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp10-1/the-pigeonhole-principle/4Dz4vNUxnZM.srt
-  - uid: 387dde5a5d0604a9baf3e2f11920dce0
-    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
-    id: 4Dz4vNUxnZM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp10-1/the-pigeonhole-principle/4Dz4vNUxnZM.pdf
-  - uid: 2d796d10f0805a4ae828759901450604
-    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e6ace901683e6d265ae78051d816b8e4
-    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 19b4ddc94b409a5241a07c2640994dd6
-    parent_uid: 30dca7b23f9a0ad8be07efa1de6f3072
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_pigeonhole_video_ipod.mp4
+uid: 30dca7b23f9a0ad8be07efa1de6f3072
 type: courses
 layout: video
 ---

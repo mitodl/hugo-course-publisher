@@ -1,13 +1,62 @@
 ---
-title: Welcome to Recitation 6
-uid: d03bdd3e8dc2fe308528106d28a1bd4f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: o5bqy_5T07Y
+    parent_uid: d03bdd3e8dc2fe308528106d28a1bd4f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b4c3a12b34a9e0d2c2e391711de0a175
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: o5bqy_5T07Y
+    parent_uid: d03bdd3e8dc2fe308528106d28a1bd4f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a75428df33ac7e3fa85f0f8b2478c29a
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/o5bqy_5T07Y/default.jpg'
+    parent_uid: d03bdd3e8dc2fe308528106d28a1bd4f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 49178507e4033dce770dfcf698c165c6
+  - id: o5bqy_5T07Y.srt
+    parent_uid: d03bdd3e8dc2fe308528106d28a1bd4f
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/welcome-to-recitation-6-0/o5bqy_5T07Y.srt
+    title: 3play caption file
+    type: null
+    uid: 01f190b47f7249fec6d494feacbbb0f3
+  - id: o5bqy_5T07Y.pdf
+    parent_uid: d03bdd3e8dc2fe308528106d28a1bd4f
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/welcome-to-recitation-6-0/o5bqy_5T07Y.pdf
+    title: 3play pdf file
+    type: null
+    uid: ef48b8c6794b6ab00cab0734ad2a8885
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d03bdd3e8dc2fe308528106d28a1bd4f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a5ff1037405885c4c687a8c653c2db32
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d03bdd3e8dc2fe308528106d28a1bd4f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e24fa341183d9fc20a2a38d7156b6ded
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.4.01_300k.mp4
+    parent_uid: d03bdd3e8dc2fe308528106d28a1bd4f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 87eb8b1645c45e44b9aa5b032619230b
+inline_embed_id: 58214118welcometorecitation64561501
 parent_uid: c6d206ccfb1528f6048f29e817450da7
+related_resources_text: ''
+short_url: welcome-to-recitation-6-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/welcome-to-recitation-6-0
-short_url: welcome-to-recitation-6-0
-inline_embed_id: 58214118welcometorecitation64561501
-about_this_resource_text: ''
-related_resources_text: ''
+title: Welcome to Recitation 6
 transcript: >-
   <p><span m='4140'>Hi.</span> </p><p><span m='4810'>My</span> <span
   m='5136'>name</span> <span m='5462'>is</span> <span m='5789'>Natalie,</span>
@@ -36,56 +85,7 @@ transcript: >-
   <span m='24043'>class</span> <span m='24401'>competition.</span> </p><p><span
   m='24760'>Let's</span> <span m='25406'>get</span> <span
   m='26053'>started.</span> </p>
-embedded_media:
-  - uid: b4c3a12b34a9e0d2c2e391711de0a175
-    parent_uid: d03bdd3e8dc2fe308528106d28a1bd4f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: o5bqy_5T07Y
-  - uid: a75428df33ac7e3fa85f0f8b2478c29a
-    parent_uid: d03bdd3e8dc2fe308528106d28a1bd4f
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: o5bqy_5T07Y
-  - uid: 49178507e4033dce770dfcf698c165c6
-    parent_uid: d03bdd3e8dc2fe308528106d28a1bd4f
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/o5bqy_5T07Y/default.jpg'
-  - uid: 01f190b47f7249fec6d494feacbbb0f3
-    parent_uid: d03bdd3e8dc2fe308528106d28a1bd4f
-    id: o5bqy_5T07Y.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/welcome-to-recitation-6-0/o5bqy_5T07Y.srt
-  - uid: ef48b8c6794b6ab00cab0734ad2a8885
-    parent_uid: d03bdd3e8dc2fe308528106d28a1bd4f
-    id: o5bqy_5T07Y.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/welcome-to-recitation-6-0/o5bqy_5T07Y.pdf
-  - uid: a5ff1037405885c4c687a8c653c2db32
-    parent_uid: d03bdd3e8dc2fe308528106d28a1bd4f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e24fa341183d9fc20a2a38d7156b6ded
-    parent_uid: d03bdd3e8dc2fe308528106d28a1bd4f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 87eb8b1645c45e44b9aa5b032619230b
-    parent_uid: d03bdd3e8dc2fe308528106d28a1bd4f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.4.01_300k.mp4
+uid: d03bdd3e8dc2fe308528106d28a1bd4f
 type: courses
 layout: video
 ---

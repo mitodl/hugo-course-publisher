@@ -1,13 +1,62 @@
 ---
-title: 'Video 4: Basic Scatterplots Using ggplot'
-uid: ec8877568a36275343d135184b2ec59e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: nqqYjtK1zIk
+    parent_uid: ec8877568a36275343d135184b2ec59e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b723fc21d67ad54c6ebb5de18d95e4c6
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: nqqYjtK1zIk
+    parent_uid: ec8877568a36275343d135184b2ec59e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 08514c0e63ec0ae3b73fa0b92ad0ce71
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/nqqYjtK1zIk/default.jpg'
+    parent_uid: ec8877568a36275343d135184b2ec59e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3108d988c06e1c2f1cc1571efbd9bcd7
+  - id: nqqYjtK1zIk.srt
+    parent_uid: ec8877568a36275343d135184b2ec59e
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/visualizing-the-world-an-introduction-to-visualization/video-4-basic-scatterplots-using-ggplot/video-4-basic-scatterplots-using-ggplot-0/nqqYjtK1zIk.srt
+    title: 3play caption file
+    type: null
+    uid: 6c9935c9067eae356bc335325dfe5366
+  - id: nqqYjtK1zIk.pdf
+    parent_uid: ec8877568a36275343d135184b2ec59e
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/visualizing-the-world-an-introduction-to-visualization/video-4-basic-scatterplots-using-ggplot/video-4-basic-scatterplots-using-ggplot-0/nqqYjtK1zIk.pdf
+    title: 3play pdf file
+    type: null
+    uid: a26e69bb30e0216bf8b9446e5124f451
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ec8877568a36275343d135184b2ec59e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ee9b91d4c2156fef36b8a407ee43235b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ec8877568a36275343d135184b2ec59e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4d76bf76b439ba77c36e2c62c5dabc85
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.2.07_300k.mp4
+    parent_uid: ec8877568a36275343d135184b2ec59e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 070b468bf4da2603a747397a15dbd218
+inline_embed_id: 78837450video4basicscatterplotsusingggplot12801726
 parent_uid: bcd276c54387e04d4149dfe97b763b3f
+related_resources_text: ''
+short_url: video-4-basic-scatterplots-using-ggplot-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/visualizing-the-world-an-introduction-to-visualization/video-4-basic-scatterplots-using-ggplot/video-4-basic-scatterplots-using-ggplot-0
-short_url: video-4-basic-scatterplots-using-ggplot-0
-inline_embed_id: 78837450video4basicscatterplotsusingggplot12801726
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 4: Basic Scatterplots Using ggplot'
 transcript: >-
   <p><span m='4500'>In</span> <span m='5045'>this</span> <span
   m='5590'>video,</span> <span m='6135'>we'll</span> <span
@@ -514,56 +563,7 @@ transcript: >-
   <span m='500072'>create</span> <span m='500350'>more</span> <span
   m='501078'>advanced</span> <span m='501806'>scatterplots</span> <span
   m='502534'>using</span> <span m='503262'>ggplot.</span> </p>
-embedded_media:
-  - uid: b723fc21d67ad54c6ebb5de18d95e4c6
-    parent_uid: ec8877568a36275343d135184b2ec59e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: nqqYjtK1zIk
-  - uid: 08514c0e63ec0ae3b73fa0b92ad0ce71
-    parent_uid: ec8877568a36275343d135184b2ec59e
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: nqqYjtK1zIk
-  - uid: 3108d988c06e1c2f1cc1571efbd9bcd7
-    parent_uid: ec8877568a36275343d135184b2ec59e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/nqqYjtK1zIk/default.jpg'
-  - uid: 6c9935c9067eae356bc335325dfe5366
-    parent_uid: ec8877568a36275343d135184b2ec59e
-    id: nqqYjtK1zIk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/visualizing-the-world-an-introduction-to-visualization/video-4-basic-scatterplots-using-ggplot/video-4-basic-scatterplots-using-ggplot-0/nqqYjtK1zIk.srt
-  - uid: a26e69bb30e0216bf8b9446e5124f451
-    parent_uid: ec8877568a36275343d135184b2ec59e
-    id: nqqYjtK1zIk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/visualizing-the-world-an-introduction-to-visualization/video-4-basic-scatterplots-using-ggplot/video-4-basic-scatterplots-using-ggplot-0/nqqYjtK1zIk.pdf
-  - uid: ee9b91d4c2156fef36b8a407ee43235b
-    parent_uid: ec8877568a36275343d135184b2ec59e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4d76bf76b439ba77c36e2c62c5dabc85
-    parent_uid: ec8877568a36275343d135184b2ec59e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 070b468bf4da2603a747397a15dbd218
-    parent_uid: ec8877568a36275343d135184b2ec59e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.2.07_300k.mp4
+uid: ec8877568a36275343d135184b2ec59e
 type: courses
 layout: video
 ---

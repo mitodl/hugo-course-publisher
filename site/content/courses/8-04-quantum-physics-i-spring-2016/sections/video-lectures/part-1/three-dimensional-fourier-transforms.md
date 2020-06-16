@@ -1,13 +1,73 @@
 ---
-title: Three-dimensional Fourier transforms
-uid: be28e446ee4e93867a115f31e5134a11
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: MJM1AzpB6Y4
+    parent_uid: be28e446ee4e93867a115f31e5134a11
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6f859656b4a9eda2850fb27c4bd5fa1b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/nVs_VDQEM2A/default.jpg'
+    parent_uid: be28e446ee4e93867a115f31e5134a11
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2312a44d2c29a3809de9231d605c2b9d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: MJM1AzpB6Y4
+    parent_uid: be28e446ee4e93867a115f31e5134a11
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: cbf8b06f8ae1bec027d4f002c0f5f0a4
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: be28e446ee4e93867a115f31e5134a11
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6f3484b9bc9ecbbf2eb7080b765fca5d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec08_s3_300k.mp4'
+    parent_uid: be28e446ee4e93867a115f31e5134a11
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9c9a4e4d80bfa47d10babc986fbc4c46
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/MJM1AzpB6Y4/default.jpg'
+    parent_uid: be28e446ee4e93867a115f31e5134a11
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: df3a229776494afa0efe036a3e51c00d
+  - id: MJM1AzpB6Y4.srt
+    parent_uid: be28e446ee4e93867a115f31e5134a11
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/three-dimensional-fourier-transforms/MJM1AzpB6Y4.srt
+    title: 3play caption file
+    type: null
+    uid: cbd91bf660e9f17b5ec9d60277a949ad
+  - id: MJM1AzpB6Y4.pdf
+    parent_uid: be28e446ee4e93867a115f31e5134a11
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/three-dimensional-fourier-transforms/MJM1AzpB6Y4.pdf
+    title: 3play pdf file
+    type: null
+    uid: cc20571344e88f9576aeefd19ca17340
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: be28e446ee4e93867a115f31e5134a11
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f467569ea9da99e24094b824986b0010
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: be28e446ee4e93867a115f31e5134a11
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: efee9b5069f5d46ad4bad6d7c6a76e39
+inline_embed_id: 17581517threedimensionalfouriertransforms89715634
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: three-dimensional-fourier-transforms
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/three-dimensional-fourier-transforms
-short_url: three-dimensional-fourier-transforms
-inline_embed_id: 17581517threedimensionalfouriertransforms89715634
-about_this_resource_text: ''
-related_resources_text: ''
+title: Three-dimensional Fourier transforms
 transcript: >-
   <p><span m='872'>PROFESSOR:</span> <span m='1310'>We</span> <span
   m='1610'>got</span> <span m='2029'>here</span> <span m='2550'>finally</span>
@@ -242,67 +302,7 @@ transcript: >-
   m='358230'>function</span> <span m='358830'>and</span> <span
   m='359050'>Parseval</span> <span m='361650'>hold</span> <span
   m='362400'>equally</span> <span m='362880'>well.</span> </p>
-embedded_media:
-  - uid: 6f859656b4a9eda2850fb27c4bd5fa1b
-    parent_uid: be28e446ee4e93867a115f31e5134a11
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: MJM1AzpB6Y4
-  - uid: 2312a44d2c29a3809de9231d605c2b9d
-    parent_uid: be28e446ee4e93867a115f31e5134a11
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/nVs_VDQEM2A/default.jpg'
-  - uid: cbf8b06f8ae1bec027d4f002c0f5f0a4
-    parent_uid: be28e446ee4e93867a115f31e5134a11
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: MJM1AzpB6Y4
-  - uid: 6f3484b9bc9ecbbf2eb7080b765fca5d
-    parent_uid: be28e446ee4e93867a115f31e5134a11
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 9c9a4e4d80bfa47d10babc986fbc4c46
-    parent_uid: be28e446ee4e93867a115f31e5134a11
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec08_s3_300k.mp4'
-  - uid: df3a229776494afa0efe036a3e51c00d
-    parent_uid: be28e446ee4e93867a115f31e5134a11
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/MJM1AzpB6Y4/default.jpg'
-  - uid: cbd91bf660e9f17b5ec9d60277a949ad
-    parent_uid: be28e446ee4e93867a115f31e5134a11
-    id: MJM1AzpB6Y4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/three-dimensional-fourier-transforms/MJM1AzpB6Y4.srt
-  - uid: cc20571344e88f9576aeefd19ca17340
-    parent_uid: be28e446ee4e93867a115f31e5134a11
-    id: MJM1AzpB6Y4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/three-dimensional-fourier-transforms/MJM1AzpB6Y4.pdf
-  - uid: f467569ea9da99e24094b824986b0010
-    parent_uid: be28e446ee4e93867a115f31e5134a11
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: efee9b5069f5d46ad4bad6d7c6a76e39
-    parent_uid: be28e446ee4e93867a115f31e5134a11
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: be28e446ee4e93867a115f31e5134a11
 type: courses
 layout: video
 ---

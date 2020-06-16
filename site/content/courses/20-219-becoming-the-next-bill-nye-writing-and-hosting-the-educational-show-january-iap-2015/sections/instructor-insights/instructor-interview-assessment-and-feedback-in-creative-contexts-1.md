@@ -1,13 +1,68 @@
 ---
-title: 'Instructor Interview: Assessment and Feedback in Creative Contexts'
-uid: 37559c50f26024ec9c8975a5e7ac978a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: rt3EMeJ0lDQ
+    parent_uid: 37559c50f26024ec9c8975a5e7ac978a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 055b704ed4c77816b2f27b3916441bd1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/rt3EMeJ0lDQ/default.jpg'
+    parent_uid: 37559c50f26024ec9c8975a5e7ac978a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ef6cbaa2eef6f306c997ab478c227c9b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 37559c50f26024ec9c8975a5e7ac978a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 45584b1c63e04c69fc314946f88c7151
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_Assessing_Learning_300k.mp4
+    parent_uid: 37559c50f26024ec9c8975a5e7ac978a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c4f9829c6fb08c40d47d4e1ae3b247da
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: rt3EMeJ0lDQ
+    parent_uid: 37559c50f26024ec9c8975a5e7ac978a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1696fb5b44e4ea131a023c6892b3b711
+  - id: rt3EMeJ0lDQ.srt
+    parent_uid: 37559c50f26024ec9c8975a5e7ac978a
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-assessment-and-feedback-in-creative-contexts-1/rt3EMeJ0lDQ.srt
+    title: 3play caption file
+    type: null
+    uid: 51f097af3b7af75c4a6f9f50167356c4
+  - id: rt3EMeJ0lDQ.pdf
+    parent_uid: 37559c50f26024ec9c8975a5e7ac978a
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-assessment-and-feedback-in-creative-contexts-1/rt3EMeJ0lDQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 856f73fe857f42fbcd79218dc2722ef9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 37559c50f26024ec9c8975a5e7ac978a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f841d1a2feb2a64858769aee0f674672
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 37559c50f26024ec9c8975a5e7ac978a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f24b171e6708deb9dda270f73184b708
+inline_embed_id: '12451981instructorinterview:assessmentandfeedbackincreativecontexts19668936'
 parent_uid: 526193cf30dacdf1c6734faab57d51d7
+related_resources_text: ''
+short_url: instructor-interview-assessment-and-feedback-in-creative-contexts-1
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-assessment-and-feedback-in-creative-contexts-1
-short_url: instructor-interview-assessment-and-feedback-in-creative-contexts-1
-inline_embed_id: '12451981instructorinterview:assessmentandfeedbackincreativecontexts19668936'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Instructor Interview: Assessment and Feedback in Creative Contexts'
 transcript: >-
   <p><span m='70'>The</span> <span m='170'>following</span> <span
   m='610'>content</span> <span m='1120'>is</span> <span m='1230'>provided</span>
@@ -1126,62 +1181,7 @@ transcript: >-
   m='953670'>that</span> <span m='953830'>it</span> <span m='954090'>was
   a</span> <span m='954370'>weird</span> <span m='954730'>balance</span> <span
   m='955220'>to</span> <span m='955360'>strike.</span> </p>
-embedded_media:
-  - uid: 055b704ed4c77816b2f27b3916441bd1
-    parent_uid: 37559c50f26024ec9c8975a5e7ac978a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: rt3EMeJ0lDQ
-  - uid: ef6cbaa2eef6f306c997ab478c227c9b
-    parent_uid: 37559c50f26024ec9c8975a5e7ac978a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/rt3EMeJ0lDQ/default.jpg'
-  - uid: 45584b1c63e04c69fc314946f88c7151
-    parent_uid: 37559c50f26024ec9c8975a5e7ac978a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: c4f9829c6fb08c40d47d4e1ae3b247da
-    parent_uid: 37559c50f26024ec9c8975a5e7ac978a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_Assessing_Learning_300k.mp4
-  - uid: 1696fb5b44e4ea131a023c6892b3b711
-    parent_uid: 37559c50f26024ec9c8975a5e7ac978a
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: rt3EMeJ0lDQ
-  - uid: 51f097af3b7af75c4a6f9f50167356c4
-    parent_uid: 37559c50f26024ec9c8975a5e7ac978a
-    id: rt3EMeJ0lDQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-assessment-and-feedback-in-creative-contexts-1/rt3EMeJ0lDQ.srt
-  - uid: 856f73fe857f42fbcd79218dc2722ef9
-    parent_uid: 37559c50f26024ec9c8975a5e7ac978a
-    id: rt3EMeJ0lDQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-assessment-and-feedback-in-creative-contexts-1/rt3EMeJ0lDQ.pdf
-  - uid: f841d1a2feb2a64858769aee0f674672
-    parent_uid: 37559c50f26024ec9c8975a5e7ac978a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f24b171e6708deb9dda270f73184b708
-    parent_uid: 37559c50f26024ec9c8975a5e7ac978a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 37559c50f26024ec9c8975a5e7ac978a
 type: courses
 layout: video
 ---

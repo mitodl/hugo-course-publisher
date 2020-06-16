@@ -1,13 +1,67 @@
 ---
-title: Mach-Zehnder interferometers and beam splitters
-uid: d5c59c92fc82de2c22e05b23434d1216
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 0USje5vTIKs
+    parent_uid: d5c59c92fc82de2c22e05b23434d1216
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5134a51d164c066dda88ff0d40a56cab
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0USje5vTIKs/default.jpg'
+    parent_uid: d5c59c92fc82de2c22e05b23434d1216
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9312904d464a85a68f731f96d286a014
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 0USje5vTIKs
+    parent_uid: d5c59c92fc82de2c22e05b23434d1216
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e82410f9bfefb29fbcdd3119a338345f
+  - id: 0USje5vTIKs.srt
+    parent_uid: d5c59c92fc82de2c22e05b23434d1216
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/mach-zehnder-interferometers-and-beam-splitters/0USje5vTIKs.srt
+    title: 3play caption file
+    type: null
+    uid: 2eb00c1d45230c39083395eb66582fb5
+  - id: 0USje5vTIKs.pdf
+    parent_uid: d5c59c92fc82de2c22e05b23434d1216
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/mach-zehnder-interferometers-and-beam-splitters/0USje5vTIKs.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5dada3e9d61d75d8893c35e8d02957b9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d5c59c92fc82de2c22e05b23434d1216
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bb118d338ea46c10247349cfaa86a690
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d5c59c92fc82de2c22e05b23434d1216
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f7f6e3140788e18068377dc0ba450318
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: d5c59c92fc82de2c22e05b23434d1216
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 624861cd827267f5e1269893627d323f
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec02_s3_300k.mp4'
+    parent_uid: d5c59c92fc82de2c22e05b23434d1216
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4b88cdb07c2ec7391250a82abef07e89
+inline_embed_id: 36469770machzehnderinterferometersandbeamsplitters53585163
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: mach-zehnder-interferometers-and-beam-splitters
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/mach-zehnder-interferometers-and-beam-splitters
-short_url: mach-zehnder-interferometers-and-beam-splitters
-inline_embed_id: 36469770machzehnderinterferometersandbeamsplitters53585163
-about_this_resource_text: ''
-related_resources_text: ''
+title: Mach-Zehnder interferometers and beam splitters
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='224'>Mach-Zehnder--</span>
   </p><p></p><p><span m='4970'>interferometers.</span> </p><p></p><p><span
@@ -763,61 +817,7 @@ transcript: >-
   m='928170'>experiments</span> <span m='929040'>with</span> <span
   m='929250'>the</span> <span m='930690'>beam</span> <span
   m='930990'>splitter.</span> </p>
-embedded_media:
-  - uid: 5134a51d164c066dda88ff0d40a56cab
-    parent_uid: d5c59c92fc82de2c22e05b23434d1216
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0USje5vTIKs
-  - uid: 9312904d464a85a68f731f96d286a014
-    parent_uid: d5c59c92fc82de2c22e05b23434d1216
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0USje5vTIKs/default.jpg'
-  - uid: e82410f9bfefb29fbcdd3119a338345f
-    parent_uid: d5c59c92fc82de2c22e05b23434d1216
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0USje5vTIKs
-  - uid: 2eb00c1d45230c39083395eb66582fb5
-    parent_uid: d5c59c92fc82de2c22e05b23434d1216
-    id: 0USje5vTIKs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/mach-zehnder-interferometers-and-beam-splitters/0USje5vTIKs.srt
-  - uid: 5dada3e9d61d75d8893c35e8d02957b9
-    parent_uid: d5c59c92fc82de2c22e05b23434d1216
-    id: 0USje5vTIKs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/mach-zehnder-interferometers-and-beam-splitters/0USje5vTIKs.pdf
-  - uid: bb118d338ea46c10247349cfaa86a690
-    parent_uid: d5c59c92fc82de2c22e05b23434d1216
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f7f6e3140788e18068377dc0ba450318
-    parent_uid: d5c59c92fc82de2c22e05b23434d1216
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 624861cd827267f5e1269893627d323f
-    parent_uid: d5c59c92fc82de2c22e05b23434d1216
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 4b88cdb07c2ec7391250a82abef07e89
-    parent_uid: d5c59c92fc82de2c22e05b23434d1216
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec02_s3_300k.mp4'
+uid: d5c59c92fc82de2c22e05b23434d1216
 type: courses
 layout: video
 ---

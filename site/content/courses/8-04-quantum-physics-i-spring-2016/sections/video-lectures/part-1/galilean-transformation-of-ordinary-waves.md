@@ -1,13 +1,73 @@
 ---
-title: Galilean transformation of ordinary waves
-uid: 2c31390c84a5245ff95255ea27c01e71
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: YdtHAIh-kas
+    parent_uid: 2c31390c84a5245ff95255ea27c01e71
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1686724ea5b6547f86ecee9273fd6a8c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/n0nnlk0ZYdo/default.jpg'
+    parent_uid: 2c31390c84a5245ff95255ea27c01e71
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0c6a43078d3c9a6d409925c74299d709
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: YdtHAIh-kas
+    parent_uid: 2c31390c84a5245ff95255ea27c01e71
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 915a403306c234354818afe85a2743cc
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 2c31390c84a5245ff95255ea27c01e71
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b14dba48073593b2c021befb5e822764
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec04_s2_300k.mp4'
+    parent_uid: 2c31390c84a5245ff95255ea27c01e71
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8f886ca03874487cf9f7600c4ce95290
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/YdtHAIh-kas/default.jpg'
+    parent_uid: 2c31390c84a5245ff95255ea27c01e71
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 81da09a49cf41d39c76a93380dd98a47
+  - id: YdtHAIh-kas.srt
+    parent_uid: 2c31390c84a5245ff95255ea27c01e71
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/galilean-transformation-of-ordinary-waves/YdtHAIh-kas.srt
+    title: 3play caption file
+    type: null
+    uid: 82e4ecea6ed4b8abd03a49b19031e085
+  - id: YdtHAIh-kas.pdf
+    parent_uid: 2c31390c84a5245ff95255ea27c01e71
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/galilean-transformation-of-ordinary-waves/YdtHAIh-kas.pdf
+    title: 3play pdf file
+    type: null
+    uid: e5776f2555caeb00cd8c1c8699f3b8b8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2c31390c84a5245ff95255ea27c01e71
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9098b147418ac28f0b87a3cc223d35d9
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2c31390c84a5245ff95255ea27c01e71
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5d5516b295fe15544d25292eaeb0aa0a
+inline_embed_id: 80719188galileantransformationofordinarywaves65299652
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: galilean-transformation-of-ordinary-waves
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/galilean-transformation-of-ordinary-waves
-short_url: galilean-transformation-of-ordinary-waves
-inline_embed_id: 80719188galileantransformationofordinarywaves65299652
-about_this_resource_text: ''
-related_resources_text: ''
+title: Galilean transformation of ordinary waves
 transcript: >-
   <p><span m='390'>BARTON ZWIEBACH:</span> <span m='540'>Do</span> <span
   m='690'>normal</span> <span m='1440'>wave</span> <span
@@ -558,67 +618,7 @@ transcript: >-
   m='733380'>propagate</span> <span m='734070'>in</span> <span
   m='734190'>a</span> <span m='734280'>medium</span> <span m='734910'>or</span>
   <span m='735420'>simple.</span> </p>
-embedded_media:
-  - uid: 1686724ea5b6547f86ecee9273fd6a8c
-    parent_uid: 2c31390c84a5245ff95255ea27c01e71
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: YdtHAIh-kas
-  - uid: 0c6a43078d3c9a6d409925c74299d709
-    parent_uid: 2c31390c84a5245ff95255ea27c01e71
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/n0nnlk0ZYdo/default.jpg'
-  - uid: 915a403306c234354818afe85a2743cc
-    parent_uid: 2c31390c84a5245ff95255ea27c01e71
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: YdtHAIh-kas
-  - uid: b14dba48073593b2c021befb5e822764
-    parent_uid: 2c31390c84a5245ff95255ea27c01e71
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 8f886ca03874487cf9f7600c4ce95290
-    parent_uid: 2c31390c84a5245ff95255ea27c01e71
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec04_s2_300k.mp4'
-  - uid: 81da09a49cf41d39c76a93380dd98a47
-    parent_uid: 2c31390c84a5245ff95255ea27c01e71
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/YdtHAIh-kas/default.jpg'
-  - uid: 82e4ecea6ed4b8abd03a49b19031e085
-    parent_uid: 2c31390c84a5245ff95255ea27c01e71
-    id: YdtHAIh-kas.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/galilean-transformation-of-ordinary-waves/YdtHAIh-kas.srt
-  - uid: e5776f2555caeb00cd8c1c8699f3b8b8
-    parent_uid: 2c31390c84a5245ff95255ea27c01e71
-    id: YdtHAIh-kas.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/galilean-transformation-of-ordinary-waves/YdtHAIh-kas.pdf
-  - uid: 9098b147418ac28f0b87a3cc223d35d9
-    parent_uid: 2c31390c84a5245ff95255ea27c01e71
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5d5516b295fe15544d25292eaeb0aa0a
-    parent_uid: 2c31390c84a5245ff95255ea27c01e71
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 2c31390c84a5245ff95255ea27c01e71
 type: courses
 layout: video
 ---

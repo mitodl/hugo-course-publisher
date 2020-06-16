@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Introduction to Rates of Change'
-uid: edebd5cb3957bf5850134cddff465037
-parent_uid: 4eff05d7dd9bd856611cfe4f4cddcb98
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change/clip-1-introduction-to-rates-of-change
-short_url: clip-1-introduction-to-rates-of-change
-inline_embed_id: '44888831clip1:introductiontoratesofchange64772681'
 about_this_resource_text: >-
   <p>&raquo;<a href="./resolveuid/f8d5c2c9a0c216415d02b12d7e11dad9"
   target="_blank"> Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 2 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ryLdyDrBfvI
+    parent_uid: edebd5cb3957bf5850134cddff465037
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d131c886640944b6af0fe66fe396cc74
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
+    parent_uid: edebd5cb3957bf5850134cddff465037
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6d7530a665d0fa65720308c06aaa9284
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
+    parent_uid: edebd5cb3957bf5850134cddff465037
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f014814f0c76885e0f4265de74d17531
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ryLdyDrBfvI
+    parent_uid: edebd5cb3957bf5850134cddff465037
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1c6388245139863ded96efc1b4db2783
+  - id: ryLdyDrBfvI.srt
+    parent_uid: edebd5cb3957bf5850134cddff465037
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change/clip-1-introduction-to-rates-of-change/ryLdyDrBfvI.srt
+    title: 3play caption file
+    type: null
+    uid: 8a55577481641bb2e5d7822ab7e601e9
+  - id: ryLdyDrBfvI.pdf
+    parent_uid: edebd5cb3957bf5850134cddff465037
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change/clip-1-introduction-to-rates-of-change/ryLdyDrBfvI.pdf
+    title: 3play pdf file
+    type: null
+    uid: c789312508d4bba867a79ce6c25f3c52
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: edebd5cb3957bf5850134cddff465037
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 12de45cbc32680b5ca508c468738a6bb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: edebd5cb3957bf5850134cddff465037
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 23cf75169164620fda06e0a36c6163bd
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: edebd5cb3957bf5850134cddff465037
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ad711cce8cae494bae61d65b2e1bd3d0
+inline_embed_id: '44888831clip1:introductiontoratesofchange64772681'
+parent_uid: 4eff05d7dd9bd856611cfe4f4cddcb98
 related_resources_text: ''
+short_url: clip-1-introduction-to-rates-of-change
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change/clip-1-introduction-to-rates-of-change
+title: 'Clip 1: Introduction to Rates of Change'
 transcript: >-
   <p><span m="110">The</span> <span m="360">following</span> <span
   m="1410">content</span> <span m="1670">is provided</span> <span
@@ -2566,61 +2620,7 @@ transcript: >-
   m="3162770">me</span> <span m="3163230">other</span> <span
   m="3163430">stuff</span> <span m="3163770">after</span> <span
   m="3164070">lecture.</span></p>
-embedded_media:
-  - uid: d131c886640944b6af0fe66fe396cc74
-    parent_uid: edebd5cb3957bf5850134cddff465037
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ryLdyDrBfvI
-  - uid: 6d7530a665d0fa65720308c06aaa9284
-    parent_uid: edebd5cb3957bf5850134cddff465037
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
-  - uid: f014814f0c76885e0f4265de74d17531
-    parent_uid: edebd5cb3957bf5850134cddff465037
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
-  - uid: 1c6388245139863ded96efc1b4db2783
-    parent_uid: edebd5cb3957bf5850134cddff465037
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ryLdyDrBfvI
-  - uid: 8a55577481641bb2e5d7822ab7e601e9
-    parent_uid: edebd5cb3957bf5850134cddff465037
-    id: ryLdyDrBfvI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change/clip-1-introduction-to-rates-of-change/ryLdyDrBfvI.srt
-  - uid: c789312508d4bba867a79ce6c25f3c52
-    parent_uid: edebd5cb3957bf5850134cddff465037
-    id: ryLdyDrBfvI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change/clip-1-introduction-to-rates-of-change/ryLdyDrBfvI.pdf
-  - uid: 12de45cbc32680b5ca508c468738a6bb
-    parent_uid: edebd5cb3957bf5850134cddff465037
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 23cf75169164620fda06e0a36c6163bd
-    parent_uid: edebd5cb3957bf5850134cddff465037
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ad711cce8cae494bae61d65b2e1bd3d0
-    parent_uid: edebd5cb3957bf5850134cddff465037
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: edebd5cb3957bf5850134cddff465037
 type: courses
 layout: video
 ---

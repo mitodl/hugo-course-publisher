@@ -1,13 +1,69 @@
 ---
-title: Computing the Four Fundamental Subspaces
-uid: a248b06d4ecc4ea12bb9b2bcf196fd86
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: D8u1LV9CnCk
+    parent_uid: a248b06d4ecc4ea12bb9b2bcf196fd86
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d366b7b07ad5758f6c2ffbdd26e6442f
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: D8u1LV9CnCk
+    parent_uid: a248b06d4ecc4ea12bb9b2bcf196fd86
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a603e228da673fb1d1d490c0229fc1b0
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/computing-four-fundamental/id488155309?i=108454340
+    parent_uid: a248b06d4ecc4ea12bb9b2bcf196fd86
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5c569e8cd8cf35643ec5bb568055b8d4
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110526_B2_300k.mp4
+    parent_uid: a248b06d4ecc4ea12bb9b2bcf196fd86
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c4bb0554d81461bee27df3123f2df49c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/D8u1LV9CnCk/default.jpg'
+    parent_uid: a248b06d4ecc4ea12bb9b2bcf196fd86
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ca330ef1adce504696783282a4f5c155
+  - id: D8u1LV9CnCk.srt
+    parent_uid: a248b06d4ecc4ea12bb9b2bcf196fd86
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/computing-the-four-fundamental-subspaces/D8u1LV9CnCk.srt
+    title: 3play caption file
+    type: null
+    uid: 21d5e2d2cd30bf72ad24e834509e7606
+  - id: D8u1LV9CnCk.pdf
+    parent_uid: a248b06d4ecc4ea12bb9b2bcf196fd86
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/computing-the-four-fundamental-subspaces/D8u1LV9CnCk.pdf
+    title: 3play pdf file
+    type: null
+    uid: ab46153965f8be2aeb393f4dc4cd6c5d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a248b06d4ecc4ea12bb9b2bcf196fd86
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7d596b1a336e6580d651516ad5dca5cb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a248b06d4ecc4ea12bb9b2bcf196fd86
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3249f58bdd180dde24fe038e70538eee
+inline_embed_id: 926214computingthefourfundamentalsubspaces4056418
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: computing-the-four-fundamental-subspaces
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/computing-the-four-fundamental-subspaces
-short_url: computing-the-four-fundamental-subspaces
-inline_embed_id: 926214computingthefourfundamentalsubspaces4056418
-about_this_resource_text: ''
-related_resources_text: ''
+title: Computing the Four Fundamental Subspaces
 transcript: >-
   <p><span m='8466'>BEN HARRIS:</span> <span m='8970'>Hi,</span> <span
   m='9350'>and</span> <span m='9500'>welcome</span> <span m='9880'>back.</span>
@@ -501,63 +557,7 @@ transcript: >-
   m='640870'>I</span> <span m='640950'>hope</span> <span m='641200'>this</span>
   <span m='641380'>picture</span> <span m='641810'>is</span> <span
   m='642030'>helpful.</span> </p>
-embedded_media:
-  - uid: d366b7b07ad5758f6c2ffbdd26e6442f
-    parent_uid: a248b06d4ecc4ea12bb9b2bcf196fd86
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: D8u1LV9CnCk
-  - uid: a603e228da673fb1d1d490c0229fc1b0
-    parent_uid: a248b06d4ecc4ea12bb9b2bcf196fd86
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: D8u1LV9CnCk
-  - uid: 5c569e8cd8cf35643ec5bb568055b8d4
-    parent_uid: a248b06d4ecc4ea12bb9b2bcf196fd86
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/computing-four-fundamental/id488155309?i=108454340
-  - uid: c4bb0554d81461bee27df3123f2df49c
-    parent_uid: a248b06d4ecc4ea12bb9b2bcf196fd86
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110526_B2_300k.mp4
-  - uid: ca330ef1adce504696783282a4f5c155
-    parent_uid: a248b06d4ecc4ea12bb9b2bcf196fd86
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/D8u1LV9CnCk/default.jpg'
-  - uid: 21d5e2d2cd30bf72ad24e834509e7606
-    parent_uid: a248b06d4ecc4ea12bb9b2bcf196fd86
-    id: D8u1LV9CnCk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/computing-the-four-fundamental-subspaces/D8u1LV9CnCk.srt
-  - uid: ab46153965f8be2aeb393f4dc4cd6c5d
-    parent_uid: a248b06d4ecc4ea12bb9b2bcf196fd86
-    id: D8u1LV9CnCk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/computing-the-four-fundamental-subspaces/D8u1LV9CnCk.pdf
-  - uid: 7d596b1a336e6580d651516ad5dca5cb
-    parent_uid: a248b06d4ecc4ea12bb9b2bcf196fd86
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3249f58bdd180dde24fe038e70538eee
-    parent_uid: a248b06d4ecc4ea12bb9b2bcf196fd86
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a248b06d4ecc4ea12bb9b2bcf196fd86
 type: courses
 layout: video
 ---

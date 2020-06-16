@@ -1,13 +1,61 @@
 ---
-title: Fiber Optic Bundle
-uid: d9534abf712155543c3bfceb877c3e5a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: TjxR7lAwWhI
+    parent_uid: d9534abf712155543c3bfceb877c3e5a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: eb11bd728dd176804b89fb34653b088b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TjxR7lAwWhI/default.jpg'
+    parent_uid: d9534abf712155543c3bfceb877c3e5a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5f75af304a61eb456a89f6b144282d92
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: TjxR7lAwWhI
+    parent_uid: d9534abf712155543c3bfceb877c3e5a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5a21072b19067ccd3bb78dd1140267d3
+  - id: TjxR7lAwWhI.srt
+    parent_uid: d9534abf712155543c3bfceb877c3e5a
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-17/copy2_of_lecture-17-video/TjxR7lAwWhI.srt
+    title: 3play caption file
+    type: null
+    uid: 1ada16c1dbec54caa2d1fd3e71420d6c
+  - id: TjxR7lAwWhI.pdf
+    parent_uid: d9534abf712155543c3bfceb877c3e5a
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-17/copy2_of_lecture-17-video/TjxR7lAwWhI.pdf
+    title: 3play pdf file
+    type: null
+    uid: dee4d6a773d572bbfe94791462a16926
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d9534abf712155543c3bfceb877c3e5a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 17cc27009cbea9ec7dd8ccfd93bf3fd3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d9534abf712155543c3bfceb877c3e5a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 725193a8353d9c7da5594c8e3b3ff6a7
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec17_300k.mp4'
+    parent_uid: d9534abf712155543c3bfceb877c3e5a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3345bfe54206186ea690d05adbadac0a
+inline_embed_id: 23396696lecture17videop213590929
 parent_uid: 4fe00c6712412ec83b0f40f5818b9a6d
+related_resources_text: ''
+short_url: copy2_of_lecture-17-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-17/copy2_of_lecture-17-video
-short_url: copy2_of_lecture-17-video
-inline_embed_id: 23396696lecture17videop213590929
-about_this_resource_text: ''
-related_resources_text: ''
+title: Fiber Optic Bundle
 transcript: >-
   <p><span m="2125">SPEAKER:</span> <span m="2550">The</span> <span
   m="2640">following</span> <span m="3090">content</span> <span
@@ -3908,55 +3956,7 @@ transcript: >-
   m="4379600">let</span> <span m="4379880">me</span> <span
   m="4380180">know.</span></p><p><span m="4382280">AUDIENCE:</span> <span
   m="4382580">[INAUDIBLE]</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: eb11bd728dd176804b89fb34653b088b
-    parent_uid: d9534abf712155543c3bfceb877c3e5a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TjxR7lAwWhI
-  - uid: 5f75af304a61eb456a89f6b144282d92
-    parent_uid: d9534abf712155543c3bfceb877c3e5a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TjxR7lAwWhI/default.jpg'
-  - uid: 5a21072b19067ccd3bb78dd1140267d3
-    parent_uid: d9534abf712155543c3bfceb877c3e5a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TjxR7lAwWhI
-  - uid: 1ada16c1dbec54caa2d1fd3e71420d6c
-    parent_uid: d9534abf712155543c3bfceb877c3e5a
-    id: TjxR7lAwWhI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-17/copy2_of_lecture-17-video/TjxR7lAwWhI.srt
-  - uid: dee4d6a773d572bbfe94791462a16926
-    parent_uid: d9534abf712155543c3bfceb877c3e5a
-    id: TjxR7lAwWhI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-17/copy2_of_lecture-17-video/TjxR7lAwWhI.pdf
-  - uid: 17cc27009cbea9ec7dd8ccfd93bf3fd3
-    parent_uid: d9534abf712155543c3bfceb877c3e5a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 725193a8353d9c7da5594c8e3b3ff6a7
-    parent_uid: d9534abf712155543c3bfceb877c3e5a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3345bfe54206186ea690d05adbadac0a
-    parent_uid: d9534abf712155543c3bfceb877c3e5a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec17_300k.mp4'
+uid: d9534abf712155543c3bfceb877c3e5a
 type: courses
 layout: video
 ---

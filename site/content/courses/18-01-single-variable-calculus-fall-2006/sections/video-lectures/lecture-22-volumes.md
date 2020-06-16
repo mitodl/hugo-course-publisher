@@ -1,18 +1,90 @@
 ---
-title: 'Lecture 22: Volumes'
-uid: 9eb8d9466728b9387a142a170345e611
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-22-volumes
-short_url: lecture-22-volumes
-inline_embed_id: '53840412lecture22:volumes57398026'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Volumes by disks and
   shells</p> <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec22.jpg
+    parent_uid: 9eb8d9466728b9387a142a170345e611
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-22-volumes/lec22.jpg
+    title: Lecture 22
+    type: null
+    uid: 9564fe10364e15dd1e33407fbd8c4da4
+  - id: Video-YouTube-Stream
+    media_location: ShGBRUx2ub8
+    parent_uid: 9eb8d9466728b9387a142a170345e611
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b3b421a9ec489a874c30ced9d3b71feb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ShGBRUx2ub8/default.jpg'
+    parent_uid: 9eb8d9466728b9387a142a170345e611
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d5ee4fb56e4d268ff649a3c270a01fad
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 9eb8d9466728b9387a142a170345e611
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 33f1af63d112eeebd165c741aa6d68f2
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec22_300k.mp4'
+    parent_uid: 9eb8d9466728b9387a142a170345e611
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6554331da0a76c04ad6b45c03c4111d1
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 9eb8d9466728b9387a142a170345e611
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 4211cf09cd4265e2c2950debd8245fae
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 9eb8d9466728b9387a142a170345e611
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: c02e124412d0691633c14d6996caec4b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ShGBRUx2ub8
+    parent_uid: 9eb8d9466728b9387a142a170345e611
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 94ed659cc503366b1eb31cdbe958b8c0
+  - id: ShGBRUx2ub8.srt
+    parent_uid: 9eb8d9466728b9387a142a170345e611
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-22-volumes/ShGBRUx2ub8.srt
+    title: 3play caption file
+    type: null
+    uid: 30dd761f48b4e17281922a5987b00123
+  - id: ShGBRUx2ub8.pdf
+    parent_uid: 9eb8d9466728b9387a142a170345e611
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-22-volumes/ShGBRUx2ub8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9973beadcc2dd098d7f212f315f2360a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9eb8d9466728b9387a142a170345e611
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 62550bd5718f5737ac1f152b2067cb49
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9eb8d9466728b9387a142a170345e611
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 179e46c3260d0b02fd749c2ceaa3fe2f
+inline_embed_id: '53840412lecture22:volumes57398026'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/dcd410f264f661f8ac1e53ea6df740cc">PDF -
   1.7MB</a>)</p></div>
+short_url: lecture-22-volumes
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-22-volumes
+title: 'Lecture 22: Volumes'
 transcript: >-
   <p><span m='0'>The</span> <span m='120'>following</span> <span
   m='530'>content</span> <span m='1300'>is</span> <span m='1420'>provided</span>
@@ -2720,79 +2792,7 @@ transcript: >-
   it</span> <span m='2992780'>takes</span> <span m='2993900'>to</span> <span
   m='2994700'>boil</span> <span m='2995100'>the</span> <span
   m='2995160'>kettle.</span> </p>
-embedded_media:
-  - uid: 9564fe10364e15dd1e33407fbd8c4da4
-    parent_uid: 9eb8d9466728b9387a142a170345e611
-    id: lec22.jpg
-    title: Lecture 22
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-22-volumes/lec22.jpg
-  - uid: b3b421a9ec489a874c30ced9d3b71feb
-    parent_uid: 9eb8d9466728b9387a142a170345e611
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ShGBRUx2ub8
-  - uid: d5ee4fb56e4d268ff649a3c270a01fad
-    parent_uid: 9eb8d9466728b9387a142a170345e611
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ShGBRUx2ub8/default.jpg'
-  - uid: 33f1af63d112eeebd165c741aa6d68f2
-    parent_uid: 9eb8d9466728b9387a142a170345e611
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: 6554331da0a76c04ad6b45c03c4111d1
-    parent_uid: 9eb8d9466728b9387a142a170345e611
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec22_300k.mp4'
-  - uid: 4211cf09cd4265e2c2950debd8245fae
-    parent_uid: 9eb8d9466728b9387a142a170345e611
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: c02e124412d0691633c14d6996caec4b
-    parent_uid: 9eb8d9466728b9387a142a170345e611
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 94ed659cc503366b1eb31cdbe958b8c0
-    parent_uid: 9eb8d9466728b9387a142a170345e611
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ShGBRUx2ub8
-  - uid: 30dd761f48b4e17281922a5987b00123
-    parent_uid: 9eb8d9466728b9387a142a170345e611
-    id: ShGBRUx2ub8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-22-volumes/ShGBRUx2ub8.srt
-  - uid: 9973beadcc2dd098d7f212f315f2360a
-    parent_uid: 9eb8d9466728b9387a142a170345e611
-    id: ShGBRUx2ub8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-22-volumes/ShGBRUx2ub8.pdf
-  - uid: 62550bd5718f5737ac1f152b2067cb49
-    parent_uid: 9eb8d9466728b9387a142a170345e611
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 179e46c3260d0b02fd749c2ceaa3fe2f
-    parent_uid: 9eb8d9466728b9387a142a170345e611
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 9eb8d9466728b9387a142a170345e611
 type: courses
 layout: video
 ---

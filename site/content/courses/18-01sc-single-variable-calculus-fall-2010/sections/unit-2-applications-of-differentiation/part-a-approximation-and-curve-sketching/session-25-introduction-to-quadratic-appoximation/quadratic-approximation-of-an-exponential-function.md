@@ -1,13 +1,68 @@
 ---
-title: Quadratic Approximation of an Exponential Function
-uid: f941a2b8c3731e9834c3c5a50c30d794
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: aar099Xh5W4
+    parent_uid: f941a2b8c3731e9834c3c5a50c30d794
+    title: Video-YouTube-Stream
+    type: Video
+    uid: fd90be6e95e5f9709bf52f2f00472832
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/aar099Xh5W4/default.jpg'
+    parent_uid: f941a2b8c3731e9834c3c5a50c30d794
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2afa20727fc62373a6b4e453f814444b
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/quadratic-approximation/id414308064?i=90318985
+    parent_uid: f941a2b8c3731e9834c3c5a50c30d794
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 38a83a0ee58f7c2d2dd78fc2425927ac
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_17_300k.mp4'
+    parent_uid: f941a2b8c3731e9834c3c5a50c30d794
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f0270b6a8c889040492432088ffe1845
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: aar099Xh5W4
+    parent_uid: f941a2b8c3731e9834c3c5a50c30d794
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 54224541db9020460b9af09040ced79d
+  - id: aar099Xh5W4.srt
+    parent_uid: f941a2b8c3731e9834c3c5a50c30d794
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-25-introduction-to-quadratic-appoximation/quadratic-approximation-of-an-exponential-function/aar099Xh5W4.srt
+    title: 3play caption file
+    type: null
+    uid: 6a8053c087d250f825e50f7973c08aa1
+  - id: aar099Xh5W4.pdf
+    parent_uid: f941a2b8c3731e9834c3c5a50c30d794
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-25-introduction-to-quadratic-appoximation/quadratic-approximation-of-an-exponential-function/aar099Xh5W4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7ec759ae2979f25135e3baf7985528bf
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f941a2b8c3731e9834c3c5a50c30d794
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7b63a5b924b3990a28e8a0e0b2366e57
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f941a2b8c3731e9834c3c5a50c30d794
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: aeb4dcca4b3ed721da77c7ecbe41e671
+inline_embed_id: 60339599quadraticapproximationofanexponentialfunction37853587
 parent_uid: c5bed9b53f5684d68d5b41fd3419190b
+related_resources_text: ''
+short_url: quadratic-approximation-of-an-exponential-function
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-25-introduction-to-quadratic-appoximation/quadratic-approximation-of-an-exponential-function
-short_url: quadratic-approximation-of-an-exponential-function
-inline_embed_id: 60339599quadraticapproximationofanexponentialfunction37853587
-about_this_resource_text: ''
-related_resources_text: ''
+title: Quadratic Approximation of an Exponential Function
 transcript: >-
   <p><span m='0'>JOEL LEWIS:</span> <span m='7250'>Hi.</span> <span
   m='7740'>Welcome</span> <span m='8020'>back</span> <span m='8210'>to</span>
@@ -470,62 +525,7 @@ transcript: >-
   m='426990'>what</span> <span m='427210'>should</span> <span
   m='427410'>happen.</span> </p><p><span m='428190'>So</span> <span
   m='428420'>that's</span> <span m='428650'>that.</span> </p>
-embedded_media:
-  - uid: fd90be6e95e5f9709bf52f2f00472832
-    parent_uid: f941a2b8c3731e9834c3c5a50c30d794
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: aar099Xh5W4
-  - uid: 2afa20727fc62373a6b4e453f814444b
-    parent_uid: f941a2b8c3731e9834c3c5a50c30d794
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/aar099Xh5W4/default.jpg'
-  - uid: 38a83a0ee58f7c2d2dd78fc2425927ac
-    parent_uid: f941a2b8c3731e9834c3c5a50c30d794
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/quadratic-approximation/id414308064?i=90318985
-  - uid: f0270b6a8c889040492432088ffe1845
-    parent_uid: f941a2b8c3731e9834c3c5a50c30d794
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_17_300k.mp4'
-  - uid: 54224541db9020460b9af09040ced79d
-    parent_uid: f941a2b8c3731e9834c3c5a50c30d794
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: aar099Xh5W4
-  - uid: 6a8053c087d250f825e50f7973c08aa1
-    parent_uid: f941a2b8c3731e9834c3c5a50c30d794
-    id: aar099Xh5W4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-25-introduction-to-quadratic-appoximation/quadratic-approximation-of-an-exponential-function/aar099Xh5W4.srt
-  - uid: 7ec759ae2979f25135e3baf7985528bf
-    parent_uid: f941a2b8c3731e9834c3c5a50c30d794
-    id: aar099Xh5W4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-25-introduction-to-quadratic-appoximation/quadratic-approximation-of-an-exponential-function/aar099Xh5W4.pdf
-  - uid: 7b63a5b924b3990a28e8a0e0b2366e57
-    parent_uid: f941a2b8c3731e9834c3c5a50c30d794
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: aeb4dcca4b3ed721da77c7ecbe41e671
-    parent_uid: f941a2b8c3731e9834c3c5a50c30d794
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f941a2b8c3731e9834c3c5a50c30d794
 type: courses
 layout: video
 ---

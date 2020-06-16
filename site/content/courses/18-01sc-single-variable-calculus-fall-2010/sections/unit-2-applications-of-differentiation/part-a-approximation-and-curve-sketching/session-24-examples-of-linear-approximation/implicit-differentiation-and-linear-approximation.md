@@ -1,13 +1,68 @@
 ---
-title: Implicit Differentiation and Linear Approximation
-uid: 264a7ad2b06303db20a752e5b6e98c22
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 8gGbViZjoRw
+    parent_uid: 264a7ad2b06303db20a752e5b6e98c22
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d3c31668cb90ec2417ff6483598ae44e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/8gGbViZjoRw/default.jpg'
+    parent_uid: 264a7ad2b06303db20a752e5b6e98c22
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d333fa1b9152bac6ab3b834a890c7c21
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/implicit-differentiation-linear/id414308064?i=90318997
+    parent_uid: 264a7ad2b06303db20a752e5b6e98c22
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e6383dbd1223f562d8a624225fb9a77f
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_16_300k.mp4'
+    parent_uid: 264a7ad2b06303db20a752e5b6e98c22
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 84b37ea5c4a1e50320bb3a9aa2ea1518
+  - id: 3Play-3PlayVideoid-MP4
+    media_location: '21789'
+    parent_uid: 264a7ad2b06303db20a752e5b6e98c22
+    title: 3Play-3Play Video id
+    type: 3Play
+    uid: b5ea3e5d8c5ec0eed427c0fa5ff518fa
+  - id: 21789.srt
+    parent_uid: 264a7ad2b06303db20a752e5b6e98c22
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-24-examples-of-linear-approximation/implicit-differentiation-and-linear-approximation/21789.srt
+    title: 3play caption file
+    type: null
+    uid: 102dd68d570248fcea9bd3cb90ae17c5
+  - id: 21789.pdf
+    parent_uid: 264a7ad2b06303db20a752e5b6e98c22
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-24-examples-of-linear-approximation/implicit-differentiation-and-linear-approximation/21789.pdf
+    title: 3play pdf file
+    type: null
+    uid: e0d2d2093a102614f61c8d390e6190c5
+  - id: Caption-3Play Video id-SRT
+    parent_uid: 264a7ad2b06303db20a752e5b6e98c22
+    title: Caption-3Play Video id-SRT-English - US
+    type: Caption
+    uid: 1d2b624174ef4b0e7816c2c52021c1c8
+  - id: Transcript-3Play Video id-PDF
+    parent_uid: 264a7ad2b06303db20a752e5b6e98c22
+    title: Transcript-3Play Video id-PDF-English - US
+    type: Transcript
+    uid: 05d4f0bd41fc196c0a1dfaaf5b925013
+inline_embed_id: 18625905implicitdifferentiationandlinearapproximation27823646
 parent_uid: 332503c09be8a2d7ca749e218630b6f3
+related_resources_text: ''
+short_url: implicit-differentiation-and-linear-approximation
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-24-examples-of-linear-approximation/implicit-differentiation-and-linear-approximation
-short_url: implicit-differentiation-and-linear-approximation
-inline_embed_id: 18625905implicitdifferentiationandlinearapproximation27823646
-about_this_resource_text: ''
-related_resources_text: ''
+title: Implicit Differentiation and Linear Approximation
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='6940'>Hi.</span> <span
   m='7330'>Welcome</span> <span m='7660'>back</span> <span m='7850'>to</span>
@@ -684,62 +739,7 @@ transcript: >-
   m='613190'>approximation.</span> </p><p><span m='614190'>So</span> <span
   m='614410'>I'll</span> <span m='614560'>end</span> <span
   m='614710'>there.</span> </p>
-embedded_media:
-  - uid: d3c31668cb90ec2417ff6483598ae44e
-    parent_uid: 264a7ad2b06303db20a752e5b6e98c22
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 8gGbViZjoRw
-  - uid: d333fa1b9152bac6ab3b834a890c7c21
-    parent_uid: 264a7ad2b06303db20a752e5b6e98c22
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8gGbViZjoRw/default.jpg'
-  - uid: e6383dbd1223f562d8a624225fb9a77f
-    parent_uid: 264a7ad2b06303db20a752e5b6e98c22
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/implicit-differentiation-linear/id414308064?i=90318997
-  - uid: 84b37ea5c4a1e50320bb3a9aa2ea1518
-    parent_uid: 264a7ad2b06303db20a752e5b6e98c22
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_16_300k.mp4'
-  - uid: b5ea3e5d8c5ec0eed427c0fa5ff518fa
-    parent_uid: 264a7ad2b06303db20a752e5b6e98c22
-    id: 3Play-3PlayVideoid-MP4
-    title: 3Play-3Play Video id
-    type: 3Play
-    media_location: '21789'
-  - uid: 102dd68d570248fcea9bd3cb90ae17c5
-    parent_uid: 264a7ad2b06303db20a752e5b6e98c22
-    id: 21789.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-24-examples-of-linear-approximation/implicit-differentiation-and-linear-approximation/21789.srt
-  - uid: e0d2d2093a102614f61c8d390e6190c5
-    parent_uid: 264a7ad2b06303db20a752e5b6e98c22
-    id: 21789.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-24-examples-of-linear-approximation/implicit-differentiation-and-linear-approximation/21789.pdf
-  - uid: 1d2b624174ef4b0e7816c2c52021c1c8
-    parent_uid: 264a7ad2b06303db20a752e5b6e98c22
-    id: Caption-3Play Video id-SRT
-    title: Caption-3Play Video id-SRT-English - US
-    type: Caption
-  - uid: 05d4f0bd41fc196c0a1dfaaf5b925013
-    parent_uid: 264a7ad2b06303db20a752e5b6e98c22
-    id: Transcript-3Play Video id-PDF
-    title: Transcript-3Play Video id-PDF-English - US
-    type: Transcript
+uid: 264a7ad2b06303db20a752e5b6e98c22
 type: courses
 layout: video
 ---

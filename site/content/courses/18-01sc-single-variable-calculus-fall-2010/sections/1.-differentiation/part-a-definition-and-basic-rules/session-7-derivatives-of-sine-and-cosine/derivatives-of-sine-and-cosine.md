@@ -1,13 +1,68 @@
 ---
-title: Derivatives of Sine and Cosine
-uid: b2361151e8e40a7a92404580d40b3721
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Bb-bgJdOqig
+    parent_uid: b2361151e8e40a7a92404580d40b3721
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c133e22bfd204a3a2e7224a315040509
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Bb-bgJdOqig/default.jpg'
+    parent_uid: b2361151e8e40a7a92404580d40b3721
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 301aad7829686262ce7be16993e62dca
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/derivatives-sine-cosine/id414308064?i=90318625
+    parent_uid: b2361151e8e40a7a92404580d40b3721
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f2da3dd3b0e5076f45087537b58c6d1b
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_06_300k.mp4'
+    parent_uid: b2361151e8e40a7a92404580d40b3721
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 997f0ca3fd8d441d50762cef7bdfc1b4
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: Bb-bgJdOqig
+    parent_uid: b2361151e8e40a7a92404580d40b3721
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 75bb58dc87946bb4ba72be2a97000583
+  - id: Bb-bgJdOqig.srt
+    parent_uid: b2361151e8e40a7a92404580d40b3721
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/derivatives-of-sine-and-cosine/Bb-bgJdOqig.srt
+    title: 3play caption file
+    type: null
+    uid: a40e5b2ee42501126f27a06c04374d61
+  - id: Bb-bgJdOqig.pdf
+    parent_uid: b2361151e8e40a7a92404580d40b3721
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/derivatives-of-sine-and-cosine/Bb-bgJdOqig.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1cc680e96321348c5db7f2edc5fbe8d3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b2361151e8e40a7a92404580d40b3721
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 118ea7df99dfffff13b4b7f2d8738826
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b2361151e8e40a7a92404580d40b3721
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 400ba27dbe7029e04ee0f9ef1fa69314
+inline_embed_id: 12395640derivativesofsineandcosine57808562
 parent_uid: 118fc2aa2f82b0483267f66bf76b6ba7
+related_resources_text: ''
+short_url: derivatives-of-sine-and-cosine
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/derivatives-of-sine-and-cosine
-short_url: derivatives-of-sine-and-cosine
-inline_embed_id: 12395640derivativesofsineandcosine57808562
-about_this_resource_text: ''
-related_resources_text: ''
+title: Derivatives of Sine and Cosine
 transcript: >-
   <p><span m='7390'>PROFESSOR:</span> <span m='7555'>Hi.</span> <span
   m='7720'>Welcome</span> <span m='8200'>back</span> <span m='8410'>to</span>
@@ -530,62 +585,7 @@ transcript: >-
   m='486610'>trig</span> <span m='486860'>identity</span> <span
   m='487330'>here.</span> </p><p><span m='488290'>And</span> <span
   m='488750'>that's</span> <span m='489020'>that.</span> </p>
-embedded_media:
-  - uid: c133e22bfd204a3a2e7224a315040509
-    parent_uid: b2361151e8e40a7a92404580d40b3721
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Bb-bgJdOqig
-  - uid: 301aad7829686262ce7be16993e62dca
-    parent_uid: b2361151e8e40a7a92404580d40b3721
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Bb-bgJdOqig/default.jpg'
-  - uid: f2da3dd3b0e5076f45087537b58c6d1b
-    parent_uid: b2361151e8e40a7a92404580d40b3721
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/derivatives-sine-cosine/id414308064?i=90318625
-  - uid: 997f0ca3fd8d441d50762cef7bdfc1b4
-    parent_uid: b2361151e8e40a7a92404580d40b3721
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_06_300k.mp4'
-  - uid: 75bb58dc87946bb4ba72be2a97000583
-    parent_uid: b2361151e8e40a7a92404580d40b3721
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Bb-bgJdOqig
-  - uid: a40e5b2ee42501126f27a06c04374d61
-    parent_uid: b2361151e8e40a7a92404580d40b3721
-    id: Bb-bgJdOqig.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/derivatives-of-sine-and-cosine/Bb-bgJdOqig.srt
-  - uid: 1cc680e96321348c5db7f2edc5fbe8d3
-    parent_uid: b2361151e8e40a7a92404580d40b3721
-    id: Bb-bgJdOqig.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-7-derivatives-of-sine-and-cosine/derivatives-of-sine-and-cosine/Bb-bgJdOqig.pdf
-  - uid: 118ea7df99dfffff13b4b7f2d8738826
-    parent_uid: b2361151e8e40a7a92404580d40b3721
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 400ba27dbe7029e04ee0f9ef1fa69314
-    parent_uid: b2361151e8e40a7a92404580d40b3721
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b2361151e8e40a7a92404580d40b3721
 type: courses
 layout: video
 ---

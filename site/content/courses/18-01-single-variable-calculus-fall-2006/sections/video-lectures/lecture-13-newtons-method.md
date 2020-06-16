@@ -1,19 +1,91 @@
 ---
-title: 'Lecture 13: Newton''s Method'
-uid: f8f4ca2a3df5f2b394021c5f4c023448
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-13-newtons-method
-short_url: lecture-13-newtons-method
-inline_embed_id: '33613495lecture13:newton''smethod19055107'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Newton's method and
   other applications</p> <p><strong>Instructor:</strong> Prof. David
   Jerison</p></div>
+embedded_media:
+  - id: lec13.jpg
+    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-13-newtons-method/lec13.jpg
+    title: Lecture 13
+    type: null
+    uid: 173c734118d8949228e6605299d78a98
+  - id: Video-YouTube-Stream
+    media_location: sRIDVAcoG5A
+    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8b65b57a6e2330abb87fe86913e8fd76
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/sRIDVAcoG5A/default.jpg'
+    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 36469867c8f596998f455065c4636c25
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0396de21538b26f72e4460b6b934c25c
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec13_300k.mp4'
+    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a46e520ba77354ca49b37bb062cd822a
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 94b801cc97a1fab5bdd8e6b62767a3f3
+  - id: Thumbnail-OCW-JPG
+    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 6e3645dabf0930491edaa25a954d6c58
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: sRIDVAcoG5A
+    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3f716bd3483c98a64e6be1856e2da89f
+  - id: sRIDVAcoG5A.srt
+    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-13-newtons-method/sRIDVAcoG5A.srt
+    title: 3play caption file
+    type: null
+    uid: 8e11fc81642ee22b25786daa3d8d276e
+  - id: sRIDVAcoG5A.pdf
+    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-13-newtons-method/sRIDVAcoG5A.pdf
+    title: 3play pdf file
+    type: null
+    uid: be5a865648e8a9911a1d04ed3cb0418e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 99fb3c4c5042878c326712e134d7e217
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 714804e48bdb7ea29ed0de9a68b27a82
+inline_embed_id: '33613495lecture13:newton''smethod19055107'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/fb8c24f09aba8413984f8ce5961586bd">PDF -
   1.2MB</a>)</p></div>
+short_url: lecture-13-newtons-method
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-13-newtons-method
+title: 'Lecture 13: Newton''s Method'
 transcript: >-
   <p><span m='1900'>The</span> <span m='2007'>following</span> <span
   m='2114'>content</span> <span m='2221'>is</span> <span
@@ -3004,79 +3076,7 @@ transcript: >-
   <span m='3199000'>have</span> <span m='3199130'>to</span> <span
   m='3199250'>ask</span> <span m='3199790'>other</span> <span
   m='3199990'>questions</span> <span m='3200360'>after class.</span> </p>
-embedded_media:
-  - uid: 173c734118d8949228e6605299d78a98
-    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
-    id: lec13.jpg
-    title: Lecture 13
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-13-newtons-method/lec13.jpg
-  - uid: 8b65b57a6e2330abb87fe86913e8fd76
-    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: sRIDVAcoG5A
-  - uid: 36469867c8f596998f455065c4636c25
-    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/sRIDVAcoG5A/default.jpg'
-  - uid: 0396de21538b26f72e4460b6b934c25c
-    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: a46e520ba77354ca49b37bb062cd822a
-    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec13_300k.mp4'
-  - uid: 94b801cc97a1fab5bdd8e6b62767a3f3
-    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 6e3645dabf0930491edaa25a954d6c58
-    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 3f716bd3483c98a64e6be1856e2da89f
-    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: sRIDVAcoG5A
-  - uid: 8e11fc81642ee22b25786daa3d8d276e
-    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
-    id: sRIDVAcoG5A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-13-newtons-method/sRIDVAcoG5A.srt
-  - uid: be5a865648e8a9911a1d04ed3cb0418e
-    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
-    id: sRIDVAcoG5A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-13-newtons-method/sRIDVAcoG5A.pdf
-  - uid: 99fb3c4c5042878c326712e134d7e217
-    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 714804e48bdb7ea29ed0de9a68b27a82
-    parent_uid: f8f4ca2a3df5f2b394021c5f4c023448
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f8f4ca2a3df5f2b394021c5f4c023448
 type: courses
 layout: video
 ---

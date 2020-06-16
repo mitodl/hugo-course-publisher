@@ -1,13 +1,62 @@
 ---
-title: 'Video 5: Understanding the Model'
-uid: ff4f6c651cb5148f435aa8b23b576052
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: xxjhXhhcg74
+    parent_uid: ff4f6c651cb5148f435aa8b23b576052
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5d4e6d820f9e5537b45589f9c716e282
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: xxjhXhhcg74
+    parent_uid: ff4f6c651cb5148f435aa8b23b576052
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e93f2f3f3d5a5bc72d3a5216ada0de11
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/xxjhXhhcg74/default.jpg'
+    parent_uid: ff4f6c651cb5148f435aa8b23b576052
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b4f9a383cfa29b867e72b362f5b7d251
+  - id: xxjhXhhcg74.srt
+    parent_uid: ff4f6c651cb5148f435aa8b23b576052
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-5-understanding-the-model/video-5-understanding-the-model-0/xxjhXhhcg74.srt
+    title: 3play caption file
+    type: null
+    uid: 9fc3b5cc2914eee29dddfd22de38b70a
+  - id: xxjhXhhcg74.pdf
+    parent_uid: ff4f6c651cb5148f435aa8b23b576052
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-5-understanding-the-model/video-5-understanding-the-model-0/xxjhXhhcg74.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9811168fd216275f7860d832afdb1617
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ff4f6c651cb5148f435aa8b23b576052
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a536f395c63bae82aa9c298d84245ea1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ff4f6c651cb5148f435aa8b23b576052
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 08d3a88f134a9555096783bdcd186a5f
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.2.09_300k.mp4
+    parent_uid: ff4f6c651cb5148f435aa8b23b576052
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 533936c4a181149b3cbb656b8438d150
+inline_embed_id: 20064910video5understandingthemodel2264773
 parent_uid: 6111ddea9e0270bea0978feb66c8bf60
+related_resources_text: ''
+short_url: video-5-understanding-the-model-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-5-understanding-the-model/video-5-understanding-the-model-0
-short_url: video-5-understanding-the-model-0
-inline_embed_id: 20064910video5understandingthemodel2264773
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 5: Understanding the Model'
 transcript: >-
   <p><span m='4500'>In</span> <span m='4890'>the</span> <span
   m='5280'>previous</span> <span m='5670'>video,</span> <span m='6060'>we</span>
@@ -727,56 +776,7 @@ transcript: >-
   <span m='749180'>for</span> <span m='749578'>the</span> <span
   m='749976'>rest</span> <span m='750375'>of</span> <span m='750773'>this</span>
   <span m='751171'>lecture.</span> </p>
-embedded_media:
-  - uid: 5d4e6d820f9e5537b45589f9c716e282
-    parent_uid: ff4f6c651cb5148f435aa8b23b576052
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: xxjhXhhcg74
-  - uid: e93f2f3f3d5a5bc72d3a5216ada0de11
-    parent_uid: ff4f6c651cb5148f435aa8b23b576052
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: xxjhXhhcg74
-  - uid: b4f9a383cfa29b867e72b362f5b7d251
-    parent_uid: ff4f6c651cb5148f435aa8b23b576052
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/xxjhXhhcg74/default.jpg'
-  - uid: 9fc3b5cc2914eee29dddfd22de38b70a
-    parent_uid: ff4f6c651cb5148f435aa8b23b576052
-    id: xxjhXhhcg74.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-5-understanding-the-model/video-5-understanding-the-model-0/xxjhXhhcg74.srt
-  - uid: 9811168fd216275f7860d832afdb1617
-    parent_uid: ff4f6c651cb5148f435aa8b23b576052
-    id: xxjhXhhcg74.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-5-understanding-the-model/video-5-understanding-the-model-0/xxjhXhhcg74.pdf
-  - uid: a536f395c63bae82aa9c298d84245ea1
-    parent_uid: ff4f6c651cb5148f435aa8b23b576052
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 08d3a88f134a9555096783bdcd186a5f
-    parent_uid: ff4f6c651cb5148f435aa8b23b576052
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 533936c4a181149b3cbb656b8438d150
-    parent_uid: ff4f6c651cb5148f435aa8b23b576052
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.2.09_300k.mp4
+uid: ff4f6c651cb5148f435aa8b23b576052
 type: courses
 layout: video
 ---

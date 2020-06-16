@@ -1,13 +1,73 @@
 ---
-title: Bijections
-uid: 9508c7fbf491838bd8594afb1e5ee904
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 8097cfff1f7ea09ac3ed11e323381bfc
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2e5bc0b4df6034641ea69964c820a0bd
+  - id: Video-YouTube-Stream
+    media_location: n0lce1dMAh8
+    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bae73f315b484e7dd96c8c6fa4e07333
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/n0lce1dMAh8/default.jpg'
+    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b4a008b7662c158ad52f447a6e30831f
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: n0lce1dMAh8
+    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9991c7bfcea150406cfb3016b108439b
+  - id: n0lce1dMAh8.srt
+    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-1/vertical-96a6db418419/bijections/n0lce1dMAh8.srt
+    title: 3play caption file
+    type: null
+    uid: e1f1047733d934b3d37353969e4dc835
+  - id: n0lce1dMAh8.pdf
+    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-1/vertical-96a6db418419/bijections/n0lce1dMAh8.pdf
+    title: 3play pdf file
+    type: null
+    uid: cb434149548865ba363bd9b14ad86bd7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 028b96f76e2f224a77284c67e16a167a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b2fc7c234a6b39cdf46135b702a3722e
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_bijectioncount_video_ipod.mp4
+    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a43dfe20773f521faf4d2eef6e34d285
+inline_embed_id: 44010165bijections99505622
 parent_uid: 8f52cd435db0006859c51fb2593e8e7b
+related_resources_text: ''
+short_url: bijections
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-1/vertical-96a6db418419/bijections
-short_url: bijections
-inline_embed_id: 44010165bijections99505622
-about_this_resource_text: ''
-related_resources_text: ''
+title: Bijections
 transcript: >-
   <p><span m='1696'>PROFESSOR:</span> <span m='2120'>An</span> <span
   m='2300'>elementary</span> <span m='2920'>idea</span> <span
@@ -845,67 +905,7 @@ transcript: >-
   m='699200'>I</span> <span m='699300'>haven't</span> <span
   m='699650'>counted</span> <span m='700080'>yet</span> <span
   m='700340'>either</span> <span m='700620'>one.</span> </p>
-embedded_media:
-  - uid: 8097cfff1f7ea09ac3ed11e323381bfc
-    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 2e5bc0b4df6034641ea69964c820a0bd
-    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: bae73f315b484e7dd96c8c6fa4e07333
-    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: n0lce1dMAh8
-  - uid: b4a008b7662c158ad52f447a6e30831f
-    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/n0lce1dMAh8/default.jpg'
-  - uid: 9991c7bfcea150406cfb3016b108439b
-    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: n0lce1dMAh8
-  - uid: e1f1047733d934b3d37353969e4dc835
-    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
-    id: n0lce1dMAh8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-1/vertical-96a6db418419/bijections/n0lce1dMAh8.srt
-  - uid: cb434149548865ba363bd9b14ad86bd7
-    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
-    id: n0lce1dMAh8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-1/vertical-96a6db418419/bijections/n0lce1dMAh8.pdf
-  - uid: 028b96f76e2f224a77284c67e16a167a
-    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b2fc7c234a6b39cdf46135b702a3722e
-    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a43dfe20773f521faf4d2eef6e34d285
-    parent_uid: 9508c7fbf491838bd8594afb1e5ee904
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_bijectioncount_video_ipod.mp4
+uid: 9508c7fbf491838bd8594afb1e5ee904
 type: courses
 layout: video
 ---

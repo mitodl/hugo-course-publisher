@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 6: Column space and nullspace'
-uid: 59e845e037568e3e86afc5ac4d33890a
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-6-column-space-and-nullspace
-short_url: lecture-6-column-space-and-nullspace
-inline_embed_id: '73479651lecture6:columnspaceandnullspace56824511'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L06.jpg
+    parent_uid: 59e845e037568e3e86afc5ac4d33890a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-6-column-space-and-nullspace/18.06_L06.jpg
+    title: 18.06_L06.jpg
+    type: null
+    uid: 6491a67d10b20176a009007dfa7181bf
+  - id: Video-YouTube-Stream
+    media_location: 8o5Cmfpeo6g
+    parent_uid: 59e845e037568e3e86afc5ac4d33890a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d5663bd0a4b703cae75b8292b667e9bf
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/8o5Cmfpeo6g/default.jpg'
+    parent_uid: 59e845e037568e3e86afc5ac4d33890a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 85a845bff106189b49553ad57d773e57
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/06.mp4'
+    parent_uid: 59e845e037568e3e86afc5ac4d33890a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0231ee079c7dc2e264651a6f6fcf564a
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: 59e845e037568e3e86afc5ac4d33890a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 50ff6ac1dabf1d4622c08786747e6d01
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: 59e845e037568e3e86afc5ac4d33890a
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 6ffcc52107389ea84f223fe0f9bcfc94
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 59e845e037568e3e86afc5ac4d33890a
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 5180c0f54fe4d2bcb21a5601889bbec6
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 8o5Cmfpeo6g
+    parent_uid: 59e845e037568e3e86afc5ac4d33890a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4553ad5d8855d3002e145fae3eef5960
+  - id: 8o5Cmfpeo6g.srt
+    parent_uid: 59e845e037568e3e86afc5ac4d33890a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-6-column-space-and-nullspace/8o5Cmfpeo6g.srt
+    title: 3play caption file
+    type: null
+    uid: 97228c7bccd891d91b4283baa9e106b9
+  - id: 8o5Cmfpeo6g.pdf
+    parent_uid: 59e845e037568e3e86afc5ac4d33890a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-6-column-space-and-nullspace/8o5Cmfpeo6g.pdf
+    title: 3play pdf file
+    type: null
+    uid: 52823bc4563ea1482bb5cd7c36c60d1e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 59e845e037568e3e86afc5ac4d33890a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 33834325a65af2589ed3692ac789eb48
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 59e845e037568e3e86afc5ac4d33890a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 98145181e218ab6097e91f3aad95b262
+inline_embed_id: '73479651lecture6:columnspaceandnullspace56824511'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p><p>&nbsp;</p>
+short_url: lecture-6-column-space-and-nullspace
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-6-column-space-and-nullspace
+title: 'Lecture 6: Column space and nullspace'
 transcript: >-
   <p><span m="9070">Okay.</span> <span m="9660">This</span> <span
   m="9990">is</span> <span m="10490">lecture</span> <span m="11290">six</span>
@@ -2617,79 +2689,7 @@ transcript: >-
   m="2745960">Okay.</span></p><p><span m="2748770">See</span> <span
   m="2751580">you</span> <span m="2754380">Wednesday.</span></p><p><span
   m="2757190">Thanks.</span></p>
-embedded_media:
-  - uid: 6491a67d10b20176a009007dfa7181bf
-    parent_uid: 59e845e037568e3e86afc5ac4d33890a
-    id: 18.06_L06.jpg
-    title: 18.06_L06.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-6-column-space-and-nullspace/18.06_L06.jpg
-  - uid: d5663bd0a4b703cae75b8292b667e9bf
-    parent_uid: 59e845e037568e3e86afc5ac4d33890a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 8o5Cmfpeo6g
-  - uid: 85a845bff106189b49553ad57d773e57
-    parent_uid: 59e845e037568e3e86afc5ac4d33890a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8o5Cmfpeo6g/default.jpg'
-  - uid: 0231ee079c7dc2e264651a6f6fcf564a
-    parent_uid: 59e845e037568e3e86afc5ac4d33890a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/06.mp4'
-  - uid: 50ff6ac1dabf1d4622c08786747e6d01
-    parent_uid: 59e845e037568e3e86afc5ac4d33890a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 6ffcc52107389ea84f223fe0f9bcfc94
-    parent_uid: 59e845e037568e3e86afc5ac4d33890a
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 5180c0f54fe4d2bcb21a5601889bbec6
-    parent_uid: 59e845e037568e3e86afc5ac4d33890a
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 4553ad5d8855d3002e145fae3eef5960
-    parent_uid: 59e845e037568e3e86afc5ac4d33890a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 8o5Cmfpeo6g
-  - uid: 97228c7bccd891d91b4283baa9e106b9
-    parent_uid: 59e845e037568e3e86afc5ac4d33890a
-    id: 8o5Cmfpeo6g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-6-column-space-and-nullspace/8o5Cmfpeo6g.srt
-  - uid: 52823bc4563ea1482bb5cd7c36c60d1e
-    parent_uid: 59e845e037568e3e86afc5ac4d33890a
-    id: 8o5Cmfpeo6g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-6-column-space-and-nullspace/8o5Cmfpeo6g.pdf
-  - uid: 33834325a65af2589ed3692ac789eb48
-    parent_uid: 59e845e037568e3e86afc5ac4d33890a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 98145181e218ab6097e91f3aad95b262
-    parent_uid: 59e845e037568e3e86afc5ac4d33890a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 59e845e037568e3e86afc5ac4d33890a
 type: courses
 layout: video
 ---

@@ -1,13 +1,62 @@
 ---
-title: 'Video 5: A Geographical Hot Spot Map'
-uid: 76568bbc2df3c11a385efdf9faa0dddd
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: plpDQpjB044
+    parent_uid: 76568bbc2df3c11a385efdf9faa0dddd
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ea4c330c3311d896abc373d0b6379130
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: plpDQpjB044
+    parent_uid: 76568bbc2df3c11a385efdf9faa0dddd
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 55cf13c2232e57cbb5fbf3a3800455d9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/plpDQpjB044/default.jpg'
+    parent_uid: 76568bbc2df3c11a385efdf9faa0dddd
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 80976fe6ac128ab66811e8bac95a49d5
+  - id: plpDQpjB044.srt
+    parent_uid: 76568bbc2df3c11a385efdf9faa0dddd
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-5-a-geographical-hot-spot-map/video-5-a-geographical-hot-spot-map-0/plpDQpjB044.srt
+    title: 3play caption file
+    type: null
+    uid: e2fafa976a9fcdaaf639004e850c3e7c
+  - id: plpDQpjB044.pdf
+    parent_uid: 76568bbc2df3c11a385efdf9faa0dddd
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-5-a-geographical-hot-spot-map/video-5-a-geographical-hot-spot-map-0/plpDQpjB044.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3d2dafcc9855a1a7a691f4e1883a41aa
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 76568bbc2df3c11a385efdf9faa0dddd
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 002efa1b5d94685acaed15d6128b92ec
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 76568bbc2df3c11a385efdf9faa0dddd
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 53b6d560c524a94fdddbd7872c6aa5e3
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.3.09_300k.mp4
+    parent_uid: 76568bbc2df3c11a385efdf9faa0dddd
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 45cb34cbf8a2bc1d789c8585fc52de9c
+inline_embed_id: 37471457video5ageographicalhotspotmap43199426
 parent_uid: 0d6e8df118b96fff96f8bda53ace64b7
+related_resources_text: ''
+short_url: video-5-a-geographical-hot-spot-map-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-5-a-geographical-hot-spot-map/video-5-a-geographical-hot-spot-map-0
-short_url: video-5-a-geographical-hot-spot-map-0
-inline_embed_id: 37471457video5ageographicalhotspotmap43199426
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 5: A Geographical Hot Spot Map'
 transcript: >-
   <p><span m='4490'>In</span> <span m='4902'>this</span> <span
   m='5315'>video,</span> <span m='5728'>we'll</span> <span m='6140'>plot</span>
@@ -408,56 +457,7 @@ transcript: >-
   <span m='502791'>on</span> <span m='503140'>a</span> <span
   m='503488'>map</span> <span m='503836'>of</span> <span m='504185'>the</span>
   <span m='504533'>United</span> <span m='504881'>States.</span> </p>
-embedded_media:
-  - uid: ea4c330c3311d896abc373d0b6379130
-    parent_uid: 76568bbc2df3c11a385efdf9faa0dddd
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: plpDQpjB044
-  - uid: 55cf13c2232e57cbb5fbf3a3800455d9
-    parent_uid: 76568bbc2df3c11a385efdf9faa0dddd
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: plpDQpjB044
-  - uid: 80976fe6ac128ab66811e8bac95a49d5
-    parent_uid: 76568bbc2df3c11a385efdf9faa0dddd
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/plpDQpjB044/default.jpg'
-  - uid: e2fafa976a9fcdaaf639004e850c3e7c
-    parent_uid: 76568bbc2df3c11a385efdf9faa0dddd
-    id: plpDQpjB044.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-5-a-geographical-hot-spot-map/video-5-a-geographical-hot-spot-map-0/plpDQpjB044.srt
-  - uid: 3d2dafcc9855a1a7a691f4e1883a41aa
-    parent_uid: 76568bbc2df3c11a385efdf9faa0dddd
-    id: plpDQpjB044.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-5-a-geographical-hot-spot-map/video-5-a-geographical-hot-spot-map-0/plpDQpjB044.pdf
-  - uid: 002efa1b5d94685acaed15d6128b92ec
-    parent_uid: 76568bbc2df3c11a385efdf9faa0dddd
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 53b6d560c524a94fdddbd7872c6aa5e3
-    parent_uid: 76568bbc2df3c11a385efdf9faa0dddd
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 45cb34cbf8a2bc1d789c8585fc52de9c
-    parent_uid: 76568bbc2df3c11a385efdf9faa0dddd
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.3.09_300k.mp4
+uid: 76568bbc2df3c11a385efdf9faa0dddd
 type: courses
 layout: video
 ---

@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 2: Elimination with matrices'
-uid: 1397ead489c31027c5409f06c4243950
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-2-elimination-with-matrices
-short_url: lecture-2-elimination-with-matrices
-inline_embed_id: '48497783lecture2:eliminationwithmatrices14269064'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L02.jpg
+    parent_uid: 1397ead489c31027c5409f06c4243950
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-2-elimination-with-matrices/18.06_L02.jpg
+    title: 18.06_L02.jpg
+    type: null
+    uid: 1ca73b9e193b6574e450202acb6877eb
+  - id: Video-YouTube-Stream
+    media_location: QVKj3LADCnA
+    parent_uid: 1397ead489c31027c5409f06c4243950
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 011d78f37690f35f9edf838d21b1af67
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QVKj3LADCnA/default.jpg'
+    parent_uid: 1397ead489c31027c5409f06c4243950
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c7fe20246189afb1a2ed9a711ac2c7bc
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: 1397ead489c31027c5409f06c4243950
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9acde8f87382280514f1ac51861dcb5e
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/02.mp4'
+    parent_uid: 1397ead489c31027c5409f06c4243950
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5f07195d2ce3607ab299fb3cc2db8ae8
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: 1397ead489c31027c5409f06c4243950
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 9adf806dc3cd2571d6ea903c13094605
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 1397ead489c31027c5409f06c4243950
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 4e7365fcec0002da321693b9463dce4f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: QVKj3LADCnA
+    parent_uid: 1397ead489c31027c5409f06c4243950
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 03247a8fcd532cfd9ecadec11b0097ec
+  - id: QVKj3LADCnA.srt
+    parent_uid: 1397ead489c31027c5409f06c4243950
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-2-elimination-with-matrices/QVKj3LADCnA.srt
+    title: 3play caption file
+    type: null
+    uid: c9a3cbaeb20fff97597417db007f7e8e
+  - id: QVKj3LADCnA.pdf
+    parent_uid: 1397ead489c31027c5409f06c4243950
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-2-elimination-with-matrices/QVKj3LADCnA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 49c357a7166c58e09f76f25512872fd9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1397ead489c31027c5409f06c4243950
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b85096ee1d792ff2b9702d9b9385d047
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1397ead489c31027c5409f06c4243950
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b93336bee4ad1663ddd09419daae8764
+inline_embed_id: '48497783lecture2:eliminationwithmatrices14269064'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="./resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="./resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-2-elimination-with-matrices
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-2-elimination-with-matrices
+title: 'Lecture 2: Elimination with matrices'
 transcript: >-
   <p><span m="0">2</span> <span m="9640">times</span> <span
   m="10650">this</span> <span m="11350">equation,</span> <span
@@ -2709,79 +2781,7 @@ transcript: >-
   m="2840060">Monday.</span></p><p><span m="2840660">So,</span> <span
   m="2841140">see</span> <span m="2841380">you</span> <span
   m="2841500">Monday.</span></p>
-embedded_media:
-  - uid: 1ca73b9e193b6574e450202acb6877eb
-    parent_uid: 1397ead489c31027c5409f06c4243950
-    id: 18.06_L02.jpg
-    title: 18.06_L02.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-2-elimination-with-matrices/18.06_L02.jpg
-  - uid: 011d78f37690f35f9edf838d21b1af67
-    parent_uid: 1397ead489c31027c5409f06c4243950
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QVKj3LADCnA
-  - uid: c7fe20246189afb1a2ed9a711ac2c7bc
-    parent_uid: 1397ead489c31027c5409f06c4243950
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QVKj3LADCnA/default.jpg'
-  - uid: 9acde8f87382280514f1ac51861dcb5e
-    parent_uid: 1397ead489c31027c5409f06c4243950
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 5f07195d2ce3607ab299fb3cc2db8ae8
-    parent_uid: 1397ead489c31027c5409f06c4243950
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/02.mp4'
-  - uid: 9adf806dc3cd2571d6ea903c13094605
-    parent_uid: 1397ead489c31027c5409f06c4243950
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 4e7365fcec0002da321693b9463dce4f
-    parent_uid: 1397ead489c31027c5409f06c4243950
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 03247a8fcd532cfd9ecadec11b0097ec
-    parent_uid: 1397ead489c31027c5409f06c4243950
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QVKj3LADCnA
-  - uid: c9a3cbaeb20fff97597417db007f7e8e
-    parent_uid: 1397ead489c31027c5409f06c4243950
-    id: QVKj3LADCnA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-2-elimination-with-matrices/QVKj3LADCnA.srt
-  - uid: 49c357a7166c58e09f76f25512872fd9
-    parent_uid: 1397ead489c31027c5409f06c4243950
-    id: QVKj3LADCnA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-2-elimination-with-matrices/QVKj3LADCnA.pdf
-  - uid: b85096ee1d792ff2b9702d9b9385d047
-    parent_uid: 1397ead489c31027c5409f06c4243950
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b93336bee4ad1663ddd09419daae8764
-    parent_uid: 1397ead489c31027c5409f06c4243950
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 1397ead489c31027c5409f06c4243950
 type: courses
 layout: video
 ---

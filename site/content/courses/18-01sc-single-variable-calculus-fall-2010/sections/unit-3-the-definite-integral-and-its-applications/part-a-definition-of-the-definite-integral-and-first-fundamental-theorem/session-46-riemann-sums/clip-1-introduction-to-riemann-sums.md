@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Introduction to Riemann Sums'
-uid: 20c7d61477a9507be4f751a842ca7075
-parent_uid: d5e0c7a6f17252a3c694d627faf12123
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/clip-1-introduction-to-riemann-sums
-short_url: clip-1-introduction-to-riemann-sums
-inline_embed_id: '79795556clip1:introductiontoriemannsums70833159'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/523ebde51093f1b01b42191bde0ec1dc"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 18 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: hjZhPczMkL4
+    parent_uid: 20c7d61477a9507be4f751a842ca7075
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 50a2b771708c28fa7cea03b18b7f94ee
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/hjZhPczMkL4/default.jpg'
+    parent_uid: 20c7d61477a9507be4f751a842ca7075
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1c5c9ac77ab756ec7431cc46bc51fb3a
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: hjZhPczMkL4
+    parent_uid: 20c7d61477a9507be4f751a842ca7075
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: edd93785fa09f2e69d67b1b39fd0ff60
+  - id: hjZhPczMkL4.srt
+    parent_uid: 20c7d61477a9507be4f751a842ca7075
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/clip-1-introduction-to-riemann-sums/hjZhPczMkL4.srt
+    title: 3play caption file
+    type: null
+    uid: 6fcae69c28217b5c7779e4cbe6820b6f
+  - id: hjZhPczMkL4.pdf
+    parent_uid: 20c7d61477a9507be4f751a842ca7075
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/clip-1-introduction-to-riemann-sums/hjZhPczMkL4.pdf
+    title: 3play pdf file
+    type: null
+    uid: c5403e849f65d5959cfce98fc7d4b458
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 20c7d61477a9507be4f751a842ca7075
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 82916ba77a62b4a835bcf543bb3e4906
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 20c7d61477a9507be4f751a842ca7075
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2a480f62ef6e348cbbff2141cdc9cc5b
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec18_300k.mp4'
+    parent_uid: 20c7d61477a9507be4f751a842ca7075
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6ec3dc644846d85a4cf0b9eb362f06a1
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 20c7d61477a9507be4f751a842ca7075
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e8901495c551e078a17e7ea358eac575
+inline_embed_id: '79795556clip1:introductiontoriemannsums70833159'
+parent_uid: d5e0c7a6f17252a3c694d627faf12123
 related_resources_text: ''
+short_url: clip-1-introduction-to-riemann-sums
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/clip-1-introduction-to-riemann-sums
+title: 'Clip 1: Introduction to Riemann Sums'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='530'>content</span> <span m='1020'>is</span> <span m='1130'>provided under
@@ -2398,61 +2452,7 @@ transcript: >-
   m='2829470'>think</span> <span m='2829770'>about</span> <span
   m='2830110'>questions</span> <span m='2830640'>that you'll ask</span> <span
   m='2830820'>next</span> <span m='2831560'>time.</span> </p>
-embedded_media:
-  - uid: 50a2b771708c28fa7cea03b18b7f94ee
-    parent_uid: 20c7d61477a9507be4f751a842ca7075
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: hjZhPczMkL4
-  - uid: 1c5c9ac77ab756ec7431cc46bc51fb3a
-    parent_uid: 20c7d61477a9507be4f751a842ca7075
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/hjZhPczMkL4/default.jpg'
-  - uid: edd93785fa09f2e69d67b1b39fd0ff60
-    parent_uid: 20c7d61477a9507be4f751a842ca7075
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: hjZhPczMkL4
-  - uid: 6fcae69c28217b5c7779e4cbe6820b6f
-    parent_uid: 20c7d61477a9507be4f751a842ca7075
-    id: hjZhPczMkL4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/clip-1-introduction-to-riemann-sums/hjZhPczMkL4.srt
-  - uid: c5403e849f65d5959cfce98fc7d4b458
-    parent_uid: 20c7d61477a9507be4f751a842ca7075
-    id: hjZhPczMkL4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/clip-1-introduction-to-riemann-sums/hjZhPczMkL4.pdf
-  - uid: 82916ba77a62b4a835bcf543bb3e4906
-    parent_uid: 20c7d61477a9507be4f751a842ca7075
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2a480f62ef6e348cbbff2141cdc9cc5b
-    parent_uid: 20c7d61477a9507be4f751a842ca7075
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6ec3dc644846d85a4cf0b9eb362f06a1
-    parent_uid: 20c7d61477a9507be4f751a842ca7075
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec18_300k.mp4'
-  - uid: e8901495c551e078a17e7ea358eac575
-    parent_uid: 20c7d61477a9507be4f751a842ca7075
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 20c7d61477a9507be4f751a842ca7075
 type: courses
 layout: video
 ---

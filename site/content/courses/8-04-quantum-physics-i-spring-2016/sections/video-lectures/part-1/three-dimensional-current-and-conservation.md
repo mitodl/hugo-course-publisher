@@ -1,13 +1,73 @@
 ---
-title: Three dimensional current and conservation
-uid: 6e5fec4234ae7ce587c4e0abb222e582
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Ex_fFlwZoM0
+    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6353de16b25a2d499641ce48f7a9268e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Dj9HNADRY48/default.jpg'
+    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ed5c96571fb124c8762bde2c4c2ff771
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Ex_fFlwZoM0
+    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5ab067c16f7784e4a301b7e62c334ceb
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f4436ed080647c9c5fe2478ac0ff2afe
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec06_s4_300k.mp4'
+    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ab983c82a50ceace51b6d0db08e58e52
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/Ex_fFlwZoM0/default.jpg'
+    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 28ec1b42b2b7d1704349b4045d22c18e
+  - id: Ex_fFlwZoM0.srt
+    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/three-dimensional-current-and-conservation/Ex_fFlwZoM0.srt
+    title: 3play caption file
+    type: null
+    uid: 21a236c94640fce2eaac9565379c1c24
+  - id: Ex_fFlwZoM0.pdf
+    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/three-dimensional-current-and-conservation/Ex_fFlwZoM0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4ad0280b37773ad3bedc95d306583b75
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: fbca14ab0c627994d2f530b83cddb444
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: dc8475f6056e25803132f955066da815
+inline_embed_id: 16387673threedimensionalcurrentandconservation32256303
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: three-dimensional-current-and-conservation
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/three-dimensional-current-and-conservation
-short_url: three-dimensional-current-and-conservation
-inline_embed_id: 16387673threedimensionalcurrentandconservation32256303
-about_this_resource_text: ''
-related_resources_text: ''
+title: Three dimensional current and conservation
 transcript: >-
   <p><span m='450'>Three-dimensional</span> <span m='3140'>case.</span> <span
   m='3920'>Now,</span> <span m='6450'>in</span> <span m='6610'>the</span> <span
@@ -726,67 +786,7 @@ transcript: >-
   m='1089670'>the</span> <span m='1089820'>probability</span> <span
   m='1090530'>here</span> <span m='1090820'>increases</span> <span
   m='1091500'>or</span> <span m='1091620'>decreases.</span> </p>
-embedded_media:
-  - uid: 6353de16b25a2d499641ce48f7a9268e
-    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Ex_fFlwZoM0
-  - uid: ed5c96571fb124c8762bde2c4c2ff771
-    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Dj9HNADRY48/default.jpg'
-  - uid: 5ab067c16f7784e4a301b7e62c334ceb
-    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Ex_fFlwZoM0
-  - uid: f4436ed080647c9c5fe2478ac0ff2afe
-    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: ab983c82a50ceace51b6d0db08e58e52
-    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec06_s4_300k.mp4'
-  - uid: 28ec1b42b2b7d1704349b4045d22c18e
-    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Ex_fFlwZoM0/default.jpg'
-  - uid: 21a236c94640fce2eaac9565379c1c24
-    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
-    id: Ex_fFlwZoM0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/three-dimensional-current-and-conservation/Ex_fFlwZoM0.srt
-  - uid: 4ad0280b37773ad3bedc95d306583b75
-    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
-    id: Ex_fFlwZoM0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/three-dimensional-current-and-conservation/Ex_fFlwZoM0.pdf
-  - uid: fbca14ab0c627994d2f530b83cddb444
-    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: dc8475f6056e25803132f955066da815
-    parent_uid: 6e5fec4234ae7ce587c4e0abb222e582
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6e5fec4234ae7ce587c4e0abb222e582
 type: courses
 layout: video
 ---

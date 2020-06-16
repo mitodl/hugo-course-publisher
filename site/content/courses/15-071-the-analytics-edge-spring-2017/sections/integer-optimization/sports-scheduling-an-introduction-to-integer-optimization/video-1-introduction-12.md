@@ -1,13 +1,62 @@
 ---
-title: 'Video 1: Introduction'
-uid: 791263a1ac27eeace62cdd8ef3261b2c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 9aKidJvppF0
+    parent_uid: 791263a1ac27eeace62cdd8ef3261b2c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: fd2218909050ad1a6aa2536282b18521
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 9aKidJvppF0
+    parent_uid: 791263a1ac27eeace62cdd8ef3261b2c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 86974bbc06e0a08e47b6f9d4c01fb043
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/9aKidJvppF0/default.jpg'
+    parent_uid: 791263a1ac27eeace62cdd8ef3261b2c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: da81cd194ebe80787869c8a18837c9a4
+  - id: 9aKidJvppF0.srt
+    parent_uid: 791263a1ac27eeace62cdd8ef3261b2c
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-1-introduction-12/9aKidJvppF0.srt
+    title: 3play caption file
+    type: null
+    uid: 9c20cd2cbaff82e925cfc40b04a08b92
+  - id: 9aKidJvppF0.pdf
+    parent_uid: 791263a1ac27eeace62cdd8ef3261b2c
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-1-introduction-12/9aKidJvppF0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 67ac4ccf30a9c4b8d2948ae729791eaa
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 791263a1ac27eeace62cdd8ef3261b2c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5d1d52e7498ffb2bcc7ff46b367bb4d8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 791263a1ac27eeace62cdd8ef3261b2c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9d7c15f9b2d2313970520dc1ce487a65
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_9.2.01_300k.mp4
+    parent_uid: 791263a1ac27eeace62cdd8ef3261b2c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8e6ab1ae4981ba6293846cbc39f1737f
+inline_embed_id: 89481875video1introduction81729497
 parent_uid: fbf2b7049246466ef24736bff248b7c3
+related_resources_text: ''
+short_url: video-1-introduction-12
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-1-introduction-12
-short_url: video-1-introduction-12
-inline_embed_id: 89481875video1introduction81729497
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: Introduction'
 transcript: >-
   <p><span m='9740'>In</span> <span m='10141'>this</span> <span
   m='10542'>lecture,</span> <span m='10944'>we'll</span> <span
@@ -329,56 +378,7 @@ transcript: >-
   m='314058'>to</span> <span m='314605'>construct</span> <span
   m='315151'>a</span> <span m='315697'>sports</span> <span
   m='316243'>schedule.</span> </p>
-embedded_media:
-  - uid: fd2218909050ad1a6aa2536282b18521
-    parent_uid: 791263a1ac27eeace62cdd8ef3261b2c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 9aKidJvppF0
-  - uid: 86974bbc06e0a08e47b6f9d4c01fb043
-    parent_uid: 791263a1ac27eeace62cdd8ef3261b2c
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 9aKidJvppF0
-  - uid: da81cd194ebe80787869c8a18837c9a4
-    parent_uid: 791263a1ac27eeace62cdd8ef3261b2c
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9aKidJvppF0/default.jpg'
-  - uid: 9c20cd2cbaff82e925cfc40b04a08b92
-    parent_uid: 791263a1ac27eeace62cdd8ef3261b2c
-    id: 9aKidJvppF0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-1-introduction-12/9aKidJvppF0.srt
-  - uid: 67ac4ccf30a9c4b8d2948ae729791eaa
-    parent_uid: 791263a1ac27eeace62cdd8ef3261b2c
-    id: 9aKidJvppF0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-1-introduction-12/9aKidJvppF0.pdf
-  - uid: 5d1d52e7498ffb2bcc7ff46b367bb4d8
-    parent_uid: 791263a1ac27eeace62cdd8ef3261b2c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9d7c15f9b2d2313970520dc1ce487a65
-    parent_uid: 791263a1ac27eeace62cdd8ef3261b2c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8e6ab1ae4981ba6293846cbc39f1737f
-    parent_uid: 791263a1ac27eeace62cdd8ef3261b2c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_9.2.01_300k.mp4
+uid: 791263a1ac27eeace62cdd8ef3261b2c
 type: courses
 layout: video
 ---

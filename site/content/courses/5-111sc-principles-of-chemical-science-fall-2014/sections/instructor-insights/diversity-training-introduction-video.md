@@ -1,13 +1,62 @@
 ---
-title: 'Diversity Training: Introduction Video'
-uid: 0167732cde17c8d04e3234e21877a558
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: IzTRzMf8kKE
+    parent_uid: 0167732cde17c8d04e3234e21877a558
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 15612f6d9a20e643008087057718513b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: IzTRzMf8kKE
+    parent_uid: 0167732cde17c8d04e3234e21877a558
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 53570dd78ea92dbe4161267b27f678aa
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/mitdiversitytraining/MIT_diversity_training_intro_300k.mp4
+    parent_uid: 0167732cde17c8d04e3234e21877a558
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bc4c623ab63ed0e32346af3421a48162
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/IzTRzMf8kKE/default.jpg'
+    parent_uid: 0167732cde17c8d04e3234e21877a558
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7096e9c1024a75631edf6eee71707353
+  - id: IzTRzMf8kKE.srt
+    parent_uid: 0167732cde17c8d04e3234e21877a558
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/diversity-training-introduction-video/IzTRzMf8kKE.srt
+    title: 3play caption file
+    type: null
+    uid: 3dd66e71d78006f685f9c58c3f5bb638
+  - id: IzTRzMf8kKE.pdf
+    parent_uid: 0167732cde17c8d04e3234e21877a558
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/diversity-training-introduction-video/IzTRzMf8kKE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 15683ea890e2174fc3ce15e54002f970
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0167732cde17c8d04e3234e21877a558
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 098d1263a58a1015c1c2239a21b9784c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0167732cde17c8d04e3234e21877a558
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 62c18bc2cc55dde789951b37ddf07f04
+inline_embed_id: 38656850diversitytrainingintroductionvideo99926756
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
+related_resources_text: ''
+short_url: diversity-training-introduction-video
 technical_location: >-
   https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/diversity-training-introduction-video
-short_url: diversity-training-introduction-video
-inline_embed_id: 38656850diversitytrainingintroductionvideo99926756
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Diversity Training: Introduction Video'
 transcript: >-
   <p><span m='6480'>CATHY DRENNAN:</span> <span m='6645'>So</span> <span
   m='6810'>I'm</span> <span m='6990'>Cathy</span> <span m='7290'>Drennan.</span>
@@ -295,56 +344,7 @@ transcript: >-
   m='213840'>full</span> <span m='214050'>potential.</span> <span
   m='214900'>So</span> <span m='215100'>enjoy</span> <span
   m='215430'>watching.</span> </p>
-embedded_media:
-  - uid: 15612f6d9a20e643008087057718513b
-    parent_uid: 0167732cde17c8d04e3234e21877a558
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: IzTRzMf8kKE
-  - uid: 53570dd78ea92dbe4161267b27f678aa
-    parent_uid: 0167732cde17c8d04e3234e21877a558
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: IzTRzMf8kKE
-  - uid: bc4c623ab63ed0e32346af3421a48162
-    parent_uid: 0167732cde17c8d04e3234e21877a558
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/mitdiversitytraining/MIT_diversity_training_intro_300k.mp4
-  - uid: 7096e9c1024a75631edf6eee71707353
-    parent_uid: 0167732cde17c8d04e3234e21877a558
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/IzTRzMf8kKE/default.jpg'
-  - uid: 3dd66e71d78006f685f9c58c3f5bb638
-    parent_uid: 0167732cde17c8d04e3234e21877a558
-    id: IzTRzMf8kKE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/diversity-training-introduction-video/IzTRzMf8kKE.srt
-  - uid: 15683ea890e2174fc3ce15e54002f970
-    parent_uid: 0167732cde17c8d04e3234e21877a558
-    id: IzTRzMf8kKE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/diversity-training-introduction-video/IzTRzMf8kKE.pdf
-  - uid: 098d1263a58a1015c1c2239a21b9784c
-    parent_uid: 0167732cde17c8d04e3234e21877a558
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 62c18bc2cc55dde789951b37ddf07f04
-    parent_uid: 0167732cde17c8d04e3234e21877a558
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 0167732cde17c8d04e3234e21877a558
 type: courses
 layout: video
 ---

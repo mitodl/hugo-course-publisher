@@ -1,13 +1,72 @@
 ---
-title: Induction
-uid: 1c3da1790e5a63faea8ab86f1b7d395f
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 13a80b7d2fb0895644b1e8c0f6c4eca1
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3031dd6f280adebbf8c461470dcb255a
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_induction_ipod.mp4'
+    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bae6e273e20f4ca0a204fdd842619d85
+  - id: Video-YouTube-Stream
+    media_location: XnV8GAuAqJM
+    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7a3bf7378b953a4ec96cb73943401464
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/XnV8GAuAqJM/default.jpg'
+    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5c8c2a59531081633d0cf046e6c20385
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: XnV8GAuAqJM
+    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d7280f0512c8053b1568002f699bba39
+  - id: XnV8GAuAqJM.srt
+    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/induction/XnV8GAuAqJM.srt
+    title: 3play caption file
+    type: null
+    uid: 350deabf8f3861c71094cb089518778b
+  - id: XnV8GAuAqJM.pdf
+    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/induction/XnV8GAuAqJM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3f64fa504288772ffc8d9d2b47f8823b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9c8bd047ab172514e6320f5392739a6e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 29d625429e358ce1ab3dea8b3a04fd27
+inline_embed_id: 51208522induction11982837
 parent_uid: 5179d7c0c3f7a60a33d7c24d9d219172
+related_resources_text: ''
+short_url: induction
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/induction
-short_url: induction
-inline_embed_id: 51208522induction11982837
-about_this_resource_text: ''
-related_resources_text: ''
+title: Induction
 transcript: >-
   <p><span m='425'>PROFESSOR:</span> <span m='850'>So</span> <span
   m='1040'>we</span> <span m='1170'>come</span> <span m='1450'>now</span> <span
@@ -1673,66 +1732,7 @@ transcript: >-
   m='1290210'>examples</span> <span m='1291250'>of</span> <span
   m='1291890'>basic</span> <span m='1292520'>mathematical</span> <span
   m='1293240'>induction.</span> </p>
-embedded_media:
-  - uid: 13a80b7d2fb0895644b1e8c0f6c4eca1
-    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 3031dd6f280adebbf8c461470dcb255a
-    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: bae6e273e20f4ca0a204fdd842619d85
-    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_induction_ipod.mp4'
-  - uid: 7a3bf7378b953a4ec96cb73943401464
-    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: XnV8GAuAqJM
-  - uid: 5c8c2a59531081633d0cf046e6c20385
-    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/XnV8GAuAqJM/default.jpg'
-  - uid: d7280f0512c8053b1568002f699bba39
-    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: XnV8GAuAqJM
-  - uid: 350deabf8f3861c71094cb089518778b
-    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
-    id: XnV8GAuAqJM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/induction/XnV8GAuAqJM.srt
-  - uid: 3f64fa504288772ffc8d9d2b47f8823b
-    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
-    id: XnV8GAuAqJM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/induction/XnV8GAuAqJM.pdf
-  - uid: 9c8bd047ab172514e6320f5392739a6e
-    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 29d625429e358ce1ab3dea8b3a04fd27
-    parent_uid: 1c3da1790e5a63faea8ab86f1b7d395f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 1c3da1790e5a63faea8ab86f1b7d395f
 type: courses
 layout: video
 ---

@@ -1,17 +1,89 @@
 ---
-title: 'Lecture 20: Second Fundamental Theorem'
-uid: 6881ac69905501dab0149c876ca7d14a
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-20-second-fundamental-theorem
-short_url: lecture-20-second-fundamental-theorem
-inline_embed_id: '80305480lecture20:secondfundamentaltheorem71483814'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Second fundamental
   theorem</p> <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec20.jpg
+    parent_uid: 6881ac69905501dab0149c876ca7d14a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-20-second-fundamental-theorem/lec20.jpg
+    title: Lecture 20
+    type: null
+    uid: 5c52d4a1daecff2ae9938f0352d7a49e
+  - id: Video-YouTube-Stream
+    media_location: Pd2xP5zDsRw
+    parent_uid: 6881ac69905501dab0149c876ca7d14a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9743960165a1f707a8e0c3d035a7bd67
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Pd2xP5zDsRw/default.jpg'
+    parent_uid: 6881ac69905501dab0149c876ca7d14a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7235b6834bdb8a005335844e1ff09b2b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 6881ac69905501dab0149c876ca7d14a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c07ced9249b19a8be6dba14bf6e2ab9b
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec20_300k.mp4'
+    parent_uid: 6881ac69905501dab0149c876ca7d14a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f8f49fe1e26bd0ed68fc2e0d1178326f
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 6881ac69905501dab0149c876ca7d14a
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 2fcc8241715990b442997b86b7ed0622
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 6881ac69905501dab0149c876ca7d14a
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: e027bc51f99d92688f58deab73735659
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Pd2xP5zDsRw
+    parent_uid: 6881ac69905501dab0149c876ca7d14a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fc257fdf56671bd6c083b6985b63d2f8
+  - id: Pd2xP5zDsRw.srt
+    parent_uid: 6881ac69905501dab0149c876ca7d14a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-20-second-fundamental-theorem/Pd2xP5zDsRw.srt
+    title: 3play caption file
+    type: null
+    uid: e11156ff7feb27f86c205dcfd9361d56
+  - id: Pd2xP5zDsRw.pdf
+    parent_uid: 6881ac69905501dab0149c876ca7d14a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-20-second-fundamental-theorem/Pd2xP5zDsRw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8d4ecfca651df1a1303282aa6ff7bfbe
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6881ac69905501dab0149c876ca7d14a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1419dfa26eb3dc6eff63b131dc98c875
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6881ac69905501dab0149c876ca7d14a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 927438e45f5053e5119ae8a9d77fa3e7
+inline_embed_id: '80305480lecture20:secondfundamentaltheorem71483814'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/3cd98c68cec64e9214c8c9003f6cf983">PDF</a>)</p></div><p>&nbsp;</p>
+short_url: lecture-20-second-fundamental-theorem
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-20-second-fundamental-theorem
+title: 'Lecture 20: Second Fundamental Theorem'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='520'>content</span> <span m='1020'>is</span> <span m='1130'>provided</span>
@@ -2592,79 +2664,7 @@ transcript: >-
   m='2965760'>and</span> <span m='2965870'>engineering.</span> <span
   m='2966730'>So,</span> <span m='2967940'>see you</span> <span
   m='2968110'>next</span> <span m='2968360'>time.</span> </p>
-embedded_media:
-  - uid: 5c52d4a1daecff2ae9938f0352d7a49e
-    parent_uid: 6881ac69905501dab0149c876ca7d14a
-    id: lec20.jpg
-    title: Lecture 20
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-20-second-fundamental-theorem/lec20.jpg
-  - uid: 9743960165a1f707a8e0c3d035a7bd67
-    parent_uid: 6881ac69905501dab0149c876ca7d14a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Pd2xP5zDsRw
-  - uid: 7235b6834bdb8a005335844e1ff09b2b
-    parent_uid: 6881ac69905501dab0149c876ca7d14a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Pd2xP5zDsRw/default.jpg'
-  - uid: c07ced9249b19a8be6dba14bf6e2ab9b
-    parent_uid: 6881ac69905501dab0149c876ca7d14a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: f8f49fe1e26bd0ed68fc2e0d1178326f
-    parent_uid: 6881ac69905501dab0149c876ca7d14a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec20_300k.mp4'
-  - uid: 2fcc8241715990b442997b86b7ed0622
-    parent_uid: 6881ac69905501dab0149c876ca7d14a
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: e027bc51f99d92688f58deab73735659
-    parent_uid: 6881ac69905501dab0149c876ca7d14a
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: fc257fdf56671bd6c083b6985b63d2f8
-    parent_uid: 6881ac69905501dab0149c876ca7d14a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Pd2xP5zDsRw
-  - uid: e11156ff7feb27f86c205dcfd9361d56
-    parent_uid: 6881ac69905501dab0149c876ca7d14a
-    id: Pd2xP5zDsRw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-20-second-fundamental-theorem/Pd2xP5zDsRw.srt
-  - uid: 8d4ecfca651df1a1303282aa6ff7bfbe
-    parent_uid: 6881ac69905501dab0149c876ca7d14a
-    id: Pd2xP5zDsRw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-20-second-fundamental-theorem/Pd2xP5zDsRw.pdf
-  - uid: 1419dfa26eb3dc6eff63b131dc98c875
-    parent_uid: 6881ac69905501dab0149c876ca7d14a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 927438e45f5053e5119ae8a9d77fa3e7
-    parent_uid: 6881ac69905501dab0149c876ca7d14a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6881ac69905501dab0149c876ca7d14a
 type: courses
 layout: video
 ---

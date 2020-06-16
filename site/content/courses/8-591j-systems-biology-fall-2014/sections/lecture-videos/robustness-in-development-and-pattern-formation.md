@@ -1,16 +1,70 @@
 ---
-title: Robustness in Development and Pattern Formation
-uid: d51735be128a4df4249ce22fe4032ff6
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/robustness-in-development-and-pattern-formation
-short_url: robustness-in-development-and-pattern-formation
-inline_embed_id: 81059385robustnessindevelopmentandpatternformation44491060
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture by Prof. Jeff Gore is about the
   mechanisms of biological pattern formation. One mechanism discussed is
   diffusion.</p> <p><strong>Instructor:</strong> Prof. Jeff Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: onL_UF4FLVM
+    parent_uid: d51735be128a4df4249ce22fe4032ff6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 57551f198ccf43a3c870a97a3b8a2ab8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/onL_UF4FLVM/default.jpg'
+    parent_uid: d51735be128a4df4249ce22fe4032ff6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 27621898e087b022eb7f078876bc224e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: d51735be128a4df4249ce22fe4032ff6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 94565c2fbe96ee81acb987f8bbc76bf5
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec13_300k.mp4'
+    parent_uid: d51735be128a4df4249ce22fe4032ff6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7a68020dd867060debeab605c387b35f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: onL_UF4FLVM
+    parent_uid: d51735be128a4df4249ce22fe4032ff6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e7b614ec79488cf231b36bbc7d37257b
+  - id: onL_UF4FLVM.srt
+    parent_uid: d51735be128a4df4249ce22fe4032ff6
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/robustness-in-development-and-pattern-formation/onL_UF4FLVM.srt
+    title: 3play caption file
+    type: null
+    uid: bed7e985cebf25513f0c1b09accba624
+  - id: onL_UF4FLVM.pdf
+    parent_uid: d51735be128a4df4249ce22fe4032ff6
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/robustness-in-development-and-pattern-formation/onL_UF4FLVM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0a26da03da3d8bd6699695690b225f8d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d51735be128a4df4249ce22fe4032ff6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3bbb1f4af7b3bae697d1a1f307d0812f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d51735be128a4df4249ce22fe4032ff6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7b1191c47b832114e1abbd2ce0d1d7b6
+inline_embed_id: 81059385robustnessindevelopmentandpatternformation44491060
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: robustness-in-development-and-pattern-formation
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/robustness-in-development-and-pattern-formation
+title: Robustness in Development and Pattern Formation
 transcript: >-
   <p><span m="70">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4518,61 +4572,7 @@ transcript: >-
   m="4875030">but</span> <span m="4875180">then</span> <span
   m="4875340">you</span> <span m="4875430">get</span> <span
   m="4875620">global</span> <span m="4876520">motion.</span></p>
-embedded_media:
-  - uid: 57551f198ccf43a3c870a97a3b8a2ab8
-    parent_uid: d51735be128a4df4249ce22fe4032ff6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: onL_UF4FLVM
-  - uid: 27621898e087b022eb7f078876bc224e
-    parent_uid: d51735be128a4df4249ce22fe4032ff6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/onL_UF4FLVM/default.jpg'
-  - uid: 94565c2fbe96ee81acb987f8bbc76bf5
-    parent_uid: d51735be128a4df4249ce22fe4032ff6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: 7a68020dd867060debeab605c387b35f
-    parent_uid: d51735be128a4df4249ce22fe4032ff6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec13_300k.mp4'
-  - uid: e7b614ec79488cf231b36bbc7d37257b
-    parent_uid: d51735be128a4df4249ce22fe4032ff6
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: onL_UF4FLVM
-  - uid: bed7e985cebf25513f0c1b09accba624
-    parent_uid: d51735be128a4df4249ce22fe4032ff6
-    id: onL_UF4FLVM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/robustness-in-development-and-pattern-formation/onL_UF4FLVM.srt
-  - uid: 0a26da03da3d8bd6699695690b225f8d
-    parent_uid: d51735be128a4df4249ce22fe4032ff6
-    id: onL_UF4FLVM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/robustness-in-development-and-pattern-formation/onL_UF4FLVM.pdf
-  - uid: 3bbb1f4af7b3bae697d1a1f307d0812f
-    parent_uid: d51735be128a4df4249ce22fe4032ff6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7b1191c47b832114e1abbd2ce0d1d7b6
-    parent_uid: d51735be128a4df4249ce22fe4032ff6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: d51735be128a4df4249ce22fe4032ff6
 type: courses
 layout: video
 ---

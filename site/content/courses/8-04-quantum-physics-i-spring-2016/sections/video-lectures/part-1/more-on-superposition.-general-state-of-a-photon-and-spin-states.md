@@ -1,13 +1,67 @@
 ---
-title: More on superposition. General state of a photon and spin states
-uid: 751f4412b97d3b5acada0530d65e4021
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 0xNmc2tJ-YM
+    parent_uid: 751f4412b97d3b5acada0530d65e4021
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3f092f3154763d4a1668336dd6edf667
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0xNmc2tJ-YM/default.jpg'
+    parent_uid: 751f4412b97d3b5acada0530d65e4021
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7e8876b21f7ba90581b76ec2c1f131e4
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 0xNmc2tJ-YM
+    parent_uid: 751f4412b97d3b5acada0530d65e4021
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 13aac6c97573510f6ecfd0e14babd2fc
+  - id: 0xNmc2tJ-YM.srt
+    parent_uid: 751f4412b97d3b5acada0530d65e4021
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/more-on-superposition.-general-state-of-a-photon-and-spin-states/0xNmc2tJ-YM.srt
+    title: 3play caption file
+    type: null
+    uid: b9f679025d570e18c4cdbd7202ec11ca
+  - id: 0xNmc2tJ-YM.pdf
+    parent_uid: 751f4412b97d3b5acada0530d65e4021
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/more-on-superposition.-general-state-of-a-photon-and-spin-states/0xNmc2tJ-YM.pdf
+    title: 3play pdf file
+    type: null
+    uid: ac30f22a9dcd7d00bdbc775eb06687e8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 751f4412b97d3b5acada0530d65e4021
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3c82a744bb68dfa4faef3e26450dc8ea
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 751f4412b97d3b5acada0530d65e4021
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1a29fe1a5101a98605e54236f908a65d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 751f4412b97d3b5acada0530d65e4021
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 19383a368663e315d8ed2abc26469238
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec02_s1_300k.mp4'
+    parent_uid: 751f4412b97d3b5acada0530d65e4021
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9bce8a6a61ee65b8d8a5d92e5bcb09d2
+inline_embed_id: 40883988moreonsuperposition.generalstateofaphotonandspinstates62951513
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: more-on-superposition.-general-state-of-a-photon-and-spin-states
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/more-on-superposition.-general-state-of-a-photon-and-spin-states
-short_url: more-on-superposition.-general-state-of-a-photon-and-spin-states
-inline_embed_id: 40883988moreonsuperposition.generalstateofaphotonandspinstates62951513
-about_this_resource_text: ''
-related_resources_text: ''
+title: More on superposition. General state of a photon and spin states
 transcript: >-
   <p><span m='1180'>We</span> <span m='1300'>spoke</span> <span
   m='1720'>about</span> <span m='2080'>superposition,</span> <span
@@ -859,61 +913,7 @@ transcript: >-
   m='1026930'>And</span> <span m='1027079'>they</span> <span
   m='1027380'>really</span> <span m='1028280'>seem</span> <span
   m='1028640'>to</span> <span m='1028819'>exist.</span> </p>
-embedded_media:
-  - uid: 3f092f3154763d4a1668336dd6edf667
-    parent_uid: 751f4412b97d3b5acada0530d65e4021
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0xNmc2tJ-YM
-  - uid: 7e8876b21f7ba90581b76ec2c1f131e4
-    parent_uid: 751f4412b97d3b5acada0530d65e4021
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0xNmc2tJ-YM/default.jpg'
-  - uid: 13aac6c97573510f6ecfd0e14babd2fc
-    parent_uid: 751f4412b97d3b5acada0530d65e4021
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0xNmc2tJ-YM
-  - uid: b9f679025d570e18c4cdbd7202ec11ca
-    parent_uid: 751f4412b97d3b5acada0530d65e4021
-    id: 0xNmc2tJ-YM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/more-on-superposition.-general-state-of-a-photon-and-spin-states/0xNmc2tJ-YM.srt
-  - uid: ac30f22a9dcd7d00bdbc775eb06687e8
-    parent_uid: 751f4412b97d3b5acada0530d65e4021
-    id: 0xNmc2tJ-YM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/more-on-superposition.-general-state-of-a-photon-and-spin-states/0xNmc2tJ-YM.pdf
-  - uid: 3c82a744bb68dfa4faef3e26450dc8ea
-    parent_uid: 751f4412b97d3b5acada0530d65e4021
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1a29fe1a5101a98605e54236f908a65d
-    parent_uid: 751f4412b97d3b5acada0530d65e4021
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 19383a368663e315d8ed2abc26469238
-    parent_uid: 751f4412b97d3b5acada0530d65e4021
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 9bce8a6a61ee65b8d8a5d92e5bcb09d2
-    parent_uid: 751f4412b97d3b5acada0530d65e4021
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec02_s1_300k.mp4'
+uid: 751f4412b97d3b5acada0530d65e4021
 type: courses
 layout: video
 ---

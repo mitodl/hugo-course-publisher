@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 31: Change of basis; image compression'
-uid: 4371dc4a06f111ab06b96f4db31262c0
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-31-change-of-basis-image-compression
-short_url: lecture-31-change-of-basis-image-compression
-inline_embed_id: '98868942lecture31:changeofbasis;imagecompression86593702'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L31.jpg
+    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-31-change-of-basis-image-compression/18.06_L31.jpg
+    title: 18.06_L31.jpg
+    type: null
+    uid: add714b296f26d5dd4d29cc93cceb105
+  - id: Video-YouTube-Stream
+    media_location: 0h43aV4aH7I
+    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7e79de8b1a5f80da93c203240e74ed55
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1957d5506f8123180857df6ce0423844
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/31.mp4'
+    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 94f472e4e7ee52f9e0d87440c9c62fd1
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: a0bc5ae14ee0d77de0b9e234124f2ab2
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 5b13e07e76a71500f251663960853d0b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 0h43aV4aH7I
+    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 08af0dca45d338f0e82388dad1ea4883
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0h43aV4aH7I/default.jpg'
+    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1f7824b1f28ed7db9e03758321f1e168
+  - id: 0h43aV4aH7I.srt
+    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-31-change-of-basis-image-compression/0h43aV4aH7I.srt
+    title: 3play caption file
+    type: null
+    uid: c9b471d0736e277f75ddab75322128a4
+  - id: 0h43aV4aH7I.pdf
+    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-31-change-of-basis-image-compression/0h43aV4aH7I.pdf
+    title: 3play pdf file
+    type: null
+    uid: ab1c275d516e1878176ce956af1bf246
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4a0e96c9922db0ae7872b1b3442c9593
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 03e08b37d45e28795a3ee55b986f1d9f
+inline_embed_id: '98868942lecture31:changeofbasis;imagecompression86593702'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-31-change-of-basis-image-compression
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-31-change-of-basis-image-compression
+title: 'Lecture 31: Change of basis; image compression'
 transcript: >-
   <p><span m='7560'>OK.</span> <span m='8640'>So,</span> <span
   m='9540'>coming</span> <span m='9910'>nearer</span> <span m='10330'>the</span>
@@ -2786,79 +2858,7 @@ transcript: >-
   m='3000730'>on</span> <span m='3001310'>Wednesday,</span> <span
   m='3001940'>all</span> <span m='3002270'>day.</span> </p><p><span
   m='3004490'>Thanks.</span> </p>
-embedded_media:
-  - uid: add714b296f26d5dd4d29cc93cceb105
-    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
-    id: 18.06_L31.jpg
-    title: 18.06_L31.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-31-change-of-basis-image-compression/18.06_L31.jpg
-  - uid: 7e79de8b1a5f80da93c203240e74ed55
-    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0h43aV4aH7I
-  - uid: 1957d5506f8123180857df6ce0423844
-    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 94f472e4e7ee52f9e0d87440c9c62fd1
-    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/31.mp4'
-  - uid: a0bc5ae14ee0d77de0b9e234124f2ab2
-    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 5b13e07e76a71500f251663960853d0b
-    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 08af0dca45d338f0e82388dad1ea4883
-    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0h43aV4aH7I
-  - uid: 1f7824b1f28ed7db9e03758321f1e168
-    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0h43aV4aH7I/default.jpg'
-  - uid: c9b471d0736e277f75ddab75322128a4
-    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
-    id: 0h43aV4aH7I.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-31-change-of-basis-image-compression/0h43aV4aH7I.srt
-  - uid: ab1c275d516e1878176ce956af1bf246
-    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
-    id: 0h43aV4aH7I.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-31-change-of-basis-image-compression/0h43aV4aH7I.pdf
-  - uid: 4a0e96c9922db0ae7872b1b3442c9593
-    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 03e08b37d45e28795a3ee55b986f1d9f
-    parent_uid: 4371dc4a06f111ab06b96f4db31262c0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 4371dc4a06f111ab06b96f4db31262c0
 type: courses
 layout: video
 ---

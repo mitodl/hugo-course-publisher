@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Orthogonal Vectors and Subspaces'
-uid: f0d89b0e5353e12fc44847b6e56ba770
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: h9aDgvW59TU
+    parent_uid: f0d89b0e5353e12fc44847b6e56ba770
+    title: Video-YouTube-Stream
+    type: Video
+    uid: eb099e3550ec54df5010fff075bb5fd8
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: h9aDgvW59TU
+    parent_uid: f0d89b0e5353e12fc44847b6e56ba770
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4f94d88825d513eb19ae5f2738ab3212
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/orthogonal-vectors-subspaces/id488155309?i=108454348
+    parent_uid: f0d89b0e5353e12fc44847b6e56ba770
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bda5af7c5b7008237364c275ee594363
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110706_D1_300k.mp4
+    parent_uid: f0d89b0e5353e12fc44847b6e56ba770
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1b89ee82754ffa8a431b4534578d9963
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/h9aDgvW59TU/default.jpg'
+    parent_uid: f0d89b0e5353e12fc44847b6e56ba770
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 633c73271406ce27dc6897320add0519
+  - id: h9aDgvW59TU.srt
+    parent_uid: f0d89b0e5353e12fc44847b6e56ba770
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/problem-solving-orthogonal-vectors-and-subspaces/h9aDgvW59TU.srt
+    title: 3play caption file
+    type: null
+    uid: c1f532d5dea4fc5c419813efb0683e20
+  - id: h9aDgvW59TU.pdf
+    parent_uid: f0d89b0e5353e12fc44847b6e56ba770
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/problem-solving-orthogonal-vectors-and-subspaces/h9aDgvW59TU.pdf
+    title: 3play pdf file
+    type: null
+    uid: e9e49c6aba80b11d7936b0f1d8e83ee3
+  - id: Caption-3Play YouTube id-SRT_1
+    parent_uid: f0d89b0e5353e12fc44847b6e56ba770
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: eb1ba5f165ab49787fc8c25fd3b8e403
+  - id: Transcript-3Play YouTube id-PDF_1
+    parent_uid: f0d89b0e5353e12fc44847b6e56ba770
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 60fa45d52621f2e0ef27110dd0954055
+inline_embed_id: '48687370problemsolving:orthogonalvectorsandsubspaces86971535'
 parent_uid: fd8c8a4dfa1be88cec23abef203fca2a
+related_resources_text: ''
+short_url: problem-solving-orthogonal-vectors-and-subspaces
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/problem-solving-orthogonal-vectors-and-subspaces
-short_url: problem-solving-orthogonal-vectors-and-subspaces
-inline_embed_id: '48687370problemsolving:orthogonalvectorsandsubspaces86971535'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Orthogonal Vectors and Subspaces'
 transcript: >-
   <p><span m='7810'>DAVID SHIROKOFF: Hi</span> <span m='7950'>everyone.</span>
   <span m='8650'>I'm</span> <span m='8810'>Dave.</span> </p><p><span
@@ -492,63 +548,7 @@ transcript: >-
   <span m='617870'>you</span> <span m='617980'>had</span> <span
   m='618060'>a</span> <span m='618150'>good</span> <span m='618260'>time.</span>
   </p>
-embedded_media:
-  - uid: eb099e3550ec54df5010fff075bb5fd8
-    parent_uid: f0d89b0e5353e12fc44847b6e56ba770
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: h9aDgvW59TU
-  - uid: 4f94d88825d513eb19ae5f2738ab3212
-    parent_uid: f0d89b0e5353e12fc44847b6e56ba770
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: h9aDgvW59TU
-  - uid: bda5af7c5b7008237364c275ee594363
-    parent_uid: f0d89b0e5353e12fc44847b6e56ba770
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/orthogonal-vectors-subspaces/id488155309?i=108454348
-  - uid: 1b89ee82754ffa8a431b4534578d9963
-    parent_uid: f0d89b0e5353e12fc44847b6e56ba770
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110706_D1_300k.mp4
-  - uid: 633c73271406ce27dc6897320add0519
-    parent_uid: f0d89b0e5353e12fc44847b6e56ba770
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/h9aDgvW59TU/default.jpg'
-  - uid: c1f532d5dea4fc5c419813efb0683e20
-    parent_uid: f0d89b0e5353e12fc44847b6e56ba770
-    id: h9aDgvW59TU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/problem-solving-orthogonal-vectors-and-subspaces/h9aDgvW59TU.srt
-  - uid: e9e49c6aba80b11d7936b0f1d8e83ee3
-    parent_uid: f0d89b0e5353e12fc44847b6e56ba770
-    id: h9aDgvW59TU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/problem-solving-orthogonal-vectors-and-subspaces/h9aDgvW59TU.pdf
-  - uid: eb1ba5f165ab49787fc8c25fd3b8e403
-    parent_uid: f0d89b0e5353e12fc44847b6e56ba770
-    id: Caption-3Play YouTube id-SRT_1
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 60fa45d52621f2e0ef27110dd0954055
-    parent_uid: f0d89b0e5353e12fc44847b6e56ba770
-    id: Transcript-3Play YouTube id-PDF_1
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f0d89b0e5353e12fc44847b6e56ba770
 type: courses
 layout: video
 ---

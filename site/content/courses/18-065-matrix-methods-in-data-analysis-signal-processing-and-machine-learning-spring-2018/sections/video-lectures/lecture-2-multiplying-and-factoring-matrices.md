@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 2: Multiplying and Factoring Matrices'
-uid: 003d4125685ec94874bdfd5b60c51c59
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-2-multiplying-and-factoring-matrices
-short_url: lecture-2-multiplying-and-factoring-matrices
-inline_embed_id: 694229lecture2multiplyingandfactoringmatrices76346298
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>Multiplying and factoring matrices are
   the topics of this lecture.  Professor Strang reviews multiplying columns by
@@ -20,7 +13,76 @@ about_this_resource_text: >-
   (orthogonal)(diagonal)(orthogonal) = Singular Value Decomposition</li> </ol>
   <p>Related section in textbook: I.2</p> <p><strong>Instructor:</strong> Prof.
   Gilbert Strang</p>
+embedded_media:
+  - id: paxLhq30mBo.srt
+    parent_uid: 003d4125685ec94874bdfd5b60c51c59
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-2-multiplying-and-factoring-matrices/paxLhq30mBo.srt
+    title: 3play caption file
+    type: null
+    uid: a5420fa2c4795fb2afc67a4437aac564
+  - id: paxLhq30mBo.pdf
+    parent_uid: 003d4125685ec94874bdfd5b60c51c59
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-2-multiplying-and-factoring-matrices/paxLhq30mBo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3c86d66bbe44c99ffd6d2b63c4b71754
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture02_300k.mp4'
+    parent_uid: 003d4125685ec94874bdfd5b60c51c59
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 695621d2ff44819ebc8398e1ebd618da
+  - id: Video-YouTube-Stream
+    media_location: or6C4yBk_SY
+    parent_uid: 003d4125685ec94874bdfd5b60c51c59
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 67573168b2ef4a0eadd0f3f3f3e54a93
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/or6C4yBk_SY/default.jpg'
+    parent_uid: 003d4125685ec94874bdfd5b60c51c59
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 69344f22599981f4999053aeed7aea80
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: or6C4yBk_SY
+    parent_uid: 003d4125685ec94874bdfd5b60c51c59
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 591710d045dd72a0eefb13c51e889a74
+  - id: or6C4yBk_SY.srt
+    parent_uid: 003d4125685ec94874bdfd5b60c51c59
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-2-multiplying-and-factoring-matrices/or6C4yBk_SY.srt
+    title: 3play caption file
+    type: null
+    uid: 89bb8ee408836ac859d3509684a8ef82
+  - id: or6C4yBk_SY.pdf
+    parent_uid: 003d4125685ec94874bdfd5b60c51c59
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-2-multiplying-and-factoring-matrices/or6C4yBk_SY.pdf
+    title: 3play pdf file
+    type: null
+    uid: b3c9166a0d83cca15caf56b2eaaf2f1a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 003d4125685ec94874bdfd5b60c51c59
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: eda0e4754b33ccb715709470e5f6fb9f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 003d4125685ec94874bdfd5b60c51c59
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 192dad4b8ebe9dc5c04afe86e46869f7
+inline_embed_id: 694229lecture2multiplyingandfactoringmatrices76346298
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-2-multiplying-and-factoring-matrices
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-2-multiplying-and-factoring-matrices
+title: 'Lecture 2: Multiplying and Factoring Matrices'
 transcript: >-
   <p><span m='1550'>The</span> <span m='1640'>following</span> <span
   m='2090'>content</span> <span m='2600'>is</span> <span
@@ -2637,69 +2699,7 @@ transcript: >-
   m='2901580'>is</span> <span m='2901790'>really</span> <span
   m='2902840'>linear</span> <span m='2903230'>algebra</span> <span
   m='2903680'>moving</span> <span m='2904100'>on.</span> </p>
-embedded_media:
-  - uid: a5420fa2c4795fb2afc67a4437aac564
-    parent_uid: 003d4125685ec94874bdfd5b60c51c59
-    id: paxLhq30mBo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-2-multiplying-and-factoring-matrices/paxLhq30mBo.srt
-  - uid: 3c86d66bbe44c99ffd6d2b63c4b71754
-    parent_uid: 003d4125685ec94874bdfd5b60c51c59
-    id: paxLhq30mBo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-2-multiplying-and-factoring-matrices/paxLhq30mBo.pdf
-  - uid: 695621d2ff44819ebc8398e1ebd618da
-    parent_uid: 003d4125685ec94874bdfd5b60c51c59
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture02_300k.mp4'
-  - uid: 67573168b2ef4a0eadd0f3f3f3e54a93
-    parent_uid: 003d4125685ec94874bdfd5b60c51c59
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: or6C4yBk_SY
-  - uid: 69344f22599981f4999053aeed7aea80
-    parent_uid: 003d4125685ec94874bdfd5b60c51c59
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/or6C4yBk_SY/default.jpg'
-  - uid: 591710d045dd72a0eefb13c51e889a74
-    parent_uid: 003d4125685ec94874bdfd5b60c51c59
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: or6C4yBk_SY
-  - uid: 89bb8ee408836ac859d3509684a8ef82
-    parent_uid: 003d4125685ec94874bdfd5b60c51c59
-    id: or6C4yBk_SY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-2-multiplying-and-factoring-matrices/or6C4yBk_SY.srt
-  - uid: b3c9166a0d83cca15caf56b2eaaf2f1a
-    parent_uid: 003d4125685ec94874bdfd5b60c51c59
-    id: or6C4yBk_SY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-2-multiplying-and-factoring-matrices/or6C4yBk_SY.pdf
-  - uid: eda0e4754b33ccb715709470e5f6fb9f
-    parent_uid: 003d4125685ec94874bdfd5b60c51c59
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 192dad4b8ebe9dc5c04afe86e46869f7
-    parent_uid: 003d4125685ec94874bdfd5b60c51c59
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 003d4125685ec94874bdfd5b60c51c59
 type: courses
 layout: video
 ---

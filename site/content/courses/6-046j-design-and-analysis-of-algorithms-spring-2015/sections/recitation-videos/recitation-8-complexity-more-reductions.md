@@ -1,16 +1,70 @@
 ---
-title: 'Recitation 8: Complexity: More Reductions'
-uid: ee6f3c270c10d7b9558d51a2dca6fde3
-parent_uid: 8c671299aae36eba669ca13490c21dec
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-8-complexity-more-reductions
-short_url: recitation-8-complexity-more-reductions
-inline_embed_id: '77826237recitation8:complexity:morereductions6367823'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this recitation, problems related to
   NP-Completeness are discussed.</p> <p><strong>Instructors:</strong> Amartya
   Shankha Biswas</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: G7mqtB6npfE
+    parent_uid: ee6f3c270c10d7b9558d51a2dca6fde3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 92d5bc57907dddc35555b5fd26a0b200
+  - id: G7mqtB6npfE.srt
+    parent_uid: ee6f3c270c10d7b9558d51a2dca6fde3
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-8-complexity-more-reductions/G7mqtB6npfE.srt
+    title: 3play caption file
+    type: null
+    uid: e58235e767192cfb5424ab984ac1b939
+  - id: G7mqtB6npfE.pdf
+    parent_uid: ee6f3c270c10d7b9558d51a2dca6fde3
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-8-complexity-more-reductions/G7mqtB6npfE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 388be709efd841104a32e7076592f24e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ee6f3c270c10d7b9558d51a2dca6fde3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6906d0e6f352c08e697de61af1e0866d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ee6f3c270c10d7b9558d51a2dca6fde3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bb6bfeb7d1abc5fd0f3b5d5bf79f7ae8
+  - id: Video-YouTube-Stream
+    media_location: G7mqtB6npfE
+    parent_uid: ee6f3c270c10d7b9558d51a2dca6fde3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: adf001da9291a0ed6c83bce2652366ce
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/G7mqtB6npfE/default.jpg'
+    parent_uid: ee6f3c270c10d7b9558d51a2dca6fde3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c1df2b0e3e95a9cca960978eb690ced6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: ee6f3c270c10d7b9558d51a2dca6fde3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9e3096a6afff7e373146b15da7928a5a
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec08_300k.mp4'
+    parent_uid: ee6f3c270c10d7b9558d51a2dca6fde3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e63cce42bcca1ae2878ec8635fe5fc0b
+inline_embed_id: '77826237recitation8:complexity:morereductions6367823'
+parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
+short_url: recitation-8-complexity-more-reductions
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-8-complexity-more-reductions
+title: 'Recitation 8: Complexity: More Reductions'
 transcript: >-
   <p><span m="70">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -2758,61 +2812,7 @@ transcript: >-
   m="2741780">to</span> <span m="2742260">do</span> <span
   m="2742440">another</span> <span m="2742680">problem,</span> <span
   m="2743030">so</span> <span m="2743330">we're done.</span></p>
-embedded_media:
-  - uid: 92d5bc57907dddc35555b5fd26a0b200
-    parent_uid: ee6f3c270c10d7b9558d51a2dca6fde3
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: G7mqtB6npfE
-  - uid: e58235e767192cfb5424ab984ac1b939
-    parent_uid: ee6f3c270c10d7b9558d51a2dca6fde3
-    id: G7mqtB6npfE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-8-complexity-more-reductions/G7mqtB6npfE.srt
-  - uid: 388be709efd841104a32e7076592f24e
-    parent_uid: ee6f3c270c10d7b9558d51a2dca6fde3
-    id: G7mqtB6npfE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-8-complexity-more-reductions/G7mqtB6npfE.pdf
-  - uid: 6906d0e6f352c08e697de61af1e0866d
-    parent_uid: ee6f3c270c10d7b9558d51a2dca6fde3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bb6bfeb7d1abc5fd0f3b5d5bf79f7ae8
-    parent_uid: ee6f3c270c10d7b9558d51a2dca6fde3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: adf001da9291a0ed6c83bce2652366ce
-    parent_uid: ee6f3c270c10d7b9558d51a2dca6fde3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: G7mqtB6npfE
-  - uid: c1df2b0e3e95a9cca960978eb690ced6
-    parent_uid: ee6f3c270c10d7b9558d51a2dca6fde3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/G7mqtB6npfE/default.jpg'
-  - uid: 9e3096a6afff7e373146b15da7928a5a
-    parent_uid: ee6f3c270c10d7b9558d51a2dca6fde3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: e63cce42bcca1ae2878ec8635fe5fc0b
-    parent_uid: ee6f3c270c10d7b9558d51a2dca6fde3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec08_300k.mp4'
+uid: ee6f3c270c10d7b9558d51a2dca6fde3
 type: courses
 layout: video
 ---

@@ -1,13 +1,67 @@
 ---
-title: Linearity and nonlinear theories. Schrödinger's equation
-uid: eee94bf02571aeed899edbbd58b251a3
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: kiuwtaprFjk
+    parent_uid: eee94bf02571aeed899edbbd58b251a3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a69d988df9d3aacda203505dfb00be68
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/kiuwtaprFjk/default.jpg'
+    parent_uid: eee94bf02571aeed899edbbd58b251a3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 40121576ce06d506a8c1aebbf3de19c7
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: kiuwtaprFjk
+    parent_uid: eee94bf02571aeed899edbbd58b251a3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 070472b75a4b3e5c981c800c9b992432
+  - id: kiuwtaprFjk.srt
+    parent_uid: eee94bf02571aeed899edbbd58b251a3
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/linearity-and-nonlinear-theories.-schroedingers-equation/kiuwtaprFjk.srt
+    title: 3play caption file
+    type: null
+    uid: 22044a9f6cfeac32a5f0c566d4a20430
+  - id: kiuwtaprFjk.pdf
+    parent_uid: eee94bf02571aeed899edbbd58b251a3
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/linearity-and-nonlinear-theories.-schroedingers-equation/kiuwtaprFjk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 49fc5b9a429f44e89bbb5605cc2a3102
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: eee94bf02571aeed899edbbd58b251a3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: fc6b0efd7b03895b832e09982b35d6ef
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: eee94bf02571aeed899edbbd58b251a3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5e377d6b8801688f0e379fdd8c161fd7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: eee94bf02571aeed899edbbd58b251a3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: eef76eac3649314143bdf72fbf618e07
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec01_s2_300k.mp4'
+    parent_uid: eee94bf02571aeed899edbbd58b251a3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4d854126a3b2b450ac9411ac0b6fbf64
+inline_embed_id: 65239614linearityandnonlineartheories.schrdingersequation3966677
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: linearity-and-nonlinear-theories.-schroedingers-equation
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/linearity-and-nonlinear-theories.-schroedingers-equation
-short_url: linearity-and-nonlinear-theories.-schroedingers-equation
-inline_embed_id: 65239614linearityandnonlineartheories.schrdingersequation3966677
-about_this_resource_text: ''
-related_resources_text: ''
+title: Linearity and nonlinear theories. Schrödinger's equation
 transcript: >-
   <p><span m='340'>PROFESSOR:</span> <span m='475'>So</span> <span
   m='610'>here</span> <span m='940'>is</span> <span m='1150'>of</span> <span
@@ -525,61 +579,7 @@ transcript: >-
   m='598790'>complex</span> <span m='599390'>numbers</span> <span
   m='600455'>in</span> <span m='600710'>quantum</span> <span
   m='601070'>mechanics.</span> </p>
-embedded_media:
-  - uid: a69d988df9d3aacda203505dfb00be68
-    parent_uid: eee94bf02571aeed899edbbd58b251a3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: kiuwtaprFjk
-  - uid: 40121576ce06d506a8c1aebbf3de19c7
-    parent_uid: eee94bf02571aeed899edbbd58b251a3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/kiuwtaprFjk/default.jpg'
-  - uid: 070472b75a4b3e5c981c800c9b992432
-    parent_uid: eee94bf02571aeed899edbbd58b251a3
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: kiuwtaprFjk
-  - uid: 22044a9f6cfeac32a5f0c566d4a20430
-    parent_uid: eee94bf02571aeed899edbbd58b251a3
-    id: kiuwtaprFjk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/linearity-and-nonlinear-theories.-schroedingers-equation/kiuwtaprFjk.srt
-  - uid: 49fc5b9a429f44e89bbb5605cc2a3102
-    parent_uid: eee94bf02571aeed899edbbd58b251a3
-    id: kiuwtaprFjk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/linearity-and-nonlinear-theories.-schroedingers-equation/kiuwtaprFjk.pdf
-  - uid: fc6b0efd7b03895b832e09982b35d6ef
-    parent_uid: eee94bf02571aeed899edbbd58b251a3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5e377d6b8801688f0e379fdd8c161fd7
-    parent_uid: eee94bf02571aeed899edbbd58b251a3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: eef76eac3649314143bdf72fbf618e07
-    parent_uid: eee94bf02571aeed899edbbd58b251a3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 4d854126a3b2b450ac9411ac0b6fbf64
-    parent_uid: eee94bf02571aeed899edbbd58b251a3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec01_s2_300k.mp4'
+uid: eee94bf02571aeed899edbbd58b251a3
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: Integration by Completing the Square
-uid: 06d5e5b264f607dcea9924a7727c880a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: CMbvq16z0gA
+    parent_uid: 06d5e5b264f607dcea9924a7727c880a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: db579f7c3172cf54aca7a0e9f6307909
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/CMbvq16z0gA/default.jpg'
+    parent_uid: 06d5e5b264f607dcea9924a7727c880a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 40d254b64c322170a6ef34193927125f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: CMbvq16z0gA
+    parent_uid: 06d5e5b264f607dcea9924a7727c880a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a3bde6052fdffb5f4e2592d11eba57d2
+  - id: CMbvq16z0gA.srt
+    parent_uid: 06d5e5b264f607dcea9924a7727c880a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-73-completing-the-square/integration-by-completing-the-square/CMbvq16z0gA.srt
+    title: 3play caption file
+    type: null
+    uid: 67fb7161ee5f96713e9497602e138ec8
+  - id: CMbvq16z0gA.pdf
+    parent_uid: 06d5e5b264f607dcea9924a7727c880a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-73-completing-the-square/integration-by-completing-the-square/CMbvq16z0gA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 82716bfa59a629f0c68e9ad89b60c701
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 06d5e5b264f607dcea9924a7727c880a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: baf9993f157ced1b01d0505823b01457
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 06d5e5b264f607dcea9924a7727c880a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ea684e587b62be4578500aedc3d4e139
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_54_300k.mp4'
+    parent_uid: 06d5e5b264f607dcea9924a7727c880a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ac1c0234034d5dd828d36eaf2baef6e5
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/integration-by-completing/id414308064?i=90319625
+    parent_uid: 06d5e5b264f607dcea9924a7727c880a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1823f9d509a10f7268d3f298470b0cab
+inline_embed_id: 83473187integrationbycompletingthesquare37469798
 parent_uid: 3d81cd65aedbbd557617501fb6a0b493
+related_resources_text: ''
+short_url: integration-by-completing-the-square
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-73-completing-the-square/integration-by-completing-the-square
-short_url: integration-by-completing-the-square
-inline_embed_id: 83473187integrationbycompletingthesquare37469798
-about_this_resource_text: ''
-related_resources_text: ''
+title: Integration by Completing the Square
 transcript: >-
   <p><span m='6910'>Welcome</span> <span m='7320'>back</span> <span
   m='7500'>to</span> <span m='7590'>recitation.</span> <span m='8380'>In</span>
@@ -1031,62 +1086,7 @@ transcript: >-
   m='842000'>space,</span> <span m='842430'>so I</span> <span
   m='842530'>have</span> <span m='842770'>to</span> <span
   m='842860'>stop.</span> </p>
-embedded_media:
-  - uid: db579f7c3172cf54aca7a0e9f6307909
-    parent_uid: 06d5e5b264f607dcea9924a7727c880a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: CMbvq16z0gA
-  - uid: 40d254b64c322170a6ef34193927125f
-    parent_uid: 06d5e5b264f607dcea9924a7727c880a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CMbvq16z0gA/default.jpg'
-  - uid: a3bde6052fdffb5f4e2592d11eba57d2
-    parent_uid: 06d5e5b264f607dcea9924a7727c880a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: CMbvq16z0gA
-  - uid: 67fb7161ee5f96713e9497602e138ec8
-    parent_uid: 06d5e5b264f607dcea9924a7727c880a
-    id: CMbvq16z0gA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-73-completing-the-square/integration-by-completing-the-square/CMbvq16z0gA.srt
-  - uid: 82716bfa59a629f0c68e9ad89b60c701
-    parent_uid: 06d5e5b264f607dcea9924a7727c880a
-    id: CMbvq16z0gA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-73-completing-the-square/integration-by-completing-the-square/CMbvq16z0gA.pdf
-  - uid: baf9993f157ced1b01d0505823b01457
-    parent_uid: 06d5e5b264f607dcea9924a7727c880a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ea684e587b62be4578500aedc3d4e139
-    parent_uid: 06d5e5b264f607dcea9924a7727c880a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ac1c0234034d5dd828d36eaf2baef6e5
-    parent_uid: 06d5e5b264f607dcea9924a7727c880a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_54_300k.mp4'
-  - uid: 1823f9d509a10f7268d3f298470b0cab
-    parent_uid: 06d5e5b264f607dcea9924a7727c880a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/integration-by-completing/id414308064?i=90319625
+uid: 06d5e5b264f607dcea9924a7727c880a
 type: courses
 layout: video
 ---

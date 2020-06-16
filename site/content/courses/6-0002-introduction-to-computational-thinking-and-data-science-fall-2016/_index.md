@@ -4,7 +4,8 @@ course_id: 6-0002-introduction-to-computational-thinking-and-data-science-fall-2
 course_title: Introduction to Computational Thinking and Data Science
 course_image_url: >-
   https://open-learning-course-data-ci.s3.amazonaws.com/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/d9b969b1e9e2029d7e9b9e2c9324dde4_6-0002f16.jpg
-course_thumbnail_image_url: ''
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/cc10166a431e4c4c63bc37705d8a62a1_6-0002f16-th.jpg
 course_image_alternate_text: 'Abstract blue, red, yellow, and purple block clusters.'
 course_image_caption_text: >-
   <p>The image above represents the clusters found by a clustering algorithm.

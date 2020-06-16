@@ -1,13 +1,62 @@
 ---
-title: 'Video 1: The Data'
-uid: 5945967c28e4502c043fa8fe61f0a40a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: NZbQZVMDeEc
+    parent_uid: 5945967c28e4502c043fa8fe61f0a40a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 807b750b24e065f53123a3a27cffba71
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: NZbQZVMDeEc
+    parent_uid: 5945967c28e4502c043fa8fe61f0a40a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 732b216502351b792ad273264d4abe2d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/NZbQZVMDeEc/default.jpg'
+    parent_uid: 5945967c28e4502c043fa8fe61f0a40a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b1d20a30f7dbe7bb2a627755b8a083b5
+  - id: NZbQZVMDeEc.srt
+    parent_uid: 5945967c28e4502c043fa8fe61f0a40a
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/playing-moneyball-in-the-nba-recitation/video-1-the-data/video-1-the-data-0/NZbQZVMDeEc.srt
+    title: 3play caption file
+    type: null
+    uid: e2f990e3312e9d67644bfb2095aa674d
+  - id: NZbQZVMDeEc.pdf
+    parent_uid: 5945967c28e4502c043fa8fe61f0a40a
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/playing-moneyball-in-the-nba-recitation/video-1-the-data/video-1-the-data-0/NZbQZVMDeEc.pdf
+    title: 3play pdf file
+    type: null
+    uid: d85c6e57cf95c0f0801760f9c0a25b3b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5945967c28e4502c043fa8fe61f0a40a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 55b76dc45d4ec0b645773d3758121baf
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5945967c28e4502c043fa8fe61f0a40a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f8b2c57d8f91afda06fe8ddb0e8ca97e
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://ia801501.us.archive.org/3/items/MIT15.071S17/MIT15_071S17_Session_2.4.02_300k.mp4
+    parent_uid: 5945967c28e4502c043fa8fe61f0a40a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d384a2ab6c7278f531ca29d9aa4ab5c3
+inline_embed_id: 21028248video1thedata85490534
 parent_uid: 23ccd624abaa0c059f5a54029d4225b6
+related_resources_text: ''
+short_url: video-1-the-data-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/playing-moneyball-in-the-nba-recitation/video-1-the-data/video-1-the-data-0
-short_url: video-1-the-data-0
-inline_embed_id: 21028248video1thedata85490534
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: The Data'
 transcript: >-
   <p><span m='4500'>In</span> <span m='4795'>this</span> <span
   m='5091'>recitation</span> <span m='5387'>we</span> <span m='5682'>will</span>
@@ -265,56 +314,7 @@ transcript: >-
   m='258745'>these</span> <span m='259083'>variables</span> <span
   m='259420'>in</span> <span m='259757'>the</span> <span m='260094'>next</span>
   <span m='260431'>video.</span> </p>
-embedded_media:
-  - uid: 807b750b24e065f53123a3a27cffba71
-    parent_uid: 5945967c28e4502c043fa8fe61f0a40a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: NZbQZVMDeEc
-  - uid: 732b216502351b792ad273264d4abe2d
-    parent_uid: 5945967c28e4502c043fa8fe61f0a40a
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: NZbQZVMDeEc
-  - uid: b1d20a30f7dbe7bb2a627755b8a083b5
-    parent_uid: 5945967c28e4502c043fa8fe61f0a40a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/NZbQZVMDeEc/default.jpg'
-  - uid: e2f990e3312e9d67644bfb2095aa674d
-    parent_uid: 5945967c28e4502c043fa8fe61f0a40a
-    id: NZbQZVMDeEc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/playing-moneyball-in-the-nba-recitation/video-1-the-data/video-1-the-data-0/NZbQZVMDeEc.srt
-  - uid: d85c6e57cf95c0f0801760f9c0a25b3b
-    parent_uid: 5945967c28e4502c043fa8fe61f0a40a
-    id: NZbQZVMDeEc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/playing-moneyball-in-the-nba-recitation/video-1-the-data/video-1-the-data-0/NZbQZVMDeEc.pdf
-  - uid: 55b76dc45d4ec0b645773d3758121baf
-    parent_uid: 5945967c28e4502c043fa8fe61f0a40a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f8b2c57d8f91afda06fe8ddb0e8ca97e
-    parent_uid: 5945967c28e4502c043fa8fe61f0a40a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d384a2ab6c7278f531ca29d9aa4ab5c3
-    parent_uid: 5945967c28e4502c043fa8fe61f0a40a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://ia801501.us.archive.org/3/items/MIT15.071S17/MIT15_071S17_Session_2.4.02_300k.mp4
+uid: 5945967c28e4502c043fa8fe61f0a40a
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: Distance of a Point to a Plane
-uid: f0e3ae262fe262ca5869a139c9251d0e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: SgJo7_4mp6w
+    parent_uid: f0e3ae262fe262ca5869a139c9251d0e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2f0f0cc8757f3a0fd83cff30c0b9bb9b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/SgJo7_4mp6w/default.jpg'
+    parent_uid: f0e3ae262fe262ca5869a139c9251d0e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c6a2db9955ec9182f1b9648634058834
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: SgJo7_4mp6w
+    parent_uid: f0e3ae262fe262ca5869a139c9251d0e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a38565739418fdc75babadb37cac2aa2
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/distance-of-a-point-to-a-plane/id414355340?i=90322843
+    parent_uid: f0e3ae262fe262ca5869a139c9251d0e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1466414352c4312f3d5a50895978eb39
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_11_300k.mp4'
+    parent_uid: f0e3ae262fe262ca5869a139c9251d0e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4c5c46ea4a68c084d2a7c8d3483b36e7
+  - id: SgJo7_4mp6w.srt
+    parent_uid: f0e3ae262fe262ca5869a139c9251d0e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-12-equations-of-planes-ii/distance-of-a-point-to-a-plane/SgJo7_4mp6w.srt
+    title: 3play caption file
+    type: null
+    uid: f978a99c47b7a6d6f7ca954a78eae9f1
+  - id: SgJo7_4mp6w.pdf
+    parent_uid: f0e3ae262fe262ca5869a139c9251d0e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-12-equations-of-planes-ii/distance-of-a-point-to-a-plane/SgJo7_4mp6w.pdf
+    title: 3play pdf file
+    type: null
+    uid: d0e518f13440ffbef6d99a033016b63e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f0e3ae262fe262ca5869a139c9251d0e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2c9da009994463bec201b8c872d97831
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f0e3ae262fe262ca5869a139c9251d0e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 04f5075307f8acff797d6a4f6e94bf58
+inline_embed_id: 98644311distanceofapointtoaplane2165765
 parent_uid: 373d1bd0065482663191d1be06e5b406
+related_resources_text: ''
+short_url: distance-of-a-point-to-a-plane
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-12-equations-of-planes-ii/distance-of-a-point-to-a-plane
-short_url: distance-of-a-point-to-a-plane
-inline_embed_id: 98644311distanceofapointtoaplane2165765
-about_this_resource_text: ''
-related_resources_text: ''
+title: Distance of a Point to a Plane
 transcript: >-
   <p><span m='7060'>JOEL LEWIS: Hi.</span> <span m='7520'>Welcome</span> <span
   m='7820'>back</span> <span m='8020'>to</span> <span
@@ -553,62 +608,7 @@ transcript: >-
   m='491650'>answer.</span> </p><p><span m='492450'>So</span> <span
   m='492660'>I'll</span> <span m='492860'>end</span> <span
   m='493120'>there.</span> </p>
-embedded_media:
-  - uid: 2f0f0cc8757f3a0fd83cff30c0b9bb9b
-    parent_uid: f0e3ae262fe262ca5869a139c9251d0e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: SgJo7_4mp6w
-  - uid: c6a2db9955ec9182f1b9648634058834
-    parent_uid: f0e3ae262fe262ca5869a139c9251d0e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/SgJo7_4mp6w/default.jpg'
-  - uid: a38565739418fdc75babadb37cac2aa2
-    parent_uid: f0e3ae262fe262ca5869a139c9251d0e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: SgJo7_4mp6w
-  - uid: 1466414352c4312f3d5a50895978eb39
-    parent_uid: f0e3ae262fe262ca5869a139c9251d0e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/distance-of-a-point-to-a-plane/id414355340?i=90322843
-  - uid: 4c5c46ea4a68c084d2a7c8d3483b36e7
-    parent_uid: f0e3ae262fe262ca5869a139c9251d0e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_11_300k.mp4'
-  - uid: f978a99c47b7a6d6f7ca954a78eae9f1
-    parent_uid: f0e3ae262fe262ca5869a139c9251d0e
-    id: SgJo7_4mp6w.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-12-equations-of-planes-ii/distance-of-a-point-to-a-plane/SgJo7_4mp6w.srt
-  - uid: d0e518f13440ffbef6d99a033016b63e
-    parent_uid: f0e3ae262fe262ca5869a139c9251d0e
-    id: SgJo7_4mp6w.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-12-equations-of-planes-ii/distance-of-a-point-to-a-plane/SgJo7_4mp6w.pdf
-  - uid: 2c9da009994463bec201b8c872d97831
-    parent_uid: f0e3ae262fe262ca5869a139c9251d0e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 04f5075307f8acff797d6a4f6e94bf58
-    parent_uid: f0e3ae262fe262ca5869a139c9251d0e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f0e3ae262fe262ca5869a139c9251d0e
 type: courses
 layout: video
 ---

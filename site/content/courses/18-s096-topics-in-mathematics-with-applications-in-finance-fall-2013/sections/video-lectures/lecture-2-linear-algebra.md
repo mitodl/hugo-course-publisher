@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 2: Linear Algebra'
-uid: 18598adb2f60b61731a18a308a3f7332
-parent_uid: d23a85587c0c7524ea054e655c999532
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-2-linear-algebra
-short_url: lecture-2-linear-algebra
-inline_embed_id: '72679643lecture2:linearalgebra23425192'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture is a review of the linear
   algebra needed for the course, including matrices, linear transformations,
   eigenvalue, and eigenvectors.</p> <p><strong>Instructor:</strong> Dr.
   Choongbum Lee</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 9YtmGy-wfE4
+    parent_uid: 18598adb2f60b61731a18a308a3f7332
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ff8fba6ee68ada27b7890c6327694ceb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/9YtmGy-wfE4/default.jpg'
+    parent_uid: 18598adb2f60b61731a18a308a3f7332
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 937fb87afbde6057a589c4baa0272f43
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: 18598adb2f60b61731a18a308a3f7332
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e1b3b4bafe4f528231802197ca375909
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec02_300k.mp4'
+    parent_uid: 18598adb2f60b61731a18a308a3f7332
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 362cf6ee5a90951bbacf7f3c1196b192
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 9YtmGy-wfE4
+    parent_uid: 18598adb2f60b61731a18a308a3f7332
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 302de6b02c300b3f047e5e1655478978
+  - id: 9YtmGy-wfE4.srt
+    parent_uid: 18598adb2f60b61731a18a308a3f7332
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-2-linear-algebra/9YtmGy-wfE4.srt
+    title: 3play caption file
+    type: null
+    uid: 84d60da82c2a6a6f0b65c4457daa3fc7
+  - id: 9YtmGy-wfE4.pdf
+    parent_uid: 18598adb2f60b61731a18a308a3f7332
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-2-linear-algebra/9YtmGy-wfE4.pdf
+    title: 3play pdf file
+    type: null
+    uid: eef589f0ca4354533853a3719a6180d7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 18598adb2f60b61731a18a308a3f7332
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 113a236afbee55a0d7df9ebe0821b666
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 18598adb2f60b61731a18a308a3f7332
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c6b79120b7dd9d898bdb0a86ac0d9328
+inline_embed_id: '72679643lecture2:linearalgebra23425192'
+parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
+short_url: lecture-2-linear-algebra
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-2-linear-algebra
+title: 'Lecture 2: Linear Algebra'
 transcript: >-
   <p><span m='60'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -3102,61 +3156,7 @@ transcript: >-
   m='4354170'>will</span> <span m='4354340'>see</span> <span
   m='4354500'>you</span> <span m='4354800'>on</span> <span
   m='4355100'>Thursday.</span> </p>
-embedded_media:
-  - uid: ff8fba6ee68ada27b7890c6327694ceb
-    parent_uid: 18598adb2f60b61731a18a308a3f7332
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 9YtmGy-wfE4
-  - uid: 937fb87afbde6057a589c4baa0272f43
-    parent_uid: 18598adb2f60b61731a18a308a3f7332
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9YtmGy-wfE4/default.jpg'
-  - uid: e1b3b4bafe4f528231802197ca375909
-    parent_uid: 18598adb2f60b61731a18a308a3f7332
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: 362cf6ee5a90951bbacf7f3c1196b192
-    parent_uid: 18598adb2f60b61731a18a308a3f7332
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec02_300k.mp4'
-  - uid: 302de6b02c300b3f047e5e1655478978
-    parent_uid: 18598adb2f60b61731a18a308a3f7332
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 9YtmGy-wfE4
-  - uid: 84d60da82c2a6a6f0b65c4457daa3fc7
-    parent_uid: 18598adb2f60b61731a18a308a3f7332
-    id: 9YtmGy-wfE4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-2-linear-algebra/9YtmGy-wfE4.srt
-  - uid: eef589f0ca4354533853a3719a6180d7
-    parent_uid: 18598adb2f60b61731a18a308a3f7332
-    id: 9YtmGy-wfE4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-2-linear-algebra/9YtmGy-wfE4.pdf
-  - uid: 113a236afbee55a0d7df9ebe0821b666
-    parent_uid: 18598adb2f60b61731a18a308a3f7332
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c6b79120b7dd9d898bdb0a86ac0d9328
-    parent_uid: 18598adb2f60b61731a18a308a3f7332
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 18598adb2f60b61731a18a308a3f7332
 type: courses
 layout: video
 ---

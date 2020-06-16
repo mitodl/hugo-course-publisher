@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 26: Healthcare Economics'
-uid: fff60dc3d44ece2eb9a322b97b533476
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: pmolioUklXI
+    parent_uid: fff60dc3d44ece2eb9a322b97b533476
+    title: Video-YouTube-Stream
+    type: Video
+    uid: dd96b7118455165dbc75de0e7a830087
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/pmolioUklXI/default.jpg'
+    parent_uid: fff60dc3d44ece2eb9a322b97b533476
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f0e16fabcb9b12be6700a6c837d08e1a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: pmolioUklXI
+    parent_uid: fff60dc3d44ece2eb9a322b97b533476
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 44d9b0d244831dca00b923ba07fd13ca
+  - id: pmolioUklXI.srt
+    parent_uid: fff60dc3d44ece2eb9a322b97b533476
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/healthcare-economics/lecture-26-healthcare-economics/pmolioUklXI.srt
+    title: 3play caption file
+    type: null
+    uid: 9f8de85cc61431adef1fda274cc2d188
+  - id: pmolioUklXI.pdf
+    parent_uid: fff60dc3d44ece2eb9a322b97b533476
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/healthcare-economics/lecture-26-healthcare-economics/pmolioUklXI.pdf
+    title: 3play pdf file
+    type: null
+    uid: fa261f6aa9c7b31bf7d7337a17a6456c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fff60dc3d44ece2eb9a322b97b533476
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 503a51dab2491da5800ce95bacbd68fa
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fff60dc3d44ece2eb9a322b97b533476
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8745726bd85514e9a1f8d4bc66fd1dba
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-26-healthcare-economies/id496265654?i=110157702
+    parent_uid: fff60dc3d44ece2eb9a322b97b533476
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 11e00fd0423698127335012a5487d5c1
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec26_300k.mp4'
+    parent_uid: fff60dc3d44ece2eb9a322b97b533476
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 34767784e73bee1228ce4a071f1ee3f6
+inline_embed_id: 67217749lecture26healthcareeconomics8958768
 parent_uid: 41da8f547f2ad774baa0e7c50d7cf9e6
+related_resources_text: ''
+short_url: lecture-26-healthcare-economics
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/healthcare-economics/lecture-26-healthcare-economics
-short_url: lecture-26-healthcare-economics
-inline_embed_id: 67217749lecture26healthcareeconomics8958768
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 26: Healthcare Economics'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -3097,62 +3152,7 @@ transcript: >-
   m='2358370'>raised</span> <span m='2358620'>earlier</span> <span
   m='2358880'>in</span> <span m='2358940'>the</span> <span
   m='2359000'>course.</span> </p>
-embedded_media:
-  - uid: dd96b7118455165dbc75de0e7a830087
-    parent_uid: fff60dc3d44ece2eb9a322b97b533476
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: pmolioUklXI
-  - uid: f0e16fabcb9b12be6700a6c837d08e1a
-    parent_uid: fff60dc3d44ece2eb9a322b97b533476
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/pmolioUklXI/default.jpg'
-  - uid: 44d9b0d244831dca00b923ba07fd13ca
-    parent_uid: fff60dc3d44ece2eb9a322b97b533476
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: pmolioUklXI
-  - uid: 9f8de85cc61431adef1fda274cc2d188
-    parent_uid: fff60dc3d44ece2eb9a322b97b533476
-    id: pmolioUklXI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/healthcare-economics/lecture-26-healthcare-economics/pmolioUklXI.srt
-  - uid: fa261f6aa9c7b31bf7d7337a17a6456c
-    parent_uid: fff60dc3d44ece2eb9a322b97b533476
-    id: pmolioUklXI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/healthcare-economics/lecture-26-healthcare-economics/pmolioUklXI.pdf
-  - uid: 503a51dab2491da5800ce95bacbd68fa
-    parent_uid: fff60dc3d44ece2eb9a322b97b533476
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8745726bd85514e9a1f8d4bc66fd1dba
-    parent_uid: fff60dc3d44ece2eb9a322b97b533476
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 11e00fd0423698127335012a5487d5c1
-    parent_uid: fff60dc3d44ece2eb9a322b97b533476
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-26-healthcare-economies/id496265654?i=110157702
-  - uid: 34767784e73bee1228ce4a071f1ee3f6
-    parent_uid: fff60dc3d44ece2eb9a322b97b533476
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec26_300k.mp4'
+uid: fff60dc3d44ece2eb9a322b97b533476
 type: courses
 layout: video
 ---

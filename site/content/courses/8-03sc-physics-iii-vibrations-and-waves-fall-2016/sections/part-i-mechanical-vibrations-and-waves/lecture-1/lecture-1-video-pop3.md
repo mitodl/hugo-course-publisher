@@ -1,13 +1,61 @@
 ---
-title: Two Pendulums with Different Amplitudes
-uid: 13d1616290b635709e140759815ca3a8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 4ysFC9vd3GE
+    parent_uid: 13d1616290b635709e140759815ca3a8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f643476d84c211800d982093a44e25c7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4ysFC9vd3GE/default.jpg'
+    parent_uid: 13d1616290b635709e140759815ca3a8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 43bdbcd63ecb546f25ea6800d397d09b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 4ysFC9vd3GE
+    parent_uid: 13d1616290b635709e140759815ca3a8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5bb2b6abe95095602da180f28655918e
+  - id: 4ysFC9vd3GE.srt
+    parent_uid: 13d1616290b635709e140759815ca3a8
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-1/lecture-1-video-pop3/4ysFC9vd3GE.srt
+    title: 3play caption file
+    type: null
+    uid: 4ad0fcba330cc8042639e02eebcef487
+  - id: 4ysFC9vd3GE.pdf
+    parent_uid: 13d1616290b635709e140759815ca3a8
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-1/lecture-1-video-pop3/4ysFC9vd3GE.pdf
+    title: 3play pdf file
+    type: null
+    uid: d7ee2b839da78e028954389b2377f5ff
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 13d1616290b635709e140759815ca3a8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a5a6f0e10cbc5f99959f1dafab5403c4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 13d1616290b635709e140759815ca3a8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5093f524515c5dcf4643956dea9f0faa
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec01_300k.mp4'
+    parent_uid: 13d1616290b635709e140759815ca3a8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8d6407047bbe5c5261d11dcf1d2fbfa1
+inline_embed_id: 12477761lecture1videopop359664462
 parent_uid: 4f5f49df08e67313a6c5d113aba431c2
+related_resources_text: ''
+short_url: lecture-1-video-pop3
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-1/lecture-1-video-pop3
-short_url: lecture-1-video-pop3
-inline_embed_id: 12477761lecture1videopop359664462
-about_this_resource_text: ''
-related_resources_text: ''
+title: Two Pendulums with Different Amplitudes
 transcript: >-
   <p><span m="2490">The</span> <span m="2580">following</span> <span
   m="3030">content</span> <span m="3510">is</span> <span
@@ -2809,55 +2857,7 @@ transcript: >-
   m="3409880">I'm</span> <span m="3410150">here</span> <span
   m="3410520">available</span> <span m="3413570">to</span> <span
   m="3413690">help</span> <span m="3413930">you.</span></p>
-embedded_media:
-  - uid: f643476d84c211800d982093a44e25c7
-    parent_uid: 13d1616290b635709e140759815ca3a8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4ysFC9vd3GE
-  - uid: 43bdbcd63ecb546f25ea6800d397d09b
-    parent_uid: 13d1616290b635709e140759815ca3a8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4ysFC9vd3GE/default.jpg'
-  - uid: 5bb2b6abe95095602da180f28655918e
-    parent_uid: 13d1616290b635709e140759815ca3a8
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4ysFC9vd3GE
-  - uid: 4ad0fcba330cc8042639e02eebcef487
-    parent_uid: 13d1616290b635709e140759815ca3a8
-    id: 4ysFC9vd3GE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-1/lecture-1-video-pop3/4ysFC9vd3GE.srt
-  - uid: d7ee2b839da78e028954389b2377f5ff
-    parent_uid: 13d1616290b635709e140759815ca3a8
-    id: 4ysFC9vd3GE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-1/lecture-1-video-pop3/4ysFC9vd3GE.pdf
-  - uid: a5a6f0e10cbc5f99959f1dafab5403c4
-    parent_uid: 13d1616290b635709e140759815ca3a8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5093f524515c5dcf4643956dea9f0faa
-    parent_uid: 13d1616290b635709e140759815ca3a8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8d6407047bbe5c5261d11dcf1d2fbfa1
-    parent_uid: 13d1616290b635709e140759815ca3a8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec01_300k.mp4'
+uid: 13d1616290b635709e140759815ca3a8
 type: courses
 layout: video
 ---

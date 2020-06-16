@@ -1,13 +1,73 @@
 ---
-title: Book Stacking
-uid: fec9fa7fd42c87782c91e2f8a73b3807
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: c6b18808ce690eed0865aee318397915
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 80c3134a315d7ddc9ff703149c6b7390
+  - id: Video-YouTube-Stream
+    media_location: CdhuVhWTSMI
+    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 52364ef025da879ef5b634ba21ebb68b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/CdhuVhWTSMI/default.jpg'
+    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0c73138c421ab862482fbbf345f78df4
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: CdhuVhWTSMI
+    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7e46294a3948930a4e30c1da4b5f8311
+  - id: CdhuVhWTSMI.srt
+    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-d3f74a0ca5a8/book-stacking/CdhuVhWTSMI.srt
+    title: 3play caption file
+    type: null
+    uid: 33932425b609811f2d2d05e8c4867df0
+  - id: CdhuVhWTSMI.pdf
+    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-d3f74a0ca5a8/book-stacking/CdhuVhWTSMI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0180bad9acb779cfb8371f2c9e88fb45
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 94ab5e024f0a8a2839bfc84da87b8432
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 870a689c52d991695a1e3265803a48f1
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_bookstack_video_ipod.mp4
+    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 55243bd96643a0df42054f2a57373019
+inline_embed_id: 62645285bookstacking16486195
 parent_uid: 8de8c902996349cb0873a6ff1a10a492
+related_resources_text: ''
+short_url: book-stacking
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-d3f74a0ca5a8/book-stacking
-short_url: book-stacking
-inline_embed_id: 62645285bookstacking16486195
-about_this_resource_text: ''
-related_resources_text: ''
+title: Book Stacking
 transcript: >-
   <p><span m='1060'>So,</span> <span m='1250'>now</span> <span
   m='1480'>we'll</span> <span m='1690'>look</span> <span m='1940'>at</span>
@@ -625,67 +685,7 @@ transcript: >-
   <span m='456040'>table</span> <span m='456970'>is</span> <span
   m='457800'>Hn</span> <span m='458390'>over</span> <span m='458690'>2.</span>
   </p>
-embedded_media:
-  - uid: c6b18808ce690eed0865aee318397915
-    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 80c3134a315d7ddc9ff703149c6b7390
-    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 52364ef025da879ef5b634ba21ebb68b
-    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: CdhuVhWTSMI
-  - uid: 0c73138c421ab862482fbbf345f78df4
-    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CdhuVhWTSMI/default.jpg'
-  - uid: 7e46294a3948930a4e30c1da4b5f8311
-    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: CdhuVhWTSMI
-  - uid: 33932425b609811f2d2d05e8c4867df0
-    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
-    id: CdhuVhWTSMI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-d3f74a0ca5a8/book-stacking/CdhuVhWTSMI.srt
-  - uid: 0180bad9acb779cfb8371f2c9e88fb45
-    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
-    id: CdhuVhWTSMI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-d3f74a0ca5a8/book-stacking/CdhuVhWTSMI.pdf
-  - uid: 94ab5e024f0a8a2839bfc84da87b8432
-    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 870a689c52d991695a1e3265803a48f1
-    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 55243bd96643a0df42054f2a57373019
-    parent_uid: fec9fa7fd42c87782c91e2f8a73b3807
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_bookstack_video_ipod.mp4
+uid: fec9fa7fd42c87782c91e2f8a73b3807
 type: courses
 layout: video
 ---

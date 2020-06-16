@@ -1,13 +1,68 @@
 ---
-title: Computing the Volume of a Paraboloid
-uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: QLo5dRFEyl8
+    parent_uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3d95ea8228e7bf9bbee4124b8b21a4b2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QLo5dRFEyl8/default.jpg'
+    parent_uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3ce4ad05805ef8cf1f9dc139d0769723
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: QLo5dRFEyl8
+    parent_uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4fd388a860fc888e65f7f67049ffbfed
+  - id: QLo5dRFEyl8.srt
+    parent_uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/computing-the-volume-of-a-paraboloid/QLo5dRFEyl8.srt
+    title: 3play caption file
+    type: null
+    uid: 215d04073b86da736ce0ef9473bfb714
+  - id: QLo5dRFEyl8.pdf
+    parent_uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/computing-the-volume-of-a-paraboloid/QLo5dRFEyl8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3f20ab5bded6eb7dfe21ecc3f417eabc
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8ba82acd9ebf91d275675a60d0fddb2c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 395459d938f160f2b19898d6efdfc790
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_37_300k.mp4'
+    parent_uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9ce0c1d064385433109e472f1eb36e42
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/computing-volume-paraboloid/id414308064?i=90319185
+    parent_uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: fdbdd7b14375fe35d5719d8559d3f3d1
+inline_embed_id: 38713090computingthevolumeofaparaboloid14171352
 parent_uid: d5e0c7a6f17252a3c694d627faf12123
+related_resources_text: ''
+short_url: computing-the-volume-of-a-paraboloid
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/computing-the-volume-of-a-paraboloid
-short_url: computing-the-volume-of-a-paraboloid
-inline_embed_id: 38713090computingthevolumeofaparaboloid14171352
-about_this_resource_text: ''
-related_resources_text: ''
+title: Computing the Volume of a Paraboloid
 transcript: >-
   <p><span m='7320'>PROFESSOR: Welcome</span> <span m='7660'>back</span> <span
   m='7810'>to</span> <span m='7890'>recitation.</span> <span m='9060'>In</span>
@@ -553,62 +608,7 @@ transcript: >-
   m='427580'>H.</span> <span m='428660'>So</span> <span m='428780'>that's</span>
   <span m='428920'>where</span> <span m='429190'>we'll</span> <span
   m='429270'>stop.</span> </p>
-embedded_media:
-  - uid: 3d95ea8228e7bf9bbee4124b8b21a4b2
-    parent_uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QLo5dRFEyl8
-  - uid: 3ce4ad05805ef8cf1f9dc139d0769723
-    parent_uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QLo5dRFEyl8/default.jpg'
-  - uid: 4fd388a860fc888e65f7f67049ffbfed
-    parent_uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QLo5dRFEyl8
-  - uid: 215d04073b86da736ce0ef9473bfb714
-    parent_uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
-    id: QLo5dRFEyl8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/computing-the-volume-of-a-paraboloid/QLo5dRFEyl8.srt
-  - uid: 3f20ab5bded6eb7dfe21ecc3f417eabc
-    parent_uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
-    id: QLo5dRFEyl8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/computing-the-volume-of-a-paraboloid/QLo5dRFEyl8.pdf
-  - uid: 8ba82acd9ebf91d275675a60d0fddb2c
-    parent_uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 395459d938f160f2b19898d6efdfc790
-    parent_uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 9ce0c1d064385433109e472f1eb36e42
-    parent_uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_37_300k.mp4'
-  - uid: fdbdd7b14375fe35d5719d8559d3f3d1
-    parent_uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/computing-volume-paraboloid/id414308064?i=90319185
+uid: 2be6fe1db7aac6dbf229f8d5bf83dca0
 type: courses
 layout: video
 ---

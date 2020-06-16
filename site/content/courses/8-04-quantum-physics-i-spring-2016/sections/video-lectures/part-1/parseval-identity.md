@@ -1,13 +1,73 @@
 ---
-title: Parseval identity
-uid: aefb540c9207d448ea44f2b6f95c74e7
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: i-bP2OkQxUI
+    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: fca3c51bec55247d9b53fe130e240688
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/hGUoyLuhcZI/default.jpg'
+    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d969f56f5bfff113aeac47504850d3a4
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: i-bP2OkQxUI
+    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c30591622a8b3457056653439c560bcd
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2601ab1719f5fcd4a9f80b9b9682a26d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec08_s2_300k.mp4'
+    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 30a312f6321b32e1aadec62e0e70d68a
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/i-bP2OkQxUI/default.jpg'
+    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5356c9cabbee899e6aff3e4b92d41174
+  - id: i-bP2OkQxUI.srt
+    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/parseval-identity/i-bP2OkQxUI.srt
+    title: 3play caption file
+    type: null
+    uid: 2422a41fa248cc6b143623d87c2363bd
+  - id: i-bP2OkQxUI.pdf
+    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/parseval-identity/i-bP2OkQxUI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1ecf608054792711ab67e8ff9192a9ef
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6d15a587210eb72f60436f042efaa83e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 52627c043e34ff6ea09e6d6788f23c57
+inline_embed_id: 25365119parsevalidentity21842071
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: parseval-identity
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/parseval-identity
-short_url: parseval-identity
-inline_embed_id: 25365119parsevalidentity21842071
-about_this_resource_text: ''
-related_resources_text: ''
+title: Parseval identity
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='210'>What</span> <span
   m='420'>we</span> <span m='840'>want</span> <span m='1290'>to</span> <span
@@ -670,67 +730,7 @@ transcript: >-
   <span m='944110'>formula</span> <span m='945190'>that</span> <span
   m='947980'>we</span> <span m='948130'>can</span> <span m='948370'>use.</span>
   </p>
-embedded_media:
-  - uid: fca3c51bec55247d9b53fe130e240688
-    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: i-bP2OkQxUI
-  - uid: d969f56f5bfff113aeac47504850d3a4
-    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/hGUoyLuhcZI/default.jpg'
-  - uid: c30591622a8b3457056653439c560bcd
-    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: i-bP2OkQxUI
-  - uid: 2601ab1719f5fcd4a9f80b9b9682a26d
-    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 30a312f6321b32e1aadec62e0e70d68a
-    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec08_s2_300k.mp4'
-  - uid: 5356c9cabbee899e6aff3e4b92d41174
-    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/i-bP2OkQxUI/default.jpg'
-  - uid: 2422a41fa248cc6b143623d87c2363bd
-    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
-    id: i-bP2OkQxUI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/parseval-identity/i-bP2OkQxUI.srt
-  - uid: 1ecf608054792711ab67e8ff9192a9ef
-    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
-    id: i-bP2OkQxUI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/parseval-identity/i-bP2OkQxUI.pdf
-  - uid: 6d15a587210eb72f60436f042efaa83e
-    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 52627c043e34ff6ea09e6d6788f23c57
-    parent_uid: aefb540c9207d448ea44f2b6f95c74e7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: aefb540c9207d448ea44f2b6f95c74e7
 type: courses
 layout: video
 ---

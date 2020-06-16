@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 15: Linear Recurrences'
-uid: 2f2431fee730cb09e8fa0bd8a756ecf2
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-15-linear-recurrences
-short_url: lecture-15-linear-recurrences
-inline_embed_id: '70185444lecture15:linearrecurrences40934869'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Covers the mechanics of solving general
   linear recurrences as well as applications to the graduate student job problem
   and Fibonacci modeling of populations.</p> <p><strong>Speaker:</strong> Tom
   Leighton</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: TWBB-JlmYUc
+    parent_uid: 2f2431fee730cb09e8fa0bd8a756ecf2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 01088a26a983e25f4c9c3ef37b188db4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TWBB-JlmYUc/default.jpg'
+    parent_uid: 2f2431fee730cb09e8fa0bd8a756ecf2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c132277ad0399cf62aca17ddde3c56c7
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-15-linear-recurrences/id503873536?i=110644968
+    parent_uid: 2f2431fee730cb09e8fa0bd8a756ecf2
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5e8fbc865356d4b86f814f9258c3a208
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec15_300k.mp4'
+    parent_uid: 2f2431fee730cb09e8fa0bd8a756ecf2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f6acc580b5860047afcc76a4abee8040
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: TWBB-JlmYUc
+    parent_uid: 2f2431fee730cb09e8fa0bd8a756ecf2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 56c421c91a38e0098a1c481b5cad7906
+  - id: TWBB-JlmYUc.srt
+    parent_uid: 2f2431fee730cb09e8fa0bd8a756ecf2
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-15-linear-recurrences/TWBB-JlmYUc.srt
+    title: 3play caption file
+    type: null
+    uid: a252bd25514e1d7d34b73aa69a0c1c9c
+  - id: TWBB-JlmYUc.pdf
+    parent_uid: 2f2431fee730cb09e8fa0bd8a756ecf2
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-15-linear-recurrences/TWBB-JlmYUc.pdf
+    title: 3play pdf file
+    type: null
+    uid: eb8fc3c5ca462d307112e4fcedda39da
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2f2431fee730cb09e8fa0bd8a756ecf2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f159ad3e95be29f7df22190c2afc1a1e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2f2431fee730cb09e8fa0bd8a756ecf2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8a2b48d4e2eebb2bf891e3d3d6054524
+inline_embed_id: '70185444lecture15:linearrecurrences40934869'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
+short_url: lecture-15-linear-recurrences
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-15-linear-recurrences
+title: 'Lecture 15: Linear Recurrences'
 transcript: >-
   <p><span m='390'>The</span> <span m='520'>following</span> <span
   m='950'>content</span> <span m='1550'>is</span> <span m='1660'>provided</span>
@@ -3827,62 +3882,7 @@ transcript: >-
   m='4696360'>is</span> <span m='4696480'>handy.</span> <span
   m='4697590'>OK.</span> <span m='4697890'>That's it</span> <span
   m='4698190'>for</span> <span m='4698490'>today.</span> </p>
-embedded_media:
-  - uid: 01088a26a983e25f4c9c3ef37b188db4
-    parent_uid: 2f2431fee730cb09e8fa0bd8a756ecf2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TWBB-JlmYUc
-  - uid: c132277ad0399cf62aca17ddde3c56c7
-    parent_uid: 2f2431fee730cb09e8fa0bd8a756ecf2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TWBB-JlmYUc/default.jpg'
-  - uid: 5e8fbc865356d4b86f814f9258c3a208
-    parent_uid: 2f2431fee730cb09e8fa0bd8a756ecf2
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-15-linear-recurrences/id503873536?i=110644968
-  - uid: f6acc580b5860047afcc76a4abee8040
-    parent_uid: 2f2431fee730cb09e8fa0bd8a756ecf2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec15_300k.mp4'
-  - uid: 56c421c91a38e0098a1c481b5cad7906
-    parent_uid: 2f2431fee730cb09e8fa0bd8a756ecf2
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TWBB-JlmYUc
-  - uid: a252bd25514e1d7d34b73aa69a0c1c9c
-    parent_uid: 2f2431fee730cb09e8fa0bd8a756ecf2
-    id: TWBB-JlmYUc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-15-linear-recurrences/TWBB-JlmYUc.srt
-  - uid: eb8fc3c5ca462d307112e4fcedda39da
-    parent_uid: 2f2431fee730cb09e8fa0bd8a756ecf2
-    id: TWBB-JlmYUc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-15-linear-recurrences/TWBB-JlmYUc.pdf
-  - uid: f159ad3e95be29f7df22190c2afc1a1e
-    parent_uid: 2f2431fee730cb09e8fa0bd8a756ecf2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8a2b48d4e2eebb2bf891e3d3d6054524
-    parent_uid: 2f2431fee730cb09e8fa0bd8a756ecf2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 2f2431fee730cb09e8fa0bd8a756ecf2
 type: courses
 layout: video
 ---

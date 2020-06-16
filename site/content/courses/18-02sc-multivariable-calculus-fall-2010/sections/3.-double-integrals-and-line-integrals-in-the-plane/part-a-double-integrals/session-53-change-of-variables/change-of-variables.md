@@ -1,13 +1,68 @@
 ---
-title: Change of Variables
-uid: 4d0c19be3665ac689c77336ae614fb1c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: lCKxeRiBdjQ
+    parent_uid: 4d0c19be3665ac689c77336ae614fb1c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 28c397bda00babc2de3eab72e0902ce6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/lCKxeRiBdjQ/default.jpg'
+    parent_uid: 4d0c19be3665ac689c77336ae614fb1c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 58c0f16ffed47bcf708a52b930ac331e
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/change-of-variables/id414355340?i=90322812
+    parent_uid: 4d0c19be3665ac689c77336ae614fb1c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3b02dd5a36e2da1d6f9fe798e8d4a7c0
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_36_300k.mp4'
+    parent_uid: 4d0c19be3665ac689c77336ae614fb1c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 710ba2e7b551bd0f78f938f67c1114b9
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: lCKxeRiBdjQ
+    parent_uid: 4d0c19be3665ac689c77336ae614fb1c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bdde1df053b3abd4cf3eb2cf48b8dbdb
+  - id: lCKxeRiBdjQ.srt
+    parent_uid: 4d0c19be3665ac689c77336ae614fb1c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-53-change-of-variables/change-of-variables/lCKxeRiBdjQ.srt
+    title: 3play caption file
+    type: null
+    uid: c7cefa880ec86d1200d7b9230d5e1866
+  - id: lCKxeRiBdjQ.pdf
+    parent_uid: 4d0c19be3665ac689c77336ae614fb1c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-53-change-of-variables/change-of-variables/lCKxeRiBdjQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3832b4f553cb0ffb4b8ced09cc06289b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4d0c19be3665ac689c77336ae614fb1c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6b9e5881c8cd89a43a385a1288e7cf5c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4d0c19be3665ac689c77336ae614fb1c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: dd97f86bf832a1468146a2cab0e77368
+inline_embed_id: 38113867changeofvariables89504605
 parent_uid: efa093dc347fd4af527f1b857bb14f2c
+related_resources_text: ''
+short_url: change-of-variables
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-53-change-of-variables/change-of-variables
-short_url: change-of-variables
-inline_embed_id: 38113867changeofvariables89504605
-about_this_resource_text: ''
-related_resources_text: ''
+title: Change of Variables
 transcript: >-
   <p><span m='0'>CHRISTINE BREINER:</span> <span m='7050'>Welcome</span> <span
   m='7450'>back to</span> <span m='7660'>recitation.</span> <span m='8810'>In
@@ -722,62 +777,7 @@ transcript: >-
   m='554530'>So</span> <span m='554790'>I</span> <span m='554940'>think</span>
   <span m='555180'>that's</span> <span m='555380'>where</span> <span
   m='555490'>I'll</span> <span m='555630'>stop.</span> </p>
-embedded_media:
-  - uid: 28c397bda00babc2de3eab72e0902ce6
-    parent_uid: 4d0c19be3665ac689c77336ae614fb1c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: lCKxeRiBdjQ
-  - uid: 58c0f16ffed47bcf708a52b930ac331e
-    parent_uid: 4d0c19be3665ac689c77336ae614fb1c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/lCKxeRiBdjQ/default.jpg'
-  - uid: 3b02dd5a36e2da1d6f9fe798e8d4a7c0
-    parent_uid: 4d0c19be3665ac689c77336ae614fb1c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/change-of-variables/id414355340?i=90322812
-  - uid: 710ba2e7b551bd0f78f938f67c1114b9
-    parent_uid: 4d0c19be3665ac689c77336ae614fb1c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_36_300k.mp4'
-  - uid: bdde1df053b3abd4cf3eb2cf48b8dbdb
-    parent_uid: 4d0c19be3665ac689c77336ae614fb1c
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: lCKxeRiBdjQ
-  - uid: c7cefa880ec86d1200d7b9230d5e1866
-    parent_uid: 4d0c19be3665ac689c77336ae614fb1c
-    id: lCKxeRiBdjQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-53-change-of-variables/change-of-variables/lCKxeRiBdjQ.srt
-  - uid: 3832b4f553cb0ffb4b8ced09cc06289b
-    parent_uid: 4d0c19be3665ac689c77336ae614fb1c
-    id: lCKxeRiBdjQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-53-change-of-variables/change-of-variables/lCKxeRiBdjQ.pdf
-  - uid: 6b9e5881c8cd89a43a385a1288e7cf5c
-    parent_uid: 4d0c19be3665ac689c77336ae614fb1c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: dd97f86bf832a1468146a2cab0e77368
-    parent_uid: 4d0c19be3665ac689c77336ae614fb1c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 4d0c19be3665ac689c77336ae614fb1c
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: Conditional Probability Definitions
-uid: 462324971709c7c9f4079e06b58b68c5
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 462324971709c7c9f4079e06b58b68c5
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: bb0f998f24c2f9d9e8ffc488b132822d
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 462324971709c7c9f4079e06b58b68c5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5b2acd05b19da5e6adcd9f0e35306741
+  - id: Video-YouTube-Stream
+    media_location: Cu9_LaaWgHo
+    parent_uid: 462324971709c7c9f4079e06b58b68c5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 39f73e1af2a28c310e1ac5a64eb52bc1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Cu9_LaaWgHo/default.jpg'
+    parent_uid: 462324971709c7c9f4079e06b58b68c5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1829255336c520fea0f75fa249dd0ec6
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: Cu9_LaaWgHo
+    parent_uid: 462324971709c7c9f4079e06b58b68c5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c489ba4bf880cc2e268dc25aba0dd9a4
+  - id: Cu9_LaaWgHo.srt
+    parent_uid: 462324971709c7c9f4079e06b58b68c5
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/definitions/Cu9_LaaWgHo.srt
+    title: 3play caption file
+    type: null
+    uid: b29b162b1052bfd2cf683c60c25b0981
+  - id: Cu9_LaaWgHo.pdf
+    parent_uid: 462324971709c7c9f4079e06b58b68c5
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/definitions/Cu9_LaaWgHo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4985ce323f172ae22cd76325308b757f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 462324971709c7c9f4079e06b58b68c5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 77166c0537476d9f70393dca9b0b8af0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 462324971709c7c9f4079e06b58b68c5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b1b45dbd52b9585bd7f33a77f2927eda
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_probcond_video_ipod.mp4
+    parent_uid: 462324971709c7c9f4079e06b58b68c5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 78e9b80e8af836273131b4535926c1e7
+inline_embed_id: 24416970conditionalprobabilitydefinitions53975133
 parent_uid: 79ebde2b537e9e26dc39d5d2e1c8f1d9
+related_resources_text: ''
+short_url: definitions
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/definitions
-short_url: definitions
-inline_embed_id: 24416970conditionalprobabilitydefinitions53975133
-about_this_resource_text: ''
-related_resources_text: ''
+title: Conditional Probability Definitions
 transcript: >-
   <p><span m='780'>Conditional</span> <span m='1035'>probability</span> <span
   m='1670'>is</span> <span m='2050'>an</span> <span m='2440'>absolutely</span>
@@ -872,67 +932,7 @@ transcript: >-
   m='734090'>to</span> <span m='734200'>think</span> <span
   m='734410'>about</span> <span m='734690'>proving</span> <span
   m='735030'>them</span> <span m='735210'>again.</span> </p><p></p>
-embedded_media:
-  - uid: bb0f998f24c2f9d9e8ffc488b132822d
-    parent_uid: 462324971709c7c9f4079e06b58b68c5
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 5b2acd05b19da5e6adcd9f0e35306741
-    parent_uid: 462324971709c7c9f4079e06b58b68c5
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 39f73e1af2a28c310e1ac5a64eb52bc1
-    parent_uid: 462324971709c7c9f4079e06b58b68c5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Cu9_LaaWgHo
-  - uid: 1829255336c520fea0f75fa249dd0ec6
-    parent_uid: 462324971709c7c9f4079e06b58b68c5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Cu9_LaaWgHo/default.jpg'
-  - uid: c489ba4bf880cc2e268dc25aba0dd9a4
-    parent_uid: 462324971709c7c9f4079e06b58b68c5
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Cu9_LaaWgHo
-  - uid: b29b162b1052bfd2cf683c60c25b0981
-    parent_uid: 462324971709c7c9f4079e06b58b68c5
-    id: Cu9_LaaWgHo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/definitions/Cu9_LaaWgHo.srt
-  - uid: 4985ce323f172ae22cd76325308b757f
-    parent_uid: 462324971709c7c9f4079e06b58b68c5
-    id: Cu9_LaaWgHo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-1/definitions/Cu9_LaaWgHo.pdf
-  - uid: 77166c0537476d9f70393dca9b0b8af0
-    parent_uid: 462324971709c7c9f4079e06b58b68c5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b1b45dbd52b9585bd7f33a77f2927eda
-    parent_uid: 462324971709c7c9f4079e06b58b68c5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 78e9b80e8af836273131b4535926c1e7
-    parent_uid: 462324971709c7c9f4079e06b58b68c5
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_probcond_video_ipod.mp4
+uid: 462324971709c7c9f4079e06b58b68c5
 type: courses
 layout: video
 ---

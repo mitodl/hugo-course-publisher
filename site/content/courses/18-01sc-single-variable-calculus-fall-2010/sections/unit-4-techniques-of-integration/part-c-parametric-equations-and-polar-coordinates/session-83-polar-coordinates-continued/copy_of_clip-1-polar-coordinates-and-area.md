@@ -1,18 +1,72 @@
 ---
-title: 'Clip 2: Area of an Off-Center Circle'
-uid: f9ab02fb90fc603d7c271db29e848cfc
-parent_uid: 48426d55f5c623f4eacc4fd415a7a577
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-83-polar-coordinates-continued/copy_of_clip-1-polar-coordinates-and-area
-short_url: copy_of_clip-1-polar-coordinates-and-area
-inline_embed_id: '4402949clip2:areaofanoff-centercircle86692307'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/545fbd5776098bdc96b6cdc702211d7b" title="Open
   in a new window." target="_blank">Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 33 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: BGE3wb7H2PA
+    parent_uid: f9ab02fb90fc603d7c271db29e848cfc
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5694f85e9cb2bcc92bc468fcd2df226e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BGE3wb7H2PA/default.jpg'
+    parent_uid: f9ab02fb90fc603d7c271db29e848cfc
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e758c382f4eddb88daf71f9017120de7
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: BGE3wb7H2PA
+    parent_uid: f9ab02fb90fc603d7c271db29e848cfc
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: cace14179770c5da010d06f14a7917d2
+  - id: BGE3wb7H2PA.srt
+    parent_uid: f9ab02fb90fc603d7c271db29e848cfc
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-83-polar-coordinates-continued/copy_of_clip-1-polar-coordinates-and-area/BGE3wb7H2PA.srt
+    title: 3play caption file
+    type: null
+    uid: d9329308a1ea95de73b3249f51a8c614
+  - id: BGE3wb7H2PA.pdf
+    parent_uid: f9ab02fb90fc603d7c271db29e848cfc
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-83-polar-coordinates-continued/copy_of_clip-1-polar-coordinates-and-area/BGE3wb7H2PA.pdf
+    title: 3play pdf file
+    type: null
+    uid: b0473dfafe737d25447be64b06bf305d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f9ab02fb90fc603d7c271db29e848cfc
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 46323337f35558db0df8443f7eb5149c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f9ab02fb90fc603d7c271db29e848cfc
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9c9c6a89f6935cab4e4bc0e0e15dd9b3
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec33_300k.mp4'
+    parent_uid: f9ab02fb90fc603d7c271db29e848cfc
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7c514d8d9a6332419a48bf9d0a0fab9c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: f9ab02fb90fc603d7c271db29e848cfc
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8119ab9763dc9e057a1a344471174e0c
+inline_embed_id: '4402949clip2:areaofanoff-centercircle86692307'
+parent_uid: 48426d55f5c623f4eacc4fd415a7a577
 related_resources_text: ''
+short_url: copy_of_clip-1-polar-coordinates-and-area
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-83-polar-coordinates-continued/copy_of_clip-1-polar-coordinates-and-area
+title: 'Clip 2: Area of an Off-Center Circle'
 transcript: >-
   <p><span m="0">The</span> <span m="120">following</span> <span
   m="530">content</span> <span m="1270">is</span> <span m="1420">provided</span>
@@ -2726,61 +2780,7 @@ transcript: >-
   m="2943540">just</span> <span m="2943900">keep</span> <span
   m="2944090">that</span> <span m="2944290">in</span> <span
   m="2944370">mind.</span></p>
-embedded_media:
-  - uid: 5694f85e9cb2bcc92bc468fcd2df226e
-    parent_uid: f9ab02fb90fc603d7c271db29e848cfc
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BGE3wb7H2PA
-  - uid: e758c382f4eddb88daf71f9017120de7
-    parent_uid: f9ab02fb90fc603d7c271db29e848cfc
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BGE3wb7H2PA/default.jpg'
-  - uid: cace14179770c5da010d06f14a7917d2
-    parent_uid: f9ab02fb90fc603d7c271db29e848cfc
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BGE3wb7H2PA
-  - uid: d9329308a1ea95de73b3249f51a8c614
-    parent_uid: f9ab02fb90fc603d7c271db29e848cfc
-    id: BGE3wb7H2PA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-83-polar-coordinates-continued/copy_of_clip-1-polar-coordinates-and-area/BGE3wb7H2PA.srt
-  - uid: b0473dfafe737d25447be64b06bf305d
-    parent_uid: f9ab02fb90fc603d7c271db29e848cfc
-    id: BGE3wb7H2PA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-83-polar-coordinates-continued/copy_of_clip-1-polar-coordinates-and-area/BGE3wb7H2PA.pdf
-  - uid: 46323337f35558db0df8443f7eb5149c
-    parent_uid: f9ab02fb90fc603d7c271db29e848cfc
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9c9c6a89f6935cab4e4bc0e0e15dd9b3
-    parent_uid: f9ab02fb90fc603d7c271db29e848cfc
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 7c514d8d9a6332419a48bf9d0a0fab9c
-    parent_uid: f9ab02fb90fc603d7c271db29e848cfc
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec33_300k.mp4'
-  - uid: 8119ab9763dc9e057a1a344471174e0c
-    parent_uid: f9ab02fb90fc603d7c271db29e848cfc
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: f9ab02fb90fc603d7c271db29e848cfc
 type: courses
 layout: video
 ---

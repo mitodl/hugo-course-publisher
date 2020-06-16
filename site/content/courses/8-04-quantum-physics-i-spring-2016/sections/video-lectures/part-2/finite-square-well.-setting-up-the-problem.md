@@ -1,13 +1,73 @@
 ---
-title: Finite square well. Setting up the problem
-uid: 26428fc0d4e0e80954f793f2893750a3
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: CdAKFagtXpQ
+    parent_uid: 26428fc0d4e0e80954f793f2893750a3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 923d26b6fbfd99b6176e74732966e666
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QA9tULBkoqI/default.jpg'
+    parent_uid: 26428fc0d4e0e80954f793f2893750a3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8ca240691cc44636263e4f6d700e9351
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: CdAKFagtXpQ
+    parent_uid: 26428fc0d4e0e80954f793f2893750a3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fcf23fd644cd17d831ee989ff1503127
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 26428fc0d4e0e80954f793f2893750a3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a05bafcfe688e3922ee0f894caf7a6f8
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec11_s4_300k.mp4'
+    parent_uid: 26428fc0d4e0e80954f793f2893750a3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8657b3d885d7805f17898e8f96e2e5d5
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/CdAKFagtXpQ/default.jpg'
+    parent_uid: 26428fc0d4e0e80954f793f2893750a3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cc95ff92f278212c479a755e45a8f96f
+  - id: CdAKFagtXpQ.srt
+    parent_uid: 26428fc0d4e0e80954f793f2893750a3
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/finite-square-well.-setting-up-the-problem/CdAKFagtXpQ.srt
+    title: 3play caption file
+    type: null
+    uid: 3b3a0e45bc3ddd0c4cbb460ab044aa3c
+  - id: CdAKFagtXpQ.pdf
+    parent_uid: 26428fc0d4e0e80954f793f2893750a3
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/finite-square-well.-setting-up-the-problem/CdAKFagtXpQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9a3332c19cb945ccfbf65d4c38a660f5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 26428fc0d4e0e80954f793f2893750a3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b80cefd87c709bd3a4cd9b4d5f02ff84
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 26428fc0d4e0e80954f793f2893750a3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2bad3486b3ba82196b02d77252af721e
+inline_embed_id: 72056024finitesquarewell.settinguptheproblem2502739
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: finite-square-well.-setting-up-the-problem
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/finite-square-well.-setting-up-the-problem
-short_url: finite-square-well.-setting-up-the-problem
-inline_embed_id: 72056024finitesquarewell.settinguptheproblem2502739
-about_this_resource_text: ''
-related_resources_text: ''
+title: Finite square well. Setting up the problem
 transcript: >-
   <p><span m='0'>BARTON ZWIEBACH:</span> <span m='370'>Finite</span> <span
   m='910'>square</span> <span m='1400'>well.</span> <span m='11530'>So</span>
@@ -1090,67 +1150,7 @@ transcript: >-
   m='1347080'>circle</span> <span m='1348220'>in</span> <span
   m='1348340'>the</span> <span m='1348520'>8x</span> <span
   m='1349060'>psi</span> <span m='1349430'>plane.</span> </p>
-embedded_media:
-  - uid: 923d26b6fbfd99b6176e74732966e666
-    parent_uid: 26428fc0d4e0e80954f793f2893750a3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: CdAKFagtXpQ
-  - uid: 8ca240691cc44636263e4f6d700e9351
-    parent_uid: 26428fc0d4e0e80954f793f2893750a3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QA9tULBkoqI/default.jpg'
-  - uid: fcf23fd644cd17d831ee989ff1503127
-    parent_uid: 26428fc0d4e0e80954f793f2893750a3
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: CdAKFagtXpQ
-  - uid: a05bafcfe688e3922ee0f894caf7a6f8
-    parent_uid: 26428fc0d4e0e80954f793f2893750a3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 8657b3d885d7805f17898e8f96e2e5d5
-    parent_uid: 26428fc0d4e0e80954f793f2893750a3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec11_s4_300k.mp4'
-  - uid: cc95ff92f278212c479a755e45a8f96f
-    parent_uid: 26428fc0d4e0e80954f793f2893750a3
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CdAKFagtXpQ/default.jpg'
-  - uid: 3b3a0e45bc3ddd0c4cbb460ab044aa3c
-    parent_uid: 26428fc0d4e0e80954f793f2893750a3
-    id: CdAKFagtXpQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/finite-square-well.-setting-up-the-problem/CdAKFagtXpQ.srt
-  - uid: 9a3332c19cb945ccfbf65d4c38a660f5
-    parent_uid: 26428fc0d4e0e80954f793f2893750a3
-    id: CdAKFagtXpQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/finite-square-well.-setting-up-the-problem/CdAKFagtXpQ.pdf
-  - uid: b80cefd87c709bd3a4cd9b4d5f02ff84
-    parent_uid: 26428fc0d4e0e80954f793f2893750a3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2bad3486b3ba82196b02d77252af721e
-    parent_uid: 26428fc0d4e0e80954f793f2893750a3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 26428fc0d4e0e80954f793f2893750a3
 type: courses
 layout: video
 ---

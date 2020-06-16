@@ -1,13 +1,67 @@
 ---
-title: 'Clip 2: Related Rates'
-uid: 427ffe9db02309a2673848e4e658cdf7
+about_this_resource_text: "<p>&raquo; <a target=\"_blank\" title=\"Open in a new window.\" href=\"./resolveuid/e56891a3f0660f93860acb5828226adc\">Accompanying Notes (PDF)</a></p>\r\n<p class=\"scholar_medsm\">From Lecture 13 of <a href=\"http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/\"><em>18.01 Single Variable Calculus, Fall 2006</em></a></p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: sRIDVAcoG5A
+    parent_uid: 427ffe9db02309a2673848e4e658cdf7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e992086d1b34a1907ffef6ea5d3cbad0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/sRIDVAcoG5A/default.jpg'
+    parent_uid: 427ffe9db02309a2673848e4e658cdf7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4f92bad092be864f6b520a80550abd7e
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec13_300k.mp4'
+    parent_uid: 427ffe9db02309a2673848e4e658cdf7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7edf1c44d70f6a8a52c399fd57b0706a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: sRIDVAcoG5A
+    parent_uid: 427ffe9db02309a2673848e4e658cdf7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 89a7a63ca21234286da5e88a3774eb88
+  - id: sRIDVAcoG5A.srt
+    parent_uid: 427ffe9db02309a2673848e4e658cdf7
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-31-related-rates/clip-2-related-rates/sRIDVAcoG5A.srt
+    title: 3play caption file
+    type: null
+    uid: b160e7f3c64d225cefc4ff67a55c3ce8
+  - id: sRIDVAcoG5A.pdf
+    parent_uid: 427ffe9db02309a2673848e4e658cdf7
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-31-related-rates/clip-2-related-rates/sRIDVAcoG5A.pdf
+    title: 3play pdf file
+    type: null
+    uid: 622df3c0eb950e014d48d73bb72fbc5a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 427ffe9db02309a2673848e4e658cdf7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 107290478d4e985976c70b0090f085cb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 427ffe9db02309a2673848e4e658cdf7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c7033040721540dff78964c65fdf8d48
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 427ffe9db02309a2673848e4e658cdf7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 60e87d8cf763129f21e9612edc2e4aa9
+inline_embed_id: '87611881clip2:relatedrates62374552'
 parent_uid: 740c26e9a52f298e76ec9fb9679d1f19
+related_resources_text: ''
+short_url: clip-2-related-rates
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-31-related-rates/clip-2-related-rates
-short_url: clip-2-related-rates
-inline_embed_id: '87611881clip2:relatedrates62374552'
-about_this_resource_text: "<p>&raquo; <a target=\"_blank\" title=\"Open in a new window.\" href=\"./resolveuid/e56891a3f0660f93860acb5828226adc\">Accompanying Notes (PDF)</a></p>\r\n<p class=\"scholar_medsm\">From Lecture 13 of <a href=\"http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/\"><em>18.01 Single Variable Calculus, Fall 2006</em></a></p>"
-related_resources_text: ''
+title: 'Clip 2: Related Rates'
 transcript: >-
   <p><span m="1900">The</span> <span m="2007">following</span> <span
   m="2114">content</span> <span m="2221">is</span> <span
@@ -3000,61 +3054,7 @@ transcript: >-
   <span m="3199000">have</span> <span m="3199130">to</span> <span
   m="3199250">ask</span> <span m="3199790">other</span> <span
   m="3199990">questions</span> <span m="3200360">after class.</span></p>
-embedded_media:
-  - uid: e992086d1b34a1907ffef6ea5d3cbad0
-    parent_uid: 427ffe9db02309a2673848e4e658cdf7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: sRIDVAcoG5A
-  - uid: 4f92bad092be864f6b520a80550abd7e
-    parent_uid: 427ffe9db02309a2673848e4e658cdf7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/sRIDVAcoG5A/default.jpg'
-  - uid: 7edf1c44d70f6a8a52c399fd57b0706a
-    parent_uid: 427ffe9db02309a2673848e4e658cdf7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec13_300k.mp4'
-  - uid: 89a7a63ca21234286da5e88a3774eb88
-    parent_uid: 427ffe9db02309a2673848e4e658cdf7
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: sRIDVAcoG5A
-  - uid: b160e7f3c64d225cefc4ff67a55c3ce8
-    parent_uid: 427ffe9db02309a2673848e4e658cdf7
-    id: sRIDVAcoG5A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-31-related-rates/clip-2-related-rates/sRIDVAcoG5A.srt
-  - uid: 622df3c0eb950e014d48d73bb72fbc5a
-    parent_uid: 427ffe9db02309a2673848e4e658cdf7
-    id: sRIDVAcoG5A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-31-related-rates/clip-2-related-rates/sRIDVAcoG5A.pdf
-  - uid: 107290478d4e985976c70b0090f085cb
-    parent_uid: 427ffe9db02309a2673848e4e658cdf7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c7033040721540dff78964c65fdf8d48
-    parent_uid: 427ffe9db02309a2673848e4e658cdf7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 60e87d8cf763129f21e9612edc2e4aa9
-    parent_uid: 427ffe9db02309a2673848e4e658cdf7
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 427ffe9db02309a2673848e4e658cdf7
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: 'Correspondence principle: amplitude as a function of position'
-uid: ae7761b9756a391320248b5cbc2181b9
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 79GY-hI_emE
+    parent_uid: ae7761b9756a391320248b5cbc2181b9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 94eb1e7c6407eb9f0923e29b544434b6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/aN9kTRfeko8/default.jpg'
+    parent_uid: ae7761b9756a391320248b5cbc2181b9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d4d75b2bda91493e212b4d8bab700743
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 79GY-hI_emE
+    parent_uid: ae7761b9756a391320248b5cbc2181b9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: be1b2a3167395414dd3ea42b10527b73
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: ae7761b9756a391320248b5cbc2181b9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: aa6a98b0a86d095e2b35e73c8c11956c
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec12_s4_300k.mp4'
+    parent_uid: ae7761b9756a391320248b5cbc2181b9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f25077ab215fefa75cb403d21c8fcfc0
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/79GY-hI_emE/default.jpg'
+    parent_uid: ae7761b9756a391320248b5cbc2181b9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a4e723fb086bd4dc4bfd7d65ce75e7d3
+  - id: 79GY-hI_emE.srt
+    parent_uid: ae7761b9756a391320248b5cbc2181b9
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/correspondence-principle-amplitude-as-a-function-of-position/79GY-hI_emE.srt
+    title: 3play caption file
+    type: null
+    uid: 28e5be8db9a5e17888a770e0bdc45ea6
+  - id: 79GY-hI_emE.pdf
+    parent_uid: ae7761b9756a391320248b5cbc2181b9
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/correspondence-principle-amplitude-as-a-function-of-position/79GY-hI_emE.pdf
+    title: 3play pdf file
+    type: null
+    uid: bceccde13596fa0f2d378c2c23b12638
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ae7761b9756a391320248b5cbc2181b9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a6f53cce2c4e1efc3908f1216c08a1f4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ae7761b9756a391320248b5cbc2181b9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7961a79ab3b728eefe0954b2e62f08a2
+inline_embed_id: 38369965correspondenceprincipleamplitudeasafunctionofposition29775509
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: correspondence-principle-amplitude-as-a-function-of-position
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/correspondence-principle-amplitude-as-a-function-of-position
-short_url: correspondence-principle-amplitude-as-a-function-of-position
-inline_embed_id: 38369965correspondenceprincipleamplitudeasafunctionofposition29775509
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Correspondence principle: amplitude as a function of position'
 transcript: >-
   <p><span m='270'>PROFESSOR:</span> <span m='405'>There's</span> <span
   m='540'>one</span> <span m='990'>more</span> <span m='1290'>property</span>
@@ -276,67 +336,7 @@ transcript: >-
   <span m='350060'>sketch</span> <span m='350810'>a</span> <span
   m='350900'>general</span> <span m='351530'>wave</span> <span
   m='351770'>function.</span> </p>
-embedded_media:
-  - uid: 94eb1e7c6407eb9f0923e29b544434b6
-    parent_uid: ae7761b9756a391320248b5cbc2181b9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 79GY-hI_emE
-  - uid: d4d75b2bda91493e212b4d8bab700743
-    parent_uid: ae7761b9756a391320248b5cbc2181b9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/aN9kTRfeko8/default.jpg'
-  - uid: be1b2a3167395414dd3ea42b10527b73
-    parent_uid: ae7761b9756a391320248b5cbc2181b9
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 79GY-hI_emE
-  - uid: aa6a98b0a86d095e2b35e73c8c11956c
-    parent_uid: ae7761b9756a391320248b5cbc2181b9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: f25077ab215fefa75cb403d21c8fcfc0
-    parent_uid: ae7761b9756a391320248b5cbc2181b9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec12_s4_300k.mp4'
-  - uid: a4e723fb086bd4dc4bfd7d65ce75e7d3
-    parent_uid: ae7761b9756a391320248b5cbc2181b9
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/79GY-hI_emE/default.jpg'
-  - uid: 28e5be8db9a5e17888a770e0bdc45ea6
-    parent_uid: ae7761b9756a391320248b5cbc2181b9
-    id: 79GY-hI_emE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/correspondence-principle-amplitude-as-a-function-of-position/79GY-hI_emE.srt
-  - uid: bceccde13596fa0f2d378c2c23b12638
-    parent_uid: ae7761b9756a391320248b5cbc2181b9
-    id: 79GY-hI_emE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/correspondence-principle-amplitude-as-a-function-of-position/79GY-hI_emE.pdf
-  - uid: a6f53cce2c4e1efc3908f1216c08a1f4
-    parent_uid: ae7761b9756a391320248b5cbc2181b9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7961a79ab3b728eefe0954b2e62f08a2
-    parent_uid: ae7761b9756a391320248b5cbc2181b9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: ae7761b9756a391320248b5cbc2181b9
 type: courses
 layout: video
 ---

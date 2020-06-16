@@ -1,13 +1,67 @@
 ---
-title: Commuting observables for angular momentum
-uid: d338345f77a4560078b6a0b607bf2169
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Mh8vUEStCQ8
+    parent_uid: d338345f77a4560078b6a0b607bf2169
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f453a25dd9615f597ddf21ba73af17cb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Mh8vUEStCQ8/default.jpg'
+    parent_uid: d338345f77a4560078b6a0b607bf2169
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 996d1cf545054b6976f3a1513c9cd901
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Mh8vUEStCQ8
+    parent_uid: d338345f77a4560078b6a0b607bf2169
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 64de59221c65446cb9bd4fb650f385e2
+  - id: Mh8vUEStCQ8.srt
+    parent_uid: d338345f77a4560078b6a0b607bf2169
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/commuting-observables-for-angular-momentum/Mh8vUEStCQ8.srt
+    title: 3play caption file
+    type: null
+    uid: b537d9ce86a3dbc238bc2ab7527530d8
+  - id: Mh8vUEStCQ8.pdf
+    parent_uid: d338345f77a4560078b6a0b607bf2169
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/commuting-observables-for-angular-momentum/Mh8vUEStCQ8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 034aa038bc1ac0f3fb39ce7fe56fc94b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d338345f77a4560078b6a0b607bf2169
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e68f3def26955f04b37552aa92605bee
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d338345f77a4560078b6a0b607bf2169
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3ed6eed8c9b860f4a3404d38e589b528
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: d338345f77a4560078b6a0b607bf2169
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b40450a3cb22d569addf73484a5e98a1
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec20_s3_300k.mp4'
+    parent_uid: d338345f77a4560078b6a0b607bf2169
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5cbef3ca84dbbc8690908333544d0ba0
+inline_embed_id: 54709102commutingobservablesforangularmomentum50855141
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: commuting-observables-for-angular-momentum
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/commuting-observables-for-angular-momentum
-short_url: commuting-observables-for-angular-momentum
-inline_embed_id: 54709102commutingobservablesforangularmomentum50855141
-about_this_resource_text: ''
-related_resources_text: ''
+title: Commuting observables for angular momentum
 transcript: >-
   <p><span m='390'>BARTON ZWIEBACH:</span> <span m='440'>We</span> <span
   m='990'>want</span> <span m='1380'>to</span> <span m='1560'>understand</span>
@@ -699,61 +753,7 @@ transcript: >-
   m='1035680'>for</span> <span m='1035829'>you</span> <span
   m='1036010'>to</span> <span m='1036160'>do</span> <span m='1036400'>it.</span>
   </p>
-embedded_media:
-  - uid: f453a25dd9615f597ddf21ba73af17cb
-    parent_uid: d338345f77a4560078b6a0b607bf2169
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Mh8vUEStCQ8
-  - uid: 996d1cf545054b6976f3a1513c9cd901
-    parent_uid: d338345f77a4560078b6a0b607bf2169
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Mh8vUEStCQ8/default.jpg'
-  - uid: 64de59221c65446cb9bd4fb650f385e2
-    parent_uid: d338345f77a4560078b6a0b607bf2169
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Mh8vUEStCQ8
-  - uid: b537d9ce86a3dbc238bc2ab7527530d8
-    parent_uid: d338345f77a4560078b6a0b607bf2169
-    id: Mh8vUEStCQ8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/commuting-observables-for-angular-momentum/Mh8vUEStCQ8.srt
-  - uid: 034aa038bc1ac0f3fb39ce7fe56fc94b
-    parent_uid: d338345f77a4560078b6a0b607bf2169
-    id: Mh8vUEStCQ8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/commuting-observables-for-angular-momentum/Mh8vUEStCQ8.pdf
-  - uid: e68f3def26955f04b37552aa92605bee
-    parent_uid: d338345f77a4560078b6a0b607bf2169
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3ed6eed8c9b860f4a3404d38e589b528
-    parent_uid: d338345f77a4560078b6a0b607bf2169
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b40450a3cb22d569addf73484a5e98a1
-    parent_uid: d338345f77a4560078b6a0b607bf2169
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 5cbef3ca84dbbc8690908333544d0ba0
-    parent_uid: d338345f77a4560078b6a0b607bf2169
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec20_s3_300k.mp4'
+uid: d338345f77a4560078b6a0b607bf2169
 type: courses
 layout: video
 ---

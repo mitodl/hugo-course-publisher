@@ -1,18 +1,72 @@
 ---
-title: 'Ecosystem Stability, Critical Transitions, and Biodiversity'
-uid: 027f29c1695d4859aa27188a0e22313d
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/ecosystem-stability-critical-transitions-and-biodiversity
-short_url: ecosystem-stability-critical-transitions-and-biodiversity
-inline_embed_id: '17850948ecosystemstability,criticaltransitions,andbiodiversity42531279'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Jeff Gore discusses
   the stability, resilience, and diversity of populations at a systems level. He
   begins by considering a single population, and then moves on to a simple model
   of interactions between species.</p> <p><strong>Instructor:</strong> Prof.
   Jeff Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: lC3XSwQ62iw
+    parent_uid: 027f29c1695d4859aa27188a0e22313d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4dde718c96875d329b2ec131d628fb38
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/lC3XSwQ62iw/default.jpg'
+    parent_uid: 027f29c1695d4859aa27188a0e22313d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3b05d1e2302ae9b53cf0680266261ace
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: 027f29c1695d4859aa27188a0e22313d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2546e1675bf5f3d2f2efa5c24a857144
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec22_300k.mp4'
+    parent_uid: 027f29c1695d4859aa27188a0e22313d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3b8df4ac953f8ae4eb09ba8c2f128c08
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: lC3XSwQ62iw
+    parent_uid: 027f29c1695d4859aa27188a0e22313d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f4ef350cb5232b47f8361cd59c817ccf
+  - id: lC3XSwQ62iw.srt
+    parent_uid: 027f29c1695d4859aa27188a0e22313d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/ecosystem-stability-critical-transitions-and-biodiversity/lC3XSwQ62iw.srt
+    title: 3play caption file
+    type: null
+    uid: d64e5841fb00907562b2d97401e5be12
+  - id: lC3XSwQ62iw.pdf
+    parent_uid: 027f29c1695d4859aa27188a0e22313d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/ecosystem-stability-critical-transitions-and-biodiversity/lC3XSwQ62iw.pdf
+    title: 3play pdf file
+    type: null
+    uid: b468d23e85f2539a2a216e4770bc02e5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 027f29c1695d4859aa27188a0e22313d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 72ba6cc4e9e98cf6207c0817fcfd3fa6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 027f29c1695d4859aa27188a0e22313d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 379071c92884cdff8989ac45d5f8811f
+inline_embed_id: '17850948ecosystemstability,criticaltransitions,andbiodiversity42531279'
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: ecosystem-stability-critical-transitions-and-biodiversity
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/ecosystem-stability-critical-transitions-and-biodiversity
+title: 'Ecosystem Stability, Critical Transitions, and Biodiversity'
 transcript: >-
   <p><span m="60">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4675,61 +4729,7 @@ transcript: >-
   m="4801300">it.</span> <span m="4801600">And</span> <span m="4801900">also
   draw</span> <span m="4802200">these</span> <span
   m="4802500">options.</span></p>
-embedded_media:
-  - uid: 4dde718c96875d329b2ec131d628fb38
-    parent_uid: 027f29c1695d4859aa27188a0e22313d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: lC3XSwQ62iw
-  - uid: 3b05d1e2302ae9b53cf0680266261ace
-    parent_uid: 027f29c1695d4859aa27188a0e22313d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/lC3XSwQ62iw/default.jpg'
-  - uid: 2546e1675bf5f3d2f2efa5c24a857144
-    parent_uid: 027f29c1695d4859aa27188a0e22313d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: 3b8df4ac953f8ae4eb09ba8c2f128c08
-    parent_uid: 027f29c1695d4859aa27188a0e22313d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec22_300k.mp4'
-  - uid: f4ef350cb5232b47f8361cd59c817ccf
-    parent_uid: 027f29c1695d4859aa27188a0e22313d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: lC3XSwQ62iw
-  - uid: d64e5841fb00907562b2d97401e5be12
-    parent_uid: 027f29c1695d4859aa27188a0e22313d
-    id: lC3XSwQ62iw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/ecosystem-stability-critical-transitions-and-biodiversity/lC3XSwQ62iw.srt
-  - uid: b468d23e85f2539a2a216e4770bc02e5
-    parent_uid: 027f29c1695d4859aa27188a0e22313d
-    id: lC3XSwQ62iw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/ecosystem-stability-critical-transitions-and-biodiversity/lC3XSwQ62iw.pdf
-  - uid: 72ba6cc4e9e98cf6207c0817fcfd3fa6
-    parent_uid: 027f29c1695d4859aa27188a0e22313d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 379071c92884cdff8989ac45d5f8811f
-    parent_uid: 027f29c1695d4859aa27188a0e22313d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 027f29c1695d4859aa27188a0e22313d
 type: courses
 layout: video
 ---

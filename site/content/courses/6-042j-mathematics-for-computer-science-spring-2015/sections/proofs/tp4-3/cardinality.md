@@ -1,13 +1,73 @@
 ---
-title: Cardinality
-uid: c2ca270d0bb3aaf664bff6334eac04a0
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: dc997c40c22515bd921550b2c89a3373
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 08580a8fdf353515f3284d207c707d28
+  - id: Video-YouTube-Stream
+    media_location: QzSCf62kzjE
+    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9288d85d98fe83a47b46a87b05366ab4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QzSCf62kzjE/default.jpg'
+    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9ce888cfba7b637fd116b01c65a7771a
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: QzSCf62kzjE
+    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 19a8263a2393e926f5d0f1971765f2ef
+  - id: QzSCf62kzjE.srt
+    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/cardinality/QzSCf62kzjE.srt
+    title: 3play caption file
+    type: null
+    uid: 15f1add3bef6eaf60b1cfefd48e8de07
+  - id: QzSCf62kzjE.pdf
+    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/cardinality/QzSCf62kzjE.pdf
+    title: 3play pdf file
+    type: null
+    uid: d7af2ffda77403442f88275cd4b30c9b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1015e36c1138958be0b86a159b2d92d4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b6dfdaa2af2501ef14671a58e9cb3b1e
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_cardinality_ipod.mp4
+    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6adba25569e19d4764edfb2acfc17643
+inline_embed_id: 53042838cardinality99050396
 parent_uid: 7b14af4d984597ad410998ecc9fb9f71
+related_resources_text: ''
+short_url: cardinality
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/cardinality
-short_url: cardinality
-inline_embed_id: 53042838cardinality99050396
-about_this_resource_text: ''
-related_resources_text: ''
+title: Cardinality
 transcript: >-
   <p><span m='390'>PROFESSOR: Cardinality</span> <span m='1510'>is</span> <span
   m='1950'>the</span> <span m='2029'>word</span> <span m='2330'>that's</span>
@@ -968,67 +1028,7 @@ transcript: >-
   m='772300'>way</span> <span m='772540'>without</span> <span
   m='772820'>necessarily</span> <span m='773470'>having</span> <span
   m='773770'>a</span> <span m='773820'>formula.</span> </p>
-embedded_media:
-  - uid: dc997c40c22515bd921550b2c89a3373
-    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 08580a8fdf353515f3284d207c707d28
-    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 9288d85d98fe83a47b46a87b05366ab4
-    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QzSCf62kzjE
-  - uid: 9ce888cfba7b637fd116b01c65a7771a
-    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QzSCf62kzjE/default.jpg'
-  - uid: 19a8263a2393e926f5d0f1971765f2ef
-    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QzSCf62kzjE
-  - uid: 15f1add3bef6eaf60b1cfefd48e8de07
-    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
-    id: QzSCf62kzjE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/cardinality/QzSCf62kzjE.srt
-  - uid: d7af2ffda77403442f88275cd4b30c9b
-    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
-    id: QzSCf62kzjE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/cardinality/QzSCf62kzjE.pdf
-  - uid: 1015e36c1138958be0b86a159b2d92d4
-    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b6dfdaa2af2501ef14671a58e9cb3b1e
-    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6adba25569e19d4764edfb2acfc17643
-    parent_uid: c2ca270d0bb3aaf664bff6334eac04a0
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_cardinality_ipod.mp4
+uid: c2ca270d0bb3aaf664bff6334eac04a0
 type: courses
 layout: video
 ---

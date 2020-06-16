@@ -1,13 +1,73 @@
 ---
-title: Infinite square well energy eigenstates
-uid: effa3d077d964f6743c186109ca8cdd7
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: gMHkf-107Sw
+    parent_uid: effa3d077d964f6743c186109ca8cdd7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4f788d5f94f190c6839ae12b0ad56bca
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/b3IAj8ytDFw/default.jpg'
+    parent_uid: effa3d077d964f6743c186109ca8cdd7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3437f19cd9d634745a305e7c717bbea5
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: gMHkf-107Sw
+    parent_uid: effa3d077d964f6743c186109ca8cdd7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f21670fb5d3e55ce6584a3235d6cc62e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: effa3d077d964f6743c186109ca8cdd7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 769a6efdabc6ba3399405993f314617f
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec11_s2_300k.mp4'
+    parent_uid: effa3d077d964f6743c186109ca8cdd7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 99181250981f29e3bd13d87a237d1a37
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/gMHkf-107Sw/default.jpg'
+    parent_uid: effa3d077d964f6743c186109ca8cdd7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9233c51ff2e54256885134af26d40a10
+  - id: gMHkf-107Sw.srt
+    parent_uid: effa3d077d964f6743c186109ca8cdd7
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/infinite-square-well-energy-eigenstates/gMHkf-107Sw.srt
+    title: 3play caption file
+    type: null
+    uid: 3728a0b28bd4595752951a94b5a256d4
+  - id: gMHkf-107Sw.pdf
+    parent_uid: effa3d077d964f6743c186109ca8cdd7
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/infinite-square-well-energy-eigenstates/gMHkf-107Sw.pdf
+    title: 3play pdf file
+    type: null
+    uid: f8dc623c8ee5b176d89bc9e91ffc599b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: effa3d077d964f6743c186109ca8cdd7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2dd4fca527c89761fe7a4550b70d83ac
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: effa3d077d964f6743c186109ca8cdd7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f2dd55030a1a21770046a0486bb2f9ba
+inline_embed_id: 55115956infinitesquarewellenergyeigenstates13786187
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: infinite-square-well-energy-eigenstates
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/infinite-square-well-energy-eigenstates
-short_url: infinite-square-well-energy-eigenstates
-inline_embed_id: 55115956infinitesquarewellenergyeigenstates13786187
-about_this_resource_text: ''
-related_resources_text: ''
+title: Infinite square well energy eigenstates
 transcript: >-
   <p><span m='4212'>PROFESSOR:</span> <span m='4446'>Square</span> <span
   m='7020'>well.</span> <span m='9790'>So</span> <span m='10000'>what</span>
@@ -585,67 +645,7 @@ transcript: >-
   m='792420'>are</span> <span m='792540'>going</span> <span m='792720'>to</span>
   <span m='792810'>be</span> <span m='793860'>very</span> <span
   m='794280'>relevant</span> <span m='794580'>soon.</span> </p>
-embedded_media:
-  - uid: 4f788d5f94f190c6839ae12b0ad56bca
-    parent_uid: effa3d077d964f6743c186109ca8cdd7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: gMHkf-107Sw
-  - uid: 3437f19cd9d634745a305e7c717bbea5
-    parent_uid: effa3d077d964f6743c186109ca8cdd7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/b3IAj8ytDFw/default.jpg'
-  - uid: f21670fb5d3e55ce6584a3235d6cc62e
-    parent_uid: effa3d077d964f6743c186109ca8cdd7
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: gMHkf-107Sw
-  - uid: 769a6efdabc6ba3399405993f314617f
-    parent_uid: effa3d077d964f6743c186109ca8cdd7
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 99181250981f29e3bd13d87a237d1a37
-    parent_uid: effa3d077d964f6743c186109ca8cdd7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec11_s2_300k.mp4'
-  - uid: 9233c51ff2e54256885134af26d40a10
-    parent_uid: effa3d077d964f6743c186109ca8cdd7
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/gMHkf-107Sw/default.jpg'
-  - uid: 3728a0b28bd4595752951a94b5a256d4
-    parent_uid: effa3d077d964f6743c186109ca8cdd7
-    id: gMHkf-107Sw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/infinite-square-well-energy-eigenstates/gMHkf-107Sw.srt
-  - uid: f8dc623c8ee5b176d89bc9e91ffc599b
-    parent_uid: effa3d077d964f6743c186109ca8cdd7
-    id: gMHkf-107Sw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/infinite-square-well-energy-eigenstates/gMHkf-107Sw.pdf
-  - uid: 2dd4fca527c89761fe7a4550b70d83ac
-    parent_uid: effa3d077d964f6743c186109ca8cdd7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f2dd55030a1a21770046a0486bb2f9ba
-    parent_uid: effa3d077d964f6743c186109ca8cdd7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: effa3d077d964f6743c186109ca8cdd7
 type: courses
 layout: video
 ---

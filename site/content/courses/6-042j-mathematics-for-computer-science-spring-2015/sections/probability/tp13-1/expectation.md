@@ -1,13 +1,73 @@
 ---
-title: Expectation
-uid: 43fb2ad78788cad331453ae01d48cfbb
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 5812d41002210ba9399b3fc59bf03c07
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1175308fce35db14e958a8cfcc2b75da
+  - id: Video-YouTube-Stream
+    media_location: YVQdVzSkcmQ
+    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a9bd19cca8356864bd0b5d6c9641c28d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/YVQdVzSkcmQ/default.jpg'
+    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 19bd501176e0a8d0cac502db4d3b699a
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: YVQdVzSkcmQ
+    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5d5632c72202ac31298b0f6f59c4e274
+  - id: YVQdVzSkcmQ.srt
+    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/expectation/YVQdVzSkcmQ.srt
+    title: 3play caption file
+    type: null
+    uid: 90b97ceab85d7d024f448f1f9b907e62
+  - id: YVQdVzSkcmQ.pdf
+    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/expectation/YVQdVzSkcmQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1cac348f603760586caf62a85e5a72c2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ca627acb3995fd975dfac7800ddfabd0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 88a4cd1aaa9e590c7aa63aa271518b97
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_expectintro_video_ipod.mp4
+    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 077f0bc74ab1ffbe8a98a05b3606fd5b
+inline_embed_id: 41720604expectation54785847
 parent_uid: 025c498f3f5e1c53924f7e40eb06a220
+related_resources_text: ''
+short_url: expectation
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/expectation
-short_url: expectation
-inline_embed_id: 41720604expectation54785847
-about_this_resource_text: ''
-related_resources_text: ''
+title: Expectation
 transcript: >-
   <p><span m='450'>PROFESSOR:</span> <span m='900'>We</span> <span
   m='1090'>ask</span> <span m='1330'>about</span> <span m='1560'>averages</span>
@@ -1379,67 +1439,7 @@ transcript: >-
   m='1130610'>it</span> <span m='1130690'>up</span> <span m='1131180'>and</span>
   <span m='1131370'>think</span> <span m='1131570'>about</span> <span
   m='1131870'>it.</span> </p>
-embedded_media:
-  - uid: 5812d41002210ba9399b3fc59bf03c07
-    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 1175308fce35db14e958a8cfcc2b75da
-    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: a9bd19cca8356864bd0b5d6c9641c28d
-    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: YVQdVzSkcmQ
-  - uid: 19bd501176e0a8d0cac502db4d3b699a
-    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/YVQdVzSkcmQ/default.jpg'
-  - uid: 5d5632c72202ac31298b0f6f59c4e274
-    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: YVQdVzSkcmQ
-  - uid: 90b97ceab85d7d024f448f1f9b907e62
-    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
-    id: YVQdVzSkcmQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/expectation/YVQdVzSkcmQ.srt
-  - uid: 1cac348f603760586caf62a85e5a72c2
-    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
-    id: YVQdVzSkcmQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/expectation/YVQdVzSkcmQ.pdf
-  - uid: ca627acb3995fd975dfac7800ddfabd0
-    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 88a4cd1aaa9e590c7aa63aa271518b97
-    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 077f0bc74ab1ffbe8a98a05b3606fd5b
-    parent_uid: 43fb2ad78788cad331453ae01d48cfbb
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_expectintro_video_ipod.mp4
+uid: 43fb2ad78788cad331453ae01d48cfbb
 type: courses
 layout: video
 ---

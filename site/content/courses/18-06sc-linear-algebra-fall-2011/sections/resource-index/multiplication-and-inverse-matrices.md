@@ -1,13 +1,67 @@
 ---
-title: Multiplication and Inverse Matrices
-uid: 30e3b4158e94316b632e135b2aa1a451
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: FX4C-JpTFgY
+    parent_uid: 30e3b4158e94316b632e135b2aa1a451
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b7510981fa11244de3163f511a97476e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/FX4C-JpTFgY/default.jpg'
+    parent_uid: 30e3b4158e94316b632e135b2aa1a451
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a1a91bdfedbeacdc55ae8786849c434b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 30e3b4158e94316b632e135b2aa1a451
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a15936c4be73f351de17d19d08f5b981
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/03.mp4'
+    parent_uid: 30e3b4158e94316b632e135b2aa1a451
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7810c4aff4093eb8e76f249336880539
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: FX4C-JpTFgY
+    parent_uid: 30e3b4158e94316b632e135b2aa1a451
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ffff7ae490ce9975a8382ac8442c3b66
+  - id: FX4C-JpTFgY.srt
+    parent_uid: 30e3b4158e94316b632e135b2aa1a451
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/multiplication-and-inverse-matrices/FX4C-JpTFgY.srt
+    title: 3play caption file
+    type: null
+    uid: 2182264cf61cc229b2bbde2330378d44
+  - id: FX4C-JpTFgY.pdf
+    parent_uid: 30e3b4158e94316b632e135b2aa1a451
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/multiplication-and-inverse-matrices/FX4C-JpTFgY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8cba30ba0cd34e1aab31b20b3237de97
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 30e3b4158e94316b632e135b2aa1a451
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 721ff83487551b5fed4ecd69741ef033
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 30e3b4158e94316b632e135b2aa1a451
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 149f4ba6374cdc3a45847d601cda3ee6
+inline_embed_id: 44293511multiplicationandinversematrices59474096
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: multiplication-and-inverse-matrices
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/multiplication-and-inverse-matrices
-short_url: multiplication-and-inverse-matrices
-inline_embed_id: 44293511multiplicationandinversematrices59474096
-about_this_resource_text: ''
-related_resources_text: ''
+title: Multiplication and Inverse Matrices
 transcript: >-
   <p><span m="8160">I've</span> <span m="8530">been</span> <span
   m="12110">multiplying</span> <span m="12670">matrices</span> <span
@@ -2551,61 +2605,7 @@ transcript: >-
   m="2790920">Okay,</span> <span m="2791790">thanks.</span></p><p><span
   m="2792740">See</span> <span m="2792840">you</span> <span
   m="2792950">on</span> <span m="2793090">Wednesday.</span></p>
-embedded_media:
-  - uid: b7510981fa11244de3163f511a97476e
-    parent_uid: 30e3b4158e94316b632e135b2aa1a451
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: FX4C-JpTFgY
-  - uid: a1a91bdfedbeacdc55ae8786849c434b
-    parent_uid: 30e3b4158e94316b632e135b2aa1a451
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FX4C-JpTFgY/default.jpg'
-  - uid: a15936c4be73f351de17d19d08f5b981
-    parent_uid: 30e3b4158e94316b632e135b2aa1a451
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 7810c4aff4093eb8e76f249336880539
-    parent_uid: 30e3b4158e94316b632e135b2aa1a451
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/03.mp4'
-  - uid: ffff7ae490ce9975a8382ac8442c3b66
-    parent_uid: 30e3b4158e94316b632e135b2aa1a451
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: FX4C-JpTFgY
-  - uid: 2182264cf61cc229b2bbde2330378d44
-    parent_uid: 30e3b4158e94316b632e135b2aa1a451
-    id: FX4C-JpTFgY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/multiplication-and-inverse-matrices/FX4C-JpTFgY.srt
-  - uid: 8cba30ba0cd34e1aab31b20b3237de97
-    parent_uid: 30e3b4158e94316b632e135b2aa1a451
-    id: FX4C-JpTFgY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/multiplication-and-inverse-matrices/FX4C-JpTFgY.pdf
-  - uid: 721ff83487551b5fed4ecd69741ef033
-    parent_uid: 30e3b4158e94316b632e135b2aa1a451
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 149f4ba6374cdc3a45847d601cda3ee6
-    parent_uid: 30e3b4158e94316b632e135b2aa1a451
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 30e3b4158e94316b632e135b2aa1a451
 type: courses
 layout: video
 ---

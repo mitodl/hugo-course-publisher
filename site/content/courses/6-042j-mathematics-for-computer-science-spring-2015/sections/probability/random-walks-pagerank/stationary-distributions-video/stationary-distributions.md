@@ -1,13 +1,73 @@
 ---
-title: Stationary Distributions
-uid: cd94c07f582fe3cfe01344ee872b8f3d
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 4ece38602fda25a1fc1f5022ffedb7d2
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c28f0e44a2ef2a7a0dde8b2c5637dae4
+  - id: Video-YouTube-Stream
+    media_location: iZX8WEGZTVw
+    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ab7f3a543f253fb73242e65c2e60cc5c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/iZX8WEGZTVw/default.jpg'
+    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e9434b608bcd8c2cbd5433b1fa45bcba
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: iZX8WEGZTVw
+    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c7c84ffa81ec93b225f83a43fbc6029d
+  - id: iZX8WEGZTVw.srt
+    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank/stationary-distributions-video/stationary-distributions/iZX8WEGZTVw.srt
+    title: 3play caption file
+    type: null
+    uid: 52b6e6bd2932ba26dc54db536bc1a920
+  - id: iZX8WEGZTVw.pdf
+    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank/stationary-distributions-video/stationary-distributions/iZX8WEGZTVw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 269a2925f6182e36badeff0ec6c2548a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 658dc2a8f0a8167fde4a2cec169e0956
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: cd6c06fd4e4da285b5ed4f402587ddac
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_stable_distribution_ipod.mp4
+    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8474c6f3649aead1a02f7c3eb84c81f3
+inline_embed_id: 93257355stationarydistributions51393476
 parent_uid: 543c714fd5158fb86cde0a76b4d8446c
+related_resources_text: ''
+short_url: stationary-distributions
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank/stationary-distributions-video/stationary-distributions
-short_url: stationary-distributions
-inline_embed_id: 93257355stationarydistributions51393476
-about_this_resource_text: ''
-related_resources_text: ''
+title: Stationary Distributions
 transcript: >-
   <p><span m='360'>PROFESSOR: So</span> <span m='560'>some</span> <span
   m='810'>of</span> <span m='920'>the</span> <span m='1000'>standard</span>
@@ -1131,67 +1191,7 @@ transcript: >-
   m='957620'>varies</span> <span m='958860'>depending</span> <span
   m='959320'>on</span> <span m='959440'>the</span> <span
   m='959530'>graph.</span> </p>
-embedded_media:
-  - uid: 4ece38602fda25a1fc1f5022ffedb7d2
-    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: c28f0e44a2ef2a7a0dde8b2c5637dae4
-    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: ab7f3a543f253fb73242e65c2e60cc5c
-    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: iZX8WEGZTVw
-  - uid: e9434b608bcd8c2cbd5433b1fa45bcba
-    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/iZX8WEGZTVw/default.jpg'
-  - uid: c7c84ffa81ec93b225f83a43fbc6029d
-    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: iZX8WEGZTVw
-  - uid: 52b6e6bd2932ba26dc54db536bc1a920
-    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
-    id: iZX8WEGZTVw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank/stationary-distributions-video/stationary-distributions/iZX8WEGZTVw.srt
-  - uid: 269a2925f6182e36badeff0ec6c2548a
-    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
-    id: iZX8WEGZTVw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank/stationary-distributions-video/stationary-distributions/iZX8WEGZTVw.pdf
-  - uid: 658dc2a8f0a8167fde4a2cec169e0956
-    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: cd6c06fd4e4da285b5ed4f402587ddac
-    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8474c6f3649aead1a02f7c3eb84c81f3
-    parent_uid: cd94c07f582fe3cfe01344ee872b8f3d
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_stable_distribution_ipod.mp4
+uid: cd94c07f582fe3cfe01344ee872b8f3d
 type: courses
 layout: video
 ---

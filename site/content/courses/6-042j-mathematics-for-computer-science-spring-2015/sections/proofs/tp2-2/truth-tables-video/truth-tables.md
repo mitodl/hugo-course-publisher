@@ -1,13 +1,73 @@
 ---
-title: Truth Tables
-uid: 3e9466cef6a2ef9246fec25f3265afbe
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 746b3d655bcb4717c6534927608eadcd
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5b9681ccfe1051acb31bc3b31fa36ab2
+  - id: Video-YouTube-Stream
+    media_location: _3WDzxt5p8c
+    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7e676e5087a0acc2f0f27ef5f0e0942e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/_3WDzxt5p8c/default.jpg'
+    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 68b34095b368b8f85e110ea80419e49e
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: _3WDzxt5p8c
+    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7b0299499ce6030f9d9e4aba6b1a0ad4
+  - id: 3WDzxt5p8c.srt
+    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/truth-tables-video/truth-tables/3WDzxt5p8c.srt
+    title: 3play caption file
+    type: null
+    uid: c4a0ef1b3858bf041651effc7bd16199
+  - id: 3WDzxt5p8c.pdf
+    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/truth-tables-video/truth-tables/3WDzxt5p8c.pdf
+    title: 3play pdf file
+    type: null
+    uid: cfe7a2ccc2589d78ec370b2b6038492d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 20dbe41813094a8768ece9174512ba2d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 32d8e8fbc5a636013ad608ba9d31281a
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_truth_tables_ipod.mp4
+    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7121b18d35649cecb5a6a6493c8d9198
+inline_embed_id: 83836010truthtables64626639
 parent_uid: 3dc85d2964027d254560f6c2d785769f
+related_resources_text: ''
+short_url: truth-tables
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/truth-tables-video/truth-tables
-short_url: truth-tables
-inline_embed_id: 83836010truthtables64626639
-about_this_resource_text: ''
-related_resources_text: ''
+title: Truth Tables
 transcript: >-
   <p><span m='870'>PROFESSOR: Just</span> <span m='1150'>as</span> <span
   m='1300'>truth</span> <span m='1570'>tables</span> <span
@@ -1014,67 +1074,7 @@ transcript: >-
   <span m='774170'>this</span> <span m='774420'>problem</span> <span
   m='774920'>is</span> <span m='775070'>so</span> <span
   m='775300'>important.</span> </p>
-embedded_media:
-  - uid: 746b3d655bcb4717c6534927608eadcd
-    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 5b9681ccfe1051acb31bc3b31fa36ab2
-    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 7e676e5087a0acc2f0f27ef5f0e0942e
-    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: _3WDzxt5p8c
-  - uid: 68b34095b368b8f85e110ea80419e49e
-    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/_3WDzxt5p8c/default.jpg'
-  - uid: 7b0299499ce6030f9d9e4aba6b1a0ad4
-    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: _3WDzxt5p8c
-  - uid: c4a0ef1b3858bf041651effc7bd16199
-    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
-    id: 3WDzxt5p8c.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/truth-tables-video/truth-tables/3WDzxt5p8c.srt
-  - uid: cfe7a2ccc2589d78ec370b2b6038492d
-    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
-    id: 3WDzxt5p8c.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/truth-tables-video/truth-tables/3WDzxt5p8c.pdf
-  - uid: 20dbe41813094a8768ece9174512ba2d
-    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 32d8e8fbc5a636013ad608ba9d31281a
-    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 7121b18d35649cecb5a6a6493c8d9198
-    parent_uid: 3e9466cef6a2ef9246fec25f3265afbe
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_truth_tables_ipod.mp4
+uid: 3e9466cef6a2ef9246fec25f3265afbe
 type: courses
 layout: video
 ---

@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Determinants and Volume'
-uid: f6e781f0de7c94d0b9cec28358af07e2
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: qEBi0K5wfOs
+    parent_uid: f6e781f0de7c94d0b9cec28358af07e2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a5881de791d9ab1f02a812bdf795cc72
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: qEBi0K5wfOs
+    parent_uid: f6e781f0de7c94d0b9cec28358af07e2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9b259c81766ef96818471eacbf3f5cbd
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/gram-schmidt-orthogonalization/id488155309?i=108454352
+    parent_uid: f6e781f0de7c94d0b9cec28358af07e2
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c7accd73bceba363bd588569c2fa6572
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110609_L4_300k.mp4
+    parent_uid: f6e781f0de7c94d0b9cec28358af07e2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8c25dc5bddbad145b9feb6220b129a0d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/qEBi0K5wfOs/default.jpg'
+    parent_uid: f6e781f0de7c94d0b9cec28358af07e2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3d9f7680ff8ca8e8957bc6e27f229f8f
+  - id: qEBi0K5wfOs.srt
+    parent_uid: f6e781f0de7c94d0b9cec28358af07e2
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/problem-solving-determinants-and-volume/qEBi0K5wfOs.srt
+    title: 3play caption file
+    type: null
+    uid: 714283506c0eadd0a7ccd8aa6bdc4f82
+  - id: qEBi0K5wfOs.pdf
+    parent_uid: f6e781f0de7c94d0b9cec28358af07e2
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/problem-solving-determinants-and-volume/qEBi0K5wfOs.pdf
+    title: 3play pdf file
+    type: null
+    uid: ebbf9697dc8dd2c5dcb46065c13f9876
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f6e781f0de7c94d0b9cec28358af07e2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2d31bf8491a69a00b9617ba68ed3508f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f6e781f0de7c94d0b9cec28358af07e2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 81a609af7626e87385bb02c403ee7ae5
+inline_embed_id: '77744357problemsolving:determinantsandvolume36950161'
 parent_uid: 86cb2711cb7c431342dec1540dfe8ce2
+related_resources_text: ''
+short_url: problem-solving-determinants-and-volume
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/problem-solving-determinants-and-volume
-short_url: problem-solving-determinants-and-volume
-inline_embed_id: '77744357problemsolving:determinantsandvolume36950161'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Determinants and Volume'
 transcript: >-
   <p><span m='7080'>LINAN CHEN: Hello.</span> <span m='7780'>Welcome</span>
   <span m='8260'>back</span> <span m='8440'>to</span> <span
@@ -725,63 +781,7 @@ transcript: >-
   m='825560'>looking</span> <span m='825890'>forward</span> <span
   m='826290'>to</span> <span m='826380'>seeing</span> <span
   m='826680'>you</span> <span m='826840'>soon.</span> </p>
-embedded_media:
-  - uid: a5881de791d9ab1f02a812bdf795cc72
-    parent_uid: f6e781f0de7c94d0b9cec28358af07e2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: qEBi0K5wfOs
-  - uid: 9b259c81766ef96818471eacbf3f5cbd
-    parent_uid: f6e781f0de7c94d0b9cec28358af07e2
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: qEBi0K5wfOs
-  - uid: c7accd73bceba363bd588569c2fa6572
-    parent_uid: f6e781f0de7c94d0b9cec28358af07e2
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/gram-schmidt-orthogonalization/id488155309?i=108454352
-  - uid: 8c25dc5bddbad145b9feb6220b129a0d
-    parent_uid: f6e781f0de7c94d0b9cec28358af07e2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110609_L4_300k.mp4
-  - uid: 3d9f7680ff8ca8e8957bc6e27f229f8f
-    parent_uid: f6e781f0de7c94d0b9cec28358af07e2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/qEBi0K5wfOs/default.jpg'
-  - uid: 714283506c0eadd0a7ccd8aa6bdc4f82
-    parent_uid: f6e781f0de7c94d0b9cec28358af07e2
-    id: qEBi0K5wfOs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/problem-solving-determinants-and-volume/qEBi0K5wfOs.srt
-  - uid: ebbf9697dc8dd2c5dcb46065c13f9876
-    parent_uid: f6e781f0de7c94d0b9cec28358af07e2
-    id: qEBi0K5wfOs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/problem-solving-determinants-and-volume/qEBi0K5wfOs.pdf
-  - uid: 2d31bf8491a69a00b9617ba68ed3508f
-    parent_uid: f6e781f0de7c94d0b9cec28358af07e2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 81a609af7626e87385bb02c403ee7ae5
-    parent_uid: f6e781f0de7c94d0b9cec28358af07e2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f6e781f0de7c94d0b9cec28358af07e2
 type: courses
 layout: video
 ---

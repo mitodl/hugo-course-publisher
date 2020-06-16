@@ -1,15 +1,69 @@
 ---
-title: 'Recitation 11: Cryptography: More Primitives'
-uid: bacbfc2882416b8008c96c300030e6b1
-parent_uid: 8c671299aae36eba669ca13490c21dec
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-11-cryptography-more-primitives
-short_url: recitation-11-cryptography-more-primitives
-inline_embed_id: '61530954recitation11:cryptography:moreprimitives95089154'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this recitation, problems related to
   cryptography are discussed.</p> <p><strong>Instructors:</strong> Ling Ren</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ZLOhV4XQ_tI
+    parent_uid: bacbfc2882416b8008c96c300030e6b1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 73276c3bfed7d10623a346d0518ae0bf
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ZLOhV4XQ_tI/default.jpg'
+    parent_uid: bacbfc2882416b8008c96c300030e6b1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b8a0012f55415786c1a3ba0040cbc286
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: ZLOhV4XQ_tI
+    parent_uid: bacbfc2882416b8008c96c300030e6b1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: cc1eefcce55bf31cdd14a2035d01d58d
+  - id: ZLOhV4XQ_tI.srt
+    parent_uid: bacbfc2882416b8008c96c300030e6b1
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-11-cryptography-more-primitives/ZLOhV4XQ_tI.srt
+    title: 3play caption file
+    type: null
+    uid: ae596e65c0203dfa7c2072318808494a
+  - id: ZLOhV4XQ_tI.pdf
+    parent_uid: bacbfc2882416b8008c96c300030e6b1
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-11-cryptography-more-primitives/ZLOhV4XQ_tI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 286c129e521495051cb9a87e27d8870b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bacbfc2882416b8008c96c300030e6b1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ae60604bb93fb1f301ccdd92b01eab8f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bacbfc2882416b8008c96c300030e6b1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5ac3426aac5c4ea47cdb7f0259784b0b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: bacbfc2882416b8008c96c300030e6b1
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8a0c3bdeaad320118daee43f113ce643
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec11_300k.mp4'
+    parent_uid: bacbfc2882416b8008c96c300030e6b1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5b3334b596e31bb6d642f3164f954dad
+inline_embed_id: '61530954recitation11:cryptography:moreprimitives95089154'
+parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
+short_url: recitation-11-cryptography-more-primitives
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-11-cryptography-more-primitives
+title: 'Recitation 11: Cryptography: More Primitives'
 transcript: >-
   <p><span m="80">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -2242,61 +2296,7 @@ transcript: >-
   m="2961320">for</span> <span m="2961750">the</span> <span
   m="2961840">entire</span> <span m="2962060">semester.</span> <span
   m="2962660">Thank</span> <span m="2962960">you for participation.</span></p>
-embedded_media:
-  - uid: 73276c3bfed7d10623a346d0518ae0bf
-    parent_uid: bacbfc2882416b8008c96c300030e6b1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ZLOhV4XQ_tI
-  - uid: b8a0012f55415786c1a3ba0040cbc286
-    parent_uid: bacbfc2882416b8008c96c300030e6b1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ZLOhV4XQ_tI/default.jpg'
-  - uid: cc1eefcce55bf31cdd14a2035d01d58d
-    parent_uid: bacbfc2882416b8008c96c300030e6b1
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ZLOhV4XQ_tI
-  - uid: ae596e65c0203dfa7c2072318808494a
-    parent_uid: bacbfc2882416b8008c96c300030e6b1
-    id: ZLOhV4XQ_tI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-11-cryptography-more-primitives/ZLOhV4XQ_tI.srt
-  - uid: 286c129e521495051cb9a87e27d8870b
-    parent_uid: bacbfc2882416b8008c96c300030e6b1
-    id: ZLOhV4XQ_tI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-11-cryptography-more-primitives/ZLOhV4XQ_tI.pdf
-  - uid: ae60604bb93fb1f301ccdd92b01eab8f
-    parent_uid: bacbfc2882416b8008c96c300030e6b1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5ac3426aac5c4ea47cdb7f0259784b0b
-    parent_uid: bacbfc2882416b8008c96c300030e6b1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8a0c3bdeaad320118daee43f113ce643
-    parent_uid: bacbfc2882416b8008c96c300030e6b1
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 5b3334b596e31bb6d642f3164f954dad
-    parent_uid: bacbfc2882416b8008c96c300030e6b1
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec11_300k.mp4'
+uid: bacbfc2882416b8008c96c300030e6b1
 type: courses
 layout: video
 ---

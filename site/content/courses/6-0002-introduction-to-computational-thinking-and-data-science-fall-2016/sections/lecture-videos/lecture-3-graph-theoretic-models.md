@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 3: Graph-theoretic Models'
-uid: 431866cb6257af1d5dea3179ee284715
-parent_uid: dfe2b9f5ab127795415ac86facf4a535
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-3-graph-theoretic-models
-short_url: lecture-3-graph-theoretic-models
-inline_embed_id: 90360945lecture3graphtheoreticmodels43245324
 about_this_resource_text: >-
   <p><strong>Description:</strong> Prof. Grimson discusses graph models and
   depth-first and breadth-first search algorithms.</p>
   <p><strong>Instructor:</strong> Eric Grimson</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: V_TulH374hw
+    parent_uid: 431866cb6257af1d5dea3179ee284715
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8a6da1327ae1bf648a8e0f21bd60c122
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/V_TulH374hw/default.jpg'
+    parent_uid: 431866cb6257af1d5dea3179ee284715
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a983efaf13f25378f7895f98424fc819
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: V_TulH374hw
+    parent_uid: 431866cb6257af1d5dea3179ee284715
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 08eee66713ee3fb4723db2a6e7aafb29
+  - id: V_TulH374hw.srt
+    parent_uid: 431866cb6257af1d5dea3179ee284715
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-3-graph-theoretic-models/V_TulH374hw.srt
+    title: 3play caption file
+    type: null
+    uid: 0b1a525047ee074368bab12031b1a41b
+  - id: V_TulH374hw.pdf
+    parent_uid: 431866cb6257af1d5dea3179ee284715
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-3-graph-theoretic-models/V_TulH374hw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6d7386392e8349068141a7c2df2dead9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 431866cb6257af1d5dea3179ee284715
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 970afcfb9e5bf6df8c18d0143b6e318a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 431866cb6257af1d5dea3179ee284715
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: db9d2d4be516baed33a48c0406ad3e17
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
+    parent_uid: 431866cb6257af1d5dea3179ee284715
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 66be898869a40dc0143519e3aac9d736
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec03_300k.mp4'
+    parent_uid: 431866cb6257af1d5dea3179ee284715
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 53c3f726a9c455dcd650a9bca8e974a8
+inline_embed_id: 90360945lecture3graphtheoreticmodels43245324
+parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
+short_url: lecture-3-graph-theoretic-models
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-3-graph-theoretic-models
+title: 'Lecture 3: Graph-theoretic Models'
 transcript: >-
   <p><span m='790'>The</span> <span m='880'>following</span> <span
   m='1330'>content</span> <span m='1810'>is</span> <span
@@ -4394,61 +4448,7 @@ transcript: >-
   m='3001270'>we'll</span> <span m='3001390'>see</span> <span
   m='3001570'>you</span> <span m='3001630'>next</span> <span
   m='3001870'>time.</span> </p>
-embedded_media:
-  - uid: 8a6da1327ae1bf648a8e0f21bd60c122
-    parent_uid: 431866cb6257af1d5dea3179ee284715
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: V_TulH374hw
-  - uid: a983efaf13f25378f7895f98424fc819
-    parent_uid: 431866cb6257af1d5dea3179ee284715
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/V_TulH374hw/default.jpg'
-  - uid: 08eee66713ee3fb4723db2a6e7aafb29
-    parent_uid: 431866cb6257af1d5dea3179ee284715
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: V_TulH374hw
-  - uid: 0b1a525047ee074368bab12031b1a41b
-    parent_uid: 431866cb6257af1d5dea3179ee284715
-    id: V_TulH374hw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-3-graph-theoretic-models/V_TulH374hw.srt
-  - uid: 6d7386392e8349068141a7c2df2dead9
-    parent_uid: 431866cb6257af1d5dea3179ee284715
-    id: V_TulH374hw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-3-graph-theoretic-models/V_TulH374hw.pdf
-  - uid: 970afcfb9e5bf6df8c18d0143b6e318a
-    parent_uid: 431866cb6257af1d5dea3179ee284715
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: db9d2d4be516baed33a48c0406ad3e17
-    parent_uid: 431866cb6257af1d5dea3179ee284715
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 66be898869a40dc0143519e3aac9d736
-    parent_uid: 431866cb6257af1d5dea3179ee284715
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
-  - uid: 53c3f726a9c455dcd650a9bca8e974a8
-    parent_uid: 431866cb6257af1d5dea3179ee284715
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec03_300k.mp4'
+uid: 431866cb6257af1d5dea3179ee284715
 type: courses
 layout: video
 ---

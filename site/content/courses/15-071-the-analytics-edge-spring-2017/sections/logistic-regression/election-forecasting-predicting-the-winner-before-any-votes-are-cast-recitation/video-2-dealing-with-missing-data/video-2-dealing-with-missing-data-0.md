@@ -1,13 +1,62 @@
 ---
-title: 'Video 2: Dealing with Missing Data'
-uid: 79124d3386ea21b34c77d47f604a52a8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: isTQo2B_1Ng
+    parent_uid: 79124d3386ea21b34c77d47f604a52a8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f93ec5d3e8b3388bd2ba7fc7c6b264ee
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: isTQo2B_1Ng
+    parent_uid: 79124d3386ea21b34c77d47f604a52a8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e86879f08bfd3c8d0e29cfc66409ef93
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/isTQo2B_1Ng/default.jpg'
+    parent_uid: 79124d3386ea21b34c77d47f604a52a8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5991a47bf4624800386805048363b090
+  - id: isTQo2B_1Ng.srt
+    parent_uid: 79124d3386ea21b34c77d47f604a52a8
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-2-dealing-with-missing-data/video-2-dealing-with-missing-data-0/isTQo2B_1Ng.srt
+    title: 3play caption file
+    type: null
+    uid: 75a8785b65174ddf2f88d36487cd3f09
+  - id: isTQo2B_1Ng.pdf
+    parent_uid: 79124d3386ea21b34c77d47f604a52a8
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-2-dealing-with-missing-data/video-2-dealing-with-missing-data-0/isTQo2B_1Ng.pdf
+    title: 3play pdf file
+    type: null
+    uid: a0f9de1129fe7663d0100a512fd5446a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 79124d3386ea21b34c77d47f604a52a8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f064d678506e857b5aa3d296652ac140
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 79124d3386ea21b34c77d47f604a52a8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9f9ca2a1aea5f68e04f1634c9a72e9ca
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.4.03_300k.mp4
+    parent_uid: 79124d3386ea21b34c77d47f604a52a8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ef899401665ab5429d8fb2b9a8b53bae
+inline_embed_id: 75511773video2dealingwithmissingdata60970853
 parent_uid: 43791d3a19abd5be349137c83ceb6676
+related_resources_text: ''
+short_url: video-2-dealing-with-missing-data-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-2-dealing-with-missing-data/video-2-dealing-with-missing-data-0
-short_url: video-2-dealing-with-missing-data-0
-inline_embed_id: 75511773video2dealingwithmissingdata60970853
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 2: Dealing with Missing Data'
 transcript: >-
   <p><span m='4500'>As</span> <span m='4739'>usual,</span> <span
   m='4978'>we</span> <span m='5217'>will</span> <span m='5456'>start</span>
@@ -513,56 +562,7 @@ transcript: >-
   m='430860'>are</span> <span m='431320'>no</span> <span
   m='431780'>longer</span> <span m='432240'>missing</span> <span
   m='432700'>values.</span> </p>
-embedded_media:
-  - uid: f93ec5d3e8b3388bd2ba7fc7c6b264ee
-    parent_uid: 79124d3386ea21b34c77d47f604a52a8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: isTQo2B_1Ng
-  - uid: e86879f08bfd3c8d0e29cfc66409ef93
-    parent_uid: 79124d3386ea21b34c77d47f604a52a8
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: isTQo2B_1Ng
-  - uid: 5991a47bf4624800386805048363b090
-    parent_uid: 79124d3386ea21b34c77d47f604a52a8
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/isTQo2B_1Ng/default.jpg'
-  - uid: 75a8785b65174ddf2f88d36487cd3f09
-    parent_uid: 79124d3386ea21b34c77d47f604a52a8
-    id: isTQo2B_1Ng.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-2-dealing-with-missing-data/video-2-dealing-with-missing-data-0/isTQo2B_1Ng.srt
-  - uid: a0f9de1129fe7663d0100a512fd5446a
-    parent_uid: 79124d3386ea21b34c77d47f604a52a8
-    id: isTQo2B_1Ng.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-2-dealing-with-missing-data/video-2-dealing-with-missing-data-0/isTQo2B_1Ng.pdf
-  - uid: f064d678506e857b5aa3d296652ac140
-    parent_uid: 79124d3386ea21b34c77d47f604a52a8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9f9ca2a1aea5f68e04f1634c9a72e9ca
-    parent_uid: 79124d3386ea21b34c77d47f604a52a8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ef899401665ab5429d8fb2b9a8b53bae
-    parent_uid: 79124d3386ea21b34c77d47f604a52a8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.4.03_300k.mp4
+uid: 79124d3386ea21b34c77d47f604a52a8
 type: courses
 layout: video
 ---

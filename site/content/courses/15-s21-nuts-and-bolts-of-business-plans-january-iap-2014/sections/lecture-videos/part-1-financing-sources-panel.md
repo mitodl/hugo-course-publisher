@@ -1,15 +1,69 @@
 ---
-title: 'Session 3, Part 1: Financing Sources Panel'
-uid: 260053ae97993d412df9a6a6c2be9eec
-parent_uid: 7425dbab24bd40b9d0c0c704cab7eab2
-technical_location: >-
-  https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-1-financing-sources-panel
-short_url: part-1-financing-sources-panel
-inline_embed_id: '90927220part1:financingsourcespanel80891870'
 about_this_resource_text: >-
   <p><strong>Speakers:</strong> Axel Bichara, Amir Nashat, and Julianne
   Zimmerman</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 9upRT5T7drI
+    parent_uid: 260053ae97993d412df9a6a6c2be9eec
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d749222d51d91726281328af55194a7a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/9upRT5T7drI/default.jpg'
+    parent_uid: 260053ae97993d412df9a6a6c2be9eec
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4125993e76d92273bcac9f7c678f73d5
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 9upRT5T7drI
+    parent_uid: 260053ae97993d412df9a6a6c2be9eec
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 17b0c6259f0470ddf2d58d34c98f97a7
+  - id: 9upRT5T7drI.srt
+    parent_uid: 260053ae97993d412df9a6a6c2be9eec
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-1-financing-sources-panel/9upRT5T7drI.srt
+    title: 3play caption file
+    type: null
+    uid: 81ff51719be08f908b39b1d2734f33c3
+  - id: 9upRT5T7drI.pdf
+    parent_uid: 260053ae97993d412df9a6a6c2be9eec
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-1-financing-sources-panel/9upRT5T7drI.pdf
+    title: 3play pdf file
+    type: null
+    uid: d334403453f2046d233c28d020f68823
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 260053ae97993d412df9a6a6c2be9eec
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6be5df771c8deb85f8b36431496e8b34
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 260053ae97993d412df9a6a6c2be9eec
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 100e25b0b04d50c67d257c77f4547c3c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1122123562'
+    parent_uid: 260053ae97993d412df9a6a6c2be9eec
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 07c0b846cbfd9809c15125055d73b368
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT15.S21IAP14/MIT15_S21IAP14_S3P1_300k.mp4'
+    parent_uid: 260053ae97993d412df9a6a6c2be9eec
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6a3194e0be5d6788e8e39135413a9429
+inline_embed_id: '90927220part1:financingsourcespanel80891870'
+parent_uid: 7425dbab24bd40b9d0c0c704cab7eab2
 related_resources_text: ''
+short_url: part-1-financing-sources-panel
+technical_location: >-
+  https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-1-financing-sources-panel
+title: 'Session 3, Part 1: Financing Sources Panel'
 transcript: >-
   <p><span m='90'>The</span> <span m='170'>following</span> <span
   m='610'>content</span> <span m='1120'>is</span> <span m='1230'>provided</span>
@@ -5724,61 +5778,7 @@ transcript: >-
   m='5096350'>a</span> <span m='5096450'>chat.</span> <span
   m='5097560'>So</span> <span m='5097860'>thank</span> <span
   m='5098160'>you.</span> </p><p><span m='5098760'>[APPLAUSE]</span> </p><p></p>
-embedded_media:
-  - uid: d749222d51d91726281328af55194a7a
-    parent_uid: 260053ae97993d412df9a6a6c2be9eec
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 9upRT5T7drI
-  - uid: 4125993e76d92273bcac9f7c678f73d5
-    parent_uid: 260053ae97993d412df9a6a6c2be9eec
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9upRT5T7drI/default.jpg'
-  - uid: 17b0c6259f0470ddf2d58d34c98f97a7
-    parent_uid: 260053ae97993d412df9a6a6c2be9eec
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 9upRT5T7drI
-  - uid: 81ff51719be08f908b39b1d2734f33c3
-    parent_uid: 260053ae97993d412df9a6a6c2be9eec
-    id: 9upRT5T7drI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-1-financing-sources-panel/9upRT5T7drI.srt
-  - uid: d334403453f2046d233c28d020f68823
-    parent_uid: 260053ae97993d412df9a6a6c2be9eec
-    id: 9upRT5T7drI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-1-financing-sources-panel/9upRT5T7drI.pdf
-  - uid: 6be5df771c8deb85f8b36431496e8b34
-    parent_uid: 260053ae97993d412df9a6a6c2be9eec
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 100e25b0b04d50c67d257c77f4547c3c
-    parent_uid: 260053ae97993d412df9a6a6c2be9eec
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 07c0b846cbfd9809c15125055d73b368
-    parent_uid: 260053ae97993d412df9a6a6c2be9eec
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1122123562'
-  - uid: 6a3194e0be5d6788e8e39135413a9429
-    parent_uid: 260053ae97993d412df9a6a6c2be9eec
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT15.S21IAP14/MIT15_S21IAP14_S3P1_300k.mp4'
+uid: 260053ae97993d412df9a6a6c2be9eec
 type: courses
 layout: video
 ---

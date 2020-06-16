@@ -1,13 +1,73 @@
 ---
-title: Mutual Independence
-uid: 102ca7541081e73713c9f143aaed5615
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 102ca7541081e73713c9f143aaed5615
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: c054cb7ca3151e2a601103b6efddfc13
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 102ca7541081e73713c9f143aaed5615
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 575776baf2ff5de5bfeb933b4aa0a4c8
+  - id: Video-YouTube-Stream
+    media_location: wJzBU7Do1ls
+    parent_uid: 102ca7541081e73713c9f143aaed5615
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f72ead257b737dacb83f264c2c62c27f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/wJzBU7Do1ls/default.jpg'
+    parent_uid: 102ca7541081e73713c9f143aaed5615
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2bcb0e3800456a56f774b18a8d50ee47
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: wJzBU7Do1ls
+    parent_uid: 102ca7541081e73713c9f143aaed5615
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d427f7f61df4109a7bab52a8eb3c09ab
+  - id: wJzBU7Do1ls.srt
+    parent_uid: 102ca7541081e73713c9f143aaed5615
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-2/vertical-9c80216b7495/mutual-independence/wJzBU7Do1ls.srt
+    title: 3play caption file
+    type: null
+    uid: 0474ce8bf9b9a2c48759d4d28f107adb
+  - id: wJzBU7Do1ls.pdf
+    parent_uid: 102ca7541081e73713c9f143aaed5615
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-2/vertical-9c80216b7495/mutual-independence/wJzBU7Do1ls.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0ff05bf5e9e220c04f075f3014d38397
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 102ca7541081e73713c9f143aaed5615
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bb89c9a3ef88c281a9b356f0e128fa59
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 102ca7541081e73713c9f143aaed5615
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1b9b5c02f160b497d4b01134f3cd2a50
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_probmutual_video_ipod.mp4
+    parent_uid: 102ca7541081e73713c9f143aaed5615
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6cd0ca490239f54a7961200f75f6fedf
+inline_embed_id: 86389733mutualindependence3895175
 parent_uid: f81bc56ee84757d8215ce442f3d10bcc
+related_resources_text: ''
+short_url: mutual-independence
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-2/vertical-9c80216b7495/mutual-independence
-short_url: mutual-independence
-inline_embed_id: 86389733mutualindependence3895175
-about_this_resource_text: ''
-related_resources_text: ''
+title: Mutual Independence
 transcript: >-
   <p><span m='790'>ALBERT MEYER: We've</span> <span m='920'>looked</span> <span
   m='1170'>at</span> <span m='1260'>independence</span> <span
@@ -618,67 +678,7 @@ transcript: >-
   <span m='495180'>by</span> <span m='495740'>assumption</span> <span
   m='496250'>most</span> <span m='496540'>of</span> <span m='496600'>the</span>
   <span m='496720'>time.</span> </p>
-embedded_media:
-  - uid: c054cb7ca3151e2a601103b6efddfc13
-    parent_uid: 102ca7541081e73713c9f143aaed5615
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 575776baf2ff5de5bfeb933b4aa0a4c8
-    parent_uid: 102ca7541081e73713c9f143aaed5615
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: f72ead257b737dacb83f264c2c62c27f
-    parent_uid: 102ca7541081e73713c9f143aaed5615
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: wJzBU7Do1ls
-  - uid: 2bcb0e3800456a56f774b18a8d50ee47
-    parent_uid: 102ca7541081e73713c9f143aaed5615
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/wJzBU7Do1ls/default.jpg'
-  - uid: d427f7f61df4109a7bab52a8eb3c09ab
-    parent_uid: 102ca7541081e73713c9f143aaed5615
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: wJzBU7Do1ls
-  - uid: 0474ce8bf9b9a2c48759d4d28f107adb
-    parent_uid: 102ca7541081e73713c9f143aaed5615
-    id: wJzBU7Do1ls.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-2/vertical-9c80216b7495/mutual-independence/wJzBU7Do1ls.srt
-  - uid: 0ff05bf5e9e220c04f075f3014d38397
-    parent_uid: 102ca7541081e73713c9f143aaed5615
-    id: wJzBU7Do1ls.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-2/vertical-9c80216b7495/mutual-independence/wJzBU7Do1ls.pdf
-  - uid: bb89c9a3ef88c281a9b356f0e128fa59
-    parent_uid: 102ca7541081e73713c9f143aaed5615
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1b9b5c02f160b497d4b01134f3cd2a50
-    parent_uid: 102ca7541081e73713c9f143aaed5615
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6cd0ca490239f54a7961200f75f6fedf
-    parent_uid: 102ca7541081e73713c9f143aaed5615
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_probmutual_video_ipod.mp4
+uid: 102ca7541081e73713c9f143aaed5615
 type: courses
 layout: video
 ---

@@ -1,13 +1,67 @@
 ---
-title: DD.2.6 Kinetic Energy in the CM Frame
-uid: fc027945fed6319af573f86bc60d219d
+about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: mjrQHIJj1iI
+    parent_uid: fc027945fed6319af573f86bc60d219d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 05a9283bf04aa5eb4cbd52b9b91524ff
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/mjrQHIJj1iI/default.jpg'
+    parent_uid: fc027945fed6319af573f86bc60d219d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8847907357f4e18dbfda9e3b5236db7f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: mjrQHIJj1iI
+    parent_uid: fc027945fed6319af573f86bc60d219d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c4207fe878f3fc64ab9b4037c883fd4e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: fc027945fed6319af573f86bc60d219d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c86c8c3f2c82b041cb61b5c8a2e8cb88
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_DD_CMframe6_360p.mp4'
+    parent_uid: fc027945fed6319af573f86bc60d219d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4e6a795bfb5a6a29f2025e79c473ed43
+  - id: mjrQHIJj1iI.srt
+    parent_uid: fc027945fed6319af573f86bc60d219d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.6-kinetic-energy-in-the-cm-frame/dd.2.6-kinetic-energy-in-the-cm-frame/mjrQHIJj1iI.srt
+    title: 3play caption file
+    type: null
+    uid: 1b39ade816a7178d5f33270645e8a30d
+  - id: mjrQHIJj1iI.pdf
+    parent_uid: fc027945fed6319af573f86bc60d219d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.6-kinetic-energy-in-the-cm-frame/dd.2.6-kinetic-energy-in-the-cm-frame/mjrQHIJj1iI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 02d0c307bc8069e5f419423eab668718
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fc027945fed6319af573f86bc60d219d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a33fc4f42cc227dd58d7a6bef676c9a7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fc027945fed6319af573f86bc60d219d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f7b02cbcbd1e9c307eab55f336f951e9
+inline_embed_id: 36313283dd.2.6kineticenergyinthecmframe82158864
 parent_uid: 238a5fed478b3743fcd8f177046fe55d
+related_resources_text: ''
+short_url: dd.2.6-kinetic-energy-in-the-cm-frame
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.6-kinetic-energy-in-the-cm-frame/dd.2.6-kinetic-energy-in-the-cm-frame
-short_url: dd.2.6-kinetic-energy-in-the-cm-frame
-inline_embed_id: 36313283dd.2.6kineticenergyinthecmframe82158864
-about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
-related_resources_text: ''
+title: DD.2.6 Kinetic Energy in the CM Frame
 transcript: >-
   <p><span m='3340'>Let's calculate the kinetic energy</span> <span m='5020'>in
   the center of mass frame of two objects that are colliding.</span>
@@ -65,61 +119,7 @@ transcript: >-
   change in kinetic energy for completely</span> <span m='255310'>inelastic
   collision.</span> </p><p><span m='256600'>It's only negative 1/2 mu V1, 2
   initial quantity squared.</span> </p><p></p>
-embedded_media:
-  - uid: 05a9283bf04aa5eb4cbd52b9b91524ff
-    parent_uid: fc027945fed6319af573f86bc60d219d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: mjrQHIJj1iI
-  - uid: 8847907357f4e18dbfda9e3b5236db7f
-    parent_uid: fc027945fed6319af573f86bc60d219d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/mjrQHIJj1iI/default.jpg'
-  - uid: c4207fe878f3fc64ab9b4037c883fd4e
-    parent_uid: fc027945fed6319af573f86bc60d219d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: mjrQHIJj1iI
-  - uid: c86c8c3f2c82b041cb61b5c8a2e8cb88
-    parent_uid: fc027945fed6319af573f86bc60d219d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 4e6a795bfb5a6a29f2025e79c473ed43
-    parent_uid: fc027945fed6319af573f86bc60d219d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_DD_CMframe6_360p.mp4'
-  - uid: 1b39ade816a7178d5f33270645e8a30d
-    parent_uid: fc027945fed6319af573f86bc60d219d
-    id: mjrQHIJj1iI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.6-kinetic-energy-in-the-cm-frame/dd.2.6-kinetic-energy-in-the-cm-frame/mjrQHIJj1iI.srt
-  - uid: 02d0c307bc8069e5f419423eab668718
-    parent_uid: fc027945fed6319af573f86bc60d219d
-    id: mjrQHIJj1iI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.6-kinetic-energy-in-the-cm-frame/dd.2.6-kinetic-energy-in-the-cm-frame/mjrQHIJj1iI.pdf
-  - uid: a33fc4f42cc227dd58d7a6bef676c9a7
-    parent_uid: fc027945fed6319af573f86bc60d219d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f7b02cbcbd1e9c307eab55f336f951e9
-    parent_uid: fc027945fed6319af573f86bc60d219d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: fc027945fed6319af573f86bc60d219d
 type: courses
 layout: video
 ---

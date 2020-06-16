@@ -1,18 +1,90 @@
 ---
-title: 'Lecture 19: First Fundamental Theorem'
-uid: e46c48634a146a01c759fa5a35a707fb
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-19-first-fundamental-theorem
-short_url: lecture-19-first-fundamental-theorem
-inline_embed_id: '44016508lecture19:firstfundamentaltheorem51683176'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> First fundamental
   theorem of calculus</p> <p><strong>Instructor:</strong> Prof. David
   Jerison</p></div>
+embedded_media:
+  - id: lec19.jpg
+    parent_uid: e46c48634a146a01c759fa5a35a707fb
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-19-first-fundamental-theorem/lec19.jpg
+    title: Lecture 19
+    type: null
+    uid: 9024d8e832e11ace4cc8a7041fececa1
+  - id: Video-YouTube-Stream
+    media_location: 1RLctDS2hUQ
+    parent_uid: e46c48634a146a01c759fa5a35a707fb
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3113ef7a0d9736a6404e1b33f1ebe7a9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/1RLctDS2hUQ/default.jpg'
+    parent_uid: e46c48634a146a01c759fa5a35a707fb
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cb2442755e7d85990c220a4e8187b417
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: e46c48634a146a01c759fa5a35a707fb
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: be08ea7cbcacbb80af98ba5c11c86087
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec19_300k.mp4'
+    parent_uid: e46c48634a146a01c759fa5a35a707fb
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b51c7b5a17bc118db097baceae1d4d6e
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: e46c48634a146a01c759fa5a35a707fb
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 474f18a6c5cc3302a7c70f2e1f6d4022
+  - id: Thumbnail-OCW-JPG
+    parent_uid: e46c48634a146a01c759fa5a35a707fb
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 10be6374b42fd02b68fbab5739d5f879
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 1RLctDS2hUQ
+    parent_uid: e46c48634a146a01c759fa5a35a707fb
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 510bb731d83bd50933857c300a2c7ebc
+  - id: 1RLctDS2hUQ.srt
+    parent_uid: e46c48634a146a01c759fa5a35a707fb
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-19-first-fundamental-theorem/1RLctDS2hUQ.srt
+    title: 3play caption file
+    type: null
+    uid: 39a49c5c057db53c3923b7b6e5d8698d
+  - id: 1RLctDS2hUQ.pdf
+    parent_uid: e46c48634a146a01c759fa5a35a707fb
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-19-first-fundamental-theorem/1RLctDS2hUQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: d009101aee4d4c11142f6b477fc84ebe
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e46c48634a146a01c759fa5a35a707fb
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7a6cd51df1edf9be1e9eb363a6f9f407
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e46c48634a146a01c759fa5a35a707fb
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 21a05abc31d150a6d8fd836b01d52389
+inline_embed_id: '44016508lecture19:firstfundamentaltheorem51683176'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/817a2c46ddc23e2efda247a79ddeed34">PDF</a>)</p></div>
+short_url: lecture-19-first-fundamental-theorem
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-19-first-fundamental-theorem
+title: 'Lecture 19: First Fundamental Theorem'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='530'>content</span> <span m='1020'>is</span> <span m='1130'>provided</span>
@@ -2550,79 +2622,7 @@ transcript: >-
   m='2891060'>either</span> <span m='2891230'>moves</span> <span
   m='2891570'>steadily</span> <span m='2891920'>up or</span> <span
   m='2892320'>steadily</span> <span m='2892630'>down.</span> </p>
-embedded_media:
-  - uid: 9024d8e832e11ace4cc8a7041fececa1
-    parent_uid: e46c48634a146a01c759fa5a35a707fb
-    id: lec19.jpg
-    title: Lecture 19
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-19-first-fundamental-theorem/lec19.jpg
-  - uid: 3113ef7a0d9736a6404e1b33f1ebe7a9
-    parent_uid: e46c48634a146a01c759fa5a35a707fb
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 1RLctDS2hUQ
-  - uid: cb2442755e7d85990c220a4e8187b417
-    parent_uid: e46c48634a146a01c759fa5a35a707fb
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/1RLctDS2hUQ/default.jpg'
-  - uid: be08ea7cbcacbb80af98ba5c11c86087
-    parent_uid: e46c48634a146a01c759fa5a35a707fb
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: b51c7b5a17bc118db097baceae1d4d6e
-    parent_uid: e46c48634a146a01c759fa5a35a707fb
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec19_300k.mp4'
-  - uid: 474f18a6c5cc3302a7c70f2e1f6d4022
-    parent_uid: e46c48634a146a01c759fa5a35a707fb
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 10be6374b42fd02b68fbab5739d5f879
-    parent_uid: e46c48634a146a01c759fa5a35a707fb
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 510bb731d83bd50933857c300a2c7ebc
-    parent_uid: e46c48634a146a01c759fa5a35a707fb
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 1RLctDS2hUQ
-  - uid: 39a49c5c057db53c3923b7b6e5d8698d
-    parent_uid: e46c48634a146a01c759fa5a35a707fb
-    id: 1RLctDS2hUQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-19-first-fundamental-theorem/1RLctDS2hUQ.srt
-  - uid: d009101aee4d4c11142f6b477fc84ebe
-    parent_uid: e46c48634a146a01c759fa5a35a707fb
-    id: 1RLctDS2hUQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-19-first-fundamental-theorem/1RLctDS2hUQ.pdf
-  - uid: 7a6cd51df1edf9be1e9eb363a6f9f407
-    parent_uid: e46c48634a146a01c759fa5a35a707fb
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 21a05abc31d150a6d8fd836b01d52389
-    parent_uid: e46c48634a146a01c759fa5a35a707fb
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: e46c48634a146a01c759fa5a35a707fb
 type: courses
 layout: video
 ---

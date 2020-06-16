@@ -1,13 +1,73 @@
 ---
-title: Sum And Product Rules
-uid: 4a69e143e2dd462d8b441244698abebe
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 4a69e143e2dd462d8b441244698abebe
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 59afb974eb703d7cd421b67b72588426
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 4a69e143e2dd462d8b441244698abebe
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 24a95babb503ced9b22269d2420e21a3
+  - id: Video-YouTube-Stream
+    media_location: yTrtVwKZkwU
+    parent_uid: 4a69e143e2dd462d8b441244698abebe
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 75ca8a14d75d79be3c1dc4851a06ff09
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/yTrtVwKZkwU/default.jpg'
+    parent_uid: 4a69e143e2dd462d8b441244698abebe
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ca9cfe069f3a648131d7f7dfb72fa236
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: yTrtVwKZkwU
+    parent_uid: 4a69e143e2dd462d8b441244698abebe
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c70540a5f94bf5001d0e75c5f502cd72
+  - id: yTrtVwKZkwU.srt
+    parent_uid: 4a69e143e2dd462d8b441244698abebe
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-1/sum-and-product-rules/yTrtVwKZkwU.srt
+    title: 3play caption file
+    type: null
+    uid: d55e9e5d0d1c10fe0e68df7dc3fa0198
+  - id: yTrtVwKZkwU.pdf
+    parent_uid: 4a69e143e2dd462d8b441244698abebe
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-1/sum-and-product-rules/yTrtVwKZkwU.pdf
+    title: 3play pdf file
+    type: null
+    uid: f33c1e9c1908fcffe427b47f349d0aca
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4a69e143e2dd462d8b441244698abebe
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 13c8e8f1e8db6801e0c132c27dcf7415
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4a69e143e2dd462d8b441244698abebe
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 84d33c3b68dbd0b7fd5b1114992ee858
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_rulescount_video_ipod.mp4
+    parent_uid: 4a69e143e2dd462d8b441244698abebe
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4def6ae9ca9de2d917267e1ee84ff580
+inline_embed_id: 32892447sumandproductrules54926246
 parent_uid: 71ca527263f24aa7d717ef63328e47ef
+related_resources_text: ''
+short_url: sum-and-product-rules
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-1/sum-and-product-rules
-short_url: sum-and-product-rules
-inline_embed_id: 32892447sumandproductrules54926246
-about_this_resource_text: ''
-related_resources_text: ''
+title: Sum And Product Rules
 transcript: >-
   <p><span m='1360'>PROFESSOR: The</span> <span m='1480'>topic</span> <span
   m='1930'>of</span> <span m='2430'>counting,</span> <span m='2920'>or</span>
@@ -516,67 +576,7 @@ transcript: >-
   m='440430'>strings</span> <span m='441390'>is</span> <span m='442210'>m</span>
   <span m='442860'>to</span> <span m='443030'>the</span> <span
   m='443320'>n.</span> </p>
-embedded_media:
-  - uid: 59afb974eb703d7cd421b67b72588426
-    parent_uid: 4a69e143e2dd462d8b441244698abebe
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 24a95babb503ced9b22269d2420e21a3
-    parent_uid: 4a69e143e2dd462d8b441244698abebe
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 75ca8a14d75d79be3c1dc4851a06ff09
-    parent_uid: 4a69e143e2dd462d8b441244698abebe
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: yTrtVwKZkwU
-  - uid: ca9cfe069f3a648131d7f7dfb72fa236
-    parent_uid: 4a69e143e2dd462d8b441244698abebe
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/yTrtVwKZkwU/default.jpg'
-  - uid: c70540a5f94bf5001d0e75c5f502cd72
-    parent_uid: 4a69e143e2dd462d8b441244698abebe
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: yTrtVwKZkwU
-  - uid: d55e9e5d0d1c10fe0e68df7dc3fa0198
-    parent_uid: 4a69e143e2dd462d8b441244698abebe
-    id: yTrtVwKZkwU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-1/sum-and-product-rules/yTrtVwKZkwU.srt
-  - uid: f33c1e9c1908fcffe427b47f349d0aca
-    parent_uid: 4a69e143e2dd462d8b441244698abebe
-    id: yTrtVwKZkwU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-1/sum-and-product-rules/yTrtVwKZkwU.pdf
-  - uid: 13c8e8f1e8db6801e0c132c27dcf7415
-    parent_uid: 4a69e143e2dd462d8b441244698abebe
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 84d33c3b68dbd0b7fd5b1114992ee858
-    parent_uid: 4a69e143e2dd462d8b441244698abebe
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4def6ae9ca9de2d917267e1ee84ff580
-    parent_uid: 4a69e143e2dd462d8b441244698abebe
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_rulescount_video_ipod.mp4
+uid: 4a69e143e2dd462d8b441244698abebe
 type: courses
 layout: video
 ---

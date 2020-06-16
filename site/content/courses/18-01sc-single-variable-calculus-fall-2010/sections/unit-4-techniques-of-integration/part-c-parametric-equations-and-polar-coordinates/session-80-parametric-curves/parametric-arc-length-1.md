@@ -1,13 +1,68 @@
 ---
-title: Parametric Arc Length
-uid: 1610e80681964f7ae1b116d20c966430
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: v1AQ8Yi3yB8
+    parent_uid: 1610e80681964f7ae1b116d20c966430
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 546753b20704d2dd595d50adda0857af
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/v1AQ8Yi3yB8/default.jpg'
+    parent_uid: 1610e80681964f7ae1b116d20c966430
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2e46ae4047ecf3b8fe1147110b3383e0
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/parametric-arclength/id414308064?i=90319636
+    parent_uid: 1610e80681964f7ae1b116d20c966430
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f241e60cd8a29730beaeba176afbc88b
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_60_300k.mp4'
+    parent_uid: 1610e80681964f7ae1b116d20c966430
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7afde040104c840215c2fa9b04e27e84
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: v1AQ8Yi3yB8
+    parent_uid: 1610e80681964f7ae1b116d20c966430
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 81d7c08d00ecd3aff649dec0cb447a29
+  - id: v1AQ8Yi3yB8.srt
+    parent_uid: 1610e80681964f7ae1b116d20c966430
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves/parametric-arc-length-1/v1AQ8Yi3yB8.srt
+    title: 3play caption file
+    type: null
+    uid: 7d069c48a8447c430fa48ec3f3a204fd
+  - id: v1AQ8Yi3yB8.pdf
+    parent_uid: 1610e80681964f7ae1b116d20c966430
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves/parametric-arc-length-1/v1AQ8Yi3yB8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 90e70b6e467bb945fc3e7f9bbbfcab9e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1610e80681964f7ae1b116d20c966430
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 46fa26de0ce9cf0adb234329b0e031a7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1610e80681964f7ae1b116d20c966430
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bdd0057b6280dcaf4c123320e30e0635
+inline_embed_id: 64395214parametricarclength25540385
 parent_uid: b58d1c03b5e72b4fc2ef553cda5d94b7
+related_resources_text: ''
+short_url: parametric-arc-length-1
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves/parametric-arc-length-1
-short_url: parametric-arc-length-1
-inline_embed_id: 64395214parametricarclength25540385
-about_this_resource_text: ''
-related_resources_text: ''
+title: Parametric Arc Length
 transcript: >-
   <p><span m='6920'>Hi.</span> <span m='7420'>Welcome</span> <span
   m='7720'>back</span> <span m='7920'>to</span> <span
@@ -618,62 +673,7 @@ transcript: >-
   m='527590'>I'll</span> <span m='528180'>leave</span> <span
   m='528420'>it</span> <span m='528500'>with</span> <span
   m='528960'>that.</span> </p>
-embedded_media:
-  - uid: 546753b20704d2dd595d50adda0857af
-    parent_uid: 1610e80681964f7ae1b116d20c966430
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: v1AQ8Yi3yB8
-  - uid: 2e46ae4047ecf3b8fe1147110b3383e0
-    parent_uid: 1610e80681964f7ae1b116d20c966430
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/v1AQ8Yi3yB8/default.jpg'
-  - uid: f241e60cd8a29730beaeba176afbc88b
-    parent_uid: 1610e80681964f7ae1b116d20c966430
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/parametric-arclength/id414308064?i=90319636
-  - uid: 7afde040104c840215c2fa9b04e27e84
-    parent_uid: 1610e80681964f7ae1b116d20c966430
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_60_300k.mp4'
-  - uid: 81d7c08d00ecd3aff649dec0cb447a29
-    parent_uid: 1610e80681964f7ae1b116d20c966430
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: v1AQ8Yi3yB8
-  - uid: 7d069c48a8447c430fa48ec3f3a204fd
-    parent_uid: 1610e80681964f7ae1b116d20c966430
-    id: v1AQ8Yi3yB8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves/parametric-arc-length-1/v1AQ8Yi3yB8.srt
-  - uid: 90e70b6e467bb945fc3e7f9bbbfcab9e
-    parent_uid: 1610e80681964f7ae1b116d20c966430
-    id: v1AQ8Yi3yB8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves/parametric-arc-length-1/v1AQ8Yi3yB8.pdf
-  - uid: 46fa26de0ce9cf0adb234329b0e031a7
-    parent_uid: 1610e80681964f7ae1b116d20c966430
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bdd0057b6280dcaf4c123320e30e0635
-    parent_uid: 1610e80681964f7ae1b116d20c966430
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 1610e80681964f7ae1b116d20c966430
 type: courses
 layout: video
 ---

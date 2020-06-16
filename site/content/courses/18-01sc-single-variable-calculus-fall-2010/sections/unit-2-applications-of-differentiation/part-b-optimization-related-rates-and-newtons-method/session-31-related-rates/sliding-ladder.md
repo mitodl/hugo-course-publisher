@@ -1,13 +1,67 @@
 ---
-title: Sliding Ladder
-uid: 2de3f0d503dc2eb8df0637c478d67bae
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: d484GRz9zjY
+    parent_uid: 2de3f0d503dc2eb8df0637c478d67bae
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1976dc062dd4e82ebae48f9ffe73af41
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/d484GRz9zjY/default.jpg'
+    parent_uid: 2de3f0d503dc2eb8df0637c478d67bae
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 767edf16888fe829b8ec47d55b4d188d
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/podcast/related-rates-2/id414308064?i=90318987'
+    parent_uid: 2de3f0d503dc2eb8df0637c478d67bae
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 225d5ed5c3599b019874d37ef21b4dc7
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_24_300k.mp4'
+    parent_uid: 2de3f0d503dc2eb8df0637c478d67bae
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 69ebeefa70f9dd42151781d87f38ddc4
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: d484GRz9zjY
+    parent_uid: 2de3f0d503dc2eb8df0637c478d67bae
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3eeb4264c83569fbee2a0d2479a6bc4c
+  - id: d484GRz9zjY.srt
+    parent_uid: 2de3f0d503dc2eb8df0637c478d67bae
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-31-related-rates/sliding-ladder/d484GRz9zjY.srt
+    title: 3play caption file
+    type: null
+    uid: bfa64af390e3cf43d5de2ba784850251
+  - id: d484GRz9zjY.pdf
+    parent_uid: 2de3f0d503dc2eb8df0637c478d67bae
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-31-related-rates/sliding-ladder/d484GRz9zjY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6c67983d4bd8194a73aab2715fd67d94
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2de3f0d503dc2eb8df0637c478d67bae
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 87b516a1440bd7196eaa2a86e6916756
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2de3f0d503dc2eb8df0637c478d67bae
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3a97a80059ab949c5892835ed6ba63c5
+inline_embed_id: 81488321slidingladder68930293
 parent_uid: 740c26e9a52f298e76ec9fb9679d1f19
+related_resources_text: ''
+short_url: sliding-ladder
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-31-related-rates/sliding-ladder
-short_url: sliding-ladder
-inline_embed_id: 81488321slidingladder68930293
-about_this_resource_text: ''
-related_resources_text: ''
+title: Sliding Ladder
 transcript: >-
   <p><span m='0'>JOEL LEWIS:</span> <span m='11940'>Hi.</span> <span
   m='12340'>Welcome</span> <span m='12690'>back</span> <span m='12880'>to</span>
@@ -1073,61 +1127,7 @@ transcript: >-
   m='1049380'>second.</span> </p><p><span m='1050880'>And</span> <span
   m='1051010'>we're</span> <span m='1051100'>all</span> <span
   m='1051200'>set.</span> </p>
-embedded_media:
-  - uid: 1976dc062dd4e82ebae48f9ffe73af41
-    parent_uid: 2de3f0d503dc2eb8df0637c478d67bae
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: d484GRz9zjY
-  - uid: 767edf16888fe829b8ec47d55b4d188d
-    parent_uid: 2de3f0d503dc2eb8df0637c478d67bae
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/d484GRz9zjY/default.jpg'
-  - uid: 225d5ed5c3599b019874d37ef21b4dc7
-    parent_uid: 2de3f0d503dc2eb8df0637c478d67bae
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/podcast/related-rates-2/id414308064?i=90318987'
-  - uid: 69ebeefa70f9dd42151781d87f38ddc4
-    parent_uid: 2de3f0d503dc2eb8df0637c478d67bae
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_24_300k.mp4'
-  - uid: 3eeb4264c83569fbee2a0d2479a6bc4c
-    parent_uid: 2de3f0d503dc2eb8df0637c478d67bae
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: d484GRz9zjY
-  - uid: bfa64af390e3cf43d5de2ba784850251
-    parent_uid: 2de3f0d503dc2eb8df0637c478d67bae
-    id: d484GRz9zjY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-31-related-rates/sliding-ladder/d484GRz9zjY.srt
-  - uid: 6c67983d4bd8194a73aab2715fd67d94
-    parent_uid: 2de3f0d503dc2eb8df0637c478d67bae
-    id: d484GRz9zjY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-31-related-rates/sliding-ladder/d484GRz9zjY.pdf
-  - uid: 87b516a1440bd7196eaa2a86e6916756
-    parent_uid: 2de3f0d503dc2eb8df0637c478d67bae
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3a97a80059ab949c5892835ed6ba63c5
-    parent_uid: 2de3f0d503dc2eb8df0637c478d67bae
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 2de3f0d503dc2eb8df0637c478d67bae
 type: courses
 layout: video
 ---

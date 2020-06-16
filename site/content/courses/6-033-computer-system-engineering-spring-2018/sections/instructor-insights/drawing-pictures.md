@@ -1,13 +1,61 @@
 ---
-title: Drawing Pictures
-uid: 5dc920bdbdee9276cae9210b8529f6be
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: r2_-2KW76ec
+    parent_uid: 5dc920bdbdee9276cae9210b8529f6be
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2a8392a7e794cdb64a2a68d31cce3075
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/r2_-2KW76ec/default.jpg'
+    parent_uid: 5dc920bdbdee9276cae9210b8529f6be
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8610b5518fb42b911d42ca355a889c2a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: r2_-2KW76ec
+    parent_uid: 5dc920bdbdee9276cae9210b8529f6be
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 60704ebeef443f2491a65e27b6752594
+  - id: r2_-2KW76ec.srt
+    parent_uid: 5dc920bdbdee9276cae9210b8529f6be
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/drawing-pictures/r2_-2KW76ec.srt
+    title: 3play caption file
+    type: null
+    uid: 2cb8a58f672218ebd356b679c8f9e000
+  - id: r2_-2KW76ec.pdf
+    parent_uid: 5dc920bdbdee9276cae9210b8529f6be
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/drawing-pictures/r2_-2KW76ec.pdf
+    title: 3play pdf file
+    type: null
+    uid: 00c78a10dff37bfb4c7e73d56819e6bc
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5dc920bdbdee9276cae9210b8529f6be
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 296bed29b3445a8a8395a82981af7e70
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5dc920bdbdee9276cae9210b8529f6be
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: da0769e6a6b8486125ebcf72e2f0434d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.033S18/MIT6_033S18_DUET_Lecture_300k.mp4'
+    parent_uid: 5dc920bdbdee9276cae9210b8529f6be
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: cf484ed4703ded7b9fb297fdc0a7c94e
+inline_embed_id: 3614345activelearningactivitydrawingpictures4149480
 parent_uid: e75a8c08e11786c535031b5e10f0fe19
+related_resources_text: ''
+short_url: drawing-pictures
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/drawing-pictures
-short_url: drawing-pictures
-inline_embed_id: 3614345activelearningactivitydrawingpictures4149480
-about_this_resource_text: ''
-related_resources_text: ''
+title: Drawing Pictures
 transcript: >-
   <p><span m="1645">The</span> <span m="1690">following</span> <span
   m="2110">content</span> <span m="2680">is</span> <span
@@ -4623,55 +4671,7 @@ transcript: >-
   m="3139010">off</span> <span m="3139310">to</span> <span
   m="3139490">Jesse</span> <span m="3139940">and</span> <span
   m="3140270">Karen.</span></p>
-embedded_media:
-  - uid: 2a8392a7e794cdb64a2a68d31cce3075
-    parent_uid: 5dc920bdbdee9276cae9210b8529f6be
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: r2_-2KW76ec
-  - uid: 8610b5518fb42b911d42ca355a889c2a
-    parent_uid: 5dc920bdbdee9276cae9210b8529f6be
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/r2_-2KW76ec/default.jpg'
-  - uid: 60704ebeef443f2491a65e27b6752594
-    parent_uid: 5dc920bdbdee9276cae9210b8529f6be
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: r2_-2KW76ec
-  - uid: 2cb8a58f672218ebd356b679c8f9e000
-    parent_uid: 5dc920bdbdee9276cae9210b8529f6be
-    id: r2_-2KW76ec.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/drawing-pictures/r2_-2KW76ec.srt
-  - uid: 00c78a10dff37bfb4c7e73d56819e6bc
-    parent_uid: 5dc920bdbdee9276cae9210b8529f6be
-    id: r2_-2KW76ec.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/drawing-pictures/r2_-2KW76ec.pdf
-  - uid: 296bed29b3445a8a8395a82981af7e70
-    parent_uid: 5dc920bdbdee9276cae9210b8529f6be
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: da0769e6a6b8486125ebcf72e2f0434d
-    parent_uid: 5dc920bdbdee9276cae9210b8529f6be
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: cf484ed4703ded7b9fb297fdc0a7c94e
-    parent_uid: 5dc920bdbdee9276cae9210b8529f6be
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.033S18/MIT6_033S18_DUET_Lecture_300k.mp4'
+uid: 5dc920bdbdee9276cae9210b8529f6be
 type: courses
 layout: video
 ---

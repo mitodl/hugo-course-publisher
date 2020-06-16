@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: By Horizontal Slices'
-uid: 42f56bde2c5b66c9735b7332dde1bc08
-parent_uid: fd4292467eebd7160d4a260559201a7c
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-77-volume-of-a-wine-glass/clip-1-by-horizontal-slices
-short_url: clip-1-by-horizontal-slices
-inline_embed_id: '43131696clip1:byhorizontalslices28376437'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/ad3a19fc151451ab0a8784d6076db55f"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 30 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: aeXp1zC6Hls
+    parent_uid: 42f56bde2c5b66c9735b7332dde1bc08
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2bc56dae1a79305a7677370d12997c98
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/aeXp1zC6Hls/default.jpg'
+    parent_uid: 42f56bde2c5b66c9735b7332dde1bc08
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 70c566c44e62c7ca83def849ff3bcf37
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: aeXp1zC6Hls
+    parent_uid: 42f56bde2c5b66c9735b7332dde1bc08
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 689f1d131705509f21cf59bcaec8caa1
+  - id: aeXp1zC6Hls.srt
+    parent_uid: 42f56bde2c5b66c9735b7332dde1bc08
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-77-volume-of-a-wine-glass/clip-1-by-horizontal-slices/aeXp1zC6Hls.srt
+    title: 3play caption file
+    type: null
+    uid: 80a2d7adca1cbd760bdd23a6cad44213
+  - id: aeXp1zC6Hls.pdf
+    parent_uid: 42f56bde2c5b66c9735b7332dde1bc08
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-77-volume-of-a-wine-glass/clip-1-by-horizontal-slices/aeXp1zC6Hls.pdf
+    title: 3play pdf file
+    type: null
+    uid: df869ea6be7f1a22e90cb0fb7a04c989
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 42f56bde2c5b66c9735b7332dde1bc08
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b014fd38a977ebfa9f3039760c471131
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 42f56bde2c5b66c9735b7332dde1bc08
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8e9cb6c7bd4db65dea145617a1a8ef1b
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec30_300k.mp4'
+    parent_uid: 42f56bde2c5b66c9735b7332dde1bc08
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 749d445080abdb0598eff78bcfe52580
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 42f56bde2c5b66c9735b7332dde1bc08
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5d51dcf3f9ae02e2ffc143a9bb3b99c1
+inline_embed_id: '43131696clip1:byhorizontalslices28376437'
+parent_uid: fd4292467eebd7160d4a260559201a7c
 related_resources_text: ''
+short_url: clip-1-by-horizontal-slices
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-77-volume-of-a-wine-glass/clip-1-by-horizontal-slices
+title: 'Clip 1: By Horizontal Slices'
 transcript: >-
   <p><span m='0'>The</span> <span m='90'>following</span> <span
   m='520'>content</span> <span m='1290'>is</span> <span m='1420'>provided</span>
@@ -2749,61 +2803,7 @@ transcript: >-
   m='3073840'>there.</span> <span m='3076930'>So</span> <span
   m='3077170'>just,</span> <span m='3079070'>right</span> <span
   m='3079210'>there.</span> </p>
-embedded_media:
-  - uid: 2bc56dae1a79305a7677370d12997c98
-    parent_uid: 42f56bde2c5b66c9735b7332dde1bc08
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: aeXp1zC6Hls
-  - uid: 70c566c44e62c7ca83def849ff3bcf37
-    parent_uid: 42f56bde2c5b66c9735b7332dde1bc08
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/aeXp1zC6Hls/default.jpg'
-  - uid: 689f1d131705509f21cf59bcaec8caa1
-    parent_uid: 42f56bde2c5b66c9735b7332dde1bc08
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: aeXp1zC6Hls
-  - uid: 80a2d7adca1cbd760bdd23a6cad44213
-    parent_uid: 42f56bde2c5b66c9735b7332dde1bc08
-    id: aeXp1zC6Hls.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-77-volume-of-a-wine-glass/clip-1-by-horizontal-slices/aeXp1zC6Hls.srt
-  - uid: df869ea6be7f1a22e90cb0fb7a04c989
-    parent_uid: 42f56bde2c5b66c9735b7332dde1bc08
-    id: aeXp1zC6Hls.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-77-volume-of-a-wine-glass/clip-1-by-horizontal-slices/aeXp1zC6Hls.pdf
-  - uid: b014fd38a977ebfa9f3039760c471131
-    parent_uid: 42f56bde2c5b66c9735b7332dde1bc08
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8e9cb6c7bd4db65dea145617a1a8ef1b
-    parent_uid: 42f56bde2c5b66c9735b7332dde1bc08
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 749d445080abdb0598eff78bcfe52580
-    parent_uid: 42f56bde2c5b66c9735b7332dde1bc08
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec30_300k.mp4'
-  - uid: 5d51dcf3f9ae02e2ffc143a9bb3b99c1
-    parent_uid: 42f56bde2c5b66c9735b7332dde1bc08
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 42f56bde2c5b66c9735b7332dde1bc08
 type: courses
 layout: video
 ---

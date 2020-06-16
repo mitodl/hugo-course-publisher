@@ -1,13 +1,73 @@
 ---
-title: Recursive Functions
-uid: cacb8f2296349b9ed47b38390564e6db
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: cacb8f2296349b9ed47b38390564e6db
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: fdf7c83220a737e901290210dd8d872a
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: cacb8f2296349b9ed47b38390564e6db
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 109479898d8c6ff5ff2373189d4ea889
+  - id: Video-YouTube-Stream
+    media_location: tOsdeaYDCMk
+    parent_uid: cacb8f2296349b9ed47b38390564e6db
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 99ae56547e34c83521527aac688212ba
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/tOsdeaYDCMk/default.jpg'
+    parent_uid: cacb8f2296349b9ed47b38390564e6db
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e1bcaaa8a0942a8b6d998f2b803acbd6
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: tOsdeaYDCMk
+    parent_uid: cacb8f2296349b9ed47b38390564e6db
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c95314dd7f75c3a3ec4ce93c234ec21b
+  - id: tOsdeaYDCMk.srt
+    parent_uid: cacb8f2296349b9ed47b38390564e6db
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition/recursive-functions-video/recursive-functions/tOsdeaYDCMk.srt
+    title: 3play caption file
+    type: null
+    uid: 55f8dd78ad555f93c4269e887d6e747e
+  - id: tOsdeaYDCMk.pdf
+    parent_uid: cacb8f2296349b9ed47b38390564e6db
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition/recursive-functions-video/recursive-functions/tOsdeaYDCMk.pdf
+    title: 3play pdf file
+    type: null
+    uid: da0e8a4260bf6dd80f597b6d602ef13e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cacb8f2296349b9ed47b38390564e6db
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d41fdb9f0571759e159e213298ca0724
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cacb8f2296349b9ed47b38390564e6db
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 69bbe13190d9c02d79580f27c455c0bf
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_recursivefunctions_ipod.mp4
+    parent_uid: cacb8f2296349b9ed47b38390564e6db
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 34fc2ad0660e2821e8c49d12d3512380
+inline_embed_id: 77860156recursivefunctions5004533
 parent_uid: 80a90ec9826e9f3696ce5b09a2a47a1d
+related_resources_text: ''
+short_url: recursive-functions
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition/recursive-functions-video/recursive-functions
-short_url: recursive-functions
-inline_embed_id: 77860156recursivefunctions5004533
-about_this_resource_text: ''
-related_resources_text: ''
+title: Recursive Functions
 transcript: >-
   <p><span m='1890'>PROFESSOR: Now,</span> <span m='2029'>the</span> <span
   m='2140'>standard</span> <span m='2560'>thing</span> <span m='2780'>you</span>
@@ -955,67 +1015,7 @@ transcript: >-
   m='839280'>good</span> <span m='839510'>definitions</span> <span
   m='840270'>of</span> <span m='840590'>recursive</span> <span
   m='841090'>functions.</span> </p>
-embedded_media:
-  - uid: fdf7c83220a737e901290210dd8d872a
-    parent_uid: cacb8f2296349b9ed47b38390564e6db
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 109479898d8c6ff5ff2373189d4ea889
-    parent_uid: cacb8f2296349b9ed47b38390564e6db
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 99ae56547e34c83521527aac688212ba
-    parent_uid: cacb8f2296349b9ed47b38390564e6db
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: tOsdeaYDCMk
-  - uid: e1bcaaa8a0942a8b6d998f2b803acbd6
-    parent_uid: cacb8f2296349b9ed47b38390564e6db
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/tOsdeaYDCMk/default.jpg'
-  - uid: c95314dd7f75c3a3ec4ce93c234ec21b
-    parent_uid: cacb8f2296349b9ed47b38390564e6db
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: tOsdeaYDCMk
-  - uid: 55f8dd78ad555f93c4269e887d6e747e
-    parent_uid: cacb8f2296349b9ed47b38390564e6db
-    id: tOsdeaYDCMk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition/recursive-functions-video/recursive-functions/tOsdeaYDCMk.srt
-  - uid: da0e8a4260bf6dd80f597b6d602ef13e
-    parent_uid: cacb8f2296349b9ed47b38390564e6db
-    id: tOsdeaYDCMk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition/recursive-functions-video/recursive-functions/tOsdeaYDCMk.pdf
-  - uid: d41fdb9f0571759e159e213298ca0724
-    parent_uid: cacb8f2296349b9ed47b38390564e6db
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 69bbe13190d9c02d79580f27c455c0bf
-    parent_uid: cacb8f2296349b9ed47b38390564e6db
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 34fc2ad0660e2821e8c49d12d3512380
-    parent_uid: cacb8f2296349b9ed47b38390564e6db
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_recursivefunctions_ipod.mp4
+uid: cacb8f2296349b9ed47b38390564e6db
 type: courses
 layout: video
 ---

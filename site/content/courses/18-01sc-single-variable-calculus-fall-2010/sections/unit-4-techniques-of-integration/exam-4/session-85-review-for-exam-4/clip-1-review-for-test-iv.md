@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Review for Test IV'
-uid: 2ca56aabb8284dd365a778bfa6095a42
-parent_uid: 4699d63d2fc16b8bd7fc498a382dc972
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4/clip-1-review-for-test-iv
-short_url: clip-1-review-for-test-iv
-inline_embed_id: '61187416clip1:reviewfortestiv11576480'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/fb19b1a2136ea6b6884baf5aa83e09c4" title="Open
   in a new window." target="_blank">Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 33 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: BGE3wb7H2PA
+    parent_uid: 2ca56aabb8284dd365a778bfa6095a42
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f395847a9382cf8f72168effe0048eb3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BGE3wb7H2PA/default.jpg'
+    parent_uid: 2ca56aabb8284dd365a778bfa6095a42
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1849411114dd10143ec97409abd37ea9
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec33_300k.mp4'
+    parent_uid: 2ca56aabb8284dd365a778bfa6095a42
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9d1237d753566fb98c78d825b05a8e2b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: BGE3wb7H2PA
+    parent_uid: 2ca56aabb8284dd365a778bfa6095a42
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5cc7ce71e6f5eeb1b0f7f340387535ae
+  - id: BGE3wb7H2PA.srt
+    parent_uid: 2ca56aabb8284dd365a778bfa6095a42
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4/clip-1-review-for-test-iv/BGE3wb7H2PA.srt
+    title: 3play caption file
+    type: null
+    uid: 6396d9f0110677d0d0c2c6ada4db275f
+  - id: BGE3wb7H2PA.pdf
+    parent_uid: 2ca56aabb8284dd365a778bfa6095a42
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4/clip-1-review-for-test-iv/BGE3wb7H2PA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0e511a36c309d6b3fcd607ec6db74db4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2ca56aabb8284dd365a778bfa6095a42
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c724241036c855ae4e7aa817fcdeb333
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2ca56aabb8284dd365a778bfa6095a42
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: debf276cc2a584072c3fab26dd28eb9d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 2ca56aabb8284dd365a778bfa6095a42
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: becbd0e0c384bdf685e85d523e3daf51
+inline_embed_id: '61187416clip1:reviewfortestiv11576480'
+parent_uid: 4699d63d2fc16b8bd7fc498a382dc972
 related_resources_text: ''
+short_url: clip-1-review-for-test-iv
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4/clip-1-review-for-test-iv
+title: 'Clip 1: Review for Test IV'
 transcript: >-
   <p><span m="0">The</span> <span m="120">following</span> <span
   m="530">content</span> <span m="1270">is</span> <span m="1420">provided</span>
@@ -2726,61 +2780,7 @@ transcript: >-
   m="2943540">just</span> <span m="2943900">keep</span> <span
   m="2944090">that</span> <span m="2944290">in</span> <span
   m="2944370">mind.</span></p>
-embedded_media:
-  - uid: f395847a9382cf8f72168effe0048eb3
-    parent_uid: 2ca56aabb8284dd365a778bfa6095a42
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BGE3wb7H2PA
-  - uid: 1849411114dd10143ec97409abd37ea9
-    parent_uid: 2ca56aabb8284dd365a778bfa6095a42
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BGE3wb7H2PA/default.jpg'
-  - uid: 9d1237d753566fb98c78d825b05a8e2b
-    parent_uid: 2ca56aabb8284dd365a778bfa6095a42
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec33_300k.mp4'
-  - uid: 5cc7ce71e6f5eeb1b0f7f340387535ae
-    parent_uid: 2ca56aabb8284dd365a778bfa6095a42
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BGE3wb7H2PA
-  - uid: 6396d9f0110677d0d0c2c6ada4db275f
-    parent_uid: 2ca56aabb8284dd365a778bfa6095a42
-    id: BGE3wb7H2PA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4/clip-1-review-for-test-iv/BGE3wb7H2PA.srt
-  - uid: 0e511a36c309d6b3fcd607ec6db74db4
-    parent_uid: 2ca56aabb8284dd365a778bfa6095a42
-    id: BGE3wb7H2PA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/exam-4/session-85-review-for-exam-4/clip-1-review-for-test-iv/BGE3wb7H2PA.pdf
-  - uid: c724241036c855ae4e7aa817fcdeb333
-    parent_uid: 2ca56aabb8284dd365a778bfa6095a42
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: debf276cc2a584072c3fab26dd28eb9d
-    parent_uid: 2ca56aabb8284dd365a778bfa6095a42
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: becbd0e0c384bdf685e85d523e3daf51
-    parent_uid: 2ca56aabb8284dd365a778bfa6095a42
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 2ca56aabb8284dd365a778bfa6095a42
 type: courses
 layout: video
 ---

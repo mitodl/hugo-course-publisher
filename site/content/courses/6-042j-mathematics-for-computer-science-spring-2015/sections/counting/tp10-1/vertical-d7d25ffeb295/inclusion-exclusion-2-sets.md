@@ -1,13 +1,73 @@
 ---
-title: Inclusion-Exclusion 2 Sets
-uid: d2a91fb6763ec50d43c1137c07100500
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: d2a91fb6763ec50d43c1137c07100500
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 25d0d9982c97057beb2485eba67b647a
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: d2a91fb6763ec50d43c1137c07100500
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 64609e8adf423a3a16ea6510dd5db3c3
+  - id: Video-YouTube-Stream
+    media_location: nwpzBE9IwJQ
+    parent_uid: d2a91fb6763ec50d43c1137c07100500
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9fc95f18780ffee5e030f9a42d641827
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/nwpzBE9IwJQ/default.jpg'
+    parent_uid: d2a91fb6763ec50d43c1137c07100500
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a291dbf2847ded65cbfe94f1c194f75b
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: nwpzBE9IwJQ
+    parent_uid: d2a91fb6763ec50d43c1137c07100500
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fc418fc7c97f447a543d7a1bfc3aa2c5
+  - id: nwpzBE9IwJQ.srt
+    parent_uid: d2a91fb6763ec50d43c1137c07100500
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp10-1/vertical-d7d25ffeb295/inclusion-exclusion-2-sets/nwpzBE9IwJQ.srt
+    title: 3play caption file
+    type: null
+    uid: 5d68c8cbe291b948c091bcd2b3144bbe
+  - id: nwpzBE9IwJQ.pdf
+    parent_uid: d2a91fb6763ec50d43c1137c07100500
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp10-1/vertical-d7d25ffeb295/inclusion-exclusion-2-sets/nwpzBE9IwJQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 559268e9817221eb19a5ab59c7622479
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d2a91fb6763ec50d43c1137c07100500
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 51c8fdeadd7eabaad6db3e008faf573e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d2a91fb6763ec50d43c1137c07100500
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4deb3b70d5fe3e88094dcb5a0f8b2f7b
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_incexc2set_video_ipod.mp4
+    parent_uid: d2a91fb6763ec50d43c1137c07100500
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5b8a8fc0f3d8139ad912a33845d9dc4f
+inline_embed_id: 31085927inclusionexclusion2sets6025650
 parent_uid: 12ba5560fe2fb478b3e4822b35a69bdf
+related_resources_text: ''
+short_url: inclusion-exclusion-2-sets
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp10-1/vertical-d7d25ffeb295/inclusion-exclusion-2-sets
-short_url: inclusion-exclusion-2-sets
-inline_embed_id: 31085927inclusionexclusion2sets6025650
-about_this_resource_text: ''
-related_resources_text: ''
+title: Inclusion-Exclusion 2 Sets
 transcript: >-
   <p><span m='1660'>PROFESSOR: The</span> <span m='1790'>arguments</span> <span
   m='2290'>that</span> <span m='2470'>we</span> <span m='2830'>just</span> <span
@@ -507,67 +567,7 @@ transcript: >-
   <span m='426520'>do</span> <span m='426690'>that</span> <span
   m='426950'>in</span> <span m='427060'>a</span> <span m='427100'>video.</span>
   </p>
-embedded_media:
-  - uid: 25d0d9982c97057beb2485eba67b647a
-    parent_uid: d2a91fb6763ec50d43c1137c07100500
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 64609e8adf423a3a16ea6510dd5db3c3
-    parent_uid: d2a91fb6763ec50d43c1137c07100500
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 9fc95f18780ffee5e030f9a42d641827
-    parent_uid: d2a91fb6763ec50d43c1137c07100500
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: nwpzBE9IwJQ
-  - uid: a291dbf2847ded65cbfe94f1c194f75b
-    parent_uid: d2a91fb6763ec50d43c1137c07100500
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/nwpzBE9IwJQ/default.jpg'
-  - uid: fc418fc7c97f447a543d7a1bfc3aa2c5
-    parent_uid: d2a91fb6763ec50d43c1137c07100500
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: nwpzBE9IwJQ
-  - uid: 5d68c8cbe291b948c091bcd2b3144bbe
-    parent_uid: d2a91fb6763ec50d43c1137c07100500
-    id: nwpzBE9IwJQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp10-1/vertical-d7d25ffeb295/inclusion-exclusion-2-sets/nwpzBE9IwJQ.srt
-  - uid: 559268e9817221eb19a5ab59c7622479
-    parent_uid: d2a91fb6763ec50d43c1137c07100500
-    id: nwpzBE9IwJQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp10-1/vertical-d7d25ffeb295/inclusion-exclusion-2-sets/nwpzBE9IwJQ.pdf
-  - uid: 51c8fdeadd7eabaad6db3e008faf573e
-    parent_uid: d2a91fb6763ec50d43c1137c07100500
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4deb3b70d5fe3e88094dcb5a0f8b2f7b
-    parent_uid: d2a91fb6763ec50d43c1137c07100500
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5b8a8fc0f3d8139ad912a33845d9dc4f
-    parent_uid: d2a91fb6763ec50d43c1137c07100500
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_incexc2set_video_ipod.mp4
+uid: d2a91fb6763ec50d43c1137c07100500
 type: courses
 layout: video
 ---

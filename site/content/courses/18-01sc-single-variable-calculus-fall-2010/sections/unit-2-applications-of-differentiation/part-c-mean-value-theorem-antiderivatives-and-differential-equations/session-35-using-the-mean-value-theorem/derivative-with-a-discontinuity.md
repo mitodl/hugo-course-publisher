@@ -1,13 +1,68 @@
 ---
-title: Derivative With a Discontinuity
-uid: 01d3616b10c863d65849c3f638fafb62
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 7EKztFcTiUU
+    parent_uid: 01d3616b10c863d65849c3f638fafb62
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0e861d50e61540f7f83839d436d41efe
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/7EKztFcTiUU/default.jpg'
+    parent_uid: 01d3616b10c863d65849c3f638fafb62
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: eb68df704f4ad8b738949514b791ee93
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/antidiff-with-discontinuity/id414308064?i=90318999
+    parent_uid: 01d3616b10c863d65849c3f638fafb62
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ea4eb6a0a478cfb395e41d50099d9fd1
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_28_300k.mp4'
+    parent_uid: 01d3616b10c863d65849c3f638fafb62
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e455591c2f83f9433e47b7944897aba4
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 7EKztFcTiUU
+    parent_uid: 01d3616b10c863d65849c3f638fafb62
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4a4d2046c40bffed48324fe4b64ec76d
+  - id: 7EKztFcTiUU.srt
+    parent_uid: 01d3616b10c863d65849c3f638fafb62
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-35-using-the-mean-value-theorem/derivative-with-a-discontinuity/7EKztFcTiUU.srt
+    title: 3play caption file
+    type: null
+    uid: 24ab246e615a18dba5c615067091ca26
+  - id: 7EKztFcTiUU.pdf
+    parent_uid: 01d3616b10c863d65849c3f638fafb62
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-35-using-the-mean-value-theorem/derivative-with-a-discontinuity/7EKztFcTiUU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 28b4181edb3e71d68837493207a00bf4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 01d3616b10c863d65849c3f638fafb62
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c1f55400c95c86333750ead75fedecd0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 01d3616b10c863d65849c3f638fafb62
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ee9758ba11cb226d932bd2ae8a10b1df
+inline_embed_id: 41814012derivativewithadiscontinuity61338271
 parent_uid: 673ff3f8ec331bce1196314f7e83c11b
+related_resources_text: ''
+short_url: derivative-with-a-discontinuity
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-35-using-the-mean-value-theorem/derivative-with-a-discontinuity
-short_url: derivative-with-a-discontinuity
-inline_embed_id: 41814012derivativewithadiscontinuity61338271
-about_this_resource_text: ''
-related_resources_text: ''
+title: Derivative With a Discontinuity
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='6990'>Hi.</span> <span
   m='7420'>Welcome</span> <span m='7760'>back</span> <span m='7970'>to</span>
@@ -635,62 +690,7 @@ transcript: >-
   <span m='528220'>these</span> <span m='528510'>expressions.</span>
   </p><p><span m='529460'>So</span> <span m='529690'>I'll</span> <span
   m='529855'>end</span> <span m='530020'>there.</span> </p>
-embedded_media:
-  - uid: 0e861d50e61540f7f83839d436d41efe
-    parent_uid: 01d3616b10c863d65849c3f638fafb62
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 7EKztFcTiUU
-  - uid: eb68df704f4ad8b738949514b791ee93
-    parent_uid: 01d3616b10c863d65849c3f638fafb62
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/7EKztFcTiUU/default.jpg'
-  - uid: ea4eb6a0a478cfb395e41d50099d9fd1
-    parent_uid: 01d3616b10c863d65849c3f638fafb62
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/antidiff-with-discontinuity/id414308064?i=90318999
-  - uid: e455591c2f83f9433e47b7944897aba4
-    parent_uid: 01d3616b10c863d65849c3f638fafb62
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_28_300k.mp4'
-  - uid: 4a4d2046c40bffed48324fe4b64ec76d
-    parent_uid: 01d3616b10c863d65849c3f638fafb62
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 7EKztFcTiUU
-  - uid: 24ab246e615a18dba5c615067091ca26
-    parent_uid: 01d3616b10c863d65849c3f638fafb62
-    id: 7EKztFcTiUU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-35-using-the-mean-value-theorem/derivative-with-a-discontinuity/7EKztFcTiUU.srt
-  - uid: 28b4181edb3e71d68837493207a00bf4
-    parent_uid: 01d3616b10c863d65849c3f638fafb62
-    id: 7EKztFcTiUU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-35-using-the-mean-value-theorem/derivative-with-a-discontinuity/7EKztFcTiUU.pdf
-  - uid: c1f55400c95c86333750ead75fedecd0
-    parent_uid: 01d3616b10c863d65849c3f638fafb62
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ee9758ba11cb226d932bd2ae8a10b1df
-    parent_uid: 01d3616b10c863d65849c3f638fafb62
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 01d3616b10c863d65849c3f638fafb62
 type: courses
 layout: video
 ---

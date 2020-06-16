@@ -1,18 +1,90 @@
 ---
-title: 'Lecture 3: Derivatives'
-uid: 849fb09b0af2054226c8d64da7351546
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-3-derivatives
-short_url: lecture-3-derivatives
-inline_embed_id: '3858103lecture3:derivatives42738420'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Derivatives, slope,
   velocity, rate of change</p> <p><strong>Instructor:</strong> Prof. David
   Jerison</p></div>
+embedded_media:
+  - id: lec03.jpg
+    parent_uid: 849fb09b0af2054226c8d64da7351546
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-3-derivatives/lec03.jpg
+    title: Lecture 3
+    type: null
+    uid: 8dde0a433fee232c175c3d088f468b63
+  - id: Video-YouTube-Stream
+    media_location: kCPVBl953eY
+    parent_uid: 849fb09b0af2054226c8d64da7351546
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c44aa14f0a4aec06fd32d6dc539ba47b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/kCPVBl953eY/default.jpg'
+    parent_uid: 849fb09b0af2054226c8d64da7351546
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 047842a74bce517f279c81c3b7db3c7e
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec03_300k.mp4'
+    parent_uid: 849fb09b0af2054226c8d64da7351546
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0fb492d10068448d0034fa848484654e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 849fb09b0af2054226c8d64da7351546
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e59bd60eceb7c38483f36e3ba5998576
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 849fb09b0af2054226c8d64da7351546
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: bdda229bce32bfb25ee33465cf995673
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 849fb09b0af2054226c8d64da7351546
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 2cae7b33aacd8bac8ccff834a0ceca3b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: kCPVBl953eY
+    parent_uid: 849fb09b0af2054226c8d64da7351546
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e1a0e72426a0b4c5c9f72e18c03aceae
+  - id: kCPVBl953eY.srt
+    parent_uid: 849fb09b0af2054226c8d64da7351546
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-3-derivatives/kCPVBl953eY.srt
+    title: 3play caption file
+    type: null
+    uid: 6bb02ef9de1f4be9da5715b2bc109afb
+  - id: kCPVBl953eY.pdf
+    parent_uid: 849fb09b0af2054226c8d64da7351546
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-3-derivatives/kCPVBl953eY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5e8c294af547e2c464d9065630d6097c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 849fb09b0af2054226c8d64da7351546
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d08f983f13f2af48f91dde2459c38b90
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 849fb09b0af2054226c8d64da7351546
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: dd4c7ebb4b6449fa87a9b2b56f24d0df
+inline_embed_id: '3858103lecture3:derivatives42738420'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/23c2c1b1ab31c9f10745b18e7b0bf131">PDF</a>)</p></div>
+short_url: lecture-3-derivatives
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-3-derivatives
+title: 'Lecture 3: Derivatives'
 transcript: >-
   <p><span m='370'>The following</span> <span m='1070'>is</span> <span
   m='1310'>provided</span> <span m='1400'>under</span> <span m='1670'>a</span>
@@ -2677,79 +2749,7 @@ transcript: >-
   m='2991080'>responsible</span> <span m='2991810'>for</span> <span
   m='2991940'>these</span> <span m='2992170'>kinds</span> <span
   m='2992430'>of</span> <span m='2992510'>proofs.</span> </p>
-embedded_media:
-  - uid: 8dde0a433fee232c175c3d088f468b63
-    parent_uid: 849fb09b0af2054226c8d64da7351546
-    id: lec03.jpg
-    title: Lecture 3
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-3-derivatives/lec03.jpg
-  - uid: c44aa14f0a4aec06fd32d6dc539ba47b
-    parent_uid: 849fb09b0af2054226c8d64da7351546
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: kCPVBl953eY
-  - uid: 047842a74bce517f279c81c3b7db3c7e
-    parent_uid: 849fb09b0af2054226c8d64da7351546
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/kCPVBl953eY/default.jpg'
-  - uid: 0fb492d10068448d0034fa848484654e
-    parent_uid: 849fb09b0af2054226c8d64da7351546
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec03_300k.mp4'
-  - uid: e59bd60eceb7c38483f36e3ba5998576
-    parent_uid: 849fb09b0af2054226c8d64da7351546
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: bdda229bce32bfb25ee33465cf995673
-    parent_uid: 849fb09b0af2054226c8d64da7351546
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 2cae7b33aacd8bac8ccff834a0ceca3b
-    parent_uid: 849fb09b0af2054226c8d64da7351546
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: e1a0e72426a0b4c5c9f72e18c03aceae
-    parent_uid: 849fb09b0af2054226c8d64da7351546
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: kCPVBl953eY
-  - uid: 6bb02ef9de1f4be9da5715b2bc109afb
-    parent_uid: 849fb09b0af2054226c8d64da7351546
-    id: kCPVBl953eY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-3-derivatives/kCPVBl953eY.srt
-  - uid: 5e8c294af547e2c464d9065630d6097c
-    parent_uid: 849fb09b0af2054226c8d64da7351546
-    id: kCPVBl953eY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-3-derivatives/kCPVBl953eY.pdf
-  - uid: d08f983f13f2af48f91dde2459c38b90
-    parent_uid: 849fb09b0af2054226c8d64da7351546
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: dd4c7ebb4b6449fa87a9b2b56f24d0df
-    parent_uid: 849fb09b0af2054226c8d64da7351546
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 849fb09b0af2054226c8d64da7351546
 type: courses
 layout: video
 ---

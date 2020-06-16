@@ -1,13 +1,67 @@
 ---
-title: Orthogonal Vectors and Subspaces
-uid: 0e13cc7d542344b52333ffe442deb35e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: YzZUIYRCE38
+    parent_uid: 0e13cc7d542344b52333ffe442deb35e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2dc3f5acf42b519b37a1d8b2707811b4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/YzZUIYRCE38/default.jpg'
+    parent_uid: 0e13cc7d542344b52333ffe442deb35e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1f6b563cba9a7e08d431930338f72777
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/14.mp4'
+    parent_uid: 0e13cc7d542344b52333ffe442deb35e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 567474788348e0d053232c67d8a5a431
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 0e13cc7d542344b52333ffe442deb35e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: cdced3cef63a9bfb02d6a3f6a66b51ae
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: YzZUIYRCE38
+    parent_uid: 0e13cc7d542344b52333ffe442deb35e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 03b415bfe2f4927142d25113639a6a04
+  - id: YzZUIYRCE38.srt
+    parent_uid: 0e13cc7d542344b52333ffe442deb35e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/orthogonal-vectors-and-subspaces/YzZUIYRCE38.srt
+    title: 3play caption file
+    type: null
+    uid: 78fffae302b52c86e251c3a17cf7ed04
+  - id: YzZUIYRCE38.pdf
+    parent_uid: 0e13cc7d542344b52333ffe442deb35e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/orthogonal-vectors-and-subspaces/YzZUIYRCE38.pdf
+    title: 3play pdf file
+    type: null
+    uid: 74adfa397142e097801f8cb09f729046
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0e13cc7d542344b52333ffe442deb35e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1721c0a4df0c69d7abb731c60dfaf41e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0e13cc7d542344b52333ffe442deb35e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c51de6d30e277e13991ceb03cab4720a
+inline_embed_id: 2467034orthogonalvectorsandsubspaces41485925
 parent_uid: fd8c8a4dfa1be88cec23abef203fca2a
+related_resources_text: ''
+short_url: orthogonal-vectors-and-subspaces
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/orthogonal-vectors-and-subspaces
-short_url: orthogonal-vectors-and-subspaces
-inline_embed_id: 2467034orthogonalvectorsandsubspaces41485925
-about_this_resource_text: ''
-related_resources_text: ''
+title: Orthogonal Vectors and Subspaces
 transcript: >-
   <p><span m='12040'>OK.</span> <span m='14830'>cameras</span> <span
   m='15270'>are</span> <span m='15360'>rolling.</span> <span
@@ -2556,61 +2610,7 @@ transcript: >-
   m='2975060'>I'll</span> <span m='2975200'>see</span> <span
   m='2975300'>you</span> <span m='2975410'>Friday.</span> </p><p><span
   m='2975590'>Thanks.</span> </p>
-embedded_media:
-  - uid: 2dc3f5acf42b519b37a1d8b2707811b4
-    parent_uid: 0e13cc7d542344b52333ffe442deb35e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: YzZUIYRCE38
-  - uid: 1f6b563cba9a7e08d431930338f72777
-    parent_uid: 0e13cc7d542344b52333ffe442deb35e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/YzZUIYRCE38/default.jpg'
-  - uid: 567474788348e0d053232c67d8a5a431
-    parent_uid: 0e13cc7d542344b52333ffe442deb35e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/14.mp4'
-  - uid: cdced3cef63a9bfb02d6a3f6a66b51ae
-    parent_uid: 0e13cc7d542344b52333ffe442deb35e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 03b415bfe2f4927142d25113639a6a04
-    parent_uid: 0e13cc7d542344b52333ffe442deb35e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: YzZUIYRCE38
-  - uid: 78fffae302b52c86e251c3a17cf7ed04
-    parent_uid: 0e13cc7d542344b52333ffe442deb35e
-    id: YzZUIYRCE38.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/orthogonal-vectors-and-subspaces/YzZUIYRCE38.srt
-  - uid: 74adfa397142e097801f8cb09f729046
-    parent_uid: 0e13cc7d542344b52333ffe442deb35e
-    id: YzZUIYRCE38.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/orthogonal-vectors-and-subspaces/YzZUIYRCE38.pdf
-  - uid: 1721c0a4df0c69d7abb731c60dfaf41e
-    parent_uid: 0e13cc7d542344b52333ffe442deb35e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c51de6d30e277e13991ceb03cab4720a
-    parent_uid: 0e13cc7d542344b52333ffe442deb35e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 0e13cc7d542344b52333ffe442deb35e
 type: courses
 layout: video
 ---

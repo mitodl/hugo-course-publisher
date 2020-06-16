@@ -1,13 +1,67 @@
 ---
-title: DD.2.1 Position in the CM Frame
-uid: 277d00a1dae5cf4fd5f648ebe9ff691a
+about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: '-M8swpL-Ij8'
+    parent_uid: 277d00a1dae5cf4fd5f648ebe9ff691a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f7463edcdc062ea01a1a7e76989c52d8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-M8swpL-Ij8/default.jpg'
+    parent_uid: 277d00a1dae5cf4fd5f648ebe9ff691a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 542052dd97d780619b2cf61a845dafae
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: '-M8swpL-Ij8'
+    parent_uid: 277d00a1dae5cf4fd5f648ebe9ff691a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: cf514d0b78cc379ff4568621c5d3d812
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 277d00a1dae5cf4fd5f648ebe9ff691a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5104cc94da0bb32217d626ec009470b6
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_DD_CMframe1_360p.mp4'
+    parent_uid: 277d00a1dae5cf4fd5f648ebe9ff691a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6793462202cac77c3b1582113df10079
+  - id: '-M8swpL-Ij8.srt'
+    parent_uid: 277d00a1dae5cf4fd5f648ebe9ff691a
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.1-position-in-the-cm-frame/dd.2.1-position-in-the-cm-frame/-M8swpL-Ij8.srt
+    title: 3play caption file
+    type: null
+    uid: d998d5631b7ccf3b18dec9ec26de1191
+  - id: '-M8swpL-Ij8.pdf'
+    parent_uid: 277d00a1dae5cf4fd5f648ebe9ff691a
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.1-position-in-the-cm-frame/dd.2.1-position-in-the-cm-frame/-M8swpL-Ij8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0058da0cdf29d73d8f27d2a6e3cace28
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 277d00a1dae5cf4fd5f648ebe9ff691a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2ffa80f9da491a3b8cb371ff86236524
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 277d00a1dae5cf4fd5f648ebe9ff691a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ba629a7479bc213cf8f4652fb9a2aa42
+inline_embed_id: 61543404dd.2.1positioninthecmframe91148798
 parent_uid: 07d691dc35dfda5cb795db9825432f91
+related_resources_text: ''
+short_url: dd.2.1-position-in-the-cm-frame
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.1-position-in-the-cm-frame/dd.2.1-position-in-the-cm-frame
-short_url: dd.2.1-position-in-the-cm-frame
-inline_embed_id: 61543404dd.2.1positioninthecmframe91148798
-about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
-related_resources_text: ''
+title: DD.2.1 Position in the CM Frame
 transcript: >-
   <p><span m='3610'>We'd like to examine the motion of two particles.</span>
   </p><p><span m='5910'>Here's particle 1.</span> </p><p><span m='7270'>And
@@ -78,61 +132,7 @@ transcript: >-
   m2.</span> </p><p><span m='259329'>And you see this nice symmetry of m1 and 1,
   2 and 2, r1, 2.</span> </p><p><span m='265540'>And that's our key
   result.</span> </p>
-embedded_media:
-  - uid: f7463edcdc062ea01a1a7e76989c52d8
-    parent_uid: 277d00a1dae5cf4fd5f648ebe9ff691a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-M8swpL-Ij8'
-  - uid: 542052dd97d780619b2cf61a845dafae
-    parent_uid: 277d00a1dae5cf4fd5f648ebe9ff691a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-M8swpL-Ij8/default.jpg'
-  - uid: cf514d0b78cc379ff4568621c5d3d812
-    parent_uid: 277d00a1dae5cf4fd5f648ebe9ff691a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-M8swpL-Ij8'
-  - uid: 5104cc94da0bb32217d626ec009470b6
-    parent_uid: 277d00a1dae5cf4fd5f648ebe9ff691a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 6793462202cac77c3b1582113df10079
-    parent_uid: 277d00a1dae5cf4fd5f648ebe9ff691a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_DD_CMframe1_360p.mp4'
-  - uid: d998d5631b7ccf3b18dec9ec26de1191
-    parent_uid: 277d00a1dae5cf4fd5f648ebe9ff691a
-    id: '-M8swpL-Ij8.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.1-position-in-the-cm-frame/dd.2.1-position-in-the-cm-frame/-M8swpL-Ij8.srt
-  - uid: 0058da0cdf29d73d8f27d2a6e3cace28
-    parent_uid: 277d00a1dae5cf4fd5f648ebe9ff691a
-    id: '-M8swpL-Ij8.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.1-position-in-the-cm-frame/dd.2.1-position-in-the-cm-frame/-M8swpL-Ij8.pdf
-  - uid: 2ffa80f9da491a3b8cb371ff86236524
-    parent_uid: 277d00a1dae5cf4fd5f648ebe9ff691a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ba629a7479bc213cf8f4652fb9a2aa42
-    parent_uid: 277d00a1dae5cf4fd5f648ebe9ff691a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 277d00a1dae5cf4fd5f648ebe9ff691a
 type: courses
 layout: video
 ---

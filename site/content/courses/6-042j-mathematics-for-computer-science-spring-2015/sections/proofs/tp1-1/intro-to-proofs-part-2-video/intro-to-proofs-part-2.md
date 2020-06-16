@@ -1,13 +1,72 @@
 ---
-title: 'Intro to Proofs: Part 2'
-uid: d043b62131c4fe8c3b0e1e42498c2c5e
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: c4f9823f21a510eb6371e98832c74e1b
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e6070dabcf442c01b562e5fb6b65cc51
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_proof2_ipod.mp4'
+    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a148aa130a4a8b00b51db69d2e52e270
+  - id: Video-YouTube-Stream
+    media_location: wfr4XbR5VP8
+    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a12fbda2e7ade79bcaf25122cf49c19c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/wfr4XbR5VP8/default.jpg'
+    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7f145ff031580f6e5d5b6b0c6bd8eb01
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: wfr4XbR5VP8
+    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 45d277dee3b3637aa62752f5cd53a43b
+  - id: wfr4XbR5VP8.srt
+    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1/intro-to-proofs-part-2-video/intro-to-proofs-part-2/wfr4XbR5VP8.srt
+    title: 3play caption file
+    type: null
+    uid: 089266a0189be4d9ade34d1ea924af9f
+  - id: wfr4XbR5VP8.pdf
+    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1/intro-to-proofs-part-2-video/intro-to-proofs-part-2/wfr4XbR5VP8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6f87ac463d995fe568adfb2a9ad8f558
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ced90e324e11e1f929c9cfdc7fe1d768
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ff49ce14d014d353ff4a9e8d3f831d23
+inline_embed_id: 87421256introtoproofspart279685663
 parent_uid: 6a9af7860097152936cfc7d478c637db
+related_resources_text: ''
+short_url: intro-to-proofs-part-2
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1/intro-to-proofs-part-2-video/intro-to-proofs-part-2
-short_url: intro-to-proofs-part-2
-inline_embed_id: 87421256introtoproofspart279685663
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Intro to Proofs: Part 2'
 transcript: >-
   <p><span m='1660'>PROFESSOR: There's</span> <span m='1830'>other</span> <span
   m='2100'>kinds</span> <span m='2360'>of</span> <span m='2410'>bogus</span>
@@ -517,66 +576,7 @@ transcript: >-
   m='417830'>logic,</span> <span m='418300'>and</span> <span
   m='418400'>philosophy,</span> <span m='419092'>and</span> <span
   m='419440'>politics.</span> </p>
-embedded_media:
-  - uid: c4f9823f21a510eb6371e98832c74e1b
-    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: e6070dabcf442c01b562e5fb6b65cc51
-    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: a148aa130a4a8b00b51db69d2e52e270
-    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_proof2_ipod.mp4'
-  - uid: a12fbda2e7ade79bcaf25122cf49c19c
-    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: wfr4XbR5VP8
-  - uid: 7f145ff031580f6e5d5b6b0c6bd8eb01
-    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/wfr4XbR5VP8/default.jpg'
-  - uid: 45d277dee3b3637aa62752f5cd53a43b
-    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: wfr4XbR5VP8
-  - uid: 089266a0189be4d9ade34d1ea924af9f
-    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
-    id: wfr4XbR5VP8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1/intro-to-proofs-part-2-video/intro-to-proofs-part-2/wfr4XbR5VP8.srt
-  - uid: 6f87ac463d995fe568adfb2a9ad8f558
-    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
-    id: wfr4XbR5VP8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1/intro-to-proofs-part-2-video/intro-to-proofs-part-2/wfr4XbR5VP8.pdf
-  - uid: ced90e324e11e1f929c9cfdc7fe1d768
-    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ff49ce14d014d353ff4a9e8d3f831d23
-    parent_uid: d043b62131c4fe8c3b0e1e42498c2c5e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: d043b62131c4fe8c3b0e1e42498c2c5e
 type: courses
 layout: video
 ---

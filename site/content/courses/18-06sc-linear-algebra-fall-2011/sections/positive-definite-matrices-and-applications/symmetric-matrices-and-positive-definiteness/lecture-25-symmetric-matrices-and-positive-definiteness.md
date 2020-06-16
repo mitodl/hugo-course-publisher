@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 25: Symmetric Matrices and Positive Definiteness'
-uid: a29232680a304e8faebabce0fc54e1de
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: UCc9q_cAhho
+    parent_uid: a29232680a304e8faebabce0fc54e1de
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a662ffc9da46b6b42060a6d0a3e44c3f
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: a29232680a304e8faebabce0fc54e1de
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: aa059d13bee753f29f5b13ae10de6e20
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/25.mp4'
+    parent_uid: a29232680a304e8faebabce0fc54e1de
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c4b9bbf638149437ae447a1c506b86ab
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: UCc9q_cAhho
+    parent_uid: a29232680a304e8faebabce0fc54e1de
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 85d8494821e6aaeb48bafa3b131ce22c
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/UCc9q_cAhho/default.jpg'
+    parent_uid: a29232680a304e8faebabce0fc54e1de
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 96aa8a27aa3ed1308d41eaaed4f9e35c
+  - id: UCc9q_cAhho.srt
+    parent_uid: a29232680a304e8faebabce0fc54e1de
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/lecture-25-symmetric-matrices-and-positive-definiteness/UCc9q_cAhho.srt
+    title: 3play caption file
+    type: null
+    uid: 9815f4e9b3614dc55d84f8d49568fd5c
+  - id: UCc9q_cAhho.pdf
+    parent_uid: a29232680a304e8faebabce0fc54e1de
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/lecture-25-symmetric-matrices-and-positive-definiteness/UCc9q_cAhho.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8b7622bf59449df1c89208bb3d10a0a9
+  - id: Caption-3Play YouTube id-SRT_1
+    parent_uid: a29232680a304e8faebabce0fc54e1de
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 01fe621f1f7c9b826c7299b1356c4970
+  - id: Transcript-3Play YouTube id-PDF_1
+    parent_uid: a29232680a304e8faebabce0fc54e1de
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c98dd7e0b255b75520fb59bfc46f6345
+inline_embed_id: '95220876lecture25:symmetricmatricesandpositivedefiniteness55791491'
 parent_uid: 83daa7894c9ba2c7ac6cafe27aef0e1c
+related_resources_text: ''
+short_url: lecture-25-symmetric-matrices-and-positive-definiteness
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/lecture-25-symmetric-matrices-and-positive-definiteness
-short_url: lecture-25-symmetric-matrices-and-positive-definiteness
-inline_embed_id: '95220876lecture25:symmetricmatricesandpositivedefiniteness55791491'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 25: Symmetric Matrices and Positive Definiteness'
 transcript: >-
   <p><span m='0'>--</span> <span m='9010'>one</span> <span m='9460'>and</span>
   <span m='10270'>--</span> <span m='11200'>the</span> <span
@@ -2470,61 +2524,7 @@ transcript: >-
   m='2618000'>and</span> <span m='2618720'>don't</span> <span
   m='2618970'>forget</span> <span m='2619330'>symmetric</span> <span
   m='2619830'>matrixes.</span> </p><p><span m='2620710'>Thanks.</span> </p>
-embedded_media:
-  - uid: a662ffc9da46b6b42060a6d0a3e44c3f
-    parent_uid: a29232680a304e8faebabce0fc54e1de
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: UCc9q_cAhho
-  - uid: aa059d13bee753f29f5b13ae10de6e20
-    parent_uid: a29232680a304e8faebabce0fc54e1de
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: c4b9bbf638149437ae447a1c506b86ab
-    parent_uid: a29232680a304e8faebabce0fc54e1de
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/25.mp4'
-  - uid: 85d8494821e6aaeb48bafa3b131ce22c
-    parent_uid: a29232680a304e8faebabce0fc54e1de
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: UCc9q_cAhho
-  - uid: 96aa8a27aa3ed1308d41eaaed4f9e35c
-    parent_uid: a29232680a304e8faebabce0fc54e1de
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/UCc9q_cAhho/default.jpg'
-  - uid: 9815f4e9b3614dc55d84f8d49568fd5c
-    parent_uid: a29232680a304e8faebabce0fc54e1de
-    id: UCc9q_cAhho.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/lecture-25-symmetric-matrices-and-positive-definiteness/UCc9q_cAhho.srt
-  - uid: 8b7622bf59449df1c89208bb3d10a0a9
-    parent_uid: a29232680a304e8faebabce0fc54e1de
-    id: UCc9q_cAhho.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/lecture-25-symmetric-matrices-and-positive-definiteness/UCc9q_cAhho.pdf
-  - uid: 01fe621f1f7c9b826c7299b1356c4970
-    parent_uid: a29232680a304e8faebabce0fc54e1de
-    id: Caption-3Play YouTube id-SRT_1
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c98dd7e0b255b75520fb59bfc46f6345
-    parent_uid: a29232680a304e8faebabce0fc54e1de
-    id: Transcript-3Play YouTube id-PDF_1
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a29232680a304e8faebabce0fc54e1de
 type: courses
 layout: video
 ---

@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Introduction to Arc Length'
-uid: a5a127688d2dbd61319da40bbf8588de
-parent_uid: 5c900cbf5c7bc84e4bc0086224a0a1bd
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-78-computing-the-length-of-a-curve/clip-1-introduction-to-arc-length
-short_url: clip-1-introduction-to-arc-length
-inline_embed_id: '83998014clip1:introductiontoarclength31791029'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/6a49976889ea6a91722f0caf8e32c828"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 31 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: TpWQlKHPyJ4
+    parent_uid: a5a127688d2dbd61319da40bbf8588de
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d6bba5e11140e1650a0978c0443eb0e3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TpWQlKHPyJ4/default.jpg'
+    parent_uid: a5a127688d2dbd61319da40bbf8588de
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1e133260a69f98ce73fd7477096eaaf8
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: TpWQlKHPyJ4
+    parent_uid: a5a127688d2dbd61319da40bbf8588de
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1a19fac3378b662b38fc7f21d0f6f22e
+  - id: TpWQlKHPyJ4.srt
+    parent_uid: a5a127688d2dbd61319da40bbf8588de
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-78-computing-the-length-of-a-curve/clip-1-introduction-to-arc-length/TpWQlKHPyJ4.srt
+    title: 3play caption file
+    type: null
+    uid: 0ba061259fd76a116b80780cc98fa97a
+  - id: TpWQlKHPyJ4.pdf
+    parent_uid: a5a127688d2dbd61319da40bbf8588de
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-78-computing-the-length-of-a-curve/clip-1-introduction-to-arc-length/TpWQlKHPyJ4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 535a0bb24157b934758baba26f419ba7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a5a127688d2dbd61319da40bbf8588de
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bfa84419fdbdf24b2a8a86a60e097e7c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a5a127688d2dbd61319da40bbf8588de
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fe535384234ac0f511b16de5a9b695f3
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec31_300k.mp4'
+    parent_uid: a5a127688d2dbd61319da40bbf8588de
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8dcd6ab10220a9f48405355b4b4168dd
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: a5a127688d2dbd61319da40bbf8588de
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f13a471f0f73a11d4473921997e58169
+inline_embed_id: '83998014clip1:introductiontoarclength31791029'
+parent_uid: 5c900cbf5c7bc84e4bc0086224a0a1bd
 related_resources_text: ''
+short_url: clip-1-introduction-to-arc-length
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-78-computing-the-length-of-a-curve/clip-1-introduction-to-arc-length
+title: 'Clip 1: Introduction to Arc Length'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='530'>content</span> <span m='1290'>is</span> <span m='1420'>provided</span>
@@ -2454,61 +2508,7 @@ transcript: >-
   m='2719030'>And</span> <span m='2719930'>we'll</span> <span
   m='2720410'>do</span> <span m='2720590'>that</span> <span
   m='2721780'>next</span> <span m='2722140'>time.</span> </p>
-embedded_media:
-  - uid: d6bba5e11140e1650a0978c0443eb0e3
-    parent_uid: a5a127688d2dbd61319da40bbf8588de
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TpWQlKHPyJ4
-  - uid: 1e133260a69f98ce73fd7477096eaaf8
-    parent_uid: a5a127688d2dbd61319da40bbf8588de
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TpWQlKHPyJ4/default.jpg'
-  - uid: 1a19fac3378b662b38fc7f21d0f6f22e
-    parent_uid: a5a127688d2dbd61319da40bbf8588de
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TpWQlKHPyJ4
-  - uid: 0ba061259fd76a116b80780cc98fa97a
-    parent_uid: a5a127688d2dbd61319da40bbf8588de
-    id: TpWQlKHPyJ4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-78-computing-the-length-of-a-curve/clip-1-introduction-to-arc-length/TpWQlKHPyJ4.srt
-  - uid: 535a0bb24157b934758baba26f419ba7
-    parent_uid: a5a127688d2dbd61319da40bbf8588de
-    id: TpWQlKHPyJ4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-78-computing-the-length-of-a-curve/clip-1-introduction-to-arc-length/TpWQlKHPyJ4.pdf
-  - uid: bfa84419fdbdf24b2a8a86a60e097e7c
-    parent_uid: a5a127688d2dbd61319da40bbf8588de
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fe535384234ac0f511b16de5a9b695f3
-    parent_uid: a5a127688d2dbd61319da40bbf8588de
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8dcd6ab10220a9f48405355b4b4168dd
-    parent_uid: a5a127688d2dbd61319da40bbf8588de
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec31_300k.mp4'
-  - uid: f13a471f0f73a11d4473921997e58169
-    parent_uid: a5a127688d2dbd61319da40bbf8588de
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: a5a127688d2dbd61319da40bbf8588de
 type: courses
 layout: video
 ---

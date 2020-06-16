@@ -1,13 +1,61 @@
 ---
-title: Polarization of Radio Waves (Dipole Antenna)
-uid: 1e558a4dbaa030bf95a386b1b079c9e3
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Dlhma3z57SA
+    parent_uid: 1e558a4dbaa030bf95a386b1b079c9e3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 557d1e0b5b891a6f3df2dc8a9567f498
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Dlhma3z57SA/default.jpg'
+    parent_uid: 1e558a4dbaa030bf95a386b1b079c9e3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 868eb1ac16d512ca30e78938f715d3db
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Dlhma3z57SA
+    parent_uid: 1e558a4dbaa030bf95a386b1b079c9e3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d1b71fcd15f5335e16ea02154a1a46e2
+  - id: Dlhma3z57SA.srt
+    parent_uid: 1e558a4dbaa030bf95a386b1b079c9e3
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-18/copy4_of_lecture-18-video/Dlhma3z57SA.srt
+    title: 3play caption file
+    type: null
+    uid: cd12d49f6129ff1711a2f7f138409a17
+  - id: Dlhma3z57SA.pdf
+    parent_uid: 1e558a4dbaa030bf95a386b1b079c9e3
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-18/copy4_of_lecture-18-video/Dlhma3z57SA.pdf
+    title: 3play pdf file
+    type: null
+    uid: c051d66805b67abe07a28d475b05bc92
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1e558a4dbaa030bf95a386b1b079c9e3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5631d66ce71b683ac26483c7bcb9fda2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1e558a4dbaa030bf95a386b1b079c9e3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e4f96871280cd0b614485fb64a95a21a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec18_300k.mp4'
+    parent_uid: 1e558a4dbaa030bf95a386b1b079c9e3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b82d819b67cccd96963c3b94fcbc6db6
+inline_embed_id: 83997459lecture18videop457164248
 parent_uid: 7d3296b3f48fd48abef124b6a4fa4305
+related_resources_text: ''
+short_url: copy4_of_lecture-18-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-18/copy4_of_lecture-18-video
-short_url: copy4_of_lecture-18-video
-inline_embed_id: 83997459lecture18videop457164248
-about_this_resource_text: ''
-related_resources_text: ''
+title: Polarization of Radio Waves (Dipole Antenna)
 transcript: >-
   <p><span m="2490">The</span> <span m="2580">following</span> <span
   m="3030">content</span> <span m="3510">is</span> <span
@@ -4848,55 +4896,7 @@ transcript: >-
   m="5045870">we</span> <span m="5045920">have</span> <span
   m="5046070">done</span> <span m="5046540">in</span> <span
   m="5046840">class.</span></p>
-embedded_media:
-  - uid: 557d1e0b5b891a6f3df2dc8a9567f498
-    parent_uid: 1e558a4dbaa030bf95a386b1b079c9e3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Dlhma3z57SA
-  - uid: 868eb1ac16d512ca30e78938f715d3db
-    parent_uid: 1e558a4dbaa030bf95a386b1b079c9e3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Dlhma3z57SA/default.jpg'
-  - uid: d1b71fcd15f5335e16ea02154a1a46e2
-    parent_uid: 1e558a4dbaa030bf95a386b1b079c9e3
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Dlhma3z57SA
-  - uid: cd12d49f6129ff1711a2f7f138409a17
-    parent_uid: 1e558a4dbaa030bf95a386b1b079c9e3
-    id: Dlhma3z57SA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-18/copy4_of_lecture-18-video/Dlhma3z57SA.srt
-  - uid: c051d66805b67abe07a28d475b05bc92
-    parent_uid: 1e558a4dbaa030bf95a386b1b079c9e3
-    id: Dlhma3z57SA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-18/copy4_of_lecture-18-video/Dlhma3z57SA.pdf
-  - uid: 5631d66ce71b683ac26483c7bcb9fda2
-    parent_uid: 1e558a4dbaa030bf95a386b1b079c9e3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e4f96871280cd0b614485fb64a95a21a
-    parent_uid: 1e558a4dbaa030bf95a386b1b079c9e3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b82d819b67cccd96963c3b94fcbc6db6
-    parent_uid: 1e558a4dbaa030bf95a386b1b079c9e3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec18_300k.mp4'
+uid: 1e558a4dbaa030bf95a386b1b079c9e3
 type: courses
 layout: video
 ---

@@ -1,16 +1,70 @@
 ---
-title: 'Recitation 5: Dynamic Programming: More Examples'
-uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
-parent_uid: 8c671299aae36eba669ca13490c21dec
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-5-dynamic-programming-more-examples
-short_url: recitation-5-dynamic-programming-more-examples
-inline_embed_id: '59880094recitation5:dynamicprogramming:moreexamples96939535'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this recitation, problems related to
   dynamic programming are discussed.</p> <p><strong>Instructors:</strong> Ling
   Ren</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: krZI60lKPek
+    parent_uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6e09608ec9be4c0fccc980328ab935ca
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/krZI60lKPek/default.jpg'
+    parent_uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2cb9b0b995b94d43bfa95c714f7fbfa2
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: krZI60lKPek
+    parent_uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0b8b47d2f688eb83b349b3a89a28d034
+  - id: krZI60lKPek.srt
+    parent_uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-5-dynamic-programming-more-examples/krZI60lKPek.srt
+    title: 3play caption file
+    type: null
+    uid: b0b792e499fe215a899009c33f43ffa2
+  - id: krZI60lKPek.pdf
+    parent_uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-5-dynamic-programming-more-examples/krZI60lKPek.pdf
+    title: 3play pdf file
+    type: null
+    uid: 25a49f173dc534bf565b38506f6a479d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 432194f56cc5821506f508c17024e3e3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 464d6eaf944b90f8a2c92b7f1d149b75
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 698880175c2402d9d41390cccbe4cd87
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec05_300k.mp4'
+    parent_uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b9cabec49aec4fb2b331d5106ff428d2
+inline_embed_id: '59880094recitation5:dynamicprogramming:moreexamples96939535'
+parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
+short_url: recitation-5-dynamic-programming-more-examples
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-5-dynamic-programming-more-examples
+title: 'Recitation 5: Dynamic Programming: More Examples'
 transcript: >-
   <p><span m="100">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1230">is</span> <span m="1340">provided</span>
@@ -2343,61 +2397,7 @@ transcript: >-
   m="3111270">it</span> <span m="3111690">for</span> <span
   m="3112170">hashing</span> <span m="3112480">and</span> <span
   m="3112790">DP.</span></p>
-embedded_media:
-  - uid: 6e09608ec9be4c0fccc980328ab935ca
-    parent_uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: krZI60lKPek
-  - uid: 2cb9b0b995b94d43bfa95c714f7fbfa2
-    parent_uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/krZI60lKPek/default.jpg'
-  - uid: 0b8b47d2f688eb83b349b3a89a28d034
-    parent_uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: krZI60lKPek
-  - uid: b0b792e499fe215a899009c33f43ffa2
-    parent_uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
-    id: krZI60lKPek.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-5-dynamic-programming-more-examples/krZI60lKPek.srt
-  - uid: 25a49f173dc534bf565b38506f6a479d
-    parent_uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
-    id: krZI60lKPek.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-5-dynamic-programming-more-examples/krZI60lKPek.pdf
-  - uid: 432194f56cc5821506f508c17024e3e3
-    parent_uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 464d6eaf944b90f8a2c92b7f1d149b75
-    parent_uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 698880175c2402d9d41390cccbe4cd87
-    parent_uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: b9cabec49aec4fb2b331d5106ff428d2
-    parent_uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec05_300k.mp4'
+uid: 4e74a89850cd47fb0b8f7b7e0fc2bf6b
 type: courses
 layout: video
 ---

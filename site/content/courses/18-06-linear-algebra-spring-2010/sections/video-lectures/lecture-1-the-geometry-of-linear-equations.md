@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 1: The geometry of linear equations'
-uid: e6719967cc0a48ef7c122ec203472574
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-1-the-geometry-of-linear-equations
-short_url: lecture-1-the-geometry-of-linear-equations
-inline_embed_id: '96217260lecture1:thegeometryoflinearequations63727341'
 about_this_resource_text: >-
   <div class="vidpad"><div id="vid_about" itemprop="description"
   class="tabContent"><div class="vidpad"><p>These  video lectures of Professor
@@ -19,11 +12,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div></div></div>
+embedded_media:
+  - id: 18.06_L01.jpg
+    parent_uid: e6719967cc0a48ef7c122ec203472574
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-1-the-geometry-of-linear-equations/18.06_L01.jpg
+    title: 18.06_L01.jpg
+    type: null
+    uid: de934bc25ff753f35da19d96196db309
+  - id: Video-YouTube-Stream
+    media_location: J7DzL2_Na80
+    parent_uid: e6719967cc0a48ef7c122ec203472574
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 49d9913a6762666a6da6ff2b686db916
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/01.mp4'
+    parent_uid: e6719967cc0a48ef7c122ec203472574
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 64d218b45b215415a61624cbf6181fc0
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: e6719967cc0a48ef7c122ec203472574
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: baee0d0c85a91b914480dd9576894574
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: e6719967cc0a48ef7c122ec203472574
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 84cf994c7a5ac442e649465fd0a0b275
+  - id: Thumbnail-OCW-JPG
+    parent_uid: e6719967cc0a48ef7c122ec203472574
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 11b1902354547659cbcd7910417af11f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: J7DzL2_Na80
+    parent_uid: e6719967cc0a48ef7c122ec203472574
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 85ffbdfdbcbfcdd899f505d3f6a25c5c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/J7DzL2_Na80/default.jpg'
+    parent_uid: e6719967cc0a48ef7c122ec203472574
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 74a95a1d0278084e554d4e820e8581c2
+  - id: J7DzL2_Na80.srt
+    parent_uid: e6719967cc0a48ef7c122ec203472574
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-1-the-geometry-of-linear-equations/J7DzL2_Na80.srt
+    title: 3play caption file
+    type: null
+    uid: 220911aea14ce36d134b723956f2f3e8
+  - id: J7DzL2_Na80.pdf
+    parent_uid: e6719967cc0a48ef7c122ec203472574
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-1-the-geometry-of-linear-equations/J7DzL2_Na80.pdf
+    title: 3play pdf file
+    type: null
+    uid: f4e7ccf6e84b66c908c250fb85323f64
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e6719967cc0a48ef7c122ec203472574
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bca0f61550a1a4caccbd0faa20899b00
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e6719967cc0a48ef7c122ec203472574
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0b386b604b5f2ed70dd50f3c47b43161
+inline_embed_id: '96217260lecture1:thegeometryoflinearequations63727341'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-1-the-geometry-of-linear-equations
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-1-the-geometry-of-linear-equations
+title: 'Lecture 1: The geometry of linear equations'
 transcript: >-
   <p><span m='8930'>Hi.</span> <span m='9210'>This</span> <span
   m='9520'>is</span> <span m='9700'>the</span> <span m='10290'>first</span>
@@ -2343,79 +2415,7 @@ transcript: >-
   m='2366880'>system</span> <span m='2367270'>of</span> <span
   m='2367390'>any</span> <span m='2367630'>size</span> <span
   m='2368560'>and</span> </p>
-embedded_media:
-  - uid: de934bc25ff753f35da19d96196db309
-    parent_uid: e6719967cc0a48ef7c122ec203472574
-    id: 18.06_L01.jpg
-    title: 18.06_L01.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-1-the-geometry-of-linear-equations/18.06_L01.jpg
-  - uid: 49d9913a6762666a6da6ff2b686db916
-    parent_uid: e6719967cc0a48ef7c122ec203472574
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: J7DzL2_Na80
-  - uid: 64d218b45b215415a61624cbf6181fc0
-    parent_uid: e6719967cc0a48ef7c122ec203472574
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/01.mp4'
-  - uid: baee0d0c85a91b914480dd9576894574
-    parent_uid: e6719967cc0a48ef7c122ec203472574
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 84cf994c7a5ac442e649465fd0a0b275
-    parent_uid: e6719967cc0a48ef7c122ec203472574
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 11b1902354547659cbcd7910417af11f
-    parent_uid: e6719967cc0a48ef7c122ec203472574
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 85ffbdfdbcbfcdd899f505d3f6a25c5c
-    parent_uid: e6719967cc0a48ef7c122ec203472574
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: J7DzL2_Na80
-  - uid: 74a95a1d0278084e554d4e820e8581c2
-    parent_uid: e6719967cc0a48ef7c122ec203472574
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/J7DzL2_Na80/default.jpg'
-  - uid: 220911aea14ce36d134b723956f2f3e8
-    parent_uid: e6719967cc0a48ef7c122ec203472574
-    id: J7DzL2_Na80.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-1-the-geometry-of-linear-equations/J7DzL2_Na80.srt
-  - uid: f4e7ccf6e84b66c908c250fb85323f64
-    parent_uid: e6719967cc0a48ef7c122ec203472574
-    id: J7DzL2_Na80.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-1-the-geometry-of-linear-equations/J7DzL2_Na80.pdf
-  - uid: bca0f61550a1a4caccbd0faa20899b00
-    parent_uid: e6719967cc0a48ef7c122ec203472574
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0b386b604b5f2ed70dd50f3c47b43161
-    parent_uid: e6719967cc0a48ef7c122ec203472574
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: e6719967cc0a48ef7c122ec203472574
 type: courses
 layout: video
 ---

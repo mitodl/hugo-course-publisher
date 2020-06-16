@@ -1,13 +1,62 @@
 ---
-title: 'Video 4: A Head and Neck Case'
-uid: 8564e25dfe28fc7746506aa53d45e61e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 98cyATFdwIk
+    parent_uid: 8564e25dfe28fc7746506aa53d45e61e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bd14a4ee774ed959998b7d3a9e59f734
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 98cyATFdwIk
+    parent_uid: 8564e25dfe28fc7746506aa53d45e61e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 907f9a70f0843bc3a78d3d57a4efca83
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/98cyATFdwIk/default.jpg'
+    parent_uid: 8564e25dfe28fc7746506aa53d45e61e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5ff79900566e91988461a2b7f9232026
+  - id: 98cyATFdwIk.srt
+    parent_uid: 8564e25dfe28fc7746506aa53d45e61e
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/radiation-therapy-an-application-of-linear-optimization/video-4-a-head-and-neck-case/video-4-a-head-and-neck-case-0/98cyATFdwIk.srt
+    title: 3play caption file
+    type: null
+    uid: 9d3bca5a1960f190c36936ab27120445
+  - id: 98cyATFdwIk.pdf
+    parent_uid: 8564e25dfe28fc7746506aa53d45e61e
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/radiation-therapy-an-application-of-linear-optimization/video-4-a-head-and-neck-case/video-4-a-head-and-neck-case-0/98cyATFdwIk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8115d4781a1e7f5a643a28bede2436af
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8564e25dfe28fc7746506aa53d45e61e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2069d34117b677639e3319359546378d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8564e25dfe28fc7746506aa53d45e61e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8b5e5aa0e6e89b57ff13fd9c25c7203a
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.3.07_300k.mp4
+    parent_uid: 8564e25dfe28fc7746506aa53d45e61e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7d6548d15f8da73f4a016dcd0cff02fa
+inline_embed_id: 52398381video4aheadandneckcase54768490
 parent_uid: 2fe86f88782c20080bd1b70037ba3db3
+related_resources_text: ''
+short_url: video-4-a-head-and-neck-case-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/radiation-therapy-an-application-of-linear-optimization/video-4-a-head-and-neck-case/video-4-a-head-and-neck-case-0
-short_url: video-4-a-head-and-neck-case-0
-inline_embed_id: 52398381video4aheadandneckcase54768490
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 4: A Head and Neck Case'
 transcript: >-
   <p><span m='9500'>Now,</span> <span m='9856'>let's</span> <span
   m='10213'>take</span> <span m='10570'>a</span> <span m='10926'>look</span>
@@ -186,56 +235,7 @@ transcript: >-
   m='184414'>the</span> <span m='184878'>shadow</span> <span
   m='185342'>prices</span> <span m='185807'>of</span> <span
   m='186271'>our</span> <span m='186735'>constraints.</span> </p>
-embedded_media:
-  - uid: bd14a4ee774ed959998b7d3a9e59f734
-    parent_uid: 8564e25dfe28fc7746506aa53d45e61e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 98cyATFdwIk
-  - uid: 907f9a70f0843bc3a78d3d57a4efca83
-    parent_uid: 8564e25dfe28fc7746506aa53d45e61e
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 98cyATFdwIk
-  - uid: 5ff79900566e91988461a2b7f9232026
-    parent_uid: 8564e25dfe28fc7746506aa53d45e61e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/98cyATFdwIk/default.jpg'
-  - uid: 9d3bca5a1960f190c36936ab27120445
-    parent_uid: 8564e25dfe28fc7746506aa53d45e61e
-    id: 98cyATFdwIk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/radiation-therapy-an-application-of-linear-optimization/video-4-a-head-and-neck-case/video-4-a-head-and-neck-case-0/98cyATFdwIk.srt
-  - uid: 8115d4781a1e7f5a643a28bede2436af
-    parent_uid: 8564e25dfe28fc7746506aa53d45e61e
-    id: 98cyATFdwIk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/radiation-therapy-an-application-of-linear-optimization/video-4-a-head-and-neck-case/video-4-a-head-and-neck-case-0/98cyATFdwIk.pdf
-  - uid: 2069d34117b677639e3319359546378d
-    parent_uid: 8564e25dfe28fc7746506aa53d45e61e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8b5e5aa0e6e89b57ff13fd9c25c7203a
-    parent_uid: 8564e25dfe28fc7746506aa53d45e61e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 7d6548d15f8da73f4a016dcd0cff02fa
-    parent_uid: 8564e25dfe28fc7746506aa53d45e61e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.3.07_300k.mp4
+uid: 8564e25dfe28fc7746506aa53d45e61e
 type: courses
 layout: video
 ---

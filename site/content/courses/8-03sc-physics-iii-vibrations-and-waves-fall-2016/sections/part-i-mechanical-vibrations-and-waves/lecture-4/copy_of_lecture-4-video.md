@@ -1,13 +1,61 @@
 ---
-title: Double Pendulum
-uid: 44001968ecb4c760821d873d77450d50
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: BX4QPdP7fT8
+    parent_uid: 44001968ecb4c760821d873d77450d50
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 839edcc842d4f0162fd49e83f97da52f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BX4QPdP7fT8/default.jpg'
+    parent_uid: 44001968ecb4c760821d873d77450d50
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 18e90cf90afebc7880e2d54c520f9df9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: BX4QPdP7fT8
+    parent_uid: 44001968ecb4c760821d873d77450d50
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c9425b7f90b1757cf7e1b79b0b7b0d4e
+  - id: BX4QPdP7fT8.srt
+    parent_uid: 44001968ecb4c760821d873d77450d50
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-4/copy_of_lecture-4-video/BX4QPdP7fT8.srt
+    title: 3play caption file
+    type: null
+    uid: a5a7a583934213ee78d3443693ccef23
+  - id: BX4QPdP7fT8.pdf
+    parent_uid: 44001968ecb4c760821d873d77450d50
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-4/copy_of_lecture-4-video/BX4QPdP7fT8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5c7b16bbaf507c9ed6cc95b6616a4977
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 44001968ecb4c760821d873d77450d50
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2b3fd5f6affd734ef4570c34b09628ab
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 44001968ecb4c760821d873d77450d50
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 16a50d36abe5619628076314ebc618a4
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec04_300k.mp4'
+    parent_uid: 44001968ecb4c760821d873d77450d50
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3fe087e96537383f13e5627f27f40867
+inline_embed_id: 37114619lecture4videop167508748
 parent_uid: 05ac767b412018173f891143fb7c00eb
+related_resources_text: ''
+short_url: copy_of_lecture-4-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-4/copy_of_lecture-4-video
-short_url: copy_of_lecture-4-video
-inline_embed_id: 37114619lecture4videop167508748
-about_this_resource_text: ''
-related_resources_text: ''
+title: Double Pendulum
 transcript: >-
   <p><span m="2090">The</span> <span m="2180">following</span> <span
   m="2630">content</span> <span m="3110">is</span> <span
@@ -3868,55 +3916,7 @@ transcript: >-
   m="4652070">the</span> <span m="4652160">lecture.</span> <span
   m="4654130">Thank</span> <span m="4654340">you</span> <span
   m="4654410">very</span> <span m="4654530">much.</span></p>
-embedded_media:
-  - uid: 839edcc842d4f0162fd49e83f97da52f
-    parent_uid: 44001968ecb4c760821d873d77450d50
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BX4QPdP7fT8
-  - uid: 18e90cf90afebc7880e2d54c520f9df9
-    parent_uid: 44001968ecb4c760821d873d77450d50
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BX4QPdP7fT8/default.jpg'
-  - uid: c9425b7f90b1757cf7e1b79b0b7b0d4e
-    parent_uid: 44001968ecb4c760821d873d77450d50
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BX4QPdP7fT8
-  - uid: a5a7a583934213ee78d3443693ccef23
-    parent_uid: 44001968ecb4c760821d873d77450d50
-    id: BX4QPdP7fT8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-4/copy_of_lecture-4-video/BX4QPdP7fT8.srt
-  - uid: 5c7b16bbaf507c9ed6cc95b6616a4977
-    parent_uid: 44001968ecb4c760821d873d77450d50
-    id: BX4QPdP7fT8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-4/copy_of_lecture-4-video/BX4QPdP7fT8.pdf
-  - uid: 2b3fd5f6affd734ef4570c34b09628ab
-    parent_uid: 44001968ecb4c760821d873d77450d50
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 16a50d36abe5619628076314ebc618a4
-    parent_uid: 44001968ecb4c760821d873d77450d50
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3fe087e96537383f13e5627f27f40867
-    parent_uid: 44001968ecb4c760821d873d77450d50
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec04_300k.mp4'
+uid: 44001968ecb4c760821d873d77450d50
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: Parametrized Lines and Intersections
-uid: a56285bccc4c89339711df6a4858c35d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: dUk_I1E5QxY
+    parent_uid: a56285bccc4c89339711df6a4858c35d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e62812cc33999b6d386151e22d9c607c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/dUk_I1E5QxY/default.jpg'
+    parent_uid: a56285bccc4c89339711df6a4858c35d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 23f2d3f7683747f0fc3a2b07981ab085
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: dUk_I1E5QxY
+    parent_uid: a56285bccc4c89339711df6a4858c35d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c804387443985567b6ef2e1b09148455
+  - id: dUk_I1E5QxY.srt
+    parent_uid: a56285bccc4c89339711df6a4858c35d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-15-equations-of-lines/parametrized-lines-and-intersections/dUk_I1E5QxY.srt
+    title: 3play caption file
+    type: null
+    uid: ed7e9da668fc54df74e74a03700990b5
+  - id: dUk_I1E5QxY.pdf
+    parent_uid: a56285bccc4c89339711df6a4858c35d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-15-equations-of-lines/parametrized-lines-and-intersections/dUk_I1E5QxY.pdf
+    title: 3play pdf file
+    type: null
+    uid: f6088f3022bfaa30d6e3384939bc36df
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a56285bccc4c89339711df6a4858c35d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6aa24514ea9bbd9e8bcd48a833f68d01
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a56285bccc4c89339711df6a4858c35d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5cd7c1f6d93a9598df748a56154adf43
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/parametrized-lines-intersections/id414355340?i=90322866
+    parent_uid: a56285bccc4c89339711df6a4858c35d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 04676b85c15e69b2aae1aa754ce260cd
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_13_300k.mp4'
+    parent_uid: a56285bccc4c89339711df6a4858c35d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b9ea7d7c85e6fb1bcc3ed245de3789eb
+inline_embed_id: 84785388parametrizedlinesandintersections99176082
 parent_uid: e53436693ea8a4e96e81941891967e93
+related_resources_text: ''
+short_url: parametrized-lines-and-intersections
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-15-equations-of-lines/parametrized-lines-and-intersections
-short_url: parametrized-lines-and-intersections
-inline_embed_id: 84785388parametrizedlinesandintersections99176082
-about_this_resource_text: ''
-related_resources_text: ''
+title: Parametrized Lines and Intersections
 transcript: >-
   <p><span m='7050'>DAVID JORDAN: Hello,</span> <span m='7320'>and</span> <span
   m='7410'>welcome</span> <span m='7640'>back</span> <span m='7830'>to</span>
@@ -505,62 +560,7 @@ transcript: >-
   m='510130'>I'll</span> <span m='510340'>leave</span> <span
   m='510500'>it</span> <span m='510560'>at</span> <span m='510650'>that.</span>
   </p>
-embedded_media:
-  - uid: e62812cc33999b6d386151e22d9c607c
-    parent_uid: a56285bccc4c89339711df6a4858c35d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: dUk_I1E5QxY
-  - uid: 23f2d3f7683747f0fc3a2b07981ab085
-    parent_uid: a56285bccc4c89339711df6a4858c35d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/dUk_I1E5QxY/default.jpg'
-  - uid: c804387443985567b6ef2e1b09148455
-    parent_uid: a56285bccc4c89339711df6a4858c35d
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: dUk_I1E5QxY
-  - uid: ed7e9da668fc54df74e74a03700990b5
-    parent_uid: a56285bccc4c89339711df6a4858c35d
-    id: dUk_I1E5QxY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-15-equations-of-lines/parametrized-lines-and-intersections/dUk_I1E5QxY.srt
-  - uid: f6088f3022bfaa30d6e3384939bc36df
-    parent_uid: a56285bccc4c89339711df6a4858c35d
-    id: dUk_I1E5QxY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-c-parametric-equations-for-curves/session-15-equations-of-lines/parametrized-lines-and-intersections/dUk_I1E5QxY.pdf
-  - uid: 6aa24514ea9bbd9e8bcd48a833f68d01
-    parent_uid: a56285bccc4c89339711df6a4858c35d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5cd7c1f6d93a9598df748a56154adf43
-    parent_uid: a56285bccc4c89339711df6a4858c35d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 04676b85c15e69b2aae1aa754ce260cd
-    parent_uid: a56285bccc4c89339711df6a4858c35d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/parametrized-lines-intersections/id414355340?i=90322866
-  - uid: b9ea7d7c85e6fb1bcc3ed245de3789eb
-    parent_uid: a56285bccc4c89339711df6a4858c35d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_13_300k.mp4'
+uid: a56285bccc4c89339711df6a4858c35d
 type: courses
 layout: video
 ---

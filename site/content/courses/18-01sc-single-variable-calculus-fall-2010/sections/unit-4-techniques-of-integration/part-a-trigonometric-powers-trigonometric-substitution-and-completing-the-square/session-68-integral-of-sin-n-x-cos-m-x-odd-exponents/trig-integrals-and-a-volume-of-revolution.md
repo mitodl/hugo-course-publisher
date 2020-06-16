@@ -1,13 +1,68 @@
 ---
-title: Trig Integrals and a Volume of Revolution
-uid: c095baf2aff0011ac8f5050c53c0e3ea
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Wj0oH3ehk18
+    parent_uid: c095baf2aff0011ac8f5050c53c0e3ea
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3428b1b89cc87057916c46b891561d73
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Wj0oH3ehk18/default.jpg'
+    parent_uid: c095baf2aff0011ac8f5050c53c0e3ea
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 13c8484cefe333e8925389e9c84e7bd7
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: Wj0oH3ehk18
+    parent_uid: c095baf2aff0011ac8f5050c53c0e3ea
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 402d11a22a6de6483b93fd143cb38cd8
+  - id: Wj0oH3ehk18.srt
+    parent_uid: c095baf2aff0011ac8f5050c53c0e3ea
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-68-integral-of-sin-n-x-cos-m-x-odd-exponents/trig-integrals-and-a-volume-of-revolution/Wj0oH3ehk18.srt
+    title: 3play caption file
+    type: null
+    uid: 288e837cd7792bcab42df5771bae8feb
+  - id: Wj0oH3ehk18.pdf
+    parent_uid: c095baf2aff0011ac8f5050c53c0e3ea
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-68-integral-of-sin-n-x-cos-m-x-odd-exponents/trig-integrals-and-a-volume-of-revolution/Wj0oH3ehk18.pdf
+    title: 3play pdf file
+    type: null
+    uid: 49d1a497fdf812280902a965c316d2be
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c095baf2aff0011ac8f5050c53c0e3ea
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 342cf4ea6291d19fdd9c1986951ffbb2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c095baf2aff0011ac8f5050c53c0e3ea
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 827da93eec7135042dfae964d5884b81
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_51_300k.mp4'
+    parent_uid: c095baf2aff0011ac8f5050c53c0e3ea
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8679ee0f46540e85cb0a7c7eaf0e63bd
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/trig-integrals-volume-revolution/id414308064?i=90319641
+    parent_uid: c095baf2aff0011ac8f5050c53c0e3ea
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 89e187e1d74ce08afc05ec1f0852f1f6
+inline_embed_id: 82087575trigintegralsandavolumeofrevolution50783722
 parent_uid: f914f1dccfe8c98b34b42bcf2aa6e075
+related_resources_text: ''
+short_url: trig-integrals-and-a-volume-of-revolution
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-68-integral-of-sin-n-x-cos-m-x-odd-exponents/trig-integrals-and-a-volume-of-revolution
-short_url: trig-integrals-and-a-volume-of-revolution
-inline_embed_id: 82087575trigintegralsandavolumeofrevolution50783722
-about_this_resource_text: ''
-related_resources_text: ''
+title: Trig Integrals and a Volume of Revolution
 transcript: >-
   <p><span m='0'>JOEL LEWIS:</span> <span m='6830'>Hi.</span> <span
   m='7370'>Welcome</span> <span m='7670'>back</span> <span m='7880'>to</span>
@@ -610,62 +665,7 @@ transcript: >-
   <span m='559450'>our</span> <span m='559570'>final</span> <span
   m='559890'>answer.</span> </p><p><span m='561240'>I'll</span> <span
   m='561440'>end</span> <span m='561660'>there.</span> </p>
-embedded_media:
-  - uid: 3428b1b89cc87057916c46b891561d73
-    parent_uid: c095baf2aff0011ac8f5050c53c0e3ea
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Wj0oH3ehk18
-  - uid: 13c8484cefe333e8925389e9c84e7bd7
-    parent_uid: c095baf2aff0011ac8f5050c53c0e3ea
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Wj0oH3ehk18/default.jpg'
-  - uid: 402d11a22a6de6483b93fd143cb38cd8
-    parent_uid: c095baf2aff0011ac8f5050c53c0e3ea
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Wj0oH3ehk18
-  - uid: 288e837cd7792bcab42df5771bae8feb
-    parent_uid: c095baf2aff0011ac8f5050c53c0e3ea
-    id: Wj0oH3ehk18.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-68-integral-of-sin-n-x-cos-m-x-odd-exponents/trig-integrals-and-a-volume-of-revolution/Wj0oH3ehk18.srt
-  - uid: 49d1a497fdf812280902a965c316d2be
-    parent_uid: c095baf2aff0011ac8f5050c53c0e3ea
-    id: Wj0oH3ehk18.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-68-integral-of-sin-n-x-cos-m-x-odd-exponents/trig-integrals-and-a-volume-of-revolution/Wj0oH3ehk18.pdf
-  - uid: 342cf4ea6291d19fdd9c1986951ffbb2
-    parent_uid: c095baf2aff0011ac8f5050c53c0e3ea
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 827da93eec7135042dfae964d5884b81
-    parent_uid: c095baf2aff0011ac8f5050c53c0e3ea
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8679ee0f46540e85cb0a7c7eaf0e63bd
-    parent_uid: c095baf2aff0011ac8f5050c53c0e3ea
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_51_300k.mp4'
-  - uid: 89e187e1d74ce08afc05ec1f0852f1f6
-    parent_uid: c095baf2aff0011ac8f5050c53c0e3ea
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/trig-integrals-volume-revolution/id414308064?i=90319641
+uid: c095baf2aff0011ac8f5050c53c0e3ea
 type: courses
 layout: video
 ---

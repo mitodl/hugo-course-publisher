@@ -1,13 +1,62 @@
 ---
-title: 'Video 3: Splitting and Predictions'
-uid: c184fec72119efd87eed2e021c080c71
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 3cN7bSffVm4
+    parent_uid: c184fec72119efd87eed2e021c080c71
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bd15b912d65d341bcef9a2a1786d3eea
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 3cN7bSffVm4
+    parent_uid: c184fec72119efd87eed2e021c080c71
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 027fe117b1f4b7d18f768721c8137fa8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/3cN7bSffVm4/default.jpg'
+    parent_uid: c184fec72119efd87eed2e021c080c71
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 69931b00060c06a3b38b6fabffc63ab4
+  - id: 3cN7bSffVm4.srt
+    parent_uid: c184fec72119efd87eed2e021c080c71
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-3-splitting-and-predictions/video-3-splitting-and-predictions-0/3cN7bSffVm4.srt
+    title: 3play caption file
+    type: null
+    uid: 87dafe2b1b4aaa6df038d744778acef2
+  - id: 3cN7bSffVm4.pdf
+    parent_uid: c184fec72119efd87eed2e021c080c71
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-3-splitting-and-predictions/video-3-splitting-and-predictions-0/3cN7bSffVm4.pdf
+    title: 3play pdf file
+    type: null
+    uid: d38d40bed13972f6c63e8f5bfc1983f4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c184fec72119efd87eed2e021c080c71
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4984b2178c38cd1065e14a03206bf127
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c184fec72119efd87eed2e021c080c71
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0e8f44800d75ef2ee080ede6c1a8e949
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.2.05_300k.mp4
+    parent_uid: c184fec72119efd87eed2e021c080c71
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f73556d457b9fb53b4dc31eee939e952
+inline_embed_id: 23796505video3splittingandpredictions72402399
 parent_uid: ca1564b0917866a3a00e801c8c9fdbbc
+related_resources_text: ''
+short_url: video-3-splitting-and-predictions-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-3-splitting-and-predictions/video-3-splitting-and-predictions-0
-short_url: video-3-splitting-and-predictions-0
-inline_embed_id: 23796505video3splittingandpredictions72402399
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: Splitting and Predictions'
 transcript: >-
   <p><span m='4730'>In</span> <span m='5101'>the</span> <span
   m='5473'>previous</span> <span m='5845'>video,</span> <span m='6216'>we</span>
@@ -166,56 +215,7 @@ transcript: >-
   m='152867'>model</span> <span m='153359'>using</span> <span
   m='153851'>a</span> <span m='154344'>ROC</span> <span m='154836'>curve.</span>
   </p>
-embedded_media:
-  - uid: bd15b912d65d341bcef9a2a1786d3eea
-    parent_uid: c184fec72119efd87eed2e021c080c71
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 3cN7bSffVm4
-  - uid: 027fe117b1f4b7d18f768721c8137fa8
-    parent_uid: c184fec72119efd87eed2e021c080c71
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 3cN7bSffVm4
-  - uid: 69931b00060c06a3b38b6fabffc63ab4
-    parent_uid: c184fec72119efd87eed2e021c080c71
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/3cN7bSffVm4/default.jpg'
-  - uid: 87dafe2b1b4aaa6df038d744778acef2
-    parent_uid: c184fec72119efd87eed2e021c080c71
-    id: 3cN7bSffVm4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-3-splitting-and-predictions/video-3-splitting-and-predictions-0/3cN7bSffVm4.srt
-  - uid: d38d40bed13972f6c63e8f5bfc1983f4
-    parent_uid: c184fec72119efd87eed2e021c080c71
-    id: 3cN7bSffVm4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-3-splitting-and-predictions/video-3-splitting-and-predictions-0/3cN7bSffVm4.pdf
-  - uid: 4984b2178c38cd1065e14a03206bf127
-    parent_uid: c184fec72119efd87eed2e021c080c71
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0e8f44800d75ef2ee080ede6c1a8e949
-    parent_uid: c184fec72119efd87eed2e021c080c71
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f73556d457b9fb53b4dc31eee939e952
-    parent_uid: c184fec72119efd87eed2e021c080c71
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.2.05_300k.mp4
+uid: c184fec72119efd87eed2e021c080c71
 type: courses
 layout: video
 ---

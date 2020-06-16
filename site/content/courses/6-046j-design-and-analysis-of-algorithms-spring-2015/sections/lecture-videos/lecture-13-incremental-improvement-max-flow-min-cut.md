@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 13: Incremental Improvement: Max Flow, Min Cut'
-uid: b772acb793d5abd0aeb930864630d4d6
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-13-incremental-improvement-max-flow-min-cut
-short_url: lecture-13-incremental-improvement-max-flow-min-cut
-inline_embed_id: '55702428lecture13:incrementalimprovement:maxflow,mincut52230917'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Devadas introduces
   network flow, and the Max Flow, Min Cut algorithm.</p>
   <p><strong>Instructors:</strong> Srinivas Devadas</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: VYZGlgzr_As
+    parent_uid: b772acb793d5abd0aeb930864630d4d6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 19e5dbc4c4dc6a34666d613e4e4d8816
+  - id: VYZGlgzr_As.srt
+    parent_uid: b772acb793d5abd0aeb930864630d4d6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-13-incremental-improvement-max-flow-min-cut/VYZGlgzr_As.srt
+    title: 3play caption file
+    type: null
+    uid: 06ca1bf29738056df55788c779fc6360
+  - id: VYZGlgzr_As.pdf
+    parent_uid: b772acb793d5abd0aeb930864630d4d6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-13-incremental-improvement-max-flow-min-cut/VYZGlgzr_As.pdf
+    title: 3play pdf file
+    type: null
+    uid: cdc30ec3d4f272b9072e030145948742
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b772acb793d5abd0aeb930864630d4d6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a782ef8ddf2efe122578a5dbb3d6bffb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b772acb793d5abd0aeb930864630d4d6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2797a376343cb0750570ed77db9342f1
+  - id: Video-YouTube-Stream
+    media_location: VYZGlgzr_As
+    parent_uid: b772acb793d5abd0aeb930864630d4d6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e5c63ed9aae530257730bf3498549631
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/VYZGlgzr_As/default.jpg'
+    parent_uid: b772acb793d5abd0aeb930864630d4d6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0fad4fd83c58ccc066be5c8df176d67c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: b772acb793d5abd0aeb930864630d4d6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 957c730d186c5f32f6d2fc738b512ab1
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec13_300k.mp4'
+    parent_uid: b772acb793d5abd0aeb930864630d4d6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: eb01a6a434cac888b084c1d7f48d75bb
+inline_embed_id: '55702428lecture13:incrementalimprovement:maxflow,mincut52230917'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-13-incremental-improvement-max-flow-min-cut
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-13-incremental-improvement-max-flow-min-cut
+title: 'Lecture 13: Incremental Improvement: Max Flow, Min Cut'
 transcript: >-
   <p><span m="40">The</span> <span m="170">following</span> <span
   m="620">content</span> <span m="1210">is</span> <span m="1320">provided</span>
@@ -5148,61 +5202,7 @@ transcript: >-
   m="4973780">in</span> <span m="4974000">applications.</span> <span
   m="4974600">See</span> <span m="4974900">you</span> <span
   m="4975200">next</span> <span m="4975500">time.</span></p>
-embedded_media:
-  - uid: 19e5dbc4c4dc6a34666d613e4e4d8816
-    parent_uid: b772acb793d5abd0aeb930864630d4d6
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: VYZGlgzr_As
-  - uid: 06ca1bf29738056df55788c779fc6360
-    parent_uid: b772acb793d5abd0aeb930864630d4d6
-    id: VYZGlgzr_As.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-13-incremental-improvement-max-flow-min-cut/VYZGlgzr_As.srt
-  - uid: cdc30ec3d4f272b9072e030145948742
-    parent_uid: b772acb793d5abd0aeb930864630d4d6
-    id: VYZGlgzr_As.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-13-incremental-improvement-max-flow-min-cut/VYZGlgzr_As.pdf
-  - uid: a782ef8ddf2efe122578a5dbb3d6bffb
-    parent_uid: b772acb793d5abd0aeb930864630d4d6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2797a376343cb0750570ed77db9342f1
-    parent_uid: b772acb793d5abd0aeb930864630d4d6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e5c63ed9aae530257730bf3498549631
-    parent_uid: b772acb793d5abd0aeb930864630d4d6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: VYZGlgzr_As
-  - uid: 0fad4fd83c58ccc066be5c8df176d67c
-    parent_uid: b772acb793d5abd0aeb930864630d4d6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/VYZGlgzr_As/default.jpg'
-  - uid: 957c730d186c5f32f6d2fc738b512ab1
-    parent_uid: b772acb793d5abd0aeb930864630d4d6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: eb01a6a434cac888b084c1d7f48d75bb
-    parent_uid: b772acb793d5abd0aeb930864630d4d6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec13_300k.mp4'
+uid: b772acb793d5abd0aeb930864630d4d6
 type: courses
 layout: video
 ---

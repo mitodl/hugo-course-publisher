@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 13: Molecular Orbital Theory'
-uid: bddcd1418844ccb0fbdfe3cd883a782b
-parent_uid: 0e6db31791e13ca80e855c92186dafb0
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-13/lecture-13-molecular-orbital-theory
-short_url: lecture-13-molecular-orbital-theory
-inline_embed_id: 76738963lecture13molecularorbitaltheory77852093
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: Why do some atoms readily form bonds with each other
@@ -13,7 +6,68 @@ about_this_resource_text: >-
   molecular hydrogen is an abundant molecule whereas molecular helium is not. If
   you want to power your starship with dilithium crystals, you should watch this
   lecture.</p> <p><strong>Instructor:</strong> Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: O192jrR80oo
+    parent_uid: bddcd1418844ccb0fbdfe3cd883a782b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e038d8c2ccfae98ed9b084d708e11061
+  - id: O192jrR80oo.srt
+    parent_uid: bddcd1418844ccb0fbdfe3cd883a782b
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-13/lecture-13-molecular-orbital-theory/O192jrR80oo.srt
+    title: 3play caption file
+    type: null
+    uid: 07a8f10eb7f90baa4e12c1e6a3304bf3
+  - id: O192jrR80oo.pdf
+    parent_uid: bddcd1418844ccb0fbdfe3cd883a782b
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-13/lecture-13-molecular-orbital-theory/O192jrR80oo.pdf
+    title: 3play pdf file
+    type: null
+    uid: f423f62ef659704c5b43b8f4ead15271
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bddcd1418844ccb0fbdfe3cd883a782b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 779e0cb00e4db351dc69578615f73966
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bddcd1418844ccb0fbdfe3cd883a782b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d6f0c549f01a4f3ac725b29a1d1ea99d
+  - id: Video-YouTube-Stream
+    media_location: O192jrR80oo
+    parent_uid: bddcd1418844ccb0fbdfe3cd883a782b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c39332687f322d32dc831620d7ca9542
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/O192jrR80oo/default.jpg'
+    parent_uid: bddcd1418844ccb0fbdfe3cd883a782b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ff086ff9994e3fadf5b09f8742bdbbaa
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: bddcd1418844ccb0fbdfe3cd883a782b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bcafb7ffb4784b067e4da61ae824f749
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L13_300k.mp4'
+    parent_uid: bddcd1418844ccb0fbdfe3cd883a782b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 592fb993b5405e68e393babd99d66a3e
+inline_embed_id: 76738963lecture13molecularorbitaltheory77852093
+parent_uid: 0e6db31791e13ca80e855c92186dafb0
 related_resources_text: ''
+short_url: lecture-13-molecular-orbital-theory
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-13/lecture-13-molecular-orbital-theory
+title: 'Lecture 13: Molecular Orbital Theory'
 transcript: >-
   <p><span m="30">The</span> <span m="130">following</span> <span
   m="600">content</span> <span m="1090">is</span> <span m="1210">provided</span>
@@ -4013,61 +4067,7 @@ transcript: >-
   m="3923240">So</span> <span m="3923390">that's</span> <span
   m="3923620">molecular</span> <span m="3924200">orbital</span> <span
   m="3924600">theory.</span></p>
-embedded_media:
-  - uid: e038d8c2ccfae98ed9b084d708e11061
-    parent_uid: bddcd1418844ccb0fbdfe3cd883a782b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: O192jrR80oo
-  - uid: 07a8f10eb7f90baa4e12c1e6a3304bf3
-    parent_uid: bddcd1418844ccb0fbdfe3cd883a782b
-    id: O192jrR80oo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-13/lecture-13-molecular-orbital-theory/O192jrR80oo.srt
-  - uid: f423f62ef659704c5b43b8f4ead15271
-    parent_uid: bddcd1418844ccb0fbdfe3cd883a782b
-    id: O192jrR80oo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-ii-chemical-bonding-structure/lecture-13/lecture-13-molecular-orbital-theory/O192jrR80oo.pdf
-  - uid: 779e0cb00e4db351dc69578615f73966
-    parent_uid: bddcd1418844ccb0fbdfe3cd883a782b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d6f0c549f01a4f3ac725b29a1d1ea99d
-    parent_uid: bddcd1418844ccb0fbdfe3cd883a782b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c39332687f322d32dc831620d7ca9542
-    parent_uid: bddcd1418844ccb0fbdfe3cd883a782b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: O192jrR80oo
-  - uid: ff086ff9994e3fadf5b09f8742bdbbaa
-    parent_uid: bddcd1418844ccb0fbdfe3cd883a782b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/O192jrR80oo/default.jpg'
-  - uid: bcafb7ffb4784b067e4da61ae824f749
-    parent_uid: bddcd1418844ccb0fbdfe3cd883a782b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: 592fb993b5405e68e393babd99d66a3e
-    parent_uid: bddcd1418844ccb0fbdfe3cd883a782b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L13_300k.mp4'
+uid: bddcd1418844ccb0fbdfe3cd883a782b
 type: courses
 layout: video
 ---

@@ -1,15 +1,70 @@
 ---
-title: Exceptions
-uid: 3b1d84e02b9431dba47c7a089b2f8d84
-parent_uid: f61732313f529164402d295ceb4706e8
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-7/exceptions
-short_url: exceptions
-inline_embed_id: 34688964exceptions42834916
 about_this_resource_text: >-
   <p><strong>Description:</strong> This in-class question demonstrates the use
   of exceptions in Python.</p> <p><strong>Instructor:</strong> Dr. Ana Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 0Whyfs88TYE
+    parent_uid: 3b1d84e02b9431dba47c7a089b2f8d84
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a8791106ad520adeebe27543598e2a6b
+  - id: 0Whyfs88TYE.srt
+    parent_uid: 3b1d84e02b9431dba47c7a089b2f8d84
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-7/exceptions/0Whyfs88TYE.srt
+    title: 3play caption file
+    type: null
+    uid: a7631b00301aa9c1e18920cc24afff6e
+  - id: 0Whyfs88TYE.pdf
+    parent_uid: 3b1d84e02b9431dba47c7a089b2f8d84
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-7/exceptions/0Whyfs88TYE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 91d2504ca8c093e5e608930ed5e46535
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3b1d84e02b9431dba47c7a089b2f8d84
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bc1651abdd707231ef696bcd74a0a6eb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3b1d84e02b9431dba47c7a089b2f8d84
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ed289dbe46c72f71c820957bc8440ad1
+  - id: Video-YouTube-Stream
+    media_location: 0Whyfs88TYE
+    parent_uid: 3b1d84e02b9431dba47c7a089b2f8d84
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b8e8a7fa0dfcef4c2e29a05dac905a73
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0Whyfs88TYE/default.jpg'
+    parent_uid: 3b1d84e02b9431dba47c7a089b2f8d84
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4a5494913915aeb71fb15d827ce3d573
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: 3b1d84e02b9431dba47c7a089b2f8d84
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 09ed967b0a6fec3e6d66cc06655191d7
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_07_exercise_03_300k.mp4
+    parent_uid: 3b1d84e02b9431dba47c7a089b2f8d84
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6e150d2d047c45f935edd5c90e2c6fa9
+inline_embed_id: 34688964exceptions42834916
+parent_uid: f61732313f529164402d295ceb4706e8
 related_resources_text: ''
+short_url: exceptions
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-7/exceptions
+title: Exceptions
 transcript: >-
   <p><span m='790'>The</span> <span m='880'>following</span> <span
   m='1300'>content</span> <span m='1870'>is</span> <span
@@ -192,62 +247,7 @@ transcript: >-
   m='156710'>the</span> <span m='156800'>zero's</span> <span
   m='157490'>at</span> <span m='157610'>the</span> <span m='157700'>top of
   the</span> <span m='158090'>fraction.</span> </p>
-embedded_media:
-  - uid: a8791106ad520adeebe27543598e2a6b
-    parent_uid: 3b1d84e02b9431dba47c7a089b2f8d84
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0Whyfs88TYE
-  - uid: a7631b00301aa9c1e18920cc24afff6e
-    parent_uid: 3b1d84e02b9431dba47c7a089b2f8d84
-    id: 0Whyfs88TYE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-7/exceptions/0Whyfs88TYE.srt
-  - uid: 91d2504ca8c093e5e608930ed5e46535
-    parent_uid: 3b1d84e02b9431dba47c7a089b2f8d84
-    id: 0Whyfs88TYE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-7/exceptions/0Whyfs88TYE.pdf
-  - uid: bc1651abdd707231ef696bcd74a0a6eb
-    parent_uid: 3b1d84e02b9431dba47c7a089b2f8d84
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ed289dbe46c72f71c820957bc8440ad1
-    parent_uid: 3b1d84e02b9431dba47c7a089b2f8d84
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b8e8a7fa0dfcef4c2e29a05dac905a73
-    parent_uid: 3b1d84e02b9431dba47c7a089b2f8d84
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0Whyfs88TYE
-  - uid: 4a5494913915aeb71fb15d827ce3d573
-    parent_uid: 3b1d84e02b9431dba47c7a089b2f8d84
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0Whyfs88TYE/default.jpg'
-  - uid: 09ed967b0a6fec3e6d66cc06655191d7
-    parent_uid: 3b1d84e02b9431dba47c7a089b2f8d84
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: 6e150d2d047c45f935edd5c90e2c6fa9
-    parent_uid: 3b1d84e02b9431dba47c7a089b2f8d84
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_07_exercise_03_300k.mp4
+uid: 3b1d84e02b9431dba47c7a089b2f8d84
 type: courses
 layout: video
 ---

@@ -1,13 +1,67 @@
 ---
-title: 'Solving Ax = 0: Pivot Variables, Special Solutions'
-uid: 37d5a2a48317a81eff070da4bb0cb994
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: VqP2tREMvt0
+    parent_uid: 37d5a2a48317a81eff070da4bb0cb994
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b0b09f741905b4ae6f4e16a0d7cd704a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/VqP2tREMvt0/default.jpg'
+    parent_uid: 37d5a2a48317a81eff070da4bb0cb994
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a1d5c3e4db80d6670d43d5d21887655f
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 37d5a2a48317a81eff070da4bb0cb994
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: fcedd0824aae51e58363a2707c9f0fd5
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/07.mp4'
+    parent_uid: 37d5a2a48317a81eff070da4bb0cb994
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3ac12073c8582c5147e8434e75d42a2d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: VqP2tREMvt0
+    parent_uid: 37d5a2a48317a81eff070da4bb0cb994
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 927d6b9d8790201e6209ed921dc40f4a
+  - id: VqP2tREMvt0.srt
+    parent_uid: 37d5a2a48317a81eff070da4bb0cb994
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions/solving-ax-0-pivot-variables-special-solutions/VqP2tREMvt0.srt
+    title: 3play caption file
+    type: null
+    uid: b69b48b6183d192d487dcad7cd6481e4
+  - id: VqP2tREMvt0.pdf
+    parent_uid: 37d5a2a48317a81eff070da4bb0cb994
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions/solving-ax-0-pivot-variables-special-solutions/VqP2tREMvt0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 11def16763845b3602821117592f4b56
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 37d5a2a48317a81eff070da4bb0cb994
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2e41ed698c3e21eb85e3663b7726e532
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 37d5a2a48317a81eff070da4bb0cb994
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9c0f7b4aed9aa84b830d27f7b323cf35
+inline_embed_id: '54029977solvingax=0:pivotvariables,specialsolutions90575030'
 parent_uid: 0689e9a0f66ba169b57a71e60e59cfa2
+related_resources_text: ''
+short_url: solving-ax-0-pivot-variables-special-solutions
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions/solving-ax-0-pivot-variables-special-solutions
-short_url: solving-ax-0-pivot-variables-special-solutions
-inline_embed_id: '54029977solvingax=0:pivotvariables,specialsolutions90575030'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Solving Ax = 0: Pivot Variables, Special Solutions'
 transcript: >-
   <p><span m='9870'>OK,</span> <span m='10500'>here's</span> <span
   m='11070'>linear</span> <span m='11460'>algebra</span> <span
@@ -2405,61 +2459,7 @@ transcript: >-
   m='2583590'>that's,</span> <span m='2584140'>that's</span> <span
   m='2584510'>the</span> <span m='2584650'>null</span> <span
   m='2584830'>space.</span> </p><p><span m='2585370'>Thanks.</span> </p>
-embedded_media:
-  - uid: b0b09f741905b4ae6f4e16a0d7cd704a
-    parent_uid: 37d5a2a48317a81eff070da4bb0cb994
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: VqP2tREMvt0
-  - uid: a1d5c3e4db80d6670d43d5d21887655f
-    parent_uid: 37d5a2a48317a81eff070da4bb0cb994
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/VqP2tREMvt0/default.jpg'
-  - uid: fcedd0824aae51e58363a2707c9f0fd5
-    parent_uid: 37d5a2a48317a81eff070da4bb0cb994
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 3ac12073c8582c5147e8434e75d42a2d
-    parent_uid: 37d5a2a48317a81eff070da4bb0cb994
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/07.mp4'
-  - uid: 927d6b9d8790201e6209ed921dc40f4a
-    parent_uid: 37d5a2a48317a81eff070da4bb0cb994
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: VqP2tREMvt0
-  - uid: b69b48b6183d192d487dcad7cd6481e4
-    parent_uid: 37d5a2a48317a81eff070da4bb0cb994
-    id: VqP2tREMvt0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions/solving-ax-0-pivot-variables-special-solutions/VqP2tREMvt0.srt
-  - uid: 11def16763845b3602821117592f4b56
-    parent_uid: 37d5a2a48317a81eff070da4bb0cb994
-    id: VqP2tREMvt0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions/solving-ax-0-pivot-variables-special-solutions/VqP2tREMvt0.pdf
-  - uid: 2e41ed698c3e21eb85e3663b7726e532
-    parent_uid: 37d5a2a48317a81eff070da4bb0cb994
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9c0f7b4aed9aa84b830d27f7b323cf35
-    parent_uid: 37d5a2a48317a81eff070da4bb0cb994
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 37d5a2a48317a81eff070da4bb0cb994
 type: courses
 layout: video
 ---

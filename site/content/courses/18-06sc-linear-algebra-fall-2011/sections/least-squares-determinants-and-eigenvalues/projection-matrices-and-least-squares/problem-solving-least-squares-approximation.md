@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Least Squares Approximation'
-uid: 91b816b943c56f47c5235dc9a1da689f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: AmQcoopBUTk
+    parent_uid: 91b816b943c56f47c5235dc9a1da689f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1f42e9eb2642b7ec6e82ce263542a4eb
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: AmQcoopBUTk
+    parent_uid: 91b816b943c56f47c5235dc9a1da689f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ea8276975848534957e96ab28c7cc796
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/least-squares-approximation/id488155309?i=108454306
+    parent_uid: 91b816b943c56f47c5235dc9a1da689f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a8258e1542fda9adfec42182de77fccc
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110531_B1_300k.mp4
+    parent_uid: 91b816b943c56f47c5235dc9a1da689f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9fdfce1185012e2e4a2f7ab17a5a0f12
+  - id: AmQcoopBUTk.srt
+    parent_uid: 91b816b943c56f47c5235dc9a1da689f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/problem-solving-least-squares-approximation/AmQcoopBUTk.srt
+    title: 3play caption file
+    type: null
+    uid: 79686d8817f6d91228c73a04d5af7ade
+  - id: AmQcoopBUTk.pdf
+    parent_uid: 91b816b943c56f47c5235dc9a1da689f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/problem-solving-least-squares-approximation/AmQcoopBUTk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 79bfc67661f7d63dec8228fb2856002c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 91b816b943c56f47c5235dc9a1da689f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bd6313e79c274a6064caa4ef5c913262
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 91b816b943c56f47c5235dc9a1da689f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0df79c820cc2832a578bb5396402b116
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/AmQcoopBUTk/default.jpg'
+    parent_uid: 91b816b943c56f47c5235dc9a1da689f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0978acfd2011d5fd2b72b7d893c4913c
+inline_embed_id: '56479343problemsolving:leastsquaresapproximation71670615'
 parent_uid: 5f12aef90a3ea658e59ce968a672c0c2
+related_resources_text: ''
+short_url: problem-solving-least-squares-approximation
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/problem-solving-least-squares-approximation
-short_url: problem-solving-least-squares-approximation
-inline_embed_id: '56479343problemsolving:leastsquaresapproximation71670615'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Least Squares Approximation'
 transcript: >-
   <p><span m='7980'>PROFESSOR: Hi,</span> <span m='8320'>and</span> <span
   m='8480'>welcome.</span> <span m='9430'>Today</span> <span
@@ -391,63 +447,7 @@ transcript: >-
   <span m='479100'>close</span> <span m='479550'>as</span> <span
   m='479740'>we</span> <span m='479910'>can</span> <span m='480230'>do.</span>
   <span m='481910'>Thanks.</span> </p>
-embedded_media:
-  - uid: 1f42e9eb2642b7ec6e82ce263542a4eb
-    parent_uid: 91b816b943c56f47c5235dc9a1da689f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: AmQcoopBUTk
-  - uid: ea8276975848534957e96ab28c7cc796
-    parent_uid: 91b816b943c56f47c5235dc9a1da689f
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: AmQcoopBUTk
-  - uid: a8258e1542fda9adfec42182de77fccc
-    parent_uid: 91b816b943c56f47c5235dc9a1da689f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/least-squares-approximation/id488155309?i=108454306
-  - uid: 9fdfce1185012e2e4a2f7ab17a5a0f12
-    parent_uid: 91b816b943c56f47c5235dc9a1da689f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110531_B1_300k.mp4
-  - uid: 79686d8817f6d91228c73a04d5af7ade
-    parent_uid: 91b816b943c56f47c5235dc9a1da689f
-    id: AmQcoopBUTk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/problem-solving-least-squares-approximation/AmQcoopBUTk.srt
-  - uid: 79bfc67661f7d63dec8228fb2856002c
-    parent_uid: 91b816b943c56f47c5235dc9a1da689f
-    id: AmQcoopBUTk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/problem-solving-least-squares-approximation/AmQcoopBUTk.pdf
-  - uid: bd6313e79c274a6064caa4ef5c913262
-    parent_uid: 91b816b943c56f47c5235dc9a1da689f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0df79c820cc2832a578bb5396402b116
-    parent_uid: 91b816b943c56f47c5235dc9a1da689f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0978acfd2011d5fd2b72b7d893c4913c
-    parent_uid: 91b816b943c56f47c5235dc9a1da689f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/AmQcoopBUTk/default.jpg'
+uid: 91b816b943c56f47c5235dc9a1da689f
 type: courses
 layout: video
 ---

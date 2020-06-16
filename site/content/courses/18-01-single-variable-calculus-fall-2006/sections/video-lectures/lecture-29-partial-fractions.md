@@ -1,17 +1,89 @@
 ---
-title: 'Lecture 29: Partial Fractions'
-uid: 08776ee8e6aca279871a427509481f68
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-29-partial-fractions
-short_url: lecture-29-partial-fractions
-inline_embed_id: '56079560lecture29:partialfractions56925540'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Partial fractions</p>
   <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec29.jpg
+    parent_uid: 08776ee8e6aca279871a427509481f68
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-29-partial-fractions/lec29.jpg
+    title: Lecture 29
+    type: null
+    uid: 15ff4f038dad6a414391dcf95e7d7eac
+  - id: Video-YouTube-Stream
+    media_location: HgEqXhsIq_g
+    parent_uid: 08776ee8e6aca279871a427509481f68
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5ef391a84483c92845105681c91e90da
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/HgEqXhsIq_g/default.jpg'
+    parent_uid: 08776ee8e6aca279871a427509481f68
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5585d4238acc08dac79f4fe3fce9fc00
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 08776ee8e6aca279871a427509481f68
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: df2dde394f6a6b5b98f4ffb34d6f2d72
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec29_300k.mp4'
+    parent_uid: 08776ee8e6aca279871a427509481f68
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 240deaa1a319102f74b85014a9fab734
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 08776ee8e6aca279871a427509481f68
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 5f2685b236767090e7f4225053ad5633
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 08776ee8e6aca279871a427509481f68
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 2ec8f6c7c145aad12ef5ebd59b33af0c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: HgEqXhsIq_g
+    parent_uid: 08776ee8e6aca279871a427509481f68
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 45b227b270d297c9e7d58652ba339e8c
+  - id: HgEqXhsIq_g.srt
+    parent_uid: 08776ee8e6aca279871a427509481f68
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-29-partial-fractions/HgEqXhsIq_g.srt
+    title: 3play caption file
+    type: null
+    uid: d9f438acdafc5384f1cd411ae04ac673
+  - id: HgEqXhsIq_g.pdf
+    parent_uid: 08776ee8e6aca279871a427509481f68
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-29-partial-fractions/HgEqXhsIq_g.pdf
+    title: 3play pdf file
+    type: null
+    uid: 90dc902ab10bda5c322f4378f2556161
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 08776ee8e6aca279871a427509481f68
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 182c095c7fafa1a725db586c0f746f06
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 08776ee8e6aca279871a427509481f68
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f3b051b46b788ff55f48d08df20523c5
+inline_embed_id: '56079560lecture29:partialfractions56925540'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/9715437d38fdfc4b91095d1b20920b79">PDF</a>)</p></div>
+short_url: lecture-29-partial-fractions
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-29-partial-fractions
+title: 'Lecture 29: Partial Fractions'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='530'>content</span> <span m='1300'>is</span> <span m='1420'>provided</span>
@@ -2657,79 +2729,7 @@ transcript: >-
   m='2914620'>and</span> <span m='2915280'>see</span> <span
   m='2915770'>you</span> <span m='2915990'>next</span> <span
   m='2916070'>time.</span> </p>
-embedded_media:
-  - uid: 15ff4f038dad6a414391dcf95e7d7eac
-    parent_uid: 08776ee8e6aca279871a427509481f68
-    id: lec29.jpg
-    title: Lecture 29
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-29-partial-fractions/lec29.jpg
-  - uid: 5ef391a84483c92845105681c91e90da
-    parent_uid: 08776ee8e6aca279871a427509481f68
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: HgEqXhsIq_g
-  - uid: 5585d4238acc08dac79f4fe3fce9fc00
-    parent_uid: 08776ee8e6aca279871a427509481f68
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/HgEqXhsIq_g/default.jpg'
-  - uid: df2dde394f6a6b5b98f4ffb34d6f2d72
-    parent_uid: 08776ee8e6aca279871a427509481f68
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: 240deaa1a319102f74b85014a9fab734
-    parent_uid: 08776ee8e6aca279871a427509481f68
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec29_300k.mp4'
-  - uid: 5f2685b236767090e7f4225053ad5633
-    parent_uid: 08776ee8e6aca279871a427509481f68
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 2ec8f6c7c145aad12ef5ebd59b33af0c
-    parent_uid: 08776ee8e6aca279871a427509481f68
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 45b227b270d297c9e7d58652ba339e8c
-    parent_uid: 08776ee8e6aca279871a427509481f68
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: HgEqXhsIq_g
-  - uid: d9f438acdafc5384f1cd411ae04ac673
-    parent_uid: 08776ee8e6aca279871a427509481f68
-    id: HgEqXhsIq_g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-29-partial-fractions/HgEqXhsIq_g.srt
-  - uid: 90dc902ab10bda5c322f4378f2556161
-    parent_uid: 08776ee8e6aca279871a427509481f68
-    id: HgEqXhsIq_g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-29-partial-fractions/HgEqXhsIq_g.pdf
-  - uid: 182c095c7fafa1a725db586c0f746f06
-    parent_uid: 08776ee8e6aca279871a427509481f68
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f3b051b46b788ff55f48d08df20523c5
-    parent_uid: 08776ee8e6aca279871a427509481f68
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 08776ee8e6aca279871a427509481f68
 type: courses
 layout: video
 ---

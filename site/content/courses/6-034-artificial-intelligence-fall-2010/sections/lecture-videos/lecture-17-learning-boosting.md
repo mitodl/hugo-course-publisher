@@ -1,21 +1,76 @@
 ---
-title: 'Lecture 17: Learning: Boosting'
-uid: bb982745cd8302ecb5ba7a0ee144c56f
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-17-learning-boosting
-short_url: lecture-17-learning-boosting
-inline_embed_id: '96566775lecture17:learning:boosting53288034'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Can multiple weak classifiers be used to make
   a strong one?  We examine the boosting algorithm, which adjusts the weight of
   each classifier, and work through the math. We end with how boosting doesn't
   seem to overfit, and mention some applications.</p>
   <p><strong>Instructor:</strong> Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: UHBmv7qCey4
+    parent_uid: bb982745cd8302ecb5ba7a0ee144c56f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 15870b7326e3a530f26468b1bb394804
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-17-learning-boosting/id765641080?i=194475733
+    parent_uid: bb982745cd8302ecb5ba7a0ee144c56f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6b39b66731fd3958cdb9c06682f595eb
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec17_300k.mp4'
+    parent_uid: bb982745cd8302ecb5ba7a0ee144c56f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 820990c03bf5a3a337e48128f86383dc
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/UHBmv7qCey4/default.jpg'
+    parent_uid: bb982745cd8302ecb5ba7a0ee144c56f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: db311e4f32ad2224617bac71edf745c5
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: UHBmv7qCey4
+    parent_uid: bb982745cd8302ecb5ba7a0ee144c56f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1bc4f46141d41d9824bf7b1e95a17930
+  - id: UHBmv7qCey4.srt
+    parent_uid: bb982745cd8302ecb5ba7a0ee144c56f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-17-learning-boosting/UHBmv7qCey4.srt
+    title: 3play caption file
+    type: null
+    uid: 646a32f6bbee5d6cfad65ca981e8c953
+  - id: UHBmv7qCey4.pdf
+    parent_uid: bb982745cd8302ecb5ba7a0ee144c56f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-17-learning-boosting/UHBmv7qCey4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 253a7f25bca8bb092ad09ccee848a0a3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bb982745cd8302ecb5ba7a0ee144c56f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4760bdd1e54fb3eca8b9f4782af43078
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bb982745cd8302ecb5ba7a0ee144c56f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9229bb43c4e55aa7bdcb4d1ce86fb85c
+inline_embed_id: '96566775lecture17:learning:boosting53288034'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: >-
   <p>Specifically developed for this lecture are the <a
   href="./resolveuid/6f12118abb4d06b7fe816142e59dc883" target="_blank">boosting
   notes (PDF)</a>, which are also listed among the readings for this course.</p>
+short_url: lecture-17-learning-boosting
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-17-learning-boosting
+title: 'Lecture 17: Learning: Boosting'
 transcript: >-
   <p><span m='9640'>PATRICK WINSTON: We've now almost completed our
   journey.</span> </p><p><span m='11900'>This will be it for talking
@@ -841,62 +896,7 @@ transcript: >-
   you should understand it very thoroughly, because of</span> <span
   m='3081590'>anything is useful in the subject in dimension learning,</span>
   <span m='3085740'>this is it.</span> </p><p></p>
-embedded_media:
-  - uid: 15870b7326e3a530f26468b1bb394804
-    parent_uid: bb982745cd8302ecb5ba7a0ee144c56f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: UHBmv7qCey4
-  - uid: 6b39b66731fd3958cdb9c06682f595eb
-    parent_uid: bb982745cd8302ecb5ba7a0ee144c56f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-17-learning-boosting/id765641080?i=194475733
-  - uid: 820990c03bf5a3a337e48128f86383dc
-    parent_uid: bb982745cd8302ecb5ba7a0ee144c56f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec17_300k.mp4'
-  - uid: db311e4f32ad2224617bac71edf745c5
-    parent_uid: bb982745cd8302ecb5ba7a0ee144c56f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/UHBmv7qCey4/default.jpg'
-  - uid: 1bc4f46141d41d9824bf7b1e95a17930
-    parent_uid: bb982745cd8302ecb5ba7a0ee144c56f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: UHBmv7qCey4
-  - uid: 646a32f6bbee5d6cfad65ca981e8c953
-    parent_uid: bb982745cd8302ecb5ba7a0ee144c56f
-    id: UHBmv7qCey4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-17-learning-boosting/UHBmv7qCey4.srt
-  - uid: 253a7f25bca8bb092ad09ccee848a0a3
-    parent_uid: bb982745cd8302ecb5ba7a0ee144c56f
-    id: UHBmv7qCey4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-17-learning-boosting/UHBmv7qCey4.pdf
-  - uid: 4760bdd1e54fb3eca8b9f4782af43078
-    parent_uid: bb982745cd8302ecb5ba7a0ee144c56f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9229bb43c4e55aa7bdcb4d1ce86fb85c
-    parent_uid: bb982745cd8302ecb5ba7a0ee144c56f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: bb982745cd8302ecb5ba7a0ee144c56f
 type: courses
 layout: video
 ---

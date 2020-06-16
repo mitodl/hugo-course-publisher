@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Introduction to Numerical Integration'
-uid: 63c690c4b565b7ee6ba897e4d1c64e66
-parent_uid: be07f2bde3305a676f66884dbf8397d1
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-63-numerical-integration/clip-1-introduction-to-numerical-integration
-short_url: clip-1-introduction-to-numerical-integration
-inline_embed_id: '31572596clip1:introductiontonumericalintegration96744770'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/0cf9871c995f6ff30af82618990f8961"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 24 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: jBkXbAgMj6s
+    parent_uid: 63c690c4b565b7ee6ba897e4d1c64e66
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5056e2fa8129f16268c3e09992327691
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/jBkXbAgMj6s/default.jpg'
+    parent_uid: 63c690c4b565b7ee6ba897e4d1c64e66
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 66d708f17e16441f89057e80438a9f61
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: jBkXbAgMj6s
+    parent_uid: 63c690c4b565b7ee6ba897e4d1c64e66
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4a070a8c1220dc6d3aa83a61f41ecbf3
+  - id: jBkXbAgMj6s.srt
+    parent_uid: 63c690c4b565b7ee6ba897e4d1c64e66
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-63-numerical-integration/clip-1-introduction-to-numerical-integration/jBkXbAgMj6s.srt
+    title: 3play caption file
+    type: null
+    uid: 85a64ddf2d2c8d6e1c46d51dd6c7cacb
+  - id: jBkXbAgMj6s.pdf
+    parent_uid: 63c690c4b565b7ee6ba897e4d1c64e66
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-63-numerical-integration/clip-1-introduction-to-numerical-integration/jBkXbAgMj6s.pdf
+    title: 3play pdf file
+    type: null
+    uid: d6a95e2cb5efbafe404de3f3ea4267d6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 63c690c4b565b7ee6ba897e4d1c64e66
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b20130e146d80d3a4c0c2ebe3b63344f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 63c690c4b565b7ee6ba897e4d1c64e66
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f937617d7f068eb337c01eaca01367b9
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec24_300k.mp4'
+    parent_uid: 63c690c4b565b7ee6ba897e4d1c64e66
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1ebf75e5eb0e6890c1848a28b5459fee
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 63c690c4b565b7ee6ba897e4d1c64e66
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3735baa4a9b733dcdaad57dcaf3a2573
+inline_embed_id: '31572596clip1:introductiontonumericalintegration96744770'
+parent_uid: be07f2bde3305a676f66884dbf8397d1
 related_resources_text: ''
+short_url: clip-1-introduction-to-numerical-integration
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-63-numerical-integration/clip-1-introduction-to-numerical-integration
+title: 'Clip 1: Introduction to Numerical Integration'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='530'>content</span> <span m='1020'>is</span> <span m='1120'>provided</span>
@@ -2783,61 +2837,7 @@ transcript: >-
   m='3025650'>As</span> <span m='3025830'>I</span> <span m='3025940'>will</span>
   <span m='3026100'>show</span> <span m='3026410'>you</span> <span
   m='3027300'>next</span> <span m='3027640'>time.</span> </p>
-embedded_media:
-  - uid: 5056e2fa8129f16268c3e09992327691
-    parent_uid: 63c690c4b565b7ee6ba897e4d1c64e66
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: jBkXbAgMj6s
-  - uid: 66d708f17e16441f89057e80438a9f61
-    parent_uid: 63c690c4b565b7ee6ba897e4d1c64e66
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/jBkXbAgMj6s/default.jpg'
-  - uid: 4a070a8c1220dc6d3aa83a61f41ecbf3
-    parent_uid: 63c690c4b565b7ee6ba897e4d1c64e66
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: jBkXbAgMj6s
-  - uid: 85a64ddf2d2c8d6e1c46d51dd6c7cacb
-    parent_uid: 63c690c4b565b7ee6ba897e4d1c64e66
-    id: jBkXbAgMj6s.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-63-numerical-integration/clip-1-introduction-to-numerical-integration/jBkXbAgMj6s.srt
-  - uid: d6a95e2cb5efbafe404de3f3ea4267d6
-    parent_uid: 63c690c4b565b7ee6ba897e4d1c64e66
-    id: jBkXbAgMj6s.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-63-numerical-integration/clip-1-introduction-to-numerical-integration/jBkXbAgMj6s.pdf
-  - uid: b20130e146d80d3a4c0c2ebe3b63344f
-    parent_uid: 63c690c4b565b7ee6ba897e4d1c64e66
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f937617d7f068eb337c01eaca01367b9
-    parent_uid: 63c690c4b565b7ee6ba897e4d1c64e66
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1ebf75e5eb0e6890c1848a28b5459fee
-    parent_uid: 63c690c4b565b7ee6ba897e4d1c64e66
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec24_300k.mp4'
-  - uid: 3735baa4a9b733dcdaad57dcaf3a2573
-    parent_uid: 63c690c4b565b7ee6ba897e4d1c64e66
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 63c690c4b565b7ee6ba897e4d1c64e66
 type: courses
 layout: video
 ---

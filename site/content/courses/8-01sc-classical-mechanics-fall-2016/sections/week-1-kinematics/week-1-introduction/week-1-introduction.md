@@ -1,13 +1,67 @@
 ---
-title: 'Week 1: Introduction'
-uid: e55a1fdee531a4c14857d3a4f81e11b4
+about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Deepto Chakrabarty</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: i4u7SZjoAs4
+    parent_uid: e55a1fdee531a4c14857d3a4f81e11b4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0a62d273ce6338ada42207881252ec12
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/i4u7SZjoAs4/default.jpg'
+    parent_uid: e55a1fdee531a4c14857d3a4f81e11b4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3bdbc04520487b11958012a1a04ae4a6
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: i4u7SZjoAs4
+    parent_uid: e55a1fdee531a4c14857d3a4f81e11b4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e3c9c082be5ee7e708de836a908544ce
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: e55a1fdee531a4c14857d3a4f81e11b4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 81c33717819b943afe76ed37001bd9d0
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W01Intro_360p.mp4'
+    parent_uid: e55a1fdee531a4c14857d3a4f81e11b4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b53bea19992e4a96d079c557f87d0759
+  - id: i4u7SZjoAs4.srt
+    parent_uid: e55a1fdee531a4c14857d3a4f81e11b4
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/week-1-introduction/week-1-introduction/i4u7SZjoAs4.srt
+    title: 3play caption file
+    type: null
+    uid: e6c961796a519a1d95d935e846c2231c
+  - id: i4u7SZjoAs4.pdf
+    parent_uid: e55a1fdee531a4c14857d3a4f81e11b4
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/week-1-introduction/week-1-introduction/i4u7SZjoAs4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3f87a399486e634eee1ebebf683ff9fe
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e55a1fdee531a4c14857d3a4f81e11b4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6ce55397dfbd865de5820ccd8858098c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e55a1fdee531a4c14857d3a4f81e11b4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e5bdffe1f9efdb8aa34654850db2613c
+inline_embed_id: 86082433week1introduction23422757
 parent_uid: 97fba9f76d6d798d05e2c866432eef63
+related_resources_text: ''
+short_url: week-1-introduction
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/week-1-introduction/week-1-introduction
-short_url: week-1-introduction
-inline_embed_id: 86082433week1introduction23422757
-about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Deepto Chakrabarty</p>'
-related_resources_text: ''
+title: 'Week 1: Introduction'
 transcript: >-
   <p><span m='464'>There's an important distinction to make</span> <span
   m='2130'>between cause and effect when analyzing</span> <span m='4170'>the
@@ -57,61 +111,7 @@ transcript: >-
   <span m='122600'>examining why an object's motion changes when forces are
   applied</span> <span m='126740'>through a discussion of Newton's laws and
   their applications.</span> </p><p></p>
-embedded_media:
-  - uid: 0a62d273ce6338ada42207881252ec12
-    parent_uid: e55a1fdee531a4c14857d3a4f81e11b4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: i4u7SZjoAs4
-  - uid: 3bdbc04520487b11958012a1a04ae4a6
-    parent_uid: e55a1fdee531a4c14857d3a4f81e11b4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/i4u7SZjoAs4/default.jpg'
-  - uid: e3c9c082be5ee7e708de836a908544ce
-    parent_uid: e55a1fdee531a4c14857d3a4f81e11b4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: i4u7SZjoAs4
-  - uid: 81c33717819b943afe76ed37001bd9d0
-    parent_uid: e55a1fdee531a4c14857d3a4f81e11b4
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: b53bea19992e4a96d079c557f87d0759
-    parent_uid: e55a1fdee531a4c14857d3a4f81e11b4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W01Intro_360p.mp4'
-  - uid: e6c961796a519a1d95d935e846c2231c
-    parent_uid: e55a1fdee531a4c14857d3a4f81e11b4
-    id: i4u7SZjoAs4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/week-1-introduction/week-1-introduction/i4u7SZjoAs4.srt
-  - uid: 3f87a399486e634eee1ebebf683ff9fe
-    parent_uid: e55a1fdee531a4c14857d3a4f81e11b4
-    id: i4u7SZjoAs4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-1-kinematics/week-1-introduction/week-1-introduction/i4u7SZjoAs4.pdf
-  - uid: 6ce55397dfbd865de5820ccd8858098c
-    parent_uid: e55a1fdee531a4c14857d3a4f81e11b4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e5bdffe1f9efdb8aa34654850db2613c
-    parent_uid: e55a1fdee531a4c14857d3a4f81e11b4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: e55a1fdee531a4c14857d3a4f81e11b4
 type: courses
 layout: video
 ---

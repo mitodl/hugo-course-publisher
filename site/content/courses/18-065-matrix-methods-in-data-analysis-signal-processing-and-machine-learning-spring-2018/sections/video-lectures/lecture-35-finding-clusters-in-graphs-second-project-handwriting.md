@@ -1,13 +1,61 @@
 ---
-title: 'Lecture 35: Finding Clusters in Graphs'
-uid: 3d3111b5d8ec1cc04ce6e84c758a5976
+about_this_resource_text: "<h2 class=\"subhead\">Description</h2>\r\n<p>The topic of this lecture is clustering for graphs, meaning finding sets of “related” vertices in graphs. The challenge is finding good algorithms to optimize cluster quality. Professor Strang reviews some possibilities.</p>\r\n<h2 class=\"subhead\">Summary</h2><p>Two ways to separate graph nodes into clusters</p>\r\n<ul>\r\n    <li><strong>k-means:</strong> Choose clusters, choose centroids, choose clusters, ...</li>\r\n    <li><strong>Fiedler vector:</strong> Eigenvector of graph Laplacian: \\(+-\\) signs give 2 clusters</li>\r\n</ul>\r\n<p>Related sections in textbook: IV.6&ndash;IV.7</p>\r\n<p><strong>Instructor:</strong> Prof. Gilbert Strang</p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: cxTmmasBiC8
+    parent_uid: 3d3111b5d8ec1cc04ce6e84c758a5976
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e0adf92aa71101aed84c6ba721de9c85
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/cxTmmasBiC8/default.jpg'
+    parent_uid: 3d3111b5d8ec1cc04ce6e84c758a5976
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 56a039a827b965ee196d8ce4205b9fee
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: cxTmmasBiC8
+    parent_uid: 3d3111b5d8ec1cc04ce6e84c758a5976
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b586e7cccc2741e069e7c454e4b775ee
+  - id: cxTmmasBiC8.srt
+    parent_uid: 3d3111b5d8ec1cc04ce6e84c758a5976
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-35-finding-clusters-in-graphs-second-project-handwriting/cxTmmasBiC8.srt
+    title: 3play caption file
+    type: null
+    uid: 3fed83dceb1c6ccc6afa77cd3c851949
+  - id: cxTmmasBiC8.pdf
+    parent_uid: 3d3111b5d8ec1cc04ce6e84c758a5976
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-35-finding-clusters-in-graphs-second-project-handwriting/cxTmmasBiC8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9ec204ebe28a83f0f28421c375a18117
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3d3111b5d8ec1cc04ce6e84c758a5976
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a4bd421f25a8a85308aa7a0e8b7c547e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3d3111b5d8ec1cc04ce6e84c758a5976
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 52071eb3fac8fbc2a3dd05d67b66b56e
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture35_300k.mp4'
+    parent_uid: 3d3111b5d8ec1cc04ce6e84c758a5976
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 86622d7cc59ab98cd410c4bd92ee2b5e
+inline_embed_id: 15463284lecture35findingclustersingraphssecondprojecthandwriting79108741
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
+related_resources_text: ''
+short_url: lecture-35-finding-clusters-in-graphs-second-project-handwriting
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-35-finding-clusters-in-graphs-second-project-handwriting
-short_url: lecture-35-finding-clusters-in-graphs-second-project-handwriting
-inline_embed_id: 15463284lecture35findingclustersingraphssecondprojecthandwriting79108741
-about_this_resource_text: "<h2 class=\"subhead\">Description</h2>\r\n<p>The topic of this lecture is clustering for graphs, meaning finding sets of “related” vertices in graphs. The challenge is finding good algorithms to optimize cluster quality. Professor Strang reviews some possibilities.</p>\r\n<h2 class=\"subhead\">Summary</h2><p>Two ways to separate graph nodes into clusters</p>\r\n<ul>\r\n    <li><strong>k-means:</strong> Choose clusters, choose centroids, choose clusters, ...</li>\r\n    <li><strong>Fiedler vector:</strong> Eigenvector of graph Laplacian: \\(+-\\) signs give 2 clusters</li>\r\n</ul>\r\n<p>Related sections in textbook: IV.6&ndash;IV.7</p>\r\n<p><strong>Instructor:</strong> Prof. Gilbert Strang</p>"
-related_resources_text: ''
+title: 'Lecture 35: Finding Clusters in Graphs'
 transcript: >-
   <p><span m='1550'>The</span> <span m='1640'>following</span> <span
   m='2090'>content</span> <span m='2600'>is</span> <span
@@ -1671,55 +1719,7 @@ transcript: >-
   m='2084800'>Wednesday</span> <span m='2085730'>for</span> <span
   m='2086030'>the</span> <span m='2086179'>final</span> <span
   m='2086540'>class.</span> </p>
-embedded_media:
-  - uid: e0adf92aa71101aed84c6ba721de9c85
-    parent_uid: 3d3111b5d8ec1cc04ce6e84c758a5976
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: cxTmmasBiC8
-  - uid: 56a039a827b965ee196d8ce4205b9fee
-    parent_uid: 3d3111b5d8ec1cc04ce6e84c758a5976
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/cxTmmasBiC8/default.jpg'
-  - uid: b586e7cccc2741e069e7c454e4b775ee
-    parent_uid: 3d3111b5d8ec1cc04ce6e84c758a5976
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: cxTmmasBiC8
-  - uid: 3fed83dceb1c6ccc6afa77cd3c851949
-    parent_uid: 3d3111b5d8ec1cc04ce6e84c758a5976
-    id: cxTmmasBiC8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-35-finding-clusters-in-graphs-second-project-handwriting/cxTmmasBiC8.srt
-  - uid: 9ec204ebe28a83f0f28421c375a18117
-    parent_uid: 3d3111b5d8ec1cc04ce6e84c758a5976
-    id: cxTmmasBiC8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-35-finding-clusters-in-graphs-second-project-handwriting/cxTmmasBiC8.pdf
-  - uid: a4bd421f25a8a85308aa7a0e8b7c547e
-    parent_uid: 3d3111b5d8ec1cc04ce6e84c758a5976
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 52071eb3fac8fbc2a3dd05d67b66b56e
-    parent_uid: 3d3111b5d8ec1cc04ce6e84c758a5976
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 86622d7cc59ab98cd410c4bd92ee2b5e
-    parent_uid: 3d3111b5d8ec1cc04ce6e84c758a5976
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture35_300k.mp4'
+uid: 3d3111b5d8ec1cc04ce6e84c758a5976
 type: courses
 layout: video
 ---

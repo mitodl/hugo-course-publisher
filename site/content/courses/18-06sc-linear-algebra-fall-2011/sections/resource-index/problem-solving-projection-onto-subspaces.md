@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Projection onto Subspaces'
-uid: 71e75938ffbd375101715c0c81c28cc8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: t-n4a18AW08
+    parent_uid: 71e75938ffbd375101715c0c81c28cc8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5bc4b53c6d96f0f23b39aa7629ed645f
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: t-n4a18AW08
+    parent_uid: 71e75938ffbd375101715c0c81c28cc8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f966587f92ef608bc5981406dfff240b
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/projection-into-subspaces/id488155309?i=108454304
+    parent_uid: 71e75938ffbd375101715c0c81c28cc8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8bc2e171d40a495b4b5fb5551b37ff9e
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110706_N1_300k.mp4
+    parent_uid: 71e75938ffbd375101715c0c81c28cc8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: abceff3542c9c5098a59c444c0c246b0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/t-n4a18AW08/default.jpg'
+    parent_uid: 71e75938ffbd375101715c0c81c28cc8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e1ed5f54bff6b6b0ff4212ce9da722de
+  - id: t-n4a18AW08.srt
+    parent_uid: 71e75938ffbd375101715c0c81c28cc8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-projection-onto-subspaces/t-n4a18AW08.srt
+    title: 3play caption file
+    type: null
+    uid: 6ec0d10ff2b7bf7a18b030fa47f329d5
+  - id: t-n4a18AW08.pdf
+    parent_uid: 71e75938ffbd375101715c0c81c28cc8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-projection-onto-subspaces/t-n4a18AW08.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4df51fb0fea8c14941e59ccf240e4a63
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 71e75938ffbd375101715c0c81c28cc8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 61865ea7c9a3d94a8536172a3bc8b475
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 71e75938ffbd375101715c0c81c28cc8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 377ba404bcb3fb1e209e93c41bce257a
+inline_embed_id: '41546349problemsolving:projectionontosubspaces73353939'
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: problem-solving-projection-onto-subspaces
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-projection-onto-subspaces
-short_url: problem-solving-projection-onto-subspaces
-inline_embed_id: '41546349problemsolving:projectionontosubspaces73353939'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Projection onto Subspaces'
 transcript: >-
   <p><span m='5688'>PROFESSOR:</span> <span m='6170'>Hi,</span> <span
   m='6330'>guys.</span> <span m='8300'>My</span> <span m='8440'>name</span>
@@ -398,63 +454,7 @@ transcript: >-
   m='586420'>here.</span> <span m='588170'>I</span> <span
   m='588280'>think</span> <span m='588470'>we're</span> <span
   m='588610'>done</span> <span m='588740'>here.</span> </p>
-embedded_media:
-  - uid: 5bc4b53c6d96f0f23b39aa7629ed645f
-    parent_uid: 71e75938ffbd375101715c0c81c28cc8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: t-n4a18AW08
-  - uid: f966587f92ef608bc5981406dfff240b
-    parent_uid: 71e75938ffbd375101715c0c81c28cc8
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: t-n4a18AW08
-  - uid: 8bc2e171d40a495b4b5fb5551b37ff9e
-    parent_uid: 71e75938ffbd375101715c0c81c28cc8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/projection-into-subspaces/id488155309?i=108454304
-  - uid: abceff3542c9c5098a59c444c0c246b0
-    parent_uid: 71e75938ffbd375101715c0c81c28cc8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110706_N1_300k.mp4
-  - uid: e1ed5f54bff6b6b0ff4212ce9da722de
-    parent_uid: 71e75938ffbd375101715c0c81c28cc8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/t-n4a18AW08/default.jpg'
-  - uid: 6ec0d10ff2b7bf7a18b030fa47f329d5
-    parent_uid: 71e75938ffbd375101715c0c81c28cc8
-    id: t-n4a18AW08.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-projection-onto-subspaces/t-n4a18AW08.srt
-  - uid: 4df51fb0fea8c14941e59ccf240e4a63
-    parent_uid: 71e75938ffbd375101715c0c81c28cc8
-    id: t-n4a18AW08.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-projection-onto-subspaces/t-n4a18AW08.pdf
-  - uid: 61865ea7c9a3d94a8536172a3bc8b475
-    parent_uid: 71e75938ffbd375101715c0c81c28cc8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 377ba404bcb3fb1e209e93c41bce257a
-    parent_uid: 71e75938ffbd375101715c0c81c28cc8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 71e75938ffbd375101715c0c81c28cc8
 type: courses
 layout: video
 ---

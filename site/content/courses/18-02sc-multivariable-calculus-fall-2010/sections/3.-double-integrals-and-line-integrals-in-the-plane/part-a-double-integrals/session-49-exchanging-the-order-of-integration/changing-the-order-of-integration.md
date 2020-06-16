@@ -1,13 +1,68 @@
 ---
-title: Changing the Order of Integration
-uid: a3f208ec56a65f7e53b0f5c82996b695
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: p06QDsAPY4g
+    parent_uid: a3f208ec56a65f7e53b0f5c82996b695
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d68db170695c6afa35d5dda8bdf5cc15
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/p06QDsAPY4g/default.jpg'
+    parent_uid: a3f208ec56a65f7e53b0f5c82996b695
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e8e24e6efced392215927204e1d26dd8
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_33_300k.mp4'
+    parent_uid: a3f208ec56a65f7e53b0f5c82996b695
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c549062b9846c165d230949d618a9b04
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/changing-order-integration/id414355340?i=90322849
+    parent_uid: a3f208ec56a65f7e53b0f5c82996b695
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 317be8e5cc4ed96a796b0d13c1dadad0
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: p06QDsAPY4g
+    parent_uid: a3f208ec56a65f7e53b0f5c82996b695
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e6dd233ae145c6877f12aa8f5545aba5
+  - id: p06QDsAPY4g.srt
+    parent_uid: a3f208ec56a65f7e53b0f5c82996b695
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-49-exchanging-the-order-of-integration/changing-the-order-of-integration/p06QDsAPY4g.srt
+    title: 3play caption file
+    type: null
+    uid: ca77cd08a1580e8fbdd5fb196f4fe3fe
+  - id: p06QDsAPY4g.pdf
+    parent_uid: a3f208ec56a65f7e53b0f5c82996b695
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-49-exchanging-the-order-of-integration/changing-the-order-of-integration/p06QDsAPY4g.pdf
+    title: 3play pdf file
+    type: null
+    uid: 38cb85e39cd07784414eafef3162e2b7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a3f208ec56a65f7e53b0f5c82996b695
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 09baa287abe188658881e5fdf5935c3c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a3f208ec56a65f7e53b0f5c82996b695
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b7f4dcc20f828817bce61eaf75eb0285
+inline_embed_id: 33198786changingtheorderofintegration31485584
 parent_uid: 835ad4243cd25ec6b244f1c7dc764bc4
+related_resources_text: ''
+short_url: changing-the-order-of-integration
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-49-exchanging-the-order-of-integration/changing-the-order-of-integration
-short_url: changing-the-order-of-integration
-inline_embed_id: 33198786changingtheorderofintegration31485584
-about_this_resource_text: ''
-related_resources_text: ''
+title: Changing the Order of Integration
 transcript: >-
   <p><span m='0'>DAVID JORDAN:</span> <span m='5570'>Hello,</span> <span
   m='5840'>and</span> <span m='5930'>welcome</span> <span m='6190'>back</span>
@@ -328,62 +383,7 @@ transcript: >-
   m='358350'>then</span> <span m='358740'>plus</span> <span m='359100'>1.</span>
   <span m='360700'>And</span> <span m='360990'>that's</span> <span
   m='361190'>our</span> <span m='361290'>solution.</span> </p>
-embedded_media:
-  - uid: d68db170695c6afa35d5dda8bdf5cc15
-    parent_uid: a3f208ec56a65f7e53b0f5c82996b695
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: p06QDsAPY4g
-  - uid: e8e24e6efced392215927204e1d26dd8
-    parent_uid: a3f208ec56a65f7e53b0f5c82996b695
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/p06QDsAPY4g/default.jpg'
-  - uid: c549062b9846c165d230949d618a9b04
-    parent_uid: a3f208ec56a65f7e53b0f5c82996b695
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_33_300k.mp4'
-  - uid: 317be8e5cc4ed96a796b0d13c1dadad0
-    parent_uid: a3f208ec56a65f7e53b0f5c82996b695
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/changing-order-integration/id414355340?i=90322849
-  - uid: e6dd233ae145c6877f12aa8f5545aba5
-    parent_uid: a3f208ec56a65f7e53b0f5c82996b695
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: p06QDsAPY4g
-  - uid: ca77cd08a1580e8fbdd5fb196f4fe3fe
-    parent_uid: a3f208ec56a65f7e53b0f5c82996b695
-    id: p06QDsAPY4g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-49-exchanging-the-order-of-integration/changing-the-order-of-integration/p06QDsAPY4g.srt
-  - uid: 38cb85e39cd07784414eafef3162e2b7
-    parent_uid: a3f208ec56a65f7e53b0f5c82996b695
-    id: p06QDsAPY4g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-49-exchanging-the-order-of-integration/changing-the-order-of-integration/p06QDsAPY4g.pdf
-  - uid: 09baa287abe188658881e5fdf5935c3c
-    parent_uid: a3f208ec56a65f7e53b0f5c82996b695
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b7f4dcc20f828817bce61eaf75eb0285
-    parent_uid: a3f208ec56a65f7e53b0f5c82996b695
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a3f208ec56a65f7e53b0f5c82996b695
 type: courses
 layout: video
 ---

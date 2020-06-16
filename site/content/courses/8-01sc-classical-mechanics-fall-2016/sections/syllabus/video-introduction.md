@@ -1,13 +1,67 @@
 ---
-title: Video Introduction
-uid: 24b6705d39fd0da50fc0092d8b2c1a8a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: F3N5EkMX_ks
+    parent_uid: 24b6705d39fd0da50fc0092d8b2c1a8a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d0b6e660f694b12ac3bc622f17c89612
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/F3N5EkMX_ks/default.jpg'
+    parent_uid: 24b6705d39fd0da50fc0092d8b2c1a8a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 019927fb0aa1a686d7e8218d048f1a10
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 24b6705d39fd0da50fc0092d8b2c1a8a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b59650af7eb899f13e0b84ceb2190264
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_Intro_300k.mp4'
+    parent_uid: 24b6705d39fd0da50fc0092d8b2c1a8a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a5498500e848c1a6090e2d8194c0f3b3
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: F3N5EkMX_ks
+    parent_uid: 24b6705d39fd0da50fc0092d8b2c1a8a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c16158e8aa888671c7cae16c0aa76131
+  - id: F3N5EkMX_ks.srt
+    parent_uid: 24b6705d39fd0da50fc0092d8b2c1a8a
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/syllabus/video-introduction/F3N5EkMX_ks.srt
+    title: 3play caption file
+    type: null
+    uid: 55552629c2e012f08f1f3030b23b6a88
+  - id: F3N5EkMX_ks.pdf
+    parent_uid: 24b6705d39fd0da50fc0092d8b2c1a8a
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/syllabus/video-introduction/F3N5EkMX_ks.pdf
+    title: 3play pdf file
+    type: null
+    uid: 637ca1c7a1cac1f493c781ec6a3f5422
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 24b6705d39fd0da50fc0092d8b2c1a8a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 47eef806acb290b348ea592af1f238ca
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 24b6705d39fd0da50fc0092d8b2c1a8a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1a29cfe70e0cee91b5ed1db33bec2c06
+inline_embed_id: 87905707videointroduction96794523
 parent_uid: 8488bde46909b726a411abeee039ef1a
+related_resources_text: ''
+short_url: video-introduction
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/syllabus/video-introduction
-short_url: video-introduction
-inline_embed_id: 87905707videointroduction96794523
-about_this_resource_text: ''
-related_resources_text: ''
+title: Video Introduction
 transcript: >-
   <p><span m='2159'> Welcome to Physics 8.01, MITs introductory course in
   classical mechanics for first-year</span> <span
@@ -49,61 +103,7 @@ transcript: >-
   MIT-level problem sets.</span> </p><p><span m='118509'>Developing a command of
   mechanics is a powerful tool for understanding the world around us.</span>
   </p><p><span m='124849'>Welcome to 8.01.</span> </p>
-embedded_media:
-  - uid: d0b6e660f694b12ac3bc622f17c89612
-    parent_uid: 24b6705d39fd0da50fc0092d8b2c1a8a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: F3N5EkMX_ks
-  - uid: 019927fb0aa1a686d7e8218d048f1a10
-    parent_uid: 24b6705d39fd0da50fc0092d8b2c1a8a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/F3N5EkMX_ks/default.jpg'
-  - uid: b59650af7eb899f13e0b84ceb2190264
-    parent_uid: 24b6705d39fd0da50fc0092d8b2c1a8a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: a5498500e848c1a6090e2d8194c0f3b3
-    parent_uid: 24b6705d39fd0da50fc0092d8b2c1a8a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_Intro_300k.mp4'
-  - uid: c16158e8aa888671c7cae16c0aa76131
-    parent_uid: 24b6705d39fd0da50fc0092d8b2c1a8a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: F3N5EkMX_ks
-  - uid: 55552629c2e012f08f1f3030b23b6a88
-    parent_uid: 24b6705d39fd0da50fc0092d8b2c1a8a
-    id: F3N5EkMX_ks.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/syllabus/video-introduction/F3N5EkMX_ks.srt
-  - uid: 637ca1c7a1cac1f493c781ec6a3f5422
-    parent_uid: 24b6705d39fd0da50fc0092d8b2c1a8a
-    id: F3N5EkMX_ks.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/syllabus/video-introduction/F3N5EkMX_ks.pdf
-  - uid: 47eef806acb290b348ea592af1f238ca
-    parent_uid: 24b6705d39fd0da50fc0092d8b2c1a8a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1a29cfe70e0cee91b5ed1db33bec2c06
-    parent_uid: 24b6705d39fd0da50fc0092d8b2c1a8a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 24b6705d39fd0da50fc0092d8b2c1a8a
 type: courses
 layout: video
 ---

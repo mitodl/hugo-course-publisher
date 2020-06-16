@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 26: Complex Matrices; Fast Fourier Transform (FFT)'
-uid: 7ffddf2f88df338a28bea4426a0b7093
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: M0Sa8fLOajA
+    parent_uid: 7ffddf2f88df338a28bea4426a0b7093
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3d6d96a637fc296b03cc04185aa1cbf1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/M0Sa8fLOajA/default.jpg'
+    parent_uid: 7ffddf2f88df338a28bea4426a0b7093
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e8969f1f06b9eb6d38c8c263ab74b1b0
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 7ffddf2f88df338a28bea4426a0b7093
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 313b8d82818f62982ad7e5efad7eb815
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/26.mp4'
+    parent_uid: 7ffddf2f88df338a28bea4426a0b7093
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7da2dd4d93ca0a7da0faacf759ec7eb3
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: M0Sa8fLOajA
+    parent_uid: 7ffddf2f88df338a28bea4426a0b7093
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7ca366260297277a6654941b9a71e6e1
+  - id: M0Sa8fLOajA.srt
+    parent_uid: 7ffddf2f88df338a28bea4426a0b7093
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/complex-matrices-fast-fourier-transform-fft/lecture-26-complex-matrices-fast-fourier-transform-fft/M0Sa8fLOajA.srt
+    title: 3play caption file
+    type: null
+    uid: 5e408ba7c2daf33c408257094d6a0e0b
+  - id: M0Sa8fLOajA.pdf
+    parent_uid: 7ffddf2f88df338a28bea4426a0b7093
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/complex-matrices-fast-fourier-transform-fft/lecture-26-complex-matrices-fast-fourier-transform-fft/M0Sa8fLOajA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 14f40d4e826079013fc3e260ec0103f0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7ffddf2f88df338a28bea4426a0b7093
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2a1f5967701c041c5e62136023412398
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7ffddf2f88df338a28bea4426a0b7093
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3e62af3308f7dd46e928d9026412fdda
+inline_embed_id: '31170971lecture26:complexmatrices;fastfouriertransform(fft)68163908'
 parent_uid: d2f78aa297e682ccaea120a362c5d934
+related_resources_text: ''
+short_url: lecture-26-complex-matrices-fast-fourier-transform-fft
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/complex-matrices-fast-fourier-transform-fft/lecture-26-complex-matrices-fast-fourier-transform-fft
-short_url: lecture-26-complex-matrices-fast-fourier-transform-fft
-inline_embed_id: '31170971lecture26:complexmatrices;fastfouriertransform(fft)68163908'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 26: Complex Matrices; Fast Fourier Transform (FFT)'
 transcript: >-
   <p><span m='8750'>Okay.</span> <span m='9310'>This</span> <span
   m='9700'>is</span> <span m='9870'>a</span> <span m='10000'>lecture</span>
@@ -2727,61 +2781,7 @@ transcript: >-
   m='2860860'>see</span> <span m='2861160'>you</span> <span
   m='2861250'>next</span> <span m='2861490'>time.</span> </p><p><span
   m='2866240'>Thanks.</span> </p>
-embedded_media:
-  - uid: 3d6d96a637fc296b03cc04185aa1cbf1
-    parent_uid: 7ffddf2f88df338a28bea4426a0b7093
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: M0Sa8fLOajA
-  - uid: e8969f1f06b9eb6d38c8c263ab74b1b0
-    parent_uid: 7ffddf2f88df338a28bea4426a0b7093
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/M0Sa8fLOajA/default.jpg'
-  - uid: 313b8d82818f62982ad7e5efad7eb815
-    parent_uid: 7ffddf2f88df338a28bea4426a0b7093
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 7da2dd4d93ca0a7da0faacf759ec7eb3
-    parent_uid: 7ffddf2f88df338a28bea4426a0b7093
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/26.mp4'
-  - uid: 7ca366260297277a6654941b9a71e6e1
-    parent_uid: 7ffddf2f88df338a28bea4426a0b7093
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: M0Sa8fLOajA
-  - uid: 5e408ba7c2daf33c408257094d6a0e0b
-    parent_uid: 7ffddf2f88df338a28bea4426a0b7093
-    id: M0Sa8fLOajA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/complex-matrices-fast-fourier-transform-fft/lecture-26-complex-matrices-fast-fourier-transform-fft/M0Sa8fLOajA.srt
-  - uid: 14f40d4e826079013fc3e260ec0103f0
-    parent_uid: 7ffddf2f88df338a28bea4426a0b7093
-    id: M0Sa8fLOajA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/complex-matrices-fast-fourier-transform-fft/lecture-26-complex-matrices-fast-fourier-transform-fft/M0Sa8fLOajA.pdf
-  - uid: 2a1f5967701c041c5e62136023412398
-    parent_uid: 7ffddf2f88df338a28bea4426a0b7093
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3e62af3308f7dd46e928d9026412fdda
-    parent_uid: 7ffddf2f88df338a28bea4426a0b7093
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 7ffddf2f88df338a28bea4426a0b7093
 type: courses
 layout: video
 ---

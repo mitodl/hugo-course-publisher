@@ -1,11 +1,4 @@
 ---
-title: Day 1 Gödel's Theorem Video Pitch
-uid: 8e63c18276510bb99b752c2254bc2a59
-parent_uid: 199a8a68327fee7d62ee54642710c541
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/yuliya-klochans-project/day-1-goedels-theorem-video-pitch
-short_url: day-1-goedels-theorem-video-pitch
-inline_embed_id: 86939556day1gödel'stheoremvideopitch1833131
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,69 @@ about_this_resource_text: >-
   Commons BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: AHJDrCiXNRA
+    parent_uid: 8e63c18276510bb99b752c2254bc2a59
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ece33a8132bc59597721a108a512f658
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/AHJDrCiXNRA/default.jpg'
+    parent_uid: 8e63c18276510bb99b752c2254bc2a59
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 02685c44691a21e1339d6fffb0a1e773
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: AHJDrCiXNRA
+    parent_uid: 8e63c18276510bb99b752c2254bc2a59
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 15583a6cfaa6330afe63741074f2d67f
+  - id: AHJDrCiXNRA.srt
+    parent_uid: 8e63c18276510bb99b752c2254bc2a59
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/yuliya-klochans-project/day-1-goedels-theorem-video-pitch/AHJDrCiXNRA.srt
+    title: 3play caption file
+    type: null
+    uid: 64340bd22a80b3be389529ceef5b52c6
+  - id: AHJDrCiXNRA.pdf
+    parent_uid: 8e63c18276510bb99b752c2254bc2a59
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/yuliya-klochans-project/day-1-goedels-theorem-video-pitch/AHJDrCiXNRA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5790b452bfcbb2d989051a27ed4fa05a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8e63c18276510bb99b752c2254bc2a59
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5431a7b6d702587c70cfd7b0cb5cffe1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8e63c18276510bb99b752c2254bc2a59
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b7289e74d6395a08505701da72e785db
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 8e63c18276510bb99b752c2254bc2a59
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: eed4ede90f79082ce00629343774988a
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_YK_D01_Pitch_360p.mp4
+    parent_uid: 8e63c18276510bb99b752c2254bc2a59
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 26a2b5e93a4183f665ec8ecdeeee8560
+inline_embed_id: 86939556day1gödel'stheoremvideopitch1833131
+parent_uid: 199a8a68327fee7d62ee54642710c541
 related_resources_text: ''
+short_url: day-1-goedels-theorem-video-pitch
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/yuliya-klochans-project/day-1-goedels-theorem-video-pitch
+title: Day 1 Gödel's Theorem Video Pitch
 transcript: >-
   <p><span m="1690">GUEST SPEAKER: Guess</span> <span m="1990">who</span> <span
   m="2090">likes</span> <span m="2390">to</span> <span m="2520">live</span>
@@ -93,62 +148,7 @@ transcript: >-
   <span m="87450">Godel</span> <span m="87840">answers</span> <span
   m="88310">that</span> <span m="88730">and</span> <span m="89150">so</span>
   <span m="89820">much</span> <span m="90510">more.</span></p>
-embedded_media:
-  - uid: ece33a8132bc59597721a108a512f658
-    parent_uid: 8e63c18276510bb99b752c2254bc2a59
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: AHJDrCiXNRA
-  - uid: 02685c44691a21e1339d6fffb0a1e773
-    parent_uid: 8e63c18276510bb99b752c2254bc2a59
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/AHJDrCiXNRA/default.jpg'
-  - uid: 15583a6cfaa6330afe63741074f2d67f
-    parent_uid: 8e63c18276510bb99b752c2254bc2a59
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: AHJDrCiXNRA
-  - uid: 64340bd22a80b3be389529ceef5b52c6
-    parent_uid: 8e63c18276510bb99b752c2254bc2a59
-    id: AHJDrCiXNRA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/yuliya-klochans-project/day-1-goedels-theorem-video-pitch/AHJDrCiXNRA.srt
-  - uid: 5790b452bfcbb2d989051a27ed4fa05a
-    parent_uid: 8e63c18276510bb99b752c2254bc2a59
-    id: AHJDrCiXNRA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/yuliya-klochans-project/day-1-goedels-theorem-video-pitch/AHJDrCiXNRA.pdf
-  - uid: 5431a7b6d702587c70cfd7b0cb5cffe1
-    parent_uid: 8e63c18276510bb99b752c2254bc2a59
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b7289e74d6395a08505701da72e785db
-    parent_uid: 8e63c18276510bb99b752c2254bc2a59
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: eed4ede90f79082ce00629343774988a
-    parent_uid: 8e63c18276510bb99b752c2254bc2a59
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 26a2b5e93a4183f665ec8ecdeeee8560
-    parent_uid: 8e63c18276510bb99b752c2254bc2a59
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_YK_D01_Pitch_360p.mp4
+uid: 8e63c18276510bb99b752c2254bc2a59
 type: courses
 layout: video
 ---

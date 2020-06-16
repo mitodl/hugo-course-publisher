@@ -1,13 +1,61 @@
 ---
-title: 'Lecture Video 5: Beat Phenomena'
-uid: a675e99a4cc2fd7484d3463c20b77131
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: I0YACDaY-ww
+    parent_uid: a675e99a4cc2fd7484d3463c20b77131
+    title: Video-YouTube-Stream
+    type: Video
+    uid: eef4857a5ea59cd616761c0d626755de
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/I0YACDaY-ww/default.jpg'
+    parent_uid: a675e99a4cc2fd7484d3463c20b77131
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ca7443b70f6b3a7ea69be30f4a0378c8
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: I0YACDaY-ww
+    parent_uid: a675e99a4cc2fd7484d3463c20b77131
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: eb6b75629021dfd342cfc95ac145f38f
+  - id: I0YACDaY-ww.srt
+    parent_uid: a675e99a4cc2fd7484d3463c20b77131
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-5-video/I0YACDaY-ww.srt
+    title: 3play caption file
+    type: null
+    uid: d77a0a59902a2d3cad4412690abc2912
+  - id: I0YACDaY-ww.pdf
+    parent_uid: a675e99a4cc2fd7484d3463c20b77131
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-5-video/I0YACDaY-ww.pdf
+    title: 3play pdf file
+    type: null
+    uid: 93bb8491bdc26ff7787b9cc3b7b5d2ca
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a675e99a4cc2fd7484d3463c20b77131
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6d2e7ba5b6ea11e17e56b93002f4fa8a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a675e99a4cc2fd7484d3463c20b77131
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 85ea55c19c5e18601a5e659275e6fc9f
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec05_300k.mp4'
+    parent_uid: a675e99a4cc2fd7484d3463c20b77131
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b6c7fe1a0defd7068ebc30589d7abe86
+inline_embed_id: 85189140lecture5video44380627
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-5-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-5-video
-short_url: lecture-5-video
-inline_embed_id: 85189140lecture5video44380627
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture Video 5: Beat Phenomena'
 transcript: >-
   <p><span m="2165">The</span> <span m="2210">following</span> <span
   m="2660">content</span> <span m="3140">is</span> <span
@@ -4535,55 +4583,7 @@ transcript: >-
   m="4796190">continue</span> <span m="4796610">with</span> <span
   m="4796760">forced</span> <span m="4797170">oscillators.</span> <span
   m="4799570">All right?</span> <span m="4799870">Thank you.</span></p>
-embedded_media:
-  - uid: eef4857a5ea59cd616761c0d626755de
-    parent_uid: a675e99a4cc2fd7484d3463c20b77131
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: I0YACDaY-ww
-  - uid: ca7443b70f6b3a7ea69be30f4a0378c8
-    parent_uid: a675e99a4cc2fd7484d3463c20b77131
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/I0YACDaY-ww/default.jpg'
-  - uid: eb6b75629021dfd342cfc95ac145f38f
-    parent_uid: a675e99a4cc2fd7484d3463c20b77131
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: I0YACDaY-ww
-  - uid: d77a0a59902a2d3cad4412690abc2912
-    parent_uid: a675e99a4cc2fd7484d3463c20b77131
-    id: I0YACDaY-ww.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-5-video/I0YACDaY-ww.srt
-  - uid: 93bb8491bdc26ff7787b9cc3b7b5d2ca
-    parent_uid: a675e99a4cc2fd7484d3463c20b77131
-    id: I0YACDaY-ww.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-5-video/I0YACDaY-ww.pdf
-  - uid: 6d2e7ba5b6ea11e17e56b93002f4fa8a
-    parent_uid: a675e99a4cc2fd7484d3463c20b77131
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 85ea55c19c5e18601a5e659275e6fc9f
-    parent_uid: a675e99a4cc2fd7484d3463c20b77131
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b6c7fe1a0defd7068ebc30589d7abe86
-    parent_uid: a675e99a4cc2fd7484d3463c20b77131
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec05_300k.mp4'
+uid: a675e99a4cc2fd7484d3463c20b77131
 type: courses
 layout: video
 ---

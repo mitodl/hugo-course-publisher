@@ -1,15 +1,70 @@
 ---
-title: Errors
-uid: d508dd6d8f8d79caca869a2dc2bdb72d
-parent_uid: c7d87e1179bbcaad0a2eedbc7c6c03c8
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-7-video-solutions/errors
-short_url: errors
-inline_embed_id: 88164947errors40594928
 about_this_resource_text: >-
   <p><strong>Description:</strong> This in-class question demonstrates error
   codes in Python.</p> <p><strong>Instructor:</strong> Dr. Ana Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: '-wz4iU2V-Yo'
+    parent_uid: d508dd6d8f8d79caca869a2dc2bdb72d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 49f58267944d58ecf665df11d95fb27e
+  - id: '-wz4iU2V-Yo.srt'
+    parent_uid: d508dd6d8f8d79caca869a2dc2bdb72d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-7-video-solutions/errors/-wz4iU2V-Yo.srt
+    title: 3play caption file
+    type: null
+    uid: 09462de53d7476ec0e98af9bcbb227d8
+  - id: '-wz4iU2V-Yo.pdf'
+    parent_uid: d508dd6d8f8d79caca869a2dc2bdb72d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-7-video-solutions/errors/-wz4iU2V-Yo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2f4aca3461c3939be1a8adb62c0a9a0e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d508dd6d8f8d79caca869a2dc2bdb72d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 54ec81fdd70642ea0c4b157f67dbfd0b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d508dd6d8f8d79caca869a2dc2bdb72d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e75858d405cce963a97c3f4556df42f5
+  - id: Video-YouTube-Stream
+    media_location: '-wz4iU2V-Yo'
+    parent_uid: d508dd6d8f8d79caca869a2dc2bdb72d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7f23ca5bb9ccafa139414213590c4330
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-wz4iU2V-Yo/default.jpg'
+    parent_uid: d508dd6d8f8d79caca869a2dc2bdb72d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 71d7c8cb086257f2bb3a3d7cc3693ab9
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: d508dd6d8f8d79caca869a2dc2bdb72d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2df1b06778e7ff0c2468e3ebc200a1cd
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_07_exercise_02_300k.mp4
+    parent_uid: d508dd6d8f8d79caca869a2dc2bdb72d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6743820821bfb354d440c418eeb412c7
+inline_embed_id: 88164947errors40594928
+parent_uid: c7d87e1179bbcaad0a2eedbc7c6c03c8
 related_resources_text: ''
+short_url: errors
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-7-video-solutions/errors
+title: Errors
 transcript: >-
   <p><span m='790'>The</span> <span m='880'>following</span> <span
   m='1300'>content</span> <span m='1870'>is</span> <span
@@ -79,62 +134,7 @@ transcript: >-
   m='71760'>you</span> <span m='71850'>settle</span> <span m='73710'>on</span>
   <span m='73830'>the</span> <span m='73920'>right</span> <span
   m='74100'>answer.</span> </p>
-embedded_media:
-  - uid: 49f58267944d58ecf665df11d95fb27e
-    parent_uid: d508dd6d8f8d79caca869a2dc2bdb72d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-wz4iU2V-Yo'
-  - uid: 09462de53d7476ec0e98af9bcbb227d8
-    parent_uid: d508dd6d8f8d79caca869a2dc2bdb72d
-    id: '-wz4iU2V-Yo.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-7-video-solutions/errors/-wz4iU2V-Yo.srt
-  - uid: 2f4aca3461c3939be1a8adb62c0a9a0e
-    parent_uid: d508dd6d8f8d79caca869a2dc2bdb72d
-    id: '-wz4iU2V-Yo.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-7-video-solutions/errors/-wz4iU2V-Yo.pdf
-  - uid: 54ec81fdd70642ea0c4b157f67dbfd0b
-    parent_uid: d508dd6d8f8d79caca869a2dc2bdb72d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e75858d405cce963a97c3f4556df42f5
-    parent_uid: d508dd6d8f8d79caca869a2dc2bdb72d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 7f23ca5bb9ccafa139414213590c4330
-    parent_uid: d508dd6d8f8d79caca869a2dc2bdb72d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-wz4iU2V-Yo'
-  - uid: 71d7c8cb086257f2bb3a3d7cc3693ab9
-    parent_uid: d508dd6d8f8d79caca869a2dc2bdb72d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-wz4iU2V-Yo/default.jpg'
-  - uid: 2df1b06778e7ff0c2468e3ebc200a1cd
-    parent_uid: d508dd6d8f8d79caca869a2dc2bdb72d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: 6743820821bfb354d440c418eeb412c7
-    parent_uid: d508dd6d8f8d79caca869a2dc2bdb72d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_07_exercise_02_300k.mp4
+uid: d508dd6d8f8d79caca869a2dc2bdb72d
 type: courses
 layout: video
 ---

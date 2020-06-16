@@ -1,13 +1,73 @@
 ---
-title: Bipartite Matching
-uid: 793b4c3c257e998fd36d8cdd434d656a
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 5566d15c539968a0a87895e20924a16e
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f67a64293d2b7806282ab6740e580800
+  - id: Video-YouTube-Stream
+    media_location: HZLKDC9OSaQ
+    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: eb1a4aa4ca237b9ccfa93cb2b9a1abd6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/HZLKDC9OSaQ/default.jpg'
+    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1ec1be362ff9267448fb34f858eac90c
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: HZLKDC9OSaQ
+    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 17b93d5dfba5080907efa4907082c32d
+  - id: HZLKDC9OSaQ.srt
+    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/bipartite-matching-video/bipartite-matching-0/HZLKDC9OSaQ.srt
+    title: 3play caption file
+    type: null
+    uid: 74594b30364d821952f1d1baa25945bc
+  - id: HZLKDC9OSaQ.pdf
+    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/bipartite-matching-video/bipartite-matching-0/HZLKDC9OSaQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: c76bf7f3fef287782986e19b75295062
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 479eb504a2718d450437102e40c9685a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ae042c25d3e8d930eef1905e70d9c1bf
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_bipartitematch_video_ipod.mp4
+    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 76f7470842105d91404f00ea256e65cb
+inline_embed_id: 42897888bipartitematching50374003
 parent_uid: 68230ebe4f1e941843d991caad882931
+related_resources_text: ''
+short_url: bipartite-matching-0
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/bipartite-matching-video/bipartite-matching-0
-short_url: bipartite-matching-0
-inline_embed_id: 42897888bipartitematching50374003
-about_this_resource_text: ''
-related_resources_text: ''
+title: Bipartite Matching
 transcript: >-
   <p><span m='860'>PROFESSOR:</span> <span m='1130'>The</span> <span
   m='1330'>stable</span> <span m='1660'>match</span> <span
@@ -309,67 +369,7 @@ transcript: >-
   m='237850'>going</span> <span m='237990'>to</span> <span m='238060'>do</span>
   <span m='238320'>in</span> <span m='238490'>the</span> <span
   m='238560'>next</span> <span m='238820'>segment.</span> </p>
-embedded_media:
-  - uid: 5566d15c539968a0a87895e20924a16e
-    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: f67a64293d2b7806282ab6740e580800
-    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: eb1a4aa4ca237b9ccfa93cb2b9a1abd6
-    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: HZLKDC9OSaQ
-  - uid: 1ec1be362ff9267448fb34f858eac90c
-    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/HZLKDC9OSaQ/default.jpg'
-  - uid: 17b93d5dfba5080907efa4907082c32d
-    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: HZLKDC9OSaQ
-  - uid: 74594b30364d821952f1d1baa25945bc
-    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
-    id: HZLKDC9OSaQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/bipartite-matching-video/bipartite-matching-0/HZLKDC9OSaQ.srt
-  - uid: c76bf7f3fef287782986e19b75295062
-    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
-    id: HZLKDC9OSaQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/bipartite-matching-video/bipartite-matching-0/HZLKDC9OSaQ.pdf
-  - uid: 479eb504a2718d450437102e40c9685a
-    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ae042c25d3e8d930eef1905e70d9c1bf
-    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 76f7470842105d91404f00ea256e65cb
-    parent_uid: 793b4c3c257e998fd36d8cdd434d656a
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_bipartitematch_video_ipod.mp4
+uid: 793b4c3c257e998fd36d8cdd434d656a
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: Behavior of the differential equation
-uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: eNf8nH1yEYc
+    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c2f65c8e659e947c5f45248ce8fb51f2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/kce8aqh0Esg/default.jpg'
+    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 103a83acb425198a5fa08925944de338
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: eNf8nH1yEYc
+    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c6a0e85f17a5bd6c8f46e91f34ba84d6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0a153883dce99b9f61751643818d7c11
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec13_s5_300k.mp4'
+    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8f1b9a2eaa15ad6a7db4d5c402df61e6
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/eNf8nH1yEYc/default.jpg'
+    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c5aa8a4ba6edaf39dc1f0bb64562a88c
+  - id: eNf8nH1yEYc.srt
+    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/behavior-of-the-differential-equation/eNf8nH1yEYc.srt
+    title: 3play caption file
+    type: null
+    uid: bc501b191944b0d0503b7d77850161e7
+  - id: eNf8nH1yEYc.pdf
+    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/behavior-of-the-differential-equation/eNf8nH1yEYc.pdf
+    title: 3play pdf file
+    type: null
+    uid: b8594b5920d93255df3dc9cce522959f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5644a2cd07713b08619613a559c31728
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 00f33f2f6ecf89535d9ecb33276065ee
+inline_embed_id: 10705084behaviorofthedifferentialequation52554224
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: behavior-of-the-differential-equation
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/behavior-of-the-differential-equation
-short_url: behavior-of-the-differential-equation
-inline_embed_id: 10705084behaviorofthedifferentialequation52554224
-about_this_resource_text: ''
-related_resources_text: ''
+title: Behavior of the differential equation
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='202'>Now,</span> <span
   m='2029'>what</span> <span m='2450'>should</span> <span
@@ -540,67 +600,7 @@ transcript: >-
   m='628230'>solution</span> <span m='629250'>and</span> <span
   m='629430'>everything</span> <span m='630030'>works</span> <span
   m='630330'>out.</span> </p>
-embedded_media:
-  - uid: c2f65c8e659e947c5f45248ce8fb51f2
-    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: eNf8nH1yEYc
-  - uid: 103a83acb425198a5fa08925944de338
-    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/kce8aqh0Esg/default.jpg'
-  - uid: c6a0e85f17a5bd6c8f46e91f34ba84d6
-    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: eNf8nH1yEYc
-  - uid: 0a153883dce99b9f61751643818d7c11
-    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 8f1b9a2eaa15ad6a7db4d5c402df61e6
-    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec13_s5_300k.mp4'
-  - uid: c5aa8a4ba6edaf39dc1f0bb64562a88c
-    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/eNf8nH1yEYc/default.jpg'
-  - uid: bc501b191944b0d0503b7d77850161e7
-    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
-    id: eNf8nH1yEYc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/behavior-of-the-differential-equation/eNf8nH1yEYc.srt
-  - uid: b8594b5920d93255df3dc9cce522959f
-    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
-    id: eNf8nH1yEYc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/behavior-of-the-differential-equation/eNf8nH1yEYc.pdf
-  - uid: 5644a2cd07713b08619613a559c31728
-    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 00f33f2f6ecf89535d9ecb33276065ee
-    parent_uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 7a0f1d25bb332f8c10fc86d4e0afdd7b
 type: courses
 layout: video
 ---

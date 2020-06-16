@@ -1,13 +1,67 @@
 ---
-title: 'Transposes, Permutations, Vector Spaces'
-uid: 543961d1b545b463acfc8e46dab22747
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: JibVXBElKL0
+    parent_uid: 543961d1b545b463acfc8e46dab22747
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 702480cd329d2f91b4292dde67e82553
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/JibVXBElKL0/default.jpg'
+    parent_uid: 543961d1b545b463acfc8e46dab22747
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 456d7cd521e2edd057cbb5de5e68fc22
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: JibVXBElKL0
+    parent_uid: 543961d1b545b463acfc8e46dab22747
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 81d088b1bef2583df67d33453d744cdc
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 543961d1b545b463acfc8e46dab22747
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 43df97a3df238ddfa3c2462307990399
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/05.mp4'
+    parent_uid: 543961d1b545b463acfc8e46dab22747
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: aedd9751350491d8cbfc14f265e9853e
+  - id: JibVXBElKL0.srt
+    parent_uid: 543961d1b545b463acfc8e46dab22747
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/transposes-permutations-vector-spaces/JibVXBElKL0.srt
+    title: 3play caption file
+    type: null
+    uid: 1d618d028416766b580a63310ca45ded
+  - id: JibVXBElKL0.pdf
+    parent_uid: 543961d1b545b463acfc8e46dab22747
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/transposes-permutations-vector-spaces/JibVXBElKL0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9e4e931d2e5fcfb814ec2409cea35177
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 543961d1b545b463acfc8e46dab22747
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b98d625c9b16c7ca6ab4f3c4d5977755
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 543961d1b545b463acfc8e46dab22747
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6b965a7b10e353d22b5ee111e7973610
+inline_embed_id: 71574152transposespermutationsvectorspaces9521852
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: transposes-permutations-vector-spaces
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/transposes-permutations-vector-spaces
-short_url: transposes-permutations-vector-spaces
-inline_embed_id: 71574152transposespermutationsvectorspaces9521852
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Transposes, Permutations, Vector Spaces'
 transcript: >-
   <p><span m="9860">Okay.</span> <span m="10620">This</span> <span
   m="11270">is</span> <span m="11810">lecture</span> <span m="12210">five</span>
@@ -2562,61 +2616,7 @@ transcript: >-
   m="2847990">are</span> <span m="2848030">others</span> <span
   m="2848330">to</span> <span m="2848470">come.</span></p><p><span
   m="2850230">Okay,</span> <span m="2850720">thanks.</span></p>
-embedded_media:
-  - uid: 702480cd329d2f91b4292dde67e82553
-    parent_uid: 543961d1b545b463acfc8e46dab22747
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: JibVXBElKL0
-  - uid: 456d7cd521e2edd057cbb5de5e68fc22
-    parent_uid: 543961d1b545b463acfc8e46dab22747
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/JibVXBElKL0/default.jpg'
-  - uid: 81d088b1bef2583df67d33453d744cdc
-    parent_uid: 543961d1b545b463acfc8e46dab22747
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: JibVXBElKL0
-  - uid: 43df97a3df238ddfa3c2462307990399
-    parent_uid: 543961d1b545b463acfc8e46dab22747
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: aedd9751350491d8cbfc14f265e9853e
-    parent_uid: 543961d1b545b463acfc8e46dab22747
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/05.mp4'
-  - uid: 1d618d028416766b580a63310ca45ded
-    parent_uid: 543961d1b545b463acfc8e46dab22747
-    id: JibVXBElKL0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/transposes-permutations-vector-spaces/JibVXBElKL0.srt
-  - uid: 9e4e931d2e5fcfb814ec2409cea35177
-    parent_uid: 543961d1b545b463acfc8e46dab22747
-    id: JibVXBElKL0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/transposes-permutations-vector-spaces/JibVXBElKL0.pdf
-  - uid: b98d625c9b16c7ca6ab4f3c4d5977755
-    parent_uid: 543961d1b545b463acfc8e46dab22747
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6b965a7b10e353d22b5ee111e7973610
-    parent_uid: 543961d1b545b463acfc8e46dab22747
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 543961d1b545b463acfc8e46dab22747
 type: courses
 layout: video
 ---

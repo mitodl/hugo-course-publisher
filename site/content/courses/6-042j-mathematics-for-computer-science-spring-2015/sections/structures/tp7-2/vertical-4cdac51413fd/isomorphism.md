@@ -1,13 +1,73 @@
 ---
-title: Isomorphism
-uid: cfba671f534d3abae0aadcf606a0aa34
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: cfba671f534d3abae0aadcf606a0aa34
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 9d2af16e9e8701112e51a7d1837042bc
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: cfba671f534d3abae0aadcf606a0aa34
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 27de6f37f9be9a06edb76c353e02eb4e
+  - id: Video-YouTube-Stream
+    media_location: hVerxuP4cFg
+    parent_uid: cfba671f534d3abae0aadcf606a0aa34
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 17c723554ea8f9360106fd560731d3f2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/hVerxuP4cFg/default.jpg'
+    parent_uid: cfba671f534d3abae0aadcf606a0aa34
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6c51b9b2c435d6fc502de2fefe661d0f
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: hVerxuP4cFg
+    parent_uid: cfba671f534d3abae0aadcf606a0aa34
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b1e556220f37bbf9369b8da5b6e6a6fc
+  - id: hVerxuP4cFg.srt
+    parent_uid: cfba671f534d3abae0aadcf606a0aa34
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/vertical-4cdac51413fd/isomorphism/hVerxuP4cFg.srt
+    title: 3play caption file
+    type: null
+    uid: 98d4b951400dae18d5478362bd73e7fc
+  - id: hVerxuP4cFg.pdf
+    parent_uid: cfba671f534d3abae0aadcf606a0aa34
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/vertical-4cdac51413fd/isomorphism/hVerxuP4cFg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2a25b47a3019fbc5894ff6d93454fd93
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cfba671f534d3abae0aadcf606a0aa34
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1277c6084115258f409d9212a6ccd49f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cfba671f534d3abae0aadcf606a0aa34
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3cde498965749bdd32dd0e7cb23f650b
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_simple_isomorphism_video_ipod.mp4
+    parent_uid: cfba671f534d3abae0aadcf606a0aa34
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ad129967510ef12fa5b21e012f8bdb09
+inline_embed_id: 38940634isomorphism62881413
 parent_uid: 7866ebc6cf40aff967a1b17515804c46
+related_resources_text: ''
+short_url: isomorphism
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/vertical-4cdac51413fd/isomorphism
-short_url: isomorphism
-inline_embed_id: 38940634isomorphism62881413
-about_this_resource_text: ''
-related_resources_text: ''
+title: Isomorphism
 transcript: >-
   <p><span m='580'>PROFESSOR: We've</span> <span m='930'>briefly</span> <span
   m='1370'>looked</span> <span m='1680'>at</span> <span m='1800'>graph</span>
@@ -824,67 +884,7 @@ transcript: >-
   <span m='656310'>exponentially</span> <span m='657350'>on</span> <span
   m='657540'>some</span> <span m='657790'>example</span> <span
   m='658710'>or</span> <span m='658880'>another.</span> </p>
-embedded_media:
-  - uid: 9d2af16e9e8701112e51a7d1837042bc
-    parent_uid: cfba671f534d3abae0aadcf606a0aa34
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 27de6f37f9be9a06edb76c353e02eb4e
-    parent_uid: cfba671f534d3abae0aadcf606a0aa34
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 17c723554ea8f9360106fd560731d3f2
-    parent_uid: cfba671f534d3abae0aadcf606a0aa34
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: hVerxuP4cFg
-  - uid: 6c51b9b2c435d6fc502de2fefe661d0f
-    parent_uid: cfba671f534d3abae0aadcf606a0aa34
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/hVerxuP4cFg/default.jpg'
-  - uid: b1e556220f37bbf9369b8da5b6e6a6fc
-    parent_uid: cfba671f534d3abae0aadcf606a0aa34
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: hVerxuP4cFg
-  - uid: 98d4b951400dae18d5478362bd73e7fc
-    parent_uid: cfba671f534d3abae0aadcf606a0aa34
-    id: hVerxuP4cFg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/vertical-4cdac51413fd/isomorphism/hVerxuP4cFg.srt
-  - uid: 2a25b47a3019fbc5894ff6d93454fd93
-    parent_uid: cfba671f534d3abae0aadcf606a0aa34
-    id: hVerxuP4cFg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-2/vertical-4cdac51413fd/isomorphism/hVerxuP4cFg.pdf
-  - uid: 1277c6084115258f409d9212a6ccd49f
-    parent_uid: cfba671f534d3abae0aadcf606a0aa34
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3cde498965749bdd32dd0e7cb23f650b
-    parent_uid: cfba671f534d3abae0aadcf606a0aa34
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ad129967510ef12fa5b21e012f8bdb09
-    parent_uid: cfba671f534d3abae0aadcf606a0aa34
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_simple_isomorphism_video_ipod.mp4
+uid: cfba671f534d3abae0aadcf606a0aa34
 type: courses
 layout: video
 ---

@@ -1,11 +1,4 @@
 ---
-title: Fractals! Rough Cut
-uid: 0c990edf7f5341aded670e524f7e2be4
-parent_uid: 199a8a68327fee7d62ee54642710c541
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/yuliya-klochans-project/fractals-rough-cut-1
-short_url: fractals-rough-cut-1
-inline_embed_id: 23933172fractals!roughcut38835763
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,69 @@ about_this_resource_text: >-
   Commons BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: bB7KvV3tRZA
+    parent_uid: 0c990edf7f5341aded670e524f7e2be4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8720f1c3cb8275ad13edef93db2e7e96
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/bB7KvV3tRZA/default.jpg'
+    parent_uid: 0c990edf7f5341aded670e524f7e2be4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d00cf147b912f23f34d3dddf8ac2b246
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: bB7KvV3tRZA
+    parent_uid: 0c990edf7f5341aded670e524f7e2be4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9bbf8a6ff745602ec9c8cf3323cc4d66
+  - id: bB7KvV3tRZA.srt
+    parent_uid: 0c990edf7f5341aded670e524f7e2be4
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/yuliya-klochans-project/fractals-rough-cut-1/bB7KvV3tRZA.srt
+    title: 3play caption file
+    type: null
+    uid: b5dfc576f1d5d88ab3d2db1bd63fbb85
+  - id: bB7KvV3tRZA.pdf
+    parent_uid: 0c990edf7f5341aded670e524f7e2be4
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/yuliya-klochans-project/fractals-rough-cut-1/bB7KvV3tRZA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 67dffc8e7669c4bf57a9b102e7bb8e97
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0c990edf7f5341aded670e524f7e2be4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7429638e3768d2a739e7276ad41796e2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0c990edf7f5341aded670e524f7e2be4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7fd760bf81c6c082650ff692f7c55746
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 0c990edf7f5341aded670e524f7e2be4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 46badd972dd62bcda93fc7ec58403894
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_YK_D11_Rough_Cut_360p.mp4
+    parent_uid: 0c990edf7f5341aded670e524f7e2be4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: dd69e471797b7248e831bd49080c1358
+inline_embed_id: 23933172fractals!roughcut38835763
+parent_uid: 199a8a68327fee7d62ee54642710c541
 related_resources_text: ''
+short_url: fractals-rough-cut-1
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/yuliya-klochans-project/fractals-rough-cut-1
+title: Fractals! Rough Cut
 transcript: >-
   <p><span m="0">[MUSIC PLAYING]</span></p><p>&nbsp;</p><p><span
   m="7000">PROFESSOR: Hi.</span> <span m="8000">What</span> <span
@@ -244,62 +299,7 @@ transcript: >-
   m="200670">beautiful</span> <span m="200970">patterns</span> <span
   m="201270">do</span> <span m="201570">you</span> <span
   m="201870">see?</span></p>
-embedded_media:
-  - uid: 8720f1c3cb8275ad13edef93db2e7e96
-    parent_uid: 0c990edf7f5341aded670e524f7e2be4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: bB7KvV3tRZA
-  - uid: d00cf147b912f23f34d3dddf8ac2b246
-    parent_uid: 0c990edf7f5341aded670e524f7e2be4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/bB7KvV3tRZA/default.jpg'
-  - uid: 9bbf8a6ff745602ec9c8cf3323cc4d66
-    parent_uid: 0c990edf7f5341aded670e524f7e2be4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: bB7KvV3tRZA
-  - uid: b5dfc576f1d5d88ab3d2db1bd63fbb85
-    parent_uid: 0c990edf7f5341aded670e524f7e2be4
-    id: bB7KvV3tRZA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/yuliya-klochans-project/fractals-rough-cut-1/bB7KvV3tRZA.srt
-  - uid: 67dffc8e7669c4bf57a9b102e7bb8e97
-    parent_uid: 0c990edf7f5341aded670e524f7e2be4
-    id: bB7KvV3tRZA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/yuliya-klochans-project/fractals-rough-cut-1/bB7KvV3tRZA.pdf
-  - uid: 7429638e3768d2a739e7276ad41796e2
-    parent_uid: 0c990edf7f5341aded670e524f7e2be4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7fd760bf81c6c082650ff692f7c55746
-    parent_uid: 0c990edf7f5341aded670e524f7e2be4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 46badd972dd62bcda93fc7ec58403894
-    parent_uid: 0c990edf7f5341aded670e524f7e2be4
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: dd69e471797b7248e831bd49080c1358
-    parent_uid: 0c990edf7f5341aded670e524f7e2be4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_YK_D11_Rough_Cut_360p.mp4
+uid: 0c990edf7f5341aded670e524f7e2be4
 type: courses
 layout: video
 ---

@@ -1,13 +1,62 @@
 ---
-title: 'Video 3: Prices and Queries'
-uid: 44c9d5a5e369bf1e7e0a9a64fd1abdd7
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ril5Z4UxI3w
+    parent_uid: 44c9d5a5e369bf1e7e0a9a64fd1abdd7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bd03ac260b9d2a1f6f38ccde4819baff
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: ril5Z4UxI3w
+    parent_uid: 44c9d5a5e369bf1e7e0a9a64fd1abdd7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: dcc58e177e431cc7ec4b1f472596192f
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/ril5Z4UxI3w/default.jpg'
+    parent_uid: 44c9d5a5e369bf1e7e0a9a64fd1abdd7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9f05e5e56f0f5c0d9eed72f59239d55b
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.04_300k.mp4
+    parent_uid: 44c9d5a5e369bf1e7e0a9a64fd1abdd7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d74d3a7c3da206f490c1e08ed75d037d
+  - id: ril5Z4UxI3w.srt
+    parent_uid: 44c9d5a5e369bf1e7e0a9a64fd1abdd7
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-3-prices-and-queries/video-3-prices-and-queries-0/ril5Z4UxI3w.srt
+    title: 3play caption file
+    type: null
+    uid: 9bea577f8b93c3a77f3e7c5a7357513a
+  - id: ril5Z4UxI3w.pdf
+    parent_uid: 44c9d5a5e369bf1e7e0a9a64fd1abdd7
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-3-prices-and-queries/video-3-prices-and-queries-0/ril5Z4UxI3w.pdf
+    title: 3play pdf file
+    type: null
+    uid: 17040be5cc8efd211a6e1559869ae44b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 44c9d5a5e369bf1e7e0a9a64fd1abdd7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4969adedf90142f75c8dd98462cea6ce
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 44c9d5a5e369bf1e7e0a9a64fd1abdd7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5acd1e24a21ec6aff8bf51012dda178a
+inline_embed_id: 23245339video3pricesandqueries5812685
 parent_uid: cc120fc4abea21d6d2ba4c82b1a95fc5
+related_resources_text: ''
+short_url: video-3-prices-and-queries-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-3-prices-and-queries/video-3-prices-and-queries-0
-short_url: video-3-prices-and-queries-0
-inline_embed_id: 23245339video3pricesandqueries5812685
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: Prices and Queries'
 transcript: >-
   <p><span m='4990'>In</span> <span m='5272'>the</span> <span
   m='5555'>previous</span> <span m='5837'>video,</span> <span m='6120'>we</span>
@@ -187,56 +236,7 @@ transcript: >-
   m='169860'>this</span> <span m='170398'>as</span> <span m='170936'>a</span>
   <span m='171475'>linear</span> <span m='172013'>optimization</span> <span
   m='172551'>problem.</span> </p>
-embedded_media:
-  - uid: bd03ac260b9d2a1f6f38ccde4819baff
-    parent_uid: 44c9d5a5e369bf1e7e0a9a64fd1abdd7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ril5Z4UxI3w
-  - uid: dcc58e177e431cc7ec4b1f472596192f
-    parent_uid: 44c9d5a5e369bf1e7e0a9a64fd1abdd7
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ril5Z4UxI3w
-  - uid: 9f05e5e56f0f5c0d9eed72f59239d55b
-    parent_uid: 44c9d5a5e369bf1e7e0a9a64fd1abdd7
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ril5Z4UxI3w/default.jpg'
-  - uid: d74d3a7c3da206f490c1e08ed75d037d
-    parent_uid: 44c9d5a5e369bf1e7e0a9a64fd1abdd7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.04_300k.mp4
-  - uid: 9bea577f8b93c3a77f3e7c5a7357513a
-    parent_uid: 44c9d5a5e369bf1e7e0a9a64fd1abdd7
-    id: ril5Z4UxI3w.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-3-prices-and-queries/video-3-prices-and-queries-0/ril5Z4UxI3w.srt
-  - uid: 17040be5cc8efd211a6e1559869ae44b
-    parent_uid: 44c9d5a5e369bf1e7e0a9a64fd1abdd7
-    id: ril5Z4UxI3w.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-3-prices-and-queries/video-3-prices-and-queries-0/ril5Z4UxI3w.pdf
-  - uid: 4969adedf90142f75c8dd98462cea6ce
-    parent_uid: 44c9d5a5e369bf1e7e0a9a64fd1abdd7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5acd1e24a21ec6aff8bf51012dda178a
-    parent_uid: 44c9d5a5e369bf1e7e0a9a64fd1abdd7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 44c9d5a5e369bf1e7e0a9a64fd1abdd7
 type: courses
 layout: video
 ---

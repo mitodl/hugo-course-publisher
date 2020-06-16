@@ -1,13 +1,68 @@
 ---
-title: Flux Through Easy Surfaces
-uid: 90a7769bf66372c092dabc56596719be
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: AYisLr9e0y4
+    parent_uid: 90a7769bf66372c092dabc56596719be
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f6233bb065417f4b659eb2269aaa9af5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/AYisLr9e0y4/default.jpg'
+    parent_uid: 90a7769bf66372c092dabc56596719be
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bbc54e2c8640be6c1d64c85b3c182a6b
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_56_300k.mp4'
+    parent_uid: 90a7769bf66372c092dabc56596719be
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: cae00e72913391b3a5044b9e9e8dcf95
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/flux-through-easy-surfaces/id414355340?i=90322817
+    parent_uid: 90a7769bf66372c092dabc56596719be
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 82a67b4b65fddfb1c2984b8e795c9d23
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: AYisLr9e0y4
+    parent_uid: 90a7769bf66372c092dabc56596719be
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 250a73506fcf375fd55f34f9c38301ff
+  - id: AYisLr9e0y4.srt
+    parent_uid: 90a7769bf66372c092dabc56596719be
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-80-flux-through-a-surface/flux-through-easy-surfaces/AYisLr9e0y4.srt
+    title: 3play caption file
+    type: null
+    uid: c438bed5df953dea0cd83c65e5213bab
+  - id: AYisLr9e0y4.pdf
+    parent_uid: 90a7769bf66372c092dabc56596719be
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-80-flux-through-a-surface/flux-through-easy-surfaces/AYisLr9e0y4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4fcd45cd5b6850ef5576fb196b0aaa22
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 90a7769bf66372c092dabc56596719be
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 22a68b50bd35c81b00d4088ad2be68e8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 90a7769bf66372c092dabc56596719be
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b9040d73a265288bc75c27ee304195c5
+inline_embed_id: 75300119fluxthrougheasysurfaces23559121
 parent_uid: 076b5dffcda3d135851cf7a311c53208
+related_resources_text: ''
+short_url: flux-through-easy-surfaces
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-80-flux-through-a-surface/flux-through-easy-surfaces
-short_url: flux-through-easy-surfaces
-inline_embed_id: 75300119fluxthrougheasysurfaces23559121
-about_this_resource_text: ''
-related_resources_text: ''
+title: Flux Through Easy Surfaces
 transcript: >-
   <p><span m='8120'>Welcome</span> <span m='8360'>back to</span> <span
   m='8530'>recitation.</span> <span m='9750'>What</span> <span
@@ -526,62 +581,7 @@ transcript: >-
   <span m='405380'>think</span> <span m='405510'>that's</span> <span
   m='405650'>where</span> <span m='405750'>I'll</span> <span
   m='405870'>stop.</span> </p>
-embedded_media:
-  - uid: f6233bb065417f4b659eb2269aaa9af5
-    parent_uid: 90a7769bf66372c092dabc56596719be
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: AYisLr9e0y4
-  - uid: bbc54e2c8640be6c1d64c85b3c182a6b
-    parent_uid: 90a7769bf66372c092dabc56596719be
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/AYisLr9e0y4/default.jpg'
-  - uid: cae00e72913391b3a5044b9e9e8dcf95
-    parent_uid: 90a7769bf66372c092dabc56596719be
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_56_300k.mp4'
-  - uid: 82a67b4b65fddfb1c2984b8e795c9d23
-    parent_uid: 90a7769bf66372c092dabc56596719be
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/flux-through-easy-surfaces/id414355340?i=90322817
-  - uid: 250a73506fcf375fd55f34f9c38301ff
-    parent_uid: 90a7769bf66372c092dabc56596719be
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: AYisLr9e0y4
-  - uid: c438bed5df953dea0cd83c65e5213bab
-    parent_uid: 90a7769bf66372c092dabc56596719be
-    id: AYisLr9e0y4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-80-flux-through-a-surface/flux-through-easy-surfaces/AYisLr9e0y4.srt
-  - uid: 4fcd45cd5b6850ef5576fb196b0aaa22
-    parent_uid: 90a7769bf66372c092dabc56596719be
-    id: AYisLr9e0y4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-80-flux-through-a-surface/flux-through-easy-surfaces/AYisLr9e0y4.pdf
-  - uid: 22a68b50bd35c81b00d4088ad2be68e8
-    parent_uid: 90a7769bf66372c092dabc56596719be
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b9040d73a265288bc75c27ee304195c5
-    parent_uid: 90a7769bf66372c092dabc56596719be
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 90a7769bf66372c092dabc56596719be
 type: courses
 layout: video
 ---

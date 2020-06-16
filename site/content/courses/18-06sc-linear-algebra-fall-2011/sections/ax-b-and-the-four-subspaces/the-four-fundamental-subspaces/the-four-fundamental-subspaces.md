@@ -1,13 +1,67 @@
 ---
-title: The Four Fundamental Subspaces
-uid: 03148065ca2a6020bc7ff5527c47b191
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: nHlE7EgJFds
+    parent_uid: 03148065ca2a6020bc7ff5527c47b191
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 268fe3decf34cc0ccb78f4c6700faf24
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/nHlE7EgJFds/default.jpg'
+    parent_uid: 03148065ca2a6020bc7ff5527c47b191
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 920a79f91a326430efdd0af73cfe969f
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 03148065ca2a6020bc7ff5527c47b191
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 776901882dca356093d53a7826a035c2
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/10.mp4'
+    parent_uid: 03148065ca2a6020bc7ff5527c47b191
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 52df956150ac6ab57941fede1bbc9113
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: nHlE7EgJFds
+    parent_uid: 03148065ca2a6020bc7ff5527c47b191
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2c30da97ad56bdb4f981e8aece8b80ca
+  - id: nHlE7EgJFds.srt
+    parent_uid: 03148065ca2a6020bc7ff5527c47b191
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/the-four-fundamental-subspaces/nHlE7EgJFds.srt
+    title: 3play caption file
+    type: null
+    uid: b98d6e16932833068bfdc7b6a3e0762d
+  - id: nHlE7EgJFds.pdf
+    parent_uid: 03148065ca2a6020bc7ff5527c47b191
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/the-four-fundamental-subspaces/nHlE7EgJFds.pdf
+    title: 3play pdf file
+    type: null
+    uid: afe0e43e133e663fbea3a48fb8372bfa
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 03148065ca2a6020bc7ff5527c47b191
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cabb99ff903715e4ea794081e76263ea
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 03148065ca2a6020bc7ff5527c47b191
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d2d0c3fbece7c44420731a5bde1172a9
+inline_embed_id: 88479703thefourfundamentalsubspaces31945320
 parent_uid: 0050fe07f47ab375ac0f3abe492f8ae1
+related_resources_text: ''
+short_url: the-four-fundamental-subspaces
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/the-four-fundamental-subspaces
-short_url: the-four-fundamental-subspaces
-inline_embed_id: 88479703thefourfundamentalsubspaces31945320
-about_this_resource_text: ''
-related_resources_text: ''
+title: The Four Fundamental Subspaces
 transcript: >-
   <p><span m='9760'>OK,</span> <span m='10160'>here</span> <span
   m='10560'>is</span> <span m='10700'>lecture</span> <span m='11130'>ten</span>
@@ -2737,61 +2791,7 @@ transcript: >-
   m='2947550'>OK,</span> <span m='2947980'>thank</span> <span
   m='2948340'>you.</span> </p><p><span m='2949380'>That's</span> <span
   m='2949720'>lecture</span> <span m='2950380'>ten.</span> </p>
-embedded_media:
-  - uid: 268fe3decf34cc0ccb78f4c6700faf24
-    parent_uid: 03148065ca2a6020bc7ff5527c47b191
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: nHlE7EgJFds
-  - uid: 920a79f91a326430efdd0af73cfe969f
-    parent_uid: 03148065ca2a6020bc7ff5527c47b191
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/nHlE7EgJFds/default.jpg'
-  - uid: 776901882dca356093d53a7826a035c2
-    parent_uid: 03148065ca2a6020bc7ff5527c47b191
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 52df956150ac6ab57941fede1bbc9113
-    parent_uid: 03148065ca2a6020bc7ff5527c47b191
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/10.mp4'
-  - uid: 2c30da97ad56bdb4f981e8aece8b80ca
-    parent_uid: 03148065ca2a6020bc7ff5527c47b191
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: nHlE7EgJFds
-  - uid: b98d6e16932833068bfdc7b6a3e0762d
-    parent_uid: 03148065ca2a6020bc7ff5527c47b191
-    id: nHlE7EgJFds.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/the-four-fundamental-subspaces/nHlE7EgJFds.srt
-  - uid: afe0e43e133e663fbea3a48fb8372bfa
-    parent_uid: 03148065ca2a6020bc7ff5527c47b191
-    id: nHlE7EgJFds.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/the-four-fundamental-subspaces/nHlE7EgJFds.pdf
-  - uid: cabb99ff903715e4ea794081e76263ea
-    parent_uid: 03148065ca2a6020bc7ff5527c47b191
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d2d0c3fbece7c44420731a5bde1172a9
-    parent_uid: 03148065ca2a6020bc7ff5527c47b191
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 03148065ca2a6020bc7ff5527c47b191
 type: courses
 layout: video
 ---

@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 1: What is Computation?'
-uid: 323e80051abe3b35143a5f5d9c0d0eaa
-parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-1-what-is-computation
-short_url: lecture-1-what-is-computation
-inline_embed_id: 66204429lecture1whatiscomputation72235588
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Dr. Bell introduces the
   theory of computation and explains some aspects of computational thinking.
   Programming languages are discussed, with an emphasis on basic Python syntax
   and data structures.</p> <p><strong>Instructor:</strong> Dr. Ana Bell</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: nykOeWgQcHM
+    parent_uid: 323e80051abe3b35143a5f5d9c0d0eaa
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c640818544322b418faf83bdd30ea396
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: 323e80051abe3b35143a5f5d9c0d0eaa
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 11f5beb1bacbe5f3542f9ba768ec2487
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_01_300k.mp4'
+    parent_uid: 323e80051abe3b35143a5f5d9c0d0eaa
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f84351bb226b8e8ac6811ff2e13b6a79
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: nykOeWgQcHM
+    parent_uid: 323e80051abe3b35143a5f5d9c0d0eaa
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c88917a3d2c6ad724d3b29c5c28e4c20
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/nykOeWgQcHM/default.jpg'
+    parent_uid: 323e80051abe3b35143a5f5d9c0d0eaa
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 00a140f6a6aebc4f788a9d2036cc15c6
+  - id: nykOeWgQcHM.srt
+    parent_uid: 323e80051abe3b35143a5f5d9c0d0eaa
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-1-what-is-computation/nykOeWgQcHM.srt
+    title: 3play caption file
+    type: null
+    uid: 3bfc0edc979a24c1d382803d849af74a
+  - id: nykOeWgQcHM.pdf
+    parent_uid: 323e80051abe3b35143a5f5d9c0d0eaa
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-1-what-is-computation/nykOeWgQcHM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 904de062253d2fad3064ab5ca917883d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 323e80051abe3b35143a5f5d9c0d0eaa
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ad37f810bdd0dbae92ad146b5fbf6584
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 323e80051abe3b35143a5f5d9c0d0eaa
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6283e712250403c82cf4c35b4fb2e624
+inline_embed_id: 66204429lecture1whatiscomputation72235588
+parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
+short_url: lecture-1-what-is-computation
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-1-what-is-computation
+title: 'Lecture 1: What is Computation?'
 transcript: >-
   <p><span m='790'>The</span> <span m='880'>following</span> <span
   m='1300'>content</span> <span m='1870'>is</span> <span
@@ -3021,61 +3075,7 @@ transcript: >-
   <span m='2574050'>thing</span> <span m='2574410'>or</span> <span
   m='2574560'>another?</span> <span m='2575550'>All</span> <span
   m='2575610'>right.</span> </p>
-embedded_media:
-  - uid: c640818544322b418faf83bdd30ea396
-    parent_uid: 323e80051abe3b35143a5f5d9c0d0eaa
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: nykOeWgQcHM
-  - uid: 11f5beb1bacbe5f3542f9ba768ec2487
-    parent_uid: 323e80051abe3b35143a5f5d9c0d0eaa
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: f84351bb226b8e8ac6811ff2e13b6a79
-    parent_uid: 323e80051abe3b35143a5f5d9c0d0eaa
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_01_300k.mp4'
-  - uid: c88917a3d2c6ad724d3b29c5c28e4c20
-    parent_uid: 323e80051abe3b35143a5f5d9c0d0eaa
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: nykOeWgQcHM
-  - uid: 00a140f6a6aebc4f788a9d2036cc15c6
-    parent_uid: 323e80051abe3b35143a5f5d9c0d0eaa
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/nykOeWgQcHM/default.jpg'
-  - uid: 3bfc0edc979a24c1d382803d849af74a
-    parent_uid: 323e80051abe3b35143a5f5d9c0d0eaa
-    id: nykOeWgQcHM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-1-what-is-computation/nykOeWgQcHM.srt
-  - uid: 904de062253d2fad3064ab5ca917883d
-    parent_uid: 323e80051abe3b35143a5f5d9c0d0eaa
-    id: nykOeWgQcHM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-1-what-is-computation/nykOeWgQcHM.pdf
-  - uid: ad37f810bdd0dbae92ad146b5fbf6584
-    parent_uid: 323e80051abe3b35143a5f5d9c0d0eaa
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6283e712250403c82cf4c35b4fb2e624
-    parent_uid: 323e80051abe3b35143a5f5d9c0d0eaa
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 323e80051abe3b35143a5f5d9c0d0eaa
 type: courses
 layout: video
 ---

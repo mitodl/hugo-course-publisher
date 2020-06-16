@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 7: Multielectron atoms'
-uid: aa2a8e7e07be67a068867872bd8a8156
+about_this_resource_text: "<p>Description: Embedded video, no tabs, this description appears on section page: After focusing on the hydrogen atom for several lectures, the course moves on to consider atoms with more than one electron. Now, the pull of the positively charged nucleus on the negatively charged electron is harder to predict as shielding comes into play. Also, we try our hand at electron configurations.</p>\r\n<p>Instructor: Catherine Drennan</p>"
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: '-jJz5OMmuP0'
+    parent_uid: aa2a8e7e07be67a068867872bd8a8156
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9bc78f36103d3c5f95f5cf76dc0de16d
+  - id: '-jJz5OMmuP0.srt'
+    parent_uid: aa2a8e7e07be67a068867872bd8a8156
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-7/lecture-7-multielectron-atoms/-jJz5OMmuP0.srt
+    title: 3play caption file
+    type: null
+    uid: be92614cdc48b21c8828f43651f8a7a8
+  - id: '-jJz5OMmuP0.pdf'
+    parent_uid: aa2a8e7e07be67a068867872bd8a8156
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-7/lecture-7-multielectron-atoms/-jJz5OMmuP0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7feeca142ed80e5aa65794a41ce4b0ce
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: aa2a8e7e07be67a068867872bd8a8156
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 804b2355428e89d07d6634f699017dcc
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: aa2a8e7e07be67a068867872bd8a8156
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 22e6c45a2326b81fa58e58f450c4caf5
+  - id: Video-YouTube-Stream
+    media_location: '-jJz5OMmuP0'
+    parent_uid: aa2a8e7e07be67a068867872bd8a8156
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0eb23ef442d1ce13970f0ddb0fdeb0d4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-jJz5OMmuP0/default.jpg'
+    parent_uid: aa2a8e7e07be67a068867872bd8a8156
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4d03cc936a1eb74ffee6602515f40ce8
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L07_300k.mp4'
+    parent_uid: aa2a8e7e07be67a068867872bd8a8156
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e0334b4fbf72f3a0bf92fff6a82a95a2
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: aa2a8e7e07be67a068867872bd8a8156
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 50e1021fb4bc37c1ef453fde0907dee5
+inline_embed_id: 31407403lecture7multielectronatoms98972484
 parent_uid: 3cbec0b6342c45e219dbb316c53f0274
+related_resources_text: ''
+short_url: lecture-7-multielectron-atoms
 technical_location: >-
   https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-7/lecture-7-multielectron-atoms
-short_url: lecture-7-multielectron-atoms
-inline_embed_id: 31407403lecture7multielectronatoms98972484
-about_this_resource_text: "<p>Description: Embedded video, no tabs, this description appears on section page: After focusing on the hydrogen atom for several lectures, the course moves on to consider atoms with more than one electron. Now, the pull of the positively charged nucleus on the negatively charged electron is harder to predict as shielding comes into play. Also, we try our hand at electron configurations.</p>\r\n<p>Instructor: Catherine Drennan</p>"
-related_resources_text: ''
+title: 'Lecture 7: Multielectron atoms'
 transcript: >-
   <p><span m='30'>The</span> <span m='130'>following</span> <span
   m='600'>content</span> <span m='1090'>is</span> <span m='1210'>provided</span>
@@ -2216,61 +2270,7 @@ transcript: >-
   m='2141510'>clicker</span> <span m='2141870'>competition</span> <span
   m='2142570'>for</span> <span m='2142730'>today?</span> <span
   m='2147330'>Recitation</span> <span m='2148090'>12.</span> </p>
-embedded_media:
-  - uid: 9bc78f36103d3c5f95f5cf76dc0de16d
-    parent_uid: aa2a8e7e07be67a068867872bd8a8156
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-jJz5OMmuP0'
-  - uid: be92614cdc48b21c8828f43651f8a7a8
-    parent_uid: aa2a8e7e07be67a068867872bd8a8156
-    id: '-jJz5OMmuP0.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-7/lecture-7-multielectron-atoms/-jJz5OMmuP0.srt
-  - uid: 7feeca142ed80e5aa65794a41ce4b0ce
-    parent_uid: aa2a8e7e07be67a068867872bd8a8156
-    id: '-jJz5OMmuP0.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-7/lecture-7-multielectron-atoms/-jJz5OMmuP0.pdf
-  - uid: 804b2355428e89d07d6634f699017dcc
-    parent_uid: aa2a8e7e07be67a068867872bd8a8156
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 22e6c45a2326b81fa58e58f450c4caf5
-    parent_uid: aa2a8e7e07be67a068867872bd8a8156
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0eb23ef442d1ce13970f0ddb0fdeb0d4
-    parent_uid: aa2a8e7e07be67a068867872bd8a8156
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-jJz5OMmuP0'
-  - uid: 4d03cc936a1eb74ffee6602515f40ce8
-    parent_uid: aa2a8e7e07be67a068867872bd8a8156
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-jJz5OMmuP0/default.jpg'
-  - uid: e0334b4fbf72f3a0bf92fff6a82a95a2
-    parent_uid: aa2a8e7e07be67a068867872bd8a8156
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L07_300k.mp4'
-  - uid: 50e1021fb4bc37c1ef453fde0907dee5
-    parent_uid: aa2a8e7e07be67a068867872bd8a8156
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+uid: aa2a8e7e07be67a068867872bd8a8156
 type: courses
 layout: video
 ---

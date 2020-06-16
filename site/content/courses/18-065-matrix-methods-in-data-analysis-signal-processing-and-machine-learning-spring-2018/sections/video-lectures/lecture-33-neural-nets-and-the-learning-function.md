@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 33: Neural Nets and the Learning Function'
-uid: 33f50eb0834bb3703bab34db3bc9745f
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-33-neural-nets-and-the-learning-function
-short_url: lecture-33-neural-nets-and-the-learning-function
-inline_embed_id: 55826440lecture33neuralnetsandthelearningfunction71312826
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>This lecture focuses on the
   construction of the learning function \(F\), which is optimized by stochastic
@@ -19,7 +12,62 @@ about_this_resource_text: >-
   Distance matrix given between points: Find the points!</p> <p>Related sections
   in textbook: VII.1 and IV.10</p> <p><strong>Instructor:</strong> Prof. Gilbert
   Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: L3-WFKCW-tY
+    parent_uid: 33f50eb0834bb3703bab34db3bc9745f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 08540250655e14b0004301ae5a9ad29f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/L3-WFKCW-tY/default.jpg'
+    parent_uid: 33f50eb0834bb3703bab34db3bc9745f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4dd3fb0756bd66fa324c51ae3e211663
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: L3-WFKCW-tY
+    parent_uid: 33f50eb0834bb3703bab34db3bc9745f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: eedf6fc62fd1c4d2cec9a455615949cd
+  - id: L3-WFKCW-tY.srt
+    parent_uid: 33f50eb0834bb3703bab34db3bc9745f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-33-neural-nets-and-the-learning-function/L3-WFKCW-tY.srt
+    title: 3play caption file
+    type: null
+    uid: 92c8b3a65ab3c148b6265948323ce344
+  - id: L3-WFKCW-tY.pdf
+    parent_uid: 33f50eb0834bb3703bab34db3bc9745f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-33-neural-nets-and-the-learning-function/L3-WFKCW-tY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 743b3a44f35c1c0795d1dad9e29db638
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 33f50eb0834bb3703bab34db3bc9745f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7d17c5b7fb49abe221b9bcd0e41f12f8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 33f50eb0834bb3703bab34db3bc9745f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5dcfd34d34d678633bacb564e77dc97e
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture33_300k.mp4'
+    parent_uid: 33f50eb0834bb3703bab34db3bc9745f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6da5d27f5e1843539e947ed2a35bb4cf
+inline_embed_id: 55826440lecture33neuralnetsandthelearningfunction71312826
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-33-neural-nets-and-the-learning-function
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-33-neural-nets-and-the-learning-function
+title: 'Lecture 33: Neural Nets and the Learning Function'
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2571,55 +2619,7 @@ transcript: >-
   m="3362150">an</span> <span m="3362300">email,</span> <span
   m="3362660">if</span> <span m="3363170">necessary.</span> <span
   m="3363920">OK,</span> <span m="3364330">thanks.</span></p>
-embedded_media:
-  - uid: 08540250655e14b0004301ae5a9ad29f
-    parent_uid: 33f50eb0834bb3703bab34db3bc9745f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: L3-WFKCW-tY
-  - uid: 4dd3fb0756bd66fa324c51ae3e211663
-    parent_uid: 33f50eb0834bb3703bab34db3bc9745f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/L3-WFKCW-tY/default.jpg'
-  - uid: eedf6fc62fd1c4d2cec9a455615949cd
-    parent_uid: 33f50eb0834bb3703bab34db3bc9745f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: L3-WFKCW-tY
-  - uid: 92c8b3a65ab3c148b6265948323ce344
-    parent_uid: 33f50eb0834bb3703bab34db3bc9745f
-    id: L3-WFKCW-tY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-33-neural-nets-and-the-learning-function/L3-WFKCW-tY.srt
-  - uid: 743b3a44f35c1c0795d1dad9e29db638
-    parent_uid: 33f50eb0834bb3703bab34db3bc9745f
-    id: L3-WFKCW-tY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-33-neural-nets-and-the-learning-function/L3-WFKCW-tY.pdf
-  - uid: 7d17c5b7fb49abe221b9bcd0e41f12f8
-    parent_uid: 33f50eb0834bb3703bab34db3bc9745f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5dcfd34d34d678633bacb564e77dc97e
-    parent_uid: 33f50eb0834bb3703bab34db3bc9745f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6da5d27f5e1843539e947ed2a35bb4cf
-    parent_uid: 33f50eb0834bb3703bab34db3bc9745f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture33_300k.mp4'
+uid: 33f50eb0834bb3703bab34db3bc9745f
 type: courses
 layout: video
 ---

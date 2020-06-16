@@ -1,13 +1,72 @@
 ---
-title: Page Rank
-uid: 54620f4e8b011bca68c1a428872e823a
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 54620f4e8b011bca68c1a428872e823a
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 7a0639429aebd2c8fa111aebd4580331
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 54620f4e8b011bca68c1a428872e823a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9ccac5b5495195640e4e07f02e0bc933
+  - id: Video-YouTube-Stream
+    media_location: QKO_2WQkZ0k
+    parent_uid: 54620f4e8b011bca68c1a428872e823a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ec4fc701e8f6073eacb8ec51ccd92385
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QKO_2WQkZ0k/default.jpg'
+    parent_uid: 54620f4e8b011bca68c1a428872e823a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5062beb02ccabfbb204d6f85e146b893
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: QKO_2WQkZ0k
+    parent_uid: 54620f4e8b011bca68c1a428872e823a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9de2aa52cc843f8b1de85253569d50ce
+  - id: QKO_2WQkZ0k.srt
+    parent_uid: 54620f4e8b011bca68c1a428872e823a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank/page-rank-video/page-rank/QKO_2WQkZ0k.srt
+    title: 3play caption file
+    type: null
+    uid: 4014cf282acb63fad23e71aa76c919b6
+  - id: QKO_2WQkZ0k.pdf
+    parent_uid: 54620f4e8b011bca68c1a428872e823a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank/page-rank-video/page-rank/QKO_2WQkZ0k.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6ed4c24bb17f082eacb911d8cb0f22fe
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 54620f4e8b011bca68c1a428872e823a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a216ca899f07ecf77a69e06b20f40f7e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 54620f4e8b011bca68c1a428872e823a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 08c3327c575d865fda42bc2d5f5a3dca
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_pagerank_ipod.mp4'
+    parent_uid: 54620f4e8b011bca68c1a428872e823a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ba0a1c66d058b62f991594957b42fa10
+inline_embed_id: 24889867pagerank55108497
 parent_uid: 47abbae7418e0c77664265ad31d7e444
+related_resources_text: ''
+short_url: page-rank
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank/page-rank-video/page-rank
-short_url: page-rank
-inline_embed_id: 24889867pagerank55108497
-about_this_resource_text: ''
-related_resources_text: ''
+title: Page Rank
 transcript: >-
   <p><span m='275'>PROFESSOR:</span> <span m='550'>PageRank</span> <span
   m='1400'>is</span> <span m='1660'>a</span> <span m='1710'>measure</span> <span
@@ -765,66 +824,7 @@ transcript: >-
   <span m='654990'>significant</span> <span m='655630'>role</span> <span
   m='656220'>in</span> <span m='656370'>the</span> <span m='656450'>whole</span>
   <span m='656700'>story.</span> </p>
-embedded_media:
-  - uid: 7a0639429aebd2c8fa111aebd4580331
-    parent_uid: 54620f4e8b011bca68c1a428872e823a
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 9ccac5b5495195640e4e07f02e0bc933
-    parent_uid: 54620f4e8b011bca68c1a428872e823a
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: ec4fc701e8f6073eacb8ec51ccd92385
-    parent_uid: 54620f4e8b011bca68c1a428872e823a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QKO_2WQkZ0k
-  - uid: 5062beb02ccabfbb204d6f85e146b893
-    parent_uid: 54620f4e8b011bca68c1a428872e823a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QKO_2WQkZ0k/default.jpg'
-  - uid: 9de2aa52cc843f8b1de85253569d50ce
-    parent_uid: 54620f4e8b011bca68c1a428872e823a
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QKO_2WQkZ0k
-  - uid: 4014cf282acb63fad23e71aa76c919b6
-    parent_uid: 54620f4e8b011bca68c1a428872e823a
-    id: QKO_2WQkZ0k.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank/page-rank-video/page-rank/QKO_2WQkZ0k.srt
-  - uid: 6ed4c24bb17f082eacb911d8cb0f22fe
-    parent_uid: 54620f4e8b011bca68c1a428872e823a
-    id: QKO_2WQkZ0k.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/random-walks-pagerank/page-rank-video/page-rank/QKO_2WQkZ0k.pdf
-  - uid: a216ca899f07ecf77a69e06b20f40f7e
-    parent_uid: 54620f4e8b011bca68c1a428872e823a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 08c3327c575d865fda42bc2d5f5a3dca
-    parent_uid: 54620f4e8b011bca68c1a428872e823a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ba0a1c66d058b62f991594957b42fa10
-    parent_uid: 54620f4e8b011bca68c1a428872e823a
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_pagerank_ipod.mp4'
+uid: 54620f4e8b011bca68c1a428872e823a
 type: courses
 layout: video
 ---

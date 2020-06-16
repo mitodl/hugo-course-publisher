@@ -1,13 +1,67 @@
 ---
-title: 'Clip 1: Introduction to Linear Approximation'
-uid: 6f2e51653d0ab6a760284f89a387ec1a
+about_this_resource_text: "<p>&raquo; <a target=\"_blank\" title=\"Open in a new window.\" href=\"./resolveuid/78d786626df9cf7f8b65c35f2b820428\">Accompanying Notes (PDF)</a></p>\r\n<p class=\"scholar_medsm\">From Lecture 9 of <a href=\"http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/\"><em>18.01 Single Variable Calculus, Fall 2006</em></a></p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: BSAA0akmPEU
+    parent_uid: 6f2e51653d0ab6a760284f89a387ec1a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bdba3d99bd9d8e6756b41f4534294ce8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BSAA0akmPEU/default.jpg'
+    parent_uid: 6f2e51653d0ab6a760284f89a387ec1a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9a34df58851e79c222aadbcb8df4e958
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec09_300k.mp4'
+    parent_uid: 6f2e51653d0ab6a760284f89a387ec1a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 20cd26e0a911d46ee8b8214e0f970af3
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: BSAA0akmPEU
+    parent_uid: 6f2e51653d0ab6a760284f89a387ec1a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2da977acfc832e02d7d5e82c9c1c09a0
+  - id: BSAA0akmPEU.srt
+    parent_uid: 6f2e51653d0ab6a760284f89a387ec1a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-23-linear-approximation/clip-1-introduction-to-linear-approximation/BSAA0akmPEU.srt
+    title: 3play caption file
+    type: null
+    uid: f25c90ec2ea21d9254fbff28dd6710b8
+  - id: BSAA0akmPEU.pdf
+    parent_uid: 6f2e51653d0ab6a760284f89a387ec1a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-23-linear-approximation/clip-1-introduction-to-linear-approximation/BSAA0akmPEU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 307bdb599cbf1a8a3395c0d2a02ef337
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6f2e51653d0ab6a760284f89a387ec1a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0b388f0f0055594bd45f1d2a3b6786f8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6f2e51653d0ab6a760284f89a387ec1a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b3e621e22b061059cd813596d01f60ab
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 6f2e51653d0ab6a760284f89a387ec1a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 08ed206d651ac4481f3768f203b60d46
+inline_embed_id: '92544605clip1:introductiontolinearapproximation90338670'
 parent_uid: 6c111f0f1d0b5fade36a1ca3687104d2
+related_resources_text: ''
+short_url: clip-1-introduction-to-linear-approximation
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-23-linear-approximation/clip-1-introduction-to-linear-approximation
-short_url: clip-1-introduction-to-linear-approximation
-inline_embed_id: '92544605clip1:introductiontolinearapproximation90338670'
-about_this_resource_text: "<p>&raquo; <a target=\"_blank\" title=\"Open in a new window.\" href=\"./resolveuid/78d786626df9cf7f8b65c35f2b820428\">Accompanying Notes (PDF)</a></p>\r\n<p class=\"scholar_medsm\">From Lecture 9 of <a href=\"http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/\"><em>18.01 Single Variable Calculus, Fall 2006</em></a></p>"
-related_resources_text: ''
+title: 'Clip 1: Introduction to Linear Approximation'
 transcript: >-
   <p><span m="0">The</span> <span m="120">following</span> <span
   m="1890">content is provided</span> <span m="2330">under a Creative</span>
@@ -2456,61 +2510,7 @@ transcript: >-
   m="2805070">we'll</span> <span m="2805190">do</span> <span
   m="2805320">these</span> <span m="2805540">next</span> <span
   m="2805860">time.</span></p>
-embedded_media:
-  - uid: bdba3d99bd9d8e6756b41f4534294ce8
-    parent_uid: 6f2e51653d0ab6a760284f89a387ec1a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BSAA0akmPEU
-  - uid: 9a34df58851e79c222aadbcb8df4e958
-    parent_uid: 6f2e51653d0ab6a760284f89a387ec1a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BSAA0akmPEU/default.jpg'
-  - uid: 20cd26e0a911d46ee8b8214e0f970af3
-    parent_uid: 6f2e51653d0ab6a760284f89a387ec1a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec09_300k.mp4'
-  - uid: 2da977acfc832e02d7d5e82c9c1c09a0
-    parent_uid: 6f2e51653d0ab6a760284f89a387ec1a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BSAA0akmPEU
-  - uid: f25c90ec2ea21d9254fbff28dd6710b8
-    parent_uid: 6f2e51653d0ab6a760284f89a387ec1a
-    id: BSAA0akmPEU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-23-linear-approximation/clip-1-introduction-to-linear-approximation/BSAA0akmPEU.srt
-  - uid: 307bdb599cbf1a8a3395c0d2a02ef337
-    parent_uid: 6f2e51653d0ab6a760284f89a387ec1a
-    id: BSAA0akmPEU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-23-linear-approximation/clip-1-introduction-to-linear-approximation/BSAA0akmPEU.pdf
-  - uid: 0b388f0f0055594bd45f1d2a3b6786f8
-    parent_uid: 6f2e51653d0ab6a760284f89a387ec1a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b3e621e22b061059cd813596d01f60ab
-    parent_uid: 6f2e51653d0ab6a760284f89a387ec1a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 08ed206d651ac4481f3768f203b60d46
-    parent_uid: 6f2e51653d0ab6a760284f89a387ec1a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 6f2e51653d0ab6a760284f89a387ec1a
 type: courses
 layout: video
 ---

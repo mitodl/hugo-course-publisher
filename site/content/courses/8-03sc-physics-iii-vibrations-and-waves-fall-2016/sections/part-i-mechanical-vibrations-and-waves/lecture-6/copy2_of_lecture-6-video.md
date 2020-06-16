@@ -1,13 +1,61 @@
 ---
-title: Coupled Air Carts
-uid: 2d38c3f343f41e75641847e44876c75f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Ahv7Akj2xs4
+    parent_uid: 2d38c3f343f41e75641847e44876c75f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2497b00e30b180cf4ce9486bae248093
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Ahv7Akj2xs4/default.jpg'
+    parent_uid: 2d38c3f343f41e75641847e44876c75f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6f823f9e2e25e37a0006758052aee0b1
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Ahv7Akj2xs4
+    parent_uid: 2d38c3f343f41e75641847e44876c75f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3cba35efb82799fb640c7d99602eba43
+  - id: Ahv7Akj2xs4.srt
+    parent_uid: 2d38c3f343f41e75641847e44876c75f
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-6/copy2_of_lecture-6-video/Ahv7Akj2xs4.srt
+    title: 3play caption file
+    type: null
+    uid: 3011cfe4a241ea4cbbfe171e173bfe38
+  - id: Ahv7Akj2xs4.pdf
+    parent_uid: 2d38c3f343f41e75641847e44876c75f
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-6/copy2_of_lecture-6-video/Ahv7Akj2xs4.pdf
+    title: 3play pdf file
+    type: null
+    uid: a18aac49cffe2b72d4ad83f5bd92ff5d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2d38c3f343f41e75641847e44876c75f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cb3f27cae2e37ffed147b443f628867a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2d38c3f343f41e75641847e44876c75f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 08ff1f17b8859d030fd7d54ad990e13a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec06_300k.mp4'
+    parent_uid: 2d38c3f343f41e75641847e44876c75f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c2b6e19bc1a5407d312740df46230831
+inline_embed_id: 92154923lecture6videop256286995
 parent_uid: cf85feedf452d0893365f5c9eca3acb0
+related_resources_text: ''
+short_url: copy2_of_lecture-6-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-6/copy2_of_lecture-6-video
-short_url: copy2_of_lecture-6-video
-inline_embed_id: 92154923lecture6videop256286995
-about_this_resource_text: ''
-related_resources_text: ''
+title: Coupled Air Carts
 transcript: >-
   <p><span m="1210">The</span> <span m="1330">following</span> <span
   m="1750">content</span> <span m="2260">is</span> <span
@@ -4788,55 +4836,7 @@ transcript: >-
   m="4923870">I</span> <span m="4923990">hope</span> <span
   m="4924230">this</span> <span m="4924470">was</span> <span
   m="4925970">educational.</span></p>
-embedded_media:
-  - uid: 2497b00e30b180cf4ce9486bae248093
-    parent_uid: 2d38c3f343f41e75641847e44876c75f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Ahv7Akj2xs4
-  - uid: 6f823f9e2e25e37a0006758052aee0b1
-    parent_uid: 2d38c3f343f41e75641847e44876c75f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Ahv7Akj2xs4/default.jpg'
-  - uid: 3cba35efb82799fb640c7d99602eba43
-    parent_uid: 2d38c3f343f41e75641847e44876c75f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Ahv7Akj2xs4
-  - uid: 3011cfe4a241ea4cbbfe171e173bfe38
-    parent_uid: 2d38c3f343f41e75641847e44876c75f
-    id: Ahv7Akj2xs4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-6/copy2_of_lecture-6-video/Ahv7Akj2xs4.srt
-  - uid: a18aac49cffe2b72d4ad83f5bd92ff5d
-    parent_uid: 2d38c3f343f41e75641847e44876c75f
-    id: Ahv7Akj2xs4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-6/copy2_of_lecture-6-video/Ahv7Akj2xs4.pdf
-  - uid: cb3f27cae2e37ffed147b443f628867a
-    parent_uid: 2d38c3f343f41e75641847e44876c75f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 08ff1f17b8859d030fd7d54ad990e13a
-    parent_uid: 2d38c3f343f41e75641847e44876c75f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c2b6e19bc1a5407d312740df46230831
-    parent_uid: 2d38c3f343f41e75641847e44876c75f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec06_300k.mp4'
+uid: 2d38c3f343f41e75641847e44876c75f
 type: courses
 layout: video
 ---

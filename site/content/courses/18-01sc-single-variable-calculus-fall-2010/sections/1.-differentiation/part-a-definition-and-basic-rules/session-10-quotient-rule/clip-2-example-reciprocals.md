@@ -1,18 +1,72 @@
 ---
-title: 'Clip 2: Example: Reciprocals'
-uid: 58d13ffa697c341f624ab8555b663adf
-parent_uid: 94a0d0fdde324bb54b34d0ea12a6d94d
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule/clip-2-example-reciprocals
-short_url: clip-2-example-reciprocals
-inline_embed_id: '29733075clip2:example:reciprocals52507915'
 about_this_resource_text: >-
   <p>&raquo;<a href="./resolveuid/92a6a520aef0bfb5fd1f23265a3c3bcc"
   target="_blank"> Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 4 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 4sTKcvYMNxk
+    parent_uid: 58d13ffa697c341f624ab8555b663adf
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 41aa6c21d415d0501336efedab76ada1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4sTKcvYMNxk/default.jpg'
+    parent_uid: 58d13ffa697c341f624ab8555b663adf
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a9e7a8ac49c7bc24c5eacba158756385
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec04_300k.mp4'
+    parent_uid: 58d13ffa697c341f624ab8555b663adf
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7a77f723d7ae2c7cf3e3ccde14dbda29
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 4sTKcvYMNxk
+    parent_uid: 58d13ffa697c341f624ab8555b663adf
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0269b13d4ffb192964439f27c35ba8a2
+  - id: 4sTKcvYMNxk.srt
+    parent_uid: 58d13ffa697c341f624ab8555b663adf
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule/clip-2-example-reciprocals/4sTKcvYMNxk.srt
+    title: 3play caption file
+    type: null
+    uid: 5c3cb57d635380238af87b6326db0533
+  - id: 4sTKcvYMNxk.pdf
+    parent_uid: 58d13ffa697c341f624ab8555b663adf
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule/clip-2-example-reciprocals/4sTKcvYMNxk.pdf
+    title: 3play pdf file
+    type: null
+    uid: a38321d41930394a55caa253cb47f3e4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 58d13ffa697c341f624ab8555b663adf
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c395ed4ec6bf5ab1525f73377d5b9a00
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 58d13ffa697c341f624ab8555b663adf
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 78ae83c76145a99abff6acd2a8ab432f
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 58d13ffa697c341f624ab8555b663adf
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d9c7ff361327ff399f575921fdea4b9a
+inline_embed_id: '29733075clip2:example:reciprocals52507915'
+parent_uid: 94a0d0fdde324bb54b34d0ea12a6d94d
 related_resources_text: ''
+short_url: clip-2-example-reciprocals
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule/clip-2-example-reciprocals
+title: 'Clip 2: Example: Reciprocals'
 transcript: >-
   <p><span m="110">The</span> <span m="350">following</span> <span
   m="520">content</span> <span m="1260">is</span> <span m="1400">provided</span>
@@ -2120,61 +2174,7 @@ transcript: >-
   m="2755280">constant.</span> <span m="2756620">So</span> <span
   m="2756860">it's 0.</span></p><p><span m="2758180">Okay.</span> <span
   m="2758440">Thank</span> <span m="2758730">you.</span></p>
-embedded_media:
-  - uid: 41aa6c21d415d0501336efedab76ada1
-    parent_uid: 58d13ffa697c341f624ab8555b663adf
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4sTKcvYMNxk
-  - uid: a9e7a8ac49c7bc24c5eacba158756385
-    parent_uid: 58d13ffa697c341f624ab8555b663adf
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4sTKcvYMNxk/default.jpg'
-  - uid: 7a77f723d7ae2c7cf3e3ccde14dbda29
-    parent_uid: 58d13ffa697c341f624ab8555b663adf
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec04_300k.mp4'
-  - uid: 0269b13d4ffb192964439f27c35ba8a2
-    parent_uid: 58d13ffa697c341f624ab8555b663adf
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4sTKcvYMNxk
-  - uid: 5c3cb57d635380238af87b6326db0533
-    parent_uid: 58d13ffa697c341f624ab8555b663adf
-    id: 4sTKcvYMNxk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule/clip-2-example-reciprocals/4sTKcvYMNxk.srt
-  - uid: a38321d41930394a55caa253cb47f3e4
-    parent_uid: 58d13ffa697c341f624ab8555b663adf
-    id: 4sTKcvYMNxk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule/clip-2-example-reciprocals/4sTKcvYMNxk.pdf
-  - uid: c395ed4ec6bf5ab1525f73377d5b9a00
-    parent_uid: 58d13ffa697c341f624ab8555b663adf
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 78ae83c76145a99abff6acd2a8ab432f
-    parent_uid: 58d13ffa697c341f624ab8555b663adf
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d9c7ff361327ff399f575921fdea4b9a
-    parent_uid: 58d13ffa697c341f624ab8555b663adf
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 58d13ffa697c341f624ab8555b663adf
 type: courses
 layout: video
 ---

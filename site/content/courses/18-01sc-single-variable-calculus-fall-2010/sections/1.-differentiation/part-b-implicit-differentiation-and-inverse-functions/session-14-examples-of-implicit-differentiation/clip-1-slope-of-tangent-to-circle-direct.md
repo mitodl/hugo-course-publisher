@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Slope of Tangent to Circle: Direct'
-uid: 0e00e3642ff56b56cd527438643599b2
-parent_uid: 331d135eb8244bc35069e7f2d86beb59
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation/clip-1-slope-of-tangent-to-circle-direct
-short_url: clip-1-slope-of-tangent-to-circle-direct
-inline_embed_id: '60287434clip1:slopeoftangenttocircle:direct10465038'
 about_this_resource_text: >-
   <p>&raquo;<a target="_blank"
   href="./resolveuid/91b3ae8164bac6db7150dd155f5a357f"> Accompanying Notes
   (PDF)</a></p> <p class="scholar_medsm">From Lecture 5 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 5q_3FDOkVRQ
+    parent_uid: 0e00e3642ff56b56cd527438643599b2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d376f24cbc023f1581bdcb3abf215480
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/5q_3FDOkVRQ/default.jpg'
+    parent_uid: 0e00e3642ff56b56cd527438643599b2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7a1c6d3eb0bbce9c7607061d97f8772a
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec05_300k.mp4'
+    parent_uid: 0e00e3642ff56b56cd527438643599b2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bacb83984179a566a08257700d0f5fe3
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 5q_3FDOkVRQ
+    parent_uid: 0e00e3642ff56b56cd527438643599b2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bdf2c3e67e570ed0a0922749eb8e5eca
+  - id: 5q_3FDOkVRQ.srt
+    parent_uid: 0e00e3642ff56b56cd527438643599b2
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation/clip-1-slope-of-tangent-to-circle-direct/5q_3FDOkVRQ.srt
+    title: 3play caption file
+    type: null
+    uid: b67f17290fc6b94e81871bf57d1958c5
+  - id: 5q_3FDOkVRQ.pdf
+    parent_uid: 0e00e3642ff56b56cd527438643599b2
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation/clip-1-slope-of-tangent-to-circle-direct/5q_3FDOkVRQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2cbf4de986b56306d32dd3e632f374c7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0e00e3642ff56b56cd527438643599b2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 98c13401737af703dca57de4733104ba
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0e00e3642ff56b56cd527438643599b2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 990527cbb3c6b663c03f8eddfde32950
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 0e00e3642ff56b56cd527438643599b2
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 27f7eee3bbcede9fee2ff4b695f333c5
+inline_embed_id: '60287434clip1:slopeoftangenttocircle:direct10465038'
+parent_uid: 331d135eb8244bc35069e7f2d86beb59
 related_resources_text: ''
+short_url: clip-1-slope-of-tangent-to-circle-direct
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation/clip-1-slope-of-tangent-to-circle-direct
+title: 'Clip 1: Slope of Tangent to Circle: Direct'
 transcript: >-
   <p><span m="110">The</span> <span m="360">following</span> <span
   m="520">content</span> <span m="1130">was created</span> <span
@@ -2479,61 +2533,7 @@ transcript: >-
   <span m="2934230">discussed in your text.</span></p><p><span
   m="2936030">So</span> <span m="2936250">we'll</span> <span m="2936520">stop
   here.</span></p>
-embedded_media:
-  - uid: d376f24cbc023f1581bdcb3abf215480
-    parent_uid: 0e00e3642ff56b56cd527438643599b2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 5q_3FDOkVRQ
-  - uid: 7a1c6d3eb0bbce9c7607061d97f8772a
-    parent_uid: 0e00e3642ff56b56cd527438643599b2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/5q_3FDOkVRQ/default.jpg'
-  - uid: bacb83984179a566a08257700d0f5fe3
-    parent_uid: 0e00e3642ff56b56cd527438643599b2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec05_300k.mp4'
-  - uid: bdf2c3e67e570ed0a0922749eb8e5eca
-    parent_uid: 0e00e3642ff56b56cd527438643599b2
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 5q_3FDOkVRQ
-  - uid: b67f17290fc6b94e81871bf57d1958c5
-    parent_uid: 0e00e3642ff56b56cd527438643599b2
-    id: 5q_3FDOkVRQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation/clip-1-slope-of-tangent-to-circle-direct/5q_3FDOkVRQ.srt
-  - uid: 2cbf4de986b56306d32dd3e632f374c7
-    parent_uid: 0e00e3642ff56b56cd527438643599b2
-    id: 5q_3FDOkVRQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-14-examples-of-implicit-differentiation/clip-1-slope-of-tangent-to-circle-direct/5q_3FDOkVRQ.pdf
-  - uid: 98c13401737af703dca57de4733104ba
-    parent_uid: 0e00e3642ff56b56cd527438643599b2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 990527cbb3c6b663c03f8eddfde32950
-    parent_uid: 0e00e3642ff56b56cd527438643599b2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 27f7eee3bbcede9fee2ff4b695f333c5
-    parent_uid: 0e00e3642ff56b56cd527438643599b2
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 0e00e3642ff56b56cd527438643599b2
 type: courses
 layout: video
 ---

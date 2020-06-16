@@ -1,13 +1,61 @@
 ---
-title: Breaking Glass with Sound
-uid: 1789f90fd5cd232f7896287cc14bbf6c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: FCFpaKcpuXQ
+    parent_uid: 1789f90fd5cd232f7896287cc14bbf6c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 15f1fefcdf0153a54e2229aeacb951ab
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/FCFpaKcpuXQ/default.jpg'
+    parent_uid: 1789f90fd5cd232f7896287cc14bbf6c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9e5667daae0c61a843d06eee2656d049
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: FCFpaKcpuXQ
+    parent_uid: 1789f90fd5cd232f7896287cc14bbf6c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c19c979836d205cf0e9381586429691a
+  - id: FCFpaKcpuXQ.srt
+    parent_uid: 1789f90fd5cd232f7896287cc14bbf6c
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy4_of_lecture-3-video/FCFpaKcpuXQ.srt
+    title: 3play caption file
+    type: null
+    uid: 3799c84eef692b7f08a2e5962d2614ec
+  - id: FCFpaKcpuXQ.pdf
+    parent_uid: 1789f90fd5cd232f7896287cc14bbf6c
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy4_of_lecture-3-video/FCFpaKcpuXQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 24ada7e6510bce58a3e01f091641773d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1789f90fd5cd232f7896287cc14bbf6c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b36004236783475c90fd38c5ef4dd3df
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1789f90fd5cd232f7896287cc14bbf6c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d89f35b3c16f51476834d332017b1981
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec03_300k.mp4'
+    parent_uid: 1789f90fd5cd232f7896287cc14bbf6c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 29dc1e8e2a3fb1caa4af1aa57385a0e4
+inline_embed_id: 74978021lecture3videop440655647
 parent_uid: f635ac92fa8971e368192518b537eb93
+related_resources_text: ''
+short_url: copy4_of_lecture-3-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy4_of_lecture-3-video
-short_url: copy4_of_lecture-3-video
-inline_embed_id: 74978021lecture3videop440655647
-about_this_resource_text: ''
-related_resources_text: ''
+title: Breaking Glass with Sound
 transcript: >-
   <p><span m="2110">The</span> <span m="2230">following</span> <span
   m="2650">content</span> <span m="3160">is</span> <span
@@ -3938,55 +3986,7 @@ transcript: >-
   m="4610690">additional</span> <span m="4611170">questions</span> <span
   m="4612250">related</span> <span m="4612640">to the</span> <span
   m="4612800">lecture.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: 15f1fefcdf0153a54e2229aeacb951ab
-    parent_uid: 1789f90fd5cd232f7896287cc14bbf6c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: FCFpaKcpuXQ
-  - uid: 9e5667daae0c61a843d06eee2656d049
-    parent_uid: 1789f90fd5cd232f7896287cc14bbf6c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FCFpaKcpuXQ/default.jpg'
-  - uid: c19c979836d205cf0e9381586429691a
-    parent_uid: 1789f90fd5cd232f7896287cc14bbf6c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: FCFpaKcpuXQ
-  - uid: 3799c84eef692b7f08a2e5962d2614ec
-    parent_uid: 1789f90fd5cd232f7896287cc14bbf6c
-    id: FCFpaKcpuXQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy4_of_lecture-3-video/FCFpaKcpuXQ.srt
-  - uid: 24ada7e6510bce58a3e01f091641773d
-    parent_uid: 1789f90fd5cd232f7896287cc14bbf6c
-    id: FCFpaKcpuXQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy4_of_lecture-3-video/FCFpaKcpuXQ.pdf
-  - uid: b36004236783475c90fd38c5ef4dd3df
-    parent_uid: 1789f90fd5cd232f7896287cc14bbf6c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d89f35b3c16f51476834d332017b1981
-    parent_uid: 1789f90fd5cd232f7896287cc14bbf6c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 29dc1e8e2a3fb1caa4af1aa57385a0e4
-    parent_uid: 1789f90fd5cd232f7896287cc14bbf6c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec03_300k.mp4'
+uid: 1789f90fd5cd232f7896287cc14bbf6c
 type: courses
 layout: video
 ---

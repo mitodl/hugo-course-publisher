@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 14: Learning: Sparse Spaces, Phonology'
-uid: 69953385d63e7bd83eaa1c2e0f07f2bf
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-14-learning-sparse-spaces-phonology
-short_url: lecture-14-learning-sparse-spaces-phonology
-inline_embed_id: '14491588lecture14:learning:sparsespaces,phonology35752921'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Why do &quot;cats&quot; and &quot;dogs&quot;
   end with different plural sounds, and how do we learn this? We can represent
   this problem in terms of distinctive features, and then generalize. We end
   this lecture with a brief discussion of how to approach AI problems.</p>
   <p><strong>Instructor:</strong> Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: L73hY1pBcQI
+    parent_uid: 69953385d63e7bd83eaa1c2e0f07f2bf
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ea9d16335d713181cc347f9708794ac9
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-14-learning-sparse/id765641080?i=194475710
+    parent_uid: 69953385d63e7bd83eaa1c2e0f07f2bf
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3d95eb9116e2d85f94da0bc7a0aca502
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec14_300k.mp4'
+    parent_uid: 69953385d63e7bd83eaa1c2e0f07f2bf
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 73e6e355540060c77320b465df9a3d30
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/L73hY1pBcQI/default.jpg'
+    parent_uid: 69953385d63e7bd83eaa1c2e0f07f2bf
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1f7b2d46f0326e6df085e14b1a85153e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: L73hY1pBcQI
+    parent_uid: 69953385d63e7bd83eaa1c2e0f07f2bf
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 16774257ef667ad3e225df1a5604572c
+  - id: L73hY1pBcQI.srt
+    parent_uid: 69953385d63e7bd83eaa1c2e0f07f2bf
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-14-learning-sparse-spaces-phonology/L73hY1pBcQI.srt
+    title: 3play caption file
+    type: null
+    uid: ef358cecc8a805c9ec99c12987c3eafe
+  - id: L73hY1pBcQI.pdf
+    parent_uid: 69953385d63e7bd83eaa1c2e0f07f2bf
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-14-learning-sparse-spaces-phonology/L73hY1pBcQI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 59c59428343bd3b85959070528384fcd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 69953385d63e7bd83eaa1c2e0f07f2bf
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 68a9dae1320d177d234fb5ea2e87e67d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 69953385d63e7bd83eaa1c2e0f07f2bf
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f8549ea909b3d51065ceadd226ae9eef
+inline_embed_id: '14491588lecture14:learning:sparsespaces,phonology35752921'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
+short_url: lecture-14-learning-sparse-spaces-phonology
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-14-learning-sparse-spaces-phonology
+title: 'Lecture 14: Learning: Sparse Spaces, Phonology'
 transcript: >-
   <p><span m='10560'>PATRICK WINSTON: So today we're gonna talk about a
   few</span> <span m='15220'>miracles of learning in the context of the theme
@@ -821,62 +876,7 @@ transcript: >-
   apt to study mechanisms</span> <span m='2847850'>in a naive way and never
   reach a solution that will be</span> <span m='2852280'>satisfactory.</span>
   </p><p></p>
-embedded_media:
-  - uid: ea9d16335d713181cc347f9708794ac9
-    parent_uid: 69953385d63e7bd83eaa1c2e0f07f2bf
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: L73hY1pBcQI
-  - uid: 3d95eb9116e2d85f94da0bc7a0aca502
-    parent_uid: 69953385d63e7bd83eaa1c2e0f07f2bf
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-14-learning-sparse/id765641080?i=194475710
-  - uid: 73e6e355540060c77320b465df9a3d30
-    parent_uid: 69953385d63e7bd83eaa1c2e0f07f2bf
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec14_300k.mp4'
-  - uid: 1f7b2d46f0326e6df085e14b1a85153e
-    parent_uid: 69953385d63e7bd83eaa1c2e0f07f2bf
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/L73hY1pBcQI/default.jpg'
-  - uid: 16774257ef667ad3e225df1a5604572c
-    parent_uid: 69953385d63e7bd83eaa1c2e0f07f2bf
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: L73hY1pBcQI
-  - uid: ef358cecc8a805c9ec99c12987c3eafe
-    parent_uid: 69953385d63e7bd83eaa1c2e0f07f2bf
-    id: L73hY1pBcQI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-14-learning-sparse-spaces-phonology/L73hY1pBcQI.srt
-  - uid: 59c59428343bd3b85959070528384fcd
-    parent_uid: 69953385d63e7bd83eaa1c2e0f07f2bf
-    id: L73hY1pBcQI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-14-learning-sparse-spaces-phonology/L73hY1pBcQI.pdf
-  - uid: 68a9dae1320d177d234fb5ea2e87e67d
-    parent_uid: 69953385d63e7bd83eaa1c2e0f07f2bf
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f8549ea909b3d51065ceadd226ae9eef
-    parent_uid: 69953385d63e7bd83eaa1c2e0f07f2bf
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 69953385d63e7bd83eaa1c2e0f07f2bf
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: 'Delta function potential I: Preliminaries'
-uid: fb7fc364da912138a6d2afc169ebe0c3
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: vcuY46RwoV0
+    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7bbd2d9662326ed41a8afe9869ea40aa
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/n9IRMgR-_Q4/default.jpg'
+    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 264ea57e6679f79f05cc945bfe259c06
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: vcuY46RwoV0
+    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3cb88c2e550d14db4f20328c4cce2f30
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 048da52b4db0cb796c0d06aa74132a8e
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec13_s1_300k.mp4'
+    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6aa44d024caf3249b8de748f920405bd
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/vcuY46RwoV0/default.jpg'
+    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e574499e9a68f966358120724d17a763
+  - id: vcuY46RwoV0.srt
+    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/delta-function-potential-i-preliminaries/vcuY46RwoV0.srt
+    title: 3play caption file
+    type: null
+    uid: f8f1c83e071e6f651efe4ecfdb7f8205
+  - id: vcuY46RwoV0.pdf
+    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/delta-function-potential-i-preliminaries/vcuY46RwoV0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 81ad2cf1760f164ce863a8cd83cbd6ee
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: aa55580ca8fc5333b2a363104dbed82a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5dcbd968ba27120de0d3a22b2a019273
+inline_embed_id: 75759907deltafunctionpotentialipreliminaries35282937
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: delta-function-potential-i-preliminaries
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/delta-function-potential-i-preliminaries
-short_url: delta-function-potential-i-preliminaries
-inline_embed_id: 75759907deltafunctionpotentialipreliminaries35282937
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Delta function potential I: Preliminaries'
 transcript: >-
   <p><span m='1030'>PROFESSOR:</span> <span m='1095'>Delta</span> <span
   m='1410'>function</span> <span m='1890'>potential.</span> <span
@@ -849,67 +909,7 @@ transcript: >-
   m='971630'>Let's</span> <span m='971870'>just</span> <span
   m='972050'>solve</span> <span m='972560'>that</span> <span
   m='972860'>now.</span> </p>
-embedded_media:
-  - uid: 7bbd2d9662326ed41a8afe9869ea40aa
-    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: vcuY46RwoV0
-  - uid: 264ea57e6679f79f05cc945bfe259c06
-    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/n9IRMgR-_Q4/default.jpg'
-  - uid: 3cb88c2e550d14db4f20328c4cce2f30
-    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: vcuY46RwoV0
-  - uid: 048da52b4db0cb796c0d06aa74132a8e
-    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 6aa44d024caf3249b8de748f920405bd
-    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec13_s1_300k.mp4'
-  - uid: e574499e9a68f966358120724d17a763
-    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/vcuY46RwoV0/default.jpg'
-  - uid: f8f1c83e071e6f651efe4ecfdb7f8205
-    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
-    id: vcuY46RwoV0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/delta-function-potential-i-preliminaries/vcuY46RwoV0.srt
-  - uid: 81ad2cf1760f164ce863a8cd83cbd6ee
-    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
-    id: vcuY46RwoV0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/delta-function-potential-i-preliminaries/vcuY46RwoV0.pdf
-  - uid: aa55580ca8fc5333b2a363104dbed82a
-    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5dcbd968ba27120de0d3a22b2a019273
-    parent_uid: fb7fc364da912138a6d2afc169ebe0c3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: fb7fc364da912138a6d2afc169ebe0c3
 type: courses
 layout: video
 ---

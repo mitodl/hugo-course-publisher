@@ -1,13 +1,73 @@
 ---
-title: Derived Variables
-uid: 7def83d5e816adbb5b1a3002def1d087
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 7def83d5e816adbb5b1a3002def1d087
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: d05580f21e784acc7347d698425639e6
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 7def83d5e816adbb5b1a3002def1d087
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 466506535f290c679fab1c95913c97f9
+  - id: Video-YouTube-Stream
+    media_location: a7JUH-EtHtI
+    parent_uid: 7def83d5e816adbb5b1a3002def1d087
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9a6cc4a8db0f54683f21bc7fd8e7a47e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/a7JUH-EtHtI/default.jpg'
+    parent_uid: 7def83d5e816adbb5b1a3002def1d087
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5c5b6f22fbb198278c758e236c949f97
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: a7JUH-EtHtI
+    parent_uid: 7def83d5e816adbb5b1a3002def1d087
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fe1784134eefe407a94cd1fbde7f02c0
+  - id: a7JUH-EtHtI.srt
+    parent_uid: 7def83d5e816adbb5b1a3002def1d087
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/vertical-ef00ae29a8ca/derived-variables/a7JUH-EtHtI.srt
+    title: 3play caption file
+    type: null
+    uid: c76146d42eea161d6e07535bbe585c0e
+  - id: a7JUH-EtHtI.pdf
+    parent_uid: 7def83d5e816adbb5b1a3002def1d087
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/vertical-ef00ae29a8ca/derived-variables/a7JUH-EtHtI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7ca5218c9bcfb55dbf09b0b1d4bdec9c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7def83d5e816adbb5b1a3002def1d087
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ac9f3b8b1ea765bd12b3f57fbd972cc8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7def83d5e816adbb5b1a3002def1d087
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 79e25d0d24fb5a0f709b69b58cbedb56
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_derivedvariables_ipod.mp4
+    parent_uid: 7def83d5e816adbb5b1a3002def1d087
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2f2c260fcfac02b3d857bfaef6d16a03
+inline_embed_id: 5445506derivedvariables3462856
 parent_uid: 783b1ae0b2ad604534d3f48ce92854c0
+related_resources_text: ''
+short_url: derived-variables
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/vertical-ef00ae29a8ca/derived-variables
-short_url: derived-variables
-inline_embed_id: 5445506derivedvariables3462856
-about_this_resource_text: ''
-related_resources_text: ''
+title: Derived Variables
 transcript: >-
   <p><span m='950'>The</span> <span m='1100'>technique</span> <span
   m='1700'>of</span> <span m='1850'>derived</span> <span
@@ -417,67 +477,7 @@ transcript: >-
   m='379230'>does,</span> <span m='379590'>the</span> <span
   m='379740'>machine</span> <span m='380080'>can't</span> <span
   m='380380'>move</span> <span m='380590'>anymore.</span> </p>
-embedded_media:
-  - uid: d05580f21e784acc7347d698425639e6
-    parent_uid: 7def83d5e816adbb5b1a3002def1d087
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 466506535f290c679fab1c95913c97f9
-    parent_uid: 7def83d5e816adbb5b1a3002def1d087
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 9a6cc4a8db0f54683f21bc7fd8e7a47e
-    parent_uid: 7def83d5e816adbb5b1a3002def1d087
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: a7JUH-EtHtI
-  - uid: 5c5b6f22fbb198278c758e236c949f97
-    parent_uid: 7def83d5e816adbb5b1a3002def1d087
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/a7JUH-EtHtI/default.jpg'
-  - uid: fe1784134eefe407a94cd1fbde7f02c0
-    parent_uid: 7def83d5e816adbb5b1a3002def1d087
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: a7JUH-EtHtI
-  - uid: c76146d42eea161d6e07535bbe585c0e
-    parent_uid: 7def83d5e816adbb5b1a3002def1d087
-    id: a7JUH-EtHtI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/vertical-ef00ae29a8ca/derived-variables/a7JUH-EtHtI.srt
-  - uid: 7ca5218c9bcfb55dbf09b0b1d4bdec9c
-    parent_uid: 7def83d5e816adbb5b1a3002def1d087
-    id: a7JUH-EtHtI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-2/vertical-ef00ae29a8ca/derived-variables/a7JUH-EtHtI.pdf
-  - uid: ac9f3b8b1ea765bd12b3f57fbd972cc8
-    parent_uid: 7def83d5e816adbb5b1a3002def1d087
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 79e25d0d24fb5a0f709b69b58cbedb56
-    parent_uid: 7def83d5e816adbb5b1a3002def1d087
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 2f2c260fcfac02b3d857bfaef6d16a03
-    parent_uid: 7def83d5e816adbb5b1a3002def1d087
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_derivedvariables_ipod.mp4
+uid: 7def83d5e816adbb5b1a3002def1d087
 type: courses
 layout: video
 ---

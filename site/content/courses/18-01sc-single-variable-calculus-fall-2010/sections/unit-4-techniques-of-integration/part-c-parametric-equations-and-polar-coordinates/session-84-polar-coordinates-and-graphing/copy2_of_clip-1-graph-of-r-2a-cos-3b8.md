@@ -1,18 +1,72 @@
 ---
-title: 'Clip 3: Polar Coordinates and Conic Sections'
-uid: aa32da2a5d522a6395483067a2b74e99
-parent_uid: cfd25e33da1a2e54749f33591f59a4ba
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/copy2_of_clip-1-graph-of-r-2a-cos-3b8
-short_url: copy2_of_clip-1-graph-of-r-2a-cos-3b8
-inline_embed_id: '50289455clip3:polarcoordinatesandconicsections8563069'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/958d7ea5f505b8ed797787befee0e4a4" title="Open
   in a new window." target="_blank">Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 33 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: BGE3wb7H2PA
+    parent_uid: aa32da2a5d522a6395483067a2b74e99
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9b84dc03d36a5bc62360369ae610b48e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BGE3wb7H2PA/default.jpg'
+    parent_uid: aa32da2a5d522a6395483067a2b74e99
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d3ab7c58b8a73f9c57b2b912c97019ae
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: BGE3wb7H2PA
+    parent_uid: aa32da2a5d522a6395483067a2b74e99
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5886962f537d977c1a20444b0b830d9d
+  - id: BGE3wb7H2PA.srt
+    parent_uid: aa32da2a5d522a6395483067a2b74e99
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/copy2_of_clip-1-graph-of-r-2a-cos-3b8/BGE3wb7H2PA.srt
+    title: 3play caption file
+    type: null
+    uid: e49c5e5049cac6fc5a53dd22d6505c4a
+  - id: BGE3wb7H2PA.pdf
+    parent_uid: aa32da2a5d522a6395483067a2b74e99
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/copy2_of_clip-1-graph-of-r-2a-cos-3b8/BGE3wb7H2PA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 97c5e7bc8799350437aac743c394579e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: aa32da2a5d522a6395483067a2b74e99
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9d5e3b6aac23b1eccdc71aa6119b3b3f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: aa32da2a5d522a6395483067a2b74e99
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: aed4305f39b68ab3cce2908038d13325
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec33_300k.mp4'
+    parent_uid: aa32da2a5d522a6395483067a2b74e99
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e8c2a33146be51bc32a12de449109ae5
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: aa32da2a5d522a6395483067a2b74e99
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1bf562eb861ff30802d2262b52dfe7a8
+inline_embed_id: '50289455clip3:polarcoordinatesandconicsections8563069'
+parent_uid: cfd25e33da1a2e54749f33591f59a4ba
 related_resources_text: ''
+short_url: copy2_of_clip-1-graph-of-r-2a-cos-3b8
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/copy2_of_clip-1-graph-of-r-2a-cos-3b8
+title: 'Clip 3: Polar Coordinates and Conic Sections'
 transcript: >-
   <p><span m="0">The</span> <span m="120">following</span> <span
   m="530">content</span> <span m="1270">is</span> <span m="1420">provided</span>
@@ -2726,61 +2780,7 @@ transcript: >-
   m="2943540">just</span> <span m="2943900">keep</span> <span
   m="2944090">that</span> <span m="2944290">in</span> <span
   m="2944370">mind.</span></p>
-embedded_media:
-  - uid: 9b84dc03d36a5bc62360369ae610b48e
-    parent_uid: aa32da2a5d522a6395483067a2b74e99
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BGE3wb7H2PA
-  - uid: d3ab7c58b8a73f9c57b2b912c97019ae
-    parent_uid: aa32da2a5d522a6395483067a2b74e99
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BGE3wb7H2PA/default.jpg'
-  - uid: 5886962f537d977c1a20444b0b830d9d
-    parent_uid: aa32da2a5d522a6395483067a2b74e99
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BGE3wb7H2PA
-  - uid: e49c5e5049cac6fc5a53dd22d6505c4a
-    parent_uid: aa32da2a5d522a6395483067a2b74e99
-    id: BGE3wb7H2PA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/copy2_of_clip-1-graph-of-r-2a-cos-3b8/BGE3wb7H2PA.srt
-  - uid: 97c5e7bc8799350437aac743c394579e
-    parent_uid: aa32da2a5d522a6395483067a2b74e99
-    id: BGE3wb7H2PA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-84-polar-coordinates-and-graphing/copy2_of_clip-1-graph-of-r-2a-cos-3b8/BGE3wb7H2PA.pdf
-  - uid: 9d5e3b6aac23b1eccdc71aa6119b3b3f
-    parent_uid: aa32da2a5d522a6395483067a2b74e99
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: aed4305f39b68ab3cce2908038d13325
-    parent_uid: aa32da2a5d522a6395483067a2b74e99
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e8c2a33146be51bc32a12de449109ae5
-    parent_uid: aa32da2a5d522a6395483067a2b74e99
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec33_300k.mp4'
-  - uid: 1bf562eb861ff30802d2262b52dfe7a8
-    parent_uid: aa32da2a5d522a6395483067a2b74e99
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: aa32da2a5d522a6395483067a2b74e99
 type: courses
 layout: video
 ---

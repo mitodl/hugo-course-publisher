@@ -1,13 +1,62 @@
 ---
-title: 'Video 2: Example 1 - IBM Watson'
-uid: cf2300f946cbbdd11fd2412911fdac2e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Vd6yR63nfHY
+    parent_uid: cf2300f946cbbdd11fd2412911fdac2e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b09b77093e222476b0a40bd1aa93e077
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: Vd6yR63nfHY
+    parent_uid: cf2300f946cbbdd11fd2412911fdac2e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 44ec7f308a866f5ae98a0f60c6f6bb53
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/Vd6yR63nfHY/default.jpg'
+    parent_uid: cf2300f946cbbdd11fd2412911fdac2e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b3cf0123e05efadc859ebd10a7cdd4c4
+  - id: Vd6yR63nfHY.srt
+    parent_uid: cf2300f946cbbdd11fd2412911fdac2e
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-2-example-1-ibm-watson/video-2-example-1-ibm-watson-0/Vd6yR63nfHY.srt
+    title: 3play caption file
+    type: null
+    uid: c2d2a636c18aa907b11baec3b2290500
+  - id: Vd6yR63nfHY.pdf
+    parent_uid: cf2300f946cbbdd11fd2412911fdac2e
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-2-example-1-ibm-watson/video-2-example-1-ibm-watson-0/Vd6yR63nfHY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 83617f1e696db7093b4812fd134f5317
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cf2300f946cbbdd11fd2412911fdac2e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 83be80526127e345f7bf338ce9d6e2a2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cf2300f946cbbdd11fd2412911fdac2e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ca8d6a9b9e3511a1905e68b4355ba0a8
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.2.02_300k.mp4
+    parent_uid: cf2300f946cbbdd11fd2412911fdac2e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 32690c0ceac2dbbc2f87bf9ab9645590
+inline_embed_id: 34490246video2example1ibmwatson33824476
 parent_uid: d47941e37e10d553df10f1506d21de79
+related_resources_text: ''
+short_url: video-2-example-1-ibm-watson-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-2-example-1-ibm-watson/video-2-example-1-ibm-watson-0
-short_url: video-2-example-1-ibm-watson-0
-inline_embed_id: 34490246video2example1ibmwatson33824476
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 2: Example 1 - IBM Watson'
 transcript: >-
   <p><span m='11450'>Our</span> <span m='11889'>first</span> <span
   m='12328'>example</span> <span m='12767'>today</span> <span
@@ -413,56 +462,7 @@ transcript: >-
   <span m='390674'>data</span> <span m='391035'>in</span> <span
   m='391396'>the</span> <span m='391757'>world</span> <span m='392118'>is</span>
   <span m='392479'>unstructured.</span> </p>
-embedded_media:
-  - uid: b09b77093e222476b0a40bd1aa93e077
-    parent_uid: cf2300f946cbbdd11fd2412911fdac2e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Vd6yR63nfHY
-  - uid: 44ec7f308a866f5ae98a0f60c6f6bb53
-    parent_uid: cf2300f946cbbdd11fd2412911fdac2e
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Vd6yR63nfHY
-  - uid: b3cf0123e05efadc859ebd10a7cdd4c4
-    parent_uid: cf2300f946cbbdd11fd2412911fdac2e
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Vd6yR63nfHY/default.jpg'
-  - uid: c2d2a636c18aa907b11baec3b2290500
-    parent_uid: cf2300f946cbbdd11fd2412911fdac2e
-    id: Vd6yR63nfHY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-2-example-1-ibm-watson/video-2-example-1-ibm-watson-0/Vd6yR63nfHY.srt
-  - uid: 83617f1e696db7093b4812fd134f5317
-    parent_uid: cf2300f946cbbdd11fd2412911fdac2e
-    id: Vd6yR63nfHY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-2-example-1-ibm-watson/video-2-example-1-ibm-watson-0/Vd6yR63nfHY.pdf
-  - uid: 83be80526127e345f7bf338ce9d6e2a2
-    parent_uid: cf2300f946cbbdd11fd2412911fdac2e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ca8d6a9b9e3511a1905e68b4355ba0a8
-    parent_uid: cf2300f946cbbdd11fd2412911fdac2e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 32690c0ceac2dbbc2f87bf9ab9645590
-    parent_uid: cf2300f946cbbdd11fd2412911fdac2e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.2.02_300k.mp4
+uid: cf2300f946cbbdd11fd2412911fdac2e
 type: courses
 layout: video
 ---

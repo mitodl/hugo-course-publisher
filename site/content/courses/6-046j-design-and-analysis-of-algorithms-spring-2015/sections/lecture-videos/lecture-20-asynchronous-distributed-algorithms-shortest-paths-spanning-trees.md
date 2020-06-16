@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 20: Asynchronous Distributed Algorithms: Shortest-Paths Spanning Trees'
-uid: 0e521636640fe0d169e7316908d3b369
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-20-asynchronous-distributed-algorithms-shortest-paths-spanning-trees
-short_url: lecture-20-asynchronous-distributed-algorithms-shortest-paths-spanning-trees
-inline_embed_id: >-
-  58613250lecture20:asynchronousdistributedalgorithms:shortest-pathsspanningtrees37500271
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Lynch introduces
   asynchronous distributed algorithms.</p><p><strong>Instructors:</strong> Nancy
   Ann Lynch</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: kQ-UQAzcnzA
+    parent_uid: 0e521636640fe0d169e7316908d3b369
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 344d6bec2f3117ccd3b3a648e9db6b08
+  - id: kQ-UQAzcnzA.srt
+    parent_uid: 0e521636640fe0d169e7316908d3b369
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-20-asynchronous-distributed-algorithms-shortest-paths-spanning-trees/kQ-UQAzcnzA.srt
+    title: 3play caption file
+    type: null
+    uid: 52dcacc11e7bcd09392cdd67b63c3aae
+  - id: kQ-UQAzcnzA.pdf
+    parent_uid: 0e521636640fe0d169e7316908d3b369
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-20-asynchronous-distributed-algorithms-shortest-paths-spanning-trees/kQ-UQAzcnzA.pdf
+    title: 3play pdf file
+    type: null
+    uid: b9670493c6519f5d296dd558751ddf88
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0e521636640fe0d169e7316908d3b369
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8326596389b29416fab8e8741100d08a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0e521636640fe0d169e7316908d3b369
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 17b159d67e959f3a2612a01f9032bedf
+  - id: Video-YouTube-Stream
+    media_location: kQ-UQAzcnzA
+    parent_uid: 0e521636640fe0d169e7316908d3b369
+    title: Video-YouTube-Stream
+    type: Video
+    uid: df5ea846f34610224257a1e0820d131c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/kQ-UQAzcnzA/default.jpg'
+    parent_uid: 0e521636640fe0d169e7316908d3b369
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cf1f4b73df93e563206686ba3ff284d2
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 0e521636640fe0d169e7316908d3b369
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a0423b902852930d39613ff1fa0fa7a4
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec20_300k.mp4'
+    parent_uid: 0e521636640fe0d169e7316908d3b369
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e6dccb9301463d7676202314e0f2bf75
+inline_embed_id: >-
+  58613250lecture20:asynchronousdistributedalgorithms:shortest-pathsspanningtrees37500271
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-20-asynchronous-distributed-algorithms-shortest-paths-spanning-trees
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-20-asynchronous-distributed-algorithms-shortest-paths-spanning-trees
+title: 'Lecture 20: Asynchronous Distributed Algorithms: Shortest-Paths Spanning Trees'
 transcript: >-
   <p><span m="40">The</span> <span m="170">following</span> <span
   m="620">content</span> <span m="1210">is</span> <span m="1320">provided</span>
@@ -4882,61 +4936,7 @@ transcript: >-
   m="4315970">week</span> <span m="4316210">is</span> <span
   m="4318710">security?</span> <span m="4319430">OK,</span> <span
   m="4320730">yeah.</span></p>
-embedded_media:
-  - uid: 344d6bec2f3117ccd3b3a648e9db6b08
-    parent_uid: 0e521636640fe0d169e7316908d3b369
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: kQ-UQAzcnzA
-  - uid: 52dcacc11e7bcd09392cdd67b63c3aae
-    parent_uid: 0e521636640fe0d169e7316908d3b369
-    id: kQ-UQAzcnzA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-20-asynchronous-distributed-algorithms-shortest-paths-spanning-trees/kQ-UQAzcnzA.srt
-  - uid: b9670493c6519f5d296dd558751ddf88
-    parent_uid: 0e521636640fe0d169e7316908d3b369
-    id: kQ-UQAzcnzA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-20-asynchronous-distributed-algorithms-shortest-paths-spanning-trees/kQ-UQAzcnzA.pdf
-  - uid: 8326596389b29416fab8e8741100d08a
-    parent_uid: 0e521636640fe0d169e7316908d3b369
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 17b159d67e959f3a2612a01f9032bedf
-    parent_uid: 0e521636640fe0d169e7316908d3b369
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: df5ea846f34610224257a1e0820d131c
-    parent_uid: 0e521636640fe0d169e7316908d3b369
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: kQ-UQAzcnzA
-  - uid: cf1f4b73df93e563206686ba3ff284d2
-    parent_uid: 0e521636640fe0d169e7316908d3b369
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/kQ-UQAzcnzA/default.jpg'
-  - uid: a0423b902852930d39613ff1fa0fa7a4
-    parent_uid: 0e521636640fe0d169e7316908d3b369
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: e6dccb9301463d7676202314e0f2bf75
-    parent_uid: 0e521636640fe0d169e7316908d3b369
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec20_300k.mp4'
+uid: 0e521636640fe0d169e7316908d3b369
 type: courses
 layout: video
 ---

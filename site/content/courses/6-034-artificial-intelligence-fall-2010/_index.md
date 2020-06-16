@@ -4,7 +4,8 @@ course_id: 6-034-artificial-intelligence-fall-2010
 course_title: Artificial Intelligence
 course_image_url: >-
   https://open-learning-course-data-ci.s3.amazonaws.com/6-034-artificial-intelligence-fall-2010/222f721ca21fb802fd00fa09e17b7f80_6-034f10.JPG
-course_thumbnail_image_url: ''
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/6-034-artificial-intelligence-fall-2010/61a04b682eaad729e2b494596e0e16ad_6-034f10-th.jpg
 course_image_alternate_text: >-
   Graphic of seven figures in an evolutionary arc, starting with a monkey, with
   a figure standing upright in the middle, ending with a person hunched over at

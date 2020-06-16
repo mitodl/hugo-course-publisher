@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 2: Atomic Structure'
-uid: a2bb64cd155815d782234441ce0b7350
-parent_uid: 5f132e2de0def5883a9112c82ff3e6ec
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-2/lecture-2-atomic-structure
-short_url: lecture-2-atomic-structure
-inline_embed_id: 85547402lecture2atomicstructure64443157
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: The backscattering experiment of Rutherford is
@@ -13,7 +6,68 @@ about_this_resource_text: >-
   alpha particles and Styrofoam balls connected to a series of strings represent
   nuclei in a piece of gold foil.</p> <p><strong>Instructor:</strong> Catherine
   Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ustfXi-mpkI
+    parent_uid: a2bb64cd155815d782234441ce0b7350
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ae65c0f46b68d03d8032890f6a2dbb37
+  - id: ustfXi-mpkI.srt
+    parent_uid: a2bb64cd155815d782234441ce0b7350
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-2/lecture-2-atomic-structure/ustfXi-mpkI.srt
+    title: 3play caption file
+    type: null
+    uid: ace40c2927997ed30cbd054868e706a3
+  - id: ustfXi-mpkI.pdf
+    parent_uid: a2bb64cd155815d782234441ce0b7350
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-2/lecture-2-atomic-structure/ustfXi-mpkI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1a2d55b2a3f594d2c78173f9582c20ac
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a2bb64cd155815d782234441ce0b7350
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bc3c94143e800046529f90ebdeab3c7a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a2bb64cd155815d782234441ce0b7350
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 219c386f0fd95a45a95214a44b0a1cfd
+  - id: Video-YouTube-Stream
+    media_location: ustfXi-mpkI
+    parent_uid: a2bb64cd155815d782234441ce0b7350
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 18d0475d1a25af2b4910e9727426b760
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ustfXi-mpkI/default.jpg'
+    parent_uid: a2bb64cd155815d782234441ce0b7350
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bed72415a9a0ef0ca73e893947a9e1b1
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L02_300k.mp4'
+    parent_uid: a2bb64cd155815d782234441ce0b7350
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f6eca06c7f22ab1e32ffc2fc39f59680
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: a2bb64cd155815d782234441ce0b7350
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c736b8ebe913640e65dfe0a9bbb07025
+inline_embed_id: 85547402lecture2atomicstructure64443157
+parent_uid: 5f132e2de0def5883a9112c82ff3e6ec
 related_resources_text: ''
+short_url: lecture-2-atomic-structure
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-2/lecture-2-atomic-structure
+title: 'Lecture 2: Atomic Structure'
 transcript: >-
   <p><span m='90'>The</span> <span m='180'>following</span> <span
   m='630'>content</span> <span m='1110'>is</span> <span m='1230'>provided</span>
@@ -2259,61 +2313,7 @@ transcript: >-
   m='2327030'>will</span> <span m='2327360'>see</span> <span
   m='2327720'>you</span> <span m='2328230'>on</span> <span
   m='2328590'>Monday.</span> </p>
-embedded_media:
-  - uid: ae65c0f46b68d03d8032890f6a2dbb37
-    parent_uid: a2bb64cd155815d782234441ce0b7350
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ustfXi-mpkI
-  - uid: ace40c2927997ed30cbd054868e706a3
-    parent_uid: a2bb64cd155815d782234441ce0b7350
-    id: ustfXi-mpkI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-2/lecture-2-atomic-structure/ustfXi-mpkI.srt
-  - uid: 1a2d55b2a3f594d2c78173f9582c20ac
-    parent_uid: a2bb64cd155815d782234441ce0b7350
-    id: ustfXi-mpkI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-2/lecture-2-atomic-structure/ustfXi-mpkI.pdf
-  - uid: bc3c94143e800046529f90ebdeab3c7a
-    parent_uid: a2bb64cd155815d782234441ce0b7350
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 219c386f0fd95a45a95214a44b0a1cfd
-    parent_uid: a2bb64cd155815d782234441ce0b7350
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 18d0475d1a25af2b4910e9727426b760
-    parent_uid: a2bb64cd155815d782234441ce0b7350
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ustfXi-mpkI
-  - uid: bed72415a9a0ef0ca73e893947a9e1b1
-    parent_uid: a2bb64cd155815d782234441ce0b7350
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ustfXi-mpkI/default.jpg'
-  - uid: f6eca06c7f22ab1e32ffc2fc39f59680
-    parent_uid: a2bb64cd155815d782234441ce0b7350
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L02_300k.mp4'
-  - uid: c736b8ebe913640e65dfe0a9bbb07025
-    parent_uid: a2bb64cd155815d782234441ce0b7350
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+uid: a2bb64cd155815d782234441ce0b7350
 type: courses
 layout: video
 ---

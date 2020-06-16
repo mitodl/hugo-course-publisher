@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 13: Commodity Models'
-uid: cc7d2d2678ae4c71b5533a30d0b0682a
-parent_uid: d23a85587c0c7524ea054e655c999532
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-13-commodity-models
-short_url: lecture-13-commodity-models
-inline_embed_id: '15552246lecture13:commoditymodels67611796'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This is a guest lecture on commodity
   modeling, analyzing the methods of generating profit with a constrained
   system.</p> <p><strong>Instructor:</strong> Alexander Eydeland</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: nmehlS-8b3Y
+    parent_uid: cc7d2d2678ae4c71b5533a30d0b0682a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ed20e13dbb9b1eb172c8d9fd5457817d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/nmehlS-8b3Y/default.jpg'
+    parent_uid: cc7d2d2678ae4c71b5533a30d0b0682a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0e209083aba16a3434646c42e5a50780
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: cc7d2d2678ae4c71b5533a30d0b0682a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: be13948163c2417b76ff895f671f8809
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec13_300k.mp4'
+    parent_uid: cc7d2d2678ae4c71b5533a30d0b0682a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 782b46bcda5bee416819c1d0ecf76f5f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: nmehlS-8b3Y
+    parent_uid: cc7d2d2678ae4c71b5533a30d0b0682a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bf60120cb0569afaafde1c12761e8f9b
+  - id: nmehlS-8b3Y.srt
+    parent_uid: cc7d2d2678ae4c71b5533a30d0b0682a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-13-commodity-models/nmehlS-8b3Y.srt
+    title: 3play caption file
+    type: null
+    uid: 8a8517a657242777b1ac57fbcf6c1edb
+  - id: nmehlS-8b3Y.pdf
+    parent_uid: cc7d2d2678ae4c71b5533a30d0b0682a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-13-commodity-models/nmehlS-8b3Y.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9bd47022460a8b6df264ae6a515c1711
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cc7d2d2678ae4c71b5533a30d0b0682a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ac1ba0f541c46e368c9481b24a0463d0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cc7d2d2678ae4c71b5533a30d0b0682a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ac23912bd09878ffeaa437f1a51d5b86
+inline_embed_id: '15552246lecture13:commoditymodels67611796'
+parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
+short_url: lecture-13-commodity-models
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-13-commodity-models
+title: 'Lecture 13: Commodity Models'
 transcript: >-
   <p><span m='60'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -4909,61 +4963,7 @@ transcript: >-
   m='4839070'>music</span> <span m='4839350'>to</span> <span
   m='4839470'>my</span> <span m='4839610'>ears.</span> <span
   m='4840510'>Thank</span> <span m='4840810'>you.</span> </p>
-embedded_media:
-  - uid: ed20e13dbb9b1eb172c8d9fd5457817d
-    parent_uid: cc7d2d2678ae4c71b5533a30d0b0682a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: nmehlS-8b3Y
-  - uid: 0e209083aba16a3434646c42e5a50780
-    parent_uid: cc7d2d2678ae4c71b5533a30d0b0682a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/nmehlS-8b3Y/default.jpg'
-  - uid: be13948163c2417b76ff895f671f8809
-    parent_uid: cc7d2d2678ae4c71b5533a30d0b0682a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: 782b46bcda5bee416819c1d0ecf76f5f
-    parent_uid: cc7d2d2678ae4c71b5533a30d0b0682a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec13_300k.mp4'
-  - uid: bf60120cb0569afaafde1c12761e8f9b
-    parent_uid: cc7d2d2678ae4c71b5533a30d0b0682a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: nmehlS-8b3Y
-  - uid: 8a8517a657242777b1ac57fbcf6c1edb
-    parent_uid: cc7d2d2678ae4c71b5533a30d0b0682a
-    id: nmehlS-8b3Y.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-13-commodity-models/nmehlS-8b3Y.srt
-  - uid: 9bd47022460a8b6df264ae6a515c1711
-    parent_uid: cc7d2d2678ae4c71b5533a30d0b0682a
-    id: nmehlS-8b3Y.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-13-commodity-models/nmehlS-8b3Y.pdf
-  - uid: ac1ba0f541c46e368c9481b24a0463d0
-    parent_uid: cc7d2d2678ae4c71b5533a30d0b0682a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ac23912bd09878ffeaa437f1a51d5b86
-    parent_uid: cc7d2d2678ae4c71b5533a30d0b0682a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: cc7d2d2678ae4c71b5533a30d0b0682a
 type: courses
 layout: video
 ---

@@ -1,13 +1,69 @@
 ---
-title: Exam 1 Problem Solving
-uid: c7c130b9288c108b8c30c079350b6f9d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: AMLekTJR5_U
+    parent_uid: c7c130b9288c108b8c30c079350b6f9d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0dd63b6b0bd258859239e6fe6d4b7414
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/exam-1-problem-solving/id488155309?i=108454309
+    parent_uid: c7c130b9288c108b8c30c079350b6f9d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2bf12cb175704a6bb2db504796cb1a1c
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110714_N1_300k.mp4
+    parent_uid: c7c130b9288c108b8c30c079350b6f9d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d8b378e5847ec24270e9914459ba4b4c
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: AMLekTJR5_U
+    parent_uid: c7c130b9288c108b8c30c079350b6f9d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 23af196da800b282135846dc0a7c1e18
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/AMLekTJR5_U/default.jpg'
+    parent_uid: c7c130b9288c108b8c30c079350b6f9d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 95c83a3a36b94b96b834e5ef50fcfe17
+  - id: AMLekTJR5_U.srt
+    parent_uid: c7c130b9288c108b8c30c079350b6f9d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/exam-1-review/exam-1-problem-solving/AMLekTJR5_U.srt
+    title: 3play caption file
+    type: null
+    uid: fa3c11fb5b8dc2d1967c4db65eb6c618
+  - id: AMLekTJR5_U.pdf
+    parent_uid: c7c130b9288c108b8c30c079350b6f9d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/exam-1-review/exam-1-problem-solving/AMLekTJR5_U.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0f5a0643c2eaa5667603aa39ec807f70
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c7c130b9288c108b8c30c079350b6f9d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b5bb5f67596f56bbe3911967cc7dfc90
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c7c130b9288c108b8c30c079350b6f9d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3ee23340244e9e6569590520b89a7a30
+inline_embed_id: 45035429exam1problemsolving70821300
 parent_uid: e451ffac351d687a8b193c0159c4b2a7
+related_resources_text: ''
+short_url: exam-1-problem-solving
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/exam-1-review/exam-1-problem-solving
-short_url: exam-1-problem-solving
-inline_embed_id: 45035429exam1problemsolving70821300
-about_this_resource_text: ''
-related_resources_text: ''
+title: Exam 1 Problem Solving
 transcript: >-
   <p><span m='10570'>PROFESSOR: Hi,</span> <span m='10800'>everyone.</span>
   <span m='13000'>So</span> <span m='13920'>for</span> <span
@@ -620,63 +676,7 @@ transcript: >-
   m='890100'>Good</span> <span m='890270'>luck,</span> <span
   m='890550'>and</span> <span m='890700'>Ill</span> <span m='890740'>see
   you</span> <span m='890980'>later.</span> </p>
-embedded_media:
-  - uid: 0dd63b6b0bd258859239e6fe6d4b7414
-    parent_uid: c7c130b9288c108b8c30c079350b6f9d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: AMLekTJR5_U
-  - uid: 2bf12cb175704a6bb2db504796cb1a1c
-    parent_uid: c7c130b9288c108b8c30c079350b6f9d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/exam-1-problem-solving/id488155309?i=108454309
-  - uid: d8b378e5847ec24270e9914459ba4b4c
-    parent_uid: c7c130b9288c108b8c30c079350b6f9d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110714_N1_300k.mp4
-  - uid: 23af196da800b282135846dc0a7c1e18
-    parent_uid: c7c130b9288c108b8c30c079350b6f9d
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: AMLekTJR5_U
-  - uid: 95c83a3a36b94b96b834e5ef50fcfe17
-    parent_uid: c7c130b9288c108b8c30c079350b6f9d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/AMLekTJR5_U/default.jpg'
-  - uid: fa3c11fb5b8dc2d1967c4db65eb6c618
-    parent_uid: c7c130b9288c108b8c30c079350b6f9d
-    id: AMLekTJR5_U.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/exam-1-review/exam-1-problem-solving/AMLekTJR5_U.srt
-  - uid: 0f5a0643c2eaa5667603aa39ec807f70
-    parent_uid: c7c130b9288c108b8c30c079350b6f9d
-    id: AMLekTJR5_U.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/exam-1-review/exam-1-problem-solving/AMLekTJR5_U.pdf
-  - uid: b5bb5f67596f56bbe3911967cc7dfc90
-    parent_uid: c7c130b9288c108b8c30c079350b6f9d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3ee23340244e9e6569590520b89a7a30
-    parent_uid: c7c130b9288c108b8c30c079350b6f9d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: c7c130b9288c108b8c30c079350b6f9d
 type: courses
 layout: video
 ---

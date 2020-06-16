@@ -1,13 +1,73 @@
 ---
-title: Total Expectation
-uid: 19c748cedee50879df99e1d65a2d36ae
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 19c748cedee50879df99e1d65a2d36ae
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: a71d971caf847539ec4bc6009ece9e7b
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 19c748cedee50879df99e1d65a2d36ae
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 32ede2fa476e85abab6e92c4e7ef16a4
+  - id: Video-YouTube-Stream
+    media_location: mqoDXWrSais
+    parent_uid: 19c748cedee50879df99e1d65a2d36ae
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 67e0235858f4cc2a66ac39e3e9cc3539
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/mqoDXWrSais/default.jpg'
+    parent_uid: 19c748cedee50879df99e1d65a2d36ae
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a32be5e2aa7eeef5fa3c4710917e83e1
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: mqoDXWrSais
+    parent_uid: 19c748cedee50879df99e1d65a2d36ae
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4f0ae98336e7e1b8d86c123ba1a3c22a
+  - id: mqoDXWrSais.srt
+    parent_uid: 19c748cedee50879df99e1d65a2d36ae
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-6913b2097610/total-expectation/mqoDXWrSais.srt
+    title: 3play caption file
+    type: null
+    uid: 17cad1630760f27cef85b3184124158d
+  - id: mqoDXWrSais.pdf
+    parent_uid: 19c748cedee50879df99e1d65a2d36ae
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-6913b2097610/total-expectation/mqoDXWrSais.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0e16697781e30d1dfa517e439ee6b687
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 19c748cedee50879df99e1d65a2d36ae
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: addbe4035d22aa9b738357423696230b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 19c748cedee50879df99e1d65a2d36ae
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f032564a32d162a58c0ec77695fdc3c3
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_expecttotal_video_ipod.mp4
+    parent_uid: 19c748cedee50879df99e1d65a2d36ae
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 14693f6114ea65858f4e7d3815748b14
+inline_embed_id: 64051409totalexpectation84231613
 parent_uid: b48a4b286073ca8ed6f8798aa6cc7b8c
+related_resources_text: ''
+short_url: total-expectation
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-6913b2097610/total-expectation
-short_url: total-expectation
-inline_embed_id: 64051409totalexpectation84231613
-about_this_resource_text: ''
-related_resources_text: ''
+title: Total Expectation
 transcript: >-
   <p><span m='1680'>PROFESSOR: The</span> <span m='1810'>law</span> <span
   m='2210'>of</span> <span m='2450'>total</span> <span
@@ -316,67 +376,7 @@ transcript: >-
   m='249070'>way,</span> <span m='249700'>by</span> <span
   m='249870'>appealing</span> <span m='250470'>to</span> <span
   m='250720'>total</span> <span m='251070'>expectation.</span> </p>
-embedded_media:
-  - uid: a71d971caf847539ec4bc6009ece9e7b
-    parent_uid: 19c748cedee50879df99e1d65a2d36ae
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 32ede2fa476e85abab6e92c4e7ef16a4
-    parent_uid: 19c748cedee50879df99e1d65a2d36ae
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 67e0235858f4cc2a66ac39e3e9cc3539
-    parent_uid: 19c748cedee50879df99e1d65a2d36ae
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: mqoDXWrSais
-  - uid: a32be5e2aa7eeef5fa3c4710917e83e1
-    parent_uid: 19c748cedee50879df99e1d65a2d36ae
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/mqoDXWrSais/default.jpg'
-  - uid: 4f0ae98336e7e1b8d86c123ba1a3c22a
-    parent_uid: 19c748cedee50879df99e1d65a2d36ae
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: mqoDXWrSais
-  - uid: 17cad1630760f27cef85b3184124158d
-    parent_uid: 19c748cedee50879df99e1d65a2d36ae
-    id: mqoDXWrSais.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-6913b2097610/total-expectation/mqoDXWrSais.srt
-  - uid: 0e16697781e30d1dfa517e439ee6b687
-    parent_uid: 19c748cedee50879df99e1d65a2d36ae
-    id: mqoDXWrSais.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-6913b2097610/total-expectation/mqoDXWrSais.pdf
-  - uid: addbe4035d22aa9b738357423696230b
-    parent_uid: 19c748cedee50879df99e1d65a2d36ae
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f032564a32d162a58c0ec77695fdc3c3
-    parent_uid: 19c748cedee50879df99e1d65a2d36ae
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 14693f6114ea65858f4e7d3815748b14
-    parent_uid: 19c748cedee50879df99e1d65a2d36ae
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_expecttotal_video_ipod.mp4
+uid: 19c748cedee50879df99e1d65a2d36ae
 type: courses
 layout: video
 ---

@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Orthogonal Vectors and Subspaces'
-uid: 7b01e635a0cc712aed3ceef0a81d8e86
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: h9aDgvW59TU
+    parent_uid: 7b01e635a0cc712aed3ceef0a81d8e86
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d7ea8cd7db42193f74e09eb04448aa36
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: h9aDgvW59TU
+    parent_uid: 7b01e635a0cc712aed3ceef0a81d8e86
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4cbdd024b20ec7892245fb93ceff1f15
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/orthogonal-vectors-subspaces/id488155309?i=108454348
+    parent_uid: 7b01e635a0cc712aed3ceef0a81d8e86
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e816c6bf6f05f5bf98b46871e3044a86
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110706_D1_300k.mp4
+    parent_uid: 7b01e635a0cc712aed3ceef0a81d8e86
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e47771b0caedb2f4b35d899c08555352
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/h9aDgvW59TU/default.jpg'
+    parent_uid: 7b01e635a0cc712aed3ceef0a81d8e86
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d207cf2d8f40b0f33a32316981f79699
+  - id: h9aDgvW59TU.srt
+    parent_uid: 7b01e635a0cc712aed3ceef0a81d8e86
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-orthogonal-vectors-and-subspaces/h9aDgvW59TU.srt
+    title: 3play caption file
+    type: null
+    uid: 17a9cb3dd3aa37f75cb7516b57bcb68c
+  - id: h9aDgvW59TU.pdf
+    parent_uid: 7b01e635a0cc712aed3ceef0a81d8e86
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-orthogonal-vectors-and-subspaces/h9aDgvW59TU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9cfe4adbde8d61c1de3fe3bad764f25d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7b01e635a0cc712aed3ceef0a81d8e86
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 868e7433581b578cb859c91fba9e2911
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7b01e635a0cc712aed3ceef0a81d8e86
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b56e314adece87e97554fb0db3476bd1
+inline_embed_id: 10079134problemsolvingorthogonalvectorsandsubspaces64212027
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: problem-solving-orthogonal-vectors-and-subspaces
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-orthogonal-vectors-and-subspaces
-short_url: problem-solving-orthogonal-vectors-and-subspaces
-inline_embed_id: 10079134problemsolvingorthogonalvectorsandsubspaces64212027
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Orthogonal Vectors and Subspaces'
 transcript: >-
   <p><span m='7810'>DAVID SHIROKOFF: Hi</span> <span m='7950'>everyone.</span>
   <span m='8650'>I'm</span> <span m='8810'>Dave.</span> </p><p><span
@@ -492,63 +548,7 @@ transcript: >-
   <span m='617870'>you</span> <span m='617980'>had</span> <span
   m='618060'>a</span> <span m='618150'>good</span> <span m='618260'>time.</span>
   </p>
-embedded_media:
-  - uid: d7ea8cd7db42193f74e09eb04448aa36
-    parent_uid: 7b01e635a0cc712aed3ceef0a81d8e86
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: h9aDgvW59TU
-  - uid: 4cbdd024b20ec7892245fb93ceff1f15
-    parent_uid: 7b01e635a0cc712aed3ceef0a81d8e86
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: h9aDgvW59TU
-  - uid: e816c6bf6f05f5bf98b46871e3044a86
-    parent_uid: 7b01e635a0cc712aed3ceef0a81d8e86
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/orthogonal-vectors-subspaces/id488155309?i=108454348
-  - uid: e47771b0caedb2f4b35d899c08555352
-    parent_uid: 7b01e635a0cc712aed3ceef0a81d8e86
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110706_D1_300k.mp4
-  - uid: d207cf2d8f40b0f33a32316981f79699
-    parent_uid: 7b01e635a0cc712aed3ceef0a81d8e86
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/h9aDgvW59TU/default.jpg'
-  - uid: 17a9cb3dd3aa37f75cb7516b57bcb68c
-    parent_uid: 7b01e635a0cc712aed3ceef0a81d8e86
-    id: h9aDgvW59TU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-orthogonal-vectors-and-subspaces/h9aDgvW59TU.srt
-  - uid: 9cfe4adbde8d61c1de3fe3bad764f25d
-    parent_uid: 7b01e635a0cc712aed3ceef0a81d8e86
-    id: h9aDgvW59TU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-orthogonal-vectors-and-subspaces/h9aDgvW59TU.pdf
-  - uid: 868e7433581b578cb859c91fba9e2911
-    parent_uid: 7b01e635a0cc712aed3ceef0a81d8e86
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b56e314adece87e97554fb0db3476bd1
-    parent_uid: 7b01e635a0cc712aed3ceef0a81d8e86
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 7b01e635a0cc712aed3ceef0a81d8e86
 type: courses
 layout: video
 ---

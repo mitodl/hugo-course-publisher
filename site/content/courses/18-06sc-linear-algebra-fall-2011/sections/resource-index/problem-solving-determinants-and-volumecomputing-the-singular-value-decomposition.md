@@ -1,17 +1,73 @@
 ---
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: pSbafxDHdgE
+    parent_uid: 313cfd8b1db5a27a8e486efcccecb030
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a1f7a90af84efb9edc9b4b3473dab128
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: pSbafxDHdgE
+    parent_uid: 313cfd8b1db5a27a8e486efcccecb030
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0829b24a4542c923dd0b430c52735187
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/computing-singular-value-decomposition/id488155309?i=108454332
+    parent_uid: 313cfd8b1db5a27a8e486efcccecb030
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6b9be84bf3f1846b6f336888570ceb80
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110607_B2_300k.mp4
+    parent_uid: 313cfd8b1db5a27a8e486efcccecb030
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c0b40f967cd12e499174e10b183c0320
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/pSbafxDHdgE/default.jpg'
+    parent_uid: 313cfd8b1db5a27a8e486efcccecb030
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ba3017eeb7dbf3d8abc71438b63b735b
+  - id: pSbafxDHdgE.srt
+    parent_uid: 313cfd8b1db5a27a8e486efcccecb030
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants-and-volumecomputing-the-singular-value-decomposition/pSbafxDHdgE.srt
+    title: 3play caption file
+    type: null
+    uid: 48f6d4e25188840daa0cd1e61604792c
+  - id: pSbafxDHdgE.pdf
+    parent_uid: 313cfd8b1db5a27a8e486efcccecb030
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants-and-volumecomputing-the-singular-value-decomposition/pSbafxDHdgE.pdf
+    title: 3play pdf file
+    type: null
+    uid: cec032acc79ca5be56485a2e0c09d571
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 313cfd8b1db5a27a8e486efcccecb030
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 305b81c7e3442566e7a7a4bbbc73d5bb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 313cfd8b1db5a27a8e486efcccecb030
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 69121507d7ad26da8425d131e86e42f1
+inline_embed_id: >-
+  46037091problemsolvingdeterminantsandvolumecomputingthesingularvaluedecomposition73214397
+parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: >-
+  problem-solving-determinants-and-volumecomputing-the-singular-value-decomposition
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants-and-volumecomputing-the-singular-value-decomposition
 title: >-
   Problem Solving: Determinants and VolumeComputing the Singular Value
   Decomposition
-uid: 313cfd8b1db5a27a8e486efcccecb030
-parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants-and-volumecomputing-the-singular-value-decomposition
-short_url: >-
-  problem-solving-determinants-and-volumecomputing-the-singular-value-decomposition
-inline_embed_id: >-
-  46037091problemsolvingdeterminantsandvolumecomputingthesingularvaluedecomposition73214397
-about_this_resource_text: ''
-related_resources_text: ''
 transcript: >-
   <p><span m='6870'>PROFESSOR: Hey,</span> <span m='7270'>we're</span> <span
   m='7560'>back.</span> <span m='9060'>Today</span> <span m='9340'>we're</span>
@@ -523,63 +579,7 @@ transcript: >-
   m='692340'>I</span> <span m='692440'>hope</span> <span m='692650'>this</span>
   <span m='692790'>was</span> <span m='692910'>a</span> <span
   m='692960'>helpful</span> <span m='693550'>illustration.</span> </p>
-embedded_media:
-  - uid: a1f7a90af84efb9edc9b4b3473dab128
-    parent_uid: 313cfd8b1db5a27a8e486efcccecb030
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: pSbafxDHdgE
-  - uid: 0829b24a4542c923dd0b430c52735187
-    parent_uid: 313cfd8b1db5a27a8e486efcccecb030
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: pSbafxDHdgE
-  - uid: 6b9be84bf3f1846b6f336888570ceb80
-    parent_uid: 313cfd8b1db5a27a8e486efcccecb030
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/computing-singular-value-decomposition/id488155309?i=108454332
-  - uid: c0b40f967cd12e499174e10b183c0320
-    parent_uid: 313cfd8b1db5a27a8e486efcccecb030
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110607_B2_300k.mp4
-  - uid: ba3017eeb7dbf3d8abc71438b63b735b
-    parent_uid: 313cfd8b1db5a27a8e486efcccecb030
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/pSbafxDHdgE/default.jpg'
-  - uid: 48f6d4e25188840daa0cd1e61604792c
-    parent_uid: 313cfd8b1db5a27a8e486efcccecb030
-    id: pSbafxDHdgE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants-and-volumecomputing-the-singular-value-decomposition/pSbafxDHdgE.srt
-  - uid: cec032acc79ca5be56485a2e0c09d571
-    parent_uid: 313cfd8b1db5a27a8e486efcccecb030
-    id: pSbafxDHdgE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants-and-volumecomputing-the-singular-value-decomposition/pSbafxDHdgE.pdf
-  - uid: 305b81c7e3442566e7a7a4bbbc73d5bb
-    parent_uid: 313cfd8b1db5a27a8e486efcccecb030
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 69121507d7ad26da8425d131e86e42f1
-    parent_uid: 313cfd8b1db5a27a8e486efcccecb030
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 313cfd8b1db5a27a8e486efcccecb030
 type: courses
 layout: video
 ---

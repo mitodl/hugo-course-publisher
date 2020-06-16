@@ -5,7 +5,8 @@ course_id: >-
 course_title: 'Matrix Methods in Data Analysis, Signal Processing, and Machine Learning'
 course_image_url: >-
   https://open-learning-course-data-ci.s3.amazonaws.com/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/a24ae149b417e01db75f22ca566124e1_18-065s18.jpg
-course_thumbnail_image_url: ''
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/6fc0c9f8ce06143dba32a0ee3216c06a_18-065s18-th.jpg
 course_image_alternate_text: >-
   Four boxes with text and four arrows to illustrate the math relationship among
   linear algebra, probability and statistics, optimization, and deep learning.

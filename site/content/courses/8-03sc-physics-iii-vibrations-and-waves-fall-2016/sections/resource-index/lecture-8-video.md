@@ -1,13 +1,61 @@
 ---
-title: 'Lecture Video 8: Translation Symmetry'
-uid: e876ada761a6c24eca1174d9ed372d19
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: J1uHGy1tRmM
+    parent_uid: e876ada761a6c24eca1174d9ed372d19
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7e84ebc0adf63c9c786e85c02945499e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/J1uHGy1tRmM/default.jpg'
+    parent_uid: e876ada761a6c24eca1174d9ed372d19
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 871388254f57c4314eeb20716d785278
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: J1uHGy1tRmM
+    parent_uid: e876ada761a6c24eca1174d9ed372d19
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9da73f48d7fee7db7c8b1aa416773494
+  - id: J1uHGy1tRmM.srt
+    parent_uid: e876ada761a6c24eca1174d9ed372d19
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-8-video/J1uHGy1tRmM.srt
+    title: 3play caption file
+    type: null
+    uid: de2fcb1b81d32867f05b2ea76b270f3f
+  - id: J1uHGy1tRmM.pdf
+    parent_uid: e876ada761a6c24eca1174d9ed372d19
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-8-video/J1uHGy1tRmM.pdf
+    title: 3play pdf file
+    type: null
+    uid: aabcffca5173a597ff796d0d8ae0e4fb
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e876ada761a6c24eca1174d9ed372d19
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8c968bd82b463496f2bfa98515e4016b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e876ada761a6c24eca1174d9ed372d19
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1e760fbc494b1e561e42f9f0d455547b
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec08_300k.mp4'
+    parent_uid: e876ada761a6c24eca1174d9ed372d19
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5d0dc22b187ee08a30c7c9ef30761723
+inline_embed_id: 27149316lecture8video1907638
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-8-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-8-video
-short_url: lecture-8-video
-inline_embed_id: 27149316lecture8video1907638
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture Video 8: Translation Symmetry'
 transcript: >-
   <p><span m="2110">The</span> <span m="2230">following</span> <span
   m="2650">content</span> <span m="3160">is</span> <span
@@ -3622,55 +3670,7 @@ transcript: >-
   m="4111319">the</span> <span m="4111439">nature.</span> <span
   m="4112220">Thank</span> <span m="4112450">you very</span> <span
   m="4112660">much.</span></p>
-embedded_media:
-  - uid: 7e84ebc0adf63c9c786e85c02945499e
-    parent_uid: e876ada761a6c24eca1174d9ed372d19
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: J1uHGy1tRmM
-  - uid: 871388254f57c4314eeb20716d785278
-    parent_uid: e876ada761a6c24eca1174d9ed372d19
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/J1uHGy1tRmM/default.jpg'
-  - uid: 9da73f48d7fee7db7c8b1aa416773494
-    parent_uid: e876ada761a6c24eca1174d9ed372d19
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: J1uHGy1tRmM
-  - uid: de2fcb1b81d32867f05b2ea76b270f3f
-    parent_uid: e876ada761a6c24eca1174d9ed372d19
-    id: J1uHGy1tRmM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-8-video/J1uHGy1tRmM.srt
-  - uid: aabcffca5173a597ff796d0d8ae0e4fb
-    parent_uid: e876ada761a6c24eca1174d9ed372d19
-    id: J1uHGy1tRmM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-8-video/J1uHGy1tRmM.pdf
-  - uid: 8c968bd82b463496f2bfa98515e4016b
-    parent_uid: e876ada761a6c24eca1174d9ed372d19
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1e760fbc494b1e561e42f9f0d455547b
-    parent_uid: e876ada761a6c24eca1174d9ed372d19
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5d0dc22b187ee08a30c7c9ef30761723
-    parent_uid: e876ada761a6c24eca1174d9ed372d19
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec08_300k.mp4'
+uid: e876ada761a6c24eca1174d9ed372d19
 type: courses
 layout: video
 ---

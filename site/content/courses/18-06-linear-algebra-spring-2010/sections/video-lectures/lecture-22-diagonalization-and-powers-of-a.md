@@ -1,17 +1,89 @@
 ---
-title: 'Lecture 22: Diagonalization and powers of A'
-uid: ef71d23ef71361c63a2c3d359e754031
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-22-diagonalization-and-powers-of-a
-short_url: lecture-22-diagonalization-and-powers-of-a
-inline_embed_id: '50722216lecture22:diagonalizationandpowersofa80031451'
 about_this_resource_text: "<div class=\"vidpad\">\r\n<p>These video lectures of Professor Gilbert Strang teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to the current  edition of the textbook. However, this book is still the best reference  for more information on the topics covered in each lecture.</p>\r\n<p><a href=\"http://www.amazon.com/exec/obidos/ASIN/0980232775/ref=nosim/mitopencourse-20\"><img alt=\"Buy at Amazon\" src=\"/images/a_logo_17.gif\" align=\"absmiddle\" border=\"0\" /></a> Strang, Gilbert. <em>Introduction to Linear Algebra</em>. 5th ed. <a href=\"http://www.wellesleycambridge.com/\">Wellesley-Cambridge Press</a>, 2016. ISBN: 9780980232776.</p>\r\n<p><strong>Instructor/speaker:</strong> Prof. Gilbert Strang</p>\r\n</div>"
+embedded_media:
+  - id: 18.06_L22.jpg
+    parent_uid: ef71d23ef71361c63a2c3d359e754031
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-22-diagonalization-and-powers-of-a/18.06_L22.jpg
+    title: 18.06_L22.jpg
+    type: null
+    uid: bb2d74da1bad4e4ff81da092ac903e2e
+  - id: Video-YouTube-Stream
+    media_location: 13r9QY6cmjc
+    parent_uid: ef71d23ef71361c63a2c3d359e754031
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b7d87b2ada11600604cd76d3d701f6c6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/13r9QY6cmjc/default.jpg'
+    parent_uid: ef71d23ef71361c63a2c3d359e754031
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3a1f611976490bde34e514e836b69a40
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: ef71d23ef71361c63a2c3d359e754031
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e5d0d70df0d97d2982b0eb97f1b8ccc3
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/22.mp4'
+    parent_uid: ef71d23ef71361c63a2c3d359e754031
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3db24dfe36f8582959af133f1486ccc6
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: ef71d23ef71361c63a2c3d359e754031
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 82243c7e8a8a9ae67244d9a951677a90
+  - id: Thumbnail-OCW-JPG
+    parent_uid: ef71d23ef71361c63a2c3d359e754031
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 271f9f05c0e74127fe7c39e2159effbb
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 13r9QY6cmjc
+    parent_uid: ef71d23ef71361c63a2c3d359e754031
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 490bccc2c74c261de0982a65ebda75d4
+  - id: 13r9QY6cmjc.srt
+    parent_uid: ef71d23ef71361c63a2c3d359e754031
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-22-diagonalization-and-powers-of-a/13r9QY6cmjc.srt
+    title: 3play caption file
+    type: null
+    uid: 9640a5bbe51b5bba94f52ed003831a12
+  - id: 13r9QY6cmjc.pdf
+    parent_uid: ef71d23ef71361c63a2c3d359e754031
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-22-diagonalization-and-powers-of-a/13r9QY6cmjc.pdf
+    title: 3play pdf file
+    type: null
+    uid: e6dfacf484d184018188a4e70f93db81
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ef71d23ef71361c63a2c3d359e754031
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6f02ee73c3a5626a6a57a660536ddcb3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ef71d23ef71361c63a2c3d359e754031
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b176064b42aca244d7a1031fc298733a
+inline_embed_id: '50722216lecture22:diagonalizationandpowersofa80031451'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-22-diagonalization-and-powers-of-a
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-22-diagonalization-and-powers-of-a
+title: 'Lecture 22: Diagonalization and powers of A'
 transcript: >-
   <p><span m="10810">OK.</span> <span m="11010">Shall</span> <span
   m="11080">we</span> <span m="11180">start?</span> <span m="11380">This</span>
@@ -2938,79 +3010,7 @@ transcript: >-
   m="3104490">will</span> <span m="3105590">be</span> <span
   m="3106690">differential</span> <span
   m="3107800">equations.</span></p><p><span m="3108900">Thanks.</span></p>
-embedded_media:
-  - uid: bb2d74da1bad4e4ff81da092ac903e2e
-    parent_uid: ef71d23ef71361c63a2c3d359e754031
-    id: 18.06_L22.jpg
-    title: 18.06_L22.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-22-diagonalization-and-powers-of-a/18.06_L22.jpg
-  - uid: b7d87b2ada11600604cd76d3d701f6c6
-    parent_uid: ef71d23ef71361c63a2c3d359e754031
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 13r9QY6cmjc
-  - uid: 3a1f611976490bde34e514e836b69a40
-    parent_uid: ef71d23ef71361c63a2c3d359e754031
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/13r9QY6cmjc/default.jpg'
-  - uid: e5d0d70df0d97d2982b0eb97f1b8ccc3
-    parent_uid: ef71d23ef71361c63a2c3d359e754031
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 3db24dfe36f8582959af133f1486ccc6
-    parent_uid: ef71d23ef71361c63a2c3d359e754031
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/22.mp4'
-  - uid: 82243c7e8a8a9ae67244d9a951677a90
-    parent_uid: ef71d23ef71361c63a2c3d359e754031
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 271f9f05c0e74127fe7c39e2159effbb
-    parent_uid: ef71d23ef71361c63a2c3d359e754031
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 490bccc2c74c261de0982a65ebda75d4
-    parent_uid: ef71d23ef71361c63a2c3d359e754031
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 13r9QY6cmjc
-  - uid: 9640a5bbe51b5bba94f52ed003831a12
-    parent_uid: ef71d23ef71361c63a2c3d359e754031
-    id: 13r9QY6cmjc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-22-diagonalization-and-powers-of-a/13r9QY6cmjc.srt
-  - uid: e6dfacf484d184018188a4e70f93db81
-    parent_uid: ef71d23ef71361c63a2c3d359e754031
-    id: 13r9QY6cmjc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-22-diagonalization-and-powers-of-a/13r9QY6cmjc.pdf
-  - uid: 6f02ee73c3a5626a6a57a660536ddcb3
-    parent_uid: ef71d23ef71361c63a2c3d359e754031
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b176064b42aca244d7a1031fc298733a
-    parent_uid: ef71d23ef71361c63a2c3d359e754031
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: ef71d23ef71361c63a2c3d359e754031
 type: courses
 layout: video
 ---

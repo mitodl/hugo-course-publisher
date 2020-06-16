@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Introduction to Differentials'
-uid: 2229be2b78843f94415adda84a320276
-parent_uid: fa53a54f73841c72094dc4856e73978e
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials/clip-1-introduction-to-differentials
-short_url: clip-1-introduction-to-differentials
-inline_embed_id: '71796126clip1:introductiontodifferentials40207545'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/162fa987acc7efd7ca8b3e96c6ab5177" title="Open
   in a new window." target="_blank">Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 15 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: '-MI0b4h3rS0'
+    parent_uid: 2229be2b78843f94415adda84a320276
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c4309d848b8821c5d825be2d5528f2d8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-MI0b4h3rS0/default.jpg'
+    parent_uid: 2229be2b78843f94415adda84a320276
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4d9cec69f574b025ae403241cc72f26f
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec15_300k.mp4'
+    parent_uid: 2229be2b78843f94415adda84a320276
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 01c57ec24a3357e56589a5d67b1f9a08
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: '-MI0b4h3rS0'
+    parent_uid: 2229be2b78843f94415adda84a320276
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d426fd6e752655b1a787ddfeb1eda9bb
+  - id: '-MI0b4h3rS0.srt'
+    parent_uid: 2229be2b78843f94415adda84a320276
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials/clip-1-introduction-to-differentials/-MI0b4h3rS0.srt
+    title: 3play caption file
+    type: null
+    uid: c02218648d5558b34711af93f11a9c13
+  - id: '-MI0b4h3rS0.pdf'
+    parent_uid: 2229be2b78843f94415adda84a320276
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials/clip-1-introduction-to-differentials/-MI0b4h3rS0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 769f45860152ce5af0a71c6a17da8b47
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2229be2b78843f94415adda84a320276
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cd41f707b36de4762199e9d7f6d4728b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2229be2b78843f94415adda84a320276
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5718ab934c6500d3b0190d63f5908feb
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 2229be2b78843f94415adda84a320276
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 10e8af22e783c931e3b5a189bed8ee24
+inline_embed_id: '71796126clip1:introductiontodifferentials40207545'
+parent_uid: fa53a54f73841c72094dc4856e73978e
 related_resources_text: ''
+short_url: clip-1-introduction-to-differentials
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials/clip-1-introduction-to-differentials
+title: 'Clip 1: Introduction to Differentials'
 transcript: >-
   <p><span m="120">The</span> <span m="370">following</span> <span
   m="540">content</span> <span m="1270">is</span> <span m="1420">provided</span>
@@ -2107,61 +2161,7 @@ transcript: >-
   <span m="2928330">the</span> <span m="2928400">test.</span> <span
   m="2928940">So,</span> <span m="2930800">see</span> <span m="2930950">you
   tomorrow.</span></p>
-embedded_media:
-  - uid: c4309d848b8821c5d825be2d5528f2d8
-    parent_uid: 2229be2b78843f94415adda84a320276
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-MI0b4h3rS0'
-  - uid: 4d9cec69f574b025ae403241cc72f26f
-    parent_uid: 2229be2b78843f94415adda84a320276
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-MI0b4h3rS0/default.jpg'
-  - uid: 01c57ec24a3357e56589a5d67b1f9a08
-    parent_uid: 2229be2b78843f94415adda84a320276
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec15_300k.mp4'
-  - uid: d426fd6e752655b1a787ddfeb1eda9bb
-    parent_uid: 2229be2b78843f94415adda84a320276
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-MI0b4h3rS0'
-  - uid: c02218648d5558b34711af93f11a9c13
-    parent_uid: 2229be2b78843f94415adda84a320276
-    id: '-MI0b4h3rS0.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials/clip-1-introduction-to-differentials/-MI0b4h3rS0.srt
-  - uid: 769f45860152ce5af0a71c6a17da8b47
-    parent_uid: 2229be2b78843f94415adda84a320276
-    id: '-MI0b4h3rS0.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials/clip-1-introduction-to-differentials/-MI0b4h3rS0.pdf
-  - uid: cd41f707b36de4762199e9d7f6d4728b
-    parent_uid: 2229be2b78843f94415adda84a320276
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5718ab934c6500d3b0190d63f5908feb
-    parent_uid: 2229be2b78843f94415adda84a320276
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 10e8af22e783c931e3b5a189bed8ee24
-    parent_uid: 2229be2b78843f94415adda84a320276
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 2229be2b78843f94415adda84a320276
 type: courses
 layout: video
 ---

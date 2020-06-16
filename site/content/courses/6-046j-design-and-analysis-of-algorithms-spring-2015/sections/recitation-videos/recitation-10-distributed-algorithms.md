@@ -1,16 +1,70 @@
 ---
-title: 'Recitation 10: More Distributed Algorithms'
-uid: b2a160074f73ded49d58e336f0d73981
-parent_uid: 8c671299aae36eba669ca13490c21dec
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-10-distributed-algorithms
-short_url: recitation-10-distributed-algorithms
-inline_embed_id: '69272779recitation10:distributedalgorithms95860865'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this recitation, problems related to
   distributed algorithms are discussed.</p> <p><strong>Instructors:</strong>
   Ling Ren</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: w_-SX4vR53M
+    parent_uid: b2a160074f73ded49d58e336f0d73981
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 05b48cb0c93151e849706ed7f630b336
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/w_-SX4vR53M/default.jpg'
+    parent_uid: b2a160074f73ded49d58e336f0d73981
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 06303ba3c4fb32e9094dfe4602e703c1
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: w_-SX4vR53M
+    parent_uid: b2a160074f73ded49d58e336f0d73981
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: dd4fc3a17a32937698f6084a30b98f0d
+  - id: w_-SX4vR53M.srt
+    parent_uid: b2a160074f73ded49d58e336f0d73981
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-10-distributed-algorithms/w_-SX4vR53M.srt
+    title: 3play caption file
+    type: null
+    uid: 811067be7b356008772083dd63c39cc4
+  - id: w_-SX4vR53M.pdf
+    parent_uid: b2a160074f73ded49d58e336f0d73981
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-10-distributed-algorithms/w_-SX4vR53M.pdf
+    title: 3play pdf file
+    type: null
+    uid: 462c34c9692137e774dc756162786d22
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b2a160074f73ded49d58e336f0d73981
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ad0ea97d7077289b166996ad59e73d1d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b2a160074f73ded49d58e336f0d73981
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1ddb4bd0593f42229ce6eb783fe8d4fa
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: b2a160074f73ded49d58e336f0d73981
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 99e3061ef5f7e2a7bea7b5e13ae31b35
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec10_300k.mp4'
+    parent_uid: b2a160074f73ded49d58e336f0d73981
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b6049b9c98fe05895b45d3fe5cd3ad15
+inline_embed_id: '69272779recitation10:distributedalgorithms95860865'
+parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
+short_url: recitation-10-distributed-algorithms
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-10-distributed-algorithms
+title: 'Recitation 10: More Distributed Algorithms'
 transcript: >-
   <p><span m="80">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -1945,61 +1999,7 @@ transcript: >-
   m="3005706">OK.</span> <span m="3010180">That's</span> <span
   m="3010360">all</span> <span m="3010550">for</span> <span
   m="3010620">today.</span></p>
-embedded_media:
-  - uid: 05b48cb0c93151e849706ed7f630b336
-    parent_uid: b2a160074f73ded49d58e336f0d73981
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: w_-SX4vR53M
-  - uid: 06303ba3c4fb32e9094dfe4602e703c1
-    parent_uid: b2a160074f73ded49d58e336f0d73981
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/w_-SX4vR53M/default.jpg'
-  - uid: dd4fc3a17a32937698f6084a30b98f0d
-    parent_uid: b2a160074f73ded49d58e336f0d73981
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: w_-SX4vR53M
-  - uid: 811067be7b356008772083dd63c39cc4
-    parent_uid: b2a160074f73ded49d58e336f0d73981
-    id: w_-SX4vR53M.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-10-distributed-algorithms/w_-SX4vR53M.srt
-  - uid: 462c34c9692137e774dc756162786d22
-    parent_uid: b2a160074f73ded49d58e336f0d73981
-    id: w_-SX4vR53M.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-10-distributed-algorithms/w_-SX4vR53M.pdf
-  - uid: ad0ea97d7077289b166996ad59e73d1d
-    parent_uid: b2a160074f73ded49d58e336f0d73981
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1ddb4bd0593f42229ce6eb783fe8d4fa
-    parent_uid: b2a160074f73ded49d58e336f0d73981
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 99e3061ef5f7e2a7bea7b5e13ae31b35
-    parent_uid: b2a160074f73ded49d58e336f0d73981
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: b6049b9c98fe05895b45d3fe5cd3ad15
-    parent_uid: b2a160074f73ded49d58e336f0d73981
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec10_300k.mp4'
+uid: b2a160074f73ded49d58e336f0d73981
 type: courses
 layout: video
 ---

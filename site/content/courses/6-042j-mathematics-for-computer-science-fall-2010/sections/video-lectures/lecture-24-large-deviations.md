@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 24: Large Deviations'
-uid: fd00ebc47d5064099fe74db86b85c8b0
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-24-large-deviations
-short_url: lecture-24-large-deviations
-inline_embed_id: '53080566lecture24:largedeviations43320753'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Covers large deviation. Like expectation, it
   gives three other notions in solving bounds and many frequently experienced
   problems in computer science, such as determining the probability a random
   variable will deviate from its expectation.</p> <p><strong>Speaker:</strong>
   Tom Leighton</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: q4mwO2qS2z4
+    parent_uid: fd00ebc47d5064099fe74db86b85c8b0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1955cc80669b4768bf8ebcd1cd586513
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/q4mwO2qS2z4/default.jpg'
+    parent_uid: fd00ebc47d5064099fe74db86b85c8b0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fcfbe1d99aa63e9bb8133da7187babd0
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-24-large-deviations/id503873536?i=110644976
+    parent_uid: fd00ebc47d5064099fe74db86b85c8b0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1a6298d9b5bf16ff1c15433993675937
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec24_300k.mp4'
+    parent_uid: fd00ebc47d5064099fe74db86b85c8b0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7e5854f8b5d58d4b16ce0978c1b3857f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: q4mwO2qS2z4
+    parent_uid: fd00ebc47d5064099fe74db86b85c8b0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ffb39be0c12d90b7a8a5e32f0bc162c4
+  - id: q4mwO2qS2z4.srt
+    parent_uid: fd00ebc47d5064099fe74db86b85c8b0
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-24-large-deviations/q4mwO2qS2z4.srt
+    title: 3play caption file
+    type: null
+    uid: 04d7712db776e140e436471d15116d10
+  - id: q4mwO2qS2z4.pdf
+    parent_uid: fd00ebc47d5064099fe74db86b85c8b0
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-24-large-deviations/q4mwO2qS2z4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9f082671fda66fa7b8639a4922bd48fd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fd00ebc47d5064099fe74db86b85c8b0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a64542bdb1f91faeb4182c13d779ddbc
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fd00ebc47d5064099fe74db86b85c8b0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f1fa9d323a361faaa610c670438b5f87
+inline_embed_id: '53080566lecture24:largedeviations43320753'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
+short_url: lecture-24-large-deviations
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-24-large-deviations
+title: 'Lecture 24: Large Deviations'
 transcript: >-
   <p><span m='360'>The</span> <span m='490'>following</span> <span
   m='940'>content</span> <span m='1530'>is</span> <span m='1650'>provided</span>
@@ -4549,62 +4604,7 @@ transcript: >-
   m='4995430'>math</span> <span m='4995790'>on</span> <span
   m='4995910'>that</span> <span m='4996120'>tomorrow</span> <span
   m='4996395'>in</span> <span m='4996670'>recitation.</span> </p>
-embedded_media:
-  - uid: 1955cc80669b4768bf8ebcd1cd586513
-    parent_uid: fd00ebc47d5064099fe74db86b85c8b0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: q4mwO2qS2z4
-  - uid: fcfbe1d99aa63e9bb8133da7187babd0
-    parent_uid: fd00ebc47d5064099fe74db86b85c8b0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/q4mwO2qS2z4/default.jpg'
-  - uid: 1a6298d9b5bf16ff1c15433993675937
-    parent_uid: fd00ebc47d5064099fe74db86b85c8b0
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-24-large-deviations/id503873536?i=110644976
-  - uid: 7e5854f8b5d58d4b16ce0978c1b3857f
-    parent_uid: fd00ebc47d5064099fe74db86b85c8b0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec24_300k.mp4'
-  - uid: ffb39be0c12d90b7a8a5e32f0bc162c4
-    parent_uid: fd00ebc47d5064099fe74db86b85c8b0
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: q4mwO2qS2z4
-  - uid: 04d7712db776e140e436471d15116d10
-    parent_uid: fd00ebc47d5064099fe74db86b85c8b0
-    id: q4mwO2qS2z4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-24-large-deviations/q4mwO2qS2z4.srt
-  - uid: 9f082671fda66fa7b8639a4922bd48fd
-    parent_uid: fd00ebc47d5064099fe74db86b85c8b0
-    id: q4mwO2qS2z4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-24-large-deviations/q4mwO2qS2z4.pdf
-  - uid: a64542bdb1f91faeb4182c13d779ddbc
-    parent_uid: fd00ebc47d5064099fe74db86b85c8b0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f1fa9d323a361faaa610c670438b5f87
-    parent_uid: fd00ebc47d5064099fe74db86b85c8b0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: fd00ebc47d5064099fe74db86b85c8b0
 type: courses
 layout: video
 ---

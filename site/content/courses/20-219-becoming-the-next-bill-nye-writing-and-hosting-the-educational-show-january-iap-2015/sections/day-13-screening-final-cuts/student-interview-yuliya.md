@@ -1,13 +1,67 @@
 ---
-title: 'Student Interview: Yuliya'
-uid: 4672c2f7c09453a07cde24f9d4064c80
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: gb80yhA2o4A
+    parent_uid: 4672c2f7c09453a07cde24f9d4064c80
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9e7606b2f0415beb6093c9310c65ecad
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D13P3_300k.mp4'
+    parent_uid: 4672c2f7c09453a07cde24f9d4064c80
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b08109c6c12f97e7f754bab554e4b8c1
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 4672c2f7c09453a07cde24f9d4064c80
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: fe40dbbfb1236af112bae5ad11d849cb
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: gb80yhA2o4A
+    parent_uid: 4672c2f7c09453a07cde24f9d4064c80
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0b9a5fac46388ff7836c2235ab387f82
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/gb80yhA2o4A/default.jpg'
+    parent_uid: 4672c2f7c09453a07cde24f9d4064c80
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 57817ec80219d56c36fe8b2bd36a6a14
+  - id: gb80yhA2o4A.srt
+    parent_uid: 4672c2f7c09453a07cde24f9d4064c80
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-yuliya/gb80yhA2o4A.srt
+    title: 3play caption file
+    type: null
+    uid: 5be37231005f4873d0c49c5e414b8660
+  - id: gb80yhA2o4A.pdf
+    parent_uid: 4672c2f7c09453a07cde24f9d4064c80
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-yuliya/gb80yhA2o4A.pdf
+    title: 3play pdf file
+    type: null
+    uid: c0d9fe28acc915a603bc274256bf4ef7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4672c2f7c09453a07cde24f9d4064c80
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8a4cbb0ac618ba86721424a20d62604e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4672c2f7c09453a07cde24f9d4064c80
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4451976f83020c3a50db0a40f6cc4ed1
+inline_embed_id: '84001787studentinterview:yuliya71859708'
 parent_uid: 2dc5287f35ede8339c9b93f4238ac687
+related_resources_text: ''
+short_url: student-interview-yuliya
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-yuliya
-short_url: student-interview-yuliya
-inline_embed_id: '84001787studentinterview:yuliya71859708'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Student Interview: Yuliya'
 transcript: >-
   <p><span m='5900'>YULIYA KLOCHAN: I'm</span> <span m='6030'>doing</span> <span
   m='6240'>very</span> <span m='6480'>well.</span> <span m='6790'>I'm</span>
@@ -96,61 +150,7 @@ transcript: >-
   <span m='102620'>into</span> <span m='102870'>it.</span> </p><p><span
   m='104670'>INTERVIEWER: Thank you</span> <span m='104970'>very much.</span>
   </p><p><span m='106170'>YULIYA KLOCHAN: Thank you.</span> </p>
-embedded_media:
-  - uid: 9e7606b2f0415beb6093c9310c65ecad
-    parent_uid: 4672c2f7c09453a07cde24f9d4064c80
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: gb80yhA2o4A
-  - uid: b08109c6c12f97e7f754bab554e4b8c1
-    parent_uid: 4672c2f7c09453a07cde24f9d4064c80
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D13P3_300k.mp4'
-  - uid: fe40dbbfb1236af112bae5ad11d849cb
-    parent_uid: 4672c2f7c09453a07cde24f9d4064c80
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 0b9a5fac46388ff7836c2235ab387f82
-    parent_uid: 4672c2f7c09453a07cde24f9d4064c80
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: gb80yhA2o4A
-  - uid: 57817ec80219d56c36fe8b2bd36a6a14
-    parent_uid: 4672c2f7c09453a07cde24f9d4064c80
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/gb80yhA2o4A/default.jpg'
-  - uid: 5be37231005f4873d0c49c5e414b8660
-    parent_uid: 4672c2f7c09453a07cde24f9d4064c80
-    id: gb80yhA2o4A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-yuliya/gb80yhA2o4A.srt
-  - uid: c0d9fe28acc915a603bc274256bf4ef7
-    parent_uid: 4672c2f7c09453a07cde24f9d4064c80
-    id: gb80yhA2o4A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-yuliya/gb80yhA2o4A.pdf
-  - uid: 8a4cbb0ac618ba86721424a20d62604e
-    parent_uid: 4672c2f7c09453a07cde24f9d4064c80
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4451976f83020c3a50db0a40f6cc4ed1
-    parent_uid: 4672c2f7c09453a07cde24f9d4064c80
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 4672c2f7c09453a07cde24f9d4064c80
 type: courses
 layout: video
 ---

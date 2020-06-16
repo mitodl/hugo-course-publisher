@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Symmetric Matrices and Positive Definiteness'
-uid: 4deb39e1b0212c70668c7976e1cc8248
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: lpnY5QVjU5w
+    parent_uid: 4deb39e1b0212c70668c7976e1cc8248
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c19aadb1a2110e34a3618023ae800062
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: lpnY5QVjU5w
+    parent_uid: 4deb39e1b0212c70668c7976e1cc8248
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e277c334680d00793f13cfbad87fbf7c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/symmetric-matrices-positive/id488155309?i=108454356
+    parent_uid: 4deb39e1b0212c70668c7976e1cc8248
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f57594bd3f7f45f26c0a28ffb6df81a5
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110711_D1_300k.mp4
+    parent_uid: 4deb39e1b0212c70668c7976e1cc8248
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 12ad0b999a5b4a7e4103b98da6cdd25f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/lpnY5QVjU5w/default.jpg'
+    parent_uid: 4deb39e1b0212c70668c7976e1cc8248
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e06807c184947bebf365f1233a62cb59
+  - id: lpnY5QVjU5w.srt
+    parent_uid: 4deb39e1b0212c70668c7976e1cc8248
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/problem-solving-symmetric-matrices-and-positive-definiteness/lpnY5QVjU5w.srt
+    title: 3play caption file
+    type: null
+    uid: d29f17df7f304fe4e62e88a1da38ec91
+  - id: lpnY5QVjU5w.pdf
+    parent_uid: 4deb39e1b0212c70668c7976e1cc8248
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/problem-solving-symmetric-matrices-and-positive-definiteness/lpnY5QVjU5w.pdf
+    title: 3play pdf file
+    type: null
+    uid: b383d7a883d770987459b09e9c7976a8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4deb39e1b0212c70668c7976e1cc8248
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b5abc0556de5b614e9ba45fd129413e8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4deb39e1b0212c70668c7976e1cc8248
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 457ec3db1dd5cb1c1964236ba496b6b5
+inline_embed_id: '73158456problemsolving:symmetricmatricesandpositivedefiniteness13264023'
 parent_uid: 83daa7894c9ba2c7ac6cafe27aef0e1c
+related_resources_text: ''
+short_url: problem-solving-symmetric-matrices-and-positive-definiteness
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/problem-solving-symmetric-matrices-and-positive-definiteness
-short_url: problem-solving-symmetric-matrices-and-positive-definiteness
-inline_embed_id: '73158456problemsolving:symmetricmatricesandpositivedefiniteness13264023'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Symmetric Matrices and Positive Definiteness'
 transcript: >-
   <p><span m='8700'>PROFESSOR: Hi,</span> <span m='9180'>everyone.</span> <span
   m='9490'>Welcome</span> <span m='9760'>back.</span> <span m='10780'>So</span>
@@ -647,63 +703,7 @@ transcript: >-
   m='756120'>And</span> <span m='756420'>I'll</span> <span m='756590'>see</span>
   <span m='756740'>you</span> <span m='756800'>next</span> <span
   m='757020'>time.</span> </p>
-embedded_media:
-  - uid: c19aadb1a2110e34a3618023ae800062
-    parent_uid: 4deb39e1b0212c70668c7976e1cc8248
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: lpnY5QVjU5w
-  - uid: e277c334680d00793f13cfbad87fbf7c
-    parent_uid: 4deb39e1b0212c70668c7976e1cc8248
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: lpnY5QVjU5w
-  - uid: f57594bd3f7f45f26c0a28ffb6df81a5
-    parent_uid: 4deb39e1b0212c70668c7976e1cc8248
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/symmetric-matrices-positive/id488155309?i=108454356
-  - uid: 12ad0b999a5b4a7e4103b98da6cdd25f
-    parent_uid: 4deb39e1b0212c70668c7976e1cc8248
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110711_D1_300k.mp4
-  - uid: e06807c184947bebf365f1233a62cb59
-    parent_uid: 4deb39e1b0212c70668c7976e1cc8248
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/lpnY5QVjU5w/default.jpg'
-  - uid: d29f17df7f304fe4e62e88a1da38ec91
-    parent_uid: 4deb39e1b0212c70668c7976e1cc8248
-    id: lpnY5QVjU5w.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/problem-solving-symmetric-matrices-and-positive-definiteness/lpnY5QVjU5w.srt
-  - uid: b383d7a883d770987459b09e9c7976a8
-    parent_uid: 4deb39e1b0212c70668c7976e1cc8248
-    id: lpnY5QVjU5w.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/problem-solving-symmetric-matrices-and-positive-definiteness/lpnY5QVjU5w.pdf
-  - uid: b5abc0556de5b614e9ba45fd129413e8
-    parent_uid: 4deb39e1b0212c70668c7976e1cc8248
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 457ec3db1dd5cb1c1964236ba496b6b5
-    parent_uid: 4deb39e1b0212c70668c7976e1cc8248
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 4deb39e1b0212c70668c7976e1cc8248
 type: courses
 layout: video
 ---

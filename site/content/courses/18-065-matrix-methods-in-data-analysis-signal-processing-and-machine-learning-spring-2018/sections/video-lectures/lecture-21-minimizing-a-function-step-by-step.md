@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 21: Minimizing a Function Step by Step'
-uid: 1f32e87cb6abcb28fefb267c9a2d5796
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-21-minimizing-a-function-step-by-step
-short_url: lecture-21-minimizing-a-function-step-by-step
-inline_embed_id: 41374427lecture21minimizingafunctionstepbystep74584489
 about_this_resource_text: >-
   <h2 class="subhead"><strong>Description</strong></h2> <p>In this lecture,
   Professor Strang discusses optimization, the fundamental algorithm that goes
@@ -17,7 +10,62 @@ about_this_resource_text: >-
   higher derivatives (Hessian at higher cost).</p> <p>Related sections in
   textbook: VI.1, VI.4</p> <p><strong>Instructor:</strong> Prof. Gilbert
   Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: nvXRJIBOREc
+    parent_uid: 1f32e87cb6abcb28fefb267c9a2d5796
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a679af46233e8308a6004b5ce63c04b9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/nvXRJIBOREc/default.jpg'
+    parent_uid: 1f32e87cb6abcb28fefb267c9a2d5796
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2e3fda7096f089d16569390bea1bc863
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: nvXRJIBOREc
+    parent_uid: 1f32e87cb6abcb28fefb267c9a2d5796
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4d01a6e188296b6ad45d3c1ab852e564
+  - id: nvXRJIBOREc.srt
+    parent_uid: 1f32e87cb6abcb28fefb267c9a2d5796
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-21-minimizing-a-function-step-by-step/nvXRJIBOREc.srt
+    title: 3play caption file
+    type: null
+    uid: 93c049bc6cba662f0cb78934062a5fe2
+  - id: nvXRJIBOREc.pdf
+    parent_uid: 1f32e87cb6abcb28fefb267c9a2d5796
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-21-minimizing-a-function-step-by-step/nvXRJIBOREc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4371db9866484c5b260f002c7f7de303
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1f32e87cb6abcb28fefb267c9a2d5796
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 411a4c60952b01574843200990795e7b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1f32e87cb6abcb28fefb267c9a2d5796
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f75aa26c93a509714739704678b2d9d1
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture21_300k.mp4'
+    parent_uid: 1f32e87cb6abcb28fefb267c9a2d5796
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1b5b212f512ca9669d10daf0a0336110
+inline_embed_id: 41374427lecture21minimizingafunctionstepbystep74584489
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-21-minimizing-a-function-step-by-step
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-21-minimizing-a-function-step-by-step
+title: 'Lecture 21: Minimizing a Function Step by Step'
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2691,55 +2739,7 @@ transcript: >-
   m="3221180">and</span> <span m="3221330">I</span> <span
   m="3221510">look</span> <span m="3221690">forward</span> <span
   m="3221990">to</span> <span m="3222140">Wednesday.</span></p>
-embedded_media:
-  - uid: a679af46233e8308a6004b5ce63c04b9
-    parent_uid: 1f32e87cb6abcb28fefb267c9a2d5796
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: nvXRJIBOREc
-  - uid: 2e3fda7096f089d16569390bea1bc863
-    parent_uid: 1f32e87cb6abcb28fefb267c9a2d5796
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/nvXRJIBOREc/default.jpg'
-  - uid: 4d01a6e188296b6ad45d3c1ab852e564
-    parent_uid: 1f32e87cb6abcb28fefb267c9a2d5796
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: nvXRJIBOREc
-  - uid: 93c049bc6cba662f0cb78934062a5fe2
-    parent_uid: 1f32e87cb6abcb28fefb267c9a2d5796
-    id: nvXRJIBOREc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-21-minimizing-a-function-step-by-step/nvXRJIBOREc.srt
-  - uid: 4371db9866484c5b260f002c7f7de303
-    parent_uid: 1f32e87cb6abcb28fefb267c9a2d5796
-    id: nvXRJIBOREc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-21-minimizing-a-function-step-by-step/nvXRJIBOREc.pdf
-  - uid: 411a4c60952b01574843200990795e7b
-    parent_uid: 1f32e87cb6abcb28fefb267c9a2d5796
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f75aa26c93a509714739704678b2d9d1
-    parent_uid: 1f32e87cb6abcb28fefb267c9a2d5796
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1b5b212f512ca9669d10daf0a0336110
-    parent_uid: 1f32e87cb6abcb28fefb267c9a2d5796
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture21_300k.mp4'
+uid: 1f32e87cb6abcb28fefb267c9a2d5796
 type: courses
 layout: video
 ---

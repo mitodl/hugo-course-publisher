@@ -4,7 +4,8 @@ course_id: 6-046j-design-and-analysis-of-algorithms-spring-2015
 course_title: Design and Analysis of Algorithms
 course_image_url: >-
   https://open-learning-course-data-ci.s3.amazonaws.com/6-046j-design-and-analysis-of-algorithms-spring-2015/6afddb714577eef8db0746c89641b178_6-046js15.jpg
-course_thumbnail_image_url: ''
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/6-046j-design-and-analysis-of-algorithms-spring-2015/c556fb05d3d917af1de8d68e6dd73c38_6-046js15-th.jpg
 course_image_alternate_text: A picture of a blue frisbee with a four node graph printed on it.
 course_image_caption_text: >-
   <p>Frisbees&reg; featuring a flow network were tossed out during lectures to

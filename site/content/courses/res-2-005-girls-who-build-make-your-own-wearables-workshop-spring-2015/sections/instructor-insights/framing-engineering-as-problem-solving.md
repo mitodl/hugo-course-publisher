@@ -11,7 +11,7 @@ _In this section, Kristen Railey shares how she and the volunteers framed engine
 
 Before the workshop started, we had to decide whether we would have the girls compile their own code on the Arduino boards, or if we would compile it for them ahead of time. We knew that if the girls compiled their own code, it might not work. We’d have to use a lot of the workshop time for debugging. If we compiled the code ourselves, it would work, but then we would be glossing over one of the key challenges of coding: problem solving. Ultimately, we decided to let the girls compile their own code and make mistakes, because we didn’t want the girls to get the impression that in engineering you get a set of instructions, follow them, and your code always works.
 
-![A photo of Kristen Railey surrounded by workshop participants, discussing what they see on a computer monitor.](undefined)
+![A photo of Kristen Railey surrounded by workshop participants, discussing what they see on a computer monitor.](https://open-learning-course-data-ci.s3.amazonaws.com/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/0543f3b8c23432564a12816cc2ffe082_RES-2-005_photo-78.jpg)
 
 Kristen Railey problem solving with workshop participants. Courtesy of Jon Barron, MIT Lincoln Laboratory.
 

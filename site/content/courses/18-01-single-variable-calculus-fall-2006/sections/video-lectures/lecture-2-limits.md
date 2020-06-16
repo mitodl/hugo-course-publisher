@@ -1,19 +1,91 @@
 ---
-title: 'Lecture 2: Limits'
-uid: 88b1335e1e63bc674150043abc178406
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-2-limits
-short_url: lecture-2-limits
-inline_embed_id: '36176414lecture2:limits17551499'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Limits, continuity -
   Trigonometric limits</p> <p><strong>Instructor:</strong> Prof. David
   Jerison</p></div>
+embedded_media:
+  - id: lec02.jpg
+    parent_uid: 88b1335e1e63bc674150043abc178406
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-2-limits/lec02.jpg
+    title: Lecture 2
+    type: null
+    uid: 9301b97778bb5e302cfc04f8024b6522
+  - id: Video-YouTube-Stream
+    media_location: ryLdyDrBfvI
+    parent_uid: 88b1335e1e63bc674150043abc178406
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5fc2edd6e76fe701db5b49174de43548
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
+    parent_uid: 88b1335e1e63bc674150043abc178406
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6f2c3ad5d7d3363333593fad5e7f7479
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 88b1335e1e63bc674150043abc178406
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1d3a3f1be10ae04530647fc61d019bcd
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
+    parent_uid: 88b1335e1e63bc674150043abc178406
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 234952cc4e77f12605b8f386486a0fe3
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 88b1335e1e63bc674150043abc178406
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 1a0c6829f7302649ed66c0b16c490275
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 88b1335e1e63bc674150043abc178406
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 8133cd5efd326d722adbc66c4b3fe8d8
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ryLdyDrBfvI
+    parent_uid: 88b1335e1e63bc674150043abc178406
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0653fe0fe67e2cb1a59b84b963d41920
+  - id: ryLdyDrBfvI.srt
+    parent_uid: 88b1335e1e63bc674150043abc178406
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-2-limits/ryLdyDrBfvI.srt
+    title: 3play caption file
+    type: null
+    uid: e22ce062bbeb087cf1e8c298824b1542
+  - id: ryLdyDrBfvI.pdf
+    parent_uid: 88b1335e1e63bc674150043abc178406
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-2-limits/ryLdyDrBfvI.pdf
+    title: 3play pdf file
+    type: null
+    uid: e2bf33d61c065a3d8ba934e3178a44ae
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 88b1335e1e63bc674150043abc178406
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1e4afc2969bd8fda1893848db3b7f612
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 88b1335e1e63bc674150043abc178406
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: aa2fb0e3aab9dee3a820ddf99a5c9ef9
+inline_embed_id: '36176414lecture2:limits17551499'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/acebd5cc8fe0315270d486685739d08f">PDF -
   2.6MB</a>)</p></div>
+short_url: lecture-2-limits
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-2-limits
+title: 'Lecture 2: Limits'
 transcript: >-
   <p><span m='110'>The</span> <span m='360'>following</span> <span
   m='1410'>content</span> <span m='1670'>is provided</span> <span
@@ -2565,79 +2637,7 @@ transcript: >-
   m='3162770'>me</span> <span m='3163230'>other</span> <span
   m='3163430'>stuff</span> <span m='3163770'>after</span> <span
   m='3164070'>lecture.</span> </p>
-embedded_media:
-  - uid: 9301b97778bb5e302cfc04f8024b6522
-    parent_uid: 88b1335e1e63bc674150043abc178406
-    id: lec02.jpg
-    title: Lecture 2
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-2-limits/lec02.jpg
-  - uid: 5fc2edd6e76fe701db5b49174de43548
-    parent_uid: 88b1335e1e63bc674150043abc178406
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ryLdyDrBfvI
-  - uid: 6f2c3ad5d7d3363333593fad5e7f7479
-    parent_uid: 88b1335e1e63bc674150043abc178406
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
-  - uid: 1d3a3f1be10ae04530647fc61d019bcd
-    parent_uid: 88b1335e1e63bc674150043abc178406
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: 234952cc4e77f12605b8f386486a0fe3
-    parent_uid: 88b1335e1e63bc674150043abc178406
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
-  - uid: 1a0c6829f7302649ed66c0b16c490275
-    parent_uid: 88b1335e1e63bc674150043abc178406
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 8133cd5efd326d722adbc66c4b3fe8d8
-    parent_uid: 88b1335e1e63bc674150043abc178406
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 0653fe0fe67e2cb1a59b84b963d41920
-    parent_uid: 88b1335e1e63bc674150043abc178406
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ryLdyDrBfvI
-  - uid: e22ce062bbeb087cf1e8c298824b1542
-    parent_uid: 88b1335e1e63bc674150043abc178406
-    id: ryLdyDrBfvI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-2-limits/ryLdyDrBfvI.srt
-  - uid: e2bf33d61c065a3d8ba934e3178a44ae
-    parent_uid: 88b1335e1e63bc674150043abc178406
-    id: ryLdyDrBfvI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-2-limits/ryLdyDrBfvI.pdf
-  - uid: 1e4afc2969bd8fda1893848db3b7f612
-    parent_uid: 88b1335e1e63bc674150043abc178406
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: aa2fb0e3aab9dee3a820ddf99a5c9ef9
-    parent_uid: 88b1335e1e63bc674150043abc178406
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 88b1335e1e63bc674150043abc178406
 type: courses
 layout: video
 ---

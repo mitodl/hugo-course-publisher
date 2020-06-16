@@ -1,16 +1,71 @@
 ---
-title: Functions as Arguments
-uid: 116b77d972856a45a5404ffe27132bd5
-parent_uid: 828237fdefb50c6943b83bf16ff40267
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-4/functions-as-arguments
-short_url: functions-as-arguments
-inline_embed_id: 76919519functionsasarguments47303806
 about_this_resource_text: >-
   <p><strong>Description:</strong> This in-class question demonstrates how
   functions can be used as arguments in other functions in Python.</p>
   <p><strong>Instructor:</strong> Dr. Ana Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: QaOHeMnpnmU
+    parent_uid: 116b77d972856a45a5404ffe27132bd5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7cb403568f979e11aab12eb46c340876
+  - id: QaOHeMnpnmU.srt
+    parent_uid: 116b77d972856a45a5404ffe27132bd5
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-4/functions-as-arguments/QaOHeMnpnmU.srt
+    title: 3play caption file
+    type: null
+    uid: 424af00ccc660535fc3c5422ee28cff4
+  - id: QaOHeMnpnmU.pdf
+    parent_uid: 116b77d972856a45a5404ffe27132bd5
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-4/functions-as-arguments/QaOHeMnpnmU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4857d741e66fd5ec411662b431b5f3fd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 116b77d972856a45a5404ffe27132bd5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1c82194163286f63c64c49aa771a52f5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 116b77d972856a45a5404ffe27132bd5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6f00111051cd5ad5931ec2b44d9b274e
+  - id: Video-YouTube-Stream
+    media_location: QaOHeMnpnmU
+    parent_uid: 116b77d972856a45a5404ffe27132bd5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0afd1e33a67eab81cb23ed79ad9be494
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QaOHeMnpnmU/default.jpg'
+    parent_uid: 116b77d972856a45a5404ffe27132bd5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f4f5359b491a217f1ace25e96e5f8427
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: 116b77d972856a45a5404ffe27132bd5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 419f93bc16b7a679523bef83100da9fa
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_04_exercise_02_300k.mp4
+    parent_uid: 116b77d972856a45a5404ffe27132bd5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ca122e722bfeff9e093bb067a32c1233
+inline_embed_id: 76919519functionsasarguments47303806
+parent_uid: 828237fdefb50c6943b83bf16ff40267
 related_resources_text: ''
+short_url: functions-as-arguments
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-4/functions-as-arguments
+title: Functions as Arguments
 transcript: >-
   <p><span m='790'>The</span> <span m='880'>following</span> <span
   m='1300'>content</span> <span m='1870'>is</span> <span
@@ -177,62 +232,7 @@ transcript: >-
   m='202700'>calc.</span> <span m='207000'>So</span> <span m='207160'>16</span>
   <span m='207550'>was</span> <span m='207730'>right.</span> <span
   m='209990'>Yay.</span> </p>
-embedded_media:
-  - uid: 7cb403568f979e11aab12eb46c340876
-    parent_uid: 116b77d972856a45a5404ffe27132bd5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QaOHeMnpnmU
-  - uid: 424af00ccc660535fc3c5422ee28cff4
-    parent_uid: 116b77d972856a45a5404ffe27132bd5
-    id: QaOHeMnpnmU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-4/functions-as-arguments/QaOHeMnpnmU.srt
-  - uid: 4857d741e66fd5ec411662b431b5f3fd
-    parent_uid: 116b77d972856a45a5404ffe27132bd5
-    id: QaOHeMnpnmU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-4/functions-as-arguments/QaOHeMnpnmU.pdf
-  - uid: 1c82194163286f63c64c49aa771a52f5
-    parent_uid: 116b77d972856a45a5404ffe27132bd5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6f00111051cd5ad5931ec2b44d9b274e
-    parent_uid: 116b77d972856a45a5404ffe27132bd5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0afd1e33a67eab81cb23ed79ad9be494
-    parent_uid: 116b77d972856a45a5404ffe27132bd5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QaOHeMnpnmU
-  - uid: f4f5359b491a217f1ace25e96e5f8427
-    parent_uid: 116b77d972856a45a5404ffe27132bd5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QaOHeMnpnmU/default.jpg'
-  - uid: 419f93bc16b7a679523bef83100da9fa
-    parent_uid: 116b77d972856a45a5404ffe27132bd5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: ca122e722bfeff9e093bb067a32c1233
-    parent_uid: 116b77d972856a45a5404ffe27132bd5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_04_exercise_02_300k.mp4
+uid: 116b77d972856a45a5404ffe27132bd5
 type: courses
 layout: video
 ---

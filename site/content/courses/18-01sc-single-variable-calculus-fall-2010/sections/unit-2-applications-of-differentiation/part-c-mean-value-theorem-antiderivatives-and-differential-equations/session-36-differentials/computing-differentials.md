@@ -1,13 +1,68 @@
 ---
-title: Computing Differentials
-uid: 3a6a551c5206fe9af8ed336592dd7906
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: aefQ2FYugAY
+    parent_uid: 3a6a551c5206fe9af8ed336592dd7906
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 714082742642084a0a4ccbfcbf508a7a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/aefQ2FYugAY/default.jpg'
+    parent_uid: 3a6a551c5206fe9af8ed336592dd7906
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3488a34653a90d9ae5d5258cf145aa67
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/computing-differentials/id414308064?i=90318989
+    parent_uid: 3a6a551c5206fe9af8ed336592dd7906
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 354f26146dea2b04acd54a1f3e15ac21
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_29_300k.mp4'
+    parent_uid: 3a6a551c5206fe9af8ed336592dd7906
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e35c780f9fe773b35583638752859ad9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: aefQ2FYugAY
+    parent_uid: 3a6a551c5206fe9af8ed336592dd7906
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d1bc11868c8fe327bc530a28c8d81121
+  - id: aefQ2FYugAY.srt
+    parent_uid: 3a6a551c5206fe9af8ed336592dd7906
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials/computing-differentials/aefQ2FYugAY.srt
+    title: 3play caption file
+    type: null
+    uid: c809fe99d25f1c07a9844093a09d10f0
+  - id: aefQ2FYugAY.pdf
+    parent_uid: 3a6a551c5206fe9af8ed336592dd7906
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials/computing-differentials/aefQ2FYugAY.pdf
+    title: 3play pdf file
+    type: null
+    uid: ffc384f40ddbfcd0d0455cfd36431f54
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3a6a551c5206fe9af8ed336592dd7906
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 83acef39cb30e375deeb86427c458e7e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3a6a551c5206fe9af8ed336592dd7906
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 276ea13515323651d3ca75f95b7a071e
+inline_embed_id: 31453935computingdifferentials90112499
 parent_uid: fa53a54f73841c72094dc4856e73978e
+related_resources_text: ''
+short_url: computing-differentials
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials/computing-differentials
-short_url: computing-differentials
-inline_embed_id: 31453935computingdifferentials90112499
-about_this_resource_text: ''
-related_resources_text: ''
+title: Computing Differentials
 transcript: >-
   <p><span m='7040'>Hi.</span> <span m='7350'>Welcome</span> <span
   m='7650'>back</span> <span m='7840'>to</span> <span
@@ -252,62 +307,7 @@ transcript: >-
   <span m='240510'>go.</span> <span m='240850'>Differentials.</span> <span
   m='241940'>I'll</span> <span m='242160'>end</span> <span
   m='242360'>there.</span> </p>
-embedded_media:
-  - uid: 714082742642084a0a4ccbfcbf508a7a
-    parent_uid: 3a6a551c5206fe9af8ed336592dd7906
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: aefQ2FYugAY
-  - uid: 3488a34653a90d9ae5d5258cf145aa67
-    parent_uid: 3a6a551c5206fe9af8ed336592dd7906
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/aefQ2FYugAY/default.jpg'
-  - uid: 354f26146dea2b04acd54a1f3e15ac21
-    parent_uid: 3a6a551c5206fe9af8ed336592dd7906
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/computing-differentials/id414308064?i=90318989
-  - uid: e35c780f9fe773b35583638752859ad9
-    parent_uid: 3a6a551c5206fe9af8ed336592dd7906
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_29_300k.mp4'
-  - uid: d1bc11868c8fe327bc530a28c8d81121
-    parent_uid: 3a6a551c5206fe9af8ed336592dd7906
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: aefQ2FYugAY
-  - uid: c809fe99d25f1c07a9844093a09d10f0
-    parent_uid: 3a6a551c5206fe9af8ed336592dd7906
-    id: aefQ2FYugAY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials/computing-differentials/aefQ2FYugAY.srt
-  - uid: ffc384f40ddbfcd0d0455cfd36431f54
-    parent_uid: 3a6a551c5206fe9af8ed336592dd7906
-    id: aefQ2FYugAY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials/computing-differentials/aefQ2FYugAY.pdf
-  - uid: 83acef39cb30e375deeb86427c458e7e
-    parent_uid: 3a6a551c5206fe9af8ed336592dd7906
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 276ea13515323651d3ca75f95b7a071e
-    parent_uid: 3a6a551c5206fe9af8ed336592dd7906
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 3a6a551c5206fe9af8ed336592dd7906
 type: courses
 layout: video
 ---

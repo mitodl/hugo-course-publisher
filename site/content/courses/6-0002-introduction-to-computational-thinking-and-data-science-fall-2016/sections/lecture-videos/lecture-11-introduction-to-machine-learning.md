@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 11: Introduction to Machine Learning'
-uid: dd779f84f03099cfa408202267bcd832
-parent_uid: dfe2b9f5ab127795415ac86facf4a535
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-11-introduction-to-machine-learning
-short_url: lecture-11-introduction-to-machine-learning
-inline_embed_id: 59519697lecture11introductiontomachinelearning58431029
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Guttag introduces
   machine learning and shows examples of supervised learning using feature
   vectors.</p> <p><strong>Instructor: </strong>Eric Grimson</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: h0e2HAPTGF4
+    parent_uid: dd779f84f03099cfa408202267bcd832
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 50cc2a1a516db788a585c6eec1c83b29
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/h0e2HAPTGF4/default.jpg'
+    parent_uid: dd779f84f03099cfa408202267bcd832
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a1d344b033c96c432dd1566393b06c1b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: h0e2HAPTGF4
+    parent_uid: dd779f84f03099cfa408202267bcd832
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7098a7e9236bce837cf586b5763f6c6e
+  - id: h0e2HAPTGF4.srt
+    parent_uid: dd779f84f03099cfa408202267bcd832
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-11-introduction-to-machine-learning/h0e2HAPTGF4.srt
+    title: 3play caption file
+    type: null
+    uid: c2f885e123057a7418c9b809ac137ae5
+  - id: h0e2HAPTGF4.pdf
+    parent_uid: dd779f84f03099cfa408202267bcd832
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-11-introduction-to-machine-learning/h0e2HAPTGF4.pdf
+    title: 3play pdf file
+    type: null
+    uid: c74647368fed9529ffc97b943424233e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: dd779f84f03099cfa408202267bcd832
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: de19425af321016e26c2e6a93efd1f2c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: dd779f84f03099cfa408202267bcd832
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b70e0241418de112f5b9d26ec1f4a91c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
+    parent_uid: dd779f84f03099cfa408202267bcd832
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 83207431cbb29c81e341fbcbfe099390
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec11_300k.mp4'
+    parent_uid: dd779f84f03099cfa408202267bcd832
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c60c5f95650325d1b8393e8b9a3d55bb
+inline_embed_id: 59519697lecture11introductiontomachinelearning58431029
+parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
+short_url: lecture-11-introduction-to-machine-learning
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-11-introduction-to-machine-learning
+title: 'Lecture 11: Introduction to Machine Learning'
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1330">content</span> <span m="1810">is</span> <span
@@ -4541,61 +4595,7 @@ transcript: >-
   m="3080510">show</span> <span m="3080720">you</span> <span
   m="3080810">examples</span> <span m="3081320">of</span> <span
   m="3081380">this.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: 50cc2a1a516db788a585c6eec1c83b29
-    parent_uid: dd779f84f03099cfa408202267bcd832
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: h0e2HAPTGF4
-  - uid: a1d344b033c96c432dd1566393b06c1b
-    parent_uid: dd779f84f03099cfa408202267bcd832
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/h0e2HAPTGF4/default.jpg'
-  - uid: 7098a7e9236bce837cf586b5763f6c6e
-    parent_uid: dd779f84f03099cfa408202267bcd832
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: h0e2HAPTGF4
-  - uid: c2f885e123057a7418c9b809ac137ae5
-    parent_uid: dd779f84f03099cfa408202267bcd832
-    id: h0e2HAPTGF4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-11-introduction-to-machine-learning/h0e2HAPTGF4.srt
-  - uid: c74647368fed9529ffc97b943424233e
-    parent_uid: dd779f84f03099cfa408202267bcd832
-    id: h0e2HAPTGF4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-11-introduction-to-machine-learning/h0e2HAPTGF4.pdf
-  - uid: de19425af321016e26c2e6a93efd1f2c
-    parent_uid: dd779f84f03099cfa408202267bcd832
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b70e0241418de112f5b9d26ec1f4a91c
-    parent_uid: dd779f84f03099cfa408202267bcd832
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 83207431cbb29c81e341fbcbfe099390
-    parent_uid: dd779f84f03099cfa408202267bcd832
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
-  - uid: c60c5f95650325d1b8393e8b9a3d55bb
-    parent_uid: dd779f84f03099cfa408202267bcd832
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec11_300k.mp4'
+uid: dd779f84f03099cfa408202267bcd832
 type: courses
 layout: video
 ---

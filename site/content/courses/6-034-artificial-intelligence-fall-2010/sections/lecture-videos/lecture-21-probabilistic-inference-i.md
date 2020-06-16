@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 21: Probabilistic Inference I'
-uid: 9ec82d943c58e90f2285b48074e1de01
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-21-probabilistic-inference-i
-short_url: lecture-21-probabilistic-inference-i
-inline_embed_id: '80665812lecture21:probabilisticinferencei3452966'
 about_this_resource_text: >-
   <p><strong>Description:</strong> We begin this lecture with basic probability
   concepts, and then discuss belief nets, which capture causal relationships
   between events and allow us to specify the model more simply. We can then use
   the chain rule to calculate the joint probability table.</p>
   <p><strong>Instructor:</strong> Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: A6Ud6oUCRak
+    parent_uid: 9ec82d943c58e90f2285b48074e1de01
+    title: Video-YouTube-Stream
+    type: Video
+    uid: fcacf258276cfa62c5e171351b7558ce
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-21-probabilistic-inference/id765641080?i=194480720
+    parent_uid: 9ec82d943c58e90f2285b48074e1de01
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 40f4cacde1616034ecce2ec79f580d9f
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec21_300k.mp4'
+    parent_uid: 9ec82d943c58e90f2285b48074e1de01
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 182aab3d308d2c000cf92b9e6ef2a4a2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/A6Ud6oUCRak/default.jpg'
+    parent_uid: 9ec82d943c58e90f2285b48074e1de01
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bcc1f781046277133c4eb17af94ad606
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: A6Ud6oUCRak
+    parent_uid: 9ec82d943c58e90f2285b48074e1de01
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 29154405aab3ff6bc20c930e86dd3523
+  - id: A6Ud6oUCRak.srt
+    parent_uid: 9ec82d943c58e90f2285b48074e1de01
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-21-probabilistic-inference-i/A6Ud6oUCRak.srt
+    title: 3play caption file
+    type: null
+    uid: 6429af7ad0aecbfb5706aa44be10323a
+  - id: A6Ud6oUCRak.pdf
+    parent_uid: 9ec82d943c58e90f2285b48074e1de01
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-21-probabilistic-inference-i/A6Ud6oUCRak.pdf
+    title: 3play pdf file
+    type: null
+    uid: bbc0d3658c1df7d9ff7d7356866350d3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9ec82d943c58e90f2285b48074e1de01
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 80e99e29b13a38e766359a857dc9bd63
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9ec82d943c58e90f2285b48074e1de01
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 09452c8e2aabf08e0dec918667fee0a1
+inline_embed_id: '80665812lecture21:probabilisticinferencei3452966'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
+short_url: lecture-21-probabilistic-inference-i
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-21-probabilistic-inference-i
+title: 'Lecture 21: Probabilistic Inference I'
 transcript: >-
   <p><span m='9082'>PATRICK WINSTON: Here we are, down to the final
   sprint.</span> </p><p><span m='13380'>Three to go.</span> </p><p><span
@@ -775,62 +830,7 @@ transcript: >-
   </p><p><span m='2889400'>How much saving would we get then?</span>
   </p><p><span m='2891270'>That's what we'll take up next time,</span> <span
   m='2893070'>after the quiz on Wednesday.</span> </p><p></p>
-embedded_media:
-  - uid: fcacf258276cfa62c5e171351b7558ce
-    parent_uid: 9ec82d943c58e90f2285b48074e1de01
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: A6Ud6oUCRak
-  - uid: 40f4cacde1616034ecce2ec79f580d9f
-    parent_uid: 9ec82d943c58e90f2285b48074e1de01
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-21-probabilistic-inference/id765641080?i=194480720
-  - uid: 182aab3d308d2c000cf92b9e6ef2a4a2
-    parent_uid: 9ec82d943c58e90f2285b48074e1de01
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec21_300k.mp4'
-  - uid: bcc1f781046277133c4eb17af94ad606
-    parent_uid: 9ec82d943c58e90f2285b48074e1de01
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/A6Ud6oUCRak/default.jpg'
-  - uid: 29154405aab3ff6bc20c930e86dd3523
-    parent_uid: 9ec82d943c58e90f2285b48074e1de01
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: A6Ud6oUCRak
-  - uid: 6429af7ad0aecbfb5706aa44be10323a
-    parent_uid: 9ec82d943c58e90f2285b48074e1de01
-    id: A6Ud6oUCRak.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-21-probabilistic-inference-i/A6Ud6oUCRak.srt
-  - uid: bbc0d3658c1df7d9ff7d7356866350d3
-    parent_uid: 9ec82d943c58e90f2285b48074e1de01
-    id: A6Ud6oUCRak.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-21-probabilistic-inference-i/A6Ud6oUCRak.pdf
-  - uid: 80e99e29b13a38e766359a857dc9bd63
-    parent_uid: 9ec82d943c58e90f2285b48074e1de01
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 09452c8e2aabf08e0dec918667fee0a1
-    parent_uid: 9ec82d943c58e90f2285b48074e1de01
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 9ec82d943c58e90f2285b48074e1de01
 type: courses
 layout: video
 ---

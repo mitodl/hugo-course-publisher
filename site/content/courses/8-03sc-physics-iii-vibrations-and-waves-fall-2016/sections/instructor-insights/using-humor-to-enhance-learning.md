@@ -1,13 +1,62 @@
 ---
-title: Using Humor to Enhance Learning
-uid: dc61cf46c4891becaf8b47f5e4a49c34
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: lAuAC4hz5rc
+    parent_uid: dc61cf46c4891becaf8b47f5e4a49c34
+    title: Video-YouTube-Stream
+    type: Video
+    uid: aabf1efe98bd37b38fce9238d871dd8c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/lAuAC4hz5rc/default.jpg'
+    parent_uid: dc61cf46c4891becaf8b47f5e4a49c34
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 62ad0792179d304cfeef9ad2474bda17
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: lAuAC4hz5rc
+    parent_uid: dc61cf46c4891becaf8b47f5e4a49c34
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2c6cca62c9462197e23b8505a0a3a329
+  - id: lAuAC4hz5rc.srt
+    parent_uid: dc61cf46c4891becaf8b47f5e4a49c34
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/using-humor-to-enhance-learning/lAuAC4hz5rc.srt
+    title: 3play caption file
+    type: null
+    uid: ccf8b4be443e475303d3ef9aa36889a4
+  - id: lAuAC4hz5rc.pdf
+    parent_uid: dc61cf46c4891becaf8b47f5e4a49c34
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/using-humor-to-enhance-learning/lAuAC4hz5rc.pdf
+    title: 3play pdf file
+    type: null
+    uid: efd7f2f79677b4558b9555ea3d09cfca
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: dc61cf46c4891becaf8b47f5e4a49c34
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5be2f6f80a61fdd439e9f74bedb1c6eb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: dc61cf46c4891becaf8b47f5e4a49c34
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7cc8bb11bd2c7f52ba4a42b3eb5ad89d
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator03_Using_Humor_300k.mp4
+    parent_uid: dc61cf46c4891becaf8b47f5e4a49c34
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5624d34a2f3ef9ef87841d9ae829ff73
+inline_embed_id: 99459931usinghumortoenhancelearning80500656
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
+related_resources_text: ''
+short_url: using-humor-to-enhance-learning
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/using-humor-to-enhance-learning
-short_url: using-humor-to-enhance-learning
-inline_embed_id: 99459931usinghumortoenhancelearning80500656
-about_this_resource_text: ''
-related_resources_text: ''
+title: Using Humor to Enhance Learning
 transcript: >-
   <p><span m='5920'>YEN-JIE LEE:</span> <span m='6015'>Yeah, so</span> <span
   m='6110'>I</span> <span m='6260'>think</span> <span m='7300'>a</span> <span
@@ -122,56 +171,7 @@ transcript: >-
   m='131530'>the</span> <span m='131680'>jokes</span> <span
   m='132480'>during</span> <span m='132640'>the</span> <span
   m='132730'>lecture.</span> </p>
-embedded_media:
-  - uid: aabf1efe98bd37b38fce9238d871dd8c
-    parent_uid: dc61cf46c4891becaf8b47f5e4a49c34
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: lAuAC4hz5rc
-  - uid: 62ad0792179d304cfeef9ad2474bda17
-    parent_uid: dc61cf46c4891becaf8b47f5e4a49c34
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/lAuAC4hz5rc/default.jpg'
-  - uid: 2c6cca62c9462197e23b8505a0a3a329
-    parent_uid: dc61cf46c4891becaf8b47f5e4a49c34
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: lAuAC4hz5rc
-  - uid: ccf8b4be443e475303d3ef9aa36889a4
-    parent_uid: dc61cf46c4891becaf8b47f5e4a49c34
-    id: lAuAC4hz5rc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/using-humor-to-enhance-learning/lAuAC4hz5rc.srt
-  - uid: efd7f2f79677b4558b9555ea3d09cfca
-    parent_uid: dc61cf46c4891becaf8b47f5e4a49c34
-    id: lAuAC4hz5rc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/using-humor-to-enhance-learning/lAuAC4hz5rc.pdf
-  - uid: 5be2f6f80a61fdd439e9f74bedb1c6eb
-    parent_uid: dc61cf46c4891becaf8b47f5e4a49c34
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7cc8bb11bd2c7f52ba4a42b3eb5ad89d
-    parent_uid: dc61cf46c4891becaf8b47f5e4a49c34
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5624d34a2f3ef9ef87841d9ae829ff73
-    parent_uid: dc61cf46c4891becaf8b47f5e4a49c34
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator03_Using_Humor_300k.mp4
+uid: dc61cf46c4891becaf8b47f5e4a49c34
 type: courses
 layout: video
 ---

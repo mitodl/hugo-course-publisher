@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 11: Understanding Program Efficiency, Part 2'
-uid: 4a67450a08df97863acb0e4827922a68
-parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-11-understanding-program-efficiency-part-2
-short_url: lecture-11-understanding-program-efficiency-part-2
-inline_embed_id: 96708790lecture11understandingprogramefficiencypart251243916
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Grimson continues
   discussing different classes of algorithmic complexity, including logarithmic
   complexity, polynomial complexity, and exponential complexity.</p>
   <p><strong>Instructor:</strong> Prof. Eric Grimson</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 7lQXYl_L28w
+    parent_uid: 4a67450a08df97863acb0e4827922a68
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 656462a01893a60ad1e784c87a464b22
+  - id: 7lQXYl_L28w.srt
+    parent_uid: 4a67450a08df97863acb0e4827922a68
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-11-understanding-program-efficiency-part-2/7lQXYl_L28w.srt
+    title: 3play caption file
+    type: null
+    uid: 7dad759a413fba6ccdb0ddd9e4944cc9
+  - id: 7lQXYl_L28w.pdf
+    parent_uid: 4a67450a08df97863acb0e4827922a68
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-11-understanding-program-efficiency-part-2/7lQXYl_L28w.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5b910f6f6c71216bfc9636d53411fbac
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4a67450a08df97863acb0e4827922a68
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 816c15843698b366781a98d35ee5c080
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4a67450a08df97863acb0e4827922a68
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c902437b5c1317d1f1cccc5cf7892159
+  - id: Video-YouTube-Stream
+    media_location: 7lQXYl_L28w
+    parent_uid: 4a67450a08df97863acb0e4827922a68
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 45928fd552dd37c650eec61d1eca1162
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/7lQXYl_L28w/default.jpg'
+    parent_uid: 4a67450a08df97863acb0e4827922a68
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5763f3b7334225694b006801115de384
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: 4a67450a08df97863acb0e4827922a68
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a7a1df3c5d6d69cd9af43d342629822e
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_11_300k.mp4'
+    parent_uid: 4a67450a08df97863acb0e4827922a68
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 05b1d930bb5bf50fd9cf6e9ec5d3e238
+inline_embed_id: 96708790lecture11understandingprogramefficiencypart251243916
+parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
+short_url: lecture-11-understanding-program-efficiency-part-2
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-11-understanding-program-efficiency-part-2
+title: 'Lecture 11: Understanding Program Efficiency, Part 2'
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1300">content</span> <span m="1870">is</span> <span
@@ -4223,61 +4277,7 @@ transcript: >-
   m="2950210">So</span> <span m="2950390">we'll</span> <span
   m="2950480">see</span> <span m="2950720">you</span> <span m="2950820">all
   on</span> <span m="2950840">Wednesday.</span></p>
-embedded_media:
-  - uid: 656462a01893a60ad1e784c87a464b22
-    parent_uid: 4a67450a08df97863acb0e4827922a68
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 7lQXYl_L28w
-  - uid: 7dad759a413fba6ccdb0ddd9e4944cc9
-    parent_uid: 4a67450a08df97863acb0e4827922a68
-    id: 7lQXYl_L28w.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-11-understanding-program-efficiency-part-2/7lQXYl_L28w.srt
-  - uid: 5b910f6f6c71216bfc9636d53411fbac
-    parent_uid: 4a67450a08df97863acb0e4827922a68
-    id: 7lQXYl_L28w.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-11-understanding-program-efficiency-part-2/7lQXYl_L28w.pdf
-  - uid: 816c15843698b366781a98d35ee5c080
-    parent_uid: 4a67450a08df97863acb0e4827922a68
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c902437b5c1317d1f1cccc5cf7892159
-    parent_uid: 4a67450a08df97863acb0e4827922a68
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 45928fd552dd37c650eec61d1eca1162
-    parent_uid: 4a67450a08df97863acb0e4827922a68
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 7lQXYl_L28w
-  - uid: 5763f3b7334225694b006801115de384
-    parent_uid: 4a67450a08df97863acb0e4827922a68
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/7lQXYl_L28w/default.jpg'
-  - uid: a7a1df3c5d6d69cd9af43d342629822e
-    parent_uid: 4a67450a08df97863acb0e4827922a68
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: 05b1d930bb5bf50fd9cf6e9ec5d3e238
-    parent_uid: 4a67450a08df97863acb0e4827922a68
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_11_300k.mp4'
+uid: 4a67450a08df97863acb0e4827922a68
 type: courses
 layout: video
 ---

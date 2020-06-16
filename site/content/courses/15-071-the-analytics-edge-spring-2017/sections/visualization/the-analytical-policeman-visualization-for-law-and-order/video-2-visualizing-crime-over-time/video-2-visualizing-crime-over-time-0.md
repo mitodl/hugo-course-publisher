@@ -1,13 +1,62 @@
 ---
-title: 'Video 2: Visualizing Crime Over Time'
-uid: 8b1c88a05de110ef901e4f6df12cc862
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Kdbia6SXSFA
+    parent_uid: 8b1c88a05de110ef901e4f6df12cc862
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9619d9972f4e7f3d07fda1af45087048
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: Kdbia6SXSFA
+    parent_uid: 8b1c88a05de110ef901e4f6df12cc862
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 449d02f185287ed8fdf2639e51a0b204
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Kdbia6SXSFA/default.jpg'
+    parent_uid: 8b1c88a05de110ef901e4f6df12cc862
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9ef63b69f5a60e51d28e0b51e35ee5aa
+  - id: Kdbia6SXSFA.srt
+    parent_uid: 8b1c88a05de110ef901e4f6df12cc862
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-2-visualizing-crime-over-time/video-2-visualizing-crime-over-time-0/Kdbia6SXSFA.srt
+    title: 3play caption file
+    type: null
+    uid: 0b519b3be5983d5a790fd32dbca03cb6
+  - id: Kdbia6SXSFA.pdf
+    parent_uid: 8b1c88a05de110ef901e4f6df12cc862
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-2-visualizing-crime-over-time/video-2-visualizing-crime-over-time-0/Kdbia6SXSFA.pdf
+    title: 3play pdf file
+    type: null
+    uid: e5fb214a147d1d8c1e0304baceb7596c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8b1c88a05de110ef901e4f6df12cc862
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ddec55d076dcd2b38617219e531c1f11
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8b1c88a05de110ef901e4f6df12cc862
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e33465ef0c530c6d3672265bd4841590
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.3.03_300k.mp4
+    parent_uid: 8b1c88a05de110ef901e4f6df12cc862
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b7f5fcf859b880b0f830c18e53f57b75
+inline_embed_id: 30449191video2visualizingcrimeovertime90258722
 parent_uid: 647a1b5c5d6b626d39aa4ad77903806e
+related_resources_text: ''
+short_url: video-2-visualizing-crime-over-time-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-2-visualizing-crime-over-time/video-2-visualizing-crime-over-time-0
-short_url: video-2-visualizing-crime-over-time-0
-inline_embed_id: 30449191video2visualizingcrimeovertime90258722
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 2: Visualizing Crime Over Time'
 transcript: >-
   <p><span m='4500'>In</span> <span m='4910'>this</span> <span
   m='5320'>video,</span> <span m='5730'>we'll</span> <span
@@ -278,56 +327,7 @@ transcript: >-
   m='254026'>crime</span> <span m='254435'>by</span> <span m='254844'>the</span>
   <span m='255253'>day</span> <span m='255662'>of</span> <span
   m='256071'>the</span> <span m='256480'>week.</span> </p>
-embedded_media:
-  - uid: 9619d9972f4e7f3d07fda1af45087048
-    parent_uid: 8b1c88a05de110ef901e4f6df12cc862
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Kdbia6SXSFA
-  - uid: 449d02f185287ed8fdf2639e51a0b204
-    parent_uid: 8b1c88a05de110ef901e4f6df12cc862
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Kdbia6SXSFA
-  - uid: 9ef63b69f5a60e51d28e0b51e35ee5aa
-    parent_uid: 8b1c88a05de110ef901e4f6df12cc862
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Kdbia6SXSFA/default.jpg'
-  - uid: 0b519b3be5983d5a790fd32dbca03cb6
-    parent_uid: 8b1c88a05de110ef901e4f6df12cc862
-    id: Kdbia6SXSFA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-2-visualizing-crime-over-time/video-2-visualizing-crime-over-time-0/Kdbia6SXSFA.srt
-  - uid: e5fb214a147d1d8c1e0304baceb7596c
-    parent_uid: 8b1c88a05de110ef901e4f6df12cc862
-    id: Kdbia6SXSFA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-2-visualizing-crime-over-time/video-2-visualizing-crime-over-time-0/Kdbia6SXSFA.pdf
-  - uid: ddec55d076dcd2b38617219e531c1f11
-    parent_uid: 8b1c88a05de110ef901e4f6df12cc862
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e33465ef0c530c6d3672265bd4841590
-    parent_uid: 8b1c88a05de110ef901e4f6df12cc862
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b7f5fcf859b880b0f830c18e53f57b75
-    parent_uid: 8b1c88a05de110ef901e4f6df12cc862
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.3.03_300k.mp4
+uid: 8b1c88a05de110ef901e4f6df12cc862
 type: courses
 layout: video
 ---

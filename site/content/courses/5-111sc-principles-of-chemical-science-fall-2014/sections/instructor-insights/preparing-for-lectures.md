@@ -1,13 +1,68 @@
 ---
-title: Preparing for Lectures
-uid: cc0ff916e9458bead56cb012aeb248ae
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: _ZZ6jwuBJxc
+    parent_uid: cc0ff916e9458bead56cb012aeb248ae
+    title: Video-YouTube-Stream
+    type: Video
+    uid: dcdbf279948fdcb2ba12d6c85f362c00
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/_ZZ6jwuBJxc/default.jpg'
+    parent_uid: cc0ff916e9458bead56cb012aeb248ae
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a979b9da7702498eb920ee4af9c56e28
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: _ZZ6jwuBJxc
+    parent_uid: cc0ff916e9458bead56cb012aeb248ae
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 691fad3f341f2bcd6c50bb7bd2bfc956
+  - id: ZZ6jwuBJxc.srt
+    parent_uid: cc0ff916e9458bead56cb012aeb248ae
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/preparing-for-lectures/ZZ6jwuBJxc.srt
+    title: 3play caption file
+    type: null
+    uid: 8df6d99367f5376c574829e62df20d7f
+  - id: ZZ6jwuBJxc.pdf
+    parent_uid: cc0ff916e9458bead56cb012aeb248ae
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/preparing-for-lectures/ZZ6jwuBJxc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0035eb927845c7d70ba2e123eceb3c9d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cc0ff916e9458bead56cb012aeb248ae
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5deae934efd8a807f7cb7c5f4a38d262
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cc0ff916e9458bead56cb012aeb248ae
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9536b3238e0b60e897e2af9bb56bd1ba
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: cc0ff916e9458bead56cb012aeb248ae
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 716ecccd0792eb6f15e207557f94982b
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT5.111F14/MIT5_111F14_PreparingLectures_300k.mp4
+    parent_uid: cc0ff916e9458bead56cb012aeb248ae
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f504b1fe5712672b6a7163d6f92637c4
+inline_embed_id: 52576593preparingforlectures41570318
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
+related_resources_text: ''
+short_url: preparing-for-lectures
 technical_location: >-
   https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/preparing-for-lectures
-short_url: preparing-for-lectures
-inline_embed_id: 52576593preparingforlectures41570318
-about_this_resource_text: ''
-related_resources_text: ''
+title: Preparing for Lectures
 transcript: >-
   <p><span m='4390'>CATHERINE DRENNAN: The</span> <span m='4540'>first</span>
   <span m='4760'>thing</span> <span m='4940'>I</span> <span m='5010'>do</span>
@@ -153,62 +208,7 @@ transcript: >-
   m='112490'>was</span> <span m='112630'>one</span> <span m='112780'>of</span>
   <span m='112840'>the</span> <span m='112910'>harder</span> <span
   m='113200'>challenges.</span> </p>
-embedded_media:
-  - uid: dcdbf279948fdcb2ba12d6c85f362c00
-    parent_uid: cc0ff916e9458bead56cb012aeb248ae
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: _ZZ6jwuBJxc
-  - uid: a979b9da7702498eb920ee4af9c56e28
-    parent_uid: cc0ff916e9458bead56cb012aeb248ae
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/_ZZ6jwuBJxc/default.jpg'
-  - uid: 691fad3f341f2bcd6c50bb7bd2bfc956
-    parent_uid: cc0ff916e9458bead56cb012aeb248ae
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: _ZZ6jwuBJxc
-  - uid: 8df6d99367f5376c574829e62df20d7f
-    parent_uid: cc0ff916e9458bead56cb012aeb248ae
-    id: ZZ6jwuBJxc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/preparing-for-lectures/ZZ6jwuBJxc.srt
-  - uid: 0035eb927845c7d70ba2e123eceb3c9d
-    parent_uid: cc0ff916e9458bead56cb012aeb248ae
-    id: ZZ6jwuBJxc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/preparing-for-lectures/ZZ6jwuBJxc.pdf
-  - uid: 5deae934efd8a807f7cb7c5f4a38d262
-    parent_uid: cc0ff916e9458bead56cb012aeb248ae
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9536b3238e0b60e897e2af9bb56bd1ba
-    parent_uid: cc0ff916e9458bead56cb012aeb248ae
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 716ecccd0792eb6f15e207557f94982b
-    parent_uid: cc0ff916e9458bead56cb012aeb248ae
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: f504b1fe5712672b6a7163d6f92637c4
-    parent_uid: cc0ff916e9458bead56cb012aeb248ae
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT5.111F14/MIT5_111F14_PreparingLectures_300k.mp4
+uid: cc0ff916e9458bead56cb012aeb248ae
 type: courses
 layout: video
 ---

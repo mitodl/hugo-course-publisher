@@ -1,13 +1,62 @@
 ---
-title: 'Video 1: Introduction to The Analytics Edge'
-uid: 06385c34bf64201c1d6b4f00929b15b1
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: '-mW-DYFyGqg'
+    parent_uid: 06385c34bf64201c1d6b4f00929b15b1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d3279f67794ac86c8096dc1aa415b1fb
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: '-mW-DYFyGqg'
+    parent_uid: 06385c34bf64201c1d6b4f00929b15b1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1075a8af5b840991afaff549c1eb117a
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.2.01_300k.mp4
+    parent_uid: 06385c34bf64201c1d6b4f00929b15b1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 584c60c9ea0698236539430bc9d5914d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-mW-DYFyGqg/default.jpg'
+    parent_uid: 06385c34bf64201c1d6b4f00929b15b1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ea656c7df815ee8922304e502ecde6ea
+  - id: '-mW-DYFyGqg.srt'
+    parent_uid: 06385c34bf64201c1d6b4f00929b15b1
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-1-introduction-to-the-analytics-edge-0/-mW-DYFyGqg.srt
+    title: 3play caption file
+    type: null
+    uid: 91cf7b1681b46de1c8fe758982ebe91a
+  - id: '-mW-DYFyGqg.pdf'
+    parent_uid: 06385c34bf64201c1d6b4f00929b15b1
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-1-introduction-to-the-analytics-edge-0/-mW-DYFyGqg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 455f3a4edeb1cf9b3fe221ae1df53313
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 06385c34bf64201c1d6b4f00929b15b1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 64404a6428778acdb045297038c2609a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 06385c34bf64201c1d6b4f00929b15b1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 47cf43c5f1412714beb8634f4d6887c0
+inline_embed_id: 73432641video1introductiontotheanalyticsedge34766493
 parent_uid: 9fb459369f44df97dad389bb5d1aa82c
+related_resources_text: ''
+short_url: video-1-introduction-to-the-analytics-edge-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-1-introduction-to-the-analytics-edge-0
-short_url: video-1-introduction-to-the-analytics-edge-0
-inline_embed_id: 73432641video1introductiontotheanalyticsedge34766493
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: Introduction to The Analytics Edge'
 transcript: >-
   <p><span m='4500'>Welcome</span> <span m='5098'>to</span> <span
   m='5696'>15.071x,</span> <span m='6295'>The</span> <span
@@ -298,56 +347,7 @@ transcript: >-
   m='287345'>sports</span> <span m='287970'>scheduling,</span> <span
   m='288595'>and</span> <span m='289220'>many</span> <span
   m='289845'>others.</span> </p>
-embedded_media:
-  - uid: d3279f67794ac86c8096dc1aa415b1fb
-    parent_uid: 06385c34bf64201c1d6b4f00929b15b1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-mW-DYFyGqg'
-  - uid: 1075a8af5b840991afaff549c1eb117a
-    parent_uid: 06385c34bf64201c1d6b4f00929b15b1
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-mW-DYFyGqg'
-  - uid: 584c60c9ea0698236539430bc9d5914d
-    parent_uid: 06385c34bf64201c1d6b4f00929b15b1
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.2.01_300k.mp4
-  - uid: ea656c7df815ee8922304e502ecde6ea
-    parent_uid: 06385c34bf64201c1d6b4f00929b15b1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-mW-DYFyGqg/default.jpg'
-  - uid: 91cf7b1681b46de1c8fe758982ebe91a
-    parent_uid: 06385c34bf64201c1d6b4f00929b15b1
-    id: '-mW-DYFyGqg.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-1-introduction-to-the-analytics-edge-0/-mW-DYFyGqg.srt
-  - uid: 455f3a4edeb1cf9b3fe221ae1df53313
-    parent_uid: 06385c34bf64201c1d6b4f00929b15b1
-    id: '-mW-DYFyGqg.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-1-introduction-to-the-analytics-edge-0/-mW-DYFyGqg.pdf
-  - uid: 64404a6428778acdb045297038c2609a
-    parent_uid: 06385c34bf64201c1d6b4f00929b15b1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 47cf43c5f1412714beb8634f4d6887c0
-    parent_uid: 06385c34bf64201c1d6b4f00929b15b1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 06385c34bf64201c1d6b4f00929b15b1
 type: courses
 layout: video
 ---

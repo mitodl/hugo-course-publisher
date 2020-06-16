@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 2: Optimization Problems'
-uid: 2a32b81a7e6b72824bb093a9bc375755
-parent_uid: dfe2b9f5ab127795415ac86facf4a535
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-2-optimization-problems
-short_url: lecture-2-optimization-problems
-inline_embed_id: 13963597lecture2optimizationproblems86961914
 about_this_resource_text: >-
   <p><strong>Description:</strong> Prof. Guttag explains dynamic programming and
   shows some applications of the process.</p> <p><strong>Instructor:</strong>
   John Guttag</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: uK5yvoXnkSk
+    parent_uid: 2a32b81a7e6b72824bb093a9bc375755
+    title: Video-YouTube-Stream
+    type: Video
+    uid: aefeea5503324cb8816425c4036b0358
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/uK5yvoXnkSk/default.jpg'
+    parent_uid: 2a32b81a7e6b72824bb093a9bc375755
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1d044dc0ec5aa82e5155f935bc4c8bf7
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: uK5yvoXnkSk
+    parent_uid: 2a32b81a7e6b72824bb093a9bc375755
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 205265d6f2feb318ebbefcbe779fff80
+  - id: uK5yvoXnkSk.srt
+    parent_uid: 2a32b81a7e6b72824bb093a9bc375755
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-2-optimization-problems/uK5yvoXnkSk.srt
+    title: 3play caption file
+    type: null
+    uid: b5d7f3595a06e98c9296f98453d9c264
+  - id: uK5yvoXnkSk.pdf
+    parent_uid: 2a32b81a7e6b72824bb093a9bc375755
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-2-optimization-problems/uK5yvoXnkSk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 338a65426e11000653a16758d8f9609a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2a32b81a7e6b72824bb093a9bc375755
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: dd6a5be7ac0e1cc3317bd1da95dd65e7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2a32b81a7e6b72824bb093a9bc375755
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2264b2bf3f1ac442f8027b5542cf7c20
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
+    parent_uid: 2a32b81a7e6b72824bb093a9bc375755
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3b4afe11696ff01e9b521f69895b206b
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec02_300k.mp4'
+    parent_uid: 2a32b81a7e6b72824bb093a9bc375755
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9f221e5d10f5747f18c97af85b203be7
+inline_embed_id: 13963597lecture2optimizationproblems86961914
+parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
+short_url: lecture-2-optimization-problems
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-2-optimization-problems
+title: 'Lecture 2: Optimization Problems'
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1330">content</span> <span m="1810">is</span> <span
@@ -2770,61 +2824,7 @@ transcript: >-
   m="2870490">of</span> <span m="2870580">solving</span> <span
   m="2871000">this</span> <span m="2871180">optimization</span> <span
   m="2871900">problem.</span></p>
-embedded_media:
-  - uid: aefeea5503324cb8816425c4036b0358
-    parent_uid: 2a32b81a7e6b72824bb093a9bc375755
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: uK5yvoXnkSk
-  - uid: 1d044dc0ec5aa82e5155f935bc4c8bf7
-    parent_uid: 2a32b81a7e6b72824bb093a9bc375755
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/uK5yvoXnkSk/default.jpg'
-  - uid: 205265d6f2feb318ebbefcbe779fff80
-    parent_uid: 2a32b81a7e6b72824bb093a9bc375755
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: uK5yvoXnkSk
-  - uid: b5d7f3595a06e98c9296f98453d9c264
-    parent_uid: 2a32b81a7e6b72824bb093a9bc375755
-    id: uK5yvoXnkSk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-2-optimization-problems/uK5yvoXnkSk.srt
-  - uid: 338a65426e11000653a16758d8f9609a
-    parent_uid: 2a32b81a7e6b72824bb093a9bc375755
-    id: uK5yvoXnkSk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-2-optimization-problems/uK5yvoXnkSk.pdf
-  - uid: dd6a5be7ac0e1cc3317bd1da95dd65e7
-    parent_uid: 2a32b81a7e6b72824bb093a9bc375755
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2264b2bf3f1ac442f8027b5542cf7c20
-    parent_uid: 2a32b81a7e6b72824bb093a9bc375755
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3b4afe11696ff01e9b521f69895b206b
-    parent_uid: 2a32b81a7e6b72824bb093a9bc375755
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
-  - uid: 9f221e5d10f5747f18c97af85b203be7
-    parent_uid: 2a32b81a7e6b72824bb093a9bc375755
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec02_300k.mp4'
+uid: 2a32b81a7e6b72824bb093a9bc375755
 type: courses
 layout: video
 ---

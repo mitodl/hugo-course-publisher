@@ -1,13 +1,62 @@
 ---
-title: 'Video 7: The ROC Curve'
-uid: de12cf90981345672c6e7ded970619da
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: xglWbWk_swE
+    parent_uid: de12cf90981345672c6e7ded970619da
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2a90a67efa526cd2aff8281321f89b50
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: xglWbWk_swE
+    parent_uid: de12cf90981345672c6e7ded970619da
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6bf87533877d3c6bad333e877463b6c2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/xglWbWk_swE/default.jpg'
+    parent_uid: de12cf90981345672c6e7ded970619da
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 003e69ef3d2e74ecc9bfbb55990ea21f
+  - id: xglWbWk_swE.srt
+    parent_uid: de12cf90981345672c6e7ded970619da
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-7-the-roc-curve/video-7-the-roc-curve-0/xglWbWk_swE.srt
+    title: 3play caption file
+    type: null
+    uid: 490625c73f5e5f7ba790f9be9d512219
+  - id: xglWbWk_swE.pdf
+    parent_uid: de12cf90981345672c6e7ded970619da
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-7-the-roc-curve/video-7-the-roc-curve-0/xglWbWk_swE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 820eb421a563568d21038392c04bec44
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: de12cf90981345672c6e7ded970619da
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 632ef11bb9d64964f43ee57ac6a492fd
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: de12cf90981345672c6e7ded970619da
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e41f6f380d743da6460594d8758bc340
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.4.08_300k.mp4
+    parent_uid: de12cf90981345672c6e7ded970619da
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d3ee4795ca8d14720f2d590f345abb29
+inline_embed_id: 315976video7theroccurve52985046
 parent_uid: 19c7a1c6b044e1b2c2b1916f5be9f51f
+related_resources_text: ''
+short_url: video-7-the-roc-curve-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-7-the-roc-curve/video-7-the-roc-curve-0
-short_url: video-7-the-roc-curve-0
-inline_embed_id: 315976video7theroccurve52985046
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 7: The ROC Curve'
 transcript: >-
   <p><span m='4500'>Now</span> <span m='4715'>let's</span> <span
   m='4931'>look</span> <span m='5146'>at</span> <span m='5362'>the</span> <span
@@ -174,56 +223,7 @@ transcript: >-
   m='194718'>non-responsive</span> <span m='195220'>document</span> <span
   m='195878'>about</span> <span m='196536'>80%</span> <span m='197195'>of</span>
   <span m='197853'>the</span> <span m='198511'>time.</span> </p>
-embedded_media:
-  - uid: 2a90a67efa526cd2aff8281321f89b50
-    parent_uid: de12cf90981345672c6e7ded970619da
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: xglWbWk_swE
-  - uid: 6bf87533877d3c6bad333e877463b6c2
-    parent_uid: de12cf90981345672c6e7ded970619da
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: xglWbWk_swE
-  - uid: 003e69ef3d2e74ecc9bfbb55990ea21f
-    parent_uid: de12cf90981345672c6e7ded970619da
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/xglWbWk_swE/default.jpg'
-  - uid: 490625c73f5e5f7ba790f9be9d512219
-    parent_uid: de12cf90981345672c6e7ded970619da
-    id: xglWbWk_swE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-7-the-roc-curve/video-7-the-roc-curve-0/xglWbWk_swE.srt
-  - uid: 820eb421a563568d21038392c04bec44
-    parent_uid: de12cf90981345672c6e7ded970619da
-    id: xglWbWk_swE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-7-the-roc-curve/video-7-the-roc-curve-0/xglWbWk_swE.pdf
-  - uid: 632ef11bb9d64964f43ee57ac6a492fd
-    parent_uid: de12cf90981345672c6e7ded970619da
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e41f6f380d743da6460594d8758bc340
-    parent_uid: de12cf90981345672c6e7ded970619da
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d3ee4795ca8d14720f2d590f345abb29
-    parent_uid: de12cf90981345672c6e7ded970619da
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.4.08_300k.mp4
+uid: de12cf90981345672c6e7ded970619da
 type: courses
 layout: video
 ---

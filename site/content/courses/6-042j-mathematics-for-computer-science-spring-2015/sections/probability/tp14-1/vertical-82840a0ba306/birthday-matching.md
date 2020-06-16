@@ -1,13 +1,73 @@
 ---
-title: Birthday Matching
-uid: b9152b35e08b558db2bee5f409d74aa6
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: b9152b35e08b558db2bee5f409d74aa6
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 55b89569265c1b4df2dfb2a919e8db7d
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: b9152b35e08b558db2bee5f409d74aa6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b99ad42ba72c6c00bf5ac4e6a87d1ccb
+  - id: Video-YouTube-Stream
+    media_location: TWVntUfXsKs
+    parent_uid: b9152b35e08b558db2bee5f409d74aa6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: aeea9deddf4853e087620c839ab76114
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TWVntUfXsKs/default.jpg'
+    parent_uid: b9152b35e08b558db2bee5f409d74aa6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 79886ef4c06b0c5a24371032863d5175
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: TWVntUfXsKs
+    parent_uid: b9152b35e08b558db2bee5f409d74aa6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1d5231156ed9186b19e5df6c744ec4e4
+  - id: TWVntUfXsKs.srt
+    parent_uid: b9152b35e08b558db2bee5f409d74aa6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/vertical-82840a0ba306/birthday-matching/TWVntUfXsKs.srt
+    title: 3play caption file
+    type: null
+    uid: 2d7418086e60ebf9f212b37e9c0a552c
+  - id: TWVntUfXsKs.pdf
+    parent_uid: b9152b35e08b558db2bee5f409d74aa6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/vertical-82840a0ba306/birthday-matching/TWVntUfXsKs.pdf
+    title: 3play pdf file
+    type: null
+    uid: f8ae4b8ae720ec1f5810dc5ddc738fc1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b9152b35e08b558db2bee5f409d74aa6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 96effce9e2818189d1c6aac02165e245
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b9152b35e08b558db2bee5f409d74aa6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f223711263cd9ace099ddd3d9e53d438
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_birthday_video_ipod.mp4
+    parent_uid: b9152b35e08b558db2bee5f409d74aa6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 63bc5ed4a8573b3793c59f63582d5304
+inline_embed_id: 43303088birthdaymatching15716634
 parent_uid: f1b5e54d70380fe7908b4c0dfd6207a3
+related_resources_text: ''
+short_url: birthday-matching
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/vertical-82840a0ba306/birthday-matching
-short_url: birthday-matching
-inline_embed_id: 43303088birthdaymatching15716634
-about_this_resource_text: ''
-related_resources_text: ''
+title: Birthday Matching
 transcript: >-
   <p><span m='1870'>PROFESSOR: Now</span> <span m='2150'>you</span> <span
   m='2540'>may</span> <span m='2700'>remember</span> <span m='3060'>a</span>
@@ -886,67 +946,7 @@ transcript: >-
   m='734810'>of</span> <span m='734930'>which</span> <span
   m='735140'>counts</span> <span m='735420'>for</span> <span
   m='735520'>three</span> <span m='735810'>pairs.</span> </p>
-embedded_media:
-  - uid: 55b89569265c1b4df2dfb2a919e8db7d
-    parent_uid: b9152b35e08b558db2bee5f409d74aa6
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: b99ad42ba72c6c00bf5ac4e6a87d1ccb
-    parent_uid: b9152b35e08b558db2bee5f409d74aa6
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: aeea9deddf4853e087620c839ab76114
-    parent_uid: b9152b35e08b558db2bee5f409d74aa6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TWVntUfXsKs
-  - uid: 79886ef4c06b0c5a24371032863d5175
-    parent_uid: b9152b35e08b558db2bee5f409d74aa6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TWVntUfXsKs/default.jpg'
-  - uid: 1d5231156ed9186b19e5df6c744ec4e4
-    parent_uid: b9152b35e08b558db2bee5f409d74aa6
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TWVntUfXsKs
-  - uid: 2d7418086e60ebf9f212b37e9c0a552c
-    parent_uid: b9152b35e08b558db2bee5f409d74aa6
-    id: TWVntUfXsKs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/vertical-82840a0ba306/birthday-matching/TWVntUfXsKs.srt
-  - uid: f8ae4b8ae720ec1f5810dc5ddc738fc1
-    parent_uid: b9152b35e08b558db2bee5f409d74aa6
-    id: TWVntUfXsKs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/vertical-82840a0ba306/birthday-matching/TWVntUfXsKs.pdf
-  - uid: 96effce9e2818189d1c6aac02165e245
-    parent_uid: b9152b35e08b558db2bee5f409d74aa6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f223711263cd9ace099ddd3d9e53d438
-    parent_uid: b9152b35e08b558db2bee5f409d74aa6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 63bc5ed4a8573b3793c59f63582d5304
-    parent_uid: b9152b35e08b558db2bee5f409d74aa6
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_birthday_video_ipod.mp4
+uid: b9152b35e08b558db2bee5f409d74aa6
 type: courses
 layout: video
 ---

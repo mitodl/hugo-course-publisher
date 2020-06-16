@@ -1,13 +1,68 @@
 ---
-title: Components of a Vector
-uid: d32610769cd22138e80becc41adc5974
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 4kPz8aqm5yE
+    parent_uid: d32610769cd22138e80becc41adc5974
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 74a2ddad002aea2dd4ca176d586bcfda
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4kPz8aqm5yE/default.jpg'
+    parent_uid: d32610769cd22138e80becc41adc5974
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d54b0aa72f0193e923da9493f1c7dc98
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 4kPz8aqm5yE
+    parent_uid: d32610769cd22138e80becc41adc5974
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ef7f884d711223a454bf64bdabd8de38
+  - id: 4kPz8aqm5yE.srt
+    parent_uid: d32610769cd22138e80becc41adc5974
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-4-vector-components/components-of-a-vector/4kPz8aqm5yE.srt
+    title: 3play caption file
+    type: null
+    uid: 89a46ef5c95f148001f61bea3fc039af
+  - id: 4kPz8aqm5yE.pdf
+    parent_uid: d32610769cd22138e80becc41adc5974
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-4-vector-components/components-of-a-vector/4kPz8aqm5yE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6471807eb5b01aa234986b9a19319569
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d32610769cd22138e80becc41adc5974
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c6e0ac3d1d91768176d76d91427316c6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d32610769cd22138e80becc41adc5974
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 90f7a96b9f5438bb7b2fab1566914cd6
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/components-of-a-vector/id414355340?i=90322870
+    parent_uid: d32610769cd22138e80becc41adc5974
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 015b823bb079fe4f1cd7b286f182044f
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_03_300k.mp4'
+    parent_uid: d32610769cd22138e80becc41adc5974
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 19df8262ae73e08f736b9f9ba49c20dd
+inline_embed_id: 9114814componentsofavector59358485
 parent_uid: 375dd1f685adf2e09b7114726b7f7b54
+related_resources_text: ''
+short_url: components-of-a-vector
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-4-vector-components/components-of-a-vector
-short_url: components-of-a-vector
-inline_embed_id: 9114814componentsofavector59358485
-about_this_resource_text: ''
-related_resources_text: ''
+title: Components of a Vector
 transcript: >-
   <p><span m='7290'>JOEL LEWIS: Hi.</span> <span m='7670'>Welcome</span> <span
   m='8050'>back</span> <span m='8250'>to</span> <span
@@ -324,62 +379,7 @@ transcript: >-
   </p><p><span m='302950'>So</span> <span m='304090'>that's</span> <span
   m='304360'>that,</span> <span m='304630'>I'll end</span> <span
   m='305050'>there.</span> </p>
-embedded_media:
-  - uid: 74a2ddad002aea2dd4ca176d586bcfda
-    parent_uid: d32610769cd22138e80becc41adc5974
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4kPz8aqm5yE
-  - uid: d54b0aa72f0193e923da9493f1c7dc98
-    parent_uid: d32610769cd22138e80becc41adc5974
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4kPz8aqm5yE/default.jpg'
-  - uid: ef7f884d711223a454bf64bdabd8de38
-    parent_uid: d32610769cd22138e80becc41adc5974
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4kPz8aqm5yE
-  - uid: 89a46ef5c95f148001f61bea3fc039af
-    parent_uid: d32610769cd22138e80becc41adc5974
-    id: 4kPz8aqm5yE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-4-vector-components/components-of-a-vector/4kPz8aqm5yE.srt
-  - uid: 6471807eb5b01aa234986b9a19319569
-    parent_uid: d32610769cd22138e80becc41adc5974
-    id: 4kPz8aqm5yE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-4-vector-components/components-of-a-vector/4kPz8aqm5yE.pdf
-  - uid: c6e0ac3d1d91768176d76d91427316c6
-    parent_uid: d32610769cd22138e80becc41adc5974
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 90f7a96b9f5438bb7b2fab1566914cd6
-    parent_uid: d32610769cd22138e80becc41adc5974
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 015b823bb079fe4f1cd7b286f182044f
-    parent_uid: d32610769cd22138e80becc41adc5974
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/components-of-a-vector/id414355340?i=90322870
-  - uid: 19df8262ae73e08f736b9f9ba49c20dd
-    parent_uid: d32610769cd22138e80becc41adc5974
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_03_300k.mp4'
+uid: d32610769cd22138e80becc41adc5974
 type: courses
 layout: video
 ---

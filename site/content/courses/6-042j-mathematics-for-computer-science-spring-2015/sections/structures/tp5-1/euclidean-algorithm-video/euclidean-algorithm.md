@@ -1,13 +1,72 @@
 ---
-title: Euclidean Algorithm
-uid: ae623ce0e219f2db9919c713bb301dcc
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: ae623ce0e219f2db9919c713bb301dcc
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 8f61c128678bff4f52d84872a8b0915c
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: ae623ce0e219f2db9919c713bb301dcc
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bae8190ba417901a2d51e91186852940
+  - id: Video-YouTube-Stream
+    media_location: dW0f62lcCLE
+    parent_uid: ae623ce0e219f2db9919c713bb301dcc
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9d2510202b79c1fff892f235fa6e1a3c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/dW0f62lcCLE/default.jpg'
+    parent_uid: ae623ce0e219f2db9919c713bb301dcc
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 65663e0f1c20abcc7cb8d5f65afdf3ec
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: dW0f62lcCLE
+    parent_uid: ae623ce0e219f2db9919c713bb301dcc
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: aac5077e78ed3f6980f0ba181cf61ce1
+  - id: dW0f62lcCLE.srt
+    parent_uid: ae623ce0e219f2db9919c713bb301dcc
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/euclidean-algorithm-video/euclidean-algorithm/dW0f62lcCLE.srt
+    title: 3play caption file
+    type: null
+    uid: 31698b230ee676ac49664c4c8e4199de
+  - id: dW0f62lcCLE.pdf
+    parent_uid: ae623ce0e219f2db9919c713bb301dcc
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/euclidean-algorithm-video/euclidean-algorithm/dW0f62lcCLE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4fd8d40e6c7bc75a87e4c2a44dc88e27
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ae623ce0e219f2db9919c713bb301dcc
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: aa100d66e7189683c07a1ec2dfcdf525
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ae623ce0e219f2db9919c713bb301dcc
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 16a890506b7aace6e5c4734c4d9ffcb4
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_gcd_euclid_ipod.mp4'
+    parent_uid: ae623ce0e219f2db9919c713bb301dcc
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 216a037b69e12774716f113c54a0f10f
+inline_embed_id: 58226572euclideanalgorithm43389887
 parent_uid: b0f86e4b63f0d0f58ef1b5a8f357f718
+related_resources_text: ''
+short_url: euclidean-algorithm
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/euclidean-algorithm-video/euclidean-algorithm
-short_url: euclidean-algorithm
-inline_embed_id: 58226572euclideanalgorithm43389887
-about_this_resource_text: ''
-related_resources_text: ''
+title: Euclidean Algorithm
 transcript: >-
   <p><span m='820'>PROFESSOR: The</span> <span m='950'>greatest</span> <span
   m='1400'>common</span> <span m='1780'>divisor</span> <span m='2330'>of</span>
@@ -681,66 +740,7 @@ transcript: >-
   m='566100'>GCD</span> <span m='566770'>algorithm</span> <span
   m='567570'>is</span> <span m='567790'>really</span> <span
   m='568540'>very</span> <span m='568920'>efficient.</span> </p>
-embedded_media:
-  - uid: 8f61c128678bff4f52d84872a8b0915c
-    parent_uid: ae623ce0e219f2db9919c713bb301dcc
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: bae8190ba417901a2d51e91186852940
-    parent_uid: ae623ce0e219f2db9919c713bb301dcc
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 9d2510202b79c1fff892f235fa6e1a3c
-    parent_uid: ae623ce0e219f2db9919c713bb301dcc
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: dW0f62lcCLE
-  - uid: 65663e0f1c20abcc7cb8d5f65afdf3ec
-    parent_uid: ae623ce0e219f2db9919c713bb301dcc
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/dW0f62lcCLE/default.jpg'
-  - uid: aac5077e78ed3f6980f0ba181cf61ce1
-    parent_uid: ae623ce0e219f2db9919c713bb301dcc
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: dW0f62lcCLE
-  - uid: 31698b230ee676ac49664c4c8e4199de
-    parent_uid: ae623ce0e219f2db9919c713bb301dcc
-    id: dW0f62lcCLE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/euclidean-algorithm-video/euclidean-algorithm/dW0f62lcCLE.srt
-  - uid: 4fd8d40e6c7bc75a87e4c2a44dc88e27
-    parent_uid: ae623ce0e219f2db9919c713bb301dcc
-    id: dW0f62lcCLE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/euclidean-algorithm-video/euclidean-algorithm/dW0f62lcCLE.pdf
-  - uid: aa100d66e7189683c07a1ec2dfcdf525
-    parent_uid: ae623ce0e219f2db9919c713bb301dcc
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 16a890506b7aace6e5c4734c4d9ffcb4
-    parent_uid: ae623ce0e219f2db9919c713bb301dcc
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 216a037b69e12774716f113c54a0f10f
-    parent_uid: ae623ce0e219f2db9919c713bb301dcc
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_gcd_euclid_ipod.mp4'
+uid: ae623ce0e219f2db9919c713bb301dcc
 type: courses
 layout: video
 ---

@@ -1,13 +1,67 @@
 ---
-title: 'Graphs, Networks, Incidence Matrices'
-uid: 98f3eaba94dba59383b1e1112df4529e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 6-wh6yvk6uc
+    parent_uid: 98f3eaba94dba59383b1e1112df4529e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: cd3ae01eb50fa0e5c6c52bb750a87da6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/6-wh6yvk6uc/default.jpg'
+    parent_uid: 98f3eaba94dba59383b1e1112df4529e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 22b392508eeef814164070837bb3cb05
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 98f3eaba94dba59383b1e1112df4529e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8e56633761b8d671c12c73eed970dd29
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/12.mp4'
+    parent_uid: 98f3eaba94dba59383b1e1112df4529e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ddfcf3337db42a04d50a34ed374c03e3
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 6-wh6yvk6uc
+    parent_uid: 98f3eaba94dba59383b1e1112df4529e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e6be7ed1711c2a23ae7ba7469f4c8d3b
+  - id: 6-wh6yvk6uc.srt
+    parent_uid: 98f3eaba94dba59383b1e1112df4529e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/graphs-networks-incidence-matrices/6-wh6yvk6uc.srt
+    title: 3play caption file
+    type: null
+    uid: b2353ccb012b52c468576734c2a3dfad
+  - id: 6-wh6yvk6uc.pdf
+    parent_uid: 98f3eaba94dba59383b1e1112df4529e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/graphs-networks-incidence-matrices/6-wh6yvk6uc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 312bbaf2d0a0a4184087f883a64ad197
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 98f3eaba94dba59383b1e1112df4529e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b8d67a7cbfb311114ec90ed654492aeb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 98f3eaba94dba59383b1e1112df4529e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5a317050e39434020c93ee51f59507a0
+inline_embed_id: 85490428graphsnetworksincidencematrices28745724
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: graphs-networks-incidence-matrices
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/graphs-networks-incidence-matrices
-short_url: graphs-networks-incidence-matrices
-inline_embed_id: 85490428graphsnetworksincidencematrices28745724
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Graphs, Networks, Incidence Matrices'
 transcript: >-
   <p><span m="12150">This</span> <span m="12430">is</span> <span
   m="12860">lecture</span> <span m="13310">twelve.</span> <span
@@ -2629,61 +2683,7 @@ transcript: >-
   m="2860690">get</span> <span m="2860930">to</span> <span
   m="2861050">tell</span> <span m="2861190">me.</span></p><p><span
   m="2861230">Thanks.</span></p>
-embedded_media:
-  - uid: cd3ae01eb50fa0e5c6c52bb750a87da6
-    parent_uid: 98f3eaba94dba59383b1e1112df4529e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 6-wh6yvk6uc
-  - uid: 22b392508eeef814164070837bb3cb05
-    parent_uid: 98f3eaba94dba59383b1e1112df4529e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/6-wh6yvk6uc/default.jpg'
-  - uid: 8e56633761b8d671c12c73eed970dd29
-    parent_uid: 98f3eaba94dba59383b1e1112df4529e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: ddfcf3337db42a04d50a34ed374c03e3
-    parent_uid: 98f3eaba94dba59383b1e1112df4529e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/12.mp4'
-  - uid: e6be7ed1711c2a23ae7ba7469f4c8d3b
-    parent_uid: 98f3eaba94dba59383b1e1112df4529e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 6-wh6yvk6uc
-  - uid: b2353ccb012b52c468576734c2a3dfad
-    parent_uid: 98f3eaba94dba59383b1e1112df4529e
-    id: 6-wh6yvk6uc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/graphs-networks-incidence-matrices/6-wh6yvk6uc.srt
-  - uid: 312bbaf2d0a0a4184087f883a64ad197
-    parent_uid: 98f3eaba94dba59383b1e1112df4529e
-    id: 6-wh6yvk6uc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/graphs-networks-incidence-matrices/6-wh6yvk6uc.pdf
-  - uid: b8d67a7cbfb311114ec90ed654492aeb
-    parent_uid: 98f3eaba94dba59383b1e1112df4529e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5a317050e39434020c93ee51f59507a0
-    parent_uid: 98f3eaba94dba59383b1e1112df4529e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 98f3eaba94dba59383b1e1112df4529e
 type: courses
 layout: video
 ---

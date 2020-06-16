@@ -1,13 +1,67 @@
 ---
-title: Chain Rule
-uid: 2719731057c3ed0e060d8ec516b3f293
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: aeQA5d3gZTI
+    parent_uid: 2719731057c3ed0e060d8ec516b3f293
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3e61c0813bba86aa2a83dc83c9cf1f14
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/aeQA5d3gZTI/default.jpg'
+    parent_uid: 2719731057c3ed0e060d8ec516b3f293
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 37baeca696e6a6859e1c392a3a86462f
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/podcast/chain-rule/id414308064?i=90318990'
+    parent_uid: 2719731057c3ed0e060d8ec516b3f293
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: fb999a5c0f225b529e089c83d9105761
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_09_300k.mp4'
+    parent_uid: 2719731057c3ed0e060d8ec516b3f293
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f3a2d15e63ed30e7c449aaad0c2875bd
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: aeQA5d3gZTI
+    parent_uid: 2719731057c3ed0e060d8ec516b3f293
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0c26bf7fe6362b4f73db3a3790d0c45e
+  - id: aeQA5d3gZTI.srt
+    parent_uid: 2719731057c3ed0e060d8ec516b3f293
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/chain-rule/aeQA5d3gZTI.srt
+    title: 3play caption file
+    type: null
+    uid: dd92b5f9ef7a8286fc1b72ae64eb1286
+  - id: aeQA5d3gZTI.pdf
+    parent_uid: 2719731057c3ed0e060d8ec516b3f293
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/chain-rule/aeQA5d3gZTI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 00c4f5a8ff61b19e63059634b4333a2c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2719731057c3ed0e060d8ec516b3f293
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bbbed8a69e4aabbeb92a57fbb35c023e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2719731057c3ed0e060d8ec516b3f293
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9140cbb2878bc42274c280d22aeb1e71
+inline_embed_id: 20072249chainrule29895614
 parent_uid: 68feb14ba590b3b088c989717ae12492
+related_resources_text: ''
+short_url: chain-rule
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/chain-rule
-short_url: chain-rule
-inline_embed_id: 20072249chainrule29895614
-about_this_resource_text: ''
-related_resources_text: ''
+title: Chain Rule
 transcript: >-
   <p><span m='7170'>PROFESSOR: Welcome</span> <span m='7610'>back to</span>
   <span m='7840'>recitation.</span> <span m='8980'>In</span> <span
@@ -518,61 +572,7 @@ transcript: >-
   m='458170'>I'm</span> <span m='458300'>allowed</span> <span
   m='458560'>to</span> <span m='458670'>stop</span> <span
   m='459070'>there.</span> </p>
-embedded_media:
-  - uid: 3e61c0813bba86aa2a83dc83c9cf1f14
-    parent_uid: 2719731057c3ed0e060d8ec516b3f293
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: aeQA5d3gZTI
-  - uid: 37baeca696e6a6859e1c392a3a86462f
-    parent_uid: 2719731057c3ed0e060d8ec516b3f293
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/aeQA5d3gZTI/default.jpg'
-  - uid: fb999a5c0f225b529e089c83d9105761
-    parent_uid: 2719731057c3ed0e060d8ec516b3f293
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/podcast/chain-rule/id414308064?i=90318990'
-  - uid: f3a2d15e63ed30e7c449aaad0c2875bd
-    parent_uid: 2719731057c3ed0e060d8ec516b3f293
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_09_300k.mp4'
-  - uid: 0c26bf7fe6362b4f73db3a3790d0c45e
-    parent_uid: 2719731057c3ed0e060d8ec516b3f293
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: aeQA5d3gZTI
-  - uid: dd92b5f9ef7a8286fc1b72ae64eb1286
-    parent_uid: 2719731057c3ed0e060d8ec516b3f293
-    id: aeQA5d3gZTI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/chain-rule/aeQA5d3gZTI.srt
-  - uid: 00c4f5a8ff61b19e63059634b4333a2c
-    parent_uid: 2719731057c3ed0e060d8ec516b3f293
-    id: aeQA5d3gZTI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/chain-rule/aeQA5d3gZTI.pdf
-  - uid: bbbed8a69e4aabbeb92a57fbb35c023e
-    parent_uid: 2719731057c3ed0e060d8ec516b3f293
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9140cbb2878bc42274c280d22aeb1e71
-    parent_uid: 2719731057c3ed0e060d8ec516b3f293
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 2719731057c3ed0e060d8ec516b3f293
 type: courses
 layout: video
 ---

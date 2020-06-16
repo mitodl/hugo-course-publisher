@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 5: Stochastic Processes I'
-uid: 2eb19d751209d9614c33db7c9bba685a
+about_this_resource_text: "<p><strong>Description:</strong> This lecture introduces stochastic processes, including random walks and Markov chains.</p>\r\n<p><strong>Instructor:</strong> Dr. Choongbum Lee</p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: TuTmC8aOQJE
+    parent_uid: 2eb19d751209d9614c33db7c9bba685a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3a3b6d60540483bfa70e799b48d87a94
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TuTmC8aOQJE/default.jpg'
+    parent_uid: 2eb19d751209d9614c33db7c9bba685a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e8d04eef93dda4cd46bae6e05ea7ade6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: 2eb19d751209d9614c33db7c9bba685a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: cd3dd1d67304e98113d1846b5d359101
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec05_300k.mp4'
+    parent_uid: 2eb19d751209d9614c33db7c9bba685a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6fa123aaa6a25b142df5f3958f6c2ab3
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: TuTmC8aOQJE
+    parent_uid: 2eb19d751209d9614c33db7c9bba685a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bda415eb4f05c5e16fa39d3f8ac02644
+  - id: TuTmC8aOQJE.srt
+    parent_uid: 2eb19d751209d9614c33db7c9bba685a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-5-stochastic-processes-i/TuTmC8aOQJE.srt
+    title: 3play caption file
+    type: null
+    uid: ee554716f76936fa38d85d7d8edfc4f3
+  - id: TuTmC8aOQJE.pdf
+    parent_uid: 2eb19d751209d9614c33db7c9bba685a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-5-stochastic-processes-i/TuTmC8aOQJE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1cfe28fa1f8db6b15de2e693a0f712e9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2eb19d751209d9614c33db7c9bba685a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3b8820c732f877a20d75488ce6b704af
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2eb19d751209d9614c33db7c9bba685a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bbe96b731bee4daf0b1b34f2908356e7
+inline_embed_id: '63570613lecture5:stochasticprocessesi73302036'
 parent_uid: d23a85587c0c7524ea054e655c999532
+related_resources_text: ''
+short_url: lecture-5-stochastic-processes-i
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-5-stochastic-processes-i
-short_url: lecture-5-stochastic-processes-i
-inline_embed_id: '63570613lecture5:stochasticprocessesi73302036'
-about_this_resource_text: "<p><strong>Description:</strong> This lecture introduces stochastic processes, including random walks and Markov chains.</p>\r\n<p><strong>Instructor:</strong> Dr. Choongbum Lee</p>"
-related_resources_text: ''
+title: 'Lecture 5: Stochastic Processes I'
 transcript: >-
   <p><span m='60'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -3468,61 +3522,7 @@ transcript: >-
   m='4657370'>wonderful</span> <span m='4657670'>lectures.</span> <span
   m='4659470'>See you</span> <span m='4659770'>next</span> <span
   m='4660070'>week.</span> </p>
-embedded_media:
-  - uid: 3a3b6d60540483bfa70e799b48d87a94
-    parent_uid: 2eb19d751209d9614c33db7c9bba685a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TuTmC8aOQJE
-  - uid: e8d04eef93dda4cd46bae6e05ea7ade6
-    parent_uid: 2eb19d751209d9614c33db7c9bba685a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TuTmC8aOQJE/default.jpg'
-  - uid: cd3dd1d67304e98113d1846b5d359101
-    parent_uid: 2eb19d751209d9614c33db7c9bba685a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: 6fa123aaa6a25b142df5f3958f6c2ab3
-    parent_uid: 2eb19d751209d9614c33db7c9bba685a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec05_300k.mp4'
-  - uid: bda415eb4f05c5e16fa39d3f8ac02644
-    parent_uid: 2eb19d751209d9614c33db7c9bba685a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TuTmC8aOQJE
-  - uid: ee554716f76936fa38d85d7d8edfc4f3
-    parent_uid: 2eb19d751209d9614c33db7c9bba685a
-    id: TuTmC8aOQJE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-5-stochastic-processes-i/TuTmC8aOQJE.srt
-  - uid: 1cfe28fa1f8db6b15de2e693a0f712e9
-    parent_uid: 2eb19d751209d9614c33db7c9bba685a
-    id: TuTmC8aOQJE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-5-stochastic-processes-i/TuTmC8aOQJE.pdf
-  - uid: 3b8820c732f877a20d75488ce6b704af
-    parent_uid: 2eb19d751209d9614c33db7c9bba685a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bbe96b731bee4daf0b1b34f2908356e7
-    parent_uid: 2eb19d751209d9614c33db7c9bba685a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 2eb19d751209d9614c33db7c9bba685a
 type: courses
 layout: video
 ---

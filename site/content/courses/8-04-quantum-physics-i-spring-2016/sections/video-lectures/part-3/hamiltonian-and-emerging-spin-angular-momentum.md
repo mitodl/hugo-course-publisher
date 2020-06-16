@@ -1,13 +1,67 @@
 ---
-title: Hamiltonian and emerging spin angular momentum
-uid: fe9707873fef5f52f5f6436e628768a9
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 8NKsBpjXRt0
+    parent_uid: fe9707873fef5f52f5f6436e628768a9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bcccd53e63b71cda19b61ee50c51d681
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/8NKsBpjXRt0/default.jpg'
+    parent_uid: fe9707873fef5f52f5f6436e628768a9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8f4cd5f20b45d71a3a4613b0a759cc0a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 8NKsBpjXRt0
+    parent_uid: fe9707873fef5f52f5f6436e628768a9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 031ad49abee24f80e5decef77ecc4e98
+  - id: 8NKsBpjXRt0.srt
+    parent_uid: fe9707873fef5f52f5f6436e628768a9
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/hamiltonian-and-emerging-spin-angular-momentum/8NKsBpjXRt0.srt
+    title: 3play caption file
+    type: null
+    uid: 2d1b611452d19369a36c6f14c1924946
+  - id: 8NKsBpjXRt0.pdf
+    parent_uid: fe9707873fef5f52f5f6436e628768a9
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/hamiltonian-and-emerging-spin-angular-momentum/8NKsBpjXRt0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1aa1caad11a0ebe332065e9440fbf410
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fe9707873fef5f52f5f6436e628768a9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 73d2a59236e28a2ed98bfa3d8af99ae0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fe9707873fef5f52f5f6436e628768a9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 930fb223cda37c1d96616afd8b4fd4ad
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: fe9707873fef5f52f5f6436e628768a9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 74a3d549879b1efd231d4a3962368faa
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec24_s3_300k.mp4'
+    parent_uid: fe9707873fef5f52f5f6436e628768a9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 77d3a7300bb0f99882825f6e42daba0a
+inline_embed_id: 34575433hamiltonianandemergingspinangularmomentum55359417
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: hamiltonian-and-emerging-spin-angular-momentum
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/hamiltonian-and-emerging-spin-angular-momentum
-short_url: hamiltonian-and-emerging-spin-angular-momentum
-inline_embed_id: 34575433hamiltonianandemergingspinangularmomentum55359417
-about_this_resource_text: ''
-related_resources_text: ''
+title: Hamiltonian and emerging spin angular momentum
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='400'>Here</span> <span m='630'>is
   where</span> <span m='870'>the</span> <span m='1020'>power</span> <span
@@ -698,61 +752,7 @@ transcript: >-
   m='940600'>of</span> <span m='940720'>different</span> <span
   m='941140'>fluids</span> <span m='941710'>in</span> <span
   m='941860'>the</span> <span m='941980'>body.</span> </p>
-embedded_media:
-  - uid: bcccd53e63b71cda19b61ee50c51d681
-    parent_uid: fe9707873fef5f52f5f6436e628768a9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 8NKsBpjXRt0
-  - uid: 8f4cd5f20b45d71a3a4613b0a759cc0a
-    parent_uid: fe9707873fef5f52f5f6436e628768a9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8NKsBpjXRt0/default.jpg'
-  - uid: 031ad49abee24f80e5decef77ecc4e98
-    parent_uid: fe9707873fef5f52f5f6436e628768a9
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 8NKsBpjXRt0
-  - uid: 2d1b611452d19369a36c6f14c1924946
-    parent_uid: fe9707873fef5f52f5f6436e628768a9
-    id: 8NKsBpjXRt0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/hamiltonian-and-emerging-spin-angular-momentum/8NKsBpjXRt0.srt
-  - uid: 1aa1caad11a0ebe332065e9440fbf410
-    parent_uid: fe9707873fef5f52f5f6436e628768a9
-    id: 8NKsBpjXRt0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/hamiltonian-and-emerging-spin-angular-momentum/8NKsBpjXRt0.pdf
-  - uid: 73d2a59236e28a2ed98bfa3d8af99ae0
-    parent_uid: fe9707873fef5f52f5f6436e628768a9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 930fb223cda37c1d96616afd8b4fd4ad
-    parent_uid: fe9707873fef5f52f5f6436e628768a9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 74a3d549879b1efd231d4a3962368faa
-    parent_uid: fe9707873fef5f52f5f6436e628768a9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 77d3a7300bb0f99882825f6e42daba0a
-    parent_uid: fe9707873fef5f52f5f6436e628768a9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec24_s3_300k.mp4'
+uid: fe9707873fef5f52f5f6436e628768a9
 type: courses
 layout: video
 ---

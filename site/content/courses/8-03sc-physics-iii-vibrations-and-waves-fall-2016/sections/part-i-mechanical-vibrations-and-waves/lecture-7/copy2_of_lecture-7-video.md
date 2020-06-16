@@ -1,13 +1,61 @@
 ---
-title: Vibrating Spring (Hand Driven)
-uid: 68eed15b988bd9608a7500504c08ffe1
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: b1eKhyC9TTo
+    parent_uid: 68eed15b988bd9608a7500504c08ffe1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f2fd6e3c90cf64b32db2251f8b5affab
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/b1eKhyC9TTo/default.jpg'
+    parent_uid: 68eed15b988bd9608a7500504c08ffe1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2d2382c322ec6b1f66c274048ff42df7
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: b1eKhyC9TTo
+    parent_uid: 68eed15b988bd9608a7500504c08ffe1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8ec4e06b7f1564f344fa4dd67ea11e97
+  - id: b1eKhyC9TTo.srt
+    parent_uid: 68eed15b988bd9608a7500504c08ffe1
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-7/copy2_of_lecture-7-video/b1eKhyC9TTo.srt
+    title: 3play caption file
+    type: null
+    uid: 4026a385fe41a29e992b742cd59afd2b
+  - id: b1eKhyC9TTo.pdf
+    parent_uid: 68eed15b988bd9608a7500504c08ffe1
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-7/copy2_of_lecture-7-video/b1eKhyC9TTo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 27b5041ed0bf4c5e9ad8efb4b6192492
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 68eed15b988bd9608a7500504c08ffe1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5cf8277f8712a3a414ddac7217951cb8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 68eed15b988bd9608a7500504c08ffe1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b3065b0a8385ce50cbcf87e88687c576
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec07_300k.mp4'
+    parent_uid: 68eed15b988bd9608a7500504c08ffe1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d9a468054a995376dd0d48eb917b7a99
+inline_embed_id: 86164654lecture7videop236851672
 parent_uid: aa7bcfd6ec863e35a88d1a5eba2076b6
+related_resources_text: ''
+short_url: copy2_of_lecture-7-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-7/copy2_of_lecture-7-video
-short_url: copy2_of_lecture-7-video
-inline_embed_id: 86164654lecture7videop236851672
-about_this_resource_text: ''
-related_resources_text: ''
+title: Vibrating Spring (Hand Driven)
 transcript: >-
   <p><span m="2120">The</span> <span m="2210">following</span> <span
   m="2660">content</span> <span m="3140">is</span> <span
@@ -4044,55 +4092,7 @@ transcript: >-
   m="4464770">very</span> <span m="4465080">happy</span> <span
   m="4465410">to</span> <span m="4465600">answer</span> <span
   m="4465890">your</span> <span m="4466000">questions.</span></p>
-embedded_media:
-  - uid: f2fd6e3c90cf64b32db2251f8b5affab
-    parent_uid: 68eed15b988bd9608a7500504c08ffe1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: b1eKhyC9TTo
-  - uid: 2d2382c322ec6b1f66c274048ff42df7
-    parent_uid: 68eed15b988bd9608a7500504c08ffe1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/b1eKhyC9TTo/default.jpg'
-  - uid: 8ec4e06b7f1564f344fa4dd67ea11e97
-    parent_uid: 68eed15b988bd9608a7500504c08ffe1
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: b1eKhyC9TTo
-  - uid: 4026a385fe41a29e992b742cd59afd2b
-    parent_uid: 68eed15b988bd9608a7500504c08ffe1
-    id: b1eKhyC9TTo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-7/copy2_of_lecture-7-video/b1eKhyC9TTo.srt
-  - uid: 27b5041ed0bf4c5e9ad8efb4b6192492
-    parent_uid: 68eed15b988bd9608a7500504c08ffe1
-    id: b1eKhyC9TTo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-7/copy2_of_lecture-7-video/b1eKhyC9TTo.pdf
-  - uid: 5cf8277f8712a3a414ddac7217951cb8
-    parent_uid: 68eed15b988bd9608a7500504c08ffe1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b3065b0a8385ce50cbcf87e88687c576
-    parent_uid: 68eed15b988bd9608a7500504c08ffe1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d9a468054a995376dd0d48eb917b7a99
-    parent_uid: 68eed15b988bd9608a7500504c08ffe1
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec07_300k.mp4'
+uid: 68eed15b988bd9608a7500504c08ffe1
 type: courses
 layout: video
 ---

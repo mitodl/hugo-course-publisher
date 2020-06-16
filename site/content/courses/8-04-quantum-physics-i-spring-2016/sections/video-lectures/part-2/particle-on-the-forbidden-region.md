@@ -1,13 +1,67 @@
 ---
-title: Particle on the forbidden region
-uid: c69a097e066525be9101aab64bd286f1
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: lA8-N_ARHTw
+    parent_uid: c69a097e066525be9101aab64bd286f1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d8ba1fd6e1a802edda83401342bd3c20
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/lA8-N_ARHTw/default.jpg'
+    parent_uid: c69a097e066525be9101aab64bd286f1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9cd26555f251a7da320be0702d8ffec0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: lA8-N_ARHTw
+    parent_uid: c69a097e066525be9101aab64bd286f1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 420f48e9c4eae7d2b819b1c830a3cadd
+  - id: lA8-N_ARHTw.srt
+    parent_uid: c69a097e066525be9101aab64bd286f1
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/particle-on-the-forbidden-region/lA8-N_ARHTw.srt
+    title: 3play caption file
+    type: null
+    uid: 8247bea71e15f2c7778e472cc3bc0a7b
+  - id: lA8-N_ARHTw.pdf
+    parent_uid: c69a097e066525be9101aab64bd286f1
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/particle-on-the-forbidden-region/lA8-N_ARHTw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9143d4113abdda4b5044d0545ca18879
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c69a097e066525be9101aab64bd286f1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f051a92e8c493e958050fcd83aed84d7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c69a097e066525be9101aab64bd286f1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 808747af4b38fd9b0664f95240ba2bcb
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: c69a097e066525be9101aab64bd286f1
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1d3a06ad44af8f847ac0745784fc550c
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec16_s6_300k.mp4'
+    parent_uid: c69a097e066525be9101aab64bd286f1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 156342b12e3b0e0ffb2605d9accfdbb2
+inline_embed_id: 67370711particleontheforbiddenregion42197321
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: particle-on-the-forbidden-region
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/particle-on-the-forbidden-region
-short_url: particle-on-the-forbidden-region
-inline_embed_id: 67370711particleontheforbiddenregion42197321
-about_this_resource_text: ''
-related_resources_text: ''
+title: Particle on the forbidden region
 transcript: >-
   <p><span m='690'>PROFESSOR:</span> <span m='780'>We</span> <span
   m='870'>have</span> <span m='1050'>found</span> <span m='3530'>in</span> <span
@@ -339,61 +393,7 @@ transcript: >-
   m='406560'>normal</span> <span m='407210'>particle.</span> <span
   m='407580'>Nothing</span> <span m='407970'>strange</span> <span
   m='408500'>about it.</span> </p>
-embedded_media:
-  - uid: d8ba1fd6e1a802edda83401342bd3c20
-    parent_uid: c69a097e066525be9101aab64bd286f1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: lA8-N_ARHTw
-  - uid: 9cd26555f251a7da320be0702d8ffec0
-    parent_uid: c69a097e066525be9101aab64bd286f1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/lA8-N_ARHTw/default.jpg'
-  - uid: 420f48e9c4eae7d2b819b1c830a3cadd
-    parent_uid: c69a097e066525be9101aab64bd286f1
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: lA8-N_ARHTw
-  - uid: 8247bea71e15f2c7778e472cc3bc0a7b
-    parent_uid: c69a097e066525be9101aab64bd286f1
-    id: lA8-N_ARHTw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/particle-on-the-forbidden-region/lA8-N_ARHTw.srt
-  - uid: 9143d4113abdda4b5044d0545ca18879
-    parent_uid: c69a097e066525be9101aab64bd286f1
-    id: lA8-N_ARHTw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/particle-on-the-forbidden-region/lA8-N_ARHTw.pdf
-  - uid: f051a92e8c493e958050fcd83aed84d7
-    parent_uid: c69a097e066525be9101aab64bd286f1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 808747af4b38fd9b0664f95240ba2bcb
-    parent_uid: c69a097e066525be9101aab64bd286f1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1d3a06ad44af8f847ac0745784fc550c
-    parent_uid: c69a097e066525be9101aab64bd286f1
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 156342b12e3b0e0ffb2605d9accfdbb2
-    parent_uid: c69a097e066525be9101aab64bd286f1
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec16_s6_300k.mp4'
+uid: c69a097e066525be9101aab64bd286f1
 type: courses
 layout: video
 ---

@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 12: Time Series Analysis III'
-uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
-parent_uid: d23a85587c0c7524ea054e655c999532
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-12-time-series-analysis-iii
-short_url: lecture-12-time-series-analysis-iii
-inline_embed_id: '46458272lecture12:timeseriesanalysisiii49967010'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This is the last of three lectures
   introducing the topic of time series analysis, describing cointegration,
   cointegrated VAR models, linear state-space models, and Kalman filters.</p>
   <p><strong>Instructor:</strong> Dr. Peter Kempthorne</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 9G1IDAqrWkg
+    parent_uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2292e694d599ebf6bfbe9aea193078c7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/9G1IDAqrWkg/default.jpg'
+    parent_uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9be4bf63e584b1c6970bd5d4b9688e94
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7a69c42bb8dbf9137dcc4396a68dab7d
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec12_300k.mp4'
+    parent_uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3d155d15fea38a9fcdc6d09dadef15b4
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 9G1IDAqrWkg
+    parent_uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e6209beddf0961d0f608b8ddb53ca103
+  - id: 9G1IDAqrWkg.srt
+    parent_uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-12-time-series-analysis-iii/9G1IDAqrWkg.srt
+    title: 3play caption file
+    type: null
+    uid: a7f65985bdd5f6ffcbe26bdd875126f3
+  - id: 9G1IDAqrWkg.pdf
+    parent_uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-12-time-series-analysis-iii/9G1IDAqrWkg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 62029aee95b5e1cea62e5c9de977693e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bacb26100999ff7ccf8f2c35a249c2fd
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bd84aecae5e6d0d64e22b9698521cfae
+inline_embed_id: '46458272lecture12:timeseriesanalysisiii49967010'
+parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
+short_url: lecture-12-time-series-analysis-iii
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-12-time-series-analysis-iii
+title: 'Lecture 12: Time Series Analysis III'
 transcript: >-
   <p><span m='90'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -3710,61 +3764,7 @@ transcript: >-
   m='4652840'>filter.</span> <span m='4655250'>Let's</span> <span
   m='4655500'>finish</span> <span m='4655740'>there.</span> <span
   m='4656940'>Thank you.</span> </p>
-embedded_media:
-  - uid: 2292e694d599ebf6bfbe9aea193078c7
-    parent_uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 9G1IDAqrWkg
-  - uid: 9be4bf63e584b1c6970bd5d4b9688e94
-    parent_uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9G1IDAqrWkg/default.jpg'
-  - uid: 7a69c42bb8dbf9137dcc4396a68dab7d
-    parent_uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: 3d155d15fea38a9fcdc6d09dadef15b4
-    parent_uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec12_300k.mp4'
-  - uid: e6209beddf0961d0f608b8ddb53ca103
-    parent_uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 9G1IDAqrWkg
-  - uid: a7f65985bdd5f6ffcbe26bdd875126f3
-    parent_uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
-    id: 9G1IDAqrWkg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-12-time-series-analysis-iii/9G1IDAqrWkg.srt
-  - uid: 62029aee95b5e1cea62e5c9de977693e
-    parent_uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
-    id: 9G1IDAqrWkg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-12-time-series-analysis-iii/9G1IDAqrWkg.pdf
-  - uid: bacb26100999ff7ccf8f2c35a249c2fd
-    parent_uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bd84aecae5e6d0d64e22b9698521cfae
-    parent_uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: d8295c9bdbbc5b8c18c0fc46e131bd6c
 type: courses
 layout: video
 ---

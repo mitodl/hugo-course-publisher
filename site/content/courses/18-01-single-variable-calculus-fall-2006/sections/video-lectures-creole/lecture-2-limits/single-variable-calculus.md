@@ -1,13 +1,73 @@
 ---
-title: Single Variable Calculus
-uid: c92537d77c5106c289b7848d67b9d030
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ryLdyDrBfvI
+    parent_uid: c92537d77c5106c289b7848d67b9d030
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e49235efaefa78d4ca5f151be83593db
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
+    parent_uid: c92537d77c5106c289b7848d67b9d030
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a9c14fb9070c8f27d0d93127f5530bf9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ryLdyDrBfvI
+    parent_uid: c92537d77c5106c289b7848d67b9d030
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4e9e18baca2614871d8f43a96bd8244a
+  - id: ryLdyDrBfvI.srt
+    parent_uid: c92537d77c5106c289b7848d67b9d030
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures-creole/lecture-2-limits/single-variable-calculus/ryLdyDrBfvI.srt
+    title: 3play caption file
+    type: null
+    uid: 61b01ec7f54d7894f6b403f17598bf65
+  - id: ryLdyDrBfvI.pdf
+    parent_uid: c92537d77c5106c289b7848d67b9d030
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures-creole/lecture-2-limits/single-variable-calculus/ryLdyDrBfvI.pdf
+    title: 3play pdf file
+    type: null
+    uid: f00d88dba6d5fd4474ab46f5766eb5db
+  - id: Caption-OCW-SRT
+    parent_uid: c92537d77c5106c289b7848d67b9d030
+    title: Caption-OCW-SRT-Haitian Creole
+    type: Caption
+    uid: d5bc5b2aa8953454e4041b9d0d6f4c17
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c92537d77c5106c289b7848d67b9d030
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5367d9303c0505558caf4f3259126f2f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c92537d77c5106c289b7848d67b9d030
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3fca7e864f724db9ee276bf3f569b8f9
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
+    parent_uid: c92537d77c5106c289b7848d67b9d030
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c212fdc102e8dd66d625a03b9365957e
+  - id: 18_01_f07_lec02_Creole_new2.srt
+    parent_uid: c92537d77c5106c289b7848d67b9d030
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures-creole/lecture-2-limits/single-variable-calculus/18_01_f07_lec02_Creole_new2.srt
+    title: 18_01_f07_lec02_Creole_new2
+    type: null
+    uid: 4cde661010cee735cfc84d408eafe006
+inline_embed_id: 29980096singlevariablecalculus74601695
 parent_uid: 75c30ff21d4265dfb95d2fac19adc3dc
+related_resources_text: ''
+short_url: single-variable-calculus
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures-creole/lecture-2-limits/single-variable-calculus
-short_url: single-variable-calculus
-inline_embed_id: 29980096singlevariablecalculus74601695
-about_this_resource_text: ''
-related_resources_text: ''
+title: Single Variable Calculus
 transcript: >-
   <p><span m='110'>The</span> <span m='360'>following</span> <span
   m='1410'>content</span> <span m='1670'>is provided</span> <span
@@ -2559,67 +2619,7 @@ transcript: >-
   m='3162770'>me</span> <span m='3163230'>other</span> <span
   m='3163430'>stuff</span> <span m='3163770'>after</span> <span
   m='3164070'>lecture.</span> </p>
-embedded_media:
-  - uid: e49235efaefa78d4ca5f151be83593db
-    parent_uid: c92537d77c5106c289b7848d67b9d030
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ryLdyDrBfvI
-  - uid: a9c14fb9070c8f27d0d93127f5530bf9
-    parent_uid: c92537d77c5106c289b7848d67b9d030
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
-  - uid: 4e9e18baca2614871d8f43a96bd8244a
-    parent_uid: c92537d77c5106c289b7848d67b9d030
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ryLdyDrBfvI
-  - uid: 61b01ec7f54d7894f6b403f17598bf65
-    parent_uid: c92537d77c5106c289b7848d67b9d030
-    id: ryLdyDrBfvI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures-creole/lecture-2-limits/single-variable-calculus/ryLdyDrBfvI.srt
-  - uid: f00d88dba6d5fd4474ab46f5766eb5db
-    parent_uid: c92537d77c5106c289b7848d67b9d030
-    id: ryLdyDrBfvI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures-creole/lecture-2-limits/single-variable-calculus/ryLdyDrBfvI.pdf
-  - uid: d5bc5b2aa8953454e4041b9d0d6f4c17
-    parent_uid: c92537d77c5106c289b7848d67b9d030
-    id: Caption-OCW-SRT
-    title: Caption-OCW-SRT-Haitian Creole
-    type: Caption
-  - uid: 5367d9303c0505558caf4f3259126f2f
-    parent_uid: c92537d77c5106c289b7848d67b9d030
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3fca7e864f724db9ee276bf3f569b8f9
-    parent_uid: c92537d77c5106c289b7848d67b9d030
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c212fdc102e8dd66d625a03b9365957e
-    parent_uid: c92537d77c5106c289b7848d67b9d030
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
-  - uid: 4cde661010cee735cfc84d408eafe006
-    parent_uid: c92537d77c5106c289b7848d67b9d030
-    id: 18_01_f07_lec02_Creole_new2.srt
-    title: 18_01_f07_lec02_Creole_new2
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures-creole/lecture-2-limits/single-variable-calculus/18_01_f07_lec02_Creole_new2.srt
+uid: c92537d77c5106c289b7848d67b9d030
 type: courses
 layout: video
 ---

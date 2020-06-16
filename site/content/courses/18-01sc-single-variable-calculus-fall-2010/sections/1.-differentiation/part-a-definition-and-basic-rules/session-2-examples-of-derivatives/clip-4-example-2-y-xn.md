@@ -1,18 +1,72 @@
 ---
-title: 'Clip 4: Example 2: y=xn'
-uid: 884d82f15f1951da6cfea3fcd83fa713
-parent_uid: 29ef5f87bae9a94ad04425b8efabe1ac
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-2-examples-of-derivatives/clip-4-example-2-y-xn
-short_url: clip-4-example-2-y-xn
-inline_embed_id: '28742435clip4:example2:y=xn90390575'
 about_this_resource_text: >-
   <p>&raquo; <a target="_blank" title="Open in a new window."
   href="./resolveuid/b7a038cf84417db9072b4ad0f36f75ba">Accompanying Notes
   (PDF)</a></p> <p class="scholar_medsm">From Lecture 1 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-MP4
+    media_location: 7K1sB05pE0A
+    parent_uid: 884d82f15f1951da6cfea3fcd83fa713
+    title: Video-YouTube-MP4
+    type: Video
+    uid: 1b01dfc78abfe8f5ff80334aef12019c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/7K1sB05pE0A/default.jpg'
+    parent_uid: 884d82f15f1951da6cfea3fcd83fa713
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 060cde3d870712943a20e629749491f8
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec01_300k.mp4'
+    parent_uid: 884d82f15f1951da6cfea3fcd83fa713
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2da5a27288c612d8a48a4f8ddb7e9cb5
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 7K1sB05pE0A
+    parent_uid: 884d82f15f1951da6cfea3fcd83fa713
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ee953d017687b698df5304375ccf5cc2
+  - id: 7K1sB05pE0A.srt
+    parent_uid: 884d82f15f1951da6cfea3fcd83fa713
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-2-examples-of-derivatives/clip-4-example-2-y-xn/7K1sB05pE0A.srt
+    title: 3play caption file
+    type: null
+    uid: 511683351fc08974e67dc7e3d0fe15ef
+  - id: 7K1sB05pE0A.pdf
+    parent_uid: 884d82f15f1951da6cfea3fcd83fa713
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-2-examples-of-derivatives/clip-4-example-2-y-xn/7K1sB05pE0A.pdf
+    title: 3play pdf file
+    type: null
+    uid: d131aa705f56e5f2154e670281cbfb45
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 884d82f15f1951da6cfea3fcd83fa713
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c05adfb3c54513caa5135e3e07886e13
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 884d82f15f1951da6cfea3fcd83fa713
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ebcd9e98796f9b2b7dc6d5ae0c3e15c5
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 884d82f15f1951da6cfea3fcd83fa713
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1890bc6832a980c54f447434ea07504e
+inline_embed_id: '28742435clip4:example2:y=xn90390575'
+parent_uid: 29ef5f87bae9a94ad04425b8efabe1ac
 related_resources_text: ''
+short_url: clip-4-example-2-y-xn
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-2-examples-of-derivatives/clip-4-example-2-y-xn
+title: 'Clip 4: Example 2: y=xn'
 transcript: >-
   <p><span m="460">The</span> <span m="652">following</span> <span
   m="844">content</span> <span m="1036">is</span> <span m="1228">provided</span>
@@ -2482,61 +2536,7 @@ transcript: >-
   m="3087920">because</span> <span m="3088150">delta</span> <span m="3088240">x
   goes to 0.</span> <span m="3089910">OK,</span> <span m="3090740">see
   you</span> <span m="3090890">next</span> <span m="3091130">time.</span></p>
-embedded_media:
-  - uid: 1b01dfc78abfe8f5ff80334aef12019c
-    parent_uid: 884d82f15f1951da6cfea3fcd83fa713
-    id: Video-YouTube-MP4
-    title: Video-YouTube-MP4
-    type: Video
-    media_location: 7K1sB05pE0A
-  - uid: 060cde3d870712943a20e629749491f8
-    parent_uid: 884d82f15f1951da6cfea3fcd83fa713
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/7K1sB05pE0A/default.jpg'
-  - uid: 2da5a27288c612d8a48a4f8ddb7e9cb5
-    parent_uid: 884d82f15f1951da6cfea3fcd83fa713
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec01_300k.mp4'
-  - uid: ee953d017687b698df5304375ccf5cc2
-    parent_uid: 884d82f15f1951da6cfea3fcd83fa713
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 7K1sB05pE0A
-  - uid: 511683351fc08974e67dc7e3d0fe15ef
-    parent_uid: 884d82f15f1951da6cfea3fcd83fa713
-    id: 7K1sB05pE0A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-2-examples-of-derivatives/clip-4-example-2-y-xn/7K1sB05pE0A.srt
-  - uid: d131aa705f56e5f2154e670281cbfb45
-    parent_uid: 884d82f15f1951da6cfea3fcd83fa713
-    id: 7K1sB05pE0A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-2-examples-of-derivatives/clip-4-example-2-y-xn/7K1sB05pE0A.pdf
-  - uid: c05adfb3c54513caa5135e3e07886e13
-    parent_uid: 884d82f15f1951da6cfea3fcd83fa713
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ebcd9e98796f9b2b7dc6d5ae0c3e15c5
-    parent_uid: 884d82f15f1951da6cfea3fcd83fa713
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1890bc6832a980c54f447434ea07504e
-    parent_uid: 884d82f15f1951da6cfea3fcd83fa713
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 884d82f15f1951da6cfea3fcd83fa713
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: 'Line Integrals: Parametrization Independence'
-uid: 8ddb5decc227fa8eac2da0b3450ac361
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: tkAgpKg-tPs
+    parent_uid: 8ddb5decc227fa8eac2da0b3450ac361
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c3b1c4338fda1d2ed240ae1f3067a3cb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/tkAgpKg-tPs/default.jpg'
+    parent_uid: 8ddb5decc227fa8eac2da0b3450ac361
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fe73b8257f8ea822fe67354f863b7fa4
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_40_300k.mp4'
+    parent_uid: 8ddb5decc227fa8eac2da0b3450ac361
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 62724a73a3695c19f10b010a584af2fb
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/line-integrals-parametrization/id414355340?i=90322863
+    parent_uid: 8ddb5decc227fa8eac2da0b3450ac361
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: eff31774913ea0815ab3dd1d41e52f59
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: tkAgpKg-tPs
+    parent_uid: 8ddb5decc227fa8eac2da0b3450ac361
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9101789b74412803462ead9bed54774a
+  - id: tkAgpKg-tPs.srt
+    parent_uid: 8ddb5decc227fa8eac2da0b3450ac361
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-57-work-and-line-integrals/line-integrals-parametrization-independence/tkAgpKg-tPs.srt
+    title: 3play caption file
+    type: null
+    uid: e999803415cc44aee75f0ee6b394a0ad
+  - id: tkAgpKg-tPs.pdf
+    parent_uid: 8ddb5decc227fa8eac2da0b3450ac361
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-57-work-and-line-integrals/line-integrals-parametrization-independence/tkAgpKg-tPs.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3e241b10f02193d58d4e077941a45fe9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8ddb5decc227fa8eac2da0b3450ac361
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b7aece810919b50219ab1f3273e1105d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8ddb5decc227fa8eac2da0b3450ac361
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e95bf710b85b885a164de4d16fde8258
+inline_embed_id: '73137072lineintegrals:parametrizationindependence93419997'
 parent_uid: 966d4aa4c089ef8644151b6c0f5a967b
+related_resources_text: ''
+short_url: line-integrals-parametrization-independence
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-57-work-and-line-integrals/line-integrals-parametrization-independence
-short_url: line-integrals-parametrization-independence
-inline_embed_id: '73137072lineintegrals:parametrizationindependence93419997'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Line Integrals: Parametrization Independence'
 transcript: >-
   <p><span m='7780'>JOEL LEWIS: Hi.</span> <span m='8230'>Welcome</span> <span
   m='8540'>back</span> <span m='8760'>to</span> <span
@@ -813,62 +868,7 @@ transcript: >-
   <span m='747980'>vector</span> <span m='748270'>field.</span> <span
   m='748940'>I'll</span> <span m='749160'>end</span> <span
   m='749380'>there.</span> </p>
-embedded_media:
-  - uid: c3b1c4338fda1d2ed240ae1f3067a3cb
-    parent_uid: 8ddb5decc227fa8eac2da0b3450ac361
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: tkAgpKg-tPs
-  - uid: fe73b8257f8ea822fe67354f863b7fa4
-    parent_uid: 8ddb5decc227fa8eac2da0b3450ac361
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/tkAgpKg-tPs/default.jpg'
-  - uid: 62724a73a3695c19f10b010a584af2fb
-    parent_uid: 8ddb5decc227fa8eac2da0b3450ac361
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_40_300k.mp4'
-  - uid: eff31774913ea0815ab3dd1d41e52f59
-    parent_uid: 8ddb5decc227fa8eac2da0b3450ac361
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/line-integrals-parametrization/id414355340?i=90322863
-  - uid: 9101789b74412803462ead9bed54774a
-    parent_uid: 8ddb5decc227fa8eac2da0b3450ac361
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: tkAgpKg-tPs
-  - uid: e999803415cc44aee75f0ee6b394a0ad
-    parent_uid: 8ddb5decc227fa8eac2da0b3450ac361
-    id: tkAgpKg-tPs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-57-work-and-line-integrals/line-integrals-parametrization-independence/tkAgpKg-tPs.srt
-  - uid: 3e241b10f02193d58d4e077941a45fe9
-    parent_uid: 8ddb5decc227fa8eac2da0b3450ac361
-    id: tkAgpKg-tPs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-57-work-and-line-integrals/line-integrals-parametrization-independence/tkAgpKg-tPs.pdf
-  - uid: b7aece810919b50219ab1f3273e1105d
-    parent_uid: 8ddb5decc227fa8eac2da0b3450ac361
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e95bf710b85b885a164de4d16fde8258
-    parent_uid: 8ddb5decc227fa8eac2da0b3450ac361
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 8ddb5decc227fa8eac2da0b3450ac361
 type: courses
 layout: video
 ---

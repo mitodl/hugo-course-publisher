@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Similar Matrices'
-uid: 30230dff522f62737c2dc3a8698cbeaf
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: KUuxdk_V7To
+    parent_uid: 30230dff522f62737c2dc3a8698cbeaf
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e6c781b9dbbde220fbe27db9fbd7c893
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: KUuxdk_V7To
+    parent_uid: 30230dff522f62737c2dc3a8698cbeaf
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fa2faf23fb5960d0bc32b439f09d54f7
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/similar-matrices/id488155309?i=108454308
+    parent_uid: 30230dff522f62737c2dc3a8698cbeaf
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1b7287a43dac3ba50cce93c8137154d1
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110607_B1_300k.mp4
+    parent_uid: 30230dff522f62737c2dc3a8698cbeaf
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6f1733f633972305de8af217629414a3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/KUuxdk_V7To/default.jpg'
+    parent_uid: 30230dff522f62737c2dc3a8698cbeaf
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: dff4d8c27a79bde8b3ee7b760c2a1e37
+  - id: KUuxdk_V7To.srt
+    parent_uid: 30230dff522f62737c2dc3a8698cbeaf
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/similar-matrices-and-jordan-form/problem-solving-similar-matrices/KUuxdk_V7To.srt
+    title: 3play caption file
+    type: null
+    uid: e3e415ee803c81a64ef723f3fef45e09
+  - id: KUuxdk_V7To.pdf
+    parent_uid: 30230dff522f62737c2dc3a8698cbeaf
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/similar-matrices-and-jordan-form/problem-solving-similar-matrices/KUuxdk_V7To.pdf
+    title: 3play pdf file
+    type: null
+    uid: d884415d8533b2bce595c5817459c53f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 30230dff522f62737c2dc3a8698cbeaf
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: de59f88966f8892b95524554bf1fcd7f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 30230dff522f62737c2dc3a8698cbeaf
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b3649dd8e3dfa8d9df25aa0777574484
+inline_embed_id: '83783047problemsolving:similarmatrices2970725'
 parent_uid: b358f2d2863654b7503b47b34cc0953a
+related_resources_text: ''
+short_url: problem-solving-similar-matrices
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/similar-matrices-and-jordan-form/problem-solving-similar-matrices
-short_url: problem-solving-similar-matrices
-inline_embed_id: '83783047problemsolving:similarmatrices2970725'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Similar Matrices'
 transcript: >-
   <p><span m='5712'>BEN HARRIS:</span> <span m='6190'>Hi.</span> <span
   m='7090'>Today</span> <span m='7390'>we're</span> <span m='7530'>going</span>
@@ -384,63 +440,7 @@ transcript: >-
   m='487530'>are</span> <span m='487620'>different</span> <span
   m='488110'>are</span> <span m='488550'>not</span> <span
   m='489000'>similar.</span> <span m='490360'>Thanks.</span> </p>
-embedded_media:
-  - uid: e6c781b9dbbde220fbe27db9fbd7c893
-    parent_uid: 30230dff522f62737c2dc3a8698cbeaf
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: KUuxdk_V7To
-  - uid: fa2faf23fb5960d0bc32b439f09d54f7
-    parent_uid: 30230dff522f62737c2dc3a8698cbeaf
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: KUuxdk_V7To
-  - uid: 1b7287a43dac3ba50cce93c8137154d1
-    parent_uid: 30230dff522f62737c2dc3a8698cbeaf
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/similar-matrices/id488155309?i=108454308
-  - uid: 6f1733f633972305de8af217629414a3
-    parent_uid: 30230dff522f62737c2dc3a8698cbeaf
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110607_B1_300k.mp4
-  - uid: dff4d8c27a79bde8b3ee7b760c2a1e37
-    parent_uid: 30230dff522f62737c2dc3a8698cbeaf
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/KUuxdk_V7To/default.jpg'
-  - uid: e3e415ee803c81a64ef723f3fef45e09
-    parent_uid: 30230dff522f62737c2dc3a8698cbeaf
-    id: KUuxdk_V7To.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/similar-matrices-and-jordan-form/problem-solving-similar-matrices/KUuxdk_V7To.srt
-  - uid: d884415d8533b2bce595c5817459c53f
-    parent_uid: 30230dff522f62737c2dc3a8698cbeaf
-    id: KUuxdk_V7To.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/similar-matrices-and-jordan-form/problem-solving-similar-matrices/KUuxdk_V7To.pdf
-  - uid: de59f88966f8892b95524554bf1fcd7f
-    parent_uid: 30230dff522f62737c2dc3a8698cbeaf
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b3649dd8e3dfa8d9df25aa0777574484
-    parent_uid: 30230dff522f62737c2dc3a8698cbeaf
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 30230dff522f62737c2dc3a8698cbeaf
 type: courses
 layout: video
 ---

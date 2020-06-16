@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 20: Option Price and Probability Duality'
-uid: e00d0e7b0ecb827fec3232e96e004668
-parent_uid: d23a85587c0c7524ea054e655c999532
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-20-option-price-and-probability-duality
-short_url: lecture-20-option-price-and-probability-duality
-inline_embed_id: '32046784lecture20:optionpriceandprobabilityduality61892349'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This guest lecture focuses on option price
   and probability duality.</p> <p><strong>Instructor:</strong> Stephen
   Blythe</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: eG_aRPy1KVE
+    parent_uid: e00d0e7b0ecb827fec3232e96e004668
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d64c755f2f81f0b7ec2e4136f407d67d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/eG_aRPy1KVE/default.jpg'
+    parent_uid: e00d0e7b0ecb827fec3232e96e004668
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ef1cdecf3aa133db5c22fdd29255a665
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: e00d0e7b0ecb827fec3232e96e004668
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2db206d4e7b3f5684599aca2dd1e3afb
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec20_300k.mp4'
+    parent_uid: e00d0e7b0ecb827fec3232e96e004668
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c276af2bbd237c5cd64a1c8a715b4387
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: eG_aRPy1KVE
+    parent_uid: e00d0e7b0ecb827fec3232e96e004668
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5fe3e9a7e57de39724166411c3e322bc
+  - id: eG_aRPy1KVE.srt
+    parent_uid: e00d0e7b0ecb827fec3232e96e004668
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-20-option-price-and-probability-duality/eG_aRPy1KVE.srt
+    title: 3play caption file
+    type: null
+    uid: 4f9e412f6c6d42b6b440384d8d139a33
+  - id: eG_aRPy1KVE.pdf
+    parent_uid: e00d0e7b0ecb827fec3232e96e004668
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-20-option-price-and-probability-duality/eG_aRPy1KVE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 681ecdd52c5813a283f4a4065fd768fc
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e00d0e7b0ecb827fec3232e96e004668
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2c5f2a2a5417056e059272a540c43fe3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e00d0e7b0ecb827fec3232e96e004668
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0d70e17eb4d4d56b7c70d200100a0686
+inline_embed_id: '32046784lecture20:optionpriceandprobabilityduality61892349'
+parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
+short_url: lecture-20-option-price-and-probability-duality
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-20-option-price-and-probability-duality
+title: 'Lecture 20: Option Price and Probability Duality'
 transcript: >-
   <p><span m='60'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -4773,61 +4827,7 @@ transcript: >-
   m='4820590'>STEPHEN BLYTHE: That's</span> <span m='4821340'>correct.</span>
   <span m='4825630'>Right,</span> <span m='4825760'>thank you</span> <span
   m='4826025'>very much.</span> <span m='4826590'>Appreciate it.</span> </p>
-embedded_media:
-  - uid: d64c755f2f81f0b7ec2e4136f407d67d
-    parent_uid: e00d0e7b0ecb827fec3232e96e004668
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: eG_aRPy1KVE
-  - uid: ef1cdecf3aa133db5c22fdd29255a665
-    parent_uid: e00d0e7b0ecb827fec3232e96e004668
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/eG_aRPy1KVE/default.jpg'
-  - uid: 2db206d4e7b3f5684599aca2dd1e3afb
-    parent_uid: e00d0e7b0ecb827fec3232e96e004668
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: c276af2bbd237c5cd64a1c8a715b4387
-    parent_uid: e00d0e7b0ecb827fec3232e96e004668
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec20_300k.mp4'
-  - uid: 5fe3e9a7e57de39724166411c3e322bc
-    parent_uid: e00d0e7b0ecb827fec3232e96e004668
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: eG_aRPy1KVE
-  - uid: 4f9e412f6c6d42b6b440384d8d139a33
-    parent_uid: e00d0e7b0ecb827fec3232e96e004668
-    id: eG_aRPy1KVE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-20-option-price-and-probability-duality/eG_aRPy1KVE.srt
-  - uid: 681ecdd52c5813a283f4a4065fd768fc
-    parent_uid: e00d0e7b0ecb827fec3232e96e004668
-    id: eG_aRPy1KVE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-20-option-price-and-probability-duality/eG_aRPy1KVE.pdf
-  - uid: 2c5f2a2a5417056e059272a540c43fe3
-    parent_uid: e00d0e7b0ecb827fec3232e96e004668
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0d70e17eb4d4d56b7c70d200100a0686
-    parent_uid: e00d0e7b0ecb827fec3232e96e004668
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: e00d0e7b0ecb827fec3232e96e004668
 type: courses
 layout: video
 ---

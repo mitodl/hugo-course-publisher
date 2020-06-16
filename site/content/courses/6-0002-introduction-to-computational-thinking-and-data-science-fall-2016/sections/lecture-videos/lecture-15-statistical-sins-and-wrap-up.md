@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 15: Statistical Sins and Wrap Up'
-uid: 653a907d7277d2e715ad123758932dac
-parent_uid: dfe2b9f5ab127795415ac86facf4a535
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-15-statistical-sins-and-wrap-up
-short_url: lecture-15-statistical-sins-and-wrap-up
-inline_embed_id: 63391666lecture15statisticalsinsandwrapup69695180
 about_this_resource_text: >-
   <p><strong>Description:</strong> Prof. Guttag continues the conversation about
   statistical fallacies and summarizes the take-aways of the course.</p>
   <p><strong>Instructor:</strong> John Guttag</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: iOZVbILaIZc
+    parent_uid: 653a907d7277d2e715ad123758932dac
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 68c803628dd3cc6e0c48524625b92450
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/iOZVbILaIZc/default.jpg'
+    parent_uid: 653a907d7277d2e715ad123758932dac
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 17a41b871e6f2d0ad01b024105afdbef
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: iOZVbILaIZc
+    parent_uid: 653a907d7277d2e715ad123758932dac
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 854598796fd9b45d4e0f08a49c0b3803
+  - id: iOZVbILaIZc.srt
+    parent_uid: 653a907d7277d2e715ad123758932dac
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-15-statistical-sins-and-wrap-up/iOZVbILaIZc.srt
+    title: 3play caption file
+    type: null
+    uid: 3c9979f33cd08f97e9ca0fa3fb3e44b8
+  - id: iOZVbILaIZc.pdf
+    parent_uid: 653a907d7277d2e715ad123758932dac
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-15-statistical-sins-and-wrap-up/iOZVbILaIZc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 16e9ec022f34566085e928bc713b36d2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 653a907d7277d2e715ad123758932dac
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 786e85a05c75e9bdb739c35ceceb4aa3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 653a907d7277d2e715ad123758932dac
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 935fc2f1d46d16eb8bb9f8fb3544e630
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
+    parent_uid: 653a907d7277d2e715ad123758932dac
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8c60e5e1b84ea0aa2fc80b01f1499bb8
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec15_300k.mp4'
+    parent_uid: 653a907d7277d2e715ad123758932dac
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6cbff2f075216dc8a6a0e9e3ede1596f
+inline_embed_id: 63391666lecture15statisticalsinsandwrapup69695180
+parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
+short_url: lecture-15-statistical-sins-and-wrap-up
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-15-statistical-sins-and-wrap-up
+title: 'Lecture 15: Statistical Sins and Wrap Up'
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1330">content</span> <span m="1810">is</span> <span
@@ -2612,61 +2666,7 @@ transcript: >-
   m="2669940">you</span> <span m="2670060">for</span> <span
   m="2670180">being</span> <span m="2670480">here.</span></p><p><span
   m="2671980">[APPLAUSE]</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: 68c803628dd3cc6e0c48524625b92450
-    parent_uid: 653a907d7277d2e715ad123758932dac
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: iOZVbILaIZc
-  - uid: 17a41b871e6f2d0ad01b024105afdbef
-    parent_uid: 653a907d7277d2e715ad123758932dac
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/iOZVbILaIZc/default.jpg'
-  - uid: 854598796fd9b45d4e0f08a49c0b3803
-    parent_uid: 653a907d7277d2e715ad123758932dac
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: iOZVbILaIZc
-  - uid: 3c9979f33cd08f97e9ca0fa3fb3e44b8
-    parent_uid: 653a907d7277d2e715ad123758932dac
-    id: iOZVbILaIZc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-15-statistical-sins-and-wrap-up/iOZVbILaIZc.srt
-  - uid: 16e9ec022f34566085e928bc713b36d2
-    parent_uid: 653a907d7277d2e715ad123758932dac
-    id: iOZVbILaIZc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-15-statistical-sins-and-wrap-up/iOZVbILaIZc.pdf
-  - uid: 786e85a05c75e9bdb739c35ceceb4aa3
-    parent_uid: 653a907d7277d2e715ad123758932dac
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 935fc2f1d46d16eb8bb9f8fb3544e630
-    parent_uid: 653a907d7277d2e715ad123758932dac
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8c60e5e1b84ea0aa2fc80b01f1499bb8
-    parent_uid: 653a907d7277d2e715ad123758932dac
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
-  - uid: 6cbff2f075216dc8a6a0e9e3ede1596f
-    parent_uid: 653a907d7277d2e715ad123758932dac
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec15_300k.mp4'
+uid: 653a907d7277d2e715ad123758932dac
 type: courses
 layout: video
 ---

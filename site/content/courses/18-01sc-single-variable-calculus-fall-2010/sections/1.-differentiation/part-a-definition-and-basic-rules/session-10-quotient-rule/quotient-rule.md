@@ -1,13 +1,67 @@
 ---
-title: Quotient Rule
-uid: 564ba2e4f28fee58e81f934175f4436c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: D7nf7pKddwM
+    parent_uid: 564ba2e4f28fee58e81f934175f4436c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1378df8be980b29718bdd3c203a13c52
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/D7nf7pKddwM/default.jpg'
+    parent_uid: 564ba2e4f28fee58e81f934175f4436c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 05b28818a27aadb32dd08a28c041458b
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/podcast/quotient-rule/id414308064?i=90318982'
+    parent_uid: 564ba2e4f28fee58e81f934175f4436c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: df1fd37a990e71094960580d14e6ea6e
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_08_300k.mp4'
+    parent_uid: 564ba2e4f28fee58e81f934175f4436c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1e8aa4d83a95ffa4a4a6cbd103e6f310
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: D7nf7pKddwM
+    parent_uid: 564ba2e4f28fee58e81f934175f4436c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6c46116eab64f41bb04a9ad9028f8998
+  - id: D7nf7pKddwM.srt
+    parent_uid: 564ba2e4f28fee58e81f934175f4436c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule/quotient-rule/D7nf7pKddwM.srt
+    title: 3play caption file
+    type: null
+    uid: aaf73a57cbe3ca184efce29203c9f8b3
+  - id: D7nf7pKddwM.pdf
+    parent_uid: 564ba2e4f28fee58e81f934175f4436c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule/quotient-rule/D7nf7pKddwM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 98efc8351771ecacd32c109e58cba781
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 564ba2e4f28fee58e81f934175f4436c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7062143852cac45425c3378730df7833
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 564ba2e4f28fee58e81f934175f4436c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8df0db963f733d9a3942cb306b2e1c5f
+inline_embed_id: 16338963quotientrule19016264
 parent_uid: 94a0d0fdde324bb54b34d0ea12a6d94d
+related_resources_text: ''
+short_url: quotient-rule
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule/quotient-rule
-short_url: quotient-rule
-inline_embed_id: 16338963quotientrule19016264
-about_this_resource_text: ''
-related_resources_text: ''
+title: Quotient Rule
 transcript: >-
   <p><span m='7440'>PROFESSOR:</span> <span m='7635'>Welcome</span> <span
   m='7830'>back</span> <span m='8010'>to</span> <span
@@ -320,61 +374,7 @@ transcript: >-
   m='257280'>different</span> <span m='257570'>rules.</span> </p><p><span
   m='258540'>So</span> <span m='259150'>we'll</span> <span
   m='259320'>stop</span> <span m='259600'>there.</span> </p>
-embedded_media:
-  - uid: 1378df8be980b29718bdd3c203a13c52
-    parent_uid: 564ba2e4f28fee58e81f934175f4436c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: D7nf7pKddwM
-  - uid: 05b28818a27aadb32dd08a28c041458b
-    parent_uid: 564ba2e4f28fee58e81f934175f4436c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/D7nf7pKddwM/default.jpg'
-  - uid: df1fd37a990e71094960580d14e6ea6e
-    parent_uid: 564ba2e4f28fee58e81f934175f4436c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/podcast/quotient-rule/id414308064?i=90318982'
-  - uid: 1e8aa4d83a95ffa4a4a6cbd103e6f310
-    parent_uid: 564ba2e4f28fee58e81f934175f4436c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_08_300k.mp4'
-  - uid: 6c46116eab64f41bb04a9ad9028f8998
-    parent_uid: 564ba2e4f28fee58e81f934175f4436c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: D7nf7pKddwM
-  - uid: aaf73a57cbe3ca184efce29203c9f8b3
-    parent_uid: 564ba2e4f28fee58e81f934175f4436c
-    id: D7nf7pKddwM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule/quotient-rule/D7nf7pKddwM.srt
-  - uid: 98efc8351771ecacd32c109e58cba781
-    parent_uid: 564ba2e4f28fee58e81f934175f4436c
-    id: D7nf7pKddwM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-10-quotient-rule/quotient-rule/D7nf7pKddwM.pdf
-  - uid: 7062143852cac45425c3378730df7833
-    parent_uid: 564ba2e4f28fee58e81f934175f4436c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8df0db963f733d9a3942cb306b2e1c5f
-    parent_uid: 564ba2e4f28fee58e81f934175f4436c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 564ba2e4f28fee58e81f934175f4436c
 type: courses
 layout: video
 ---

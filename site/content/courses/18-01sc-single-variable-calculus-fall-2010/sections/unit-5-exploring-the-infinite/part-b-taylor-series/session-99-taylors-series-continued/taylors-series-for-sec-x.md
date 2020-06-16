@@ -1,13 +1,68 @@
 ---
-title: Taylor's Series for sec(x)
-uid: 4990e98d2e927c32672131168dd8010c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: FK1n3TVQIhc
+    parent_uid: 4990e98d2e927c32672131168dd8010c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 585bc2edd0dd024fab5a40d1618efd2a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/FK1n3TVQIhc/default.jpg'
+    parent_uid: 4990e98d2e927c32672131168dd8010c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d14f6b83a91d27cccb2738f159dd8ddd
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: FK1n3TVQIhc
+    parent_uid: 4990e98d2e927c32672131168dd8010c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7c74b1895713c33b8fcfb3acdb0d1321
+  - id: FK1n3TVQIhc.srt
+    parent_uid: 4990e98d2e927c32672131168dd8010c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-99-taylors-series-continued/taylors-series-for-sec-x/FK1n3TVQIhc.srt
+    title: 3play caption file
+    type: null
+    uid: ad4834267849daf6da7e5e5fd1c57e64
+  - id: FK1n3TVQIhc.pdf
+    parent_uid: 4990e98d2e927c32672131168dd8010c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-99-taylors-series-continued/taylors-series-for-sec-x/FK1n3TVQIhc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3eb1ed4926038376071292571b97d4e7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4990e98d2e927c32672131168dd8010c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c13f3d185e424805c983d6a8a876d9f0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4990e98d2e927c32672131168dd8010c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 001164a2c3e8bcd0f78961718cf61b33
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_81_300k.mp4'
+    parent_uid: 4990e98d2e927c32672131168dd8010c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3941704fdddcb84dc27973bfc92555cf
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/taylors-series-for-sec-x/id414308064?i=90320231
+    parent_uid: 4990e98d2e927c32672131168dd8010c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e73d0a9d07adc191bda79f86213797e9
+inline_embed_id: 99301824taylor'sseriesforsec(x)65479649
 parent_uid: 9714534fbc6217589e4ab69f5ad147a4
+related_resources_text: ''
+short_url: taylors-series-for-sec-x
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-99-taylors-series-continued/taylors-series-for-sec-x
-short_url: taylors-series-for-sec-x
-inline_embed_id: 99301824taylor'sseriesforsec(x)65479649
-about_this_resource_text: ''
-related_resources_text: ''
+title: Taylor's Series for sec(x)
 transcript: >-
   <p><span m='6930'>Hi.</span> <span m='7460'>Welcome</span> <span
   m='7780'>back</span> <span m='7980'>to</span> <span
@@ -860,62 +915,7 @@ transcript: >-
   m='696550'>the</span> <span m='696650'>coefficients.</span> </p><p><span
   m='697690'>I'll</span> <span m='697850'>end</span> <span
   m='698090'>there.</span> </p>
-embedded_media:
-  - uid: 585bc2edd0dd024fab5a40d1618efd2a
-    parent_uid: 4990e98d2e927c32672131168dd8010c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: FK1n3TVQIhc
-  - uid: d14f6b83a91d27cccb2738f159dd8ddd
-    parent_uid: 4990e98d2e927c32672131168dd8010c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FK1n3TVQIhc/default.jpg'
-  - uid: 7c74b1895713c33b8fcfb3acdb0d1321
-    parent_uid: 4990e98d2e927c32672131168dd8010c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: FK1n3TVQIhc
-  - uid: ad4834267849daf6da7e5e5fd1c57e64
-    parent_uid: 4990e98d2e927c32672131168dd8010c
-    id: FK1n3TVQIhc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-99-taylors-series-continued/taylors-series-for-sec-x/FK1n3TVQIhc.srt
-  - uid: 3eb1ed4926038376071292571b97d4e7
-    parent_uid: 4990e98d2e927c32672131168dd8010c
-    id: FK1n3TVQIhc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-99-taylors-series-continued/taylors-series-for-sec-x/FK1n3TVQIhc.pdf
-  - uid: c13f3d185e424805c983d6a8a876d9f0
-    parent_uid: 4990e98d2e927c32672131168dd8010c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 001164a2c3e8bcd0f78961718cf61b33
-    parent_uid: 4990e98d2e927c32672131168dd8010c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3941704fdddcb84dc27973bfc92555cf
-    parent_uid: 4990e98d2e927c32672131168dd8010c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_81_300k.mp4'
-  - uid: e73d0a9d07adc191bda79f86213797e9
-    parent_uid: 4990e98d2e927c32672131168dd8010c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/taylors-series-for-sec-x/id414308064?i=90320231
+uid: 4990e98d2e927c32672131168dd8010c
 type: courses
 layout: video
 ---

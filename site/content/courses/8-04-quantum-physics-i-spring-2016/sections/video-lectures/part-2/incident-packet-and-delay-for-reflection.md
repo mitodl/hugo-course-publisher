@@ -1,13 +1,67 @@
 ---
-title: Incident packet and delay for reflection
-uid: 884b2d20bd016ff406dd6fa6baa4d447
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: EJWG9-etPFw
+    parent_uid: 884b2d20bd016ff406dd6fa6baa4d447
+    title: Video-YouTube-Stream
+    type: Video
+    uid: abb214639c7e9426c775c9079f1badf0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/EJWG9-etPFw/default.jpg'
+    parent_uid: 884b2d20bd016ff406dd6fa6baa4d447
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2b43d6c85e33e4ca7f4d60972febbdb0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: EJWG9-etPFw
+    parent_uid: 884b2d20bd016ff406dd6fa6baa4d447
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fdf92a4ed799c1718a0635bab7ca08e7
+  - id: EJWG9-etPFw.srt
+    parent_uid: 884b2d20bd016ff406dd6fa6baa4d447
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/incident-packet-and-delay-for-reflection/EJWG9-etPFw.srt
+    title: 3play caption file
+    type: null
+    uid: 803a120e9456e81da8d94f26422a22a7
+  - id: EJWG9-etPFw.pdf
+    parent_uid: 884b2d20bd016ff406dd6fa6baa4d447
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/incident-packet-and-delay-for-reflection/EJWG9-etPFw.pdf
+    title: 3play pdf file
+    type: null
+    uid: f72d7b601891b1f84de9d39aaf60cbed
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 884b2d20bd016ff406dd6fa6baa4d447
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8527d5a984511728202f5d715a0f7877
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 884b2d20bd016ff406dd6fa6baa4d447
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8b894fc1d71c0c7eabde04ecd383b44d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 884b2d20bd016ff406dd6fa6baa4d447
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: fbd529f2ceb67e359869f8b8eec8364f
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec18_s1_300k.mp4'
+    parent_uid: 884b2d20bd016ff406dd6fa6baa4d447
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8a49ad0b0f7160bde1838c2ba8eb25a3
+inline_embed_id: 68940716incidentpacketanddelayforreflection69385693
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: incident-packet-and-delay-for-reflection
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/incident-packet-and-delay-for-reflection
-short_url: incident-packet-and-delay-for-reflection
-inline_embed_id: 68940716incidentpacketanddelayforreflection69385693
-about_this_resource_text: ''
-related_resources_text: ''
+title: Incident packet and delay for reflection
 transcript: >-
   <p><span m='360'>PROFESSOR:</span> <span m='450'>I'll</span> <span
   m='540'>begin</span> <span m='1050'>by</span> <span m='1290'>reviewing</span>
@@ -879,61 +933,7 @@ transcript: >-
   <span m='1126810'>bouncing</span> <span m='1127560'>across</span> <span
   m='1128730'>the</span> <span m='1128850'>finite</span> <span
   m='1129420'>range</span> <span m='1129940'>potential.</span> </p>
-embedded_media:
-  - uid: abb214639c7e9426c775c9079f1badf0
-    parent_uid: 884b2d20bd016ff406dd6fa6baa4d447
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: EJWG9-etPFw
-  - uid: 2b43d6c85e33e4ca7f4d60972febbdb0
-    parent_uid: 884b2d20bd016ff406dd6fa6baa4d447
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/EJWG9-etPFw/default.jpg'
-  - uid: fdf92a4ed799c1718a0635bab7ca08e7
-    parent_uid: 884b2d20bd016ff406dd6fa6baa4d447
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: EJWG9-etPFw
-  - uid: 803a120e9456e81da8d94f26422a22a7
-    parent_uid: 884b2d20bd016ff406dd6fa6baa4d447
-    id: EJWG9-etPFw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/incident-packet-and-delay-for-reflection/EJWG9-etPFw.srt
-  - uid: f72d7b601891b1f84de9d39aaf60cbed
-    parent_uid: 884b2d20bd016ff406dd6fa6baa4d447
-    id: EJWG9-etPFw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/incident-packet-and-delay-for-reflection/EJWG9-etPFw.pdf
-  - uid: 8527d5a984511728202f5d715a0f7877
-    parent_uid: 884b2d20bd016ff406dd6fa6baa4d447
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8b894fc1d71c0c7eabde04ecd383b44d
-    parent_uid: 884b2d20bd016ff406dd6fa6baa4d447
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: fbd529f2ceb67e359869f8b8eec8364f
-    parent_uid: 884b2d20bd016ff406dd6fa6baa4d447
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 8a49ad0b0f7160bde1838c2ba8eb25a3
-    parent_uid: 884b2d20bd016ff406dd6fa6baa4d447
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec18_s1_300k.mp4'
+uid: 884b2d20bd016ff406dd6fa6baa4d447
 type: courses
 layout: video
 ---

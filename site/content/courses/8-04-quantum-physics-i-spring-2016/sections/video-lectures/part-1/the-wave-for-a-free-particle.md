@@ -1,13 +1,73 @@
 ---
-title: The wave for a free particle
-uid: 6b1eb76f240bd7cec94bf63441f74b76
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: T6TQHNXy5Wg
+    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0261a2bbf58f7172d7074bfe610d0bc1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/6ecyuWgxpXw/default.jpg'
+    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e9192c69a0621afdedc91dd3185503c4
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: T6TQHNXy5Wg
+    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c3061a76ceb90451cf07ae5285eb0d84
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a56163fbf161c57ded6087bb250fc5be
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec04_s6_300k.mp4'
+    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: baea6de323b35967796270c63c9a2f9b
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/T6TQHNXy5Wg/default.jpg'
+    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0a03ed53378fa5c8890590ca7563be2d
+  - id: T6TQHNXy5Wg.srt
+    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-wave-for-a-free-particle/T6TQHNXy5Wg.srt
+    title: 3play caption file
+    type: null
+    uid: 2c88deb3b3640927404696b365949f9a
+  - id: T6TQHNXy5Wg.pdf
+    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-wave-for-a-free-particle/T6TQHNXy5Wg.pdf
+    title: 3play pdf file
+    type: null
+    uid: d70c9766ea9a6fec19b0e68a6738b744
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1ab3938e079fb364abbe3f8fea948cf6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f75b4547f752b60c4d0cb6abcc7ddeeb
+inline_embed_id: 23952712thewaveforafreeparticle2442737
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: the-wave-for-a-free-particle
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-wave-for-a-free-particle
-short_url: the-wave-for-a-free-particle
-inline_embed_id: 23952712thewaveforafreeparticle2442737
-about_this_resource_text: ''
-related_resources_text: ''
+title: The wave for a free particle
 transcript: >-
   <p><span m='1050'>PROFESSOR:</span> <span m='1260'>So</span> <span
   m='1470'>what</span> <span m='1860'>are</span> <span m='1980'>we</span> <span
@@ -628,67 +688,7 @@ transcript: >-
   m='872560'>lead</span> <span m='872950'>us</span> <span m='873100'>to</span>
   <span m='873220'>the</span> <span m='873530'>Schrodinger</span> <span
   m='873830'>equation.</span> </p>
-embedded_media:
-  - uid: 0261a2bbf58f7172d7074bfe610d0bc1
-    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: T6TQHNXy5Wg
-  - uid: e9192c69a0621afdedc91dd3185503c4
-    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/6ecyuWgxpXw/default.jpg'
-  - uid: c3061a76ceb90451cf07ae5285eb0d84
-    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: T6TQHNXy5Wg
-  - uid: a56163fbf161c57ded6087bb250fc5be
-    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: baea6de323b35967796270c63c9a2f9b
-    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec04_s6_300k.mp4'
-  - uid: 0a03ed53378fa5c8890590ca7563be2d
-    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/T6TQHNXy5Wg/default.jpg'
-  - uid: 2c88deb3b3640927404696b365949f9a
-    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
-    id: T6TQHNXy5Wg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-wave-for-a-free-particle/T6TQHNXy5Wg.srt
-  - uid: d70c9766ea9a6fec19b0e68a6738b744
-    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
-    id: T6TQHNXy5Wg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-wave-for-a-free-particle/T6TQHNXy5Wg.pdf
-  - uid: 1ab3938e079fb364abbe3f8fea948cf6
-    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f75b4547f752b60c4d0cb6abcc7ddeeb
-    parent_uid: 6b1eb76f240bd7cec94bf63441f74b76
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6b1eb76f240bd7cec94bf63441f74b76
 type: courses
 layout: video
 ---

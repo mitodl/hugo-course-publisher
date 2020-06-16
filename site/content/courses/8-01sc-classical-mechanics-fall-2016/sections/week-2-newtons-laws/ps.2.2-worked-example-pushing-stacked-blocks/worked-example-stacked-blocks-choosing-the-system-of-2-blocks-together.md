@@ -1,13 +1,67 @@
 ---
-title: Worked Example - Stacked Blocks - Choosing the System of 2 Blocks Together
-uid: af893009d7007661a0861bed13a33e68
+about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: l062G7RC8-o
+    parent_uid: af893009d7007661a0861bed13a33e68
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b53e39167c3e6c842a8c4668e3954173
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/l062G7RC8-o/default.jpg'
+    parent_uid: af893009d7007661a0861bed13a33e68
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9c59c0b7f4bb14e677b7b75dfd67de60
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: l062G7RC8-o
+    parent_uid: af893009d7007661a0861bed13a33e68
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e3f9db970321daf283b67ea7e86893c7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: af893009d7007661a0861bed13a33e68
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 811ef17592d9d380f1c9cb7411f7f468
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W02PS01v02_3_360p.mp4'
+    parent_uid: af893009d7007661a0861bed13a33e68
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0edfe29dd5c09e45675a1a5e3e8550f0
+  - id: l062G7RC8-o.srt
+    parent_uid: af893009d7007661a0861bed13a33e68
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/worked-example-stacked-blocks-choosing-the-system-of-2-blocks-together/l062G7RC8-o.srt
+    title: 3play caption file
+    type: null
+    uid: ad770676e8968d303901ecc5b0bcceb2
+  - id: l062G7RC8-o.pdf
+    parent_uid: af893009d7007661a0861bed13a33e68
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/worked-example-stacked-blocks-choosing-the-system-of-2-blocks-together/l062G7RC8-o.pdf
+    title: 3play pdf file
+    type: null
+    uid: abd2e706b7822bda5864f5a47f87c624
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: af893009d7007661a0861bed13a33e68
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3e1c3ad9aeb9d49f16503a97cdc26f66
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: af893009d7007661a0861bed13a33e68
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 68835eb5e0dc61ed496ca86c7d7f0e68
+inline_embed_id: 49862033workedexamplestackedblockschoosingthesystemof2blockstogether22741022
 parent_uid: 00aef6423d37f1e08db3ced31e4003c0
+related_resources_text: ''
+short_url: worked-example-stacked-blocks-choosing-the-system-of-2-blocks-together
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/worked-example-stacked-blocks-choosing-the-system-of-2-blocks-together
-short_url: worked-example-stacked-blocks-choosing-the-system-of-2-blocks-together
-inline_embed_id: 49862033workedexamplestackedblockschoosingthesystemof2blockstogether22741022
-about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
-related_resources_text: ''
+title: Worked Example - Stacked Blocks - Choosing the System of 2 Blocks Together
 transcript: >-
   <p><span m='3630'>When we analyze the problem about putting</span> <span
   m='6510'>two blocks along a frictionless surface</span> <span m='9320'>and
@@ -84,61 +138,7 @@ transcript: >-
   </p><p><span m='318270'>If it's an internal force, like in this case,</span>
   <span m='320800'>you will not be able to apply that condition.</span>
   </p><p></p>
-embedded_media:
-  - uid: b53e39167c3e6c842a8c4668e3954173
-    parent_uid: af893009d7007661a0861bed13a33e68
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: l062G7RC8-o
-  - uid: 9c59c0b7f4bb14e677b7b75dfd67de60
-    parent_uid: af893009d7007661a0861bed13a33e68
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/l062G7RC8-o/default.jpg'
-  - uid: e3f9db970321daf283b67ea7e86893c7
-    parent_uid: af893009d7007661a0861bed13a33e68
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: l062G7RC8-o
-  - uid: 811ef17592d9d380f1c9cb7411f7f468
-    parent_uid: af893009d7007661a0861bed13a33e68
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 0edfe29dd5c09e45675a1a5e3e8550f0
-    parent_uid: af893009d7007661a0861bed13a33e68
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W02PS01v02_3_360p.mp4'
-  - uid: ad770676e8968d303901ecc5b0bcceb2
-    parent_uid: af893009d7007661a0861bed13a33e68
-    id: l062G7RC8-o.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/worked-example-stacked-blocks-choosing-the-system-of-2-blocks-together/l062G7RC8-o.srt
-  - uid: abd2e706b7822bda5864f5a47f87c624
-    parent_uid: af893009d7007661a0861bed13a33e68
-    id: l062G7RC8-o.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/worked-example-stacked-blocks-choosing-the-system-of-2-blocks-together/l062G7RC8-o.pdf
-  - uid: 3e1c3ad9aeb9d49f16503a97cdc26f66
-    parent_uid: af893009d7007661a0861bed13a33e68
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 68835eb5e0dc61ed496ca86c7d7f0e68
-    parent_uid: af893009d7007661a0861bed13a33e68
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: af893009d7007661a0861bed13a33e68
 type: courses
 layout: video
 ---

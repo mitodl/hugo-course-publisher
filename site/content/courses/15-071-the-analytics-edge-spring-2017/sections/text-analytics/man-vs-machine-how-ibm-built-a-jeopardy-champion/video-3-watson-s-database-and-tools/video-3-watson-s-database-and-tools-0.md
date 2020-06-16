@@ -1,13 +1,62 @@
 ---
-title: 'Video 3: Watson''s Database and Tools'
-uid: 0fb191077b2e70aa1ae0e07705d4d1d7
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 6Rl8scykyEQ
+    parent_uid: 0fb191077b2e70aa1ae0e07705d4d1d7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 518800fa524510cf36b9b905e2176457
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 6Rl8scykyEQ
+    parent_uid: 0fb191077b2e70aa1ae0e07705d4d1d7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c735f1a3cd172413405742fe75a25546
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/6Rl8scykyEQ/default.jpg'
+    parent_uid: 0fb191077b2e70aa1ae0e07705d4d1d7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e72c78f895f83b690a7e6440c48e4242
+  - id: 6Rl8scykyEQ.srt
+    parent_uid: 0fb191077b2e70aa1ae0e07705d4d1d7
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-3-watson-s-database-and-tools/video-3-watson-s-database-and-tools-0/6Rl8scykyEQ.srt
+    title: 3play caption file
+    type: null
+    uid: c5428bfb1db037d50dc3f9389710e4e5
+  - id: 6Rl8scykyEQ.pdf
+    parent_uid: 0fb191077b2e70aa1ae0e07705d4d1d7
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-3-watson-s-database-and-tools/video-3-watson-s-database-and-tools-0/6Rl8scykyEQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 72fe98a107af886454c5ec52cf022805
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0fb191077b2e70aa1ae0e07705d4d1d7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4fa4ee9812546268ea98734b7ec80920
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0fb191077b2e70aa1ae0e07705d4d1d7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 25f29f68b8e335a37ecae2323b047982
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.3.05_300k.mp4
+    parent_uid: 0fb191077b2e70aa1ae0e07705d4d1d7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 460c9f36c24f32bfad380e53b9305abb
+inline_embed_id: 12770318video3watsonsdatabaseandtools4934413
 parent_uid: 0b633aaf8e34b9847755c8976cde3db6
+related_resources_text: ''
+short_url: video-3-watson-s-database-and-tools-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-3-watson-s-database-and-tools/video-3-watson-s-database-and-tools-0
-short_url: video-3-watson-s-database-and-tools-0
-inline_embed_id: 12770318video3watsonsdatabaseandtools4934413
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: Watson''s Database and Tools'
 transcript: >-
   <p><span m='4500'>So</span> <span m='4862'>why</span> <span m='5225'>is</span>
   <span m='5588'>the</span> <span m='5950'>game</span> <span m='6313'>of</span>
@@ -283,56 +332,7 @@ transcript: >-
   m='260000'>how</span> <span m='260264'>each</span> <span m='260528'>of</span>
   <span m='260792'>these</span> <span m='261056'>steps</span> <span
   m='261320'>work.</span> </p>
-embedded_media:
-  - uid: 518800fa524510cf36b9b905e2176457
-    parent_uid: 0fb191077b2e70aa1ae0e07705d4d1d7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 6Rl8scykyEQ
-  - uid: c735f1a3cd172413405742fe75a25546
-    parent_uid: 0fb191077b2e70aa1ae0e07705d4d1d7
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 6Rl8scykyEQ
-  - uid: e72c78f895f83b690a7e6440c48e4242
-    parent_uid: 0fb191077b2e70aa1ae0e07705d4d1d7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/6Rl8scykyEQ/default.jpg'
-  - uid: c5428bfb1db037d50dc3f9389710e4e5
-    parent_uid: 0fb191077b2e70aa1ae0e07705d4d1d7
-    id: 6Rl8scykyEQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-3-watson-s-database-and-tools/video-3-watson-s-database-and-tools-0/6Rl8scykyEQ.srt
-  - uid: 72fe98a107af886454c5ec52cf022805
-    parent_uid: 0fb191077b2e70aa1ae0e07705d4d1d7
-    id: 6Rl8scykyEQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/man-vs-machine-how-ibm-built-a-jeopardy-champion/video-3-watson-s-database-and-tools/video-3-watson-s-database-and-tools-0/6Rl8scykyEQ.pdf
-  - uid: 4fa4ee9812546268ea98734b7ec80920
-    parent_uid: 0fb191077b2e70aa1ae0e07705d4d1d7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 25f29f68b8e335a37ecae2323b047982
-    parent_uid: 0fb191077b2e70aa1ae0e07705d4d1d7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 460c9f36c24f32bfad380e53b9305abb
-    parent_uid: 0fb191077b2e70aa1ae0e07705d4d1d7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.3.05_300k.mp4
+uid: 0fb191077b2e70aa1ae0e07705d4d1d7
 type: courses
 layout: video
 ---

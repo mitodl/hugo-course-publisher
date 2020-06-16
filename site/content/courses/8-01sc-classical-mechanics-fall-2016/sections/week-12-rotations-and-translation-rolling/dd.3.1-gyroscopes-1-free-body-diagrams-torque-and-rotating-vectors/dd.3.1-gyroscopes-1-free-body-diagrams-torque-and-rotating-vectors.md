@@ -1,13 +1,67 @@
 ---
-title: 'DD.3.1 Gyroscopes 1 - Free Body Diagrams, Torque, and Rotating Vectors'
-uid: 6caeb841157864b9d7b0142bd0f61b42
+about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Deepto Chakrabarty</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ThP6wQkf5ec
+    parent_uid: 6caeb841157864b9d7b0142bd0f61b42
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0f624881b6d6ef82896bc3144eafb180
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ThP6wQkf5ec/default.jpg'
+    parent_uid: 6caeb841157864b9d7b0142bd0f61b42
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ee0e5fbe9eb9ce1c081f20486b11af2c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ThP6wQkf5ec
+    parent_uid: 6caeb841157864b9d7b0142bd0f61b42
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9a1e0e5407f7d989e0fb61e838263600
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 6caeb841157864b9d7b0142bd0f61b42
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e69bd375e9e6871af23b18113ed1d89d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W12DD01_360p.mp4'
+    parent_uid: 6caeb841157864b9d7b0142bd0f61b42
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 77dae70e1ee9def19f201c8c3c57bcfb
+  - id: ThP6wQkf5ec.srt
+    parent_uid: 6caeb841157864b9d7b0142bd0f61b42
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/dd.3.1-gyroscopes-1-free-body-diagrams-torque-and-rotating-vectors/dd.3.1-gyroscopes-1-free-body-diagrams-torque-and-rotating-vectors/ThP6wQkf5ec.srt
+    title: 3play caption file
+    type: null
+    uid: cb3d620f7aefda79345880cc66fa6eba
+  - id: ThP6wQkf5ec.pdf
+    parent_uid: 6caeb841157864b9d7b0142bd0f61b42
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/dd.3.1-gyroscopes-1-free-body-diagrams-torque-and-rotating-vectors/dd.3.1-gyroscopes-1-free-body-diagrams-torque-and-rotating-vectors/ThP6wQkf5ec.pdf
+    title: 3play pdf file
+    type: null
+    uid: f2beed8ce023c28f102b9df362af5c04
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6caeb841157864b9d7b0142bd0f61b42
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f57b5fa6e78f98baefd0ca1dd5dfad55
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6caeb841157864b9d7b0142bd0f61b42
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f1ec0da44d47ce67dc260455692f0636
+inline_embed_id: 27602595dd.3.1gyroscopes1freebodydiagramstorqueandrotatingvectors71250301
 parent_uid: d1c38e530c20d699f2e83e7f0242c713
+related_resources_text: ''
+short_url: dd.3.1-gyroscopes-1-free-body-diagrams-torque-and-rotating-vectors
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/dd.3.1-gyroscopes-1-free-body-diagrams-torque-and-rotating-vectors/dd.3.1-gyroscopes-1-free-body-diagrams-torque-and-rotating-vectors
-short_url: dd.3.1-gyroscopes-1-free-body-diagrams-torque-and-rotating-vectors
-inline_embed_id: 27602595dd.3.1gyroscopes1freebodydiagramstorqueandrotatingvectors71250301
-about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Deepto Chakrabarty</p>'
-related_resources_text: ''
+title: 'DD.3.1 Gyroscopes 1 - Free Body Diagrams, Torque, and Rotating Vectors'
 transcript: >-
   <p><span m='3122'>DEEPTO CHAKRABARTY:</span> <span m='3570'>A</span> <span
   m='3800'>pivoted</span> <span m='4370'>rod</span> <span m='4880'>held</span>
@@ -952,61 +1006,7 @@ transcript: >-
   m='1009830'>a</span> <span m='1009890'>rotating</span> <span
   m='1010340'>vector</span> <span m='1010730'>in</span> <span
   m='1010880'>space.</span> </p>
-embedded_media:
-  - uid: 0f624881b6d6ef82896bc3144eafb180
-    parent_uid: 6caeb841157864b9d7b0142bd0f61b42
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ThP6wQkf5ec
-  - uid: ee0e5fbe9eb9ce1c081f20486b11af2c
-    parent_uid: 6caeb841157864b9d7b0142bd0f61b42
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ThP6wQkf5ec/default.jpg'
-  - uid: 9a1e0e5407f7d989e0fb61e838263600
-    parent_uid: 6caeb841157864b9d7b0142bd0f61b42
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ThP6wQkf5ec
-  - uid: e69bd375e9e6871af23b18113ed1d89d
-    parent_uid: 6caeb841157864b9d7b0142bd0f61b42
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 77dae70e1ee9def19f201c8c3c57bcfb
-    parent_uid: 6caeb841157864b9d7b0142bd0f61b42
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W12DD01_360p.mp4'
-  - uid: cb3d620f7aefda79345880cc66fa6eba
-    parent_uid: 6caeb841157864b9d7b0142bd0f61b42
-    id: ThP6wQkf5ec.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/dd.3.1-gyroscopes-1-free-body-diagrams-torque-and-rotating-vectors/dd.3.1-gyroscopes-1-free-body-diagrams-torque-and-rotating-vectors/ThP6wQkf5ec.srt
-  - uid: f2beed8ce023c28f102b9df362af5c04
-    parent_uid: 6caeb841157864b9d7b0142bd0f61b42
-    id: ThP6wQkf5ec.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-12-rotations-and-translation-rolling/dd.3.1-gyroscopes-1-free-body-diagrams-torque-and-rotating-vectors/dd.3.1-gyroscopes-1-free-body-diagrams-torque-and-rotating-vectors/ThP6wQkf5ec.pdf
-  - uid: f57b5fa6e78f98baefd0ca1dd5dfad55
-    parent_uid: 6caeb841157864b9d7b0142bd0f61b42
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f1ec0da44d47ce67dc260455692f0636
-    parent_uid: 6caeb841157864b9d7b0142bd0f61b42
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6caeb841157864b9d7b0142bd0f61b42
 type: courses
 layout: video
 ---

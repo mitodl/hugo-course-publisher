@@ -1,21 +1,76 @@
 ---
-title: >-
-  Lecture 22: Dynamic Programming IV: Guitar Fingering, Tetris, Super Mario
-  Bros.
-uid: ac9d24ab0cc72faf8761d9ef9268af6d
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-22-dp-iv-guitar-fingering-tetris-super-mario-bros
-short_url: lecture-22-dp-iv-guitar-fingering-tetris-super-mario-bros
-inline_embed_id: >-
-  2929622lecture22:dynamicprogrammingiv:guitarfingering,tetris,supermariobros.55690251
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture introduces a second type of
   guessing, in which more subproblems are created so that more features of the
   solution can be found. This type of guessing is illustrated with piano/guitar
   fingering and the Tetris and Super Mario Brothers games.</p>
   <p><strong>Instructor:</strong> Erik Demaine</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: tp4_UXaVyx8
+    parent_uid: ac9d24ab0cc72faf8761d9ef9268af6d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3923b6fac0f1ecdb80b3b787ac0e0659
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/tp4_UXaVyx8/default.jpg'
+    parent_uid: ac9d24ab0cc72faf8761d9ef9268af6d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cc4a2f801d17b2ec178f1e97d70cdb8a
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-22-dp-iv-guitar-fingering/id585700718?i=126127760
+    parent_uid: ac9d24ab0cc72faf8761d9ef9268af6d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 16cd795efeaa50cbc096e483ce5d0b5a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec22_300k.mp4'
+    parent_uid: ac9d24ab0cc72faf8761d9ef9268af6d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8a28f4a78aee19a91702acbb226f2e5b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: tp4_UXaVyx8
+    parent_uid: ac9d24ab0cc72faf8761d9ef9268af6d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1ef64ca4e6a79c66052a01ac58f044a5
+  - id: tp4_UXaVyx8.srt
+    parent_uid: ac9d24ab0cc72faf8761d9ef9268af6d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-22-dp-iv-guitar-fingering-tetris-super-mario-bros/tp4_UXaVyx8.srt
+    title: 3play caption file
+    type: null
+    uid: 5a729b7aaadd3495b6f2a26850723ee8
+  - id: tp4_UXaVyx8.pdf
+    parent_uid: ac9d24ab0cc72faf8761d9ef9268af6d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-22-dp-iv-guitar-fingering-tetris-super-mario-bros/tp4_UXaVyx8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 494813ad9b5781c7ec56b433cb01105d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ac9d24ab0cc72faf8761d9ef9268af6d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a1f9a930274c04a910f68048cb47328d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ac9d24ab0cc72faf8761d9ef9268af6d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4947a9fdf6d031e058ff499a3ef601c4
+inline_embed_id: >-
+  2929622lecture22:dynamicprogrammingiv:guitarfingering,tetris,supermariobros.55690251
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-22-dp-iv-guitar-fingering-tetris-super-mario-bros
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-22-dp-iv-guitar-fingering-tetris-super-mario-bros
+title: >-
+  Lecture 22: Dynamic Programming IV: Guitar Fingering, Tetris, Super Mario
+  Bros.
 transcript: >-
   <p><span m='50'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -3281,62 +3336,7 @@ transcript: >-
   m='2950970'>you</span> <span m='2951130'>will</span> <span
   m='2951380'>memoize</span> <span m='2951680'>the</span> <span
   m='2951980'>result.</span> </p>
-embedded_media:
-  - uid: 3923b6fac0f1ecdb80b3b787ac0e0659
-    parent_uid: ac9d24ab0cc72faf8761d9ef9268af6d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: tp4_UXaVyx8
-  - uid: cc4a2f801d17b2ec178f1e97d70cdb8a
-    parent_uid: ac9d24ab0cc72faf8761d9ef9268af6d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/tp4_UXaVyx8/default.jpg'
-  - uid: 16cd795efeaa50cbc096e483ce5d0b5a
-    parent_uid: ac9d24ab0cc72faf8761d9ef9268af6d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-22-dp-iv-guitar-fingering/id585700718?i=126127760
-  - uid: 8a28f4a78aee19a91702acbb226f2e5b
-    parent_uid: ac9d24ab0cc72faf8761d9ef9268af6d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec22_300k.mp4'
-  - uid: 1ef64ca4e6a79c66052a01ac58f044a5
-    parent_uid: ac9d24ab0cc72faf8761d9ef9268af6d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: tp4_UXaVyx8
-  - uid: 5a729b7aaadd3495b6f2a26850723ee8
-    parent_uid: ac9d24ab0cc72faf8761d9ef9268af6d
-    id: tp4_UXaVyx8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-22-dp-iv-guitar-fingering-tetris-super-mario-bros/tp4_UXaVyx8.srt
-  - uid: 494813ad9b5781c7ec56b433cb01105d
-    parent_uid: ac9d24ab0cc72faf8761d9ef9268af6d
-    id: tp4_UXaVyx8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-22-dp-iv-guitar-fingering-tetris-super-mario-bros/tp4_UXaVyx8.pdf
-  - uid: a1f9a930274c04a910f68048cb47328d
-    parent_uid: ac9d24ab0cc72faf8761d9ef9268af6d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4947a9fdf6d031e058ff499a3ef601c4
-    parent_uid: ac9d24ab0cc72faf8761d9ef9268af6d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: ac9d24ab0cc72faf8761d9ef9268af6d
 type: courses
 layout: video
 ---

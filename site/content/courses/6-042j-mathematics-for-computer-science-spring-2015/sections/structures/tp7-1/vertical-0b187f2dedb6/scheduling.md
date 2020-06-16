@@ -1,13 +1,72 @@
 ---
-title: Scheduling
-uid: 11e1b3610106323714196d1ef084ab53
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 11e1b3610106323714196d1ef084ab53
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 6931cc238395e65d75922b485108ddd0
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 11e1b3610106323714196d1ef084ab53
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ea8efdd2e73a1fbf0d8ac9a87518ae4e
+  - id: Video-YouTube-Stream
+    media_location: 1TpzSCMLg08
+    parent_uid: 11e1b3610106323714196d1ef084ab53
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a07ae61075c478778e679edfea850be3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/1TpzSCMLg08/default.jpg'
+    parent_uid: 11e1b3610106323714196d1ef084ab53
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 70ee818c9b7187a8b12fae1412910f62
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 1TpzSCMLg08
+    parent_uid: 11e1b3610106323714196d1ef084ab53
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d92c7c3ed0df0a8dfe28516c355f0fee
+  - id: 1TpzSCMLg08.srt
+    parent_uid: 11e1b3610106323714196d1ef084ab53
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/vertical-0b187f2dedb6/scheduling/1TpzSCMLg08.srt
+    title: 3play caption file
+    type: null
+    uid: 0fd8c8c6dc5cb663828f1dc2d6d05332
+  - id: 1TpzSCMLg08.pdf
+    parent_uid: 11e1b3610106323714196d1ef084ab53
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/vertical-0b187f2dedb6/scheduling/1TpzSCMLg08.pdf
+    title: 3play pdf file
+    type: null
+    uid: 67f992a29ded030fcaa2f42f8aa8ab2c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 11e1b3610106323714196d1ef084ab53
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c8f474133af7fef55c46f96a1e9c2232
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 11e1b3610106323714196d1ef084ab53
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 00fed2d297f486b27888d43ce72e3bf1
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_scheduling_ipod.mp4'
+    parent_uid: 11e1b3610106323714196d1ef084ab53
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 701b5f0c389df2e3fb57225bdca097fb
+inline_embed_id: 16113379scheduling76396991
 parent_uid: 05c37de95b15f34e45cb01719069e2a2
+related_resources_text: ''
+short_url: scheduling
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/vertical-0b187f2dedb6/scheduling
-short_url: scheduling
-inline_embed_id: 16113379scheduling76396991
-about_this_resource_text: ''
-related_resources_text: ''
+title: Scheduling
 transcript: >-
   <p><span m='1140'>So</span> <span m='1340'>we</span> <span m='1470'>saw</span>
   <span m='1750'>in</span> <span m='1890'>the</span> <span m='1970'>last</span>
@@ -1001,66 +1060,7 @@ transcript: >-
   m='792820'>subjects</span> <span m='793270'>per</span> <span
   m='793660'>term</span> <span m='794050'>in</span> <span m='794260'>the</span>
   <span m='794330'>next</span> <span m='794620'>segment.</span> </p>
-embedded_media:
-  - uid: 6931cc238395e65d75922b485108ddd0
-    parent_uid: 11e1b3610106323714196d1ef084ab53
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: ea8efdd2e73a1fbf0d8ac9a87518ae4e
-    parent_uid: 11e1b3610106323714196d1ef084ab53
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: a07ae61075c478778e679edfea850be3
-    parent_uid: 11e1b3610106323714196d1ef084ab53
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 1TpzSCMLg08
-  - uid: 70ee818c9b7187a8b12fae1412910f62
-    parent_uid: 11e1b3610106323714196d1ef084ab53
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/1TpzSCMLg08/default.jpg'
-  - uid: d92c7c3ed0df0a8dfe28516c355f0fee
-    parent_uid: 11e1b3610106323714196d1ef084ab53
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 1TpzSCMLg08
-  - uid: 0fd8c8c6dc5cb663828f1dc2d6d05332
-    parent_uid: 11e1b3610106323714196d1ef084ab53
-    id: 1TpzSCMLg08.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/vertical-0b187f2dedb6/scheduling/1TpzSCMLg08.srt
-  - uid: 67f992a29ded030fcaa2f42f8aa8ab2c
-    parent_uid: 11e1b3610106323714196d1ef084ab53
-    id: 1TpzSCMLg08.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp7-1/vertical-0b187f2dedb6/scheduling/1TpzSCMLg08.pdf
-  - uid: c8f474133af7fef55c46f96a1e9c2232
-    parent_uid: 11e1b3610106323714196d1ef084ab53
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 00fed2d297f486b27888d43ce72e3bf1
-    parent_uid: 11e1b3610106323714196d1ef084ab53
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 701b5f0c389df2e3fb57225bdca097fb
-    parent_uid: 11e1b3610106323714196d1ef084ab53
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_scheduling_ipod.mp4'
+uid: 11e1b3610106323714196d1ef084ab53
 type: courses
 layout: video
 ---

@@ -1,13 +1,62 @@
 ---
-title: 'Video 4: Example 3 - The Framingham Heart Study'
-uid: 2e9b83b848ed13111f576d5590d823be
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: oAW8AgU0FE4
+    parent_uid: 2e9b83b848ed13111f576d5590d823be
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3540dac494991014964878a82fe764d4
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: oAW8AgU0FE4
+    parent_uid: 2e9b83b848ed13111f576d5590d823be
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e6a4c3dd582a488a0350db8c9cf8f305
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/oAW8AgU0FE4/default.jpg'
+    parent_uid: 2e9b83b848ed13111f576d5590d823be
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cc03c13732ec03b38346d21ed46237cb
+  - id: oAW8AgU0FE4.srt
+    parent_uid: 2e9b83b848ed13111f576d5590d823be
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-4-example-3-the-framingham-heart-study/video-4-example-3-the-framingham-heart-study-0/oAW8AgU0FE4.srt
+    title: 3play caption file
+    type: null
+    uid: abccd88b502bf024a15d003cd5837a2d
+  - id: oAW8AgU0FE4.pdf
+    parent_uid: 2e9b83b848ed13111f576d5590d823be
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-4-example-3-the-framingham-heart-study/video-4-example-3-the-framingham-heart-study-0/oAW8AgU0FE4.pdf
+    title: 3play pdf file
+    type: null
+    uid: e045379f56c9c03ccce5d18ab85586a3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2e9b83b848ed13111f576d5590d823be
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9f5f3711b411a0746240472bfe6b021f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2e9b83b848ed13111f576d5590d823be
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d6c0c15ba2d1f87ad349d495af22a34a
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.2.04_300k.mp4
+    parent_uid: 2e9b83b848ed13111f576d5590d823be
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: efe8ceb95be284003ddf6fda71788b52
+inline_embed_id: 2573606video4example3theframinghamheartstudy37189861
 parent_uid: e99b687702dcfd34e72858762102d0d1
+related_resources_text: ''
+short_url: video-4-example-3-the-framingham-heart-study-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-4-example-3-the-framingham-heart-study/video-4-example-3-the-framingham-heart-study-0
-short_url: video-4-example-3-the-framingham-heart-study-0
-inline_embed_id: 2573606video4example3theframinghamheartstudy37189861
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 4: Example 3 - The Framingham Heart Study'
 transcript: >-
   <p><span m='9500'>Our</span> <span m='9824'>third</span> <span
   m='10148'>example</span> <span m='10473'>is</span> <span
@@ -145,56 +194,7 @@ transcript: >-
   m='149850'>to</span> <span m='150420'>make</span> <span
   m='150990'>predictions</span> <span m='151560'>for</span> <span
   m='152130'>patients</span> <span m='152700'>worldwide.</span> </p>
-embedded_media:
-  - uid: 3540dac494991014964878a82fe764d4
-    parent_uid: 2e9b83b848ed13111f576d5590d823be
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: oAW8AgU0FE4
-  - uid: e6a4c3dd582a488a0350db8c9cf8f305
-    parent_uid: 2e9b83b848ed13111f576d5590d823be
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: oAW8AgU0FE4
-  - uid: cc03c13732ec03b38346d21ed46237cb
-    parent_uid: 2e9b83b848ed13111f576d5590d823be
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/oAW8AgU0FE4/default.jpg'
-  - uid: abccd88b502bf024a15d003cd5837a2d
-    parent_uid: 2e9b83b848ed13111f576d5590d823be
-    id: oAW8AgU0FE4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-4-example-3-the-framingham-heart-study/video-4-example-3-the-framingham-heart-study-0/oAW8AgU0FE4.srt
-  - uid: e045379f56c9c03ccce5d18ab85586a3
-    parent_uid: 2e9b83b848ed13111f576d5590d823be
-    id: oAW8AgU0FE4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/the-analytics-edge-intelligence-happiness-and-health-lecture-sequence/video-4-example-3-the-framingham-heart-study/video-4-example-3-the-framingham-heart-study-0/oAW8AgU0FE4.pdf
-  - uid: 9f5f3711b411a0746240472bfe6b021f
-    parent_uid: 2e9b83b848ed13111f576d5590d823be
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d6c0c15ba2d1f87ad349d495af22a34a
-    parent_uid: 2e9b83b848ed13111f576d5590d823be
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: efe8ceb95be284003ddf6fda71788b52
-    parent_uid: 2e9b83b848ed13111f576d5590d823be
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.2.04_300k.mp4
+uid: 2e9b83b848ed13111f576d5590d823be
 type: courses
 layout: video
 ---

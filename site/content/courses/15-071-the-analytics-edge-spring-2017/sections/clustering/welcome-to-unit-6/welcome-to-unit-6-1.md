@@ -1,13 +1,62 @@
 ---
-title: Welcome to Unit 6
-uid: bf7bf44d5d8d507c49e6f09b1ae2b80b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: PLRK4oOkXuI
+    parent_uid: bf7bf44d5d8d507c49e6f09b1ae2b80b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 445c2dce60c6e5abd59c89090ce5da1e
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: PLRK4oOkXuI
+    parent_uid: bf7bf44d5d8d507c49e6f09b1ae2b80b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4703cc0e6fd334e29f552e4b379d9e6c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/PLRK4oOkXuI/default.jpg'
+    parent_uid: bf7bf44d5d8d507c49e6f09b1ae2b80b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2fb97e8ed9c8efdf8ec7713887dd4e7d
+  - id: PLRK4oOkXuI.srt
+    parent_uid: bf7bf44d5d8d507c49e6f09b1ae2b80b
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/welcome-to-unit-6/welcome-to-unit-6-1/PLRK4oOkXuI.srt
+    title: 3play caption file
+    type: null
+    uid: 567e9dc5fba18d9621774b93b8b0b4b4
+  - id: PLRK4oOkXuI.pdf
+    parent_uid: bf7bf44d5d8d507c49e6f09b1ae2b80b
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/welcome-to-unit-6/welcome-to-unit-6-1/PLRK4oOkXuI.pdf
+    title: 3play pdf file
+    type: null
+    uid: f60b54a5ea75499a0b0df493e094be76
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bf7bf44d5d8d507c49e6f09b1ae2b80b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0a7785e2a5f0efad0a3709eb6e1abaf4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bf7bf44d5d8d507c49e6f09b1ae2b80b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6168f39da2f8bc4c54a5180bb62c7fee
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.1.01_300k.mp4
+    parent_uid: bf7bf44d5d8d507c49e6f09b1ae2b80b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8bb37bdcb3a16d4d757e6494d70fafc8
+inline_embed_id: 64708846welcometounit632490434
 parent_uid: 33fa178e64d4cd25dd867bb0db6ee3a5
+related_resources_text: ''
+short_url: welcome-to-unit-6-1
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/welcome-to-unit-6/welcome-to-unit-6-1
-short_url: welcome-to-unit-6-1
-inline_embed_id: 64708846welcometounit632490434
-about_this_resource_text: ''
-related_resources_text: ''
+title: Welcome to Unit 6
 transcript: >-
   <p><span m='4490'>Hello.</span> </p><p><span m='5320'>This</span> <span
   m='5715'>week</span> <span m='6110'>we'll</span> <span m='6505'>discuss</span>
@@ -47,56 +96,7 @@ transcript: >-
   m='34550'>and</span> <span m='34917'>patterns</span> <span m='35285'>in</span>
   <span m='35652'>data.</span> </p><p><span m='36020'>Let's</span> <span
   m='36680'>get</span> <span m='37340'>started.</span> </p>
-embedded_media:
-  - uid: 445c2dce60c6e5abd59c89090ce5da1e
-    parent_uid: bf7bf44d5d8d507c49e6f09b1ae2b80b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: PLRK4oOkXuI
-  - uid: 4703cc0e6fd334e29f552e4b379d9e6c
-    parent_uid: bf7bf44d5d8d507c49e6f09b1ae2b80b
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: PLRK4oOkXuI
-  - uid: 2fb97e8ed9c8efdf8ec7713887dd4e7d
-    parent_uid: bf7bf44d5d8d507c49e6f09b1ae2b80b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/PLRK4oOkXuI/default.jpg'
-  - uid: 567e9dc5fba18d9621774b93b8b0b4b4
-    parent_uid: bf7bf44d5d8d507c49e6f09b1ae2b80b
-    id: PLRK4oOkXuI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/welcome-to-unit-6/welcome-to-unit-6-1/PLRK4oOkXuI.srt
-  - uid: f60b54a5ea75499a0b0df493e094be76
-    parent_uid: bf7bf44d5d8d507c49e6f09b1ae2b80b
-    id: PLRK4oOkXuI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/welcome-to-unit-6/welcome-to-unit-6-1/PLRK4oOkXuI.pdf
-  - uid: 0a7785e2a5f0efad0a3709eb6e1abaf4
-    parent_uid: bf7bf44d5d8d507c49e6f09b1ae2b80b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6168f39da2f8bc4c54a5180bb62c7fee
-    parent_uid: bf7bf44d5d8d507c49e6f09b1ae2b80b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8bb37bdcb3a16d4d757e6494d70fafc8
-    parent_uid: bf7bf44d5d8d507c49e6f09b1ae2b80b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.1.01_300k.mp4
+uid: bf7bf44d5d8d507c49e6f09b1ae2b80b
 type: courses
 layout: video
 ---

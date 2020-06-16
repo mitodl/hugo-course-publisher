@@ -1,15 +1,71 @@
 ---
-title: 'Problem Solving: Computing the Singular Value Decomposition'
-uid: f784f9981cd6157d6c804e854abd09f5
-parent_uid: 30164ec69f858d020a1378d8b9c366fe
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/singular-value-decomposition/problem-solving-determinants-and-volumecomputing-the-singular-value-decomposition
-short_url: >-
-  problem-solving-determinants-and-volumecomputing-the-singular-value-decomposition
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: pSbafxDHdgE
+    parent_uid: f784f9981cd6157d6c804e854abd09f5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3864d294a6b6c2fef2ee241d6fc493a9
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: pSbafxDHdgE
+    parent_uid: f784f9981cd6157d6c804e854abd09f5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9ea8836773cf3ccf5dde366869fc0ff4
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/computing-singular-value-decomposition/id488155309?i=108454332
+    parent_uid: f784f9981cd6157d6c804e854abd09f5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bba4cfca53432300de5b952fc751efe5
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110607_B2_300k.mp4
+    parent_uid: f784f9981cd6157d6c804e854abd09f5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: af4d5a477122f3f0cafed18e520526de
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/pSbafxDHdgE/default.jpg'
+    parent_uid: f784f9981cd6157d6c804e854abd09f5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 24a177fe655f85d66f408859b69c8771
+  - id: pSbafxDHdgE.srt
+    parent_uid: f784f9981cd6157d6c804e854abd09f5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/singular-value-decomposition/problem-solving-determinants-and-volumecomputing-the-singular-value-decomposition/pSbafxDHdgE.srt
+    title: 3play caption file
+    type: null
+    uid: 873cda724846b606b4bf8c57c8a5c139
+  - id: pSbafxDHdgE.pdf
+    parent_uid: f784f9981cd6157d6c804e854abd09f5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/singular-value-decomposition/problem-solving-determinants-and-volumecomputing-the-singular-value-decomposition/pSbafxDHdgE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2ee97af6c631e8b1263af52999dc5336
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f784f9981cd6157d6c804e854abd09f5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 65aa17bc276a42bdda6a612d70b57f21
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f784f9981cd6157d6c804e854abd09f5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 69e45b6c5505b7593897b8e04fc59727
 inline_embed_id: >-
   17346160problemsolving:determinantsandvolumecomputingthesingularvaluedecomposition74847969
-about_this_resource_text: ''
+parent_uid: 30164ec69f858d020a1378d8b9c366fe
 related_resources_text: ''
+short_url: >-
+  problem-solving-determinants-and-volumecomputing-the-singular-value-decomposition
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/singular-value-decomposition/problem-solving-determinants-and-volumecomputing-the-singular-value-decomposition
+title: 'Problem Solving: Computing the Singular Value Decomposition'
 transcript: >-
   <p><span m='6870'>PROFESSOR: Hey,</span> <span m='7270'>we're</span> <span
   m='7560'>back.</span> <span m='9060'>Today</span> <span m='9340'>we're</span>
@@ -521,63 +577,7 @@ transcript: >-
   m='692340'>I</span> <span m='692440'>hope</span> <span m='692650'>this</span>
   <span m='692790'>was</span> <span m='692910'>a</span> <span
   m='692960'>helpful</span> <span m='693550'>illustration.</span> </p>
-embedded_media:
-  - uid: 3864d294a6b6c2fef2ee241d6fc493a9
-    parent_uid: f784f9981cd6157d6c804e854abd09f5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: pSbafxDHdgE
-  - uid: 9ea8836773cf3ccf5dde366869fc0ff4
-    parent_uid: f784f9981cd6157d6c804e854abd09f5
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: pSbafxDHdgE
-  - uid: bba4cfca53432300de5b952fc751efe5
-    parent_uid: f784f9981cd6157d6c804e854abd09f5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/computing-singular-value-decomposition/id488155309?i=108454332
-  - uid: af4d5a477122f3f0cafed18e520526de
-    parent_uid: f784f9981cd6157d6c804e854abd09f5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110607_B2_300k.mp4
-  - uid: 24a177fe655f85d66f408859b69c8771
-    parent_uid: f784f9981cd6157d6c804e854abd09f5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/pSbafxDHdgE/default.jpg'
-  - uid: 873cda724846b606b4bf8c57c8a5c139
-    parent_uid: f784f9981cd6157d6c804e854abd09f5
-    id: pSbafxDHdgE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/singular-value-decomposition/problem-solving-determinants-and-volumecomputing-the-singular-value-decomposition/pSbafxDHdgE.srt
-  - uid: 2ee97af6c631e8b1263af52999dc5336
-    parent_uid: f784f9981cd6157d6c804e854abd09f5
-    id: pSbafxDHdgE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/singular-value-decomposition/problem-solving-determinants-and-volumecomputing-the-singular-value-decomposition/pSbafxDHdgE.pdf
-  - uid: 65aa17bc276a42bdda6a612d70b57f21
-    parent_uid: f784f9981cd6157d6c804e854abd09f5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 69e45b6c5505b7593897b8e04fc59727
-    parent_uid: f784f9981cd6157d6c804e854abd09f5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f784f9981cd6157d6c804e854abd09f5
 type: courses
 layout: video
 ---

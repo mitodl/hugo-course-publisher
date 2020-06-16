@@ -1,13 +1,73 @@
 ---
-title: Group velocity and stationary phase approximation
-uid: 5810fc5c195556a1d53251505dc26d80
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: '-UgQEHHXTRM'
+    parent_uid: 5810fc5c195556a1d53251505dc26d80
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d216cf900e36cbc4ad2089921e41091a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0rOVBjVYuwg/default.jpg'
+    parent_uid: 5810fc5c195556a1d53251505dc26d80
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1575ab78c810e8a8aa9fd8a62d7e0be0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: '-UgQEHHXTRM'
+    parent_uid: 5810fc5c195556a1d53251505dc26d80
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 943e8700a3754d4599fbd5f039ff8601
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 5810fc5c195556a1d53251505dc26d80
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: af7e2523ef39882b2b74790091a0b5b4
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec04_s4_300k.mp4'
+    parent_uid: 5810fc5c195556a1d53251505dc26d80
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5bb5bb0d5cd3dcdca5447923f7f206f8
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/-UgQEHHXTRM/default.jpg'
+    parent_uid: 5810fc5c195556a1d53251505dc26d80
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e6fe0b176cf7794c1812abaee8f7ae59
+  - id: '-UgQEHHXTRM.srt'
+    parent_uid: 5810fc5c195556a1d53251505dc26d80
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/group-velocity-and-stationary-phase-approximation/-UgQEHHXTRM.srt
+    title: 3play caption file
+    type: null
+    uid: 8f1c13e610cdd38e68990a98d4adcb42
+  - id: '-UgQEHHXTRM.pdf'
+    parent_uid: 5810fc5c195556a1d53251505dc26d80
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/group-velocity-and-stationary-phase-approximation/-UgQEHHXTRM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0ca7bbddb1086e11ac737afcc7681df6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5810fc5c195556a1d53251505dc26d80
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 96b831b28d2adcca5d8de531c812ec51
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5810fc5c195556a1d53251505dc26d80
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3c331ae6eb57b3c6e1054d14649525b6
+inline_embed_id: 97341667groupvelocityandstationaryphaseapproximation89005636
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: group-velocity-and-stationary-phase-approximation
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/group-velocity-and-stationary-phase-approximation
-short_url: group-velocity-and-stationary-phase-approximation
-inline_embed_id: 97341667groupvelocityandstationaryphaseapproximation89005636
-about_this_resource_text: ''
-related_resources_text: ''
+title: Group velocity and stationary phase approximation
 transcript: >-
   <p><span m='3380'>PROFESSOR:</span> <span m='3535'>Velocity.</span>
   </p><p></p><p><span m='8020'>So</span> <span m='8470'>we</span> <span
@@ -453,67 +513,7 @@ transcript: >-
   m='627930'>stationary</span> <span m='628620'>phase.</span> <span
   m='628950'>Very,</span> <span m='630150'>extremely</span> <span
   m='630850'>simple.</span> </p>
-embedded_media:
-  - uid: d216cf900e36cbc4ad2089921e41091a
-    parent_uid: 5810fc5c195556a1d53251505dc26d80
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-UgQEHHXTRM'
-  - uid: 1575ab78c810e8a8aa9fd8a62d7e0be0
-    parent_uid: 5810fc5c195556a1d53251505dc26d80
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0rOVBjVYuwg/default.jpg'
-  - uid: 943e8700a3754d4599fbd5f039ff8601
-    parent_uid: 5810fc5c195556a1d53251505dc26d80
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-UgQEHHXTRM'
-  - uid: af7e2523ef39882b2b74790091a0b5b4
-    parent_uid: 5810fc5c195556a1d53251505dc26d80
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 5bb5bb0d5cd3dcdca5447923f7f206f8
-    parent_uid: 5810fc5c195556a1d53251505dc26d80
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec04_s4_300k.mp4'
-  - uid: e6fe0b176cf7794c1812abaee8f7ae59
-    parent_uid: 5810fc5c195556a1d53251505dc26d80
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-UgQEHHXTRM/default.jpg'
-  - uid: 8f1c13e610cdd38e68990a98d4adcb42
-    parent_uid: 5810fc5c195556a1d53251505dc26d80
-    id: '-UgQEHHXTRM.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/group-velocity-and-stationary-phase-approximation/-UgQEHHXTRM.srt
-  - uid: 0ca7bbddb1086e11ac737afcc7681df6
-    parent_uid: 5810fc5c195556a1d53251505dc26d80
-    id: '-UgQEHHXTRM.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/group-velocity-and-stationary-phase-approximation/-UgQEHHXTRM.pdf
-  - uid: 96b831b28d2adcca5d8de531c812ec51
-    parent_uid: 5810fc5c195556a1d53251505dc26d80
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3c331ae6eb57b3c6e1054d14649525b6
-    parent_uid: 5810fc5c195556a1d53251505dc26d80
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 5810fc5c195556a1d53251505dc26d80
 type: courses
 layout: video
 ---

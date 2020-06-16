@@ -1,13 +1,68 @@
 ---
-title: 'Problem Solving: Pseudoinverses'
-uid: 420242da881eacaa76fb5fbc624a6bdf
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: hSRcHTafkjE
+    parent_uid: 420242da881eacaa76fb5fbc624a6bdf
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ef02529f23a53be3523ac84d13a7f245
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: hSRcHTafkjE
+    parent_uid: 420242da881eacaa76fb5fbc624a6bdf
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 314eb1bb3bebe8dd6b4125ee1934b8e5
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/itunes-u/pseudoinverses/id488155309?i=108454307'
+    parent_uid: 420242da881eacaa76fb5fbc624a6bdf
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6f46b471603850983201521ee1ea217b
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110714_D1_300k.mp4
+    parent_uid: 420242da881eacaa76fb5fbc624a6bdf
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bef64faa3ec281e892a53d5904f44153
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/hSRcHTafkjE/default.jpg'
+    parent_uid: 420242da881eacaa76fb5fbc624a6bdf
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 501ab00095ee383377d2a78a498f4178
+  - id: hSRcHTafkjE.srt
+    parent_uid: 420242da881eacaa76fb5fbc624a6bdf
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/left-and-right-inverses-pseudoinverse/problem-solving-pseudoinverses/hSRcHTafkjE.srt
+    title: 3play caption file
+    type: null
+    uid: 4f4aad234ffa6cd6e9a5ffa0414da681
+  - id: hSRcHTafkjE.pdf
+    parent_uid: 420242da881eacaa76fb5fbc624a6bdf
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/left-and-right-inverses-pseudoinverse/problem-solving-pseudoinverses/hSRcHTafkjE.pdf
+    title: 3play pdf file
+    type: null
+    uid: fb51b340570267316fcc14d0d3a07777
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 420242da881eacaa76fb5fbc624a6bdf
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0f54c22b31fd315d400032d952fa39be
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 420242da881eacaa76fb5fbc624a6bdf
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 746cfe44a8d94b0998af418a08ef37da
+inline_embed_id: '56165631problemsolving:pseudoinverses52964421'
 parent_uid: ab040c1791a2dbfe0cb975cf0190634f
+related_resources_text: ''
+short_url: problem-solving-pseudoinverses
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/left-and-right-inverses-pseudoinverse/problem-solving-pseudoinverses
-short_url: problem-solving-pseudoinverses
-inline_embed_id: '56165631problemsolving:pseudoinverses52964421'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Pseudoinverses'
 transcript: >-
   <p><span m='7290'>DAVID SHIROKOFF: Hi</span> <span m='7780'>everyone.</span>
   <span m='8430'>Welcome</span> <span m='8740'>back.</span> </p><p><span
@@ -720,62 +775,7 @@ transcript: >-
   m='875450'>here,</span> <span m='876120'>and</span> <span
   m='876750'>I'll</span> <span m='877010'>see</span> <span m='877170'>you</span>
   <span m='877260'>next</span> <span m='877490'>time.</span> </p>
-embedded_media:
-  - uid: ef02529f23a53be3523ac84d13a7f245
-    parent_uid: 420242da881eacaa76fb5fbc624a6bdf
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: hSRcHTafkjE
-  - uid: 314eb1bb3bebe8dd6b4125ee1934b8e5
-    parent_uid: 420242da881eacaa76fb5fbc624a6bdf
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: hSRcHTafkjE
-  - uid: 6f46b471603850983201521ee1ea217b
-    parent_uid: 420242da881eacaa76fb5fbc624a6bdf
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/itunes-u/pseudoinverses/id488155309?i=108454307'
-  - uid: bef64faa3ec281e892a53d5904f44153
-    parent_uid: 420242da881eacaa76fb5fbc624a6bdf
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110714_D1_300k.mp4
-  - uid: 501ab00095ee383377d2a78a498f4178
-    parent_uid: 420242da881eacaa76fb5fbc624a6bdf
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/hSRcHTafkjE/default.jpg'
-  - uid: 4f4aad234ffa6cd6e9a5ffa0414da681
-    parent_uid: 420242da881eacaa76fb5fbc624a6bdf
-    id: hSRcHTafkjE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/left-and-right-inverses-pseudoinverse/problem-solving-pseudoinverses/hSRcHTafkjE.srt
-  - uid: fb51b340570267316fcc14d0d3a07777
-    parent_uid: 420242da881eacaa76fb5fbc624a6bdf
-    id: hSRcHTafkjE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/left-and-right-inverses-pseudoinverse/problem-solving-pseudoinverses/hSRcHTafkjE.pdf
-  - uid: 0f54c22b31fd315d400032d952fa39be
-    parent_uid: 420242da881eacaa76fb5fbc624a6bdf
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 746cfe44a8d94b0998af418a08ef37da
-    parent_uid: 420242da881eacaa76fb5fbc624a6bdf
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 420242da881eacaa76fb5fbc624a6bdf
 type: courses
 layout: video
 ---

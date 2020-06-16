@@ -1,13 +1,67 @@
 ---
-title: 'Transposes, Permutations, Vector Spaces'
-uid: 6e421e4574a50e338f54796edd0fadbd
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: JibVXBElKL0
+    parent_uid: 6e421e4574a50e338f54796edd0fadbd
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a058abe12a2bef88600a8ddb402ded67
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/JibVXBElKL0/default.jpg'
+    parent_uid: 6e421e4574a50e338f54796edd0fadbd
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7d900592690bb8e01f9bc7d3ff2b5a7b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: JibVXBElKL0
+    parent_uid: 6e421e4574a50e338f54796edd0fadbd
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 01be3a748918e19fe9106bbae1551af6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 6e421e4574a50e338f54796edd0fadbd
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ea962a757e34168c373cda8ccb67eb7c
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/05.mp4'
+    parent_uid: 6e421e4574a50e338f54796edd0fadbd
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 595e09591cd16d064f45beebe5770218
+  - id: JibVXBElKL0.srt
+    parent_uid: 6e421e4574a50e338f54796edd0fadbd
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/transposes-permutations-vector-spaces/JibVXBElKL0.srt
+    title: 3play caption file
+    type: null
+    uid: cadacc63b8e83080a955c47279d51820
+  - id: JibVXBElKL0.pdf
+    parent_uid: 6e421e4574a50e338f54796edd0fadbd
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/transposes-permutations-vector-spaces/JibVXBElKL0.pdf
+    title: 3play pdf file
+    type: null
+    uid: e8776251d7b3c71d9fc1dc8f66a1b048
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6e421e4574a50e338f54796edd0fadbd
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2ff71fcf392dc47b9c0f1a65bd99821c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6e421e4574a50e338f54796edd0fadbd
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 80a79db54d618dae7424414d9e0273c2
+inline_embed_id: '60108556transposes,permutations,vectorspaces44255430'
 parent_uid: 78c64d70411ee481e2bbd7a7244a0bf3
+related_resources_text: ''
+short_url: transposes-permutations-vector-spaces
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/transposes-permutations-vector-spaces
-short_url: transposes-permutations-vector-spaces
-inline_embed_id: '60108556transposes,permutations,vectorspaces44255430'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Transposes, Permutations, Vector Spaces'
 transcript: >-
   <p><span m='9860'>Okay.</span> <span m='10620'>This</span> <span
   m='11270'>is</span> <span m='11810'>lecture</span> <span m='12210'>five</span>
@@ -2559,61 +2613,7 @@ transcript: >-
   m='2847990'>are</span> <span m='2848030'>others</span> <span
   m='2848330'>to</span> <span m='2848470'>come.</span> </p><p><span
   m='2850230'>Okay,</span> <span m='2850720'>thanks.</span> </p>
-embedded_media:
-  - uid: a058abe12a2bef88600a8ddb402ded67
-    parent_uid: 6e421e4574a50e338f54796edd0fadbd
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: JibVXBElKL0
-  - uid: 7d900592690bb8e01f9bc7d3ff2b5a7b
-    parent_uid: 6e421e4574a50e338f54796edd0fadbd
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/JibVXBElKL0/default.jpg'
-  - uid: 01be3a748918e19fe9106bbae1551af6
-    parent_uid: 6e421e4574a50e338f54796edd0fadbd
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: JibVXBElKL0
-  - uid: ea962a757e34168c373cda8ccb67eb7c
-    parent_uid: 6e421e4574a50e338f54796edd0fadbd
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 595e09591cd16d064f45beebe5770218
-    parent_uid: 6e421e4574a50e338f54796edd0fadbd
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/05.mp4'
-  - uid: cadacc63b8e83080a955c47279d51820
-    parent_uid: 6e421e4574a50e338f54796edd0fadbd
-    id: JibVXBElKL0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/transposes-permutations-vector-spaces/JibVXBElKL0.srt
-  - uid: e8776251d7b3c71d9fc1dc8f66a1b048
-    parent_uid: 6e421e4574a50e338f54796edd0fadbd
-    id: JibVXBElKL0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/transposes-permutations-vector-spaces/JibVXBElKL0.pdf
-  - uid: 2ff71fcf392dc47b9c0f1a65bd99821c
-    parent_uid: 6e421e4574a50e338f54796edd0fadbd
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 80a79db54d618dae7424414d9e0273c2
-    parent_uid: 6e421e4574a50e338f54796edd0fadbd
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6e421e4574a50e338f54796edd0fadbd
 type: courses
 layout: video
 ---

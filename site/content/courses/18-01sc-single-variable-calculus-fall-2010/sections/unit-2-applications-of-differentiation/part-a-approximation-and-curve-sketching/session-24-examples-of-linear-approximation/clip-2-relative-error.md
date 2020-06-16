@@ -1,18 +1,72 @@
 ---
-title: 'Clip 2: Relative Error'
-uid: f0bdbae5d782612b027ba3693eabd78d
-parent_uid: 332503c09be8a2d7ca749e218630b6f3
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-24-examples-of-linear-approximation/clip-2-relative-error
-short_url: clip-2-relative-error
-inline_embed_id: '8159037clip2:relativeerror1409145'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/6bfd76aaf26c1e40c41419010dfba1ff" title="Open
   in a new window." target="_blank">Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 10 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: eRCN3daFCmU
+    parent_uid: f0bdbae5d782612b027ba3693eabd78d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bb73a539872b203b4f30325762ac7ad1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/eRCN3daFCmU/default.jpg'
+    parent_uid: f0bdbae5d782612b027ba3693eabd78d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 264d6d40e39e7d35855da3c406c4822d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec10_300k.mp4'
+    parent_uid: f0bdbae5d782612b027ba3693eabd78d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 066d8353f243379f1eb8398758850a79
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: eRCN3daFCmU
+    parent_uid: f0bdbae5d782612b027ba3693eabd78d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f3169bff03f18728ad3c050b0243f9e2
+  - id: eRCN3daFCmU.srt
+    parent_uid: f0bdbae5d782612b027ba3693eabd78d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-24-examples-of-linear-approximation/clip-2-relative-error/eRCN3daFCmU.srt
+    title: 3play caption file
+    type: null
+    uid: 2911ff11825e45d2890742b2122dfb8b
+  - id: eRCN3daFCmU.pdf
+    parent_uid: f0bdbae5d782612b027ba3693eabd78d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-24-examples-of-linear-approximation/clip-2-relative-error/eRCN3daFCmU.pdf
+    title: 3play pdf file
+    type: null
+    uid: e03d2a97f806d554a4d402ace792c64a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f0bdbae5d782612b027ba3693eabd78d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c3a392104ff3be82e269ed0e3a0b5b78
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f0bdbae5d782612b027ba3693eabd78d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4dc232751b14ee1265b36317567c0ac9
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: f0bdbae5d782612b027ba3693eabd78d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 87ef7819842f4a22d69ac3b4d4b52518
+inline_embed_id: '8159037clip2:relativeerror1409145'
+parent_uid: 332503c09be8a2d7ca749e218630b6f3
 related_resources_text: ''
+short_url: clip-2-relative-error
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-24-examples-of-linear-approximation/clip-2-relative-error
+title: 'Clip 2: Relative Error'
 transcript: >-
   <p><span m="90">The following</span> <span m="520">content</span> <span
   m="1270">is</span> <span m="1420">provided</span> <span m="1680">under
@@ -2965,61 +3019,7 @@ transcript: >-
   m="3100920">Anyway,</span> <span m="3101410">we'll</span> <span
   m="3101580">talk</span> <span m="3101800">about</span> <span
   m="3101960">it</span> <span m="3102020">next time.</span></p>
-embedded_media:
-  - uid: bb73a539872b203b4f30325762ac7ad1
-    parent_uid: f0bdbae5d782612b027ba3693eabd78d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: eRCN3daFCmU
-  - uid: 264d6d40e39e7d35855da3c406c4822d
-    parent_uid: f0bdbae5d782612b027ba3693eabd78d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/eRCN3daFCmU/default.jpg'
-  - uid: 066d8353f243379f1eb8398758850a79
-    parent_uid: f0bdbae5d782612b027ba3693eabd78d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec10_300k.mp4'
-  - uid: f3169bff03f18728ad3c050b0243f9e2
-    parent_uid: f0bdbae5d782612b027ba3693eabd78d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: eRCN3daFCmU
-  - uid: 2911ff11825e45d2890742b2122dfb8b
-    parent_uid: f0bdbae5d782612b027ba3693eabd78d
-    id: eRCN3daFCmU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-24-examples-of-linear-approximation/clip-2-relative-error/eRCN3daFCmU.srt
-  - uid: e03d2a97f806d554a4d402ace792c64a
-    parent_uid: f0bdbae5d782612b027ba3693eabd78d
-    id: eRCN3daFCmU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-a-approximation-and-curve-sketching/session-24-examples-of-linear-approximation/clip-2-relative-error/eRCN3daFCmU.pdf
-  - uid: c3a392104ff3be82e269ed0e3a0b5b78
-    parent_uid: f0bdbae5d782612b027ba3693eabd78d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4dc232751b14ee1265b36317567c0ac9
-    parent_uid: f0bdbae5d782612b027ba3693eabd78d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 87ef7819842f4a22d69ac3b4d4b52518
-    parent_uid: f0bdbae5d782612b027ba3693eabd78d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: f0bdbae5d782612b027ba3693eabd78d
 type: courses
 layout: video
 ---

@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 19: Dynamic Programming I: Fibonacci, Shortest Paths'
-uid: 57d2b18993565b569a7fe3bb3033de75
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-19-dynamic-programming-i-fibonacci-shortest-paths
-short_url: lecture-19-dynamic-programming-i-fibonacci-shortest-paths
-inline_embed_id: '92198792lecture19:dynamicprogrammingi:fibonacci,shortestpaths82685712'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture introduces dynamic programming,
   in which careful exhaustive search can be used to design polynomial-time
   algorithms. The Fibonacci and shortest paths problems are used to introduce
   guessing, memoization, and reusing solutions to subproblems.</p>
   <p><strong>Instructor:</strong> Erik Demaine</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: OQ5jsbhAv_M
+    parent_uid: 57d2b18993565b569a7fe3bb3033de75
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 704ccf4aa1374db3da0ac654c3630e58
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/OQ5jsbhAv_M/default.jpg'
+    parent_uid: 57d2b18993565b569a7fe3bb3033de75
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f63b0968acf5e88c6abdb26ca8541ac4
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-19-dynamic-programming/id585700718?i=126127757
+    parent_uid: 57d2b18993565b569a7fe3bb3033de75
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 62f5972db6040a7681266aa7c9d79bab
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec19_300k.mp4'
+    parent_uid: 57d2b18993565b569a7fe3bb3033de75
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 389b3eb2476ee2fdf3e899bce2d6c417
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: OQ5jsbhAv_M
+    parent_uid: 57d2b18993565b569a7fe3bb3033de75
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 883801fdbd21f9d0464b4ed2601eabe2
+  - id: OQ5jsbhAv_M.srt
+    parent_uid: 57d2b18993565b569a7fe3bb3033de75
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-19-dynamic-programming-i-fibonacci-shortest-paths/OQ5jsbhAv_M.srt
+    title: 3play caption file
+    type: null
+    uid: 31ab184e04090d9b74a744411fd68de4
+  - id: OQ5jsbhAv_M.pdf
+    parent_uid: 57d2b18993565b569a7fe3bb3033de75
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-19-dynamic-programming-i-fibonacci-shortest-paths/OQ5jsbhAv_M.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3eb48db83a86800455567bc7daa7c0f9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 57d2b18993565b569a7fe3bb3033de75
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f24fd0ba705336ab6fbc74f77d2d54f8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 57d2b18993565b569a7fe3bb3033de75
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 663bb4250b2e094eeec3cb374c13a86e
+inline_embed_id: '92198792lecture19:dynamicprogrammingi:fibonacci,shortestpaths82685712'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-19-dynamic-programming-i-fibonacci-shortest-paths
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-19-dynamic-programming-i-fibonacci-shortest-paths
+title: 'Lecture 19: Dynamic Programming I: Fibonacci, Shortest Paths'
 transcript: >-
   <p><span m='50'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -3135,62 +3190,7 @@ transcript: >-
   m='3104090'>approach.</span> <span m='3104650'>And</span> <span
   m='3105010'>that's</span> <span m='3105220'>super</span> <span
   m='3105490'>cool.</span> </p>
-embedded_media:
-  - uid: 704ccf4aa1374db3da0ac654c3630e58
-    parent_uid: 57d2b18993565b569a7fe3bb3033de75
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: OQ5jsbhAv_M
-  - uid: f63b0968acf5e88c6abdb26ca8541ac4
-    parent_uid: 57d2b18993565b569a7fe3bb3033de75
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/OQ5jsbhAv_M/default.jpg'
-  - uid: 62f5972db6040a7681266aa7c9d79bab
-    parent_uid: 57d2b18993565b569a7fe3bb3033de75
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-19-dynamic-programming/id585700718?i=126127757
-  - uid: 389b3eb2476ee2fdf3e899bce2d6c417
-    parent_uid: 57d2b18993565b569a7fe3bb3033de75
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec19_300k.mp4'
-  - uid: 883801fdbd21f9d0464b4ed2601eabe2
-    parent_uid: 57d2b18993565b569a7fe3bb3033de75
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: OQ5jsbhAv_M
-  - uid: 31ab184e04090d9b74a744411fd68de4
-    parent_uid: 57d2b18993565b569a7fe3bb3033de75
-    id: OQ5jsbhAv_M.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-19-dynamic-programming-i-fibonacci-shortest-paths/OQ5jsbhAv_M.srt
-  - uid: 3eb48db83a86800455567bc7daa7c0f9
-    parent_uid: 57d2b18993565b569a7fe3bb3033de75
-    id: OQ5jsbhAv_M.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-19-dynamic-programming-i-fibonacci-shortest-paths/OQ5jsbhAv_M.pdf
-  - uid: f24fd0ba705336ab6fbc74f77d2d54f8
-    parent_uid: 57d2b18993565b569a7fe3bb3033de75
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 663bb4250b2e094eeec3cb374c13a86e
-    parent_uid: 57d2b18993565b569a7fe3bb3033de75
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 57d2b18993565b569a7fe3bb3033de75
 type: courses
 layout: video
 ---

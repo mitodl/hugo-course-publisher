@@ -1,13 +1,67 @@
 ---
-title: DD.2.2 Relative Velocity is Independent of Reference Frame
-uid: 84c7a1bf8ef3ec96bee177e70b8e7411
+about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: KmGPMec8-iU
+    parent_uid: 84c7a1bf8ef3ec96bee177e70b8e7411
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7d94cd3e6431efcd2ba6654598becfc5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/KmGPMec8-iU/default.jpg'
+    parent_uid: 84c7a1bf8ef3ec96bee177e70b8e7411
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8246c702406872b4fbc69b6e0a12a176
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: KmGPMec8-iU
+    parent_uid: 84c7a1bf8ef3ec96bee177e70b8e7411
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 209522f3a72a62277c8f197697a5f3f2
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 84c7a1bf8ef3ec96bee177e70b8e7411
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8ef068d41e58f0cb792d9f60fb731136
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_DD_CMframe2_360p.mp4'
+    parent_uid: 84c7a1bf8ef3ec96bee177e70b8e7411
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 39090032937409de745ab959871deaf3
+  - id: KmGPMec8-iU.srt
+    parent_uid: 84c7a1bf8ef3ec96bee177e70b8e7411
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.2-relative-velocity-is-independent-of-reference-frame/dd.2.2-relative-velocity-is-independent-of-reference-frame/KmGPMec8-iU.srt
+    title: 3play caption file
+    type: null
+    uid: fd95981b6b081a6dcb98413c873b062f
+  - id: KmGPMec8-iU.pdf
+    parent_uid: 84c7a1bf8ef3ec96bee177e70b8e7411
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.2-relative-velocity-is-independent-of-reference-frame/dd.2.2-relative-velocity-is-independent-of-reference-frame/KmGPMec8-iU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6817d77a55c33bb16022806015443863
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 84c7a1bf8ef3ec96bee177e70b8e7411
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4291854b94c105f82ce8cdcc7a91b2c2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 84c7a1bf8ef3ec96bee177e70b8e7411
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 144d3301ee35099a53a6b5c6e79cd436
+inline_embed_id: 42733690dd.2.2relativevelocityisindependentofreferenceframe44686209
 parent_uid: 6dbad577bacdb1f81fd01be0efbe3ccf
+related_resources_text: ''
+short_url: dd.2.2-relative-velocity-is-independent-of-reference-frame
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.2-relative-velocity-is-independent-of-reference-frame/dd.2.2-relative-velocity-is-independent-of-reference-frame
-short_url: dd.2.2-relative-velocity-is-independent-of-reference-frame
-inline_embed_id: 42733690dd.2.2relativevelocityisindependentofreferenceframe44686209
-about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
-related_resources_text: ''
+title: DD.2.2 Relative Velocity is Independent of Reference Frame
 transcript: >-
   <p><span m='3660'>When we analyzed a one-dimensional elastic</span> <span
   m='6390'>collision in any frame and we had</span> <span m='9360'>a velocity V1
@@ -56,61 +110,7 @@ transcript: >-
   prime minus V2 prime.</span> </p><p><span m='208720'>And that becomes our
   statement that the relative velocity</span> <span m='213130'>vector is
   independent of the choice of reference frame.</span> </p><p></p>
-embedded_media:
-  - uid: 7d94cd3e6431efcd2ba6654598becfc5
-    parent_uid: 84c7a1bf8ef3ec96bee177e70b8e7411
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: KmGPMec8-iU
-  - uid: 8246c702406872b4fbc69b6e0a12a176
-    parent_uid: 84c7a1bf8ef3ec96bee177e70b8e7411
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/KmGPMec8-iU/default.jpg'
-  - uid: 209522f3a72a62277c8f197697a5f3f2
-    parent_uid: 84c7a1bf8ef3ec96bee177e70b8e7411
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: KmGPMec8-iU
-  - uid: 8ef068d41e58f0cb792d9f60fb731136
-    parent_uid: 84c7a1bf8ef3ec96bee177e70b8e7411
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 39090032937409de745ab959871deaf3
-    parent_uid: 84c7a1bf8ef3ec96bee177e70b8e7411
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_DD_CMframe2_360p.mp4'
-  - uid: fd95981b6b081a6dcb98413c873b062f
-    parent_uid: 84c7a1bf8ef3ec96bee177e70b8e7411
-    id: KmGPMec8-iU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.2-relative-velocity-is-independent-of-reference-frame/dd.2.2-relative-velocity-is-independent-of-reference-frame/KmGPMec8-iU.srt
-  - uid: 6817d77a55c33bb16022806015443863
-    parent_uid: 84c7a1bf8ef3ec96bee177e70b8e7411
-    id: KmGPMec8-iU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.2-relative-velocity-is-independent-of-reference-frame/dd.2.2-relative-velocity-is-independent-of-reference-frame/KmGPMec8-iU.pdf
-  - uid: 4291854b94c105f82ce8cdcc7a91b2c2
-    parent_uid: 84c7a1bf8ef3ec96bee177e70b8e7411
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 144d3301ee35099a53a6b5c6e79cd436
-    parent_uid: 84c7a1bf8ef3ec96bee177e70b8e7411
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 84c7a1bf8ef3ec96bee177e70b8e7411
 type: courses
 layout: video
 ---

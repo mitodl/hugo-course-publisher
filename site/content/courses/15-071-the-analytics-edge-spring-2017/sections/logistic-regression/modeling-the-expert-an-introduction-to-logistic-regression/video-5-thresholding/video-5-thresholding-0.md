@@ -1,13 +1,62 @@
 ---
-title: 'Video 5: Thresholding'
-uid: e7a21c91c5c517f3d5b45a2f2af4833c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: c_2RtTEkyo8
+    parent_uid: e7a21c91c5c517f3d5b45a2f2af4833c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e1d952a081542d8c2fca83755b00b9eb
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: c_2RtTEkyo8
+    parent_uid: e7a21c91c5c517f3d5b45a2f2af4833c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a930a4f1d63b41d1e9a11c7ef7ec530c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/c_2RtTEkyo8/default.jpg'
+    parent_uid: e7a21c91c5c517f3d5b45a2f2af4833c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bcd5f02dcec3b22915a05cb94fce0dbd
+  - id: c_2RtTEkyo8.srt
+    parent_uid: e7a21c91c5c517f3d5b45a2f2af4833c
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-5-thresholding/video-5-thresholding-0/c_2RtTEkyo8.srt
+    title: 3play caption file
+    type: null
+    uid: 3b18ed018d73cc5b9a7e3f03aa57e505
+  - id: c_2RtTEkyo8.pdf
+    parent_uid: e7a21c91c5c517f3d5b45a2f2af4833c
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-5-thresholding/video-5-thresholding-0/c_2RtTEkyo8.pdf
+    title: 3play pdf file
+    type: null
+    uid: f6f8d52c925f25e79a0a3ab81ec6c933
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e7a21c91c5c517f3d5b45a2f2af4833c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bc545e25805391e405539d26e15348c2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e7a21c91c5c517f3d5b45a2f2af4833c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2836cb7d7f9d8ef2195bbf24002eb53c
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.2.08_300k.mp4
+    parent_uid: e7a21c91c5c517f3d5b45a2f2af4833c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 54c92c28c40fad7d0fc2553f9df75c6c
+inline_embed_id: 19432541video5thresholding15077482
 parent_uid: 7bf86a6c2bb6629ed20e4dd216833197
+related_resources_text: ''
+short_url: video-5-thresholding-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-5-thresholding/video-5-thresholding-0
-short_url: video-5-thresholding-0
-inline_embed_id: 19432541video5thresholding15077482
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 5: Thresholding'
 transcript: >-
   <p><span m='4500'>We</span> <span m='4776'>saw</span> <span m='5053'>in</span>
   <span m='5330'>the</span> <span m='5606'>previous</span> <span
@@ -513,56 +562,7 @@ transcript: >-
   m='479733'>help</span> <span m='480146'>us</span> <span
   m='480560'>select</span> <span m='480973'>a</span> <span
   m='481386'>threshold.</span> </p>
-embedded_media:
-  - uid: e1d952a081542d8c2fca83755b00b9eb
-    parent_uid: e7a21c91c5c517f3d5b45a2f2af4833c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: c_2RtTEkyo8
-  - uid: a930a4f1d63b41d1e9a11c7ef7ec530c
-    parent_uid: e7a21c91c5c517f3d5b45a2f2af4833c
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: c_2RtTEkyo8
-  - uid: bcd5f02dcec3b22915a05cb94fce0dbd
-    parent_uid: e7a21c91c5c517f3d5b45a2f2af4833c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/c_2RtTEkyo8/default.jpg'
-  - uid: 3b18ed018d73cc5b9a7e3f03aa57e505
-    parent_uid: e7a21c91c5c517f3d5b45a2f2af4833c
-    id: c_2RtTEkyo8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-5-thresholding/video-5-thresholding-0/c_2RtTEkyo8.srt
-  - uid: f6f8d52c925f25e79a0a3ab81ec6c933
-    parent_uid: e7a21c91c5c517f3d5b45a2f2af4833c
-    id: c_2RtTEkyo8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-5-thresholding/video-5-thresholding-0/c_2RtTEkyo8.pdf
-  - uid: bc545e25805391e405539d26e15348c2
-    parent_uid: e7a21c91c5c517f3d5b45a2f2af4833c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2836cb7d7f9d8ef2195bbf24002eb53c
-    parent_uid: e7a21c91c5c517f3d5b45a2f2af4833c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 54c92c28c40fad7d0fc2553f9df75c6c
-    parent_uid: e7a21c91c5c517f3d5b45a2f2af4833c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.2.08_300k.mp4
+uid: e7a21c91c5c517f3d5b45a2f2af4833c
 type: courses
 layout: video
 ---

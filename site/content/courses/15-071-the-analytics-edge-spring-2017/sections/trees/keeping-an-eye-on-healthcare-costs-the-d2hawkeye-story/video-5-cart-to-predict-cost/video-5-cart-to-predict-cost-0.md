@@ -1,13 +1,62 @@
 ---
-title: 'Video 5: CART to Predict Cost'
-uid: 9196362e5f0597e449dad5e565033d6a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Goi9xfybb80
+    parent_uid: 9196362e5f0597e449dad5e565033d6a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8f3b36bdc4be0ee4d3bcb12646fb75ac
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: Goi9xfybb80
+    parent_uid: 9196362e5f0597e449dad5e565033d6a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b5f5a05651ca64486e64d8ee0b495dae
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/Goi9xfybb80/default.jpg'
+    parent_uid: 9196362e5f0597e449dad5e565033d6a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8a1bf49ddf0a848c7919a99cc1eea388
+  - id: Goi9xfybb80.srt
+    parent_uid: 9196362e5f0597e449dad5e565033d6a
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-5-cart-to-predict-cost/video-5-cart-to-predict-cost-0/Goi9xfybb80.srt
+    title: 3play caption file
+    type: null
+    uid: a1c771bcd87f579c4ec1da8d2fffde4e
+  - id: Goi9xfybb80.pdf
+    parent_uid: 9196362e5f0597e449dad5e565033d6a
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-5-cart-to-predict-cost/video-5-cart-to-predict-cost-0/Goi9xfybb80.pdf
+    title: 3play pdf file
+    type: null
+    uid: ba0b929d75537070825a0577f0c677a5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9196362e5f0597e449dad5e565033d6a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: dc23b2cbca1a6e252e5b86ba4eab0edf
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9196362e5f0597e449dad5e565033d6a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 98f55dd9a7b13a8df4bab99ad522f88f
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.3.09_300k.mp4
+    parent_uid: 9196362e5f0597e449dad5e565033d6a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9a409476e06b9c8932274fadbe69c9c3
+inline_embed_id: 99127988video5carttopredictcost18784228
 parent_uid: 41da33e58a10b265e28e4f6bd320913a
+related_resources_text: ''
+short_url: video-5-cart-to-predict-cost-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-5-cart-to-predict-cost/video-5-cart-to-predict-cost-0
-short_url: video-5-cart-to-predict-cost-0
-inline_embed_id: 99127988video5carttopredictcost18784228
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 5: CART to Predict Cost'
 transcript: >-
   <p><span m='4710'>Let</span> <span m='5162'>us</span> <span
   m='5615'>introduce</span> <span m='6068'>the</span> <span
@@ -225,56 +274,7 @@ transcript: >-
   m='233240'>output</span> <span m='233790'>of</span> <span
   m='234340'>the</span> <span m='234890'>analytics</span> <span
   m='235440'>model.</span> </p>
-embedded_media:
-  - uid: 8f3b36bdc4be0ee4d3bcb12646fb75ac
-    parent_uid: 9196362e5f0597e449dad5e565033d6a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Goi9xfybb80
-  - uid: b5f5a05651ca64486e64d8ee0b495dae
-    parent_uid: 9196362e5f0597e449dad5e565033d6a
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Goi9xfybb80
-  - uid: 8a1bf49ddf0a848c7919a99cc1eea388
-    parent_uid: 9196362e5f0597e449dad5e565033d6a
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Goi9xfybb80/default.jpg'
-  - uid: a1c771bcd87f579c4ec1da8d2fffde4e
-    parent_uid: 9196362e5f0597e449dad5e565033d6a
-    id: Goi9xfybb80.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-5-cart-to-predict-cost/video-5-cart-to-predict-cost-0/Goi9xfybb80.srt
-  - uid: ba0b929d75537070825a0577f0c677a5
-    parent_uid: 9196362e5f0597e449dad5e565033d6a
-    id: Goi9xfybb80.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-5-cart-to-predict-cost/video-5-cart-to-predict-cost-0/Goi9xfybb80.pdf
-  - uid: dc23b2cbca1a6e252e5b86ba4eab0edf
-    parent_uid: 9196362e5f0597e449dad5e565033d6a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 98f55dd9a7b13a8df4bab99ad522f88f
-    parent_uid: 9196362e5f0597e449dad5e565033d6a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 9a409476e06b9c8932274fadbe69c9c3
-    parent_uid: 9196362e5f0597e449dad5e565033d6a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.3.09_300k.mp4
+uid: 9196362e5f0597e449dad5e565033d6a
 type: courses
 layout: video
 ---

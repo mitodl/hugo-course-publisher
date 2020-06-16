@@ -1,13 +1,68 @@
 ---
-title: Volume of a Parallelepiped
-uid: bee8823c3f768fe0f672941630146822
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: QCGJVKaCDuI
+    parent_uid: bee8823c3f768fe0f672941630146822
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 75166e2c13d9d77df07664557507c38d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QCGJVKaCDuI/default.jpg'
+    parent_uid: bee8823c3f768fe0f672941630146822
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e11b19590bd08f530b6e1a65861a2fff
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: QCGJVKaCDuI
+    parent_uid: bee8823c3f768fe0f672941630146822
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 75654294a8217b661b1567ef8215bd96
+  - id: QCGJVKaCDuI.srt
+    parent_uid: bee8823c3f768fe0f672941630146822
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-6-volumes-and-determinants-in-space/volume-of-a-parallelepiped/QCGJVKaCDuI.srt
+    title: 3play caption file
+    type: null
+    uid: 64a59066bb7a9868b29a0c1038d8b20d
+  - id: QCGJVKaCDuI.pdf
+    parent_uid: bee8823c3f768fe0f672941630146822
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-6-volumes-and-determinants-in-space/volume-of-a-parallelepiped/QCGJVKaCDuI.pdf
+    title: 3play pdf file
+    type: null
+    uid: acf52632f290146f4057d34c19ca3517
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bee8823c3f768fe0f672941630146822
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f767ee5710d599b97d1fea72324dd8e6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bee8823c3f768fe0f672941630146822
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d22fdd79fb94ee07c8b56e3139bdb5aa
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/volume-of-a-parallelepiped/id414355340?i=90322855
+    parent_uid: bee8823c3f768fe0f672941630146822
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 11d23574741108bae18f8adeccbe6976
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_06_300k.mp4'
+    parent_uid: bee8823c3f768fe0f672941630146822
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 24a66fb5864ab04ea3fc3fe743495488
+inline_embed_id: 15808492volumeofaparallelepiped83365170
 parent_uid: bb78c434746c4a7d4c1a369991a0b5d2
+related_resources_text: ''
+short_url: volume-of-a-parallelepiped
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-6-volumes-and-determinants-in-space/volume-of-a-parallelepiped
-short_url: volume-of-a-parallelepiped
-inline_embed_id: 15808492volumeofaparallelepiped83365170
-about_this_resource_text: ''
-related_resources_text: ''
+title: Volume of a Parallelepiped
 transcript: >-
   <p><span m='7040'>DAVID JORDAN: Hello,</span> <span m='7320'>and</span> <span
   m='7410'>welcome</span> <span m='7670'>back</span> <span m='7880'>to</span>
@@ -161,62 +216,7 @@ transcript: >-
   <span m='174290'>I'll</span> <span m='174360'>leave</span> <span
   m='174530'>it</span> <span m='174600'>at</span> <span m='174700'>that.</span>
   </p>
-embedded_media:
-  - uid: 75166e2c13d9d77df07664557507c38d
-    parent_uid: bee8823c3f768fe0f672941630146822
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QCGJVKaCDuI
-  - uid: e11b19590bd08f530b6e1a65861a2fff
-    parent_uid: bee8823c3f768fe0f672941630146822
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QCGJVKaCDuI/default.jpg'
-  - uid: 75654294a8217b661b1567ef8215bd96
-    parent_uid: bee8823c3f768fe0f672941630146822
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QCGJVKaCDuI
-  - uid: 64a59066bb7a9868b29a0c1038d8b20d
-    parent_uid: bee8823c3f768fe0f672941630146822
-    id: QCGJVKaCDuI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-6-volumes-and-determinants-in-space/volume-of-a-parallelepiped/QCGJVKaCDuI.srt
-  - uid: acf52632f290146f4057d34c19ca3517
-    parent_uid: bee8823c3f768fe0f672941630146822
-    id: QCGJVKaCDuI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-6-volumes-and-determinants-in-space/volume-of-a-parallelepiped/QCGJVKaCDuI.pdf
-  - uid: f767ee5710d599b97d1fea72324dd8e6
-    parent_uid: bee8823c3f768fe0f672941630146822
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d22fdd79fb94ee07c8b56e3139bdb5aa
-    parent_uid: bee8823c3f768fe0f672941630146822
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 11d23574741108bae18f8adeccbe6976
-    parent_uid: bee8823c3f768fe0f672941630146822
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/volume-of-a-parallelepiped/id414355340?i=90322855
-  - uid: 24a66fb5864ab04ea3fc3fe743495488
-    parent_uid: bee8823c3f768fe0f672941630146822
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_06_300k.mp4'
+uid: bee8823c3f768fe0f672941630146822
 type: courses
 layout: video
 ---

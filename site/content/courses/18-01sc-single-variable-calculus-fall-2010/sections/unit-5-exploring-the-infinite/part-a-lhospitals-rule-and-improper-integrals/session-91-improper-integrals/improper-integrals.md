@@ -1,13 +1,68 @@
 ---
-title: Improper Integrals
-uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: owkMzpN8WDc
+    parent_uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 953431c693fd2486b1c203f55637230a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/owkMzpN8WDc/default.jpg'
+    parent_uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 080bd007133c5cc3a1fbb6648b545228
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/improper-integrals/id414308064?i=90320239
+    parent_uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f241976a179308fa2e085637f4d1b518
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_70_300k.mp4'
+    parent_uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7d7bb5b9a0ab5fab19435926b0961590
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: owkMzpN8WDc
+    parent_uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 71693aa6e0afec9f60f361b13f27df01
+  - id: owkMzpN8WDc.srt
+    parent_uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-91-improper-integrals/improper-integrals/owkMzpN8WDc.srt
+    title: 3play caption file
+    type: null
+    uid: 84aea860e0d91036c5e8d5f3d1437679
+  - id: owkMzpN8WDc.pdf
+    parent_uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-91-improper-integrals/improper-integrals/owkMzpN8WDc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 17c025c03b8d153d19bf123b75f828f5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 92aed71714ca8e57bd6765a7cab836a5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 70247d6eff86047e6c9ef98c3505d797
+inline_embed_id: 70544736improperintegrals4310359
 parent_uid: 3fa268819900b3ee4bc8d590323f17dc
+related_resources_text: ''
+short_url: improper-integrals
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-91-improper-integrals/improper-integrals
-short_url: improper-integrals
-inline_embed_id: 70544736improperintegrals4310359
-about_this_resource_text: ''
-related_resources_text: ''
+title: Improper Integrals
 transcript: >-
   <p><span m='6920'>PROFESSOR:</span> <span m='7360'>Welcome back</span> <span
   m='7580'>to</span> <span m='7670'>recitation.</span> <span m='9040'>In</span>
@@ -1514,62 +1569,7 @@ transcript: >-
   m='1176900'>think</span> <span m='1177080'>that's</span> <span
   m='1177230'>where</span> <span m='1177340'>I'll</span> <span
   m='1177440'>stop.</span> </p>
-embedded_media:
-  - uid: 953431c693fd2486b1c203f55637230a
-    parent_uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: owkMzpN8WDc
-  - uid: 080bd007133c5cc3a1fbb6648b545228
-    parent_uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/owkMzpN8WDc/default.jpg'
-  - uid: f241976a179308fa2e085637f4d1b518
-    parent_uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/improper-integrals/id414308064?i=90320239
-  - uid: 7d7bb5b9a0ab5fab19435926b0961590
-    parent_uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_70_300k.mp4'
-  - uid: 71693aa6e0afec9f60f361b13f27df01
-    parent_uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: owkMzpN8WDc
-  - uid: 84aea860e0d91036c5e8d5f3d1437679
-    parent_uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
-    id: owkMzpN8WDc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-91-improper-integrals/improper-integrals/owkMzpN8WDc.srt
-  - uid: 17c025c03b8d153d19bf123b75f828f5
-    parent_uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
-    id: owkMzpN8WDc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-a-lhospitals-rule-and-improper-integrals/session-91-improper-integrals/improper-integrals/owkMzpN8WDc.pdf
-  - uid: 92aed71714ca8e57bd6765a7cab836a5
-    parent_uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 70247d6eff86047e6c9ef98c3505d797
-    parent_uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a5f9ac2bf4777ed4e8ad9cdfd146ae7c
 type: courses
 layout: video
 ---

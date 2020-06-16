@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Least Squares Approximation'
-uid: 3dc50bfe4aac3c755760053db761e0d1
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: AmQcoopBUTk
+    parent_uid: 3dc50bfe4aac3c755760053db761e0d1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 586e63f6bff6a424e8e119d213ac9283
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: AmQcoopBUTk
+    parent_uid: 3dc50bfe4aac3c755760053db761e0d1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8b4c082f1dfe2942faa5e03ee32e106f
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/least-squares-approximation/id488155309?i=108454306
+    parent_uid: 3dc50bfe4aac3c755760053db761e0d1
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: dbdc79d2fda294d5de7d706e46028e76
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110531_B1_300k.mp4
+    parent_uid: 3dc50bfe4aac3c755760053db761e0d1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2f5d6fc226a62c75b5c061a2ba12e8cb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/AmQcoopBUTk/default.jpg'
+    parent_uid: 3dc50bfe4aac3c755760053db761e0d1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c33a8c755c308f6f5aafca1ee770556f
+  - id: AmQcoopBUTk.srt
+    parent_uid: 3dc50bfe4aac3c755760053db761e0d1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-least-squares-approximation/AmQcoopBUTk.srt
+    title: 3play caption file
+    type: null
+    uid: c49d8a546b1c70faf195751f46042b06
+  - id: AmQcoopBUTk.pdf
+    parent_uid: 3dc50bfe4aac3c755760053db761e0d1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-least-squares-approximation/AmQcoopBUTk.pdf
+    title: 3play pdf file
+    type: null
+    uid: f0931a3768f4b043970be18650568e41
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3dc50bfe4aac3c755760053db761e0d1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1bfcf61161a58e1b54b1eba41fb73543
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3dc50bfe4aac3c755760053db761e0d1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: dd7748f6895414d9edf83dc9e4a1e774
+inline_embed_id: 88421774problemsolvingleastsquaresapproximation11844463
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: problem-solving-least-squares-approximation
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-least-squares-approximation
-short_url: problem-solving-least-squares-approximation
-inline_embed_id: 88421774problemsolvingleastsquaresapproximation11844463
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Least Squares Approximation'
 transcript: >-
   <p><span m='7980'>PROFESSOR: Hi,</span> <span m='8320'>and</span> <span
   m='8480'>welcome.</span> <span m='9430'>Today</span> <span
@@ -391,63 +447,7 @@ transcript: >-
   <span m='479100'>close</span> <span m='479550'>as</span> <span
   m='479740'>we</span> <span m='479910'>can</span> <span m='480230'>do.</span>
   <span m='481910'>Thanks.</span> </p>
-embedded_media:
-  - uid: 586e63f6bff6a424e8e119d213ac9283
-    parent_uid: 3dc50bfe4aac3c755760053db761e0d1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: AmQcoopBUTk
-  - uid: 8b4c082f1dfe2942faa5e03ee32e106f
-    parent_uid: 3dc50bfe4aac3c755760053db761e0d1
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: AmQcoopBUTk
-  - uid: dbdc79d2fda294d5de7d706e46028e76
-    parent_uid: 3dc50bfe4aac3c755760053db761e0d1
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/least-squares-approximation/id488155309?i=108454306
-  - uid: 2f5d6fc226a62c75b5c061a2ba12e8cb
-    parent_uid: 3dc50bfe4aac3c755760053db761e0d1
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110531_B1_300k.mp4
-  - uid: c33a8c755c308f6f5aafca1ee770556f
-    parent_uid: 3dc50bfe4aac3c755760053db761e0d1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/AmQcoopBUTk/default.jpg'
-  - uid: c49d8a546b1c70faf195751f46042b06
-    parent_uid: 3dc50bfe4aac3c755760053db761e0d1
-    id: AmQcoopBUTk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-least-squares-approximation/AmQcoopBUTk.srt
-  - uid: f0931a3768f4b043970be18650568e41
-    parent_uid: 3dc50bfe4aac3c755760053db761e0d1
-    id: AmQcoopBUTk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-least-squares-approximation/AmQcoopBUTk.pdf
-  - uid: 1bfcf61161a58e1b54b1eba41fb73543
-    parent_uid: 3dc50bfe4aac3c755760053db761e0d1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: dd7748f6895414d9edf83dc9e4a1e774
-    parent_uid: 3dc50bfe4aac3c755760053db761e0d1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 3dc50bfe4aac3c755760053db761e0d1
 type: courses
 layout: video
 ---

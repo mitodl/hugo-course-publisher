@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 16: Oligopoly I'
-uid: 8361fefade400714e9c68b151720ada7
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: e3Bsb1mELcc
+    parent_uid: 8361fefade400714e9c68b151720ada7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: aa728dd1bdae1cc930d03f6103b2fcdd
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/e3Bsb1mELcc/default.jpg'
+    parent_uid: 8361fefade400714e9c68b151720ada7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 01cd3af70e6e15cfa5944d6245b0db64
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: e3Bsb1mELcc
+    parent_uid: 8361fefade400714e9c68b151720ada7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c8fafb71501f141414019f97a2642d30
+  - id: e3Bsb1mELcc.srt
+    parent_uid: 8361fefade400714e9c68b151720ada7
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-5-monopoly-and-oligopoly/oligopoly-i/lecture-16-oligopoly-i/e3Bsb1mELcc.srt
+    title: 3play caption file
+    type: null
+    uid: 9a0df538f463c303fc3c621940da5fcf
+  - id: e3Bsb1mELcc.pdf
+    parent_uid: 8361fefade400714e9c68b151720ada7
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-5-monopoly-and-oligopoly/oligopoly-i/lecture-16-oligopoly-i/e3Bsb1mELcc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 51828293bfa97b52fadff6c1b9fcf5f8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8361fefade400714e9c68b151720ada7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7e598ed16395730ab907076408ef5fc7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8361fefade400714e9c68b151720ada7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e7b450c3ac6b3c533b2a856936478b55
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec16_300k.mp4'
+    parent_uid: 8361fefade400714e9c68b151720ada7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 722fcc92b55c0f2f290133ee1a792e6c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-16-oligopoly/id496265654?i=110157709
+    parent_uid: 8361fefade400714e9c68b151720ada7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 47b2526b77255cfbc40cd5491335b797
+inline_embed_id: 47025669lecture16oligopolyi41175934
 parent_uid: 2345b16d4f54dfc7a81191d1d1abbca2
+related_resources_text: ''
+short_url: lecture-16-oligopoly-i
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-5-monopoly-and-oligopoly/oligopoly-i/lecture-16-oligopoly-i
-short_url: lecture-16-oligopoly-i
-inline_embed_id: 47025669lecture16oligopolyi41175934
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 16: Oligopoly I'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -3413,62 +3468,7 @@ transcript: >-
   m='3001670'>we'll</span> <span m='3001770'>do</span> <span
   m='3001860'>the</span> <span m='3001950'>math</span> <span m='3002220'>behind
   it</span> <span m='3002530'>as</span> <span m='3002710'>well.</span> </p>
-embedded_media:
-  - uid: aa728dd1bdae1cc930d03f6103b2fcdd
-    parent_uid: 8361fefade400714e9c68b151720ada7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: e3Bsb1mELcc
-  - uid: 01cd3af70e6e15cfa5944d6245b0db64
-    parent_uid: 8361fefade400714e9c68b151720ada7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/e3Bsb1mELcc/default.jpg'
-  - uid: c8fafb71501f141414019f97a2642d30
-    parent_uid: 8361fefade400714e9c68b151720ada7
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: e3Bsb1mELcc
-  - uid: 9a0df538f463c303fc3c621940da5fcf
-    parent_uid: 8361fefade400714e9c68b151720ada7
-    id: e3Bsb1mELcc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-5-monopoly-and-oligopoly/oligopoly-i/lecture-16-oligopoly-i/e3Bsb1mELcc.srt
-  - uid: 51828293bfa97b52fadff6c1b9fcf5f8
-    parent_uid: 8361fefade400714e9c68b151720ada7
-    id: e3Bsb1mELcc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-5-monopoly-and-oligopoly/oligopoly-i/lecture-16-oligopoly-i/e3Bsb1mELcc.pdf
-  - uid: 7e598ed16395730ab907076408ef5fc7
-    parent_uid: 8361fefade400714e9c68b151720ada7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e7b450c3ac6b3c533b2a856936478b55
-    parent_uid: 8361fefade400714e9c68b151720ada7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 722fcc92b55c0f2f290133ee1a792e6c
-    parent_uid: 8361fefade400714e9c68b151720ada7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec16_300k.mp4'
-  - uid: 47b2526b77255cfbc40cd5491335b797
-    parent_uid: 8361fefade400714e9c68b151720ada7
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-16-oligopoly/id496265654?i=110157709
+uid: 8361fefade400714e9c68b151720ada7
 type: courses
 layout: video
 ---

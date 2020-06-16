@@ -1,13 +1,73 @@
 ---
-title: Strong Induction
-uid: bafc0b54f818f5fd3f4464ab6a7c5d29
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: e047b78d2d68fa471c0a97513dd8e988
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e224ca6bcc9d2cbb980c7b10503d4125
+  - id: Video-YouTube-Stream
+    media_location: TUueMeRooBk
+    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
+    title: Video-YouTube-Stream
+    type: Video
+    uid: af3a43e639763ff9f2aaff3cc9c392ae
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TUueMeRooBk/default.jpg'
+    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0abd52a0dcdc714c5a490533b955f657
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: TUueMeRooBk
+    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7bd82204018af165360a3d9fa155530f
+  - id: TUueMeRooBk.srt
+    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/vertical-828ce2b900d3/strong-induction/TUueMeRooBk.srt
+    title: 3play caption file
+    type: null
+    uid: de3f72191b1df62d53d0ce0c7bd75ede
+  - id: TUueMeRooBk.pdf
+    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/vertical-828ce2b900d3/strong-induction/TUueMeRooBk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 11a3535d15f5925da0c4cf83dfe36721
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2706a150d938493f97d54b6730eb2d86
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ce47becdeed0f9f6b4851501d7bdc4d8
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_stronginduction_ipod.mp4
+    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bd07d1dc0bee08a5af9b5953e8063be4
+inline_embed_id: 1661421stronginduction58104222
 parent_uid: e659ea46e05da0134891d46568748b97
+related_resources_text: ''
+short_url: strong-induction
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/vertical-828ce2b900d3/strong-induction
-short_url: strong-induction
-inline_embed_id: 1661421stronginduction58104222
-about_this_resource_text: ''
-related_resources_text: ''
+title: Strong Induction
 transcript: >-
   <p><span m='1010'>PROFESSOR: So</span> <span m='1160'>now</span> <span
   m='1310'>we</span> <span m='1420'>come</span> <span m='1650'>to</span> <span
@@ -806,67 +866,7 @@ transcript: >-
   m='599870'>your</span> <span m='600030'>score</span> <span
   m='600370'>comes</span> <span m='600670'>out</span> <span
   m='600870'>the</span> <span m='600960'>same.</span> </p>
-embedded_media:
-  - uid: e047b78d2d68fa471c0a97513dd8e988
-    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: e224ca6bcc9d2cbb980c7b10503d4125
-    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: af3a43e639763ff9f2aaff3cc9c392ae
-    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TUueMeRooBk
-  - uid: 0abd52a0dcdc714c5a490533b955f657
-    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TUueMeRooBk/default.jpg'
-  - uid: 7bd82204018af165360a3d9fa155530f
-    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TUueMeRooBk
-  - uid: de3f72191b1df62d53d0ce0c7bd75ede
-    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
-    id: TUueMeRooBk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/vertical-828ce2b900d3/strong-induction/TUueMeRooBk.srt
-  - uid: 11a3535d15f5925da0c4cf83dfe36721
-    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
-    id: TUueMeRooBk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-1/vertical-828ce2b900d3/strong-induction/TUueMeRooBk.pdf
-  - uid: 2706a150d938493f97d54b6730eb2d86
-    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ce47becdeed0f9f6b4851501d7bdc4d8
-    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: bd07d1dc0bee08a5af9b5953e8063be4
-    parent_uid: bafc0b54f818f5fd3f4464ab6a7c5d29
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_stronginduction_ipod.mp4
+uid: bafc0b54f818f5fd3f4464ab6a7c5d29
 type: courses
 layout: video
 ---

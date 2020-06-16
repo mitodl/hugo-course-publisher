@@ -1,13 +1,62 @@
 ---
-title: 'Video 7: Comparing Methods'
-uid: 7d9d982ffc1f4c98ad85839fd33007f7
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 8ryWylXv0WE
+    parent_uid: 7d9d982ffc1f4c98ad85839fd33007f7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 559c32407b36904271e9c5dd420d8a40
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 8ryWylXv0WE
+    parent_uid: 7d9d982ffc1f4c98ad85839fd33007f7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4c0d0698c9d82c7b804c0309b85a8c6a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/8ryWylXv0WE/default.jpg'
+    parent_uid: 7d9d982ffc1f4c98ad85839fd33007f7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 47acb6bea4b7084e445039b4e76f5592
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.4.09_300k.mp4
+    parent_uid: 7d9d982ffc1f4c98ad85839fd33007f7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2bd5d66c73afb1c4fcb9ea595bd2ab5a
+  - id: 8ryWylXv0WE.srt
+    parent_uid: 7d9d982ffc1f4c98ad85839fd33007f7
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-7-comparing-methods/video-7-comparing-methods-0/8ryWylXv0WE.srt
+    title: 3play caption file
+    type: null
+    uid: 9203dc7d4507d3e8e3a28c28072f0248
+  - id: 8ryWylXv0WE.pdf
+    parent_uid: 7d9d982ffc1f4c98ad85839fd33007f7
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-7-comparing-methods/video-7-comparing-methods-0/8ryWylXv0WE.pdf
+    title: 3play pdf file
+    type: null
+    uid: a376515e5ee9958b9b814c3b009e3443
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7d9d982ffc1f4c98ad85839fd33007f7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0e791886c6a53383a3cce97a1e226ee7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7d9d982ffc1f4c98ad85839fd33007f7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b83b5a7b108288c6079902a0a6cb32c0
+inline_embed_id: 98552807video7comparingmethods2988751
 parent_uid: f38d14c2d66c55044b9e071235d5fdd8
+related_resources_text: ''
+short_url: video-7-comparing-methods-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-7-comparing-methods/video-7-comparing-methods-0
-short_url: video-7-comparing-methods-0
-inline_embed_id: 98552807video7comparingmethods2988751
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 7: Comparing Methods'
 transcript: >-
   <p><span m='5130'>In</span> <span m='5416'>this</span> <span
   m='5702'>video</span> <span m='5988'>we</span> <span m='6274'>will</span>
@@ -256,56 +305,7 @@ transcript: >-
   m='217760'>the</span> <span m='218210'>competition</span> <span
   m='218660'>week.</span> </p><p><span m='219110'>Good</span> <span
   m='220065'>luck.</span> </p>
-embedded_media:
-  - uid: 559c32407b36904271e9c5dd420d8a40
-    parent_uid: 7d9d982ffc1f4c98ad85839fd33007f7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 8ryWylXv0WE
-  - uid: 4c0d0698c9d82c7b804c0309b85a8c6a
-    parent_uid: 7d9d982ffc1f4c98ad85839fd33007f7
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 8ryWylXv0WE
-  - uid: 47acb6bea4b7084e445039b4e76f5592
-    parent_uid: 7d9d982ffc1f4c98ad85839fd33007f7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8ryWylXv0WE/default.jpg'
-  - uid: 2bd5d66c73afb1c4fcb9ea595bd2ab5a
-    parent_uid: 7d9d982ffc1f4c98ad85839fd33007f7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.4.09_300k.mp4
-  - uid: 9203dc7d4507d3e8e3a28c28072f0248
-    parent_uid: 7d9d982ffc1f4c98ad85839fd33007f7
-    id: 8ryWylXv0WE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-7-comparing-methods/video-7-comparing-methods-0/8ryWylXv0WE.srt
-  - uid: a376515e5ee9958b9b814c3b009e3443
-    parent_uid: 7d9d982ffc1f4c98ad85839fd33007f7
-    id: 8ryWylXv0WE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-7-comparing-methods/video-7-comparing-methods-0/8ryWylXv0WE.pdf
-  - uid: 0e791886c6a53383a3cce97a1e226ee7
-    parent_uid: 7d9d982ffc1f4c98ad85839fd33007f7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b83b5a7b108288c6079902a0a6cb32c0
-    parent_uid: 7d9d982ffc1f4c98ad85839fd33007f7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 7d9d982ffc1f4c98ad85839fd33007f7
 type: courses
 layout: video
 ---

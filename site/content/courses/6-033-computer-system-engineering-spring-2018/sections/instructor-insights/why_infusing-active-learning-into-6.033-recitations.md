@@ -1,13 +1,61 @@
 ---
-title: Why Infuse Active Learning into 6.033 Recitations?
-uid: 1e7e49dc3b37e0d9d36297d4a6e5e423
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: r2_-2KW76ec
+    parent_uid: 1e7e49dc3b37e0d9d36297d4a6e5e423
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d38ebf550e5f5c1d8bb809e99c583604
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/r2_-2KW76ec/default.jpg'
+    parent_uid: 1e7e49dc3b37e0d9d36297d4a6e5e423
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9ad8b6b64c61243b9dd53981b6c82e2e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: r2_-2KW76ec
+    parent_uid: 1e7e49dc3b37e0d9d36297d4a6e5e423
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 83516b91ba2997bdbb8c29dde95b7d76
+  - id: r2_-2KW76ec.srt
+    parent_uid: 1e7e49dc3b37e0d9d36297d4a6e5e423
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/why_infusing-active-learning-into-6.033-recitations/r2_-2KW76ec.srt
+    title: 3play caption file
+    type: null
+    uid: bf82734625013e42f6858e184a4e25f2
+  - id: r2_-2KW76ec.pdf
+    parent_uid: 1e7e49dc3b37e0d9d36297d4a6e5e423
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/why_infusing-active-learning-into-6.033-recitations/r2_-2KW76ec.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6eb1ae9f40ad290423a03116bbdfaf75
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1e7e49dc3b37e0d9d36297d4a6e5e423
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6435533b12b08ceb0e6bc1bf0b07711a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1e7e49dc3b37e0d9d36297d4a6e5e423
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8c123026e95f2303977b8dd7e9dfda2d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.033S18/MIT6_033S18_DUET_Lecture_300k.mp4'
+    parent_uid: 1e7e49dc3b37e0d9d36297d4a6e5e423
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6bf1443ad8ad37d7df2c7c6599047d4c
+inline_embed_id: 8987173whyinfuseactivelearninginto6.033recitations61553139
 parent_uid: e75a8c08e11786c535031b5e10f0fe19
+related_resources_text: ''
+short_url: why_infusing-active-learning-into-6.033-recitations
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/why_infusing-active-learning-into-6.033-recitations
-short_url: why_infusing-active-learning-into-6.033-recitations
-inline_embed_id: 8987173whyinfuseactivelearninginto6.033recitations61553139
-about_this_resource_text: ''
-related_resources_text: ''
+title: Why Infuse Active Learning into 6.033 Recitations?
 transcript: >-
   <p><span m="1645">The</span> <span m="1690">following</span> <span
   m="2110">content</span> <span m="2680">is</span> <span
@@ -4623,55 +4671,7 @@ transcript: >-
   m="3139010">off</span> <span m="3139310">to</span> <span
   m="3139490">Jesse</span> <span m="3139940">and</span> <span
   m="3140270">Karen.</span></p>
-embedded_media:
-  - uid: d38ebf550e5f5c1d8bb809e99c583604
-    parent_uid: 1e7e49dc3b37e0d9d36297d4a6e5e423
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: r2_-2KW76ec
-  - uid: 9ad8b6b64c61243b9dd53981b6c82e2e
-    parent_uid: 1e7e49dc3b37e0d9d36297d4a6e5e423
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/r2_-2KW76ec/default.jpg'
-  - uid: 83516b91ba2997bdbb8c29dde95b7d76
-    parent_uid: 1e7e49dc3b37e0d9d36297d4a6e5e423
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: r2_-2KW76ec
-  - uid: bf82734625013e42f6858e184a4e25f2
-    parent_uid: 1e7e49dc3b37e0d9d36297d4a6e5e423
-    id: r2_-2KW76ec.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/why_infusing-active-learning-into-6.033-recitations/r2_-2KW76ec.srt
-  - uid: 6eb1ae9f40ad290423a03116bbdfaf75
-    parent_uid: 1e7e49dc3b37e0d9d36297d4a6e5e423
-    id: r2_-2KW76ec.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/why_infusing-active-learning-into-6.033-recitations/r2_-2KW76ec.pdf
-  - uid: 6435533b12b08ceb0e6bc1bf0b07711a
-    parent_uid: 1e7e49dc3b37e0d9d36297d4a6e5e423
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8c123026e95f2303977b8dd7e9dfda2d
-    parent_uid: 1e7e49dc3b37e0d9d36297d4a6e5e423
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6bf1443ad8ad37d7df2c7c6599047d4c
-    parent_uid: 1e7e49dc3b37e0d9d36297d4a6e5e423
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.033S18/MIT6_033S18_DUET_Lecture_300k.mp4'
+uid: 1e7e49dc3b37e0d9d36297d4a6e5e423
 type: courses
 layout: video
 ---

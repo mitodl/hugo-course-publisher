@@ -1,18 +1,72 @@
 ---
-title: 'Lecture 21: Acid-Base Equilibrium: Is MIT Water Safe to Drink?'
-uid: 6c9fdac528fc89a70cdf7682c8f50ff0
-parent_uid: 1f4d2b01744213a244311f67ec24ecae
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-21/lecture-21-acid-base-equilibrium-is-mit-water-safe-to-drink
-short_url: lecture-21-acid-base-equilibrium-is-mit-water-safe-to-drink
-inline_embed_id: 80678661lecture21acidbaseequilibriumismitwatersafetodrink5166415
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: If the pH of water was 2, would you drink it? What
   about if the water had a pH of 11? The lecture introduces the concept of pH
   and we measure the pH of various common solutions.</p>
   <p><strong>Instructor:</strong> Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: pJdUR2uak2s
+    parent_uid: 6c9fdac528fc89a70cdf7682c8f50ff0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1b1ac740e367b3418611a49ebab2b3af
+  - id: pJdUR2uak2s.srt
+    parent_uid: 6c9fdac528fc89a70cdf7682c8f50ff0
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-21/lecture-21-acid-base-equilibrium-is-mit-water-safe-to-drink/pJdUR2uak2s.srt
+    title: 3play caption file
+    type: null
+    uid: eddb9fc0e23bccb9191a1fa78a862bba
+  - id: pJdUR2uak2s.pdf
+    parent_uid: 6c9fdac528fc89a70cdf7682c8f50ff0
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-21/lecture-21-acid-base-equilibrium-is-mit-water-safe-to-drink/pJdUR2uak2s.pdf
+    title: 3play pdf file
+    type: null
+    uid: 80da7f78cb1df7c86710ab49d20c2c8d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6c9fdac528fc89a70cdf7682c8f50ff0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2df1508581bc5271f485f44ee08f349c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6c9fdac528fc89a70cdf7682c8f50ff0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fdb1b9481867d431053835b3d1a6763d
+  - id: Video-YouTube-Stream
+    media_location: pJdUR2uak2s
+    parent_uid: 6c9fdac528fc89a70cdf7682c8f50ff0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6a630446903bae59b99b47812fde069e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/pJdUR2uak2s/default.jpg'
+    parent_uid: 6c9fdac528fc89a70cdf7682c8f50ff0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1ed2b9bd777e459fa0a4b9d4837c691f
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L21_300k.mp4'
+    parent_uid: 6c9fdac528fc89a70cdf7682c8f50ff0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a5bc944b754f2515fc541fe1db01fbdf
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: 6c9fdac528fc89a70cdf7682c8f50ff0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7dbcac50f2ba2ece08284dd0e6748b7d
+inline_embed_id: 80678661lecture21acidbaseequilibriumismitwatersafetodrink5166415
+parent_uid: 1f4d2b01744213a244311f67ec24ecae
 related_resources_text: ''
+short_url: lecture-21-acid-base-equilibrium-is-mit-water-safe-to-drink
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-21/lecture-21-acid-base-equilibrium-is-mit-water-safe-to-drink
+title: 'Lecture 21: Acid-Base Equilibrium: Is MIT Water Safe to Drink?'
 transcript: >-
   <p><span m="30">The</span> <span m="130">following</span> <span
   m="600">content</span> <span m="1090">is</span> <span m="1210">provided</span>
@@ -3707,61 +3761,7 @@ transcript: >-
   m="3609530">good</span> <span m="3609690">time.</span> <span
   m="3610300">Write</span> <span m="3610590">neatly,</span> <span
   m="3610970">please.</span></p>
-embedded_media:
-  - uid: 1b1ac740e367b3418611a49ebab2b3af
-    parent_uid: 6c9fdac528fc89a70cdf7682c8f50ff0
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: pJdUR2uak2s
-  - uid: eddb9fc0e23bccb9191a1fa78a862bba
-    parent_uid: 6c9fdac528fc89a70cdf7682c8f50ff0
-    id: pJdUR2uak2s.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-21/lecture-21-acid-base-equilibrium-is-mit-water-safe-to-drink/pJdUR2uak2s.srt
-  - uid: 80da7f78cb1df7c86710ab49d20c2c8d
-    parent_uid: 6c9fdac528fc89a70cdf7682c8f50ff0
-    id: pJdUR2uak2s.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-21/lecture-21-acid-base-equilibrium-is-mit-water-safe-to-drink/pJdUR2uak2s.pdf
-  - uid: 2df1508581bc5271f485f44ee08f349c
-    parent_uid: 6c9fdac528fc89a70cdf7682c8f50ff0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fdb1b9481867d431053835b3d1a6763d
-    parent_uid: 6c9fdac528fc89a70cdf7682c8f50ff0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6a630446903bae59b99b47812fde069e
-    parent_uid: 6c9fdac528fc89a70cdf7682c8f50ff0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: pJdUR2uak2s
-  - uid: 1ed2b9bd777e459fa0a4b9d4837c691f
-    parent_uid: 6c9fdac528fc89a70cdf7682c8f50ff0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/pJdUR2uak2s/default.jpg'
-  - uid: a5bc944b754f2515fc541fe1db01fbdf
-    parent_uid: 6c9fdac528fc89a70cdf7682c8f50ff0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L21_300k.mp4'
-  - uid: 7dbcac50f2ba2ece08284dd0e6748b7d
-    parent_uid: 6c9fdac528fc89a70cdf7682c8f50ff0
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+uid: 6c9fdac528fc89a70cdf7682c8f50ff0
 type: courses
 layout: video
 ---

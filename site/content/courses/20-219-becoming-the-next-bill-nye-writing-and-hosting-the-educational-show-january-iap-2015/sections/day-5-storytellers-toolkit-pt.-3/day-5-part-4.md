@@ -1,13 +1,67 @@
 ---
-title: 'Day 5, Part 4'
-uid: e59b1cc63485b384b0b030ae4ffa2f78
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 02NyrrxEGqM
+    parent_uid: e59b1cc63485b384b0b030ae4ffa2f78
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b69093854fa83f528e14a6f5fde8adb6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/02NyrrxEGqM/default.jpg'
+    parent_uid: e59b1cc63485b384b0b030ae4ffa2f78
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 934e97dc18a60b7cf5604fc07821ca4c
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 02NyrrxEGqM
+    parent_uid: e59b1cc63485b384b0b030ae4ffa2f78
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ce8aad6d5b711d6b45bfbc1b91c5106b
+  - id: 02NyrrxEGqM.srt
+    parent_uid: e59b1cc63485b384b0b030ae4ffa2f78
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-5-storytellers-toolkit-pt.-3/day-5-part-4/02NyrrxEGqM.srt
+    title: 3play caption file
+    type: null
+    uid: c688323eb1c6175d3173c3c490894dd4
+  - id: 02NyrrxEGqM.pdf
+    parent_uid: e59b1cc63485b384b0b030ae4ffa2f78
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-5-storytellers-toolkit-pt.-3/day-5-part-4/02NyrrxEGqM.pdf
+    title: 3play pdf file
+    type: null
+    uid: c4a1c391975565aed48b8647f3118b21
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e59b1cc63485b384b0b030ae4ffa2f78
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 544c3a2624b764d65cf1e8273b25d76c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e59b1cc63485b384b0b030ae4ffa2f78
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e971c839114df6f9f63705ed415ea178
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: e59b1cc63485b384b0b030ae4ffa2f78
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 118834174c03dc1b17d03e70ded2c629
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D05P4_300k.mp4'
+    parent_uid: e59b1cc63485b384b0b030ae4ffa2f78
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ef46f2d26817f235989fffee01603e88
+inline_embed_id: '98835927day5,part475441368'
 parent_uid: eee7bfe91be2975c496fb04747f0e092
+related_resources_text: ''
+short_url: day-5-part-4
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-5-storytellers-toolkit-pt.-3/day-5-part-4
-short_url: day-5-part-4
-inline_embed_id: '98835927day5,part475441368'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Day 5, Part 4'
 transcript: >-
   <p><span m='80'>The</span> <span m='170'>following</span> <span
   m='610'>content</span> <span m='1120'>is</span> <span m='1230'>provided</span>
@@ -121,61 +175,7 @@ transcript: >-
   m='150140'>water,</span> <span m='150440'>[INAUDIBLE]</span> </p><p><span
   m='151040'>MALE SPEAKER: So like,</span> <span m='151340'>I'm kind of</span>
   <span m='151640'>like--</span> <span m='151940'>[INAUDIBLE]</span> </p>
-embedded_media:
-  - uid: b69093854fa83f528e14a6f5fde8adb6
-    parent_uid: e59b1cc63485b384b0b030ae4ffa2f78
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 02NyrrxEGqM
-  - uid: 934e97dc18a60b7cf5604fc07821ca4c
-    parent_uid: e59b1cc63485b384b0b030ae4ffa2f78
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/02NyrrxEGqM/default.jpg'
-  - uid: ce8aad6d5b711d6b45bfbc1b91c5106b
-    parent_uid: e59b1cc63485b384b0b030ae4ffa2f78
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 02NyrrxEGqM
-  - uid: c688323eb1c6175d3173c3c490894dd4
-    parent_uid: e59b1cc63485b384b0b030ae4ffa2f78
-    id: 02NyrrxEGqM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-5-storytellers-toolkit-pt.-3/day-5-part-4/02NyrrxEGqM.srt
-  - uid: c4a1c391975565aed48b8647f3118b21
-    parent_uid: e59b1cc63485b384b0b030ae4ffa2f78
-    id: 02NyrrxEGqM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-5-storytellers-toolkit-pt.-3/day-5-part-4/02NyrrxEGqM.pdf
-  - uid: 544c3a2624b764d65cf1e8273b25d76c
-    parent_uid: e59b1cc63485b384b0b030ae4ffa2f78
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e971c839114df6f9f63705ed415ea178
-    parent_uid: e59b1cc63485b384b0b030ae4ffa2f78
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 118834174c03dc1b17d03e70ded2c629
-    parent_uid: e59b1cc63485b384b0b030ae4ffa2f78
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: ef46f2d26817f235989fffee01603e88
-    parent_uid: e59b1cc63485b384b0b030ae4ffa2f78
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D05P4_300k.mp4'
+uid: e59b1cc63485b384b0b030ae4ffa2f78
 type: courses
 layout: video
 ---

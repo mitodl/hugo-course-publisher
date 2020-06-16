@@ -1,13 +1,73 @@
 ---
-title: Law Of Large Numbers
-uid: 2c7c152b3256f937767a7ff961c6d5ea
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 1e81feeccf3994c7e4278706fc82c35a
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8662e00509cfa11b3a107d5150d2e736
+  - id: Video-YouTube-Stream
+    media_location: '-yo3YxfY47g'
+    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 226ad4f6c8f40a1e6ca76f5979f54391
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-yo3YxfY47g/default.jpg'
+    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8f4cbda2ba0bed8e8594484064bdd3bc
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: '-yo3YxfY47g'
+    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 88724514acf52151f76e62d3a3e66786
+  - id: '-yo3YxfY47g.srt'
+    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/law-of-large-numbers/-yo3YxfY47g.srt
+    title: 3play caption file
+    type: null
+    uid: b95845188cd628b62d1f26d6fc8e9e6a
+  - id: '-yo3YxfY47g.pdf'
+    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/law-of-large-numbers/-yo3YxfY47g.pdf
+    title: 3play pdf file
+    type: null
+    uid: e34a4b166e992d40c3eaae49738b22b2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f88479064f0568bc3b9f78533d54a197
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f18091c2d4f71e2bc3895cc6e215c843
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_largenumbers_video_ipod.mp4
+    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 793dea594f41a13f543b37be19a01c99
+inline_embed_id: 76014672lawoflargenumbers53181929
 parent_uid: a3bc4574329a2834df030de577ce1f81
+related_resources_text: ''
+short_url: law-of-large-numbers
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/law-of-large-numbers
-short_url: law-of-large-numbers
-inline_embed_id: 76014672lawoflargenumbers53181929
-about_this_resource_text: ''
-related_resources_text: ''
+title: Law Of Large Numbers
 transcript: >-
   <p><span m='570'>PROFESSOR: The</span> <span m='710'>law</span> <span
   m='1060'>of</span> <span m='1220'>large</span> <span m='1590'>numbers</span>
@@ -932,67 +992,7 @@ transcript: >-
   <span m='824910'>which</span> <span m='825460'>the</span> <span
   m='825570'>limit</span> <span m='825880'>is</span> <span
   m='826050'>approached.</span> </p>
-embedded_media:
-  - uid: 1e81feeccf3994c7e4278706fc82c35a
-    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 8662e00509cfa11b3a107d5150d2e736
-    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 226ad4f6c8f40a1e6ca76f5979f54391
-    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-yo3YxfY47g'
-  - uid: 8f4cbda2ba0bed8e8594484064bdd3bc
-    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-yo3YxfY47g/default.jpg'
-  - uid: 88724514acf52151f76e62d3a3e66786
-    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-yo3YxfY47g'
-  - uid: b95845188cd628b62d1f26d6fc8e9e6a
-    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
-    id: '-yo3YxfY47g.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/law-of-large-numbers/-yo3YxfY47g.srt
-  - uid: e34a4b166e992d40c3eaae49738b22b2
-    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
-    id: '-yo3YxfY47g.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp14-1/law-of-large-numbers/-yo3YxfY47g.pdf
-  - uid: f88479064f0568bc3b9f78533d54a197
-    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f18091c2d4f71e2bc3895cc6e215c843
-    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 793dea594f41a13f543b37be19a01c99
-    parent_uid: 2c7c152b3256f937767a7ff961c6d5ea
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_largenumbers_video_ipod.mp4
+uid: 2c7c152b3256f937767a7ff961c6d5ea
 type: courses
 layout: video
 ---

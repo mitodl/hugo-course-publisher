@@ -1,13 +1,67 @@
 ---
-title: DD.2.3 1D Elastic Collision Velocities in CM Frame
-uid: 85c19f4f400f6162c58aacc54f6a3df9
+about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 7x62TdS0Nn0
+    parent_uid: 85c19f4f400f6162c58aacc54f6a3df9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 75808d9223c070ece7c6e66b247a65be
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/7x62TdS0Nn0/default.jpg'
+    parent_uid: 85c19f4f400f6162c58aacc54f6a3df9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d07363ebec7bf6f3e3c74c9c59e55c52
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 7x62TdS0Nn0
+    parent_uid: 85c19f4f400f6162c58aacc54f6a3df9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 63850709374ca741e9ff32083cb712da
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 85c19f4f400f6162c58aacc54f6a3df9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 207ca804c76d6bb15a0b80ac127b51c6
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_DD_CMframe3_360p.mp4'
+    parent_uid: 85c19f4f400f6162c58aacc54f6a3df9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4afa56c3433db81f9a486ee45ee9df73
+  - id: 7x62TdS0Nn0.srt
+    parent_uid: 85c19f4f400f6162c58aacc54f6a3df9
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.3-1d-elastic-collision-velocities-in-cm-frame/dd.2.3-1d-elastic-collision-velocities-in-cm-frame/7x62TdS0Nn0.srt
+    title: 3play caption file
+    type: null
+    uid: 59cd0d415adaebefc7b37ea51c4b4455
+  - id: 7x62TdS0Nn0.pdf
+    parent_uid: 85c19f4f400f6162c58aacc54f6a3df9
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.3-1d-elastic-collision-velocities-in-cm-frame/dd.2.3-1d-elastic-collision-velocities-in-cm-frame/7x62TdS0Nn0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8bcbc9ee40f64fd85e027049932b43e1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 85c19f4f400f6162c58aacc54f6a3df9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e0e756d938acf4d630077c57e33f7c44
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 85c19f4f400f6162c58aacc54f6a3df9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9351403f0afbc1009834a4e1ff8fc905
+inline_embed_id: 73099066dd.2.31delasticcollisionvelocitiesincmframe90334014
 parent_uid: 97f0d15bd57aaf5151bf26eb9fbf5004
+related_resources_text: ''
+short_url: dd.2.3-1d-elastic-collision-velocities-in-cm-frame
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.3-1d-elastic-collision-velocities-in-cm-frame/dd.2.3-1d-elastic-collision-velocities-in-cm-frame
-short_url: dd.2.3-1d-elastic-collision-velocities-in-cm-frame
-inline_embed_id: 73099066dd.2.31delasticcollisionvelocitiesincmframe90334014
-about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
-related_resources_text: ''
+title: DD.2.3 1D Elastic Collision Velocities in CM Frame
 transcript: >-
   <p><span m='3450'>Let's examine the velocities of objects</span> <span
   m='6150'>in the center of mass reference frame.</span> </p><p><span
@@ -62,61 +116,7 @@ transcript: >-
   m='213300'>in the center of mass reference frame,</span> <span
   m='215090'>their speeds do not change.</span> </p><p><span m='217870'>Only the
   direction of their velocities change.</span> </p><p></p>
-embedded_media:
-  - uid: 75808d9223c070ece7c6e66b247a65be
-    parent_uid: 85c19f4f400f6162c58aacc54f6a3df9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 7x62TdS0Nn0
-  - uid: d07363ebec7bf6f3e3c74c9c59e55c52
-    parent_uid: 85c19f4f400f6162c58aacc54f6a3df9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/7x62TdS0Nn0/default.jpg'
-  - uid: 63850709374ca741e9ff32083cb712da
-    parent_uid: 85c19f4f400f6162c58aacc54f6a3df9
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 7x62TdS0Nn0
-  - uid: 207ca804c76d6bb15a0b80ac127b51c6
-    parent_uid: 85c19f4f400f6162c58aacc54f6a3df9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 4afa56c3433db81f9a486ee45ee9df73
-    parent_uid: 85c19f4f400f6162c58aacc54f6a3df9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_DD_CMframe3_360p.mp4'
-  - uid: 59cd0d415adaebefc7b37ea51c4b4455
-    parent_uid: 85c19f4f400f6162c58aacc54f6a3df9
-    id: 7x62TdS0Nn0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.3-1d-elastic-collision-velocities-in-cm-frame/dd.2.3-1d-elastic-collision-velocities-in-cm-frame/7x62TdS0Nn0.srt
-  - uid: 8bcbc9ee40f64fd85e027049932b43e1
-    parent_uid: 85c19f4f400f6162c58aacc54f6a3df9
-    id: 7x62TdS0Nn0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.3-1d-elastic-collision-velocities-in-cm-frame/dd.2.3-1d-elastic-collision-velocities-in-cm-frame/7x62TdS0Nn0.pdf
-  - uid: e0e756d938acf4d630077c57e33f7c44
-    parent_uid: 85c19f4f400f6162c58aacc54f6a3df9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9351403f0afbc1009834a4e1ff8fc905
-    parent_uid: 85c19f4f400f6162c58aacc54f6a3df9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 85c19f4f400f6162c58aacc54f6a3df9
 type: courses
 layout: video
 ---

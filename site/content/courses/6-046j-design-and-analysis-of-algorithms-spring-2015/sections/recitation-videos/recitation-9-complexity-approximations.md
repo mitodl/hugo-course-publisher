@@ -1,16 +1,70 @@
 ---
-title: 'Recitation 9: Complexity: Approximations'
-uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
-parent_uid: 8c671299aae36eba669ca13490c21dec
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-9-complexity-approximations
-short_url: recitation-9-complexity-approximations
-inline_embed_id: '36257797recitation9:complexity:approximations56860431'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this recitation, problems related to
   approximation algorithms are discussed, namely the traveling salesman
   problem.</p> <p><strong>Instructors:</strong> Amartya Shankha Biswas</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: zM5MW5NKZJg
+    parent_uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 47bf732be55fe4b4f3d4a2231f91a06e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/zM5MW5NKZJg/default.jpg'
+    parent_uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 70bb5ce3c5d9b3fbe9ed9f9f37d211eb
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: zM5MW5NKZJg
+    parent_uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5261654d26edbef88fa55d9ab43f8472
+  - id: zM5MW5NKZJg.srt
+    parent_uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-9-complexity-approximations/zM5MW5NKZJg.srt
+    title: 3play caption file
+    type: null
+    uid: f7b68cf45b4f6fc3757c791aba05f6f2
+  - id: zM5MW5NKZJg.pdf
+    parent_uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-9-complexity-approximations/zM5MW5NKZJg.pdf
+    title: 3play pdf file
+    type: null
+    uid: c42c33c495bf76b56e4056991bf2908c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 91f4f9edfefd8fdc51de7142be0e1d24
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 07bbebc1892112b4c1adb9464d6c8fa9
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 354b881ffd4ed2413c097c345127ec12
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec09_300k.mp4'
+    parent_uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 02ce5612aa81930fcea0cd87137a095b
+inline_embed_id: '36257797recitation9:complexity:approximations56860431'
+parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
+short_url: recitation-9-complexity-approximations
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-9-complexity-approximations
+title: 'Recitation 9: Complexity: Approximations'
 transcript: >-
   <p><span m="80">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -2094,61 +2148,7 @@ transcript: >-
   m="1906430">to</span> <span m="1906490">go,</span> <span m="1906810">or</span>
   <span m="1907160">ask questions,</span> <span m="1907460">or</span> <span
   m="1907760">whatever.</span></p>
-embedded_media:
-  - uid: 47bf732be55fe4b4f3d4a2231f91a06e
-    parent_uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: zM5MW5NKZJg
-  - uid: 70bb5ce3c5d9b3fbe9ed9f9f37d211eb
-    parent_uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/zM5MW5NKZJg/default.jpg'
-  - uid: 5261654d26edbef88fa55d9ab43f8472
-    parent_uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: zM5MW5NKZJg
-  - uid: f7b68cf45b4f6fc3757c791aba05f6f2
-    parent_uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
-    id: zM5MW5NKZJg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-9-complexity-approximations/zM5MW5NKZJg.srt
-  - uid: c42c33c495bf76b56e4056991bf2908c
-    parent_uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
-    id: zM5MW5NKZJg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-9-complexity-approximations/zM5MW5NKZJg.pdf
-  - uid: 91f4f9edfefd8fdc51de7142be0e1d24
-    parent_uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 07bbebc1892112b4c1adb9464d6c8fa9
-    parent_uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 354b881ffd4ed2413c097c345127ec12
-    parent_uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 02ce5612aa81930fcea0cd87137a095b
-    parent_uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec09_300k.mp4'
+uid: 47bf456cc4fcde7fe84c45a4eb6c01e2
 type: courses
 layout: video
 ---

@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Gram-Schmidt Orthogonalization'
-uid: 4934082a3aa58ae70e63f884a6f50823
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: HEQuN0QELSQ
+    parent_uid: 4934082a3aa58ae70e63f884a6f50823
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d7842eea25de17e1b65c684398ff209d
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: HEQuN0QELSQ
+    parent_uid: 4934082a3aa58ae70e63f884a6f50823
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 27566393ea0c525cf637cec78579234b
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/geometry-of-linear-algebra/id488155309?i=108454347
+    parent_uid: 4934082a3aa58ae70e63f884a6f50823
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1cdc6cad3db617f15b861e6a744de4a1
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110609_A1_300k.mp4
+    parent_uid: 4934082a3aa58ae70e63f884a6f50823
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3ec2421c221c79bb2fb5939673ae4cbf
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/HEQuN0QELSQ/default.jpg'
+    parent_uid: 4934082a3aa58ae70e63f884a6f50823
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c2a099200f3d53d8d6c89071f4c5cd22
+  - id: HEQuN0QELSQ.srt
+    parent_uid: 4934082a3aa58ae70e63f884a6f50823
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-gram-schmidt-orthogonalization/HEQuN0QELSQ.srt
+    title: 3play caption file
+    type: null
+    uid: bec133604fca452b651d2a590a3ec71d
+  - id: HEQuN0QELSQ.pdf
+    parent_uid: 4934082a3aa58ae70e63f884a6f50823
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-gram-schmidt-orthogonalization/HEQuN0QELSQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: ef103f02e9bade872b21acf302841dab
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4934082a3aa58ae70e63f884a6f50823
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b8add15136e868e0a73938f48e4a8a49
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4934082a3aa58ae70e63f884a6f50823
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5663a6d8b7ce493f7d2792945a7700c6
+inline_embed_id: 96007279problemsolvinggramschmidtorthogonalization85885688
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: problem-solving-gram-schmidt-orthogonalization
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-gram-schmidt-orthogonalization
-short_url: problem-solving-gram-schmidt-orthogonalization
-inline_embed_id: 96007279problemsolvinggramschmidtorthogonalization85885688
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Gram-Schmidt Orthogonalization'
 transcript: >-
   <p><span m='6790'>ANA RITA PIRES: In</span> <span m='6990'>lecture,</span>
   <span m='7700'>you've</span> <span m='7870'>learned</span> <span
@@ -522,63 +578,7 @@ transcript: >-
   <span m='595160'>decomposition</span> <span m='595880'>now.</span> <span
   m='597210'>Bye.</span> <span m='597420'>See</span> <span m='597640'>you</span>
   <span m='597710'>next</span> <span m='597970'>time.</span> </p>
-embedded_media:
-  - uid: d7842eea25de17e1b65c684398ff209d
-    parent_uid: 4934082a3aa58ae70e63f884a6f50823
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: HEQuN0QELSQ
-  - uid: 27566393ea0c525cf637cec78579234b
-    parent_uid: 4934082a3aa58ae70e63f884a6f50823
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: HEQuN0QELSQ
-  - uid: 1cdc6cad3db617f15b861e6a744de4a1
-    parent_uid: 4934082a3aa58ae70e63f884a6f50823
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/geometry-of-linear-algebra/id488155309?i=108454347
-  - uid: 3ec2421c221c79bb2fb5939673ae4cbf
-    parent_uid: 4934082a3aa58ae70e63f884a6f50823
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110609_A1_300k.mp4
-  - uid: c2a099200f3d53d8d6c89071f4c5cd22
-    parent_uid: 4934082a3aa58ae70e63f884a6f50823
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/HEQuN0QELSQ/default.jpg'
-  - uid: bec133604fca452b651d2a590a3ec71d
-    parent_uid: 4934082a3aa58ae70e63f884a6f50823
-    id: HEQuN0QELSQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-gram-schmidt-orthogonalization/HEQuN0QELSQ.srt
-  - uid: ef103f02e9bade872b21acf302841dab
-    parent_uid: 4934082a3aa58ae70e63f884a6f50823
-    id: HEQuN0QELSQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-gram-schmidt-orthogonalization/HEQuN0QELSQ.pdf
-  - uid: b8add15136e868e0a73938f48e4a8a49
-    parent_uid: 4934082a3aa58ae70e63f884a6f50823
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5663a6d8b7ce493f7d2792945a7700c6
-    parent_uid: 4934082a3aa58ae70e63f884a6f50823
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 4934082a3aa58ae70e63f884a6f50823
 type: courses
 layout: video
 ---

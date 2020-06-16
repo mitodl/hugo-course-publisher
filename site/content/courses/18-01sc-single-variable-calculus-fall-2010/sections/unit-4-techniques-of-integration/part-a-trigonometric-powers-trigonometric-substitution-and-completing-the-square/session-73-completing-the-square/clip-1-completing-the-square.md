@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Completing the Square'
-uid: f63fde573e9a993e59b930b45700d9aa
-parent_uid: 3d81cd65aedbbd557617501fb6a0b493
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-73-completing-the-square/clip-1-completing-the-square
-short_url: clip-1-completing-the-square
-inline_embed_id: '93566898clip1:completingthesquare77333940'
 about_this_resource_text: >-
   <p>&raquo; <a target="_blank"
   href="./resolveuid/fb9139b81f463eaa67642bcc598c620b">Accompanying Notes
   (PDF)</a></p><p class="scholar_medsm">From Lecture 28 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: CXKoCMVqM9s
+    parent_uid: f63fde573e9a993e59b930b45700d9aa
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9e58f1457c21f54a4afe2bc163cb3c01
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/CXKoCMVqM9s/default.jpg'
+    parent_uid: f63fde573e9a993e59b930b45700d9aa
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: df862ea6f9330408e75f33f79bed6159
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: CXKoCMVqM9s
+    parent_uid: f63fde573e9a993e59b930b45700d9aa
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8f062e72abbba4f964f1651c58883d25
+  - id: CXKoCMVqM9s.srt
+    parent_uid: f63fde573e9a993e59b930b45700d9aa
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-73-completing-the-square/clip-1-completing-the-square/CXKoCMVqM9s.srt
+    title: 3play caption file
+    type: null
+    uid: 82d8cadb06a4e1c2ad7661992f8407c3
+  - id: CXKoCMVqM9s.pdf
+    parent_uid: f63fde573e9a993e59b930b45700d9aa
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-73-completing-the-square/clip-1-completing-the-square/CXKoCMVqM9s.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8fc96b6d22aca763de12b80dbcb53817
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f63fde573e9a993e59b930b45700d9aa
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ef8e2f507967b02e4ab4bc426d47cb32
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f63fde573e9a993e59b930b45700d9aa
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6d0c36e7217c0e17456546e7d96c719e
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec28_300k.mp4'
+    parent_uid: f63fde573e9a993e59b930b45700d9aa
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: eb5c6a0166ad04e993f98663b9fa14bf
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: f63fde573e9a993e59b930b45700d9aa
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6aa4b76ae54fe4a8149ec5641c125b25
+inline_embed_id: '93566898clip1:completingthesquare77333940'
+parent_uid: 3d81cd65aedbbd557617501fb6a0b493
 related_resources_text: ''
+short_url: clip-1-completing-the-square
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-73-completing-the-square/clip-1-completing-the-square
+title: 'Clip 1: Completing the Square'
 transcript: >-
   <p><span m="0">The</span> <span m="30">following</span> <span
   m="510">content</span> <span m="1010">is</span> <span m="1130">provided</span>
@@ -2535,61 +2589,7 @@ transcript: >-
   class</span> <span m="2905880">doesn't</span> <span m="2906030">meet</span>
   <span m="2906190">on</span> <span m="2906320">Monday</span> <span
   m="2906580">anyway.</span> <span m="2907320">Bye.</span></p>
-embedded_media:
-  - uid: 9e58f1457c21f54a4afe2bc163cb3c01
-    parent_uid: f63fde573e9a993e59b930b45700d9aa
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: CXKoCMVqM9s
-  - uid: df862ea6f9330408e75f33f79bed6159
-    parent_uid: f63fde573e9a993e59b930b45700d9aa
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CXKoCMVqM9s/default.jpg'
-  - uid: 8f062e72abbba4f964f1651c58883d25
-    parent_uid: f63fde573e9a993e59b930b45700d9aa
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: CXKoCMVqM9s
-  - uid: 82d8cadb06a4e1c2ad7661992f8407c3
-    parent_uid: f63fde573e9a993e59b930b45700d9aa
-    id: CXKoCMVqM9s.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-73-completing-the-square/clip-1-completing-the-square/CXKoCMVqM9s.srt
-  - uid: 8fc96b6d22aca763de12b80dbcb53817
-    parent_uid: f63fde573e9a993e59b930b45700d9aa
-    id: CXKoCMVqM9s.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-73-completing-the-square/clip-1-completing-the-square/CXKoCMVqM9s.pdf
-  - uid: ef8e2f507967b02e4ab4bc426d47cb32
-    parent_uid: f63fde573e9a993e59b930b45700d9aa
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6d0c36e7217c0e17456546e7d96c719e
-    parent_uid: f63fde573e9a993e59b930b45700d9aa
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: eb5c6a0166ad04e993f98663b9fa14bf
-    parent_uid: f63fde573e9a993e59b930b45700d9aa
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec28_300k.mp4'
-  - uid: 6aa4b76ae54fe4a8149ec5641c125b25
-    parent_uid: f63fde573e9a993e59b930b45700d9aa
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: f63fde573e9a993e59b930b45700d9aa
 type: courses
 layout: video
 ---

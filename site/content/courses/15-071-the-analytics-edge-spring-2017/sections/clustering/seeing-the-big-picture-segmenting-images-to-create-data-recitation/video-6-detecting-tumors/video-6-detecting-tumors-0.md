@@ -1,13 +1,62 @@
 ---
-title: 'Video 6: Detecting Tumors'
-uid: 46020970346d90198b19a9806f1fe2b7
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: R250-aMpyAo
+    parent_uid: 46020970346d90198b19a9806f1fe2b7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0afefb0534edff44071d35886a0d7efb
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: R250-aMpyAo
+    parent_uid: 46020970346d90198b19a9806f1fe2b7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c393da08938b35866eb87543b4972147
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/R250-aMpyAo/default.jpg'
+    parent_uid: 46020970346d90198b19a9806f1fe2b7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 067b480650d415dd1de92ad5575ffea2
+  - id: R250-aMpyAo.srt
+    parent_uid: 46020970346d90198b19a9806f1fe2b7
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-6-detecting-tumors/video-6-detecting-tumors-0/R250-aMpyAo.srt
+    title: 3play caption file
+    type: null
+    uid: d8e8a0c41a7b2212a00d116cedf5b7e1
+  - id: R250-aMpyAo.pdf
+    parent_uid: 46020970346d90198b19a9806f1fe2b7
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-6-detecting-tumors/video-6-detecting-tumors-0/R250-aMpyAo.pdf
+    title: 3play pdf file
+    type: null
+    uid: eebfb3cf4bce3b35f4a3fed6cf96aa81
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 46020970346d90198b19a9806f1fe2b7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4ffacc0ac71ca6dde10097945b5d1715
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 46020970346d90198b19a9806f1fe2b7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: eddf298d23eafda947424aa56409bc92
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.4.08_300k.mp4
+    parent_uid: 46020970346d90198b19a9806f1fe2b7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2751627c22f5b48bf732f2e69cb35f8e
+inline_embed_id: 93755426video6detectingtumors90391226
 parent_uid: 4345a10d7637ddfb0f091b661423cd4f
+related_resources_text: ''
+short_url: video-6-detecting-tumors-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-6-detecting-tumors/video-6-detecting-tumors-0
-short_url: video-6-detecting-tumors-0
-inline_embed_id: 93755426video6detectingtumors90391226
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 6: Detecting Tumors'
 transcript: >-
   <p><span m='10230'>In</span> <span m='10575'>the</span> <span
   m='10921'>previous</span> <span m='11266'>video</span> <span
@@ -461,56 +510,7 @@ transcript: >-
   m='438742'>discuss</span> <span m='439325'>their</span> <span
   m='439908'>uses,</span> <span m='440491'>pros,</span> <span
   m='441074'>and</span> <span m='441657'>cons.</span> </p>
-embedded_media:
-  - uid: 0afefb0534edff44071d35886a0d7efb
-    parent_uid: 46020970346d90198b19a9806f1fe2b7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: R250-aMpyAo
-  - uid: c393da08938b35866eb87543b4972147
-    parent_uid: 46020970346d90198b19a9806f1fe2b7
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: R250-aMpyAo
-  - uid: 067b480650d415dd1de92ad5575ffea2
-    parent_uid: 46020970346d90198b19a9806f1fe2b7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/R250-aMpyAo/default.jpg'
-  - uid: d8e8a0c41a7b2212a00d116cedf5b7e1
-    parent_uid: 46020970346d90198b19a9806f1fe2b7
-    id: R250-aMpyAo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-6-detecting-tumors/video-6-detecting-tumors-0/R250-aMpyAo.srt
-  - uid: eebfb3cf4bce3b35f4a3fed6cf96aa81
-    parent_uid: 46020970346d90198b19a9806f1fe2b7
-    id: R250-aMpyAo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/seeing-the-big-picture-segmenting-images-to-create-data-recitation/video-6-detecting-tumors/video-6-detecting-tumors-0/R250-aMpyAo.pdf
-  - uid: 4ffacc0ac71ca6dde10097945b5d1715
-    parent_uid: 46020970346d90198b19a9806f1fe2b7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: eddf298d23eafda947424aa56409bc92
-    parent_uid: 46020970346d90198b19a9806f1fe2b7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 2751627c22f5b48bf732f2e69cb35f8e
-    parent_uid: 46020970346d90198b19a9806f1fe2b7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.4.08_300k.mp4
+uid: 46020970346d90198b19a9806f1fe2b7
 type: courses
 layout: video
 ---

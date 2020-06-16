@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 6: Hydrogen atom wavefunctions (orbitals)'
-uid: ab35c82daf8071bd2879ff3d57b76ca3
-parent_uid: c88a7a36f1d50d921f8c175f64643ef4
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-6/lecture-6-hydrogen-atom-wavefunctions-orbitals
-short_url: lecture-6-hydrogen-atom-wavefunctions-orbitals
-inline_embed_id: 56610477lecture6hydrogenatomwavefunctionsorbitals28868867
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: Where is that electron anyway? In this lecture, the
@@ -14,7 +7,68 @@ about_this_resource_text: >-
   applications of electron spin are described. In particular, chemist Ben
   Ofori-Okai introduces us to the wonders of magnetic resonance imaging, also
   known as MRIs.</p> <p><strong>Instructor:</strong> Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: V-RPM3e8Ws0
+    parent_uid: ab35c82daf8071bd2879ff3d57b76ca3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fccb8b112951cb3a542eb5fed59592a8
+  - id: V-RPM3e8Ws0.srt
+    parent_uid: ab35c82daf8071bd2879ff3d57b76ca3
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-6/lecture-6-hydrogen-atom-wavefunctions-orbitals/V-RPM3e8Ws0.srt
+    title: 3play caption file
+    type: null
+    uid: f5c278023d7002ef917f9436b4f8f032
+  - id: V-RPM3e8Ws0.pdf
+    parent_uid: ab35c82daf8071bd2879ff3d57b76ca3
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-6/lecture-6-hydrogen-atom-wavefunctions-orbitals/V-RPM3e8Ws0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 18a11810bc2cf5859e1be12828f76f32
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ab35c82daf8071bd2879ff3d57b76ca3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a5be938401a5563024bd15b4df500e89
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ab35c82daf8071bd2879ff3d57b76ca3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b66313f211b4d6aa6ed10237152daf53
+  - id: Video-YouTube-Stream
+    media_location: V-RPM3e8Ws0
+    parent_uid: ab35c82daf8071bd2879ff3d57b76ca3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e4031c9f7bfc5d3bcec946ee8fe8a39d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/V-RPM3e8Ws0/default.jpg'
+    parent_uid: ab35c82daf8071bd2879ff3d57b76ca3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d7ee6b3365f66666a0cc9fb274bdf13d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: ab35c82daf8071bd2879ff3d57b76ca3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 330f926676e95595d88dd8776b933df2
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L06_300k.mp4'
+    parent_uid: ab35c82daf8071bd2879ff3d57b76ca3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4713cbd576e2203fb5488a3ffe8e7724
+inline_embed_id: 56610477lecture6hydrogenatomwavefunctionsorbitals28868867
+parent_uid: c88a7a36f1d50d921f8c175f64643ef4
 related_resources_text: ''
+short_url: lecture-6-hydrogen-atom-wavefunctions-orbitals
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-6/lecture-6-hydrogen-atom-wavefunctions-orbitals
+title: 'Lecture 6: Hydrogen atom wavefunctions (orbitals)'
 transcript: >-
   <p><span m="30">The</span> <span m="130">following</span> <span
   m="600">content</span> <span m="1090">is</span> <span m="1210">provided</span>
@@ -3770,61 +3824,7 @@ transcript: >-
   m="3625840">to</span> <span m="3625980">the</span> <span
   m="3626100">next</span> <span m="3626620">lowest</span> <span
   m="3627060">energy</span> <span m="3627440">orbital.</span></p>
-embedded_media:
-  - uid: fccb8b112951cb3a542eb5fed59592a8
-    parent_uid: ab35c82daf8071bd2879ff3d57b76ca3
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: V-RPM3e8Ws0
-  - uid: f5c278023d7002ef917f9436b4f8f032
-    parent_uid: ab35c82daf8071bd2879ff3d57b76ca3
-    id: V-RPM3e8Ws0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-6/lecture-6-hydrogen-atom-wavefunctions-orbitals/V-RPM3e8Ws0.srt
-  - uid: 18a11810bc2cf5859e1be12828f76f32
-    parent_uid: ab35c82daf8071bd2879ff3d57b76ca3
-    id: V-RPM3e8Ws0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-6/lecture-6-hydrogen-atom-wavefunctions-orbitals/V-RPM3e8Ws0.pdf
-  - uid: a5be938401a5563024bd15b4df500e89
-    parent_uid: ab35c82daf8071bd2879ff3d57b76ca3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b66313f211b4d6aa6ed10237152daf53
-    parent_uid: ab35c82daf8071bd2879ff3d57b76ca3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e4031c9f7bfc5d3bcec946ee8fe8a39d
-    parent_uid: ab35c82daf8071bd2879ff3d57b76ca3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: V-RPM3e8Ws0
-  - uid: d7ee6b3365f66666a0cc9fb274bdf13d
-    parent_uid: ab35c82daf8071bd2879ff3d57b76ca3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/V-RPM3e8Ws0/default.jpg'
-  - uid: 330f926676e95595d88dd8776b933df2
-    parent_uid: ab35c82daf8071bd2879ff3d57b76ca3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: 4713cbd576e2203fb5488a3ffe8e7724
-    parent_uid: ab35c82daf8071bd2879ff3d57b76ca3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L06_300k.mp4'
+uid: ab35c82daf8071bd2879ff3d57b76ca3
 type: courses
 layout: video
 ---

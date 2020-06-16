@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 11: Dynamic Programming: All-Pairs Shortest Paths'
-uid: a702195e8f7de0ff95649607f39d2583
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-11-dynamic-programming-all-pairs-shortest-paths
-short_url: lecture-11-dynamic-programming-all-pairs-shortest-paths
-inline_embed_id: '21295756lecture11:dynamicprogramming:all-pairsshortestpaths85118296'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Demaine covers
   different algorithmic solutions for the All-Pairs Shortest Paths
   problem.</p><p><strong>Instructors:</strong> Erik Demaine</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: NzgFUwOaoIw
+    parent_uid: a702195e8f7de0ff95649607f39d2583
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fd9381e9fb28a6b7a636121ae3ef5a2f
+  - id: NzgFUwOaoIw.srt
+    parent_uid: a702195e8f7de0ff95649607f39d2583
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-11-dynamic-programming-all-pairs-shortest-paths/NzgFUwOaoIw.srt
+    title: 3play caption file
+    type: null
+    uid: a104c645a0b865db6f7e7683f44c565d
+  - id: NzgFUwOaoIw.pdf
+    parent_uid: a702195e8f7de0ff95649607f39d2583
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-11-dynamic-programming-all-pairs-shortest-paths/NzgFUwOaoIw.pdf
+    title: 3play pdf file
+    type: null
+    uid: dfd49eb1cf655c54359492df821a4203
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a702195e8f7de0ff95649607f39d2583
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 122b6657257e24ac9caf424d7a642f03
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a702195e8f7de0ff95649607f39d2583
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 65d6d5fd3b03a77b3270372625696cc6
+  - id: Video-YouTube-Stream
+    media_location: NzgFUwOaoIw
+    parent_uid: a702195e8f7de0ff95649607f39d2583
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5b346f69f3a86736e4432bd6661cdc3e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/NzgFUwOaoIw/default.jpg'
+    parent_uid: a702195e8f7de0ff95649607f39d2583
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a862288e6398c64ba849a62f2d787a55
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: a702195e8f7de0ff95649607f39d2583
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: aa7388d36c9ab2ab9db00f5df9ebdc72
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec11_300k.mp4'
+    parent_uid: a702195e8f7de0ff95649607f39d2583
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 116041738cf4ac25059a265150f72ace
+inline_embed_id: '21295756lecture11:dynamicprogramming:all-pairsshortestpaths85118296'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-11-dynamic-programming-all-pairs-shortest-paths
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-11-dynamic-programming-all-pairs-shortest-paths
+title: 'Lecture 11: Dynamic Programming: All-Pairs Shortest Paths'
 transcript: >-
   <p><span m="70">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -5180,61 +5234,7 @@ transcript: >-
   m="4904600">And</span> <span m="4904720">that's</span> <span
   m="4904910">all-pairs</span> <span m="4905170">shortest</span> <span
   m="4905440">paths.</span></p>
-embedded_media:
-  - uid: fd9381e9fb28a6b7a636121ae3ef5a2f
-    parent_uid: a702195e8f7de0ff95649607f39d2583
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: NzgFUwOaoIw
-  - uid: a104c645a0b865db6f7e7683f44c565d
-    parent_uid: a702195e8f7de0ff95649607f39d2583
-    id: NzgFUwOaoIw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-11-dynamic-programming-all-pairs-shortest-paths/NzgFUwOaoIw.srt
-  - uid: dfd49eb1cf655c54359492df821a4203
-    parent_uid: a702195e8f7de0ff95649607f39d2583
-    id: NzgFUwOaoIw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-11-dynamic-programming-all-pairs-shortest-paths/NzgFUwOaoIw.pdf
-  - uid: 122b6657257e24ac9caf424d7a642f03
-    parent_uid: a702195e8f7de0ff95649607f39d2583
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 65d6d5fd3b03a77b3270372625696cc6
-    parent_uid: a702195e8f7de0ff95649607f39d2583
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5b346f69f3a86736e4432bd6661cdc3e
-    parent_uid: a702195e8f7de0ff95649607f39d2583
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: NzgFUwOaoIw
-  - uid: a862288e6398c64ba849a62f2d787a55
-    parent_uid: a702195e8f7de0ff95649607f39d2583
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/NzgFUwOaoIw/default.jpg'
-  - uid: aa7388d36c9ab2ab9db00f5df9ebdc72
-    parent_uid: a702195e8f7de0ff95649607f39d2583
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 116041738cf4ac25059a265150f72ace
-    parent_uid: a702195e8f7de0ff95649607f39d2583
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec11_300k.mp4'
+uid: a702195e8f7de0ff95649607f39d2583
 type: courses
 layout: video
 ---

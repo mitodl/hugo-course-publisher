@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Change of Basis'
-uid: e798aa26e0e4e38bdcd087805d8a530e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: rMv2rDiOTsI
+    parent_uid: e798aa26e0e4e38bdcd087805d8a530e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 321d0c0961b0a2ef8080ab0dab80d4a9
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: rMv2rDiOTsI
+    parent_uid: e798aa26e0e4e38bdcd087805d8a530e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6d640fd516ae9b1d276e9783b4de8889
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/change-of-basis/id488155309?i=108454303
+    parent_uid: e798aa26e0e4e38bdcd087805d8a530e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 966ced9f6f1afe17edcc1cf2b8086b2c
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110714_M1_300k.mp4
+    parent_uid: e798aa26e0e4e38bdcd087805d8a530e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f22fac36ba397c75ae1bd59095340465
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/rMv2rDiOTsI/default.jpg'
+    parent_uid: e798aa26e0e4e38bdcd087805d8a530e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9756591d0cd2eb62fa6cc9ac9e401f96
+  - id: rMv2rDiOTsI.srt
+    parent_uid: e798aa26e0e4e38bdcd087805d8a530e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-change-of-basis/rMv2rDiOTsI.srt
+    title: 3play caption file
+    type: null
+    uid: e2136ac988bcbe38c33792dc63ea1f66
+  - id: rMv2rDiOTsI.pdf
+    parent_uid: e798aa26e0e4e38bdcd087805d8a530e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-change-of-basis/rMv2rDiOTsI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 82353e388649de42ddd8232a4704181f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e798aa26e0e4e38bdcd087805d8a530e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1f9e86675c9467723a27f50b830fc49b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e798aa26e0e4e38bdcd087805d8a530e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5044be2ebfbcd60d9343bebdeb2eb0b2
+inline_embed_id: 5381016problemsolvingchangeofbasis78098390
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: problem-solving-change-of-basis
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-change-of-basis
-short_url: problem-solving-change-of-basis
-inline_embed_id: 5381016problemsolvingchangeofbasis78098390
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Change of Basis'
 transcript: >-
   <p><span m='6140'>MARTINA BALAGOVIC: Hi.</span> <span m='6480'>Welcome</span>
   <span m='7000'>to</span> <span m='7070'>recitation.</span> </p><p><span
@@ -691,63 +747,7 @@ transcript: >-
   m='742630'>that's</span> <span m='742830'>all</span> <span m='742940'>I</span>
   <span m='742980'>wanted</span> <span m='743230'>to</span> <span
   m='743290'>say</span> <span m='743590'>today.</span> </p>
-embedded_media:
-  - uid: 321d0c0961b0a2ef8080ab0dab80d4a9
-    parent_uid: e798aa26e0e4e38bdcd087805d8a530e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: rMv2rDiOTsI
-  - uid: 6d640fd516ae9b1d276e9783b4de8889
-    parent_uid: e798aa26e0e4e38bdcd087805d8a530e
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: rMv2rDiOTsI
-  - uid: 966ced9f6f1afe17edcc1cf2b8086b2c
-    parent_uid: e798aa26e0e4e38bdcd087805d8a530e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/change-of-basis/id488155309?i=108454303
-  - uid: f22fac36ba397c75ae1bd59095340465
-    parent_uid: e798aa26e0e4e38bdcd087805d8a530e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110714_M1_300k.mp4
-  - uid: 9756591d0cd2eb62fa6cc9ac9e401f96
-    parent_uid: e798aa26e0e4e38bdcd087805d8a530e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/rMv2rDiOTsI/default.jpg'
-  - uid: e2136ac988bcbe38c33792dc63ea1f66
-    parent_uid: e798aa26e0e4e38bdcd087805d8a530e
-    id: rMv2rDiOTsI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-change-of-basis/rMv2rDiOTsI.srt
-  - uid: 82353e388649de42ddd8232a4704181f
-    parent_uid: e798aa26e0e4e38bdcd087805d8a530e
-    id: rMv2rDiOTsI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-change-of-basis/rMv2rDiOTsI.pdf
-  - uid: 1f9e86675c9467723a27f50b830fc49b
-    parent_uid: e798aa26e0e4e38bdcd087805d8a530e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5044be2ebfbcd60d9343bebdeb2eb0b2
-    parent_uid: e798aa26e0e4e38bdcd087805d8a530e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: e798aa26e0e4e38bdcd087805d8a530e
 type: courses
 layout: video
 ---

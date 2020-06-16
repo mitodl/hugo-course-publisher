@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 12: Sums'
-uid: 3ab159732cf8753652d2c1ff154f1a4a
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-12-sums
-short_url: lecture-12-sums
-inline_embed_id: '11096608lecture12:sums32536052'
 about_this_resource_text: >-
   <p><strong>Description:</strong> An introduction to sums through examination
   of real&ndash;world problems like annuities. Covers finding closed form
   solutions and bounds with the perturbation, derivative, and integral
   methods.</p> <p><strong>Speaker:</strong> Tom Leighton</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: fAeShezAGLE
+    parent_uid: 3ab159732cf8753652d2c1ff154f1a4a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: aa11a32c2470e1f08abb0738fd168291
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/fAeShezAGLE/default.jpg'
+    parent_uid: 3ab159732cf8753652d2c1ff154f1a4a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6319fe3bd0b0ecae1c072e1079565b0f
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-12-sums/id503873536?i=110644979
+    parent_uid: 3ab159732cf8753652d2c1ff154f1a4a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c2ac112a4615b033c26f441b00b360e5
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec12_300k.mp4'
+    parent_uid: 3ab159732cf8753652d2c1ff154f1a4a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 05dcecde20a0e1ca51a6c8ab1a6e04e9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: fAeShezAGLE
+    parent_uid: 3ab159732cf8753652d2c1ff154f1a4a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b885a8041a64ebaa5058da2e2c98f711
+  - id: fAeShezAGLE.srt
+    parent_uid: 3ab159732cf8753652d2c1ff154f1a4a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-12-sums/fAeShezAGLE.srt
+    title: 3play caption file
+    type: null
+    uid: 4dac2e484bc076380eda2458b4fd2fb5
+  - id: fAeShezAGLE.pdf
+    parent_uid: 3ab159732cf8753652d2c1ff154f1a4a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-12-sums/fAeShezAGLE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 35c5b44faacb08f9bcd51cdf5d22506e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3ab159732cf8753652d2c1ff154f1a4a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1f686d0bf4b0ed8b196dcd97b989a885
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3ab159732cf8753652d2c1ff154f1a4a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7ac98b194790dbac97be952e67a2924b
+inline_embed_id: '11096608lecture12:sums32536052'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
+short_url: lecture-12-sums
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-12-sums
+title: 'Lecture 12: Sums'
 transcript: >-
   <p><span m='360'>PROFESSOR: The</span> <span m='490'>following</span> <span
   m='940'>content</span> <span m='1530'>is</span> <span m='1650'>provided</span>
@@ -4506,62 +4561,7 @@ transcript: >-
   m='4694740'>and</span> <span m='4694880'>next</span> <span
   m='4695180'>time</span> <span m='4695280'>with</span> <span
   m='4695380'>this</span> <span m='4695480'>stuff.</span> </p>
-embedded_media:
-  - uid: aa11a32c2470e1f08abb0738fd168291
-    parent_uid: 3ab159732cf8753652d2c1ff154f1a4a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: fAeShezAGLE
-  - uid: 6319fe3bd0b0ecae1c072e1079565b0f
-    parent_uid: 3ab159732cf8753652d2c1ff154f1a4a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/fAeShezAGLE/default.jpg'
-  - uid: c2ac112a4615b033c26f441b00b360e5
-    parent_uid: 3ab159732cf8753652d2c1ff154f1a4a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-12-sums/id503873536?i=110644979
-  - uid: 05dcecde20a0e1ca51a6c8ab1a6e04e9
-    parent_uid: 3ab159732cf8753652d2c1ff154f1a4a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec12_300k.mp4'
-  - uid: b885a8041a64ebaa5058da2e2c98f711
-    parent_uid: 3ab159732cf8753652d2c1ff154f1a4a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: fAeShezAGLE
-  - uid: 4dac2e484bc076380eda2458b4fd2fb5
-    parent_uid: 3ab159732cf8753652d2c1ff154f1a4a
-    id: fAeShezAGLE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-12-sums/fAeShezAGLE.srt
-  - uid: 35c5b44faacb08f9bcd51cdf5d22506e
-    parent_uid: 3ab159732cf8753652d2c1ff154f1a4a
-    id: fAeShezAGLE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-12-sums/fAeShezAGLE.pdf
-  - uid: 1f686d0bf4b0ed8b196dcd97b989a885
-    parent_uid: 3ab159732cf8753652d2c1ff154f1a4a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7ac98b194790dbac97be952e67a2924b
-    parent_uid: 3ab159732cf8753652d2c1ff154f1a4a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 3ab159732cf8753652d2c1ff154f1a4a
 type: courses
 layout: video
 ---

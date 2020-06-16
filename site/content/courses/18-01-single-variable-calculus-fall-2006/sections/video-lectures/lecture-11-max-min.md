@@ -1,18 +1,90 @@
 ---
-title: 'Lecture 11: Max-min'
-uid: 73974e466246212b99fec8cd8d4548a1
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-11-max-min
-short_url: lecture-11-max-min
-inline_embed_id: '67524212lecture11:max-min41860259'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Max-min problems</p>
   <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec11.jpg
+    parent_uid: 73974e466246212b99fec8cd8d4548a1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-11-max-min/lec11.jpg
+    title: Lecture 11
+    type: null
+    uid: 5847f9f080733a1d4202e232bbf39c72
+  - id: Video-YouTube-Stream
+    media_location: twzGBqPeW0M
+    parent_uid: 73974e466246212b99fec8cd8d4548a1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bb5ed4222ec9644be12a71afad52556d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/twzGBqPeW0M/default.jpg'
+    parent_uid: 73974e466246212b99fec8cd8d4548a1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b5d01d598ce6a3d28b4eebfa658c0803
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 73974e466246212b99fec8cd8d4548a1
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7c103a991622b426f6e80608081e6e5b
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec11_300k.mp4'
+    parent_uid: 73974e466246212b99fec8cd8d4548a1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a1df890a62fbd9ada2808d8f5cc06178
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 73974e466246212b99fec8cd8d4548a1
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 3b402aa37324ce437fd7d283ff1c0e7f
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 73974e466246212b99fec8cd8d4548a1
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: a7e8915657119235b592dd6086f85777
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: twzGBqPeW0M
+    parent_uid: 73974e466246212b99fec8cd8d4548a1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1cc7df52ca8c2142fab7c9cf660d18fe
+  - id: twzGBqPeW0M.srt
+    parent_uid: 73974e466246212b99fec8cd8d4548a1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-11-max-min/twzGBqPeW0M.srt
+    title: 3play caption file
+    type: null
+    uid: 1114abbd8346473a77d3b943d6efa47c
+  - id: twzGBqPeW0M.pdf
+    parent_uid: 73974e466246212b99fec8cd8d4548a1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-11-max-min/twzGBqPeW0M.pdf
+    title: 3play pdf file
+    type: null
+    uid: 82069f86b9da36ae3fc2ea1bd33f360d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 73974e466246212b99fec8cd8d4548a1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 778e56a20320a521b808757622577ed3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 73974e466246212b99fec8cd8d4548a1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c7f94795ed3a7c37a0c0168ac57f4264
+inline_embed_id: '67524212lecture11:max-min41860259'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/8896949be9dd22428b03e64dbcd990af">PDF -
   1.1MB</a>)</p></div>
+short_url: lecture-11-max-min
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-11-max-min
+title: 'Lecture 11: Max-min'
 transcript: >-
   <p><span m='0'>The</span> <span m='30'>following</span> <span
   m='530'>content</span> <span m='1270'>is</span> <span m='1420'>provided</span>
@@ -2548,79 +2620,7 @@ transcript: >-
   m='2978230'>do</span> <span m='2978430'>a</span> <span m='2978520'>few</span>
   <span m='2978720'>examples</span> <span m='2979250'>of</span> <span
   m='2979330'>that next time.</span> </p>
-embedded_media:
-  - uid: 5847f9f080733a1d4202e232bbf39c72
-    parent_uid: 73974e466246212b99fec8cd8d4548a1
-    id: lec11.jpg
-    title: Lecture 11
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-11-max-min/lec11.jpg
-  - uid: bb5ed4222ec9644be12a71afad52556d
-    parent_uid: 73974e466246212b99fec8cd8d4548a1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: twzGBqPeW0M
-  - uid: b5d01d598ce6a3d28b4eebfa658c0803
-    parent_uid: 73974e466246212b99fec8cd8d4548a1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/twzGBqPeW0M/default.jpg'
-  - uid: 7c103a991622b426f6e80608081e6e5b
-    parent_uid: 73974e466246212b99fec8cd8d4548a1
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: a1df890a62fbd9ada2808d8f5cc06178
-    parent_uid: 73974e466246212b99fec8cd8d4548a1
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec11_300k.mp4'
-  - uid: 3b402aa37324ce437fd7d283ff1c0e7f
-    parent_uid: 73974e466246212b99fec8cd8d4548a1
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: a7e8915657119235b592dd6086f85777
-    parent_uid: 73974e466246212b99fec8cd8d4548a1
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 1cc7df52ca8c2142fab7c9cf660d18fe
-    parent_uid: 73974e466246212b99fec8cd8d4548a1
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: twzGBqPeW0M
-  - uid: 1114abbd8346473a77d3b943d6efa47c
-    parent_uid: 73974e466246212b99fec8cd8d4548a1
-    id: twzGBqPeW0M.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-11-max-min/twzGBqPeW0M.srt
-  - uid: 82069f86b9da36ae3fc2ea1bd33f360d
-    parent_uid: 73974e466246212b99fec8cd8d4548a1
-    id: twzGBqPeW0M.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-11-max-min/twzGBqPeW0M.pdf
-  - uid: 778e56a20320a521b808757622577ed3
-    parent_uid: 73974e466246212b99fec8cd8d4548a1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c7f94795ed3a7c37a0c0168ac57f4264
-    parent_uid: 73974e466246212b99fec8cd8d4548a1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 73974e466246212b99fec8cd8d4548a1
 type: courses
 layout: video
 ---

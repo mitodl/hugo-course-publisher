@@ -1,13 +1,73 @@
 ---
-title: Well Ordering Principle 1
-uid: d9581b2628670fdea72eba2c5d0383b4
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: d9581b2628670fdea72eba2c5d0383b4
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 4a9806216bc0580382c1ebb591100ade
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: d9581b2628670fdea72eba2c5d0383b4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 11aa6382c09877e309e6135591e89dca
+  - id: Video-YouTube-Stream
+    media_location: fV3v6qQ3w4A
+    parent_uid: d9581b2628670fdea72eba2c5d0383b4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: df02a99f0e90d1427f9586bad756ba87
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/fV3v6qQ3w4A/default.jpg'
+    parent_uid: d9581b2628670fdea72eba2c5d0383b4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 16f5095fe476a6964b6be6a3f968543b
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: fV3v6qQ3w4A
+    parent_uid: d9581b2628670fdea72eba2c5d0383b4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: dc7bc8b68790f73a0c5297763650817a
+  - id: fV3v6qQ3w4A.srt
+    parent_uid: d9581b2628670fdea72eba2c5d0383b4
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-1/well-ordering-principle-1/fV3v6qQ3w4A.srt
+    title: 3play caption file
+    type: null
+    uid: 6d73a905de92024d7551d0e2d3c51b76
+  - id: fV3v6qQ3w4A.pdf
+    parent_uid: d9581b2628670fdea72eba2c5d0383b4
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-1/well-ordering-principle-1/fV3v6qQ3w4A.pdf
+    title: 3play pdf file
+    type: null
+    uid: 66e78623a8fc1ef09c1775641b833c82
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d9581b2628670fdea72eba2c5d0383b4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 58d54dcddde4e0ee65ea37d1dc2e3728
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d9581b2628670fdea72eba2c5d0383b4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c7f515198cb1458e2909e99e1a4ada40
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_wellordering1_ipod.mp4
+    parent_uid: d9581b2628670fdea72eba2c5d0383b4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ca00c763439d0b2fe53021f518b7318d
+inline_embed_id: 44431240wellorderingprinciple185302185
 parent_uid: 376535e1bbaf1919fdc3bdd7b7043dea
+related_resources_text: ''
+short_url: well-ordering-principle-1
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-1/well-ordering-principle-1
-short_url: well-ordering-principle-1
-inline_embed_id: 44431240wellorderingprinciple185302185
-about_this_resource_text: ''
-related_resources_text: ''
+title: Well Ordering Principle 1
 transcript: >-
   <p><span m='940'>PROFESSOR: The</span> <span m='1050'>well</span> <span
   m='1310'>ordering</span> <span m='1720'>principle</span> <span
@@ -415,67 +475,7 @@ transcript: >-
   m='332530'>can</span> <span m='332720'>be</span> <span
   m='332870'>expressed</span> <span m='333470'>in</span> <span
   m='333630'>lowest</span> <span m='334010'>terms.</span> </p>
-embedded_media:
-  - uid: 4a9806216bc0580382c1ebb591100ade
-    parent_uid: d9581b2628670fdea72eba2c5d0383b4
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 11aa6382c09877e309e6135591e89dca
-    parent_uid: d9581b2628670fdea72eba2c5d0383b4
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: df02a99f0e90d1427f9586bad756ba87
-    parent_uid: d9581b2628670fdea72eba2c5d0383b4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: fV3v6qQ3w4A
-  - uid: 16f5095fe476a6964b6be6a3f968543b
-    parent_uid: d9581b2628670fdea72eba2c5d0383b4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/fV3v6qQ3w4A/default.jpg'
-  - uid: dc7bc8b68790f73a0c5297763650817a
-    parent_uid: d9581b2628670fdea72eba2c5d0383b4
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: fV3v6qQ3w4A
-  - uid: 6d73a905de92024d7551d0e2d3c51b76
-    parent_uid: d9581b2628670fdea72eba2c5d0383b4
-    id: fV3v6qQ3w4A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-1/well-ordering-principle-1/fV3v6qQ3w4A.srt
-  - uid: 66e78623a8fc1ef09c1775641b833c82
-    parent_uid: d9581b2628670fdea72eba2c5d0383b4
-    id: fV3v6qQ3w4A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-1/well-ordering-principle-1/fV3v6qQ3w4A.pdf
-  - uid: 58d54dcddde4e0ee65ea37d1dc2e3728
-    parent_uid: d9581b2628670fdea72eba2c5d0383b4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c7f515198cb1458e2909e99e1a4ada40
-    parent_uid: d9581b2628670fdea72eba2c5d0383b4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ca00c763439d0b2fe53021f518b7318d
-    parent_uid: d9581b2628670fdea72eba2c5d0383b4
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_wellordering1_ipod.mp4
+uid: d9581b2628670fdea72eba2c5d0383b4
 type: courses
 layout: video
 ---

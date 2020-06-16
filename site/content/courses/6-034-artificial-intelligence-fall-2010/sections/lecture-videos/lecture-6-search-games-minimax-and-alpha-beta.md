@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 6: Search: Games, Minimax, and Alpha-Beta'
-uid: b280315e784ecd65c07fac3940bddbbf
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-6-search-games-minimax-and-alpha-beta
-short_url: lecture-6-search-games-minimax-and-alpha-beta
-inline_embed_id: '20006790lecture6:search:games,minimax,andalpha-beta8288158'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, we consider strategies for
   adversarial games such as chess.  We discuss the minimax algorithm, and how
   alpha-beta pruning improves its efficiency.  We then examine progressive
   deepening, which ensures that some answer is always available.</p>
   <p><strong>Instructor:</strong> Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: STjW3eH0Cik
+    parent_uid: b280315e784ecd65c07fac3940bddbbf
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 19ab6daf8bf1f721fd20cf75f0c8fd1c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-6-search-games-minimax/id765641080?i=194470736
+    parent_uid: b280315e784ecd65c07fac3940bddbbf
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 09a9056d518aeb55c7a781f2e33a1bbc
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec06_300k.mp4'
+    parent_uid: b280315e784ecd65c07fac3940bddbbf
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 080c4bde3fe8f40c75c74f5ddda8274d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/STjW3eH0Cik/default.jpg'
+    parent_uid: b280315e784ecd65c07fac3940bddbbf
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 96e438643c3938134bfe4bcf6c9a25bf
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: STjW3eH0Cik
+    parent_uid: b280315e784ecd65c07fac3940bddbbf
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7022f77ab408d9390ff026fe695991c8
+  - id: STjW3eH0Cik.srt
+    parent_uid: b280315e784ecd65c07fac3940bddbbf
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-6-search-games-minimax-and-alpha-beta/STjW3eH0Cik.srt
+    title: 3play caption file
+    type: null
+    uid: e255e1afb44f6e1c623b0cdcdf07271a
+  - id: STjW3eH0Cik.pdf
+    parent_uid: b280315e784ecd65c07fac3940bddbbf
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-6-search-games-minimax-and-alpha-beta/STjW3eH0Cik.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7524b662aa86938e45c10c74d3a1ad41
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b280315e784ecd65c07fac3940bddbbf
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 42a3c195e0c4f7c0605eeda444c8c6b5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b280315e784ecd65c07fac3940bddbbf
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d96788957dd02eaffd2c65ff363e428c
+inline_embed_id: '20006790lecture6:search:games,minimax,andalpha-beta8288158'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
+short_url: lecture-6-search-games-minimax-and-alpha-beta
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-6-search-games-minimax-and-alpha-beta
+title: 'Lecture 6: Search: Games, Minimax, and Alpha-Beta'
 transcript: >-
   <p><span m='8928'>SPEAKER 1: It was about 1963 when a noted philosopher
   here</span> <span m='12580'>at MIT, named Hubert Dreyfus--</span> <span
@@ -827,62 +882,7 @@ transcript: >-
   <span m='2869790'>learning, which is familiar to you if you take a
   309.1.</span> </p><p><span m='2876940'>And, therefore, I will see you on
   Wednesday,</span> <span m='2880440'>all of you, I imagine.</span> </p><p></p>
-embedded_media:
-  - uid: 19ab6daf8bf1f721fd20cf75f0c8fd1c
-    parent_uid: b280315e784ecd65c07fac3940bddbbf
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: STjW3eH0Cik
-  - uid: 09a9056d518aeb55c7a781f2e33a1bbc
-    parent_uid: b280315e784ecd65c07fac3940bddbbf
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-6-search-games-minimax/id765641080?i=194470736
-  - uid: 080c4bde3fe8f40c75c74f5ddda8274d
-    parent_uid: b280315e784ecd65c07fac3940bddbbf
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec06_300k.mp4'
-  - uid: 96e438643c3938134bfe4bcf6c9a25bf
-    parent_uid: b280315e784ecd65c07fac3940bddbbf
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/STjW3eH0Cik/default.jpg'
-  - uid: 7022f77ab408d9390ff026fe695991c8
-    parent_uid: b280315e784ecd65c07fac3940bddbbf
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: STjW3eH0Cik
-  - uid: e255e1afb44f6e1c623b0cdcdf07271a
-    parent_uid: b280315e784ecd65c07fac3940bddbbf
-    id: STjW3eH0Cik.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-6-search-games-minimax-and-alpha-beta/STjW3eH0Cik.srt
-  - uid: 7524b662aa86938e45c10c74d3a1ad41
-    parent_uid: b280315e784ecd65c07fac3940bddbbf
-    id: STjW3eH0Cik.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-6-search-games-minimax-and-alpha-beta/STjW3eH0Cik.pdf
-  - uid: 42a3c195e0c4f7c0605eeda444c8c6b5
-    parent_uid: b280315e784ecd65c07fac3940bddbbf
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d96788957dd02eaffd2c65ff363e428c
-    parent_uid: b280315e784ecd65c07fac3940bddbbf
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b280315e784ecd65c07fac3940bddbbf
 type: courses
 layout: video
 ---

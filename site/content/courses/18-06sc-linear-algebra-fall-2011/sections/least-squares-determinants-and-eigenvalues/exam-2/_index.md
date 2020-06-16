@@ -4,7 +4,7 @@ course_id: 18-06sc-linear-algebra-fall-2011
 menu:
   18-06sc-linear-algebra-fall-2011:
     identifier: afe66f8e2c8af21634f4261b58ca7f09
-    weight: 330
+    weight: 320
     parent: cf73d07ac972ab3c450a0f10d0be0664
 ---
 « [Previous]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/least-squares-determinants-and-eigenvalues/exam-2-review/_index.md" %}}) | [Next]({{% getpage "courses/18-06sc-linear-algebra-fall-2011/sections/positive-definite-matrices-and-applications/_index.md" %}}) »

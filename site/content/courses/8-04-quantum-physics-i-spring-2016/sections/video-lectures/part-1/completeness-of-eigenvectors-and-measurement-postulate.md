@@ -1,13 +1,73 @@
 ---
-title: Completeness of eigenvectors and measurement postulate
-uid: 45c55934f49fdb4ffc10531ef88626cb
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: XF6FAEi_54I
+    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bd17802a36b49045c4ed7bb256561ffa
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/RmiCZYVfG9c/default.jpg'
+    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 05d64509cddab9e385504bad3f8919b4
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: XF6FAEi_54I
+    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f35502c41ba653f7651146c98b68b9ef
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6fa4ef61404815a85d6e6ddb228f8e07
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec09_s3_300k.mp4'
+    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5e7fd28394f3042dfb55e625a6d28fa1
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/XF6FAEi_54I/default.jpg'
+    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5147e4a3459cc5c364b0201222e23155
+  - id: XF6FAEi_54I.srt
+    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/completeness-of-eigenvectors-and-measurement-postulate/XF6FAEi_54I.srt
+    title: 3play caption file
+    type: null
+    uid: 0b60bc02daa182069e98c0d582e0fb04
+  - id: XF6FAEi_54I.pdf
+    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/completeness-of-eigenvectors-and-measurement-postulate/XF6FAEi_54I.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6c28e3a525129a5d2daa2cf8b817bb5c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: efe962423d2ce1af7d5d7c6ef0c3b2fc
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bc4e298caff03591d45c60634ac88bf8
+inline_embed_id: 20996017completenessofeigenvectorsandmeasurementpostulate29088382
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: completeness-of-eigenvectors-and-measurement-postulate
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/completeness-of-eigenvectors-and-measurement-postulate
-short_url: completeness-of-eigenvectors-and-measurement-postulate
-inline_embed_id: 20996017completenessofeigenvectorsandmeasurementpostulate29088382
-about_this_resource_text: ''
-related_resources_text: ''
+title: Completeness of eigenvectors and measurement postulate
 transcript: >-
   <p><span m='380'>PROFESSOR:</span> <span m='760'>That</span> <span
   m='870'>brings</span> <span m='980'>us</span> <span m='1090'>to</span> <span
@@ -760,67 +820,7 @@ transcript: >-
   m='1012260'>not</span> <span m='1012480'>realized,</span> <span
   m='1013706'>and</span> <span m='1013888'>it</span> <span m='1014070'>so</span>
   <span m='1014340'>continues.</span> </p>
-embedded_media:
-  - uid: bd17802a36b49045c4ed7bb256561ffa
-    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: XF6FAEi_54I
-  - uid: 05d64509cddab9e385504bad3f8919b4
-    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/RmiCZYVfG9c/default.jpg'
-  - uid: f35502c41ba653f7651146c98b68b9ef
-    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: XF6FAEi_54I
-  - uid: 6fa4ef61404815a85d6e6ddb228f8e07
-    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 5e7fd28394f3042dfb55e625a6d28fa1
-    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec09_s3_300k.mp4'
-  - uid: 5147e4a3459cc5c364b0201222e23155
-    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/XF6FAEi_54I/default.jpg'
-  - uid: 0b60bc02daa182069e98c0d582e0fb04
-    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
-    id: XF6FAEi_54I.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/completeness-of-eigenvectors-and-measurement-postulate/XF6FAEi_54I.srt
-  - uid: 6c28e3a525129a5d2daa2cf8b817bb5c
-    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
-    id: XF6FAEi_54I.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/completeness-of-eigenvectors-and-measurement-postulate/XF6FAEi_54I.pdf
-  - uid: efe962423d2ce1af7d5d7c6ef0c3b2fc
-    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bc4e298caff03591d45c60634ac88bf8
-    parent_uid: 45c55934f49fdb4ffc10531ef88626cb
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 45c55934f49fdb4ffc10531ef88626cb
 type: courses
 layout: video
 ---

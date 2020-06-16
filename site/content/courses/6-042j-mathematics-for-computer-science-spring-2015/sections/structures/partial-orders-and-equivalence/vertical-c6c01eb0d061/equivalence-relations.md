@@ -1,13 +1,73 @@
 ---
-title: Equivalence Relations
-uid: 2656fa235bd03a7c5e7fa9b97b363c91
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 2007b08ef0a768c1bf2a62b9b282ba67
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 08e4008d9f847f487f4944994e37d850
+  - id: Video-YouTube-Stream
+    media_location: s-E5T3igntw
+    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 56b287f5f416b69e29ac6a6707bdbe0c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/s-E5T3igntw/default.jpg'
+    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 41c22a14fa79d24522606b44b65eee33
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: s-E5T3igntw
+    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 64a2e0fedb3d0e46994bb4e31666dccf
+  - id: s-E5T3igntw.srt
+    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-c6c01eb0d061/equivalence-relations/s-E5T3igntw.srt
+    title: 3play caption file
+    type: null
+    uid: 0da6e5690e423e13409b74f29a651f90
+  - id: s-E5T3igntw.pdf
+    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-c6c01eb0d061/equivalence-relations/s-E5T3igntw.pdf
+    title: 3play pdf file
+    type: null
+    uid: d2abbb08dddee6fd4e07057e21946e40
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c70182ac29b59a50c14090041a9de335
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 48e72e20869c15d7b4b0fe1d6d17f8d8
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_equivalence_ipod.mp4
+    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8d2fde6cec81596c121d4329533220b7
+inline_embed_id: 63821540equivalencerelations74968039
 parent_uid: 46dc2fd499548c08b14bda4cb29a9728
+related_resources_text: ''
+short_url: equivalence-relations
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-c6c01eb0d061/equivalence-relations
-short_url: equivalence-relations
-inline_embed_id: 63821540equivalencerelations74968039
-about_this_resource_text: ''
-related_resources_text: ''
+title: Equivalence Relations
 transcript: >-
   <p><span m='520'>Equivalence</span> <span m='1140'>relations</span> <span
   m='1880'>are</span> <span m='2170'>another</span> <span m='2480'>kind</span>
@@ -508,67 +568,7 @@ transcript: >-
   m='427290'>of</span> <span m='427390'>understanding</span> <span
   m='428280'>what</span> <span m='428970'>equivalence</span> <span
   m='429550'>relations</span> <span m='430100'>are.</span> </p>
-embedded_media:
-  - uid: 2007b08ef0a768c1bf2a62b9b282ba67
-    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 08e4008d9f847f487f4944994e37d850
-    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 56b287f5f416b69e29ac6a6707bdbe0c
-    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: s-E5T3igntw
-  - uid: 41c22a14fa79d24522606b44b65eee33
-    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/s-E5T3igntw/default.jpg'
-  - uid: 64a2e0fedb3d0e46994bb4e31666dccf
-    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: s-E5T3igntw
-  - uid: 0da6e5690e423e13409b74f29a651f90
-    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
-    id: s-E5T3igntw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-c6c01eb0d061/equivalence-relations/s-E5T3igntw.srt
-  - uid: d2abbb08dddee6fd4e07057e21946e40
-    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
-    id: s-E5T3igntw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/partial-orders-and-equivalence/vertical-c6c01eb0d061/equivalence-relations/s-E5T3igntw.pdf
-  - uid: c70182ac29b59a50c14090041a9de335
-    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 48e72e20869c15d7b4b0fe1d6d17f8d8
-    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8d2fde6cec81596c121d4329533220b7
-    parent_uid: 2656fa235bd03a7c5e7fa9b97b363c91
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_equivalence_ipod.mp4
+uid: 2656fa235bd03a7c5e7fa9b97b363c91
 type: courses
 layout: video
 ---

@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 28: Similar matrices and jordan form'
-uid: 7981f3c413e430369643531921892360
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-28-similar-matrices-and-jordan-form
-short_url: lecture-28-similar-matrices-and-jordan-form
-inline_embed_id: '28932601lecture28:similarmatricesandjordanform22522739'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L28.jpg
+    parent_uid: 7981f3c413e430369643531921892360
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-28-similar-matrices-and-jordan-form/18.06_L28.jpg
+    title: 18.06_L28.jpg
+    type: null
+    uid: 139678477021a18e81ac0aaba4ddac6b
+  - id: Video-YouTube-Stream
+    media_location: TSdXJw83kyA
+    parent_uid: 7981f3c413e430369643531921892360
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6cea555e5273320807fdd90373453704
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/28.mp4'
+    parent_uid: 7981f3c413e430369643531921892360
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6d49f1f1f59dd8e41e04333a1b1727b8
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: 7981f3c413e430369643531921892360
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d0abd0d690ac47eb1b877e9ab4042c04
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: 7981f3c413e430369643531921892360
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 835a1a4e4532af68ab6636e66a08c8e7
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 7981f3c413e430369643531921892360
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 715d109d6e11f304e9d41c780275ff51
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: TSdXJw83kyA
+    parent_uid: 7981f3c413e430369643531921892360
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a8151114c0abc796b3f543d4632f17be
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TSdXJw83kyA/default.jpg'
+    parent_uid: 7981f3c413e430369643531921892360
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 29398744bc0d85ead23b4d71581dd49d
+  - id: TSdXJw83kyA.srt
+    parent_uid: 7981f3c413e430369643531921892360
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-28-similar-matrices-and-jordan-form/TSdXJw83kyA.srt
+    title: 3play caption file
+    type: null
+    uid: 06a94957db071ac37b88b8485f7c03fc
+  - id: TSdXJw83kyA.pdf
+    parent_uid: 7981f3c413e430369643531921892360
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-28-similar-matrices-and-jordan-form/TSdXJw83kyA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0f4bac6de07c6e13d35de60e556af4be
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7981f3c413e430369643531921892360
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e06434c65b3c419d7b9d7fd447dc2248
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7981f3c413e430369643531921892360
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: cbcc243fcd8799ccf53a1958bcce0cf7
+inline_embed_id: '28932601lecture28:similarmatricesandjordanform22522739'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-28-similar-matrices-and-jordan-form
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-28-similar-matrices-and-jordan-form
+title: 'Lecture 28: Similar matrices and jordan form'
 transcript: >-
   <p><span m='8280'>Okay.</span> <span m='9650'>This</span> <span
   m='10790'>lecture</span> <span m='11270'>is</span> <span
@@ -2601,79 +2673,7 @@ transcript: >-
   m='2742800'>have</span> <span m='2742870'>a</span> <span
   m='2742890'>great</span> <span m='2742990'>weekend.</span> </p><p><span
   m='2743130'>Bye.</span> </p>
-embedded_media:
-  - uid: 139678477021a18e81ac0aaba4ddac6b
-    parent_uid: 7981f3c413e430369643531921892360
-    id: 18.06_L28.jpg
-    title: 18.06_L28.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-28-similar-matrices-and-jordan-form/18.06_L28.jpg
-  - uid: 6cea555e5273320807fdd90373453704
-    parent_uid: 7981f3c413e430369643531921892360
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TSdXJw83kyA
-  - uid: 6d49f1f1f59dd8e41e04333a1b1727b8
-    parent_uid: 7981f3c413e430369643531921892360
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/28.mp4'
-  - uid: d0abd0d690ac47eb1b877e9ab4042c04
-    parent_uid: 7981f3c413e430369643531921892360
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 835a1a4e4532af68ab6636e66a08c8e7
-    parent_uid: 7981f3c413e430369643531921892360
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 715d109d6e11f304e9d41c780275ff51
-    parent_uid: 7981f3c413e430369643531921892360
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: a8151114c0abc796b3f543d4632f17be
-    parent_uid: 7981f3c413e430369643531921892360
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TSdXJw83kyA
-  - uid: 29398744bc0d85ead23b4d71581dd49d
-    parent_uid: 7981f3c413e430369643531921892360
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TSdXJw83kyA/default.jpg'
-  - uid: 06a94957db071ac37b88b8485f7c03fc
-    parent_uid: 7981f3c413e430369643531921892360
-    id: TSdXJw83kyA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-28-similar-matrices-and-jordan-form/TSdXJw83kyA.srt
-  - uid: 0f4bac6de07c6e13d35de60e556af4be
-    parent_uid: 7981f3c413e430369643531921892360
-    id: TSdXJw83kyA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-28-similar-matrices-and-jordan-form/TSdXJw83kyA.pdf
-  - uid: e06434c65b3c419d7b9d7fd447dc2248
-    parent_uid: 7981f3c413e430369643531921892360
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: cbcc243fcd8799ccf53a1958bcce0cf7
-    parent_uid: 7981f3c413e430369643531921892360
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 7981f3c413e430369643531921892360
 type: courses
 layout: video
 ---

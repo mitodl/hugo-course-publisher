@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 21: Random Variables'
-uid: 860c6c33b7f3a6a19c329bf115756045
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-21-random-variables
-short_url: lecture-21-random-variables
-inline_embed_id: '7525082lecture21:randomvariables63338301'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Introduces partitioning of the probabilistic
   sample space using random variables. Distribution functions, notably, the
   binomial distribution, are discussed.</p> <p><strong>Speaker:</strong> Tom
   Leighton</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: MOfhhFaQdjw
+    parent_uid: 860c6c33b7f3a6a19c329bf115756045
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f376528350a45f27bcd8d07b2b06817c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/MOfhhFaQdjw/default.jpg'
+    parent_uid: 860c6c33b7f3a6a19c329bf115756045
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d650038ffc16f12dd6e03bceaaf21ba6
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-21-random-variables/id503873536?i=110644961
+    parent_uid: 860c6c33b7f3a6a19c329bf115756045
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 21401f18a6c318d8262327977020903d
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec21_300k.mp4'
+    parent_uid: 860c6c33b7f3a6a19c329bf115756045
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 494bfd3a246afbb3151b881ea869ee47
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: MOfhhFaQdjw
+    parent_uid: 860c6c33b7f3a6a19c329bf115756045
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3be18d4e1472c635be37409adba4079c
+  - id: MOfhhFaQdjw.srt
+    parent_uid: 860c6c33b7f3a6a19c329bf115756045
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-21-random-variables/MOfhhFaQdjw.srt
+    title: 3play caption file
+    type: null
+    uid: 6ae34149b127d722507b7564c068b099
+  - id: MOfhhFaQdjw.pdf
+    parent_uid: 860c6c33b7f3a6a19c329bf115756045
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-21-random-variables/MOfhhFaQdjw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 26637c51d9ed01c61aa160f5f4a20e26
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 860c6c33b7f3a6a19c329bf115756045
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a29da029ecc59a545b016901602d2e1b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 860c6c33b7f3a6a19c329bf115756045
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9ea690161fd23f189a6bba760a05441d
+inline_embed_id: '7525082lecture21:randomvariables63338301'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
+short_url: lecture-21-random-variables
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-21-random-variables
+title: 'Lecture 21: Random Variables'
 transcript: >-
   <p><span m='400'>The</span> <span m='510'>following</span> <span
   m='950'>content</span> <span m='1550'>is</span> <span m='1660'>provided</span>
@@ -4461,62 +4516,7 @@ transcript: >-
   m='4972340'>very</span> <span m='4972780'>good. We'll do</span> <span
   m='4973070'>more</span> <span m='4973360'>this in</span> <span
   m='4973570'>recitation</span> <span m='4974180'>tomorrow.</span> </p><p></p>
-embedded_media:
-  - uid: f376528350a45f27bcd8d07b2b06817c
-    parent_uid: 860c6c33b7f3a6a19c329bf115756045
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: MOfhhFaQdjw
-  - uid: d650038ffc16f12dd6e03bceaaf21ba6
-    parent_uid: 860c6c33b7f3a6a19c329bf115756045
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/MOfhhFaQdjw/default.jpg'
-  - uid: 21401f18a6c318d8262327977020903d
-    parent_uid: 860c6c33b7f3a6a19c329bf115756045
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-21-random-variables/id503873536?i=110644961
-  - uid: 494bfd3a246afbb3151b881ea869ee47
-    parent_uid: 860c6c33b7f3a6a19c329bf115756045
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec21_300k.mp4'
-  - uid: 3be18d4e1472c635be37409adba4079c
-    parent_uid: 860c6c33b7f3a6a19c329bf115756045
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: MOfhhFaQdjw
-  - uid: 6ae34149b127d722507b7564c068b099
-    parent_uid: 860c6c33b7f3a6a19c329bf115756045
-    id: MOfhhFaQdjw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-21-random-variables/MOfhhFaQdjw.srt
-  - uid: 26637c51d9ed01c61aa160f5f4a20e26
-    parent_uid: 860c6c33b7f3a6a19c329bf115756045
-    id: MOfhhFaQdjw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-21-random-variables/MOfhhFaQdjw.pdf
-  - uid: a29da029ecc59a545b016901602d2e1b
-    parent_uid: 860c6c33b7f3a6a19c329bf115756045
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9ea690161fd23f189a6bba760a05441d
-    parent_uid: 860c6c33b7f3a6a19c329bf115756045
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 860c6c33b7f3a6a19c329bf115756045
 type: courses
 layout: video
 ---

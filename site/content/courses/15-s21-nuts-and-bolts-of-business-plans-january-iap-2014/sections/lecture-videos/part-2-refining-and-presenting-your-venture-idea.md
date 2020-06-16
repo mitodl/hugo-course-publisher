@@ -1,13 +1,67 @@
 ---
-title: 'Session 1, Part 2: Refining and Presenting Your Venture Idea'
-uid: 88ad3a8a98f833263fbe334dedd60e14
+about_this_resource_text: '<p><strong>Speaker:</strong> Stephen Pearse</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Lau7bwQAWr4
+    parent_uid: 88ad3a8a98f833263fbe334dedd60e14
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e1ae5c202f60f28c7af669c99a9376fe
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Lau7bwQAWr4/default.jpg'
+    parent_uid: 88ad3a8a98f833263fbe334dedd60e14
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9969df16a684ee9fb258cc4efbdbd7da
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Lau7bwQAWr4
+    parent_uid: 88ad3a8a98f833263fbe334dedd60e14
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 456b6245acbe1a0f502d9c7f8ea13f3b
+  - id: Lau7bwQAWr4.srt
+    parent_uid: 88ad3a8a98f833263fbe334dedd60e14
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-refining-and-presenting-your-venture-idea/Lau7bwQAWr4.srt
+    title: 3play caption file
+    type: null
+    uid: 458d6a80b8b2fc2cf226f4be60881415
+  - id: Lau7bwQAWr4.pdf
+    parent_uid: 88ad3a8a98f833263fbe334dedd60e14
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-refining-and-presenting-your-venture-idea/Lau7bwQAWr4.pdf
+    title: 3play pdf file
+    type: null
+    uid: ea265d249acafbda5bf02d2f4c0ece1f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 88ad3a8a98f833263fbe334dedd60e14
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5b082ba4b30816422f84003ad5f2fb9a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 88ad3a8a98f833263fbe334dedd60e14
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c7a26f7acff8bdd6b191bd940acde7b0
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1122123562'
+    parent_uid: 88ad3a8a98f833263fbe334dedd60e14
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 329ce5bbc8eaecdc12fc654f2f8ca848
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT15.S21IAP14/MIT15_S21IAP14_S1P2_300k.mp4'
+    parent_uid: 88ad3a8a98f833263fbe334dedd60e14
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 36a12966cb190bad719d987de000532a
+inline_embed_id: '21072003part2:refiningandpresentingyourventureidea811578'
 parent_uid: 7425dbab24bd40b9d0c0c704cab7eab2
+related_resources_text: ''
+short_url: part-2-refining-and-presenting-your-venture-idea
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-refining-and-presenting-your-venture-idea
-short_url: part-2-refining-and-presenting-your-venture-idea
-inline_embed_id: '21072003part2:refiningandpresentingyourventureidea811578'
-about_this_resource_text: '<p><strong>Speaker:</strong> Stephen Pearse</p>'
-related_resources_text: ''
+title: 'Session 1, Part 2: Refining and Presenting Your Venture Idea'
 transcript: >-
   <p><span m='30'>The</span> <span m='130'>following</span> <span
   m='600'>content</span> <span m='1090'>is</span> <span m='1210'>provided</span>
@@ -4329,61 +4383,7 @@ transcript: >-
   m='3641610'>OK?</span> <span m='3642130'>Thank</span> <span
   m='3642320'>you</span> <span m='3642380'>very</span> <span
   m='3642530'>much.</span> </p><p><span m='3642960'>[APPLAUSE]</span> </p>
-embedded_media:
-  - uid: e1ae5c202f60f28c7af669c99a9376fe
-    parent_uid: 88ad3a8a98f833263fbe334dedd60e14
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Lau7bwQAWr4
-  - uid: 9969df16a684ee9fb258cc4efbdbd7da
-    parent_uid: 88ad3a8a98f833263fbe334dedd60e14
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Lau7bwQAWr4/default.jpg'
-  - uid: 456b6245acbe1a0f502d9c7f8ea13f3b
-    parent_uid: 88ad3a8a98f833263fbe334dedd60e14
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Lau7bwQAWr4
-  - uid: 458d6a80b8b2fc2cf226f4be60881415
-    parent_uid: 88ad3a8a98f833263fbe334dedd60e14
-    id: Lau7bwQAWr4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-refining-and-presenting-your-venture-idea/Lau7bwQAWr4.srt
-  - uid: ea265d249acafbda5bf02d2f4c0ece1f
-    parent_uid: 88ad3a8a98f833263fbe334dedd60e14
-    id: Lau7bwQAWr4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-refining-and-presenting-your-venture-idea/Lau7bwQAWr4.pdf
-  - uid: 5b082ba4b30816422f84003ad5f2fb9a
-    parent_uid: 88ad3a8a98f833263fbe334dedd60e14
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c7a26f7acff8bdd6b191bd940acde7b0
-    parent_uid: 88ad3a8a98f833263fbe334dedd60e14
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 329ce5bbc8eaecdc12fc654f2f8ca848
-    parent_uid: 88ad3a8a98f833263fbe334dedd60e14
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1122123562'
-  - uid: 36a12966cb190bad719d987de000532a
-    parent_uid: 88ad3a8a98f833263fbe334dedd60e14
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT15.S21IAP14/MIT15_S21IAP14_S1P2_300k.mp4'
+uid: 88ad3a8a98f833263fbe334dedd60e14
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: Energy eigenstates on a generic symmetric potential. Shooting method
-uid: 7d64dd668c86a9a9a0bcaa9874ac7407
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 45M-BtYAcwg
+    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 09319dd69671e5f4e0039e74a4ff54fb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/UnWOZiw95eg/default.jpg'
+    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 240f6cb46b8ad4118658bc20b1961353
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 45M-BtYAcwg
+    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7d3992bf37b6bc67d0f66c42286b95af
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8e9df0cd8351053e4f9101b6403d59e1
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec12_s6_300k.mp4'
+    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b03a40d4ac6f392895875967c0767ea5
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/45M-BtYAcwg/default.jpg'
+    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fac9cc7ff5d0db8b2819c33944caa97f
+  - id: 45M-BtYAcwg.srt
+    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/energy-eigenstates-on-a-generic-symmetric-potential.-shooting-method/45M-BtYAcwg.srt
+    title: 3play caption file
+    type: null
+    uid: 52515a01565fa3ed37e7c978e8790ace
+  - id: 45M-BtYAcwg.pdf
+    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/energy-eigenstates-on-a-generic-symmetric-potential.-shooting-method/45M-BtYAcwg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0f4025d9b9a978071bd6351693e9c5eb
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7420a804d950e449fe226da561f9784f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2d38d3ab6d2f9ce642baa8beddf47f9c
+inline_embed_id: 39560080energyeigenstatesonagenericsymmetricpotential.shootingmethod95311930
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: energy-eigenstates-on-a-generic-symmetric-potential.-shooting-method
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/energy-eigenstates-on-a-generic-symmetric-potential.-shooting-method
-short_url: energy-eigenstates-on-a-generic-symmetric-potential.-shooting-method
-inline_embed_id: 39560080energyeigenstatesonagenericsymmetricpotential.shootingmethod95311930
-about_this_resource_text: ''
-related_resources_text: ''
+title: Energy eigenstates on a generic symmetric potential. Shooting method
 transcript: >-
   <p><span m='410'>PROFESSOR:</span> <span m='520'>Here</span> <span
   m='630'>is</span> <span m='850'>your</span> <span m='970'>potential.</span>
@@ -789,67 +849,7 @@ transcript: >-
   m='924010'>you</span> <span m='924130'>will</span> <span
   m='924250'>have</span> <span m='924460'>lots</span> <span m='924760'>of</span>
   <span m='924880'>practice.</span> </p>
-embedded_media:
-  - uid: 09319dd69671e5f4e0039e74a4ff54fb
-    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 45M-BtYAcwg
-  - uid: 240f6cb46b8ad4118658bc20b1961353
-    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/UnWOZiw95eg/default.jpg'
-  - uid: 7d3992bf37b6bc67d0f66c42286b95af
-    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 45M-BtYAcwg
-  - uid: 8e9df0cd8351053e4f9101b6403d59e1
-    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: b03a40d4ac6f392895875967c0767ea5
-    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec12_s6_300k.mp4'
-  - uid: fac9cc7ff5d0db8b2819c33944caa97f
-    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/45M-BtYAcwg/default.jpg'
-  - uid: 52515a01565fa3ed37e7c978e8790ace
-    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
-    id: 45M-BtYAcwg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/energy-eigenstates-on-a-generic-symmetric-potential.-shooting-method/45M-BtYAcwg.srt
-  - uid: 0f4025d9b9a978071bd6351693e9c5eb
-    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
-    id: 45M-BtYAcwg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/energy-eigenstates-on-a-generic-symmetric-potential.-shooting-method/45M-BtYAcwg.pdf
-  - uid: 7420a804d950e449fe226da561f9784f
-    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2d38d3ab6d2f9ce642baa8beddf47f9c
-    parent_uid: 7d64dd668c86a9a9a0bcaa9874ac7407
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 7d64dd668c86a9a9a0bcaa9874ac7407
 type: courses
 layout: video
 ---

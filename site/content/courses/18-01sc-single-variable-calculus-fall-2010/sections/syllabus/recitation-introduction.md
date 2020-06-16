@@ -1,13 +1,68 @@
 ---
-title: Recitation Introduction
-uid: 6c400e2e6be52613d311134c507a143f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2y4tCiWbVRI
+    parent_uid: 6c400e2e6be52613d311134c507a143f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 615fc8cad5b72d93a15a475435c941e7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2y4tCiWbVRI/default.jpg'
+    parent_uid: 6c400e2e6be52613d311134c507a143f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4cd2a177fbbafa9dab33462f3edb8393
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 2y4tCiWbVRI
+    parent_uid: 6c400e2e6be52613d311134c507a143f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 89569ba31604721f70f049ed756eb4bb
+  - id: 2y4tCiWbVRI.srt
+    parent_uid: 6c400e2e6be52613d311134c507a143f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/syllabus/recitation-introduction/2y4tCiWbVRI.srt
+    title: 3play caption file
+    type: null
+    uid: 2ae7b7b06b45d7abe0807561929558a1
+  - id: 2y4tCiWbVRI.pdf
+    parent_uid: 6c400e2e6be52613d311134c507a143f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/syllabus/recitation-introduction/2y4tCiWbVRI.pdf
+    title: 3play pdf file
+    type: null
+    uid: db9c34a07da5fc73ece1f3f7b62e3987
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6c400e2e6be52613d311134c507a143f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f75efaf6ee0cc4e1f579921dc18fc924
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6c400e2e6be52613d311134c507a143f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 10137618d6b77653c1eedd2c667723af
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/recitation-introduction/id414308064?i=90318621
+    parent_uid: 6c400e2e6be52613d311134c507a143f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: fb404e60c645912fd34ed0828252a38a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_00_300k.mp4'
+    parent_uid: 6c400e2e6be52613d311134c507a143f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 23dcca90d4b35c627889d9f33d698e5a
+inline_embed_id: 81563137recitationintroduction57592848
 parent_uid: 08db2ed910adc41a6bceda6c3bf65e1f
+related_resources_text: ''
+short_url: recitation-introduction
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/syllabus/recitation-introduction
-short_url: recitation-introduction
-inline_embed_id: 81563137recitationintroduction57592848
-about_this_resource_text: ''
-related_resources_text: ''
+title: Recitation Introduction
 transcript: >-
   <p><span m='0'>JOEL LEWIS:</span> <span m='5400'>Hi.</span> <span
   m='5940'>My</span> <span m='6160'>name</span> <span m='6380'>is</span> <span
@@ -119,62 +174,7 @@ transcript: >-
   m='88520'>mathematics.</span> </p><p><span m='89850'>Hope</span> <span
   m='90100'>you</span> <span m='90200'>enjoy</span> <span m='90490'>the</span>
   <span m='90570'>course.</span> </p>
-embedded_media:
-  - uid: 615fc8cad5b72d93a15a475435c941e7
-    parent_uid: 6c400e2e6be52613d311134c507a143f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2y4tCiWbVRI
-  - uid: 4cd2a177fbbafa9dab33462f3edb8393
-    parent_uid: 6c400e2e6be52613d311134c507a143f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2y4tCiWbVRI/default.jpg'
-  - uid: 89569ba31604721f70f049ed756eb4bb
-    parent_uid: 6c400e2e6be52613d311134c507a143f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2y4tCiWbVRI
-  - uid: 2ae7b7b06b45d7abe0807561929558a1
-    parent_uid: 6c400e2e6be52613d311134c507a143f
-    id: 2y4tCiWbVRI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/syllabus/recitation-introduction/2y4tCiWbVRI.srt
-  - uid: db9c34a07da5fc73ece1f3f7b62e3987
-    parent_uid: 6c400e2e6be52613d311134c507a143f
-    id: 2y4tCiWbVRI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/syllabus/recitation-introduction/2y4tCiWbVRI.pdf
-  - uid: f75efaf6ee0cc4e1f579921dc18fc924
-    parent_uid: 6c400e2e6be52613d311134c507a143f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 10137618d6b77653c1eedd2c667723af
-    parent_uid: 6c400e2e6be52613d311134c507a143f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: fb404e60c645912fd34ed0828252a38a
-    parent_uid: 6c400e2e6be52613d311134c507a143f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/recitation-introduction/id414308064?i=90318621
-  - uid: 23dcca90d4b35c627889d9f33d698e5a
-    parent_uid: 6c400e2e6be52613d311134c507a143f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_00_300k.mp4'
+uid: 6c400e2e6be52613d311134c507a143f
 type: courses
 layout: video
 ---

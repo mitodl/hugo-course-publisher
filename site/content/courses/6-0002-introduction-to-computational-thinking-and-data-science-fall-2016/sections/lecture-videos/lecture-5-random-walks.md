@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 5: Random Walks'
-uid: fe7432090d3f0ab259746a105ebe5f63
-parent_uid: dfe2b9f5ab127795415ac86facf4a535
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-5-random-walks
-short_url: lecture-5-random-walks
-inline_embed_id: 77737560lecture5randomwalks20231958
 about_this_resource_text: >-
   <p><strong>Description:</strong> Prof. Guttag discusses how to build
   simulations and plot graphs in Python.</p> <p><strong>Instructor:</strong>
   John Guttag</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 6wUD_gp5WeE
+    parent_uid: fe7432090d3f0ab259746a105ebe5f63
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7ca63aa8d12c4c20c0dde6763deeae96
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/6wUD_gp5WeE/default.jpg'
+    parent_uid: fe7432090d3f0ab259746a105ebe5f63
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 20325afd782b759f3c995390627d5699
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 6wUD_gp5WeE
+    parent_uid: fe7432090d3f0ab259746a105ebe5f63
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7c702981206c9d50766d059bb30047e3
+  - id: 6wUD_gp5WeE.srt
+    parent_uid: fe7432090d3f0ab259746a105ebe5f63
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-5-random-walks/6wUD_gp5WeE.srt
+    title: 3play caption file
+    type: null
+    uid: d7fc11232c514bdf9af1d9236ab4af4e
+  - id: 6wUD_gp5WeE.pdf
+    parent_uid: fe7432090d3f0ab259746a105ebe5f63
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-5-random-walks/6wUD_gp5WeE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 03bf169bf222218a135955bf39ee3b2e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fe7432090d3f0ab259746a105ebe5f63
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: abeb19119f76bc0705193880f5594eda
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fe7432090d3f0ab259746a105ebe5f63
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8ba17dfad56292db546c24735ac38c20
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
+    parent_uid: fe7432090d3f0ab259746a105ebe5f63
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9fbb25e85972e81b23a21355a11b1a9f
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec05_300k.mp4'
+    parent_uid: fe7432090d3f0ab259746a105ebe5f63
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 015cb4ce06d560a0d703c39876011d83
+inline_embed_id: 77737560lecture5randomwalks20231958
+parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
+short_url: lecture-5-random-walks
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-5-random-walks
+title: 'Lecture 5: Random Walks'
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1330">content</span> <span m="1810">is</span> <span
@@ -2945,61 +2999,7 @@ transcript: >-
   m="2949370">not</span> <span m="2949580">come</span> <span
   m="2949790">to</span> <span m="2949940">an</span> <span
   m="2950060">end.</span></p>
-embedded_media:
-  - uid: 7ca63aa8d12c4c20c0dde6763deeae96
-    parent_uid: fe7432090d3f0ab259746a105ebe5f63
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 6wUD_gp5WeE
-  - uid: 20325afd782b759f3c995390627d5699
-    parent_uid: fe7432090d3f0ab259746a105ebe5f63
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/6wUD_gp5WeE/default.jpg'
-  - uid: 7c702981206c9d50766d059bb30047e3
-    parent_uid: fe7432090d3f0ab259746a105ebe5f63
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 6wUD_gp5WeE
-  - uid: d7fc11232c514bdf9af1d9236ab4af4e
-    parent_uid: fe7432090d3f0ab259746a105ebe5f63
-    id: 6wUD_gp5WeE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-5-random-walks/6wUD_gp5WeE.srt
-  - uid: 03bf169bf222218a135955bf39ee3b2e
-    parent_uid: fe7432090d3f0ab259746a105ebe5f63
-    id: 6wUD_gp5WeE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-5-random-walks/6wUD_gp5WeE.pdf
-  - uid: abeb19119f76bc0705193880f5594eda
-    parent_uid: fe7432090d3f0ab259746a105ebe5f63
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8ba17dfad56292db546c24735ac38c20
-    parent_uid: fe7432090d3f0ab259746a105ebe5f63
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 9fbb25e85972e81b23a21355a11b1a9f
-    parent_uid: fe7432090d3f0ab259746a105ebe5f63
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
-  - uid: 015cb4ce06d560a0d703c39876011d83
-    parent_uid: fe7432090d3f0ab259746a105ebe5f63
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec05_300k.mp4'
+uid: fe7432090d3f0ab259746a105ebe5f63
 type: courses
 layout: video
 ---

@@ -1,13 +1,69 @@
 ---
-title: 'Green''s Theorem: Area Under an Arch'
-uid: ffc2bab5af4f1652b6466b5fd4074e72
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: KXof0q88xbg
+    parent_uid: ffc2bab5af4f1652b6466b5fd4074e72
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 758323cd0c3edc908c39d5110db96f7b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/KXof0q88xbg/default.jpg'
+    parent_uid: ffc2bab5af4f1652b6466b5fd4074e72
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7d95648466cda52a31938b21c62de649
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/greens-theorem-area-under/id414355340?i=90322826
+    parent_uid: ffc2bab5af4f1652b6466b5fd4074e72
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e9fc143c2cea1f2ef84d80b4bfa962bf
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_45a_300k.mp4
+    parent_uid: ffc2bab5af4f1652b6466b5fd4074e72
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 80db937a465ccc4ae60dc2d18a7a0832
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: KXof0q88xbg
+    parent_uid: ffc2bab5af4f1652b6466b5fd4074e72
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fcbcf91aa0abd3bee1a33896c8a30ccb
+  - id: KXof0q88xbg.srt
+    parent_uid: ffc2bab5af4f1652b6466b5fd4074e72
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-68-planimeter-greens-theorem-and-area/greens-theorem-area-under-an-arch/KXof0q88xbg.srt
+    title: 3play caption file
+    type: null
+    uid: b83c61784eef1764621552b321d3346c
+  - id: KXof0q88xbg.pdf
+    parent_uid: ffc2bab5af4f1652b6466b5fd4074e72
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-68-planimeter-greens-theorem-and-area/greens-theorem-area-under-an-arch/KXof0q88xbg.pdf
+    title: 3play pdf file
+    type: null
+    uid: e10b1d077f50dec633b4ddad230aadb4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ffc2bab5af4f1652b6466b5fd4074e72
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8501260d5e9f0b596f10877b8a4d467e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ffc2bab5af4f1652b6466b5fd4074e72
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 807499ecd13c4fc0ff6ab5511fee0928
+inline_embed_id: '35215454green''stheorem:areaunderanarch95543944'
 parent_uid: fce780d8a145fae3fe0d349fbce595cf
+related_resources_text: ''
+short_url: greens-theorem-area-under-an-arch
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-68-planimeter-greens-theorem-and-area/greens-theorem-area-under-an-arch
-short_url: greens-theorem-area-under-an-arch
-inline_embed_id: '35215454green''stheorem:areaunderanarch95543944'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Green''s Theorem: Area Under an Arch'
 transcript: >-
   <p><span m='7140'>Welcome</span> <span m='7430'>back to</span> <span
   m='7630'>recitation.</span> <span m='8760'>In</span> <span
@@ -667,63 +723,7 @@ transcript: >-
   <span m='513400'>knew</span> <span m='513690'>before.</span> <span
   m='513980'>That's</span> <span m='514170'>where I'll</span> <span
   m='514370'>stop.</span> </p>
-embedded_media:
-  - uid: 758323cd0c3edc908c39d5110db96f7b
-    parent_uid: ffc2bab5af4f1652b6466b5fd4074e72
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: KXof0q88xbg
-  - uid: 7d95648466cda52a31938b21c62de649
-    parent_uid: ffc2bab5af4f1652b6466b5fd4074e72
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/KXof0q88xbg/default.jpg'
-  - uid: e9fc143c2cea1f2ef84d80b4bfa962bf
-    parent_uid: ffc2bab5af4f1652b6466b5fd4074e72
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/greens-theorem-area-under/id414355340?i=90322826
-  - uid: 80db937a465ccc4ae60dc2d18a7a0832
-    parent_uid: ffc2bab5af4f1652b6466b5fd4074e72
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_45a_300k.mp4
-  - uid: fcbcf91aa0abd3bee1a33896c8a30ccb
-    parent_uid: ffc2bab5af4f1652b6466b5fd4074e72
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: KXof0q88xbg
-  - uid: b83c61784eef1764621552b321d3346c
-    parent_uid: ffc2bab5af4f1652b6466b5fd4074e72
-    id: KXof0q88xbg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-68-planimeter-greens-theorem-and-area/greens-theorem-area-under-an-arch/KXof0q88xbg.srt
-  - uid: e10b1d077f50dec633b4ddad230aadb4
-    parent_uid: ffc2bab5af4f1652b6466b5fd4074e72
-    id: KXof0q88xbg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-68-planimeter-greens-theorem-and-area/greens-theorem-area-under-an-arch/KXof0q88xbg.pdf
-  - uid: 8501260d5e9f0b596f10877b8a4d467e
-    parent_uid: ffc2bab5af4f1652b6466b5fd4074e72
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 807499ecd13c4fc0ff6ab5511fee0928
-    parent_uid: ffc2bab5af4f1652b6466b5fd4074e72
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: ffc2bab5af4f1652b6466b5fd4074e72
 type: courses
 layout: video
 ---

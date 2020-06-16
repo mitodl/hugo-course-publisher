@@ -1,16 +1,71 @@
 ---
-title: Getters and Setters
-uid: fb14b6699b1e0956b009ca00ceb48af6
-parent_uid: a105f0a220696d6d2ecbc3a529f3eeaa
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-9-video-solutions/getters-and-setters
-short_url: getters-and-setters
-inline_embed_id: 9250894gettersandsetters43057118
 about_this_resource_text: >-
   <p><strong>Description:</strong> This in-class question explains how and why
   class attribute getters and setters are important in Python.</p>
   <p><strong>Instructor:</strong> Dr. Ana Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: C_pgH5QhIZ8
+    parent_uid: fb14b6699b1e0956b009ca00ceb48af6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f78fc5984130c88f26e364222ee3124f
+  - id: C_pgH5QhIZ8.srt
+    parent_uid: fb14b6699b1e0956b009ca00ceb48af6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-9-video-solutions/getters-and-setters/C_pgH5QhIZ8.srt
+    title: 3play caption file
+    type: null
+    uid: 23a4cf2a5f55571096cc4fe6d3ab2048
+  - id: C_pgH5QhIZ8.pdf
+    parent_uid: fb14b6699b1e0956b009ca00ceb48af6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-9-video-solutions/getters-and-setters/C_pgH5QhIZ8.pdf
+    title: 3play pdf file
+    type: null
+    uid: af786579cb33634aecc4dbc2c6cc4b86
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fb14b6699b1e0956b009ca00ceb48af6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4cb777977087a9dc56090afbad64bcdb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fb14b6699b1e0956b009ca00ceb48af6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 98d1be13dde1ca0ba8b458ad5e1311b1
+  - id: Video-YouTube-Stream
+    media_location: C_pgH5QhIZ8
+    parent_uid: fb14b6699b1e0956b009ca00ceb48af6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b32eac210db8b1e55c3408a218e540f7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/C_pgH5QhIZ8/default.jpg'
+    parent_uid: fb14b6699b1e0956b009ca00ceb48af6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cf9a3117b28715e45c7caf894a16788e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: fb14b6699b1e0956b009ca00ceb48af6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a464d3ab34787b5cbc9cdbcd0fdd8052
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_09_exercise_01_300k.mp4
+    parent_uid: fb14b6699b1e0956b009ca00ceb48af6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b2df3fcc2b5eb816d294f68b7c0c37a0
+inline_embed_id: 9250894gettersandsetters43057118
+parent_uid: a105f0a220696d6d2ecbc3a529f3eeaa
 related_resources_text: ''
+short_url: getters-and-setters
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-9-video-solutions/getters-and-setters
+title: Getters and Setters
 transcript: >-
   <p><span m='790'>The</span> <span m='880'>following</span> <span
   m='1300'>content</span> <span m='1870'>is</span> <span
@@ -127,62 +182,7 @@ transcript: >-
   m='100520'>the</span> <span m='100610'>correct</span> <span
   m='100880'>answer</span> <span m='101210'>is</span> <span m='102060'>D.</span>
   <span m='103260'>Great job.</span> </p>
-embedded_media:
-  - uid: f78fc5984130c88f26e364222ee3124f
-    parent_uid: fb14b6699b1e0956b009ca00ceb48af6
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: C_pgH5QhIZ8
-  - uid: 23a4cf2a5f55571096cc4fe6d3ab2048
-    parent_uid: fb14b6699b1e0956b009ca00ceb48af6
-    id: C_pgH5QhIZ8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-9-video-solutions/getters-and-setters/C_pgH5QhIZ8.srt
-  - uid: af786579cb33634aecc4dbc2c6cc4b86
-    parent_uid: fb14b6699b1e0956b009ca00ceb48af6
-    id: C_pgH5QhIZ8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-9-video-solutions/getters-and-setters/C_pgH5QhIZ8.pdf
-  - uid: 4cb777977087a9dc56090afbad64bcdb
-    parent_uid: fb14b6699b1e0956b009ca00ceb48af6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 98d1be13dde1ca0ba8b458ad5e1311b1
-    parent_uid: fb14b6699b1e0956b009ca00ceb48af6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b32eac210db8b1e55c3408a218e540f7
-    parent_uid: fb14b6699b1e0956b009ca00ceb48af6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: C_pgH5QhIZ8
-  - uid: cf9a3117b28715e45c7caf894a16788e
-    parent_uid: fb14b6699b1e0956b009ca00ceb48af6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/C_pgH5QhIZ8/default.jpg'
-  - uid: a464d3ab34787b5cbc9cdbcd0fdd8052
-    parent_uid: fb14b6699b1e0956b009ca00ceb48af6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: b2df3fcc2b5eb816d294f68b7c0c37a0
-    parent_uid: fb14b6699b1e0956b009ca00ceb48af6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_09_exercise_01_300k.mp4
+uid: fb14b6699b1e0956b009ca00ceb48af6
 type: courses
 layout: video
 ---

@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 1: Overview, Interval Scheduling'
-uid: 14102aa0a874b7d9e76b5de716542363
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-1-course-overview-interval-scheduling
-short_url: lecture-1-course-overview-interval-scheduling
-inline_embed_id: '5374934lecture1:courseoverview,intervalscheduling8920056'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Devadas gives an
   overview of the course and introduces an algorithm for optimal interval
   scheduling.</p><p><strong>Instructor:</strong> Srinivas Devadas</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 2P-yW7LQr08
+    parent_uid: 14102aa0a874b7d9e76b5de716542363
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b6a106c88c79c071a3d521d37263f4dc
+  - id: 2P-yW7LQr08.srt
+    parent_uid: 14102aa0a874b7d9e76b5de716542363
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-1-course-overview-interval-scheduling/2P-yW7LQr08.srt
+    title: 3play caption file
+    type: null
+    uid: 40a29cce8bb1a870256904533dbcc4f7
+  - id: 2P-yW7LQr08.pdf
+    parent_uid: 14102aa0a874b7d9e76b5de716542363
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-1-course-overview-interval-scheduling/2P-yW7LQr08.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3ef4065ac05ebdca98af43ced4dd028d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 14102aa0a874b7d9e76b5de716542363
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6bce904a6e27375f52537cbac683f0bf
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 14102aa0a874b7d9e76b5de716542363
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5d43f1d27b9d3ad0d3e0972157499522
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 14102aa0a874b7d9e76b5de716542363
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f3ff3409a4a910dc5c6fe65e96c95bef
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec01_300k.mp4'
+    parent_uid: 14102aa0a874b7d9e76b5de716542363
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: dcdac4f2b8a63edc7407496b0d2d0f26
+  - id: Video-YouTube-Stream
+    media_location: 2P-yW7LQr08
+    parent_uid: 14102aa0a874b7d9e76b5de716542363
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 47426df88982c88313c1fbf4677e76f0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2P-yW7LQr08/default.jpg'
+    parent_uid: 14102aa0a874b7d9e76b5de716542363
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4a70697e968d9acba73b1f7b23996885
+inline_embed_id: '5374934lecture1:courseoverview,intervalscheduling8920056'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-1-course-overview-interval-scheduling
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-1-course-overview-interval-scheduling
+title: 'Lecture 1: Overview, Interval Scheduling'
 transcript: >-
   <p><span m="60">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4493,61 +4547,7 @@ transcript: >-
   m="5011490">And</span> <span m="5011680">see</span> <span
   m="5011780">you</span> <span m="5011860">guys</span> <span
   m="5012080">next</span> <span m="5012280">time.</span></p>
-embedded_media:
-  - uid: b6a106c88c79c071a3d521d37263f4dc
-    parent_uid: 14102aa0a874b7d9e76b5de716542363
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2P-yW7LQr08
-  - uid: 40a29cce8bb1a870256904533dbcc4f7
-    parent_uid: 14102aa0a874b7d9e76b5de716542363
-    id: 2P-yW7LQr08.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-1-course-overview-interval-scheduling/2P-yW7LQr08.srt
-  - uid: 3ef4065ac05ebdca98af43ced4dd028d
-    parent_uid: 14102aa0a874b7d9e76b5de716542363
-    id: 2P-yW7LQr08.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-1-course-overview-interval-scheduling/2P-yW7LQr08.pdf
-  - uid: 6bce904a6e27375f52537cbac683f0bf
-    parent_uid: 14102aa0a874b7d9e76b5de716542363
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5d43f1d27b9d3ad0d3e0972157499522
-    parent_uid: 14102aa0a874b7d9e76b5de716542363
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f3ff3409a4a910dc5c6fe65e96c95bef
-    parent_uid: 14102aa0a874b7d9e76b5de716542363
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: dcdac4f2b8a63edc7407496b0d2d0f26
-    parent_uid: 14102aa0a874b7d9e76b5de716542363
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec01_300k.mp4'
-  - uid: 47426df88982c88313c1fbf4677e76f0
-    parent_uid: 14102aa0a874b7d9e76b5de716542363
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2P-yW7LQr08
-  - uid: 4a70697e968d9acba73b1f7b23996885
-    parent_uid: 14102aa0a874b7d9e76b5de716542363
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2P-yW7LQr08/default.jpg'
+uid: 14102aa0a874b7d9e76b5de716542363
 type: courses
 layout: video
 ---

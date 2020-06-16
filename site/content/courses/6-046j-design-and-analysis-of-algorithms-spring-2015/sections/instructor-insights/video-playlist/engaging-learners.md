@@ -1,13 +1,68 @@
 ---
-title: Engaging Learners
-uid: 4a7ae1be69404ffecb6cbffd28ed0892
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-MP4
+    media_location: ojdXVFQfZPw
+    parent_uid: 4a7ae1be69404ffecb6cbffd28ed0892
+    title: Video-YouTube-MP4
+    type: Video
+    uid: bd80e84ff278f4ae68f929d9e05311e4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ojdXVFQfZPw/default.jpg'
+    parent_uid: 4a7ae1be69404ffecb6cbffd28ed0892
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 20fbf8fb1bf6bc20e3e1fd3a94bb0c39
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ojdXVFQfZPw
+    parent_uid: 4a7ae1be69404ffecb6cbffd28ed0892
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ee8c8ef42cb80da81b3cd7764bc05d47
+  - id: ojdXVFQfZPw.srt
+    parent_uid: 4a7ae1be69404ffecb6cbffd28ed0892
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/engaging-learners/ojdXVFQfZPw.srt
+    title: 3play caption file
+    type: null
+    uid: 280b69bf89a4bc1b9268c1f826b9b9e3
+  - id: ojdXVFQfZPw.pdf
+    parent_uid: 4a7ae1be69404ffecb6cbffd28ed0892
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/engaging-learners/ojdXVFQfZPw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 445d9306e2f2597e37013a740e2eeb0b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4a7ae1be69404ffecb6cbffd28ed0892
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 84ab9ed305f415179c2adf639eba0c73
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4a7ae1be69404ffecb6cbffd28ed0892
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ff1bd4f74983b2d2711de87f76ce8106
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 4a7ae1be69404ffecb6cbffd28ed0892
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d957b0c8203ea50950b19f8bed4a6b58
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.046JS15/MIT6_046JS15_engaging_students_300k.mp4
+    parent_uid: 4a7ae1be69404ffecb6cbffd28ed0892
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7caad61a6e2f12029714b697f67ef9c2
+inline_embed_id: 19237435engagingstudents25731095
 parent_uid: 92d158be1dbd82a1c08d824bff9d0d79
+related_resources_text: ''
+short_url: engaging-learners
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/engaging-learners
-short_url: engaging-learners
-inline_embed_id: 19237435engagingstudents25731095
-about_this_resource_text: ''
-related_resources_text: ''
+title: Engaging Learners
 transcript: >-
   <p><span m="4850">ERIK DEMAINE:</span> <span m="5340">To</span> <span
   m="5510">me,</span> <span m="5690">the</span> <span m="5860">key</span> <span
@@ -67,62 +122,7 @@ transcript: >-
   m="49670">draw</span> <span m="50600">representative</span> <span
   m="51210">figures</span> <span m="51690">and</span> <span
   m="51800">things</span> <span m="52100">like that.</span></p>
-embedded_media:
-  - uid: bd80e84ff278f4ae68f929d9e05311e4
-    parent_uid: 4a7ae1be69404ffecb6cbffd28ed0892
-    id: Video-YouTube-MP4
-    title: Video-YouTube-MP4
-    type: Video
-    media_location: ojdXVFQfZPw
-  - uid: 20fbf8fb1bf6bc20e3e1fd3a94bb0c39
-    parent_uid: 4a7ae1be69404ffecb6cbffd28ed0892
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ojdXVFQfZPw/default.jpg'
-  - uid: ee8c8ef42cb80da81b3cd7764bc05d47
-    parent_uid: 4a7ae1be69404ffecb6cbffd28ed0892
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ojdXVFQfZPw
-  - uid: 280b69bf89a4bc1b9268c1f826b9b9e3
-    parent_uid: 4a7ae1be69404ffecb6cbffd28ed0892
-    id: ojdXVFQfZPw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/engaging-learners/ojdXVFQfZPw.srt
-  - uid: 445d9306e2f2597e37013a740e2eeb0b
-    parent_uid: 4a7ae1be69404ffecb6cbffd28ed0892
-    id: ojdXVFQfZPw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/engaging-learners/ojdXVFQfZPw.pdf
-  - uid: 84ab9ed305f415179c2adf639eba0c73
-    parent_uid: 4a7ae1be69404ffecb6cbffd28ed0892
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ff1bd4f74983b2d2711de87f76ce8106
-    parent_uid: 4a7ae1be69404ffecb6cbffd28ed0892
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d957b0c8203ea50950b19f8bed4a6b58
-    parent_uid: 4a7ae1be69404ffecb6cbffd28ed0892
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 7caad61a6e2f12029714b697f67ef9c2
-    parent_uid: 4a7ae1be69404ffecb6cbffd28ed0892
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.046JS15/MIT6_046JS15_engaging_students_300k.mp4
+uid: 4a7ae1be69404ffecb6cbffd28ed0892
 type: courses
 layout: video
 ---

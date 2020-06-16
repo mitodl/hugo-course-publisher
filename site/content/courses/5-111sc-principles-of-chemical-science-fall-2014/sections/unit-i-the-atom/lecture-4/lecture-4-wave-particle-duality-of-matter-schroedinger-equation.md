@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 4: Wave-Particle Duality of Matter; Schrödinger Equation'
-uid: 9379776905c059be26f26d0f84ed56a8
-parent_uid: 6c42d4207daaf98f42f3cf4c8b25c652
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-4/lecture-4-wave-particle-duality-of-matter-schroedinger-equation
-short_url: lecture-4-wave-particle-duality-of-matter-schroedinger-equation
-inline_embed_id: 50970156lecture4waveparticledualityofmatterschrdingerequation42559250
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: The idea that matter (and thus an electron) has both
@@ -13,7 +6,68 @@ about_this_resource_text: >-
   Grinolds introduces us to quantum dot technology. We also start to consider
   the impact that the Schrödinger equation had on our understanding of the
   atom.</p> <p><strong>Instructor:</strong> Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Qg7pQ_CYaIQ
+    parent_uid: 9379776905c059be26f26d0f84ed56a8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 267ae42deab93907638493d3c34f8e4b
+  - id: Qg7pQ_CYaIQ.srt
+    parent_uid: 9379776905c059be26f26d0f84ed56a8
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-4/lecture-4-wave-particle-duality-of-matter-schroedinger-equation/Qg7pQ_CYaIQ.srt
+    title: 3play caption file
+    type: null
+    uid: f71d9a2db1b71d4bfbf28bb600554059
+  - id: Qg7pQ_CYaIQ.pdf
+    parent_uid: 9379776905c059be26f26d0f84ed56a8
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-4/lecture-4-wave-particle-duality-of-matter-schroedinger-equation/Qg7pQ_CYaIQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: b7a673a31ef01ff0eecfd9e20b849a36
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9379776905c059be26f26d0f84ed56a8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6895dadcc21069f95438ac2286ce6e42
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9379776905c059be26f26d0f84ed56a8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 274589dbb2505405e74f6809084bb14e
+  - id: Video-YouTube-Stream
+    media_location: Qg7pQ_CYaIQ
+    parent_uid: 9379776905c059be26f26d0f84ed56a8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bf2749ce3289c38f2eab9f89e1ce7cd1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Qg7pQ_CYaIQ/default.jpg'
+    parent_uid: 9379776905c059be26f26d0f84ed56a8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 774d4db1dc204b6bbccaf5138114b0cd
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L04_300k.mp4'
+    parent_uid: 9379776905c059be26f26d0f84ed56a8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4c7b5f3fb93fdd87026bb1ab0b3ecbea
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: 9379776905c059be26f26d0f84ed56a8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0c98e1e29720115cd2b7478ecac698e7
+inline_embed_id: 50970156lecture4waveparticledualityofmatterschrdingerequation42559250
+parent_uid: 6c42d4207daaf98f42f3cf4c8b25c652
 related_resources_text: ''
+short_url: lecture-4-wave-particle-duality-of-matter-schroedinger-equation
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-4/lecture-4-wave-particle-duality-of-matter-schroedinger-equation
+title: 'Lecture 4: Wave-Particle Duality of Matter; Schrödinger Equation'
 transcript: >-
   <p><span m="90">The</span> <span m="180">following</span> <span
   m="630">content</span> <span m="1110">is</span> <span m="1230">provided</span>
@@ -3171,61 +3225,7 @@ transcript: >-
   m="2744250">teamwork.</span> <span m="2745270">OK.</span> <span
   m="2745690">See</span> <span m="2745880">you</span> <span
   m="2745990">Friday.</span></p>
-embedded_media:
-  - uid: 267ae42deab93907638493d3c34f8e4b
-    parent_uid: 9379776905c059be26f26d0f84ed56a8
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Qg7pQ_CYaIQ
-  - uid: f71d9a2db1b71d4bfbf28bb600554059
-    parent_uid: 9379776905c059be26f26d0f84ed56a8
-    id: Qg7pQ_CYaIQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-4/lecture-4-wave-particle-duality-of-matter-schroedinger-equation/Qg7pQ_CYaIQ.srt
-  - uid: b7a673a31ef01ff0eecfd9e20b849a36
-    parent_uid: 9379776905c059be26f26d0f84ed56a8
-    id: Qg7pQ_CYaIQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-4/lecture-4-wave-particle-duality-of-matter-schroedinger-equation/Qg7pQ_CYaIQ.pdf
-  - uid: 6895dadcc21069f95438ac2286ce6e42
-    parent_uid: 9379776905c059be26f26d0f84ed56a8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 274589dbb2505405e74f6809084bb14e
-    parent_uid: 9379776905c059be26f26d0f84ed56a8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: bf2749ce3289c38f2eab9f89e1ce7cd1
-    parent_uid: 9379776905c059be26f26d0f84ed56a8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Qg7pQ_CYaIQ
-  - uid: 774d4db1dc204b6bbccaf5138114b0cd
-    parent_uid: 9379776905c059be26f26d0f84ed56a8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Qg7pQ_CYaIQ/default.jpg'
-  - uid: 4c7b5f3fb93fdd87026bb1ab0b3ecbea
-    parent_uid: 9379776905c059be26f26d0f84ed56a8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L04_300k.mp4'
-  - uid: 0c98e1e29720115cd2b7478ecac698e7
-    parent_uid: 9379776905c059be26f26d0f84ed56a8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+uid: 9379776905c059be26f26d0f84ed56a8
 type: courses
 layout: video
 ---

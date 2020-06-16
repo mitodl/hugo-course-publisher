@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 15: Single-Source Shortest Paths Problem'
-uid: a701d9c2591ce2a00362e8f085c9098d
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-15-single-source-shortest-paths-problem
-short_url: lecture-15-single-source-shortest-paths-problem
-inline_embed_id: '60559131lecture15:single-sourceshortestpathsproblem52681770'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture introduces weighted graphs and
   considers general approaches to the shortest paths problem. The lecture
   discusses single source shortest paths, negative-weight edges, and optimal
   substructure.</p> <p><strong>Instructor:</strong> Srini Devadas</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Aa2sqUhIn-E
+    parent_uid: a701d9c2591ce2a00362e8f085c9098d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ac57b941302081d417b920816006e661
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Aa2sqUhIn-E/default.jpg'
+    parent_uid: a701d9c2591ce2a00362e8f085c9098d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4da3a970c15e7b4e238eea8015c8002e
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-15-single-source-shortest/id585700718?i=126127753
+    parent_uid: a701d9c2591ce2a00362e8f085c9098d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: be08367b4f9908b02aa4641c4b5b2b0e
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec15_300k.mp4'
+    parent_uid: a701d9c2591ce2a00362e8f085c9098d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b811d3cbfb91f205a29be431da4febed
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Aa2sqUhIn-E
+    parent_uid: a701d9c2591ce2a00362e8f085c9098d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2ee5e68e8ab932532e2ba95d3ba3a36f
+  - id: Aa2sqUhIn-E.srt
+    parent_uid: a701d9c2591ce2a00362e8f085c9098d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-15-single-source-shortest-paths-problem/Aa2sqUhIn-E.srt
+    title: 3play caption file
+    type: null
+    uid: 842f28c9836942f39fac8378b5ac72b2
+  - id: Aa2sqUhIn-E.pdf
+    parent_uid: a701d9c2591ce2a00362e8f085c9098d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-15-single-source-shortest-paths-problem/Aa2sqUhIn-E.pdf
+    title: 3play pdf file
+    type: null
+    uid: 73887b2d26c8de25a7b4d121c938c6a0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a701d9c2591ce2a00362e8f085c9098d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 83e6f23709bbfcd503ec092c7498c95b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a701d9c2591ce2a00362e8f085c9098d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: dc8dad9211f84ea03ec339ad8c025760
+inline_embed_id: '60559131lecture15:single-sourceshortestpathsproblem52681770'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-15-single-source-shortest-paths-problem
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-15-single-source-shortest-paths-problem
+title: 'Lecture 15: Single-Source Shortest Paths Problem'
 transcript: >-
   <p><span m='50'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -3264,62 +3319,7 @@ transcript: >-
   m='3192980'>And</span> <span m='3193130'>we'll</span> <span
   m='3193230'>do</span> <span m='3193340'>that</span> <span
   m='3193740'>next</span> <span m='3193980'>time.</span> </p>
-embedded_media:
-  - uid: ac57b941302081d417b920816006e661
-    parent_uid: a701d9c2591ce2a00362e8f085c9098d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Aa2sqUhIn-E
-  - uid: 4da3a970c15e7b4e238eea8015c8002e
-    parent_uid: a701d9c2591ce2a00362e8f085c9098d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Aa2sqUhIn-E/default.jpg'
-  - uid: be08367b4f9908b02aa4641c4b5b2b0e
-    parent_uid: a701d9c2591ce2a00362e8f085c9098d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-15-single-source-shortest/id585700718?i=126127753
-  - uid: b811d3cbfb91f205a29be431da4febed
-    parent_uid: a701d9c2591ce2a00362e8f085c9098d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec15_300k.mp4'
-  - uid: 2ee5e68e8ab932532e2ba95d3ba3a36f
-    parent_uid: a701d9c2591ce2a00362e8f085c9098d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Aa2sqUhIn-E
-  - uid: 842f28c9836942f39fac8378b5ac72b2
-    parent_uid: a701d9c2591ce2a00362e8f085c9098d
-    id: Aa2sqUhIn-E.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-15-single-source-shortest-paths-problem/Aa2sqUhIn-E.srt
-  - uid: 73887b2d26c8de25a7b4d121c938c6a0
-    parent_uid: a701d9c2591ce2a00362e8f085c9098d
-    id: Aa2sqUhIn-E.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-15-single-source-shortest-paths-problem/Aa2sqUhIn-E.pdf
-  - uid: 83e6f23709bbfcd503ec092c7498c95b
-    parent_uid: a701d9c2591ce2a00362e8f085c9098d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: dc8dad9211f84ea03ec339ad8c025760
-    parent_uid: a701d9c2591ce2a00362e8f085c9098d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a701d9c2591ce2a00362e8f085c9098d
 type: courses
 layout: video
 ---

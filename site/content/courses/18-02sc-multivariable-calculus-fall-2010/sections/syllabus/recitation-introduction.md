@@ -1,13 +1,68 @@
 ---
-title: Recitation Introduction
-uid: 2547cf01da0b99ec42445f9536beba08
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2y4tCiWbVRI
+    parent_uid: 2547cf01da0b99ec42445f9536beba08
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 52c8f24b6e89031d0ef587be94a256bb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2y4tCiWbVRI/default.jpg'
+    parent_uid: 2547cf01da0b99ec42445f9536beba08
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fa906450237fcba8c33d2120db82e85a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 2y4tCiWbVRI
+    parent_uid: 2547cf01da0b99ec42445f9536beba08
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 947f7fc3ed07666f2932c7d6541dafa1
+  - id: 2y4tCiWbVRI.srt
+    parent_uid: 2547cf01da0b99ec42445f9536beba08
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/syllabus/recitation-introduction/2y4tCiWbVRI.srt
+    title: 3play caption file
+    type: null
+    uid: 4e7bbb00e6b7890cb49efdc0ab33b020
+  - id: 2y4tCiWbVRI.pdf
+    parent_uid: 2547cf01da0b99ec42445f9536beba08
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/syllabus/recitation-introduction/2y4tCiWbVRI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2711bd9631f5faf7d54ab1d6af92de81
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2547cf01da0b99ec42445f9536beba08
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c0af9973d7672d9d7b703ad3335fe4a5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2547cf01da0b99ec42445f9536beba08
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bca941ca27d34ff09a4c84b74274dda3
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/recitation-introduction/id414308064?i=90318621
+    parent_uid: 2547cf01da0b99ec42445f9536beba08
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9af456adef9c2e9dfcce62bc37e0306e
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_00_300k.mp4'
+    parent_uid: 2547cf01da0b99ec42445f9536beba08
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: be0022049b486ff841890e95e0db8816
+inline_embed_id: 50992700recitationintroduction36915242
 parent_uid: d764fda499d7f9ddf72d00c4e7ae00c3
+related_resources_text: ''
+short_url: recitation-introduction
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/syllabus/recitation-introduction
-short_url: recitation-introduction
-inline_embed_id: 50992700recitationintroduction36915242
-about_this_resource_text: ''
-related_resources_text: ''
+title: Recitation Introduction
 transcript: >-
   <p><span m='0'>JOEL LEWIS:</span> <span m='5400'>Hi.</span> <span
   m='5940'>My</span> <span m='6160'>name</span> <span m='6380'>is</span> <span
@@ -119,62 +174,7 @@ transcript: >-
   m='88520'>mathematics.</span> </p><p><span m='89850'>Hope</span> <span
   m='90100'>you</span> <span m='90200'>enjoy</span> <span m='90490'>the</span>
   <span m='90570'>course.</span> </p>
-embedded_media:
-  - uid: 52c8f24b6e89031d0ef587be94a256bb
-    parent_uid: 2547cf01da0b99ec42445f9536beba08
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2y4tCiWbVRI
-  - uid: fa906450237fcba8c33d2120db82e85a
-    parent_uid: 2547cf01da0b99ec42445f9536beba08
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2y4tCiWbVRI/default.jpg'
-  - uid: 947f7fc3ed07666f2932c7d6541dafa1
-    parent_uid: 2547cf01da0b99ec42445f9536beba08
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2y4tCiWbVRI
-  - uid: 4e7bbb00e6b7890cb49efdc0ab33b020
-    parent_uid: 2547cf01da0b99ec42445f9536beba08
-    id: 2y4tCiWbVRI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/syllabus/recitation-introduction/2y4tCiWbVRI.srt
-  - uid: 2711bd9631f5faf7d54ab1d6af92de81
-    parent_uid: 2547cf01da0b99ec42445f9536beba08
-    id: 2y4tCiWbVRI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/syllabus/recitation-introduction/2y4tCiWbVRI.pdf
-  - uid: c0af9973d7672d9d7b703ad3335fe4a5
-    parent_uid: 2547cf01da0b99ec42445f9536beba08
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bca941ca27d34ff09a4c84b74274dda3
-    parent_uid: 2547cf01da0b99ec42445f9536beba08
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 9af456adef9c2e9dfcce62bc37e0306e
-    parent_uid: 2547cf01da0b99ec42445f9536beba08
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/recitation-introduction/id414308064?i=90318621
-  - uid: be0022049b486ff841890e95e0db8816
-    parent_uid: 2547cf01da0b99ec42445f9536beba08
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_00_300k.mp4'
+uid: 2547cf01da0b99ec42445f9536beba08
 type: courses
 layout: video
 ---

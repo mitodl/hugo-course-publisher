@@ -1,16 +1,71 @@
 ---
-title: Python vs. Math
-uid: 1cc0b75f6ddffa1f40459620909426f9
-parent_uid: fc24c5ab1844baa962f3e8993e4c4905
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-1-video-solutions/python-vs.-math
-short_url: python-vs.-math
-inline_embed_id: 73056051pythonvs.math66748598
 about_this_resource_text: >-
   <p><strong>Description:</strong> This in-class question explains what
   mathematical statements are and are not valid in python.</p>
   <p><strong>Instructor:</strong> Dr. Ana Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: F-_PKUUM-qY
+    parent_uid: 1cc0b75f6ddffa1f40459620909426f9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8eab6db9aba3dc281546d0108e438af6
+  - id: F-_PKUUM-qY.srt
+    parent_uid: 1cc0b75f6ddffa1f40459620909426f9
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-1-video-solutions/python-vs.-math/F-_PKUUM-qY.srt
+    title: 3play caption file
+    type: null
+    uid: 66d41c55078d2529b772e76a4758e7b1
+  - id: F-_PKUUM-qY.pdf
+    parent_uid: 1cc0b75f6ddffa1f40459620909426f9
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-1-video-solutions/python-vs.-math/F-_PKUUM-qY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3b3e814ffe2ef349fac15598b99ee8a1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1cc0b75f6ddffa1f40459620909426f9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4dc4c798ee2d361b2571b73c9758ef2e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1cc0b75f6ddffa1f40459620909426f9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 102b2e7f9885fc97e26e8882aa2f0c56
+  - id: Video-YouTube-Stream
+    media_location: F-_PKUUM-qY
+    parent_uid: 1cc0b75f6ddffa1f40459620909426f9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 29ad4bbece1681fd2b483b63d1e238a7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/F-_PKUUM-qY/default.jpg'
+    parent_uid: 1cc0b75f6ddffa1f40459620909426f9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 553c4a67dde2289db5d7ee7e174a206c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: 1cc0b75f6ddffa1f40459620909426f9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 19f6cff740563d41fd9d2672cb8ad128
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_01_exercise_02_300k.mp4
+    parent_uid: 1cc0b75f6ddffa1f40459620909426f9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 66acce5605e4673e420ae009fd539c64
+inline_embed_id: 73056051pythonvs.math66748598
+parent_uid: fc24c5ab1844baa962f3e8993e4c4905
 related_resources_text: ''
+short_url: python-vs.-math
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-1-video-solutions/python-vs.-math
+title: Python vs. Math
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1300">content</span> <span m="1870">is</span> <span
@@ -98,62 +153,7 @@ transcript: >-
   m="92270">that</span> <span m="92390">has</span> <span m="92510">two</span>
   <span m="92690">characters,</span> <span m="93320">x</span> <span
   m="93530">and</span> <span m="93650">y.</span></p>
-embedded_media:
-  - uid: 8eab6db9aba3dc281546d0108e438af6
-    parent_uid: 1cc0b75f6ddffa1f40459620909426f9
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: F-_PKUUM-qY
-  - uid: 66d41c55078d2529b772e76a4758e7b1
-    parent_uid: 1cc0b75f6ddffa1f40459620909426f9
-    id: F-_PKUUM-qY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-1-video-solutions/python-vs.-math/F-_PKUUM-qY.srt
-  - uid: 3b3e814ffe2ef349fac15598b99ee8a1
-    parent_uid: 1cc0b75f6ddffa1f40459620909426f9
-    id: F-_PKUUM-qY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-1-video-solutions/python-vs.-math/F-_PKUUM-qY.pdf
-  - uid: 4dc4c798ee2d361b2571b73c9758ef2e
-    parent_uid: 1cc0b75f6ddffa1f40459620909426f9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 102b2e7f9885fc97e26e8882aa2f0c56
-    parent_uid: 1cc0b75f6ddffa1f40459620909426f9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 29ad4bbece1681fd2b483b63d1e238a7
-    parent_uid: 1cc0b75f6ddffa1f40459620909426f9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: F-_PKUUM-qY
-  - uid: 553c4a67dde2289db5d7ee7e174a206c
-    parent_uid: 1cc0b75f6ddffa1f40459620909426f9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/F-_PKUUM-qY/default.jpg'
-  - uid: 19f6cff740563d41fd9d2672cb8ad128
-    parent_uid: 1cc0b75f6ddffa1f40459620909426f9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: 66acce5605e4673e420ae009fd539c64
-    parent_uid: 1cc0b75f6ddffa1f40459620909426f9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_01_exercise_02_300k.mp4
+uid: 1cc0b75f6ddffa1f40459620909426f9
 type: courses
 layout: video
 ---

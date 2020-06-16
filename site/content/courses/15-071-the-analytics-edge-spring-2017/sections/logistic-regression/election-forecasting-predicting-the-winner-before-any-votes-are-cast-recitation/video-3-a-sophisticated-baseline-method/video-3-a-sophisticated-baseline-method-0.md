@@ -1,13 +1,62 @@
 ---
-title: 'Video 3: A Sophisticated Baseline Method'
-uid: 93d87890df832e4f0789963c954b04fc
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: lm_qReHVm0A
+    parent_uid: 93d87890df832e4f0789963c954b04fc
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 298c01518ddd4920bae66e41202cd6de
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: lm_qReHVm0A
+    parent_uid: 93d87890df832e4f0789963c954b04fc
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9c937b56af6060ae60943b639b4779b6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/lm_qReHVm0A/default.jpg'
+    parent_uid: 93d87890df832e4f0789963c954b04fc
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 53974715b77190cedcc6a7b994614c31
+  - id: lm_qReHVm0A.srt
+    parent_uid: 93d87890df832e4f0789963c954b04fc
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-3-a-sophisticated-baseline-method/video-3-a-sophisticated-baseline-method-0/lm_qReHVm0A.srt
+    title: 3play caption file
+    type: null
+    uid: 9ad7e2ff2ba6649e6144d3c0ecc03d88
+  - id: lm_qReHVm0A.pdf
+    parent_uid: 93d87890df832e4f0789963c954b04fc
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-3-a-sophisticated-baseline-method/video-3-a-sophisticated-baseline-method-0/lm_qReHVm0A.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5d4d718838026357c6beab68bb58c2dd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 93d87890df832e4f0789963c954b04fc
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cba2c4f5d4c75da2612407a7ecff90b7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 93d87890df832e4f0789963c954b04fc
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0616f1caa3b7b0c4767f31812a601d60
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.4.04_300k.mp4
+    parent_uid: 93d87890df832e4f0789963c954b04fc
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4e4338beb34ce863cfaa8e0f677fca43
+inline_embed_id: 84136307video3asophisticatedbaselinemethod65632103
 parent_uid: e6c5cd7b6c458a54bf3513e7c7c4921e
+related_resources_text: ''
+short_url: video-3-a-sophisticated-baseline-method-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-3-a-sophisticated-baseline-method/video-3-a-sophisticated-baseline-method-0
-short_url: video-3-a-sophisticated-baseline-method-0
-inline_embed_id: 84136307video3asophisticatedbaselinemethod65632103
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: A Sophisticated Baseline Method'
 transcript: >-
   <p><span m='4500'>Now,</span> <span m='4891'>we're</span> <span
   m='5282'>ready</span> <span m='5673'>to</span> <span m='6065'>actually</span>
@@ -420,56 +469,7 @@ transcript: >-
   m='341942'>compare</span> <span m='342320'>our</span> <span
   m='343027'>logistic</span> <span m='343735'>regression-based</span> <span
   m='344442'>approach.</span> </p>
-embedded_media:
-  - uid: 298c01518ddd4920bae66e41202cd6de
-    parent_uid: 93d87890df832e4f0789963c954b04fc
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: lm_qReHVm0A
-  - uid: 9c937b56af6060ae60943b639b4779b6
-    parent_uid: 93d87890df832e4f0789963c954b04fc
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: lm_qReHVm0A
-  - uid: 53974715b77190cedcc6a7b994614c31
-    parent_uid: 93d87890df832e4f0789963c954b04fc
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/lm_qReHVm0A/default.jpg'
-  - uid: 9ad7e2ff2ba6649e6144d3c0ecc03d88
-    parent_uid: 93d87890df832e4f0789963c954b04fc
-    id: lm_qReHVm0A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-3-a-sophisticated-baseline-method/video-3-a-sophisticated-baseline-method-0/lm_qReHVm0A.srt
-  - uid: 5d4d718838026357c6beab68bb58c2dd
-    parent_uid: 93d87890df832e4f0789963c954b04fc
-    id: lm_qReHVm0A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/election-forecasting-predicting-the-winner-before-any-votes-are-cast-recitation/video-3-a-sophisticated-baseline-method/video-3-a-sophisticated-baseline-method-0/lm_qReHVm0A.pdf
-  - uid: cba2c4f5d4c75da2612407a7ecff90b7
-    parent_uid: 93d87890df832e4f0789963c954b04fc
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0616f1caa3b7b0c4767f31812a601d60
-    parent_uid: 93d87890df832e4f0789963c954b04fc
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4e4338beb34ce863cfaa8e0f677fca43
-    parent_uid: 93d87890df832e4f0789963c954b04fc
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.4.04_300k.mp4
+uid: 93d87890df832e4f0789963c954b04fc
 type: courses
 layout: video
 ---

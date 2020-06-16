@@ -1,13 +1,67 @@
 ---
-title: Exam 3 Review
-uid: 021176ae4bb68a380177af674eca4ab5
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: HgC1l_6ySkc
+    parent_uid: 021176ae4bb68a380177af674eca4ab5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bfcec579ee304de82e724ffb380679e7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/HgC1l_6ySkc/default.jpg'
+    parent_uid: 021176ae4bb68a380177af674eca4ab5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 82eaaacdf248ab65f36c927f6ead3efa
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 021176ae4bb68a380177af674eca4ab5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0b7ea6cb8c23e9a4f66ec77f7db32385
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/32.mp4'
+    parent_uid: 021176ae4bb68a380177af674eca4ab5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ae1061377bf258c4f72669a38f5ab473
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: HgC1l_6ySkc
+    parent_uid: 021176ae4bb68a380177af674eca4ab5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1d9c3a63b4489cc95730e88bd2b3eae4
+  - id: HgC1l_6ySkc.srt
+    parent_uid: 021176ae4bb68a380177af674eca4ab5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/exam-3-review/HgC1l_6ySkc.srt
+    title: 3play caption file
+    type: null
+    uid: 8ab7f58659322d4332fd052e8f7788ca
+  - id: HgC1l_6ySkc.pdf
+    parent_uid: 021176ae4bb68a380177af674eca4ab5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/exam-3-review/HgC1l_6ySkc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 298b92329936c45bd90c7f90b605879b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 021176ae4bb68a380177af674eca4ab5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5d44975d1d1ec21acfa69a70ba2d7e3a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 021176ae4bb68a380177af674eca4ab5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6200ac546cfc7b54e79f807a4f24e3b8
+inline_embed_id: 96310615exam3review44648553
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: exam-3-review
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/exam-3-review
-short_url: exam-3-review
-inline_embed_id: 96310615exam3review44648553
-about_this_resource_text: ''
-related_resources_text: ''
+title: Exam 3 Review
 transcript: >-
   <p><span m="7930">OK,</span> <span m="8450">here</span> <span
   m="8750">we</span> <span m="8860">go</span> <span m="9120">with,</span> <span
@@ -2580,61 +2634,7 @@ transcript: >-
   m="2814860">so</span> <span m="2815010">good</span> <span
   m="2815190">luck</span> <span m="2815430">on</span> <span
   m="2815550">the</span> <span m="2815680">quiz.</span></p>
-embedded_media:
-  - uid: bfcec579ee304de82e724ffb380679e7
-    parent_uid: 021176ae4bb68a380177af674eca4ab5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: HgC1l_6ySkc
-  - uid: 82eaaacdf248ab65f36c927f6ead3efa
-    parent_uid: 021176ae4bb68a380177af674eca4ab5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/HgC1l_6ySkc/default.jpg'
-  - uid: 0b7ea6cb8c23e9a4f66ec77f7db32385
-    parent_uid: 021176ae4bb68a380177af674eca4ab5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: ae1061377bf258c4f72669a38f5ab473
-    parent_uid: 021176ae4bb68a380177af674eca4ab5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/32.mp4'
-  - uid: 1d9c3a63b4489cc95730e88bd2b3eae4
-    parent_uid: 021176ae4bb68a380177af674eca4ab5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: HgC1l_6ySkc
-  - uid: 8ab7f58659322d4332fd052e8f7788ca
-    parent_uid: 021176ae4bb68a380177af674eca4ab5
-    id: HgC1l_6ySkc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/exam-3-review/HgC1l_6ySkc.srt
-  - uid: 298b92329936c45bd90c7f90b605879b
-    parent_uid: 021176ae4bb68a380177af674eca4ab5
-    id: HgC1l_6ySkc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/exam-3-review/HgC1l_6ySkc.pdf
-  - uid: 5d44975d1d1ec21acfa69a70ba2d7e3a
-    parent_uid: 021176ae4bb68a380177af674eca4ab5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6200ac546cfc7b54e79f807a4f24e3b8
-    parent_uid: 021176ae4bb68a380177af674eca4ab5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 021176ae4bb68a380177af674eca4ab5
 type: courses
 layout: video
 ---

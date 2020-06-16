@@ -1,15 +1,69 @@
 ---
-title: 'Lecture 12: Clustering'
-uid: 69a5e3a8e8deaf121d42636a3e25d3bb
-parent_uid: dfe2b9f5ab127795415ac86facf4a535
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-12-clustering
-short_url: lecture-12-clustering
-inline_embed_id: 58933395lecture12clustering8934151
 about_this_resource_text: >-
   <p><strong>Description:</strong> Prof. Guttag discusses
   clustering.</p><p><strong>Instructor:</strong> John Guttag</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: esmzYhuFnds
+    parent_uid: 69a5e3a8e8deaf121d42636a3e25d3bb
+    title: Video-YouTube-Stream
+    type: Video
+    uid: db81052767154f3959b210d269967f8f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/esmzYhuFnds/default.jpg'
+    parent_uid: 69a5e3a8e8deaf121d42636a3e25d3bb
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e70798b3e0164247e9f9902281a0e3ed
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: esmzYhuFnds
+    parent_uid: 69a5e3a8e8deaf121d42636a3e25d3bb
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 57e2a82d216736cd7b65a744c5aa15ad
+  - id: esmzYhuFnds.srt
+    parent_uid: 69a5e3a8e8deaf121d42636a3e25d3bb
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-12-clustering/esmzYhuFnds.srt
+    title: 3play caption file
+    type: null
+    uid: 2bacd69208746760bbf11feb3ccd2a0f
+  - id: esmzYhuFnds.pdf
+    parent_uid: 69a5e3a8e8deaf121d42636a3e25d3bb
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-12-clustering/esmzYhuFnds.pdf
+    title: 3play pdf file
+    type: null
+    uid: 17feded894d842066364cd423ba4e007
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 69a5e3a8e8deaf121d42636a3e25d3bb
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 03458b613a9bdb98c76e268af93af9ec
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 69a5e3a8e8deaf121d42636a3e25d3bb
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e4d4253516087e2360fab3f151a691d1
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
+    parent_uid: 69a5e3a8e8deaf121d42636a3e25d3bb
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5f800dc375e58e6613200c3c1013c3f2
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec12_300k.mp4'
+    parent_uid: 69a5e3a8e8deaf121d42636a3e25d3bb
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a40e7406d083a6941726f25e44bec1eb
+inline_embed_id: 58933395lecture12clustering8934151
+parent_uid: dfe2b9f5ab127795415ac86facf4a535
 related_resources_text: ''
+short_url: lecture-12-clustering
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-12-clustering
+title: 'Lecture 12: Clustering'
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1330">content</span> <span m="1810">is</span> <span
@@ -2867,61 +2921,7 @@ transcript: >-
   m="3034830">talk</span> <span m="3035160">about</span> <span
   m="3035820">classification.</span> <span m="3037440">Thank</span> <span
   m="3037680">you.</span></p>
-embedded_media:
-  - uid: db81052767154f3959b210d269967f8f
-    parent_uid: 69a5e3a8e8deaf121d42636a3e25d3bb
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: esmzYhuFnds
-  - uid: e70798b3e0164247e9f9902281a0e3ed
-    parent_uid: 69a5e3a8e8deaf121d42636a3e25d3bb
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/esmzYhuFnds/default.jpg'
-  - uid: 57e2a82d216736cd7b65a744c5aa15ad
-    parent_uid: 69a5e3a8e8deaf121d42636a3e25d3bb
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: esmzYhuFnds
-  - uid: 2bacd69208746760bbf11feb3ccd2a0f
-    parent_uid: 69a5e3a8e8deaf121d42636a3e25d3bb
-    id: esmzYhuFnds.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-12-clustering/esmzYhuFnds.srt
-  - uid: 17feded894d842066364cd423ba4e007
-    parent_uid: 69a5e3a8e8deaf121d42636a3e25d3bb
-    id: esmzYhuFnds.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/lecture-12-clustering/esmzYhuFnds.pdf
-  - uid: 03458b613a9bdb98c76e268af93af9ec
-    parent_uid: 69a5e3a8e8deaf121d42636a3e25d3bb
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e4d4253516087e2360fab3f151a691d1
-    parent_uid: 69a5e3a8e8deaf121d42636a3e25d3bb
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5f800dc375e58e6613200c3c1013c3f2
-    parent_uid: 69a5e3a8e8deaf121d42636a3e25d3bb
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1235164695'
-  - uid: a40e7406d083a6941726f25e44bec1eb
-    parent_uid: 69a5e3a8e8deaf121d42636a3e25d3bb
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0002F16/MIT6_0002F16_lec12_300k.mp4'
+uid: 69a5e3a8e8deaf121d42636a3e25d3bb
 type: courses
 layout: video
 ---

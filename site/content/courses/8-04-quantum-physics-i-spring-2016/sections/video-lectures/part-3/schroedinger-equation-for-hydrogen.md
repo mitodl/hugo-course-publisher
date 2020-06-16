@@ -1,13 +1,67 @@
 ---
-title: Schrödinger equation for hydrogen
-uid: e1281417f95abc553fc5d183516fe891
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: KfbvrGt3MlI
+    parent_uid: e1281417f95abc553fc5d183516fe891
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3ec7a5326b5b4e356cfe5fcae3181f79
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/KfbvrGt3MlI/default.jpg'
+    parent_uid: e1281417f95abc553fc5d183516fe891
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c43d9d66f70300240f1e17ffa78612eb
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: KfbvrGt3MlI
+    parent_uid: e1281417f95abc553fc5d183516fe891
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 57dcafd6a83964c9a51de7264750eca2
+  - id: KfbvrGt3MlI.srt
+    parent_uid: e1281417f95abc553fc5d183516fe891
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/schroedinger-equation-for-hydrogen/KfbvrGt3MlI.srt
+    title: 3play caption file
+    type: null
+    uid: 812560ae7f7c4e860f5df7cb2e37834f
+  - id: KfbvrGt3MlI.pdf
+    parent_uid: e1281417f95abc553fc5d183516fe891
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/schroedinger-equation-for-hydrogen/KfbvrGt3MlI.pdf
+    title: 3play pdf file
+    type: null
+    uid: fa2bbbb530d4cae286ac44fabfdb1081
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e1281417f95abc553fc5d183516fe891
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 47a68bf518ed7d7dd46fb6626e7ca26d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e1281417f95abc553fc5d183516fe891
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0caa949cfb59c70f5f9588c063efb0d0
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: e1281417f95abc553fc5d183516fe891
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f4c61a3df67f175b24326747631aa636
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec22_s3_300k.mp4'
+    parent_uid: e1281417f95abc553fc5d183516fe891
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b896e752adf25687060cf47df9062092
+inline_embed_id: 86199187schrdingerequationforhydrogen85289223
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: schroedinger-equation-for-hydrogen
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/schroedinger-equation-for-hydrogen
-short_url: schroedinger-equation-for-hydrogen
-inline_embed_id: 86199187schrdingerequationforhydrogen85289223
-about_this_resource_text: ''
-related_resources_text: ''
+title: Schrödinger equation for hydrogen
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='480'>So</span> <span
   m='750'>we'll</span> <span m='970'>look</span> <span m='1830'>at</span> <span
@@ -1057,61 +1111,7 @@ transcript: >-
   m='1253430'>very</span> <span m='1253790'>solvable.</span> <span
   m='1255320'>So</span> <span m='1256580'>we</span> <span m='1257120'>can</span>
   <span m='1257390'>proceed.</span> </p>
-embedded_media:
-  - uid: 3ec7a5326b5b4e356cfe5fcae3181f79
-    parent_uid: e1281417f95abc553fc5d183516fe891
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: KfbvrGt3MlI
-  - uid: c43d9d66f70300240f1e17ffa78612eb
-    parent_uid: e1281417f95abc553fc5d183516fe891
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/KfbvrGt3MlI/default.jpg'
-  - uid: 57dcafd6a83964c9a51de7264750eca2
-    parent_uid: e1281417f95abc553fc5d183516fe891
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: KfbvrGt3MlI
-  - uid: 812560ae7f7c4e860f5df7cb2e37834f
-    parent_uid: e1281417f95abc553fc5d183516fe891
-    id: KfbvrGt3MlI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/schroedinger-equation-for-hydrogen/KfbvrGt3MlI.srt
-  - uid: fa2bbbb530d4cae286ac44fabfdb1081
-    parent_uid: e1281417f95abc553fc5d183516fe891
-    id: KfbvrGt3MlI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/schroedinger-equation-for-hydrogen/KfbvrGt3MlI.pdf
-  - uid: 47a68bf518ed7d7dd46fb6626e7ca26d
-    parent_uid: e1281417f95abc553fc5d183516fe891
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0caa949cfb59c70f5f9588c063efb0d0
-    parent_uid: e1281417f95abc553fc5d183516fe891
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f4c61a3df67f175b24326747631aa636
-    parent_uid: e1281417f95abc553fc5d183516fe891
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: b896e752adf25687060cf47df9062092
-    parent_uid: e1281417f95abc553fc5d183516fe891
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec22_s3_300k.mp4'
+uid: e1281417f95abc553fc5d183516fe891
 type: courses
 layout: video
 ---

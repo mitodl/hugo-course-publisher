@@ -1,13 +1,67 @@
 ---
-title: Column Space and Nullspace
-uid: 1f131b0367d7ae2da3fb6268977b2873
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 8o5Cmfpeo6g
+    parent_uid: 1f131b0367d7ae2da3fb6268977b2873
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 45c1ce91a31bda28f6802071a9f7b8ab
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/8o5Cmfpeo6g/default.jpg'
+    parent_uid: 1f131b0367d7ae2da3fb6268977b2873
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b5060c399e949c4977530a41e94a1e88
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 1f131b0367d7ae2da3fb6268977b2873
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 498f2dbd28071d98f929567a35499e53
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/06.mp4'
+    parent_uid: 1f131b0367d7ae2da3fb6268977b2873
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 81dbddf64d29a350fa324ff779f91d6f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 8o5Cmfpeo6g
+    parent_uid: 1f131b0367d7ae2da3fb6268977b2873
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4a939560a98a89a932983297f042774d
+  - id: 8o5Cmfpeo6g.srt
+    parent_uid: 1f131b0367d7ae2da3fb6268977b2873
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/column-space-and-nullspace/column-space-and-nullspace/8o5Cmfpeo6g.srt
+    title: 3play caption file
+    type: null
+    uid: 079b03ca949bccd5d69a78f459936d5a
+  - id: 8o5Cmfpeo6g.pdf
+    parent_uid: 1f131b0367d7ae2da3fb6268977b2873
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/column-space-and-nullspace/column-space-and-nullspace/8o5Cmfpeo6g.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7c283d19f8bf10f3c33671c420bd1908
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1f131b0367d7ae2da3fb6268977b2873
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1c72bde66e29249845bfbe154437f365
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1f131b0367d7ae2da3fb6268977b2873
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 87195a4d09000a26b603d11907aeadbc
+inline_embed_id: 78781921columnspaceandnullspace57241018
 parent_uid: bb16f055bb0c2fa6b00b24a82c138877
+related_resources_text: ''
+short_url: column-space-and-nullspace
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/column-space-and-nullspace/column-space-and-nullspace
-short_url: column-space-and-nullspace
-inline_embed_id: 78781921columnspaceandnullspace57241018
-about_this_resource_text: ''
-related_resources_text: ''
+title: Column Space and Nullspace
 transcript: >-
   <p><span m='9070'>Okay.</span> <span m='9660'>This</span> <span
   m='9990'>is</span> <span m='10490'>lecture</span> <span m='11290'>six</span>
@@ -2600,61 +2654,7 @@ transcript: >-
   m='2745960'>Okay.</span> </p><p><span m='2748770'>See</span> <span
   m='2751580'>you</span> <span m='2754380'>Wednesday.</span> </p><p><span
   m='2757190'>Thanks.</span> </p>
-embedded_media:
-  - uid: 45c1ce91a31bda28f6802071a9f7b8ab
-    parent_uid: 1f131b0367d7ae2da3fb6268977b2873
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 8o5Cmfpeo6g
-  - uid: b5060c399e949c4977530a41e94a1e88
-    parent_uid: 1f131b0367d7ae2da3fb6268977b2873
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8o5Cmfpeo6g/default.jpg'
-  - uid: 498f2dbd28071d98f929567a35499e53
-    parent_uid: 1f131b0367d7ae2da3fb6268977b2873
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 81dbddf64d29a350fa324ff779f91d6f
-    parent_uid: 1f131b0367d7ae2da3fb6268977b2873
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/06.mp4'
-  - uid: 4a939560a98a89a932983297f042774d
-    parent_uid: 1f131b0367d7ae2da3fb6268977b2873
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 8o5Cmfpeo6g
-  - uid: 079b03ca949bccd5d69a78f459936d5a
-    parent_uid: 1f131b0367d7ae2da3fb6268977b2873
-    id: 8o5Cmfpeo6g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/column-space-and-nullspace/column-space-and-nullspace/8o5Cmfpeo6g.srt
-  - uid: 7c283d19f8bf10f3c33671c420bd1908
-    parent_uid: 1f131b0367d7ae2da3fb6268977b2873
-    id: 8o5Cmfpeo6g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/column-space-and-nullspace/column-space-and-nullspace/8o5Cmfpeo6g.pdf
-  - uid: 1c72bde66e29249845bfbe154437f365
-    parent_uid: 1f131b0367d7ae2da3fb6268977b2873
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 87195a4d09000a26b603d11907aeadbc
-    parent_uid: 1f131b0367d7ae2da3fb6268977b2873
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 1f131b0367d7ae2da3fb6268977b2873
 type: courses
 layout: video
 ---

@@ -1,13 +1,62 @@
 ---
-title: 'Video 4: Modeling the Problem'
-uid: b67172a7ba01d70c7ff3c5e32e326c5b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: BvZlP1ZyToo
+    parent_uid: b67172a7ba01d70c7ff3c5e32e326c5b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7b6c664984c0a323874535cba58b8434
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: BvZlP1ZyToo
+    parent_uid: b67172a7ba01d70c7ff3c5e32e326c5b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5a98e06da2baa3b486ce120dd8c8fe93
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/BvZlP1ZyToo/default.jpg'
+    parent_uid: b67172a7ba01d70c7ff3c5e32e326c5b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4c26a69482d95b494e22a5d36b0bd00d
+  - id: BvZlP1ZyToo.srt
+    parent_uid: b67172a7ba01d70c7ff3c5e32e326c5b
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-4-modeling-the-problem/video-4-modeling-the-problem-0/BvZlP1ZyToo.srt
+    title: 3play caption file
+    type: null
+    uid: ef0586c60f013ac1876b177532a52f6a
+  - id: BvZlP1ZyToo.pdf
+    parent_uid: b67172a7ba01d70c7ff3c5e32e326c5b
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-4-modeling-the-problem/video-4-modeling-the-problem-0/BvZlP1ZyToo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6b0878a10395566b35bccf1909149021
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b67172a7ba01d70c7ff3c5e32e326c5b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6fbfc3c258860a9d7934b520f34c5c9b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b67172a7ba01d70c7ff3c5e32e326c5b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9174bf21943862ee287e822cf5cb84f3
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.05_300k.mp4
+    parent_uid: b67172a7ba01d70c7ff3c5e32e326c5b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6d56187764f117adc7a1078508725a58
+inline_embed_id: 1118079video4modelingtheproblem69074376
 parent_uid: 4091add94fdb8a1848b4bd553bd85760
+related_resources_text: ''
+short_url: video-4-modeling-the-problem-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-4-modeling-the-problem/video-4-modeling-the-problem-0
-short_url: video-4-modeling-the-problem-0
-inline_embed_id: 1118079video4modelingtheproblem69074376
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 4: Modeling the Problem'
 transcript: >-
   <p><span m='4960'>So</span> <span m='5236'>let's</span> <span
   m='5513'>begin</span> <span m='5790'>modeling</span> <span
@@ -295,56 +344,7 @@ transcript: >-
   m='291569'>to</span> <span m='291929'>LibreOffice</span> <span
   m='292290'>and</span> <span m='292880'>actually</span> <span
   m='293470'>solve</span> <span m='294060'>it.</span> </p>
-embedded_media:
-  - uid: 7b6c664984c0a323874535cba58b8434
-    parent_uid: b67172a7ba01d70c7ff3c5e32e326c5b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BvZlP1ZyToo
-  - uid: 5a98e06da2baa3b486ce120dd8c8fe93
-    parent_uid: b67172a7ba01d70c7ff3c5e32e326c5b
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BvZlP1ZyToo
-  - uid: 4c26a69482d95b494e22a5d36b0bd00d
-    parent_uid: b67172a7ba01d70c7ff3c5e32e326c5b
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BvZlP1ZyToo/default.jpg'
-  - uid: ef0586c60f013ac1876b177532a52f6a
-    parent_uid: b67172a7ba01d70c7ff3c5e32e326c5b
-    id: BvZlP1ZyToo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-4-modeling-the-problem/video-4-modeling-the-problem-0/BvZlP1ZyToo.srt
-  - uid: 6b0878a10395566b35bccf1909149021
-    parent_uid: b67172a7ba01d70c7ff3c5e32e326c5b
-    id: BvZlP1ZyToo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-4-modeling-the-problem/video-4-modeling-the-problem-0/BvZlP1ZyToo.pdf
-  - uid: 6fbfc3c258860a9d7934b520f34c5c9b
-    parent_uid: b67172a7ba01d70c7ff3c5e32e326c5b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9174bf21943862ee287e822cf5cb84f3
-    parent_uid: b67172a7ba01d70c7ff3c5e32e326c5b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6d56187764f117adc7a1078508725a58
-    parent_uid: b67172a7ba01d70c7ff3c5e32e326c5b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.05_300k.mp4
+uid: b67172a7ba01d70c7ff3c5e32e326c5b
 type: courses
 layout: video
 ---

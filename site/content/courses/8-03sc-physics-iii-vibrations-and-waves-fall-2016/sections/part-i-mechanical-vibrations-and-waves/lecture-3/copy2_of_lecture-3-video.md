@@ -1,13 +1,61 @@
 ---
-title: Ball on String Pendulum
-uid: b79f572f4f8e7c027fcc5873e8a4b2f4
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: FCFpaKcpuXQ
+    parent_uid: b79f572f4f8e7c027fcc5873e8a4b2f4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9dee0d8452b7c4e76bbfad44f89ce136
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/FCFpaKcpuXQ/default.jpg'
+    parent_uid: b79f572f4f8e7c027fcc5873e8a4b2f4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cbd6fedc13c23ab3e61ed57867fbcaab
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: FCFpaKcpuXQ
+    parent_uid: b79f572f4f8e7c027fcc5873e8a4b2f4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: acac6048e6bef6b8d3cdade3a2bcc30e
+  - id: FCFpaKcpuXQ.srt
+    parent_uid: b79f572f4f8e7c027fcc5873e8a4b2f4
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy2_of_lecture-3-video/FCFpaKcpuXQ.srt
+    title: 3play caption file
+    type: null
+    uid: e6ba66626a64dd3d357817d0b39e4bba
+  - id: FCFpaKcpuXQ.pdf
+    parent_uid: b79f572f4f8e7c027fcc5873e8a4b2f4
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy2_of_lecture-3-video/FCFpaKcpuXQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 72ecaf9f2ef961dc61d5967355910e5e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b79f572f4f8e7c027fcc5873e8a4b2f4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6c9739af3fe2ff4eee4a619739c1dbfb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b79f572f4f8e7c027fcc5873e8a4b2f4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fbf21842f8c78d3fc2a41cb5803bf070
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec03_300k.mp4'
+    parent_uid: b79f572f4f8e7c027fcc5873e8a4b2f4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7e6658386446f4546a51dbc1cea52c02
+inline_embed_id: 59316776lecture3videop275700413
 parent_uid: f635ac92fa8971e368192518b537eb93
+related_resources_text: ''
+short_url: copy2_of_lecture-3-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy2_of_lecture-3-video
-short_url: copy2_of_lecture-3-video
-inline_embed_id: 59316776lecture3videop275700413
-about_this_resource_text: ''
-related_resources_text: ''
+title: Ball on String Pendulum
 transcript: >-
   <p><span m="2110">The</span> <span m="2230">following</span> <span
   m="2650">content</span> <span m="3160">is</span> <span
@@ -3938,55 +3986,7 @@ transcript: >-
   m="4610690">additional</span> <span m="4611170">questions</span> <span
   m="4612250">related</span> <span m="4612640">to the</span> <span
   m="4612800">lecture.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: 9dee0d8452b7c4e76bbfad44f89ce136
-    parent_uid: b79f572f4f8e7c027fcc5873e8a4b2f4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: FCFpaKcpuXQ
-  - uid: cbd6fedc13c23ab3e61ed57867fbcaab
-    parent_uid: b79f572f4f8e7c027fcc5873e8a4b2f4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FCFpaKcpuXQ/default.jpg'
-  - uid: acac6048e6bef6b8d3cdade3a2bcc30e
-    parent_uid: b79f572f4f8e7c027fcc5873e8a4b2f4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: FCFpaKcpuXQ
-  - uid: e6ba66626a64dd3d357817d0b39e4bba
-    parent_uid: b79f572f4f8e7c027fcc5873e8a4b2f4
-    id: FCFpaKcpuXQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy2_of_lecture-3-video/FCFpaKcpuXQ.srt
-  - uid: 72ecaf9f2ef961dc61d5967355910e5e
-    parent_uid: b79f572f4f8e7c027fcc5873e8a4b2f4
-    id: FCFpaKcpuXQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy2_of_lecture-3-video/FCFpaKcpuXQ.pdf
-  - uid: 6c9739af3fe2ff4eee4a619739c1dbfb
-    parent_uid: b79f572f4f8e7c027fcc5873e8a4b2f4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fbf21842f8c78d3fc2a41cb5803bf070
-    parent_uid: b79f572f4f8e7c027fcc5873e8a4b2f4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 7e6658386446f4546a51dbc1cea52c02
-    parent_uid: b79f572f4f8e7c027fcc5873e8a4b2f4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec03_300k.mp4'
+uid: b79f572f4f8e7c027fcc5873e8a4b2f4
 type: courses
 layout: video
 ---

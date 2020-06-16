@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 3: Elasticity'
-uid: 2b072f9a436c6d9b5b1b9859898ef6e9
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Ye4vL7u6N2g
+    parent_uid: 2b072f9a436c6d9b5b1b9859898ef6e9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 39a8b325b4ea7456c3ac35b6eb332c6a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Ye4vL7u6N2g/default.jpg'
+    parent_uid: 2b072f9a436c6d9b5b1b9859898ef6e9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3b1b6175ddd48d00ab03fbb8b3f2ccee
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Ye4vL7u6N2g
+    parent_uid: 2b072f9a436c6d9b5b1b9859898ef6e9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 838793111f40e4a77d761a2b87985c3e
+  - id: Ye4vL7u6N2g.srt
+    parent_uid: 2b072f9a436c6d9b5b1b9859898ef6e9
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/elasticity/lecture-3-elasticity/Ye4vL7u6N2g.srt
+    title: 3play caption file
+    type: null
+    uid: 7cde3388867596bfc4e843a6fb14efd7
+  - id: Ye4vL7u6N2g.pdf
+    parent_uid: 2b072f9a436c6d9b5b1b9859898ef6e9
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/elasticity/lecture-3-elasticity/Ye4vL7u6N2g.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9af178cb799d204240371645865e7d39
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2b072f9a436c6d9b5b1b9859898ef6e9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d14083cb30e2a5e20631e2c3277ddb4c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2b072f9a436c6d9b5b1b9859898ef6e9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 70ef7a42fba6754cdc241ea508b1dc9b
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-3-elasticity/id496265654?i=109892736
+    parent_uid: 2b072f9a436c6d9b5b1b9859898ef6e9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 576531ad1a7d71ddc082bac8d67230e0
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec03_300k.mp4'
+    parent_uid: 2b072f9a436c6d9b5b1b9859898ef6e9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7bd511ce769ea32a53d05c83a0f75933
+inline_embed_id: 20647841lecture3elasticity91650052
 parent_uid: e9dacfa6ab6fa244a25757f4d8b4b4f1
+related_resources_text: ''
+short_url: lecture-3-elasticity
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/elasticity/lecture-3-elasticity
-short_url: lecture-3-elasticity
-inline_embed_id: 20647841lecture3elasticity91650052
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 3: Elasticity'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -3410,62 +3465,7 @@ transcript: >-
   m='2873400'><i>Freakonomics</i></span> <span m='2874170'>the</span> <span
   m='2874280'>movie</span> <span m='2874860'>on</span> <span m='2875000'>Friday
   the</span> <span m='2875330'>30th.</span> </p>
-embedded_media:
-  - uid: 39a8b325b4ea7456c3ac35b6eb332c6a
-    parent_uid: 2b072f9a436c6d9b5b1b9859898ef6e9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Ye4vL7u6N2g
-  - uid: 3b1b6175ddd48d00ab03fbb8b3f2ccee
-    parent_uid: 2b072f9a436c6d9b5b1b9859898ef6e9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Ye4vL7u6N2g/default.jpg'
-  - uid: 838793111f40e4a77d761a2b87985c3e
-    parent_uid: 2b072f9a436c6d9b5b1b9859898ef6e9
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Ye4vL7u6N2g
-  - uid: 7cde3388867596bfc4e843a6fb14efd7
-    parent_uid: 2b072f9a436c6d9b5b1b9859898ef6e9
-    id: Ye4vL7u6N2g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/elasticity/lecture-3-elasticity/Ye4vL7u6N2g.srt
-  - uid: 9af178cb799d204240371645865e7d39
-    parent_uid: 2b072f9a436c6d9b5b1b9859898ef6e9
-    id: Ye4vL7u6N2g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/elasticity/lecture-3-elasticity/Ye4vL7u6N2g.pdf
-  - uid: d14083cb30e2a5e20631e2c3277ddb4c
-    parent_uid: 2b072f9a436c6d9b5b1b9859898ef6e9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 70ef7a42fba6754cdc241ea508b1dc9b
-    parent_uid: 2b072f9a436c6d9b5b1b9859898ef6e9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 576531ad1a7d71ddc082bac8d67230e0
-    parent_uid: 2b072f9a436c6d9b5b1b9859898ef6e9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-3-elasticity/id496265654?i=109892736
-  - uid: 7bd511ce769ea32a53d05c83a0f75933
-    parent_uid: 2b072f9a436c6d9b5b1b9859898ef6e9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec03_300k.mp4'
+uid: 2b072f9a436c6d9b5b1b9859898ef6e9
 type: courses
 layout: video
 ---

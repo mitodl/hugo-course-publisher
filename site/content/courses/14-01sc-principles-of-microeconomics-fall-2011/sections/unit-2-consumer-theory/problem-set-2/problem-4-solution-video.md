@@ -1,13 +1,69 @@
 ---
-title: Problem 4 Solution Video
-uid: 878e0296b922ddd51aca0687f90d081e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: WmnViAaMdGM
+    parent_uid: 878e0296b922ddd51aca0687f90d081e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9e13f250c69d85187efba6200c896acd
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/WmnViAaMdGM/default.jpg'
+    parent_uid: 878e0296b922ddd51aca0687f90d081e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 867615f6234d277f971c0f46b5e8c07f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: WmnViAaMdGM
+    parent_uid: 878e0296b922ddd51aca0687f90d081e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e56801e38b8a5dff6258c200673de4f2
+  - id: WmnViAaMdGM.srt
+    parent_uid: 878e0296b922ddd51aca0687f90d081e
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/problem-set-2/problem-4-solution-video/WmnViAaMdGM.srt
+    title: 3play caption file
+    type: null
+    uid: 4de571dbd21e25fd0e24a4c694ff6a34
+  - id: WmnViAaMdGM.pdf
+    parent_uid: 878e0296b922ddd51aca0687f90d081e
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/problem-set-2/problem-4-solution-video/WmnViAaMdGM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 22976bf58d2ce85b281891234fcd8997
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 878e0296b922ddd51aca0687f90d081e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 51109559460fec337c4643f1946c6e11
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 878e0296b922ddd51aca0687f90d081e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fce7e1ee2b31e9c99c055d4de559a18f
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_problem_2-4_300k.mp4
+    parent_uid: 878e0296b922ddd51aca0687f90d081e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 082d054ef84d404d1f4b5ca5a4d9b087
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/problem-set-2-problem-4/id496265654?i=109892732
+    parent_uid: 878e0296b922ddd51aca0687f90d081e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9ead7f7e367a79ab717920ae1aa5ebfa
+inline_embed_id: 85915869problem4solutionvideo54930519
 parent_uid: de42bac072e109a5022b9104454d56da
+related_resources_text: ''
+short_url: problem-4-solution-video
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/problem-set-2/problem-4-solution-video
-short_url: problem-4-solution-video
-inline_embed_id: 85915869problem4solutionvideo54930519
-about_this_resource_text: ''
-related_resources_text: ''
+title: Problem 4 Solution Video
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -1013,63 +1069,7 @@ transcript: >-
   m='1035000'>different</span> <span m='1035270'>constraints</span> <span
   m='1036079'>affect their</span> <span m='1036530'>utility</span> <span
   m='1037020'>levels.</span> </p>
-embedded_media:
-  - uid: 9e13f250c69d85187efba6200c896acd
-    parent_uid: 878e0296b922ddd51aca0687f90d081e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: WmnViAaMdGM
-  - uid: 867615f6234d277f971c0f46b5e8c07f
-    parent_uid: 878e0296b922ddd51aca0687f90d081e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/WmnViAaMdGM/default.jpg'
-  - uid: e56801e38b8a5dff6258c200673de4f2
-    parent_uid: 878e0296b922ddd51aca0687f90d081e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: WmnViAaMdGM
-  - uid: 4de571dbd21e25fd0e24a4c694ff6a34
-    parent_uid: 878e0296b922ddd51aca0687f90d081e
-    id: WmnViAaMdGM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/problem-set-2/problem-4-solution-video/WmnViAaMdGM.srt
-  - uid: 22976bf58d2ce85b281891234fcd8997
-    parent_uid: 878e0296b922ddd51aca0687f90d081e
-    id: WmnViAaMdGM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/problem-set-2/problem-4-solution-video/WmnViAaMdGM.pdf
-  - uid: 51109559460fec337c4643f1946c6e11
-    parent_uid: 878e0296b922ddd51aca0687f90d081e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fce7e1ee2b31e9c99c055d4de559a18f
-    parent_uid: 878e0296b922ddd51aca0687f90d081e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 082d054ef84d404d1f4b5ca5a4d9b087
-    parent_uid: 878e0296b922ddd51aca0687f90d081e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_problem_2-4_300k.mp4
-  - uid: 9ead7f7e367a79ab717920ae1aa5ebfa
-    parent_uid: 878e0296b922ddd51aca0687f90d081e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/problem-set-2-problem-4/id496265654?i=109892732
+uid: 878e0296b922ddd51aca0687f90d081e
 type: courses
 layout: video
 ---

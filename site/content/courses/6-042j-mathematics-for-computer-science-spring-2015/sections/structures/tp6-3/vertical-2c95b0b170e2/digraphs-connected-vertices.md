@@ -1,13 +1,72 @@
 ---
-title: 'Digraphs: Connected Vertices'
-uid: 3163c895b8788c38c78065b0aa74bd69
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 3163c895b8788c38c78065b0aa74bd69
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 65ea936feebd655125e2646ad49e64f5
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 3163c895b8788c38c78065b0aa74bd69
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a913ddf4dd0e1cd1d0541591bc00494d
+  - id: Video-YouTube-Stream
+    media_location: QORX1OUabio
+    parent_uid: 3163c895b8788c38c78065b0aa74bd69
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1c9e34731228e0fcf921ffc50ed8a356
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QORX1OUabio/default.jpg'
+    parent_uid: 3163c895b8788c38c78065b0aa74bd69
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3323d720f2a5a51df7505fe0ed5acb18
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: QORX1OUabio
+    parent_uid: 3163c895b8788c38c78065b0aa74bd69
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0c93e75ccbf9a4ab89bfa31a103838f5
+  - id: QORX1OUabio.srt
+    parent_uid: 3163c895b8788c38c78065b0aa74bd69
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/vertical-2c95b0b170e2/digraphs-connected-vertices/QORX1OUabio.srt
+    title: 3play caption file
+    type: null
+    uid: ed9ce3b9599a4e7fb2ac2eff08ede126
+  - id: QORX1OUabio.pdf
+    parent_uid: 3163c895b8788c38c78065b0aa74bd69
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/vertical-2c95b0b170e2/digraphs-connected-vertices/QORX1OUabio.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8d8b044731e4f48cbc902452a8ee6c19
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3163c895b8788c38c78065b0aa74bd69
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f62311007201e408d83883db75ab3ce1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3163c895b8788c38c78065b0aa74bd69
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1d3e12eb19ff346b03ebe2af89bf9a66
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_connected_ipod.mp4'
+    parent_uid: 3163c895b8788c38c78065b0aa74bd69
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: faf8897deb54ef5157f8f5824726956a
+inline_embed_id: 67169724digraphsconnectedvertices86286772
 parent_uid: 2827e6c9e6883174fa8f3cbf0a54d29b
+related_resources_text: ''
+short_url: digraphs-connected-vertices
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/vertical-2c95b0b170e2/digraphs-connected-vertices
-short_url: digraphs-connected-vertices
-inline_embed_id: 67169724digraphsconnectedvertices86286772
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Digraphs: Connected Vertices'
 transcript: >-
   <p><span m='2930'>ALBERT MEYER: The</span> <span m='3090'>topic</span> <span
   m='3560'>for</span> <span m='3680'>this</span> <span m='3910'>video</span>
@@ -450,66 +509,7 @@ transcript: >-
   m='406780'>composition</span> <span m='407780'>of</span> <span
   m='408280'>the</span> <span m='409280'>adjacency</span> <span
   m='409820'>matrices.</span> </p><p></p>
-embedded_media:
-  - uid: 65ea936feebd655125e2646ad49e64f5
-    parent_uid: 3163c895b8788c38c78065b0aa74bd69
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: a913ddf4dd0e1cd1d0541591bc00494d
-    parent_uid: 3163c895b8788c38c78065b0aa74bd69
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 1c9e34731228e0fcf921ffc50ed8a356
-    parent_uid: 3163c895b8788c38c78065b0aa74bd69
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QORX1OUabio
-  - uid: 3323d720f2a5a51df7505fe0ed5acb18
-    parent_uid: 3163c895b8788c38c78065b0aa74bd69
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QORX1OUabio/default.jpg'
-  - uid: 0c93e75ccbf9a4ab89bfa31a103838f5
-    parent_uid: 3163c895b8788c38c78065b0aa74bd69
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QORX1OUabio
-  - uid: ed9ce3b9599a4e7fb2ac2eff08ede126
-    parent_uid: 3163c895b8788c38c78065b0aa74bd69
-    id: QORX1OUabio.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/vertical-2c95b0b170e2/digraphs-connected-vertices/QORX1OUabio.srt
-  - uid: 8d8b044731e4f48cbc902452a8ee6c19
-    parent_uid: 3163c895b8788c38c78065b0aa74bd69
-    id: QORX1OUabio.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-3/vertical-2c95b0b170e2/digraphs-connected-vertices/QORX1OUabio.pdf
-  - uid: f62311007201e408d83883db75ab3ce1
-    parent_uid: 3163c895b8788c38c78065b0aa74bd69
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1d3e12eb19ff346b03ebe2af89bf9a66
-    parent_uid: 3163c895b8788c38c78065b0aa74bd69
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: faf8897deb54ef5157f8f5824726956a
-    parent_uid: 3163c895b8788c38c78065b0aa74bd69
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_connected_ipod.mp4'
+uid: 3163c895b8788c38c78065b0aa74bd69
 type: courses
 layout: video
 ---

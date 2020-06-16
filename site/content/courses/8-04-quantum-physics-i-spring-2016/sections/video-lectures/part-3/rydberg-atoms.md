@@ -1,13 +1,67 @@
 ---
-title: Rydberg atoms
-uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: avQ2XUzbsgk
+    parent_uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 418e3bf3fec4699560986e6760cfee20
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/avQ2XUzbsgk/default.jpg'
+    parent_uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e072b9bd004374bffb289d007f65c99a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: avQ2XUzbsgk
+    parent_uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4db2d6593925686dff2d45e532819a25
+  - id: avQ2XUzbsgk.srt
+    parent_uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/rydberg-atoms/avQ2XUzbsgk.srt
+    title: 3play caption file
+    type: null
+    uid: f74463f2ab4d71104c86796758e3ac0d
+  - id: avQ2XUzbsgk.pdf
+    parent_uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/rydberg-atoms/avQ2XUzbsgk.pdf
+    title: 3play pdf file
+    type: null
+    uid: c0d6933a7ae4b6d9a2ebc8a8f37672be
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 538279d943600525eb699861d8f4c4d6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7bec1663624b03de5749e727d4423685
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6a6ea857ff2a102b8e44918b7cc8138e
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec23_s3_300k.mp4'
+    parent_uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2d45df49a7898deb67c7789d5bd2e430
+inline_embed_id: 14212872rydbergatoms40121176
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: rydberg-atoms
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/rydberg-atoms
-short_url: rydberg-atoms
-inline_embed_id: 14212872rydbergatoms40121176
-about_this_resource_text: ''
-related_resources_text: ''
+title: Rydberg atoms
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='360'>What is a</span> <span
   m='800'>Rydberg</span> <span m='1554'>atom?</span> <span m='3280'>Well,</span>
@@ -1224,61 +1278,7 @@ transcript: >-
   m='1580790'>all</span> <span m='1580970'>kinds</span> <span
   m='1581330'>of</span> <span m='1581630'>fun</span> <span
   m='1581930'>things.</span> </p>
-embedded_media:
-  - uid: 418e3bf3fec4699560986e6760cfee20
-    parent_uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: avQ2XUzbsgk
-  - uid: e072b9bd004374bffb289d007f65c99a
-    parent_uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/avQ2XUzbsgk/default.jpg'
-  - uid: 4db2d6593925686dff2d45e532819a25
-    parent_uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: avQ2XUzbsgk
-  - uid: f74463f2ab4d71104c86796758e3ac0d
-    parent_uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
-    id: avQ2XUzbsgk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/rydberg-atoms/avQ2XUzbsgk.srt
-  - uid: c0d6933a7ae4b6d9a2ebc8a8f37672be
-    parent_uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
-    id: avQ2XUzbsgk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/rydberg-atoms/avQ2XUzbsgk.pdf
-  - uid: 538279d943600525eb699861d8f4c4d6
-    parent_uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7bec1663624b03de5749e727d4423685
-    parent_uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6a6ea857ff2a102b8e44918b7cc8138e
-    parent_uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 2d45df49a7898deb67c7789d5bd2e430
-    parent_uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec23_s3_300k.mp4'
+uid: cbcf5d5c7bfc2ee49cb400acd8e0adf4
 type: courses
 layout: video
 ---

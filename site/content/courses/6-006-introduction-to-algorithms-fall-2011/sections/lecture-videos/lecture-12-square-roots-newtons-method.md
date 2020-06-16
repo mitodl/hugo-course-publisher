@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 12: Square Roots, Newton''s Method'
-uid: 1a241368a91359d13bc6f1475f93ca85
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-12-square-roots-newtons-method
-short_url: lecture-12-square-roots-newtons-method
-inline_embed_id: '14723068lecture12:squareroots,newton''smethod53165212'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture begins with error analysis of
   Newton's method and a comparison of multiplication algorithms. It then covers
   high-precision division, which is required for Newton's method, and discusses
   the complexity of division and computing square roots.</p>
   <p><strong>Instructor:</strong> Srini Devadas</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2YeJ-5UAke8
+    parent_uid: 1a241368a91359d13bc6f1475f93ca85
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5e1616bbfdf9328b044d13278cbe68d8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2YeJ-5UAke8/default.jpg'
+    parent_uid: 1a241368a91359d13bc6f1475f93ca85
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f2af46abd34d754065f66017eea1be80
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-12-square-roots-newtons/id585700718?i=126127765
+    parent_uid: 1a241368a91359d13bc6f1475f93ca85
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d9d8f5ee2f2205aa1fd69b6b7e39280e
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec12_300k.mp4'
+    parent_uid: 1a241368a91359d13bc6f1475f93ca85
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b4d2081a4da252e635da53ed64e90f45
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 2YeJ-5UAke8
+    parent_uid: 1a241368a91359d13bc6f1475f93ca85
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bf3df2f17c0b99478b974a1539c61a7a
+  - id: 2YeJ-5UAke8.srt
+    parent_uid: 1a241368a91359d13bc6f1475f93ca85
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-12-square-roots-newtons-method/2YeJ-5UAke8.srt
+    title: 3play caption file
+    type: null
+    uid: 002795ec367dc36225256df3efe022fa
+  - id: 2YeJ-5UAke8.pdf
+    parent_uid: 1a241368a91359d13bc6f1475f93ca85
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-12-square-roots-newtons-method/2YeJ-5UAke8.pdf
+    title: 3play pdf file
+    type: null
+    uid: d2545d3aa5b240dc8e7ba6ec33f02496
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1a241368a91359d13bc6f1475f93ca85
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2deeb66d8bd43a2e9279cbba94473713
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1a241368a91359d13bc6f1475f93ca85
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ddf205f15f19bbbc76139c93bf9c34cd
+inline_embed_id: '14723068lecture12:squareroots,newton''smethod53165212'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-12-square-roots-newtons-method
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-12-square-roots-newtons-method
+title: 'Lecture 12: Square Roots, Newton''s Method'
 transcript: >-
   <p><span m='60'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -2874,62 +2929,7 @@ transcript: >-
   m='3074230'>next</span> <span m='3074460'>time.</span> <span
   m='3074970'>Stick</span> <span m='3075190'>around</span> <span
   m='3075360'>for</span> <span m='3075430'>questions.</span> </p>
-embedded_media:
-  - uid: 5e1616bbfdf9328b044d13278cbe68d8
-    parent_uid: 1a241368a91359d13bc6f1475f93ca85
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2YeJ-5UAke8
-  - uid: f2af46abd34d754065f66017eea1be80
-    parent_uid: 1a241368a91359d13bc6f1475f93ca85
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2YeJ-5UAke8/default.jpg'
-  - uid: d9d8f5ee2f2205aa1fd69b6b7e39280e
-    parent_uid: 1a241368a91359d13bc6f1475f93ca85
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-12-square-roots-newtons/id585700718?i=126127765
-  - uid: b4d2081a4da252e635da53ed64e90f45
-    parent_uid: 1a241368a91359d13bc6f1475f93ca85
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec12_300k.mp4'
-  - uid: bf3df2f17c0b99478b974a1539c61a7a
-    parent_uid: 1a241368a91359d13bc6f1475f93ca85
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2YeJ-5UAke8
-  - uid: 002795ec367dc36225256df3efe022fa
-    parent_uid: 1a241368a91359d13bc6f1475f93ca85
-    id: 2YeJ-5UAke8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-12-square-roots-newtons-method/2YeJ-5UAke8.srt
-  - uid: d2545d3aa5b240dc8e7ba6ec33f02496
-    parent_uid: 1a241368a91359d13bc6f1475f93ca85
-    id: 2YeJ-5UAke8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-12-square-roots-newtons-method/2YeJ-5UAke8.pdf
-  - uid: 2deeb66d8bd43a2e9279cbba94473713
-    parent_uid: 1a241368a91359d13bc6f1475f93ca85
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ddf205f15f19bbbc76139c93bf9c34cd
-    parent_uid: 1a241368a91359d13bc6f1475f93ca85
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 1a241368a91359d13bc6f1475f93ca85
 type: courses
 layout: video
 ---

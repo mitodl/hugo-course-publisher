@@ -1,13 +1,74 @@
 ---
-title: Log and Exponent Derivatives
-uid: a6b34bae595deca1685be6eeaa11ff73
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: wezQdmwolMU
+    parent_uid: a6b34bae595deca1685be6eeaa11ff73
+    title: Video-YouTube-Stream
+    type: Video
+    uid: cf4b12f9dd431e3e58446122fc6a023f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/eHJuAByQf5A/default.jpg'
+    parent_uid: a6b34bae595deca1685be6eeaa11ff73
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3399fb0cb3cc9f281143926b86fe9bcd
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/log-and-exponent-derivatives/id414308064?i=90318995
+    parent_uid: a6b34bae595deca1685be6eeaa11ff73
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 433f08800676e33d66f7a27d03ab5e0b
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_13_300k.mp4'
+    parent_uid: a6b34bae595deca1685be6eeaa11ff73
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 96a3325abb0475827dbb12e96f7ce442
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/wezQdmwolMU/default.jpg'
+    parent_uid: a6b34bae595deca1685be6eeaa11ff73
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4d64509c39d77eb181c9c9cf3a20e2d5
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: wezQdmwolMU
+    parent_uid: a6b34bae595deca1685be6eeaa11ff73
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0c2f5820c763529b6e61d391ec70173a
+  - id: wezQdmwolMU.srt
+    parent_uid: a6b34bae595deca1685be6eeaa11ff73
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-17-the-exponential-function-its-derivative-and-its-inverse/log-and-exponent-derivatives/wezQdmwolMU.srt
+    title: 3play caption file
+    type: null
+    uid: f58dbced60b74c25f18aeb9bbab86cb2
+  - id: wezQdmwolMU.pdf
+    parent_uid: a6b34bae595deca1685be6eeaa11ff73
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-17-the-exponential-function-its-derivative-and-its-inverse/log-and-exponent-derivatives/wezQdmwolMU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 398379dba2d28e97933f70b7f511c96d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a6b34bae595deca1685be6eeaa11ff73
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d3a0d3f8b1f6298fa1e9229502af7415
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a6b34bae595deca1685be6eeaa11ff73
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f839eeaf5e4c253c294797830adf87ef
+inline_embed_id: 71727859logandexponentderivatives55995719
 parent_uid: 625f9141b9dc5a9365acef497e19af09
+related_resources_text: ''
+short_url: log-and-exponent-derivatives
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-17-the-exponential-function-its-derivative-and-its-inverse/log-and-exponent-derivatives
-short_url: log-and-exponent-derivatives
-inline_embed_id: 71727859logandexponentderivatives55995719
-about_this_resource_text: ''
-related_resources_text: ''
+title: Log and Exponent Derivatives
 transcript: >-
   <p><span m='7150'>CHRISTINE BREINER: Welcome</span> <span m='7570'>back</span>
   <span m='7740'>to</span> <span m='7820'>recitation.</span> <span
@@ -518,68 +579,7 @@ transcript: >-
   <span m='415980'>where</span> <span m='416180'>we</span> <span
   m='416300'>will</span> <span m='416430'>stop</span> <span
   m='416780'>with</span> <span m='417130'>these.</span> </p>
-embedded_media:
-  - uid: cf4b12f9dd431e3e58446122fc6a023f
-    parent_uid: a6b34bae595deca1685be6eeaa11ff73
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: wezQdmwolMU
-  - uid: 3399fb0cb3cc9f281143926b86fe9bcd
-    parent_uid: a6b34bae595deca1685be6eeaa11ff73
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/eHJuAByQf5A/default.jpg'
-  - uid: 433f08800676e33d66f7a27d03ab5e0b
-    parent_uid: a6b34bae595deca1685be6eeaa11ff73
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/log-and-exponent-derivatives/id414308064?i=90318995
-  - uid: 96a3325abb0475827dbb12e96f7ce442
-    parent_uid: a6b34bae595deca1685be6eeaa11ff73
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_13_300k.mp4'
-  - uid: 4d64509c39d77eb181c9c9cf3a20e2d5
-    parent_uid: a6b34bae595deca1685be6eeaa11ff73
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/wezQdmwolMU/default.jpg'
-  - uid: 0c2f5820c763529b6e61d391ec70173a
-    parent_uid: a6b34bae595deca1685be6eeaa11ff73
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: wezQdmwolMU
-  - uid: f58dbced60b74c25f18aeb9bbab86cb2
-    parent_uid: a6b34bae595deca1685be6eeaa11ff73
-    id: wezQdmwolMU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-17-the-exponential-function-its-derivative-and-its-inverse/log-and-exponent-derivatives/wezQdmwolMU.srt
-  - uid: 398379dba2d28e97933f70b7f511c96d
-    parent_uid: a6b34bae595deca1685be6eeaa11ff73
-    id: wezQdmwolMU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-17-the-exponential-function-its-derivative-and-its-inverse/log-and-exponent-derivatives/wezQdmwolMU.pdf
-  - uid: d3a0d3f8b1f6298fa1e9229502af7415
-    parent_uid: a6b34bae595deca1685be6eeaa11ff73
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f839eeaf5e4c253c294797830adf87ef
-    parent_uid: a6b34bae595deca1685be6eeaa11ff73
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a6b34bae595deca1685be6eeaa11ff73
 type: courses
 layout: video
 ---

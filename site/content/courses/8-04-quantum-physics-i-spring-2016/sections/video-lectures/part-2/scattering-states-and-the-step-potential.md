@@ -1,13 +1,67 @@
 ---
-title: Scattering states and the step potential
-uid: 586beeca40724dc3bbcbfb95b1a43123
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 0ABYYJSvkVk
+    parent_uid: 586beeca40724dc3bbcbfb95b1a43123
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c35cca1c7b225608cee16ec8767e6aed
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0ABYYJSvkVk/default.jpg'
+    parent_uid: 586beeca40724dc3bbcbfb95b1a43123
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6d20d29e7f11f008ac86da092df2fea7
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 0ABYYJSvkVk
+    parent_uid: 586beeca40724dc3bbcbfb95b1a43123
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7852eb423f498fa8c5b38344b80774df
+  - id: 0ABYYJSvkVk.srt
+    parent_uid: 586beeca40724dc3bbcbfb95b1a43123
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/scattering-states-and-the-step-potential/0ABYYJSvkVk.srt
+    title: 3play caption file
+    type: null
+    uid: 9fb88e16c78b96332b4bd6d9a7394660
+  - id: 0ABYYJSvkVk.pdf
+    parent_uid: 586beeca40724dc3bbcbfb95b1a43123
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/scattering-states-and-the-step-potential/0ABYYJSvkVk.pdf
+    title: 3play pdf file
+    type: null
+    uid: f8345214a860a31679ed6b4b538f0fa9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 586beeca40724dc3bbcbfb95b1a43123
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d699d3f18896f9aed75f4efb980c211b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 586beeca40724dc3bbcbfb95b1a43123
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7b42e18045c4034a878ef15c2926d6d6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 586beeca40724dc3bbcbfb95b1a43123
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 71b0550dd29ca43b9aa44119c883f68d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec15_s4_300k.mp4'
+    parent_uid: 586beeca40724dc3bbcbfb95b1a43123
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a8a6ba16a8fb280c2d70145ede1b1ab4
+inline_embed_id: 99535987scatteringstatesandthesteppotential83155423
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: scattering-states-and-the-step-potential
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/scattering-states-and-the-step-potential
-short_url: scattering-states-and-the-step-potential
-inline_embed_id: 99535987scatteringstatesandthesteppotential83155423
-about_this_resource_text: ''
-related_resources_text: ''
+title: Scattering states and the step potential
 transcript: >-
   <p><span m='750'>PROFESSOR:</span> <span m='947'>Scattering</span> <span
   m='1540'>states</span> <span m='2220'>are</span> <span m='3150'>energy</span>
@@ -524,61 +578,7 @@ transcript: >-
   m='632820'>we</span> <span m='632990'>will</span> <span
   m='633200'>develop</span> <span m='633650'>next</span> <span
   m='633950'>time.</span> </p>
-embedded_media:
-  - uid: c35cca1c7b225608cee16ec8767e6aed
-    parent_uid: 586beeca40724dc3bbcbfb95b1a43123
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0ABYYJSvkVk
-  - uid: 6d20d29e7f11f008ac86da092df2fea7
-    parent_uid: 586beeca40724dc3bbcbfb95b1a43123
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0ABYYJSvkVk/default.jpg'
-  - uid: 7852eb423f498fa8c5b38344b80774df
-    parent_uid: 586beeca40724dc3bbcbfb95b1a43123
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0ABYYJSvkVk
-  - uid: 9fb88e16c78b96332b4bd6d9a7394660
-    parent_uid: 586beeca40724dc3bbcbfb95b1a43123
-    id: 0ABYYJSvkVk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/scattering-states-and-the-step-potential/0ABYYJSvkVk.srt
-  - uid: f8345214a860a31679ed6b4b538f0fa9
-    parent_uid: 586beeca40724dc3bbcbfb95b1a43123
-    id: 0ABYYJSvkVk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/scattering-states-and-the-step-potential/0ABYYJSvkVk.pdf
-  - uid: d699d3f18896f9aed75f4efb980c211b
-    parent_uid: 586beeca40724dc3bbcbfb95b1a43123
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7b42e18045c4034a878ef15c2926d6d6
-    parent_uid: 586beeca40724dc3bbcbfb95b1a43123
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 71b0550dd29ca43b9aa44119c883f68d
-    parent_uid: 586beeca40724dc3bbcbfb95b1a43123
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: a8a6ba16a8fb280c2d70145ede1b1ab4
-    parent_uid: 586beeca40724dc3bbcbfb95b1a43123
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec15_s4_300k.mp4'
+uid: 586beeca40724dc3bbcbfb95b1a43123
 type: courses
 layout: video
 ---

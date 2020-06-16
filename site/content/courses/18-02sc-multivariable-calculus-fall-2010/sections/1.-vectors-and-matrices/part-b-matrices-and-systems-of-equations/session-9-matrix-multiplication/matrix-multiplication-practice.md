@@ -1,13 +1,68 @@
 ---
-title: Matrix Multiplication Practice
-uid: 2b21dc56cb7c1a02c0570db71d1da480
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: P6fOgkC5kvc
+    parent_uid: 2b21dc56cb7c1a02c0570db71d1da480
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a466cdd17d7e00fef810247c115a8ee1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/P6fOgkC5kvc/default.jpg'
+    parent_uid: 2b21dc56cb7c1a02c0570db71d1da480
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6207111d89242a627f0ecf8cd9de500d
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: P6fOgkC5kvc
+    parent_uid: 2b21dc56cb7c1a02c0570db71d1da480
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 115764af675aa186d661d441cfbb68dd
+  - id: P6fOgkC5kvc.srt
+    parent_uid: 2b21dc56cb7c1a02c0570db71d1da480
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-9-matrix-multiplication/matrix-multiplication-practice/P6fOgkC5kvc.srt
+    title: 3play caption file
+    type: null
+    uid: 58e1d6927f07d4aa89dc4e4d4f8f3a19
+  - id: P6fOgkC5kvc.pdf
+    parent_uid: 2b21dc56cb7c1a02c0570db71d1da480
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-9-matrix-multiplication/matrix-multiplication-practice/P6fOgkC5kvc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7c7b63239088b85e92fd1b761fd617a2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2b21dc56cb7c1a02c0570db71d1da480
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cf84f7772dc6d0eec714d19a311d721e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2b21dc56cb7c1a02c0570db71d1da480
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d1522357fa997f4505721b11851ede08
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/matrix-multiplication-practice/id414355340?i=90322872
+    parent_uid: 2b21dc56cb7c1a02c0570db71d1da480
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0826697c4aa177744e777d6f317c530c
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_08_300k.mp4'
+    parent_uid: 2b21dc56cb7c1a02c0570db71d1da480
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f85c058d00bb69868a0be8a821545397
+inline_embed_id: 39779143matrixmultiplicationpractice61642385
 parent_uid: 140906549310aba473941897b75d97d3
+related_resources_text: ''
+short_url: matrix-multiplication-practice
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-9-matrix-multiplication/matrix-multiplication-practice
-short_url: matrix-multiplication-practice
-inline_embed_id: 39779143matrixmultiplicationpractice61642385
-about_this_resource_text: ''
-related_resources_text: ''
+title: Matrix Multiplication Practice
 transcript: >-
   <p><span m='7810'>CHRISTINE BREINER: Welcome</span> <span m='8240'>back</span>
   <span m='8430'>to</span> <span m='8550'>recitation.</span> <span
@@ -775,62 +830,7 @@ transcript: >-
   <span m='641860'>that</span> <span m='642060'>is</span> <span
   m='642160'>where</span> <span m='642320'>I will</span> <span
   m='642480'>stop.</span> </p>
-embedded_media:
-  - uid: a466cdd17d7e00fef810247c115a8ee1
-    parent_uid: 2b21dc56cb7c1a02c0570db71d1da480
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: P6fOgkC5kvc
-  - uid: 6207111d89242a627f0ecf8cd9de500d
-    parent_uid: 2b21dc56cb7c1a02c0570db71d1da480
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/P6fOgkC5kvc/default.jpg'
-  - uid: 115764af675aa186d661d441cfbb68dd
-    parent_uid: 2b21dc56cb7c1a02c0570db71d1da480
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: P6fOgkC5kvc
-  - uid: 58e1d6927f07d4aa89dc4e4d4f8f3a19
-    parent_uid: 2b21dc56cb7c1a02c0570db71d1da480
-    id: P6fOgkC5kvc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-9-matrix-multiplication/matrix-multiplication-practice/P6fOgkC5kvc.srt
-  - uid: 7c7b63239088b85e92fd1b761fd617a2
-    parent_uid: 2b21dc56cb7c1a02c0570db71d1da480
-    id: P6fOgkC5kvc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-b-matrices-and-systems-of-equations/session-9-matrix-multiplication/matrix-multiplication-practice/P6fOgkC5kvc.pdf
-  - uid: cf84f7772dc6d0eec714d19a311d721e
-    parent_uid: 2b21dc56cb7c1a02c0570db71d1da480
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d1522357fa997f4505721b11851ede08
-    parent_uid: 2b21dc56cb7c1a02c0570db71d1da480
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0826697c4aa177744e777d6f317c530c
-    parent_uid: 2b21dc56cb7c1a02c0570db71d1da480
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/matrix-multiplication-practice/id414355340?i=90322872
-  - uid: f85c058d00bb69868a0be8a821545397
-    parent_uid: 2b21dc56cb7c1a02c0570db71d1da480
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_08_300k.mp4'
+uid: 2b21dc56cb7c1a02c0570db71d1da480
 type: courses
 layout: video
 ---

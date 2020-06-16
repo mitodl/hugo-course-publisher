@@ -1,13 +1,67 @@
 ---
-title: Flux
-uid: dcc5a24d5cddeef20eb24490574465f5
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: E8aYX_mW2DA
+    parent_uid: dcc5a24d5cddeef20eb24490574465f5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 952f024104a0efb7319265dfee322c45
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/E8aYX_mW2DA/default.jpg'
+    parent_uid: dcc5a24d5cddeef20eb24490574465f5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c0dcfdda9f0aa77a53cde5fc344bce9e
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_59_300k.mp4'
+    parent_uid: dcc5a24d5cddeef20eb24490574465f5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 903e9f50dd40e41a986111ce4da45a65
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/podcast/flux/id414355340?i=90322821'
+    parent_uid: dcc5a24d5cddeef20eb24490574465f5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6a97141861d958ec97b76d80f62ba5a0
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: E8aYX_mW2DA
+    parent_uid: dcc5a24d5cddeef20eb24490574465f5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 25c49dd9ae34ce11b222d2c64b8c5ef3
+  - id: E8aYX_mW2DA.srt
+    parent_uid: dcc5a24d5cddeef20eb24490574465f5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-84-divergence-theorem/flux/E8aYX_mW2DA.srt
+    title: 3play caption file
+    type: null
+    uid: 76efeb794aeba322631cc9b62a5e7f73
+  - id: E8aYX_mW2DA.pdf
+    parent_uid: dcc5a24d5cddeef20eb24490574465f5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-84-divergence-theorem/flux/E8aYX_mW2DA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8ffbcd453223125f3ca45d03214134bc
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: dcc5a24d5cddeef20eb24490574465f5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4925ce9cc3cd73acffccf2afe6f764df
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: dcc5a24d5cddeef20eb24490574465f5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a14b6a8e7ce2d0a7fba1d91d73059479
+inline_embed_id: 55860333flux33249311
 parent_uid: d088492f402f9db5c30dcd82be2c37a6
+related_resources_text: ''
+short_url: flux
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-84-divergence-theorem/flux
-short_url: flux
-inline_embed_id: 55860333flux33249311
-about_this_resource_text: ''
-related_resources_text: ''
+title: Flux
 transcript: >-
   <p><span m='0'>JOEL LEWIS:</span> <span m='7040'>Hi.</span> <span
   m='7500'>Welcome</span> <span m='7830'>back</span> <span m='8050'>to</span>
@@ -716,61 +770,7 @@ transcript: >-
   <span m='674370'>was</span> <span m='674500'>our</span> <span
   m='674630'>answer.</span> <span m='675150'>And I'll</span> <span
   m='675370'>end</span> <span m='675740'>there.</span> </p>
-embedded_media:
-  - uid: 952f024104a0efb7319265dfee322c45
-    parent_uid: dcc5a24d5cddeef20eb24490574465f5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: E8aYX_mW2DA
-  - uid: c0dcfdda9f0aa77a53cde5fc344bce9e
-    parent_uid: dcc5a24d5cddeef20eb24490574465f5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/E8aYX_mW2DA/default.jpg'
-  - uid: 903e9f50dd40e41a986111ce4da45a65
-    parent_uid: dcc5a24d5cddeef20eb24490574465f5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_59_300k.mp4'
-  - uid: 6a97141861d958ec97b76d80f62ba5a0
-    parent_uid: dcc5a24d5cddeef20eb24490574465f5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/podcast/flux/id414355340?i=90322821'
-  - uid: 25c49dd9ae34ce11b222d2c64b8c5ef3
-    parent_uid: dcc5a24d5cddeef20eb24490574465f5
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: E8aYX_mW2DA
-  - uid: 76efeb794aeba322631cc9b62a5e7f73
-    parent_uid: dcc5a24d5cddeef20eb24490574465f5
-    id: E8aYX_mW2DA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-84-divergence-theorem/flux/E8aYX_mW2DA.srt
-  - uid: 8ffbcd453223125f3ca45d03214134bc
-    parent_uid: dcc5a24d5cddeef20eb24490574465f5
-    id: E8aYX_mW2DA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-84-divergence-theorem/flux/E8aYX_mW2DA.pdf
-  - uid: 4925ce9cc3cd73acffccf2afe6f764df
-    parent_uid: dcc5a24d5cddeef20eb24490574465f5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a14b6a8e7ce2d0a7fba1d91d73059479
-    parent_uid: dcc5a24d5cddeef20eb24490574465f5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: dcc5a24d5cddeef20eb24490574465f5
 type: courses
 layout: video
 ---

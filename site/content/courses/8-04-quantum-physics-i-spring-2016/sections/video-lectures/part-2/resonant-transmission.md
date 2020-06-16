@@ -1,13 +1,67 @@
 ---
-title: Resonant transmission
-uid: 8175f23ecc6a52533ab810865a74cd39
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: KkSr0SvXfNY
+    parent_uid: 8175f23ecc6a52533ab810865a74cd39
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 597e80652ca537f36801b5fd12fced8d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/KkSr0SvXfNY/default.jpg'
+    parent_uid: 8175f23ecc6a52533ab810865a74cd39
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9a29a0dd62c54d22fb8607c581be8d56
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: KkSr0SvXfNY
+    parent_uid: 8175f23ecc6a52533ab810865a74cd39
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 84afc730b6c63b1b7cdeb22aded039f2
+  - id: KkSr0SvXfNY.srt
+    parent_uid: 8175f23ecc6a52533ab810865a74cd39
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/resonant-transmission/KkSr0SvXfNY.srt
+    title: 3play caption file
+    type: null
+    uid: c6d84757d9f77cce8da621ed95a7df67
+  - id: KkSr0SvXfNY.pdf
+    parent_uid: 8175f23ecc6a52533ab810865a74cd39
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/resonant-transmission/KkSr0SvXfNY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 05ec10b0e85a4a81b9a8605c9d05b1f0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8175f23ecc6a52533ab810865a74cd39
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cfd78ba772dee2ac67248c518f22ff5d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8175f23ecc6a52533ab810865a74cd39
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d2ff5b01e4d581b7cae65dbc12abe127
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 8175f23ecc6a52533ab810865a74cd39
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9172d56dcd56ac043be72296339e54ff
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec17_s2_300k.mp4'
+    parent_uid: 8175f23ecc6a52533ab810865a74cd39
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e18f7c5eba8ffdef6af63c4201f9f02a
+inline_embed_id: 49554205resonanttransmission86145563
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: resonant-transmission
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/resonant-transmission
-short_url: resonant-transmission
-inline_embed_id: 49554205resonanttransmission86145563
-about_this_resource_text: ''
-related_resources_text: ''
+title: Resonant transmission
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='280'>Here</span> <span
   m='500'>is</span> <span m='660'>the</span> <span m='840'>answer,</span> <span
@@ -714,61 +768,7 @@ transcript: >-
   m='1066480'>example</span> <span m='1067380'>to</span> <span
   m='1067530'>show</span> <span m='1067920'>how</span> <span
   m='1068220'>that</span> <span m='1068460'>works.</span> </p>
-embedded_media:
-  - uid: 597e80652ca537f36801b5fd12fced8d
-    parent_uid: 8175f23ecc6a52533ab810865a74cd39
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: KkSr0SvXfNY
-  - uid: 9a29a0dd62c54d22fb8607c581be8d56
-    parent_uid: 8175f23ecc6a52533ab810865a74cd39
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/KkSr0SvXfNY/default.jpg'
-  - uid: 84afc730b6c63b1b7cdeb22aded039f2
-    parent_uid: 8175f23ecc6a52533ab810865a74cd39
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: KkSr0SvXfNY
-  - uid: c6d84757d9f77cce8da621ed95a7df67
-    parent_uid: 8175f23ecc6a52533ab810865a74cd39
-    id: KkSr0SvXfNY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/resonant-transmission/KkSr0SvXfNY.srt
-  - uid: 05ec10b0e85a4a81b9a8605c9d05b1f0
-    parent_uid: 8175f23ecc6a52533ab810865a74cd39
-    id: KkSr0SvXfNY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/resonant-transmission/KkSr0SvXfNY.pdf
-  - uid: cfd78ba772dee2ac67248c518f22ff5d
-    parent_uid: 8175f23ecc6a52533ab810865a74cd39
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d2ff5b01e4d581b7cae65dbc12abe127
-    parent_uid: 8175f23ecc6a52533ab810865a74cd39
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 9172d56dcd56ac043be72296339e54ff
-    parent_uid: 8175f23ecc6a52533ab810865a74cd39
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: e18f7c5eba8ffdef6af63c4201f9f02a
-    parent_uid: 8175f23ecc6a52533ab810865a74cd39
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec17_s2_300k.mp4'
+uid: 8175f23ecc6a52533ab810865a74cd39
 type: courses
 layout: video
 ---

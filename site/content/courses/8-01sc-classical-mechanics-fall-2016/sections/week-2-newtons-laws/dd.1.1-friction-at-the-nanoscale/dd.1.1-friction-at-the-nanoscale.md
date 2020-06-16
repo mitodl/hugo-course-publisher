@@ -1,13 +1,67 @@
 ---
-title: DD.1.1 Friction at the Nanoscale
-uid: 4e6fe5353a145f092f92ebaf1b4c4def
+about_this_resource_text: '<p><strong>Instructor: </strong>Prof. Vladan Vuletic</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: sffRo1-_D8E
+    parent_uid: 4e6fe5353a145f092f92ebaf1b4c4def
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 56bf1ec3773112a340edbafa439d0a8c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/sffRo1-_D8E/default.jpg'
+    parent_uid: 4e6fe5353a145f092f92ebaf1b4c4def
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 43269d7ade8778e9846c9c85c80f07fe
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: sffRo1-_D8E
+    parent_uid: 4e6fe5353a145f092f92ebaf1b4c4def
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a00514c64a6d3bfd1b566745296969c9
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 4e6fe5353a145f092f92ebaf1b4c4def
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0c7b54a87023906872058d4ca8fecae1
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_DD_Friction_360p.mp4'
+    parent_uid: 4e6fe5353a145f092f92ebaf1b4c4def
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bcc5fdb04f25dc380ac3cd5bb03ca0c0
+  - id: sffRo1-_D8E.srt
+    parent_uid: 4e6fe5353a145f092f92ebaf1b4c4def
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/dd.1.1-friction-at-the-nanoscale/dd.1.1-friction-at-the-nanoscale/sffRo1-_D8E.srt
+    title: 3play caption file
+    type: null
+    uid: cfd949e56a0d523b9662e1a7e76885b3
+  - id: sffRo1-_D8E.pdf
+    parent_uid: 4e6fe5353a145f092f92ebaf1b4c4def
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/dd.1.1-friction-at-the-nanoscale/dd.1.1-friction-at-the-nanoscale/sffRo1-_D8E.pdf
+    title: 3play pdf file
+    type: null
+    uid: d3b0568216fdea3971af3cd9f9daad3e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4e6fe5353a145f092f92ebaf1b4c4def
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6992853ec4b5457ba24484766912aaf4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4e6fe5353a145f092f92ebaf1b4c4def
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: cfa15f0e59cf269248c03f00d3ef7723
+inline_embed_id: 95775854dd.1.1frictionatthenanoscale68182813
 parent_uid: 9645d508f2f591c3d28668b53745d928
+related_resources_text: ''
+short_url: dd.1.1-friction-at-the-nanoscale
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/dd.1.1-friction-at-the-nanoscale/dd.1.1-friction-at-the-nanoscale
-short_url: dd.1.1-friction-at-the-nanoscale
-inline_embed_id: 95775854dd.1.1frictionatthenanoscale68182813
-about_this_resource_text: '<p><strong>Instructor: </strong>Prof. Vladan Vuletic</p>'
-related_resources_text: ''
+title: DD.1.1 Friction at the Nanoscale
 transcript: >-
   <p><span m='3010'>So I would like to tell you about friction today.</span>
   </p><p><span m='6520'>Friction is a very mysterious subject,</span> <span
@@ -646,61 +700,7 @@ transcript: >-
   m='2340490'>area-- or at least on the apparent contact area--</span> <span
   m='2343540'>actually arises from the properties of friction</span> <span
   m='2346160'>at the nano scale?</span> </p>
-embedded_media:
-  - uid: 56bf1ec3773112a340edbafa439d0a8c
-    parent_uid: 4e6fe5353a145f092f92ebaf1b4c4def
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: sffRo1-_D8E
-  - uid: 43269d7ade8778e9846c9c85c80f07fe
-    parent_uid: 4e6fe5353a145f092f92ebaf1b4c4def
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/sffRo1-_D8E/default.jpg'
-  - uid: a00514c64a6d3bfd1b566745296969c9
-    parent_uid: 4e6fe5353a145f092f92ebaf1b4c4def
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: sffRo1-_D8E
-  - uid: 0c7b54a87023906872058d4ca8fecae1
-    parent_uid: 4e6fe5353a145f092f92ebaf1b4c4def
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: bcc5fdb04f25dc380ac3cd5bb03ca0c0
-    parent_uid: 4e6fe5353a145f092f92ebaf1b4c4def
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_DD_Friction_360p.mp4'
-  - uid: cfd949e56a0d523b9662e1a7e76885b3
-    parent_uid: 4e6fe5353a145f092f92ebaf1b4c4def
-    id: sffRo1-_D8E.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/dd.1.1-friction-at-the-nanoscale/dd.1.1-friction-at-the-nanoscale/sffRo1-_D8E.srt
-  - uid: d3b0568216fdea3971af3cd9f9daad3e
-    parent_uid: 4e6fe5353a145f092f92ebaf1b4c4def
-    id: sffRo1-_D8E.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/dd.1.1-friction-at-the-nanoscale/dd.1.1-friction-at-the-nanoscale/sffRo1-_D8E.pdf
-  - uid: 6992853ec4b5457ba24484766912aaf4
-    parent_uid: 4e6fe5353a145f092f92ebaf1b4c4def
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: cfa15f0e59cf269248c03f00d3ef7723
-    parent_uid: 4e6fe5353a145f092f92ebaf1b4c4def
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 4e6fe5353a145f092f92ebaf1b4c4def
 type: courses
 layout: video
 ---

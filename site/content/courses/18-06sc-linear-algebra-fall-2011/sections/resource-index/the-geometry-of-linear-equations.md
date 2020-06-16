@@ -1,13 +1,67 @@
 ---
-title: The Geometry of Linear Equations
-uid: 8f33cda63dc9109a0110eb47e3c1f7c9
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: J7DzL2_Na80
+    parent_uid: 8f33cda63dc9109a0110eb47e3c1f7c9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 51dd062c5977ca4cb2e12562adb236c3
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 8f33cda63dc9109a0110eb47e3c1f7c9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bfae555e8fa97e07bf884614b2aa7b0a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/01.mp4'
+    parent_uid: 8f33cda63dc9109a0110eb47e3c1f7c9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 302e340caadcb56f25685256c3f1e8b9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: J7DzL2_Na80
+    parent_uid: 8f33cda63dc9109a0110eb47e3c1f7c9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 44cc65d247ce7c3ba2807f5d9238f715
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/J7DzL2_Na80/default.jpg'
+    parent_uid: 8f33cda63dc9109a0110eb47e3c1f7c9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e8ba9548f0d93723f56f59338a734104
+  - id: J7DzL2_Na80.srt
+    parent_uid: 8f33cda63dc9109a0110eb47e3c1f7c9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/the-geometry-of-linear-equations/J7DzL2_Na80.srt
+    title: 3play caption file
+    type: null
+    uid: 706ee14e55becd90389e711e8688701b
+  - id: J7DzL2_Na80.pdf
+    parent_uid: 8f33cda63dc9109a0110eb47e3c1f7c9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/the-geometry-of-linear-equations/J7DzL2_Na80.pdf
+    title: 3play pdf file
+    type: null
+    uid: 637d336553da7adae6ec84332bd5bf1d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8f33cda63dc9109a0110eb47e3c1f7c9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e3eb57d1808d9653cb525470df041d5b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8f33cda63dc9109a0110eb47e3c1f7c9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3933d35fa9950c46f96ec190724ec9b0
+inline_embed_id: 71379845thegeometryoflinearequations1355539
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: the-geometry-of-linear-equations
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/the-geometry-of-linear-equations
-short_url: the-geometry-of-linear-equations
-inline_embed_id: 71379845thegeometryoflinearequations1355539
-about_this_resource_text: ''
-related_resources_text: ''
+title: The Geometry of Linear Equations
 transcript: >-
   <p><span m='8930'>Hi.</span> <span m='9210'>This</span> <span
   m='9520'>is</span> <span m='9700'>the</span> <span m='10290'>first</span>
@@ -2327,61 +2381,7 @@ transcript: >-
   m='2366880'>system</span> <span m='2367270'>of</span> <span
   m='2367390'>any</span> <span m='2367630'>size</span> <span
   m='2368560'>and</span> </p>
-embedded_media:
-  - uid: 51dd062c5977ca4cb2e12562adb236c3
-    parent_uid: 8f33cda63dc9109a0110eb47e3c1f7c9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: J7DzL2_Na80
-  - uid: bfae555e8fa97e07bf884614b2aa7b0a
-    parent_uid: 8f33cda63dc9109a0110eb47e3c1f7c9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 302e340caadcb56f25685256c3f1e8b9
-    parent_uid: 8f33cda63dc9109a0110eb47e3c1f7c9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/01.mp4'
-  - uid: 44cc65d247ce7c3ba2807f5d9238f715
-    parent_uid: 8f33cda63dc9109a0110eb47e3c1f7c9
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: J7DzL2_Na80
-  - uid: e8ba9548f0d93723f56f59338a734104
-    parent_uid: 8f33cda63dc9109a0110eb47e3c1f7c9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/J7DzL2_Na80/default.jpg'
-  - uid: 706ee14e55becd90389e711e8688701b
-    parent_uid: 8f33cda63dc9109a0110eb47e3c1f7c9
-    id: J7DzL2_Na80.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/the-geometry-of-linear-equations/J7DzL2_Na80.srt
-  - uid: 637d336553da7adae6ec84332bd5bf1d
-    parent_uid: 8f33cda63dc9109a0110eb47e3c1f7c9
-    id: J7DzL2_Na80.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/the-geometry-of-linear-equations/J7DzL2_Na80.pdf
-  - uid: e3eb57d1808d9653cb525470df041d5b
-    parent_uid: 8f33cda63dc9109a0110eb47e3c1f7c9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3933d35fa9950c46f96ec190724ec9b0
-    parent_uid: 8f33cda63dc9109a0110eb47e3c1f7c9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 8f33cda63dc9109a0110eb47e3c1f7c9
 type: courses
 layout: video
 ---

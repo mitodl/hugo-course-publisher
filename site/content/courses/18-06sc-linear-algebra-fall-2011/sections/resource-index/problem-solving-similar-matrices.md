@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Similar Matrices'
-uid: faedf63c3bdc84f2e5ad455b6295d011
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: KUuxdk_V7To
+    parent_uid: faedf63c3bdc84f2e5ad455b6295d011
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 46bc3b36960cf51f5745467f3bf08132
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: KUuxdk_V7To
+    parent_uid: faedf63c3bdc84f2e5ad455b6295d011
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f887d0af7e608e2984924794d53cd313
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/similar-matrices/id488155309?i=108454308
+    parent_uid: faedf63c3bdc84f2e5ad455b6295d011
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8b0d0bb385e820a82e9ad9c02bf1b3b2
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110607_B1_300k.mp4
+    parent_uid: faedf63c3bdc84f2e5ad455b6295d011
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 555e6a0cecb5f73a12210678d169ca5e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/KUuxdk_V7To/default.jpg'
+    parent_uid: faedf63c3bdc84f2e5ad455b6295d011
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4888a3428a980adc1640fd7b2f945f3c
+  - id: KUuxdk_V7To.srt
+    parent_uid: faedf63c3bdc84f2e5ad455b6295d011
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-similar-matrices/KUuxdk_V7To.srt
+    title: 3play caption file
+    type: null
+    uid: 3c350e1d38a9e47001951f2def503bc8
+  - id: KUuxdk_V7To.pdf
+    parent_uid: faedf63c3bdc84f2e5ad455b6295d011
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-similar-matrices/KUuxdk_V7To.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7c03bd664692be899cb2eec9ecfade5d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: faedf63c3bdc84f2e5ad455b6295d011
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 28971652fe7b1ed96b6e0ba8b1ae55a5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: faedf63c3bdc84f2e5ad455b6295d011
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: eb302cdd7530635166881d4941e76231
+inline_embed_id: 5758729problemsolvingsimilarmatrices54299042
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: problem-solving-similar-matrices
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-similar-matrices
-short_url: problem-solving-similar-matrices
-inline_embed_id: 5758729problemsolvingsimilarmatrices54299042
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Similar Matrices'
 transcript: >-
   <p><span m='5712'>BEN HARRIS:</span> <span m='6190'>Hi.</span> <span
   m='7090'>Today</span> <span m='7390'>we're</span> <span m='7530'>going</span>
@@ -384,63 +440,7 @@ transcript: >-
   m='487530'>are</span> <span m='487620'>different</span> <span
   m='488110'>are</span> <span m='488550'>not</span> <span
   m='489000'>similar.</span> <span m='490360'>Thanks.</span> </p>
-embedded_media:
-  - uid: 46bc3b36960cf51f5745467f3bf08132
-    parent_uid: faedf63c3bdc84f2e5ad455b6295d011
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: KUuxdk_V7To
-  - uid: f887d0af7e608e2984924794d53cd313
-    parent_uid: faedf63c3bdc84f2e5ad455b6295d011
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: KUuxdk_V7To
-  - uid: 8b0d0bb385e820a82e9ad9c02bf1b3b2
-    parent_uid: faedf63c3bdc84f2e5ad455b6295d011
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/similar-matrices/id488155309?i=108454308
-  - uid: 555e6a0cecb5f73a12210678d169ca5e
-    parent_uid: faedf63c3bdc84f2e5ad455b6295d011
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110607_B1_300k.mp4
-  - uid: 4888a3428a980adc1640fd7b2f945f3c
-    parent_uid: faedf63c3bdc84f2e5ad455b6295d011
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/KUuxdk_V7To/default.jpg'
-  - uid: 3c350e1d38a9e47001951f2def503bc8
-    parent_uid: faedf63c3bdc84f2e5ad455b6295d011
-    id: KUuxdk_V7To.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-similar-matrices/KUuxdk_V7To.srt
-  - uid: 7c03bd664692be899cb2eec9ecfade5d
-    parent_uid: faedf63c3bdc84f2e5ad455b6295d011
-    id: KUuxdk_V7To.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-similar-matrices/KUuxdk_V7To.pdf
-  - uid: 28971652fe7b1ed96b6e0ba8b1ae55a5
-    parent_uid: faedf63c3bdc84f2e5ad455b6295d011
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: eb302cdd7530635166881d4941e76231
-    parent_uid: faedf63c3bdc84f2e5ad455b6295d011
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: faedf63c3bdc84f2e5ad455b6295d011
 type: courses
 layout: video
 ---

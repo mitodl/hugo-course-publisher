@@ -1,11 +1,4 @@
 ---
-title: Day 1 Thoughts
-uid: e366c49dc18076a8d7783e04c5d04698
-parent_uid: b923e518c6b99f570dd904b61083f145
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/elizabeth-choes-reflections/day-1-thoughts
-short_url: day-1-thoughts
-inline_embed_id: 96781645day1thoughts68093077
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -18,7 +11,69 @@ about_this_resource_text: >-
   <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: TXkB42FCriU
+    parent_uid: e366c49dc18076a8d7783e04c5d04698
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 52630122bb5582c36d0f2c1dd3c7a86d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TXkB42FCriU/default.jpg'
+    parent_uid: e366c49dc18076a8d7783e04c5d04698
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 64304bbf48b01df829224f7de5785438
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: TXkB42FCriU
+    parent_uid: e366c49dc18076a8d7783e04c5d04698
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a301b0c60f25487a27dc523a8007ea76
+  - id: TXkB42FCriU.srt
+    parent_uid: e366c49dc18076a8d7783e04c5d04698
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/elizabeth-choes-reflections/day-1-thoughts/TXkB42FCriU.srt
+    title: 3play caption file
+    type: null
+    uid: dca55f3abbb104ab50dbb68b32b3e4ce
+  - id: TXkB42FCriU.pdf
+    parent_uid: e366c49dc18076a8d7783e04c5d04698
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/elizabeth-choes-reflections/day-1-thoughts/TXkB42FCriU.pdf
+    title: 3play pdf file
+    type: null
+    uid: f59cffe98eea3f196f896783c50c6e50
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e366c49dc18076a8d7783e04c5d04698
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3983a49aac4b7ffac9398e0492897220
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e366c49dc18076a8d7783e04c5d04698
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0e649bc96d580f269f6f808824f1d4d2
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: e366c49dc18076a8d7783e04c5d04698
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4533e60ed0e9f86723ee2121b522a81f
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_EC_D01_Pitch_Example_360p.mp4
+    parent_uid: e366c49dc18076a8d7783e04c5d04698
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 71d8e7c772e4c7f51c683ab4c4743957
+inline_embed_id: 96781645day1thoughts68093077
+parent_uid: b923e518c6b99f570dd904b61083f145
 related_resources_text: ''
+short_url: day-1-thoughts
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/elizabeth-choes-reflections/day-1-thoughts
+title: Day 1 Thoughts
 transcript: >-
   <p><span m="150">ELIZABETH CHOE: When</span> <span m="330">we</span> <span
   m="450">think</span> <span m="610">of</span> <span m="830">snot,</span> <span
@@ -80,62 +135,7 @@ transcript: >-
   m="44250">actually</span> <span m="44700">would</span> <span
   m="45150">rather</span> <span m="45430">keep</span> <span m="45650">all
   that</span> <span m="45870">around.</span></p>
-embedded_media:
-  - uid: 52630122bb5582c36d0f2c1dd3c7a86d
-    parent_uid: e366c49dc18076a8d7783e04c5d04698
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TXkB42FCriU
-  - uid: 64304bbf48b01df829224f7de5785438
-    parent_uid: e366c49dc18076a8d7783e04c5d04698
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TXkB42FCriU/default.jpg'
-  - uid: a301b0c60f25487a27dc523a8007ea76
-    parent_uid: e366c49dc18076a8d7783e04c5d04698
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TXkB42FCriU
-  - uid: dca55f3abbb104ab50dbb68b32b3e4ce
-    parent_uid: e366c49dc18076a8d7783e04c5d04698
-    id: TXkB42FCriU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/elizabeth-choes-reflections/day-1-thoughts/TXkB42FCriU.srt
-  - uid: f59cffe98eea3f196f896783c50c6e50
-    parent_uid: e366c49dc18076a8d7783e04c5d04698
-    id: TXkB42FCriU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/elizabeth-choes-reflections/day-1-thoughts/TXkB42FCriU.pdf
-  - uid: 3983a49aac4b7ffac9398e0492897220
-    parent_uid: e366c49dc18076a8d7783e04c5d04698
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0e649bc96d580f269f6f808824f1d4d2
-    parent_uid: e366c49dc18076a8d7783e04c5d04698
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4533e60ed0e9f86723ee2121b522a81f
-    parent_uid: e366c49dc18076a8d7783e04c5d04698
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 71d8e7c772e4c7f51c683ab4c4743957
-    parent_uid: e366c49dc18076a8d7783e04c5d04698
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_EC_D01_Pitch_Example_360p.mp4
+uid: e366c49dc18076a8d7783e04c5d04698
 type: courses
 layout: video
 ---

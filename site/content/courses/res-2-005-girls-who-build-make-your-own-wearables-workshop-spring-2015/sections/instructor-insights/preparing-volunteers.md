@@ -9,7 +9,7 @@ menu:
 ---
 _In this section, Kristen Railey shares her insights about preparing volunteers to support participants, including changes she’d like to make in future iterations of the workshop._
 
-![Three women working together on a laptop computer.](undefined)
+![Three women working together on a laptop computer.](https://open-learning-course-data-ci.s3.amazonaws.com/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/d2415059552dce1bf2b801af22cbc083_RES-2-005_photo-31.jpg)
 
 A volunteer assists participants. Image courtesy of Jon Barron, MIT Lincoln Laboratory.
 

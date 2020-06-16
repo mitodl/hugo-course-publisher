@@ -1,13 +1,67 @@
 ---
-title: Final Course Review
-uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: RWvi4Vx4CDc
+    parent_uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8cc2c5342cc076589e457bb4db087769
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/RWvi4Vx4CDc/default.jpg'
+    parent_uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1e762f75c1767ffcef8bcb5fd065aaf3
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6f4c16d5d6f79b86a9308ca4020d34bd
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/34.mp4'
+    parent_uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: afe85539781ae05a65fafd2b8b86b0e5
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: RWvi4Vx4CDc
+    parent_uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 756c1cfafa047812613e7d04f782e01f
+  - id: RWvi4Vx4CDc.srt
+    parent_uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/final-course-review/final-course-review/RWvi4Vx4CDc.srt
+    title: 3play caption file
+    type: null
+    uid: 5785b397f532c18c4837a1d5ba941f09
+  - id: RWvi4Vx4CDc.pdf
+    parent_uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/final-course-review/final-course-review/RWvi4Vx4CDc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 67e85afc79dece185c29098155875c49
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b388e18d3cf32c8ac255a815f079ede1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: afb27a45b35884546b91538cf5b63ecc
+inline_embed_id: 28906984finalcoursereview42295922
 parent_uid: a59901cecbc5cc410b702826dc2ae39b
+related_resources_text: ''
+short_url: final-course-review
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/final-course-review/final-course-review
-short_url: final-course-review
-inline_embed_id: 28906984finalcoursereview42295922
-about_this_resource_text: ''
-related_resources_text: ''
+title: Final Course Review
 transcript: >-
   <p><span m='7840'>OK.</span> <span m='8460'>Good.</span> <span
   m='9050'>The</span> <span m='9680'>final</span> <span m='10460'>class</span>
@@ -2248,61 +2302,7 @@ transcript: >-
   m='2590340'>the</span> <span m='2590470'>course.</span> </p><p><span
   m='2591130'>Thank</span> <span m='2591360'>you.</span> </p><p><span
   m='2591400'>Thanks.</span> </p>
-embedded_media:
-  - uid: 8cc2c5342cc076589e457bb4db087769
-    parent_uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: RWvi4Vx4CDc
-  - uid: 1e762f75c1767ffcef8bcb5fd065aaf3
-    parent_uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/RWvi4Vx4CDc/default.jpg'
-  - uid: 6f4c16d5d6f79b86a9308ca4020d34bd
-    parent_uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: afe85539781ae05a65fafd2b8b86b0e5
-    parent_uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/34.mp4'
-  - uid: 756c1cfafa047812613e7d04f782e01f
-    parent_uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: RWvi4Vx4CDc
-  - uid: 5785b397f532c18c4837a1d5ba941f09
-    parent_uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
-    id: RWvi4Vx4CDc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/final-course-review/final-course-review/RWvi4Vx4CDc.srt
-  - uid: 67e85afc79dece185c29098155875c49
-    parent_uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
-    id: RWvi4Vx4CDc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/final-course-review/final-course-review/RWvi4Vx4CDc.pdf
-  - uid: b388e18d3cf32c8ac255a815f079ede1
-    parent_uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: afb27a45b35884546b91538cf5b63ecc
-    parent_uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 5a4dfaf0667a3c56c7ad7a5b37fa882b
 type: courses
 layout: video
 ---

@@ -1,13 +1,62 @@
 ---
-title: 'Video 2: Pie Charts'
-uid: 62c914362a96ae6b29510df50e46a23b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: _EtlZAMQ2gc
+    parent_uid: 62c914362a96ae6b29510df50e46a23b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 30722b2f73d5bc8ba717f18d30bc4954
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: _EtlZAMQ2gc
+    parent_uid: 62c914362a96ae6b29510df50e46a23b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e2a9857f476d685ad6454da2afd60a0a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/_EtlZAMQ2gc/default.jpg'
+    parent_uid: 62c914362a96ae6b29510df50e46a23b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d53e878973e66d5363d32650090cefc4
+  - id: EtlZAMQ2gc.srt
+    parent_uid: 62c914362a96ae6b29510df50e46a23b
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-2-pie-charts/video-2-pie-charts-0/EtlZAMQ2gc.srt
+    title: 3play caption file
+    type: null
+    uid: 9964d74dd5bfb9fe3afb4160ff171e2f
+  - id: EtlZAMQ2gc.pdf
+    parent_uid: 62c914362a96ae6b29510df50e46a23b
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-2-pie-charts/video-2-pie-charts-0/EtlZAMQ2gc.pdf
+    title: 3play pdf file
+    type: null
+    uid: f9f7b1991c77e76a99cda3dc18112fc3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 62c914362a96ae6b29510df50e46a23b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 669286515f6b1a7c9456e7f8ff104a9e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 62c914362a96ae6b29510df50e46a23b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 402b7147ea6ffb80ad91a35fcc047c7f
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.4.03_300k.mp4
+    parent_uid: 62c914362a96ae6b29510df50e46a23b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: cf615ff9bcf99dab921b02d24d86dd72
+inline_embed_id: 567257video2piecharts9460817
 parent_uid: 8b0a3402f3ae148cc59dc8f6078637f0
+related_resources_text: ''
+short_url: video-2-pie-charts-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-2-pie-charts/video-2-pie-charts-0
-short_url: video-2-pie-charts-0
-inline_embed_id: 567257video2piecharts9460817
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 2: Pie Charts'
 transcript: >-
   <p><span m='9630'>There</span> <span m='9861'>are</span> <span
   m='10092'>a</span> <span m='10323'>lot</span> <span m='10554'>of</span> <span
@@ -295,56 +344,7 @@ transcript: >-
   m='227060'>some</span> <span m='227495'>more</span> <span
   m='227930'>possibilities</span> <span m='228365'>for</span> <span
   m='228800'>this</span> <span m='229235'>data.</span> </p>
-embedded_media:
-  - uid: 30722b2f73d5bc8ba717f18d30bc4954
-    parent_uid: 62c914362a96ae6b29510df50e46a23b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: _EtlZAMQ2gc
-  - uid: e2a9857f476d685ad6454da2afd60a0a
-    parent_uid: 62c914362a96ae6b29510df50e46a23b
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: _EtlZAMQ2gc
-  - uid: d53e878973e66d5363d32650090cefc4
-    parent_uid: 62c914362a96ae6b29510df50e46a23b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/_EtlZAMQ2gc/default.jpg'
-  - uid: 9964d74dd5bfb9fe3afb4160ff171e2f
-    parent_uid: 62c914362a96ae6b29510df50e46a23b
-    id: EtlZAMQ2gc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-2-pie-charts/video-2-pie-charts-0/EtlZAMQ2gc.srt
-  - uid: f9f7b1991c77e76a99cda3dc18112fc3
-    parent_uid: 62c914362a96ae6b29510df50e46a23b
-    id: EtlZAMQ2gc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-2-pie-charts/video-2-pie-charts-0/EtlZAMQ2gc.pdf
-  - uid: 669286515f6b1a7c9456e7f8ff104a9e
-    parent_uid: 62c914362a96ae6b29510df50e46a23b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 402b7147ea6ffb80ad91a35fcc047c7f
-    parent_uid: 62c914362a96ae6b29510df50e46a23b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: cf615ff9bcf99dab921b02d24d86dd72
-    parent_uid: 62c914362a96ae6b29510df50e46a23b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.4.03_300k.mp4
+uid: 62c914362a96ae6b29510df50e46a23b
 type: courses
 layout: video
 ---

@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 20: Independence'
-uid: 8e18030450f67e1dd860281e4c93b825
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-20-independence
-short_url: lecture-20-independence
-inline_embed_id: '75747037lecture20:independence6438382'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Differentiates between independent and
   dependent events as it pertains to probability, covering applications like
   coin flips, the distribution of birthdays, hashing, and cryptography.</p>
   <p><strong>Speaker:</strong> Tom Leighton</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: l1BCv3qqW4A
+    parent_uid: 8e18030450f67e1dd860281e4c93b825
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a52df46cbb6534cbe79d5fc6c16e6cc2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/l1BCv3qqW4A/default.jpg'
+    parent_uid: 8e18030450f67e1dd860281e4c93b825
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9a184358de4112231f7a9572d24c5ffb
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-20-independence/id503873536?i=110644970
+    parent_uid: 8e18030450f67e1dd860281e4c93b825
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b9995047bedb38dcd756cd7f537b179e
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec20_300k.mp4'
+    parent_uid: 8e18030450f67e1dd860281e4c93b825
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9d5fd5dc02063e81400a5f261a3f3ca6
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: l1BCv3qqW4A
+    parent_uid: 8e18030450f67e1dd860281e4c93b825
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 60cee165c5aeb639ce9cf23f6ffe5ddc
+  - id: l1BCv3qqW4A.srt
+    parent_uid: 8e18030450f67e1dd860281e4c93b825
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-20-independence/l1BCv3qqW4A.srt
+    title: 3play caption file
+    type: null
+    uid: cfe55d12f44c87aa20b182086f43cc02
+  - id: l1BCv3qqW4A.pdf
+    parent_uid: 8e18030450f67e1dd860281e4c93b825
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-20-independence/l1BCv3qqW4A.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6388bd9f7ac0cad66c505d5f76c4ffef
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8e18030450f67e1dd860281e4c93b825
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3c8393ed8433941fe3abf3b999f48460
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8e18030450f67e1dd860281e4c93b825
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f4b0fe14ee7a6cda81ecb6243d8f26d5
+inline_embed_id: '75747037lecture20:independence6438382'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
+short_url: lecture-20-independence
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-20-independence
+title: 'Lecture 20: Independence'
 transcript: >-
   <p><span m='390'>The</span> <span m='510'>following</span> <span
   m='950'>content</span> <span m='1550'>is</span> <span m='1660'>provided</span>
@@ -4824,62 +4879,7 @@ transcript: >-
   m='4916380'>good.</span> <span m='4916580'>We're</span> <span
   m='4916750'>done</span> <span m='4917030'>for</span> <span
   m='4917160'>today.</span> </p>
-embedded_media:
-  - uid: a52df46cbb6534cbe79d5fc6c16e6cc2
-    parent_uid: 8e18030450f67e1dd860281e4c93b825
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: l1BCv3qqW4A
-  - uid: 9a184358de4112231f7a9572d24c5ffb
-    parent_uid: 8e18030450f67e1dd860281e4c93b825
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/l1BCv3qqW4A/default.jpg'
-  - uid: b9995047bedb38dcd756cd7f537b179e
-    parent_uid: 8e18030450f67e1dd860281e4c93b825
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-20-independence/id503873536?i=110644970
-  - uid: 9d5fd5dc02063e81400a5f261a3f3ca6
-    parent_uid: 8e18030450f67e1dd860281e4c93b825
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec20_300k.mp4'
-  - uid: 60cee165c5aeb639ce9cf23f6ffe5ddc
-    parent_uid: 8e18030450f67e1dd860281e4c93b825
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: l1BCv3qqW4A
-  - uid: cfe55d12f44c87aa20b182086f43cc02
-    parent_uid: 8e18030450f67e1dd860281e4c93b825
-    id: l1BCv3qqW4A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-20-independence/l1BCv3qqW4A.srt
-  - uid: 6388bd9f7ac0cad66c505d5f76c4ffef
-    parent_uid: 8e18030450f67e1dd860281e4c93b825
-    id: l1BCv3qqW4A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-20-independence/l1BCv3qqW4A.pdf
-  - uid: 3c8393ed8433941fe3abf3b999f48460
-    parent_uid: 8e18030450f67e1dd860281e4c93b825
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f4b0fe14ee7a6cda81ecb6243d8f26d5
-    parent_uid: 8e18030450f67e1dd860281e4c93b825
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 8e18030450f67e1dd860281e4c93b825
 type: courses
 layout: video
 ---

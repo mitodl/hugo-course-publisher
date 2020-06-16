@@ -1,13 +1,73 @@
 ---
-title: 'Deviation From The Mean: Video'
-uid: 2d92edb39e3916de6359fda2b399d641
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 2d92edb39e3916de6359fda2b399d641
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 39b2b54034196e48bfb03117d6c356fc
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 2d92edb39e3916de6359fda2b399d641
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 03673e67e40f1f2b244ba908f75059bc
+  - id: Video-YouTube-Stream
+    media_location: ALn1McUXg-c
+    parent_uid: 2d92edb39e3916de6359fda2b399d641
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 57aa08a2a4effcf29cb94f46c4291011
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ALn1McUXg-c/default.jpg'
+    parent_uid: 2d92edb39e3916de6359fda2b399d641
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f20f1f7ad599120a9dd2919e622dd171
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: ALn1McUXg-c
+    parent_uid: 2d92edb39e3916de6359fda2b399d641
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 58151d18a7c59fec8b6fd6d786cbb09e
+  - id: ALn1McUXg-c.srt
+    parent_uid: 2d92edb39e3916de6359fda2b399d641
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/deviation-from-the-mean/ALn1McUXg-c.srt
+    title: 3play caption file
+    type: null
+    uid: a2219c380ac6ae994abaf139108af95d
+  - id: ALn1McUXg-c.pdf
+    parent_uid: 2d92edb39e3916de6359fda2b399d641
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/deviation-from-the-mean/ALn1McUXg-c.pdf
+    title: 3play pdf file
+    type: null
+    uid: ca31bf10f593a1bc88c2f2d23c1a2ec2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2d92edb39e3916de6359fda2b399d641
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 165bfca4cce6bcd9acbc252e98dd1029
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2d92edb39e3916de6359fda2b399d641
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 08d2f6e19b56372fdf92249c0e5158a5
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_deviation_intro_ipod.mp4
+    parent_uid: 2d92edb39e3916de6359fda2b399d641
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1a03e7f5bab535f3c80ba32b76165a67
+inline_embed_id: 55024972deviationfromthemeanvideo79401104
 parent_uid: f195ee849b9aee3ccf61f90bea10cebb
+related_resources_text: ''
+short_url: deviation-from-the-mean
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/deviation-from-the-mean
-short_url: deviation-from-the-mean
-inline_embed_id: 55024972deviationfromthemeanvideo79401104
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Deviation From The Mean: Video'
 transcript: >-
   <p><span m='1790'>ALBERT MEYER: In</span> <span m='2000'>the</span> <span
   m='2080'>last</span> <span m='2370'>lecture,</span> <span m='2760'>we</span>
@@ -548,67 +608,7 @@ transcript: >-
   m='461480'>probable</span> <span m='462010'>deviation</span> <span
   m='462720'>from</span> <span m='463010'>its</span> <span
   m='463170'>mean.</span> </p>
-embedded_media:
-  - uid: 39b2b54034196e48bfb03117d6c356fc
-    parent_uid: 2d92edb39e3916de6359fda2b399d641
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 03673e67e40f1f2b244ba908f75059bc
-    parent_uid: 2d92edb39e3916de6359fda2b399d641
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 57aa08a2a4effcf29cb94f46c4291011
-    parent_uid: 2d92edb39e3916de6359fda2b399d641
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ALn1McUXg-c
-  - uid: f20f1f7ad599120a9dd2919e622dd171
-    parent_uid: 2d92edb39e3916de6359fda2b399d641
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ALn1McUXg-c/default.jpg'
-  - uid: 58151d18a7c59fec8b6fd6d786cbb09e
-    parent_uid: 2d92edb39e3916de6359fda2b399d641
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ALn1McUXg-c
-  - uid: a2219c380ac6ae994abaf139108af95d
-    parent_uid: 2d92edb39e3916de6359fda2b399d641
-    id: ALn1McUXg-c.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/deviation-from-the-mean/ALn1McUXg-c.srt
-  - uid: ca31bf10f593a1bc88c2f2d23c1a2ec2
-    parent_uid: 2d92edb39e3916de6359fda2b399d641
-    id: ALn1McUXg-c.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-2/deviation-from-the-mean/ALn1McUXg-c.pdf
-  - uid: 165bfca4cce6bcd9acbc252e98dd1029
-    parent_uid: 2d92edb39e3916de6359fda2b399d641
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 08d2f6e19b56372fdf92249c0e5158a5
-    parent_uid: 2d92edb39e3916de6359fda2b399d641
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1a03e7f5bab535f3c80ba32b76165a67
-    parent_uid: 2d92edb39e3916de6359fda2b399d641
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_deviation_intro_ipod.mp4
+uid: 2d92edb39e3916de6359fda2b399d641
 type: courses
 layout: video
 ---

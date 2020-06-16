@@ -1,18 +1,72 @@
 ---
-title: 'Clip 2: Limit of (1-cos(x))/x'
-uid: 7660358b65b041220290a720f912479c
-parent_uid: efc851d816c458170838c60287c6388d
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-8-limits-of-sine-and-cosine/clip-2-limit-of-1-cos-x-x
-short_url: clip-2-limit-of-1-cos-x-x
-inline_embed_id: '28583007clip2:limitof(1-cos(x))/x21238734'
 about_this_resource_text: >-
   <p>&raquo;<a href="./resolveuid/71f2919b73798dcb3005a14d6e9f3a02"
   target="_blank"> Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 3 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: kCPVBl953eY
+    parent_uid: 7660358b65b041220290a720f912479c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 68dce9c70b6e45dacfc1f9868e92de81
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/kCPVBl953eY/default.jpg'
+    parent_uid: 7660358b65b041220290a720f912479c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ca09746b612d0dc6d3316073503826e1
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec03_300k.mp4'
+    parent_uid: 7660358b65b041220290a720f912479c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e1cf14a27ac7b9aae254f77c9771f1bd
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: kCPVBl953eY
+    parent_uid: 7660358b65b041220290a720f912479c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 14e3ed6e20c3f462fd44cafe0e6ffcdf
+  - id: kCPVBl953eY.srt
+    parent_uid: 7660358b65b041220290a720f912479c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-8-limits-of-sine-and-cosine/clip-2-limit-of-1-cos-x-x/kCPVBl953eY.srt
+    title: 3play caption file
+    type: null
+    uid: 6a604c324de85bc4f8c4391d4b1a143a
+  - id: kCPVBl953eY.pdf
+    parent_uid: 7660358b65b041220290a720f912479c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-8-limits-of-sine-and-cosine/clip-2-limit-of-1-cos-x-x/kCPVBl953eY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3f901e83a75d7d41dc749da5791f2ff0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7660358b65b041220290a720f912479c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ab520055c6ecb9ee2d02ce7e721b9568
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7660358b65b041220290a720f912479c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 68cad955f4aa46c4fb98919171625f7b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 7660358b65b041220290a720f912479c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 197ba48c5287b6b42a2cfbdc2c45c86f
+inline_embed_id: '28583007clip2:limitof(1-cos(x))/x21238734'
+parent_uid: efc851d816c458170838c60287c6388d
 related_resources_text: ''
+short_url: clip-2-limit-of-1-cos-x-x
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-8-limits-of-sine-and-cosine/clip-2-limit-of-1-cos-x-x
+title: 'Clip 2: Limit of (1-cos(x))/x'
 transcript: >-
   <p><span m="370">The following</span> <span m="1070">is</span> <span
   m="1310">provided</span> <span m="1400">under</span> <span m="1670">a</span>
@@ -2679,61 +2733,7 @@ transcript: >-
   m="2991080">responsible</span> <span m="2991810">for</span> <span
   m="2991940">these</span> <span m="2992170">kinds</span> <span
   m="2992430">of</span> <span m="2992510">proofs.</span></p>
-embedded_media:
-  - uid: 68dce9c70b6e45dacfc1f9868e92de81
-    parent_uid: 7660358b65b041220290a720f912479c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: kCPVBl953eY
-  - uid: ca09746b612d0dc6d3316073503826e1
-    parent_uid: 7660358b65b041220290a720f912479c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/kCPVBl953eY/default.jpg'
-  - uid: e1cf14a27ac7b9aae254f77c9771f1bd
-    parent_uid: 7660358b65b041220290a720f912479c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec03_300k.mp4'
-  - uid: 14e3ed6e20c3f462fd44cafe0e6ffcdf
-    parent_uid: 7660358b65b041220290a720f912479c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: kCPVBl953eY
-  - uid: 6a604c324de85bc4f8c4391d4b1a143a
-    parent_uid: 7660358b65b041220290a720f912479c
-    id: kCPVBl953eY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-8-limits-of-sine-and-cosine/clip-2-limit-of-1-cos-x-x/kCPVBl953eY.srt
-  - uid: 3f901e83a75d7d41dc749da5791f2ff0
-    parent_uid: 7660358b65b041220290a720f912479c
-    id: kCPVBl953eY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-8-limits-of-sine-and-cosine/clip-2-limit-of-1-cos-x-x/kCPVBl953eY.pdf
-  - uid: ab520055c6ecb9ee2d02ce7e721b9568
-    parent_uid: 7660358b65b041220290a720f912479c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 68cad955f4aa46c4fb98919171625f7b
-    parent_uid: 7660358b65b041220290a720f912479c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 197ba48c5287b6b42a2cfbdc2c45c86f
-    parent_uid: 7660358b65b041220290a720f912479c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 7660358b65b041220290a720f912479c
 type: courses
 layout: video
 ---

@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Example of Estimation'
-uid: b082b9611b7fbf5370c33aecc9efbcad
-parent_uid: bd925f6f8a78fde6be8c709ded2799e9
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-49-applications-of-the-fundamental-theorem-of-calculus/clip-1-example-of-estimation
-short_url: clip-1-example-of-estimation
-inline_embed_id: '27111978clip1:exampleofestimation25284290'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/e9c3e78435d55e8c4c547331786e36f0"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 19 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 1RLctDS2hUQ
+    parent_uid: b082b9611b7fbf5370c33aecc9efbcad
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 658305445e12da42d36d26ae2553b8b2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/1RLctDS2hUQ/default.jpg'
+    parent_uid: b082b9611b7fbf5370c33aecc9efbcad
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0331b8aa73d218a3362dd14fd5b81b13
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 1RLctDS2hUQ
+    parent_uid: b082b9611b7fbf5370c33aecc9efbcad
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: cc4026f9d1acf9698756a8b63df2c71b
+  - id: 1RLctDS2hUQ.srt
+    parent_uid: b082b9611b7fbf5370c33aecc9efbcad
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-49-applications-of-the-fundamental-theorem-of-calculus/clip-1-example-of-estimation/1RLctDS2hUQ.srt
+    title: 3play caption file
+    type: null
+    uid: da1f5c342c84f5054144661402cd7cff
+  - id: 1RLctDS2hUQ.pdf
+    parent_uid: b082b9611b7fbf5370c33aecc9efbcad
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-49-applications-of-the-fundamental-theorem-of-calculus/clip-1-example-of-estimation/1RLctDS2hUQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0cecd4d2b4853f9885ab54a8722caf29
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b082b9611b7fbf5370c33aecc9efbcad
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 155adf9d0664e94a76b2556ad2367579
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b082b9611b7fbf5370c33aecc9efbcad
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 92ad3a055eb167df75a36baf25d26dac
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec19_300k.mp4'
+    parent_uid: b082b9611b7fbf5370c33aecc9efbcad
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e1b7d165bbf28815b0e236e9675be920
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: b082b9611b7fbf5370c33aecc9efbcad
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1fe169673490403f397655880acb764e
+inline_embed_id: '27111978clip1:exampleofestimation25284290'
+parent_uid: bd925f6f8a78fde6be8c709ded2799e9
 related_resources_text: ''
+short_url: clip-1-example-of-estimation
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-49-applications-of-the-fundamental-theorem-of-calculus/clip-1-example-of-estimation
+title: 'Clip 1: Example of Estimation'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='530'>content</span> <span m='1020'>is</span> <span m='1130'>provided</span>
@@ -2550,61 +2604,7 @@ transcript: >-
   m='2891060'>either</span> <span m='2891230'>moves</span> <span
   m='2891570'>steadily</span> <span m='2891920'>up or</span> <span
   m='2892320'>steadily</span> <span m='2892630'>down.</span> </p>
-embedded_media:
-  - uid: 658305445e12da42d36d26ae2553b8b2
-    parent_uid: b082b9611b7fbf5370c33aecc9efbcad
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 1RLctDS2hUQ
-  - uid: 0331b8aa73d218a3362dd14fd5b81b13
-    parent_uid: b082b9611b7fbf5370c33aecc9efbcad
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/1RLctDS2hUQ/default.jpg'
-  - uid: cc4026f9d1acf9698756a8b63df2c71b
-    parent_uid: b082b9611b7fbf5370c33aecc9efbcad
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 1RLctDS2hUQ
-  - uid: da1f5c342c84f5054144661402cd7cff
-    parent_uid: b082b9611b7fbf5370c33aecc9efbcad
-    id: 1RLctDS2hUQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-49-applications-of-the-fundamental-theorem-of-calculus/clip-1-example-of-estimation/1RLctDS2hUQ.srt
-  - uid: 0cecd4d2b4853f9885ab54a8722caf29
-    parent_uid: b082b9611b7fbf5370c33aecc9efbcad
-    id: 1RLctDS2hUQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-49-applications-of-the-fundamental-theorem-of-calculus/clip-1-example-of-estimation/1RLctDS2hUQ.pdf
-  - uid: 155adf9d0664e94a76b2556ad2367579
-    parent_uid: b082b9611b7fbf5370c33aecc9efbcad
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 92ad3a055eb167df75a36baf25d26dac
-    parent_uid: b082b9611b7fbf5370c33aecc9efbcad
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e1b7d165bbf28815b0e236e9675be920
-    parent_uid: b082b9611b7fbf5370c33aecc9efbcad
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec19_300k.mp4'
-  - uid: 1fe169673490403f397655880acb764e
-    parent_uid: b082b9611b7fbf5370c33aecc9efbcad
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: b082b9611b7fbf5370c33aecc9efbcad
 type: courses
 layout: video
 ---

@@ -1,13 +1,67 @@
 ---
-title: Day 6
-uid: cb299d4fbd4588a506a51ec66f9410be
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: XDBr39cwmbg
+    parent_uid: cb299d4fbd4588a506a51ec66f9410be
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 72dc37fdb4f79eaeeca1facae329ad0d
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: XDBr39cwmbg
+    parent_uid: cb299d4fbd4588a506a51ec66f9410be
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8273bf009a4f2b94bbb4410e7500c3d1
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: cb299d4fbd4588a506a51ec66f9410be
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8446dc621cd0ebaf33e54574dec32627
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D06_300k.mp4'
+    parent_uid: cb299d4fbd4588a506a51ec66f9410be
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b43535893385b9e798909121bf28d262
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/XDBr39cwmbg/default.jpg'
+    parent_uid: cb299d4fbd4588a506a51ec66f9410be
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 35c7ac0c48b93c64e12ef2087562e072
+  - id: XDBr39cwmbg.srt
+    parent_uid: cb299d4fbd4588a506a51ec66f9410be
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-6-table-read-and-office-hours/day-6/XDBr39cwmbg.srt
+    title: 3play caption file
+    type: null
+    uid: 61c1895be0271ffbfbd0e8488b103af5
+  - id: XDBr39cwmbg.pdf
+    parent_uid: cb299d4fbd4588a506a51ec66f9410be
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-6-table-read-and-office-hours/day-6/XDBr39cwmbg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 67b1885072f234dce096561a25edd042
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cb299d4fbd4588a506a51ec66f9410be
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6a0f23d9eca51ebef76678b6f3767723
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cb299d4fbd4588a506a51ec66f9410be
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ce7fb040fd26b7de3a3db6b92e8226d3
+inline_embed_id: 55141999day653575823
 parent_uid: 7c38a44e5ebb8403cf21c2adc0137e4b
+related_resources_text: ''
+short_url: day-6
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-6-table-read-and-office-hours/day-6
-short_url: day-6
-inline_embed_id: 55141999day653575823
-about_this_resource_text: ''
-related_resources_text: ''
+title: Day 6
 transcript: >-
   <p><span m='80'>The</span> <span m='170'>following</span> <span
   m='610'>content</span> <span m='1120'>is</span> <span m='1230'>provided</span>
@@ -9019,61 +9073,7 @@ transcript: >-
   m='8055840'>But you</span> <span m='8056140'>guys</span> <span m='8056440'>are
   free</span> <span m='8056740'>to go.</span> <span m='8057040'>I'll see
   you</span> <span m='8057340'>tomorrow.</span> </p>
-embedded_media:
-  - uid: 72dc37fdb4f79eaeeca1facae329ad0d
-    parent_uid: cb299d4fbd4588a506a51ec66f9410be
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: XDBr39cwmbg
-  - uid: 8273bf009a4f2b94bbb4410e7500c3d1
-    parent_uid: cb299d4fbd4588a506a51ec66f9410be
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: XDBr39cwmbg
-  - uid: 8446dc621cd0ebaf33e54574dec32627
-    parent_uid: cb299d4fbd4588a506a51ec66f9410be
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: b43535893385b9e798909121bf28d262
-    parent_uid: cb299d4fbd4588a506a51ec66f9410be
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D06_300k.mp4'
-  - uid: 35c7ac0c48b93c64e12ef2087562e072
-    parent_uid: cb299d4fbd4588a506a51ec66f9410be
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/XDBr39cwmbg/default.jpg'
-  - uid: 61c1895be0271ffbfbd0e8488b103af5
-    parent_uid: cb299d4fbd4588a506a51ec66f9410be
-    id: XDBr39cwmbg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-6-table-read-and-office-hours/day-6/XDBr39cwmbg.srt
-  - uid: 67b1885072f234dce096561a25edd042
-    parent_uid: cb299d4fbd4588a506a51ec66f9410be
-    id: XDBr39cwmbg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-6-table-read-and-office-hours/day-6/XDBr39cwmbg.pdf
-  - uid: 6a0f23d9eca51ebef76678b6f3767723
-    parent_uid: cb299d4fbd4588a506a51ec66f9410be
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ce7fb040fd26b7de3a3db6b92e8226d3
-    parent_uid: cb299d4fbd4588a506a51ec66f9410be
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: cb299d4fbd4588a506a51ec66f9410be
 type: courses
 layout: video
 ---

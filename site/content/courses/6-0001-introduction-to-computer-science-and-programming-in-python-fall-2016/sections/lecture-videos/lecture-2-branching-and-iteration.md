@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 2: Branching and Iteration'
-uid: 3edf8cfe67db52716640931f6ec6af30
-parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-2-branching-and-iteration
-short_url: lecture-2-branching-and-iteration
-inline_embed_id: 88968583lecture2branchinganditeration45803804
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Dr. Bell introduces strings
   and indentation in Python, then discusses basic features of programmatic
   logic, such as branching, conditionals, iteration, and loops.</p>
   <p><strong>Instructor:</strong> Dr. Ana Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 0jljZRnHwOI
+    parent_uid: 3edf8cfe67db52716640931f6ec6af30
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bdd6de1b7caefa97b7bc485ac2d60950
+  - id: 0jljZRnHwOI.srt
+    parent_uid: 3edf8cfe67db52716640931f6ec6af30
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-2-branching-and-iteration/0jljZRnHwOI.srt
+    title: 3play caption file
+    type: null
+    uid: 647b4a7f321f82fe4694ae7838ad1eec
+  - id: 0jljZRnHwOI.pdf
+    parent_uid: 3edf8cfe67db52716640931f6ec6af30
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-2-branching-and-iteration/0jljZRnHwOI.pdf
+    title: 3play pdf file
+    type: null
+    uid: d733a4c1bffb18f632d314f93db7cf96
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3edf8cfe67db52716640931f6ec6af30
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5588a46c1b0c20de4571e27f61533d6c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3edf8cfe67db52716640931f6ec6af30
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8961913122c0dbb1fdb828f5b2403622
+  - id: Video-YouTube-Stream
+    media_location: 0jljZRnHwOI
+    parent_uid: 3edf8cfe67db52716640931f6ec6af30
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4156f39ebbc621eaaf7d491dfd793c91
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0jljZRnHwOI/default.jpg'
+    parent_uid: 3edf8cfe67db52716640931f6ec6af30
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5d3e241970e0f322d8d18338cd51c46b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: 3edf8cfe67db52716640931f6ec6af30
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e1f6d2ffd45fda6eab843d4c04d540f0
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_02_300k.mp4'
+    parent_uid: 3edf8cfe67db52716640931f6ec6af30
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4b1ab6f8bcd2d5181831c7f06ea9596d
+inline_embed_id: 88968583lecture2branchinganditeration45803804
+parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
+short_url: lecture-2-branching-and-iteration
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-2-branching-and-iteration
+title: 'Lecture 2: Branching and Iteration'
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1300">content</span> <span m="1870">is</span> <span
@@ -3070,61 +3124,7 @@ transcript: >-
   m="2598870">right.</span> <span m="2599460">Great.</span> <span
   m="2600480">That's</span> <span m="2600660">all</span> <span
   m="2600750">for</span> <span m="2600870">today.</span></p>
-embedded_media:
-  - uid: bdd6de1b7caefa97b7bc485ac2d60950
-    parent_uid: 3edf8cfe67db52716640931f6ec6af30
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0jljZRnHwOI
-  - uid: 647b4a7f321f82fe4694ae7838ad1eec
-    parent_uid: 3edf8cfe67db52716640931f6ec6af30
-    id: 0jljZRnHwOI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-2-branching-and-iteration/0jljZRnHwOI.srt
-  - uid: d733a4c1bffb18f632d314f93db7cf96
-    parent_uid: 3edf8cfe67db52716640931f6ec6af30
-    id: 0jljZRnHwOI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-2-branching-and-iteration/0jljZRnHwOI.pdf
-  - uid: 5588a46c1b0c20de4571e27f61533d6c
-    parent_uid: 3edf8cfe67db52716640931f6ec6af30
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8961913122c0dbb1fdb828f5b2403622
-    parent_uid: 3edf8cfe67db52716640931f6ec6af30
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4156f39ebbc621eaaf7d491dfd793c91
-    parent_uid: 3edf8cfe67db52716640931f6ec6af30
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0jljZRnHwOI
-  - uid: 5d3e241970e0f322d8d18338cd51c46b
-    parent_uid: 3edf8cfe67db52716640931f6ec6af30
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0jljZRnHwOI/default.jpg'
-  - uid: e1f6d2ffd45fda6eab843d4c04d540f0
-    parent_uid: 3edf8cfe67db52716640931f6ec6af30
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: 4b1ab6f8bcd2d5181831c7f06ea9596d
-    parent_uid: 3edf8cfe67db52716640931f6ec6af30
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_02_300k.mp4'
+uid: 3edf8cfe67db52716640931f6ec6af30
 type: courses
 layout: video
 ---

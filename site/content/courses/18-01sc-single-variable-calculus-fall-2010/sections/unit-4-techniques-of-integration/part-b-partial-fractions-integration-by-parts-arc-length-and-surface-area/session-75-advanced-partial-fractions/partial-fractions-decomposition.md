@@ -1,13 +1,68 @@
 ---
-title: Partial Fractions Decomposition
-uid: edcda0140b6aaac8c0a0f20f9083e164
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: UsGBIfjUK7U
+    parent_uid: edcda0140b6aaac8c0a0f20f9083e164
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e707cd206f9438c0a92da38cdfef9175
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/UsGBIfjUK7U/default.jpg'
+    parent_uid: edcda0140b6aaac8c0a0f20f9083e164
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3b6a326fdffdf26c514ce2be452c04b4
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: UsGBIfjUK7U
+    parent_uid: edcda0140b6aaac8c0a0f20f9083e164
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 298aa15bfbcd045285a3690e30c942f5
+  - id: UsGBIfjUK7U.srt
+    parent_uid: edcda0140b6aaac8c0a0f20f9083e164
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/partial-fractions-decomposition/UsGBIfjUK7U.srt
+    title: 3play caption file
+    type: null
+    uid: 243f089d6679119f98ea553d4a22f004
+  - id: UsGBIfjUK7U.pdf
+    parent_uid: edcda0140b6aaac8c0a0f20f9083e164
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/partial-fractions-decomposition/UsGBIfjUK7U.pdf
+    title: 3play pdf file
+    type: null
+    uid: ffe413d466bb5f13a846cdd139fb9706
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: edcda0140b6aaac8c0a0f20f9083e164
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 08f826c3cf33438cf9b0ef7550136996
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: edcda0140b6aaac8c0a0f20f9083e164
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d4fcbc0a35136bace5e58017019c5b57
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_55_300k.mp4'
+    parent_uid: edcda0140b6aaac8c0a0f20f9083e164
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a2b1ecb9974d954777300aa13a448a1d
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/partial-fractions-decomposition/id414308064?i=90319624
+    parent_uid: edcda0140b6aaac8c0a0f20f9083e164
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0b2c7ea1378a53b65ba39617c0da2786
+inline_embed_id: 15556538partialfractionsdecomposition95517185
 parent_uid: b2d9964453e89357525c798ec9a77daf
+related_resources_text: ''
+short_url: partial-fractions-decomposition
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/partial-fractions-decomposition
-short_url: partial-fractions-decomposition
-inline_embed_id: 15556538partialfractionsdecomposition95517185
-about_this_resource_text: ''
-related_resources_text: ''
+title: Partial Fractions Decomposition
 transcript: >-
   <p><span m='7000'>Hi.</span> <span m='7380'>Welcome</span> <span
   m='7730'>back</span> <span m='7950'>to recitation.</span> <span
@@ -1295,62 +1350,7 @@ transcript: >-
   m='1139520'>enjoyed</span> <span m='1139910'>them,</span> <span
   m='1140270'>and</span> <span m='1140780'>I'm</span> <span m='1140930'>going
   to</span> <span m='1141140'>end</span> <span m='1141310'>there.</span> </p>
-embedded_media:
-  - uid: e707cd206f9438c0a92da38cdfef9175
-    parent_uid: edcda0140b6aaac8c0a0f20f9083e164
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: UsGBIfjUK7U
-  - uid: 3b6a326fdffdf26c514ce2be452c04b4
-    parent_uid: edcda0140b6aaac8c0a0f20f9083e164
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/UsGBIfjUK7U/default.jpg'
-  - uid: 298aa15bfbcd045285a3690e30c942f5
-    parent_uid: edcda0140b6aaac8c0a0f20f9083e164
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: UsGBIfjUK7U
-  - uid: 243f089d6679119f98ea553d4a22f004
-    parent_uid: edcda0140b6aaac8c0a0f20f9083e164
-    id: UsGBIfjUK7U.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/partial-fractions-decomposition/UsGBIfjUK7U.srt
-  - uid: ffe413d466bb5f13a846cdd139fb9706
-    parent_uid: edcda0140b6aaac8c0a0f20f9083e164
-    id: UsGBIfjUK7U.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-75-advanced-partial-fractions/partial-fractions-decomposition/UsGBIfjUK7U.pdf
-  - uid: 08f826c3cf33438cf9b0ef7550136996
-    parent_uid: edcda0140b6aaac8c0a0f20f9083e164
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d4fcbc0a35136bace5e58017019c5b57
-    parent_uid: edcda0140b6aaac8c0a0f20f9083e164
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a2b1ecb9974d954777300aa13a448a1d
-    parent_uid: edcda0140b6aaac8c0a0f20f9083e164
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_55_300k.mp4'
-  - uid: 0b2c7ea1378a53b65ba39617c0da2786
-    parent_uid: edcda0140b6aaac8c0a0f20f9083e164
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/partial-fractions-decomposition/id414308064?i=90319624
+uid: edcda0140b6aaac8c0a0f20f9083e164
 type: courses
 layout: video
 ---

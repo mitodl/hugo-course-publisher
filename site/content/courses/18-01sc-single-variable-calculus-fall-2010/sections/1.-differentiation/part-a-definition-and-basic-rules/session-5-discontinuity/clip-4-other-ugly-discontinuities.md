@@ -1,18 +1,72 @@
 ---
-title: 'Clip 4: Other (Ugly) Discontinuities'
-uid: f51b02508aa34b871333b1af39c5201a
-parent_uid: d0bc8735c3a450ca5aad8ed8059d679d
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-4-other-ugly-discontinuities
-short_url: clip-4-other-ugly-discontinuities
-inline_embed_id: '24692578clip4:other(ugly)discontinuities33641116'
 about_this_resource_text: >-
   <p>&raquo;<a href="./resolveuid/f4318f7bf6253b00d93051b1efe6e2a0"
   target="_blank"> Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 2 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ryLdyDrBfvI
+    parent_uid: f51b02508aa34b871333b1af39c5201a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c08cebb32454a84b0b2f481c02b79d5a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
+    parent_uid: f51b02508aa34b871333b1af39c5201a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fa16f935888e7d03236882faa80d29db
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
+    parent_uid: f51b02508aa34b871333b1af39c5201a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5f1372b7cf7aa4c24ca206d7d84d97fb
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ryLdyDrBfvI
+    parent_uid: f51b02508aa34b871333b1af39c5201a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 60a0aa46e7eef049f372776ce81c805a
+  - id: ryLdyDrBfvI.srt
+    parent_uid: f51b02508aa34b871333b1af39c5201a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-4-other-ugly-discontinuities/ryLdyDrBfvI.srt
+    title: 3play caption file
+    type: null
+    uid: 8feff0d7c91e706a2d3e260e1f215157
+  - id: ryLdyDrBfvI.pdf
+    parent_uid: f51b02508aa34b871333b1af39c5201a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-4-other-ugly-discontinuities/ryLdyDrBfvI.pdf
+    title: 3play pdf file
+    type: null
+    uid: e51431de132d30d5b6c926bfb089e26d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f51b02508aa34b871333b1af39c5201a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b48fd61d59729b62782cb37a98296f40
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f51b02508aa34b871333b1af39c5201a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a3fc9c57108af938eb4253cfc979e348
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: f51b02508aa34b871333b1af39c5201a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8691409f379bfd07be5dbdcb60d176d6
+inline_embed_id: '24692578clip4:other(ugly)discontinuities33641116'
+parent_uid: d0bc8735c3a450ca5aad8ed8059d679d
 related_resources_text: ''
+short_url: clip-4-other-ugly-discontinuities
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-4-other-ugly-discontinuities
+title: 'Clip 4: Other (Ugly) Discontinuities'
 transcript: >-
   <p><span m="110">The</span> <span m="360">following</span> <span
   m="1410">content</span> <span m="1670">is provided</span> <span
@@ -2566,61 +2620,7 @@ transcript: >-
   m="3162770">me</span> <span m="3163230">other</span> <span
   m="3163430">stuff</span> <span m="3163770">after</span> <span
   m="3164070">lecture.</span></p>
-embedded_media:
-  - uid: c08cebb32454a84b0b2f481c02b79d5a
-    parent_uid: f51b02508aa34b871333b1af39c5201a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ryLdyDrBfvI
-  - uid: fa16f935888e7d03236882faa80d29db
-    parent_uid: f51b02508aa34b871333b1af39c5201a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
-  - uid: 5f1372b7cf7aa4c24ca206d7d84d97fb
-    parent_uid: f51b02508aa34b871333b1af39c5201a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
-  - uid: 60a0aa46e7eef049f372776ce81c805a
-    parent_uid: f51b02508aa34b871333b1af39c5201a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ryLdyDrBfvI
-  - uid: 8feff0d7c91e706a2d3e260e1f215157
-    parent_uid: f51b02508aa34b871333b1af39c5201a
-    id: ryLdyDrBfvI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-4-other-ugly-discontinuities/ryLdyDrBfvI.srt
-  - uid: e51431de132d30d5b6c926bfb089e26d
-    parent_uid: f51b02508aa34b871333b1af39c5201a
-    id: ryLdyDrBfvI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-5-discontinuity/clip-4-other-ugly-discontinuities/ryLdyDrBfvI.pdf
-  - uid: b48fd61d59729b62782cb37a98296f40
-    parent_uid: f51b02508aa34b871333b1af39c5201a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a3fc9c57108af938eb4253cfc979e348
-    parent_uid: f51b02508aa34b871333b1af39c5201a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8691409f379bfd07be5dbdcb60d176d6
-    parent_uid: f51b02508aa34b871333b1af39c5201a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: f51b02508aa34b871333b1af39c5201a
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: Structural Induction
-uid: 1be410ca94a8cace534c8568669c9949
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 1be410ca94a8cace534c8568669c9949
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 3712803f16536cd6aab21d627e62d1df
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 1be410ca94a8cace534c8568669c9949
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a4b8339e886b5d2b93cfe7a61ac311ab
+  - id: Video-YouTube-Stream
+    media_location: VWIDwHCGJDQ
+    parent_uid: 1be410ca94a8cace534c8568669c9949
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b49bbfe6b563f655a94a229274cf55de
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/VWIDwHCGJDQ/default.jpg'
+    parent_uid: 1be410ca94a8cace534c8568669c9949
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 52dc3e9f9baff88cb96a7ff913b849d4
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: VWIDwHCGJDQ
+    parent_uid: 1be410ca94a8cace534c8568669c9949
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4cb2647cc3b556c56e189163b9d5e056
+  - id: VWIDwHCGJDQ.srt
+    parent_uid: 1be410ca94a8cace534c8568669c9949
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition/structural-induction-video/structural-induction/VWIDwHCGJDQ.srt
+    title: 3play caption file
+    type: null
+    uid: 974d42532bf05b708ae3d0e4fba24561
+  - id: VWIDwHCGJDQ.pdf
+    parent_uid: 1be410ca94a8cace534c8568669c9949
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition/structural-induction-video/structural-induction/VWIDwHCGJDQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1633321e7ac60bd853bde772275e0a3d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1be410ca94a8cace534c8568669c9949
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4b06cdf91491207473cb93a96169f06d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1be410ca94a8cace534c8568669c9949
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d2e29f821add5e9aa735f4220aaec42f
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_structuralinduction_ipod.mp4
+    parent_uid: 1be410ca94a8cace534c8568669c9949
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d9a73334a254781e3759ba164ac5971c
+inline_embed_id: 48128590structuralinduction62106046
 parent_uid: 4d13ab6c1f82b7293b6c5d3cde131d62
+related_resources_text: ''
+short_url: structural-induction
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition/structural-induction-video/structural-induction
-short_url: structural-induction
-inline_embed_id: 48128590structuralinduction62106046
-about_this_resource_text: ''
-related_resources_text: ''
+title: Structural Induction
 transcript: >-
   <p><span m='966'>PROFESSOR:</span> <span m='1450'>So</span> <span
   m='1690'>whenever</span> <span m='2050'>you</span> <span
@@ -424,67 +484,7 @@ transcript: >-
   m='371030'>makes</span> <span m='371760'>a</span> <span
   m='371880'>lovely</span> <span m='372450'>class</span> <span
   m='372880'>problem.</span> </p>
-embedded_media:
-  - uid: 3712803f16536cd6aab21d627e62d1df
-    parent_uid: 1be410ca94a8cace534c8568669c9949
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: a4b8339e886b5d2b93cfe7a61ac311ab
-    parent_uid: 1be410ca94a8cace534c8568669c9949
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: b49bbfe6b563f655a94a229274cf55de
-    parent_uid: 1be410ca94a8cace534c8568669c9949
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: VWIDwHCGJDQ
-  - uid: 52dc3e9f9baff88cb96a7ff913b849d4
-    parent_uid: 1be410ca94a8cace534c8568669c9949
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/VWIDwHCGJDQ/default.jpg'
-  - uid: 4cb2647cc3b556c56e189163b9d5e056
-    parent_uid: 1be410ca94a8cace534c8568669c9949
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: VWIDwHCGJDQ
-  - uid: 974d42532bf05b708ae3d0e4fba24561
-    parent_uid: 1be410ca94a8cace534c8568669c9949
-    id: VWIDwHCGJDQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition/structural-induction-video/structural-induction/VWIDwHCGJDQ.srt
-  - uid: 1633321e7ac60bd853bde772275e0a3d
-    parent_uid: 1be410ca94a8cace534c8568669c9949
-    id: VWIDwHCGJDQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition/structural-induction-video/structural-induction/VWIDwHCGJDQ.pdf
-  - uid: 4b06cdf91491207473cb93a96169f06d
-    parent_uid: 1be410ca94a8cace534c8568669c9949
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d2e29f821add5e9aa735f4220aaec42f
-    parent_uid: 1be410ca94a8cace534c8568669c9949
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d9a73334a254781e3759ba164ac5971c
-    parent_uid: 1be410ca94a8cace534c8568669c9949
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_structuralinduction_ipod.mp4
+uid: 1be410ca94a8cace534c8568669c9949
 type: courses
 layout: video
 ---

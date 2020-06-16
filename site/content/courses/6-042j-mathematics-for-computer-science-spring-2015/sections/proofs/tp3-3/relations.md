@@ -1,13 +1,72 @@
 ---
-title: Relations
-uid: f296501bce441c102465ba88667e8e93
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: f296501bce441c102465ba88667e8e93
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 9fdfd5b7bb0948aaef6717ffeef1dfeb
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: f296501bce441c102465ba88667e8e93
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: baa64db7a2f4b9ca4209cfb33164cc2e
+  - id: Video-YouTube-Stream
+    media_location: FkfsmwAtDdY
+    parent_uid: f296501bce441c102465ba88667e8e93
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 71bdada1c5d1b9d8db2e77562f3aaa99
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/FkfsmwAtDdY/default.jpg'
+    parent_uid: f296501bce441c102465ba88667e8e93
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 788184109a98895c3dd357e59bcd3f8b
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: FkfsmwAtDdY
+    parent_uid: f296501bce441c102465ba88667e8e93
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e708d25281642d7b0545b4e0490ef39c
+  - id: FkfsmwAtDdY.srt
+    parent_uid: f296501bce441c102465ba88667e8e93
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3/relations/FkfsmwAtDdY.srt
+    title: 3play caption file
+    type: null
+    uid: e2cd4b81b46de561489dc71fbd9d4db0
+  - id: FkfsmwAtDdY.pdf
+    parent_uid: f296501bce441c102465ba88667e8e93
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3/relations/FkfsmwAtDdY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6d55b4cdb20cb01a60a16e843ec04951
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f296501bce441c102465ba88667e8e93
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 29273953d66e003a20fc43d0291d4466
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f296501bce441c102465ba88667e8e93
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2321da071fa9d4b002437d9a0b71cafd
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_relations_ipod.mp4'
+    parent_uid: f296501bce441c102465ba88667e8e93
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ac4c512b5e0bc2f1d56085b1b04dbfca
+inline_embed_id: 86794180relations21334321
 parent_uid: dc4329a206935f01be73cf0b227cc3ed
+related_resources_text: ''
+short_url: relations
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3/relations
-short_url: relations
-inline_embed_id: 86794180relations21334321
-about_this_resource_text: ''
-related_resources_text: ''
+title: Relations
 transcript: >-
   <p><span m='1240'>PROFESSOR: We've</span> <span m='1350'>seen</span> <span
   m='1530'>a</span> <span m='1580'>lot</span> <span m='1750'>of</span> <span
@@ -1710,66 +1769,7 @@ transcript: >-
   m='1506690'>And</span> <span m='1507090'>that</span> <span
   m='1507400'>wraps</span> <span m='1507780'>up</span> <span
   m='1509130'>functions.</span> </p>
-embedded_media:
-  - uid: 9fdfd5b7bb0948aaef6717ffeef1dfeb
-    parent_uid: f296501bce441c102465ba88667e8e93
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: baa64db7a2f4b9ca4209cfb33164cc2e
-    parent_uid: f296501bce441c102465ba88667e8e93
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 71bdada1c5d1b9d8db2e77562f3aaa99
-    parent_uid: f296501bce441c102465ba88667e8e93
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: FkfsmwAtDdY
-  - uid: 788184109a98895c3dd357e59bcd3f8b
-    parent_uid: f296501bce441c102465ba88667e8e93
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FkfsmwAtDdY/default.jpg'
-  - uid: e708d25281642d7b0545b4e0490ef39c
-    parent_uid: f296501bce441c102465ba88667e8e93
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: FkfsmwAtDdY
-  - uid: e2cd4b81b46de561489dc71fbd9d4db0
-    parent_uid: f296501bce441c102465ba88667e8e93
-    id: FkfsmwAtDdY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3/relations/FkfsmwAtDdY.srt
-  - uid: 6d55b4cdb20cb01a60a16e843ec04951
-    parent_uid: f296501bce441c102465ba88667e8e93
-    id: FkfsmwAtDdY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-3/relations/FkfsmwAtDdY.pdf
-  - uid: 29273953d66e003a20fc43d0291d4466
-    parent_uid: f296501bce441c102465ba88667e8e93
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2321da071fa9d4b002437d9a0b71cafd
-    parent_uid: f296501bce441c102465ba88667e8e93
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ac4c512b5e0bc2f1d56085b1b04dbfca
-    parent_uid: f296501bce441c102465ba88667e8e93
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_relations_ipod.mp4'
+uid: f296501bce441c102465ba88667e8e93
 type: courses
 layout: video
 ---

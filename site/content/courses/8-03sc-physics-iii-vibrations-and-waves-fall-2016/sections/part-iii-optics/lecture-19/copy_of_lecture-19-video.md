@@ -1,13 +1,61 @@
 ---
-title: Brewster's Angle
-uid: 40d784228f7747f7a190b56f06dc19fb
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: sBKHUPDUI1o
+    parent_uid: 40d784228f7747f7a190b56f06dc19fb
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 45a1d42fb1595e3477b2645cb236ee49
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/sBKHUPDUI1o/default.jpg'
+    parent_uid: 40d784228f7747f7a190b56f06dc19fb
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2b09dc9d65c5d7916f85e8ea705d628c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: sBKHUPDUI1o
+    parent_uid: 40d784228f7747f7a190b56f06dc19fb
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fd5e401e92197a6bf499e605ea227870
+  - id: sBKHUPDUI1o.srt
+    parent_uid: 40d784228f7747f7a190b56f06dc19fb
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-19/copy_of_lecture-19-video/sBKHUPDUI1o.srt
+    title: 3play caption file
+    type: null
+    uid: 585cf35d1c3913743529c7ae1de52ab2
+  - id: sBKHUPDUI1o.pdf
+    parent_uid: 40d784228f7747f7a190b56f06dc19fb
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-19/copy_of_lecture-19-video/sBKHUPDUI1o.pdf
+    title: 3play pdf file
+    type: null
+    uid: ae63b9383fe9635bc239b15f2adec4ff
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 40d784228f7747f7a190b56f06dc19fb
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 55530f05d888c62228644e301924cd7c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 40d784228f7747f7a190b56f06dc19fb
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: de7d839e7757d7c927363238853a5e31
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec19_300k.mp4'
+    parent_uid: 40d784228f7747f7a190b56f06dc19fb
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 704c83ef94a64648c6f07ec02d1c328d
+inline_embed_id: 82806999lecture19videop177595804
 parent_uid: e069a26ef953d236dc90bcdcb2466c4e
+related_resources_text: ''
+short_url: copy_of_lecture-19-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-19/copy_of_lecture-19-video
-short_url: copy_of_lecture-19-video
-inline_embed_id: 82806999lecture19videop177595804
-about_this_resource_text: ''
-related_resources_text: ''
+title: Brewster's Angle
 transcript: >-
   <p><span m="2550">The</span> <span m="2640">following</span> <span
   m="3090">content</span> <span m="3600">is</span> <span
@@ -4407,55 +4455,7 @@ transcript: >-
   m="4951590">only</span> <span m="4951850">see</span> <span
   m="4952160">in</span> <span m="4952610">electromagnetic</span> <span
   m="4953500">waves.</span></p>
-embedded_media:
-  - uid: 45a1d42fb1595e3477b2645cb236ee49
-    parent_uid: 40d784228f7747f7a190b56f06dc19fb
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: sBKHUPDUI1o
-  - uid: 2b09dc9d65c5d7916f85e8ea705d628c
-    parent_uid: 40d784228f7747f7a190b56f06dc19fb
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/sBKHUPDUI1o/default.jpg'
-  - uid: fd5e401e92197a6bf499e605ea227870
-    parent_uid: 40d784228f7747f7a190b56f06dc19fb
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: sBKHUPDUI1o
-  - uid: 585cf35d1c3913743529c7ae1de52ab2
-    parent_uid: 40d784228f7747f7a190b56f06dc19fb
-    id: sBKHUPDUI1o.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-19/copy_of_lecture-19-video/sBKHUPDUI1o.srt
-  - uid: ae63b9383fe9635bc239b15f2adec4ff
-    parent_uid: 40d784228f7747f7a190b56f06dc19fb
-    id: sBKHUPDUI1o.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-19/copy_of_lecture-19-video/sBKHUPDUI1o.pdf
-  - uid: 55530f05d888c62228644e301924cd7c
-    parent_uid: 40d784228f7747f7a190b56f06dc19fb
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: de7d839e7757d7c927363238853a5e31
-    parent_uid: 40d784228f7747f7a190b56f06dc19fb
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 704c83ef94a64648c6f07ec02d1c328d
-    parent_uid: 40d784228f7747f7a190b56f06dc19fb
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec19_300k.mp4'
+uid: 40d784228f7747f7a190b56f06dc19fb
 type: courses
 layout: video
 ---

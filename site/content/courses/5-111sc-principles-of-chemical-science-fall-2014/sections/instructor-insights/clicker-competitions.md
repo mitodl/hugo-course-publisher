@@ -1,13 +1,67 @@
 ---
-title: Clicker Competitions
-uid: 66f633784b3edc50643955bf0aee9bd0
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: VXeTfT8JL0Q
+    parent_uid: 66f633784b3edc50643955bf0aee9bd0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1461f1c684dbd3f0355388878fab92d9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/VXeTfT8JL0Q/default.jpg'
+    parent_uid: 66f633784b3edc50643955bf0aee9bd0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bb9e52268278f61e0805e88617843062
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: VXeTfT8JL0Q
+    parent_uid: 66f633784b3edc50643955bf0aee9bd0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 09a89f9aec8d4407d6705ee961bd5694
+  - id: VXeTfT8JL0Q.srt
+    parent_uid: 66f633784b3edc50643955bf0aee9bd0
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/clicker-competitions/VXeTfT8JL0Q.srt
+    title: 3play caption file
+    type: null
+    uid: 8fa22d8c195c43f146d4cc5d6b6860b2
+  - id: VXeTfT8JL0Q.pdf
+    parent_uid: 66f633784b3edc50643955bf0aee9bd0
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/clicker-competitions/VXeTfT8JL0Q.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8e2af77fd7eb8f06a3a837d62ab7ef93
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 66f633784b3edc50643955bf0aee9bd0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e8d0bc5a1545a71a68c8aa1ce5639a34
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 66f633784b3edc50643955bf0aee9bd0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 69e39011371b6e52aad90170546da36e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: 66f633784b3edc50643955bf0aee9bd0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ad3330bfbfe42d3056c2d765523676b4
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_Clickers_300k.mp4'
+    parent_uid: 66f633784b3edc50643955bf0aee9bd0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1631b81543d52a2b00ad683ba0948f7f
+inline_embed_id: 66389551clickercompetitions15795791
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
+related_resources_text: ''
+short_url: clicker-competitions
 technical_location: >-
   https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/clicker-competitions
-short_url: clicker-competitions
-inline_embed_id: 66389551clickercompetitions15795791
-about_this_resource_text: ''
-related_resources_text: ''
+title: Clicker Competitions
 transcript: >-
   <p><span m='10210'>CATHERINE DRENNAN: We</span> <span m='10360'>started</span>
   <span m='10720'>using</span> <span m='11260'>these</span> <span
@@ -302,61 +356,7 @@ transcript: >-
   m='232630'>built</span> <span m='232900'>this</span> <span
   m='233020'>sense</span> <span m='233320'>of</span> <span
   m='233440'>team.</span> </p>
-embedded_media:
-  - uid: 1461f1c684dbd3f0355388878fab92d9
-    parent_uid: 66f633784b3edc50643955bf0aee9bd0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: VXeTfT8JL0Q
-  - uid: bb9e52268278f61e0805e88617843062
-    parent_uid: 66f633784b3edc50643955bf0aee9bd0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/VXeTfT8JL0Q/default.jpg'
-  - uid: 09a89f9aec8d4407d6705ee961bd5694
-    parent_uid: 66f633784b3edc50643955bf0aee9bd0
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: VXeTfT8JL0Q
-  - uid: 8fa22d8c195c43f146d4cc5d6b6860b2
-    parent_uid: 66f633784b3edc50643955bf0aee9bd0
-    id: VXeTfT8JL0Q.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/clicker-competitions/VXeTfT8JL0Q.srt
-  - uid: 8e2af77fd7eb8f06a3a837d62ab7ef93
-    parent_uid: 66f633784b3edc50643955bf0aee9bd0
-    id: VXeTfT8JL0Q.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/clicker-competitions/VXeTfT8JL0Q.pdf
-  - uid: e8d0bc5a1545a71a68c8aa1ce5639a34
-    parent_uid: 66f633784b3edc50643955bf0aee9bd0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 69e39011371b6e52aad90170546da36e
-    parent_uid: 66f633784b3edc50643955bf0aee9bd0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ad3330bfbfe42d3056c2d765523676b4
-    parent_uid: 66f633784b3edc50643955bf0aee9bd0
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: 1631b81543d52a2b00ad683ba0948f7f
-    parent_uid: 66f633784b3edc50643955bf0aee9bd0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_Clickers_300k.mp4'
+uid: 66f633784b3edc50643955bf0aee9bd0
 type: courses
 layout: video
 ---

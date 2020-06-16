@@ -1,13 +1,68 @@
 ---
-title: Hyperbolic Trig Functions
-uid: 9bc374107d33316c87af5ab5380719de
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: er_tQOBgo-I
+    parent_uid: 9bc374107d33316c87af5ab5380719de
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6dd01a2602f999b50adac40dd17eb0c6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/er_tQOBgo-I/default.jpg'
+    parent_uid: 9bc374107d33316c87af5ab5380719de
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e81527f5b38f9996771a95ce333aa5f9
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/hyperbolic-trig-functions/id414308064?i=90319000
+    parent_uid: 9bc374107d33316c87af5ab5380719de
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f7668451531e7e225cc7e46ba1889758
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_15_300k.mp4'
+    parent_uid: 9bc374107d33316c87af5ab5380719de
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4cb8eef6961fc0540b78867f4af20116
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: er_tQOBgo-I
+    parent_uid: 9bc374107d33316c87af5ab5380719de
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7c09a8a7cbc57d57b1fd3321b1858af4
+  - id: er_tQOBgo-I.srt
+    parent_uid: 9bc374107d33316c87af5ab5380719de
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-20-hyperbolic-trig-functions/hyperbolic-trig-functions/er_tQOBgo-I.srt
+    title: 3play caption file
+    type: null
+    uid: fe1527143fd0fcb135793042106d17ff
+  - id: er_tQOBgo-I.pdf
+    parent_uid: 9bc374107d33316c87af5ab5380719de
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-20-hyperbolic-trig-functions/hyperbolic-trig-functions/er_tQOBgo-I.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4be9290bceb68241a2077ef1834d0449
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9bc374107d33316c87af5ab5380719de
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 21003868c9fb7778c0ff9b993518664b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9bc374107d33316c87af5ab5380719de
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 617d2941b012686f96fb8bbb6ddf10cf
+inline_embed_id: 43311545hyperbolictrigfunctions54594605
 parent_uid: da268fb0fd08ed16c1b1988ed700633a
+related_resources_text: ''
+short_url: hyperbolic-trig-functions
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-20-hyperbolic-trig-functions/hyperbolic-trig-functions
-short_url: hyperbolic-trig-functions
-inline_embed_id: 43311545hyperbolictrigfunctions54594605
-about_this_resource_text: ''
-related_resources_text: ''
+title: Hyperbolic Trig Functions
 transcript: >-
   <p><span m='0'>JOEL LEWIS:</span> <span m='6970'>Hi.</span> <span
   m='7350'>Welcome</span> <span m='7700'>back</span> <span m='7900'>to</span>
@@ -893,62 +948,7 @@ transcript: >-
   m='802140'>I'll</span> <span m='802260'>leave</span> <span
   m='802430'>you</span> <span m='802560'>with</span> <span
   m='802710'>that.</span> </p>
-embedded_media:
-  - uid: 6dd01a2602f999b50adac40dd17eb0c6
-    parent_uid: 9bc374107d33316c87af5ab5380719de
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: er_tQOBgo-I
-  - uid: e81527f5b38f9996771a95ce333aa5f9
-    parent_uid: 9bc374107d33316c87af5ab5380719de
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/er_tQOBgo-I/default.jpg'
-  - uid: f7668451531e7e225cc7e46ba1889758
-    parent_uid: 9bc374107d33316c87af5ab5380719de
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/hyperbolic-trig-functions/id414308064?i=90319000
-  - uid: 4cb8eef6961fc0540b78867f4af20116
-    parent_uid: 9bc374107d33316c87af5ab5380719de
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_15_300k.mp4'
-  - uid: 7c09a8a7cbc57d57b1fd3321b1858af4
-    parent_uid: 9bc374107d33316c87af5ab5380719de
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: er_tQOBgo-I
-  - uid: fe1527143fd0fcb135793042106d17ff
-    parent_uid: 9bc374107d33316c87af5ab5380719de
-    id: er_tQOBgo-I.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-20-hyperbolic-trig-functions/hyperbolic-trig-functions/er_tQOBgo-I.srt
-  - uid: 4be9290bceb68241a2077ef1834d0449
-    parent_uid: 9bc374107d33316c87af5ab5380719de
-    id: er_tQOBgo-I.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-20-hyperbolic-trig-functions/hyperbolic-trig-functions/er_tQOBgo-I.pdf
-  - uid: 21003868c9fb7778c0ff9b993518664b
-    parent_uid: 9bc374107d33316c87af5ab5380719de
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 617d2941b012686f96fb8bbb6ddf10cf
-    parent_uid: 9bc374107d33316c87af5ab5380719de
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 9bc374107d33316c87af5ab5380719de
 type: courses
 layout: video
 ---

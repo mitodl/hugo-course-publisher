@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 12: Graphs, networks, incidence matrices'
-uid: 12a27cb2360fd3c7f6891dd079e441f5
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-12-graphs-networks-incidence-matrices
-short_url: lecture-12-graphs-networks-incidence-matrices
-inline_embed_id: '11811110lecture12:graphs,networks,incidencematrices76727513'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L12.jpg
+    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-12-graphs-networks-incidence-matrices/18.06_L12.jpg
+    title: 18.06_L12.jpg
+    type: null
+    uid: e6e49ea6a18091873744aca4d536b321
+  - id: Video-YouTube-Stream
+    media_location: 6-wh6yvk6uc
+    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c39770b9b0c40b96cdc09314de767da7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/6-wh6yvk6uc/default.jpg'
+    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4122538569492112d7b8fbf6ee5167a4
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/12.mp4'
+    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 01bc2589b13b247fa718e22753c5604f
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d2be240b08f0d4b8ee6a2f133adc8f32
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: a57e2cb583c656e4e09f068ff07aa8be
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 4a541a83ada740bd3db7e86bd2d351f3
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 6-wh6yvk6uc
+    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7ad754aeba1983b6662a44daa848259a
+  - id: 6-wh6yvk6uc.srt
+    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-12-graphs-networks-incidence-matrices/6-wh6yvk6uc.srt
+    title: 3play caption file
+    type: null
+    uid: fc489a62041d61eb96753c33beda5213
+  - id: 6-wh6yvk6uc.pdf
+    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-12-graphs-networks-incidence-matrices/6-wh6yvk6uc.pdf
+    title: 3play pdf file
+    type: null
+    uid: a587f8613d33cc5ccd1428584defaf61
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d8bfbed78c70b74116c09a8c4c0ea30f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 20b351eaaee296bee28927d6b29c3d5e
+inline_embed_id: '11811110lecture12:graphs,networks,incidencematrices76727513'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-12-graphs-networks-incidence-matrices
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-12-graphs-networks-incidence-matrices
+title: 'Lecture 12: Graphs, networks, incidence matrices'
 transcript: >-
   <p><span m="12150">This</span> <span m="12430">is</span> <span
   m="12860">lecture</span> <span m="13310">twelve.</span> <span
@@ -2644,79 +2716,7 @@ transcript: >-
   m="2860690">get</span> <span m="2860930">to</span> <span
   m="2861050">tell</span> <span m="2861190">me.</span></p><p><span
   m="2861230">Thanks.</span></p>
-embedded_media:
-  - uid: e6e49ea6a18091873744aca4d536b321
-    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
-    id: 18.06_L12.jpg
-    title: 18.06_L12.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-12-graphs-networks-incidence-matrices/18.06_L12.jpg
-  - uid: c39770b9b0c40b96cdc09314de767da7
-    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 6-wh6yvk6uc
-  - uid: 4122538569492112d7b8fbf6ee5167a4
-    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/6-wh6yvk6uc/default.jpg'
-  - uid: 01bc2589b13b247fa718e22753c5604f
-    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/12.mp4'
-  - uid: d2be240b08f0d4b8ee6a2f133adc8f32
-    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: a57e2cb583c656e4e09f068ff07aa8be
-    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 4a541a83ada740bd3db7e86bd2d351f3
-    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 7ad754aeba1983b6662a44daa848259a
-    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 6-wh6yvk6uc
-  - uid: fc489a62041d61eb96753c33beda5213
-    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
-    id: 6-wh6yvk6uc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-12-graphs-networks-incidence-matrices/6-wh6yvk6uc.srt
-  - uid: a587f8613d33cc5ccd1428584defaf61
-    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
-    id: 6-wh6yvk6uc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-12-graphs-networks-incidence-matrices/6-wh6yvk6uc.pdf
-  - uid: d8bfbed78c70b74116c09a8c4c0ea30f
-    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 20b351eaaee296bee28927d6b29c3d5e
-    parent_uid: 12a27cb2360fd3c7f6891dd079e441f5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 12a27cb2360fd3c7f6891dd079e441f5
 type: courses
 layout: video
 ---

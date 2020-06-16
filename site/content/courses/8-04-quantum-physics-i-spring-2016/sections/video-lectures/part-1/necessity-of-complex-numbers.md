@@ -1,13 +1,67 @@
 ---
-title: Necessity of complex numbers
-uid: a7f805f92c447e25a54913af2d9c2611
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: f079K1f2WQk
+    parent_uid: a7f805f92c447e25a54913af2d9c2611
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6dbb6edd995e6124d3ac6293d7858da6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/f079K1f2WQk/default.jpg'
+    parent_uid: a7f805f92c447e25a54913af2d9c2611
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d707b8acc3901d631909fe89d3ec7c76
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: f079K1f2WQk
+    parent_uid: a7f805f92c447e25a54913af2d9c2611
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 95441cdb504af6687fe40d1ae98c4511
+  - id: f079K1f2WQk.srt
+    parent_uid: a7f805f92c447e25a54913af2d9c2611
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/necessity-of-complex-numbers/f079K1f2WQk.srt
+    title: 3play caption file
+    type: null
+    uid: 1d11bc98f7ae4b6a341f34ccc40675ae
+  - id: f079K1f2WQk.pdf
+    parent_uid: a7f805f92c447e25a54913af2d9c2611
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/necessity-of-complex-numbers/f079K1f2WQk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1b220f03b3dd779b9e2eb9bc2a6c1e31
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a7f805f92c447e25a54913af2d9c2611
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 06253181f19ac5e6ae5949c3bc0311e0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a7f805f92c447e25a54913af2d9c2611
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: eebe94baaf5283af03596a8a414269f7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: a7f805f92c447e25a54913af2d9c2611
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 53bf87a433ac4e4271c8e77326b62d9a
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec01_s3_300k.mp4'
+    parent_uid: a7f805f92c447e25a54913af2d9c2611
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1f1f762ff3d18aae9897de093093b8f1
+inline_embed_id: 47364449necessityofcomplexnumbers71384554
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: necessity-of-complex-numbers
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/necessity-of-complex-numbers
-short_url: necessity-of-complex-numbers
-inline_embed_id: 47364449necessityofcomplexnumbers71384554
-about_this_resource_text: ''
-related_resources_text: ''
+title: Necessity of complex numbers
 transcript: >-
   <p><span m='4610'>PROFESSOR:</span> <span m='5080'>So</span> <span
   m='7550'>in</span> <span m='7760'>quantum</span> <span
@@ -393,61 +447,7 @@ transcript: >-
   m='456700'>that</span> <span m='456850'>turned</span> <span
   m='457150'>out</span> <span m='457300'>to</span> <span m='457420'>be</span>
   <span m='457570'>very</span> <span m='457870'>important.</span> </p>
-embedded_media:
-  - uid: 6dbb6edd995e6124d3ac6293d7858da6
-    parent_uid: a7f805f92c447e25a54913af2d9c2611
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: f079K1f2WQk
-  - uid: d707b8acc3901d631909fe89d3ec7c76
-    parent_uid: a7f805f92c447e25a54913af2d9c2611
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/f079K1f2WQk/default.jpg'
-  - uid: 95441cdb504af6687fe40d1ae98c4511
-    parent_uid: a7f805f92c447e25a54913af2d9c2611
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: f079K1f2WQk
-  - uid: 1d11bc98f7ae4b6a341f34ccc40675ae
-    parent_uid: a7f805f92c447e25a54913af2d9c2611
-    id: f079K1f2WQk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/necessity-of-complex-numbers/f079K1f2WQk.srt
-  - uid: 1b220f03b3dd779b9e2eb9bc2a6c1e31
-    parent_uid: a7f805f92c447e25a54913af2d9c2611
-    id: f079K1f2WQk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/necessity-of-complex-numbers/f079K1f2WQk.pdf
-  - uid: 06253181f19ac5e6ae5949c3bc0311e0
-    parent_uid: a7f805f92c447e25a54913af2d9c2611
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: eebe94baaf5283af03596a8a414269f7
-    parent_uid: a7f805f92c447e25a54913af2d9c2611
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 53bf87a433ac4e4271c8e77326b62d9a
-    parent_uid: a7f805f92c447e25a54913af2d9c2611
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 1f1f762ff3d18aae9897de093093b8f1
-    parent_uid: a7f805f92c447e25a54913af2d9c2611
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec01_s3_300k.mp4'
+uid: a7f805f92c447e25a54913af2d9c2611
 type: courses
 layout: video
 ---

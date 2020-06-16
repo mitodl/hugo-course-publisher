@@ -1,13 +1,67 @@
 ---
-title: The Geometry of Linear Equations
-uid: a3271a87834dec6534365d672a2f0e10
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: J7DzL2_Na80
+    parent_uid: a3271a87834dec6534365d672a2f0e10
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c7c3ed916ed38cb1557c41ffe2cc9402
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: a3271a87834dec6534365d672a2f0e10
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 076cbd4061b7972aaf63f938033a4ea2
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/01.mp4'
+    parent_uid: a3271a87834dec6534365d672a2f0e10
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: aed9dd9a0ebd46bc72af53fdd08799b6
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: J7DzL2_Na80
+    parent_uid: a3271a87834dec6534365d672a2f0e10
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e2d44f6c8087740b06513f456ef31e65
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/J7DzL2_Na80/default.jpg'
+    parent_uid: a3271a87834dec6534365d672a2f0e10
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f937f88e264a375bd54a5395451a8441
+  - id: J7DzL2_Na80.srt
+    parent_uid: a3271a87834dec6534365d672a2f0e10
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/the-geometry-of-linear-equations/J7DzL2_Na80.srt
+    title: 3play caption file
+    type: null
+    uid: 23aacbc5e51895cbfe0a2bf6dfbf2a87
+  - id: J7DzL2_Na80.pdf
+    parent_uid: a3271a87834dec6534365d672a2f0e10
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/the-geometry-of-linear-equations/J7DzL2_Na80.pdf
+    title: 3play pdf file
+    type: null
+    uid: 924857f47516849941e6217c76d3b357
+  - id: Caption-3Play YouTube id-SRT_1
+    parent_uid: a3271a87834dec6534365d672a2f0e10
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 640401667acd980b3d6b5ecd66ccc1de
+  - id: Transcript-3Play YouTube id-PDF_1
+    parent_uid: a3271a87834dec6534365d672a2f0e10
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0ca93a48b6038ccd1821e46ad3c579f1
+inline_embed_id: 50110741thegeometryoflinearequations79723389
 parent_uid: ee8864032dd829b483a2ae7dfeb2da55
+related_resources_text: ''
+short_url: the-geometry-of-linear-equations
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/the-geometry-of-linear-equations
-short_url: the-geometry-of-linear-equations
-inline_embed_id: 50110741thegeometryoflinearequations79723389
-about_this_resource_text: ''
-related_resources_text: ''
+title: The Geometry of Linear Equations
 transcript: >-
   <p><span m='8930'>Hi.</span> <span m='9210'>This</span> <span
   m='9520'>is</span> <span m='9700'>the</span> <span m='10290'>first</span>
@@ -2327,61 +2381,7 @@ transcript: >-
   m='2366880'>system</span> <span m='2367270'>of</span> <span
   m='2367390'>any</span> <span m='2367630'>size</span> <span
   m='2368560'>and</span> </p>
-embedded_media:
-  - uid: c7c3ed916ed38cb1557c41ffe2cc9402
-    parent_uid: a3271a87834dec6534365d672a2f0e10
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: J7DzL2_Na80
-  - uid: 076cbd4061b7972aaf63f938033a4ea2
-    parent_uid: a3271a87834dec6534365d672a2f0e10
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: aed9dd9a0ebd46bc72af53fdd08799b6
-    parent_uid: a3271a87834dec6534365d672a2f0e10
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/01.mp4'
-  - uid: e2d44f6c8087740b06513f456ef31e65
-    parent_uid: a3271a87834dec6534365d672a2f0e10
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: J7DzL2_Na80
-  - uid: f937f88e264a375bd54a5395451a8441
-    parent_uid: a3271a87834dec6534365d672a2f0e10
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/J7DzL2_Na80/default.jpg'
-  - uid: 23aacbc5e51895cbfe0a2bf6dfbf2a87
-    parent_uid: a3271a87834dec6534365d672a2f0e10
-    id: J7DzL2_Na80.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/the-geometry-of-linear-equations/J7DzL2_Na80.srt
-  - uid: 924857f47516849941e6217c76d3b357
-    parent_uid: a3271a87834dec6534365d672a2f0e10
-    id: J7DzL2_Na80.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/the-geometry-of-linear-equations/J7DzL2_Na80.pdf
-  - uid: 640401667acd980b3d6b5ecd66ccc1de
-    parent_uid: a3271a87834dec6534365d672a2f0e10
-    id: Caption-3Play YouTube id-SRT_1
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0ca93a48b6038ccd1821e46ad3c579f1
-    parent_uid: a3271a87834dec6534365d672a2f0e10
-    id: Transcript-3Play YouTube id-PDF_1
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a3271a87834dec6534365d672a2f0e10
 type: courses
 layout: video
 ---

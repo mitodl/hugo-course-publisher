@@ -1,13 +1,62 @@
 ---
-title: 'Video 4: CART in R'
-uid: 13d0a88f2d9e1869793a8c4b8af412c5
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: JvtqThS69bw
+    parent_uid: 13d0a88f2d9e1869793a8c4b8af412c5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2beaa350d7cdbdd23f624f069e5d40b0
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: JvtqThS69bw
+    parent_uid: 13d0a88f2d9e1869793a8c4b8af412c5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b4ee33e09f07b39b963e602fff2e7984
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/JvtqThS69bw/default.jpg'
+    parent_uid: 13d0a88f2d9e1869793a8c4b8af412c5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2ed4bca2f85c525652dc936f6a615509
+  - id: JvtqThS69bw.srt
+    parent_uid: 13d0a88f2d9e1869793a8c4b8af412c5
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-4-cart-in-r/video-4-cart-in-r-0/JvtqThS69bw.srt
+    title: 3play caption file
+    type: null
+    uid: 35e6e6ba49e9ea7c8c74f7f83ba4d25a
+  - id: JvtqThS69bw.pdf
+    parent_uid: 13d0a88f2d9e1869793a8c4b8af412c5
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-4-cart-in-r/video-4-cart-in-r-0/JvtqThS69bw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 58b6a1b208500e577d8b75940f671f72
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 13d0a88f2d9e1869793a8c4b8af412c5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a2bc412b50f08d3a03d11f7df64e9d3e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 13d0a88f2d9e1869793a8c4b8af412c5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 79e10149429eeb846fb6d9e4ddfadea0
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.2.07_300k.mp4
+    parent_uid: 13d0a88f2d9e1869793a8c4b8af412c5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 816a8de9b9a4c6636d8f8241e461f318
+inline_embed_id: 67198611video4cartinr57799948
 parent_uid: a0af0b83fff43d634dfe02e15106f92d
+related_resources_text: ''
+short_url: video-4-cart-in-r-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-4-cart-in-r/video-4-cart-in-r-0
-short_url: video-4-cart-in-r-0
-inline_embed_id: 67198611video4cartinr57799948
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 4: CART in R'
 transcript: >-
   <p><span m='4490'>In</span> <span m='4810'>this</span> <span
   m='5130'>video,</span> <span m='5450'>we'll</span> <span m='5770'>see</span>
@@ -717,56 +766,7 @@ transcript: >-
   m='726003'>test</span> <span m='726416'>set</span> <span m='726829'>AUC</span>
   <span m='727241'>of</span> <span m='727654'>this</span> <span
   m='728067'>model.</span> </p>
-embedded_media:
-  - uid: 2beaa350d7cdbdd23f624f069e5d40b0
-    parent_uid: 13d0a88f2d9e1869793a8c4b8af412c5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: JvtqThS69bw
-  - uid: b4ee33e09f07b39b963e602fff2e7984
-    parent_uid: 13d0a88f2d9e1869793a8c4b8af412c5
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: JvtqThS69bw
-  - uid: 2ed4bca2f85c525652dc936f6a615509
-    parent_uid: 13d0a88f2d9e1869793a8c4b8af412c5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/JvtqThS69bw/default.jpg'
-  - uid: 35e6e6ba49e9ea7c8c74f7f83ba4d25a
-    parent_uid: 13d0a88f2d9e1869793a8c4b8af412c5
-    id: JvtqThS69bw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-4-cart-in-r/video-4-cart-in-r-0/JvtqThS69bw.srt
-  - uid: 58b6a1b208500e577d8b75940f671f72
-    parent_uid: 13d0a88f2d9e1869793a8c4b8af412c5
-    id: JvtqThS69bw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-4-cart-in-r/video-4-cart-in-r-0/JvtqThS69bw.pdf
-  - uid: a2bc412b50f08d3a03d11f7df64e9d3e
-    parent_uid: 13d0a88f2d9e1869793a8c4b8af412c5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 79e10149429eeb846fb6d9e4ddfadea0
-    parent_uid: 13d0a88f2d9e1869793a8c4b8af412c5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 816a8de9b9a4c6636d8f8241e461f318
-    parent_uid: 13d0a88f2d9e1869793a8c4b8af412c5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.2.07_300k.mp4
+uid: 13d0a88f2d9e1869793a8c4b8af412c5
 type: courses
 layout: video
 ---

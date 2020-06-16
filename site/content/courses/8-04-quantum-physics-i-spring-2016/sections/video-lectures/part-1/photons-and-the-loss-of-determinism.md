@@ -1,13 +1,67 @@
 ---
-title: Photons and the loss of determinism
-uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 8OsUQ1yXCcI
+    parent_uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a6635ef67c15d7af834e857e59ebd7c7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/8OsUQ1yXCcI/default.jpg'
+    parent_uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 91a7c99c14194b3e714454fd4086615a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 8OsUQ1yXCcI
+    parent_uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ce55460ed9676a96799c5e277c7754d7
+  - id: 8OsUQ1yXCcI.srt
+    parent_uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/photons-and-the-loss-of-determinism/8OsUQ1yXCcI.srt
+    title: 3play caption file
+    type: null
+    uid: a955ce4809336c26505ab057893975b1
+  - id: 8OsUQ1yXCcI.pdf
+    parent_uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/photons-and-the-loss-of-determinism/8OsUQ1yXCcI.pdf
+    title: 3play pdf file
+    type: null
+    uid: b4d8e826615c5d78117daa53bb134de1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ce98162fcfe9992fcedcf51363a71e9f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 76f918affaadfbd01c839e54ddd5e297
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 49977dabd9fa7e276d2cdf13ed42b415
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec01_s4_300k.mp4'
+    parent_uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4e84b103c98228ca6f8d0288b6b0b364
+inline_embed_id: 66418715photonsandthelossofdeterminism41786350
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: photons-and-the-loss-of-determinism
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/photons-and-the-loss-of-determinism
-short_url: photons-and-the-loss-of-determinism
-inline_embed_id: 66418715photonsandthelossofdeterminism41786350
-about_this_resource_text: ''
-related_resources_text: ''
+title: Photons and the loss of determinism
 transcript: >-
   <p><span m='346'>PROFESSOR:</span> <span m='692'>Determinism.</span> <span
   m='9170'>And</span> <span m='9320'>it</span> <span m='9530'>all</span> <span
@@ -893,61 +947,7 @@ transcript: >-
   m='1038030'>what</span> <span m='1038720'>goes</span> <span
   m='1039140'>out</span> <span m='1039560'>of</span> <span
   m='1039680'>the</span> <span m='1039800'>polarizer.</span> </p>
-embedded_media:
-  - uid: a6635ef67c15d7af834e857e59ebd7c7
-    parent_uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 8OsUQ1yXCcI
-  - uid: 91a7c99c14194b3e714454fd4086615a
-    parent_uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8OsUQ1yXCcI/default.jpg'
-  - uid: ce55460ed9676a96799c5e277c7754d7
-    parent_uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 8OsUQ1yXCcI
-  - uid: a955ce4809336c26505ab057893975b1
-    parent_uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
-    id: 8OsUQ1yXCcI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/photons-and-the-loss-of-determinism/8OsUQ1yXCcI.srt
-  - uid: b4d8e826615c5d78117daa53bb134de1
-    parent_uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
-    id: 8OsUQ1yXCcI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/photons-and-the-loss-of-determinism/8OsUQ1yXCcI.pdf
-  - uid: ce98162fcfe9992fcedcf51363a71e9f
-    parent_uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 76f918affaadfbd01c839e54ddd5e297
-    parent_uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 49977dabd9fa7e276d2cdf13ed42b415
-    parent_uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 4e84b103c98228ca6f8d0288b6b0b364
-    parent_uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec01_s4_300k.mp4'
+uid: d1ee466fb5915d5c9c6c8aa8c2b63d44
 type: courses
 layout: video
 ---

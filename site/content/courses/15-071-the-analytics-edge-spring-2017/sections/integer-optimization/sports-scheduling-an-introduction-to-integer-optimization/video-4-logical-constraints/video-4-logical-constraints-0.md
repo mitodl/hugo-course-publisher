@@ -1,13 +1,62 @@
 ---
-title: 'Video 4: Logical Constraints'
-uid: e6ede9a2e335e6eaa0cf1502526a360d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 05DWB1NzozM
+    parent_uid: e6ede9a2e335e6eaa0cf1502526a360d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 071e7c97a10cb4c2cc52a6f095794dd5
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 05DWB1NzozM
+    parent_uid: e6ede9a2e335e6eaa0cf1502526a360d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3447d09aa2ccbf277eace3845149c4d5
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/05DWB1NzozM/default.jpg'
+    parent_uid: e6ede9a2e335e6eaa0cf1502526a360d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c2e8694f0ba2ddf23207b9653317439f
+  - id: 05DWB1NzozM.srt
+    parent_uid: e6ede9a2e335e6eaa0cf1502526a360d
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-4-logical-constraints/video-4-logical-constraints-0/05DWB1NzozM.srt
+    title: 3play caption file
+    type: null
+    uid: 128991499660a083744c958165437bcb
+  - id: 05DWB1NzozM.pdf
+    parent_uid: e6ede9a2e335e6eaa0cf1502526a360d
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-4-logical-constraints/video-4-logical-constraints-0/05DWB1NzozM.pdf
+    title: 3play pdf file
+    type: null
+    uid: c08e71416ec123e31ae546ae2d8873b9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e6ede9a2e335e6eaa0cf1502526a360d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 645b2e540244a738b5a7fb963215b9ec
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e6ede9a2e335e6eaa0cf1502526a360d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1e785a7ea76e0749417a67349633f0d1
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_9.2.07_300k.mp4
+    parent_uid: e6ede9a2e335e6eaa0cf1502526a360d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bd18ddd0e23166e9cf6a8d58243a498e
+inline_embed_id: 18526442video4logicalconstraints75061579
 parent_uid: 209100b38ec9d10b5925656d460ca2ad
+related_resources_text: ''
+short_url: video-4-logical-constraints-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-4-logical-constraints/video-4-logical-constraints-0
-short_url: video-4-logical-constraints-0
-inline_embed_id: 18526442video4logicalconstraints75061579
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 4: Logical Constraints'
 transcript: >-
   <p><span m='4490'>One</span> <span m='4768'>of</span> <span
   m='5046'>the</span> <span m='5325'>most</span> <span m='5603'>powerful</span>
@@ -343,56 +392,7 @@ transcript: >-
   m='326830'>problems</span> <span m='327400'>are</span> <span
   m='327970'>solved</span> <span m='328540'>in</span> <span
   m='329110'>practice.</span> </p>
-embedded_media:
-  - uid: 071e7c97a10cb4c2cc52a6f095794dd5
-    parent_uid: e6ede9a2e335e6eaa0cf1502526a360d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 05DWB1NzozM
-  - uid: 3447d09aa2ccbf277eace3845149c4d5
-    parent_uid: e6ede9a2e335e6eaa0cf1502526a360d
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 05DWB1NzozM
-  - uid: c2e8694f0ba2ddf23207b9653317439f
-    parent_uid: e6ede9a2e335e6eaa0cf1502526a360d
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/05DWB1NzozM/default.jpg'
-  - uid: 128991499660a083744c958165437bcb
-    parent_uid: e6ede9a2e335e6eaa0cf1502526a360d
-    id: 05DWB1NzozM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-4-logical-constraints/video-4-logical-constraints-0/05DWB1NzozM.srt
-  - uid: c08e71416ec123e31ae546ae2d8873b9
-    parent_uid: e6ede9a2e335e6eaa0cf1502526a360d
-    id: 05DWB1NzozM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/sports-scheduling-an-introduction-to-integer-optimization/video-4-logical-constraints/video-4-logical-constraints-0/05DWB1NzozM.pdf
-  - uid: 645b2e540244a738b5a7fb963215b9ec
-    parent_uid: e6ede9a2e335e6eaa0cf1502526a360d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1e785a7ea76e0749417a67349633f0d1
-    parent_uid: e6ede9a2e335e6eaa0cf1502526a360d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: bd18ddd0e23166e9cf6a8d58243a498e
-    parent_uid: e6ede9a2e335e6eaa0cf1502526a360d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_9.2.07_300k.mp4
+uid: e6ede9a2e335e6eaa0cf1502526a360d
 type: courses
 layout: video
 ---

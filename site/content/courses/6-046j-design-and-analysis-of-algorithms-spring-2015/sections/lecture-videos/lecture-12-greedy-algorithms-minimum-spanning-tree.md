@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 12: Greedy Algorithms: Minimum Spanning Tree'
-uid: b09226a5ff9c1d4df19cd0dd1145fda4
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-12-greedy-algorithms-minimum-spanning-tree
-short_url: lecture-12-greedy-algorithms-minimum-spanning-tree
-inline_embed_id: '91042027lecture12:greedyalgorithms:minimumspanningtree68668475'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Demaine introduces
   greedy algorithms, which make locally-best choices without regards to the
   future.</p><p><strong>Instructors:</strong> Erik Demaine</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: tKwnms5iRBU
+    parent_uid: b09226a5ff9c1d4df19cd0dd1145fda4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5c92f512f3c5832fc9d7dfe657ea4b2f
+  - id: tKwnms5iRBU.srt
+    parent_uid: b09226a5ff9c1d4df19cd0dd1145fda4
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-12-greedy-algorithms-minimum-spanning-tree/tKwnms5iRBU.srt
+    title: 3play caption file
+    type: null
+    uid: 88a14d208f5ceb2554d7e75161a5081c
+  - id: tKwnms5iRBU.pdf
+    parent_uid: b09226a5ff9c1d4df19cd0dd1145fda4
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-12-greedy-algorithms-minimum-spanning-tree/tKwnms5iRBU.pdf
+    title: 3play pdf file
+    type: null
+    uid: e93a2f17d5995c3544b4d9522b7b41a7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b09226a5ff9c1d4df19cd0dd1145fda4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bc40761eeb3fef64923d5fe34208fa3b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b09226a5ff9c1d4df19cd0dd1145fda4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6cc220b5e02d5b72ac120e61b38ced4e
+  - id: Video-YouTube-Stream
+    media_location: tKwnms5iRBU
+    parent_uid: b09226a5ff9c1d4df19cd0dd1145fda4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8c86d9f5177caab17a3aeee77061b10f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/tKwnms5iRBU/default.jpg'
+    parent_uid: b09226a5ff9c1d4df19cd0dd1145fda4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c0c839987b7b14043844f5e5826fd3ce
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: b09226a5ff9c1d4df19cd0dd1145fda4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 56a3337ef32728c55ee49299074e6dfa
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec12_300k.mp4'
+    parent_uid: b09226a5ff9c1d4df19cd0dd1145fda4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8dabdcbce2495471218012a08ae9acca
+inline_embed_id: '91042027lecture12:greedyalgorithms:minimumspanningtree68668475'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-12-greedy-algorithms-minimum-spanning-tree
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-12-greedy-algorithms-minimum-spanning-tree
+title: 'Lecture 12: Greedy Algorithms: Minimum Spanning Tree'
 transcript: >-
   <p><span m="70">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4763,61 +4817,7 @@ transcript: >-
   m="4926040">minimum</span> <span m="4926380">spanning</span> <span
   m="4926710">tree</span> <span m="4927280">and</span> <span
   m="4927580">nearly</span> <span m="4927880">linear time.</span></p>
-embedded_media:
-  - uid: 5c92f512f3c5832fc9d7dfe657ea4b2f
-    parent_uid: b09226a5ff9c1d4df19cd0dd1145fda4
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: tKwnms5iRBU
-  - uid: 88a14d208f5ceb2554d7e75161a5081c
-    parent_uid: b09226a5ff9c1d4df19cd0dd1145fda4
-    id: tKwnms5iRBU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-12-greedy-algorithms-minimum-spanning-tree/tKwnms5iRBU.srt
-  - uid: e93a2f17d5995c3544b4d9522b7b41a7
-    parent_uid: b09226a5ff9c1d4df19cd0dd1145fda4
-    id: tKwnms5iRBU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-12-greedy-algorithms-minimum-spanning-tree/tKwnms5iRBU.pdf
-  - uid: bc40761eeb3fef64923d5fe34208fa3b
-    parent_uid: b09226a5ff9c1d4df19cd0dd1145fda4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6cc220b5e02d5b72ac120e61b38ced4e
-    parent_uid: b09226a5ff9c1d4df19cd0dd1145fda4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8c86d9f5177caab17a3aeee77061b10f
-    parent_uid: b09226a5ff9c1d4df19cd0dd1145fda4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: tKwnms5iRBU
-  - uid: c0c839987b7b14043844f5e5826fd3ce
-    parent_uid: b09226a5ff9c1d4df19cd0dd1145fda4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/tKwnms5iRBU/default.jpg'
-  - uid: 56a3337ef32728c55ee49299074e6dfa
-    parent_uid: b09226a5ff9c1d4df19cd0dd1145fda4
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 8dabdcbce2495471218012a08ae9acca
-    parent_uid: b09226a5ff9c1d4df19cd0dd1145fda4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec12_300k.mp4'
+uid: b09226a5ff9c1d4df19cd0dd1145fda4
 type: courses
 layout: video
 ---

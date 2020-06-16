@@ -1,13 +1,68 @@
 ---
-title: Second Fundamental Theorem and Quadratic Approximation
-uid: 85ee87cdb697f2a6c7d000ab005329c5
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: _7vVBtiVXIw
+    parent_uid: 85ee87cdb697f2a6c7d000ab005329c5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5fc5fece71d696324b459733fcc4a682
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/_7vVBtiVXIw/default.jpg'
+    parent_uid: 85ee87cdb697f2a6c7d000ab005329c5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1aa7423921237a37c137b713dbe89baa
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: _7vVBtiVXIw
+    parent_uid: 85ee87cdb697f2a6c7d000ab005329c5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a749a4a0864a0c6af0b9cfe107f07e63
+  - id: 7vVBtiVXIw.srt
+    parent_uid: 85ee87cdb697f2a6c7d000ab005329c5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus/second-fundamental-theorem-and-quadratic-approximation/7vVBtiVXIw.srt
+    title: 3play caption file
+    type: null
+    uid: 8b06538096f392b5657e9056c1129293
+  - id: 7vVBtiVXIw.pdf
+    parent_uid: 85ee87cdb697f2a6c7d000ab005329c5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus/second-fundamental-theorem-and-quadratic-approximation/7vVBtiVXIw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5cc8658d7dec01542663e9a08f3be8b3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 85ee87cdb697f2a6c7d000ab005329c5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0e8adc6b43bd91e10d674f21cdc94755
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 85ee87cdb697f2a6c7d000ab005329c5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c2db8d13ffe40b291144e86b64cce27c
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_41_300k.mp4'
+    parent_uid: 85ee87cdb697f2a6c7d000ab005329c5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: fd014503dff264625158e01cb5c6be86
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/second-fundamental-theorem/id414308064?i=90319642
+    parent_uid: 85ee87cdb697f2a6c7d000ab005329c5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ef4693dbb0c22715c7244ab3614fc4e5
+inline_embed_id: 1112522secondfundamentaltheoremandquadraticapproximation792469
 parent_uid: 9b4c6b77599861b820e8c804596b8c24
+related_resources_text: ''
+short_url: second-fundamental-theorem-and-quadratic-approximation
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus/second-fundamental-theorem-and-quadratic-approximation
-short_url: second-fundamental-theorem-and-quadratic-approximation
-inline_embed_id: 1112522secondfundamentaltheoremandquadraticapproximation792469
-about_this_resource_text: ''
-related_resources_text: ''
+title: Second Fundamental Theorem and Quadratic Approximation
 transcript: >-
   <p><span m='6880'>PROFESSOR: Welcome</span> <span m='7260'>back</span> <span
   m='7440'>to</span> <span m='7510'>recitation.</span> <span m='8790'>In</span>
@@ -557,62 +612,7 @@ transcript: >-
   <span m='473750'>think</span> <span m='473990'>that's</span> <span
   m='474170'>where</span> <span m='474310'>we'll</span> <span
   m='474420'>stop.</span> </p>
-embedded_media:
-  - uid: 5fc5fece71d696324b459733fcc4a682
-    parent_uid: 85ee87cdb697f2a6c7d000ab005329c5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: _7vVBtiVXIw
-  - uid: 1aa7423921237a37c137b713dbe89baa
-    parent_uid: 85ee87cdb697f2a6c7d000ab005329c5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/_7vVBtiVXIw/default.jpg'
-  - uid: a749a4a0864a0c6af0b9cfe107f07e63
-    parent_uid: 85ee87cdb697f2a6c7d000ab005329c5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: _7vVBtiVXIw
-  - uid: 8b06538096f392b5657e9056c1129293
-    parent_uid: 85ee87cdb697f2a6c7d000ab005329c5
-    id: 7vVBtiVXIw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus/second-fundamental-theorem-and-quadratic-approximation/7vVBtiVXIw.srt
-  - uid: 5cc8658d7dec01542663e9a08f3be8b3
-    parent_uid: 85ee87cdb697f2a6c7d000ab005329c5
-    id: 7vVBtiVXIw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus/second-fundamental-theorem-and-quadratic-approximation/7vVBtiVXIw.pdf
-  - uid: 0e8adc6b43bd91e10d674f21cdc94755
-    parent_uid: 85ee87cdb697f2a6c7d000ab005329c5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c2db8d13ffe40b291144e86b64cce27c
-    parent_uid: 85ee87cdb697f2a6c7d000ab005329c5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: fd014503dff264625158e01cb5c6be86
-    parent_uid: 85ee87cdb697f2a6c7d000ab005329c5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_41_300k.mp4'
-  - uid: ef4693dbb0c22715c7244ab3614fc4e5
-    parent_uid: 85ee87cdb697f2a6c7d000ab005329c5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/second-fundamental-theorem/id414308064?i=90319642
+uid: 85ee87cdb697f2a6c7d000ab005329c5
 type: courses
 layout: video
 ---

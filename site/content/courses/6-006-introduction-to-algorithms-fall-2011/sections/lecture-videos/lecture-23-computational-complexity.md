@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 23: Computational Complexity'
-uid: 7e626cc30fda599800cb5aac3b148422
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-23-computational-complexity
-short_url: lecture-23-computational-complexity
-inline_embed_id: '79453430lecture23:computationalcomplexity16005934'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture introduces computational
   complexity, including how most decision problems are uncomputable, hardness
   and completeness, and reductions.</p> <p><strong>Instructor:</strong> Erik
   Demaine</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: moPtwq_cVH8
+    parent_uid: 7e626cc30fda599800cb5aac3b148422
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6484f4efcc5125e3b7caf86e7ed22ce5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/moPtwq_cVH8/default.jpg'
+    parent_uid: 7e626cc30fda599800cb5aac3b148422
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9f882b72989eb6f96995528f783024ce
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-23-computational-complexity/id585700718?i=126127953
+    parent_uid: 7e626cc30fda599800cb5aac3b148422
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a5447904259fefff65c75fa4c8e27cf1
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec23_300k.mp4'
+    parent_uid: 7e626cc30fda599800cb5aac3b148422
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 96f9c14aec66d8fc2da550f95655f595
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: moPtwq_cVH8
+    parent_uid: 7e626cc30fda599800cb5aac3b148422
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 154f978b9031feb3323859d3d6987a4e
+  - id: moPtwq_cVH8.srt
+    parent_uid: 7e626cc30fda599800cb5aac3b148422
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-23-computational-complexity/moPtwq_cVH8.srt
+    title: 3play caption file
+    type: null
+    uid: d786316306191b1750ac57d030ace0d8
+  - id: moPtwq_cVH8.pdf
+    parent_uid: 7e626cc30fda599800cb5aac3b148422
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-23-computational-complexity/moPtwq_cVH8.pdf
+    title: 3play pdf file
+    type: null
+    uid: a2ee5c645c0c690e76f5d0db4807edcd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7e626cc30fda599800cb5aac3b148422
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: da194d6630d3f560dfb67d150f3e0079
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7e626cc30fda599800cb5aac3b148422
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0ad72928c863fc9c372b6c460ba4e7df
+inline_embed_id: '79453430lecture23:computationalcomplexity16005934'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-23-computational-complexity
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-23-computational-complexity
+title: 'Lecture 23: Computational Complexity'
 transcript: >-
   <p><span m='80'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -3240,62 +3295,7 @@ transcript: >-
   m='3068160'>Computational</span> <span m='3068780'>complexity</span> <span
   m='3069680'>in</span> <span m='3069810'>50</span> <span
   m='3070110'>minutes.</span> </p>
-embedded_media:
-  - uid: 6484f4efcc5125e3b7caf86e7ed22ce5
-    parent_uid: 7e626cc30fda599800cb5aac3b148422
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: moPtwq_cVH8
-  - uid: 9f882b72989eb6f96995528f783024ce
-    parent_uid: 7e626cc30fda599800cb5aac3b148422
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/moPtwq_cVH8/default.jpg'
-  - uid: a5447904259fefff65c75fa4c8e27cf1
-    parent_uid: 7e626cc30fda599800cb5aac3b148422
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-23-computational-complexity/id585700718?i=126127953
-  - uid: 96f9c14aec66d8fc2da550f95655f595
-    parent_uid: 7e626cc30fda599800cb5aac3b148422
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec23_300k.mp4'
-  - uid: 154f978b9031feb3323859d3d6987a4e
-    parent_uid: 7e626cc30fda599800cb5aac3b148422
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: moPtwq_cVH8
-  - uid: d786316306191b1750ac57d030ace0d8
-    parent_uid: 7e626cc30fda599800cb5aac3b148422
-    id: moPtwq_cVH8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-23-computational-complexity/moPtwq_cVH8.srt
-  - uid: a2ee5c645c0c690e76f5d0db4807edcd
-    parent_uid: 7e626cc30fda599800cb5aac3b148422
-    id: moPtwq_cVH8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-23-computational-complexity/moPtwq_cVH8.pdf
-  - uid: da194d6630d3f560dfb67d150f3e0079
-    parent_uid: 7e626cc30fda599800cb5aac3b148422
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0ad72928c863fc9c372b6c460ba4e7df
-    parent_uid: 7e626cc30fda599800cb5aac3b148422
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 7e626cc30fda599800cb5aac3b148422
 type: courses
 layout: video
 ---

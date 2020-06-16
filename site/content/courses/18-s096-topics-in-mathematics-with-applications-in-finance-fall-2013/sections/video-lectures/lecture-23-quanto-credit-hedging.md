@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 23: Quanto Credit Hedging'
-uid: 151007c31f410471ce92f15a1b21a19e
+about_this_resource_text: "<p><strong>Description:</strong> This is a guest lecture on quanto credit hedging, including using mathematical models in trading.</p>\r\n<p><strong>Instructor:</strong> Stefan Andreev</p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 55OXxe_ix2o
+    parent_uid: 151007c31f410471ce92f15a1b21a19e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 75414b88e1c33817dde3f99a9979c24c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/55OXxe_ix2o/default.jpg'
+    parent_uid: 151007c31f410471ce92f15a1b21a19e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 927df1fc5a54f32f36912f1851cc2800
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: 151007c31f410471ce92f15a1b21a19e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 736390db11e2b80f7f48184ba62b7c44
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec23_300k.mp4'
+    parent_uid: 151007c31f410471ce92f15a1b21a19e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0fcc3c08257bc5b140400387f2d931cc
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 55OXxe_ix2o
+    parent_uid: 151007c31f410471ce92f15a1b21a19e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f5e21326d7146916553550594bc69e56
+  - id: 55OXxe_ix2o.srt
+    parent_uid: 151007c31f410471ce92f15a1b21a19e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-23-quanto-credit-hedging/55OXxe_ix2o.srt
+    title: 3play caption file
+    type: null
+    uid: 57472825ef4c92789aba122337a48078
+  - id: 55OXxe_ix2o.pdf
+    parent_uid: 151007c31f410471ce92f15a1b21a19e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-23-quanto-credit-hedging/55OXxe_ix2o.pdf
+    title: 3play pdf file
+    type: null
+    uid: 837c2c22169cc2a4bad07f4904f7d661
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 151007c31f410471ce92f15a1b21a19e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2857d653e88fe2a4ea9ec7f0f5c3688f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 151007c31f410471ce92f15a1b21a19e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4b51fed8749a736cd95e1b6f89ce93b7
+inline_embed_id: '45535850lecture23:quantocredithedging34063108'
 parent_uid: d23a85587c0c7524ea054e655c999532
+related_resources_text: ''
+short_url: lecture-23-quanto-credit-hedging
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-23-quanto-credit-hedging
-short_url: lecture-23-quanto-credit-hedging
-inline_embed_id: '45535850lecture23:quantocredithedging34063108'
-about_this_resource_text: "<p><strong>Description:</strong> This is a guest lecture on quanto credit hedging, including using mathematical models in trading.</p>\r\n<p><strong>Instructor:</strong> Stefan Andreev</p>"
-related_resources_text: ''
+title: 'Lecture 23: Quanto Credit Hedging'
 transcript: >-
   <p><span m='70'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -5690,61 +5744,7 @@ transcript: >-
   m='5853970'>wants.</span> </p><p><span m='5854270'>PROFESSOR: Thank you very
   much.</span> </p><p><span m='5854570'>STEFAN ANDREEV:</span> <span
   m='5854870'>Thank you.</span> </p>
-embedded_media:
-  - uid: 75414b88e1c33817dde3f99a9979c24c
-    parent_uid: 151007c31f410471ce92f15a1b21a19e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 55OXxe_ix2o
-  - uid: 927df1fc5a54f32f36912f1851cc2800
-    parent_uid: 151007c31f410471ce92f15a1b21a19e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/55OXxe_ix2o/default.jpg'
-  - uid: 736390db11e2b80f7f48184ba62b7c44
-    parent_uid: 151007c31f410471ce92f15a1b21a19e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: 0fcc3c08257bc5b140400387f2d931cc
-    parent_uid: 151007c31f410471ce92f15a1b21a19e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec23_300k.mp4'
-  - uid: f5e21326d7146916553550594bc69e56
-    parent_uid: 151007c31f410471ce92f15a1b21a19e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 55OXxe_ix2o
-  - uid: 57472825ef4c92789aba122337a48078
-    parent_uid: 151007c31f410471ce92f15a1b21a19e
-    id: 55OXxe_ix2o.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-23-quanto-credit-hedging/55OXxe_ix2o.srt
-  - uid: 837c2c22169cc2a4bad07f4904f7d661
-    parent_uid: 151007c31f410471ce92f15a1b21a19e
-    id: 55OXxe_ix2o.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-23-quanto-credit-hedging/55OXxe_ix2o.pdf
-  - uid: 2857d653e88fe2a4ea9ec7f0f5c3688f
-    parent_uid: 151007c31f410471ce92f15a1b21a19e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4b51fed8749a736cd95e1b6f89ce93b7
-    parent_uid: 151007c31f410471ce92f15a1b21a19e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 151007c31f410471ce92f15a1b21a19e
 type: courses
 layout: video
 ---

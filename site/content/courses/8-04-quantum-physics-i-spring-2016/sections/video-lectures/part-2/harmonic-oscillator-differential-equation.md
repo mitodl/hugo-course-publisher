@@ -1,13 +1,73 @@
 ---
-title: 'Harmonic oscillator: Differential equation'
-uid: f9d7dec3c2b37079adabf14e3c621148
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: sxzFpOsvfgU
+    parent_uid: f9d7dec3c2b37079adabf14e3c621148
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 828d705c9c20e9407c5e96d3a3f1f56b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QuFk0XsIJe4/default.jpg'
+    parent_uid: f9d7dec3c2b37079adabf14e3c621148
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 430e6cd140902e73e4e39f4e442abedf
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: sxzFpOsvfgU
+    parent_uid: f9d7dec3c2b37079adabf14e3c621148
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 964722a7fbe704c00062d2a6bc28495b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: f9d7dec3c2b37079adabf14e3c621148
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 435f03c25093c2fcf2376adec5eda9d6
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec13_s4_300k.mp4'
+    parent_uid: f9d7dec3c2b37079adabf14e3c621148
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 21247136f3d9bd73b5fd0da553fafa87
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/sxzFpOsvfgU/default.jpg'
+    parent_uid: f9d7dec3c2b37079adabf14e3c621148
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4a03e50483c47ea358a6c2036160ea32
+  - id: sxzFpOsvfgU.srt
+    parent_uid: f9d7dec3c2b37079adabf14e3c621148
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/harmonic-oscillator-differential-equation/sxzFpOsvfgU.srt
+    title: 3play caption file
+    type: null
+    uid: b6cebb16c7e5b2f3ff6d27e26b1d09a9
+  - id: sxzFpOsvfgU.pdf
+    parent_uid: f9d7dec3c2b37079adabf14e3c621148
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/harmonic-oscillator-differential-equation/sxzFpOsvfgU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 51fa2f3d297e2a72e329b582e9f7a2c8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f9d7dec3c2b37079adabf14e3c621148
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d9f0232cf5463fb8bedea8609895c23a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f9d7dec3c2b37079adabf14e3c621148
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 900eb0c5165c7da70f86fb281b88afda
+inline_embed_id: 25291287harmonicoscillatordifferentialequation98062194
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: harmonic-oscillator-differential-equation
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/harmonic-oscillator-differential-equation
-short_url: harmonic-oscillator-differential-equation
-inline_embed_id: 25291287harmonicoscillatordifferentialequation98062194
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Harmonic oscillator: Differential equation'
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='225'>Simple</span> <span
   m='1350'>harmonic</span> <span m='4160'>oscillator.</span> </p><p><span
@@ -801,67 +861,7 @@ transcript: >-
   m='994240'>equal</span> <span m='994700'>to</span> <span m='994880'>u</span>
   <span m='995530'>squared</span> <span m='995990'>minus</span> <span
   m='996710'>E</span> <span m='997880'>phi.</span> </p>
-embedded_media:
-  - uid: 828d705c9c20e9407c5e96d3a3f1f56b
-    parent_uid: f9d7dec3c2b37079adabf14e3c621148
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: sxzFpOsvfgU
-  - uid: 430e6cd140902e73e4e39f4e442abedf
-    parent_uid: f9d7dec3c2b37079adabf14e3c621148
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QuFk0XsIJe4/default.jpg'
-  - uid: 964722a7fbe704c00062d2a6bc28495b
-    parent_uid: f9d7dec3c2b37079adabf14e3c621148
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: sxzFpOsvfgU
-  - uid: 435f03c25093c2fcf2376adec5eda9d6
-    parent_uid: f9d7dec3c2b37079adabf14e3c621148
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 21247136f3d9bd73b5fd0da553fafa87
-    parent_uid: f9d7dec3c2b37079adabf14e3c621148
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec13_s4_300k.mp4'
-  - uid: 4a03e50483c47ea358a6c2036160ea32
-    parent_uid: f9d7dec3c2b37079adabf14e3c621148
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/sxzFpOsvfgU/default.jpg'
-  - uid: b6cebb16c7e5b2f3ff6d27e26b1d09a9
-    parent_uid: f9d7dec3c2b37079adabf14e3c621148
-    id: sxzFpOsvfgU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/harmonic-oscillator-differential-equation/sxzFpOsvfgU.srt
-  - uid: 51fa2f3d297e2a72e329b582e9f7a2c8
-    parent_uid: f9d7dec3c2b37079adabf14e3c621148
-    id: sxzFpOsvfgU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/harmonic-oscillator-differential-equation/sxzFpOsvfgU.pdf
-  - uid: d9f0232cf5463fb8bedea8609895c23a
-    parent_uid: f9d7dec3c2b37079adabf14e3c621148
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 900eb0c5165c7da70f86fb281b88afda
-    parent_uid: f9d7dec3c2b37079adabf14e3c621148
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f9d7dec3c2b37079adabf14e3c621148
 type: courses
 layout: video
 ---

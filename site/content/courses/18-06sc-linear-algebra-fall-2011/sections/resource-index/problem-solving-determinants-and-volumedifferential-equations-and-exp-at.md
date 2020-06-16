@@ -1,14 +1,70 @@
 ---
-title: 'Problem Solving: Determinants and VolumeDifferential Equations and exp(At)'
-uid: 3a480ff00a023f98bcd0268a0ce3014c
-parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants-and-volumedifferential-equations-and-exp-at
-short_url: problem-solving-determinants-and-volumedifferential-equations-and-exp-at
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: FzncDO1eSNI
+    parent_uid: 3a480ff00a023f98bcd0268a0ce3014c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d836bbc84617c834c29fb15203205bf2
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/differential-equations-exp/id488155309?i=108813458
+    parent_uid: 3a480ff00a023f98bcd0268a0ce3014c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 055672cd3e39813ee16f5a4e706b02e8
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110531_L1_300k.mp4
+    parent_uid: 3a480ff00a023f98bcd0268a0ce3014c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 42a10eca99bd5f23e4d7f419c1af3f3e
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: FzncDO1eSNI
+    parent_uid: 3a480ff00a023f98bcd0268a0ce3014c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fe8f78aca7113b13c8298c04b97b54f7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/FzncDO1eSNI/default.jpg'
+    parent_uid: 3a480ff00a023f98bcd0268a0ce3014c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5da34e60771bc24aba953356b6cef5c7
+  - id: FzncDO1eSNI.srt
+    parent_uid: 3a480ff00a023f98bcd0268a0ce3014c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants-and-volumedifferential-equations-and-exp-at/FzncDO1eSNI.srt
+    title: 3play caption file
+    type: null
+    uid: 24c9311dc9763530b8f50787aaef0b0a
+  - id: FzncDO1eSNI.pdf
+    parent_uid: 3a480ff00a023f98bcd0268a0ce3014c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants-and-volumedifferential-equations-and-exp-at/FzncDO1eSNI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1cef3bc84f3bcfea9d991403874c3942
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3a480ff00a023f98bcd0268a0ce3014c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a45687f496bf40ebdebbc9e4ab83d6c8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3a480ff00a023f98bcd0268a0ce3014c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 623be707051b5236560205345724d145
 inline_embed_id: >-
   41876933problemsolvingdeterminantsandvolumedifferentialequationsandexpat5362595
-about_this_resource_text: ''
+parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
 related_resources_text: ''
+short_url: problem-solving-determinants-and-volumedifferential-equations-and-exp-at
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants-and-volumedifferential-equations-and-exp-at
+title: 'Problem Solving: Determinants and VolumeDifferential Equations and exp(At)'
 transcript: >-
   <p><span m='7160'>LINAN CHEN: Hi.</span> <span m='7650'>Welcome</span> <span
   m='8189'>back</span> <span m='8410'>to</span> <span
@@ -926,63 +982,7 @@ transcript: >-
   m='1117540'>watching,</span> <span m='1118320'>and</span> <span
   m='1118510'>see</span> <span m='1118650'>you</span> <span
   m='1118780'>next</span> <span m='1119050'>time.</span> </p>
-embedded_media:
-  - uid: d836bbc84617c834c29fb15203205bf2
-    parent_uid: 3a480ff00a023f98bcd0268a0ce3014c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: FzncDO1eSNI
-  - uid: 055672cd3e39813ee16f5a4e706b02e8
-    parent_uid: 3a480ff00a023f98bcd0268a0ce3014c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/differential-equations-exp/id488155309?i=108813458
-  - uid: 42a10eca99bd5f23e4d7f419c1af3f3e
-    parent_uid: 3a480ff00a023f98bcd0268a0ce3014c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110531_L1_300k.mp4
-  - uid: fe8f78aca7113b13c8298c04b97b54f7
-    parent_uid: 3a480ff00a023f98bcd0268a0ce3014c
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: FzncDO1eSNI
-  - uid: 5da34e60771bc24aba953356b6cef5c7
-    parent_uid: 3a480ff00a023f98bcd0268a0ce3014c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FzncDO1eSNI/default.jpg'
-  - uid: 24c9311dc9763530b8f50787aaef0b0a
-    parent_uid: 3a480ff00a023f98bcd0268a0ce3014c
-    id: FzncDO1eSNI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants-and-volumedifferential-equations-and-exp-at/FzncDO1eSNI.srt
-  - uid: 1cef3bc84f3bcfea9d991403874c3942
-    parent_uid: 3a480ff00a023f98bcd0268a0ce3014c
-    id: FzncDO1eSNI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/problem-solving-determinants-and-volumedifferential-equations-and-exp-at/FzncDO1eSNI.pdf
-  - uid: a45687f496bf40ebdebbc9e4ab83d6c8
-    parent_uid: 3a480ff00a023f98bcd0268a0ce3014c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 623be707051b5236560205345724d145
-    parent_uid: 3a480ff00a023f98bcd0268a0ce3014c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 3a480ff00a023f98bcd0268a0ce3014c
 type: courses
 layout: video
 ---

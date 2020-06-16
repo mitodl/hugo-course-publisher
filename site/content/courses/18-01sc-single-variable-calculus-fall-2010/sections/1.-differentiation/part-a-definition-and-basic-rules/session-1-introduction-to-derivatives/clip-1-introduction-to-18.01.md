@@ -1,13 +1,67 @@
 ---
-title: 'Clip 1: Introduction to 18.01'
-uid: 099ee1d0b79e344d3f9c2ec66861ace3
+about_this_resource_text: "<p>&raquo; <a target=\"_blank\" href=\"./resolveuid/0bc79e2fec50338cb7238d92a3577322\">Accompanying Notes (PDF)</a></p>\r\n<p class=\"scholar_medsm\">From Lecture 1 of <a href=\"http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/\"><em>18.01 Single Variable Calculus, Fall 2006</em></a></p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 7K1sB05pE0A
+    parent_uid: 099ee1d0b79e344d3f9c2ec66861ace3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 05ef1b9884c515d200d6d8fbf37da37b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/7K1sB05pE0A/default.jpg'
+    parent_uid: 099ee1d0b79e344d3f9c2ec66861ace3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3b689f27f568c7e88631df7737df0dd8
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec01_300k.mp4'
+    parent_uid: 099ee1d0b79e344d3f9c2ec66861ace3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 44b065a0eded5cd1843eda676bf00a09
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 7K1sB05pE0A
+    parent_uid: 099ee1d0b79e344d3f9c2ec66861ace3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fb826be896ad7c6b5aa7729bff7e92e4
+  - id: 7K1sB05pE0A.srt
+    parent_uid: 099ee1d0b79e344d3f9c2ec66861ace3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/clip-1-introduction-to-18.01/7K1sB05pE0A.srt
+    title: 3play caption file
+    type: null
+    uid: 3afac94ddc320fc8614ad8bb2f3b3342
+  - id: 7K1sB05pE0A.pdf
+    parent_uid: 099ee1d0b79e344d3f9c2ec66861ace3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/clip-1-introduction-to-18.01/7K1sB05pE0A.pdf
+    title: 3play pdf file
+    type: null
+    uid: c1d610176b56381eef4de4043b544eb8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 099ee1d0b79e344d3f9c2ec66861ace3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 39d8edc72e809ca157da9259d10fbe59
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 099ee1d0b79e344d3f9c2ec66861ace3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 435411259c3380f8265f3c975b508879
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 099ee1d0b79e344d3f9c2ec66861ace3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 83a151fdff96e542f41ea168dbbd60a5
+inline_embed_id: '13291765clip1:introductionto18.0153814475'
 parent_uid: c25a5592cbb582539daea82e3aeeda33
+related_resources_text: ''
+short_url: clip-1-introduction-to-18.01
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/clip-1-introduction-to-18.01
-short_url: clip-1-introduction-to-18.01
-inline_embed_id: '13291765clip1:introductionto18.0153814475'
-about_this_resource_text: "<p>&raquo; <a target=\"_blank\" href=\"./resolveuid/0bc79e2fec50338cb7238d92a3577322\">Accompanying Notes (PDF)</a></p>\r\n<p class=\"scholar_medsm\">From Lecture 1 of <a href=\"http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/\"><em>18.01 Single Variable Calculus, Fall 2006</em></a></p>"
-related_resources_text: ''
+title: 'Clip 1: Introduction to 18.01'
 transcript: >-
   <p><span m="460">The</span> <span m="652">following</span> <span
   m="844">content</span> <span m="1036">is</span> <span m="1228">provided</span>
@@ -2477,61 +2531,7 @@ transcript: >-
   m="3087920">because</span> <span m="3088150">delta</span> <span m="3088240">x
   goes to 0.</span> <span m="3089910">OK,</span> <span m="3090740">see
   you</span> <span m="3090890">next</span> <span m="3091130">time.</span></p>
-embedded_media:
-  - uid: 05ef1b9884c515d200d6d8fbf37da37b
-    parent_uid: 099ee1d0b79e344d3f9c2ec66861ace3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 7K1sB05pE0A
-  - uid: 3b689f27f568c7e88631df7737df0dd8
-    parent_uid: 099ee1d0b79e344d3f9c2ec66861ace3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/7K1sB05pE0A/default.jpg'
-  - uid: 44b065a0eded5cd1843eda676bf00a09
-    parent_uid: 099ee1d0b79e344d3f9c2ec66861ace3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec01_300k.mp4'
-  - uid: fb826be896ad7c6b5aa7729bff7e92e4
-    parent_uid: 099ee1d0b79e344d3f9c2ec66861ace3
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 7K1sB05pE0A
-  - uid: 3afac94ddc320fc8614ad8bb2f3b3342
-    parent_uid: 099ee1d0b79e344d3f9c2ec66861ace3
-    id: 7K1sB05pE0A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/clip-1-introduction-to-18.01/7K1sB05pE0A.srt
-  - uid: c1d610176b56381eef4de4043b544eb8
-    parent_uid: 099ee1d0b79e344d3f9c2ec66861ace3
-    id: 7K1sB05pE0A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/clip-1-introduction-to-18.01/7K1sB05pE0A.pdf
-  - uid: 39d8edc72e809ca157da9259d10fbe59
-    parent_uid: 099ee1d0b79e344d3f9c2ec66861ace3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 435411259c3380f8265f3c975b508879
-    parent_uid: 099ee1d0b79e344d3f9c2ec66861ace3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 83a151fdff96e542f41ea168dbbd60a5
-    parent_uid: 099ee1d0b79e344d3f9c2ec66861ace3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 099ee1d0b79e344d3f9c2ec66861ace3
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: Wavepackets and Fourier representation
-uid: e8a97aa312028d812288eabe185fb1bf
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: dzI5PddY6eE
+    parent_uid: e8a97aa312028d812288eabe185fb1bf
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 02674f27dd06a3810033c85f7f5c47bc
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/okrfbSnD2Zw/default.jpg'
+    parent_uid: e8a97aa312028d812288eabe185fb1bf
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3a59e0c7bcb0e2602fca4a3f4c4a5adf
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: e8a97aa312028d812288eabe185fb1bf
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1a8710e6b3793160b4038b46f792d864
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec07_s1_300k.mp4'
+    parent_uid: e8a97aa312028d812288eabe185fb1bf
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a8b52abba2858ce74505b7e3b1cc1d3d
+  - id: 3Play-3PlayVideoid-MP4
+    media_location: '3368145'
+    parent_uid: e8a97aa312028d812288eabe185fb1bf
+    title: 3Play-3Play Video id
+    type: 3Play
+    uid: b9680fee3b858f9518383ecefd8076e6
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/dzI5PddY6eE/default.jpg'
+    parent_uid: e8a97aa312028d812288eabe185fb1bf
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 27b227cb96db96dbff33c49a1651d919
+  - id: 3368145.srt
+    parent_uid: e8a97aa312028d812288eabe185fb1bf
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/wavepackets-and-fourier-representation/3368145.srt
+    title: 3play caption file
+    type: null
+    uid: a820ba2991b0ddb0f0b79ef25d553489
+  - id: 3368145.pdf
+    parent_uid: e8a97aa312028d812288eabe185fb1bf
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/wavepackets-and-fourier-representation/3368145.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9571ea6d24e42149b2cae780f6cf6c6c
+  - id: Caption-3Play Video id-SRT
+    parent_uid: e8a97aa312028d812288eabe185fb1bf
+    title: Caption-3Play Video id-SRT-English - US
+    type: Caption
+    uid: a943ed5b7b57eec8817f6f40c9f79b93
+  - id: Transcript-3Play Video id-PDF
+    parent_uid: e8a97aa312028d812288eabe185fb1bf
+    title: Transcript-3Play Video id-PDF-English - US
+    type: Transcript
+    uid: 44ccbcbb18ef6afe2010d7277219d4f8
+inline_embed_id: 12437246wavepacketsandfourierrepresentation59062683
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: wavepackets-and-fourier-representation
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/wavepackets-and-fourier-representation
-short_url: wavepackets-and-fourier-representation
-inline_embed_id: 12437246wavepacketsandfourierrepresentation59062683
-about_this_resource_text: ''
-related_resources_text: ''
+title: Wavepackets and Fourier representation
 transcript: >-
   <p><span m='599'>PROFESSOR:</span> <span m='2027'>We'll</span> <span
   m='3455'>begin</span> <span m='4883'>by</span> <span
@@ -524,67 +584,7 @@ transcript: >-
   <span m='670045'>x</span> <span m='670522'>and</span> <span
   m='670999'>understand</span> <span m='671475'>it</span> <span
   m='671952'>intuitively.</span> </p>
-embedded_media:
-  - uid: 02674f27dd06a3810033c85f7f5c47bc
-    parent_uid: e8a97aa312028d812288eabe185fb1bf
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: dzI5PddY6eE
-  - uid: 3a59e0c7bcb0e2602fca4a3f4c4a5adf
-    parent_uid: e8a97aa312028d812288eabe185fb1bf
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/okrfbSnD2Zw/default.jpg'
-  - uid: 1a8710e6b3793160b4038b46f792d864
-    parent_uid: e8a97aa312028d812288eabe185fb1bf
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: a8b52abba2858ce74505b7e3b1cc1d3d
-    parent_uid: e8a97aa312028d812288eabe185fb1bf
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec07_s1_300k.mp4'
-  - uid: b9680fee3b858f9518383ecefd8076e6
-    parent_uid: e8a97aa312028d812288eabe185fb1bf
-    id: 3Play-3PlayVideoid-MP4
-    title: 3Play-3Play Video id
-    type: 3Play
-    media_location: '3368145'
-  - uid: 27b227cb96db96dbff33c49a1651d919
-    parent_uid: e8a97aa312028d812288eabe185fb1bf
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/dzI5PddY6eE/default.jpg'
-  - uid: a820ba2991b0ddb0f0b79ef25d553489
-    parent_uid: e8a97aa312028d812288eabe185fb1bf
-    id: 3368145.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/wavepackets-and-fourier-representation/3368145.srt
-  - uid: 9571ea6d24e42149b2cae780f6cf6c6c
-    parent_uid: e8a97aa312028d812288eabe185fb1bf
-    id: 3368145.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/wavepackets-and-fourier-representation/3368145.pdf
-  - uid: a943ed5b7b57eec8817f6f40c9f79b93
-    parent_uid: e8a97aa312028d812288eabe185fb1bf
-    id: Caption-3Play Video id-SRT
-    title: Caption-3Play Video id-SRT-English - US
-    type: Caption
-  - uid: 44ccbcbb18ef6afe2010d7277219d4f8
-    parent_uid: e8a97aa312028d812288eabe185fb1bf
-    id: Transcript-3Play Video id-PDF
-    title: Transcript-3Play Video id-PDF-English - US
-    type: Transcript
+uid: e8a97aa312028d812288eabe185fb1bf
 type: courses
 layout: video
 ---

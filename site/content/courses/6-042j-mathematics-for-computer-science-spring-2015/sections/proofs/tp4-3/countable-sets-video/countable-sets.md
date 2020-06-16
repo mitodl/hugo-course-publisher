@@ -1,13 +1,72 @@
 ---
-title: Countable Sets
-uid: 6f87e98021c6969a5e6c158cf62a86a4
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: cc698e06fd594378d63e00aa0c02b2e3
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a7a7124e5d1b62caf10c80524b495d8a
+  - id: Video-YouTube-Stream
+    media_location: AipSRi3CyLg
+    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 341b4750d345c74730ed7260b3750dcb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/AipSRi3CyLg/default.jpg'
+    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e7317eaf9935a424dc66eae6c787ab28
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: AipSRi3CyLg
+    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5a7a1283c3712aa0880b324db3fcd1bb
+  - id: AipSRi3CyLg.srt
+    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/countable-sets-video/countable-sets/AipSRi3CyLg.srt
+    title: 3play caption file
+    type: null
+    uid: df7462115b1263a65cd007d2c5613917
+  - id: AipSRi3CyLg.pdf
+    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/countable-sets-video/countable-sets/AipSRi3CyLg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 21d89f128c1b3d9544f0bd2c6236eb0f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4e5a5bd7944e257661964473a96ff826
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e6856c6f67e136402161118ae850bfff
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_countable_ipod.mp4'
+    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 523488453667e0ad1847d0bbbbf95a75
+inline_embed_id: 5175719countablesets27736720
 parent_uid: ce0115c8a168b1d5e094c10c79df8a3a
+related_resources_text: ''
+short_url: countable-sets
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/countable-sets-video/countable-sets
-short_url: countable-sets
-inline_embed_id: 5175719countablesets27736720
-about_this_resource_text: ''
-related_resources_text: ''
+title: Countable Sets
 transcript: >-
   <p><span m='854'>PROFESSOR: OK.</span> <span m='1710'>So</span> <span
   m='2230'>we</span> <span m='2410'>come</span> <span m='2660'>to</span> <span
@@ -726,66 +785,7 @@ transcript: >-
   <span m='583030'>examining</span> <span m='583740'>in</span> <span
   m='584140'>the</span> <span m='584350'>next</span> <span
   m='584710'>lecture.</span> </p>
-embedded_media:
-  - uid: cc698e06fd594378d63e00aa0c02b2e3
-    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: a7a7124e5d1b62caf10c80524b495d8a
-    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 341b4750d345c74730ed7260b3750dcb
-    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: AipSRi3CyLg
-  - uid: e7317eaf9935a424dc66eae6c787ab28
-    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/AipSRi3CyLg/default.jpg'
-  - uid: 5a7a1283c3712aa0880b324db3fcd1bb
-    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: AipSRi3CyLg
-  - uid: df7462115b1263a65cd007d2c5613917
-    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
-    id: AipSRi3CyLg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/countable-sets-video/countable-sets/AipSRi3CyLg.srt
-  - uid: 21d89f128c1b3d9544f0bd2c6236eb0f
-    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
-    id: AipSRi3CyLg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/countable-sets-video/countable-sets/AipSRi3CyLg.pdf
-  - uid: 4e5a5bd7944e257661964473a96ff826
-    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e6856c6f67e136402161118ae850bfff
-    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 523488453667e0ad1847d0bbbbf95a75
-    parent_uid: 6f87e98021c6969a5e6c158cf62a86a4
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_countable_ipod.mp4'
+uid: 6f87e98021c6969a5e6c158cf62a86a4
 type: courses
 layout: video
 ---

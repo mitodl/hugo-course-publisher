@@ -1,13 +1,67 @@
 ---
-title: The photoelectric effect
-uid: aa616642244d82336072d9e20f942411
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: byEaU9ILHmw
+    parent_uid: aa616642244d82336072d9e20f942411
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 09b1f2343ecf7e9c5ebdb6387d357c89
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/byEaU9ILHmw/default.jpg'
+    parent_uid: aa616642244d82336072d9e20f942411
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4b9ec3bdbe8ac0592cc3e649c9f1e232
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: byEaU9ILHmw
+    parent_uid: aa616642244d82336072d9e20f942411
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 095692d9b19ca770a730189d6be7c71a
+  - id: byEaU9ILHmw.srt
+    parent_uid: aa616642244d82336072d9e20f942411
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-photoelectric-effect/byEaU9ILHmw.srt
+    title: 3play caption file
+    type: null
+    uid: 9e57feacf63ce99f8ce2a1f0b33733be
+  - id: byEaU9ILHmw.pdf
+    parent_uid: aa616642244d82336072d9e20f942411
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-photoelectric-effect/byEaU9ILHmw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7551416781e1d435329efd455df17b0e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: aa616642244d82336072d9e20f942411
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d9d44c0ebabdd3531f9a373cfa5c3380
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: aa616642244d82336072d9e20f942411
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1211db95520ab57a41c2439a7fd01b24
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: aa616642244d82336072d9e20f942411
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 21815c75320533843920e6709ae7cc41
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec03_s1_300k.mp4'
+    parent_uid: aa616642244d82336072d9e20f942411
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ede5fe85d29c88ec009649f533485f80
+inline_embed_id: 24571082thephotoelectriceffect87153431
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: the-photoelectric-effect
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-photoelectric-effect
-short_url: the-photoelectric-effect
-inline_embed_id: 24571082thephotoelectriceffect87153431
-about_this_resource_text: ''
-related_resources_text: ''
+title: The photoelectric effect
 transcript: >-
   <p><span m='540'>PROFESSOR:</span> <span m='720'>Last</span> <span
   m='900'>time,</span> <span m='1380'>we</span> <span m='1950'>spoke</span>
@@ -958,61 +1012,7 @@ transcript: >-
   m='1371790'>second,</span> <span m='1372540'>so</span> <span
   m='1372855'>it's</span> <span m='1373170'>pretty</span> <span
   m='1373470'>fast.</span> </p>
-embedded_media:
-  - uid: 09b1f2343ecf7e9c5ebdb6387d357c89
-    parent_uid: aa616642244d82336072d9e20f942411
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: byEaU9ILHmw
-  - uid: 4b9ec3bdbe8ac0592cc3e649c9f1e232
-    parent_uid: aa616642244d82336072d9e20f942411
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/byEaU9ILHmw/default.jpg'
-  - uid: 095692d9b19ca770a730189d6be7c71a
-    parent_uid: aa616642244d82336072d9e20f942411
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: byEaU9ILHmw
-  - uid: 9e57feacf63ce99f8ce2a1f0b33733be
-    parent_uid: aa616642244d82336072d9e20f942411
-    id: byEaU9ILHmw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-photoelectric-effect/byEaU9ILHmw.srt
-  - uid: 7551416781e1d435329efd455df17b0e
-    parent_uid: aa616642244d82336072d9e20f942411
-    id: byEaU9ILHmw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-photoelectric-effect/byEaU9ILHmw.pdf
-  - uid: d9d44c0ebabdd3531f9a373cfa5c3380
-    parent_uid: aa616642244d82336072d9e20f942411
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1211db95520ab57a41c2439a7fd01b24
-    parent_uid: aa616642244d82336072d9e20f942411
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 21815c75320533843920e6709ae7cc41
-    parent_uid: aa616642244d82336072d9e20f942411
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: ede5fe85d29c88ec009649f533485f80
-    parent_uid: aa616642244d82336072d9e20f942411
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec03_s1_300k.mp4'
+uid: aa616642244d82336072d9e20f942411
 type: courses
 layout: video
 ---

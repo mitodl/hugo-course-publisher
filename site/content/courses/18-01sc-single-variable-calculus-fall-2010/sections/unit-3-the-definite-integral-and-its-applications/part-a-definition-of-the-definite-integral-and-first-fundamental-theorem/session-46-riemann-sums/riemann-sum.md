@@ -1,13 +1,67 @@
 ---
-title: Riemann Sum
-uid: b7f1c76c0cbd01a5efd1732977cc3bf5
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ELWqePHYjCk
+    parent_uid: b7f1c76c0cbd01a5efd1732977cc3bf5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1d4690c010c0b862fab1b3675a2bf8bb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ELWqePHYjCk/default.jpg'
+    parent_uid: b7f1c76c0cbd01a5efd1732977cc3bf5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 89a73842e42664610890c6a634392461
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: ELWqePHYjCk
+    parent_uid: b7f1c76c0cbd01a5efd1732977cc3bf5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f2a7a0809677536b478fcc2eaa75848c
+  - id: ELWqePHYjCk.srt
+    parent_uid: b7f1c76c0cbd01a5efd1732977cc3bf5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/riemann-sum/ELWqePHYjCk.srt
+    title: 3play caption file
+    type: null
+    uid: 1bac1d6d8c2e65331f97b1b83aa40c0f
+  - id: ELWqePHYjCk.pdf
+    parent_uid: b7f1c76c0cbd01a5efd1732977cc3bf5
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/riemann-sum/ELWqePHYjCk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 16b0fb222423a2f7192a9db97fab515e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b7f1c76c0cbd01a5efd1732977cc3bf5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9fadc57286dbc0c4062ad1d1ae477b14
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b7f1c76c0cbd01a5efd1732977cc3bf5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 85b6fae99db695dce9585d6164e891e5
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_37_300k.mp4'
+    parent_uid: b7f1c76c0cbd01a5efd1732977cc3bf5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9c0772efd4610802ce700a9a7a780b52
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/podcast/riemann-sum/id414308064?i=90319188'
+    parent_uid: b7f1c76c0cbd01a5efd1732977cc3bf5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5a9de208925bb9cd05cc5fed8314ee78
+inline_embed_id: 86441945riemannsum17172024
 parent_uid: d5e0c7a6f17252a3c694d627faf12123
+related_resources_text: ''
+short_url: riemann-sum
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/riemann-sum
-short_url: riemann-sum
-inline_embed_id: 86441945riemannsum17172024
-about_this_resource_text: ''
-related_resources_text: ''
+title: Riemann Sum
 transcript: >-
   <p><span m='7250'>PROFESSOR: Welcome</span> <span m='7630'>back</span> <span
   m='7800'>to</span> <span m='7880'>recitation.</span> <span
@@ -520,61 +574,7 @@ transcript: >-
   <span m='443040'>think</span> <span m='443310'>I</span> <span
   m='443420'>will</span> <span m='443570'>stop</span> <span
   m='443900'>there.</span> </p>
-embedded_media:
-  - uid: 1d4690c010c0b862fab1b3675a2bf8bb
-    parent_uid: b7f1c76c0cbd01a5efd1732977cc3bf5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ELWqePHYjCk
-  - uid: 89a73842e42664610890c6a634392461
-    parent_uid: b7f1c76c0cbd01a5efd1732977cc3bf5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ELWqePHYjCk/default.jpg'
-  - uid: f2a7a0809677536b478fcc2eaa75848c
-    parent_uid: b7f1c76c0cbd01a5efd1732977cc3bf5
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ELWqePHYjCk
-  - uid: 1bac1d6d8c2e65331f97b1b83aa40c0f
-    parent_uid: b7f1c76c0cbd01a5efd1732977cc3bf5
-    id: ELWqePHYjCk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/riemann-sum/ELWqePHYjCk.srt
-  - uid: 16b0fb222423a2f7192a9db97fab515e
-    parent_uid: b7f1c76c0cbd01a5efd1732977cc3bf5
-    id: ELWqePHYjCk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-46-riemann-sums/riemann-sum/ELWqePHYjCk.pdf
-  - uid: 9fadc57286dbc0c4062ad1d1ae477b14
-    parent_uid: b7f1c76c0cbd01a5efd1732977cc3bf5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 85b6fae99db695dce9585d6164e891e5
-    parent_uid: b7f1c76c0cbd01a5efd1732977cc3bf5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 9c0772efd4610802ce700a9a7a780b52
-    parent_uid: b7f1c76c0cbd01a5efd1732977cc3bf5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_37_300k.mp4'
-  - uid: 5a9de208925bb9cd05cc5fed8314ee78
-    parent_uid: b7f1c76c0cbd01a5efd1732977cc3bf5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/podcast/riemann-sum/id414308064?i=90319188'
+uid: b7f1c76c0cbd01a5efd1732977cc3bf5
 type: courses
 layout: video
 ---

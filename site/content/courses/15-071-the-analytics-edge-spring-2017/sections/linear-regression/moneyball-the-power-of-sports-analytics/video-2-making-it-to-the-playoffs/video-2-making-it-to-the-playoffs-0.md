@@ -1,13 +1,62 @@
 ---
-title: 'Video 2: Making it to the Playoffs'
-uid: 9333641530bdb43f71a06d0874767fd8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: kYjwB3vfnZg
+    parent_uid: 9333641530bdb43f71a06d0874767fd8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9bc7d434effade5f4f5bc0c4488c519f
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: kYjwB3vfnZg
+    parent_uid: 9333641530bdb43f71a06d0874767fd8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 01acc514a05c89fbada2dc5221e7513c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/kYjwB3vfnZg/default.jpg'
+    parent_uid: 9333641530bdb43f71a06d0874767fd8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d2887d1d1b9d2c18b926891242c5a0b5
+  - id: kYjwB3vfnZg.srt
+    parent_uid: 9333641530bdb43f71a06d0874767fd8
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-2-making-it-to-the-playoffs/video-2-making-it-to-the-playoffs-0/kYjwB3vfnZg.srt
+    title: 3play caption file
+    type: null
+    uid: d4b7f6cf303697c8bc8f655c4c66b704
+  - id: kYjwB3vfnZg.pdf
+    parent_uid: 9333641530bdb43f71a06d0874767fd8
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-2-making-it-to-the-playoffs/video-2-making-it-to-the-playoffs-0/kYjwB3vfnZg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 425761ac8958aaa81fbb24eca77ad909
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9333641530bdb43f71a06d0874767fd8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 881eb0b977eaa2c4c95df0a3eadee071
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9333641530bdb43f71a06d0874767fd8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 81751a01541b5ee65a71072ed28d5fcb
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.3.03_300k.mp4
+    parent_uid: 9333641530bdb43f71a06d0874767fd8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 55709086049f8db5287c318a117ab839
+inline_embed_id: 67757641video2makingittotheplayoffs60046560
 parent_uid: 7ec3aa84c4f8d59e848e36852d9526f9
+related_resources_text: ''
+short_url: video-2-making-it-to-the-playoffs-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-2-making-it-to-the-playoffs/video-2-making-it-to-the-playoffs-0
-short_url: video-2-making-it-to-the-playoffs-0
-inline_embed_id: 67757641video2makingittotheplayoffs60046560
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 2: Making it to the Playoffs'
 transcript: >-
   <p><span m='6960'>The</span> <span m='7339'>goal</span> <span
   m='7718'>of</span> <span m='8097'>baseball</span> <span m='8476'>team</span>
@@ -449,56 +498,7 @@ transcript: >-
   m='441597'>made</span> <span m='441949'>by</span> <span m='442299'>Paul</span>
   <span m='442649'>DePodesta</span> <span m='442999'>in</span> <span
   m='443349'>Moneyball.</span> </p>
-embedded_media:
-  - uid: 9bc7d434effade5f4f5bc0c4488c519f
-    parent_uid: 9333641530bdb43f71a06d0874767fd8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: kYjwB3vfnZg
-  - uid: 01acc514a05c89fbada2dc5221e7513c
-    parent_uid: 9333641530bdb43f71a06d0874767fd8
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: kYjwB3vfnZg
-  - uid: d2887d1d1b9d2c18b926891242c5a0b5
-    parent_uid: 9333641530bdb43f71a06d0874767fd8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/kYjwB3vfnZg/default.jpg'
-  - uid: d4b7f6cf303697c8bc8f655c4c66b704
-    parent_uid: 9333641530bdb43f71a06d0874767fd8
-    id: kYjwB3vfnZg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-2-making-it-to-the-playoffs/video-2-making-it-to-the-playoffs-0/kYjwB3vfnZg.srt
-  - uid: 425761ac8958aaa81fbb24eca77ad909
-    parent_uid: 9333641530bdb43f71a06d0874767fd8
-    id: kYjwB3vfnZg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/moneyball-the-power-of-sports-analytics/video-2-making-it-to-the-playoffs/video-2-making-it-to-the-playoffs-0/kYjwB3vfnZg.pdf
-  - uid: 881eb0b977eaa2c4c95df0a3eadee071
-    parent_uid: 9333641530bdb43f71a06d0874767fd8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 81751a01541b5ee65a71072ed28d5fcb
-    parent_uid: 9333641530bdb43f71a06d0874767fd8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 55709086049f8db5287c318a117ab839
-    parent_uid: 9333641530bdb43f71a06d0874767fd8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.3.03_300k.mp4
+uid: 9333641530bdb43f71a06d0874767fd8
 type: courses
 layout: video
 ---

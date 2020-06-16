@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 4: Preferences and Utility'
-uid: 6dfd9f41d710f14d43915d525511f7ad
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 9kH0x7V_0Ig
+    parent_uid: 6dfd9f41d710f14d43915d525511f7ad
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c0ad9eebdf9e1b1c4e0f988220e72fd4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/9kH0x7V_0Ig/default.jpg'
+    parent_uid: 6dfd9f41d710f14d43915d525511f7ad
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 77dcc2dcf89372aae9774bc59ef13c78
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 9kH0x7V_0Ig
+    parent_uid: 6dfd9f41d710f14d43915d525511f7ad
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 44deeb33986574f163f353948a11be3c
+  - id: 9kH0x7V_0Ig.srt
+    parent_uid: 6dfd9f41d710f14d43915d525511f7ad
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/preferences-and-utility/lecture-4-preferences-and-utility/9kH0x7V_0Ig.srt
+    title: 3play caption file
+    type: null
+    uid: d6e750cc34050fb1f127e7b53c9aa9b3
+  - id: 9kH0x7V_0Ig.pdf
+    parent_uid: 6dfd9f41d710f14d43915d525511f7ad
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/preferences-and-utility/lecture-4-preferences-and-utility/9kH0x7V_0Ig.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6eb8a5471d117fa809b8e7a3fa7669e4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6dfd9f41d710f14d43915d525511f7ad
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e5f307bae4b339206dcc1a9067236b65
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6dfd9f41d710f14d43915d525511f7ad
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0c4fa8d1764e8648fd7505c7cb9cb51f
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec04_300k.mp4'
+    parent_uid: 6dfd9f41d710f14d43915d525511f7ad
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b9b83a2945236c7df04ec183bf4ee66b
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-4-preferences-utility/id496265654?i=109892746
+    parent_uid: 6dfd9f41d710f14d43915d525511f7ad
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d934e29b6bca3654b1824640b1c81565
+inline_embed_id: 6353102lecture4preferencesandutility67850987
 parent_uid: eba60351486e44573f84ae3b47789fde
+related_resources_text: ''
+short_url: lecture-4-preferences-and-utility
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/preferences-and-utility/lecture-4-preferences-and-utility
-short_url: lecture-4-preferences-and-utility
-inline_embed_id: 6353102lecture4preferencesandutility67850987
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 4: Preferences and Utility'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -3413,62 +3468,7 @@ transcript: >-
   m='2885650'>budget</span> <span m='2885930'>constraint to</span> <span
   m='2886410'>actually</span> <span m='2886650'>dictate</span> <span
   m='2886960'>your</span> <span m='2887060'>choices.</span> </p>
-embedded_media:
-  - uid: c0ad9eebdf9e1b1c4e0f988220e72fd4
-    parent_uid: 6dfd9f41d710f14d43915d525511f7ad
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 9kH0x7V_0Ig
-  - uid: 77dcc2dcf89372aae9774bc59ef13c78
-    parent_uid: 6dfd9f41d710f14d43915d525511f7ad
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9kH0x7V_0Ig/default.jpg'
-  - uid: 44deeb33986574f163f353948a11be3c
-    parent_uid: 6dfd9f41d710f14d43915d525511f7ad
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 9kH0x7V_0Ig
-  - uid: d6e750cc34050fb1f127e7b53c9aa9b3
-    parent_uid: 6dfd9f41d710f14d43915d525511f7ad
-    id: 9kH0x7V_0Ig.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/preferences-and-utility/lecture-4-preferences-and-utility/9kH0x7V_0Ig.srt
-  - uid: 6eb8a5471d117fa809b8e7a3fa7669e4
-    parent_uid: 6dfd9f41d710f14d43915d525511f7ad
-    id: 9kH0x7V_0Ig.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/preferences-and-utility/lecture-4-preferences-and-utility/9kH0x7V_0Ig.pdf
-  - uid: e5f307bae4b339206dcc1a9067236b65
-    parent_uid: 6dfd9f41d710f14d43915d525511f7ad
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0c4fa8d1764e8648fd7505c7cb9cb51f
-    parent_uid: 6dfd9f41d710f14d43915d525511f7ad
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b9b83a2945236c7df04ec183bf4ee66b
-    parent_uid: 6dfd9f41d710f14d43915d525511f7ad
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec04_300k.mp4'
-  - uid: d934e29b6bca3654b1824640b1c81565
-    parent_uid: 6dfd9f41d710f14d43915d525511f7ad
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-4-preferences-utility/id496265654?i=109892746
+uid: 6dfd9f41d710f14d43915d525511f7ad
 type: courses
 layout: video
 ---

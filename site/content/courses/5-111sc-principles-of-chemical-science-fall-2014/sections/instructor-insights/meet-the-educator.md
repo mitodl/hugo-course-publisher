@@ -1,13 +1,68 @@
 ---
-title: Meet the Educator
-uid: aa65e776da99be61ed9e993b53369f6b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: YEUyMX7kouw
+    parent_uid: aa65e776da99be61ed9e993b53369f6b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9d216b4fd9a61ebae6737bce4d33d658
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/YEUyMX7kouw/default.jpg'
+    parent_uid: aa65e776da99be61ed9e993b53369f6b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: db2ef7a1d58b1c22a7c62c34dbe5d878
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: YEUyMX7kouw
+    parent_uid: aa65e776da99be61ed9e993b53369f6b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 14cfcf6951de72c7cc4df3372827e40c
+  - id: YEUyMX7kouw.srt
+    parent_uid: aa65e776da99be61ed9e993b53369f6b
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/meet-the-educator/YEUyMX7kouw.srt
+    title: 3play caption file
+    type: null
+    uid: 447e31c424a4b382562419288b4fb3a1
+  - id: YEUyMX7kouw.pdf
+    parent_uid: aa65e776da99be61ed9e993b53369f6b
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/meet-the-educator/YEUyMX7kouw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 04e5bdaa0eb256baef2d4471846185cb
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: aa65e776da99be61ed9e993b53369f6b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 51dda860eb7cdb1dd4160b340f60de9d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: aa65e776da99be61ed9e993b53369f6b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3b684bc45e850a466cb34ff0728fd0be
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: aa65e776da99be61ed9e993b53369f6b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d7441d235ac9cc3eb6b49fc7636aaa8f
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT5.111F14/MIT5_111F14_MeetTheEducator_300k.mp4
+    parent_uid: aa65e776da99be61ed9e993b53369f6b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4bb034486d33638261e7eeae79fc5497
+inline_embed_id: 83135231meettheeducator96157268
 parent_uid: 1eb2fd824dc02f22bc85743316b46947
+related_resources_text: ''
+short_url: meet-the-educator
 technical_location: >-
   https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/meet-the-educator
-short_url: meet-the-educator
-inline_embed_id: 83135231meettheeducator96157268
-about_this_resource_text: ''
-related_resources_text: ''
+title: Meet the Educator
 transcript: >-
   <p><span m="4380">CATHERINE DRENNAN: So</span> <span m="4570">I'm</span> <span
   m="4690">Cathy</span> <span m="5020">Drennan.</span> <span m="5680">I'm</span>
@@ -278,62 +333,7 @@ transcript: >-
   <span m="198070">teaching</span> <span m="198450">this</span> <span
   m="198600">course</span> <span m="198890">at</span> <span
   m="198970">MIT.</span></p>
-embedded_media:
-  - uid: 9d216b4fd9a61ebae6737bce4d33d658
-    parent_uid: aa65e776da99be61ed9e993b53369f6b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: YEUyMX7kouw
-  - uid: db2ef7a1d58b1c22a7c62c34dbe5d878
-    parent_uid: aa65e776da99be61ed9e993b53369f6b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/YEUyMX7kouw/default.jpg'
-  - uid: 14cfcf6951de72c7cc4df3372827e40c
-    parent_uid: aa65e776da99be61ed9e993b53369f6b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: YEUyMX7kouw
-  - uid: 447e31c424a4b382562419288b4fb3a1
-    parent_uid: aa65e776da99be61ed9e993b53369f6b
-    id: YEUyMX7kouw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/meet-the-educator/YEUyMX7kouw.srt
-  - uid: 04e5bdaa0eb256baef2d4471846185cb
-    parent_uid: aa65e776da99be61ed9e993b53369f6b
-    id: YEUyMX7kouw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/instructor-insights/meet-the-educator/YEUyMX7kouw.pdf
-  - uid: 51dda860eb7cdb1dd4160b340f60de9d
-    parent_uid: aa65e776da99be61ed9e993b53369f6b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3b684bc45e850a466cb34ff0728fd0be
-    parent_uid: aa65e776da99be61ed9e993b53369f6b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d7441d235ac9cc3eb6b49fc7636aaa8f
-    parent_uid: aa65e776da99be61ed9e993b53369f6b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: 4bb034486d33638261e7eeae79fc5497
-    parent_uid: aa65e776da99be61ed9e993b53369f6b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT5.111F14/MIT5_111F14_MeetTheEducator_300k.mp4
+uid: aa65e776da99be61ed9e993b53369f6b
 type: courses
 layout: video
 ---

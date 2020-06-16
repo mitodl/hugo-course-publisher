@@ -1,21 +1,76 @@
 ---
-title: 'Mega-Recitation 1: Rule-Based Systems'
-uid: 12d6b920bdbb23bb65e02fb32cf80f9b
-parent_uid: 6be7704ddfe26b4e12703167347dd5bb
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-1-rule-based-systems
-short_url: mega-recitation-1-rule-based-systems
-inline_embed_id: '79892245mega-recitation1:rule-basedsystems3822309'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this mega-recitation, we cover Problem 1
   from Quiz 1, Fall 2009. We begin with the rules and assertions, then spend
   most of our time on backward chaining and drawing the goal tree for Part A. We
   end with a brief discussion of forward chaining.</p>
   <p><strong>Instructor:</strong> Mark Seifter</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: iusTmgQyZ44
+    parent_uid: 12d6b920bdbb23bb65e02fb32cf80f9b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a7db00a0414931dfab2918b96f3bbc2c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/mega-recitation-1-rule-based/id765641080?i=194480741
+    parent_uid: 12d6b920bdbb23bb65e02fb32cf80f9b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: afe205fbe7319a2f64d120aaeb442083
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_rec01_300k.mp4'
+    parent_uid: 12d6b920bdbb23bb65e02fb32cf80f9b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 50e412d1c6e3da036fd17bd2eb630ce3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/iusTmgQyZ44/default.jpg'
+    parent_uid: 12d6b920bdbb23bb65e02fb32cf80f9b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e5d1dd2bc78c08d6bf42046545654ac5
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: iusTmgQyZ44
+    parent_uid: 12d6b920bdbb23bb65e02fb32cf80f9b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b07b3f4a39a792d7bbca3302024ba35f
+  - id: iusTmgQyZ44.srt
+    parent_uid: 12d6b920bdbb23bb65e02fb32cf80f9b
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-1-rule-based-systems/iusTmgQyZ44.srt
+    title: 3play caption file
+    type: null
+    uid: 819df34bd416c080eb351b983f3e2266
+  - id: iusTmgQyZ44.pdf
+    parent_uid: 12d6b920bdbb23bb65e02fb32cf80f9b
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-1-rule-based-systems/iusTmgQyZ44.pdf
+    title: 3play pdf file
+    type: null
+    uid: aeb0f76f96bdbaffe8d73c39073e0bb4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 12d6b920bdbb23bb65e02fb32cf80f9b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ad70c0586169a885600e47d2a407b95a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 12d6b920bdbb23bb65e02fb32cf80f9b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 28b0fb428c24988c89d60e378805306d
+inline_embed_id: '79892245mega-recitation1:rule-basedsystems3822309'
+parent_uid: 6be7704ddfe26b4e12703167347dd5bb
 related_resources_text: >-
   <p><a target="_blank"
   href="./resolveuid/0d2ca3adb56d06382bd2bd855beb3d32">Quiz 1, Fall 2009
   (PDF)</a></p>
+short_url: mega-recitation-1-rule-based-systems
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-1-rule-based-systems
+title: 'Mega-Recitation 1: Rule-Based Systems'
 transcript: >-
   <p><span m='50'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1220'>is</span> <span m='1330'>provided</span>
@@ -3354,62 +3409,7 @@ transcript: >-
   m='2814350'>get</span> <span m='2814600'>to</span> <span
   m='2814810'>the</span> <span m='2815370'>lowest</span> <span
   m='2815790'>numbered</span> <span m='2816050'>assertion.</span> </p>
-embedded_media:
-  - uid: a7db00a0414931dfab2918b96f3bbc2c
-    parent_uid: 12d6b920bdbb23bb65e02fb32cf80f9b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: iusTmgQyZ44
-  - uid: afe205fbe7319a2f64d120aaeb442083
-    parent_uid: 12d6b920bdbb23bb65e02fb32cf80f9b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/mega-recitation-1-rule-based/id765641080?i=194480741
-  - uid: 50e412d1c6e3da036fd17bd2eb630ce3
-    parent_uid: 12d6b920bdbb23bb65e02fb32cf80f9b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_rec01_300k.mp4'
-  - uid: e5d1dd2bc78c08d6bf42046545654ac5
-    parent_uid: 12d6b920bdbb23bb65e02fb32cf80f9b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/iusTmgQyZ44/default.jpg'
-  - uid: b07b3f4a39a792d7bbca3302024ba35f
-    parent_uid: 12d6b920bdbb23bb65e02fb32cf80f9b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: iusTmgQyZ44
-  - uid: 819df34bd416c080eb351b983f3e2266
-    parent_uid: 12d6b920bdbb23bb65e02fb32cf80f9b
-    id: iusTmgQyZ44.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-1-rule-based-systems/iusTmgQyZ44.srt
-  - uid: aeb0f76f96bdbaffe8d73c39073e0bb4
-    parent_uid: 12d6b920bdbb23bb65e02fb32cf80f9b
-    id: iusTmgQyZ44.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-1-rule-based-systems/iusTmgQyZ44.pdf
-  - uid: ad70c0586169a885600e47d2a407b95a
-    parent_uid: 12d6b920bdbb23bb65e02fb32cf80f9b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 28b0fb428c24988c89d60e378805306d
-    parent_uid: 12d6b920bdbb23bb65e02fb32cf80f9b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 12d6b920bdbb23bb65e02fb32cf80f9b
 type: courses
 layout: video
 ---

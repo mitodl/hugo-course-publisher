@@ -1,13 +1,62 @@
 ---
-title: 'Video 4: Loading Data Files'
-uid: 32985d653926f77987ee22cd46589384
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Cfx7hyAoGL4
+    parent_uid: 32985d653926f77987ee22cd46589384
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 90b3454f343ad0f2abcb40ed33fabca3
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: Cfx7hyAoGL4
+    parent_uid: 32985d653926f77987ee22cd46589384
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 689780cf55f5e3e167b4270ff00b889d
+  - id: Cfx7hyAoGL4.srt
+    parent_uid: 32985d653926f77987ee22cd46589384
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-4-loading-data-files/video-4-loading-data-files-0/Cfx7hyAoGL4.srt
+    title: 3play caption file
+    type: null
+    uid: 0cdc5d8b5e44f92e64fb5e41dba33643
+  - id: Cfx7hyAoGL4.pdf
+    parent_uid: 32985d653926f77987ee22cd46589384
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-4-loading-data-files/video-4-loading-data-files-0/Cfx7hyAoGL4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6cf34badbfadcf70431138b15be4e80a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 32985d653926f77987ee22cd46589384
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 83768f300d191a33e3028acba2169972
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 32985d653926f77987ee22cd46589384
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c0ca515ca719f0a0c5929a5bf1d4d59f
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/Cfx7hyAoGL4/default.jpg'
+    parent_uid: 32985d653926f77987ee22cd46589384
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: abdc6fc15cf9b65dfdcf8b8f1ced2a99
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.3.08_300k.mp4
+    parent_uid: 32985d653926f77987ee22cd46589384
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 68c4e499e72fc6b6a8998143c69d5bf6
+inline_embed_id: 89810173video4loadingdatafiles35140626
 parent_uid: 70fe7ef6c25730efb98222eac766dbc4
+related_resources_text: ''
+short_url: video-4-loading-data-files-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-4-loading-data-files/video-4-loading-data-files-0
-short_url: video-4-loading-data-files-0
-inline_embed_id: 89810173video4loadingdatafiles35140626
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 4: Loading Data Files'
 transcript: >-
   <p><span m='4860'>Often,</span> <span m='5214'>you</span> <span
   m='5568'>will</span> <span m='5922'>need</span> <span m='6276'>to</span> <span
@@ -487,56 +536,7 @@ transcript: >-
   m='499140'>explore</span> <span m='499598'>the</span> <span
   m='500056'>WHO</span> <span m='500514'>data</span> <span
   m='500972'>set.</span> </p>
-embedded_media:
-  - uid: 90b3454f343ad0f2abcb40ed33fabca3
-    parent_uid: 32985d653926f77987ee22cd46589384
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Cfx7hyAoGL4
-  - uid: 689780cf55f5e3e167b4270ff00b889d
-    parent_uid: 32985d653926f77987ee22cd46589384
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Cfx7hyAoGL4
-  - uid: 0cdc5d8b5e44f92e64fb5e41dba33643
-    parent_uid: 32985d653926f77987ee22cd46589384
-    id: Cfx7hyAoGL4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-4-loading-data-files/video-4-loading-data-files-0/Cfx7hyAoGL4.srt
-  - uid: 6cf34badbfadcf70431138b15be4e80a
-    parent_uid: 32985d653926f77987ee22cd46589384
-    id: Cfx7hyAoGL4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/working-with-data-an-introduction-to-r/video-4-loading-data-files/video-4-loading-data-files-0/Cfx7hyAoGL4.pdf
-  - uid: 83768f300d191a33e3028acba2169972
-    parent_uid: 32985d653926f77987ee22cd46589384
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c0ca515ca719f0a0c5929a5bf1d4d59f
-    parent_uid: 32985d653926f77987ee22cd46589384
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: abdc6fc15cf9b65dfdcf8b8f1ced2a99
-    parent_uid: 32985d653926f77987ee22cd46589384
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Cfx7hyAoGL4/default.jpg'
-  - uid: 68c4e499e72fc6b6a8998143c69d5bf6
-    parent_uid: 32985d653926f77987ee22cd46589384
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.3.08_300k.mp4
+uid: 32985d653926f77987ee22cd46589384
 type: courses
 layout: video
 ---

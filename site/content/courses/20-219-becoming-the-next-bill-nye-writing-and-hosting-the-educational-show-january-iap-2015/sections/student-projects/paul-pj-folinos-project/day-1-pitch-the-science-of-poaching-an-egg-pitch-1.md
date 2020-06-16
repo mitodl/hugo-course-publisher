@@ -1,11 +1,4 @@
 ---
-title: 'Day 1 Pitch: The Science of Poaching an Egg Pitch'
-uid: 1814d85eb5300b7db278765feb1c8e78
-parent_uid: 265dbc3150c1a4e14686f6c614415b05
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/paul-pj-folinos-project/day-1-pitch-the-science-of-poaching-an-egg-pitch-1
-short_url: day-1-pitch-the-science-of-poaching-an-egg-pitch-1
-inline_embed_id: '26159039day1pitch:thescienceofpoachinganeggpitch60929127'
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,69 @@ about_this_resource_text: >-
   Commons BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2nSxmWTdDU4
+    parent_uid: 1814d85eb5300b7db278765feb1c8e78
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 667e415aabdef213829a3fd4fc6b51ff
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2nSxmWTdDU4/default.jpg'
+    parent_uid: 1814d85eb5300b7db278765feb1c8e78
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e2a42b520d6c7832e970fb920a9b02b0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 2nSxmWTdDU4
+    parent_uid: 1814d85eb5300b7db278765feb1c8e78
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b14145490c047a10a6aa75cc80755917
+  - id: 2nSxmWTdDU4.srt
+    parent_uid: 1814d85eb5300b7db278765feb1c8e78
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/paul-pj-folinos-project/day-1-pitch-the-science-of-poaching-an-egg-pitch-1/2nSxmWTdDU4.srt
+    title: 3play caption file
+    type: null
+    uid: 799ac4e490ddd7ee33cb74ddd8102909
+  - id: 2nSxmWTdDU4.pdf
+    parent_uid: 1814d85eb5300b7db278765feb1c8e78
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/paul-pj-folinos-project/day-1-pitch-the-science-of-poaching-an-egg-pitch-1/2nSxmWTdDU4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0e08ce823e29c61f6e5c0185fb6e64f1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1814d85eb5300b7db278765feb1c8e78
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7bce689e030e9406b329169b165dc3d3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1814d85eb5300b7db278765feb1c8e78
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9791c57a53eab57cfafeaee3b6043979
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 1814d85eb5300b7db278765feb1c8e78
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5b3109c01624ecdb1366125228d27e12
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_PJ_D01_Pitch_360p.mp4
+    parent_uid: 1814d85eb5300b7db278765feb1c8e78
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 22901ce61b862eb87f6dffc5e8fa3c35
+inline_embed_id: '26159039day1pitch:thescienceofpoachinganeggpitch60929127'
+parent_uid: 265dbc3150c1a4e14686f6c614415b05
 related_resources_text: ''
+short_url: day-1-pitch-the-science-of-poaching-an-egg-pitch-1
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/paul-pj-folinos-project/day-1-pitch-the-science-of-poaching-an-egg-pitch-1
+title: 'Day 1 Pitch: The Science of Poaching an Egg Pitch'
 transcript: >-
   <p><span m="1060">PROFESSOR: We</span> <span m="1260">all</span> <span
   m="1390">know</span> <span m="1540">that</span> <span m="1740">breakfast is
@@ -126,62 +181,7 @@ transcript: >-
   <span m="93040">give</span> <span m="93320">you</span> <span
   m="93770">the</span> <span m="93870">best</span> <span
   m="94310">poached</span> <span m="94610">egg.</span></p>
-embedded_media:
-  - uid: 667e415aabdef213829a3fd4fc6b51ff
-    parent_uid: 1814d85eb5300b7db278765feb1c8e78
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2nSxmWTdDU4
-  - uid: e2a42b520d6c7832e970fb920a9b02b0
-    parent_uid: 1814d85eb5300b7db278765feb1c8e78
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2nSxmWTdDU4/default.jpg'
-  - uid: b14145490c047a10a6aa75cc80755917
-    parent_uid: 1814d85eb5300b7db278765feb1c8e78
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2nSxmWTdDU4
-  - uid: 799ac4e490ddd7ee33cb74ddd8102909
-    parent_uid: 1814d85eb5300b7db278765feb1c8e78
-    id: 2nSxmWTdDU4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/paul-pj-folinos-project/day-1-pitch-the-science-of-poaching-an-egg-pitch-1/2nSxmWTdDU4.srt
-  - uid: 0e08ce823e29c61f6e5c0185fb6e64f1
-    parent_uid: 1814d85eb5300b7db278765feb1c8e78
-    id: 2nSxmWTdDU4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/paul-pj-folinos-project/day-1-pitch-the-science-of-poaching-an-egg-pitch-1/2nSxmWTdDU4.pdf
-  - uid: 7bce689e030e9406b329169b165dc3d3
-    parent_uid: 1814d85eb5300b7db278765feb1c8e78
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9791c57a53eab57cfafeaee3b6043979
-    parent_uid: 1814d85eb5300b7db278765feb1c8e78
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5b3109c01624ecdb1366125228d27e12
-    parent_uid: 1814d85eb5300b7db278765feb1c8e78
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 22901ce61b862eb87f6dffc5e8fa3c35
-    parent_uid: 1814d85eb5300b7db278765feb1c8e78
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_PJ_D01_Pitch_360p.mp4
+uid: 1814d85eb5300b7db278765feb1c8e78
 type: courses
 layout: video
 ---

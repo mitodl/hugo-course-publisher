@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Area Under the Bell Curve'
-uid: fecddcf0b02c4cc277cfc201057e0e83
-parent_uid: e183dee9558e331a812d6190993e58fc
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-65-bell-curve-conclusion/clip-1-area-under-the-bell-curve
-short_url: clip-1-area-under-the-bell-curve
-inline_embed_id: '80905159clip1:areaunderthebellcurve75747422'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/8f010974972c100f3627d4d7d55aca35"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 25 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: zUEuKrxgHws
+    parent_uid: fecddcf0b02c4cc277cfc201057e0e83
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9a165f16b4af966d9e767fc0ac94ebb8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/zUEuKrxgHws/default.jpg'
+    parent_uid: fecddcf0b02c4cc277cfc201057e0e83
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d65fcc67b91c85ded857dd6e51a02f67
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: zUEuKrxgHws
+    parent_uid: fecddcf0b02c4cc277cfc201057e0e83
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b74e3d7cd8e95fcfd7d6220e753b9f9b
+  - id: zUEuKrxgHws.srt
+    parent_uid: fecddcf0b02c4cc277cfc201057e0e83
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-65-bell-curve-conclusion/clip-1-area-under-the-bell-curve/zUEuKrxgHws.srt
+    title: 3play caption file
+    type: null
+    uid: 8e3b75589f49d29e7b7878d7ed4322f8
+  - id: zUEuKrxgHws.pdf
+    parent_uid: fecddcf0b02c4cc277cfc201057e0e83
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-65-bell-curve-conclusion/clip-1-area-under-the-bell-curve/zUEuKrxgHws.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5b0169f5bb3c4827566bc8eba20886c5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fecddcf0b02c4cc277cfc201057e0e83
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a5ce795f33380fe22bae42c825fa1415
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fecddcf0b02c4cc277cfc201057e0e83
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 518eaeb4d6ebd69856e52a0e2ad142b0
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec25_300k.mp4'
+    parent_uid: fecddcf0b02c4cc277cfc201057e0e83
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 51d1d84fa3af73697a46c5597159d9b1
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: fecddcf0b02c4cc277cfc201057e0e83
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ead901afecbff04590bc158aa12c136f
+inline_embed_id: '80905159clip1:areaunderthebellcurve75747422'
+parent_uid: e183dee9558e331a812d6190993e58fc
 related_resources_text: ''
+short_url: clip-1-area-under-the-bell-curve
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-65-bell-curve-conclusion/clip-1-area-under-the-bell-curve
+title: 'Clip 1: Area Under the Bell Curve'
 transcript: >-
   <p><span m='60'>The</span> <span m='520'>following content</span> <span
   m='1300'>is</span> <span m='1680'>provided</span> <span m='1743'>under</span>
@@ -2727,61 +2781,7 @@ transcript: >-
   m='2953910'>do</span> <span m='2954040'>the</span> <span
   m='2954180'>other</span> <span m='2954350'>way.</span> <span m='2954670'>Good
   luck,</span> <span m='2956240'>folks.</span> </p>
-embedded_media:
-  - uid: 9a165f16b4af966d9e767fc0ac94ebb8
-    parent_uid: fecddcf0b02c4cc277cfc201057e0e83
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: zUEuKrxgHws
-  - uid: d65fcc67b91c85ded857dd6e51a02f67
-    parent_uid: fecddcf0b02c4cc277cfc201057e0e83
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/zUEuKrxgHws/default.jpg'
-  - uid: b74e3d7cd8e95fcfd7d6220e753b9f9b
-    parent_uid: fecddcf0b02c4cc277cfc201057e0e83
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: zUEuKrxgHws
-  - uid: 8e3b75589f49d29e7b7878d7ed4322f8
-    parent_uid: fecddcf0b02c4cc277cfc201057e0e83
-    id: zUEuKrxgHws.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-65-bell-curve-conclusion/clip-1-area-under-the-bell-curve/zUEuKrxgHws.srt
-  - uid: 5b0169f5bb3c4827566bc8eba20886c5
-    parent_uid: fecddcf0b02c4cc277cfc201057e0e83
-    id: zUEuKrxgHws.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-65-bell-curve-conclusion/clip-1-area-under-the-bell-curve/zUEuKrxgHws.pdf
-  - uid: a5ce795f33380fe22bae42c825fa1415
-    parent_uid: fecddcf0b02c4cc277cfc201057e0e83
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 518eaeb4d6ebd69856e52a0e2ad142b0
-    parent_uid: fecddcf0b02c4cc277cfc201057e0e83
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 51d1d84fa3af73697a46c5597159d9b1
-    parent_uid: fecddcf0b02c4cc277cfc201057e0e83
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec25_300k.mp4'
-  - uid: ead901afecbff04590bc158aa12c136f
-    parent_uid: fecddcf0b02c4cc277cfc201057e0e83
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: fecddcf0b02c4cc277cfc201057e0e83
 type: courses
 layout: video
 ---

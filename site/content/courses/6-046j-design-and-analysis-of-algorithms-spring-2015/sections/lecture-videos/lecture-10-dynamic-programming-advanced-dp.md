@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 10: Dynamic Programming: Advanced DP'
-uid: 18a52c47bbf4fa4f805d67f50ece05de
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-10-dynamic-programming-advanced-dp
-short_url: lecture-10-dynamic-programming-advanced-dp
-inline_embed_id: '1790551lecture10:dynamicprogramming:advanceddp47036974'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Devadas introduces
   the concept of dynamic programming.</p><p><strong>Instructors:</strong>
   Srinivas Devadas</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: Tw1k46ywN6E
+    parent_uid: 18a52c47bbf4fa4f805d67f50ece05de
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a94458f3b37c1828493ed4e944429eee
+  - id: Tw1k46ywN6E.srt
+    parent_uid: 18a52c47bbf4fa4f805d67f50ece05de
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-10-dynamic-programming-advanced-dp/Tw1k46ywN6E.srt
+    title: 3play caption file
+    type: null
+    uid: 77797036651a4a8c326b9a34506dbbd4
+  - id: Tw1k46ywN6E.pdf
+    parent_uid: 18a52c47bbf4fa4f805d67f50ece05de
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-10-dynamic-programming-advanced-dp/Tw1k46ywN6E.pdf
+    title: 3play pdf file
+    type: null
+    uid: 828e034d5ace10df79e57397124684ca
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 18a52c47bbf4fa4f805d67f50ece05de
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6612947f24f78430c96694e4d40031f3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 18a52c47bbf4fa4f805d67f50ece05de
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bf52a73d488dba64af89091820915ca6
+  - id: Video-YouTube-Stream
+    media_location: Tw1k46ywN6E
+    parent_uid: 18a52c47bbf4fa4f805d67f50ece05de
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4342ecfac37566a924f85c1027a05f10
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Tw1k46ywN6E/default.jpg'
+    parent_uid: 18a52c47bbf4fa4f805d67f50ece05de
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: aa117d3516f855671cac85e7300ae634
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 18a52c47bbf4fa4f805d67f50ece05de
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 451e7ba7eda68579202dc4502505520d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec10_300k.mp4'
+    parent_uid: 18a52c47bbf4fa4f805d67f50ece05de
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f06556989d94e29b78bf7bb1f3acbadf
+inline_embed_id: '1790551lecture10:dynamicprogramming:advanceddp47036974'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-10-dynamic-programming-advanced-dp
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-10-dynamic-programming-advanced-dp
+title: 'Lecture 10: Dynamic Programming: Advanced DP'
 transcript: >-
   <p><span m="70">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4936,61 +4990,7 @@ transcript: >-
   m="4804400">See</span> <span m="4804700">you</span> <span
   m="4804780">guys</span> <span m="4805010">next</span> <span
   m="4805210">week.</span></p>
-embedded_media:
-  - uid: a94458f3b37c1828493ed4e944429eee
-    parent_uid: 18a52c47bbf4fa4f805d67f50ece05de
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Tw1k46ywN6E
-  - uid: 77797036651a4a8c326b9a34506dbbd4
-    parent_uid: 18a52c47bbf4fa4f805d67f50ece05de
-    id: Tw1k46ywN6E.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-10-dynamic-programming-advanced-dp/Tw1k46ywN6E.srt
-  - uid: 828e034d5ace10df79e57397124684ca
-    parent_uid: 18a52c47bbf4fa4f805d67f50ece05de
-    id: Tw1k46ywN6E.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-10-dynamic-programming-advanced-dp/Tw1k46ywN6E.pdf
-  - uid: 6612947f24f78430c96694e4d40031f3
-    parent_uid: 18a52c47bbf4fa4f805d67f50ece05de
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bf52a73d488dba64af89091820915ca6
-    parent_uid: 18a52c47bbf4fa4f805d67f50ece05de
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4342ecfac37566a924f85c1027a05f10
-    parent_uid: 18a52c47bbf4fa4f805d67f50ece05de
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Tw1k46ywN6E
-  - uid: aa117d3516f855671cac85e7300ae634
-    parent_uid: 18a52c47bbf4fa4f805d67f50ece05de
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Tw1k46ywN6E/default.jpg'
-  - uid: 451e7ba7eda68579202dc4502505520d
-    parent_uid: 18a52c47bbf4fa4f805d67f50ece05de
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: f06556989d94e29b78bf7bb1f3acbadf
-    parent_uid: 18a52c47bbf4fa4f805d67f50ece05de
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec10_300k.mp4'
+uid: 18a52c47bbf4fa4f805d67f50ece05de
 type: courses
 layout: video
 ---

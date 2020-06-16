@@ -1,13 +1,73 @@
 ---
-title: Reality condition in Fourier transforms
-uid: a048eeb2415a5c77d44d8f486d8c5ebd
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: DvFb-D1zJTA
+    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 660578ee08d25c35154cc1342b65b983
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/J11iuDyYFCY/default.jpg'
+    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1a346bd34af197d430c30f3d502b08c1
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: DvFb-D1zJTA
+    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 193ec2bb98d1bb763dbf492c4edef002
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 15db33aac73e2c8d313a6abb550af2e5
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec07_s2_300k.mp4'
+    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f088bc4e050c04d4fe0373b5c0cc4fdd
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/DvFb-D1zJTA/default.jpg'
+    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3cf7fc8fb5782d1f1e050e3eb8e5a3a2
+  - id: DvFb-D1zJTA.srt
+    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/reality-condition-in-fourier-transforms/DvFb-D1zJTA.srt
+    title: 3play caption file
+    type: null
+    uid: d1bbfd51476caeaa2cad47ab31090009
+  - id: DvFb-D1zJTA.pdf
+    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/reality-condition-in-fourier-transforms/DvFb-D1zJTA.pdf
+    title: 3play pdf file
+    type: null
+    uid: ae039c99e07d3a3c2072d152dc1745bb
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: fddde620b640d67c17e9b9b153fdf850
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4b29634377f6e1a93f19a20d56d39b4d
+inline_embed_id: 28536086realityconditioninfouriertransforms90520999
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: reality-condition-in-fourier-transforms
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/reality-condition-in-fourier-transforms
-short_url: reality-condition-in-fourier-transforms
-inline_embed_id: 28536086realityconditioninfouriertransforms90520999
-about_this_resource_text: ''
-related_resources_text: ''
+title: Reality condition in Fourier transforms
 transcript: >-
   <p><span m='670'>PROFESSOR:</span> <span m='835'>We</span> <span
   m='1000'>ask,</span> <span m='1630'>is</span> <span m='3010'>psi</span> <span
@@ -405,67 +465,7 @@ transcript: >-
   m='542350'>value,</span> <span m='546030'>it's</span> <span
   m='546240'>much</span> <span m='546600'>nicer</span> <span
   m='547260'>and</span> <span m='547890'>simpler.</span> </p>
-embedded_media:
-  - uid: 660578ee08d25c35154cc1342b65b983
-    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: DvFb-D1zJTA
-  - uid: 1a346bd34af197d430c30f3d502b08c1
-    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/J11iuDyYFCY/default.jpg'
-  - uid: 193ec2bb98d1bb763dbf492c4edef002
-    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: DvFb-D1zJTA
-  - uid: 15db33aac73e2c8d313a6abb550af2e5
-    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: f088bc4e050c04d4fe0373b5c0cc4fdd
-    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec07_s2_300k.mp4'
-  - uid: 3cf7fc8fb5782d1f1e050e3eb8e5a3a2
-    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/DvFb-D1zJTA/default.jpg'
-  - uid: d1bbfd51476caeaa2cad47ab31090009
-    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
-    id: DvFb-D1zJTA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/reality-condition-in-fourier-transforms/DvFb-D1zJTA.srt
-  - uid: ae039c99e07d3a3c2072d152dc1745bb
-    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
-    id: DvFb-D1zJTA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/reality-condition-in-fourier-transforms/DvFb-D1zJTA.pdf
-  - uid: fddde620b640d67c17e9b9b153fdf850
-    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4b29634377f6e1a93f19a20d56d39b4d
-    parent_uid: a048eeb2415a5c77d44d8f486d8c5ebd
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a048eeb2415a5c77d44d8f486d8c5ebd
 type: courses
 layout: video
 ---

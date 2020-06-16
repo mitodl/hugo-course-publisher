@@ -1,13 +1,67 @@
 ---
-title: Introduction from Elizabeth
-uid: 9f54ea9f51b3ea3232812481362f53b5
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: qkkI9Z9tKvo
+    parent_uid: 9f54ea9f51b3ea3232812481362f53b5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f23f697d9d3a5bb5de419c48ed0c4045
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 9f54ea9f51b3ea3232812481362f53b5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d116277c4a2f1fd365d00c752224c308
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D13N_300k.mp4'
+    parent_uid: 9f54ea9f51b3ea3232812481362f53b5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8d3f38953e9cc1e4faa66eaa4979e99e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/qkkI9Z9tKvo/default.jpg'
+    parent_uid: 9f54ea9f51b3ea3232812481362f53b5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8ee725c5476ff3b7b18c1d515a17fbf2
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: qkkI9Z9tKvo
+    parent_uid: 9f54ea9f51b3ea3232812481362f53b5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 46c39631378ed247dc8756b9201265ac
+  - id: qkkI9Z9tKvo.srt
+    parent_uid: 9f54ea9f51b3ea3232812481362f53b5
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/introduction-from-elizabeth/qkkI9Z9tKvo.srt
+    title: 3play caption file
+    type: null
+    uid: 9b1e56f57c13f77c1f35d02da2389ad8
+  - id: qkkI9Z9tKvo.pdf
+    parent_uid: 9f54ea9f51b3ea3232812481362f53b5
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/introduction-from-elizabeth/qkkI9Z9tKvo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8ea7bf6959ed73f97646f01829cd5707
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9f54ea9f51b3ea3232812481362f53b5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 24fb5bee3799195cb69ebfb7f02972a0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9f54ea9f51b3ea3232812481362f53b5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b634af137d2570a9369ed176438f1a42
+inline_embed_id: 93020907introductionfromelizabeth45263649
 parent_uid: 2dc5287f35ede8339c9b93f4238ac687
+related_resources_text: ''
+short_url: introduction-from-elizabeth
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/introduction-from-elizabeth
-short_url: introduction-from-elizabeth
-inline_embed_id: 93020907introductionfromelizabeth45263649
-about_this_resource_text: ''
-related_resources_text: ''
+title: Introduction from Elizabeth
 transcript: >-
   <p><span m="90">The</span> <span m="170">following</span> <span
   m="610">content</span> <span m="1120">is</span> <span m="1230">provided</span>
@@ -4165,61 +4219,7 @@ transcript: >-
   m="4031240">evening,</span> <span m="4031590">and</span> <span
   m="4031720">thanks</span> <span m="4031940">again,</span> <span
   m="4032240">everyone.</span></p>
-embedded_media:
-  - uid: f23f697d9d3a5bb5de419c48ed0c4045
-    parent_uid: 9f54ea9f51b3ea3232812481362f53b5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: qkkI9Z9tKvo
-  - uid: d116277c4a2f1fd365d00c752224c308
-    parent_uid: 9f54ea9f51b3ea3232812481362f53b5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 8d3f38953e9cc1e4faa66eaa4979e99e
-    parent_uid: 9f54ea9f51b3ea3232812481362f53b5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D13N_300k.mp4'
-  - uid: 8ee725c5476ff3b7b18c1d515a17fbf2
-    parent_uid: 9f54ea9f51b3ea3232812481362f53b5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/qkkI9Z9tKvo/default.jpg'
-  - uid: 46c39631378ed247dc8756b9201265ac
-    parent_uid: 9f54ea9f51b3ea3232812481362f53b5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: qkkI9Z9tKvo
-  - uid: 9b1e56f57c13f77c1f35d02da2389ad8
-    parent_uid: 9f54ea9f51b3ea3232812481362f53b5
-    id: qkkI9Z9tKvo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/introduction-from-elizabeth/qkkI9Z9tKvo.srt
-  - uid: 8ea7bf6959ed73f97646f01829cd5707
-    parent_uid: 9f54ea9f51b3ea3232812481362f53b5
-    id: qkkI9Z9tKvo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/introduction-from-elizabeth/qkkI9Z9tKvo.pdf
-  - uid: 24fb5bee3799195cb69ebfb7f02972a0
-    parent_uid: 9f54ea9f51b3ea3232812481362f53b5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b634af137d2570a9369ed176438f1a42
-    parent_uid: 9f54ea9f51b3ea3232812481362f53b5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 9f54ea9f51b3ea3232812481362f53b5
 type: courses
 layout: video
 ---

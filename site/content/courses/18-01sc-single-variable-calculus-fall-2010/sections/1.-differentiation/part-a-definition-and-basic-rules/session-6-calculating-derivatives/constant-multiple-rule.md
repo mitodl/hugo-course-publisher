@@ -1,13 +1,68 @@
 ---
-title: Constant Multiple Rule
-uid: bf01bf7dbd0cec6e0994f9ab0361063f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Eaei-Y5AO_E
+    parent_uid: bf01bf7dbd0cec6e0994f9ab0361063f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f0c1afb2ac0cb30f5eb97af3a80ac5f3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Eaei-Y5AO_E/default.jpg'
+    parent_uid: bf01bf7dbd0cec6e0994f9ab0361063f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0bce3a8a9b2595696db570585da9e65c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/constant-multiple-rule/id414308064?i=90318620
+    parent_uid: bf01bf7dbd0cec6e0994f9ab0361063f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: dfba958d2a086c53226e05222910f779
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_04_300k.mp4'
+    parent_uid: bf01bf7dbd0cec6e0994f9ab0361063f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ac0d4f099867bb8eb57b5ab22b6ecbc6
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: Eaei-Y5AO_E
+    parent_uid: bf01bf7dbd0cec6e0994f9ab0361063f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c78d4eb08cb0c06798004028f35d4709
+  - id: Eaei-Y5AO_E.srt
+    parent_uid: bf01bf7dbd0cec6e0994f9ab0361063f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-6-calculating-derivatives/constant-multiple-rule/Eaei-Y5AO_E.srt
+    title: 3play caption file
+    type: null
+    uid: 6b5ef1f0fb26ba71dc20a2a62f63f5cb
+  - id: Eaei-Y5AO_E.pdf
+    parent_uid: bf01bf7dbd0cec6e0994f9ab0361063f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-6-calculating-derivatives/constant-multiple-rule/Eaei-Y5AO_E.pdf
+    title: 3play pdf file
+    type: null
+    uid: 88dcb688e71f238b639d1a70aa12f531
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bf01bf7dbd0cec6e0994f9ab0361063f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 65e3d356db69602c9a14f9c95d1b37cf
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bf01bf7dbd0cec6e0994f9ab0361063f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 932d7ae920a4d3a653080359cc44fa3d
+inline_embed_id: 25563956constantmultiplerule22550974
 parent_uid: a50336604c88798f90662c641ab35802
+related_resources_text: ''
+short_url: constant-multiple-rule
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-6-calculating-derivatives/constant-multiple-rule
-short_url: constant-multiple-rule
-inline_embed_id: 25563956constantmultiplerule22550974
-about_this_resource_text: ''
-related_resources_text: ''
+title: Constant Multiple Rule
 transcript: >-
   <p><span m='7220'>Hi.</span> <span m='7690'>Welcome</span> <span
   m='8060'>back</span> <span m='8270'>to</span> <span
@@ -473,62 +528,7 @@ transcript: >-
   m='421620'>that</span> <span m='421720'>we</span> <span m='421830'>just</span>
   <span m='422090'>proved.</span> <span m='423280'>So</span> <span
   m='423440'>that's</span> <span m='423690'>that.</span> </p>
-embedded_media:
-  - uid: f0c1afb2ac0cb30f5eb97af3a80ac5f3
-    parent_uid: bf01bf7dbd0cec6e0994f9ab0361063f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Eaei-Y5AO_E
-  - uid: 0bce3a8a9b2595696db570585da9e65c
-    parent_uid: bf01bf7dbd0cec6e0994f9ab0361063f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Eaei-Y5AO_E/default.jpg'
-  - uid: dfba958d2a086c53226e05222910f779
-    parent_uid: bf01bf7dbd0cec6e0994f9ab0361063f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/constant-multiple-rule/id414308064?i=90318620
-  - uid: ac0d4f099867bb8eb57b5ab22b6ecbc6
-    parent_uid: bf01bf7dbd0cec6e0994f9ab0361063f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_04_300k.mp4'
-  - uid: c78d4eb08cb0c06798004028f35d4709
-    parent_uid: bf01bf7dbd0cec6e0994f9ab0361063f
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Eaei-Y5AO_E
-  - uid: 6b5ef1f0fb26ba71dc20a2a62f63f5cb
-    parent_uid: bf01bf7dbd0cec6e0994f9ab0361063f
-    id: Eaei-Y5AO_E.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-6-calculating-derivatives/constant-multiple-rule/Eaei-Y5AO_E.srt
-  - uid: 88dcb688e71f238b639d1a70aa12f531
-    parent_uid: bf01bf7dbd0cec6e0994f9ab0361063f
-    id: Eaei-Y5AO_E.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-6-calculating-derivatives/constant-multiple-rule/Eaei-Y5AO_E.pdf
-  - uid: 65e3d356db69602c9a14f9c95d1b37cf
-    parent_uid: bf01bf7dbd0cec6e0994f9ab0361063f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 932d7ae920a4d3a653080359cc44fa3d
-    parent_uid: bf01bf7dbd0cec6e0994f9ab0361063f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: bf01bf7dbd0cec6e0994f9ab0361063f
 type: courses
 layout: video
 ---

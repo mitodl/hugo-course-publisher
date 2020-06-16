@@ -1,13 +1,62 @@
 ---
-title: 'Video 1: The Power of Visualizations'
-uid: 0f1d95d5557658e3801b5fa220a433f3
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: cYGYTNZTP7M
+    parent_uid: 0f1d95d5557658e3801b5fa220a433f3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4837556da26c644b4dda65bc3c342bcf
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: cYGYTNZTP7M
+    parent_uid: 0f1d95d5557658e3801b5fa220a433f3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0742149e9ed15e22d20191562a53a5db
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/cYGYTNZTP7M/default.jpg'
+    parent_uid: 0f1d95d5557658e3801b5fa220a433f3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1b927c4a5e214b502dcdf2ee589a3f73
+  - id: cYGYTNZTP7M.srt
+    parent_uid: 0f1d95d5557658e3801b5fa220a433f3
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/visualizing-the-world-an-introduction-to-visualization/video-1-the-power-of-visualizations-0/cYGYTNZTP7M.srt
+    title: 3play caption file
+    type: null
+    uid: a1d9f1e0363dabaf05cb7b6747c80d0f
+  - id: cYGYTNZTP7M.pdf
+    parent_uid: 0f1d95d5557658e3801b5fa220a433f3
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/visualizing-the-world-an-introduction-to-visualization/video-1-the-power-of-visualizations-0/cYGYTNZTP7M.pdf
+    title: 3play pdf file
+    type: null
+    uid: 85d078cb03ab5f1454d4cffa7b9428d6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0f1d95d5557658e3801b5fa220a433f3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c2186f2882da7cab0efc369c620fc44d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0f1d95d5557658e3801b5fa220a433f3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9f7093b8692f88f0dd6cfa6d1f2f891e
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.2.01_300k.mp4
+    parent_uid: 0f1d95d5557658e3801b5fa220a433f3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: df89f182511cb764d06e4ebe75dd8bf0
+inline_embed_id: 67187445video1thepowerofvisualizations54729918
 parent_uid: 274ac6b9daf6cd65874ec643ab327953
+related_resources_text: ''
+short_url: video-1-the-power-of-visualizations-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/visualizing-the-world-an-introduction-to-visualization/video-1-the-power-of-visualizations-0
-short_url: video-1-the-power-of-visualizations-0
-inline_embed_id: 67187445video1thepowerofvisualizations54729918
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: The Power of Visualizations'
 transcript: >-
   <p><span m='9930'>In</span> <span m='10385'>this</span> <span
   m='10840'>lecture,</span> <span m='11295'>we'll</span> <span
@@ -171,56 +220,7 @@ transcript: >-
   m='189483'>how</span> <span m='190156'>they</span> <span m='190830'>use</span>
   <span m='191503'>visualizations</span> <span m='192176'>effectively.</span>
   </p>
-embedded_media:
-  - uid: 4837556da26c644b4dda65bc3c342bcf
-    parent_uid: 0f1d95d5557658e3801b5fa220a433f3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: cYGYTNZTP7M
-  - uid: 0742149e9ed15e22d20191562a53a5db
-    parent_uid: 0f1d95d5557658e3801b5fa220a433f3
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: cYGYTNZTP7M
-  - uid: 1b927c4a5e214b502dcdf2ee589a3f73
-    parent_uid: 0f1d95d5557658e3801b5fa220a433f3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/cYGYTNZTP7M/default.jpg'
-  - uid: a1d9f1e0363dabaf05cb7b6747c80d0f
-    parent_uid: 0f1d95d5557658e3801b5fa220a433f3
-    id: cYGYTNZTP7M.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/visualizing-the-world-an-introduction-to-visualization/video-1-the-power-of-visualizations-0/cYGYTNZTP7M.srt
-  - uid: 85d078cb03ab5f1454d4cffa7b9428d6
-    parent_uid: 0f1d95d5557658e3801b5fa220a433f3
-    id: cYGYTNZTP7M.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/visualizing-the-world-an-introduction-to-visualization/video-1-the-power-of-visualizations-0/cYGYTNZTP7M.pdf
-  - uid: c2186f2882da7cab0efc369c620fc44d
-    parent_uid: 0f1d95d5557658e3801b5fa220a433f3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9f7093b8692f88f0dd6cfa6d1f2f891e
-    parent_uid: 0f1d95d5557658e3801b5fa220a433f3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: df89f182511cb764d06e4ebe75dd8bf0
-    parent_uid: 0f1d95d5557658e3801b5fa220a433f3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.2.01_300k.mp4
+uid: 0f1d95d5557658e3801b5fa220a433f3
 type: courses
 layout: video
 ---

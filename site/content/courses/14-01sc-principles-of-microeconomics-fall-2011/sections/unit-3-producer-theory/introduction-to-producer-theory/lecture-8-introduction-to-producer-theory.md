@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 8: Introduction to Producer Theory'
-uid: 47cecaae1ca13f9de21d3b2201d0fa12
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: A6FOBdtbcz4
+    parent_uid: 47cecaae1ca13f9de21d3b2201d0fa12
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 78afdd65dd311947875cc942e83647e4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/A6FOBdtbcz4/default.jpg'
+    parent_uid: 47cecaae1ca13f9de21d3b2201d0fa12
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 53adabefd9c6f9c764a94401fa5b09c2
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: A6FOBdtbcz4
+    parent_uid: 47cecaae1ca13f9de21d3b2201d0fa12
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9b94a3c0728a60696b5688ac5587b42f
+  - id: A6FOBdtbcz4.srt
+    parent_uid: 47cecaae1ca13f9de21d3b2201d0fa12
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/introduction-to-producer-theory/lecture-8-introduction-to-producer-theory/A6FOBdtbcz4.srt
+    title: 3play caption file
+    type: null
+    uid: 11a40464921acb90a5ef39ee9580c8a5
+  - id: A6FOBdtbcz4.pdf
+    parent_uid: 47cecaae1ca13f9de21d3b2201d0fa12
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/introduction-to-producer-theory/lecture-8-introduction-to-producer-theory/A6FOBdtbcz4.pdf
+    title: 3play pdf file
+    type: null
+    uid: b4d472b677c80d0018ad69142f6cb7e0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 47cecaae1ca13f9de21d3b2201d0fa12
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2345e859d191f317885c556afb426c8d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 47cecaae1ca13f9de21d3b2201d0fa12
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a576d3737ba359ed8df9823563a24e81
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec08_300k.mp4'
+    parent_uid: 47cecaae1ca13f9de21d3b2201d0fa12
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0d4c46fe5e81de5b6c1c9892ece26c5f
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-8-introduction-to/id496265654?i=109892738
+    parent_uid: 47cecaae1ca13f9de21d3b2201d0fa12
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e50e290cb71430ba064aa4539e4d6eec
+inline_embed_id: 66135414lecture8introductiontoproducertheory1538465
 parent_uid: c282655da4961349b75e5b0e7692c61b
+related_resources_text: ''
+short_url: lecture-8-introduction-to-producer-theory
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/introduction-to-producer-theory/lecture-8-introduction-to-producer-theory
-short_url: lecture-8-introduction-to-producer-theory
-inline_embed_id: 66135414lecture8introductiontoproducertheory1538465
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 8: Introduction to Producer Theory'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -2741,62 +2796,7 @@ transcript: >-
   m='2239110'>more</span> <span m='2239230'>about</span> <span
   m='2239350'>production</span> <span m='2239870'>on</span> <span
   m='2240090'>Wednesday.</span> </p>
-embedded_media:
-  - uid: 78afdd65dd311947875cc942e83647e4
-    parent_uid: 47cecaae1ca13f9de21d3b2201d0fa12
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: A6FOBdtbcz4
-  - uid: 53adabefd9c6f9c764a94401fa5b09c2
-    parent_uid: 47cecaae1ca13f9de21d3b2201d0fa12
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/A6FOBdtbcz4/default.jpg'
-  - uid: 9b94a3c0728a60696b5688ac5587b42f
-    parent_uid: 47cecaae1ca13f9de21d3b2201d0fa12
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: A6FOBdtbcz4
-  - uid: 11a40464921acb90a5ef39ee9580c8a5
-    parent_uid: 47cecaae1ca13f9de21d3b2201d0fa12
-    id: A6FOBdtbcz4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/introduction-to-producer-theory/lecture-8-introduction-to-producer-theory/A6FOBdtbcz4.srt
-  - uid: b4d472b677c80d0018ad69142f6cb7e0
-    parent_uid: 47cecaae1ca13f9de21d3b2201d0fa12
-    id: A6FOBdtbcz4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-3-producer-theory/introduction-to-producer-theory/lecture-8-introduction-to-producer-theory/A6FOBdtbcz4.pdf
-  - uid: 2345e859d191f317885c556afb426c8d
-    parent_uid: 47cecaae1ca13f9de21d3b2201d0fa12
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a576d3737ba359ed8df9823563a24e81
-    parent_uid: 47cecaae1ca13f9de21d3b2201d0fa12
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0d4c46fe5e81de5b6c1c9892ece26c5f
-    parent_uid: 47cecaae1ca13f9de21d3b2201d0fa12
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec08_300k.mp4'
-  - uid: e50e290cb71430ba064aa4539e4d6eec
-    parent_uid: 47cecaae1ca13f9de21d3b2201d0fa12
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-8-introduction-to/id496265654?i=109892738
+uid: 47cecaae1ca13f9de21d3b2201d0fa12
 type: courses
 layout: video
 ---

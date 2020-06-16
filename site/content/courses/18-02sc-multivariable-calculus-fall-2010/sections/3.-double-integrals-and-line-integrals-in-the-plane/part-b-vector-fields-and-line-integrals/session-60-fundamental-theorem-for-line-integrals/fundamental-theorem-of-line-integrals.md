@@ -1,13 +1,68 @@
 ---
-title: Fundamental Theorem of Line Integrals
-uid: cec5501b359ce12262fd817a9283a78a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 9rVojYcPeoU
+    parent_uid: cec5501b359ce12262fd817a9283a78a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d3592b8e9caf9feef16d13551adf4f3b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/9rVojYcPeoU/default.jpg'
+    parent_uid: cec5501b359ce12262fd817a9283a78a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 50b29d72be73026355aa7f5448f53231
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_42_300k.mp4'
+    parent_uid: cec5501b359ce12262fd817a9283a78a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a813dd61f06d14e599bf79e6c0f96ffe
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/fundamental-theorem-line-integrals/id414355340?i=90322868
+    parent_uid: cec5501b359ce12262fd817a9283a78a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: dabe2b4b2ddb959675cb463d34c16fcf
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: 9rVojYcPeoU
+    parent_uid: cec5501b359ce12262fd817a9283a78a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b833b274f88b3ba501c2a71c56206aea
+  - id: 9rVojYcPeoU.srt
+    parent_uid: cec5501b359ce12262fd817a9283a78a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-60-fundamental-theorem-for-line-integrals/fundamental-theorem-of-line-integrals/9rVojYcPeoU.srt
+    title: 3play caption file
+    type: null
+    uid: 9b10c12d49fa8974bda63131fe66fed1
+  - id: 9rVojYcPeoU.pdf
+    parent_uid: cec5501b359ce12262fd817a9283a78a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-60-fundamental-theorem-for-line-integrals/fundamental-theorem-of-line-integrals/9rVojYcPeoU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 72641c62b86be1309c0e3d079c171063
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cec5501b359ce12262fd817a9283a78a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 986eee4af8982a2a27fd74d22ec61451
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cec5501b359ce12262fd817a9283a78a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 04da0292bb9e0d257e5b8318b502e2ae
+inline_embed_id: 14376503fundamentaltheoremoflineintegrals66797009
 parent_uid: 5959801571e055a7023b590e1522b972
+related_resources_text: ''
+short_url: fundamental-theorem-of-line-integrals
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-60-fundamental-theorem-for-line-integrals/fundamental-theorem-of-line-integrals
-short_url: fundamental-theorem-of-line-integrals
-inline_embed_id: 14376503fundamentaltheoremoflineintegrals66797009
-about_this_resource_text: ''
-related_resources_text: ''
+title: Fundamental Theorem of Line Integrals
 transcript: >-
   <p><span m='0'>DAVID JORDAN: Hello,</span> <span m='5690'>welcome</span> <span
   m='6220'>back to</span> <span m='6430'>recitation.</span> <span
@@ -559,62 +614,7 @@ transcript: >-
   m='665550'>we</span> <span m='665800'>computed</span> <span
   m='666190'>using</span> <span m='666460'>the</span> <span m='666550'>line
   integrals.</span> </p>
-embedded_media:
-  - uid: d3592b8e9caf9feef16d13551adf4f3b
-    parent_uid: cec5501b359ce12262fd817a9283a78a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 9rVojYcPeoU
-  - uid: 50b29d72be73026355aa7f5448f53231
-    parent_uid: cec5501b359ce12262fd817a9283a78a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9rVojYcPeoU/default.jpg'
-  - uid: a813dd61f06d14e599bf79e6c0f96ffe
-    parent_uid: cec5501b359ce12262fd817a9283a78a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_42_300k.mp4'
-  - uid: dabe2b4b2ddb959675cb463d34c16fcf
-    parent_uid: cec5501b359ce12262fd817a9283a78a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/fundamental-theorem-line-integrals/id414355340?i=90322868
-  - uid: b833b274f88b3ba501c2a71c56206aea
-    parent_uid: cec5501b359ce12262fd817a9283a78a
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 9rVojYcPeoU
-  - uid: 9b10c12d49fa8974bda63131fe66fed1
-    parent_uid: cec5501b359ce12262fd817a9283a78a
-    id: 9rVojYcPeoU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-60-fundamental-theorem-for-line-integrals/fundamental-theorem-of-line-integrals/9rVojYcPeoU.srt
-  - uid: 72641c62b86be1309c0e3d079c171063
-    parent_uid: cec5501b359ce12262fd817a9283a78a
-    id: 9rVojYcPeoU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-60-fundamental-theorem-for-line-integrals/fundamental-theorem-of-line-integrals/9rVojYcPeoU.pdf
-  - uid: 986eee4af8982a2a27fd74d22ec61451
-    parent_uid: cec5501b359ce12262fd817a9283a78a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 04da0292bb9e0d257e5b8318b502e2ae
-    parent_uid: cec5501b359ce12262fd817a9283a78a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: cec5501b359ce12262fd817a9283a78a
 type: courses
 layout: video
 ---

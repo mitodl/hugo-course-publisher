@@ -1,13 +1,68 @@
 ---
-title: Linear Approximation with Differentials
-uid: 1892d4decd244627b65988bcabd7bb9c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ed-rB3k_56U
+    parent_uid: 1892d4decd244627b65988bcabd7bb9c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8c50e7d31e8b8782f8924d0514fbd09d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ed-rB3k_56U/default.jpg'
+    parent_uid: 1892d4decd244627b65988bcabd7bb9c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cd26c998561968dc9b73cc4197ca2c99
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/linear-approx-differentials/id414308064?i=90318992
+    parent_uid: 1892d4decd244627b65988bcabd7bb9c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1880a28cd43f724d5953b8425fc50db6
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_30_300k.mp4'
+    parent_uid: 1892d4decd244627b65988bcabd7bb9c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bd1f605577cff57e8d04f0584f1692c8
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ed-rB3k_56U
+    parent_uid: 1892d4decd244627b65988bcabd7bb9c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fbbff70e96ac49c7bfd71252694d60fb
+  - id: ed-rB3k_56U.srt
+    parent_uid: 1892d4decd244627b65988bcabd7bb9c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials/linear-approximation-with-differentials/ed-rB3k_56U.srt
+    title: 3play caption file
+    type: null
+    uid: 6b94505f2ec73a7d6f49c1ff0dc0ec25
+  - id: ed-rB3k_56U.pdf
+    parent_uid: 1892d4decd244627b65988bcabd7bb9c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials/linear-approximation-with-differentials/ed-rB3k_56U.pdf
+    title: 3play pdf file
+    type: null
+    uid: e8e8766fc703402bdcb9846ba8040af0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1892d4decd244627b65988bcabd7bb9c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: adf2cd8e5fb73f2a1223ad58080007aa
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1892d4decd244627b65988bcabd7bb9c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f63fbc5ff04a47ccb7ecf34783ffe8bb
+inline_embed_id: 53352949linearapproximationwithdifferentials29215061
 parent_uid: fa53a54f73841c72094dc4856e73978e
+related_resources_text: ''
+short_url: linear-approximation-with-differentials
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials/linear-approximation-with-differentials
-short_url: linear-approximation-with-differentials
-inline_embed_id: 53352949linearapproximationwithdifferentials29215061
-about_this_resource_text: ''
-related_resources_text: ''
+title: Linear Approximation with Differentials
 transcript: >-
   <p><span m='6920'>PROFESSOR: Hi.</span> <span m='7340'>Welcome</span> <span
   m='7730'>back to</span> <span m='7960'>recitation.</span> <span
@@ -340,62 +395,7 @@ transcript: >-
   <span m='330090'>plus</span> <span m='330350'>3/4.</span> <span m='332280'>All
   right,</span> <span m='332750'>so</span> <span m='332920'>that's</span> <span
   m='333150'>that.</span> </p>
-embedded_media:
-  - uid: 8c50e7d31e8b8782f8924d0514fbd09d
-    parent_uid: 1892d4decd244627b65988bcabd7bb9c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ed-rB3k_56U
-  - uid: cd26c998561968dc9b73cc4197ca2c99
-    parent_uid: 1892d4decd244627b65988bcabd7bb9c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ed-rB3k_56U/default.jpg'
-  - uid: 1880a28cd43f724d5953b8425fc50db6
-    parent_uid: 1892d4decd244627b65988bcabd7bb9c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/linear-approx-differentials/id414308064?i=90318992
-  - uid: bd1f605577cff57e8d04f0584f1692c8
-    parent_uid: 1892d4decd244627b65988bcabd7bb9c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_30_300k.mp4'
-  - uid: fbbff70e96ac49c7bfd71252694d60fb
-    parent_uid: 1892d4decd244627b65988bcabd7bb9c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ed-rB3k_56U
-  - uid: 6b94505f2ec73a7d6f49c1ff0dc0ec25
-    parent_uid: 1892d4decd244627b65988bcabd7bb9c
-    id: ed-rB3k_56U.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials/linear-approximation-with-differentials/ed-rB3k_56U.srt
-  - uid: e8e8766fc703402bdcb9846ba8040af0
-    parent_uid: 1892d4decd244627b65988bcabd7bb9c
-    id: ed-rB3k_56U.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-c-mean-value-theorem-antiderivatives-and-differential-equations/session-36-differentials/linear-approximation-with-differentials/ed-rB3k_56U.pdf
-  - uid: adf2cd8e5fb73f2a1223ad58080007aa
-    parent_uid: 1892d4decd244627b65988bcabd7bb9c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f63fbc5ff04a47ccb7ecf34783ffe8bb
-    parent_uid: 1892d4decd244627b65988bcabd7bb9c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 1892d4decd244627b65988bcabd7bb9c
 type: courses
 layout: video
 ---

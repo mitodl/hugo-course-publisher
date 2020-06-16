@@ -1,13 +1,68 @@
 ---
-title: 'Line Integrals: Path Dependence'
-uid: f6d451e903f45c2d8db0ab9bcefc2818
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: gBuIwfdoOn0
+    parent_uid: f6d451e903f45c2d8db0ab9bcefc2818
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5a5b255dc1bc1b245318f16a08f54570
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/gBuIwfdoOn0/default.jpg'
+    parent_uid: f6d451e903f45c2d8db0ab9bcefc2818
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7a17fc24dfa0d7c258d860beafbd9d5f
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_39_300k.mp4'
+    parent_uid: f6d451e903f45c2d8db0ab9bcefc2818
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e2892b7bbfe08b101232756621e72eae
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/line-integrals-path-dependence/id414355340?i=90322865
+    parent_uid: f6d451e903f45c2d8db0ab9bcefc2818
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8a165fb516e92756876c04d30f73f083
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: gBuIwfdoOn0
+    parent_uid: f6d451e903f45c2d8db0ab9bcefc2818
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: eae4c71fed22c7c601cf2dcb8cd8caad
+  - id: gBuIwfdoOn0.srt
+    parent_uid: f6d451e903f45c2d8db0ab9bcefc2818
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-57-work-and-line-integrals/line-integrals-path-dependence/gBuIwfdoOn0.srt
+    title: 3play caption file
+    type: null
+    uid: 45d42413f2a758ccc13a0934dd0cf615
+  - id: gBuIwfdoOn0.pdf
+    parent_uid: f6d451e903f45c2d8db0ab9bcefc2818
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-57-work-and-line-integrals/line-integrals-path-dependence/gBuIwfdoOn0.pdf
+    title: 3play pdf file
+    type: null
+    uid: a7a8d462305846459a12626260a723bd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f6d451e903f45c2d8db0ab9bcefc2818
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 59c4bd80b06ce5c55d1d6bbd02559bc0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f6d451e903f45c2d8db0ab9bcefc2818
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 04010e112cbc3f6eca9ad5a577f04624
+inline_embed_id: '60675790lineintegrals:pathdependence90777734'
 parent_uid: 966d4aa4c089ef8644151b6c0f5a967b
+related_resources_text: ''
+short_url: line-integrals-path-dependence
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-57-work-and-line-integrals/line-integrals-path-dependence
-short_url: line-integrals-path-dependence
-inline_embed_id: '60675790lineintegrals:pathdependence90777734'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Line Integrals: Path Dependence'
 transcript: >-
   <p><span m='7450'>JOEL LEWIS: Hi.</span> <span m='7930'>Welcome</span> <span
   m='8260'>back</span> <span m='8460'>to</span> <span
@@ -974,62 +1029,7 @@ transcript: >-
   m='927080'>integrate.</span> </p><p><span m='928620'>All</span> <span
   m='928815'>right.</span> <span m='929400'>I'll</span> <span
   m='929570'>end</span> <span m='929770'>there.</span> </p>
-embedded_media:
-  - uid: 5a5b255dc1bc1b245318f16a08f54570
-    parent_uid: f6d451e903f45c2d8db0ab9bcefc2818
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: gBuIwfdoOn0
-  - uid: 7a17fc24dfa0d7c258d860beafbd9d5f
-    parent_uid: f6d451e903f45c2d8db0ab9bcefc2818
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/gBuIwfdoOn0/default.jpg'
-  - uid: e2892b7bbfe08b101232756621e72eae
-    parent_uid: f6d451e903f45c2d8db0ab9bcefc2818
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_39_300k.mp4'
-  - uid: 8a165fb516e92756876c04d30f73f083
-    parent_uid: f6d451e903f45c2d8db0ab9bcefc2818
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/line-integrals-path-dependence/id414355340?i=90322865
-  - uid: eae4c71fed22c7c601cf2dcb8cd8caad
-    parent_uid: f6d451e903f45c2d8db0ab9bcefc2818
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: gBuIwfdoOn0
-  - uid: 45d42413f2a758ccc13a0934dd0cf615
-    parent_uid: f6d451e903f45c2d8db0ab9bcefc2818
-    id: gBuIwfdoOn0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-57-work-and-line-integrals/line-integrals-path-dependence/gBuIwfdoOn0.srt
-  - uid: a7a8d462305846459a12626260a723bd
-    parent_uid: f6d451e903f45c2d8db0ab9bcefc2818
-    id: gBuIwfdoOn0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-b-vector-fields-and-line-integrals/session-57-work-and-line-integrals/line-integrals-path-dependence/gBuIwfdoOn0.pdf
-  - uid: 59c4bd80b06ce5c55d1d6bbd02559bc0
-    parent_uid: f6d451e903f45c2d8db0ab9bcefc2818
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 04010e112cbc3f6eca9ad5a577f04624
-    parent_uid: f6d451e903f45c2d8db0ab9bcefc2818
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f6d451e903f45c2d8db0ab9bcefc2818
 type: courses
 layout: video
 ---

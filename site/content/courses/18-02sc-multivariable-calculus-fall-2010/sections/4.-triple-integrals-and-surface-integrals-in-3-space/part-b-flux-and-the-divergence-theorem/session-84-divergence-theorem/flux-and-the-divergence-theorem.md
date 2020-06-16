@@ -1,13 +1,68 @@
 ---
-title: Flux and the Divergence Theorem
-uid: faa0b05cc4a5b2e55ff56453d12c69c6
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: CCoTAyZ14XM
+    parent_uid: faa0b05cc4a5b2e55ff56453d12c69c6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8c92074f141f1729b6331d3c4a099b3c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/CCoTAyZ14XM/default.jpg'
+    parent_uid: faa0b05cc4a5b2e55ff56453d12c69c6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: da6bdb69ad8f24e39a2842172bd86b3f
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_60_300k.mp4'
+    parent_uid: faa0b05cc4a5b2e55ff56453d12c69c6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 63bf8fd943dd38123dcb8c44815831ea
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/flux-divergence-theorem/id414355340?i=90322819
+    parent_uid: faa0b05cc4a5b2e55ff56453d12c69c6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5e7b2c1e4c9c1ffbee968e374633f9ba
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: CCoTAyZ14XM
+    parent_uid: faa0b05cc4a5b2e55ff56453d12c69c6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 281fe6073dba2456a8313b0fd0d8e66a
+  - id: CCoTAyZ14XM.srt
+    parent_uid: faa0b05cc4a5b2e55ff56453d12c69c6
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-84-divergence-theorem/flux-and-the-divergence-theorem/CCoTAyZ14XM.srt
+    title: 3play caption file
+    type: null
+    uid: 5979a0e7a16c9f7f66cf8a23bf47bc9a
+  - id: CCoTAyZ14XM.pdf
+    parent_uid: faa0b05cc4a5b2e55ff56453d12c69c6
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-84-divergence-theorem/flux-and-the-divergence-theorem/CCoTAyZ14XM.pdf
+    title: 3play pdf file
+    type: null
+    uid: c60369bb69f440d1de0c802e14236e36
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: faa0b05cc4a5b2e55ff56453d12c69c6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f1bc0a9e721af791c5ed4ef2bf397a8e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: faa0b05cc4a5b2e55ff56453d12c69c6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8820027fc796fb5a301e25c89759e764
+inline_embed_id: 89531837fluxandthedivergencetheorem62034699
 parent_uid: d088492f402f9db5c30dcd82be2c37a6
+related_resources_text: ''
+short_url: flux-and-the-divergence-theorem
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-84-divergence-theorem/flux-and-the-divergence-theorem
-short_url: flux-and-the-divergence-theorem
-inline_embed_id: 89531837fluxandthedivergencetheorem62034699
-about_this_resource_text: ''
-related_resources_text: ''
+title: Flux and the Divergence Theorem
 transcript: >-
   <p><span m='0'>JOEL LEWIS:</span> <span m='7740'>Hi.</span> <span
   m='8280'>Welcome</span> <span m='8630'>back</span> <span m='8850'>to</span>
@@ -817,62 +872,7 @@ transcript: >-
   <span m='714410'>squared</span> <span m='715130'>r</span> <span
   m='715380'>squared.</span> </p><p><span m='716220'>I'll</span> <span
   m='716480'>stop</span> <span m='716800'>there.</span> </p>
-embedded_media:
-  - uid: 8c92074f141f1729b6331d3c4a099b3c
-    parent_uid: faa0b05cc4a5b2e55ff56453d12c69c6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: CCoTAyZ14XM
-  - uid: da6bdb69ad8f24e39a2842172bd86b3f
-    parent_uid: faa0b05cc4a5b2e55ff56453d12c69c6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CCoTAyZ14XM/default.jpg'
-  - uid: 63bf8fd943dd38123dcb8c44815831ea
-    parent_uid: faa0b05cc4a5b2e55ff56453d12c69c6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_60_300k.mp4'
-  - uid: 5e7b2c1e4c9c1ffbee968e374633f9ba
-    parent_uid: faa0b05cc4a5b2e55ff56453d12c69c6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/flux-divergence-theorem/id414355340?i=90322819
-  - uid: 281fe6073dba2456a8313b0fd0d8e66a
-    parent_uid: faa0b05cc4a5b2e55ff56453d12c69c6
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: CCoTAyZ14XM
-  - uid: 5979a0e7a16c9f7f66cf8a23bf47bc9a
-    parent_uid: faa0b05cc4a5b2e55ff56453d12c69c6
-    id: CCoTAyZ14XM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-84-divergence-theorem/flux-and-the-divergence-theorem/CCoTAyZ14XM.srt
-  - uid: c60369bb69f440d1de0c802e14236e36
-    parent_uid: faa0b05cc4a5b2e55ff56453d12c69c6
-    id: CCoTAyZ14XM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-b-flux-and-the-divergence-theorem/session-84-divergence-theorem/flux-and-the-divergence-theorem/CCoTAyZ14XM.pdf
-  - uid: f1bc0a9e721af791c5ed4ef2bf397a8e
-    parent_uid: faa0b05cc4a5b2e55ff56453d12c69c6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8820027fc796fb5a301e25c89759e764
-    parent_uid: faa0b05cc4a5b2e55ff56453d12c69c6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: faa0b05cc4a5b2e55ff56453d12c69c6
 type: courses
 layout: video
 ---

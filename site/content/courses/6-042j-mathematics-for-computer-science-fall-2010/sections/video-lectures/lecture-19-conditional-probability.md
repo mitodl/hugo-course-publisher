@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 19: Conditional Probability'
-uid: 6d588b3821aeaf00d101d86f29a4bacf
+about_this_resource_text: "<p><strong>Description:</strong> Covers conditional probability and its applications to examples including medical testing, gambling, and court cases.</p>\r\n<p><strong>Speaker:</strong> Tom Leighton</p>\r\n<p><strong>Instructor's Note:</strong> The actual details of the Berkeley sex discrimination case may have been different than what was stated in the lecture, so it is best to consider the description given in lecture as fictional but illustrative of the mathematical point being made.</p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: E6FbvM-FGZ8
+    parent_uid: 6d588b3821aeaf00d101d86f29a4bacf
+    title: Video-YouTube-Stream
+    type: Video
+    uid: cf4083858e1a18f2fd837896e036d7c8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/E6FbvM-FGZ8/default.jpg'
+    parent_uid: 6d588b3821aeaf00d101d86f29a4bacf
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 32151eb018c09da0665d6966654c6d99
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-19-conditional-probability/id503873536?i=110644974
+    parent_uid: 6d588b3821aeaf00d101d86f29a4bacf
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7c655b190476899a4fa589e6c4c5eaaf
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec19_300k.mp4'
+    parent_uid: 6d588b3821aeaf00d101d86f29a4bacf
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b6040c5c68f6214bc40c784cfed8873c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: E6FbvM-FGZ8
+    parent_uid: 6d588b3821aeaf00d101d86f29a4bacf
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 274cba6d36d50e7bbc2e0f258d5ada06
+  - id: E6FbvM-FGZ8.srt
+    parent_uid: 6d588b3821aeaf00d101d86f29a4bacf
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-19-conditional-probability/E6FbvM-FGZ8.srt
+    title: 3play caption file
+    type: null
+    uid: 2756b2ec2d079e2869554ec7de644c97
+  - id: E6FbvM-FGZ8.pdf
+    parent_uid: 6d588b3821aeaf00d101d86f29a4bacf
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-19-conditional-probability/E6FbvM-FGZ8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 472fb084c579c044b7c3ee7a0f86d8ff
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6d588b3821aeaf00d101d86f29a4bacf
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3f00bba5e7b32ad5513dd3453bc6f6c4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6d588b3821aeaf00d101d86f29a4bacf
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c5f1fe2a53a761cbdf79e1a8f08e2012
+inline_embed_id: '274485lecture19:conditionalprobability3851075'
 parent_uid: 7e5e792254d703550b60881541fa6160
+related_resources_text: ''
+short_url: lecture-19-conditional-probability
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-19-conditional-probability
-short_url: lecture-19-conditional-probability
-inline_embed_id: '274485lecture19:conditionalprobability3851075'
-about_this_resource_text: "<p><strong>Description:</strong> Covers conditional probability and its applications to examples including medical testing, gambling, and court cases.</p>\r\n<p><strong>Speaker:</strong> Tom Leighton</p>\r\n<p><strong>Instructor's Note:</strong> The actual details of the Berkeley sex discrimination case may have been different than what was stated in the lecture, so it is best to consider the description given in lecture as fictional but illustrative of the mathematical point being made.</p>"
-related_resources_text: ''
+title: 'Lecture 19: Conditional Probability'
 transcript: >-
   <p><span m='390'>The</span> <span m='510'>following</span> <span
   m='950'>content</span> <span m='1540'>is</span> <span m='1650'>provided</span>
@@ -4421,62 +4476,7 @@ transcript: >-
   m='4899800'>see</span> <span m='4899960'>more</span> <span
   m='4900260'>examples</span> <span m='4900560'>next</span> <span
   m='4900860'>time.</span> </p><p></p>
-embedded_media:
-  - uid: cf4083858e1a18f2fd837896e036d7c8
-    parent_uid: 6d588b3821aeaf00d101d86f29a4bacf
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: E6FbvM-FGZ8
-  - uid: 32151eb018c09da0665d6966654c6d99
-    parent_uid: 6d588b3821aeaf00d101d86f29a4bacf
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/E6FbvM-FGZ8/default.jpg'
-  - uid: 7c655b190476899a4fa589e6c4c5eaaf
-    parent_uid: 6d588b3821aeaf00d101d86f29a4bacf
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-19-conditional-probability/id503873536?i=110644974
-  - uid: b6040c5c68f6214bc40c784cfed8873c
-    parent_uid: 6d588b3821aeaf00d101d86f29a4bacf
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec19_300k.mp4'
-  - uid: 274cba6d36d50e7bbc2e0f258d5ada06
-    parent_uid: 6d588b3821aeaf00d101d86f29a4bacf
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: E6FbvM-FGZ8
-  - uid: 2756b2ec2d079e2869554ec7de644c97
-    parent_uid: 6d588b3821aeaf00d101d86f29a4bacf
-    id: E6FbvM-FGZ8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-19-conditional-probability/E6FbvM-FGZ8.srt
-  - uid: 472fb084c579c044b7c3ee7a0f86d8ff
-    parent_uid: 6d588b3821aeaf00d101d86f29a4bacf
-    id: E6FbvM-FGZ8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-19-conditional-probability/E6FbvM-FGZ8.pdf
-  - uid: 3f00bba5e7b32ad5513dd3453bc6f6c4
-    parent_uid: 6d588b3821aeaf00d101d86f29a4bacf
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c5f1fe2a53a761cbdf79e1a8f08e2012
-    parent_uid: 6d588b3821aeaf00d101d86f29a4bacf
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6d588b3821aeaf00d101d86f29a4bacf
 type: courses
 layout: video
 ---

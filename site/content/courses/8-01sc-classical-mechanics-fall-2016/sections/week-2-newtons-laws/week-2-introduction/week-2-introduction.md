@@ -1,13 +1,67 @@
 ---
-title: Week 2 Introduction
-uid: 8d0d60fbc742530a4d9b878e1b154856
+about_this_resource_text: '<p><strong>Instructor</strong>: Prof. Deepto Chakrabarty</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: yLb_a1EE888
+    parent_uid: 8d0d60fbc742530a4d9b878e1b154856
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0c1da25447d20fb0f60a9b2954c89c49
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/yLb_a1EE888/default.jpg'
+    parent_uid: 8d0d60fbc742530a4d9b878e1b154856
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2b2c0f8a1c7b68ed0fd1cac4b5da3f69
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: yLb_a1EE888
+    parent_uid: 8d0d60fbc742530a4d9b878e1b154856
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a3d0776c5c22c0257ece5a4e0c46985e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 8d0d60fbc742530a4d9b878e1b154856
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 831a207f580323741f54383006c1da02
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W02Intro_360p.mp4'
+    parent_uid: 8d0d60fbc742530a4d9b878e1b154856
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: cf36ed676faa79906f98ca08d2c3d9b9
+  - id: yLb_a1EE888.srt
+    parent_uid: 8d0d60fbc742530a4d9b878e1b154856
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/week-2-introduction/week-2-introduction/yLb_a1EE888.srt
+    title: 3play caption file
+    type: null
+    uid: 8fc0f0cd40839f80abf6c12cff3f0575
+  - id: yLb_a1EE888.pdf
+    parent_uid: 8d0d60fbc742530a4d9b878e1b154856
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/week-2-introduction/week-2-introduction/yLb_a1EE888.pdf
+    title: 3play pdf file
+    type: null
+    uid: d5d7382e32ee44044201e88003fe66a5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8d0d60fbc742530a4d9b878e1b154856
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0b1f26d11359f0032e7a2ea8b8c042cf
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8d0d60fbc742530a4d9b878e1b154856
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b7c96bab55acbe335b5f085d7494c8d8
+inline_embed_id: 46245398week2introduction2587450
 parent_uid: eff85fab7e8fa0b88e6d207da8a7b2d5
+related_resources_text: ''
+short_url: week-2-introduction
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/week-2-introduction/week-2-introduction
-short_url: week-2-introduction
-inline_embed_id: 46245398week2introduction2587450
-about_this_resource_text: '<p><strong>Instructor</strong>: Prof. Deepto Chakrabarty</p>'
-related_resources_text: ''
+title: Week 2 Introduction
 transcript: >-
   <p><span m='1470'>Last week, we discussed the kinematics of motion.</span>
   </p><p><span m='5170'>How one describes the motion of an object</span> <span
@@ -55,61 +109,7 @@ transcript: >-
   relation</span> <span m='131550'>to the kinematics, the change in geometry of
   the object's motion</span> <span m='134860'>or trajectory, on the right-hand
   side.</span> </p><p></p>
-embedded_media:
-  - uid: 0c1da25447d20fb0f60a9b2954c89c49
-    parent_uid: 8d0d60fbc742530a4d9b878e1b154856
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: yLb_a1EE888
-  - uid: 2b2c0f8a1c7b68ed0fd1cac4b5da3f69
-    parent_uid: 8d0d60fbc742530a4d9b878e1b154856
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/yLb_a1EE888/default.jpg'
-  - uid: a3d0776c5c22c0257ece5a4e0c46985e
-    parent_uid: 8d0d60fbc742530a4d9b878e1b154856
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: yLb_a1EE888
-  - uid: 831a207f580323741f54383006c1da02
-    parent_uid: 8d0d60fbc742530a4d9b878e1b154856
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: cf36ed676faa79906f98ca08d2c3d9b9
-    parent_uid: 8d0d60fbc742530a4d9b878e1b154856
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W02Intro_360p.mp4'
-  - uid: 8fc0f0cd40839f80abf6c12cff3f0575
-    parent_uid: 8d0d60fbc742530a4d9b878e1b154856
-    id: yLb_a1EE888.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/week-2-introduction/week-2-introduction/yLb_a1EE888.srt
-  - uid: d5d7382e32ee44044201e88003fe66a5
-    parent_uid: 8d0d60fbc742530a4d9b878e1b154856
-    id: yLb_a1EE888.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/week-2-introduction/week-2-introduction/yLb_a1EE888.pdf
-  - uid: 0b1f26d11359f0032e7a2ea8b8c042cf
-    parent_uid: 8d0d60fbc742530a4d9b878e1b154856
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b7c96bab55acbe335b5f085d7494c8d8
-    parent_uid: 8d0d60fbc742530a4d9b878e1b154856
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 8d0d60fbc742530a4d9b878e1b154856
 type: courses
 layout: video
 ---

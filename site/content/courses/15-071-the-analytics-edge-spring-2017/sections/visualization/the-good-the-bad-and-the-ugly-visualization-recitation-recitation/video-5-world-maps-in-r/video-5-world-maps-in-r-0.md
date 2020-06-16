@@ -1,13 +1,62 @@
 ---
-title: 'Video 5: World Maps in R'
-uid: 2d0cc6b8f9c36bd7f2c0eae1650a9349
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2rnsbodsJVc
+    parent_uid: 2d0cc6b8f9c36bd7f2c0eae1650a9349
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f73e31e863ad7f58f06e8b4c8385af7e
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 2rnsbodsJVc
+    parent_uid: 2d0cc6b8f9c36bd7f2c0eae1650a9349
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9665bb61f3d394d25cf21db802717132
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2rnsbodsJVc/default.jpg'
+    parent_uid: 2d0cc6b8f9c36bd7f2c0eae1650a9349
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7c264916cae2446f5494c7c3c1936cd3
+  - id: 2rnsbodsJVc.srt
+    parent_uid: 2d0cc6b8f9c36bd7f2c0eae1650a9349
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-5-world-maps-in-r/video-5-world-maps-in-r-0/2rnsbodsJVc.srt
+    title: 3play caption file
+    type: null
+    uid: ab1aa3660be1898bba56c69bd87cb311
+  - id: 2rnsbodsJVc.pdf
+    parent_uid: 2d0cc6b8f9c36bd7f2c0eae1650a9349
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-5-world-maps-in-r/video-5-world-maps-in-r-0/2rnsbodsJVc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 81b9e8f033d1e989be43b21b3957e188
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2d0cc6b8f9c36bd7f2c0eae1650a9349
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bcb7a78237dbe39f5153cfe27625535d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2d0cc6b8f9c36bd7f2c0eae1650a9349
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 14ba93356ff88d70d5ab7d4e6e5257f9
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.4.06_300k.mp4
+    parent_uid: 2d0cc6b8f9c36bd7f2c0eae1650a9349
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8e0d633df65dbc1075b88d502b5f1433
+inline_embed_id: 85414628video5worldmapsinr69789641
 parent_uid: 3ba39db4a883d8dbc319e06abeaa21a5
+related_resources_text: ''
+short_url: video-5-world-maps-in-r-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-5-world-maps-in-r/video-5-world-maps-in-r-0
-short_url: video-5-world-maps-in-r-0
-inline_embed_id: 85414628video5worldmapsinr69789641
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 5: World Maps in R'
 transcript: >-
   <p><span m='4500'>So</span> <span m='4698'>now</span> <span
   m='4897'>we're</span> <span m='5096'>going</span> <span m='5295'>to</span>
@@ -629,56 +678,7 @@ transcript: >-
   m='696845'>hometown</span> <span m='697244'>of</span> <span
   m='697643'>Auckland,</span> <span m='698042'>New</span> <span
   m='698441'>Zealand.</span> </p>
-embedded_media:
-  - uid: f73e31e863ad7f58f06e8b4c8385af7e
-    parent_uid: 2d0cc6b8f9c36bd7f2c0eae1650a9349
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2rnsbodsJVc
-  - uid: 9665bb61f3d394d25cf21db802717132
-    parent_uid: 2d0cc6b8f9c36bd7f2c0eae1650a9349
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2rnsbodsJVc
-  - uid: 7c264916cae2446f5494c7c3c1936cd3
-    parent_uid: 2d0cc6b8f9c36bd7f2c0eae1650a9349
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2rnsbodsJVc/default.jpg'
-  - uid: ab1aa3660be1898bba56c69bd87cb311
-    parent_uid: 2d0cc6b8f9c36bd7f2c0eae1650a9349
-    id: 2rnsbodsJVc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-5-world-maps-in-r/video-5-world-maps-in-r-0/2rnsbodsJVc.srt
-  - uid: 81b9e8f033d1e989be43b21b3957e188
-    parent_uid: 2d0cc6b8f9c36bd7f2c0eae1650a9349
-    id: 2rnsbodsJVc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-good-the-bad-and-the-ugly-visualization-recitation-recitation/video-5-world-maps-in-r/video-5-world-maps-in-r-0/2rnsbodsJVc.pdf
-  - uid: bcb7a78237dbe39f5153cfe27625535d
-    parent_uid: 2d0cc6b8f9c36bd7f2c0eae1650a9349
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 14ba93356ff88d70d5ab7d4e6e5257f9
-    parent_uid: 2d0cc6b8f9c36bd7f2c0eae1650a9349
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8e0d633df65dbc1075b88d502b5f1433
-    parent_uid: 2d0cc6b8f9c36bd7f2c0eae1650a9349
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.4.06_300k.mp4
+uid: 2d0cc6b8f9c36bd7f2c0eae1650a9349
 type: courses
 layout: video
 ---

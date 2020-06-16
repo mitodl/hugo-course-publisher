@@ -1,13 +1,72 @@
 ---
-title: Pulverizer
-uid: 09552990d91df37d38465cd87d1db100
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 09552990d91df37d38465cd87d1db100
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 024a665ae5404c11ead85f8c0136b305
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 09552990d91df37d38465cd87d1db100
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c59def96a088775b0abe6e4d193dd6e8
+  - id: Video-YouTube-Stream
+    media_location: yzKPotFLfsc
+    parent_uid: 09552990d91df37d38465cd87d1db100
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8cac04be15c59afaa3f24487d33802c9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/yzKPotFLfsc/default.jpg'
+    parent_uid: 09552990d91df37d38465cd87d1db100
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c7f6f074bfa5ff021b3b7aac2adec27d
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: yzKPotFLfsc
+    parent_uid: 09552990d91df37d38465cd87d1db100
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0dff2e1367062836ceafb610acdfe645
+  - id: yzKPotFLfsc.srt
+    parent_uid: 09552990d91df37d38465cd87d1db100
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/pulverizer-video/pulverizer/yzKPotFLfsc.srt
+    title: 3play caption file
+    type: null
+    uid: e17cdc582d2d2221049f8281a389f8ce
+  - id: yzKPotFLfsc.pdf
+    parent_uid: 09552990d91df37d38465cd87d1db100
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/pulverizer-video/pulverizer/yzKPotFLfsc.pdf
+    title: 3play pdf file
+    type: null
+    uid: f1eb460264639669ab206a1838c9f0e9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 09552990d91df37d38465cd87d1db100
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 79d84eef4b331818687ff1dff5bb08cd
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 09552990d91df37d38465cd87d1db100
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 64865117f8789c3a089392f8fe2bc454
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_pulverizer_ipod.mp4'
+    parent_uid: 09552990d91df37d38465cd87d1db100
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 20c4e2af5fd72e925921927e7560a8a3
+inline_embed_id: 81161691pulverizer24241089
 parent_uid: 4f0d2a1617bb084a25bc66ef9e653651
+related_resources_text: ''
+short_url: pulverizer
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/pulverizer-video/pulverizer
-short_url: pulverizer
-inline_embed_id: 81161691pulverizer24241089
-about_this_resource_text: ''
-related_resources_text: ''
+title: Pulverizer
 transcript: >-
   <p><span m='530'>PROFESSOR: Let's</span> <span m='740'>continue</span> <span
   m='1370'>our</span> <span m='1540'>examination</span> <span m='1890'>of</span>
@@ -817,66 +876,7 @@ transcript: >-
   <span m='704860'>be</span> <span m='705080'>crucial</span> <span
   m='705470'>facts</span> <span m='705870'>that</span> <span
   m='706040'>we'll</span> <span m='706200'>build on.</span> </p>
-embedded_media:
-  - uid: 024a665ae5404c11ead85f8c0136b305
-    parent_uid: 09552990d91df37d38465cd87d1db100
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: c59def96a088775b0abe6e4d193dd6e8
-    parent_uid: 09552990d91df37d38465cd87d1db100
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 8cac04be15c59afaa3f24487d33802c9
-    parent_uid: 09552990d91df37d38465cd87d1db100
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: yzKPotFLfsc
-  - uid: c7f6f074bfa5ff021b3b7aac2adec27d
-    parent_uid: 09552990d91df37d38465cd87d1db100
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/yzKPotFLfsc/default.jpg'
-  - uid: 0dff2e1367062836ceafb610acdfe645
-    parent_uid: 09552990d91df37d38465cd87d1db100
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: yzKPotFLfsc
-  - uid: e17cdc582d2d2221049f8281a389f8ce
-    parent_uid: 09552990d91df37d38465cd87d1db100
-    id: yzKPotFLfsc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/pulverizer-video/pulverizer/yzKPotFLfsc.srt
-  - uid: f1eb460264639669ab206a1838c9f0e9
-    parent_uid: 09552990d91df37d38465cd87d1db100
-    id: yzKPotFLfsc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/pulverizer-video/pulverizer/yzKPotFLfsc.pdf
-  - uid: 79d84eef4b331818687ff1dff5bb08cd
-    parent_uid: 09552990d91df37d38465cd87d1db100
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 64865117f8789c3a089392f8fe2bc454
-    parent_uid: 09552990d91df37d38465cd87d1db100
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 20c4e2af5fd72e925921927e7560a8a3
-    parent_uid: 09552990d91df37d38465cd87d1db100
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_pulverizer_ipod.mp4'
+uid: 09552990d91df37d38465cd87d1db100
 type: courses
 layout: video
 ---

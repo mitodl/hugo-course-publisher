@@ -1,18 +1,72 @@
 ---
-title: 'Clip 2: Errata: Heat is Energy'
-uid: 8f339de68e7401e1cfc516177757a96d
-parent_uid: 1fa09ca81711139c23be618aa2768257
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability/clip-2-errata-heat-is-energy
-short_url: clip-2-errata-heat-is-energy
-inline_embed_id: '90776361clip2:errata:heatisenergy13179125'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/b78e162391e19d17647b87d398527a9a"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 24 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: jBkXbAgMj6s
+    parent_uid: 8f339de68e7401e1cfc516177757a96d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5fcba4e01e5dcccc22e2cd1a29695314
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/jBkXbAgMj6s/default.jpg'
+    parent_uid: 8f339de68e7401e1cfc516177757a96d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e827b162588aeecc238e35ffa033d747
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: jBkXbAgMj6s
+    parent_uid: 8f339de68e7401e1cfc516177757a96d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 53128dc97ef3f561a58f072ee6c8683c
+  - id: jBkXbAgMj6s.srt
+    parent_uid: 8f339de68e7401e1cfc516177757a96d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability/clip-2-errata-heat-is-energy/jBkXbAgMj6s.srt
+    title: 3play caption file
+    type: null
+    uid: fed4be9fdccb8427430f403f8ed39083
+  - id: jBkXbAgMj6s.pdf
+    parent_uid: 8f339de68e7401e1cfc516177757a96d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability/clip-2-errata-heat-is-energy/jBkXbAgMj6s.pdf
+    title: 3play pdf file
+    type: null
+    uid: 88daa6f6c267376b2c57ddf18a1396e8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8f339de68e7401e1cfc516177757a96d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a5b177a05e4511a8ce464e47a8fcf2a1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8f339de68e7401e1cfc516177757a96d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3bef0018688936298cc76fe8aa600e5c
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec24_300k.mp4'
+    parent_uid: 8f339de68e7401e1cfc516177757a96d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e769c0c3311b79f4c01113cf8e9d75e1
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 8f339de68e7401e1cfc516177757a96d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 61b2bfd6882a843931d050b6ca80cb38
+inline_embed_id: '90776361clip2:errata:heatisenergy13179125'
+parent_uid: 1fa09ca81711139c23be618aa2768257
 related_resources_text: ''
+short_url: clip-2-errata-heat-is-energy
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability/clip-2-errata-heat-is-energy
+title: 'Clip 2: Errata: Heat is Energy'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='530'>content</span> <span m='1020'>is</span> <span m='1120'>provided</span>
@@ -2783,61 +2837,7 @@ transcript: >-
   m='3025650'>As</span> <span m='3025830'>I</span> <span m='3025940'>will</span>
   <span m='3026100'>show</span> <span m='3026410'>you</span> <span
   m='3027300'>next</span> <span m='3027640'>time.</span> </p>
-embedded_media:
-  - uid: 5fcba4e01e5dcccc22e2cd1a29695314
-    parent_uid: 8f339de68e7401e1cfc516177757a96d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: jBkXbAgMj6s
-  - uid: e827b162588aeecc238e35ffa033d747
-    parent_uid: 8f339de68e7401e1cfc516177757a96d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/jBkXbAgMj6s/default.jpg'
-  - uid: 53128dc97ef3f561a58f072ee6c8683c
-    parent_uid: 8f339de68e7401e1cfc516177757a96d
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: jBkXbAgMj6s
-  - uid: fed4be9fdccb8427430f403f8ed39083
-    parent_uid: 8f339de68e7401e1cfc516177757a96d
-    id: jBkXbAgMj6s.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability/clip-2-errata-heat-is-energy/jBkXbAgMj6s.srt
-  - uid: 88daa6f6c267376b2c57ddf18a1396e8
-    parent_uid: 8f339de68e7401e1cfc516177757a96d
-    id: jBkXbAgMj6s.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-62-integrals-and-probability/clip-2-errata-heat-is-energy/jBkXbAgMj6s.pdf
-  - uid: a5b177a05e4511a8ce464e47a8fcf2a1
-    parent_uid: 8f339de68e7401e1cfc516177757a96d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3bef0018688936298cc76fe8aa600e5c
-    parent_uid: 8f339de68e7401e1cfc516177757a96d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e769c0c3311b79f4c01113cf8e9d75e1
-    parent_uid: 8f339de68e7401e1cfc516177757a96d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec24_300k.mp4'
-  - uid: 61b2bfd6882a843931d050b6ca80cb38
-    parent_uid: 8f339de68e7401e1cfc516177757a96d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 8f339de68e7401e1cfc516177757a96d
 type: courses
 layout: video
 ---

@@ -1,13 +1,62 @@
 ---
-title: 'Video 7: Baseline Method and Penalty Matrix'
-uid: 708d44411f55cd4c23a7889b54bd7cd8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 12KzzzmaYrw
+    parent_uid: 708d44411f55cd4c23a7889b54bd7cd8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7363d8729b7a9a6b99c575979f5132af
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 12KzzzmaYrw
+    parent_uid: 708d44411f55cd4c23a7889b54bd7cd8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 14df1677247745e7ecdf09694a86b93c
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/12KzzzmaYrw/default.jpg'
+    parent_uid: 708d44411f55cd4c23a7889b54bd7cd8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fb04a1fd1351bc6e7a7a2b1c9beb9fb2
+  - id: 12KzzzmaYrw.srt
+    parent_uid: 708d44411f55cd4c23a7889b54bd7cd8
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-7-baseline-method-and-penalty-matrix/video-7-baseline-method-and-penalty-matrix-0/12KzzzmaYrw.srt
+    title: 3play caption file
+    type: null
+    uid: 100e7142a15cff54166580e7f648b184
+  - id: 12KzzzmaYrw.pdf
+    parent_uid: 708d44411f55cd4c23a7889b54bd7cd8
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-7-baseline-method-and-penalty-matrix/video-7-baseline-method-and-penalty-matrix-0/12KzzzmaYrw.pdf
+    title: 3play pdf file
+    type: null
+    uid: e560e063ae65fe49fbaa40831722e8ea
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 708d44411f55cd4c23a7889b54bd7cd8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b2da65c5d3a1a9748034cdea8032ea89
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 708d44411f55cd4c23a7889b54bd7cd8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 743e1b16893d3d2b5a50767430611688
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.3.13_300k.mp4
+    parent_uid: 708d44411f55cd4c23a7889b54bd7cd8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f708b6da3ec0159a1dc15880c0fbe633
+inline_embed_id: 52001563video7baselinemethodandpenaltymatrix92071204
 parent_uid: 9f0c19816b4e786a4cb964211da05bf8
+related_resources_text: ''
+short_url: video-7-baseline-method-and-penalty-matrix-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-7-baseline-method-and-penalty-matrix/video-7-baseline-method-and-penalty-matrix-0
-short_url: video-7-baseline-method-and-penalty-matrix-0
-inline_embed_id: 52001563video7baselinemethodandpenaltymatrix92071204
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 7: Baseline Method and Penalty Matrix'
 transcript: >-
   <p><span m='4500'>Let's</span> <span m='4881'>now</span> <span
   m='5262'>see</span> <span m='5643'>how</span> <span m='6024'>the</span> <span
@@ -270,56 +319,7 @@ transcript: >-
   <span m='315790'>penalty</span> <span m='316290'>error</span> <span
   m='316790'>lower</span> <span m='317290'>than</span> <span
   m='317790'>0.74.</span> </p>
-embedded_media:
-  - uid: 7363d8729b7a9a6b99c575979f5132af
-    parent_uid: 708d44411f55cd4c23a7889b54bd7cd8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 12KzzzmaYrw
-  - uid: 14df1677247745e7ecdf09694a86b93c
-    parent_uid: 708d44411f55cd4c23a7889b54bd7cd8
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 12KzzzmaYrw
-  - uid: fb04a1fd1351bc6e7a7a2b1c9beb9fb2
-    parent_uid: 708d44411f55cd4c23a7889b54bd7cd8
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/12KzzzmaYrw/default.jpg'
-  - uid: 100e7142a15cff54166580e7f648b184
-    parent_uid: 708d44411f55cd4c23a7889b54bd7cd8
-    id: 12KzzzmaYrw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-7-baseline-method-and-penalty-matrix/video-7-baseline-method-and-penalty-matrix-0/12KzzzmaYrw.srt
-  - uid: e560e063ae65fe49fbaa40831722e8ea
-    parent_uid: 708d44411f55cd4c23a7889b54bd7cd8
-    id: 12KzzzmaYrw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/keeping-an-eye-on-healthcare-costs-the-d2hawkeye-story/video-7-baseline-method-and-penalty-matrix/video-7-baseline-method-and-penalty-matrix-0/12KzzzmaYrw.pdf
-  - uid: b2da65c5d3a1a9748034cdea8032ea89
-    parent_uid: 708d44411f55cd4c23a7889b54bd7cd8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 743e1b16893d3d2b5a50767430611688
-    parent_uid: 708d44411f55cd4c23a7889b54bd7cd8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f708b6da3ec0159a1dc15880c0fbe633
-    parent_uid: 708d44411f55cd4c23a7889b54bd7cd8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.3.13_300k.mp4
+uid: 708d44411f55cd4c23a7889b54bd7cd8
 type: courses
 layout: video
 ---

@@ -1,13 +1,69 @@
 ---
-title: LU Decomposition
-uid: 641fbfcf8d41092417091e8d3dc0bf63
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: '-eA2D_rIcNA'
+    parent_uid: 641fbfcf8d41092417091e8d3dc0bf63
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d59adf09dc29575e6ed5d94724afe326
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: '-eA2D_rIcNA'
+    parent_uid: 641fbfcf8d41092417091e8d3dc0bf63
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7b822d02049cb7759b3657b8c9dd1caf
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lu-decomposition/id488155309?i=108454336
+    parent_uid: 641fbfcf8d41092417091e8d3dc0bf63
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4ccb9ca7170cf5fe05f0e396de3d84f0
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110706_B1_300k.mp4
+    parent_uid: 641fbfcf8d41092417091e8d3dc0bf63
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9a2d03b6a151ac79cfe03c7e340c948e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-eA2D_rIcNA/default.jpg'
+    parent_uid: 641fbfcf8d41092417091e8d3dc0bf63
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3dd0355ede5c624bfa02e7c2457c474e
+  - id: '-eA2D_rIcNA.srt'
+    parent_uid: 641fbfcf8d41092417091e8d3dc0bf63
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/factorization-into-a-lu/lu-decomposition/-eA2D_rIcNA.srt
+    title: 3play caption file
+    type: null
+    uid: fa0442e4314d18542e98709b0bd8e2f1
+  - id: '-eA2D_rIcNA.pdf'
+    parent_uid: 641fbfcf8d41092417091e8d3dc0bf63
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/factorization-into-a-lu/lu-decomposition/-eA2D_rIcNA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2bc2e009a682eaa46a198af45d6dc80c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 641fbfcf8d41092417091e8d3dc0bf63
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2d1bc01fe52024d83e69a5d4daca3567
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 641fbfcf8d41092417091e8d3dc0bf63
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 96e467562ea6b93c4452835d08fcae83
+inline_embed_id: 93171235ludecomposition85098110
 parent_uid: 2817c81b09040d03c0c634f006d5a20d
+related_resources_text: ''
+short_url: lu-decomposition
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/factorization-into-a-lu/lu-decomposition
-short_url: lu-decomposition
-inline_embed_id: 93171235ludecomposition85098110
-about_this_resource_text: ''
-related_resources_text: ''
+title: LU Decomposition
 transcript: >-
   <p><span m='6180'>BEN HARRIS: Hi.</span> <span m='6590'>I'm</span> <span
   m='6820'>Ben.</span> </p><p><span m='8220'>Today</span> <span
@@ -489,63 +545,7 @@ transcript: >-
   m='566350'>can</span> <span m='566640'>have</span> <span m='567000'>LU</span>
   <span m='567290'>decompositions.</span> <span m='569164'>Good.</span>
   </p><p><span m='572660'>Thanks.</span> </p>
-embedded_media:
-  - uid: d59adf09dc29575e6ed5d94724afe326
-    parent_uid: 641fbfcf8d41092417091e8d3dc0bf63
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-eA2D_rIcNA'
-  - uid: 7b822d02049cb7759b3657b8c9dd1caf
-    parent_uid: 641fbfcf8d41092417091e8d3dc0bf63
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-eA2D_rIcNA'
-  - uid: 4ccb9ca7170cf5fe05f0e396de3d84f0
-    parent_uid: 641fbfcf8d41092417091e8d3dc0bf63
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lu-decomposition/id488155309?i=108454336
-  - uid: 9a2d03b6a151ac79cfe03c7e340c948e
-    parent_uid: 641fbfcf8d41092417091e8d3dc0bf63
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110706_B1_300k.mp4
-  - uid: 3dd0355ede5c624bfa02e7c2457c474e
-    parent_uid: 641fbfcf8d41092417091e8d3dc0bf63
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-eA2D_rIcNA/default.jpg'
-  - uid: fa0442e4314d18542e98709b0bd8e2f1
-    parent_uid: 641fbfcf8d41092417091e8d3dc0bf63
-    id: '-eA2D_rIcNA.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/factorization-into-a-lu/lu-decomposition/-eA2D_rIcNA.srt
-  - uid: 2bc2e009a682eaa46a198af45d6dc80c
-    parent_uid: 641fbfcf8d41092417091e8d3dc0bf63
-    id: '-eA2D_rIcNA.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/factorization-into-a-lu/lu-decomposition/-eA2D_rIcNA.pdf
-  - uid: 2d1bc01fe52024d83e69a5d4daca3567
-    parent_uid: 641fbfcf8d41092417091e8d3dc0bf63
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 96e467562ea6b93c4452835d08fcae83
-    parent_uid: 641fbfcf8d41092417091e8d3dc0bf63
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 641fbfcf8d41092417091e8d3dc0bf63
 type: courses
 layout: video
 ---

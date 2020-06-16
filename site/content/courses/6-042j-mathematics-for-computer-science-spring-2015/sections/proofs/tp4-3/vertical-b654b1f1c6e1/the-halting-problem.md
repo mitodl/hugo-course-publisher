@@ -1,13 +1,73 @@
 ---
-title: 'The Halting Problem [Optional]'
-uid: 46f59690f298511eee75704b20e74722
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 46f59690f298511eee75704b20e74722
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 2a98f2d12842c6e12580bd3e7d315825
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 46f59690f298511eee75704b20e74722
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 733afca3386d3d6d4d1f212147e3ca5c
+  - id: Video-YouTube-Stream
+    media_location: WQHOImO0pX0
+    parent_uid: 46f59690f298511eee75704b20e74722
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a6230cacb7e4dad59a2121990f8a4921
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/WQHOImO0pX0/default.jpg'
+    parent_uid: 46f59690f298511eee75704b20e74722
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 02ce62666f00df9052dc14eae2429770
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: WQHOImO0pX0
+    parent_uid: 46f59690f298511eee75704b20e74722
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9b38a6d35db6c9e0a8ebb4cdd17f951c
+  - id: WQHOImO0pX0.srt
+    parent_uid: 46f59690f298511eee75704b20e74722
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-b654b1f1c6e1/the-halting-problem/WQHOImO0pX0.srt
+    title: 3play caption file
+    type: null
+    uid: 2955f14f3c3a184ff1ceb36b48bf90ce
+  - id: WQHOImO0pX0.pdf
+    parent_uid: 46f59690f298511eee75704b20e74722
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-b654b1f1c6e1/the-halting-problem/WQHOImO0pX0.pdf
+    title: 3play pdf file
+    type: null
+    uid: c187cdf86ecca2da952699d867a2f879
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 46f59690f298511eee75704b20e74722
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e68d5ca585e2db1a9f697f93b019c2b8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 46f59690f298511eee75704b20e74722
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8d2328a71c9dfc3b05bd0519d4ff7513
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_haltingproblem_s13_ipod.mp4
+    parent_uid: 46f59690f298511eee75704b20e74722
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 388ce84c6043e24c3a0bbe22915ccc90
+inline_embed_id: 91683647thehaltingproblemoptional47010928
 parent_uid: 2b923648e33acab15b802e2ba689daec
+related_resources_text: ''
+short_url: the-halting-problem
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-b654b1f1c6e1/the-halting-problem
-short_url: the-halting-problem
-inline_embed_id: 91683647thehaltingproblemoptional47010928
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'The Halting Problem [Optional]'
 transcript: >-
   <p><span m='0'>PROFESSOR: [? Diagonal ?]</span> <span m='290'>arguments</span>
   <span m='930'>are</span> <span m='1260'>elegant,</span> <span
@@ -1134,67 +1194,7 @@ transcript: >-
   m='955670'>limitations</span> <span m='956950'>on</span> <span
   m='957300'>the</span> <span m='957400'>power</span> <span m='957960'>of</span>
   <span m='958110'>computation.</span> </p>
-embedded_media:
-  - uid: 2a98f2d12842c6e12580bd3e7d315825
-    parent_uid: 46f59690f298511eee75704b20e74722
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 733afca3386d3d6d4d1f212147e3ca5c
-    parent_uid: 46f59690f298511eee75704b20e74722
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: a6230cacb7e4dad59a2121990f8a4921
-    parent_uid: 46f59690f298511eee75704b20e74722
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: WQHOImO0pX0
-  - uid: 02ce62666f00df9052dc14eae2429770
-    parent_uid: 46f59690f298511eee75704b20e74722
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/WQHOImO0pX0/default.jpg'
-  - uid: 9b38a6d35db6c9e0a8ebb4cdd17f951c
-    parent_uid: 46f59690f298511eee75704b20e74722
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: WQHOImO0pX0
-  - uid: 2955f14f3c3a184ff1ceb36b48bf90ce
-    parent_uid: 46f59690f298511eee75704b20e74722
-    id: WQHOImO0pX0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-b654b1f1c6e1/the-halting-problem/WQHOImO0pX0.srt
-  - uid: c187cdf86ecca2da952699d867a2f879
-    parent_uid: 46f59690f298511eee75704b20e74722
-    id: WQHOImO0pX0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-b654b1f1c6e1/the-halting-problem/WQHOImO0pX0.pdf
-  - uid: e68d5ca585e2db1a9f697f93b019c2b8
-    parent_uid: 46f59690f298511eee75704b20e74722
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8d2328a71c9dfc3b05bd0519d4ff7513
-    parent_uid: 46f59690f298511eee75704b20e74722
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 388ce84c6043e24c3a0bbe22915ccc90
-    parent_uid: 46f59690f298511eee75704b20e74722
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_haltingproblem_s13_ipod.mp4
+uid: 46f59690f298511eee75704b20e74722
 type: courses
 layout: video
 ---

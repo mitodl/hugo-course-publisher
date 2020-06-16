@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 25: Oxidation-Reduction and Electrochemical Cells'
-uid: 9200a8f2b955387713821f4beaced19a
-parent_uid: 3d31835d06e0f144b71eae67819fa795
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-25/lecture-25-oxidation-reduction-and-electrochemical-cells
-short_url: lecture-25-oxidation-reduction-and-electrochemical-cells
-inline_embed_id: 1573475lecture25oxidationreductionandelectrochemicalcells44357171
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: Redox reactions are a major class of chemical
@@ -14,7 +7,68 @@ about_this_resource_text: >-
   introduced. If you want to design the next greatest battery to power your
   favorite electronic device, you won't want to miss this lecture.</p>
   <p><strong>Instructor:</strong> Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: BZzkyqe6KD8
+    parent_uid: 9200a8f2b955387713821f4beaced19a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8bb13714e7fb04d88ce79fe202c07799
+  - id: BZzkyqe6KD8.srt
+    parent_uid: 9200a8f2b955387713821f4beaced19a
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-25/lecture-25-oxidation-reduction-and-electrochemical-cells/BZzkyqe6KD8.srt
+    title: 3play caption file
+    type: null
+    uid: 0ab1bc113c41f3cb2796fbc1b47b0481
+  - id: BZzkyqe6KD8.pdf
+    parent_uid: 9200a8f2b955387713821f4beaced19a
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-25/lecture-25-oxidation-reduction-and-electrochemical-cells/BZzkyqe6KD8.pdf
+    title: 3play pdf file
+    type: null
+    uid: c9d8cd58acf1084895cbe2affc361f88
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9200a8f2b955387713821f4beaced19a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 79c930d259ab60dc383435e6139234ed
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9200a8f2b955387713821f4beaced19a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f77c2568fda581fd6f6b0905813de7c3
+  - id: Video-YouTube-Stream
+    media_location: BZzkyqe6KD8
+    parent_uid: 9200a8f2b955387713821f4beaced19a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4e2db653a7497857017489b6c6010728
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BZzkyqe6KD8/default.jpg'
+    parent_uid: 9200a8f2b955387713821f4beaced19a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8e72d649ae0885cfae19ba070188d9d7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: 9200a8f2b955387713821f4beaced19a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: dbc1eb024bc4c81f8bac6b67d65024a1
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L25_300k.mp4'
+    parent_uid: 9200a8f2b955387713821f4beaced19a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f90d54cb84aa15da4997d080c39dce5a
+inline_embed_id: 1573475lecture25oxidationreductionandelectrochemicalcells44357171
+parent_uid: 3d31835d06e0f144b71eae67819fa795
 related_resources_text: ''
+short_url: lecture-25-oxidation-reduction-and-electrochemical-cells
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-25/lecture-25-oxidation-reduction-and-electrochemical-cells
+title: 'Lecture 25: Oxidation-Reduction and Electrochemical Cells'
 transcript: >-
   <p><span m="90">The</span> <span m="180">following</span> <span
   m="630">content</span> <span m="1110">is</span> <span m="1230">provided</span>
@@ -3482,61 +3536,7 @@ transcript: >-
   m="3181330">when</span> <span m="3181570">you</span> <span
   m="3181660">run</span> <span m="3181930">these</span> <span
   m="3182140">reactions.</span></p>
-embedded_media:
-  - uid: 8bb13714e7fb04d88ce79fe202c07799
-    parent_uid: 9200a8f2b955387713821f4beaced19a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BZzkyqe6KD8
-  - uid: 0ab1bc113c41f3cb2796fbc1b47b0481
-    parent_uid: 9200a8f2b955387713821f4beaced19a
-    id: BZzkyqe6KD8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-25/lecture-25-oxidation-reduction-and-electrochemical-cells/BZzkyqe6KD8.srt
-  - uid: c9d8cd58acf1084895cbe2affc361f88
-    parent_uid: 9200a8f2b955387713821f4beaced19a
-    id: BZzkyqe6KD8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iv-transition-metals-oxidation-reduction-reactions/lecture-25/lecture-25-oxidation-reduction-and-electrochemical-cells/BZzkyqe6KD8.pdf
-  - uid: 79c930d259ab60dc383435e6139234ed
-    parent_uid: 9200a8f2b955387713821f4beaced19a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f77c2568fda581fd6f6b0905813de7c3
-    parent_uid: 9200a8f2b955387713821f4beaced19a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4e2db653a7497857017489b6c6010728
-    parent_uid: 9200a8f2b955387713821f4beaced19a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BZzkyqe6KD8
-  - uid: 8e72d649ae0885cfae19ba070188d9d7
-    parent_uid: 9200a8f2b955387713821f4beaced19a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BZzkyqe6KD8/default.jpg'
-  - uid: dbc1eb024bc4c81f8bac6b67d65024a1
-    parent_uid: 9200a8f2b955387713821f4beaced19a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: f90d54cb84aa15da4997d080c39dce5a
-    parent_uid: 9200a8f2b955387713821f4beaced19a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L25_300k.mp4'
+uid: 9200a8f2b955387713821f4beaced19a
 type: courses
 layout: video
 ---

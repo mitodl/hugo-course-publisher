@@ -1,13 +1,62 @@
 ---
-title: 'Video 3: Predicting Compatibility Scores'
-uid: a45eec02d316afae45fb3041650e1173
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: pelPpuYUAho
+    parent_uid: a45eec02d316afae45fb3041650e1173
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4fed0484b2381de13264babe4fe36e2e
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: pelPpuYUAho
+    parent_uid: a45eec02d316afae45fb3041650e1173
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c0987381088dab617d5f2d2a6b456a79
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/pelPpuYUAho/default.jpg'
+    parent_uid: a45eec02d316afae45fb3041650e1173
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f919e17c428b46ff19a638e9415c3e59
+  - id: pelPpuYUAho.srt
+    parent_uid: a45eec02d316afae45fb3041650e1173
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-3-predicting-compatibility-scores/video-3-predicting-compatibility-scores-0/pelPpuYUAho.srt
+    title: 3play caption file
+    type: null
+    uid: c5080ce6832631c4130c14f488a97269
+  - id: pelPpuYUAho.pdf
+    parent_uid: a45eec02d316afae45fb3041650e1173
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-3-predicting-compatibility-scores/video-3-predicting-compatibility-scores-0/pelPpuYUAho.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2f948d5500c8c0f4798f92410ee293ef
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a45eec02d316afae45fb3041650e1173
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 85e70f82b7d91024f06cd60637c89d97
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a45eec02d316afae45fb3041650e1173
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0c2996d31bba2bc0c062c9a928bffe6c
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_9.3.05_300k.mp4
+    parent_uid: a45eec02d316afae45fb3041650e1173
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 53ed72f558fdd901679e5fe376cff303
+inline_embed_id: 25184388video3predictingcompatibilityscores36544408
 parent_uid: 4ee865af69155a39e352d98aad5670d0
+related_resources_text: ''
+short_url: video-3-predicting-compatibility-scores-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-3-predicting-compatibility-scores/video-3-predicting-compatibility-scores-0
-short_url: video-3-predicting-compatibility-scores-0
-inline_embed_id: 25184388video3predictingcompatibilityscores36544408
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: Predicting Compatibility Scores'
 transcript: >-
   <p><span m='9500'>In</span> <span m='9808'>the</span> <span
   m='10116'>optimization</span> <span m='10425'>problem,</span> <span
@@ -209,56 +258,7 @@ transcript: >-
   m='218132'>height</span> <span m='218480'>between</span> <span
   m='219058'>four</span> <span m='219636'>and</span> <span
   m='220214'>eight</span> <span m='220792'>inches.</span> </p>
-embedded_media:
-  - uid: 4fed0484b2381de13264babe4fe36e2e
-    parent_uid: a45eec02d316afae45fb3041650e1173
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: pelPpuYUAho
-  - uid: c0987381088dab617d5f2d2a6b456a79
-    parent_uid: a45eec02d316afae45fb3041650e1173
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: pelPpuYUAho
-  - uid: f919e17c428b46ff19a638e9415c3e59
-    parent_uid: a45eec02d316afae45fb3041650e1173
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/pelPpuYUAho/default.jpg'
-  - uid: c5080ce6832631c4130c14f488a97269
-    parent_uid: a45eec02d316afae45fb3041650e1173
-    id: pelPpuYUAho.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-3-predicting-compatibility-scores/video-3-predicting-compatibility-scores-0/pelPpuYUAho.srt
-  - uid: 2f948d5500c8c0f4798f92410ee293ef
-    parent_uid: a45eec02d316afae45fb3041650e1173
-    id: pelPpuYUAho.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-3-predicting-compatibility-scores/video-3-predicting-compatibility-scores-0/pelPpuYUAho.pdf
-  - uid: 85e70f82b7d91024f06cd60637c89d97
-    parent_uid: a45eec02d316afae45fb3041650e1173
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0c2996d31bba2bc0c062c9a928bffe6c
-    parent_uid: a45eec02d316afae45fb3041650e1173
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 53ed72f558fdd901679e5fe376cff303
-    parent_uid: a45eec02d316afae45fb3041650e1173
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_9.3.05_300k.mp4
+uid: a45eec02d316afae45fb3041650e1173
 type: courses
 layout: video
 ---

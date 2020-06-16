@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Chain Rule'
-uid: 125c0920928e0fe37331acf5e6c074d3
-parent_uid: 68feb14ba590b3b088c989717ae12492
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/clip-1-chain-rule
-short_url: clip-1-chain-rule
-inline_embed_id: '45539606clip1:chainrule34288218'
 about_this_resource_text: >-
   <p>&raquo;<a href="./resolveuid/66ba9836b3c9e99138bc8d766d913bc5"
   target="_blank"> Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 4 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 4sTKcvYMNxk
+    parent_uid: 125c0920928e0fe37331acf5e6c074d3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a417677ac1aa6811331eebad41e60421
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4sTKcvYMNxk/default.jpg'
+    parent_uid: 125c0920928e0fe37331acf5e6c074d3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e2529f5f76b7530cf3945d00fe38e78b
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec04_300k.mp4'
+    parent_uid: 125c0920928e0fe37331acf5e6c074d3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 69eb2ee39a750706f0673d39ccac7428
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 4sTKcvYMNxk
+    parent_uid: 125c0920928e0fe37331acf5e6c074d3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 181e97759c2641deef35356e6cf18b6b
+  - id: 4sTKcvYMNxk.srt
+    parent_uid: 125c0920928e0fe37331acf5e6c074d3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/clip-1-chain-rule/4sTKcvYMNxk.srt
+    title: 3play caption file
+    type: null
+    uid: 2507151e8c8a939eddc92a1529433028
+  - id: 4sTKcvYMNxk.pdf
+    parent_uid: 125c0920928e0fe37331acf5e6c074d3
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/clip-1-chain-rule/4sTKcvYMNxk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 20c159a40371a30830f497fc99494bf4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 125c0920928e0fe37331acf5e6c074d3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ee699651a2c3d3b8d1b7d27ac0386016
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 125c0920928e0fe37331acf5e6c074d3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5f81d7f477059e115f5990fb628261f6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 125c0920928e0fe37331acf5e6c074d3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a96d55a16458ec85d5e7b53660df764f
+inline_embed_id: '45539606clip1:chainrule34288218'
+parent_uid: 68feb14ba590b3b088c989717ae12492
 related_resources_text: ''
+short_url: clip-1-chain-rule
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/clip-1-chain-rule
+title: 'Clip 1: Chain Rule'
 transcript: >-
   <p><span m="110">The</span> <span m="350">following</span> <span
   m="520">content</span> <span m="1260">is</span> <span m="1400">provided</span>
@@ -2120,61 +2174,7 @@ transcript: >-
   m="2755280">constant.</span> <span m="2756620">So</span> <span
   m="2756860">it's 0.</span></p><p><span m="2758180">Okay.</span> <span
   m="2758440">Thank</span> <span m="2758730">you.</span></p>
-embedded_media:
-  - uid: a417677ac1aa6811331eebad41e60421
-    parent_uid: 125c0920928e0fe37331acf5e6c074d3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4sTKcvYMNxk
-  - uid: e2529f5f76b7530cf3945d00fe38e78b
-    parent_uid: 125c0920928e0fe37331acf5e6c074d3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4sTKcvYMNxk/default.jpg'
-  - uid: 69eb2ee39a750706f0673d39ccac7428
-    parent_uid: 125c0920928e0fe37331acf5e6c074d3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec04_300k.mp4'
-  - uid: 181e97759c2641deef35356e6cf18b6b
-    parent_uid: 125c0920928e0fe37331acf5e6c074d3
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4sTKcvYMNxk
-  - uid: 2507151e8c8a939eddc92a1529433028
-    parent_uid: 125c0920928e0fe37331acf5e6c074d3
-    id: 4sTKcvYMNxk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/clip-1-chain-rule/4sTKcvYMNxk.srt
-  - uid: 20c159a40371a30830f497fc99494bf4
-    parent_uid: 125c0920928e0fe37331acf5e6c074d3
-    id: 4sTKcvYMNxk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-11-chain-rule/clip-1-chain-rule/4sTKcvYMNxk.pdf
-  - uid: ee699651a2c3d3b8d1b7d27ac0386016
-    parent_uid: 125c0920928e0fe37331acf5e6c074d3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5f81d7f477059e115f5990fb628261f6
-    parent_uid: 125c0920928e0fe37331acf5e6c074d3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a96d55a16458ec85d5e7b53660df764f
-    parent_uid: 125c0920928e0fe37331acf5e6c074d3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 125c0920928e0fe37331acf5e6c074d3
 type: courses
 layout: video
 ---

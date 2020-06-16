@@ -1,13 +1,62 @@
 ---
-title: 'Video 6: Sensitivity Analysis'
-uid: 3d54bcf2ef1dd7517d8a1496d9cbd0a0
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: aDdkt8rRWGs
+    parent_uid: 3d54bcf2ef1dd7517d8a1496d9cbd0a0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2289ab5d6649a9e736fc925f6c678c28
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: aDdkt8rRWGs
+    parent_uid: 3d54bcf2ef1dd7517d8a1496d9cbd0a0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 954ff45d69776b48278cbd107042af5b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/aDdkt8rRWGs/default.jpg'
+    parent_uid: 3d54bcf2ef1dd7517d8a1496d9cbd0a0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6d098c9fb99f2f8f4582430b81ae514e
+  - id: aDdkt8rRWGs.srt
+    parent_uid: 3d54bcf2ef1dd7517d8a1496d9cbd0a0
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-6-sensitivity-analysis/video-6-sensitivity-analysis-0/aDdkt8rRWGs.srt
+    title: 3play caption file
+    type: null
+    uid: e95c24ef0d6b82f398a0dab813f4d5f1
+  - id: aDdkt8rRWGs.pdf
+    parent_uid: 3d54bcf2ef1dd7517d8a1496d9cbd0a0
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-6-sensitivity-analysis/video-6-sensitivity-analysis-0/aDdkt8rRWGs.pdf
+    title: 3play pdf file
+    type: null
+    uid: 78552b8bfe538f2496938d46c90b09f9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3d54bcf2ef1dd7517d8a1496d9cbd0a0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6011bd91f37cc97e452c150cbbf8936c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3d54bcf2ef1dd7517d8a1496d9cbd0a0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e290bfb9af4447239b7786772ff02e5d
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.2.10_300k.mp4
+    parent_uid: 3d54bcf2ef1dd7517d8a1496d9cbd0a0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c692a7d2a05a292fbda8ccf401401767
+inline_embed_id: 72873272video6sensitivityanalysis9268083
 parent_uid: f20e206f20f79b3c410bc053183afdbb
+related_resources_text: ''
+short_url: video-6-sensitivity-analysis-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-6-sensitivity-analysis/video-6-sensitivity-analysis-0
-short_url: video-6-sensitivity-analysis-0
-inline_embed_id: 72873272video6sensitivityanalysis9268083
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 6: Sensitivity Analysis'
 transcript: >-
   <p><span m='5270'>Often,</span> <span m='5837'>in</span> <span
   m='6405'>linear</span> <span m='6973'>optimization</span> <span
@@ -375,56 +424,7 @@ transcript: >-
   <span m='391601'>in</span> <span m='391958'>the</span> <span
   m='392316'>next</span> <span m='392674'>quick</span> <span
   m='393032'>question.</span> </p>
-embedded_media:
-  - uid: 2289ab5d6649a9e736fc925f6c678c28
-    parent_uid: 3d54bcf2ef1dd7517d8a1496d9cbd0a0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: aDdkt8rRWGs
-  - uid: 954ff45d69776b48278cbd107042af5b
-    parent_uid: 3d54bcf2ef1dd7517d8a1496d9cbd0a0
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: aDdkt8rRWGs
-  - uid: 6d098c9fb99f2f8f4582430b81ae514e
-    parent_uid: 3d54bcf2ef1dd7517d8a1496d9cbd0a0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/aDdkt8rRWGs/default.jpg'
-  - uid: e95c24ef0d6b82f398a0dab813f4d5f1
-    parent_uid: 3d54bcf2ef1dd7517d8a1496d9cbd0a0
-    id: aDdkt8rRWGs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-6-sensitivity-analysis/video-6-sensitivity-analysis-0/aDdkt8rRWGs.srt
-  - uid: 78552b8bfe538f2496938d46c90b09f9
-    parent_uid: 3d54bcf2ef1dd7517d8a1496d9cbd0a0
-    id: aDdkt8rRWGs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-6-sensitivity-analysis/video-6-sensitivity-analysis-0/aDdkt8rRWGs.pdf
-  - uid: 6011bd91f37cc97e452c150cbbf8936c
-    parent_uid: 3d54bcf2ef1dd7517d8a1496d9cbd0a0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e290bfb9af4447239b7786772ff02e5d
-    parent_uid: 3d54bcf2ef1dd7517d8a1496d9cbd0a0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c692a7d2a05a292fbda8ccf401401767
-    parent_uid: 3d54bcf2ef1dd7517d8a1496d9cbd0a0
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.2.10_300k.mp4
+uid: 3d54bcf2ef1dd7517d8a1496d9cbd0a0
 type: courses
 layout: video
 ---

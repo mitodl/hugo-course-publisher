@@ -1,13 +1,67 @@
 ---
-title: Derivative of the Arccos Function
-uid: 073da2de0dab283eb52e6d5f2eaa750d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: cdRMY39EYbs
+    parent_uid: 073da2de0dab283eb52e6d5f2eaa750d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d127bd96e0b22565e4a5e1bec8ad371d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/cdRMY39EYbs/default.jpg'
+    parent_uid: 073da2de0dab283eb52e6d5f2eaa750d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0ac2c5d35c23f57facadd160abaed30e
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/podcast/arccos/id414308064?i=90318998'
+    parent_uid: 073da2de0dab283eb52e6d5f2eaa750d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4866ce0a8a69a0e4d66d4c0666d3c943
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_12_300k.mp4'
+    parent_uid: 073da2de0dab283eb52e6d5f2eaa750d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 28d7bdbb736d980a00f06b895249dcfc
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: cdRMY39EYbs
+    parent_uid: 073da2de0dab283eb52e6d5f2eaa750d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a1bdb99c0bfaade4283446e9b42cb7f7
+  - id: cdRMY39EYbs.srt
+    parent_uid: 073da2de0dab283eb52e6d5f2eaa750d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/derivative-of-the-arccos-function/cdRMY39EYbs.srt
+    title: 3play caption file
+    type: null
+    uid: 5d0659bb3e5bcf189b48cebbd88dd587
+  - id: cdRMY39EYbs.pdf
+    parent_uid: 073da2de0dab283eb52e6d5f2eaa750d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/derivative-of-the-arccos-function/cdRMY39EYbs.pdf
+    title: 3play pdf file
+    type: null
+    uid: bf6c1bff43d963ef58a9d6d19ea981e3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 073da2de0dab283eb52e6d5f2eaa750d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4f25609210eb21909666f49d0a92721c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 073da2de0dab283eb52e6d5f2eaa750d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d1e7b64d3a4d87e0aea504b29c1a39dc
+inline_embed_id: 74634966derivativeofthearccosfunction39316933
 parent_uid: 5668bfaf4a4849cdc9fb5962b4a18003
+related_resources_text: ''
+short_url: derivative-of-the-arccos-function
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/derivative-of-the-arccos-function
-short_url: derivative-of-the-arccos-function
-inline_embed_id: 74634966derivativeofthearccosfunction39316933
-about_this_resource_text: ''
-related_resources_text: ''
+title: Derivative of the Arccos Function
 transcript: >-
   <p><span m='0'>JOEL LEWIS:</span> <span m='7070'>Hi.</span> <span
   m='7500'>Welcome</span> <span m='7820'>back</span> <span m='8020'>to</span>
@@ -604,61 +658,7 @@ transcript: >-
   m='568890'>functions.</span> </p><p><span m='570060'>So</span> <span
   m='570190'>I</span> <span m='570260'>think</span> <span m='570430'>I'll</span>
   <span m='570530'>end</span> <span m='570740'>there.</span> </p>
-embedded_media:
-  - uid: d127bd96e0b22565e4a5e1bec8ad371d
-    parent_uid: 073da2de0dab283eb52e6d5f2eaa750d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: cdRMY39EYbs
-  - uid: 0ac2c5d35c23f57facadd160abaed30e
-    parent_uid: 073da2de0dab283eb52e6d5f2eaa750d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/cdRMY39EYbs/default.jpg'
-  - uid: 4866ce0a8a69a0e4d66d4c0666d3c943
-    parent_uid: 073da2de0dab283eb52e6d5f2eaa750d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/podcast/arccos/id414308064?i=90318998'
-  - uid: 28d7bdbb736d980a00f06b895249dcfc
-    parent_uid: 073da2de0dab283eb52e6d5f2eaa750d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_12_300k.mp4'
-  - uid: a1bdb99c0bfaade4283446e9b42cb7f7
-    parent_uid: 073da2de0dab283eb52e6d5f2eaa750d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: cdRMY39EYbs
-  - uid: 5d0659bb3e5bcf189b48cebbd88dd587
-    parent_uid: 073da2de0dab283eb52e6d5f2eaa750d
-    id: cdRMY39EYbs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/derivative-of-the-arccos-function/cdRMY39EYbs.srt
-  - uid: bf6c1bff43d963ef58a9d6d19ea981e3
-    parent_uid: 073da2de0dab283eb52e6d5f2eaa750d
-    id: cdRMY39EYbs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/derivative-of-the-arccos-function/cdRMY39EYbs.pdf
-  - uid: 4f25609210eb21909666f49d0a92721c
-    parent_uid: 073da2de0dab283eb52e6d5f2eaa750d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d1e7b64d3a4d87e0aea504b29c1a39dc
-    parent_uid: 073da2de0dab283eb52e6d5f2eaa750d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 073da2de0dab283eb52e6d5f2eaa750d
 type: courses
 layout: video
 ---

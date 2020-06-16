@@ -1,13 +1,62 @@
 ---
-title: Taking a Vote to Engage Learners
-uid: 4088abc0fa5b8c7963794f3c5004f972
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 0oUSmdQ-WaA
+    parent_uid: 4088abc0fa5b8c7963794f3c5004f972
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5e13824079d04528fc68aaaf3f18567f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0oUSmdQ-WaA/default.jpg'
+    parent_uid: 4088abc0fa5b8c7963794f3c5004f972
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 574f5bd85868fa333e3d4a1e30a5b12f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 0oUSmdQ-WaA
+    parent_uid: 4088abc0fa5b8c7963794f3c5004f972
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5befd1318f0f758594db56d50b22a6f6
+  - id: 0oUSmdQ-WaA.srt
+    parent_uid: 4088abc0fa5b8c7963794f3c5004f972
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/taking-a-vote-to-engage-learners/0oUSmdQ-WaA.srt
+    title: 3play caption file
+    type: null
+    uid: 2c9c4e22cdec3918a6e8b869fd88e1de
+  - id: 0oUSmdQ-WaA.pdf
+    parent_uid: 4088abc0fa5b8c7963794f3c5004f972
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/taking-a-vote-to-engage-learners/0oUSmdQ-WaA.pdf
+    title: 3play pdf file
+    type: null
+    uid: f11a1a4e6db277451fe6fb8d293203b7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4088abc0fa5b8c7963794f3c5004f972
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6bb395e5b1b8a5694c403ddc33ed5806
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4088abc0fa5b8c7963794f3c5004f972
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3724b0dcef54a37a992539cd6b3fc05c
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator06_Voting_300k.mp4
+    parent_uid: 4088abc0fa5b8c7963794f3c5004f972
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 159871253e222f21210d63e33ba44873
+inline_embed_id: 5575113takingavotetoengagelearners60861434
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
+related_resources_text: ''
+short_url: taking-a-vote-to-engage-learners
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/taking-a-vote-to-engage-learners
-short_url: taking-a-vote-to-engage-learners
-inline_embed_id: 5575113takingavotetoengagelearners60861434
-about_this_resource_text: ''
-related_resources_text: ''
+title: Taking a Vote to Engage Learners
 transcript: >-
   <p><span m='5420'>YEN-JIE LEE:</span> <span m='5570'>So</span> <span
   m='5720'>during</span> <span m='5960'>the</span> <span m='6050'>class,</span>
@@ -148,56 +197,7 @@ transcript: >-
   m='146480'>introduces</span> <span m='148210'>interruptions</span> <span
   m='149780'>during</span> <span m='150050'>my</span> <span
   m='150230'>lecture.</span> </p>
-embedded_media:
-  - uid: 5e13824079d04528fc68aaaf3f18567f
-    parent_uid: 4088abc0fa5b8c7963794f3c5004f972
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0oUSmdQ-WaA
-  - uid: 574f5bd85868fa333e3d4a1e30a5b12f
-    parent_uid: 4088abc0fa5b8c7963794f3c5004f972
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0oUSmdQ-WaA/default.jpg'
-  - uid: 5befd1318f0f758594db56d50b22a6f6
-    parent_uid: 4088abc0fa5b8c7963794f3c5004f972
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0oUSmdQ-WaA
-  - uid: 2c9c4e22cdec3918a6e8b869fd88e1de
-    parent_uid: 4088abc0fa5b8c7963794f3c5004f972
-    id: 0oUSmdQ-WaA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/taking-a-vote-to-engage-learners/0oUSmdQ-WaA.srt
-  - uid: f11a1a4e6db277451fe6fb8d293203b7
-    parent_uid: 4088abc0fa5b8c7963794f3c5004f972
-    id: 0oUSmdQ-WaA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/taking-a-vote-to-engage-learners/0oUSmdQ-WaA.pdf
-  - uid: 6bb395e5b1b8a5694c403ddc33ed5806
-    parent_uid: 4088abc0fa5b8c7963794f3c5004f972
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3724b0dcef54a37a992539cd6b3fc05c
-    parent_uid: 4088abc0fa5b8c7963794f3c5004f972
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 159871253e222f21210d63e33ba44873
-    parent_uid: 4088abc0fa5b8c7963794f3c5004f972
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator06_Voting_300k.mp4
+uid: 4088abc0fa5b8c7963794f3c5004f972
 type: courses
 layout: video
 ---

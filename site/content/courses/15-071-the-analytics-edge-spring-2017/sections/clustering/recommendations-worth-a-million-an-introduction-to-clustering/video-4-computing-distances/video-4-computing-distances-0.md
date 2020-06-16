@@ -1,13 +1,62 @@
 ---
-title: 'Video 4: Computing Distances'
-uid: f67e283a4c0d5121076831581e867f03
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: R8SQafbqR1w
+    parent_uid: f67e283a4c0d5121076831581e867f03
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8d94a64718698dc7d11fc93c8c719bbe
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: R8SQafbqR1w
+    parent_uid: f67e283a4c0d5121076831581e867f03
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 71c9a2efca5cef1725da6371c067bdd2
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/R8SQafbqR1w/default.jpg'
+    parent_uid: f67e283a4c0d5121076831581e867f03
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b8c18256472308c3cb35fb1f72d1a770
+  - id: R8SQafbqR1w.srt
+    parent_uid: f67e283a4c0d5121076831581e867f03
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-4-computing-distances/video-4-computing-distances-0/R8SQafbqR1w.srt
+    title: 3play caption file
+    type: null
+    uid: d3e98781b797405349739f1ba00f6674
+  - id: R8SQafbqR1w.pdf
+    parent_uid: f67e283a4c0d5121076831581e867f03
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-4-computing-distances/video-4-computing-distances-0/R8SQafbqR1w.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2b0936abf4c83a5e5d306f88b372762a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f67e283a4c0d5121076831581e867f03
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 01ca9ddaf7116f8ccf0e3ca1c3d6f0be
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f67e283a4c0d5121076831581e867f03
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7a660c70bc583387eda0646711364d38
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.2.07_300k.mp4
+    parent_uid: f67e283a4c0d5121076831581e867f03
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 82e79fbc159315ffe0ec1950eb4c16e9
+inline_embed_id: 12786381video4computingdistances82944968
 parent_uid: a5ab66993ed80a0f758b18debb6e10a5
+related_resources_text: ''
+short_url: video-4-computing-distances-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-4-computing-distances/video-4-computing-distances-0
-short_url: video-4-computing-distances-0
-inline_embed_id: 12786381video4computingdistances82944968
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 4: Computing Distances'
 transcript: >-
   <p><span m='9500'>So</span> <span m='9966'>how</span> <span
   m='10432'>does</span> <span m='10898'>clustering</span> <span
@@ -386,56 +435,7 @@ transcript: >-
   m='367315'>clustering--</span> <span m='367970'>in</span> <span
   m='368625'>the</span> <span m='369280'>next</span> <span
   m='369935'>video.</span> </p>
-embedded_media:
-  - uid: 8d94a64718698dc7d11fc93c8c719bbe
-    parent_uid: f67e283a4c0d5121076831581e867f03
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: R8SQafbqR1w
-  - uid: 71c9a2efca5cef1725da6371c067bdd2
-    parent_uid: f67e283a4c0d5121076831581e867f03
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: R8SQafbqR1w
-  - uid: b8c18256472308c3cb35fb1f72d1a770
-    parent_uid: f67e283a4c0d5121076831581e867f03
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/R8SQafbqR1w/default.jpg'
-  - uid: d3e98781b797405349739f1ba00f6674
-    parent_uid: f67e283a4c0d5121076831581e867f03
-    id: R8SQafbqR1w.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-4-computing-distances/video-4-computing-distances-0/R8SQafbqR1w.srt
-  - uid: 2b0936abf4c83a5e5d306f88b372762a
-    parent_uid: f67e283a4c0d5121076831581e867f03
-    id: R8SQafbqR1w.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/clustering/recommendations-worth-a-million-an-introduction-to-clustering/video-4-computing-distances/video-4-computing-distances-0/R8SQafbqR1w.pdf
-  - uid: 01ca9ddaf7116f8ccf0e3ca1c3d6f0be
-    parent_uid: f67e283a4c0d5121076831581e867f03
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7a660c70bc583387eda0646711364d38
-    parent_uid: f67e283a4c0d5121076831581e867f03
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 82e79fbc159315ffe0ec1950eb4c16e9
-    parent_uid: f67e283a4c0d5121076831581e867f03
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_6.2.07_300k.mp4
+uid: f67e283a4c0d5121076831581e867f03
 type: courses
 layout: video
 ---

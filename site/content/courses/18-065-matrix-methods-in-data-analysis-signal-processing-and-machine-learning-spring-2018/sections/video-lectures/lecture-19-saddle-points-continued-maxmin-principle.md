@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 19: Saddle Points Continued, Maxmin Principle'
-uid: 1a9b96a6848456dd2b380557ed66a416
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-19-saddle-points-continued-maxmin-principle
-short_url: lecture-19-saddle-points-continued-maxmin-principle
-inline_embed_id: 76370732lecture19saddlepointscontinuedmaxminprinciple49769046
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>Professor Strang continues his
   discussion of saddle points, which are critical for deep learning
@@ -17,7 +10,62 @@ about_this_resource_text: >-
   variance and \(k\)<sup>th</sup> eigenvalue variance</p> <p>Related sections in
   textbook: III.2 and V.1</p> <p><strong>Instructor:</strong> Prof. Gilbert
   Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2K7CvGnebO0
+    parent_uid: 1a9b96a6848456dd2b380557ed66a416
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7e5144627e6317e8562d8fd4f80b9cda
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2K7CvGnebO0/default.jpg'
+    parent_uid: 1a9b96a6848456dd2b380557ed66a416
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d10328c47b32a854897aab5887ebf91e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 2K7CvGnebO0
+    parent_uid: 1a9b96a6848456dd2b380557ed66a416
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 62898cafda0045a81d0b1d05a3586238
+  - id: 2K7CvGnebO0.srt
+    parent_uid: 1a9b96a6848456dd2b380557ed66a416
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-19-saddle-points-continued-maxmin-principle/2K7CvGnebO0.srt
+    title: 3play caption file
+    type: null
+    uid: 0ea56b4162cc1bfa37a1c6f5af6666fd
+  - id: 2K7CvGnebO0.pdf
+    parent_uid: 1a9b96a6848456dd2b380557ed66a416
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-19-saddle-points-continued-maxmin-principle/2K7CvGnebO0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 756ed177370f2e49ffabf9c9e65a16ba
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1a9b96a6848456dd2b380557ed66a416
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6e8458f02924bdfda45d904f796b675c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1a9b96a6848456dd2b380557ed66a416
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6eb40e7bbae4a245d6ff680906ecb450
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture19_300k.mp4'
+    parent_uid: 1a9b96a6848456dd2b380557ed66a416
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 36b8c499e336f85378855e2264a1e1d9
+inline_embed_id: 76370732lecture19saddlepointscontinuedmaxminprinciple49769046
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-19-saddle-points-continued-maxmin-principle
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-19-saddle-points-continued-maxmin-principle
+title: 'Lecture 19: Saddle Points Continued, Maxmin Principle'
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2758,55 +2806,7 @@ transcript: >-
   m="3130090">move</span> <span m="3130390">on</span> <span
   m="3130780">after</span> <span m="3131140">the</span> <span
   m="3131230">break.</span> <span m="3131830">Good.</span></p>
-embedded_media:
-  - uid: 7e5144627e6317e8562d8fd4f80b9cda
-    parent_uid: 1a9b96a6848456dd2b380557ed66a416
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2K7CvGnebO0
-  - uid: d10328c47b32a854897aab5887ebf91e
-    parent_uid: 1a9b96a6848456dd2b380557ed66a416
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2K7CvGnebO0/default.jpg'
-  - uid: 62898cafda0045a81d0b1d05a3586238
-    parent_uid: 1a9b96a6848456dd2b380557ed66a416
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2K7CvGnebO0
-  - uid: 0ea56b4162cc1bfa37a1c6f5af6666fd
-    parent_uid: 1a9b96a6848456dd2b380557ed66a416
-    id: 2K7CvGnebO0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-19-saddle-points-continued-maxmin-principle/2K7CvGnebO0.srt
-  - uid: 756ed177370f2e49ffabf9c9e65a16ba
-    parent_uid: 1a9b96a6848456dd2b380557ed66a416
-    id: 2K7CvGnebO0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-19-saddle-points-continued-maxmin-principle/2K7CvGnebO0.pdf
-  - uid: 6e8458f02924bdfda45d904f796b675c
-    parent_uid: 1a9b96a6848456dd2b380557ed66a416
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6eb40e7bbae4a245d6ff680906ecb450
-    parent_uid: 1a9b96a6848456dd2b380557ed66a416
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 36b8c499e336f85378855e2264a1e1d9
-    parent_uid: 1a9b96a6848456dd2b380557ed66a416
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture19_300k.mp4'
+uid: 1a9b96a6848456dd2b380557ed66a416
 type: courses
 layout: video
 ---

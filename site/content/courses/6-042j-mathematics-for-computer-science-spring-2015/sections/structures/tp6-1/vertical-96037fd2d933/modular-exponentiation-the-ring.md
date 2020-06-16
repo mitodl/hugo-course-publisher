@@ -1,13 +1,72 @@
 ---
-title: ' The Ring Z n'
-uid: 3ef0d79c20a9ee3781052ae9636c364a
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: e7df4073062f9ef15aa65009728cefda
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a880a192828e7ff15e05da37838cc534
+  - id: Video-YouTube-Stream
+    media_location: dZgI16nMuqE
+    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3792a274aaaee6cd9c8e9309d670a555
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/dZgI16nMuqE/default.jpg'
+    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 10a8dbd1bdce8a4b580697c39be65143
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: dZgI16nMuqE
+    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 78e12441ec1add785dbbd72344bd3952
+  - id: dZgI16nMuqE.srt
+    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/vertical-96037fd2d933/modular-exponentiation-the-ring/dZgI16nMuqE.srt
+    title: 3play caption file
+    type: null
+    uid: 2da589bf82db31a9d0ee84eb5b6ee1e9
+  - id: dZgI16nMuqE.pdf
+    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/vertical-96037fd2d933/modular-exponentiation-the-ring/dZgI16nMuqE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 96518009fe81cd614b825a66f0ce2129
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9c07221fdfc77bd4655867cac519c8e4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8da36937ce24a53c54ac44342e7f83de
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_zmodn_ipod.mp4'
+    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f11ea044ec3a010643dcb43377dc870c
+inline_embed_id: 87125605theringzn99638431
 parent_uid: 1b0d56990646d4c3cc468d6e0be6464a
+related_resources_text: ''
+short_url: modular-exponentiation-the-ring
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/vertical-96037fd2d933/modular-exponentiation-the-ring
-short_url: modular-exponentiation-the-ring
-inline_embed_id: 87125605theringzn99638431
-about_this_resource_text: ''
-related_resources_text: ''
+title: ' The Ring Z n'
 transcript: >-
   <p><span m='440'>PROFESSOR:</span> <span m='880'>Another</span> <span
   m='1210'>way</span> <span m='1350'>to</span> <span m='1460'>talk</span> <span
@@ -1256,66 +1315,7 @@ transcript: >-
   m='1006640'>were</span> <span m='1006760'>aiming</span> <span
   m='1007060'>for</span> <span m='1007450'>in</span> <span
   m='1007620'>this</span> <span m='1007720'>segment.</span> </p>
-embedded_media:
-  - uid: e7df4073062f9ef15aa65009728cefda
-    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: a880a192828e7ff15e05da37838cc534
-    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 3792a274aaaee6cd9c8e9309d670a555
-    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: dZgI16nMuqE
-  - uid: 10a8dbd1bdce8a4b580697c39be65143
-    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/dZgI16nMuqE/default.jpg'
-  - uid: 78e12441ec1add785dbbd72344bd3952
-    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: dZgI16nMuqE
-  - uid: 2da589bf82db31a9d0ee84eb5b6ee1e9
-    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
-    id: dZgI16nMuqE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/vertical-96037fd2d933/modular-exponentiation-the-ring/dZgI16nMuqE.srt
-  - uid: 96518009fe81cd614b825a66f0ce2129
-    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
-    id: dZgI16nMuqE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp6-1/vertical-96037fd2d933/modular-exponentiation-the-ring/dZgI16nMuqE.pdf
-  - uid: 9c07221fdfc77bd4655867cac519c8e4
-    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8da36937ce24a53c54ac44342e7f83de
-    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f11ea044ec3a010643dcb43377dc870c
-    parent_uid: 3ef0d79c20a9ee3781052ae9636c364a
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_zmodn_ipod.mp4'
+uid: 3ef0d79c20a9ee3781052ae9636c364a
 type: courses
 layout: video
 ---

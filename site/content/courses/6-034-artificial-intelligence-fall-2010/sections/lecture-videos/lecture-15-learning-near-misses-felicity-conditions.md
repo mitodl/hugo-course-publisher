@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 15: Learning: Near Misses, Felicity Conditions'
-uid: 69c3f174890ae9d040802ca9e013df19
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-15-learning-near-misses-felicity-conditions
-short_url: lecture-15-learning-near-misses-felicity-conditions
-inline_embed_id: '79422715lecture15:learning:nearmisses,felicityconditions63835591'
 about_this_resource_text: >-
   <p><strong>Description:</strong> To determine whether three blocks form an
   arch, we use a model which evolves through examples and near misses; this is
   an example of one-shot learning. We also discuss other aspects of how students
   learn, and how to package your ideas better.</p>
   <p><strong>Instructor:</strong> Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: sh3EPjhhd40
+    parent_uid: 69c3f174890ae9d040802ca9e013df19
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c9e654112a5bd7176287ca9d3e5fa001
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-15-learning-near-misses/id765641080?i=194475714
+    parent_uid: 69c3f174890ae9d040802ca9e013df19
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 42a3161731a122625ad12b2eb4e28b07
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec15_300k.mp4'
+    parent_uid: 69c3f174890ae9d040802ca9e013df19
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0425a59d88370302dd747a80d3430fa3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/sh3EPjhhd40/default.jpg'
+    parent_uid: 69c3f174890ae9d040802ca9e013df19
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 50049c0c4cdba8e3d859953e1ed7f909
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: sh3EPjhhd40
+    parent_uid: 69c3f174890ae9d040802ca9e013df19
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 23d8d03b42392c8568e91ec37fe67732
+  - id: sh3EPjhhd40.srt
+    parent_uid: 69c3f174890ae9d040802ca9e013df19
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-15-learning-near-misses-felicity-conditions/sh3EPjhhd40.srt
+    title: 3play caption file
+    type: null
+    uid: 3fb8ea259bb40ddec0d07a31bd423cd6
+  - id: sh3EPjhhd40.pdf
+    parent_uid: 69c3f174890ae9d040802ca9e013df19
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-15-learning-near-misses-felicity-conditions/sh3EPjhhd40.pdf
+    title: 3play pdf file
+    type: null
+    uid: 804e853adcbd0bcf387d32c69a7a5be7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 69c3f174890ae9d040802ca9e013df19
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 72973152766cdf5a0d76f6843bc787e8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 69c3f174890ae9d040802ca9e013df19
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8979304842acc6775110ad18e734f374
+inline_embed_id: '79422715lecture15:learning:nearmisses,felicityconditions63835591'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: ''
+short_url: lecture-15-learning-near-misses-felicity-conditions
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-15-learning-near-misses-felicity-conditions
+title: 'Lecture 15: Learning: Near Misses, Felicity Conditions'
 transcript: >-
   <p><span m='10870'>PROFESSOR PATRICK WINSTON: You know, some</span> <span
   m='13000'>of you who for instance--</span> <span m='15406'>I don't know,
@@ -849,62 +904,7 @@ transcript: >-
   how to do good science.</span> </p><p><span m='2796140'>It's how to make
   yourself smarter, and how to make</span> <span m='2798220'>yourself more
   famous.</span> </p><p></p>
-embedded_media:
-  - uid: c9e654112a5bd7176287ca9d3e5fa001
-    parent_uid: 69c3f174890ae9d040802ca9e013df19
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: sh3EPjhhd40
-  - uid: 42a3161731a122625ad12b2eb4e28b07
-    parent_uid: 69c3f174890ae9d040802ca9e013df19
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-15-learning-near-misses/id765641080?i=194475714
-  - uid: 0425a59d88370302dd747a80d3430fa3
-    parent_uid: 69c3f174890ae9d040802ca9e013df19
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec15_300k.mp4'
-  - uid: 50049c0c4cdba8e3d859953e1ed7f909
-    parent_uid: 69c3f174890ae9d040802ca9e013df19
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/sh3EPjhhd40/default.jpg'
-  - uid: 23d8d03b42392c8568e91ec37fe67732
-    parent_uid: 69c3f174890ae9d040802ca9e013df19
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: sh3EPjhhd40
-  - uid: 3fb8ea259bb40ddec0d07a31bd423cd6
-    parent_uid: 69c3f174890ae9d040802ca9e013df19
-    id: sh3EPjhhd40.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-15-learning-near-misses-felicity-conditions/sh3EPjhhd40.srt
-  - uid: 804e853adcbd0bcf387d32c69a7a5be7
-    parent_uid: 69c3f174890ae9d040802ca9e013df19
-    id: sh3EPjhhd40.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-15-learning-near-misses-felicity-conditions/sh3EPjhhd40.pdf
-  - uid: 72973152766cdf5a0d76f6843bc787e8
-    parent_uid: 69c3f174890ae9d040802ca9e013df19
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8979304842acc6775110ad18e734f374
-    parent_uid: 69c3f174890ae9d040802ca9e013df19
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 69c3f174890ae9d040802ca9e013df19
 type: courses
 layout: video
 ---

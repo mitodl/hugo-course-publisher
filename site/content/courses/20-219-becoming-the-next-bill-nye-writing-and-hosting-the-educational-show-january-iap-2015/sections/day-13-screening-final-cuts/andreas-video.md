@@ -1,13 +1,67 @@
 ---
-title: Andrea's video
-uid: 8b838a880369520811ed69a867950c9c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: qkkI9Z9tKvo
+    parent_uid: 8b838a880369520811ed69a867950c9c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 55b0780e36117d0914da6eeb9036cadb
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 8b838a880369520811ed69a867950c9c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 08b1e7c0b699c8272558fc74ea727c42
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D13N_300k.mp4'
+    parent_uid: 8b838a880369520811ed69a867950c9c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3ad8b90dc63e331aa44386f184ceb986
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/qkkI9Z9tKvo/default.jpg'
+    parent_uid: 8b838a880369520811ed69a867950c9c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 686ddcd67d9ab5cf6a8e571d6006acd9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: qkkI9Z9tKvo
+    parent_uid: 8b838a880369520811ed69a867950c9c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a3e64bc70927a9eb9633c0ef5eaeccea
+  - id: qkkI9Z9tKvo.srt
+    parent_uid: 8b838a880369520811ed69a867950c9c
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/andreas-video/qkkI9Z9tKvo.srt
+    title: 3play caption file
+    type: null
+    uid: 4fa275a678799cb4a12d0a7796f18ffe
+  - id: qkkI9Z9tKvo.pdf
+    parent_uid: 8b838a880369520811ed69a867950c9c
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/andreas-video/qkkI9Z9tKvo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 61c1652b8de224c5ab79f4fab741f7a7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8b838a880369520811ed69a867950c9c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7d7e7049ccc8c3c6403b7144e9934c16
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8b838a880369520811ed69a867950c9c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fd1cf58588d126ebaed51a07cff7e364
+inline_embed_id: 66560477andrea'svideo37625230
 parent_uid: 2dc5287f35ede8339c9b93f4238ac687
+related_resources_text: ''
+short_url: andreas-video
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/andreas-video
-short_url: andreas-video
-inline_embed_id: 66560477andrea'svideo37625230
-about_this_resource_text: ''
-related_resources_text: ''
+title: Andrea's video
 transcript: >-
   <p><span m="90">The</span> <span m="170">following</span> <span
   m="610">content</span> <span m="1120">is</span> <span m="1230">provided</span>
@@ -4165,61 +4219,7 @@ transcript: >-
   m="4031240">evening,</span> <span m="4031590">and</span> <span
   m="4031720">thanks</span> <span m="4031940">again,</span> <span
   m="4032240">everyone.</span></p>
-embedded_media:
-  - uid: 55b0780e36117d0914da6eeb9036cadb
-    parent_uid: 8b838a880369520811ed69a867950c9c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: qkkI9Z9tKvo
-  - uid: 08b1e7c0b699c8272558fc74ea727c42
-    parent_uid: 8b838a880369520811ed69a867950c9c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 3ad8b90dc63e331aa44386f184ceb986
-    parent_uid: 8b838a880369520811ed69a867950c9c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D13N_300k.mp4'
-  - uid: 686ddcd67d9ab5cf6a8e571d6006acd9
-    parent_uid: 8b838a880369520811ed69a867950c9c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/qkkI9Z9tKvo/default.jpg'
-  - uid: a3e64bc70927a9eb9633c0ef5eaeccea
-    parent_uid: 8b838a880369520811ed69a867950c9c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: qkkI9Z9tKvo
-  - uid: 4fa275a678799cb4a12d0a7796f18ffe
-    parent_uid: 8b838a880369520811ed69a867950c9c
-    id: qkkI9Z9tKvo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/andreas-video/qkkI9Z9tKvo.srt
-  - uid: 61c1652b8de224c5ab79f4fab741f7a7
-    parent_uid: 8b838a880369520811ed69a867950c9c
-    id: qkkI9Z9tKvo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/andreas-video/qkkI9Z9tKvo.pdf
-  - uid: 7d7e7049ccc8c3c6403b7144e9934c16
-    parent_uid: 8b838a880369520811ed69a867950c9c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fd1cf58588d126ebaed51a07cff7e364
-    parent_uid: 8b838a880369520811ed69a867950c9c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 8b838a880369520811ed69a867950c9c
 type: courses
 layout: video
 ---

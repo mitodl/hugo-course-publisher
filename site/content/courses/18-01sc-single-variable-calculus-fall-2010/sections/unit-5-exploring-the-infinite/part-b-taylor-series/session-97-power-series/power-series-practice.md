@@ -1,13 +1,68 @@
 ---
-title: Power Series Practice
-uid: 12e5d444e22b414117b72b72bd1e4d30
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: al2lzKq4o5E
+    parent_uid: 12e5d444e22b414117b72b72bd1e4d30
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c8e5fe3b15ca723e8a4c6b0d8e386390
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/al2lzKq4o5E/default.jpg'
+    parent_uid: 12e5d444e22b414117b72b72bd1e4d30
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: be903949b1d90b627fce49882e8ada9c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/power-series-practice/id414308064?i=90320230
+    parent_uid: 12e5d444e22b414117b72b72bd1e4d30
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1b1a66005ac5f167a731ac3145c2bc2a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_78_300k.mp4'
+    parent_uid: 12e5d444e22b414117b72b72bd1e4d30
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2bb09e5a7fcfffc8024fe58313d09dab
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: al2lzKq4o5E
+    parent_uid: 12e5d444e22b414117b72b72bd1e4d30
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 05c5e77fe8846b4cad92fdbe1923c661
+  - id: al2lzKq4o5E.srt
+    parent_uid: 12e5d444e22b414117b72b72bd1e4d30
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/power-series-practice/al2lzKq4o5E.srt
+    title: 3play caption file
+    type: null
+    uid: 9adce5fddeb3c56c28452d811dab1fab
+  - id: al2lzKq4o5E.pdf
+    parent_uid: 12e5d444e22b414117b72b72bd1e4d30
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/power-series-practice/al2lzKq4o5E.pdf
+    title: 3play pdf file
+    type: null
+    uid: 51118bb62ed1d8b9551659c388a7e1c4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 12e5d444e22b414117b72b72bd1e4d30
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 36b995cf4343c2af7083bec3041ab583
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 12e5d444e22b414117b72b72bd1e4d30
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: caea3931f9cd3c0109ee4e5d8718df6c
+inline_embed_id: 12017463powerseriespractice95573505
 parent_uid: bcbb45fdbe1b69cc80a82c9f73ca8d5d
+related_resources_text: ''
+short_url: power-series-practice
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/power-series-practice
-short_url: power-series-practice
-inline_embed_id: 12017463powerseriespractice95573505
-about_this_resource_text: ''
-related_resources_text: ''
+title: Power Series Practice
 transcript: >-
   <p><span m='7010'>Welcome</span> <span m='7370'>back to</span> <span
   m='7560'>recitation.</span> <span m='8820'>In</span> <span
@@ -769,62 +824,7 @@ transcript: >-
   m='599750'>already</span> <span m='600060'>know.</span> </p><p><span
   m='600820'>So I'll</span> <span m='601150'>stop</span> <span
   m='601280'>there.</span> </p>
-embedded_media:
-  - uid: c8e5fe3b15ca723e8a4c6b0d8e386390
-    parent_uid: 12e5d444e22b414117b72b72bd1e4d30
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: al2lzKq4o5E
-  - uid: be903949b1d90b627fce49882e8ada9c
-    parent_uid: 12e5d444e22b414117b72b72bd1e4d30
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/al2lzKq4o5E/default.jpg'
-  - uid: 1b1a66005ac5f167a731ac3145c2bc2a
-    parent_uid: 12e5d444e22b414117b72b72bd1e4d30
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/power-series-practice/id414308064?i=90320230
-  - uid: 2bb09e5a7fcfffc8024fe58313d09dab
-    parent_uid: 12e5d444e22b414117b72b72bd1e4d30
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_78_300k.mp4'
-  - uid: 05c5e77fe8846b4cad92fdbe1923c661
-    parent_uid: 12e5d444e22b414117b72b72bd1e4d30
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: al2lzKq4o5E
-  - uid: 9adce5fddeb3c56c28452d811dab1fab
-    parent_uid: 12e5d444e22b414117b72b72bd1e4d30
-    id: al2lzKq4o5E.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/power-series-practice/al2lzKq4o5E.srt
-  - uid: 51118bb62ed1d8b9551659c388a7e1c4
-    parent_uid: 12e5d444e22b414117b72b72bd1e4d30
-    id: al2lzKq4o5E.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-97-power-series/power-series-practice/al2lzKq4o5E.pdf
-  - uid: 36b995cf4343c2af7083bec3041ab583
-    parent_uid: 12e5d444e22b414117b72b72bd1e4d30
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: caea3931f9cd3c0109ee4e5d8718df6c
-    parent_uid: 12e5d444e22b414117b72b72bd1e4d30
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 12e5d444e22b414117b72b72bd1e4d30
 type: courses
 layout: video
 ---

@@ -1,13 +1,67 @@
 ---
-title: Ira Glass on Storytelling
-uid: a319535f667c7e22d7abe610c724dcda
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: AjK2zF9yN0k
+    parent_uid: a319535f667c7e22d7abe610c724dcda
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f8753baa2dc27df7adb265fbf14e01f5
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: AjK2zF9yN0k
+    parent_uid: a319535f667c7e22d7abe610c724dcda
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7c4e36fce1dc2075e5fc5821aef56864
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: a319535f667c7e22d7abe610c724dcda
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e7f47c48d060cccaf8dfcf98aa1f0e7a
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D03P1_300k.mp4'
+    parent_uid: a319535f667c7e22d7abe610c724dcda
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 21c39fecd3cb8addaf65979179c927d3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/AjK2zF9yN0k/default.jpg'
+    parent_uid: a319535f667c7e22d7abe610c724dcda
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 702e9bda62e2e76f20a5fc76620781da
+  - id: AjK2zF9yN0k.srt
+    parent_uid: a319535f667c7e22d7abe610c724dcda
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-3-storytellers-toolkit-pt.-1/copy3_of_day-3-part-1/AjK2zF9yN0k.srt
+    title: 3play caption file
+    type: null
+    uid: 1ca2d43ffb2d853d2031f1bcd56308ff
+  - id: AjK2zF9yN0k.pdf
+    parent_uid: a319535f667c7e22d7abe610c724dcda
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-3-storytellers-toolkit-pt.-1/copy3_of_day-3-part-1/AjK2zF9yN0k.pdf
+    title: 3play pdf file
+    type: null
+    uid: 40f4599436253bd0042c4d16e6748717
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a319535f667c7e22d7abe610c724dcda
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0350ec94573a76c405f51863b3bfccd2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a319535f667c7e22d7abe610c724dcda
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 985ee9072e811df6a677addd77cd86ad
+inline_embed_id: 80229113iraglassonstorytelling66098393
 parent_uid: 36586ba568db37caa516348b595214d8
+related_resources_text: ''
+short_url: copy3_of_day-3-part-1
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-3-storytellers-toolkit-pt.-1/copy3_of_day-3-part-1
-short_url: copy3_of_day-3-part-1
-inline_embed_id: 80229113iraglassonstorytelling66098393
-about_this_resource_text: ''
-related_resources_text: ''
+title: Ira Glass on Storytelling
 transcript: >-
   <p><span m="40">The</span> <span m="140">following</span> <span
   m="610">content</span> <span m="1100">is</span> <span m="1220">provided</span>
@@ -9694,61 +9748,7 @@ transcript: >-
   m="7899190">bit different</span> <span m="7899620">than</span> <span
   m="7899920">a</span> <span m="7900220">Lynda</span> <span
   m="7900520">series</span> <span m="7900820">for example.</span></p>
-embedded_media:
-  - uid: f8753baa2dc27df7adb265fbf14e01f5
-    parent_uid: a319535f667c7e22d7abe610c724dcda
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: AjK2zF9yN0k
-  - uid: 7c4e36fce1dc2075e5fc5821aef56864
-    parent_uid: a319535f667c7e22d7abe610c724dcda
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: AjK2zF9yN0k
-  - uid: e7f47c48d060cccaf8dfcf98aa1f0e7a
-    parent_uid: a319535f667c7e22d7abe610c724dcda
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 21c39fecd3cb8addaf65979179c927d3
-    parent_uid: a319535f667c7e22d7abe610c724dcda
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D03P1_300k.mp4'
-  - uid: 702e9bda62e2e76f20a5fc76620781da
-    parent_uid: a319535f667c7e22d7abe610c724dcda
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/AjK2zF9yN0k/default.jpg'
-  - uid: 1ca2d43ffb2d853d2031f1bcd56308ff
-    parent_uid: a319535f667c7e22d7abe610c724dcda
-    id: AjK2zF9yN0k.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-3-storytellers-toolkit-pt.-1/copy3_of_day-3-part-1/AjK2zF9yN0k.srt
-  - uid: 40f4599436253bd0042c4d16e6748717
-    parent_uid: a319535f667c7e22d7abe610c724dcda
-    id: AjK2zF9yN0k.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-3-storytellers-toolkit-pt.-1/copy3_of_day-3-part-1/AjK2zF9yN0k.pdf
-  - uid: 0350ec94573a76c405f51863b3bfccd2
-    parent_uid: a319535f667c7e22d7abe610c724dcda
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 985ee9072e811df6a677addd77cd86ad
-    parent_uid: a319535f667c7e22d7abe610c724dcda
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a319535f667c7e22d7abe610c724dcda
 type: courses
 layout: video
 ---

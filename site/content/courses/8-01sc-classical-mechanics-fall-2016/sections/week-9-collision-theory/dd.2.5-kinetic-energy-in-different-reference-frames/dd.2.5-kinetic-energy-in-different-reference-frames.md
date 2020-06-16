@@ -1,13 +1,67 @@
 ---
-title: DD.2.5 Kinetic Energy in Different Reference Frames
-uid: 0bcee5ab64e1878778a130415e484004
+about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Uoukes39gb0
+    parent_uid: 0bcee5ab64e1878778a130415e484004
+    title: Video-YouTube-Stream
+    type: Video
+    uid: fdebca2ef7171404e256f27bdbc0c68c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Uoukes39gb0/default.jpg'
+    parent_uid: 0bcee5ab64e1878778a130415e484004
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 323e4121dde2bdb6093122178f6be395
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Uoukes39gb0
+    parent_uid: 0bcee5ab64e1878778a130415e484004
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c6a40bea78ae1921d809157750e6566d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 0bcee5ab64e1878778a130415e484004
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0672882ee410fb57dcd8ca57d13a7761
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_DD_CMframe5_360p.mp4'
+    parent_uid: 0bcee5ab64e1878778a130415e484004
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 833d70c245395027fc4368f49fa9fe23
+  - id: Uoukes39gb0.srt
+    parent_uid: 0bcee5ab64e1878778a130415e484004
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.5-kinetic-energy-in-different-reference-frames/dd.2.5-kinetic-energy-in-different-reference-frames/Uoukes39gb0.srt
+    title: 3play caption file
+    type: null
+    uid: fc0a2b24c332ec63000e2bf2dcd7d428
+  - id: Uoukes39gb0.pdf
+    parent_uid: 0bcee5ab64e1878778a130415e484004
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.5-kinetic-energy-in-different-reference-frames/dd.2.5-kinetic-energy-in-different-reference-frames/Uoukes39gb0.pdf
+    title: 3play pdf file
+    type: null
+    uid: d1d1039f539abe37648c402520e72625
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0bcee5ab64e1878778a130415e484004
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d82385480996ae856841bf6ea216e261
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0bcee5ab64e1878778a130415e484004
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e775af92131a2a19ed31ed0babb9dbdb
+inline_embed_id: 57057224dd.2.5kineticenergyindifferentreferenceframes93576599
 parent_uid: a0cd15bf86d96b196be57565da50816c
+related_resources_text: ''
+short_url: dd.2.5-kinetic-energy-in-different-reference-frames
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.5-kinetic-energy-in-different-reference-frames/dd.2.5-kinetic-energy-in-different-reference-frames
-short_url: dd.2.5-kinetic-energy-in-different-reference-frames
-inline_embed_id: 57057224dd.2.5kineticenergyindifferentreferenceframes93576599
-about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
-related_resources_text: ''
+title: DD.2.5 Kinetic Energy in Different Reference Frames
 transcript: >-
   <p><span m='3480'>Let's compare kinetic energies in a two particle</span>
   <span m='5850'>one-dimensional collision in different reference frames.</span>
@@ -95,61 +149,7 @@ transcript: >-
   reference frames.</span> </p><p><span m='356120'>And the next thing we'll look
   at is</span> <span m='357620'>how that changes when we have a
   collision.</span> </p>
-embedded_media:
-  - uid: fdebca2ef7171404e256f27bdbc0c68c
-    parent_uid: 0bcee5ab64e1878778a130415e484004
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Uoukes39gb0
-  - uid: 323e4121dde2bdb6093122178f6be395
-    parent_uid: 0bcee5ab64e1878778a130415e484004
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Uoukes39gb0/default.jpg'
-  - uid: c6a40bea78ae1921d809157750e6566d
-    parent_uid: 0bcee5ab64e1878778a130415e484004
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Uoukes39gb0
-  - uid: 0672882ee410fb57dcd8ca57d13a7761
-    parent_uid: 0bcee5ab64e1878778a130415e484004
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 833d70c245395027fc4368f49fa9fe23
-    parent_uid: 0bcee5ab64e1878778a130415e484004
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_DD_CMframe5_360p.mp4'
-  - uid: fc0a2b24c332ec63000e2bf2dcd7d428
-    parent_uid: 0bcee5ab64e1878778a130415e484004
-    id: Uoukes39gb0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.5-kinetic-energy-in-different-reference-frames/dd.2.5-kinetic-energy-in-different-reference-frames/Uoukes39gb0.srt
-  - uid: d1d1039f539abe37648c402520e72625
-    parent_uid: 0bcee5ab64e1878778a130415e484004
-    id: Uoukes39gb0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-9-collision-theory/dd.2.5-kinetic-energy-in-different-reference-frames/dd.2.5-kinetic-energy-in-different-reference-frames/Uoukes39gb0.pdf
-  - uid: d82385480996ae856841bf6ea216e261
-    parent_uid: 0bcee5ab64e1878778a130415e484004
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e775af92131a2a19ed31ed0babb9dbdb
-    parent_uid: 0bcee5ab64e1878778a130415e484004
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 0bcee5ab64e1878778a130415e484004
 type: courses
 layout: video
 ---

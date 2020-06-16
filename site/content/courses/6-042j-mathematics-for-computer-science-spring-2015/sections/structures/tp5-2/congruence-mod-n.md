@@ -1,13 +1,72 @@
 ---
-title: Congruence mod n
-uid: df344596ac8ba471553b02e5172c93b3
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: df344596ac8ba471553b02e5172c93b3
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 2d12509131db920219e1b7099778b1bf
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: df344596ac8ba471553b02e5172c93b3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2eaf32de954bfd09ec72b6342392a0ec
+  - id: Video-YouTube-Stream
+    media_location: KvtLWgCTwn4
+    parent_uid: df344596ac8ba471553b02e5172c93b3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 60d07ba5220e396e9483c736ad0d5a32
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/KvtLWgCTwn4/default.jpg'
+    parent_uid: df344596ac8ba471553b02e5172c93b3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0c4cc122f93e008c295337dee3167751
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: KvtLWgCTwn4
+    parent_uid: df344596ac8ba471553b02e5172c93b3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: aa353ffe211e5224f7a4a0566de98569
+  - id: KvtLWgCTwn4.srt
+    parent_uid: df344596ac8ba471553b02e5172c93b3
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-2/congruence-mod-n/KvtLWgCTwn4.srt
+    title: 3play caption file
+    type: null
+    uid: e00f416166f690b4df8da3f584a8fddb
+  - id: KvtLWgCTwn4.pdf
+    parent_uid: df344596ac8ba471553b02e5172c93b3
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-2/congruence-mod-n/KvtLWgCTwn4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 77c5925ea03052bd5b67c3be7d9c8453
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: df344596ac8ba471553b02e5172c93b3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 68af6758bcd4c3f66aa5f4b9a9473d9a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: df344596ac8ba471553b02e5172c93b3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 487a1ae2d1f06a6cadf2e89c6be9c92c
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_congruence_ipod.mp4'
+    parent_uid: df344596ac8ba471553b02e5172c93b3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1148251cb92381de46020d491822620c
+inline_embed_id: 65146299congruencemodn2505376
 parent_uid: 30a0182e39fc2a66241efb67db839b1d
+related_resources_text: ''
+short_url: congruence-mod-n
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-2/congruence-mod-n
-short_url: congruence-mod-n
-inline_embed_id: 65146299congruencemodn2505376
-about_this_resource_text: ''
-related_resources_text: ''
+title: Congruence mod n
 transcript: >-
   <p><span m='660'>PROFESSOR: The</span> <span m='770'>idea</span> <span
   m='1030'>of</span> <span m='1140'>congruence</span> <span m='1810'>was</span>
@@ -930,66 +989,7 @@ transcript: >-
   m='789880'>anything</span> <span m='790290'>to</span> <span
   m='790410'>the</span> <span m='790520'>ninth</span> <span
   m='790910'>power.</span> </p>
-embedded_media:
-  - uid: 2d12509131db920219e1b7099778b1bf
-    parent_uid: df344596ac8ba471553b02e5172c93b3
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 2eaf32de954bfd09ec72b6342392a0ec
-    parent_uid: df344596ac8ba471553b02e5172c93b3
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 60d07ba5220e396e9483c736ad0d5a32
-    parent_uid: df344596ac8ba471553b02e5172c93b3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: KvtLWgCTwn4
-  - uid: 0c4cc122f93e008c295337dee3167751
-    parent_uid: df344596ac8ba471553b02e5172c93b3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/KvtLWgCTwn4/default.jpg'
-  - uid: aa353ffe211e5224f7a4a0566de98569
-    parent_uid: df344596ac8ba471553b02e5172c93b3
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: KvtLWgCTwn4
-  - uid: e00f416166f690b4df8da3f584a8fddb
-    parent_uid: df344596ac8ba471553b02e5172c93b3
-    id: KvtLWgCTwn4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-2/congruence-mod-n/KvtLWgCTwn4.srt
-  - uid: 77c5925ea03052bd5b67c3be7d9c8453
-    parent_uid: df344596ac8ba471553b02e5172c93b3
-    id: KvtLWgCTwn4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-2/congruence-mod-n/KvtLWgCTwn4.pdf
-  - uid: 68af6758bcd4c3f66aa5f4b9a9473d9a
-    parent_uid: df344596ac8ba471553b02e5172c93b3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 487a1ae2d1f06a6cadf2e89c6be9c92c
-    parent_uid: df344596ac8ba471553b02e5172c93b3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1148251cb92381de46020d491822620c
-    parent_uid: df344596ac8ba471553b02e5172c93b3
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_congruence_ipod.mp4'
+uid: df344596ac8ba471553b02e5172c93b3
 type: courses
 layout: video
 ---

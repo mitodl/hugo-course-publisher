@@ -1,13 +1,67 @@
 ---
-title: PS.7.1 Worked Example - Collision and Sliding on a Rough Surface
-uid: b3636e25f8a6131233168d0a184f1c31
+about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Anna Frebel</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Lpd_TddOSZY
+    parent_uid: b3636e25f8a6131233168d0a184f1c31
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0850f3c376aba131080d0f172d2bbfc9
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Lpd_TddOSZY/default.jpg'
+    parent_uid: b3636e25f8a6131233168d0a184f1c31
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9655502da537de57a35277f6596c7a60
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Lpd_TddOSZY
+    parent_uid: b3636e25f8a6131233168d0a184f1c31
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 537824b5def98e1896a78202fdda60e2
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: b3636e25f8a6131233168d0a184f1c31
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 417ceab6c139f2197ca0e23e7826514b
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W07PS01_360p.mp4'
+    parent_uid: b3636e25f8a6131233168d0a184f1c31
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 26e52a56e6dece7a19715d111d2dfbb2
+  - id: Lpd_TddOSZY.srt
+    parent_uid: b3636e25f8a6131233168d0a184f1c31
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-7-kinetic-energy-and-work/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface/Lpd_TddOSZY.srt
+    title: 3play caption file
+    type: null
+    uid: 109d73d0a9faf5567eb6a08008806177
+  - id: Lpd_TddOSZY.pdf
+    parent_uid: b3636e25f8a6131233168d0a184f1c31
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-7-kinetic-energy-and-work/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface/Lpd_TddOSZY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 09e2bca9aff49247fd116081b5b0ed5f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b3636e25f8a6131233168d0a184f1c31
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5bcc263f5e23472d675dd1dd42c6c918
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b3636e25f8a6131233168d0a184f1c31
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5be02595d59ee8ee0ee08585a46bf11c
+inline_embed_id: 85002455ps.7.1workedexamplecollisionandslidingonaroughsurface26418906
 parent_uid: 1a85f658a6b619d17082201370c974dd
+related_resources_text: ''
+short_url: ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-7-kinetic-energy-and-work/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface
-short_url: ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface
-inline_embed_id: 85002455ps.7.1workedexamplecollisionandslidingonaroughsurface26418906
-about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Anna Frebel</p>'
-related_resources_text: ''
+title: PS.7.1 Worked Example - Collision and Sliding on a Rough Surface
 transcript: >-
   <p><span m='4000'>Let's look at these two blocks here.</span> </p><p><span
   m='6370'>Block 1 has a mass of 3m and Block 2 has a mass of 1 m.</span>
@@ -94,61 +148,7 @@ transcript: >-
   with which the two blocks</span> <span m='394600'>collided initially, then
   eventually went</span> <span m='398110'>onto this rough surface and came to
   rest here at x equals d.</span> </p>
-embedded_media:
-  - uid: 0850f3c376aba131080d0f172d2bbfc9
-    parent_uid: b3636e25f8a6131233168d0a184f1c31
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Lpd_TddOSZY
-  - uid: 9655502da537de57a35277f6596c7a60
-    parent_uid: b3636e25f8a6131233168d0a184f1c31
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Lpd_TddOSZY/default.jpg'
-  - uid: 537824b5def98e1896a78202fdda60e2
-    parent_uid: b3636e25f8a6131233168d0a184f1c31
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Lpd_TddOSZY
-  - uid: 417ceab6c139f2197ca0e23e7826514b
-    parent_uid: b3636e25f8a6131233168d0a184f1c31
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 26e52a56e6dece7a19715d111d2dfbb2
-    parent_uid: b3636e25f8a6131233168d0a184f1c31
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W07PS01_360p.mp4'
-  - uid: 109d73d0a9faf5567eb6a08008806177
-    parent_uid: b3636e25f8a6131233168d0a184f1c31
-    id: Lpd_TddOSZY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-7-kinetic-energy-and-work/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface/Lpd_TddOSZY.srt
-  - uid: 09e2bca9aff49247fd116081b5b0ed5f
-    parent_uid: b3636e25f8a6131233168d0a184f1c31
-    id: Lpd_TddOSZY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-7-kinetic-energy-and-work/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface/ps.7.1-worked-example-collision-and-sliding-on-a-rough-surface/Lpd_TddOSZY.pdf
-  - uid: 5bcc263f5e23472d675dd1dd42c6c918
-    parent_uid: b3636e25f8a6131233168d0a184f1c31
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5be02595d59ee8ee0ee08585a46bf11c
-    parent_uid: b3636e25f8a6131233168d0a184f1c31
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b3636e25f8a6131233168d0a184f1c31
 type: courses
 layout: video
 ---

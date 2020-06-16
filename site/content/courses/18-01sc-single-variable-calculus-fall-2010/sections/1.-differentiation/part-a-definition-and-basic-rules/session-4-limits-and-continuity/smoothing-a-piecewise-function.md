@@ -1,13 +1,68 @@
 ---
-title: Smoothing a Piecewise Function
-uid: 96e78be8197025be31b4b7c495bed794
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Fj7pbLwbSmU
+    parent_uid: 96e78be8197025be31b4b7c495bed794
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 433f4574504b33a9f539ae54811ab9c4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Fj7pbLwbSmU/default.jpg'
+    parent_uid: 96e78be8197025be31b4b7c495bed794
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6241d7edf0954d1a6fe4d8418daf795e
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/smoothing-piece-wise-function/id414308064?i=90318622
+    parent_uid: 96e78be8197025be31b4b7c495bed794
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: aac3c794aa836aa0962b3fe785ad73fe
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_03_300k.mp4'
+    parent_uid: 96e78be8197025be31b4b7c495bed794
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: aa5a68bc51e6bfa8e2d600b82fd5fb41
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: Fj7pbLwbSmU
+    parent_uid: 96e78be8197025be31b4b7c495bed794
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0d9e9d641f13226c5a11135d444e4bfc
+  - id: Fj7pbLwbSmU.srt
+    parent_uid: 96e78be8197025be31b4b7c495bed794
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-4-limits-and-continuity/smoothing-a-piecewise-function/Fj7pbLwbSmU.srt
+    title: 3play caption file
+    type: null
+    uid: 0bdd874a497c7fec1e0671a9e609f491
+  - id: Fj7pbLwbSmU.pdf
+    parent_uid: 96e78be8197025be31b4b7c495bed794
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-4-limits-and-continuity/smoothing-a-piecewise-function/Fj7pbLwbSmU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 287d2a222147de59371f53ad5259eea6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 96e78be8197025be31b4b7c495bed794
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cb928df29054c7e4c0b708e63487567a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 96e78be8197025be31b4b7c495bed794
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: dbb33d4aa2cacf279de13746ebf67e8f
+inline_embed_id: 2688712smoothingapiecewisefunction92777840
 parent_uid: 5878551f3d21546e5d3abcc5b156e7d2
+related_resources_text: ''
+short_url: smoothing-a-piecewise-function
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-4-limits-and-continuity/smoothing-a-piecewise-function
-short_url: smoothing-a-piecewise-function
-inline_embed_id: 2688712smoothingapiecewisefunction92777840
-about_this_resource_text: ''
-related_resources_text: ''
+title: Smoothing a Piecewise Function
 transcript: >-
   <p><span m='0'>CHRISTINE BREINER:</span> <span m='7770'>Welcome</span> <span
   m='8170'>back</span> <span m='8370'>to</span> <span
@@ -670,62 +725,7 @@ transcript: >-
   m='551300'>differentiable.</span> </p><p><span m='552310'>And</span> <span
   m='552560'>we'll</span> <span m='552690'>stop</span> <span
   m='552960'>there.</span> </p>
-embedded_media:
-  - uid: 433f4574504b33a9f539ae54811ab9c4
-    parent_uid: 96e78be8197025be31b4b7c495bed794
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Fj7pbLwbSmU
-  - uid: 6241d7edf0954d1a6fe4d8418daf795e
-    parent_uid: 96e78be8197025be31b4b7c495bed794
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Fj7pbLwbSmU/default.jpg'
-  - uid: aac3c794aa836aa0962b3fe785ad73fe
-    parent_uid: 96e78be8197025be31b4b7c495bed794
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/smoothing-piece-wise-function/id414308064?i=90318622
-  - uid: aa5a68bc51e6bfa8e2d600b82fd5fb41
-    parent_uid: 96e78be8197025be31b4b7c495bed794
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_03_300k.mp4'
-  - uid: 0d9e9d641f13226c5a11135d444e4bfc
-    parent_uid: 96e78be8197025be31b4b7c495bed794
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Fj7pbLwbSmU
-  - uid: 0bdd874a497c7fec1e0671a9e609f491
-    parent_uid: 96e78be8197025be31b4b7c495bed794
-    id: Fj7pbLwbSmU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-4-limits-and-continuity/smoothing-a-piecewise-function/Fj7pbLwbSmU.srt
-  - uid: 287d2a222147de59371f53ad5259eea6
-    parent_uid: 96e78be8197025be31b4b7c495bed794
-    id: Fj7pbLwbSmU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-4-limits-and-continuity/smoothing-a-piecewise-function/Fj7pbLwbSmU.pdf
-  - uid: cb928df29054c7e4c0b708e63487567a
-    parent_uid: 96e78be8197025be31b4b7c495bed794
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: dbb33d4aa2cacf279de13746ebf67e8f
-    parent_uid: 96e78be8197025be31b4b7c495bed794
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 96e78be8197025be31b4b7c495bed794
 type: courses
 layout: video
 ---

@@ -1,18 +1,72 @@
 ---
-title: Evolutionary Games
-uid: a9a96ceed13b5d4051db369ab103517c
-parent_uid: 2c19124a07b81891918cf65ff26fbc3c
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/evolutionary-games
-short_url: evolutionary-games
-inline_embed_id: 60715161evolutionarygames51692431
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Prof. Jeff Gore begins with
   a review problem on rugged landscapes. He then moved on to the main subject:
   evolutionary game theory. This includes the Nash equilibrium, the prisoner's
   dilemma, and the hawk-dove game.</p> <p><strong>Instructor:</strong> Prof.
   Jeff Gore</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: a8Fbmj4nIxY
+    parent_uid: a9a96ceed13b5d4051db369ab103517c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3eaf37caefee21b4b269b490ae3d1d8a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/a8Fbmj4nIxY/default.jpg'
+    parent_uid: a9a96ceed13b5d4051db369ab103517c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8b20ecd36f6338c806cd87cd1147ef66
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
+    parent_uid: a9a96ceed13b5d4051db369ab103517c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 75bc40029ccb00dfb172387fe3357c14
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec18_300k.mp4'
+    parent_uid: a9a96ceed13b5d4051db369ab103517c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c0b8a907a67cb738255b88e902def3f8
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: a8Fbmj4nIxY
+    parent_uid: a9a96ceed13b5d4051db369ab103517c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 346897b39cda186eb3107e18a82696ad
+  - id: a8Fbmj4nIxY.srt
+    parent_uid: a9a96ceed13b5d4051db369ab103517c
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/evolutionary-games/a8Fbmj4nIxY.srt
+    title: 3play caption file
+    type: null
+    uid: 6934cf0c31cba33a86d117f18afbf72a
+  - id: a8Fbmj4nIxY.pdf
+    parent_uid: a9a96ceed13b5d4051db369ab103517c
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/evolutionary-games/a8Fbmj4nIxY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9328267905a97798082d5ece4162f753
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a9a96ceed13b5d4051db369ab103517c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f3243b4591d103fe1aa2b51c0ce0d4da
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a9a96ceed13b5d4051db369ab103517c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9f2966afaeb53f0093a8464780e93a06
+inline_embed_id: 60715161evolutionarygames51692431
+parent_uid: 2c19124a07b81891918cf65ff26fbc3c
 related_resources_text: ''
+short_url: evolutionary-games
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/evolutionary-games
+title: Evolutionary Games
 transcript: >-
   <p><span m="70">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4488,61 +4542,7 @@ transcript: >-
   m="4837940">available</span> <span m="4838350">on</span> <span
   m="4838490">Tuesday.</span> <span m="4838790">So please</span> <span
   m="4839090">let me</span> <span m="4839390">know.</span></p>
-embedded_media:
-  - uid: 3eaf37caefee21b4b269b490ae3d1d8a
-    parent_uid: a9a96ceed13b5d4051db369ab103517c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: a8Fbmj4nIxY
-  - uid: 8b20ecd36f6338c806cd87cd1147ef66
-    parent_uid: a9a96ceed13b5d4051db369ab103517c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/a8Fbmj4nIxY/default.jpg'
-  - uid: 75bc40029ccb00dfb172387fe3357c14
-    parent_uid: a9a96ceed13b5d4051db369ab103517c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1020693367'
-  - uid: c0b8a907a67cb738255b88e902def3f8
-    parent_uid: a9a96ceed13b5d4051db369ab103517c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT8.591JF14/MIT8_591JF14_lec18_300k.mp4'
-  - uid: 346897b39cda186eb3107e18a82696ad
-    parent_uid: a9a96ceed13b5d4051db369ab103517c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: a8Fbmj4nIxY
-  - uid: 6934cf0c31cba33a86d117f18afbf72a
-    parent_uid: a9a96ceed13b5d4051db369ab103517c
-    id: a8Fbmj4nIxY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/evolutionary-games/a8Fbmj4nIxY.srt
-  - uid: 9328267905a97798082d5ece4162f753
-    parent_uid: a9a96ceed13b5d4051db369ab103517c
-    id: a8Fbmj4nIxY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/lecture-videos/evolutionary-games/a8Fbmj4nIxY.pdf
-  - uid: f3243b4591d103fe1aa2b51c0ce0d4da
-    parent_uid: a9a96ceed13b5d4051db369ab103517c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9f2966afaeb53f0093a8464780e93a06
-    parent_uid: a9a96ceed13b5d4051db369ab103517c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a9a96ceed13b5d4051db369ab103517c
 type: courses
 layout: video
 ---

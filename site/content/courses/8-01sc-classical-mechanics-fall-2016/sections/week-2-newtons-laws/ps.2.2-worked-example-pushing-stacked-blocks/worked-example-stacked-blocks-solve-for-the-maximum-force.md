@@ -1,13 +1,67 @@
 ---
-title: Worked Example - Stacked Blocks - Solve for the Maximum Force
-uid: 96220e96d702364180d2bdf5cae5d365
+about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: uhaFP0xEmzM
+    parent_uid: 96220e96d702364180d2bdf5cae5d365
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9e10c2b1c33b1177dd872fbe7516e00b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/uhaFP0xEmzM/default.jpg'
+    parent_uid: 96220e96d702364180d2bdf5cae5d365
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b44eaebdfe513b011ef4c8768d0b5500
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: uhaFP0xEmzM
+    parent_uid: 96220e96d702364180d2bdf5cae5d365
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 29a570c4639e16b14b9dbd4374286a2c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 96220e96d702364180d2bdf5cae5d365
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: de8b3b0f21ce5f653e49128791bb9423
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W02PS01v02_2_360p.mp4'
+    parent_uid: 96220e96d702364180d2bdf5cae5d365
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 47f6698f76e7471862578445a5eeda1c
+  - id: uhaFP0xEmzM.srt
+    parent_uid: 96220e96d702364180d2bdf5cae5d365
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/worked-example-stacked-blocks-solve-for-the-maximum-force/uhaFP0xEmzM.srt
+    title: 3play caption file
+    type: null
+    uid: d4a053e6ef52caca2c89b0e78bf4dc93
+  - id: uhaFP0xEmzM.pdf
+    parent_uid: 96220e96d702364180d2bdf5cae5d365
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/worked-example-stacked-blocks-solve-for-the-maximum-force/uhaFP0xEmzM.pdf
+    title: 3play pdf file
+    type: null
+    uid: f6180c096a07f0106c6083397283fea2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 96220e96d702364180d2bdf5cae5d365
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4d42879d752fb5cfccdf8a70b6f3c8f3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 96220e96d702364180d2bdf5cae5d365
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3a13511a683a3963d066a10113cb05c2
+inline_embed_id: 74864419workedexamplestackedblockssolveforthemaximumforce86112078
 parent_uid: 00aef6423d37f1e08db3ced31e4003c0
+related_resources_text: ''
+short_url: worked-example-stacked-blocks-solve-for-the-maximum-force
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/worked-example-stacked-blocks-solve-for-the-maximum-force
-short_url: worked-example-stacked-blocks-solve-for-the-maximum-force
-inline_embed_id: 74864419workedexamplestackedblockssolveforthemaximumforce86112078
-about_this_resource_text: '<p><strong>Instructor:</strong> Dr. Peter Dourmashkin</p>'
-related_resources_text: ''
+title: Worked Example - Stacked Blocks - Solve for the Maximum Force
 transcript: >-
   <p><span m='3980'>And now I'm in position to talk about what</span> <span
   m='8530'>is the maximum force.</span> </p><p><span m='10650'>If I push F
@@ -66,61 +120,7 @@ transcript: >-
   m='266110'>And we did miss one little thing.</span> </p><p><span m='269150'>We
   missed the coefficient of static friction.</span> </p><p><span m='273820'>And
   there we have it, a tricky problem.</span> </p><p></p>
-embedded_media:
-  - uid: 9e10c2b1c33b1177dd872fbe7516e00b
-    parent_uid: 96220e96d702364180d2bdf5cae5d365
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: uhaFP0xEmzM
-  - uid: b44eaebdfe513b011ef4c8768d0b5500
-    parent_uid: 96220e96d702364180d2bdf5cae5d365
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/uhaFP0xEmzM/default.jpg'
-  - uid: 29a570c4639e16b14b9dbd4374286a2c
-    parent_uid: 96220e96d702364180d2bdf5cae5d365
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: uhaFP0xEmzM
-  - uid: de8b3b0f21ce5f653e49128791bb9423
-    parent_uid: 96220e96d702364180d2bdf5cae5d365
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 47f6698f76e7471862578445a5eeda1c
-    parent_uid: 96220e96d702364180d2bdf5cae5d365
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W02PS01v02_2_360p.mp4'
-  - uid: d4a053e6ef52caca2c89b0e78bf4dc93
-    parent_uid: 96220e96d702364180d2bdf5cae5d365
-    id: uhaFP0xEmzM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/worked-example-stacked-blocks-solve-for-the-maximum-force/uhaFP0xEmzM.srt
-  - uid: f6180c096a07f0106c6083397283fea2
-    parent_uid: 96220e96d702364180d2bdf5cae5d365
-    id: uhaFP0xEmzM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-2-newtons-laws/ps.2.2-worked-example-pushing-stacked-blocks/worked-example-stacked-blocks-solve-for-the-maximum-force/uhaFP0xEmzM.pdf
-  - uid: 4d42879d752fb5cfccdf8a70b6f3c8f3
-    parent_uid: 96220e96d702364180d2bdf5cae5d365
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3a13511a683a3963d066a10113cb05c2
-    parent_uid: 96220e96d702364180d2bdf5cae5d365
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 96220e96d702364180d2bdf5cae5d365
 type: courses
 layout: video
 ---

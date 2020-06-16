@@ -1,13 +1,73 @@
 ---
-title: Arithmetic Sums
-uid: e1ca8612a85760af6dbef07bf3977ce6
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 1eef65c0e7b79d372551ab0f16f4dca4
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 403919ce18694c594249d6b8591795c5
+  - id: Video-YouTube-Stream
+    media_location: v6axtBS6IF8
+    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5ba52d8ee414c5c61077cdc6ec72eb9e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/v6axtBS6IF8/default.jpg'
+    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cb112e22f4b36722b9483940e9a6abd0
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: v6axtBS6IF8
+    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9e4de9611212b2e59c3fc5a010e8c9a5
+  - id: v6axtBS6IF8.srt
+    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/arithmetic-sums/v6axtBS6IF8.srt
+    title: 3play caption file
+    type: null
+    uid: ce50ebf2774ead43528c21594d8eb120
+  - id: v6axtBS6IF8.pdf
+    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/arithmetic-sums/v6axtBS6IF8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7ea44777dbad0249ebe78ffefd9f698c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1e14e89315e6fff01b0b33592c7fce28
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bd9f38749e3d5d6d776bfc850a834030
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_arithmeticsum_video_ipod.mp4
+    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 900aa06427bd6ac47b978b945f9eec7e
+inline_embed_id: 39408728arithmeticsums80762775
 parent_uid: 93998ab0044352e85efcb877380e8e28
+related_resources_text: ''
+short_url: arithmetic-sums
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/arithmetic-sums
-short_url: arithmetic-sums
-inline_embed_id: 39408728arithmeticsums80762775
-about_this_resource_text: ''
-related_resources_text: ''
+title: Arithmetic Sums
 transcript: >-
   <p><span m='820'>PROFESSOR: So</span> <span m='990'>now</span> <span
   m='1190'>we</span> <span m='1310'>start</span> <span m='1600'>on</span> <span
@@ -306,67 +366,7 @@ transcript: >-
   m='234870'>the</span> <span m='234990'>sum</span> <span m='235370'>of</span>
   <span m='235520'>the</span> <span m='235610'>first</span> <span
   m='235990'>n</span> <span m='236280'>integers.</span> </p>
-embedded_media:
-  - uid: 1eef65c0e7b79d372551ab0f16f4dca4
-    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 403919ce18694c594249d6b8591795c5
-    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 5ba52d8ee414c5c61077cdc6ec72eb9e
-    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: v6axtBS6IF8
-  - uid: cb112e22f4b36722b9483940e9a6abd0
-    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/v6axtBS6IF8/default.jpg'
-  - uid: 9e4de9611212b2e59c3fc5a010e8c9a5
-    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: v6axtBS6IF8
-  - uid: ce50ebf2774ead43528c21594d8eb120
-    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
-    id: v6axtBS6IF8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/arithmetic-sums/v6axtBS6IF8.srt
-  - uid: 7ea44777dbad0249ebe78ffefd9f698c
-    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
-    id: v6axtBS6IF8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/arithmetic-sums/v6axtBS6IF8.pdf
-  - uid: 1e14e89315e6fff01b0b33592c7fce28
-    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bd9f38749e3d5d6d776bfc850a834030
-    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 900aa06427bd6ac47b978b945f9eec7e
-    parent_uid: e1ca8612a85760af6dbef07bf3977ce6
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_arithmeticsum_video_ipod.mp4
+uid: e1ca8612a85760af6dbef07bf3977ce6
 type: courses
 layout: video
 ---

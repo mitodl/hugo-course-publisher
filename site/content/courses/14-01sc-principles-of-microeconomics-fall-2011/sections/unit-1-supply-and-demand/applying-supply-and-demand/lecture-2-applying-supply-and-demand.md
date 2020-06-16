@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 2: Applying Supply and Demand'
-uid: 1b672806d05a1d962eddc38d7d01cc64
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: zFIB8-30YhA
+    parent_uid: 1b672806d05a1d962eddc38d7d01cc64
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f47dc52808283c939d4ed6f31f73812f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/zFIB8-30YhA/default.jpg'
+    parent_uid: 1b672806d05a1d962eddc38d7d01cc64
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a3dbfbf8387166783c68df34e4d29cab
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: zFIB8-30YhA
+    parent_uid: 1b672806d05a1d962eddc38d7d01cc64
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8ed8bf7b0d2165a37fd8a8fc74a3481f
+  - id: zFIB8-30YhA.srt
+    parent_uid: 1b672806d05a1d962eddc38d7d01cc64
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/applying-supply-and-demand/lecture-2-applying-supply-and-demand/zFIB8-30YhA.srt
+    title: 3play caption file
+    type: null
+    uid: 0855ba8ae2acddf99561eb5a92331055
+  - id: zFIB8-30YhA.pdf
+    parent_uid: 1b672806d05a1d962eddc38d7d01cc64
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/applying-supply-and-demand/lecture-2-applying-supply-and-demand/zFIB8-30YhA.pdf
+    title: 3play pdf file
+    type: null
+    uid: d22ce2e9eb9dd3c12417afb4438a8442
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1b672806d05a1d962eddc38d7d01cc64
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b2245b37fbb22e86e09ac776f982288b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1b672806d05a1d962eddc38d7d01cc64
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1e002c221ae6ce2839a185b473776e68
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-2-applying-supply/id496265654?i=109892747
+    parent_uid: 1b672806d05a1d962eddc38d7d01cc64
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b61c5ccaf5b5265452473b61bb152323
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec02_300k.mp4'
+    parent_uid: 1b672806d05a1d962eddc38d7d01cc64
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 373246d0f686b37d7592b179d7c0142c
+inline_embed_id: 85767057lecture2applyingsupplyanddemand81844071
 parent_uid: bf5626a7d48dd3b258c678a13912ef84
+related_resources_text: ''
+short_url: lecture-2-applying-supply-and-demand
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/applying-supply-and-demand/lecture-2-applying-supply-and-demand
-short_url: lecture-2-applying-supply-and-demand
-inline_embed_id: 85767057lecture2applyingsupplyanddemand81844071
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 2: Applying Supply and Demand'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -3724,62 +3779,7 @@ transcript: >-
   m='2944100'>more</span> <span m='2944230'>detail</span> <span
   m='2944940'>about</span> <span m='2945180'>consumer</span> <span
   m='2945540'>demand.</span> </p>
-embedded_media:
-  - uid: f47dc52808283c939d4ed6f31f73812f
-    parent_uid: 1b672806d05a1d962eddc38d7d01cc64
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: zFIB8-30YhA
-  - uid: a3dbfbf8387166783c68df34e4d29cab
-    parent_uid: 1b672806d05a1d962eddc38d7d01cc64
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/zFIB8-30YhA/default.jpg'
-  - uid: 8ed8bf7b0d2165a37fd8a8fc74a3481f
-    parent_uid: 1b672806d05a1d962eddc38d7d01cc64
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: zFIB8-30YhA
-  - uid: 0855ba8ae2acddf99561eb5a92331055
-    parent_uid: 1b672806d05a1d962eddc38d7d01cc64
-    id: zFIB8-30YhA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/applying-supply-and-demand/lecture-2-applying-supply-and-demand/zFIB8-30YhA.srt
-  - uid: d22ce2e9eb9dd3c12417afb4438a8442
-    parent_uid: 1b672806d05a1d962eddc38d7d01cc64
-    id: zFIB8-30YhA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-1-supply-and-demand/applying-supply-and-demand/lecture-2-applying-supply-and-demand/zFIB8-30YhA.pdf
-  - uid: b2245b37fbb22e86e09ac776f982288b
-    parent_uid: 1b672806d05a1d962eddc38d7d01cc64
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1e002c221ae6ce2839a185b473776e68
-    parent_uid: 1b672806d05a1d962eddc38d7d01cc64
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b61c5ccaf5b5265452473b61bb152323
-    parent_uid: 1b672806d05a1d962eddc38d7d01cc64
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-2-applying-supply/id496265654?i=109892747
-  - uid: 373246d0f686b37d7592b179d7c0142c
-    parent_uid: 1b672806d05a1d962eddc38d7d01cc64
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec02_300k.mp4'
+uid: 1b672806d05a1d962eddc38d7d01cc64
 type: courses
 layout: video
 ---

@@ -1,19 +1,91 @@
 ---
-title: 'Lecture 39: Final Review'
-uid: 6d14c6cd29a7986aa9309192d825c43c
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-39-final-review
-short_url: lecture-39-final-review
-inline_embed_id: '67667869lecture39:finalreview96899116'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Final review</p> 
   <p>Note: This video lecture was recorded in the Fall of 2007 and corresponds
   to the lecture notes for lecture 38 taught in the Fall of 2006.</p>
   <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec39.jpg
+    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-39-final-review/lec39.jpg
+    title: Lecture 39
+    type: null
+    uid: b6dfb3c088c8731a8c0ec815f89d9a35
+  - id: Video-YouTube-Stream
+    media_location: '--lPz7VFnKI'
+    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5d5a21b221a24cefa6b90df854d2887d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/--lPz7VFnKI/default.jpg'
+    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8fb124b1b0714c1f7bfe0ea9d9798a6e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8b4b71a58d069c4d4c6fe1add726dcdc
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec39_300k.mp4'
+    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f4cdf411e48d084153f2ddd871b90bbe
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: bf3aca1039576cce26fb12a3aec34214
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 112d2fbc7f17c8bb43a759c912cb1f9e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: '--lPz7VFnKI'
+    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1979bd0f6d9536f9014b4cb1d076a2b4
+  - id: '--lPz7VFnKI.srt'
+    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-39-final-review/--lPz7VFnKI.srt
+    title: 3play caption file
+    type: null
+    uid: a46ead7fb439f26061568b0d71fff3ca
+  - id: '--lPz7VFnKI.pdf'
+    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-39-final-review/--lPz7VFnKI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 80e61bf5d5448fa6d010c35feacbac44
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0040e66630a4a9bed75cd23506428718
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 69fe0e5b0aaae352d66bd6e80f39e59a
+inline_embed_id: '67667869lecture39:finalreview96899116'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/7cf354a7d1697b69ad8b7d28879b1edb">PDF</a>)</p></div>
+short_url: lecture-39-final-review
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-39-final-review
+title: 'Lecture 39: Final Review'
 transcript: >-
   <p><span m='0'>The</span> <span m='120'>following</span> <span
   m='530'>content</span> <span m='1270'>is</span> <span m='1420'>provided</span>
@@ -2263,79 +2335,7 @@ transcript: >-
   m='2343830'>the</span> <span m='2343930'>points</span> <span
   m='2344200'>home</span> <span m='2344470'>forcefully,</span> <span
   m='2344563'>I</span> <span m='2344656'>think.</span> </p>
-embedded_media:
-  - uid: b6dfb3c088c8731a8c0ec815f89d9a35
-    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
-    id: lec39.jpg
-    title: Lecture 39
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-39-final-review/lec39.jpg
-  - uid: 5d5a21b221a24cefa6b90df854d2887d
-    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '--lPz7VFnKI'
-  - uid: 8fb124b1b0714c1f7bfe0ea9d9798a6e
-    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/--lPz7VFnKI/default.jpg'
-  - uid: 8b4b71a58d069c4d4c6fe1add726dcdc
-    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: f4cdf411e48d084153f2ddd871b90bbe
-    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec39_300k.mp4'
-  - uid: bf3aca1039576cce26fb12a3aec34214
-    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 112d2fbc7f17c8bb43a759c912cb1f9e
-    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 1979bd0f6d9536f9014b4cb1d076a2b4
-    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '--lPz7VFnKI'
-  - uid: a46ead7fb439f26061568b0d71fff3ca
-    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
-    id: '--lPz7VFnKI.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-39-final-review/--lPz7VFnKI.srt
-  - uid: 80e61bf5d5448fa6d010c35feacbac44
-    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
-    id: '--lPz7VFnKI.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-39-final-review/--lPz7VFnKI.pdf
-  - uid: 0040e66630a4a9bed75cd23506428718
-    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 69fe0e5b0aaae352d66bd6e80f39e59a
-    parent_uid: 6d14c6cd29a7986aa9309192d825c43c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 6d14c6cd29a7986aa9309192d825c43c
 type: courses
 layout: video
 ---

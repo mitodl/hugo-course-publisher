@@ -1,13 +1,68 @@
 ---
-title: Integrating sinn(x) Using Reduction
-uid: c709e77103e047fb439c99e9b2bbcc87
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: hV5af_07ToE
+    parent_uid: c709e77103e047fb439c99e9b2bbcc87
+    title: Video-YouTube-Stream
+    type: Video
+    uid: aee088176a2a7999c82cb95a668c820d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/hV5af_07ToE/default.jpg'
+    parent_uid: c709e77103e047fb439c99e9b2bbcc87
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4f138d5cfdec0dcee84fee12259c412d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: hV5af_07ToE
+    parent_uid: c709e77103e047fb439c99e9b2bbcc87
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f1910b088c4c161f74e043965c239e2c
+  - id: hV5af_07ToE.srt
+    parent_uid: c709e77103e047fb439c99e9b2bbcc87
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-76-integration-by-parts/integrating-sinn-x-using-reduction/hV5af_07ToE.srt
+    title: 3play caption file
+    type: null
+    uid: feeb173c23adb928a628bb814a6548dc
+  - id: hV5af_07ToE.pdf
+    parent_uid: c709e77103e047fb439c99e9b2bbcc87
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-76-integration-by-parts/integrating-sinn-x-using-reduction/hV5af_07ToE.pdf
+    title: 3play pdf file
+    type: null
+    uid: bfc310a4d2673d3f811f5e305165d99a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c709e77103e047fb439c99e9b2bbcc87
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7c1f09901928f7dd8241b756bcb2ccfa
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c709e77103e047fb439c99e9b2bbcc87
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ab99546b57891c1d03a25f017b390a68
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_57_300k.mp4'
+    parent_uid: c709e77103e047fb439c99e9b2bbcc87
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 41b6fe3018b9e5e0f147fbf244d6db24
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/integrating-sin-n-x-using/id414308064?i=90319631
+    parent_uid: c709e77103e047fb439c99e9b2bbcc87
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 986ba606aeb03291ffa9baf616caa289
+inline_embed_id: 30694188integratingsinn(x)usingreduction4959144
 parent_uid: b196b3d2413fa8015d43695883cc671a
+related_resources_text: ''
+short_url: integrating-sinn-x-using-reduction
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-76-integration-by-parts/integrating-sinn-x-using-reduction
-short_url: integrating-sinn-x-using-reduction
-inline_embed_id: 30694188integratingsinn(x)usingreduction4959144
-about_this_resource_text: ''
-related_resources_text: ''
+title: Integrating sinn(x) Using Reduction
 transcript: >-
   <p><span m='6850'>Welcome</span> <span m='7210'>back</span> <span
   m='7360'>to</span> <span m='7430'>recitation.</span> <span m='8610'>In</span>
@@ -1231,62 +1286,7 @@ transcript: >-
   m='1019570'>this</span> <span m='1019770'>is</span> <span
   m='1019910'>where</span> <span m='1020080'>I'll</span> <span
   m='1020360'>stop.</span> </p>
-embedded_media:
-  - uid: aee088176a2a7999c82cb95a668c820d
-    parent_uid: c709e77103e047fb439c99e9b2bbcc87
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: hV5af_07ToE
-  - uid: 4f138d5cfdec0dcee84fee12259c412d
-    parent_uid: c709e77103e047fb439c99e9b2bbcc87
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/hV5af_07ToE/default.jpg'
-  - uid: f1910b088c4c161f74e043965c239e2c
-    parent_uid: c709e77103e047fb439c99e9b2bbcc87
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: hV5af_07ToE
-  - uid: feeb173c23adb928a628bb814a6548dc
-    parent_uid: c709e77103e047fb439c99e9b2bbcc87
-    id: hV5af_07ToE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-76-integration-by-parts/integrating-sinn-x-using-reduction/hV5af_07ToE.srt
-  - uid: bfc310a4d2673d3f811f5e305165d99a
-    parent_uid: c709e77103e047fb439c99e9b2bbcc87
-    id: hV5af_07ToE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-b-partial-fractions-integration-by-parts-arc-length-and-surface-area/session-76-integration-by-parts/integrating-sinn-x-using-reduction/hV5af_07ToE.pdf
-  - uid: 7c1f09901928f7dd8241b756bcb2ccfa
-    parent_uid: c709e77103e047fb439c99e9b2bbcc87
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ab99546b57891c1d03a25f017b390a68
-    parent_uid: c709e77103e047fb439c99e9b2bbcc87
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 41b6fe3018b9e5e0f147fbf244d6db24
-    parent_uid: c709e77103e047fb439c99e9b2bbcc87
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_57_300k.mp4'
-  - uid: 986ba606aeb03291ffa9baf616caa289
-    parent_uid: c709e77103e047fb439c99e9b2bbcc87
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/integrating-sin-n-x-using/id414308064?i=90319631
+uid: c709e77103e047fb439c99e9b2bbcc87
 type: courses
 layout: video
 ---

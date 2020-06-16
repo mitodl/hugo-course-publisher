@@ -1,13 +1,72 @@
 ---
-title: Cantor's Theorem
-uid: 24bd43400448af65bd4a93bf5ef2a8b0
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: a72890ccefbf1fd294373c65780cbbd6
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6ff159800dd1777ac7c0e94b83a760f4
+  - id: Video-YouTube-Stream
+    media_location: 4dj1ogUwTEM
+    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ec779bb20c6c8495d077c4f23af2b65a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4dj1ogUwTEM/default.jpg'
+    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3e3158e3202f7173fae3773c4bd7b57c
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 4dj1ogUwTEM
+    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 09e8759641476f9407cbf38dd5f5c282
+  - id: 4dj1ogUwTEM.srt
+    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-4eaa04fd577b/cantor-s-theorem/4dj1ogUwTEM.srt
+    title: 3play caption file
+    type: null
+    uid: 6cf0619a4072e386f33f7498f48578be
+  - id: 4dj1ogUwTEM.pdf
+    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-4eaa04fd577b/cantor-s-theorem/4dj1ogUwTEM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4968b75846963ddbc974116ee27c3fc3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a95d3af47d962ef7e23e233f4c43f2c4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: beb12e0f4e4a05639e57e46457e424fa
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_cantor_ipod.mp4'
+    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7fdf84764a99545c4357cb28e47f6670
+inline_embed_id: 74749527cantorstheorem34259149
 parent_uid: 3ff95f518a19e1941fc4a5346971b130
+related_resources_text: ''
+short_url: cantor-s-theorem
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-4eaa04fd577b/cantor-s-theorem
-short_url: cantor-s-theorem
-inline_embed_id: 74749527cantorstheorem34259149
-about_this_resource_text: ''
-related_resources_text: ''
+title: Cantor's Theorem
 transcript: >-
   <p><span m='140'>PROFESSOR: So</span> <span m='360'>it's</span> <span
   m='510'>time</span> <span m='850'>to</span> <span m='1500'>examine</span>
@@ -1553,66 +1612,7 @@ transcript: >-
   m='1219600'>that</span> <span m='1219810'>the</span> <span
   m='1219910'>real</span> <span m='1220140'>numbers</span> <span
   m='1220880'>are</span> <span m='1221070'>uncountable.</span> </p>
-embedded_media:
-  - uid: a72890ccefbf1fd294373c65780cbbd6
-    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 6ff159800dd1777ac7c0e94b83a760f4
-    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: ec779bb20c6c8495d077c4f23af2b65a
-    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4dj1ogUwTEM
-  - uid: 3e3158e3202f7173fae3773c4bd7b57c
-    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4dj1ogUwTEM/default.jpg'
-  - uid: 09e8759641476f9407cbf38dd5f5c282
-    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4dj1ogUwTEM
-  - uid: 6cf0619a4072e386f33f7498f48578be
-    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
-    id: 4dj1ogUwTEM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-4eaa04fd577b/cantor-s-theorem/4dj1ogUwTEM.srt
-  - uid: 4968b75846963ddbc974116ee27c3fc3
-    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
-    id: 4dj1ogUwTEM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp4-3/vertical-4eaa04fd577b/cantor-s-theorem/4dj1ogUwTEM.pdf
-  - uid: a95d3af47d962ef7e23e233f4c43f2c4
-    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: beb12e0f4e4a05639e57e46457e424fa
-    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 7fdf84764a99545c4357cb28e47f6670
-    parent_uid: 24bd43400448af65bd4a93bf5ef2a8b0
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_cantor_ipod.mp4'
+uid: 24bd43400448af65bd4a93bf5ef2a8b0
 type: courses
 layout: video
 ---

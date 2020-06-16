@@ -1,13 +1,68 @@
 ---
-title: Minimum Triangle Area
-uid: b7f5d0c55ff76512692bb905d1c9c55d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2keGgDBJKGU
+    parent_uid: b7f5d0c55ff76512692bb905d1c9c55d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 86e88f719a337d1928c731c7a822bf87
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2keGgDBJKGU/default.jpg'
+    parent_uid: b7f5d0c55ff76512692bb905d1c9c55d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 68ca203766147b05af3061379f34fa8d
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/minimum-triangle-area/id414308064?i=90318986
+    parent_uid: b7f5d0c55ff76512692bb905d1c9c55d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6949bb3d2c596eb92d6f303074d11acb
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_21_300k.mp4'
+    parent_uid: b7f5d0c55ff76512692bb905d1c9c55d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 47274ecddf5b90189fb12b9bedd772e0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 2keGgDBJKGU
+    parent_uid: b7f5d0c55ff76512692bb905d1c9c55d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f860e29a504b5f2c5c976a173b6f1e11
+  - id: 2keGgDBJKGU.srt
+    parent_uid: b7f5d0c55ff76512692bb905d1c9c55d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-29-optimization-problems/minimum-triangle-area/2keGgDBJKGU.srt
+    title: 3play caption file
+    type: null
+    uid: ecbb99debb1ff97a43d999fa40b46ed3
+  - id: 2keGgDBJKGU.pdf
+    parent_uid: b7f5d0c55ff76512692bb905d1c9c55d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-29-optimization-problems/minimum-triangle-area/2keGgDBJKGU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 21de0780b261063dfd60f253ee6b7dfd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b7f5d0c55ff76512692bb905d1c9c55d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 49ae20849663bbf03da398da36e6f617
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b7f5d0c55ff76512692bb905d1c9c55d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 04af8c226ff1c179b63b366835f5abc4
+inline_embed_id: 36601435minimumtrianglearea97860682
 parent_uid: 588fcaecbbe5091660dfdf0b2efe6908
+related_resources_text: ''
+short_url: minimum-triangle-area
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-29-optimization-problems/minimum-triangle-area
-short_url: minimum-triangle-area
-inline_embed_id: 36601435minimumtrianglearea97860682
-about_this_resource_text: ''
-related_resources_text: ''
+title: Minimum Triangle Area
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='6880'>Welcome</span> <span
   m='7260'>back</span> <span m='7430'>to</span> <span
@@ -723,62 +778,7 @@ transcript: >-
   m='589410'>But</span> <span m='589550'>I</span> <span m='589600'>think</span>
   <span m='589800'>I'll</span> <span m='589900'>stop</span> <span
   m='590130'>there.</span> </p>
-embedded_media:
-  - uid: 86e88f719a337d1928c731c7a822bf87
-    parent_uid: b7f5d0c55ff76512692bb905d1c9c55d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2keGgDBJKGU
-  - uid: 68ca203766147b05af3061379f34fa8d
-    parent_uid: b7f5d0c55ff76512692bb905d1c9c55d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2keGgDBJKGU/default.jpg'
-  - uid: 6949bb3d2c596eb92d6f303074d11acb
-    parent_uid: b7f5d0c55ff76512692bb905d1c9c55d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/minimum-triangle-area/id414308064?i=90318986
-  - uid: 47274ecddf5b90189fb12b9bedd772e0
-    parent_uid: b7f5d0c55ff76512692bb905d1c9c55d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_21_300k.mp4'
-  - uid: f860e29a504b5f2c5c976a173b6f1e11
-    parent_uid: b7f5d0c55ff76512692bb905d1c9c55d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2keGgDBJKGU
-  - uid: ecbb99debb1ff97a43d999fa40b46ed3
-    parent_uid: b7f5d0c55ff76512692bb905d1c9c55d
-    id: 2keGgDBJKGU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-29-optimization-problems/minimum-triangle-area/2keGgDBJKGU.srt
-  - uid: 21de0780b261063dfd60f253ee6b7dfd
-    parent_uid: b7f5d0c55ff76512692bb905d1c9c55d
-    id: 2keGgDBJKGU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-29-optimization-problems/minimum-triangle-area/2keGgDBJKGU.pdf
-  - uid: 49ae20849663bbf03da398da36e6f617
-    parent_uid: b7f5d0c55ff76512692bb905d1c9c55d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 04af8c226ff1c179b63b366835f5abc4
-    parent_uid: b7f5d0c55ff76512692bb905d1c9c55d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b7f5d0c55ff76512692bb905d1c9c55d
 type: courses
 layout: video
 ---

@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 3: Multiplication and inverse matrices'
-uid: 91874a0f258aeadf12ff66ed84bd4f8f
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-3-multiplication-and-inverse-matrices
-short_url: lecture-3-multiplication-and-inverse-matrices
-inline_embed_id: '77005265lecture3:multiplicationandinversematrices45659534'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang 
   teaching 18.06 were   recorded in Fall 1999 and do not correspond  precisely
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L03.jpg
+    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-3-multiplication-and-inverse-matrices/18.06_L03.jpg
+    title: 18.06_L03.jpg
+    type: null
+    uid: 00967a4b69ffa77d729fbef2a9faeb1f
+  - id: Video-YouTube-Stream
+    media_location: FX4C-JpTFgY
+    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5c1368130018696f6d598ebf5cf8a514
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/FX4C-JpTFgY/default.jpg'
+    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c37d3b85c924d0af27da136548d4b794
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6327448162d8de3a1a2e8b1e8fe7f8f6
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/03.mp4'
+    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ed4fee2d8044a6568b3ffa9272281e76
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: c24d45c775674dde264d974b86f02f30
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 80b82e50226589411478f695cc4d6ab0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: FX4C-JpTFgY
+    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a48d467e211b5e8a511ba3cb91d24eb9
+  - id: FX4C-JpTFgY.srt
+    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-3-multiplication-and-inverse-matrices/FX4C-JpTFgY.srt
+    title: 3play caption file
+    type: null
+    uid: ea93fffb26a19ff00aafe4b9f291bce6
+  - id: FX4C-JpTFgY.pdf
+    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-3-multiplication-and-inverse-matrices/FX4C-JpTFgY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 07f82f7a07458fb3d79d1ba5cf53fa1e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 53ce026ec8eac31e7a6a8c875a10048d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 20116a00f933264a326cda74c9f7e5f9
+inline_embed_id: '77005265lecture3:multiplicationandinversematrices45659534'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-3-multiplication-and-inverse-matrices
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-3-multiplication-and-inverse-matrices
+title: 'Lecture 3: Multiplication and inverse matrices'
 transcript: >-
   <p><span m="8160">I've</span> <span m="8530">been</span> <span
   m="12110">multiplying</span> <span m="12670">matrices</span> <span
@@ -2566,79 +2638,7 @@ transcript: >-
   m="2790920">Okay,</span> <span m="2791790">thanks.</span></p><p><span
   m="2792740">See</span> <span m="2792840">you</span> <span
   m="2792950">on</span> <span m="2793090">Wednesday.</span></p>
-embedded_media:
-  - uid: 00967a4b69ffa77d729fbef2a9faeb1f
-    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
-    id: 18.06_L03.jpg
-    title: 18.06_L03.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-3-multiplication-and-inverse-matrices/18.06_L03.jpg
-  - uid: 5c1368130018696f6d598ebf5cf8a514
-    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: FX4C-JpTFgY
-  - uid: c37d3b85c924d0af27da136548d4b794
-    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FX4C-JpTFgY/default.jpg'
-  - uid: 6327448162d8de3a1a2e8b1e8fe7f8f6
-    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: ed4fee2d8044a6568b3ffa9272281e76
-    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/03.mp4'
-  - uid: c24d45c775674dde264d974b86f02f30
-    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 80b82e50226589411478f695cc4d6ab0
-    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: a48d467e211b5e8a511ba3cb91d24eb9
-    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: FX4C-JpTFgY
-  - uid: ea93fffb26a19ff00aafe4b9f291bce6
-    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
-    id: FX4C-JpTFgY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-3-multiplication-and-inverse-matrices/FX4C-JpTFgY.srt
-  - uid: 07f82f7a07458fb3d79d1ba5cf53fa1e
-    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
-    id: FX4C-JpTFgY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-3-multiplication-and-inverse-matrices/FX4C-JpTFgY.pdf
-  - uid: 53ce026ec8eac31e7a6a8c875a10048d
-    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 20116a00f933264a326cda74c9f7e5f9
-    parent_uid: 91874a0f258aeadf12ff66ed84bd4f8f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 91874a0f258aeadf12ff66ed84bd4f8f
 type: courses
 layout: video
 ---

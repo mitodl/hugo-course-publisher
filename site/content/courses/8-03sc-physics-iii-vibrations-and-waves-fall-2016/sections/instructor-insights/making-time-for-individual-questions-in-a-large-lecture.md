@@ -1,13 +1,62 @@
 ---
-title: Making Time for Individual Questions in a Large Lecture
-uid: 1f032a62ec932e7df092ffbea1da55e4
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: cZAM2Co3tzo
+    parent_uid: 1f032a62ec932e7df092ffbea1da55e4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9d28f903213078da280f5253af8923e3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/cZAM2Co3tzo/default.jpg'
+    parent_uid: 1f032a62ec932e7df092ffbea1da55e4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 27cca102d5aa955aef0b428945e7ff2d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: cZAM2Co3tzo
+    parent_uid: 1f032a62ec932e7df092ffbea1da55e4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a7ca73abbb6af9138278b68f8409942b
+  - id: cZAM2Co3tzo.srt
+    parent_uid: 1f032a62ec932e7df092ffbea1da55e4
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/making-time-for-individual-questions-in-a-large-lecture/cZAM2Co3tzo.srt
+    title: 3play caption file
+    type: null
+    uid: e69b898be408a79c8947adfc1919c4a3
+  - id: cZAM2Co3tzo.pdf
+    parent_uid: 1f032a62ec932e7df092ffbea1da55e4
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/making-time-for-individual-questions-in-a-large-lecture/cZAM2Co3tzo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3b8876b41492ed64b206c657d88582d5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1f032a62ec932e7df092ffbea1da55e4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 17a8177f89a4407e52379e8425688cb7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1f032a62ec932e7df092ffbea1da55e4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: de5a2dfa92f0045bcad0346f1f6cdec7
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator02_Taking_Breaks_300k.mp4
+    parent_uid: 1f032a62ec932e7df092ffbea1da55e4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0bb309aec617d3eae22660bfa47d22da
+inline_embed_id: 18129551makingtimeforindividualquestionsinalargelecture95357450
 parent_uid: 04ff44e40d3409c8726bf5bd29021df8
+related_resources_text: ''
+short_url: making-time-for-individual-questions-in-a-large-lecture
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/making-time-for-individual-questions-in-a-large-lecture
-short_url: making-time-for-individual-questions-in-a-large-lecture
-inline_embed_id: 18129551makingtimeforindividualquestionsinalargelecture95357450
-about_this_resource_text: ''
-related_resources_text: ''
+title: Making Time for Individual Questions in a Large Lecture
 transcript: >-
   <p><span m='5313'>YEN-JIE LEE:</span> <span m='5800'>So</span> <span
   m='6000'>during</span> <span m='6300'>class,</span> <span m='7050'>I</span>
@@ -86,56 +135,7 @@ transcript: >-
   m='74620'>actually</span> <span m='74970'>bring</span> <span
   m='75130'>up</span> <span m='75350'>during</span> <span m='75600'>the</span>
   <span m='75720'>break.</span> </p>
-embedded_media:
-  - uid: 9d28f903213078da280f5253af8923e3
-    parent_uid: 1f032a62ec932e7df092ffbea1da55e4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: cZAM2Co3tzo
-  - uid: 27cca102d5aa955aef0b428945e7ff2d
-    parent_uid: 1f032a62ec932e7df092ffbea1da55e4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/cZAM2Co3tzo/default.jpg'
-  - uid: a7ca73abbb6af9138278b68f8409942b
-    parent_uid: 1f032a62ec932e7df092ffbea1da55e4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: cZAM2Co3tzo
-  - uid: e69b898be408a79c8947adfc1919c4a3
-    parent_uid: 1f032a62ec932e7df092ffbea1da55e4
-    id: cZAM2Co3tzo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/making-time-for-individual-questions-in-a-large-lecture/cZAM2Co3tzo.srt
-  - uid: 3b8876b41492ed64b206c657d88582d5
-    parent_uid: 1f032a62ec932e7df092ffbea1da55e4
-    id: cZAM2Co3tzo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/making-time-for-individual-questions-in-a-large-lecture/cZAM2Co3tzo.pdf
-  - uid: 17a8177f89a4407e52379e8425688cb7
-    parent_uid: 1f032a62ec932e7df092ffbea1da55e4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: de5a2dfa92f0045bcad0346f1f6cdec7
-    parent_uid: 1f032a62ec932e7df092ffbea1da55e4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0bb309aec617d3eae22660bfa47d22da
-    parent_uid: 1f032a62ec932e7df092ffbea1da55e4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator02_Taking_Breaks_300k.mp4
+uid: 1f032a62ec932e7df092ffbea1da55e4
 type: courses
 layout: video
 ---

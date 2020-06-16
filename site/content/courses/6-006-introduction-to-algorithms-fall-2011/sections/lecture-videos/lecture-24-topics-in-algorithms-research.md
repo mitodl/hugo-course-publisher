@@ -1,18 +1,79 @@
 ---
-title: 'Lecture 24: Topics in Algorithms Research'
-uid: e63575e2e327448baffe49ffa8ae237a
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-24-topics-in-algorithms-research
-short_url: lecture-24-topics-in-algorithms-research
-inline_embed_id: '47252697lecture24:topicsinalgorithmsresearch88299950'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, both professors present
   areas of current research, including parallel processor architecture and
   algorithms, geometric folding algorithms, data structures, and graph
   algorithms.</p> <p><strong>Instructor:</strong> Srini Devadas, Erik
   Demaine</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: dU40AvBURDQ
+    parent_uid: e63575e2e327448baffe49ffa8ae237a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 49cdf0049cd005568ace94e9ebcd79eb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/hkAONP0aC9w/default.jpg'
+    parent_uid: e63575e2e327448baffe49ffa8ae237a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 41294894e1d788a924d6ec63ee657c8b
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-24-topics-in-algorithms/id585700718?i=126127952
+    parent_uid: e63575e2e327448baffe49ffa8ae237a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 235900a5074b29719b84ad4024c5f6b1
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec24_300k.mp4'
+    parent_uid: e63575e2e327448baffe49ffa8ae237a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 793d73b6534e3ed5a76564aeea0337df
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/dU40AvBURDQ/default.jpg'
+    parent_uid: e63575e2e327448baffe49ffa8ae237a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 22aa08a0e7280e03066f7ec736653a99
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: dU40AvBURDQ
+    parent_uid: e63575e2e327448baffe49ffa8ae237a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6d613e0df40ae9cdab9654286a1939ad
+  - id: dU40AvBURDQ.srt
+    parent_uid: e63575e2e327448baffe49ffa8ae237a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-24-topics-in-algorithms-research/dU40AvBURDQ.srt
+    title: 3play caption file
+    type: null
+    uid: ba027ce41607508485cf659d69c240dc
+  - id: dU40AvBURDQ.pdf
+    parent_uid: e63575e2e327448baffe49ffa8ae237a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-24-topics-in-algorithms-research/dU40AvBURDQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2f76be68b02d7292084bbe5d0e39ebab
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e63575e2e327448baffe49ffa8ae237a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 86d209e659212a6c0f95f4111798854a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e63575e2e327448baffe49ffa8ae237a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7cb64430a6f7a6fb65a2f6d966e45f09
+inline_embed_id: '47252697lecture24:topicsinalgorithmsresearch88299950'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-24-topics-in-algorithms-research
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-24-topics-in-algorithms-research
+title: 'Lecture 24: Topics in Algorithms Research'
 transcript: >-
   <p><span m='50'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -2850,68 +2911,7 @@ transcript: >-
   m='2799220'>and</span> <span m='2799380'>good</span> <span
   m='2799520'>luck.</span> </p><p><span m='2800140'>PROFESSOR ERIK DEMAINE:
   Thanks.</span> </p><p></p><p><span m='2800740'>[APPLAUSE]</span> </p><p></p>
-embedded_media:
-  - uid: 49cdf0049cd005568ace94e9ebcd79eb
-    parent_uid: e63575e2e327448baffe49ffa8ae237a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: dU40AvBURDQ
-  - uid: 41294894e1d788a924d6ec63ee657c8b
-    parent_uid: e63575e2e327448baffe49ffa8ae237a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/hkAONP0aC9w/default.jpg'
-  - uid: 235900a5074b29719b84ad4024c5f6b1
-    parent_uid: e63575e2e327448baffe49ffa8ae237a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-24-topics-in-algorithms/id585700718?i=126127952
-  - uid: 793d73b6534e3ed5a76564aeea0337df
-    parent_uid: e63575e2e327448baffe49ffa8ae237a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec24_300k.mp4'
-  - uid: 22aa08a0e7280e03066f7ec736653a99
-    parent_uid: e63575e2e327448baffe49ffa8ae237a
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/dU40AvBURDQ/default.jpg'
-  - uid: 6d613e0df40ae9cdab9654286a1939ad
-    parent_uid: e63575e2e327448baffe49ffa8ae237a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: dU40AvBURDQ
-  - uid: ba027ce41607508485cf659d69c240dc
-    parent_uid: e63575e2e327448baffe49ffa8ae237a
-    id: dU40AvBURDQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-24-topics-in-algorithms-research/dU40AvBURDQ.srt
-  - uid: 2f76be68b02d7292084bbe5d0e39ebab
-    parent_uid: e63575e2e327448baffe49ffa8ae237a
-    id: dU40AvBURDQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-24-topics-in-algorithms-research/dU40AvBURDQ.pdf
-  - uid: 86d209e659212a6c0f95f4111798854a
-    parent_uid: e63575e2e327448baffe49ffa8ae237a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7cb64430a6f7a6fb65a2f6d966e45f09
-    parent_uid: e63575e2e327448baffe49ffa8ae237a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: e63575e2e327448baffe49ffa8ae237a
 type: courses
 layout: video
 ---

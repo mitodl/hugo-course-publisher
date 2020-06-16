@@ -1,13 +1,67 @@
 ---
-title: Welcome the middle school consultants
-uid: f005625170a3d5dae28b846429aca584
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: rCG6r6gotZQ
+    parent_uid: f005625170a3d5dae28b846429aca584
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f4c4497ce76f4486f491f42e9729c9c0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/rCG6r6gotZQ/default.jpg'
+    parent_uid: f005625170a3d5dae28b846429aca584
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 92e622adbf9a30a8bae0a034f2cd4f95
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: rCG6r6gotZQ
+    parent_uid: f005625170a3d5dae28b846429aca584
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 643cda0b0632a7ccc96e36ff53d698aa
+  - id: rCG6r6gotZQ.srt
+    parent_uid: f005625170a3d5dae28b846429aca584
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-2-audience/copy_of_day-2-part-1/rCG6r6gotZQ.srt
+    title: 3play caption file
+    type: null
+    uid: f9dcfd02b81253b32511c959e2044835
+  - id: rCG6r6gotZQ.pdf
+    parent_uid: f005625170a3d5dae28b846429aca584
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-2-audience/copy_of_day-2-part-1/rCG6r6gotZQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 429a8233b7a7b2b77c2cbb6cd8222af0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f005625170a3d5dae28b846429aca584
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8b274a260d5aa6b5cc239d78fa77e1fc
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f005625170a3d5dae28b846429aca584
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0a508908aa68198fe24a89f43039d5d6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: f005625170a3d5dae28b846429aca584
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d3b3740313d46cbc0e4c92de57177fa8
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D02P1_300k.mp4'
+    parent_uid: f005625170a3d5dae28b846429aca584
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4e3bdf8d3d911730bfe0e0912b993ef1
+inline_embed_id: 38077626welcomethemiddleschoolconsultants62074973
 parent_uid: 3da88bd7fc04b288622711604ae6a159
+related_resources_text: ''
+short_url: copy_of_day-2-part-1
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-2-audience/copy_of_day-2-part-1
-short_url: copy_of_day-2-part-1
-inline_embed_id: 38077626welcomethemiddleschoolconsultants62074973
-about_this_resource_text: ''
-related_resources_text: ''
+title: Welcome the middle school consultants
 transcript: >-
   <p><span m="90">The</span> <span m="170">following</span> <span
   m="610">content</span> <span m="1120">is</span> <span m="1230">provided</span>
@@ -2167,61 +2221,7 @@ transcript: >-
   you.</span></p><p><span m="2162951">AUDIENCE: Thank</span> <span
   m="2163380">you</span> <span m="2163900">so</span> <span
   m="2164090">much.</span></p>
-embedded_media:
-  - uid: f4c4497ce76f4486f491f42e9729c9c0
-    parent_uid: f005625170a3d5dae28b846429aca584
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: rCG6r6gotZQ
-  - uid: 92e622adbf9a30a8bae0a034f2cd4f95
-    parent_uid: f005625170a3d5dae28b846429aca584
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/rCG6r6gotZQ/default.jpg'
-  - uid: 643cda0b0632a7ccc96e36ff53d698aa
-    parent_uid: f005625170a3d5dae28b846429aca584
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: rCG6r6gotZQ
-  - uid: f9dcfd02b81253b32511c959e2044835
-    parent_uid: f005625170a3d5dae28b846429aca584
-    id: rCG6r6gotZQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-2-audience/copy_of_day-2-part-1/rCG6r6gotZQ.srt
-  - uid: 429a8233b7a7b2b77c2cbb6cd8222af0
-    parent_uid: f005625170a3d5dae28b846429aca584
-    id: rCG6r6gotZQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-2-audience/copy_of_day-2-part-1/rCG6r6gotZQ.pdf
-  - uid: 8b274a260d5aa6b5cc239d78fa77e1fc
-    parent_uid: f005625170a3d5dae28b846429aca584
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0a508908aa68198fe24a89f43039d5d6
-    parent_uid: f005625170a3d5dae28b846429aca584
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d3b3740313d46cbc0e4c92de57177fa8
-    parent_uid: f005625170a3d5dae28b846429aca584
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 4e3bdf8d3d911730bfe0e0912b993ef1
-    parent_uid: f005625170a3d5dae28b846429aca584
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D02P1_300k.mp4'
+uid: f005625170a3d5dae28b846429aca584
 type: courses
 layout: video
 ---

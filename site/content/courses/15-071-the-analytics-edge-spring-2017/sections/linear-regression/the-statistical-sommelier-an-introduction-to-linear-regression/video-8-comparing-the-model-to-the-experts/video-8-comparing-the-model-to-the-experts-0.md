@@ -1,13 +1,62 @@
 ---
-title: 'Video 8: Comparing the Model to the Experts'
-uid: 9d19e349427d6ab2947947c0189b88c3
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: xYnq8nVcN4g
+    parent_uid: 9d19e349427d6ab2947947c0189b88c3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4231983a56d4e8d1a77d70d882a200d8
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: xYnq8nVcN4g
+    parent_uid: 9d19e349427d6ab2947947c0189b88c3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 62c666f61ad0dff41bb01ec3684ca160
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/xYnq8nVcN4g/default.jpg'
+    parent_uid: 9d19e349427d6ab2947947c0189b88c3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: daa09c519d7ef39550b3de183eb920ec
+  - id: xYnq8nVcN4g.srt
+    parent_uid: 9d19e349427d6ab2947947c0189b88c3
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-8-comparing-the-model-to-the-experts/video-8-comparing-the-model-to-the-experts-0/xYnq8nVcN4g.srt
+    title: 3play caption file
+    type: null
+    uid: c8635646c5869d72e8e0fcdc65e89b40
+  - id: xYnq8nVcN4g.pdf
+    parent_uid: 9d19e349427d6ab2947947c0189b88c3
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-8-comparing-the-model-to-the-experts/video-8-comparing-the-model-to-the-experts-0/xYnq8nVcN4g.pdf
+    title: 3play pdf file
+    type: null
+    uid: 73d01a7dc94cf733e651d37ee4ddcf7d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9d19e349427d6ab2947947c0189b88c3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 001bce827590f465af07e2d1846559f4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9d19e349427d6ab2947947c0189b88c3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 876d25ac34246e3cb0b61f80a462b11d
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.2.15_300k.mp4
+    parent_uid: 9d19e349427d6ab2947947c0189b88c3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a8ada0e05500000cf8cde73c5a5ee57d
+inline_embed_id: 17036056video8comparingthemodeltotheexperts97762292
 parent_uid: df5ef36459d32e3f98ec9d920d6c5e1d
+related_resources_text: ''
+short_url: video-8-comparing-the-model-to-the-experts-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-8-comparing-the-model-to-the-experts/video-8-comparing-the-model-to-the-experts-0
-short_url: video-8-comparing-the-model-to-the-experts-0
-inline_embed_id: 17036056video8comparingthemodeltotheexperts97762292
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 8: Comparing the Model to the Experts'
 transcript: >-
   <p><span m='4500'>Let</span> <span m='4870'>us</span> <span
   m='5240'>comment</span> <span m='5610'>on</span> <span m='5980'>the</span>
@@ -102,56 +151,7 @@ transcript: >-
   m='104251'>effective</span> <span m='104702'>in</span> <span
   m='105154'>a</span> <span m='105605'>traditionally</span> <span
   m='106057'>qualitative</span> <span m='106508'>problem.</span> </p>
-embedded_media:
-  - uid: 4231983a56d4e8d1a77d70d882a200d8
-    parent_uid: 9d19e349427d6ab2947947c0189b88c3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: xYnq8nVcN4g
-  - uid: 62c666f61ad0dff41bb01ec3684ca160
-    parent_uid: 9d19e349427d6ab2947947c0189b88c3
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: xYnq8nVcN4g
-  - uid: daa09c519d7ef39550b3de183eb920ec
-    parent_uid: 9d19e349427d6ab2947947c0189b88c3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/xYnq8nVcN4g/default.jpg'
-  - uid: c8635646c5869d72e8e0fcdc65e89b40
-    parent_uid: 9d19e349427d6ab2947947c0189b88c3
-    id: xYnq8nVcN4g.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-8-comparing-the-model-to-the-experts/video-8-comparing-the-model-to-the-experts-0/xYnq8nVcN4g.srt
-  - uid: 73d01a7dc94cf733e651d37ee4ddcf7d
-    parent_uid: 9d19e349427d6ab2947947c0189b88c3
-    id: xYnq8nVcN4g.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-regression/the-statistical-sommelier-an-introduction-to-linear-regression/video-8-comparing-the-model-to-the-experts/video-8-comparing-the-model-to-the-experts-0/xYnq8nVcN4g.pdf
-  - uid: 001bce827590f465af07e2d1846559f4
-    parent_uid: 9d19e349427d6ab2947947c0189b88c3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 876d25ac34246e3cb0b61f80a462b11d
-    parent_uid: 9d19e349427d6ab2947947c0189b88c3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a8ada0e05500000cf8cde73c5a5ee57d
-    parent_uid: 9d19e349427d6ab2947947c0189b88c3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_2.2.15_300k.mp4
+uid: 9d19e349427d6ab2947947c0189b88c3
 type: courses
 layout: video
 ---

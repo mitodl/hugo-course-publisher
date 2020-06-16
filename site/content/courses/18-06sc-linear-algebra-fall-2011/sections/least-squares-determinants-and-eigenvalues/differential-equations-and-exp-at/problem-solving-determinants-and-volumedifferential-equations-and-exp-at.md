@@ -1,14 +1,70 @@
 ---
-title: 'Problem Solving: Differential Equations and exp(At)'
-uid: bcf885c622344a5b868d306a0a84a34d
-parent_uid: 2e8f3fde52a442affa1d8cd0213b4d74
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/problem-solving-determinants-and-volumedifferential-equations-and-exp-at
-short_url: problem-solving-determinants-and-volumedifferential-equations-and-exp-at
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: FzncDO1eSNI
+    parent_uid: bcf885c622344a5b868d306a0a84a34d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9dbcd38760f8f133f4480c0d7868ed96
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/differential-equations-exp/id488155309?i=108813458
+    parent_uid: bcf885c622344a5b868d306a0a84a34d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b65abde794d0d893c2a8a115d62bf8c5
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110531_L1_300k.mp4
+    parent_uid: bcf885c622344a5b868d306a0a84a34d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4a8a6d0acb147f373c8dc71376d05d1a
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: FzncDO1eSNI
+    parent_uid: bcf885c622344a5b868d306a0a84a34d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7d01ca52a8b6bb6ec581b1abb5762e59
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/FzncDO1eSNI/default.jpg'
+    parent_uid: bcf885c622344a5b868d306a0a84a34d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7376f757d758bf8952d4a79df921054b
+  - id: FzncDO1eSNI.srt
+    parent_uid: bcf885c622344a5b868d306a0a84a34d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/problem-solving-determinants-and-volumedifferential-equations-and-exp-at/FzncDO1eSNI.srt
+    title: 3play caption file
+    type: null
+    uid: 4dd50ecd7a2d1cd73548e75ac27f47ce
+  - id: FzncDO1eSNI.pdf
+    parent_uid: bcf885c622344a5b868d306a0a84a34d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/problem-solving-determinants-and-volumedifferential-equations-and-exp-at/FzncDO1eSNI.pdf
+    title: 3play pdf file
+    type: null
+    uid: a5f152ce863bb363fa7ba97e6c66a867
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bcf885c622344a5b868d306a0a84a34d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7802445016b7cca491195882e074d789
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bcf885c622344a5b868d306a0a84a34d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 431dc84b23b4dc2b55dd47f89b3b9a0d
 inline_embed_id: >-
   32376901problemsolving:determinantsandvolumedifferentialequationsandexp(at)23331035
-about_this_resource_text: ''
+parent_uid: 2e8f3fde52a442affa1d8cd0213b4d74
 related_resources_text: ''
+short_url: problem-solving-determinants-and-volumedifferential-equations-and-exp-at
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/problem-solving-determinants-and-volumedifferential-equations-and-exp-at
+title: 'Problem Solving: Differential Equations and exp(At)'
 transcript: >-
   <p><span m='7160'>LINAN CHEN: Hi.</span> <span m='7650'>Welcome</span> <span
   m='8189'>back</span> <span m='8410'>to</span> <span
@@ -926,63 +982,7 @@ transcript: >-
   m='1117540'>watching,</span> <span m='1118320'>and</span> <span
   m='1118510'>see</span> <span m='1118650'>you</span> <span
   m='1118780'>next</span> <span m='1119050'>time.</span> </p>
-embedded_media:
-  - uid: 9dbcd38760f8f133f4480c0d7868ed96
-    parent_uid: bcf885c622344a5b868d306a0a84a34d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: FzncDO1eSNI
-  - uid: b65abde794d0d893c2a8a115d62bf8c5
-    parent_uid: bcf885c622344a5b868d306a0a84a34d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/differential-equations-exp/id488155309?i=108813458
-  - uid: 4a8a6d0acb147f373c8dc71376d05d1a
-    parent_uid: bcf885c622344a5b868d306a0a84a34d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110531_L1_300k.mp4
-  - uid: 7d01ca52a8b6bb6ec581b1abb5762e59
-    parent_uid: bcf885c622344a5b868d306a0a84a34d
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: FzncDO1eSNI
-  - uid: 7376f757d758bf8952d4a79df921054b
-    parent_uid: bcf885c622344a5b868d306a0a84a34d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FzncDO1eSNI/default.jpg'
-  - uid: 4dd50ecd7a2d1cd73548e75ac27f47ce
-    parent_uid: bcf885c622344a5b868d306a0a84a34d
-    id: FzncDO1eSNI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/problem-solving-determinants-and-volumedifferential-equations-and-exp-at/FzncDO1eSNI.srt
-  - uid: a5f152ce863bb363fa7ba97e6c66a867
-    parent_uid: bcf885c622344a5b868d306a0a84a34d
-    id: FzncDO1eSNI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/problem-solving-determinants-and-volumedifferential-equations-and-exp-at/FzncDO1eSNI.pdf
-  - uid: 7802445016b7cca491195882e074d789
-    parent_uid: bcf885c622344a5b868d306a0a84a34d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 431dc84b23b4dc2b55dd47f89b3b9a0d
-    parent_uid: bcf885c622344a5b868d306a0a84a34d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: bcf885c622344a5b868d306a0a84a34d
 type: courses
 layout: video
 ---

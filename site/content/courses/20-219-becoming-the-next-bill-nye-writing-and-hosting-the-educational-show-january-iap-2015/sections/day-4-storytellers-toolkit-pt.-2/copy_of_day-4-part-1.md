@@ -1,13 +1,67 @@
 ---
-title: Animation is good when...
-uid: 989202220242e25cb674a753af9d505b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 3HnHQXWIFd4
+    parent_uid: 989202220242e25cb674a753af9d505b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0248919a843f4753f40b4b93678c3e62
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/3HnHQXWIFd4/default.jpg'
+    parent_uid: 989202220242e25cb674a753af9d505b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ea3b16beb71eecbc474b61d7cac23b03
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 3HnHQXWIFd4
+    parent_uid: 989202220242e25cb674a753af9d505b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 03d588c69c612e852647e61c5508ecb1
+  - id: 3HnHQXWIFd4.srt
+    parent_uid: 989202220242e25cb674a753af9d505b
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-4-storytellers-toolkit-pt.-2/copy_of_day-4-part-1/3HnHQXWIFd4.srt
+    title: 3play caption file
+    type: null
+    uid: 5d1fa44f30445767df617b316bd3bf2d
+  - id: 3HnHQXWIFd4.pdf
+    parent_uid: 989202220242e25cb674a753af9d505b
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-4-storytellers-toolkit-pt.-2/copy_of_day-4-part-1/3HnHQXWIFd4.pdf
+    title: 3play pdf file
+    type: null
+    uid: a4a1feb3b2e931329758397a0db67043
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 989202220242e25cb674a753af9d505b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3ae34e40f3ec6c70dbf8147288ddaaa5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 989202220242e25cb674a753af9d505b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 58e1996ee7e8901f47de1c06c355cebe
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 989202220242e25cb674a753af9d505b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 63e86f59f5f95c4a66861a8b0835072e
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D04P1_300k.mp4'
+    parent_uid: 989202220242e25cb674a753af9d505b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7d7204122447e46f2da54fc5295db827
+inline_embed_id: 98703419animationisgoodwhen...83636780
 parent_uid: 60a6ea961026802d98a9351ce3b38557
+related_resources_text: ''
+short_url: copy_of_day-4-part-1
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-4-storytellers-toolkit-pt.-2/copy_of_day-4-part-1
-short_url: copy_of_day-4-part-1
-inline_embed_id: 98703419animationisgoodwhen...83636780
-about_this_resource_text: ''
-related_resources_text: ''
+title: Animation is good when...
 transcript: >-
   <p><span m="80">The</span> <span m="170">following</span> <span
   m="610">content</span> <span m="1120">is</span> <span m="1230">provided</span>
@@ -1951,61 +2005,7 @@ transcript: >-
   m="1646960">some</span> <span m="1647150">basics</span> <span
   m="1647590">about</span> <span m="1647840">After</span> <span
   m="1648110">Effects.</span></p>
-embedded_media:
-  - uid: 0248919a843f4753f40b4b93678c3e62
-    parent_uid: 989202220242e25cb674a753af9d505b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 3HnHQXWIFd4
-  - uid: ea3b16beb71eecbc474b61d7cac23b03
-    parent_uid: 989202220242e25cb674a753af9d505b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/3HnHQXWIFd4/default.jpg'
-  - uid: 03d588c69c612e852647e61c5508ecb1
-    parent_uid: 989202220242e25cb674a753af9d505b
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 3HnHQXWIFd4
-  - uid: 5d1fa44f30445767df617b316bd3bf2d
-    parent_uid: 989202220242e25cb674a753af9d505b
-    id: 3HnHQXWIFd4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-4-storytellers-toolkit-pt.-2/copy_of_day-4-part-1/3HnHQXWIFd4.srt
-  - uid: a4a1feb3b2e931329758397a0db67043
-    parent_uid: 989202220242e25cb674a753af9d505b
-    id: 3HnHQXWIFd4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-4-storytellers-toolkit-pt.-2/copy_of_day-4-part-1/3HnHQXWIFd4.pdf
-  - uid: 3ae34e40f3ec6c70dbf8147288ddaaa5
-    parent_uid: 989202220242e25cb674a753af9d505b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 58e1996ee7e8901f47de1c06c355cebe
-    parent_uid: 989202220242e25cb674a753af9d505b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 63e86f59f5f95c4a66861a8b0835072e
-    parent_uid: 989202220242e25cb674a753af9d505b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 7d7204122447e46f2da54fc5295db827
-    parent_uid: 989202220242e25cb674a753af9d505b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D04P1_300k.mp4'
+uid: 989202220242e25cb674a753af9d505b
 type: courses
 layout: video
 ---

@@ -1,13 +1,69 @@
 ---
-title: Second Fundamental Theorem and Chain Rule
-uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: lEOjMAmkI-U
+    parent_uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: af797505acac5f2f8a277c3e53bf9cd4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/lEOjMAmkI-U/default.jpg'
+    parent_uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8a7aa703981e42c335a30bb6141d34d9
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: lEOjMAmkI-U
+    parent_uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1a282366565a6786e0a2893f170dcf7c
+  - id: lEOjMAmkI-U.srt
+    parent_uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus/second-fundamental-theorem-and-chain-rule/lEOjMAmkI-U.srt
+    title: 3play caption file
+    type: null
+    uid: c93104270dffaadcf8df6d8cc199bce9
+  - id: lEOjMAmkI-U.pdf
+    parent_uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus/second-fundamental-theorem-and-chain-rule/lEOjMAmkI-U.pdf
+    title: 3play pdf file
+    type: null
+    uid: d8eea6d5d5d2d0ce4298a68a2b5d5274
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6c5ece5b1d5240ded591293edafbc9b0
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ad63077c415739191d4a3fe346e768cd
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_40a_300k.mp4
+    parent_uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7aaa4815d4f0311b8cde32c4619de3b2
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/second-fundamental-theorem/id414308064?i=90319630
+    parent_uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f16abc5d933dbd181bd574340de0341a
+inline_embed_id: 31015776secondfundamentaltheoremandchainrule35351481
 parent_uid: 9b4c6b77599861b820e8c804596b8c24
+related_resources_text: ''
+short_url: second-fundamental-theorem-and-chain-rule
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus/second-fundamental-theorem-and-chain-rule
-short_url: second-fundamental-theorem-and-chain-rule
-inline_embed_id: 31015776secondfundamentaltheoremandchainrule35351481
-about_this_resource_text: ''
-related_resources_text: ''
+title: Second Fundamental Theorem and Chain Rule
 transcript: >-
   <p><span m='6860'>PROFESSOR: Welcome</span> <span m='7270'>back</span> <span
   m='7460'>to</span> <span m='7560'>recitation.</span> <span m='8900'>In</span>
@@ -370,63 +426,7 @@ transcript: >-
   <span m='301000'>All right,</span> <span m='301410'>I</span> <span
   m='301690'>think</span> <span m='301900'>I'll</span> <span
   m='301970'>stop</span> <span m='302210'>there.</span> </p>
-embedded_media:
-  - uid: af797505acac5f2f8a277c3e53bf9cd4
-    parent_uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: lEOjMAmkI-U
-  - uid: 8a7aa703981e42c335a30bb6141d34d9
-    parent_uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/lEOjMAmkI-U/default.jpg'
-  - uid: 1a282366565a6786e0a2893f170dcf7c
-    parent_uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: lEOjMAmkI-U
-  - uid: c93104270dffaadcf8df6d8cc199bce9
-    parent_uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
-    id: lEOjMAmkI-U.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus/second-fundamental-theorem-and-chain-rule/lEOjMAmkI-U.srt
-  - uid: d8eea6d5d5d2d0ce4298a68a2b5d5274
-    parent_uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
-    id: lEOjMAmkI-U.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-51-the-second-fundamental-theorem-of-calculus/second-fundamental-theorem-and-chain-rule/lEOjMAmkI-U.pdf
-  - uid: 6c5ece5b1d5240ded591293edafbc9b0
-    parent_uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ad63077c415739191d4a3fe346e768cd
-    parent_uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 7aaa4815d4f0311b8cde32c4619de3b2
-    parent_uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_40a_300k.mp4
-  - uid: f16abc5d933dbd181bd574340de0341a
-    parent_uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/second-fundamental-theorem/id414308064?i=90319630
+uid: 7e13c1234f2cd818f1f56bc9d8e06ea7
 type: courses
 layout: video
 ---

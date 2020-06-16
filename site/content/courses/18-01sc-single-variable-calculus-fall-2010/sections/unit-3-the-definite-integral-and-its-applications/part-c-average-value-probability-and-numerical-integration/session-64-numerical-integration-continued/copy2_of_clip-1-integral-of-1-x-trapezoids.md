@@ -1,18 +1,72 @@
 ---
-title: 'Clip 3: Numerical Integration Study Tips'
-uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
-parent_uid: 602ce034a62f6b4a95884c519f8f4412
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-64-numerical-integration-continued/copy2_of_clip-1-integral-of-1-x-trapezoids
-short_url: copy2_of_clip-1-integral-of-1-x-trapezoids
-inline_embed_id: '91701459clip3:numericalintegrationstudytips29098590'
 about_this_resource_text: >-
   <p>&raquo; <a
   href="./resolveuid/d8e6f6997d2b7f4a09f823dfcad065cc">Accompanying Notes
   (PDF)</a></p><p class="scholar_medsm">From Lecture 25 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: zUEuKrxgHws
+    parent_uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 338bb7939e65b4e54521e616b7948152
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/zUEuKrxgHws/default.jpg'
+    parent_uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cdc0e95c434bfdb668c30b22202e1c92
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: zUEuKrxgHws
+    parent_uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6c043182f7a023004eda8763bc307048
+  - id: zUEuKrxgHws.srt
+    parent_uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-64-numerical-integration-continued/copy2_of_clip-1-integral-of-1-x-trapezoids/zUEuKrxgHws.srt
+    title: 3play caption file
+    type: null
+    uid: 7f7c1553ba200b79fc4728c39c992e4c
+  - id: zUEuKrxgHws.pdf
+    parent_uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-64-numerical-integration-continued/copy2_of_clip-1-integral-of-1-x-trapezoids/zUEuKrxgHws.pdf
+    title: 3play pdf file
+    type: null
+    uid: d2d51f521b23ce6272a50fc8b96d1806
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9bbba3a849dbd96ea46f64d788ad7e68
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8b8b5b18254271e91247368b30ad6bf2
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec25_300k.mp4'
+    parent_uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 91eac8049ec3f9013a093b57808d4e55
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 717b15627bfc5032e59591b55ecb66c7
+inline_embed_id: '91701459clip3:numericalintegrationstudytips29098590'
+parent_uid: 602ce034a62f6b4a95884c519f8f4412
 related_resources_text: ''
+short_url: copy2_of_clip-1-integral-of-1-x-trapezoids
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-64-numerical-integration-continued/copy2_of_clip-1-integral-of-1-x-trapezoids
+title: 'Clip 3: Numerical Integration Study Tips'
 transcript: >-
   <p><span m="60">The</span> <span m="520">following content</span> <span
   m="1300">is</span> <span m="1680">provided</span> <span m="1743">under</span>
@@ -2728,61 +2782,7 @@ transcript: >-
   m="2953910">do</span> <span m="2954040">the</span> <span
   m="2954180">other</span> <span m="2954350">way.</span> <span m="2954670">Good
   luck,</span> <span m="2956240">folks.</span></p>
-embedded_media:
-  - uid: 338bb7939e65b4e54521e616b7948152
-    parent_uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: zUEuKrxgHws
-  - uid: cdc0e95c434bfdb668c30b22202e1c92
-    parent_uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/zUEuKrxgHws/default.jpg'
-  - uid: 6c043182f7a023004eda8763bc307048
-    parent_uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: zUEuKrxgHws
-  - uid: 7f7c1553ba200b79fc4728c39c992e4c
-    parent_uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
-    id: zUEuKrxgHws.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-64-numerical-integration-continued/copy2_of_clip-1-integral-of-1-x-trapezoids/zUEuKrxgHws.srt
-  - uid: d2d51f521b23ce6272a50fc8b96d1806
-    parent_uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
-    id: zUEuKrxgHws.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-c-average-value-probability-and-numerical-integration/session-64-numerical-integration-continued/copy2_of_clip-1-integral-of-1-x-trapezoids/zUEuKrxgHws.pdf
-  - uid: 9bbba3a849dbd96ea46f64d788ad7e68
-    parent_uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8b8b5b18254271e91247368b30ad6bf2
-    parent_uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 91eac8049ec3f9013a093b57808d4e55
-    parent_uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec25_300k.mp4'
-  - uid: 717b15627bfc5032e59591b55ecb66c7
-    parent_uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 1d7042d07f1f9a65ec33e5e2f0cf8287
 type: courses
 layout: video
 ---

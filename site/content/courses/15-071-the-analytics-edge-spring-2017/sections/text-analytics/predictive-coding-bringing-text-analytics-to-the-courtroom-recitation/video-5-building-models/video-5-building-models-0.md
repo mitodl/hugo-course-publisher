@@ -1,13 +1,62 @@
 ---
-title: 'Video 5: Building Models'
-uid: 44f2c8d2bfd23ac14fedf07e81c827a7
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Cks6Wn29TLg
+    parent_uid: 44f2c8d2bfd23ac14fedf07e81c827a7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 59f5882de50acbca4a530743cf6c18dd
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: Cks6Wn29TLg
+    parent_uid: 44f2c8d2bfd23ac14fedf07e81c827a7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: cada79db53bd9fd1037e91489f72de64
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Cks6Wn29TLg/default.jpg'
+    parent_uid: 44f2c8d2bfd23ac14fedf07e81c827a7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6865310426fb3de1fc3a04e3edef8f3f
+  - id: Cks6Wn29TLg.srt
+    parent_uid: 44f2c8d2bfd23ac14fedf07e81c827a7
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-5-building-models/video-5-building-models-0/Cks6Wn29TLg.srt
+    title: 3play caption file
+    type: null
+    uid: 427fe7c6954db32ebb55546284f8874f
+  - id: Cks6Wn29TLg.pdf
+    parent_uid: 44f2c8d2bfd23ac14fedf07e81c827a7
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-5-building-models/video-5-building-models-0/Cks6Wn29TLg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0dd65ffe13de10dd60e7903935931c3e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 44f2c8d2bfd23ac14fedf07e81c827a7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5b7a939adc05e6cacbf9eb4383748ef3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 44f2c8d2bfd23ac14fedf07e81c827a7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9c5ef2d09d495f16dc050eedca69a956
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.4.06_300k.mp4
+    parent_uid: 44f2c8d2bfd23ac14fedf07e81c827a7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e8a396ed3ec76567b52c987651f7b907
+inline_embed_id: 63317524video5buildingmodels85244881
 parent_uid: bfe9f6891834528bfc4766f67aa144c6
+related_resources_text: ''
+short_url: video-5-building-models-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-5-building-models/video-5-building-models-0
-short_url: video-5-building-models-0
-inline_embed_id: 63317524video5buildingmodels85244881
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 5: Building Models'
 transcript: >-
   <p><span m='4570'>At</span> <span m='4812'>long</span> <span
   m='5055'>last,</span> <span m='5297'>we're</span> <span m='5540'>ready</span>
@@ -200,56 +249,7 @@ transcript: >-
   m='184240'>in</span> <span m='184630'>the</span> <span m='185020'>fraud</span>
   <span m='185410'>at</span> <span m='185800'>the</span> <span
   m='186190'>company.</span> </p>
-embedded_media:
-  - uid: 59f5882de50acbca4a530743cf6c18dd
-    parent_uid: 44f2c8d2bfd23ac14fedf07e81c827a7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Cks6Wn29TLg
-  - uid: cada79db53bd9fd1037e91489f72de64
-    parent_uid: 44f2c8d2bfd23ac14fedf07e81c827a7
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Cks6Wn29TLg
-  - uid: 6865310426fb3de1fc3a04e3edef8f3f
-    parent_uid: 44f2c8d2bfd23ac14fedf07e81c827a7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Cks6Wn29TLg/default.jpg'
-  - uid: 427fe7c6954db32ebb55546284f8874f
-    parent_uid: 44f2c8d2bfd23ac14fedf07e81c827a7
-    id: Cks6Wn29TLg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-5-building-models/video-5-building-models-0/Cks6Wn29TLg.srt
-  - uid: 0dd65ffe13de10dd60e7903935931c3e
-    parent_uid: 44f2c8d2bfd23ac14fedf07e81c827a7
-    id: Cks6Wn29TLg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/text-analytics/predictive-coding-bringing-text-analytics-to-the-courtroom-recitation/video-5-building-models/video-5-building-models-0/Cks6Wn29TLg.pdf
-  - uid: 5b7a939adc05e6cacbf9eb4383748ef3
-    parent_uid: 44f2c8d2bfd23ac14fedf07e81c827a7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9c5ef2d09d495f16dc050eedca69a956
-    parent_uid: 44f2c8d2bfd23ac14fedf07e81c827a7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e8a396ed3ec76567b52c987651f7b907
-    parent_uid: 44f2c8d2bfd23ac14fedf07e81c827a7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_5.4.06_300k.mp4
+uid: 44f2c8d2bfd23ac14fedf07e81c827a7
 type: courses
 layout: video
 ---

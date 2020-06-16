@@ -1,13 +1,61 @@
 ---
-title: Did Active Learning Work?
-uid: bc81939d39ca9b20d235a2bcfdc48df8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: r2_-2KW76ec
+    parent_uid: bc81939d39ca9b20d235a2bcfdc48df8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b3a1191a3882185b90762d86081ae08e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/r2_-2KW76ec/default.jpg'
+    parent_uid: bc81939d39ca9b20d235a2bcfdc48df8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7c6377a4d9d925b9a6a43e3baef9c466
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: r2_-2KW76ec
+    parent_uid: bc81939d39ca9b20d235a2bcfdc48df8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8dd4044df39b3db965ec173911134ab9
+  - id: r2_-2KW76ec.srt
+    parent_uid: bc81939d39ca9b20d235a2bcfdc48df8
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/did-active-learning-work/r2_-2KW76ec.srt
+    title: 3play caption file
+    type: null
+    uid: 2cb2b50ad547de3721ce5d8d7cbd1517
+  - id: r2_-2KW76ec.pdf
+    parent_uid: bc81939d39ca9b20d235a2bcfdc48df8
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/did-active-learning-work/r2_-2KW76ec.pdf
+    title: 3play pdf file
+    type: null
+    uid: e0ec78d65787d1f0a82e3b9307d53a67
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bc81939d39ca9b20d235a2bcfdc48df8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4f53ed5e2955242c288088f8470296e3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bc81939d39ca9b20d235a2bcfdc48df8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 49c0f826d1bd1ce154608353012416e8
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.033S18/MIT6_033S18_DUET_Lecture_300k.mp4'
+    parent_uid: bc81939d39ca9b20d235a2bcfdc48df8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 359198b301d77c1b8f960831b770183c
+inline_embed_id: 73559068didactivelearningwork44885061
 parent_uid: e75a8c08e11786c535031b5e10f0fe19
+related_resources_text: ''
+short_url: did-active-learning-work
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/did-active-learning-work
-short_url: did-active-learning-work
-inline_embed_id: 73559068didactivelearningwork44885061
-about_this_resource_text: ''
-related_resources_text: ''
+title: Did Active Learning Work?
 transcript: >-
   <p><span m="1645">The</span> <span m="1690">following</span> <span
   m="2110">content</span> <span m="2680">is</span> <span
@@ -4623,55 +4671,7 @@ transcript: >-
   m="3139010">off</span> <span m="3139310">to</span> <span
   m="3139490">Jesse</span> <span m="3139940">and</span> <span
   m="3140270">Karen.</span></p>
-embedded_media:
-  - uid: b3a1191a3882185b90762d86081ae08e
-    parent_uid: bc81939d39ca9b20d235a2bcfdc48df8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: r2_-2KW76ec
-  - uid: 7c6377a4d9d925b9a6a43e3baef9c466
-    parent_uid: bc81939d39ca9b20d235a2bcfdc48df8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/r2_-2KW76ec/default.jpg'
-  - uid: 8dd4044df39b3db965ec173911134ab9
-    parent_uid: bc81939d39ca9b20d235a2bcfdc48df8
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: r2_-2KW76ec
-  - uid: 2cb2b50ad547de3721ce5d8d7cbd1517
-    parent_uid: bc81939d39ca9b20d235a2bcfdc48df8
-    id: r2_-2KW76ec.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/did-active-learning-work/r2_-2KW76ec.srt
-  - uid: e0ec78d65787d1f0a82e3b9307d53a67
-    parent_uid: bc81939d39ca9b20d235a2bcfdc48df8
-    id: r2_-2KW76ec.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/did-active-learning-work/r2_-2KW76ec.pdf
-  - uid: 4f53ed5e2955242c288088f8470296e3
-    parent_uid: bc81939d39ca9b20d235a2bcfdc48df8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 49c0f826d1bd1ce154608353012416e8
-    parent_uid: bc81939d39ca9b20d235a2bcfdc48df8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 359198b301d77c1b8f960831b770183c
-    parent_uid: bc81939d39ca9b20d235a2bcfdc48df8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.033S18/MIT6_033S18_DUET_Lecture_300k.mp4'
+uid: bc81939d39ca9b20d235a2bcfdc48df8
 type: courses
 layout: video
 ---

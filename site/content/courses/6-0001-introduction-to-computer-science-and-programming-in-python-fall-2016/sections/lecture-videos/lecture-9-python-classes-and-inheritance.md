@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 9: Python Classes and Inheritance'
-uid: 006db88999ee9813384c922dbcce45e6
-parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-9-python-classes-and-inheritance
-short_url: lecture-9-python-classes-and-inheritance
-inline_embed_id: 15277811lecture9pythonclassesandinheritance17289832
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Dr. Bell continues the
   discussion of Object Oriented Programming in Python, with an emphasis on data
   control, inheritance, and subclasses.</p> <p><strong>Instructor:</strong> Dr.
   Ana Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: FlGjISF3l78
+    parent_uid: 006db88999ee9813384c922dbcce45e6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 340e428be6a2c3e526327d88f6c7f3da
+  - id: FlGjISF3l78.srt
+    parent_uid: 006db88999ee9813384c922dbcce45e6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-9-python-classes-and-inheritance/FlGjISF3l78.srt
+    title: 3play caption file
+    type: null
+    uid: 8447d5e2ec80a130276ed9a49283d080
+  - id: FlGjISF3l78.pdf
+    parent_uid: 006db88999ee9813384c922dbcce45e6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-9-python-classes-and-inheritance/FlGjISF3l78.pdf
+    title: 3play pdf file
+    type: null
+    uid: a8263388f8f67a79f4eafecbc3a69198
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 006db88999ee9813384c922dbcce45e6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2042078350db764284c495eae9705573
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 006db88999ee9813384c922dbcce45e6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 267b73dd78c498055c69664aad0cdde7
+  - id: Video-YouTube-Stream
+    media_location: FlGjISF3l78
+    parent_uid: 006db88999ee9813384c922dbcce45e6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ec014ea629761a30cc29cf10bbec04bb
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/FlGjISF3l78/default.jpg'
+    parent_uid: 006db88999ee9813384c922dbcce45e6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ac7eeeafb0d0244ec31eaceefceb2188
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: 006db88999ee9813384c922dbcce45e6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 93bc594d9aa4b95d1245b46bb10be31e
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_09_300k.mp4'
+    parent_uid: 006db88999ee9813384c922dbcce45e6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f625e7e02a8710c1b713b4e715e1bb8b
+inline_embed_id: 15277811lecture9pythonclassesandinheritance17289832
+parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
+short_url: lecture-9-python-classes-and-inheritance
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-9-python-classes-and-inheritance
+title: 'Lecture 9: Python Classes and Inheritance'
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1300">content</span> <span m="1870">is</span> <span
@@ -3434,61 +3488,7 @@ transcript: >-
   m="2835830">programming.</span> <span m="2836880">All</span> <span
   m="2837000">right,</span> <span m="2837360">thanks,</span> <span
   m="2837600">everyone.</span></p>
-embedded_media:
-  - uid: 340e428be6a2c3e526327d88f6c7f3da
-    parent_uid: 006db88999ee9813384c922dbcce45e6
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: FlGjISF3l78
-  - uid: 8447d5e2ec80a130276ed9a49283d080
-    parent_uid: 006db88999ee9813384c922dbcce45e6
-    id: FlGjISF3l78.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-9-python-classes-and-inheritance/FlGjISF3l78.srt
-  - uid: a8263388f8f67a79f4eafecbc3a69198
-    parent_uid: 006db88999ee9813384c922dbcce45e6
-    id: FlGjISF3l78.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-9-python-classes-and-inheritance/FlGjISF3l78.pdf
-  - uid: 2042078350db764284c495eae9705573
-    parent_uid: 006db88999ee9813384c922dbcce45e6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 267b73dd78c498055c69664aad0cdde7
-    parent_uid: 006db88999ee9813384c922dbcce45e6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ec014ea629761a30cc29cf10bbec04bb
-    parent_uid: 006db88999ee9813384c922dbcce45e6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: FlGjISF3l78
-  - uid: ac7eeeafb0d0244ec31eaceefceb2188
-    parent_uid: 006db88999ee9813384c922dbcce45e6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FlGjISF3l78/default.jpg'
-  - uid: 93bc594d9aa4b95d1245b46bb10be31e
-    parent_uid: 006db88999ee9813384c922dbcce45e6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: f625e7e02a8710c1b713b4e715e1bb8b
-    parent_uid: 006db88999ee9813384c922dbcce45e6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_09_300k.mp4'
+uid: 006db88999ee9813384c922dbcce45e6
 type: courses
 layout: video
 ---

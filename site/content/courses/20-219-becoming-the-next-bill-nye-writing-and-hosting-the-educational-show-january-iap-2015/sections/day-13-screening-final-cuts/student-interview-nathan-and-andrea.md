@@ -1,13 +1,67 @@
 ---
-title: 'Student Interview: Nathan and Andrea'
-uid: ffc0807a8eec9490c678624ce2eb0f00
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: bhGIdWQqUYw
+    parent_uid: ffc0807a8eec9490c678624ce2eb0f00
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2968d11c55ed2c5725775f0aad657223
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: bhGIdWQqUYw
+    parent_uid: ffc0807a8eec9490c678624ce2eb0f00
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8bd5aec297a09c5799a95083eb913931
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: ffc0807a8eec9490c678624ce2eb0f00
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2a7af51c5c3c6d2df60ef0490e4036b5
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D13P4_300k.mp4'
+    parent_uid: ffc0807a8eec9490c678624ce2eb0f00
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 41a72124f13e1dfe4bb17b45e5eb7203
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/bhGIdWQqUYw/default.jpg'
+    parent_uid: ffc0807a8eec9490c678624ce2eb0f00
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0f4d3cf90e1b2c146b376bc4312af358
+  - id: bhGIdWQqUYw.srt
+    parent_uid: ffc0807a8eec9490c678624ce2eb0f00
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-nathan-and-andrea/bhGIdWQqUYw.srt
+    title: 3play caption file
+    type: null
+    uid: ca338a3c2e4a9be40e2682c1ab894a90
+  - id: bhGIdWQqUYw.pdf
+    parent_uid: ffc0807a8eec9490c678624ce2eb0f00
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-nathan-and-andrea/bhGIdWQqUYw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 81ffb65fb3b6968625a2443ea6a81dcd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ffc0807a8eec9490c678624ce2eb0f00
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 850d8845a384aca63aa4535190ceac61
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ffc0807a8eec9490c678624ce2eb0f00
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a2667c75d506494b8d5a25e59d043c1e
+inline_embed_id: '36109009studentinterview:nathanandandrea25431035'
 parent_uid: 2dc5287f35ede8339c9b93f4238ac687
+related_resources_text: ''
+short_url: student-interview-nathan-and-andrea
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-nathan-and-andrea
-short_url: student-interview-nathan-and-andrea
-inline_embed_id: '36109009studentinterview:nathanandandrea25431035'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Student Interview: Nathan and Andrea'
 transcript: >-
   <p><span m='4840'>INTERVIEWER 1: You</span> <span m='5324'>recorded</span>
   <span m='5810'>your videos</span> <span m='6310'>together,</span> <span
@@ -182,61 +236,7 @@ transcript: >-
   m='198560'>of</span> <span m='198680'>it,</span> <span m='198880'>which</span>
   <span m='199280'>is</span> <span m='199460'>also</span> <span
   m='199840'>cool.</span> </p>
-embedded_media:
-  - uid: 2968d11c55ed2c5725775f0aad657223
-    parent_uid: ffc0807a8eec9490c678624ce2eb0f00
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: bhGIdWQqUYw
-  - uid: 8bd5aec297a09c5799a95083eb913931
-    parent_uid: ffc0807a8eec9490c678624ce2eb0f00
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: bhGIdWQqUYw
-  - uid: 2a7af51c5c3c6d2df60ef0490e4036b5
-    parent_uid: ffc0807a8eec9490c678624ce2eb0f00
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 41a72124f13e1dfe4bb17b45e5eb7203
-    parent_uid: ffc0807a8eec9490c678624ce2eb0f00
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_D13P4_300k.mp4'
-  - uid: 0f4d3cf90e1b2c146b376bc4312af358
-    parent_uid: ffc0807a8eec9490c678624ce2eb0f00
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/bhGIdWQqUYw/default.jpg'
-  - uid: ca338a3c2e4a9be40e2682c1ab894a90
-    parent_uid: ffc0807a8eec9490c678624ce2eb0f00
-    id: bhGIdWQqUYw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-nathan-and-andrea/bhGIdWQqUYw.srt
-  - uid: 81ffb65fb3b6968625a2443ea6a81dcd
-    parent_uid: ffc0807a8eec9490c678624ce2eb0f00
-    id: bhGIdWQqUYw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-13-screening-final-cuts/student-interview-nathan-and-andrea/bhGIdWQqUYw.pdf
-  - uid: 850d8845a384aca63aa4535190ceac61
-    parent_uid: ffc0807a8eec9490c678624ce2eb0f00
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a2667c75d506494b8d5a25e59d043c1e
-    parent_uid: ffc0807a8eec9490c678624ce2eb0f00
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: ffc0807a8eec9490c678624ce2eb0f00
 type: courses
 layout: video
 ---

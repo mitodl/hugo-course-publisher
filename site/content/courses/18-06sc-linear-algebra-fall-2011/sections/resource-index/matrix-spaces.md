@@ -1,13 +1,68 @@
 ---
-title: Matrix Spaces
-uid: d6d7b8f97296fbdad85e54a12c580630
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: BaBoztM9Q1w
+    parent_uid: d6d7b8f97296fbdad85e54a12c580630
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d7a4abb3fccadb4396853463d098a523
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110607_A1_300k.mp4
+    parent_uid: d6d7b8f97296fbdad85e54a12c580630
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1a64d07b373f469c896f8a4f346f35ab
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/itunes-u/matrix-spaces/id488155309?i=108454335'
+    parent_uid: d6d7b8f97296fbdad85e54a12c580630
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e16321f91e9d9e76c3713960d6d6a781
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: BaBoztM9Q1w
+    parent_uid: d6d7b8f97296fbdad85e54a12c580630
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6da0302b52fce6854796fde50e9d3fa1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BaBoztM9Q1w/default.jpg'
+    parent_uid: d6d7b8f97296fbdad85e54a12c580630
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 67237e8a4cee11368490bfba9c2e8e1e
+  - id: BaBoztM9Q1w.srt
+    parent_uid: d6d7b8f97296fbdad85e54a12c580630
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/matrix-spaces/BaBoztM9Q1w.srt
+    title: 3play caption file
+    type: null
+    uid: c4e6ee56ab237320a8c3605b65a79944
+  - id: BaBoztM9Q1w.pdf
+    parent_uid: d6d7b8f97296fbdad85e54a12c580630
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/matrix-spaces/BaBoztM9Q1w.pdf
+    title: 3play pdf file
+    type: null
+    uid: c13e72ac62b1fd01f2f00503d3b6ac1f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d6d7b8f97296fbdad85e54a12c580630
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7c211c282142c1c383fe60288d900f31
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d6d7b8f97296fbdad85e54a12c580630
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6f03424ffb8f86f2add9ef52c6c7bd1b
+inline_embed_id: 50941200matrixspaces11736177
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: matrix-spaces
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/matrix-spaces
-short_url: matrix-spaces
-inline_embed_id: 50941200matrixspaces11736177
-about_this_resource_text: ''
-related_resources_text: ''
+title: Matrix Spaces
 transcript: >-
   <p><span m='5760'>ANA RITA PIRES:</span> <span m='6240'>Hi</span> <span
   m='6400'>there.</span> <span m='6820'>Welcome</span> <span m='7400'>to</span>
@@ -506,62 +561,7 @@ transcript: >-
   m='531722'>All</span> <span m='532090'>right?</span> <span
   m='532430'>We're</span> <span m='532710'>done.</span> <span
   m='533310'>Thank</span> <span m='533550'>you.</span> </p>
-embedded_media:
-  - uid: d7a4abb3fccadb4396853463d098a523
-    parent_uid: d6d7b8f97296fbdad85e54a12c580630
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BaBoztM9Q1w
-  - uid: 1a64d07b373f469c896f8a4f346f35ab
-    parent_uid: d6d7b8f97296fbdad85e54a12c580630
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110607_A1_300k.mp4
-  - uid: e16321f91e9d9e76c3713960d6d6a781
-    parent_uid: d6d7b8f97296fbdad85e54a12c580630
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/itunes-u/matrix-spaces/id488155309?i=108454335'
-  - uid: 6da0302b52fce6854796fde50e9d3fa1
-    parent_uid: d6d7b8f97296fbdad85e54a12c580630
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BaBoztM9Q1w
-  - uid: 67237e8a4cee11368490bfba9c2e8e1e
-    parent_uid: d6d7b8f97296fbdad85e54a12c580630
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BaBoztM9Q1w/default.jpg'
-  - uid: c4e6ee56ab237320a8c3605b65a79944
-    parent_uid: d6d7b8f97296fbdad85e54a12c580630
-    id: BaBoztM9Q1w.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/matrix-spaces/BaBoztM9Q1w.srt
-  - uid: c13e72ac62b1fd01f2f00503d3b6ac1f
-    parent_uid: d6d7b8f97296fbdad85e54a12c580630
-    id: BaBoztM9Q1w.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/matrix-spaces/BaBoztM9Q1w.pdf
-  - uid: 7c211c282142c1c383fe60288d900f31
-    parent_uid: d6d7b8f97296fbdad85e54a12c580630
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6f03424ffb8f86f2add9ef52c6c7bd1b
-    parent_uid: d6d7b8f97296fbdad85e54a12c580630
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: d6d7b8f97296fbdad85e54a12c580630
 type: courses
 layout: video
 ---

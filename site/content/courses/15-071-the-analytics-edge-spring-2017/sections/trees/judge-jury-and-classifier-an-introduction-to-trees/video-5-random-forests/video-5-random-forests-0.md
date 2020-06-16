@@ -1,13 +1,62 @@
 ---
-title: 'Video 5: Random Forests'
-uid: 192445d3c87575029cd760d454ff78e8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ykiTs5MipJU
+    parent_uid: 192445d3c87575029cd760d454ff78e8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 125760400a0cc2488252bc38075585a4
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: ykiTs5MipJU
+    parent_uid: 192445d3c87575029cd760d454ff78e8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 09f1d12bfdf532b9cb4b90e56716d247
+  - id: ykiTs5MipJU.srt
+    parent_uid: 192445d3c87575029cd760d454ff78e8
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-5-random-forests/video-5-random-forests-0/ykiTs5MipJU.srt
+    title: 3play caption file
+    type: null
+    uid: 213b137d9cf0d186fbebd229e819f4e3
+  - id: ykiTs5MipJU.pdf
+    parent_uid: 192445d3c87575029cd760d454ff78e8
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-5-random-forests/video-5-random-forests-0/ykiTs5MipJU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3972443d98c5361adb9e032f7c5a884b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 192445d3c87575029cd760d454ff78e8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 35ed6cb61d9eb755db7d89b4963f3091
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 192445d3c87575029cd760d454ff78e8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1f54f111e0370cd8bff3e3c214b7f75d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ykiTs5MipJU/default.jpg'
+    parent_uid: 192445d3c87575029cd760d454ff78e8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 44ad307fe40c292c55558cc2223e5804
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.2.09_300k.mp4
+    parent_uid: 192445d3c87575029cd760d454ff78e8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: db61458c758264a699b5353c548aeacb
+inline_embed_id: 6184241video5randomforests81389673
 parent_uid: d818f0620c7e3cee943507c440503537
+related_resources_text: ''
+short_url: video-5-random-forests-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-5-random-forests/video-5-random-forests-0
-short_url: video-5-random-forests-0
-inline_embed_id: 6184241video5randomforests81389673
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 5: Random Forests'
 transcript: >-
   <p><span m='4500'>In</span> <span m='4834'>this</span> <span
   m='5168'>video,</span> <span m='5502'>we'll</span> <span
@@ -467,56 +516,7 @@ transcript: >-
   m='458333'>random</span> <span m='458755'>component</span> <span
   m='459176'>to</span> <span m='459597'>this</span> <span
   m='460018'>method.</span> </p>
-embedded_media:
-  - uid: 125760400a0cc2488252bc38075585a4
-    parent_uid: 192445d3c87575029cd760d454ff78e8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ykiTs5MipJU
-  - uid: 09f1d12bfdf532b9cb4b90e56716d247
-    parent_uid: 192445d3c87575029cd760d454ff78e8
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ykiTs5MipJU
-  - uid: 213b137d9cf0d186fbebd229e819f4e3
-    parent_uid: 192445d3c87575029cd760d454ff78e8
-    id: ykiTs5MipJU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-5-random-forests/video-5-random-forests-0/ykiTs5MipJU.srt
-  - uid: 3972443d98c5361adb9e032f7c5a884b
-    parent_uid: 192445d3c87575029cd760d454ff78e8
-    id: ykiTs5MipJU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-5-random-forests/video-5-random-forests-0/ykiTs5MipJU.pdf
-  - uid: 35ed6cb61d9eb755db7d89b4963f3091
-    parent_uid: 192445d3c87575029cd760d454ff78e8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1f54f111e0370cd8bff3e3c214b7f75d
-    parent_uid: 192445d3c87575029cd760d454ff78e8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 44ad307fe40c292c55558cc2223e5804
-    parent_uid: 192445d3c87575029cd760d454ff78e8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ykiTs5MipJU/default.jpg'
-  - uid: db61458c758264a699b5353c548aeacb
-    parent_uid: 192445d3c87575029cd760d454ff78e8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.2.09_300k.mp4
+uid: 192445d3c87575029cd760d454ff78e8
 type: courses
 layout: video
 ---

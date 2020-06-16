@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Volumes by Slicing'
-uid: 953eaa4c168cc5eeeade9d817a642b1f
-parent_uid: 896b940a6076521ff57b68f0bccc57a0
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-57-how-to-calculate-volumes/clip-1-volumes-by-slicing
-short_url: clip-1-volumes-by-slicing
-inline_embed_id: '61469614clip1:volumesbyslicing10922366'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/db95459072c80eb2d2cbdb18ec0824fb"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 22 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ShGBRUx2ub8
+    parent_uid: 953eaa4c168cc5eeeade9d817a642b1f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 855022e67373b17c34fc1b136d68d0a1
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ShGBRUx2ub8/default.jpg'
+    parent_uid: 953eaa4c168cc5eeeade9d817a642b1f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b0ab756a71ab15c1f613b79da471cb82
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: ShGBRUx2ub8
+    parent_uid: 953eaa4c168cc5eeeade9d817a642b1f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 09f8f72ea1c5491c0ad7099583caeb14
+  - id: ShGBRUx2ub8.srt
+    parent_uid: 953eaa4c168cc5eeeade9d817a642b1f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-57-how-to-calculate-volumes/clip-1-volumes-by-slicing/ShGBRUx2ub8.srt
+    title: 3play caption file
+    type: null
+    uid: 5ea878ac9fbf0115227c4c7ff574457c
+  - id: ShGBRUx2ub8.pdf
+    parent_uid: 953eaa4c168cc5eeeade9d817a642b1f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-57-how-to-calculate-volumes/clip-1-volumes-by-slicing/ShGBRUx2ub8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 354fe24e07405e4091652b7c51d80155
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 953eaa4c168cc5eeeade9d817a642b1f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d1e0369308070790cf1168aef653a6ed
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 953eaa4c168cc5eeeade9d817a642b1f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5b2c0db75f53094fe9e69dd6656a25af
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec22_300k.mp4'
+    parent_uid: 953eaa4c168cc5eeeade9d817a642b1f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e5425decd82de9f764f73e881181e5a6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 953eaa4c168cc5eeeade9d817a642b1f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 12e556e287457fd8a45a7be021cef8e2
+inline_embed_id: '61469614clip1:volumesbyslicing10922366'
+parent_uid: 896b940a6076521ff57b68f0bccc57a0
 related_resources_text: ''
+short_url: clip-1-volumes-by-slicing
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-57-how-to-calculate-volumes/clip-1-volumes-by-slicing
+title: 'Clip 1: Volumes by Slicing'
 transcript: >-
   <p><span m='0'>The</span> <span m='120'>following</span> <span
   m='530'>content</span> <span m='1300'>is</span> <span m='1420'>provided</span>
@@ -2720,61 +2774,7 @@ transcript: >-
   it</span> <span m='2992780'>takes</span> <span m='2993900'>to</span> <span
   m='2994700'>boil</span> <span m='2995100'>the</span> <span
   m='2995160'>kettle.</span> </p>
-embedded_media:
-  - uid: 855022e67373b17c34fc1b136d68d0a1
-    parent_uid: 953eaa4c168cc5eeeade9d817a642b1f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ShGBRUx2ub8
-  - uid: b0ab756a71ab15c1f613b79da471cb82
-    parent_uid: 953eaa4c168cc5eeeade9d817a642b1f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ShGBRUx2ub8/default.jpg'
-  - uid: 09f8f72ea1c5491c0ad7099583caeb14
-    parent_uid: 953eaa4c168cc5eeeade9d817a642b1f
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ShGBRUx2ub8
-  - uid: 5ea878ac9fbf0115227c4c7ff574457c
-    parent_uid: 953eaa4c168cc5eeeade9d817a642b1f
-    id: ShGBRUx2ub8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-57-how-to-calculate-volumes/clip-1-volumes-by-slicing/ShGBRUx2ub8.srt
-  - uid: 354fe24e07405e4091652b7c51d80155
-    parent_uid: 953eaa4c168cc5eeeade9d817a642b1f
-    id: ShGBRUx2ub8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-57-how-to-calculate-volumes/clip-1-volumes-by-slicing/ShGBRUx2ub8.pdf
-  - uid: d1e0369308070790cf1168aef653a6ed
-    parent_uid: 953eaa4c168cc5eeeade9d817a642b1f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5b2c0db75f53094fe9e69dd6656a25af
-    parent_uid: 953eaa4c168cc5eeeade9d817a642b1f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e5425decd82de9f764f73e881181e5a6
-    parent_uid: 953eaa4c168cc5eeeade9d817a642b1f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec22_300k.mp4'
-  - uid: 12e556e287457fd8a45a7be021cef8e2
-    parent_uid: 953eaa4c168cc5eeeade9d817a642b1f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 953eaa4c168cc5eeeade9d817a642b1f
 type: courses
 layout: video
 ---

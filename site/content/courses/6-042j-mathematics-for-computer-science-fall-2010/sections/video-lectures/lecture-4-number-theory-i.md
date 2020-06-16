@@ -1,16 +1,71 @@
 ---
-title: 'Lecture 4: Number Theory I'
-uid: a71dc64caf8c846a0eb83536fdaa2f19
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i
-short_url: lecture-4-number-theory-i
-inline_embed_id: '49098925lecture4:numbertheoryi77008399'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Explores the basics of number theory with
   state machines, linear combinations, and algorithms for computation with
   integers.</p> <p><strong>Speaker:</strong> Marten van Dijk</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: NuY7szYSXSw
+    parent_uid: a71dc64caf8c846a0eb83536fdaa2f19
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8481777874a1b9ff5578c2043931b0f3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/NuY7szYSXSw/default.jpg'
+    parent_uid: a71dc64caf8c846a0eb83536fdaa2f19
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1fe947236d377094bdd144e9135f019b
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-4-number-theory-i/id503873536?i=110644966
+    parent_uid: a71dc64caf8c846a0eb83536fdaa2f19
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9990435d7fd0a9c6609ed015ce8beae8
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec04_300k.mp4'
+    parent_uid: a71dc64caf8c846a0eb83536fdaa2f19
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7c3f08d81e3b2c777bf93c01378d7c95
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: NuY7szYSXSw
+    parent_uid: a71dc64caf8c846a0eb83536fdaa2f19
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b154dd20b0832873948e0ad5f6eadb55
+  - id: NuY7szYSXSw.srt
+    parent_uid: a71dc64caf8c846a0eb83536fdaa2f19
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/NuY7szYSXSw.srt
+    title: 3play caption file
+    type: null
+    uid: 669d30acef97a4b83c6e67f52d3d165c
+  - id: NuY7szYSXSw.pdf
+    parent_uid: a71dc64caf8c846a0eb83536fdaa2f19
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/NuY7szYSXSw.pdf
+    title: 3play pdf file
+    type: null
+    uid: e5842da6cbc94ba2b8f61bedca94c518
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a71dc64caf8c846a0eb83536fdaa2f19
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 00acdf10f48c73455b1da7f76b38cc89
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a71dc64caf8c846a0eb83536fdaa2f19
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e459b110b2b59e1c8b20f172addf14ab
+inline_embed_id: '49098925lecture4:numbertheoryi77008399'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
+short_url: lecture-4-number-theory-i
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i
+title: 'Lecture 4: Number Theory I'
 transcript: >-
   <p><span m='540'>The</span> <span m='670'>following</span> <span
   m='1110'>content</span> <span m='1700'>is</span> <span
@@ -4231,62 +4286,7 @@ transcript: >-
   m='4818420'>So,</span> <span m='4819390'>I will</span> <span
   m='4819550'>see</span> <span m='4819780'>next</span> <span
   m='4820220'>Thursday.</span> </p><p></p>
-embedded_media:
-  - uid: 8481777874a1b9ff5578c2043931b0f3
-    parent_uid: a71dc64caf8c846a0eb83536fdaa2f19
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: NuY7szYSXSw
-  - uid: 1fe947236d377094bdd144e9135f019b
-    parent_uid: a71dc64caf8c846a0eb83536fdaa2f19
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/NuY7szYSXSw/default.jpg'
-  - uid: 9990435d7fd0a9c6609ed015ce8beae8
-    parent_uid: a71dc64caf8c846a0eb83536fdaa2f19
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-4-number-theory-i/id503873536?i=110644966
-  - uid: 7c3f08d81e3b2c777bf93c01378d7c95
-    parent_uid: a71dc64caf8c846a0eb83536fdaa2f19
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec04_300k.mp4'
-  - uid: b154dd20b0832873948e0ad5f6eadb55
-    parent_uid: a71dc64caf8c846a0eb83536fdaa2f19
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: NuY7szYSXSw
-  - uid: 669d30acef97a4b83c6e67f52d3d165c
-    parent_uid: a71dc64caf8c846a0eb83536fdaa2f19
-    id: NuY7szYSXSw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/NuY7szYSXSw.srt
-  - uid: e5842da6cbc94ba2b8f61bedca94c518
-    parent_uid: a71dc64caf8c846a0eb83536fdaa2f19
-    id: NuY7szYSXSw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-4-number-theory-i/NuY7szYSXSw.pdf
-  - uid: 00acdf10f48c73455b1da7f76b38cc89
-    parent_uid: a71dc64caf8c846a0eb83536fdaa2f19
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e459b110b2b59e1c8b20f172addf14ab
-    parent_uid: a71dc64caf8c846a0eb83536fdaa2f19
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a71dc64caf8c846a0eb83536fdaa2f19
 type: courses
 layout: video
 ---

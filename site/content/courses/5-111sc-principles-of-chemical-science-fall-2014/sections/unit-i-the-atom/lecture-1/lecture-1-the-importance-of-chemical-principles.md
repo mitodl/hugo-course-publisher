@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 1: The Importance of Chemical Principles'
-uid: b28a83d0a182a5bf266602ff98c10c16
-parent_uid: 2093fa038f0b9e63c68049a3ed4867fd
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-1/lecture-1-the-importance-of-chemical-principles
-short_url: lecture-1-the-importance-of-chemical-principles
-inline_embed_id: 367718lecture1theimportanceofchemicalprinciples98327603
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page:  Professor Cathy Drennan introduces this series of
@@ -15,7 +8,68 @@ about_this_resource_text: >-
   real world problems can be solved through the applications of chemical
   principles. Teaching assistants for the course are introduced.</p>
   <p><strong>Instructor:</strong> Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: YkYeYhXUeEE
+    parent_uid: b28a83d0a182a5bf266602ff98c10c16
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 828f9cd51cb12febb09f0576b6ba43c5
+  - id: YkYeYhXUeEE.srt
+    parent_uid: b28a83d0a182a5bf266602ff98c10c16
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-1/lecture-1-the-importance-of-chemical-principles/YkYeYhXUeEE.srt
+    title: 3play caption file
+    type: null
+    uid: d01c4953d787f0b5b89db30c01c4077c
+  - id: YkYeYhXUeEE.pdf
+    parent_uid: b28a83d0a182a5bf266602ff98c10c16
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-1/lecture-1-the-importance-of-chemical-principles/YkYeYhXUeEE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 17f6f94e131363b64896634f206b4d02
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b28a83d0a182a5bf266602ff98c10c16
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f48c5b7f6c36421b218773a09a1842b1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b28a83d0a182a5bf266602ff98c10c16
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 61b4a390c737e58d7e04731a6ab03c4a
+  - id: Video-YouTube-Stream
+    media_location: YkYeYhXUeEE
+    parent_uid: b28a83d0a182a5bf266602ff98c10c16
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d67ed843ba61585c5f7406b5ce4e423b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/YkYeYhXUeEE/default.jpg'
+    parent_uid: b28a83d0a182a5bf266602ff98c10c16
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: de01637d9da0e7088976b92c6852a261
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L01_300k.mp4'
+    parent_uid: b28a83d0a182a5bf266602ff98c10c16
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1e96242d9403210f8a1017e0f452b79f
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: b28a83d0a182a5bf266602ff98c10c16
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3aa38fd53258736f6cc567470d60b8a7
+inline_embed_id: 367718lecture1theimportanceofchemicalprinciples98327603
+parent_uid: 2093fa038f0b9e63c68049a3ed4867fd
 related_resources_text: ''
+short_url: lecture-1-the-importance-of-chemical-principles
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-1/lecture-1-the-importance-of-chemical-principles
+title: 'Lecture 1: The Importance of Chemical Principles'
 transcript: >-
   <p><span m="90">The</span> <span m="180">following</span> <span
   m="630">content</span> <span m="1110">is</span> <span m="1230">provided</span>
@@ -1597,61 +1651,7 @@ transcript: >-
   m="1260750">play</span> <span m="1260900">tennis</span> <span
   m="1261320">and</span> <span m="1261440">table</span> <span
   m="1261650">tennis</span> <span m="1262140">too.</span></p>
-embedded_media:
-  - uid: 828f9cd51cb12febb09f0576b6ba43c5
-    parent_uid: b28a83d0a182a5bf266602ff98c10c16
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: YkYeYhXUeEE
-  - uid: d01c4953d787f0b5b89db30c01c4077c
-    parent_uid: b28a83d0a182a5bf266602ff98c10c16
-    id: YkYeYhXUeEE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-1/lecture-1-the-importance-of-chemical-principles/YkYeYhXUeEE.srt
-  - uid: 17f6f94e131363b64896634f206b4d02
-    parent_uid: b28a83d0a182a5bf266602ff98c10c16
-    id: YkYeYhXUeEE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-i-the-atom/lecture-1/lecture-1-the-importance-of-chemical-principles/YkYeYhXUeEE.pdf
-  - uid: f48c5b7f6c36421b218773a09a1842b1
-    parent_uid: b28a83d0a182a5bf266602ff98c10c16
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 61b4a390c737e58d7e04731a6ab03c4a
-    parent_uid: b28a83d0a182a5bf266602ff98c10c16
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d67ed843ba61585c5f7406b5ce4e423b
-    parent_uid: b28a83d0a182a5bf266602ff98c10c16
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: YkYeYhXUeEE
-  - uid: de01637d9da0e7088976b92c6852a261
-    parent_uid: b28a83d0a182a5bf266602ff98c10c16
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/YkYeYhXUeEE/default.jpg'
-  - uid: 1e96242d9403210f8a1017e0f452b79f
-    parent_uid: b28a83d0a182a5bf266602ff98c10c16
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L01_300k.mp4'
-  - uid: 3aa38fd53258736f6cc567470d60b8a7
-    parent_uid: b28a83d0a182a5bf266602ff98c10c16
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+uid: b28a83d0a182a5bf266602ff98c10c16
 type: courses
 layout: video
 ---

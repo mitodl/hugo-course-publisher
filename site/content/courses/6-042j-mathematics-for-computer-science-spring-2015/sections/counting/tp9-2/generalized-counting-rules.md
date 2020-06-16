@@ -1,13 +1,73 @@
 ---
-title: Generalized Counting Rules
-uid: 979a01f9f701fdf06c70ba22ba86fe68
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 2795a39b3f7ed99147b91a1723c19f3b
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 87be3af668902adab9394d0e9891d2b6
+  - id: Video-YouTube-Stream
+    media_location: iDfyX8WRIyM
+    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f09e2b22a343a4976319d77f00953812
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/iDfyX8WRIyM/default.jpg'
+    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b9487285cdaee7710f7cc0061bc88135
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: iDfyX8WRIyM
+    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 72375e1cd652242ce92f951be5383ea1
+  - id: iDfyX8WRIyM.srt
+    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/generalized-counting-rules/iDfyX8WRIyM.srt
+    title: 3play caption file
+    type: null
+    uid: ee8020c7bb55a86606004b07a230341e
+  - id: iDfyX8WRIyM.pdf
+    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/generalized-counting-rules/iDfyX8WRIyM.pdf
+    title: 3play pdf file
+    type: null
+    uid: fa889c7f0b6c9142b800c77f54effb1c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3efd3bfe6780d799a966d967a1dc94ab
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3ad1a02d476db6f912a9bcd79a16bb10
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_genprod_video_ipod.mp4
+    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 410c7c3cfb895a313521f1c53cab3172
+inline_embed_id: 56241722generalizedcountingrules68025038
 parent_uid: c8103e15328b9991c0774e6c0892ba9f
+related_resources_text: ''
+short_url: generalized-counting-rules
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/generalized-counting-rules
-short_url: generalized-counting-rules
-inline_embed_id: 56241722generalizedcountingrules68025038
-about_this_resource_text: ''
-related_resources_text: ''
+title: Generalized Counting Rules
 transcript: >-
   <p><span m='350'>PROFESSOR: There are</span> <span m='700'>two</span> <span
   m='1050'>generalizations</span> <span m='2230'>of</span> <span
@@ -712,67 +772,7 @@ transcript: >-
   <span m='601420'>using</span> <span m='601760'>it</span> <span
   m='601940'>constantly</span> <span m='602560'>and</span> <span
   m='602860'>repeatedly.</span> </p>
-embedded_media:
-  - uid: 2795a39b3f7ed99147b91a1723c19f3b
-    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 87be3af668902adab9394d0e9891d2b6
-    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: f09e2b22a343a4976319d77f00953812
-    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: iDfyX8WRIyM
-  - uid: b9487285cdaee7710f7cc0061bc88135
-    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/iDfyX8WRIyM/default.jpg'
-  - uid: 72375e1cd652242ce92f951be5383ea1
-    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: iDfyX8WRIyM
-  - uid: ee8020c7bb55a86606004b07a230341e
-    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
-    id: iDfyX8WRIyM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/generalized-counting-rules/iDfyX8WRIyM.srt
-  - uid: fa889c7f0b6c9142b800c77f54effb1c
-    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
-    id: iDfyX8WRIyM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp9-2/generalized-counting-rules/iDfyX8WRIyM.pdf
-  - uid: 3efd3bfe6780d799a966d967a1dc94ab
-    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3ad1a02d476db6f912a9bcd79a16bb10
-    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 410c7c3cfb895a313521f1c53cab3172
-    parent_uid: 979a01f9f701fdf06c70ba22ba86fe68
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_genprod_video_ipod.mp4
+uid: 979a01f9f701fdf06c70ba22ba86fe68
 type: courses
 layout: video
 ---

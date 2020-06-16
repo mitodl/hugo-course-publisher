@@ -1,13 +1,61 @@
 ---
-title: 'Lecture Video 2: Damped Free Oscillators'
-uid: c076750052bbda67c37c82790d0f9958
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: T2n6fVybLcU
+    parent_uid: c076750052bbda67c37c82790d0f9958
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 89fc87a1459000dd6a9210b273a38d26
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/T2n6fVybLcU/default.jpg'
+    parent_uid: c076750052bbda67c37c82790d0f9958
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d88f484f37bdf876508f3a1f05f2a7ae
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: T2n6fVybLcU
+    parent_uid: c076750052bbda67c37c82790d0f9958
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d68ed8c1d64c91eac239e4a89a396144
+  - id: T2n6fVybLcU.srt
+    parent_uid: c076750052bbda67c37c82790d0f9958
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-2-video/T2n6fVybLcU.srt
+    title: 3play caption file
+    type: null
+    uid: dd96494711c88627a32edb4e7f68db2b
+  - id: T2n6fVybLcU.pdf
+    parent_uid: c076750052bbda67c37c82790d0f9958
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-2-video/T2n6fVybLcU.pdf
+    title: 3play pdf file
+    type: null
+    uid: f7b5cf4ccc4af396d854f6e2a4c4abbb
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c076750052bbda67c37c82790d0f9958
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2462b77a5b4f1b00769dd5ef14c69d93
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c076750052bbda67c37c82790d0f9958
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4a1a6333c9b0da8c47e2faf52cc9dbdc
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec02_300k.mp4'
+    parent_uid: c076750052bbda67c37c82790d0f9958
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c31b71bbff08c5d5f9b41f7608e711a8
+inline_embed_id: 35160857lecture2video84162542
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-2-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-2-video
-short_url: lecture-2-video
-inline_embed_id: 35160857lecture2video84162542
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture Video 2: Damped Free Oscillators'
 transcript: >-
   <p><span m="2195">The</span> <span m="2240">following</span> <span
   m="2690">content</span> <span m="3200">is</span> <span
@@ -3986,55 +4034,7 @@ transcript: >-
   m="4582860">to</span> <span m="4583040">drive</span> <span
   m="4583310">the</span> <span m="4583510">oscillator.</span> <span
   m="4584770">Bye-bye.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: 89fc87a1459000dd6a9210b273a38d26
-    parent_uid: c076750052bbda67c37c82790d0f9958
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: T2n6fVybLcU
-  - uid: d88f484f37bdf876508f3a1f05f2a7ae
-    parent_uid: c076750052bbda67c37c82790d0f9958
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/T2n6fVybLcU/default.jpg'
-  - uid: d68ed8c1d64c91eac239e4a89a396144
-    parent_uid: c076750052bbda67c37c82790d0f9958
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: T2n6fVybLcU
-  - uid: dd96494711c88627a32edb4e7f68db2b
-    parent_uid: c076750052bbda67c37c82790d0f9958
-    id: T2n6fVybLcU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-2-video/T2n6fVybLcU.srt
-  - uid: f7b5cf4ccc4af396d854f6e2a4c4abbb
-    parent_uid: c076750052bbda67c37c82790d0f9958
-    id: T2n6fVybLcU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-2-video/T2n6fVybLcU.pdf
-  - uid: 2462b77a5b4f1b00769dd5ef14c69d93
-    parent_uid: c076750052bbda67c37c82790d0f9958
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4a1a6333c9b0da8c47e2faf52cc9dbdc
-    parent_uid: c076750052bbda67c37c82790d0f9958
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c31b71bbff08c5d5f9b41f7608e711a8
-    parent_uid: c076750052bbda67c37c82790d0f9958
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec02_300k.mp4'
+uid: c076750052bbda67c37c82790d0f9958
 type: courses
 layout: video
 ---

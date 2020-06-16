@@ -1,19 +1,91 @@
 ---
-title: 'Lecture 16: Differential Equations'
-uid: 8e7d73ab39d18888c91496878d778e29
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-16-differential-equations
-short_url: lecture-16-differential-equations
-inline_embed_id: '78530023lecture16:differentialequations86573767'
 about_this_resource_text: >-
   <div class="vidpad"><p><em>Note: There is no video for lecture 17 because
   students took an exam during this session.</em></p><p><strong>Topics
   covered:</strong> Differential equations, separation of variables</p>
   <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec16.jpg
+    parent_uid: 8e7d73ab39d18888c91496878d778e29
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-16-differential-equations/lec16.jpg
+    title: Lecture 16
+    type: null
+    uid: 5e34598d0ed4fd5ce0047d5754f510fa
+  - id: Video-YouTube-Stream
+    media_location: 60VGKnYBpbg
+    parent_uid: 8e7d73ab39d18888c91496878d778e29
+    title: Video-YouTube-Stream
+    type: Video
+    uid: aa0fe2ccc4a1f5c8a994518093de37e2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/60VGKnYBpbg/default.jpg'
+    parent_uid: 8e7d73ab39d18888c91496878d778e29
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cdcef7d218812df2ec77b8ef82dff968
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 8e7d73ab39d18888c91496878d778e29
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: de0395ce26fd9c984b44aa7d05a570c0
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec16_300k.mp4'
+    parent_uid: 8e7d73ab39d18888c91496878d778e29
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 070580e15b9e4d24d69b0ff45f8b81c8
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 8e7d73ab39d18888c91496878d778e29
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: ed8f1d0bda98a184c9905011418580bf
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 8e7d73ab39d18888c91496878d778e29
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 143791e7ff074ca28f646c51350b1db1
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 60VGKnYBpbg
+    parent_uid: 8e7d73ab39d18888c91496878d778e29
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1bee8044a929e7e6ba61e1740480dcaf
+  - id: 60VGKnYBpbg.srt
+    parent_uid: 8e7d73ab39d18888c91496878d778e29
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-16-differential-equations/60VGKnYBpbg.srt
+    title: 3play caption file
+    type: null
+    uid: 0d2872b0ce10409d853def7a60e6b521
+  - id: 60VGKnYBpbg.pdf
+    parent_uid: 8e7d73ab39d18888c91496878d778e29
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-16-differential-equations/60VGKnYBpbg.pdf
+    title: 3play pdf file
+    type: null
+    uid: f4f8327e623ce5b22ec2499f8a4b2afe
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8e7d73ab39d18888c91496878d778e29
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2a91066fc16575338d24b9e5e5e4d427
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8e7d73ab39d18888c91496878d778e29
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: eaf76a9144f6c47dea18c6f5f3ef3c8d
+inline_embed_id: '78530023lecture16:differentialequations86573767'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/991e10d17c527483d3d41d83a7313536">PDF</a>)</p></div>
+short_url: lecture-16-differential-equations
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-16-differential-equations
+title: 'Lecture 16: Differential Equations'
 transcript: >-
   <p><span m='50'>The following</span> <span m='520'>content</span> <span
   m='1000'>is</span> <span m='1310'>provided</span> <span m='1420'>under</span>
@@ -2375,79 +2447,7 @@ transcript: >-
   m='2722030'>the</span> <span m='2722120'>beginning</span> <span
   m='2722460'>when</span> <span m='2722560'>we</span> <span
   m='2722660'>did</span> <span m='2722960'>approximations.</span> </p>
-embedded_media:
-  - uid: 5e34598d0ed4fd5ce0047d5754f510fa
-    parent_uid: 8e7d73ab39d18888c91496878d778e29
-    id: lec16.jpg
-    title: Lecture 16
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-16-differential-equations/lec16.jpg
-  - uid: aa0fe2ccc4a1f5c8a994518093de37e2
-    parent_uid: 8e7d73ab39d18888c91496878d778e29
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 60VGKnYBpbg
-  - uid: cdcef7d218812df2ec77b8ef82dff968
-    parent_uid: 8e7d73ab39d18888c91496878d778e29
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/60VGKnYBpbg/default.jpg'
-  - uid: de0395ce26fd9c984b44aa7d05a570c0
-    parent_uid: 8e7d73ab39d18888c91496878d778e29
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: 070580e15b9e4d24d69b0ff45f8b81c8
-    parent_uid: 8e7d73ab39d18888c91496878d778e29
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec16_300k.mp4'
-  - uid: ed8f1d0bda98a184c9905011418580bf
-    parent_uid: 8e7d73ab39d18888c91496878d778e29
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 143791e7ff074ca28f646c51350b1db1
-    parent_uid: 8e7d73ab39d18888c91496878d778e29
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 1bee8044a929e7e6ba61e1740480dcaf
-    parent_uid: 8e7d73ab39d18888c91496878d778e29
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 60VGKnYBpbg
-  - uid: 0d2872b0ce10409d853def7a60e6b521
-    parent_uid: 8e7d73ab39d18888c91496878d778e29
-    id: 60VGKnYBpbg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-16-differential-equations/60VGKnYBpbg.srt
-  - uid: f4f8327e623ce5b22ec2499f8a4b2afe
-    parent_uid: 8e7d73ab39d18888c91496878d778e29
-    id: 60VGKnYBpbg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-16-differential-equations/60VGKnYBpbg.pdf
-  - uid: 2a91066fc16575338d24b9e5e5e4d427
-    parent_uid: 8e7d73ab39d18888c91496878d778e29
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: eaf76a9144f6c47dea18c6f5f3ef3c8d
-    parent_uid: 8e7d73ab39d18888c91496878d778e29
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 8e7d73ab39d18888c91496878d778e29
 type: courses
 layout: video
 ---

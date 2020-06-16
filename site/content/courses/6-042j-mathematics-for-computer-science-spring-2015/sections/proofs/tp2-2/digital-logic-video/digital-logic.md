@@ -1,13 +1,73 @@
 ---
-title: Digital Logic
-uid: beab7ce01799dce7a6fa09ab4fba6190
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 5039062e233c4a42e2b234fccc99c883
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6d73a58e4d0d7bd31c912151b511c3e7
+  - id: Video-YouTube-Stream
+    media_location: eMWG-jTh-GE
+    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5b300691accf587fc404c6cdd6cfe174
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/eMWG-jTh-GE/default.jpg'
+    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 541592cc891b21abda3e49889fd9137e
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: eMWG-jTh-GE
+    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b7888eaf0a44d181ba3e624068fdb739
+  - id: eMWG-jTh-GE.srt
+    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/digital-logic-video/digital-logic/eMWG-jTh-GE.srt
+    title: 3play caption file
+    type: null
+    uid: 3bc2084a0d35591549d0fa27be1e9af3
+  - id: eMWG-jTh-GE.pdf
+    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/digital-logic-video/digital-logic/eMWG-jTh-GE.pdf
+    title: 3play pdf file
+    type: null
+    uid: c887c96d98c6416b909a437b3ef9d829
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3cbb439f9d77decfb4e5c35bd6a147c2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 30cb4a98ffae580dc6c2b8aec9a1e9fc
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_digital_logic_ipod.mp4
+    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3f7976c27e924b69201a87f5af610fbf
+inline_embed_id: 49284810digitallogic42913728
 parent_uid: e3e3f5940c0632b46da910e10c86d2ef
+related_resources_text: ''
+short_url: digital-logic
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/digital-logic-video/digital-logic
-short_url: digital-logic
-inline_embed_id: 49284810digitallogic42913728
-about_this_resource_text: ''
-related_resources_text: ''
+title: Digital Logic
 transcript: >-
   <p><span m='370'>PROFESSOR: Propositional</span> <span
   m='1440'>operators</span> <span m='2330'>play</span> <span m='2420'>a</span>
@@ -753,67 +813,7 @@ transcript: >-
   m='600060'>values</span> <span m='600550'>of</span> <span
   m='600690'>these</span> <span m='600910'>different</span> <span
   m='601240'>variables.</span> </p>
-embedded_media:
-  - uid: 5039062e233c4a42e2b234fccc99c883
-    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 6d73a58e4d0d7bd31c912151b511c3e7
-    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 5b300691accf587fc404c6cdd6cfe174
-    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: eMWG-jTh-GE
-  - uid: 541592cc891b21abda3e49889fd9137e
-    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/eMWG-jTh-GE/default.jpg'
-  - uid: b7888eaf0a44d181ba3e624068fdb739
-    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: eMWG-jTh-GE
-  - uid: 3bc2084a0d35591549d0fa27be1e9af3
-    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
-    id: eMWG-jTh-GE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/digital-logic-video/digital-logic/eMWG-jTh-GE.srt
-  - uid: c887c96d98c6416b909a437b3ef9d829
-    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
-    id: eMWG-jTh-GE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp2-2/digital-logic-video/digital-logic/eMWG-jTh-GE.pdf
-  - uid: 3cbb439f9d77decfb4e5c35bd6a147c2
-    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 30cb4a98ffae580dc6c2b8aec9a1e9fc
-    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3f7976c27e924b69201a87f5af610fbf
-    parent_uid: beab7ce01799dce7a6fa09ab4fba6190
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_digital_logic_ipod.mp4
+uid: beab7ce01799dce7a6fa09ab4fba6190
 type: courses
 layout: video
 ---

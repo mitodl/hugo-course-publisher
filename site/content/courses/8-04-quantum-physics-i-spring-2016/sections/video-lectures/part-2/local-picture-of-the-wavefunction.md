@@ -1,13 +1,73 @@
 ---
-title: Local picture of the wavefunction
-uid: c84b853f83f741c477fc25dfaa182eba
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: fWCGM2auQPs
+    parent_uid: c84b853f83f741c477fc25dfaa182eba
+    title: Video-YouTube-Stream
+    type: Video
+    uid: de13361648883ea4be68948287c2d4a7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/CnKy8uEWwwc/default.jpg'
+    parent_uid: c84b853f83f741c477fc25dfaa182eba
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 75d3b545ba82b03aabedd26048238a22
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: fWCGM2auQPs
+    parent_uid: c84b853f83f741c477fc25dfaa182eba
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d308b11fe5c737b971b7bb141c73169b
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: c84b853f83f741c477fc25dfaa182eba
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e30d40599b118ca2893a18cc79ba8cd8
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec12_s5_300k.mp4'
+    parent_uid: c84b853f83f741c477fc25dfaa182eba
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 368f797264c01cb31250fadfb9078e75
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/fWCGM2auQPs/default.jpg'
+    parent_uid: c84b853f83f741c477fc25dfaa182eba
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ddede2ea733aaea6d447a4d1eeff942f
+  - id: fWCGM2auQPs.srt
+    parent_uid: c84b853f83f741c477fc25dfaa182eba
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/local-picture-of-the-wavefunction/fWCGM2auQPs.srt
+    title: 3play caption file
+    type: null
+    uid: bf4011575fa47e8c1b0feb965f49e929
+  - id: fWCGM2auQPs.pdf
+    parent_uid: c84b853f83f741c477fc25dfaa182eba
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/local-picture-of-the-wavefunction/fWCGM2auQPs.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5464ebaaf3caed50c3f66a67974bde76
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c84b853f83f741c477fc25dfaa182eba
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 1bc8d08b76b09620799fce07571e7489
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c84b853f83f741c477fc25dfaa182eba
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 56caf38b434dc52da97dd3a4bed3af47
+inline_embed_id: 86945568localpictureofthewavefunction33973842
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: local-picture-of-the-wavefunction
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/local-picture-of-the-wavefunction
-short_url: local-picture-of-the-wavefunction
-inline_embed_id: 86945568localpictureofthewavefunction33973842
-about_this_resource_text: ''
-related_resources_text: ''
+title: Local picture of the wavefunction
 transcript: >-
   <p><span m='890'>PROFESSOR:</span> <span m='1087'>OK,</span> <span
   m='1680'>so,</span> <span m='2070'>local</span> <span m='2550'>picture.</span>
@@ -558,67 +618,7 @@ transcript: >-
   m='768920'>inflection</span> <span m='769670'>points</span> <span
   m='770060'>are</span> <span m='770690'>more</span> <span
   m='770870'>generic.</span> </p>
-embedded_media:
-  - uid: de13361648883ea4be68948287c2d4a7
-    parent_uid: c84b853f83f741c477fc25dfaa182eba
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: fWCGM2auQPs
-  - uid: 75d3b545ba82b03aabedd26048238a22
-    parent_uid: c84b853f83f741c477fc25dfaa182eba
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CnKy8uEWwwc/default.jpg'
-  - uid: d308b11fe5c737b971b7bb141c73169b
-    parent_uid: c84b853f83f741c477fc25dfaa182eba
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: fWCGM2auQPs
-  - uid: e30d40599b118ca2893a18cc79ba8cd8
-    parent_uid: c84b853f83f741c477fc25dfaa182eba
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 368f797264c01cb31250fadfb9078e75
-    parent_uid: c84b853f83f741c477fc25dfaa182eba
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec12_s5_300k.mp4'
-  - uid: ddede2ea733aaea6d447a4d1eeff942f
-    parent_uid: c84b853f83f741c477fc25dfaa182eba
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/fWCGM2auQPs/default.jpg'
-  - uid: bf4011575fa47e8c1b0feb965f49e929
-    parent_uid: c84b853f83f741c477fc25dfaa182eba
-    id: fWCGM2auQPs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/local-picture-of-the-wavefunction/fWCGM2auQPs.srt
-  - uid: 5464ebaaf3caed50c3f66a67974bde76
-    parent_uid: c84b853f83f741c477fc25dfaa182eba
-    id: fWCGM2auQPs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/local-picture-of-the-wavefunction/fWCGM2auQPs.pdf
-  - uid: 1bc8d08b76b09620799fce07571e7489
-    parent_uid: c84b853f83f741c477fc25dfaa182eba
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 56caf38b434dc52da97dd3a4bed3af47
-    parent_uid: c84b853f83f741c477fc25dfaa182eba
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: c84b853f83f741c477fc25dfaa182eba
 type: courses
 layout: video
 ---

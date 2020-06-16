@@ -1,13 +1,62 @@
 ---
-title: 'Video 6: Summary Tables'
-uid: 6cf203f1b14e4792530e59a31153bb94
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: B0d9FBokqvY
+    parent_uid: 6cf203f1b14e4792530e59a31153bb94
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 95bbec83f459ed2ed467e82a01e3a4f2
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: B0d9FBokqvY
+    parent_uid: 6cf203f1b14e4792530e59a31153bb94
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 88df3e38a6a144e9e708bd605fece6b5
+  - id: D32g7Vv3_gA.srt
+    parent_uid: 6cf203f1b14e4792530e59a31153bb94
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-6-summary-tables/video-6-summary-tables-0/D32g7Vv3_gA.srt
+    title: 3play caption file
+    type: null
+    uid: 1b45c4caa6d22d82bfd3445afc18d4e3
+  - id: D32g7Vv3_gA.pdf
+    parent_uid: 6cf203f1b14e4792530e59a31153bb94
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-6-summary-tables/video-6-summary-tables-0/D32g7Vv3_gA.pdf
+    title: 3play pdf file
+    type: null
+    uid: e1ba75403033697bba7970995f018b71
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6cf203f1b14e4792530e59a31153bb94
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9f8dcb6786a6ebe129245f486a316a08
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6cf203f1b14e4792530e59a31153bb94
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e30173a244aa3eb788b55802f02010ea
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.4.07_300k.mp4
+    parent_uid: 6cf203f1b14e4792530e59a31153bb94
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9bea8ded00ca6f5ea3050e6319bddae5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/B0d9FBokqvY/default.jpg'
+    parent_uid: 6cf203f1b14e4792530e59a31153bb94
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7a25d63116e8a07f73adba6e23a56c8a
+inline_embed_id: 80191414video6summarytables34417084
 parent_uid: 34529fa513c12be0756196f923431249
+related_resources_text: ''
+short_url: video-6-summary-tables-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-6-summary-tables/video-6-summary-tables-0
-short_url: video-6-summary-tables-0
-inline_embed_id: 80191414video6summarytables34417084
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 6: Summary Tables'
 transcript: >-
   <p><span m='4500'>Remember</span> <span m='4815'>that</span> <span
   m='5130'>in</span> <span m='5445'>our</span> <span m='5760'>previous</span>
@@ -454,56 +503,7 @@ transcript: >-
   m='383263'>facts</span> <span m='383665'>about</span> <span
   m='384067'>nutrition.</span> </p><p><span m='384470'>Stay</span> <span
   m='385390'>healthy.</span> </p>
-embedded_media:
-  - uid: 95bbec83f459ed2ed467e82a01e3a4f2
-    parent_uid: 6cf203f1b14e4792530e59a31153bb94
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: B0d9FBokqvY
-  - uid: 88df3e38a6a144e9e708bd605fece6b5
-    parent_uid: 6cf203f1b14e4792530e59a31153bb94
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: B0d9FBokqvY
-  - uid: 1b45c4caa6d22d82bfd3445afc18d4e3
-    parent_uid: 6cf203f1b14e4792530e59a31153bb94
-    id: D32g7Vv3_gA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-6-summary-tables/video-6-summary-tables-0/D32g7Vv3_gA.srt
-  - uid: e1ba75403033697bba7970995f018b71
-    parent_uid: 6cf203f1b14e4792530e59a31153bb94
-    id: D32g7Vv3_gA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-6-summary-tables/video-6-summary-tables-0/D32g7Vv3_gA.pdf
-  - uid: 9f8dcb6786a6ebe129245f486a316a08
-    parent_uid: 6cf203f1b14e4792530e59a31153bb94
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e30173a244aa3eb788b55802f02010ea
-    parent_uid: 6cf203f1b14e4792530e59a31153bb94
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 9bea8ded00ca6f5ea3050e6319bddae5
-    parent_uid: 6cf203f1b14e4792530e59a31153bb94
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.4.07_300k.mp4
-  - uid: 7a25d63116e8a07f73adba6e23a56c8a
-    parent_uid: 6cf203f1b14e4792530e59a31153bb94
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/B0d9FBokqvY/default.jpg'
+uid: 6cf203f1b14e4792530e59a31153bb94
 type: courses
 layout: video
 ---

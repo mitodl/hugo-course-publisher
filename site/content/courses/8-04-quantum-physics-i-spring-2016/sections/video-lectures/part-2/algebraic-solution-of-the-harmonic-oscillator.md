@@ -1,13 +1,73 @@
 ---
-title: Algebraic solution of the harmonic oscillator
-uid: 374226f3868b79555fa49ffc519fbf5e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 8CCFPgd_P1w
+    parent_uid: 374226f3868b79555fa49ffc519fbf5e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d9d76a84290a33c4957044d46c7430f3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/80eTIQcamW8/default.jpg'
+    parent_uid: 374226f3868b79555fa49ffc519fbf5e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a7b0a50f2edeb56588c84ec7a85ffbe7
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 8CCFPgd_P1w
+    parent_uid: 374226f3868b79555fa49ffc519fbf5e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1a8f5a1775cd3b6ad01c60334e8fc1d9
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 374226f3868b79555fa49ffc519fbf5e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 04ac37883f3a66ebb441cdca28ddfa88
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec14_s3_300k.mp4'
+    parent_uid: 374226f3868b79555fa49ffc519fbf5e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 05613cf13f04a4c038f2489479322c29
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/8CCFPgd_P1w/default.jpg'
+    parent_uid: 374226f3868b79555fa49ffc519fbf5e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5a025dc10d177811e04d741c4d161092
+  - id: 8CCFPgd_P1w.srt
+    parent_uid: 374226f3868b79555fa49ffc519fbf5e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/algebraic-solution-of-the-harmonic-oscillator/8CCFPgd_P1w.srt
+    title: 3play caption file
+    type: null
+    uid: 9ad204944670cb365ad2723693740230
+  - id: 8CCFPgd_P1w.pdf
+    parent_uid: 374226f3868b79555fa49ffc519fbf5e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/algebraic-solution-of-the-harmonic-oscillator/8CCFPgd_P1w.pdf
+    title: 3play pdf file
+    type: null
+    uid: c265c861c9a6794318a1f23d61bf1bbd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 374226f3868b79555fa49ffc519fbf5e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 619d9c690ca8c4965b00c4933301a155
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 374226f3868b79555fa49ffc519fbf5e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2486fd0bf3fce26ccde5da4011a20fbd
+inline_embed_id: 58763513algebraicsolutionoftheharmonicoscillator68926511
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: algebraic-solution-of-the-harmonic-oscillator
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/algebraic-solution-of-the-harmonic-oscillator
-short_url: algebraic-solution-of-the-harmonic-oscillator
-inline_embed_id: 58763513algebraicsolutionoftheharmonicoscillator68926511
-about_this_resource_text: ''
-related_resources_text: ''
+title: Algebraic solution of the harmonic oscillator
 transcript: >-
   <p><span m='760'>PROFESSOR:</span> <span m='875'>SHO</span> <span
   m='3190'>algebraically.</span> <span m='8940'>And</span> <span
@@ -690,67 +750,7 @@ transcript: >-
   m='1007430'>are,</span> <span m='1007760'>they're</span> <span
   m='1008090'>Hermitian,</span> <span m='1009000'>they're</span> <span
   m='1009320'>good.</span> </p>
-embedded_media:
-  - uid: d9d76a84290a33c4957044d46c7430f3
-    parent_uid: 374226f3868b79555fa49ffc519fbf5e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 8CCFPgd_P1w
-  - uid: a7b0a50f2edeb56588c84ec7a85ffbe7
-    parent_uid: 374226f3868b79555fa49ffc519fbf5e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/80eTIQcamW8/default.jpg'
-  - uid: 1a8f5a1775cd3b6ad01c60334e8fc1d9
-    parent_uid: 374226f3868b79555fa49ffc519fbf5e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 8CCFPgd_P1w
-  - uid: 04ac37883f3a66ebb441cdca28ddfa88
-    parent_uid: 374226f3868b79555fa49ffc519fbf5e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 05613cf13f04a4c038f2489479322c29
-    parent_uid: 374226f3868b79555fa49ffc519fbf5e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec14_s3_300k.mp4'
-  - uid: 5a025dc10d177811e04d741c4d161092
-    parent_uid: 374226f3868b79555fa49ffc519fbf5e
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8CCFPgd_P1w/default.jpg'
-  - uid: 9ad204944670cb365ad2723693740230
-    parent_uid: 374226f3868b79555fa49ffc519fbf5e
-    id: 8CCFPgd_P1w.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/algebraic-solution-of-the-harmonic-oscillator/8CCFPgd_P1w.srt
-  - uid: c265c861c9a6794318a1f23d61bf1bbd
-    parent_uid: 374226f3868b79555fa49ffc519fbf5e
-    id: 8CCFPgd_P1w.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/algebraic-solution-of-the-harmonic-oscillator/8CCFPgd_P1w.pdf
-  - uid: 619d9c690ca8c4965b00c4933301a155
-    parent_uid: 374226f3868b79555fa49ffc519fbf5e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2486fd0bf3fce26ccde5da4011a20fbd
-    parent_uid: 374226f3868b79555fa49ffc519fbf5e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 374226f3868b79555fa49ffc519fbf5e
 type: courses
 layout: video
 ---

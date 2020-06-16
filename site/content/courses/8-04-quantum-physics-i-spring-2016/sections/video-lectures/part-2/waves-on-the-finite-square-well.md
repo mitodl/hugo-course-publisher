@@ -1,13 +1,67 @@
 ---
-title: Waves on the finite square well
-uid: ec4b986489aa76bab376f4e3acadd067
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: EdRkQmmq7vk
+    parent_uid: ec4b986489aa76bab376f4e3acadd067
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8b8466de91f64b376bf4192b2099d6a6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/EdRkQmmq7vk/default.jpg'
+    parent_uid: ec4b986489aa76bab376f4e3acadd067
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8a053b2b6ee94aeb880a9d32d7e2743c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: EdRkQmmq7vk
+    parent_uid: ec4b986489aa76bab376f4e3acadd067
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4367c2771350da0239b7c7f4ae3c1cbf
+  - id: EdRkQmmq7vk.srt
+    parent_uid: ec4b986489aa76bab376f4e3acadd067
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/waves-on-the-finite-square-well/EdRkQmmq7vk.srt
+    title: 3play caption file
+    type: null
+    uid: 74005215d06ed44cfaa0c5279beec53c
+  - id: EdRkQmmq7vk.pdf
+    parent_uid: ec4b986489aa76bab376f4e3acadd067
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/waves-on-the-finite-square-well/EdRkQmmq7vk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3adb9ae2cfda12109daf569ebcf3c498
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ec4b986489aa76bab376f4e3acadd067
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e53f2ef7cb5126c348d16e11ad2be92f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ec4b986489aa76bab376f4e3acadd067
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5b78896a51b4bb13d6e7e82e504ab857
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: ec4b986489aa76bab376f4e3acadd067
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d9211d6329eaffde01d5036caeb3f2e2
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec17_s1_300k.mp4'
+    parent_uid: ec4b986489aa76bab376f4e3acadd067
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e28189367beaec37548818c3d48f25a4
+inline_embed_id: 16332411wavesonthefinitesquarewell21323259
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: waves-on-the-finite-square-well
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/waves-on-the-finite-square-well
-short_url: waves-on-the-finite-square-well
-inline_embed_id: 16332411wavesonthefinitesquarewell21323259
-about_this_resource_text: ''
-related_resources_text: ''
+title: Waves on the finite square well
 transcript: >-
   <p><span m='640'>PROFESSOR:</span> <span m='775'>Today's</span> <span
   m='1540'>lecture</span> <span m='3130'>continues</span> <span
@@ -766,61 +820,7 @@ transcript: >-
   m='942040'>magnitude</span> <span m='942450'>of</span> <span
   m='942750'>an</span> <span m='942970'>energy</span> <span
   m='943270'>eigenstate.</span> </p>
-embedded_media:
-  - uid: 8b8466de91f64b376bf4192b2099d6a6
-    parent_uid: ec4b986489aa76bab376f4e3acadd067
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: EdRkQmmq7vk
-  - uid: 8a053b2b6ee94aeb880a9d32d7e2743c
-    parent_uid: ec4b986489aa76bab376f4e3acadd067
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/EdRkQmmq7vk/default.jpg'
-  - uid: 4367c2771350da0239b7c7f4ae3c1cbf
-    parent_uid: ec4b986489aa76bab376f4e3acadd067
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: EdRkQmmq7vk
-  - uid: 74005215d06ed44cfaa0c5279beec53c
-    parent_uid: ec4b986489aa76bab376f4e3acadd067
-    id: EdRkQmmq7vk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/waves-on-the-finite-square-well/EdRkQmmq7vk.srt
-  - uid: 3adb9ae2cfda12109daf569ebcf3c498
-    parent_uid: ec4b986489aa76bab376f4e3acadd067
-    id: EdRkQmmq7vk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/waves-on-the-finite-square-well/EdRkQmmq7vk.pdf
-  - uid: e53f2ef7cb5126c348d16e11ad2be92f
-    parent_uid: ec4b986489aa76bab376f4e3acadd067
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5b78896a51b4bb13d6e7e82e504ab857
-    parent_uid: ec4b986489aa76bab376f4e3acadd067
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d9211d6329eaffde01d5036caeb3f2e2
-    parent_uid: ec4b986489aa76bab376f4e3acadd067
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: e28189367beaec37548818c3d48f25a4
-    parent_uid: ec4b986489aa76bab376f4e3acadd067
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec17_s1_300k.mp4'
+uid: ec4b986489aa76bab376f4e3acadd067
 type: courses
 layout: video
 ---

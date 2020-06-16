@@ -1,13 +1,62 @@
 ---
-title: 'Video 4: Creating Plots in R'
-uid: 0ec65328e9419a97567076902ec9ab2c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Q-nk311H-Fw
+    parent_uid: 0ec65328e9419a97567076902ec9ab2c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 06fb608c12e291211ae444027e4d33c4
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: Q-nk311H-Fw
+    parent_uid: 0ec65328e9419a97567076902ec9ab2c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 021c3b6755c7006faa4fb664c3934250
+  - id: ozQJncmJYk.srt
+    parent_uid: 0ec65328e9419a97567076902ec9ab2c
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-4-creating-plots-in-r/video-4-creating-plots-in-r-0/ozQJncmJYk.srt
+    title: 3play caption file
+    type: null
+    uid: eb6532f40ddc3bdc297c26b4292ce898
+  - id: ozQJncmJYk.pdf
+    parent_uid: 0ec65328e9419a97567076902ec9ab2c
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-4-creating-plots-in-r/video-4-creating-plots-in-r-0/ozQJncmJYk.pdf
+    title: 3play pdf file
+    type: null
+    uid: eae2c748f8d49dfa4ff6cc1296713050
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0ec65328e9419a97567076902ec9ab2c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5de1fc8ddc44c1b196a7045ba96cf84d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0ec65328e9419a97567076902ec9ab2c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8e4cd46fb916e2e965c4a1d05538aa31
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.4.05_300k.mp4
+    parent_uid: 0ec65328e9419a97567076902ec9ab2c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 94c610ad49debf9e5f4a81ff5f959212
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/Q-nk311H-Fw/default.jpg'
+    parent_uid: 0ec65328e9419a97567076902ec9ab2c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4aa0dcf1070ca56112ae0537ab41e6a6
+inline_embed_id: 71661747video4creatingplotsinr33452004
 parent_uid: f02a2b52b26ae5f08dddd7d9208d585d
+related_resources_text: ''
+short_url: video-4-creating-plots-in-r-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-4-creating-plots-in-r/video-4-creating-plots-in-r-0
-short_url: video-4-creating-plots-in-r-0
-inline_embed_id: 71661747video4creatingplotsinr33452004
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 4: Creating Plots in R'
 transcript: >-
   <p><span m='4500'>Visualization</span> <span m='4980'>is</span> <span
   m='5460'>a</span> <span m='5940'>crucial</span> <span m='6420'>step</span>
@@ -553,56 +602,7 @@ transcript: >-
   <span m='463240'>variables</span> <span m='463750'>to</span> <span
   m='464260'>our</span> <span m='464770'>data</span> <span
   m='465280'>set.</span> </p>
-embedded_media:
-  - uid: 06fb608c12e291211ae444027e4d33c4
-    parent_uid: 0ec65328e9419a97567076902ec9ab2c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Q-nk311H-Fw
-  - uid: 021c3b6755c7006faa4fb664c3934250
-    parent_uid: 0ec65328e9419a97567076902ec9ab2c
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Q-nk311H-Fw
-  - uid: eb6532f40ddc3bdc297c26b4292ce898
-    parent_uid: 0ec65328e9419a97567076902ec9ab2c
-    id: ozQJncmJYk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-4-creating-plots-in-r/video-4-creating-plots-in-r-0/ozQJncmJYk.srt
-  - uid: eae2c748f8d49dfa4ff6cc1296713050
-    parent_uid: 0ec65328e9419a97567076902ec9ab2c
-    id: ozQJncmJYk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-4-creating-plots-in-r/video-4-creating-plots-in-r-0/ozQJncmJYk.pdf
-  - uid: 5de1fc8ddc44c1b196a7045ba96cf84d
-    parent_uid: 0ec65328e9419a97567076902ec9ab2c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8e4cd46fb916e2e965c4a1d05538aa31
-    parent_uid: 0ec65328e9419a97567076902ec9ab2c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 94c610ad49debf9e5f4a81ff5f959212
-    parent_uid: 0ec65328e9419a97567076902ec9ab2c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.4.05_300k.mp4
-  - uid: 4aa0dcf1070ca56112ae0537ab41e6a6
-    parent_uid: 0ec65328e9419a97567076902ec9ab2c
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Q-nk311H-Fw/default.jpg'
+uid: 0ec65328e9419a97567076902ec9ab2c
 type: courses
 layout: video
 ---

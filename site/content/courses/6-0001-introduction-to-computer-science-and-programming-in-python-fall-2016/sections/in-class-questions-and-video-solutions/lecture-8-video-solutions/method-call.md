@@ -1,16 +1,71 @@
 ---
-title: Method Call
-uid: 8c95d63975bf95ad3e09a57e07dfae48
-parent_uid: c194b3a46abc5e09e9503ce3c8d6e987
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-8-video-solutions/method-call
-short_url: method-call
-inline_embed_id: 68282448methodcall55501315
 about_this_resource_text: >-
   <p><strong>Description:</strong> This question explains the how a class method
   changes a attribute is altered in Python.</p> <p><strong>Instructor:</strong>
   Dr. Ana Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: _ax4eNMI9Dw
+    parent_uid: 8c95d63975bf95ad3e09a57e07dfae48
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: fffdbf66e8edf0e7c173c6c63d48d3ae
+  - id: ax4eNMI9Dw.srt
+    parent_uid: 8c95d63975bf95ad3e09a57e07dfae48
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-8-video-solutions/method-call/ax4eNMI9Dw.srt
+    title: 3play caption file
+    type: null
+    uid: 9f9ec469c7ca4ad91fd18591246b7a5a
+  - id: ax4eNMI9Dw.pdf
+    parent_uid: 8c95d63975bf95ad3e09a57e07dfae48
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-8-video-solutions/method-call/ax4eNMI9Dw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6e53e02a6872483e30753c34209e3edd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8c95d63975bf95ad3e09a57e07dfae48
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b390e2ccc3eb85fc0ff414c29bbd6e15
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8c95d63975bf95ad3e09a57e07dfae48
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1822fe8f099f355c5a7ebf10ff74ee50
+  - id: Video-YouTube-Stream
+    media_location: _ax4eNMI9Dw
+    parent_uid: 8c95d63975bf95ad3e09a57e07dfae48
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 877b1caf522ef3c686a77d2c98c517ed
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/_ax4eNMI9Dw/default.jpg'
+    parent_uid: 8c95d63975bf95ad3e09a57e07dfae48
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 49d17cf8152d1d5592284fb6c8c75b63
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: 8c95d63975bf95ad3e09a57e07dfae48
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1021fc03dbd849eaa3e5bf5dd1f623a5
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_08_exercise_04_300k.mp4
+    parent_uid: 8c95d63975bf95ad3e09a57e07dfae48
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 54345b89561336dc92f5bdf1b156b29b
+inline_embed_id: 68282448methodcall55501315
+parent_uid: c194b3a46abc5e09e9503ce3c8d6e987
 related_resources_text: ''
+short_url: method-call
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-8-video-solutions/method-call
+title: Method Call
 transcript: >-
   <p><span m='790'>The</span> <span m='850'>following</span> <span
   m='1300'>content</span> <span m='1870'>is</span> <span
@@ -120,62 +175,7 @@ transcript: >-
   m='102690'>majority</span> <span m='103650'>have</span> <span
   m='103740'>gotten</span> <span m='103980'>it</span> <span
   m='104070'>right.</span> </p>
-embedded_media:
-  - uid: fffdbf66e8edf0e7c173c6c63d48d3ae
-    parent_uid: 8c95d63975bf95ad3e09a57e07dfae48
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: _ax4eNMI9Dw
-  - uid: 9f9ec469c7ca4ad91fd18591246b7a5a
-    parent_uid: 8c95d63975bf95ad3e09a57e07dfae48
-    id: ax4eNMI9Dw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-8-video-solutions/method-call/ax4eNMI9Dw.srt
-  - uid: 6e53e02a6872483e30753c34209e3edd
-    parent_uid: 8c95d63975bf95ad3e09a57e07dfae48
-    id: ax4eNMI9Dw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-8-video-solutions/method-call/ax4eNMI9Dw.pdf
-  - uid: b390e2ccc3eb85fc0ff414c29bbd6e15
-    parent_uid: 8c95d63975bf95ad3e09a57e07dfae48
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1822fe8f099f355c5a7ebf10ff74ee50
-    parent_uid: 8c95d63975bf95ad3e09a57e07dfae48
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 877b1caf522ef3c686a77d2c98c517ed
-    parent_uid: 8c95d63975bf95ad3e09a57e07dfae48
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: _ax4eNMI9Dw
-  - uid: 49d17cf8152d1d5592284fb6c8c75b63
-    parent_uid: 8c95d63975bf95ad3e09a57e07dfae48
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/_ax4eNMI9Dw/default.jpg'
-  - uid: 1021fc03dbd849eaa3e5bf5dd1f623a5
-    parent_uid: 8c95d63975bf95ad3e09a57e07dfae48
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: 54345b89561336dc92f5bdf1b156b29b
-    parent_uid: 8c95d63975bf95ad3e09a57e07dfae48
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_08_exercise_04_300k.mp4
+uid: 8c95d63975bf95ad3e09a57e07dfae48
 type: courses
 layout: video
 ---

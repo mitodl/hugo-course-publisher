@@ -1,13 +1,73 @@
 ---
-title: Node Theorem
-uid: 86a6650a310f959731198828b080f1c8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: NwPOhzDPHKc
+    parent_uid: 86a6650a310f959731198828b080f1c8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 08663110a43c697ba0b5f2f684b655c4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/p8XW9z-OvQk/default.jpg'
+    parent_uid: 86a6650a310f959731198828b080f1c8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ba19a020c4f48fa80295fbd7f8a086b8
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: NwPOhzDPHKc
+    parent_uid: 86a6650a310f959731198828b080f1c8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4f6d4fc730f18ad1988d1538a4eca7e0
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 86a6650a310f959731198828b080f1c8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f10cb3004c4dc66899818c68bb22fdfc
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec13_s3_300k.mp4'
+    parent_uid: 86a6650a310f959731198828b080f1c8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c657d0c87a2b7b202be7ebdadb4eb46c
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/NwPOhzDPHKc/default.jpg'
+    parent_uid: 86a6650a310f959731198828b080f1c8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a4cd7c38ebd1aa7bf9bf94afd8958bc8
+  - id: NwPOhzDPHKc.srt
+    parent_uid: 86a6650a310f959731198828b080f1c8
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/node-theorem/NwPOhzDPHKc.srt
+    title: 3play caption file
+    type: null
+    uid: 7c156c130026dfff64a83c0af5951fd9
+  - id: NwPOhzDPHKc.pdf
+    parent_uid: 86a6650a310f959731198828b080f1c8
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/node-theorem/NwPOhzDPHKc.pdf
+    title: 3play pdf file
+    type: null
+    uid: aed4756978aa865bfd70a5003bdb33ed
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 86a6650a310f959731198828b080f1c8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 64c342f515ae07d6bbd54db8dd15a972
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 86a6650a310f959731198828b080f1c8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 603202ae9c42ca8f84dd7d38e33f38be
+inline_embed_id: 11604029nodetheorem19961286
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: node-theorem
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/node-theorem
-short_url: node-theorem
-inline_embed_id: 11604029nodetheorem19961286
-about_this_resource_text: ''
-related_resources_text: ''
+title: Node Theorem
 transcript: >-
   <p><span m='410'>BARTON ZWIEBACH:</span> <span m='820'>The</span> <span
   m='910'>next</span> <span m='1270'>thing</span> <span m='1480'>I</span> <span
@@ -630,67 +690,7 @@ transcript: >-
   m='777670'>the</span> <span m='777760'>infinite</span> <span
   m='778075'>square</span> <span m='778660'>well</span> <span
   m='779170'>and</span> <span m='779530'>continued.</span> </p>
-embedded_media:
-  - uid: 08663110a43c697ba0b5f2f684b655c4
-    parent_uid: 86a6650a310f959731198828b080f1c8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: NwPOhzDPHKc
-  - uid: ba19a020c4f48fa80295fbd7f8a086b8
-    parent_uid: 86a6650a310f959731198828b080f1c8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/p8XW9z-OvQk/default.jpg'
-  - uid: 4f6d4fc730f18ad1988d1538a4eca7e0
-    parent_uid: 86a6650a310f959731198828b080f1c8
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: NwPOhzDPHKc
-  - uid: f10cb3004c4dc66899818c68bb22fdfc
-    parent_uid: 86a6650a310f959731198828b080f1c8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: c657d0c87a2b7b202be7ebdadb4eb46c
-    parent_uid: 86a6650a310f959731198828b080f1c8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec13_s3_300k.mp4'
-  - uid: a4cd7c38ebd1aa7bf9bf94afd8958bc8
-    parent_uid: 86a6650a310f959731198828b080f1c8
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/NwPOhzDPHKc/default.jpg'
-  - uid: 7c156c130026dfff64a83c0af5951fd9
-    parent_uid: 86a6650a310f959731198828b080f1c8
-    id: NwPOhzDPHKc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/node-theorem/NwPOhzDPHKc.srt
-  - uid: aed4756978aa865bfd70a5003bdb33ed
-    parent_uid: 86a6650a310f959731198828b080f1c8
-    id: NwPOhzDPHKc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/node-theorem/NwPOhzDPHKc.pdf
-  - uid: 64c342f515ae07d6bbd54db8dd15a972
-    parent_uid: 86a6650a310f959731198828b080f1c8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 603202ae9c42ca8f84dd7d38e33f38be
-    parent_uid: 86a6650a310f959731198828b080f1c8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 86a6650a310f959731198828b080f1c8
 type: courses
 layout: video
 ---

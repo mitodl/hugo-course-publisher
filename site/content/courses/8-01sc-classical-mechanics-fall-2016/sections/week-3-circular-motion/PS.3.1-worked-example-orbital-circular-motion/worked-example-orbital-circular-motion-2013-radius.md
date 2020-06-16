@@ -1,13 +1,67 @@
 ---
-title: Worked Example - Orbital Circular Motion – Radius
-uid: 3359e0d6e13eb434c801bee9f9f86476
+about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Anna Frebel</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: gEX7MjWwocE
+    parent_uid: 3359e0d6e13eb434c801bee9f9f86476
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 99e8f3dddfdf1cad58c8574ac677a369
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/gEX7MjWwocE/default.jpg'
+    parent_uid: 3359e0d6e13eb434c801bee9f9f86476
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b403eb2b8e0bf8564efbbf6113e0a8b0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: gEX7MjWwocE
+    parent_uid: 3359e0d6e13eb434c801bee9f9f86476
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ba5f133a6aae167612b65466bff8149c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 3359e0d6e13eb434c801bee9f9f86476
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7cadd91b07128122a97680c2a3cc9193
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W03PS01_1_360p.mp4'
+    parent_uid: 3359e0d6e13eb434c801bee9f9f86476
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1902591b8b2e8e46787b92b86049bf6c
+  - id: gEX7MjWwocE.srt
+    parent_uid: 3359e0d6e13eb434c801bee9f9f86476
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion/worked-example-orbital-circular-motion-2013-radius/gEX7MjWwocE.srt
+    title: 3play caption file
+    type: null
+    uid: 1c3c76686572ffd54f261c4e176a44ad
+  - id: gEX7MjWwocE.pdf
+    parent_uid: 3359e0d6e13eb434c801bee9f9f86476
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion/worked-example-orbital-circular-motion-2013-radius/gEX7MjWwocE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1026dec6fd1af1c9d435cc6f98ce5fd4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3359e0d6e13eb434c801bee9f9f86476
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6907c2eb7242009520d0af023bd6151b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3359e0d6e13eb434c801bee9f9f86476
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: cd5327ce57f1e746911f453dd419e36d
+inline_embed_id: 9185810workedexampleorbitalcircularmotionradius49898831
 parent_uid: 938ca53be5bedb207d92fe94493d1b80
+related_resources_text: ''
+short_url: worked-example-orbital-circular-motion-2013-radius
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion/worked-example-orbital-circular-motion-2013-radius
-short_url: worked-example-orbital-circular-motion-2013-radius
-inline_embed_id: 9185810workedexampleorbitalcircularmotionradius49898831
-about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Anna Frebel</p>'
-related_resources_text: ''
+title: Worked Example - Orbital Circular Motion – Radius
 transcript: >-
   <p><span m='3330'>The little prince's asteroid B612</span> <span m='6750'>is
   being orbited by a small body.</span> </p><p><span m='10400'>It has a mass
@@ -63,61 +117,7 @@ transcript: >-
   m='211690'>of the distance between two objects</span> <span m='213900'>is
   proportional to the square of the period of the orbiting</span> <span
   m='218280'>time.</span> </p>
-embedded_media:
-  - uid: 99e8f3dddfdf1cad58c8574ac677a369
-    parent_uid: 3359e0d6e13eb434c801bee9f9f86476
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: gEX7MjWwocE
-  - uid: b403eb2b8e0bf8564efbbf6113e0a8b0
-    parent_uid: 3359e0d6e13eb434c801bee9f9f86476
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/gEX7MjWwocE/default.jpg'
-  - uid: ba5f133a6aae167612b65466bff8149c
-    parent_uid: 3359e0d6e13eb434c801bee9f9f86476
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: gEX7MjWwocE
-  - uid: 7cadd91b07128122a97680c2a3cc9193
-    parent_uid: 3359e0d6e13eb434c801bee9f9f86476
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: 1902591b8b2e8e46787b92b86049bf6c
-    parent_uid: 3359e0d6e13eb434c801bee9f9f86476
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W03PS01_1_360p.mp4'
-  - uid: 1c3c76686572ffd54f261c4e176a44ad
-    parent_uid: 3359e0d6e13eb434c801bee9f9f86476
-    id: gEX7MjWwocE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion/worked-example-orbital-circular-motion-2013-radius/gEX7MjWwocE.srt
-  - uid: 1026dec6fd1af1c9d435cc6f98ce5fd4
-    parent_uid: 3359e0d6e13eb434c801bee9f9f86476
-    id: gEX7MjWwocE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-3-circular-motion/PS.3.1-worked-example-orbital-circular-motion/worked-example-orbital-circular-motion-2013-radius/gEX7MjWwocE.pdf
-  - uid: 6907c2eb7242009520d0af023bd6151b
-    parent_uid: 3359e0d6e13eb434c801bee9f9f86476
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: cd5327ce57f1e746911f453dd419e36d
-    parent_uid: 3359e0d6e13eb434c801bee9f9f86476
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 3359e0d6e13eb434c801bee9f9f86476
 type: courses
 layout: video
 ---

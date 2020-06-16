@@ -1,13 +1,67 @@
 ---
-title: An Overview of Linear Algebra
-uid: c33566cdcab68df531c4bba171843a74
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 0oBJN8F616U
+    parent_uid: c33566cdcab68df531c4bba171843a74
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 27a7a860bbf6e80b77f9c9297c0b9702
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0oBJN8F616U/default.jpg'
+    parent_uid: c33566cdcab68df531c4bba171843a74
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 114b49ac46f42923799c5e214b45d585
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: c33566cdcab68df531c4bba171843a74
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a5a5afcb60feca5d08596816683577a7
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.085F08/ocw-18.085-f08-rec01_300k.mp4'
+    parent_uid: c33566cdcab68df531c4bba171843a74
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4e87e87e5d369a6031f795715da7242d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 0oBJN8F616U
+    parent_uid: c33566cdcab68df531c4bba171843a74
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4dbdea8ddcef941ff2b9e1fcb553233b
+  - id: 0oBJN8F616U.srt
+    parent_uid: c33566cdcab68df531c4bba171843a74
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/an-overview-of-linear-algebra/0oBJN8F616U.srt
+    title: 3play caption file
+    type: null
+    uid: f4ef08014cd28a1caaa5a4e65da86377
+  - id: 0oBJN8F616U.pdf
+    parent_uid: c33566cdcab68df531c4bba171843a74
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/an-overview-of-linear-algebra/0oBJN8F616U.pdf
+    title: 3play pdf file
+    type: null
+    uid: f88df3281099e7dd7f368050f36244ee
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c33566cdcab68df531c4bba171843a74
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d70fbfc5397a06439c2b0991938961b8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c33566cdcab68df531c4bba171843a74
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d2782853ecd14eeb29072f363fcb21d7
+inline_embed_id: 62611763anoverviewoflinearalgebra60407689
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: an-overview-of-linear-algebra
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/an-overview-of-linear-algebra
-short_url: an-overview-of-linear-algebra
-inline_embed_id: 62611763anoverviewoflinearalgebra60407689
-about_this_resource_text: ''
-related_resources_text: ''
+title: An Overview of Linear Algebra
 transcript: >-
   <p><span m="1920">The following content is provided</span> <span
   m="2340">under</span> <span m="2596">a</span> <span m="2852">Creative</span>
@@ -2748,61 +2802,7 @@ transcript: >-
   m="2969440">hope</span> <span m="2969700">this</span> <span
   m="2969920">is</span> <span m="2970120">some</span> <span
   m="2970320">help.</span></p>
-embedded_media:
-  - uid: 27a7a860bbf6e80b77f9c9297c0b9702
-    parent_uid: c33566cdcab68df531c4bba171843a74
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0oBJN8F616U
-  - uid: 114b49ac46f42923799c5e214b45d585
-    parent_uid: c33566cdcab68df531c4bba171843a74
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0oBJN8F616U/default.jpg'
-  - uid: a5a5afcb60feca5d08596816683577a7
-    parent_uid: c33566cdcab68df531c4bba171843a74
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 4e87e87e5d369a6031f795715da7242d
-    parent_uid: c33566cdcab68df531c4bba171843a74
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.085F08/ocw-18.085-f08-rec01_300k.mp4'
-  - uid: 4dbdea8ddcef941ff2b9e1fcb553233b
-    parent_uid: c33566cdcab68df531c4bba171843a74
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0oBJN8F616U
-  - uid: f4ef08014cd28a1caaa5a4e65da86377
-    parent_uid: c33566cdcab68df531c4bba171843a74
-    id: 0oBJN8F616U.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/an-overview-of-linear-algebra/0oBJN8F616U.srt
-  - uid: f88df3281099e7dd7f368050f36244ee
-    parent_uid: c33566cdcab68df531c4bba171843a74
-    id: 0oBJN8F616U.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/an-overview-of-linear-algebra/0oBJN8F616U.pdf
-  - uid: d70fbfc5397a06439c2b0991938961b8
-    parent_uid: c33566cdcab68df531c4bba171843a74
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d2782853ecd14eeb29072f363fcb21d7
-    parent_uid: c33566cdcab68df531c4bba171843a74
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: c33566cdcab68df531c4bba171843a74
 type: courses
 layout: video
 ---

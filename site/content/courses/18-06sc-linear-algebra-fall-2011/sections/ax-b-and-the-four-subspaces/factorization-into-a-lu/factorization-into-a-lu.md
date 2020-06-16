@@ -1,13 +1,67 @@
 ---
-title: Factorization into A = LU
-uid: 5f44ebe5416ffc8eb650554c8ebddfdf
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: MsIvs_6vC38
+    parent_uid: 5f44ebe5416ffc8eb650554c8ebddfdf
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 25f1130b7a0f6ebd0be672dc31343740
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: MsIvs_6vC38
+    parent_uid: 5f44ebe5416ffc8eb650554c8ebddfdf
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 261a78b1fa9c348b2eef535b39ea2f21
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 5f44ebe5416ffc8eb650554c8ebddfdf
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d27a7dcee2f5d84d22fa592b31299ad7
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/04.mp4'
+    parent_uid: 5f44ebe5416ffc8eb650554c8ebddfdf
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1e9eb666bb81763256b6e265d04b3a2e
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/MsIvs_6vC38/default.jpg'
+    parent_uid: 5f44ebe5416ffc8eb650554c8ebddfdf
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 87d2aa742b5c384c60773b28057aa00e
+  - id: MsIvs_6vC38.srt
+    parent_uid: 5f44ebe5416ffc8eb650554c8ebddfdf
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/factorization-into-a-lu/factorization-into-a-lu/MsIvs_6vC38.srt
+    title: 3play caption file
+    type: null
+    uid: c569507e580d591c5ea0faf1b6badd97
+  - id: MsIvs_6vC38.pdf
+    parent_uid: 5f44ebe5416ffc8eb650554c8ebddfdf
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/factorization-into-a-lu/factorization-into-a-lu/MsIvs_6vC38.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6a1ed7a39cbff2dd88de7c559c5373ad
+  - id: Caption-3Play YouTube id-SRT_1
+    parent_uid: 5f44ebe5416ffc8eb650554c8ebddfdf
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 40b6de2c3d5182a4b54fcbba16595b6d
+  - id: Transcript-3Play YouTube id-PDF_1
+    parent_uid: 5f44ebe5416ffc8eb650554c8ebddfdf
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 17da4d8d37b4476f5661c6a62af932f0
+inline_embed_id: 71334296factorizationintoa=lu54035333
 parent_uid: 2817c81b09040d03c0c634f006d5a20d
+related_resources_text: ''
+short_url: factorization-into-a-lu
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/factorization-into-a-lu/factorization-into-a-lu
-short_url: factorization-into-a-lu
-inline_embed_id: 71334296factorizationintoa=lu54035333
-about_this_resource_text: ''
-related_resources_text: ''
+title: Factorization into A = LU
 transcript: >-
   <p><span m="12380"> Okay, this is linear algebra, lecture
   four.</span></p><p><span m="16800">And, the first thing I have to do is
@@ -643,61 +697,7 @@ transcript: >-
   them.</span></p><p><span m="2868820">So the next lecture, finishes Chapter
   2</span> <span m="2871660">and moves to Chapter 3.</span></p><p><span
   m="2875160">Thank you.</span></p>
-embedded_media:
-  - uid: 25f1130b7a0f6ebd0be672dc31343740
-    parent_uid: 5f44ebe5416ffc8eb650554c8ebddfdf
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: MsIvs_6vC38
-  - uid: 261a78b1fa9c348b2eef535b39ea2f21
-    parent_uid: 5f44ebe5416ffc8eb650554c8ebddfdf
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: MsIvs_6vC38
-  - uid: d27a7dcee2f5d84d22fa592b31299ad7
-    parent_uid: 5f44ebe5416ffc8eb650554c8ebddfdf
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 1e9eb666bb81763256b6e265d04b3a2e
-    parent_uid: 5f44ebe5416ffc8eb650554c8ebddfdf
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/04.mp4'
-  - uid: 87d2aa742b5c384c60773b28057aa00e
-    parent_uid: 5f44ebe5416ffc8eb650554c8ebddfdf
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/MsIvs_6vC38/default.jpg'
-  - uid: c569507e580d591c5ea0faf1b6badd97
-    parent_uid: 5f44ebe5416ffc8eb650554c8ebddfdf
-    id: MsIvs_6vC38.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/factorization-into-a-lu/factorization-into-a-lu/MsIvs_6vC38.srt
-  - uid: 6a1ed7a39cbff2dd88de7c559c5373ad
-    parent_uid: 5f44ebe5416ffc8eb650554c8ebddfdf
-    id: MsIvs_6vC38.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/factorization-into-a-lu/factorization-into-a-lu/MsIvs_6vC38.pdf
-  - uid: 40b6de2c3d5182a4b54fcbba16595b6d
-    parent_uid: 5f44ebe5416ffc8eb650554c8ebddfdf
-    id: Caption-3Play YouTube id-SRT_1
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 17da4d8d37b4476f5661c6a62af932f0
-    parent_uid: 5f44ebe5416ffc8eb650554c8ebddfdf
-    id: Transcript-3Play YouTube id-PDF_1
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 5f44ebe5416ffc8eb650554c8ebddfdf
 type: courses
 layout: video
 ---

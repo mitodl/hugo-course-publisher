@@ -1,13 +1,68 @@
 ---
-title: Using Newton's Method
-uid: ce35dfa20f34e7af4515befaaf4526f8
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ER5B_YBFMJo
+    parent_uid: ce35dfa20f34e7af4515befaaf4526f8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 99d95a482757ca5ed7b94d0cd4ff8b28
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ER5B_YBFMJo/default.jpg'
+    parent_uid: ce35dfa20f34e7af4515befaaf4526f8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 01147068e8ed951f4331469e1adeaa91
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/using-newtons-method/id414308064?i=90318991
+    parent_uid: ce35dfa20f34e7af4515befaaf4526f8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: cd6e510fc3b8d36103dc27ae477d4655
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_25_300k.mp4'
+    parent_uid: ce35dfa20f34e7af4515befaaf4526f8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c7e2b57e1461d9a86727f012e62ad85e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ER5B_YBFMJo
+    parent_uid: ce35dfa20f34e7af4515befaaf4526f8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9e037946d85b646afeceab4aff2741a6
+  - id: ER5B_YBFMJo.srt
+    parent_uid: ce35dfa20f34e7af4515befaaf4526f8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method/using-newtons-method/ER5B_YBFMJo.srt
+    title: 3play caption file
+    type: null
+    uid: 201463bed605e1fa52c777837c28b1f3
+  - id: ER5B_YBFMJo.pdf
+    parent_uid: ce35dfa20f34e7af4515befaaf4526f8
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method/using-newtons-method/ER5B_YBFMJo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 871e7a5edb7eab5b4f4f3572e2cdc6b6
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ce35dfa20f34e7af4515befaaf4526f8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 78c40ca66a3277c3e20a41593dd731c4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ce35dfa20f34e7af4515befaaf4526f8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a955378466b21e0a90a98256a30611b2
+inline_embed_id: 10527998usingnewton'smethod11846290
 parent_uid: 08bcebd887ee223af84741f0fef4d632
+related_resources_text: ''
+short_url: using-newtons-method
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method/using-newtons-method
-short_url: using-newtons-method
-inline_embed_id: 10527998usingnewton'smethod11846290
-about_this_resource_text: ''
-related_resources_text: ''
+title: Using Newton's Method
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='7520'>Welcome</span> <span
   m='7860'>back</span> <span m='8050'>to</span> <span
@@ -575,62 +630,7 @@ transcript: >-
   m='462790'>I</span> <span m='462940'>think</span> <span m='463180'>that</span>
   <span m='463350'>is</span> <span m='463460'>where</span> <span m='463650'>I
   will</span> <span m='463820'>stop.</span> </p>
-embedded_media:
-  - uid: 99d95a482757ca5ed7b94d0cd4ff8b28
-    parent_uid: ce35dfa20f34e7af4515befaaf4526f8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ER5B_YBFMJo
-  - uid: 01147068e8ed951f4331469e1adeaa91
-    parent_uid: ce35dfa20f34e7af4515befaaf4526f8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ER5B_YBFMJo/default.jpg'
-  - uid: cd6e510fc3b8d36103dc27ae477d4655
-    parent_uid: ce35dfa20f34e7af4515befaaf4526f8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/using-newtons-method/id414308064?i=90318991
-  - uid: c7e2b57e1461d9a86727f012e62ad85e
-    parent_uid: ce35dfa20f34e7af4515befaaf4526f8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_25_300k.mp4'
-  - uid: 9e037946d85b646afeceab4aff2741a6
-    parent_uid: ce35dfa20f34e7af4515befaaf4526f8
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ER5B_YBFMJo
-  - uid: 201463bed605e1fa52c777837c28b1f3
-    parent_uid: ce35dfa20f34e7af4515befaaf4526f8
-    id: ER5B_YBFMJo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method/using-newtons-method/ER5B_YBFMJo.srt
-  - uid: 871e7a5edb7eab5b4f4f3572e2cdc6b6
-    parent_uid: ce35dfa20f34e7af4515befaaf4526f8
-    id: ER5B_YBFMJo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-33-newtons-method/using-newtons-method/ER5B_YBFMJo.pdf
-  - uid: 78c40ca66a3277c3e20a41593dd731c4
-    parent_uid: ce35dfa20f34e7af4515befaaf4526f8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a955378466b21e0a90a98256a30611b2
-    parent_uid: ce35dfa20f34e7af4515befaaf4526f8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: ce35dfa20f34e7af4515befaaf4526f8
 type: courses
 layout: video
 ---

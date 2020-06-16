@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Interpretation of the Fundamental Theorem'
-uid: 3d0e48d9709becc86a6b010ab5a65917
-parent_uid: bdc58167f5508759dd279c33d7d08852
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-48-the-fundamental-theorem-of-calculus/clip-1-interpretation-of-the-fundamental-theorem
-short_url: clip-1-interpretation-of-the-fundamental-theorem
-inline_embed_id: '17759843clip1:interpretationofthefundamentaltheorem90368944'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/da3127c093b8eb7e4ab99693f1485b6b"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 19 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 1RLctDS2hUQ
+    parent_uid: 3d0e48d9709becc86a6b010ab5a65917
+    title: Video-YouTube-Stream
+    type: Video
+    uid: da73bb07194f9a5e7cc6b1e01781f104
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/1RLctDS2hUQ/default.jpg'
+    parent_uid: 3d0e48d9709becc86a6b010ab5a65917
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0141e1842b288dc95b2582f68d66e828
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 1RLctDS2hUQ
+    parent_uid: 3d0e48d9709becc86a6b010ab5a65917
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: dace3d5cfc0041920de6c9a11c49a57f
+  - id: 1RLctDS2hUQ.srt
+    parent_uid: 3d0e48d9709becc86a6b010ab5a65917
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-48-the-fundamental-theorem-of-calculus/clip-1-interpretation-of-the-fundamental-theorem/1RLctDS2hUQ.srt
+    title: 3play caption file
+    type: null
+    uid: e6b4e8119c53001fdf25d5d60cad4e00
+  - id: 1RLctDS2hUQ.pdf
+    parent_uid: 3d0e48d9709becc86a6b010ab5a65917
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-48-the-fundamental-theorem-of-calculus/clip-1-interpretation-of-the-fundamental-theorem/1RLctDS2hUQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 54d5ef8d54201c140b588102958f4f84
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3d0e48d9709becc86a6b010ab5a65917
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d697a3af5acd6ae0a44b56b60b141cf2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3d0e48d9709becc86a6b010ab5a65917
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 90d3c176415e4135d1a901acef7e88d4
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec19_300k.mp4'
+    parent_uid: 3d0e48d9709becc86a6b010ab5a65917
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: faaa3dd93d98bcfc7da06de6747c22bb
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 3d0e48d9709becc86a6b010ab5a65917
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 089ac4063b68b92bf84cef06df755edc
+inline_embed_id: '17759843clip1:interpretationofthefundamentaltheorem90368944'
+parent_uid: bdc58167f5508759dd279c33d7d08852
 related_resources_text: ''
+short_url: clip-1-interpretation-of-the-fundamental-theorem
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-48-the-fundamental-theorem-of-calculus/clip-1-interpretation-of-the-fundamental-theorem
+title: 'Clip 1: Interpretation of the Fundamental Theorem'
 transcript: >-
   <p><span m='0'>The</span> <span m='60'>following</span> <span
   m='530'>content</span> <span m='1020'>is</span> <span m='1130'>provided</span>
@@ -2550,61 +2604,7 @@ transcript: >-
   m='2891060'>either</span> <span m='2891230'>moves</span> <span
   m='2891570'>steadily</span> <span m='2891920'>up or</span> <span
   m='2892320'>steadily</span> <span m='2892630'>down.</span> </p>
-embedded_media:
-  - uid: da73bb07194f9a5e7cc6b1e01781f104
-    parent_uid: 3d0e48d9709becc86a6b010ab5a65917
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 1RLctDS2hUQ
-  - uid: 0141e1842b288dc95b2582f68d66e828
-    parent_uid: 3d0e48d9709becc86a6b010ab5a65917
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/1RLctDS2hUQ/default.jpg'
-  - uid: dace3d5cfc0041920de6c9a11c49a57f
-    parent_uid: 3d0e48d9709becc86a6b010ab5a65917
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 1RLctDS2hUQ
-  - uid: e6b4e8119c53001fdf25d5d60cad4e00
-    parent_uid: 3d0e48d9709becc86a6b010ab5a65917
-    id: 1RLctDS2hUQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-48-the-fundamental-theorem-of-calculus/clip-1-interpretation-of-the-fundamental-theorem/1RLctDS2hUQ.srt
-  - uid: 54d5ef8d54201c140b588102958f4f84
-    parent_uid: 3d0e48d9709becc86a6b010ab5a65917
-    id: 1RLctDS2hUQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-a-definition-of-the-definite-integral-and-first-fundamental-theorem/session-48-the-fundamental-theorem-of-calculus/clip-1-interpretation-of-the-fundamental-theorem/1RLctDS2hUQ.pdf
-  - uid: d697a3af5acd6ae0a44b56b60b141cf2
-    parent_uid: 3d0e48d9709becc86a6b010ab5a65917
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 90d3c176415e4135d1a901acef7e88d4
-    parent_uid: 3d0e48d9709becc86a6b010ab5a65917
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: faaa3dd93d98bcfc7da06de6747c22bb
-    parent_uid: 3d0e48d9709becc86a6b010ab5a65917
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec19_300k.mp4'
-  - uid: 089ac4063b68b92bf84cef06df755edc
-    parent_uid: 3d0e48d9709becc86a6b010ab5a65917
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 3d0e48d9709becc86a6b010ab5a65917
 type: courses
 layout: video
 ---

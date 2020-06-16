@@ -1,13 +1,61 @@
 ---
-title: Bell Labs Wave Machine
-uid: 799bca282176082a7c7bd3d13ad3b8e4
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: b1eKhyC9TTo
+    parent_uid: 799bca282176082a7c7bd3d13ad3b8e4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5b9e0319ae224ea7d092eb8dad0891b4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/b1eKhyC9TTo/default.jpg'
+    parent_uid: 799bca282176082a7c7bd3d13ad3b8e4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ea83506e31be9f3cb9dfb1d33d261855
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: b1eKhyC9TTo
+    parent_uid: 799bca282176082a7c7bd3d13ad3b8e4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ea0384109166b2b7188ed9fd1af8b4d7
+  - id: b1eKhyC9TTo.srt
+    parent_uid: 799bca282176082a7c7bd3d13ad3b8e4
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-7/copy_of_lecture-7-video/b1eKhyC9TTo.srt
+    title: 3play caption file
+    type: null
+    uid: 2f2ee755e3ecdae4522ad0339b0aeeec
+  - id: b1eKhyC9TTo.pdf
+    parent_uid: 799bca282176082a7c7bd3d13ad3b8e4
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-7/copy_of_lecture-7-video/b1eKhyC9TTo.pdf
+    title: 3play pdf file
+    type: null
+    uid: bb27f073f0da64dbf852b1ce1a4b3593
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 799bca282176082a7c7bd3d13ad3b8e4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 965e348fb494d2057517d432d5ddaff2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 799bca282176082a7c7bd3d13ad3b8e4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 99969c57c9dc26b2ff510d6d3ff78908
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec07_300k.mp4'
+    parent_uid: 799bca282176082a7c7bd3d13ad3b8e4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 32da86dc777974c8b68ae73a11aa51d0
+inline_embed_id: 17110286lecture7videop134851406
 parent_uid: aa7bcfd6ec863e35a88d1a5eba2076b6
+related_resources_text: ''
+short_url: copy_of_lecture-7-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-7/copy_of_lecture-7-video
-short_url: copy_of_lecture-7-video
-inline_embed_id: 17110286lecture7videop134851406
-about_this_resource_text: ''
-related_resources_text: ''
+title: Bell Labs Wave Machine
 transcript: >-
   <p><span m="2120">The</span> <span m="2210">following</span> <span
   m="2660">content</span> <span m="3140">is</span> <span
@@ -4044,55 +4092,7 @@ transcript: >-
   m="4464770">very</span> <span m="4465080">happy</span> <span
   m="4465410">to</span> <span m="4465600">answer</span> <span
   m="4465890">your</span> <span m="4466000">questions.</span></p>
-embedded_media:
-  - uid: 5b9e0319ae224ea7d092eb8dad0891b4
-    parent_uid: 799bca282176082a7c7bd3d13ad3b8e4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: b1eKhyC9TTo
-  - uid: ea83506e31be9f3cb9dfb1d33d261855
-    parent_uid: 799bca282176082a7c7bd3d13ad3b8e4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/b1eKhyC9TTo/default.jpg'
-  - uid: ea0384109166b2b7188ed9fd1af8b4d7
-    parent_uid: 799bca282176082a7c7bd3d13ad3b8e4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: b1eKhyC9TTo
-  - uid: 2f2ee755e3ecdae4522ad0339b0aeeec
-    parent_uid: 799bca282176082a7c7bd3d13ad3b8e4
-    id: b1eKhyC9TTo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-7/copy_of_lecture-7-video/b1eKhyC9TTo.srt
-  - uid: bb27f073f0da64dbf852b1ce1a4b3593
-    parent_uid: 799bca282176082a7c7bd3d13ad3b8e4
-    id: b1eKhyC9TTo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-7/copy_of_lecture-7-video/b1eKhyC9TTo.pdf
-  - uid: 965e348fb494d2057517d432d5ddaff2
-    parent_uid: 799bca282176082a7c7bd3d13ad3b8e4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 99969c57c9dc26b2ff510d6d3ff78908
-    parent_uid: 799bca282176082a7c7bd3d13ad3b8e4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 32da86dc777974c8b68ae73a11aa51d0
-    parent_uid: 799bca282176082a7c7bd3d13ad3b8e4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec07_300k.mp4'
+uid: 799bca282176082a7c7bd3d13ad3b8e4
 type: courses
 layout: video
 ---

@@ -1,13 +1,61 @@
 ---
-title: 'Lecture 7: Eckart-Young: The Closest Rank k Matrix to A '
-uid: 7d689bdb8da9848c569f85e93ce9b9d4
+about_this_resource_text: "<h2 class=\"subhead\">Description</h2> <p>In this lecture, Professor Strang reviews Principal Component Analysis (PCA), which is a major tool in understanding a matrix of data. In particular, he focuses on the Eckart-Young low rank approximation theorem.</p> <h2 class=\"subhead\">Summary</h2> <p>\\(A_k = \\sigma_1 u_1 v^{\\mathtt{T}}_1 + \\cdots + \\sigma_k u_k v^{\\mathtt{T}}_k\\) (larger \\(\\sigma\\)'s from \\(A = U\\Sigma V^{\\mathtt{T}}\\))<br /> The norm of \\(A - A_k\\) is below the norm of all other \\(A - B_k\\).<br /> Frobenius norm squared = sum of squares of all entries<br /> The idea of Principal Component Analysis (PCA)</p> <p>Related section in textbook: I.9</p> <p><strong>Instructor:</strong> Prof. Gilbert Strang</p> <p><style type=\"text/css\">\r\np.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 8.0px Verdana}\r\nspan.s1 {font-kerning: none}\r\nspan.s2 {font: 11.0px Verdana; font-kerning: none}\r\n</style></p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Y4f7K9XF04k
+    parent_uid: 7d689bdb8da9848c569f85e93ce9b9d4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d934ca1c294db67c5c2a040d5214c0c9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Y4f7K9XF04k
+    parent_uid: 7d689bdb8da9848c569f85e93ce9b9d4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 28e4a1d5697834fe5a6600ce9f3b1f92
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture07_300k.mp4'
+    parent_uid: 7d689bdb8da9848c569f85e93ce9b9d4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6e6099082587b05286585f55fa150030
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Y4f7K9XF04k/default.jpg'
+    parent_uid: 7d689bdb8da9848c569f85e93ce9b9d4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 139532122a2896ec3c870fd1bbe6a9fe
+  - id: Y4f7K9XF04k.srt
+    parent_uid: 7d689bdb8da9848c569f85e93ce9b9d4
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-7-eckart-young-the-closest-rank-k-matrix-to-a/Y4f7K9XF04k.srt
+    title: 3play caption file
+    type: null
+    uid: 80123ded199455ab85789f97cc7b0af0
+  - id: Y4f7K9XF04k.pdf
+    parent_uid: 7d689bdb8da9848c569f85e93ce9b9d4
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-7-eckart-young-the-closest-rank-k-matrix-to-a/Y4f7K9XF04k.pdf
+    title: 3play pdf file
+    type: null
+    uid: 70996912a170cf9c6ebb018f03c1fc85
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7d689bdb8da9848c569f85e93ce9b9d4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 40ddf20f2e02cde04cf5723d07f53217
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7d689bdb8da9848c569f85e93ce9b9d4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ff816b72dd24944a5441e0da6d17d848
+inline_embed_id: 25111586lecture7eckartyoungtheclosestrankkmatrixtoa61211654
 parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
+related_resources_text: ''
+short_url: lecture-7-eckart-young-the-closest-rank-k-matrix-to-a
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-7-eckart-young-the-closest-rank-k-matrix-to-a
-short_url: lecture-7-eckart-young-the-closest-rank-k-matrix-to-a
-inline_embed_id: 25111586lecture7eckartyoungtheclosestrankkmatrixtoa61211654
-about_this_resource_text: "<h2 class=\"subhead\">Description</h2> <p>In this lecture, Professor Strang reviews Principal Component Analysis (PCA), which is a major tool in understanding a matrix of data. In particular, he focuses on the Eckart-Young low rank approximation theorem.</p> <h2 class=\"subhead\">Summary</h2> <p>\\(A_k = \\sigma_1 u_1 v^{\\mathtt{T}}_1 + \\cdots + \\sigma_k u_k v^{\\mathtt{T}}_k\\) (larger \\(\\sigma\\)'s from \\(A = U\\Sigma V^{\\mathtt{T}}\\))<br /> The norm of \\(A - A_k\\) is below the norm of all other \\(A - B_k\\).<br /> Frobenius norm squared = sum of squares of all entries<br /> The idea of Principal Component Analysis (PCA)</p> <p>Related section in textbook: I.9</p> <p><strong>Instructor:</strong> Prof. Gilbert Strang</p> <p><style type=\"text/css\">\r\np.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 8.0px Verdana}\r\nspan.s1 {font-kerning: none}\r\nspan.s2 {font: 11.0px Verdana; font-kerning: none}\r\n</style></p>"
-related_resources_text: ''
+title: 'Lecture 7: Eckart-Young: The Closest Rank k Matrix to A '
 transcript: >-
   <p><span m='1550'>The</span> <span m='1640'>following</span> <span
   m='2090'>content</span> <span m='2600'>is</span> <span
@@ -2585,55 +2633,7 @@ transcript: >-
   m='2832580'>is</span> <span m='2832790'>that</span> <span
   m='2832970'>the</span> <span m='2833310'>SVD</span> <span
   m='2833635'>solves</span> <span m='2833960'>these.</span> </p>
-embedded_media:
-  - uid: d934ca1c294db67c5c2a040d5214c0c9
-    parent_uid: 7d689bdb8da9848c569f85e93ce9b9d4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Y4f7K9XF04k
-  - uid: 28e4a1d5697834fe5a6600ce9f3b1f92
-    parent_uid: 7d689bdb8da9848c569f85e93ce9b9d4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Y4f7K9XF04k
-  - uid: 6e6099082587b05286585f55fa150030
-    parent_uid: 7d689bdb8da9848c569f85e93ce9b9d4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture07_300k.mp4'
-  - uid: 139532122a2896ec3c870fd1bbe6a9fe
-    parent_uid: 7d689bdb8da9848c569f85e93ce9b9d4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Y4f7K9XF04k/default.jpg'
-  - uid: 80123ded199455ab85789f97cc7b0af0
-    parent_uid: 7d689bdb8da9848c569f85e93ce9b9d4
-    id: Y4f7K9XF04k.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-7-eckart-young-the-closest-rank-k-matrix-to-a/Y4f7K9XF04k.srt
-  - uid: 70996912a170cf9c6ebb018f03c1fc85
-    parent_uid: 7d689bdb8da9848c569f85e93ce9b9d4
-    id: Y4f7K9XF04k.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-7-eckart-young-the-closest-rank-k-matrix-to-a/Y4f7K9XF04k.pdf
-  - uid: 40ddf20f2e02cde04cf5723d07f53217
-    parent_uid: 7d689bdb8da9848c569f85e93ce9b9d4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ff816b72dd24944a5441e0da6d17d848
-    parent_uid: 7d689bdb8da9848c569f85e93ce9b9d4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 7d689bdb8da9848c569f85e93ce9b9d4
 type: courses
 layout: video
 ---

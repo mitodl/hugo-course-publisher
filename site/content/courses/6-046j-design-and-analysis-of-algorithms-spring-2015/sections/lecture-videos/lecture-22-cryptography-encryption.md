@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 22: Cryptography: Encryption'
-uid: d72d5d2293323f30844d3efdfdd26f92
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-22-cryptography-encryption
-short_url: lecture-22-cryptography-encryption
-inline_embed_id: '17887924lecture22:cryptography:encryption96224412'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Devadas continues
   with cryptography, introducing encryption
   methods.</p><p><strong>Instructors:</strong> Srinivas Devadas</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 9TNI2wHmaeI
+    parent_uid: d72d5d2293323f30844d3efdfdd26f92
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8990f12413d703d777a63033eaf731f6
+  - id: 9TNI2wHmaeI.srt
+    parent_uid: d72d5d2293323f30844d3efdfdd26f92
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-22-cryptography-encryption/9TNI2wHmaeI.srt
+    title: 3play caption file
+    type: null
+    uid: b893b32126f93f5020566166219e4c39
+  - id: 9TNI2wHmaeI.pdf
+    parent_uid: d72d5d2293323f30844d3efdfdd26f92
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-22-cryptography-encryption/9TNI2wHmaeI.pdf
+    title: 3play pdf file
+    type: null
+    uid: edbe201f06c0e77a874a5f330e65a55a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d72d5d2293323f30844d3efdfdd26f92
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a8b8858a87a29f8f8a70cb8fc1f1c1f2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d72d5d2293323f30844d3efdfdd26f92
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 689d2c0096ebaa2a45092403fc9d68ad
+  - id: Video-YouTube-Stream
+    media_location: 9TNI2wHmaeI
+    parent_uid: d72d5d2293323f30844d3efdfdd26f92
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a9f89752712d7b3117a497e0374a0d0b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/9TNI2wHmaeI/default.jpg'
+    parent_uid: d72d5d2293323f30844d3efdfdd26f92
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 79743edf0847703bfdf8ad91e07102c6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: d72d5d2293323f30844d3efdfdd26f92
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1206ceb8334d5f152b6ff091d91b285d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec22_300k.mp4'
+    parent_uid: d72d5d2293323f30844d3efdfdd26f92
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 39ee9b4af77bc554da2de40af31771ce
+inline_embed_id: '17887924lecture22:cryptography:encryption96224412'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-22-cryptography-encryption
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-22-cryptography-encryption
+title: 'Lecture 22: Cryptography: Encryption'
 transcript: >-
   <p><span m="60">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -5282,61 +5336,7 @@ transcript: >-
   m="5047590">stick</span> <span m="5047760">around</span> <span
   m="5048040">and</span> <span m="5048270">answer</span> <span
   m="5048550">questions.</span></p>
-embedded_media:
-  - uid: 8990f12413d703d777a63033eaf731f6
-    parent_uid: d72d5d2293323f30844d3efdfdd26f92
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 9TNI2wHmaeI
-  - uid: b893b32126f93f5020566166219e4c39
-    parent_uid: d72d5d2293323f30844d3efdfdd26f92
-    id: 9TNI2wHmaeI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-22-cryptography-encryption/9TNI2wHmaeI.srt
-  - uid: edbe201f06c0e77a874a5f330e65a55a
-    parent_uid: d72d5d2293323f30844d3efdfdd26f92
-    id: 9TNI2wHmaeI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-22-cryptography-encryption/9TNI2wHmaeI.pdf
-  - uid: a8b8858a87a29f8f8a70cb8fc1f1c1f2
-    parent_uid: d72d5d2293323f30844d3efdfdd26f92
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 689d2c0096ebaa2a45092403fc9d68ad
-    parent_uid: d72d5d2293323f30844d3efdfdd26f92
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a9f89752712d7b3117a497e0374a0d0b
-    parent_uid: d72d5d2293323f30844d3efdfdd26f92
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 9TNI2wHmaeI
-  - uid: 79743edf0847703bfdf8ad91e07102c6
-    parent_uid: d72d5d2293323f30844d3efdfdd26f92
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9TNI2wHmaeI/default.jpg'
-  - uid: 1206ceb8334d5f152b6ff091d91b285d
-    parent_uid: d72d5d2293323f30844d3efdfdd26f92
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 39ee9b4af77bc554da2de40af31771ce
-    parent_uid: d72d5d2293323f30844d3efdfdd26f92
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec22_300k.mp4'
+uid: d72d5d2293323f30844d3efdfdd26f92
 type: courses
 layout: video
 ---

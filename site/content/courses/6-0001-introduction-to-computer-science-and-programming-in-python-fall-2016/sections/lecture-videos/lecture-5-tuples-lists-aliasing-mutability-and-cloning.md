@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 5: Tuples, Lists, Aliasing, Mutability, and Cloning'
-uid: 0cef52e782d21dee44747687efafef6f
-parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-5-tuples-lists-aliasing-mutability-and-cloning
-short_url: lecture-5-tuples-lists-aliasing-mutability-and-cloning
-inline_embed_id: 50974999lecture5tupleslistsaliasingmutabilityandcloning5988573
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Dr. Bell introduces compound
   data types, such as lists and tuples, and explains the concepts of aliasing,
   mutability, and cloning.</p> <p><strong>Instructor:</strong> Dr. Ana Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: RvRKT-jXvko
+    parent_uid: 0cef52e782d21dee44747687efafef6f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ecdd5a945edde2c3a7aff5627a856ab6
+  - id: RvRKT-jXvko.srt
+    parent_uid: 0cef52e782d21dee44747687efafef6f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-5-tuples-lists-aliasing-mutability-and-cloning/RvRKT-jXvko.srt
+    title: 3play caption file
+    type: null
+    uid: ce82eb29e43342b4043b895a1b830113
+  - id: RvRKT-jXvko.pdf
+    parent_uid: 0cef52e782d21dee44747687efafef6f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-5-tuples-lists-aliasing-mutability-and-cloning/RvRKT-jXvko.pdf
+    title: 3play pdf file
+    type: null
+    uid: a9df4249541a97c3506418f1e555c0c7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0cef52e782d21dee44747687efafef6f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 49fbc57fd827f84b2a197ce601e6b9c6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0cef52e782d21dee44747687efafef6f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0db5b7c497044996b547ea01c275f59a
+  - id: Video-YouTube-Stream
+    media_location: RvRKT-jXvko
+    parent_uid: 0cef52e782d21dee44747687efafef6f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e887e0290e4c9cd8cb0ff60b028b0f27
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/RvRKT-jXvko/default.jpg'
+    parent_uid: 0cef52e782d21dee44747687efafef6f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 359ee0d770f0f67ee682120e73afdf94
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: 0cef52e782d21dee44747687efafef6f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4df754ba17f30b77ca4ba087dff545d0
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_05_300k.mp4'
+    parent_uid: 0cef52e782d21dee44747687efafef6f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 93f2154ee890323172bdeb188fefc50a
+inline_embed_id: 50974999lecture5tupleslistsaliasingmutabilityandcloning5988573
+parent_uid: 43cb621f58a2fd7c7cf1c50e8e0a9d57
 related_resources_text: ''
+short_url: lecture-5-tuples-lists-aliasing-mutability-and-cloning
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-5-tuples-lists-aliasing-mutability-and-cloning
+title: 'Lecture 5: Tuples, Lists, Aliasing, Mutability, and Cloning'
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1300">content</span> <span m="1870">is</span> <span
@@ -2992,61 +3046,7 @@ transcript: >-
   m="2476260">to</span> <span m="2476320">be</span> <span m="2476410">the</span>
   <span m="2476530">wrong</span> <span m="2476710">code.</span> <span
   m="2477880">All</span> <span m="2477940">right.</span></p>
-embedded_media:
-  - uid: ecdd5a945edde2c3a7aff5627a856ab6
-    parent_uid: 0cef52e782d21dee44747687efafef6f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: RvRKT-jXvko
-  - uid: ce82eb29e43342b4043b895a1b830113
-    parent_uid: 0cef52e782d21dee44747687efafef6f
-    id: RvRKT-jXvko.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-5-tuples-lists-aliasing-mutability-and-cloning/RvRKT-jXvko.srt
-  - uid: a9df4249541a97c3506418f1e555c0c7
-    parent_uid: 0cef52e782d21dee44747687efafef6f
-    id: RvRKT-jXvko.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/lecture-5-tuples-lists-aliasing-mutability-and-cloning/RvRKT-jXvko.pdf
-  - uid: 49fbc57fd827f84b2a197ce601e6b9c6
-    parent_uid: 0cef52e782d21dee44747687efafef6f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0db5b7c497044996b547ea01c275f59a
-    parent_uid: 0cef52e782d21dee44747687efafef6f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e887e0290e4c9cd8cb0ff60b028b0f27
-    parent_uid: 0cef52e782d21dee44747687efafef6f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: RvRKT-jXvko
-  - uid: 359ee0d770f0f67ee682120e73afdf94
-    parent_uid: 0cef52e782d21dee44747687efafef6f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/RvRKT-jXvko/default.jpg'
-  - uid: 4df754ba17f30b77ca4ba087dff545d0
-    parent_uid: 0cef52e782d21dee44747687efafef6f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: 93f2154ee890323172bdeb188fefc50a
-    parent_uid: 0cef52e782d21dee44747687efafef6f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_05_300k.mp4'
+uid: 0cef52e782d21dee44747687efafef6f
 type: courses
 layout: video
 ---

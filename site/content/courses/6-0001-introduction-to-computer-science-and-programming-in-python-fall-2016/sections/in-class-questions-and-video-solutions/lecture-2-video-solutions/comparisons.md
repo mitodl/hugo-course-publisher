@@ -1,16 +1,71 @@
 ---
-title: Comparisons
-uid: ae2d7d7f6626b3411b506f348570d2a6
-parent_uid: 01c07d8fbd4064402253a19dcc1754ea
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-2-video-solutions/comparisons
-short_url: comparisons
-inline_embed_id: 17303100comparisons16827590
 about_this_resource_text: >-
   <p><strong>Description:</strong> This in-class exercise demonstrates how
   conditionals and comparisons work in Python.</p>
   <p><strong>Instructor:</strong> Dr. Ana Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: lniF6ys2CIk
+    parent_uid: ae2d7d7f6626b3411b506f348570d2a6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8ba538f7347cccecc4562e1c39e5acad
+  - id: lniF6ys2CIk.srt
+    parent_uid: ae2d7d7f6626b3411b506f348570d2a6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-2-video-solutions/comparisons/lniF6ys2CIk.srt
+    title: 3play caption file
+    type: null
+    uid: 2226ae59937ccf5158c9dd6c87a32c66
+  - id: lniF6ys2CIk.pdf
+    parent_uid: ae2d7d7f6626b3411b506f348570d2a6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-2-video-solutions/comparisons/lniF6ys2CIk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6b09eb77ff5c62be5450ae89c557a155
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ae2d7d7f6626b3411b506f348570d2a6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4e38f2e2dc7e81b67e49eaa0facd5d41
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ae2d7d7f6626b3411b506f348570d2a6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 368117bb497313b1f2eab90fef4d5fa4
+  - id: Video-YouTube-Stream
+    media_location: lniF6ys2CIk
+    parent_uid: ae2d7d7f6626b3411b506f348570d2a6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 509ac72525a9687655e5fa6df5b5cde6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/lniF6ys2CIk/default.jpg'
+    parent_uid: ae2d7d7f6626b3411b506f348570d2a6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 356ff871be1257966e319c6909ff8fc7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: ae2d7d7f6626b3411b506f348570d2a6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 82ee282d53a4eacef5dc405abe9ef90c
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_02_exercise_02_300k.mp4
+    parent_uid: ae2d7d7f6626b3411b506f348570d2a6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 08b57d3987b292749c9b9b7c30e498fc
+inline_embed_id: 17303100comparisons16827590
+parent_uid: 01c07d8fbd4064402253a19dcc1754ea
 related_resources_text: ''
+short_url: comparisons
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-2-video-solutions/comparisons
+title: Comparisons
 transcript: >-
   <p><span m="790">The</span> <span m="880">following</span> <span
   m="1300">content</span> <span m="1870">is</span> <span
@@ -82,62 +137,7 @@ transcript: >-
   m="78850">are</span> <span m="78940">getting</span> <span m="79240">it.</span>
   <span m="80050">Great</span> <span m="80200">job,</span> <span
   m="80440">guys.</span></p>
-embedded_media:
-  - uid: 8ba538f7347cccecc4562e1c39e5acad
-    parent_uid: ae2d7d7f6626b3411b506f348570d2a6
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: lniF6ys2CIk
-  - uid: 2226ae59937ccf5158c9dd6c87a32c66
-    parent_uid: ae2d7d7f6626b3411b506f348570d2a6
-    id: lniF6ys2CIk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-2-video-solutions/comparisons/lniF6ys2CIk.srt
-  - uid: 6b09eb77ff5c62be5450ae89c557a155
-    parent_uid: ae2d7d7f6626b3411b506f348570d2a6
-    id: lniF6ys2CIk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-2-video-solutions/comparisons/lniF6ys2CIk.pdf
-  - uid: 4e38f2e2dc7e81b67e49eaa0facd5d41
-    parent_uid: ae2d7d7f6626b3411b506f348570d2a6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 368117bb497313b1f2eab90fef4d5fa4
-    parent_uid: ae2d7d7f6626b3411b506f348570d2a6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 509ac72525a9687655e5fa6df5b5cde6
-    parent_uid: ae2d7d7f6626b3411b506f348570d2a6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: lniF6ys2CIk
-  - uid: 356ff871be1257966e319c6909ff8fc7
-    parent_uid: ae2d7d7f6626b3411b506f348570d2a6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/lniF6ys2CIk/default.jpg'
-  - uid: 82ee282d53a4eacef5dc405abe9ef90c
-    parent_uid: ae2d7d7f6626b3411b506f348570d2a6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: 08b57d3987b292749c9b9b7c30e498fc
-    parent_uid: ae2d7d7f6626b3411b506f348570d2a6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_02_exercise_02_300k.mp4
+uid: ae2d7d7f6626b3411b506f348570d2a6
 type: courses
 layout: video
 ---

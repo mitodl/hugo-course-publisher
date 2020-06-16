@@ -4,7 +4,8 @@ course_id: 14-01sc-principles-of-microeconomics-fall-2011
 course_title: Principles of Microeconomics
 course_image_url: >-
   https://open-learning-course-data-ci.s3.amazonaws.com/14-01sc-principles-of-microeconomics-fall-2011/4aca9caa520d6e6ce06d163f4c3ba7f8_14-01scf11.jpg
-course_thumbnail_image_url: ''
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/14-01sc-principles-of-microeconomics-fall-2011/b0443e9a3ae14009721d925056c6fb8e_14-01scf11-th.jpg
 course_image_alternate_text: Two girls working on the beach.
 course_image_caption_text: >-
   <p>Economics influences our everyday lives whether we realize it or not. Even

@@ -1,18 +1,80 @@
 ---
-title: 'Lecture 7: Matching Problems'
-uid: 9694c2132f520ce3ddc5530aff3a2e4d
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-7-matching-problems
-short_url: lecture-7-matching-problems
-inline_embed_id: '65084928lecture7:matchingproblems98763273'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Introduces the concept of matching. Discusses
   the mating algorithm, its fairness, and relation to practical
   applications.</p> <p><strong>Speaker:</strong> Tom Leighton</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 5RSMLgy06Ew
+    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: af34efce0b278301e604433089e959d2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/5RSMLgy06Ew/default.jpg'
+    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9d50fa6a3bee2b7878ee6dc49acf09b9
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-7-matching-problems/id503873536?i=110644963
+    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ef025986c322a759432272e6269337b1
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec07_300k.mp4'
+    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d22d435ad932e54447c6a0ae5ab817f9
+  - id: MIT6_042JF10_mating.pdf
+    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-7-matching-problems/MIT6_042JF10_mating.pdf
+    title: MIT6_042JF10_mating.pdf
+    type: null
+    uid: 38dc2fda527a56a7529a1c6a4129093c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 5RSMLgy06Ew
+    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 81cf257f5770ec7f9aa947cef69db697
+  - id: 5RSMLgy06Ew.srt
+    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-7-matching-problems/5RSMLgy06Ew.srt
+    title: 3play caption file
+    type: null
+    uid: 26b65f4eb598f22e1edce8acd320bb05
+  - id: 5RSMLgy06Ew.pdf
+    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-7-matching-problems/5RSMLgy06Ew.pdf
+    title: 3play pdf file
+    type: null
+    uid: c53bca93ceaede29a7983409ec7e233c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d508edf30165f0027ad18086241204c4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1bd7e5ab6de5028b39483255687edd06
+inline_embed_id: '65084928lecture7:matchingproblems98763273'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: >-
   <p>The Mating Algorithm (<a target="_blank"
   href="./resolveuid/38dc2fda527a56a7529a1c6a4129093c">PDF</a>)</p>
+short_url: lecture-7-matching-problems
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-7-matching-problems
+title: 'Lecture 7: Matching Problems'
 transcript: >-
   <p><span m='220'>The</span> <span m='350'>following</span> <span
   m='790'>content</span> <span m='1380'>is</span> <span m='1500'>provided</span>
@@ -4317,69 +4379,7 @@ transcript: >-
   m='4953570'>right,</span> <span m='4953910'>so</span> <span
   m='4954000'>that's</span> <span m='4954230'>it</span> <span m='4954350'>for
   today.</span> </p>
-embedded_media:
-  - uid: af34efce0b278301e604433089e959d2
-    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 5RSMLgy06Ew
-  - uid: 9d50fa6a3bee2b7878ee6dc49acf09b9
-    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/5RSMLgy06Ew/default.jpg'
-  - uid: ef025986c322a759432272e6269337b1
-    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-7-matching-problems/id503873536?i=110644963
-  - uid: d22d435ad932e54447c6a0ae5ab817f9
-    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec07_300k.mp4'
-  - uid: 38dc2fda527a56a7529a1c6a4129093c
-    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
-    id: MIT6_042JF10_mating.pdf
-    title: MIT6_042JF10_mating.pdf
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-7-matching-problems/MIT6_042JF10_mating.pdf
-  - uid: 81cf257f5770ec7f9aa947cef69db697
-    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 5RSMLgy06Ew
-  - uid: 26b65f4eb598f22e1edce8acd320bb05
-    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
-    id: 5RSMLgy06Ew.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-7-matching-problems/5RSMLgy06Ew.srt
-  - uid: c53bca93ceaede29a7983409ec7e233c
-    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
-    id: 5RSMLgy06Ew.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-7-matching-problems/5RSMLgy06Ew.pdf
-  - uid: d508edf30165f0027ad18086241204c4
-    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1bd7e5ab6de5028b39483255687edd06
-    parent_uid: 9694c2132f520ce3ddc5530aff3a2e4d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 9694c2132f520ce3ddc5530aff3a2e4d
 type: courses
 layout: video
 ---

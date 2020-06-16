@@ -1,13 +1,67 @@
 ---
-title: 'Independence, Basis and Dimension'
-uid: 82b0ea120c0d050cca292f8e1b7d8a55
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: yjBerM5jWsc
+    parent_uid: 82b0ea120c0d050cca292f8e1b7d8a55
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0aa28c7c03edcc652ec48dfe57e01475
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/yjBerM5jWsc/default.jpg'
+    parent_uid: 82b0ea120c0d050cca292f8e1b7d8a55
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 012dd581043bf5c0eb67f9b19c65d773
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 82b0ea120c0d050cca292f8e1b7d8a55
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 58c408ba9ea9c2d0381bd7e9bf198d93
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/09.mp4'
+    parent_uid: 82b0ea120c0d050cca292f8e1b7d8a55
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a09361943931a4ab8a9fe8bc53e32703
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: yjBerM5jWsc
+    parent_uid: 82b0ea120c0d050cca292f8e1b7d8a55
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0f5d89bf2f9a7cd13d953537367fc7ae
+  - id: yjBerM5jWsc.srt
+    parent_uid: 82b0ea120c0d050cca292f8e1b7d8a55
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/independence-basis-and-dimension/yjBerM5jWsc.srt
+    title: 3play caption file
+    type: null
+    uid: 3348212d8a0c89da9a513c5875dbf9b4
+  - id: yjBerM5jWsc.pdf
+    parent_uid: 82b0ea120c0d050cca292f8e1b7d8a55
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/independence-basis-and-dimension/yjBerM5jWsc.pdf
+    title: 3play pdf file
+    type: null
+    uid: ac8aac665b4b53b6d9af5d658f92a4dd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 82b0ea120c0d050cca292f8e1b7d8a55
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 24b6d8512c42819112ee55cab382539a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 82b0ea120c0d050cca292f8e1b7d8a55
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 86c5d434c0e10e9c768691b5eccc6661
+inline_embed_id: 83174674independencebasisanddimension58184078
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: independence-basis-and-dimension
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/independence-basis-and-dimension
-short_url: independence-basis-and-dimension
-inline_embed_id: 83174674independencebasisanddimension58184078
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Independence, Basis and Dimension'
 transcript: >-
   <p><span m="9840">OK,</span> <span m="10480">this</span> <span
   m="10850">is</span> <span m="11170">linear</span> <span
@@ -2753,61 +2807,7 @@ transcript: >-
   m="2995680">bases,</span> <span m="2996530">and</span> <span
   m="2996780">their</span> <span m="2996940">dimensions.</span></p><p><span
   m="2997280">Thanks.</span></p>
-embedded_media:
-  - uid: 0aa28c7c03edcc652ec48dfe57e01475
-    parent_uid: 82b0ea120c0d050cca292f8e1b7d8a55
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: yjBerM5jWsc
-  - uid: 012dd581043bf5c0eb67f9b19c65d773
-    parent_uid: 82b0ea120c0d050cca292f8e1b7d8a55
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/yjBerM5jWsc/default.jpg'
-  - uid: 58c408ba9ea9c2d0381bd7e9bf198d93
-    parent_uid: 82b0ea120c0d050cca292f8e1b7d8a55
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: a09361943931a4ab8a9fe8bc53e32703
-    parent_uid: 82b0ea120c0d050cca292f8e1b7d8a55
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/09.mp4'
-  - uid: 0f5d89bf2f9a7cd13d953537367fc7ae
-    parent_uid: 82b0ea120c0d050cca292f8e1b7d8a55
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: yjBerM5jWsc
-  - uid: 3348212d8a0c89da9a513c5875dbf9b4
-    parent_uid: 82b0ea120c0d050cca292f8e1b7d8a55
-    id: yjBerM5jWsc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/independence-basis-and-dimension/yjBerM5jWsc.srt
-  - uid: ac8aac665b4b53b6d9af5d658f92a4dd
-    parent_uid: 82b0ea120c0d050cca292f8e1b7d8a55
-    id: yjBerM5jWsc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/independence-basis-and-dimension/yjBerM5jWsc.pdf
-  - uid: 24b6d8512c42819112ee55cab382539a
-    parent_uid: 82b0ea120c0d050cca292f8e1b7d8a55
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 86c5d434c0e10e9c768691b5eccc6661
-    parent_uid: 82b0ea120c0d050cca292f8e1b7d8a55
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 82b0ea120c0d050cca292f8e1b7d8a55
 type: courses
 layout: video
 ---

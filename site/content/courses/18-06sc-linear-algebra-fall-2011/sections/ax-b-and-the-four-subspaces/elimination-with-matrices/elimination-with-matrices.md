@@ -1,13 +1,67 @@
 ---
-title: 'Lecture: Elimination with Matrices'
-uid: da3102b83af8ca9c519500bb85334fcc
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: QVKj3LADCnA
+    parent_uid: da3102b83af8ca9c519500bb85334fcc
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d3fc1b6094c570ed0764c72a1bf9616e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QVKj3LADCnA/default.jpg'
+    parent_uid: da3102b83af8ca9c519500bb85334fcc
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7273c428eb6aed93be43ce5c7b847c1f
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: da3102b83af8ca9c519500bb85334fcc
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0c806ab9d59718aadc55722c9ce7cd7e
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/02.mp4'
+    parent_uid: da3102b83af8ca9c519500bb85334fcc
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8ecaf9114a4e74e0dbc5495538a43cbc
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: QVKj3LADCnA
+    parent_uid: da3102b83af8ca9c519500bb85334fcc
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9b8a8e448a8dc54c4e8c6eaeae766de1
+  - id: QVKj3LADCnA.srt
+    parent_uid: da3102b83af8ca9c519500bb85334fcc
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/elimination-with-matrices/elimination-with-matrices/QVKj3LADCnA.srt
+    title: 3play caption file
+    type: null
+    uid: 04f2cc2259a0f7c031691b47738ddd29
+  - id: QVKj3LADCnA.pdf
+    parent_uid: da3102b83af8ca9c519500bb85334fcc
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/elimination-with-matrices/elimination-with-matrices/QVKj3LADCnA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 265e502cbb641058a996fbb83c26e0a8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: da3102b83af8ca9c519500bb85334fcc
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8a87afeb250c27bbabdb22394cdf7b3a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: da3102b83af8ca9c519500bb85334fcc
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 793850d727f7c9633e8b853a3f6e04d6
+inline_embed_id: 12714318eliminationwithmatrices81668946
 parent_uid: 060c0abff39949c6f5beff6291e747a5
+related_resources_text: ''
+short_url: elimination-with-matrices
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/elimination-with-matrices/elimination-with-matrices
-short_url: elimination-with-matrices
-inline_embed_id: 12714318eliminationwithmatrices81668946
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture: Elimination with Matrices'
 transcript: >-
   <p><span m='0'>2</span> <span m='9640'>times</span> <span
   m='10650'>this</span> <span m='11350'>equation,</span> <span
@@ -2687,61 +2741,7 @@ transcript: >-
   m='2840060'>Monday.</span> </p><p><span m='2840660'>So,</span> <span
   m='2841140'>see</span> <span m='2841380'>you</span> <span
   m='2841500'>Monday.</span> </p>
-embedded_media:
-  - uid: d3fc1b6094c570ed0764c72a1bf9616e
-    parent_uid: da3102b83af8ca9c519500bb85334fcc
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QVKj3LADCnA
-  - uid: 7273c428eb6aed93be43ce5c7b847c1f
-    parent_uid: da3102b83af8ca9c519500bb85334fcc
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QVKj3LADCnA/default.jpg'
-  - uid: 0c806ab9d59718aadc55722c9ce7cd7e
-    parent_uid: da3102b83af8ca9c519500bb85334fcc
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 8ecaf9114a4e74e0dbc5495538a43cbc
-    parent_uid: da3102b83af8ca9c519500bb85334fcc
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/02.mp4'
-  - uid: 9b8a8e448a8dc54c4e8c6eaeae766de1
-    parent_uid: da3102b83af8ca9c519500bb85334fcc
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QVKj3LADCnA
-  - uid: 04f2cc2259a0f7c031691b47738ddd29
-    parent_uid: da3102b83af8ca9c519500bb85334fcc
-    id: QVKj3LADCnA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/elimination-with-matrices/elimination-with-matrices/QVKj3LADCnA.srt
-  - uid: 265e502cbb641058a996fbb83c26e0a8
-    parent_uid: da3102b83af8ca9c519500bb85334fcc
-    id: QVKj3LADCnA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/elimination-with-matrices/elimination-with-matrices/QVKj3LADCnA.pdf
-  - uid: 8a87afeb250c27bbabdb22394cdf7b3a
-    parent_uid: da3102b83af8ca9c519500bb85334fcc
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 793850d727f7c9633e8b853a3f6e04d6
-    parent_uid: da3102b83af8ca9c519500bb85334fcc
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: da3102b83af8ca9c519500bb85334fcc
 type: courses
 layout: video
 ---

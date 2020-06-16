@@ -1,13 +1,68 @@
 ---
-title: Green's Theorem in Normal Form
-uid: 9bf9026999277b807e7d5b84f5a77d11
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 1ye7dm9aUj0
+    parent_uid: 9bf9026999277b807e7d5b84f5a77d11
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e1efd097c88cbb7b0aa35ebe85ad096d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/1ye7dm9aUj0/default.jpg'
+    parent_uid: 9bf9026999277b807e7d5b84f5a77d11
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9049939d553ab42c864164281cd09c00
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/greens-theorem-in-normal-form/id414355340?i=90322814
+    parent_uid: 9bf9026999277b807e7d5b84f5a77d11
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 01ee207d7f8c4399bfda02031bc7f3a9
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_48_300k.mp4'
+    parent_uid: 9bf9026999277b807e7d5b84f5a77d11
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 756d2157de10dc3519f17f597e9c6b38
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: 1ye7dm9aUj0
+    parent_uid: 9bf9026999277b807e7d5b84f5a77d11
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8fd68518283370d7c21c248c16cbc6da
+  - id: 1ye7dm9aUj0.srt
+    parent_uid: 9bf9026999277b807e7d5b84f5a77d11
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-70-normal-form-of-greens-theorem/greens-theorem-in-normal-form/1ye7dm9aUj0.srt
+    title: 3play caption file
+    type: null
+    uid: e0151b2e74ba922e9a587f7077637666
+  - id: 1ye7dm9aUj0.pdf
+    parent_uid: 9bf9026999277b807e7d5b84f5a77d11
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-70-normal-form-of-greens-theorem/greens-theorem-in-normal-form/1ye7dm9aUj0.pdf
+    title: 3play pdf file
+    type: null
+    uid: f64fe477ded24f9d32db1e9af419c3ee
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9bf9026999277b807e7d5b84f5a77d11
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cc2d4f9737f0ea2639e6f2b87b68f754
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9bf9026999277b807e7d5b84f5a77d11
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5c1641f4a4687dec19d6b0f0b88b9084
+inline_embed_id: 70198179green'stheoreminnormalform12956354
 parent_uid: dae7ac007cfa7edbc3d63aa45f355773
+related_resources_text: ''
+short_url: greens-theorem-in-normal-form
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-70-normal-form-of-greens-theorem/greens-theorem-in-normal-form
-short_url: greens-theorem-in-normal-form
-inline_embed_id: 70198179green'stheoreminnormalform12956354
-about_this_resource_text: ''
-related_resources_text: ''
+title: Green's Theorem in Normal Form
 transcript: >-
   <p><span m='0'>JOEL LEWIS:</span> <span m='7540'>Hi.</span> <span
   m='8070'>Welcome</span> <span m='8240'>back to</span> <span
@@ -679,62 +734,7 @@ transcript: >-
   m='659550'>made</span> <span m='659820'>were.</span> <span
   m='660620'>So</span> <span m='660820'>I'll</span> <span m='660940'>stop</span>
   <span m='661240'>there.</span> </p>
-embedded_media:
-  - uid: e1efd097c88cbb7b0aa35ebe85ad096d
-    parent_uid: 9bf9026999277b807e7d5b84f5a77d11
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 1ye7dm9aUj0
-  - uid: 9049939d553ab42c864164281cd09c00
-    parent_uid: 9bf9026999277b807e7d5b84f5a77d11
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/1ye7dm9aUj0/default.jpg'
-  - uid: 01ee207d7f8c4399bfda02031bc7f3a9
-    parent_uid: 9bf9026999277b807e7d5b84f5a77d11
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/greens-theorem-in-normal-form/id414355340?i=90322814
-  - uid: 756d2157de10dc3519f17f597e9c6b38
-    parent_uid: 9bf9026999277b807e7d5b84f5a77d11
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_48_300k.mp4'
-  - uid: 8fd68518283370d7c21c248c16cbc6da
-    parent_uid: 9bf9026999277b807e7d5b84f5a77d11
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 1ye7dm9aUj0
-  - uid: e0151b2e74ba922e9a587f7077637666
-    parent_uid: 9bf9026999277b807e7d5b84f5a77d11
-    id: 1ye7dm9aUj0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-70-normal-form-of-greens-theorem/greens-theorem-in-normal-form/1ye7dm9aUj0.srt
-  - uid: f64fe477ded24f9d32db1e9af419c3ee
-    parent_uid: 9bf9026999277b807e7d5b84f5a77d11
-    id: 1ye7dm9aUj0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-70-normal-form-of-greens-theorem/greens-theorem-in-normal-form/1ye7dm9aUj0.pdf
-  - uid: cc2d4f9737f0ea2639e6f2b87b68f754
-    parent_uid: 9bf9026999277b807e7d5b84f5a77d11
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5c1641f4a4687dec19d6b0f0b88b9084
-    parent_uid: 9bf9026999277b807e7d5b84f5a77d11
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 9bf9026999277b807e7d5b84f5a77d11
 type: courses
 layout: video
 ---

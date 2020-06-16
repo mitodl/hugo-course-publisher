@@ -1,13 +1,62 @@
 ---
-title: 'Video 3: A Logistic Regression Model'
-uid: 51e8cebadabc6b3afbd25374c0538f4b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 0x4PfWpy-ls
+    parent_uid: 51e8cebadabc6b3afbd25374c0538f4b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6439818fa5c4bf5d2756eab85e89790f
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 0x4PfWpy-ls
+    parent_uid: 51e8cebadabc6b3afbd25374c0538f4b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ad518332436fea5ae93eb46a0231e10d
+  - id: 0x4PfWpy-ls.srt
+    parent_uid: 51e8cebadabc6b3afbd25374c0538f4b
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/video-3-a-logistic-regression-model/video-3-a-logistic-regression-model-0/0x4PfWpy-ls.srt
+    title: 3play caption file
+    type: null
+    uid: 6c37bee025c4a07991a28be549c04e51
+  - id: 0x4PfWpy-ls.pdf
+    parent_uid: 51e8cebadabc6b3afbd25374c0538f4b
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/video-3-a-logistic-regression-model/video-3-a-logistic-regression-model-0/0x4PfWpy-ls.pdf
+    title: 3play pdf file
+    type: null
+    uid: a21d6ac42e8b2bb03204d4a50660a026
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 51e8cebadabc6b3afbd25374c0538f4b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ce0c885d6360a5d513e2576edf83b980
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 51e8cebadabc6b3afbd25374c0538f4b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 76487fab3881125306bff2987d203405
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/0x4PfWpy-ls/default.jpg'
+    parent_uid: 51e8cebadabc6b3afbd25374c0538f4b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a9be73bd3bb4b20e94fb633f2b886372
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.3.05_300k.mp4
+    parent_uid: 51e8cebadabc6b3afbd25374c0538f4b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: cf29e96e3aa70248b1ede6c9f5ed4925
+inline_embed_id: 47003477video3alogisticregressionmodel82226928
 parent_uid: 8a9ba6a68196ffcd9f101b66733dbcb0
+related_resources_text: ''
+short_url: video-3-a-logistic-regression-model-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/video-3-a-logistic-regression-model/video-3-a-logistic-regression-model-0
-short_url: video-3-a-logistic-regression-model-0
-inline_embed_id: 47003477video3alogisticregressionmodel82226928
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: A Logistic Regression Model'
 transcript: >-
   <p><span m='4500'>Now</span> <span m='4814'>that</span> <span
   m='5128'>we</span> <span m='5442'>have</span> <span m='5756'>identified</span>
@@ -552,56 +601,7 @@ transcript: >-
   m='619350'>currently</span> <span m='619720'>used</span> <span
   m='620477'>to</span> <span m='621235'>prevent</span> <span
   m='621992'>CHD.</span> </p>
-embedded_media:
-  - uid: 6439818fa5c4bf5d2756eab85e89790f
-    parent_uid: 51e8cebadabc6b3afbd25374c0538f4b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0x4PfWpy-ls
-  - uid: ad518332436fea5ae93eb46a0231e10d
-    parent_uid: 51e8cebadabc6b3afbd25374c0538f4b
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0x4PfWpy-ls
-  - uid: 6c37bee025c4a07991a28be549c04e51
-    parent_uid: 51e8cebadabc6b3afbd25374c0538f4b
-    id: 0x4PfWpy-ls.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/video-3-a-logistic-regression-model/video-3-a-logistic-regression-model-0/0x4PfWpy-ls.srt
-  - uid: a21d6ac42e8b2bb03204d4a50660a026
-    parent_uid: 51e8cebadabc6b3afbd25374c0538f4b
-    id: 0x4PfWpy-ls.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/the-framingham-heart-study-evaluating-risk-factors-to-save-lives/video-3-a-logistic-regression-model/video-3-a-logistic-regression-model-0/0x4PfWpy-ls.pdf
-  - uid: ce0c885d6360a5d513e2576edf83b980
-    parent_uid: 51e8cebadabc6b3afbd25374c0538f4b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 76487fab3881125306bff2987d203405
-    parent_uid: 51e8cebadabc6b3afbd25374c0538f4b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a9be73bd3bb4b20e94fb633f2b886372
-    parent_uid: 51e8cebadabc6b3afbd25374c0538f4b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0x4PfWpy-ls/default.jpg'
-  - uid: cf29e96e3aa70248b1ede6c9f5ed4925
-    parent_uid: 51e8cebadabc6b3afbd25374c0538f4b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.3.05_300k.mp4
+uid: 51e8cebadabc6b3afbd25374c0538f4b
 type: courses
 layout: video
 ---

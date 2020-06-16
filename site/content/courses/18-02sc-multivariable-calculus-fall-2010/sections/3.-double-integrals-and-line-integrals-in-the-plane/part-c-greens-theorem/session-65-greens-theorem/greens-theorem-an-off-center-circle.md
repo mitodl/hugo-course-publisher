@@ -1,13 +1,68 @@
 ---
-title: 'Green''s Theorem: An Off Center Circle'
-uid: 713b229c5331e8c6e80111454d292356
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: jUrPIbJWpOA
+    parent_uid: 713b229c5331e8c6e80111454d292356
+    title: Video-YouTube-Stream
+    type: Video
+    uid: adc45510c36422dbd0f0831575f66fa0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/jUrPIbJWpOA/default.jpg'
+    parent_uid: 713b229c5331e8c6e80111454d292356
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 75f8096c5781a31d0163d8fbd3b985df
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_45_300k.mp4'
+    parent_uid: 713b229c5331e8c6e80111454d292356
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6d723d9ccb45f89b5771bc7a2779b5ea
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/greens-theorem-off-center/id414355340?i=90322851
+    parent_uid: 713b229c5331e8c6e80111454d292356
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f29ecf7da5c7eddf2372b793f1816d18
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: jUrPIbJWpOA
+    parent_uid: 713b229c5331e8c6e80111454d292356
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e1b271e48f5055ee3684e8b8bb9c609e
+  - id: jUrPIbJWpOA.srt
+    parent_uid: 713b229c5331e8c6e80111454d292356
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-65-greens-theorem/greens-theorem-an-off-center-circle/jUrPIbJWpOA.srt
+    title: 3play caption file
+    type: null
+    uid: fefbd14d197bb8b11c9ab4bb51ae79da
+  - id: jUrPIbJWpOA.pdf
+    parent_uid: 713b229c5331e8c6e80111454d292356
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-65-greens-theorem/greens-theorem-an-off-center-circle/jUrPIbJWpOA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0895e7744df007a8fd1a58b7c0e9916d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 713b229c5331e8c6e80111454d292356
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 218fdaee12243905ade3c673b77c661e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 713b229c5331e8c6e80111454d292356
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1c8e36ecb0377270d6d0219d31495913
+inline_embed_id: '20229414green''stheorem:anoffcentercircle45019706'
 parent_uid: bb85ae20524b81e6eb9ad8ae9cd2220c
+related_resources_text: ''
+short_url: greens-theorem-an-off-center-circle
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-65-greens-theorem/greens-theorem-an-off-center-circle
-short_url: greens-theorem-an-off-center-circle
-inline_embed_id: '20229414green''stheorem:anoffcentercircle45019706'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Green''s Theorem: An Off Center Circle'
 transcript: >-
   <p><span m='0'>CHRISTINE BREINER:</span> <span m='7360'>Welcome</span> <span
   m='7750'>back to</span> <span m='7970'>recitation.</span> <span
@@ -561,62 +616,7 @@ transcript: >-
   m='449070'>So</span> <span m='449430'>I</span> <span m='449550'>think</span>
   <span m='449770'>that's</span> <span m='449930'>where</span> <span
   m='450040'>I'll</span> <span m='450180'>stop.</span> </p>
-embedded_media:
-  - uid: adc45510c36422dbd0f0831575f66fa0
-    parent_uid: 713b229c5331e8c6e80111454d292356
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: jUrPIbJWpOA
-  - uid: 75f8096c5781a31d0163d8fbd3b985df
-    parent_uid: 713b229c5331e8c6e80111454d292356
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/jUrPIbJWpOA/default.jpg'
-  - uid: 6d723d9ccb45f89b5771bc7a2779b5ea
-    parent_uid: 713b229c5331e8c6e80111454d292356
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_45_300k.mp4'
-  - uid: f29ecf7da5c7eddf2372b793f1816d18
-    parent_uid: 713b229c5331e8c6e80111454d292356
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/greens-theorem-off-center/id414355340?i=90322851
-  - uid: e1b271e48f5055ee3684e8b8bb9c609e
-    parent_uid: 713b229c5331e8c6e80111454d292356
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: jUrPIbJWpOA
-  - uid: fefbd14d197bb8b11c9ab4bb51ae79da
-    parent_uid: 713b229c5331e8c6e80111454d292356
-    id: jUrPIbJWpOA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-65-greens-theorem/greens-theorem-an-off-center-circle/jUrPIbJWpOA.srt
-  - uid: 0895e7744df007a8fd1a58b7c0e9916d
-    parent_uid: 713b229c5331e8c6e80111454d292356
-    id: jUrPIbJWpOA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-65-greens-theorem/greens-theorem-an-off-center-circle/jUrPIbJWpOA.pdf
-  - uid: 218fdaee12243905ade3c673b77c661e
-    parent_uid: 713b229c5331e8c6e80111454d292356
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1c8e36ecb0377270d6d0219d31495913
-    parent_uid: 713b229c5331e8c6e80111454d292356
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 713b229c5331e8c6e80111454d292356
 type: courses
 layout: video
 ---

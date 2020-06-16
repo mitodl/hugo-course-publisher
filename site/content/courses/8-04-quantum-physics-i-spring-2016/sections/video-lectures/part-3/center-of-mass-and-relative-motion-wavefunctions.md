@@ -1,13 +1,67 @@
 ---
-title: Center of mass and relative motion wavefunctions
-uid: 6e525ab34601c13dc674e847d79a37e2
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: dVWKsiaAZ14
+    parent_uid: 6e525ab34601c13dc674e847d79a37e2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1398c872504d9f1db6aa723c520e866e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/dVWKsiaAZ14/default.jpg'
+    parent_uid: 6e525ab34601c13dc674e847d79a37e2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ae53fbb47f3722d2ee81d78e03d52775
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: dVWKsiaAZ14
+    parent_uid: 6e525ab34601c13dc674e847d79a37e2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 65f2bbe758c1cff71704a09b7432773f
+  - id: dVWKsiaAZ14.srt
+    parent_uid: 6e525ab34601c13dc674e847d79a37e2
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/center-of-mass-and-relative-motion-wavefunctions/dVWKsiaAZ14.srt
+    title: 3play caption file
+    type: null
+    uid: 70a8093b15ae02c579e5c4d4b8d104cd
+  - id: dVWKsiaAZ14.pdf
+    parent_uid: 6e525ab34601c13dc674e847d79a37e2
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/center-of-mass-and-relative-motion-wavefunctions/dVWKsiaAZ14.pdf
+    title: 3play pdf file
+    type: null
+    uid: ae5eb9f543b75a5c7b8d4dabc30434a9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 6e525ab34601c13dc674e847d79a37e2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: edf4b8f9fd1132bb3de5db365141e7ab
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 6e525ab34601c13dc674e847d79a37e2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 21e08041d815fa966aeb7b51a93d1302
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 6e525ab34601c13dc674e847d79a37e2
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3d3329de85092ccdfefb43b813e305b8
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec22_s1_300k.mp4'
+    parent_uid: 6e525ab34601c13dc674e847d79a37e2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 04e82a249c9b02da1af4de9a2a8fba1f
+inline_embed_id: 45579180centerofmassandrelativemotionwavefunctions75213566
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: center-of-mass-and-relative-motion-wavefunctions
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/center-of-mass-and-relative-motion-wavefunctions
-short_url: center-of-mass-and-relative-motion-wavefunctions
-inline_embed_id: 45579180centerofmassandrelativemotionwavefunctions75213566
-about_this_resource_text: ''
-related_resources_text: ''
+title: Center of mass and relative motion wavefunctions
 transcript: >-
   <p><span m='320'>PROFESSOR:</span> <span m='356'>We</span> <span
   m='392'>have</span> <span m='670'>the</span> <span m='790'>hydrogen</span>
@@ -644,61 +698,7 @@ transcript: >-
   m='859800'>So</span> <span m='860020'>that's</span> <span
   m='860290'>what</span> <span m='860440'>we'll</span> <span
   m='860650'>do</span> <span m='860860'>next.</span> </p>
-embedded_media:
-  - uid: 1398c872504d9f1db6aa723c520e866e
-    parent_uid: 6e525ab34601c13dc674e847d79a37e2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: dVWKsiaAZ14
-  - uid: ae53fbb47f3722d2ee81d78e03d52775
-    parent_uid: 6e525ab34601c13dc674e847d79a37e2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/dVWKsiaAZ14/default.jpg'
-  - uid: 65f2bbe758c1cff71704a09b7432773f
-    parent_uid: 6e525ab34601c13dc674e847d79a37e2
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: dVWKsiaAZ14
-  - uid: 70a8093b15ae02c579e5c4d4b8d104cd
-    parent_uid: 6e525ab34601c13dc674e847d79a37e2
-    id: dVWKsiaAZ14.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/center-of-mass-and-relative-motion-wavefunctions/dVWKsiaAZ14.srt
-  - uid: ae5eb9f543b75a5c7b8d4dabc30434a9
-    parent_uid: 6e525ab34601c13dc674e847d79a37e2
-    id: dVWKsiaAZ14.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/center-of-mass-and-relative-motion-wavefunctions/dVWKsiaAZ14.pdf
-  - uid: edf4b8f9fd1132bb3de5db365141e7ab
-    parent_uid: 6e525ab34601c13dc674e847d79a37e2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 21e08041d815fa966aeb7b51a93d1302
-    parent_uid: 6e525ab34601c13dc674e847d79a37e2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3d3329de85092ccdfefb43b813e305b8
-    parent_uid: 6e525ab34601c13dc674e847d79a37e2
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 04e82a249c9b02da1af4de9a2a8fba1f
-    parent_uid: 6e525ab34601c13dc674e847d79a37e2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec22_s1_300k.mp4'
+uid: 6e525ab34601c13dc674e847d79a37e2
 type: courses
 layout: video
 ---

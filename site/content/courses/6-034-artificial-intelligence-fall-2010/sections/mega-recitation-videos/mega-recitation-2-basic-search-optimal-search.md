@@ -1,20 +1,75 @@
 ---
-title: 'Mega-Recitation 2: Basic Search, Optimal Search'
-uid: 92eec3e5962365ab83ff7f3a2206b1c6
-parent_uid: 6be7704ddfe26b4e12703167347dd5bb
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-2-basic-search-optimal-search
-short_url: mega-recitation-2-basic-search-optimal-search
-inline_embed_id: '94747347mega-recitation2:basicsearch,optimalsearch42421660'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This mega-recitation covers Problem 2 from
   Quiz 1, Fall 2008.  We start with depth-first search and breadth-first search,
   using a goal tree in each case. We then discuss branch and bound and A*, and
   why they give different answers in this problem.</p>
   <p><strong>Instructor:</strong> Mark Seifter</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Tl_p5pgBsyM
+    parent_uid: 92eec3e5962365ab83ff7f3a2206b1c6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: dc65d9783b79274c3b53e18778912bf0
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/mega-recitation-2-basic-search/id765641080?i=194482716
+    parent_uid: 92eec3e5962365ab83ff7f3a2206b1c6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3b88ad87e1887885f5cf2c1185bd8dcc
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_rec02_300k.mp4'
+    parent_uid: 92eec3e5962365ab83ff7f3a2206b1c6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1702ad0fe60e20fb4b5f5a746f13f612
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Tl_p5pgBsyM/default.jpg'
+    parent_uid: 92eec3e5962365ab83ff7f3a2206b1c6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ef26319b0e2615aae0c0b8d1b8b61def
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Tl_p5pgBsyM
+    parent_uid: 92eec3e5962365ab83ff7f3a2206b1c6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bc34cd0d3889c7b6b6f1d21f5994d30d
+  - id: Tl_p5pgBsyM.srt
+    parent_uid: 92eec3e5962365ab83ff7f3a2206b1c6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-2-basic-search-optimal-search/Tl_p5pgBsyM.srt
+    title: 3play caption file
+    type: null
+    uid: a3c41c501c0de39f1ca31179abb6eebd
+  - id: Tl_p5pgBsyM.pdf
+    parent_uid: 92eec3e5962365ab83ff7f3a2206b1c6
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-2-basic-search-optimal-search/Tl_p5pgBsyM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 020270f53204e7c28646ee56314d3612
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 92eec3e5962365ab83ff7f3a2206b1c6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 995cb76ccaee688bd2befb3ebc8fd56f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 92eec3e5962365ab83ff7f3a2206b1c6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f9d3f0d8f5cb6c2d99835715942b538d
+inline_embed_id: '94747347mega-recitation2:basicsearch,optimalsearch42421660'
+parent_uid: 6be7704ddfe26b4e12703167347dd5bb
 related_resources_text: >-
   <p><a href="./resolveuid/d9abc0c6a12e6b2dfa4ca2b488c63842"
   target="_blank">Quiz 1, Fall 2008 (PDF)</a></p>
+short_url: mega-recitation-2-basic-search-optimal-search
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-2-basic-search-optimal-search
+title: 'Mega-Recitation 2: Basic Search, Optimal Search'
 transcript: >-
   <p><span m='60'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1220'>is</span> <span m='1330'>provided</span>
@@ -3865,62 +3920,7 @@ transcript: >-
   m='3113780'>You're</span> <span m='3113930'>going</span> <span
   m='3114050'>to</span> <span m='3114110'>do</span> <span
   m='3114230'>fine.</span> </p>
-embedded_media:
-  - uid: dc65d9783b79274c3b53e18778912bf0
-    parent_uid: 92eec3e5962365ab83ff7f3a2206b1c6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Tl_p5pgBsyM
-  - uid: 3b88ad87e1887885f5cf2c1185bd8dcc
-    parent_uid: 92eec3e5962365ab83ff7f3a2206b1c6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/mega-recitation-2-basic-search/id765641080?i=194482716
-  - uid: 1702ad0fe60e20fb4b5f5a746f13f612
-    parent_uid: 92eec3e5962365ab83ff7f3a2206b1c6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_rec02_300k.mp4'
-  - uid: ef26319b0e2615aae0c0b8d1b8b61def
-    parent_uid: 92eec3e5962365ab83ff7f3a2206b1c6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Tl_p5pgBsyM/default.jpg'
-  - uid: bc34cd0d3889c7b6b6f1d21f5994d30d
-    parent_uid: 92eec3e5962365ab83ff7f3a2206b1c6
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Tl_p5pgBsyM
-  - uid: a3c41c501c0de39f1ca31179abb6eebd
-    parent_uid: 92eec3e5962365ab83ff7f3a2206b1c6
-    id: Tl_p5pgBsyM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-2-basic-search-optimal-search/Tl_p5pgBsyM.srt
-  - uid: 020270f53204e7c28646ee56314d3612
-    parent_uid: 92eec3e5962365ab83ff7f3a2206b1c6
-    id: Tl_p5pgBsyM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-2-basic-search-optimal-search/Tl_p5pgBsyM.pdf
-  - uid: 995cb76ccaee688bd2befb3ebc8fd56f
-    parent_uid: 92eec3e5962365ab83ff7f3a2206b1c6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f9d3f0d8f5cb6c2d99835715942b538d
-    parent_uid: 92eec3e5962365ab83ff7f3a2206b1c6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 92eec3e5962365ab83ff7f3a2206b1c6
 type: courses
 layout: video
 ---

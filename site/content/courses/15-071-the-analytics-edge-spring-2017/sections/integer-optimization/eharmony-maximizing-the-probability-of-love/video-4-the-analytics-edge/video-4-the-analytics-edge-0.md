@@ -1,13 +1,62 @@
 ---
-title: 'Video 4: The Analytics Edge'
-uid: b2c338b4b9ee6e7d35320ce66e52ba0c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: bzxoBEh4is8
+    parent_uid: b2c338b4b9ee6e7d35320ce66e52ba0c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 082a7851a57a340847761eed10a67798
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: bzxoBEh4is8
+    parent_uid: b2c338b4b9ee6e7d35320ce66e52ba0c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5233539ade8184e3ec992e96b399c870
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/bzxoBEh4is8/default.jpg'
+    parent_uid: b2c338b4b9ee6e7d35320ce66e52ba0c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 44b1b0abac8f805b6dda55cc14e38b93
+  - id: bzxoBEh4is8.srt
+    parent_uid: b2c338b4b9ee6e7d35320ce66e52ba0c
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-4-the-analytics-edge/video-4-the-analytics-edge-0/bzxoBEh4is8.srt
+    title: 3play caption file
+    type: null
+    uid: cbc83035c98f53b475b9dbcf53d64422
+  - id: bzxoBEh4is8.pdf
+    parent_uid: b2c338b4b9ee6e7d35320ce66e52ba0c
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-4-the-analytics-edge/video-4-the-analytics-edge-0/bzxoBEh4is8.pdf
+    title: 3play pdf file
+    type: null
+    uid: b9e996ac3393bfbd934bae77ec8292ae
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b2c338b4b9ee6e7d35320ce66e52ba0c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6583360b22545295903cc6538883a9bf
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b2c338b4b9ee6e7d35320ce66e52ba0c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8a3016f61cd89c75e32cbf2874f65cc7
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_9.3.07_300k.mp4
+    parent_uid: b2c338b4b9ee6e7d35320ce66e52ba0c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0ab25c529debb07d91e03b59baece393
+inline_embed_id: 85259516video4theanalyticsedge25494050
 parent_uid: 77d81d8b92b7acee0e6b7bc04c4a9533
+related_resources_text: ''
+short_url: video-4-the-analytics-edge-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-4-the-analytics-edge/video-4-the-analytics-edge-0
-short_url: video-4-the-analytics-edge-0
-inline_embed_id: 85259516video4theanalyticsedge25494050
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 4: The Analytics Edge'
 transcript: >-
   <p><span m='9490'>Let</span> <span m='9917'>us</span> <span
   m='10345'>discuss</span> <span m='10772'>how</span> <span
@@ -66,56 +115,7 @@ transcript: >-
   m='72393'>is</span> <span m='72817'>at</span> <span m='73241'>the</span> <span
   m='73665'>core</span> <span m='74088'>of</span> <span m='74512'>this</span>
   <span m='74936'>business.</span> </p>
-embedded_media:
-  - uid: 082a7851a57a340847761eed10a67798
-    parent_uid: b2c338b4b9ee6e7d35320ce66e52ba0c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: bzxoBEh4is8
-  - uid: 5233539ade8184e3ec992e96b399c870
-    parent_uid: b2c338b4b9ee6e7d35320ce66e52ba0c
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: bzxoBEh4is8
-  - uid: 44b1b0abac8f805b6dda55cc14e38b93
-    parent_uid: b2c338b4b9ee6e7d35320ce66e52ba0c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/bzxoBEh4is8/default.jpg'
-  - uid: cbc83035c98f53b475b9dbcf53d64422
-    parent_uid: b2c338b4b9ee6e7d35320ce66e52ba0c
-    id: bzxoBEh4is8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-4-the-analytics-edge/video-4-the-analytics-edge-0/bzxoBEh4is8.srt
-  - uid: b9e996ac3393bfbd934bae77ec8292ae
-    parent_uid: b2c338b4b9ee6e7d35320ce66e52ba0c
-    id: bzxoBEh4is8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-4-the-analytics-edge/video-4-the-analytics-edge-0/bzxoBEh4is8.pdf
-  - uid: 6583360b22545295903cc6538883a9bf
-    parent_uid: b2c338b4b9ee6e7d35320ce66e52ba0c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8a3016f61cd89c75e32cbf2874f65cc7
-    parent_uid: b2c338b4b9ee6e7d35320ce66e52ba0c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0ab25c529debb07d91e03b59baece393
-    parent_uid: b2c338b4b9ee6e7d35320ce66e52ba0c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_9.3.07_300k.mp4
+uid: b2c338b4b9ee6e7d35320ce66e52ba0c
 type: courses
 layout: video
 ---

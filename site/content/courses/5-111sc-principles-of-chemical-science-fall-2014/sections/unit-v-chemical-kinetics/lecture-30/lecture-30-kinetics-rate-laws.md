@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 30: Kinetics: Rate Laws'
-uid: cd8c5e1731a66155618e6ca8df63e29b
-parent_uid: bd55059e8b182febfb2bc8aef5adde05
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-30/lecture-30-kinetics-rate-laws
-short_url: lecture-30-kinetics-rate-laws
-inline_embed_id: 38007127lecture30kineticsratelaws26081038
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: Whether a reaction will go forward spontaneously
@@ -17,7 +10,68 @@ about_this_resource_text: >-
   oscillating clock reaction. Watch as colors change quickly as different steps
   in the reaction become spontaneous.</p> <p><strong>Instructor:
   </strong>Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: B7iFcW8USjQ
+    parent_uid: cd8c5e1731a66155618e6ca8df63e29b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1c4d925ef767510bfdcf44343724d2ae
+  - id: B7iFcW8USjQ.srt
+    parent_uid: cd8c5e1731a66155618e6ca8df63e29b
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-30/lecture-30-kinetics-rate-laws/B7iFcW8USjQ.srt
+    title: 3play caption file
+    type: null
+    uid: 762efcfa3f69cd2c20436bc497a842da
+  - id: B7iFcW8USjQ.pdf
+    parent_uid: cd8c5e1731a66155618e6ca8df63e29b
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-30/lecture-30-kinetics-rate-laws/B7iFcW8USjQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 989160dc5db63bdc4a5a15c42f223449
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cd8c5e1731a66155618e6ca8df63e29b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 01241028dd34cff583855866eea4ac64
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cd8c5e1731a66155618e6ca8df63e29b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c0aa26ef1210aa1b85111bc503b0524b
+  - id: Video-YouTube-Stream
+    media_location: B7iFcW8USjQ
+    parent_uid: cd8c5e1731a66155618e6ca8df63e29b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6f30c493ea700c4f55219bd08d96c4f3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/B7iFcW8USjQ/default.jpg'
+    parent_uid: cd8c5e1731a66155618e6ca8df63e29b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: dddaaf54b1988bcc20c918c470563f90
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: cd8c5e1731a66155618e6ca8df63e29b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bbb75ff5f772130dbc16eb3217ad2c1f
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L30_300k.mp4'
+    parent_uid: cd8c5e1731a66155618e6ca8df63e29b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bc7d09a8c0d5827791b006e90170757a
+inline_embed_id: 38007127lecture30kineticsratelaws26081038
+parent_uid: bd55059e8b182febfb2bc8aef5adde05
 related_resources_text: ''
+short_url: lecture-30-kinetics-rate-laws
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-30/lecture-30-kinetics-rate-laws
+title: 'Lecture 30: Kinetics: Rate Laws'
 transcript: >-
   <p><span m="30">The</span> <span m="130">following</span> <span
   m="600">content</span> <span m="1090">is</span> <span m="1200">provided</span>
@@ -2976,61 +3030,7 @@ transcript: >-
   m="2711980">first-order</span> <span m="2712680">process,</span> <span
   m="2713700">which</span> <span m="2714050">is</span> <span
   m="2714350">radioactive</span> <span m="2715100">decay.</span></p>
-embedded_media:
-  - uid: 1c4d925ef767510bfdcf44343724d2ae
-    parent_uid: cd8c5e1731a66155618e6ca8df63e29b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: B7iFcW8USjQ
-  - uid: 762efcfa3f69cd2c20436bc497a842da
-    parent_uid: cd8c5e1731a66155618e6ca8df63e29b
-    id: B7iFcW8USjQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-30/lecture-30-kinetics-rate-laws/B7iFcW8USjQ.srt
-  - uid: 989160dc5db63bdc4a5a15c42f223449
-    parent_uid: cd8c5e1731a66155618e6ca8df63e29b
-    id: B7iFcW8USjQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-30/lecture-30-kinetics-rate-laws/B7iFcW8USjQ.pdf
-  - uid: 01241028dd34cff583855866eea4ac64
-    parent_uid: cd8c5e1731a66155618e6ca8df63e29b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c0aa26ef1210aa1b85111bc503b0524b
-    parent_uid: cd8c5e1731a66155618e6ca8df63e29b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6f30c493ea700c4f55219bd08d96c4f3
-    parent_uid: cd8c5e1731a66155618e6ca8df63e29b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: B7iFcW8USjQ
-  - uid: dddaaf54b1988bcc20c918c470563f90
-    parent_uid: cd8c5e1731a66155618e6ca8df63e29b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/B7iFcW8USjQ/default.jpg'
-  - uid: bbb75ff5f772130dbc16eb3217ad2c1f
-    parent_uid: cd8c5e1731a66155618e6ca8df63e29b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: bc7d09a8c0d5827791b006e90170757a
-    parent_uid: cd8c5e1731a66155618e6ca8df63e29b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L30_300k.mp4'
+uid: cd8c5e1731a66155618e6ca8df63e29b
 type: courses
 layout: video
 ---

@@ -1,18 +1,72 @@
 ---
-title: 'Clip: Finale'
-uid: fd631450a4763f3eada13e63fba9688d
-parent_uid: c22c320788f09de5fe78a6e305cad2b4
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-101-conclusion/clip-finale
-short_url: clip-finale
-inline_embed_id: '42567472clip:finale67777967'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/b36b8b8d0d0011be962513baabe7c760"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 39 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: '--lPz7VFnKI'
+    parent_uid: fd631450a4763f3eada13e63fba9688d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: cc933afd2934a59d97bf437c292baf5c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/--lPz7VFnKI/default.jpg'
+    parent_uid: fd631450a4763f3eada13e63fba9688d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1aaf5976e6bfdf203f37c56535574259
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: '--lPz7VFnKI'
+    parent_uid: fd631450a4763f3eada13e63fba9688d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: bec73a00b2eae2b82eb65393f34157c4
+  - id: '--lPz7VFnKI.srt'
+    parent_uid: fd631450a4763f3eada13e63fba9688d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-101-conclusion/clip-finale/--lPz7VFnKI.srt
+    title: 3play caption file
+    type: null
+    uid: 25f210d32328ebbae2bea869cc02d4a2
+  - id: '--lPz7VFnKI.pdf'
+    parent_uid: fd631450a4763f3eada13e63fba9688d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-101-conclusion/clip-finale/--lPz7VFnKI.pdf
+    title: 3play pdf file
+    type: null
+    uid: a79d6cd80f70d758139370450ef8b112
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fd631450a4763f3eada13e63fba9688d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: accc29d5bde65cc521fad7e855a1f0bd
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fd631450a4763f3eada13e63fba9688d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bdfab0925383b388a2b609635427f7d8
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec39_300k.mp4'
+    parent_uid: fd631450a4763f3eada13e63fba9688d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d0eb0392bda7220b9806d3d6c9932fea
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: fd631450a4763f3eada13e63fba9688d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3c0b4bcd4cc5c4b0fc333a3db687022e
+inline_embed_id: '42567472clip:finale67777967'
+parent_uid: c22c320788f09de5fe78a6e305cad2b4
 related_resources_text: ''
+short_url: clip-finale
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-101-conclusion/clip-finale
+title: 'Clip: Finale'
 transcript: >-
   <p><span m='0'>The</span> <span m='120'>following</span> <span
   m='530'>content</span> <span m='1270'>is</span> <span m='1420'>provided</span>
@@ -2262,61 +2316,7 @@ transcript: >-
   m='2343830'>the</span> <span m='2343930'>points</span> <span
   m='2344200'>home</span> <span m='2344470'>forcefully,</span> <span
   m='2344563'>I</span> <span m='2344656'>think.</span> </p>
-embedded_media:
-  - uid: cc933afd2934a59d97bf437c292baf5c
-    parent_uid: fd631450a4763f3eada13e63fba9688d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '--lPz7VFnKI'
-  - uid: 1aaf5976e6bfdf203f37c56535574259
-    parent_uid: fd631450a4763f3eada13e63fba9688d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/--lPz7VFnKI/default.jpg'
-  - uid: bec73a00b2eae2b82eb65393f34157c4
-    parent_uid: fd631450a4763f3eada13e63fba9688d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '--lPz7VFnKI'
-  - uid: 25f210d32328ebbae2bea869cc02d4a2
-    parent_uid: fd631450a4763f3eada13e63fba9688d
-    id: '--lPz7VFnKI.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-101-conclusion/clip-finale/--lPz7VFnKI.srt
-  - uid: a79d6cd80f70d758139370450ef8b112
-    parent_uid: fd631450a4763f3eada13e63fba9688d
-    id: '--lPz7VFnKI.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-101-conclusion/clip-finale/--lPz7VFnKI.pdf
-  - uid: accc29d5bde65cc521fad7e855a1f0bd
-    parent_uid: fd631450a4763f3eada13e63fba9688d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bdfab0925383b388a2b609635427f7d8
-    parent_uid: fd631450a4763f3eada13e63fba9688d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d0eb0392bda7220b9806d3d6c9932fea
-    parent_uid: fd631450a4763f3eada13e63fba9688d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec39_300k.mp4'
-  - uid: 3c0b4bcd4cc5c4b0fc333a3db687022e
-    parent_uid: fd631450a4763f3eada13e63fba9688d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: fd631450a4763f3eada13e63fba9688d
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: Expected Number Of Heads
-uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 7adaff6bb592d4f3c53085a45ff71d46
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5eaa0932570caa1638ee2798471b3662
+  - id: Video-YouTube-Stream
+    media_location: D9l-pIg1Ayo
+    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8079282f76ffcdd83ac102346c896d4f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/D9l-pIg1Ayo/default.jpg'
+    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 05de1c245a597c6c669fbb64fa51a27c
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: D9l-pIg1Ayo
+    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d9c29a00624df36b63795277c9abd9ff
+  - id: D9l-pIg1Ayo.srt
+    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-07d1783f0da3/expected-number-of-heads/D9l-pIg1Ayo.srt
+    title: 3play caption file
+    type: null
+    uid: 16ecc4c472e96ae47d7aa1e8eaca3c83
+  - id: D9l-pIg1Ayo.pdf
+    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-07d1783f0da3/expected-number-of-heads/D9l-pIg1Ayo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1b99c963f8e7917ec2c904c935c4d4e9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e03a7d31f079299708825631c8d53f02
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4c0bc99b91526aa64533f3a2263ada18
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_expectheads_video_ipod.mp4
+    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f12e54d0556624d931f4f8e1d9816770
+inline_embed_id: 15130518expectednumberofheads61925574
 parent_uid: 264ec4271e9bf721357f6e77d50cabc6
+related_resources_text: ''
+short_url: expected-number-of-heads
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-07d1783f0da3/expected-number-of-heads
-short_url: expected-number-of-heads
-inline_embed_id: 15130518expectednumberofheads61925574
-about_this_resource_text: ''
-related_resources_text: ''
+title: Expected Number Of Heads
 transcript: >-
   <p><span m='1020'>So</span> <span m='1200'>for</span> <span
   m='1360'>practice</span> <span m='1960'>with</span> <span
@@ -321,67 +381,7 @@ transcript: >-
   m='274520'>out</span> <span m='274890'>in</span> <span m='275080'>terms</span>
   <span m='275390'>of</span> <span m='275710'>the</span> <span
   m='276050'>binomial</span> <span m='276850'>theorem.</span> </p>
-embedded_media:
-  - uid: 7adaff6bb592d4f3c53085a45ff71d46
-    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 5eaa0932570caa1638ee2798471b3662
-    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 8079282f76ffcdd83ac102346c896d4f
-    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: D9l-pIg1Ayo
-  - uid: 05de1c245a597c6c669fbb64fa51a27c
-    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/D9l-pIg1Ayo/default.jpg'
-  - uid: d9c29a00624df36b63795277c9abd9ff
-    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: D9l-pIg1Ayo
-  - uid: 16ecc4c472e96ae47d7aa1e8eaca3c83
-    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
-    id: D9l-pIg1Ayo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-07d1783f0da3/expected-number-of-heads/D9l-pIg1Ayo.srt
-  - uid: 1b99c963f8e7917ec2c904c935c4d4e9
-    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
-    id: D9l-pIg1Ayo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-07d1783f0da3/expected-number-of-heads/D9l-pIg1Ayo.pdf
-  - uid: e03a7d31f079299708825631c8d53f02
-    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4c0bc99b91526aa64533f3a2263ada18
-    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: f12e54d0556624d931f4f8e1d9816770
-    parent_uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_expectheads_video_ipod.mp4
+uid: 0aec295dd7f62b4ac2f42e9fa2a4d7f2
 type: courses
 layout: video
 ---

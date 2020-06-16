@@ -1,13 +1,61 @@
 ---
-title: 'Lecture Video 21: Phased Radar, Single Electron Interference'
-uid: ed9664d93b08bc5f0d66052394423d8a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: mqhO9GT8hD4
+    parent_uid: ed9664d93b08bc5f0d66052394423d8a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d289eb13713ce62fc2af00dc3fb07dc3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/mqhO9GT8hD4/default.jpg'
+    parent_uid: ed9664d93b08bc5f0d66052394423d8a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ef71b127f5259b413ded3390e71f7fb7
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: mqhO9GT8hD4
+    parent_uid: ed9664d93b08bc5f0d66052394423d8a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 193012915bda425bce669f452650470d
+  - id: mqhO9GT8hD4.srt
+    parent_uid: ed9664d93b08bc5f0d66052394423d8a
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-21-video/mqhO9GT8hD4.srt
+    title: 3play caption file
+    type: null
+    uid: 9b5fa4922b4a4bcb18d6c819275dae5d
+  - id: mqhO9GT8hD4.pdf
+    parent_uid: ed9664d93b08bc5f0d66052394423d8a
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-21-video/mqhO9GT8hD4.pdf
+    title: 3play pdf file
+    type: null
+    uid: b508b60ba82194968c7f40798c584343
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ed9664d93b08bc5f0d66052394423d8a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f7e634461ee7d59147c5351c4e3a8856
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ed9664d93b08bc5f0d66052394423d8a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: b755fc582c74a021b7e516b55a9b5c5b
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec21_300k.mp4'
+    parent_uid: ed9664d93b08bc5f0d66052394423d8a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8d3d2fa4c3a3bfba9c2b98d2ae18e8b4
+inline_embed_id: 90227961lecture21video64777729
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-21-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-21-video
-short_url: lecture-21-video
-inline_embed_id: 90227961lecture21video64777729
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture Video 21: Phased Radar, Single Electron Interference'
 transcript: >-
   <p><span m="2490">The</span> <span m="2580">following</span> <span
   m="3030">content</span> <span m="3510">is</span> <span
@@ -4418,55 +4466,7 @@ transcript: >-
   m="4707750">the</span> <span m="4707900">single</span> <span
   m="4708150">slit</span> <span m="4709060">diffraction</span> <span
   m="4709360">pattern.</span></p><p>&nbsp;</p><p>&nbsp;</p>
-embedded_media:
-  - uid: d289eb13713ce62fc2af00dc3fb07dc3
-    parent_uid: ed9664d93b08bc5f0d66052394423d8a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: mqhO9GT8hD4
-  - uid: ef71b127f5259b413ded3390e71f7fb7
-    parent_uid: ed9664d93b08bc5f0d66052394423d8a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/mqhO9GT8hD4/default.jpg'
-  - uid: 193012915bda425bce669f452650470d
-    parent_uid: ed9664d93b08bc5f0d66052394423d8a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: mqhO9GT8hD4
-  - uid: 9b5fa4922b4a4bcb18d6c819275dae5d
-    parent_uid: ed9664d93b08bc5f0d66052394423d8a
-    id: mqhO9GT8hD4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-21-video/mqhO9GT8hD4.srt
-  - uid: b508b60ba82194968c7f40798c584343
-    parent_uid: ed9664d93b08bc5f0d66052394423d8a
-    id: mqhO9GT8hD4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-21-video/mqhO9GT8hD4.pdf
-  - uid: f7e634461ee7d59147c5351c4e3a8856
-    parent_uid: ed9664d93b08bc5f0d66052394423d8a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: b755fc582c74a021b7e516b55a9b5c5b
-    parent_uid: ed9664d93b08bc5f0d66052394423d8a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8d3d2fa4c3a3bfba9c2b98d2ae18e8b4
-    parent_uid: ed9664d93b08bc5f0d66052394423d8a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec21_300k.mp4'
+uid: ed9664d93b08bc5f0d66052394423d8a
 type: courses
 layout: video
 ---

@@ -1,16 +1,71 @@
 ---
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: CbDsSQEvEkA
+    parent_uid: f079282df10abc025d05341dd52e2d8a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: eeb8fb0e98fd5a7c76b5dc8a31035db0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/CbDsSQEvEkA/default.jpg'
+    parent_uid: f079282df10abc025d05341dd52e2d8a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9545b5383256d21bcb7d5e66a825adff
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: f079282df10abc025d05341dd52e2d8a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 98b088f537bda4eb3ab8d8c37d38c378
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_Course_Development_300k.mp4
+    parent_uid: f079282df10abc025d05341dd52e2d8a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: add7ee8347313414dd4f1b22e602c024
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: CbDsSQEvEkA
+    parent_uid: f079282df10abc025d05341dd52e2d8a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7ec733824f68e90d37deec6afed7e2bb
+  - id: CbDsSQEvEkA.srt
+    parent_uid: f079282df10abc025d05341dd52e2d8a
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-inspiration-for-the-course-and-intended-learning-outcomes/CbDsSQEvEkA.srt
+    title: 3play caption file
+    type: null
+    uid: c1d583b603ef2113367b993f3a7f342f
+  - id: CbDsSQEvEkA.pdf
+    parent_uid: f079282df10abc025d05341dd52e2d8a
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-inspiration-for-the-course-and-intended-learning-outcomes/CbDsSQEvEkA.pdf
+    title: 3play pdf file
+    type: null
+    uid: b125a25d8ac0545b2477a3dc2633f8a5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f079282df10abc025d05341dd52e2d8a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 488c25061826cba6cc1419e96a17b2ab
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f079282df10abc025d05341dd52e2d8a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f3b055dd327767d4e9c5f0c8174b52fc
+inline_embed_id: >-
+  46469771instructorinterview:inspirationforthecourseandintendedlearningoutcomes64051796
+parent_uid: 526193cf30dacdf1c6734faab57d51d7
+related_resources_text: ''
+short_url: instructor-interview-inspiration-for-the-course-and-intended-learning-outcomes
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-inspiration-for-the-course-and-intended-learning-outcomes
 title: >-
   Instructor Interview: Inspiration for the Course and Intended Learning
   outcomes
-uid: f079282df10abc025d05341dd52e2d8a
-parent_uid: 526193cf30dacdf1c6734faab57d51d7
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-inspiration-for-the-course-and-intended-learning-outcomes
-short_url: instructor-interview-inspiration-for-the-course-and-intended-learning-outcomes
-inline_embed_id: >-
-  46469771instructorinterview:inspirationforthecourseandintendedlearningoutcomes64051796
-about_this_resource_text: ''
-related_resources_text: ''
 transcript: >-
   <p><span m='5120'>ELIZABETH CHOE: So</span> <span m='5300'>hi,</span> <span
   m='5480'>I'm</span> <span m='5880'>Elizabeth</span> <span
@@ -547,62 +602,7 @@ transcript: >-
   m='461580'>entirely</span> <span m='462010'>there yet.</span> </p><p><span
   m='462230'>JOSHUA GUNN: Awareness</span> <span m='462530'>of</span> <span
   m='462830'>an</span> <span m='463130'>audience.</span> </p>
-embedded_media:
-  - uid: eeb8fb0e98fd5a7c76b5dc8a31035db0
-    parent_uid: f079282df10abc025d05341dd52e2d8a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: CbDsSQEvEkA
-  - uid: 9545b5383256d21bcb7d5e66a825adff
-    parent_uid: f079282df10abc025d05341dd52e2d8a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CbDsSQEvEkA/default.jpg'
-  - uid: 98b088f537bda4eb3ab8d8c37d38c378
-    parent_uid: f079282df10abc025d05341dd52e2d8a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: add7ee8347313414dd4f1b22e602c024
-    parent_uid: f079282df10abc025d05341dd52e2d8a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_Course_Development_300k.mp4
-  - uid: 7ec733824f68e90d37deec6afed7e2bb
-    parent_uid: f079282df10abc025d05341dd52e2d8a
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: CbDsSQEvEkA
-  - uid: c1d583b603ef2113367b993f3a7f342f
-    parent_uid: f079282df10abc025d05341dd52e2d8a
-    id: CbDsSQEvEkA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-inspiration-for-the-course-and-intended-learning-outcomes/CbDsSQEvEkA.srt
-  - uid: b125a25d8ac0545b2477a3dc2633f8a5
-    parent_uid: f079282df10abc025d05341dd52e2d8a
-    id: CbDsSQEvEkA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-inspiration-for-the-course-and-intended-learning-outcomes/CbDsSQEvEkA.pdf
-  - uid: 488c25061826cba6cc1419e96a17b2ab
-    parent_uid: f079282df10abc025d05341dd52e2d8a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f3b055dd327767d4e9c5f0c8174b52fc
-    parent_uid: f079282df10abc025d05341dd52e2d8a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f079282df10abc025d05341dd52e2d8a
 type: courses
 layout: video
 ---

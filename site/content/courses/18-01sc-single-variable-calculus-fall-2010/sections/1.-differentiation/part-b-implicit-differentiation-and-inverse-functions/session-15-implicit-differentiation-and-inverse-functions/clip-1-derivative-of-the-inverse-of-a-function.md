@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Derivative of the Inverse of a Function'
-uid: 3fa63db0186a5fcca0758cc5a5c531af
-parent_uid: 5668bfaf4a4849cdc9fb5962b4a18003
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/clip-1-derivative-of-the-inverse-of-a-function
-short_url: clip-1-derivative-of-the-inverse-of-a-function
-inline_embed_id: '44784883clip1:derivativeoftheinverseofafunction60721375'
 about_this_resource_text: >-
   <p>&raquo;<a target="_blank"
   href="./resolveuid/157e1a358da2e7815736937bf75b8942"> Accompanying Notes
   (PDF)</a></p> <p class="scholar_medsm">From Lecture 5 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 5q_3FDOkVRQ
+    parent_uid: 3fa63db0186a5fcca0758cc5a5c531af
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 69c4e5af3e9ae7c69014600d5c8e7c40
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/5q_3FDOkVRQ/default.jpg'
+    parent_uid: 3fa63db0186a5fcca0758cc5a5c531af
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 97d27028e11cf002a9217f92f69d9851
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec05_300k.mp4'
+    parent_uid: 3fa63db0186a5fcca0758cc5a5c531af
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c9317446f2121f482f0f798f60816f65
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 5q_3FDOkVRQ
+    parent_uid: 3fa63db0186a5fcca0758cc5a5c531af
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8bbd4f79571cb08439fe87c531b9844d
+  - id: 5q_3FDOkVRQ.srt
+    parent_uid: 3fa63db0186a5fcca0758cc5a5c531af
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/clip-1-derivative-of-the-inverse-of-a-function/5q_3FDOkVRQ.srt
+    title: 3play caption file
+    type: null
+    uid: 37d840fa9931dc0a2112952c5daf413e
+  - id: 5q_3FDOkVRQ.pdf
+    parent_uid: 3fa63db0186a5fcca0758cc5a5c531af
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/clip-1-derivative-of-the-inverse-of-a-function/5q_3FDOkVRQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: c3605471f8cc6a1f25cf148ca2ca58ed
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3fa63db0186a5fcca0758cc5a5c531af
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9d818eeef57509717770b2196e4cd1ce
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3fa63db0186a5fcca0758cc5a5c531af
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ac41e4ec681dca4142474c239baf9f5f
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 3fa63db0186a5fcca0758cc5a5c531af
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 013129f1f8ecc49a07f0b6087273d5cf
+inline_embed_id: '44784883clip1:derivativeoftheinverseofafunction60721375'
+parent_uid: 5668bfaf4a4849cdc9fb5962b4a18003
 related_resources_text: ''
+short_url: clip-1-derivative-of-the-inverse-of-a-function
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/clip-1-derivative-of-the-inverse-of-a-function
+title: 'Clip 1: Derivative of the Inverse of a Function'
 transcript: >-
   <p><span m="110">The</span> <span m="360">following</span> <span
   m="520">content</span> <span m="1130">was created</span> <span
@@ -2479,61 +2533,7 @@ transcript: >-
   <span m="2934230">discussed in your text.</span></p><p><span
   m="2936030">So</span> <span m="2936250">we'll</span> <span m="2936520">stop
   here.</span></p>
-embedded_media:
-  - uid: 69c4e5af3e9ae7c69014600d5c8e7c40
-    parent_uid: 3fa63db0186a5fcca0758cc5a5c531af
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 5q_3FDOkVRQ
-  - uid: 97d27028e11cf002a9217f92f69d9851
-    parent_uid: 3fa63db0186a5fcca0758cc5a5c531af
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/5q_3FDOkVRQ/default.jpg'
-  - uid: c9317446f2121f482f0f798f60816f65
-    parent_uid: 3fa63db0186a5fcca0758cc5a5c531af
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec05_300k.mp4'
-  - uid: 8bbd4f79571cb08439fe87c531b9844d
-    parent_uid: 3fa63db0186a5fcca0758cc5a5c531af
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 5q_3FDOkVRQ
-  - uid: 37d840fa9931dc0a2112952c5daf413e
-    parent_uid: 3fa63db0186a5fcca0758cc5a5c531af
-    id: 5q_3FDOkVRQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/clip-1-derivative-of-the-inverse-of-a-function/5q_3FDOkVRQ.srt
-  - uid: c3605471f8cc6a1f25cf148ca2ca58ed
-    parent_uid: 3fa63db0186a5fcca0758cc5a5c531af
-    id: 5q_3FDOkVRQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-b-implicit-differentiation-and-inverse-functions/session-15-implicit-differentiation-and-inverse-functions/clip-1-derivative-of-the-inverse-of-a-function/5q_3FDOkVRQ.pdf
-  - uid: 9d818eeef57509717770b2196e4cd1ce
-    parent_uid: 3fa63db0186a5fcca0758cc5a5c531af
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ac41e4ec681dca4142474c239baf9f5f
-    parent_uid: 3fa63db0186a5fcca0758cc5a5c531af
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 013129f1f8ecc49a07f0b6087273d5cf
-    parent_uid: 3fa63db0186a5fcca0758cc5a5c531af
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 3fa63db0186a5fcca0758cc5a5c531af
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: Motion of a wave-packet
-uid: 67b0d4a901267b99e884a6ff1ed3be0d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: i81OpQJIH8U
+    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 226c6e9b355c21ebe3076943237b6431
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/dPjVg8Zu-tI/default.jpg'
+    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0d5ad151afda46dd3019464a85aa63c0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: i81OpQJIH8U
+    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6aa3f336d87ce195f3394da6e14c8094
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 718b2058df44224eda8660994ebbe903
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec04_s5_300k.mp4'
+    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: dcb6b43f4badc795fdb26845e2c36411
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/i81OpQJIH8U/default.jpg'
+    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 17fce68ac3651225911d433d4f04ee34
+  - id: i81OpQJIH8U.srt
+    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/motion-of-a-wave-packet/i81OpQJIH8U.srt
+    title: 3play caption file
+    type: null
+    uid: a9915d0f967f528ab82b2e1369cd8b9a
+  - id: i81OpQJIH8U.pdf
+    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/motion-of-a-wave-packet/i81OpQJIH8U.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1b51cd232db72354d19224ab19fe2ddf
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b7af9aca50480e304589baacbf132082
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 30c3898017c64502b649ead4e99f7f15
+inline_embed_id: 8733231motionofawavepacket42518261
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: motion-of-a-wave-packet
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/motion-of-a-wave-packet
-short_url: motion-of-a-wave-packet
-inline_embed_id: 8733231motionofawavepacket42518261
-about_this_resource_text: ''
-related_resources_text: ''
+title: Motion of a wave-packet
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='210'>Let</span> <span
   m='420'>me</span> <span m='840'>demonstrate</span> <span m='1530'>now</span>
@@ -416,67 +476,7 @@ transcript: >-
   m='535310'>packets</span> <span m='536180'>that</span> <span
   m='537200'>we</span> <span m='537320'>need</span> <span m='537500'>to</span>
   <span m='537680'>understand.</span> </p>
-embedded_media:
-  - uid: 226c6e9b355c21ebe3076943237b6431
-    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: i81OpQJIH8U
-  - uid: 0d5ad151afda46dd3019464a85aa63c0
-    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/dPjVg8Zu-tI/default.jpg'
-  - uid: 6aa3f336d87ce195f3394da6e14c8094
-    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: i81OpQJIH8U
-  - uid: 718b2058df44224eda8660994ebbe903
-    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: dcb6b43f4badc795fdb26845e2c36411
-    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec04_s5_300k.mp4'
-  - uid: 17fce68ac3651225911d433d4f04ee34
-    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/i81OpQJIH8U/default.jpg'
-  - uid: a9915d0f967f528ab82b2e1369cd8b9a
-    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
-    id: i81OpQJIH8U.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/motion-of-a-wave-packet/i81OpQJIH8U.srt
-  - uid: 1b51cd232db72354d19224ab19fe2ddf
-    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
-    id: i81OpQJIH8U.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/motion-of-a-wave-packet/i81OpQJIH8U.pdf
-  - uid: b7af9aca50480e304589baacbf132082
-    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 30c3898017c64502b649ead4e99f7f15
-    parent_uid: 67b0d4a901267b99e884a6ff1ed3be0d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 67b0d4a901267b99e884a6ff1ed3be0d
 type: courses
 layout: video
 ---

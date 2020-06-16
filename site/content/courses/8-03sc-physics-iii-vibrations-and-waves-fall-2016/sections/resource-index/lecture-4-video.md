@@ -1,13 +1,61 @@
 ---
-title: 'Lecture Video 4: Coupled Oscillators, Normal Modes'
-uid: 5d6a4bd7ffa82a3611af644a1e228ba5
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: BX4QPdP7fT8
+    parent_uid: 5d6a4bd7ffa82a3611af644a1e228ba5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ee2ba0d1bc7681f9c32cdb9ad6a95ed7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BX4QPdP7fT8/default.jpg'
+    parent_uid: 5d6a4bd7ffa82a3611af644a1e228ba5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 74fbee23109c9fc987fc7e1f3b77f2d1
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: BX4QPdP7fT8
+    parent_uid: 5d6a4bd7ffa82a3611af644a1e228ba5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 34c92fcf62d3fbda720f68975dae776c
+  - id: BX4QPdP7fT8.srt
+    parent_uid: 5d6a4bd7ffa82a3611af644a1e228ba5
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-4-video/BX4QPdP7fT8.srt
+    title: 3play caption file
+    type: null
+    uid: b3a3120d21658dd3830735071449ed53
+  - id: BX4QPdP7fT8.pdf
+    parent_uid: 5d6a4bd7ffa82a3611af644a1e228ba5
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-4-video/BX4QPdP7fT8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8cf29ee7b66e94dab907bed2ce904575
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5d6a4bd7ffa82a3611af644a1e228ba5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 50c55952cddb91f40c9fa55acd7725ff
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5d6a4bd7ffa82a3611af644a1e228ba5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4d0ccb5a40f52a91f1be49f72d0d309b
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec04_300k.mp4'
+    parent_uid: 5d6a4bd7ffa82a3611af644a1e228ba5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 18b72a70d6fdc104833a984de7c10f8d
+inline_embed_id: 71035408lecture4video99791108
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-4-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-4-video
-short_url: lecture-4-video
-inline_embed_id: 71035408lecture4video99791108
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture Video 4: Coupled Oscillators, Normal Modes'
 transcript: >-
   <p><span m="2090">The</span> <span m="2180">following</span> <span
   m="2630">content</span> <span m="3110">is</span> <span
@@ -3868,55 +3916,7 @@ transcript: >-
   m="4652070">the</span> <span m="4652160">lecture.</span> <span
   m="4654130">Thank</span> <span m="4654340">you</span> <span
   m="4654410">very</span> <span m="4654530">much.</span></p>
-embedded_media:
-  - uid: ee2ba0d1bc7681f9c32cdb9ad6a95ed7
-    parent_uid: 5d6a4bd7ffa82a3611af644a1e228ba5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: BX4QPdP7fT8
-  - uid: 74fbee23109c9fc987fc7e1f3b77f2d1
-    parent_uid: 5d6a4bd7ffa82a3611af644a1e228ba5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BX4QPdP7fT8/default.jpg'
-  - uid: 34c92fcf62d3fbda720f68975dae776c
-    parent_uid: 5d6a4bd7ffa82a3611af644a1e228ba5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: BX4QPdP7fT8
-  - uid: b3a3120d21658dd3830735071449ed53
-    parent_uid: 5d6a4bd7ffa82a3611af644a1e228ba5
-    id: BX4QPdP7fT8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-4-video/BX4QPdP7fT8.srt
-  - uid: 8cf29ee7b66e94dab907bed2ce904575
-    parent_uid: 5d6a4bd7ffa82a3611af644a1e228ba5
-    id: BX4QPdP7fT8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-4-video/BX4QPdP7fT8.pdf
-  - uid: 50c55952cddb91f40c9fa55acd7725ff
-    parent_uid: 5d6a4bd7ffa82a3611af644a1e228ba5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4d0ccb5a40f52a91f1be49f72d0d309b
-    parent_uid: 5d6a4bd7ffa82a3611af644a1e228ba5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 18b72a70d6fdc104833a984de7c10f8d
-    parent_uid: 5d6a4bd7ffa82a3611af644a1e228ba5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec04_300k.mp4'
+uid: 5d6a4bd7ffa82a3611af644a1e228ba5
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: Geometric Sums
-uid: b949e89686fd950f361e8a18df0066b9
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: b949e89686fd950f361e8a18df0066b9
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 2bde8ab30c2227bd9904a89efeaae2e7
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: b949e89686fd950f361e8a18df0066b9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 81da01d8cda6a6f4af0ae60664fe7718
+  - id: Video-YouTube-Stream
+    media_location: ZDQk45NQbEo
+    parent_uid: b949e89686fd950f361e8a18df0066b9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bea514c248a4e575eb426f6d5618113b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ZDQk45NQbEo/default.jpg'
+    parent_uid: b949e89686fd950f361e8a18df0066b9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5972ba1a2dbceb4bbd20099ed902e6be
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: ZDQk45NQbEo
+    parent_uid: b949e89686fd950f361e8a18df0066b9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7e9651c0af1d8a7bbc2453854fc8658c
+  - id: ZDQk45NQbEo.srt
+    parent_uid: b949e89686fd950f361e8a18df0066b9
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-46a80f3884d6/geometric-sums/ZDQk45NQbEo.srt
+    title: 3play caption file
+    type: null
+    uid: 7e0aeee7bebbe23b657b527cebaf078e
+  - id: ZDQk45NQbEo.pdf
+    parent_uid: b949e89686fd950f361e8a18df0066b9
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-46a80f3884d6/geometric-sums/ZDQk45NQbEo.pdf
+    title: 3play pdf file
+    type: null
+    uid: c0ef67da07f681b1d8fd06fe716385a5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b949e89686fd950f361e8a18df0066b9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d7410abe310a6a1b2204cba582ed1116
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b949e89686fd950f361e8a18df0066b9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2fa4e73ba65cc4c8e4d3789f4850b956
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_geometricsum_video_ipod.mp4
+    parent_uid: b949e89686fd950f361e8a18df0066b9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 479b858a97018d4e3506fcb90b7d4139
+inline_embed_id: 19029181geometricsums34226518
 parent_uid: b88455938952339a92de012310e338f1
+related_resources_text: ''
+short_url: geometric-sums
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-46a80f3884d6/geometric-sums
-short_url: geometric-sums
-inline_embed_id: 19029181geometricsums34226518
-about_this_resource_text: ''
-related_resources_text: ''
+title: Geometric Sums
 transcript: >-
   <p><span m='1010'>ALBERT MEYER: We've</span> <span m='1200'>considered</span>
   <span m='1630'>arithmetic</span> <span m='2300'>sums,</span> <span
@@ -782,67 +842,7 @@ transcript: >-
   m='632290'>you</span> <span m='632430'>think</span> <span
   m='632720'>about</span> <span m='633680'>that</span> <span
   m='633910'>question.</span> </p>
-embedded_media:
-  - uid: 2bde8ab30c2227bd9904a89efeaae2e7
-    parent_uid: b949e89686fd950f361e8a18df0066b9
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 81da01d8cda6a6f4af0ae60664fe7718
-    parent_uid: b949e89686fd950f361e8a18df0066b9
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: bea514c248a4e575eb426f6d5618113b
-    parent_uid: b949e89686fd950f361e8a18df0066b9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ZDQk45NQbEo
-  - uid: 5972ba1a2dbceb4bbd20099ed902e6be
-    parent_uid: b949e89686fd950f361e8a18df0066b9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ZDQk45NQbEo/default.jpg'
-  - uid: 7e9651c0af1d8a7bbc2453854fc8658c
-    parent_uid: b949e89686fd950f361e8a18df0066b9
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ZDQk45NQbEo
-  - uid: 7e0aeee7bebbe23b657b527cebaf078e
-    parent_uid: b949e89686fd950f361e8a18df0066b9
-    id: ZDQk45NQbEo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-46a80f3884d6/geometric-sums/ZDQk45NQbEo.srt
-  - uid: c0ef67da07f681b1d8fd06fe716385a5
-    parent_uid: b949e89686fd950f361e8a18df0066b9
-    id: ZDQk45NQbEo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/counting/tp8-2/vertical-46a80f3884d6/geometric-sums/ZDQk45NQbEo.pdf
-  - uid: d7410abe310a6a1b2204cba582ed1116
-    parent_uid: b949e89686fd950f361e8a18df0066b9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2fa4e73ba65cc4c8e4d3789f4850b956
-    parent_uid: b949e89686fd950f361e8a18df0066b9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 479b858a97018d4e3506fcb90b7d4139
-    parent_uid: b949e89686fd950f361e8a18df0066b9
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_geometricsum_video_ipod.mp4
+uid: b949e89686fd950f361e8a18df0066b9
 type: courses
 layout: video
 ---

@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Review of Trigonometric Identities'
-uid: e99b3a88f6ef4a63454b2367b37f131d
-parent_uid: f914f1dccfe8c98b34b42bcf2aa6e075
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-68-integral-of-sin-n-x-cos-m-x-odd-exponents/clip-1-review-of-trigonometric-identities-1
-short_url: clip-1-review-of-trigonometric-identities-1
-inline_embed_id: '68187768clip1:reviewoftrigonometricidentities24308525'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/24110cac2bff3cb632e69a79fd67d6ae"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 27 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Bv9kVDcj7yo
+    parent_uid: e99b3a88f6ef4a63454b2367b37f131d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4fc92e33d71bde644a844fc48b4f28bc
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Bv9kVDcj7yo/default.jpg'
+    parent_uid: e99b3a88f6ef4a63454b2367b37f131d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 163e70b5e5075587468227d4f2fec5d7
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: Bv9kVDcj7yo
+    parent_uid: e99b3a88f6ef4a63454b2367b37f131d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 48aa29b3a9709183ee9e9c3a290c3759
+  - id: Bv9kVDcj7yo.srt
+    parent_uid: e99b3a88f6ef4a63454b2367b37f131d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-68-integral-of-sin-n-x-cos-m-x-odd-exponents/clip-1-review-of-trigonometric-identities-1/Bv9kVDcj7yo.srt
+    title: 3play caption file
+    type: null
+    uid: fa24f884242d381d74d3b02dbd850927
+  - id: Bv9kVDcj7yo.pdf
+    parent_uid: e99b3a88f6ef4a63454b2367b37f131d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-68-integral-of-sin-n-x-cos-m-x-odd-exponents/clip-1-review-of-trigonometric-identities-1/Bv9kVDcj7yo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7f73070b5aa56d3ef85596d52091e981
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e99b3a88f6ef4a63454b2367b37f131d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: fb59e0c2b08eef93d86db8b9feb52a97
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e99b3a88f6ef4a63454b2367b37f131d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7a1bf6571687ca5df253ed9bd2a52f94
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec27_300k.mp4'
+    parent_uid: e99b3a88f6ef4a63454b2367b37f131d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e96cad7831240b9b2dc6763ad752e6c7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: e99b3a88f6ef4a63454b2367b37f131d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 830ef39227a5384e095cebc7f4c3c51f
+inline_embed_id: '68187768clip1:reviewoftrigonometricidentities24308525'
+parent_uid: f914f1dccfe8c98b34b42bcf2aa6e075
 related_resources_text: ''
+short_url: clip-1-review-of-trigonometric-identities-1
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-68-integral-of-sin-n-x-cos-m-x-odd-exponents/clip-1-review-of-trigonometric-identities-1
+title: 'Clip 1: Review of Trigonometric Identities'
 transcript: >-
   <p><span m='0'>The</span> <span m='120'>following</span> <span m='530'>content
   is provided</span> <span m='1900'>under a Creative</span> <span
@@ -2344,61 +2398,7 @@ transcript: >-
   m='2801790'>us</span> <span m='2801900'>to</span> <span
   m='2802020'>quit</span> <span m='2802220'>for</span> <span
   m='2802370'>today.</span> </p>
-embedded_media:
-  - uid: 4fc92e33d71bde644a844fc48b4f28bc
-    parent_uid: e99b3a88f6ef4a63454b2367b37f131d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Bv9kVDcj7yo
-  - uid: 163e70b5e5075587468227d4f2fec5d7
-    parent_uid: e99b3a88f6ef4a63454b2367b37f131d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Bv9kVDcj7yo/default.jpg'
-  - uid: 48aa29b3a9709183ee9e9c3a290c3759
-    parent_uid: e99b3a88f6ef4a63454b2367b37f131d
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Bv9kVDcj7yo
-  - uid: fa24f884242d381d74d3b02dbd850927
-    parent_uid: e99b3a88f6ef4a63454b2367b37f131d
-    id: Bv9kVDcj7yo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-68-integral-of-sin-n-x-cos-m-x-odd-exponents/clip-1-review-of-trigonometric-identities-1/Bv9kVDcj7yo.srt
-  - uid: 7f73070b5aa56d3ef85596d52091e981
-    parent_uid: e99b3a88f6ef4a63454b2367b37f131d
-    id: Bv9kVDcj7yo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-68-integral-of-sin-n-x-cos-m-x-odd-exponents/clip-1-review-of-trigonometric-identities-1/Bv9kVDcj7yo.pdf
-  - uid: fb59e0c2b08eef93d86db8b9feb52a97
-    parent_uid: e99b3a88f6ef4a63454b2367b37f131d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7a1bf6571687ca5df253ed9bd2a52f94
-    parent_uid: e99b3a88f6ef4a63454b2367b37f131d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e96cad7831240b9b2dc6763ad752e6c7
-    parent_uid: e99b3a88f6ef4a63454b2367b37f131d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec27_300k.mp4'
-  - uid: 830ef39227a5384e095cebc7f4c3c51f
-    parent_uid: e99b3a88f6ef4a63454b2367b37f131d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: e99b3a88f6ef4a63454b2367b37f131d
 type: courses
 layout: video
 ---

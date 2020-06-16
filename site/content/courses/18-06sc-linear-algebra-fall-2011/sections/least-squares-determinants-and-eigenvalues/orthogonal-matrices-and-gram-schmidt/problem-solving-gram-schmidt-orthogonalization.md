@@ -1,13 +1,69 @@
 ---
-title: 'Problem Solving: Gram-Schmidt Orthogonalization'
-uid: 12bacd0a7df9373200c2592939c97906
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: HEQuN0QELSQ
+    parent_uid: 12bacd0a7df9373200c2592939c97906
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5855f17a4fdd071b7e2df24eedf61e3c
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: HEQuN0QELSQ
+    parent_uid: 12bacd0a7df9373200c2592939c97906
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c0354694300fed354bad2150c25ccd16
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/geometry-of-linear-algebra/id488155309?i=108454347
+    parent_uid: 12bacd0a7df9373200c2592939c97906
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 65f14f7d31290d49e505aa2d91e94daa
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110609_A1_300k.mp4
+    parent_uid: 12bacd0a7df9373200c2592939c97906
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7e12ad03a5520ad92507fb2c40301210
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/HEQuN0QELSQ/default.jpg'
+    parent_uid: 12bacd0a7df9373200c2592939c97906
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 456e78f1bc1a46da4328a4c1e4472c7e
+  - id: HEQuN0QELSQ.srt
+    parent_uid: 12bacd0a7df9373200c2592939c97906
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-matrices-and-gram-schmidt/problem-solving-gram-schmidt-orthogonalization/HEQuN0QELSQ.srt
+    title: 3play caption file
+    type: null
+    uid: 452b6feae71bae8e7ada0c65ba390359
+  - id: HEQuN0QELSQ.pdf
+    parent_uid: 12bacd0a7df9373200c2592939c97906
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-matrices-and-gram-schmidt/problem-solving-gram-schmidt-orthogonalization/HEQuN0QELSQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: c3f237b70703a56e061e9d16139ffbde
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 12bacd0a7df9373200c2592939c97906
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d3359dccb94f71d4a661a516700dcf09
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 12bacd0a7df9373200c2592939c97906
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4adcfabbaef0cea30893c8ba77c7dd34
+inline_embed_id: '16480697problemsolving:gram-schmidtorthogonalization52830905'
 parent_uid: 2376f3e00c4de0f6634653041d685aed
+related_resources_text: ''
+short_url: problem-solving-gram-schmidt-orthogonalization
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-matrices-and-gram-schmidt/problem-solving-gram-schmidt-orthogonalization
-short_url: problem-solving-gram-schmidt-orthogonalization
-inline_embed_id: '16480697problemsolving:gram-schmidtorthogonalization52830905'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Problem Solving: Gram-Schmidt Orthogonalization'
 transcript: >-
   <p><span m='6790'>ANA RITA PIRES: In</span> <span m='6990'>lecture,</span>
   <span m='7700'>you've</span> <span m='7870'>learned</span> <span
@@ -522,63 +578,7 @@ transcript: >-
   <span m='595160'>decomposition</span> <span m='595880'>now.</span> <span
   m='597210'>Bye.</span> <span m='597420'>See</span> <span m='597640'>you</span>
   <span m='597710'>next</span> <span m='597970'>time.</span> </p>
-embedded_media:
-  - uid: 5855f17a4fdd071b7e2df24eedf61e3c
-    parent_uid: 12bacd0a7df9373200c2592939c97906
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: HEQuN0QELSQ
-  - uid: c0354694300fed354bad2150c25ccd16
-    parent_uid: 12bacd0a7df9373200c2592939c97906
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: HEQuN0QELSQ
-  - uid: 65f14f7d31290d49e505aa2d91e94daa
-    parent_uid: 12bacd0a7df9373200c2592939c97906
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/geometry-of-linear-algebra/id488155309?i=108454347
-  - uid: 7e12ad03a5520ad92507fb2c40301210
-    parent_uid: 12bacd0a7df9373200c2592939c97906
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110609_A1_300k.mp4
-  - uid: 456e78f1bc1a46da4328a4c1e4472c7e
-    parent_uid: 12bacd0a7df9373200c2592939c97906
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/HEQuN0QELSQ/default.jpg'
-  - uid: 452b6feae71bae8e7ada0c65ba390359
-    parent_uid: 12bacd0a7df9373200c2592939c97906
-    id: HEQuN0QELSQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-matrices-and-gram-schmidt/problem-solving-gram-schmidt-orthogonalization/HEQuN0QELSQ.srt
-  - uid: c3f237b70703a56e061e9d16139ffbde
-    parent_uid: 12bacd0a7df9373200c2592939c97906
-    id: HEQuN0QELSQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-matrices-and-gram-schmidt/problem-solving-gram-schmidt-orthogonalization/HEQuN0QELSQ.pdf
-  - uid: d3359dccb94f71d4a661a516700dcf09
-    parent_uid: 12bacd0a7df9373200c2592939c97906
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4adcfabbaef0cea30893c8ba77c7dd34
-    parent_uid: 12bacd0a7df9373200c2592939c97906
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 12bacd0a7df9373200c2592939c97906
 type: courses
 layout: video
 ---

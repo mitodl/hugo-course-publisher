@@ -1,13 +1,67 @@
 ---
-title: Co-Teaching the Course
-uid: 3650f5a8b4aea4c4447aef41fea86a9d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-MP4
+    media_location: 2q7gqUuG_EA
+    parent_uid: 3650f5a8b4aea4c4447aef41fea86a9d
+    title: Video-YouTube-MP4
+    type: Video
+    uid: 3276a52191a1347311dff8d0de667a23
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2q7gqUuG_EA/default.jpg'
+    parent_uid: 3650f5a8b4aea4c4447aef41fea86a9d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: efbb37596cc0b263c1eac9b7a06a16db
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 2q7gqUuG_EA
+    parent_uid: 3650f5a8b4aea4c4447aef41fea86a9d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c41cfe9e6ef1d43c7a85b6c1ab788fd4
+  - id: 2q7gqUuG_EA.srt
+    parent_uid: 3650f5a8b4aea4c4447aef41fea86a9d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/co-teaching-the-course/2q7gqUuG_EA.srt
+    title: 3play caption file
+    type: null
+    uid: 2b158158bdd81bef0b0aa0911f307c48
+  - id: 2q7gqUuG_EA.pdf
+    parent_uid: 3650f5a8b4aea4c4447aef41fea86a9d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/co-teaching-the-course/2q7gqUuG_EA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 382cd89bcc3583752f75763137371ab2
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3650f5a8b4aea4c4447aef41fea86a9d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f2d3b8a51d2ebe918fd04014eba43401
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3650f5a8b4aea4c4447aef41fea86a9d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4d5587f56ad2c74df3a988da43f2698d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 3650f5a8b4aea4c4447aef41fea86a9d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ba4a81e204c886dde804537e1c733f3f
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_coteaching_300k.mp4'
+    parent_uid: 3650f5a8b4aea4c4447aef41fea86a9d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a7f9708d64ac9d5477955838f678508f
+inline_embed_id: 27675189co-teachingthecourse48556205
 parent_uid: 92d158be1dbd82a1c08d824bff9d0d79
+related_resources_text: ''
+short_url: co-teaching-the-course
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/co-teaching-the-course
-short_url: co-teaching-the-course
-inline_embed_id: 27675189co-teachingthecourse48556205
-about_this_resource_text: ''
-related_resources_text: ''
+title: Co-Teaching the Course
 transcript: >-
   <p><span m='5080'>PROFESSOR: Co-teaching</span> <span m='5600'>with</span>
   <span m='6090'>Srini,</span> <span m='7050'>Professor</span> <span
@@ -179,61 +233,7 @@ transcript: >-
   m='135250'>semester,</span> <span m='135690'>I</span> <span
   m='135770'>got</span> <span m='135960'>pretty</span> <span
   m='136200'>good.</span> </p>
-embedded_media:
-  - uid: 3276a52191a1347311dff8d0de667a23
-    parent_uid: 3650f5a8b4aea4c4447aef41fea86a9d
-    id: Video-YouTube-MP4
-    title: Video-YouTube-MP4
-    type: Video
-    media_location: 2q7gqUuG_EA
-  - uid: efbb37596cc0b263c1eac9b7a06a16db
-    parent_uid: 3650f5a8b4aea4c4447aef41fea86a9d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2q7gqUuG_EA/default.jpg'
-  - uid: c41cfe9e6ef1d43c7a85b6c1ab788fd4
-    parent_uid: 3650f5a8b4aea4c4447aef41fea86a9d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2q7gqUuG_EA
-  - uid: 2b158158bdd81bef0b0aa0911f307c48
-    parent_uid: 3650f5a8b4aea4c4447aef41fea86a9d
-    id: 2q7gqUuG_EA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/co-teaching-the-course/2q7gqUuG_EA.srt
-  - uid: 382cd89bcc3583752f75763137371ab2
-    parent_uid: 3650f5a8b4aea4c4447aef41fea86a9d
-    id: 2q7gqUuG_EA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/instructor-insights/video-playlist/co-teaching-the-course/2q7gqUuG_EA.pdf
-  - uid: f2d3b8a51d2ebe918fd04014eba43401
-    parent_uid: 3650f5a8b4aea4c4447aef41fea86a9d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4d5587f56ad2c74df3a988da43f2698d
-    parent_uid: 3650f5a8b4aea4c4447aef41fea86a9d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ba4a81e204c886dde804537e1c733f3f
-    parent_uid: 3650f5a8b4aea4c4447aef41fea86a9d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: a7f9708d64ac9d5477955838f678508f
-    parent_uid: 3650f5a8b4aea4c4447aef41fea86a9d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_coteaching_300k.mp4'
+uid: 3650f5a8b4aea4c4447aef41fea86a9d
 type: courses
 layout: video
 ---

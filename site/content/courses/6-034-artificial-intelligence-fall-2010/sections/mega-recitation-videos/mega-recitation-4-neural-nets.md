@@ -1,20 +1,75 @@
 ---
-title: 'Mega-Recitation 4: Neural Nets'
-uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
-parent_uid: 6be7704ddfe26b4e12703167347dd5bb
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-4-neural-nets
-short_url: mega-recitation-4-neural-nets
-inline_embed_id: '76976421mega-recitation4:neuralnets19355255'
 about_this_resource_text: >-
   <p><strong>Description:</strong> We begin by discussing neural net formulas,
   including the sigmoid and performance functions and their derivatives. We then
   work Problem 2 of Quiz 3, Fall 2008, which includes running one step of back
   propagation and matching neural nets with classifiers.</p>
   <p><strong>Instructor:</strong> Mark Seifter</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: JMrFgnqSS0w
+    parent_uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 35be437178079cdf07d0c99aa1af3b11
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/mega-recitation-4-neural-nets/id765641080?i=194482717
+    parent_uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 413b179ba85877494e16972e3809a8c1
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_rec04_300k.mp4'
+    parent_uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2c6565f0725519f2dcc5ddf5bd225c91
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/JMrFgnqSS0w/default.jpg'
+    parent_uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f7f16b70bd545fd3025c933b63fdb4c8
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: JMrFgnqSS0w
+    parent_uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0cf46fabda4d187f6785e2c2b6535fdb
+  - id: JMrFgnqSS0w.srt
+    parent_uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-4-neural-nets/JMrFgnqSS0w.srt
+    title: 3play caption file
+    type: null
+    uid: df342ccec1a3c28be25d72ff0d7609a1
+  - id: JMrFgnqSS0w.pdf
+    parent_uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-4-neural-nets/JMrFgnqSS0w.pdf
+    title: 3play pdf file
+    type: null
+    uid: ccacf3638d0ee2595a45d5f1fd407596
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 257b11555fdeab1ef968472c39ae4a67
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6296e69d175ebaf7fefc2f0e1713452a
+inline_embed_id: '76976421mega-recitation4:neuralnets19355255'
+parent_uid: 6be7704ddfe26b4e12703167347dd5bb
 related_resources_text: >-
   <p><a href="./resolveuid/bd67a9fc7d5fd4caf676e7af65d4ad44"
   target="_blank">Quiz 3, Fall 2008 (PDF)</a></p>
+short_url: mega-recitation-4-neural-nets
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-4-neural-nets
+title: 'Mega-Recitation 4: Neural Nets'
 transcript: >-
   <p><span m='60'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1220'>is</span> <span m='1330'>provided</span>
@@ -3550,62 +3605,7 @@ transcript: >-
   m='3154390'>you</span> <span m='3154510'>can</span> <span
   m='3154660'>see</span> <span m='3154910'>me</span> <span m='3155210'>as</span>
   <span m='3155510'>I'm</span> <span m='3155810'>walking out.</span> </p>
-embedded_media:
-  - uid: 35be437178079cdf07d0c99aa1af3b11
-    parent_uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: JMrFgnqSS0w
-  - uid: 413b179ba85877494e16972e3809a8c1
-    parent_uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/mega-recitation-4-neural-nets/id765641080?i=194482717
-  - uid: 2c6565f0725519f2dcc5ddf5bd225c91
-    parent_uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_rec04_300k.mp4'
-  - uid: f7f16b70bd545fd3025c933b63fdb4c8
-    parent_uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/JMrFgnqSS0w/default.jpg'
-  - uid: 0cf46fabda4d187f6785e2c2b6535fdb
-    parent_uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: JMrFgnqSS0w
-  - uid: df342ccec1a3c28be25d72ff0d7609a1
-    parent_uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
-    id: JMrFgnqSS0w.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-4-neural-nets/JMrFgnqSS0w.srt
-  - uid: ccacf3638d0ee2595a45d5f1fd407596
-    parent_uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
-    id: JMrFgnqSS0w.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/mega-recitation-videos/mega-recitation-4-neural-nets/JMrFgnqSS0w.pdf
-  - uid: 257b11555fdeab1ef968472c39ae4a67
-    parent_uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6296e69d175ebaf7fefc2f0e1713452a
-    parent_uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f8ea3e2b98f340fd56adf8d9e5ee9da7
 type: courses
 layout: video
 ---

@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Parametric Curve'
-uid: e1918d2ef4daa829500e7545045013ba
-parent_uid: b58d1c03b5e72b4fc2ef553cda5d94b7
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves/clip-1-parametric-curve
-short_url: clip-1-parametric-curve
-inline_embed_id: '86464270clip1:parametriccurve24972602'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/8dfde3740446696d8d98f6ce2d33de03" title="Open
   in a new window." target="_blank">Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 31 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: TpWQlKHPyJ4
+    parent_uid: e1918d2ef4daa829500e7545045013ba
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9b703a56b92db16418bb92ea4dddb158
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TpWQlKHPyJ4/default.jpg'
+    parent_uid: e1918d2ef4daa829500e7545045013ba
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bc371db5233622e0169049f0a0a8665e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: TpWQlKHPyJ4
+    parent_uid: e1918d2ef4daa829500e7545045013ba
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ecb54478727a170dbd4a2d6ecb62167a
+  - id: TpWQlKHPyJ4.srt
+    parent_uid: e1918d2ef4daa829500e7545045013ba
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves/clip-1-parametric-curve/TpWQlKHPyJ4.srt
+    title: 3play caption file
+    type: null
+    uid: 64cde7df8b05cf61352e5b62757b5da4
+  - id: TpWQlKHPyJ4.pdf
+    parent_uid: e1918d2ef4daa829500e7545045013ba
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves/clip-1-parametric-curve/TpWQlKHPyJ4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8facd977ec8ae6879137ab59c83b9eaa
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e1918d2ef4daa829500e7545045013ba
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d2fb8a259edef38d27ddd1ec6a9d0ec6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e1918d2ef4daa829500e7545045013ba
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 83aaa3b19afcdc7e8697c2df9c4f9ce9
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec31_300k.mp4'
+    parent_uid: e1918d2ef4daa829500e7545045013ba
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 44806b480eedaef589b7a05c409070be
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: e1918d2ef4daa829500e7545045013ba
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 3503e2c2b6b2fb96c743a6ad297b348a
+inline_embed_id: '86464270clip1:parametriccurve24972602'
+parent_uid: b58d1c03b5e72b4fc2ef553cda5d94b7
 related_resources_text: ''
+short_url: clip-1-parametric-curve
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves/clip-1-parametric-curve
+title: 'Clip 1: Parametric Curve'
 transcript: >-
   <p><span m="0">The</span> <span m="60">following</span> <span
   m="530">content</span> <span m="1290">is</span> <span m="1420">provided</span>
@@ -2456,61 +2510,7 @@ transcript: >-
   m="2719030">And</span> <span m="2719930">we'll</span> <span
   m="2720410">do</span> <span m="2720590">that</span> <span
   m="2721780">next</span> <span m="2722140">time.</span></p>
-embedded_media:
-  - uid: 9b703a56b92db16418bb92ea4dddb158
-    parent_uid: e1918d2ef4daa829500e7545045013ba
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TpWQlKHPyJ4
-  - uid: bc371db5233622e0169049f0a0a8665e
-    parent_uid: e1918d2ef4daa829500e7545045013ba
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TpWQlKHPyJ4/default.jpg'
-  - uid: ecb54478727a170dbd4a2d6ecb62167a
-    parent_uid: e1918d2ef4daa829500e7545045013ba
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TpWQlKHPyJ4
-  - uid: 64cde7df8b05cf61352e5b62757b5da4
-    parent_uid: e1918d2ef4daa829500e7545045013ba
-    id: TpWQlKHPyJ4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves/clip-1-parametric-curve/TpWQlKHPyJ4.srt
-  - uid: 8facd977ec8ae6879137ab59c83b9eaa
-    parent_uid: e1918d2ef4daa829500e7545045013ba
-    id: TpWQlKHPyJ4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-c-parametric-equations-and-polar-coordinates/session-80-parametric-curves/clip-1-parametric-curve/TpWQlKHPyJ4.pdf
-  - uid: d2fb8a259edef38d27ddd1ec6a9d0ec6
-    parent_uid: e1918d2ef4daa829500e7545045013ba
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 83aaa3b19afcdc7e8697c2df9c4f9ce9
-    parent_uid: e1918d2ef4daa829500e7545045013ba
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 44806b480eedaef589b7a05c409070be
-    parent_uid: e1918d2ef4daa829500e7545045013ba
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec31_300k.mp4'
-  - uid: 3503e2c2b6b2fb96c743a6ad297b348a
-    parent_uid: e1918d2ef4daa829500e7545045013ba
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: e1918d2ef4daa829500e7545045013ba
 type: courses
 layout: video
 ---

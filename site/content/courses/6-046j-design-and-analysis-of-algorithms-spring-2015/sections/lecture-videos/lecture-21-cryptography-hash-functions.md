@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 21: Cryptography: Hash Functions'
-uid: 5b809cd6fee17a09494be825238dd22a
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-21-cryptography-hash-functions
-short_url: lecture-21-cryptography-hash-functions
-inline_embed_id: '46471213lecture21:cryptography:hashfunctions31638909'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Devadas covers the
   basics of cryptography, including desirable properties of cryptographic
   functions, and their applications to security.</p>
   <p><strong>Instructors:</strong> Srinivas Devadas</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: KqqOXndnvic
+    parent_uid: 5b809cd6fee17a09494be825238dd22a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 422393997b5a0103f6d78505f4558c94
+  - id: KqqOXndnvic.srt
+    parent_uid: 5b809cd6fee17a09494be825238dd22a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-21-cryptography-hash-functions/KqqOXndnvic.srt
+    title: 3play caption file
+    type: null
+    uid: 27e604cc319ddb0dfafd50a57b4ada71
+  - id: KqqOXndnvic.pdf
+    parent_uid: 5b809cd6fee17a09494be825238dd22a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-21-cryptography-hash-functions/KqqOXndnvic.pdf
+    title: 3play pdf file
+    type: null
+    uid: 23dfd72a9d57cb1a8e385d0671a8d86f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5b809cd6fee17a09494be825238dd22a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b7fc37dbd77ec144429b462102a7084f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5b809cd6fee17a09494be825238dd22a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bb27d0a3e8859d545071a9b02ddf9cd4
+  - id: Video-YouTube-Stream
+    media_location: KqqOXndnvic
+    parent_uid: 5b809cd6fee17a09494be825238dd22a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2d7f6767c895afbf9e80acd7e2fcf68b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/KqqOXndnvic/default.jpg'
+    parent_uid: 5b809cd6fee17a09494be825238dd22a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b64b784d895dc3f9cb0db5a95a59b577
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 5b809cd6fee17a09494be825238dd22a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6625b77c0ad986e5ff4b7dc78470a38c
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec21_300k.mp4'
+    parent_uid: 5b809cd6fee17a09494be825238dd22a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c1958f45eec73d0573c1073b7e84b92b
+inline_embed_id: '46471213lecture21:cryptography:hashfunctions31638909'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-21-cryptography-hash-functions
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-21-cryptography-hash-functions
+title: 'Lecture 21: Cryptography: Hash Functions'
 transcript: >-
   <p><span m="90">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -5121,61 +5175,7 @@ transcript: >-
   m="4916500">string,</span> <span m="4916820">all right?</span></p><p><span
   m="4917590">I'll stick</span> <span m="4917750">around for</span> <span
   m="4918050">questions.</span></p>
-embedded_media:
-  - uid: 422393997b5a0103f6d78505f4558c94
-    parent_uid: 5b809cd6fee17a09494be825238dd22a
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: KqqOXndnvic
-  - uid: 27e604cc319ddb0dfafd50a57b4ada71
-    parent_uid: 5b809cd6fee17a09494be825238dd22a
-    id: KqqOXndnvic.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-21-cryptography-hash-functions/KqqOXndnvic.srt
-  - uid: 23dfd72a9d57cb1a8e385d0671a8d86f
-    parent_uid: 5b809cd6fee17a09494be825238dd22a
-    id: KqqOXndnvic.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-21-cryptography-hash-functions/KqqOXndnvic.pdf
-  - uid: b7fc37dbd77ec144429b462102a7084f
-    parent_uid: 5b809cd6fee17a09494be825238dd22a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bb27d0a3e8859d545071a9b02ddf9cd4
-    parent_uid: 5b809cd6fee17a09494be825238dd22a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 2d7f6767c895afbf9e80acd7e2fcf68b
-    parent_uid: 5b809cd6fee17a09494be825238dd22a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: KqqOXndnvic
-  - uid: b64b784d895dc3f9cb0db5a95a59b577
-    parent_uid: 5b809cd6fee17a09494be825238dd22a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/KqqOXndnvic/default.jpg'
-  - uid: 6625b77c0ad986e5ff4b7dc78470a38c
-    parent_uid: 5b809cd6fee17a09494be825238dd22a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: c1958f45eec73d0573c1073b7e84b92b
-    parent_uid: 5b809cd6fee17a09494be825238dd22a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec21_300k.mp4'
+uid: 5b809cd6fee17a09494be825238dd22a
 type: courses
 layout: video
 ---

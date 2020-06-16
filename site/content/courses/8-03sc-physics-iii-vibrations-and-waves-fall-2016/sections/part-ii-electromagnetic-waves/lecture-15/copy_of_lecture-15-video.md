@@ -1,13 +1,61 @@
 ---
-title: Chladni Figures (Speaker Driven)
-uid: 63ca888d50c9b1f4a58f5e444cea19f2
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: In0E5_JrPpo
+    parent_uid: 63ca888d50c9b1f4a58f5e444cea19f2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6408083c1968b428a9be73adc90153f4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/In0E5_JrPpo/default.jpg'
+    parent_uid: 63ca888d50c9b1f4a58f5e444cea19f2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 33bfcf8acaf20bdcfa3529372dfd88d6
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: In0E5_JrPpo
+    parent_uid: 63ca888d50c9b1f4a58f5e444cea19f2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6ad2ae5216b49d767804d9e27589a492
+  - id: In0E5_JrPpo.srt
+    parent_uid: 63ca888d50c9b1f4a58f5e444cea19f2
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-15/copy_of_lecture-15-video/In0E5_JrPpo.srt
+    title: 3play caption file
+    type: null
+    uid: cf65bf3f13e31106dd541d3a1bc9bb2a
+  - id: In0E5_JrPpo.pdf
+    parent_uid: 63ca888d50c9b1f4a58f5e444cea19f2
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-15/copy_of_lecture-15-video/In0E5_JrPpo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8f3c3c7b9983cb13b12e46589cd89f7c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 63ca888d50c9b1f4a58f5e444cea19f2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f1a66a6fdf1a98499c3939ef2b28cabd
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 63ca888d50c9b1f4a58f5e444cea19f2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: be2573e4d0217ac7a3bfb5af99b3c8a1
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec15_300k.mp4'
+    parent_uid: 63ca888d50c9b1f4a58f5e444cea19f2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d26e1ab5a4052220421689e2213d431c
+inline_embed_id: 62490345lecture15videop133917773
 parent_uid: 57be2ced3a20f9a7fa7c61386e73f839
+related_resources_text: ''
+short_url: copy_of_lecture-15-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-15/copy_of_lecture-15-video
-short_url: copy_of_lecture-15-video
-inline_embed_id: 62490345lecture15videop133917773
-about_this_resource_text: ''
-related_resources_text: ''
+title: Chladni Figures (Speaker Driven)
 transcript: >-
   <p><span m="2420">The</span> <span m="2510">following</span> <span
   m="2960">content</span> <span m="3440">is</span> <span
@@ -3714,55 +3762,7 @@ transcript: >-
   m="4431060">those</span> <span m="4431300">demos</span> <span
   m="4431820">if</span> <span m="4431930">you</span> <span
   m="4432040">want.</span></p>
-embedded_media:
-  - uid: 6408083c1968b428a9be73adc90153f4
-    parent_uid: 63ca888d50c9b1f4a58f5e444cea19f2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: In0E5_JrPpo
-  - uid: 33bfcf8acaf20bdcfa3529372dfd88d6
-    parent_uid: 63ca888d50c9b1f4a58f5e444cea19f2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/In0E5_JrPpo/default.jpg'
-  - uid: 6ad2ae5216b49d767804d9e27589a492
-    parent_uid: 63ca888d50c9b1f4a58f5e444cea19f2
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: In0E5_JrPpo
-  - uid: cf65bf3f13e31106dd541d3a1bc9bb2a
-    parent_uid: 63ca888d50c9b1f4a58f5e444cea19f2
-    id: In0E5_JrPpo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-15/copy_of_lecture-15-video/In0E5_JrPpo.srt
-  - uid: 8f3c3c7b9983cb13b12e46589cd89f7c
-    parent_uid: 63ca888d50c9b1f4a58f5e444cea19f2
-    id: In0E5_JrPpo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-ii-electromagnetic-waves/lecture-15/copy_of_lecture-15-video/In0E5_JrPpo.pdf
-  - uid: f1a66a6fdf1a98499c3939ef2b28cabd
-    parent_uid: 63ca888d50c9b1f4a58f5e444cea19f2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: be2573e4d0217ac7a3bfb5af99b3c8a1
-    parent_uid: 63ca888d50c9b1f4a58f5e444cea19f2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d26e1ab5a4052220421689e2213d431c
-    parent_uid: 63ca888d50c9b1f4a58f5e444cea19f2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec15_300k.mp4'
+uid: 63ca888d50c9b1f4a58f5e444cea19f2
 type: courses
 layout: video
 ---

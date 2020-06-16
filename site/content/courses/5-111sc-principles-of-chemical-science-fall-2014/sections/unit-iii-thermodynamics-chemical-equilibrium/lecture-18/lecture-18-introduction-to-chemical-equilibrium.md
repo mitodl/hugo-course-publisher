@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 18: Introduction to Chemical Equilibrium'
-uid: 27c255253bbd2f0c22dba6623714e762
-parent_uid: 76a566c6d12eb625ae98e279e812efbd
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-18/lecture-18-introduction-to-chemical-equilibrium
-short_url: lecture-18-introduction-to-chemical-equilibrium
-inline_embed_id: 71177601lecture18introductiontochemicalequilibrium46547083
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: Reactions reach chemical equilibrium when the rate of
@@ -15,7 +8,68 @@ about_this_resource_text: >-
   equilibrium in one direction or the other. Physicist and Chemist Nozomi Ando
   provides an example of why chemical equilibrium is important in living
   organisms.</p> <p><strong>Instructor:</strong> Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: f0udxGcoztE
+    parent_uid: 27c255253bbd2f0c22dba6623714e762
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4540fa89ddeb7f018c31b1cb84ecbb98
+  - id: f0udxGcoztE.srt
+    parent_uid: 27c255253bbd2f0c22dba6623714e762
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-18/lecture-18-introduction-to-chemical-equilibrium/f0udxGcoztE.srt
+    title: 3play caption file
+    type: null
+    uid: ff3f3da47cfcb96e294f2052691fa9dc
+  - id: f0udxGcoztE.pdf
+    parent_uid: 27c255253bbd2f0c22dba6623714e762
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-18/lecture-18-introduction-to-chemical-equilibrium/f0udxGcoztE.pdf
+    title: 3play pdf file
+    type: null
+    uid: bf4e182fba006080e28adf866e2fe515
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 27c255253bbd2f0c22dba6623714e762
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d4750a6315aa748a9a3e9c0cb9aa116d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 27c255253bbd2f0c22dba6623714e762
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 67c09c64ac8ccf6c5a66b4473337db63
+  - id: Video-YouTube-Stream
+    media_location: f0udxGcoztE
+    parent_uid: 27c255253bbd2f0c22dba6623714e762
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3b3c8e98f613ae4c51d0e2d7581a00f6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/f0udxGcoztE/default.jpg'
+    parent_uid: 27c255253bbd2f0c22dba6623714e762
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c5d27befdd033d6299ee3a38d9f984e3
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: 27c255253bbd2f0c22dba6623714e762
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1696b713356059c7197c3714f5fe4755
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L18_300k.mp4'
+    parent_uid: 27c255253bbd2f0c22dba6623714e762
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: fbb92931a9cd96069bd41051925ae4a9
+inline_embed_id: 71177601lecture18introductiontochemicalequilibrium46547083
+parent_uid: 76a566c6d12eb625ae98e279e812efbd
 related_resources_text: ''
+short_url: lecture-18-introduction-to-chemical-equilibrium
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-18/lecture-18-introduction-to-chemical-equilibrium
+title: 'Lecture 18: Introduction to Chemical Equilibrium'
 transcript: >-
   <p><span m="90">The</span> <span m="180">following</span> <span
   m="630">content</span> <span m="1110">is</span> <span m="1230">provided</span>
@@ -3132,61 +3186,7 @@ transcript: >-
   m="2857440">5</span> <span m="2858040">and</span> <span
   m="2858160">minimize</span> <span m="2858910">your</span> <span
   m="2859100">stress.</span></p>
-embedded_media:
-  - uid: 4540fa89ddeb7f018c31b1cb84ecbb98
-    parent_uid: 27c255253bbd2f0c22dba6623714e762
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: f0udxGcoztE
-  - uid: ff3f3da47cfcb96e294f2052691fa9dc
-    parent_uid: 27c255253bbd2f0c22dba6623714e762
-    id: f0udxGcoztE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-18/lecture-18-introduction-to-chemical-equilibrium/f0udxGcoztE.srt
-  - uid: bf4e182fba006080e28adf866e2fe515
-    parent_uid: 27c255253bbd2f0c22dba6623714e762
-    id: f0udxGcoztE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-iii-thermodynamics-chemical-equilibrium/lecture-18/lecture-18-introduction-to-chemical-equilibrium/f0udxGcoztE.pdf
-  - uid: d4750a6315aa748a9a3e9c0cb9aa116d
-    parent_uid: 27c255253bbd2f0c22dba6623714e762
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 67c09c64ac8ccf6c5a66b4473337db63
-    parent_uid: 27c255253bbd2f0c22dba6623714e762
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3b3c8e98f613ae4c51d0e2d7581a00f6
-    parent_uid: 27c255253bbd2f0c22dba6623714e762
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: f0udxGcoztE
-  - uid: c5d27befdd033d6299ee3a38d9f984e3
-    parent_uid: 27c255253bbd2f0c22dba6623714e762
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/f0udxGcoztE/default.jpg'
-  - uid: 1696b713356059c7197c3714f5fe4755
-    parent_uid: 27c255253bbd2f0c22dba6623714e762
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: fbb92931a9cd96069bd41051925ae4a9
-    parent_uid: 27c255253bbd2f0c22dba6623714e762
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L18_300k.mp4'
+uid: 27c255253bbd2f0c22dba6623714e762
 type: courses
 layout: video
 ---

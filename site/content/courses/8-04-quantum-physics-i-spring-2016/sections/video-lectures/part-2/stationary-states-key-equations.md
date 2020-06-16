@@ -1,13 +1,73 @@
 ---
-title: 'Stationary states: key equations'
-uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 8KQ-yK2xm60
+    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f51bedebe96304fe2e5d00da2d5db253
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/gTxOfT2W8LE/default.jpg'
+    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bf86f5fdf46eff8a8a6aef28d199a0f2
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 8KQ-yK2xm60
+    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0eab773f60d9a452827347f982c41279
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 8d4e7bfb3940febb38aa63d18bb58b87
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec10_s2_300k.mp4'
+    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: fef31c2a21c571fd3612879d36f4d204
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/8KQ-yK2xm60/default.jpg'
+    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 098ae8be4595e3b18d0ab9628d4ba62f
+  - id: 8KQ-yK2xm60.srt
+    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/stationary-states-key-equations/8KQ-yK2xm60.srt
+    title: 3play caption file
+    type: null
+    uid: 6f27cd3674f2839ce4271d5aec04a4c0
+  - id: 8KQ-yK2xm60.pdf
+    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/stationary-states-key-equations/8KQ-yK2xm60.pdf
+    title: 3play pdf file
+    type: null
+    uid: 71d3ceaeb78a1a4d88331024cd8b9aba
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 94d7893a2437d22d0f18caa9a79e5732
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 90a24c25624c2e76b0fbe3112cfee5ee
+inline_embed_id: 55798788stationarystateskeyequations61491421
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: stationary-states-key-equations
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/stationary-states-key-equations
-short_url: stationary-states-key-equations
-inline_embed_id: 55798788stationarystateskeyequations61491421
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Stationary states: key equations'
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='210'>We</span> <span m='420'>start
   with the</span> <span m='840'>stationary</span> <span m='1240'>states.</span>
@@ -730,67 +790,7 @@ transcript: >-
   m='1118010'>is</span> <span m='1118340'>that the</span> <span
   m='1118710'>spacial</span> <span m='1119480'>part</span> <span
   m='1120350'>is</span> <span m='1120680'>normalized.</span> </p>
-embedded_media:
-  - uid: f51bedebe96304fe2e5d00da2d5db253
-    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 8KQ-yK2xm60
-  - uid: bf86f5fdf46eff8a8a6aef28d199a0f2
-    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/gTxOfT2W8LE/default.jpg'
-  - uid: 0eab773f60d9a452827347f982c41279
-    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 8KQ-yK2xm60
-  - uid: 8d4e7bfb3940febb38aa63d18bb58b87
-    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: fef31c2a21c571fd3612879d36f4d204
-    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec10_s2_300k.mp4'
-  - uid: 098ae8be4595e3b18d0ab9628d4ba62f
-    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8KQ-yK2xm60/default.jpg'
-  - uid: 6f27cd3674f2839ce4271d5aec04a4c0
-    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
-    id: 8KQ-yK2xm60.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/stationary-states-key-equations/8KQ-yK2xm60.srt
-  - uid: 71d3ceaeb78a1a4d88331024cd8b9aba
-    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
-    id: 8KQ-yK2xm60.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/stationary-states-key-equations/8KQ-yK2xm60.pdf
-  - uid: 94d7893a2437d22d0f18caa9a79e5732
-    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 90a24c25624c2e76b0fbe3112cfee5ee
-    parent_uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 0be3fb79f3fdbd4dbbc1c6694fe957db
 type: courses
 layout: video
 ---

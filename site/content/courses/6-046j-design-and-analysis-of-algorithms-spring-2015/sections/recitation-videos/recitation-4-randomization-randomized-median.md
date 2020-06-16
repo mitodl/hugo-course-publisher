@@ -1,16 +1,70 @@
 ---
-title: 'Recitation 4: Randomization: Randomized Median'
-uid: ea756b222893f3085b773e01a5ad83b7
-parent_uid: 8c671299aae36eba669ca13490c21dec
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-4-randomization-randomized-median
-short_url: recitation-4-randomization-randomized-median
-inline_embed_id: '38278698recitation4:randomization:randomizedmedian2463793'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this recitation, problems related to
   Randomized Select and Randomized Quicksort are discussed.</p>
   <p><strong>Instructors:</strong> Ling Ren</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: QPk8MUtq5yA
+    parent_uid: ea756b222893f3085b773e01a5ad83b7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6411b493a879c6ffbff1b7494a8f14ef
+  - id: QPk8MUtq5yA.srt
+    parent_uid: ea756b222893f3085b773e01a5ad83b7
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-4-randomization-randomized-median/QPk8MUtq5yA.srt
+    title: 3play caption file
+    type: null
+    uid: b502c4e17f540adcb14343bcd0843539
+  - id: QPk8MUtq5yA.pdf
+    parent_uid: ea756b222893f3085b773e01a5ad83b7
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-4-randomization-randomized-median/QPk8MUtq5yA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 87c41ed92e0b3e587cf394fff42784c3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ea756b222893f3085b773e01a5ad83b7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9ef618b318bfd4a11925f45e9b2405b4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ea756b222893f3085b773e01a5ad83b7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7b766f8a752df75c04f3775cffe5796a
+  - id: Video-YouTube-Stream
+    media_location: QPk8MUtq5yA
+    parent_uid: ea756b222893f3085b773e01a5ad83b7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8ad3f03aa1eafa79d01b637588c92789
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QPk8MUtq5yA/default.jpg'
+    parent_uid: ea756b222893f3085b773e01a5ad83b7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6a6c64b5006743072f69acf472321996
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: ea756b222893f3085b773e01a5ad83b7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5cad890c067fca25805117d9767735df
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec04_300k.mp4'
+    parent_uid: ea756b222893f3085b773e01a5ad83b7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: dc215a62fdd990cdb784938ddb9a67c5
+inline_embed_id: '38278698recitation4:randomization:randomizedmedian2463793'
+parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
+short_url: recitation-4-randomization-randomized-median
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-4-randomization-randomized-median
+title: 'Recitation 4: Randomization: Randomized Median'
 transcript: >-
   <p><span m="60">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -1630,61 +1684,7 @@ transcript: >-
   m="2350420">That's</span> <span m="2350800">this</span> <span
   m="2351100">recitation.</span> <span m="2351730">Any</span> <span
   m="2351900">questions?</span> <span m="2360540">OK.</span></p>
-embedded_media:
-  - uid: 6411b493a879c6ffbff1b7494a8f14ef
-    parent_uid: ea756b222893f3085b773e01a5ad83b7
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QPk8MUtq5yA
-  - uid: b502c4e17f540adcb14343bcd0843539
-    parent_uid: ea756b222893f3085b773e01a5ad83b7
-    id: QPk8MUtq5yA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-4-randomization-randomized-median/QPk8MUtq5yA.srt
-  - uid: 87c41ed92e0b3e587cf394fff42784c3
-    parent_uid: ea756b222893f3085b773e01a5ad83b7
-    id: QPk8MUtq5yA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-4-randomization-randomized-median/QPk8MUtq5yA.pdf
-  - uid: 9ef618b318bfd4a11925f45e9b2405b4
-    parent_uid: ea756b222893f3085b773e01a5ad83b7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7b766f8a752df75c04f3775cffe5796a
-    parent_uid: ea756b222893f3085b773e01a5ad83b7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8ad3f03aa1eafa79d01b637588c92789
-    parent_uid: ea756b222893f3085b773e01a5ad83b7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QPk8MUtq5yA
-  - uid: 6a6c64b5006743072f69acf472321996
-    parent_uid: ea756b222893f3085b773e01a5ad83b7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QPk8MUtq5yA/default.jpg'
-  - uid: 5cad890c067fca25805117d9767735df
-    parent_uid: ea756b222893f3085b773e01a5ad83b7
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: dc215a62fdd990cdb784938ddb9a67c5
-    parent_uid: ea756b222893f3085b773e01a5ad83b7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec04_300k.mp4'
+uid: ea756b222893f3085b773e01a5ad83b7
 type: courses
 layout: video
 ---

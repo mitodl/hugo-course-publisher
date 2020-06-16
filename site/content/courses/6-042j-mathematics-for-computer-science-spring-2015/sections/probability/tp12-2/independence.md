@@ -1,13 +1,73 @@
 ---
-title: Independence
-uid: 342201e5e547efd164508f843c853bea
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 342201e5e547efd164508f843c853bea
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: abe3d02ef67d25b1b8fbab26c989497b
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 342201e5e547efd164508f843c853bea
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: fdbc91d6e8825c0c8bccfd907f4faced
+  - id: Video-YouTube-Stream
+    media_location: 1vQ2x5O_xqk
+    parent_uid: 342201e5e547efd164508f843c853bea
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 4aefe8d4c825f1efa7681d614796483e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/1vQ2x5O_xqk/default.jpg'
+    parent_uid: 342201e5e547efd164508f843c853bea
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: de0ec42f33e7d8dbf442f41ee5ecd70a
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 1vQ2x5O_xqk
+    parent_uid: 342201e5e547efd164508f843c853bea
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: aacae89acfce2e592d2ce80749bd70c8
+  - id: 1vQ2x5O_xqk.srt
+    parent_uid: 342201e5e547efd164508f843c853bea
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-2/independence/1vQ2x5O_xqk.srt
+    title: 3play caption file
+    type: null
+    uid: 784d1a6c9fded6888e4971022cc265e4
+  - id: 1vQ2x5O_xqk.pdf
+    parent_uid: 342201e5e547efd164508f843c853bea
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-2/independence/1vQ2x5O_xqk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 875e96f5007fdd89dd10b224f3f9165b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 342201e5e547efd164508f843c853bea
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4d80dc88e33d566b1870daad978ee960
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 342201e5e547efd164508f843c853bea
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 799ce6fc61b6ec315027c0c4e26346bf
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_probindep_video_ipod.mp4
+    parent_uid: 342201e5e547efd164508f843c853bea
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7ead0956928f71535388693121149bb5
+inline_embed_id: 26194298independence82277750
 parent_uid: 90eace8a4b31041773628667f8f3497b
+related_resources_text: ''
+short_url: independence
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-2/independence
-short_url: independence
-inline_embed_id: 26194298independence82277750
-about_this_resource_text: ''
-related_resources_text: ''
+title: Independence
 transcript: >-
   <p><span m='0'>PROFESSOR: Independent</span> <span m='456'>events</span> <span
   m='912'>are</span> <span m='1720'>events</span> <span m='2050'>that</span>
@@ -279,67 +339,7 @@ transcript: >-
   m='212540'>follows</span> <span m='213410'>with</span> <span
   m='213590'>a</span> <span m='213640'>one-line</span> <span
   m='214110'>proof.</span> </p>
-embedded_media:
-  - uid: abe3d02ef67d25b1b8fbab26c989497b
-    parent_uid: 342201e5e547efd164508f843c853bea
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: fdbc91d6e8825c0c8bccfd907f4faced
-    parent_uid: 342201e5e547efd164508f843c853bea
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 4aefe8d4c825f1efa7681d614796483e
-    parent_uid: 342201e5e547efd164508f843c853bea
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 1vQ2x5O_xqk
-  - uid: de0ec42f33e7d8dbf442f41ee5ecd70a
-    parent_uid: 342201e5e547efd164508f843c853bea
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/1vQ2x5O_xqk/default.jpg'
-  - uid: aacae89acfce2e592d2ce80749bd70c8
-    parent_uid: 342201e5e547efd164508f843c853bea
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 1vQ2x5O_xqk
-  - uid: 784d1a6c9fded6888e4971022cc265e4
-    parent_uid: 342201e5e547efd164508f843c853bea
-    id: 1vQ2x5O_xqk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-2/independence/1vQ2x5O_xqk.srt
-  - uid: 875e96f5007fdd89dd10b224f3f9165b
-    parent_uid: 342201e5e547efd164508f843c853bea
-    id: 1vQ2x5O_xqk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-2/independence/1vQ2x5O_xqk.pdf
-  - uid: 4d80dc88e33d566b1870daad978ee960
-    parent_uid: 342201e5e547efd164508f843c853bea
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 799ce6fc61b6ec315027c0c4e26346bf
-    parent_uid: 342201e5e547efd164508f843c853bea
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 7ead0956928f71535388693121149bb5
-    parent_uid: 342201e5e547efd164508f843c853bea
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_probindep_video_ipod.mp4
+uid: 342201e5e547efd164508f843c853bea
 type: courses
 layout: video
 ---

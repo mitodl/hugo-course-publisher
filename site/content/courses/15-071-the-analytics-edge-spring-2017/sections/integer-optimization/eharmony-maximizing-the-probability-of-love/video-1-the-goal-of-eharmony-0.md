@@ -1,13 +1,62 @@
 ---
-title: 'Video 1: The Goal of eHarmony'
-uid: 2616e6125d8c82a0cbaab8b3829716c1
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: suHTm7R7kfQ
+    parent_uid: 2616e6125d8c82a0cbaab8b3829716c1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a18c3cd8800c6377d3826ef6ed11cd7b
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: suHTm7R7kfQ
+    parent_uid: 2616e6125d8c82a0cbaab8b3829716c1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ed5cf367767ce5d4fd8c6aad050e0212
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_9.3.01_300k.mp4
+    parent_uid: 2616e6125d8c82a0cbaab8b3829716c1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bc33c42be1c5efd138204e3567bbba19
+  - id: suHTm7R7kfQ.srt
+    parent_uid: 2616e6125d8c82a0cbaab8b3829716c1
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-1-the-goal-of-eharmony-0/suHTm7R7kfQ.srt
+    title: 3play caption file
+    type: null
+    uid: 6b1f6dd16eb0b934135b9e23ca710c44
+  - id: suHTm7R7kfQ.pdf
+    parent_uid: 2616e6125d8c82a0cbaab8b3829716c1
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-1-the-goal-of-eharmony-0/suHTm7R7kfQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9fbb174f9fac5aa0fb49a7bc4cf310e4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2616e6125d8c82a0cbaab8b3829716c1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0f9a289527298845540210b44ce28d1f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2616e6125d8c82a0cbaab8b3829716c1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: fede104bd304edb10ea16741e06127b4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/suHTm7R7kfQ/default.jpg'
+    parent_uid: 2616e6125d8c82a0cbaab8b3829716c1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c4e41216d7ef035f57717b40440affef
+inline_embed_id: 94489453video1thegoalofeharmony2802221
 parent_uid: 11e612d89845c6c96a7307cebaa24191
+related_resources_text: ''
+short_url: video-1-the-goal-of-eharmony-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-1-the-goal-of-eharmony-0
-short_url: video-1-the-goal-of-eharmony-0
-inline_embed_id: 94489453video1thegoalofeharmony2802221
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: The Goal of eHarmony'
 transcript: >-
   <p><span m='9500'>In</span> <span m='9778'>this</span> <span
   m='10056'>lecture,</span> <span m='10335'>we'll</span> <span
@@ -210,56 +259,7 @@ transcript: >-
   m='216805'>some</span> <span m='217110'>of</span> <span m='217768'>the</span>
   <span m='218426'>analytics</span> <span m='219084'>eHarmony</span> <span
   m='219742'>uses.</span> </p>
-embedded_media:
-  - uid: a18c3cd8800c6377d3826ef6ed11cd7b
-    parent_uid: 2616e6125d8c82a0cbaab8b3829716c1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: suHTm7R7kfQ
-  - uid: ed5cf367767ce5d4fd8c6aad050e0212
-    parent_uid: 2616e6125d8c82a0cbaab8b3829716c1
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: suHTm7R7kfQ
-  - uid: bc33c42be1c5efd138204e3567bbba19
-    parent_uid: 2616e6125d8c82a0cbaab8b3829716c1
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_9.3.01_300k.mp4
-  - uid: 6b1f6dd16eb0b934135b9e23ca710c44
-    parent_uid: 2616e6125d8c82a0cbaab8b3829716c1
-    id: suHTm7R7kfQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-1-the-goal-of-eharmony-0/suHTm7R7kfQ.srt
-  - uid: 9fbb174f9fac5aa0fb49a7bc4cf310e4
-    parent_uid: 2616e6125d8c82a0cbaab8b3829716c1
-    id: suHTm7R7kfQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/integer-optimization/eharmony-maximizing-the-probability-of-love/video-1-the-goal-of-eharmony-0/suHTm7R7kfQ.pdf
-  - uid: 0f9a289527298845540210b44ce28d1f
-    parent_uid: 2616e6125d8c82a0cbaab8b3829716c1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: fede104bd304edb10ea16741e06127b4
-    parent_uid: 2616e6125d8c82a0cbaab8b3829716c1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c4e41216d7ef035f57717b40440affef
-    parent_uid: 2616e6125d8c82a0cbaab8b3829716c1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/suHTm7R7kfQ/default.jpg'
+uid: 2616e6125d8c82a0cbaab8b3829716c1
 type: courses
 layout: video
 ---

@@ -1,13 +1,69 @@
 ---
-title: Graphs and Networks
-uid: 4c4d13d9690913ec412b4e8688a48533
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: h0m2tsmSPTI
+    parent_uid: 4c4d13d9690913ec412b4e8688a48533
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b74422a80f027d5c377c4977c98189b8
+  - id: 3Play-3PlayYouTubeid-SRT
+    media_location: h0m2tsmSPTI
+    parent_uid: 4c4d13d9690913ec412b4e8688a48533
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a6b472756705733c761bf76bdc663db7
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/graphs-and-networks/id488155309?i=108454302
+    parent_uid: 4c4d13d9690913ec412b4e8688a48533
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4d2426fc1f0cd14fe82278d5ca2f75be
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110711_N1_300k.mp4
+    parent_uid: 4c4d13d9690913ec412b4e8688a48533
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6a6a635fa0ca903f9d6cd4952840bb12
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/h0m2tsmSPTI/default.jpg'
+    parent_uid: 4c4d13d9690913ec412b4e8688a48533
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 27650043b3209939a95f4a38784df64c
+  - id: h0m2tsmSPTI.srt
+    parent_uid: 4c4d13d9690913ec412b4e8688a48533
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/graphs-and-networks/h0m2tsmSPTI.srt
+    title: 3play caption file
+    type: null
+    uid: 10b067d26944edf7ebd92895cec8c3dc
+  - id: h0m2tsmSPTI.pdf
+    parent_uid: 4c4d13d9690913ec412b4e8688a48533
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/graphs-and-networks/h0m2tsmSPTI.pdf
+    title: 3play pdf file
+    type: null
+    uid: e607212bd8744684c99da2d595635010
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4c4d13d9690913ec412b4e8688a48533
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 83ae053738518f5b0919e3cb30f6b611
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4c4d13d9690913ec412b4e8688a48533
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 442a40395700a64f18341c04eac564ed
+inline_embed_id: 26244867graphsandnetworks65282369
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: graphs-and-networks
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/graphs-and-networks
-short_url: graphs-and-networks
-inline_embed_id: 26244867graphsandnetworks65282369
-about_this_resource_text: ''
-related_resources_text: ''
+title: Graphs and Networks
 transcript: >-
   <p><span m='6150'>NIKOLA KAMBUROV: Hi,</span> <span m='6320'>guys.</span>
   <span m='7720'>Today</span> <span m='8230'>we're</span> <span
@@ -574,63 +630,7 @@ transcript: >-
   m='746720'>illuminating.</span> <span m='748260'>I'll</span> <span
   m='748490'>see</span> <span m='748630'>you</span> <span m='748680'>next</span>
   <span m='748980'>time.</span> </p>
-embedded_media:
-  - uid: b74422a80f027d5c377c4977c98189b8
-    parent_uid: 4c4d13d9690913ec412b4e8688a48533
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: h0m2tsmSPTI
-  - uid: a6b472756705733c761bf76bdc663db7
-    parent_uid: 4c4d13d9690913ec412b4e8688a48533
-    id: 3Play-3PlayYouTubeid-SRT
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: h0m2tsmSPTI
-  - uid: 4d2426fc1f0cd14fe82278d5ca2f75be
-    parent_uid: 4c4d13d9690913ec412b4e8688a48533
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/graphs-and-networks/id488155309?i=108454302
-  - uid: 6a6a635fa0ca903f9d6cd4952840bb12
-    parent_uid: 4c4d13d9690913ec412b4e8688a48533
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110711_N1_300k.mp4
-  - uid: 27650043b3209939a95f4a38784df64c
-    parent_uid: 4c4d13d9690913ec412b4e8688a48533
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/h0m2tsmSPTI/default.jpg'
-  - uid: 10b067d26944edf7ebd92895cec8c3dc
-    parent_uid: 4c4d13d9690913ec412b4e8688a48533
-    id: h0m2tsmSPTI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/graphs-and-networks/h0m2tsmSPTI.srt
-  - uid: e607212bd8744684c99da2d595635010
-    parent_uid: 4c4d13d9690913ec412b4e8688a48533
-    id: h0m2tsmSPTI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/graphs-and-networks/h0m2tsmSPTI.pdf
-  - uid: 83ae053738518f5b0919e3cb30f6b611
-    parent_uid: 4c4d13d9690913ec412b4e8688a48533
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 442a40395700a64f18341c04eac564ed
-    parent_uid: 4c4d13d9690913ec412b4e8688a48533
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 4c4d13d9690913ec412b4e8688a48533
 type: courses
 layout: video
 ---

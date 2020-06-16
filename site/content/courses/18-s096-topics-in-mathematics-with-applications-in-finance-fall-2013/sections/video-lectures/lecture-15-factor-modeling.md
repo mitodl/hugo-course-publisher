@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 15: Factor Modeling'
-uid: f2cea03b00faec530ca2ac8df352ce38
-parent_uid: d23a85587c0c7524ea054e655c999532
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-15-factor-modeling
-short_url: lecture-15-factor-modeling
-inline_embed_id: '59757946lecture15:factormodeling20994437'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture describes factor modeling,
   featuring linear, macroeconomic, fundamental, and statistical factor models,
   and principal components analysis.</p> <p><strong>Instructor:</strong> Dr.
   Peter Kempthorne</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ro07evEWbCE
+    parent_uid: f2cea03b00faec530ca2ac8df352ce38
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 533be40498ebeab927bffaf8cbb31379
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ro07evEWbCE/default.jpg'
+    parent_uid: f2cea03b00faec530ca2ac8df352ce38
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fa5727fb52952e32380e4a3a53f4b89a
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: f2cea03b00faec530ca2ac8df352ce38
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c4d9b3d214aea9a2d6d549fc2dc5311a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec15_300k.mp4'
+    parent_uid: f2cea03b00faec530ca2ac8df352ce38
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b1f50aa4823a90603a3e622e3c99292a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ro07evEWbCE
+    parent_uid: f2cea03b00faec530ca2ac8df352ce38
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 21fa67064b74115c509b3999affd1ddc
+  - id: ro07evEWbCE.srt
+    parent_uid: f2cea03b00faec530ca2ac8df352ce38
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-15-factor-modeling/ro07evEWbCE.srt
+    title: 3play caption file
+    type: null
+    uid: 297b7058a74307e5e82f830a2f4f10f6
+  - id: ro07evEWbCE.pdf
+    parent_uid: f2cea03b00faec530ca2ac8df352ce38
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-15-factor-modeling/ro07evEWbCE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 24f86bf6e7cf59caff4f8fe7c9485950
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f2cea03b00faec530ca2ac8df352ce38
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 561ec8f7bbc652a2fbfc02dd84259251
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f2cea03b00faec530ca2ac8df352ce38
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e18cc5d3962f5e170055d025b0032911
+inline_embed_id: '59757946lecture15:factormodeling20994437'
+parent_uid: d23a85587c0c7524ea054e655c999532
 related_resources_text: ''
+short_url: lecture-15-factor-modeling
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-15-factor-modeling
+title: 'Lecture 15: Factor Modeling'
 transcript: >-
   <p><span m='60'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -4187,61 +4241,7 @@ transcript: >-
   m='5143100'>factors</span> <span m='5143720'>and their</span> <span
   m='5143970'>structural</span> <span m='5144450'>relationships.</span> <span
   m='5147150'>So we'll finish</span> <span m='5147450'>there.</span> </p>
-embedded_media:
-  - uid: 533be40498ebeab927bffaf8cbb31379
-    parent_uid: f2cea03b00faec530ca2ac8df352ce38
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ro07evEWbCE
-  - uid: fa5727fb52952e32380e4a3a53f4b89a
-    parent_uid: f2cea03b00faec530ca2ac8df352ce38
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ro07evEWbCE/default.jpg'
-  - uid: c4d9b3d214aea9a2d6d549fc2dc5311a
-    parent_uid: f2cea03b00faec530ca2ac8df352ce38
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: b1f50aa4823a90603a3e622e3c99292a
-    parent_uid: f2cea03b00faec530ca2ac8df352ce38
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec15_300k.mp4'
-  - uid: 21fa67064b74115c509b3999affd1ddc
-    parent_uid: f2cea03b00faec530ca2ac8df352ce38
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ro07evEWbCE
-  - uid: 297b7058a74307e5e82f830a2f4f10f6
-    parent_uid: f2cea03b00faec530ca2ac8df352ce38
-    id: ro07evEWbCE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-15-factor-modeling/ro07evEWbCE.srt
-  - uid: 24f86bf6e7cf59caff4f8fe7c9485950
-    parent_uid: f2cea03b00faec530ca2ac8df352ce38
-    id: ro07evEWbCE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-15-factor-modeling/ro07evEWbCE.pdf
-  - uid: 561ec8f7bbc652a2fbfc02dd84259251
-    parent_uid: f2cea03b00faec530ca2ac8df352ce38
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e18cc5d3962f5e170055d025b0032911
-    parent_uid: f2cea03b00faec530ca2ac8df352ce38
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f2cea03b00faec530ca2ac8df352ce38
 type: courses
 layout: video
 ---

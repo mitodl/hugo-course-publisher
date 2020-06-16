@@ -1,13 +1,73 @@
 ---
-title: Recursive Data
-uid: 34667c05427bca08132711d72ea223e8
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 34667c05427bca08132711d72ea223e8
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: d974c9ade047549d802aa36905053a77
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 34667c05427bca08132711d72ea223e8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2dec9aa96c17ae52a04b518e8fe4de11
+  - id: Video-YouTube-Stream
+    media_location: TXNXT3oBROw
+    parent_uid: 34667c05427bca08132711d72ea223e8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1cf294feccaf34ee6086e95fb57f7362
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TXNXT3oBROw/default.jpg'
+    parent_uid: 34667c05427bca08132711d72ea223e8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a7999c73dec090fecb8cfb03140c2cb4
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: TXNXT3oBROw
+    parent_uid: 34667c05427bca08132711d72ea223e8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 70cc40e63d9b8b3900364243f9041220
+  - id: TXNXT3oBROw.srt
+    parent_uid: 34667c05427bca08132711d72ea223e8
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition/recursive-data/TXNXT3oBROw.srt
+    title: 3play caption file
+    type: null
+    uid: 3e55a67142065753892cb6cde7394daf
+  - id: TXNXT3oBROw.pdf
+    parent_uid: 34667c05427bca08132711d72ea223e8
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition/recursive-data/TXNXT3oBROw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1d43d123f21aba3ea2c682b6dfc130fb
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 34667c05427bca08132711d72ea223e8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 989c367d9882d945388e653aa6dc9011
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 34667c05427bca08132711d72ea223e8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2203988db8075d173f6454b25a6a4d69
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_recursivedata_ipod.mp4
+    parent_uid: 34667c05427bca08132711d72ea223e8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 037416d9228009d52115f479ea2b9735
+inline_embed_id: 26515159recursivedata22398234
 parent_uid: dc6ecd4f10b94f9f9744a385e4bab210
+related_resources_text: ''
+short_url: recursive-data
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition/recursive-data
-short_url: recursive-data
-inline_embed_id: 26515159recursivedata22398234
-about_this_resource_text: ''
-related_resources_text: ''
+title: Recursive Data
 transcript: >-
   <p><span m='1050'>PROFESSOR: Recursive</span> <span m='1520'>data</span> <span
   m='1790'>play</span> <span m='2050'>a</span> <span m='2210'>key</span> <span
@@ -984,67 +1044,7 @@ transcript: >-
   m='754950'>I</span> <span m='755110'>get</span> <span m='755760'>log</span>
   <span m='756000'>of</span> <span m='756080'>x,</span> <span
   m='757130'>as</span> <span m='757390'>claimed.</span> </p>
-embedded_media:
-  - uid: d974c9ade047549d802aa36905053a77
-    parent_uid: 34667c05427bca08132711d72ea223e8
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 2dec9aa96c17ae52a04b518e8fe4de11
-    parent_uid: 34667c05427bca08132711d72ea223e8
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 1cf294feccaf34ee6086e95fb57f7362
-    parent_uid: 34667c05427bca08132711d72ea223e8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TXNXT3oBROw
-  - uid: a7999c73dec090fecb8cfb03140c2cb4
-    parent_uid: 34667c05427bca08132711d72ea223e8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TXNXT3oBROw/default.jpg'
-  - uid: 70cc40e63d9b8b3900364243f9041220
-    parent_uid: 34667c05427bca08132711d72ea223e8
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TXNXT3oBROw
-  - uid: 3e55a67142065753892cb6cde7394daf
-    parent_uid: 34667c05427bca08132711d72ea223e8
-    id: TXNXT3oBROw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition/recursive-data/TXNXT3oBROw.srt
-  - uid: 1d43d123f21aba3ea2c682b6dfc130fb
-    parent_uid: 34667c05427bca08132711d72ea223e8
-    id: TXNXT3oBROw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/recursive-definition/recursive-data/TXNXT3oBROw.pdf
-  - uid: 989c367d9882d945388e653aa6dc9011
-    parent_uid: 34667c05427bca08132711d72ea223e8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2203988db8075d173f6454b25a6a4d69
-    parent_uid: 34667c05427bca08132711d72ea223e8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 037416d9228009d52115f479ea2b9735
-    parent_uid: 34667c05427bca08132711d72ea223e8
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_recursivedata_ipod.mp4
+uid: 34667c05427bca08132711d72ea223e8
 type: courses
 layout: video
 ---

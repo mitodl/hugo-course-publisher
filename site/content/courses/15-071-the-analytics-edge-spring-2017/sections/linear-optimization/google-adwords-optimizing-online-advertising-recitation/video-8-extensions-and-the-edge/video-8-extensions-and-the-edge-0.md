@@ -1,13 +1,62 @@
 ---
-title: 'Video 8: Extensions and the Edge'
-uid: 7b99d590e1c2c0487c57840afaa7264e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: EGDQfE7MREw
+    parent_uid: 7b99d590e1c2c0487c57840afaa7264e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3a96e9cb13941473fa21cbe284a11470
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: EGDQfE7MREw
+    parent_uid: 7b99d590e1c2c0487c57840afaa7264e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0fe7fba33013bd79793779f219cc4f7e
+  - id: EGDQfE7MREw.srt
+    parent_uid: 7b99d590e1c2c0487c57840afaa7264e
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-8-extensions-and-the-edge/video-8-extensions-and-the-edge-0/EGDQfE7MREw.srt
+    title: 3play caption file
+    type: null
+    uid: 9662b46c127fa9d8f993b75c0137328d
+  - id: EGDQfE7MREw.pdf
+    parent_uid: 7b99d590e1c2c0487c57840afaa7264e
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-8-extensions-and-the-edge/video-8-extensions-and-the-edge-0/EGDQfE7MREw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 093491ce59039f2c66923a9ac6deaefe
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7b99d590e1c2c0487c57840afaa7264e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d61e5141c0c8cda6d7970babf0ec4d73
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7b99d590e1c2c0487c57840afaa7264e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 95a274141d56edfbe5b3d78a7eb75791
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/EGDQfE7MREw/default.jpg'
+    parent_uid: 7b99d590e1c2c0487c57840afaa7264e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d45e057db103b055588fe015a5cd3b4b
+  - id: Video-InternetArchive-MP4_1
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.09_300k.mp4
+    parent_uid: 7b99d590e1c2c0487c57840afaa7264e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: bd6115d225615e503e84fe39f72b5b89
+inline_embed_id: 18592688video8extensionsandtheedge92008521
 parent_uid: 3083aeae63672e7661a334ffc021896d
+related_resources_text: ''
+short_url: video-8-extensions-and-the-edge-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-8-extensions-and-the-edge/video-8-extensions-and-the-edge-0
-short_url: video-8-extensions-and-the-edge-0
-inline_embed_id: 18592688video8extensionsandtheedge92008521
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 8: Extensions and the Edge'
 transcript: >-
   <p><span m='4660'>The</span> <span m='4873'>problem</span> <span
   m='5087'>that</span> <span m='5301'>we</span> <span m='5515'>have</span> <span
@@ -405,56 +454,7 @@ transcript: >-
   <span m='362260'>of</span> <span m='362666'>linear</span> <span
   m='363073'>optimization</span> <span m='363480'>in</span> <span
   m='364096'>online</span> <span m='364713'>advertising.</span> </p>
-embedded_media:
-  - uid: 3a96e9cb13941473fa21cbe284a11470
-    parent_uid: 7b99d590e1c2c0487c57840afaa7264e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: EGDQfE7MREw
-  - uid: 0fe7fba33013bd79793779f219cc4f7e
-    parent_uid: 7b99d590e1c2c0487c57840afaa7264e
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: EGDQfE7MREw
-  - uid: 9662b46c127fa9d8f993b75c0137328d
-    parent_uid: 7b99d590e1c2c0487c57840afaa7264e
-    id: EGDQfE7MREw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-8-extensions-and-the-edge/video-8-extensions-and-the-edge-0/EGDQfE7MREw.srt
-  - uid: 093491ce59039f2c66923a9ac6deaefe
-    parent_uid: 7b99d590e1c2c0487c57840afaa7264e
-    id: EGDQfE7MREw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/google-adwords-optimizing-online-advertising-recitation/video-8-extensions-and-the-edge/video-8-extensions-and-the-edge-0/EGDQfE7MREw.pdf
-  - uid: d61e5141c0c8cda6d7970babf0ec4d73
-    parent_uid: 7b99d590e1c2c0487c57840afaa7264e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 95a274141d56edfbe5b3d78a7eb75791
-    parent_uid: 7b99d590e1c2c0487c57840afaa7264e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d45e057db103b055588fe015a5cd3b4b
-    parent_uid: 7b99d590e1c2c0487c57840afaa7264e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/EGDQfE7MREw/default.jpg'
-  - uid: bd6115d225615e503e84fe39f72b5b89
-    parent_uid: 7b99d590e1c2c0487c57840afaa7264e
-    id: Video-InternetArchive-MP4_1
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.4.09_300k.mp4
+uid: 7b99d590e1c2c0487c57840afaa7264e
 type: courses
 layout: video
 ---

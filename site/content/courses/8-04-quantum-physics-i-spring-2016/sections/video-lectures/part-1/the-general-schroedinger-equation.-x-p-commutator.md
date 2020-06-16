@@ -1,13 +1,73 @@
 ---
-title: 'The general Schrödinger equation. x, p commutator'
-uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: rwzg8iEOc8s
+    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 82ee2d41b0ab14d14c69d5be3ef77301
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Rpln0w2fY3I/default.jpg'
+    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ea2b30e4ed31b4c9ecf4f5752362775b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: rwzg8iEOc8s
+    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b3267788b27d09a520ea145394b6fdb8
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7b53f5456079dcf6bf063e2f8937bb92
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec05_s3_300k.mp4'
+    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: eeef57b9c8ee6a65f640234344a0949d
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/rwzg8iEOc8s/default.jpg'
+    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fccbdcea99c7f761a6f391655e69a6b4
+  - id: rwzg8iEOc8s.srt
+    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-general-schroedinger-equation.-x-p-commutator/rwzg8iEOc8s.srt
+    title: 3play caption file
+    type: null
+    uid: e3868ea16020da1bf39c7fca476151c8
+  - id: rwzg8iEOc8s.pdf
+    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-general-schroedinger-equation.-x-p-commutator/rwzg8iEOc8s.pdf
+    title: 3play pdf file
+    type: null
+    uid: 80d4c76163a22b190eca02e02649ddf5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b4c7189e86fd17dd7df32e0908030c06
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 5d3ad58f66e90bf8c299e8397ae6bd28
+inline_embed_id: 61990129thegeneralschrdingerequation.xpcommutator73872897
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: the-general-schroedinger-equation.-x-p-commutator
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-general-schroedinger-equation.-x-p-commutator
-short_url: the-general-schroedinger-equation.-x-p-commutator
-inline_embed_id: 61990129thegeneralschrdingerequation.xpcommutator73872897
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'The general Schrödinger equation. x, p commutator'
 transcript: >-
   <p><span m='3660'>PROFESSOR:</span> <span m='3870'>ih</span> <span
   m='4540'>bar</span> <span m='4980'>d</span> <span m='5460'>psi</span> <span
@@ -798,67 +858,7 @@ transcript: >-
   <span m='1072170'>in</span> <span m='1072410'>quantum</span> <span
   m='1072830'>mechanics</span> <span m='1073710'>is</span> <span
   m='1074305'>ih</span> <span m='1074700'>bar.</span> </p>
-embedded_media:
-  - uid: 82ee2d41b0ab14d14c69d5be3ef77301
-    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: rwzg8iEOc8s
-  - uid: ea2b30e4ed31b4c9ecf4f5752362775b
-    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Rpln0w2fY3I/default.jpg'
-  - uid: b3267788b27d09a520ea145394b6fdb8
-    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: rwzg8iEOc8s
-  - uid: 7b53f5456079dcf6bf063e2f8937bb92
-    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: eeef57b9c8ee6a65f640234344a0949d
-    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec05_s3_300k.mp4'
-  - uid: fccbdcea99c7f761a6f391655e69a6b4
-    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/rwzg8iEOc8s/default.jpg'
-  - uid: e3868ea16020da1bf39c7fca476151c8
-    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
-    id: rwzg8iEOc8s.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-general-schroedinger-equation.-x-p-commutator/rwzg8iEOc8s.srt
-  - uid: 80d4c76163a22b190eca02e02649ddf5
-    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
-    id: rwzg8iEOc8s.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-general-schroedinger-equation.-x-p-commutator/rwzg8iEOc8s.pdf
-  - uid: b4c7189e86fd17dd7df32e0908030c06
-    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 5d3ad58f66e90bf8c299e8397ae6bd28
-    parent_uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 1c5e0f0c9d3be531c70c2b8c23c5079d
 type: courses
 layout: video
 ---

@@ -1,17 +1,78 @@
 ---
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: t36jZG07MYc
+    parent_uid: eb3049b4868afd9982215f1dc9da655b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9edb4d801985ba4a155d8c256a83987d
+  - id: BackgroundImage-OCW-JPG
+    parent_uid: eb3049b4868afd9982215f1dc9da655b
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 1cdcdd52dbbcc4e4521aded3532c865d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/t36jZG07MYc/default.jpg'
+    parent_uid: eb3049b4868afd9982215f1dc9da655b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4ac7126e270bf1b6733d2983d800e729
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: t36jZG07MYc
+    parent_uid: eb3049b4868afd9982215f1dc9da655b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7ae8980f8e2028628f8793a5108a7e07
+  - id: t36jZG07MYc.srt
+    parent_uid: eb3049b4868afd9982215f1dc9da655b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/instructor-insights/an-interview-with-gilbert-strang-on-teaching-matrix-methods-in-data-analysis-signal-processing-and-machine-learning/t36jZG07MYc.srt
+    title: 3play caption file
+    type: null
+    uid: 7d229e47c6175002b0e92487720cf046
+  - id: t36jZG07MYc.pdf
+    parent_uid: eb3049b4868afd9982215f1dc9da655b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/instructor-insights/an-interview-with-gilbert-strang-on-teaching-matrix-methods-in-data-analysis-signal-processing-and-machine-learning/t36jZG07MYc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 14d608fa21de1a71016c8c2b0f4828f0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: eb3049b4868afd9982215f1dc9da655b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f1515f20f123d2ba9e944bfb73a2d5af
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: eb3049b4868afd9982215f1dc9da655b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d10a583d12538a1e4ce4c9f515bde1c7
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT18.065S18/MIT18_065S18_Educator_Video_300k.mp4
+    parent_uid: eb3049b4868afd9982215f1dc9da655b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 132b1ef4c0eee6cba07c7262f3e717cd
+  - id: 18-065.jpg
+    parent_uid: eb3049b4868afd9982215f1dc9da655b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/instructor-insights/an-interview-with-gilbert-strang-on-teaching-matrix-methods-in-data-analysis-signal-processing-and-machine-learning/18-065.jpg
+    title: 18-065.jpg
+    type: null
+    uid: 900f325e721c13a9156a4fc80526c91d
+inline_embed_id: >-
+  49926333aninterviewwithgilbertstrangonteachingmatrixmethodsindataanalysissignalprocessingandmachinelearning13154188
+parent_uid: 07a3d3eaa91f17c34182eb7fdf14e25d
+related_resources_text: ''
+short_url: >-
+  an-interview-with-gilbert-strang-on-teaching-matrix-methods-in-data-analysis-signal-processing-and-machine-learning
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/instructor-insights/an-interview-with-gilbert-strang-on-teaching-matrix-methods-in-data-analysis-signal-processing-and-machine-learning
 title: >-
   An Interview with Gilbert Strang on Teaching Matrix Methods in Data Analysis,
   Signal Processing, and Machine Learning
-uid: eb3049b4868afd9982215f1dc9da655b
-parent_uid: 07a3d3eaa91f17c34182eb7fdf14e25d
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/instructor-insights/an-interview-with-gilbert-strang-on-teaching-matrix-methods-in-data-analysis-signal-processing-and-machine-learning
-short_url: >-
-  an-interview-with-gilbert-strang-on-teaching-matrix-methods-in-data-analysis-signal-processing-and-machine-learning
-inline_embed_id: >-
-  49926333aninterviewwithgilbertstrangonteachingmatrixmethodsindataanalysissignalprocessingandmachinelearning13154188
-about_this_resource_text: ''
-related_resources_text: ''
 transcript: >-
   <p><span m='6650'>SARAH HANSEN:</span> <span m='6755'>Could</span> <span
   m='6860'>you</span> <span m='7010'>tell</span> <span m='7250'>us</span> <span
@@ -469,68 +530,7 @@ transcript: >-
   m='480270'>it's</span> <span m='482350'>the</span> <span
   m='482440'>best</span> <span m='482710'>job</span> <span
   m='483040'>possible.</span> </p>
-embedded_media:
-  - uid: 9edb4d801985ba4a155d8c256a83987d
-    parent_uid: eb3049b4868afd9982215f1dc9da655b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: t36jZG07MYc
-  - uid: 1cdcdd52dbbcc4e4521aded3532c865d
-    parent_uid: eb3049b4868afd9982215f1dc9da655b
-    id: BackgroundImage-OCW-JPG
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 4ac7126e270bf1b6733d2983d800e729
-    parent_uid: eb3049b4868afd9982215f1dc9da655b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/t36jZG07MYc/default.jpg'
-  - uid: 7ae8980f8e2028628f8793a5108a7e07
-    parent_uid: eb3049b4868afd9982215f1dc9da655b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: t36jZG07MYc
-  - uid: 7d229e47c6175002b0e92487720cf046
-    parent_uid: eb3049b4868afd9982215f1dc9da655b
-    id: t36jZG07MYc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/instructor-insights/an-interview-with-gilbert-strang-on-teaching-matrix-methods-in-data-analysis-signal-processing-and-machine-learning/t36jZG07MYc.srt
-  - uid: 14d608fa21de1a71016c8c2b0f4828f0
-    parent_uid: eb3049b4868afd9982215f1dc9da655b
-    id: t36jZG07MYc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/instructor-insights/an-interview-with-gilbert-strang-on-teaching-matrix-methods-in-data-analysis-signal-processing-and-machine-learning/t36jZG07MYc.pdf
-  - uid: f1515f20f123d2ba9e944bfb73a2d5af
-    parent_uid: eb3049b4868afd9982215f1dc9da655b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d10a583d12538a1e4ce4c9f515bde1c7
-    parent_uid: eb3049b4868afd9982215f1dc9da655b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 132b1ef4c0eee6cba07c7262f3e717cd
-    parent_uid: eb3049b4868afd9982215f1dc9da655b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT18.065S18/MIT18_065S18_Educator_Video_300k.mp4
-  - uid: 900f325e721c13a9156a4fc80526c91d
-    parent_uid: eb3049b4868afd9982215f1dc9da655b
-    id: 18-065.jpg
-    title: 18-065.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/instructor-insights/an-interview-with-gilbert-strang-on-teaching-matrix-methods-in-data-analysis-signal-processing-and-machine-learning/18-065.jpg
+uid: eb3049b4868afd9982215f1dc9da655b
 type: courses
 layout: video
 ---

@@ -1,13 +1,67 @@
 ---
-title: Introduction
-uid: 105aad1a7bf9b43b4f95902cae6cbd03
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 4j8mTdmATVg
+    parent_uid: 105aad1a7bf9b43b4f95902cae6cbd03
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1ddca3cdc316f23b814b37143357f717
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4j8mTdmATVg/default.jpg'
+    parent_uid: 105aad1a7bf9b43b4f95902cae6cbd03
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e6aeb33ec48c9ef27bfdf8e12d88d2bf
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 4j8mTdmATVg
+    parent_uid: 105aad1a7bf9b43b4f95902cae6cbd03
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4b67deac8275cbdc40573463bdcf915a
+  - id: 4j8mTdmATVg.srt
+    parent_uid: 105aad1a7bf9b43b4f95902cae6cbd03
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/syllabus/meet-the-tas/introduction/4j8mTdmATVg.srt
+    title: 3play caption file
+    type: null
+    uid: cf7b3c400baaadb942e9e0c9d563b94d
+  - id: 4j8mTdmATVg.pdf
+    parent_uid: 105aad1a7bf9b43b4f95902cae6cbd03
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/syllabus/meet-the-tas/introduction/4j8mTdmATVg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 52287638266367caf57b6d6a86c0e30c
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 105aad1a7bf9b43b4f95902cae6cbd03
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6fadd799334cc93739b47198529f64ab
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 105aad1a7bf9b43b4f95902cae6cbd03
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9bcfe611f1a537dffffcd0a88e7761ca
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/itunes-u/id496265654'
+    parent_uid: 105aad1a7bf9b43b4f95902cae6cbd03
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c20367b951306f66d7bc57cfcc35b878
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT14.01SCF10/MIT14_01SCF10_intro_300k.mp4'
+    parent_uid: 105aad1a7bf9b43b4f95902cae6cbd03
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c61d83b59008cedf9e9c1e485b99a029
+inline_embed_id: 93885453introduction60010858
 parent_uid: f0b3ed7cdca2a26b75e353d084b146b2
+related_resources_text: ''
+short_url: introduction
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/syllabus/meet-the-tas/introduction
-short_url: introduction
-inline_embed_id: 93885453introduction60010858
-about_this_resource_text: ''
-related_resources_text: ''
+title: Introduction
 transcript: >-
   <p><span m='530'>PROFESSOR: I</span> <span m='670'>was</span> <span
   m='800'>an</span> <span m='900'>undergrad</span> <span m='1360'>at</span>
@@ -87,61 +141,7 @@ transcript: >-
   <span m='50770'>look</span> <span m='50940'>forward</span> <span
   m='51140'>to</span> <span m='51200'>working</span> <span m='51470'>with</span>
   <span m='51770'>you.</span> </p>
-embedded_media:
-  - uid: 1ddca3cdc316f23b814b37143357f717
-    parent_uid: 105aad1a7bf9b43b4f95902cae6cbd03
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4j8mTdmATVg
-  - uid: e6aeb33ec48c9ef27bfdf8e12d88d2bf
-    parent_uid: 105aad1a7bf9b43b4f95902cae6cbd03
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4j8mTdmATVg/default.jpg'
-  - uid: 4b67deac8275cbdc40573463bdcf915a
-    parent_uid: 105aad1a7bf9b43b4f95902cae6cbd03
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4j8mTdmATVg
-  - uid: cf7b3c400baaadb942e9e0c9d563b94d
-    parent_uid: 105aad1a7bf9b43b4f95902cae6cbd03
-    id: 4j8mTdmATVg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/syllabus/meet-the-tas/introduction/4j8mTdmATVg.srt
-  - uid: 52287638266367caf57b6d6a86c0e30c
-    parent_uid: 105aad1a7bf9b43b4f95902cae6cbd03
-    id: 4j8mTdmATVg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/syllabus/meet-the-tas/introduction/4j8mTdmATVg.pdf
-  - uid: 6fadd799334cc93739b47198529f64ab
-    parent_uid: 105aad1a7bf9b43b4f95902cae6cbd03
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9bcfe611f1a537dffffcd0a88e7761ca
-    parent_uid: 105aad1a7bf9b43b4f95902cae6cbd03
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c20367b951306f66d7bc57cfcc35b878
-    parent_uid: 105aad1a7bf9b43b4f95902cae6cbd03
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/itunes-u/id496265654'
-  - uid: c61d83b59008cedf9e9c1e485b99a029
-    parent_uid: 105aad1a7bf9b43b4f95902cae6cbd03
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT14.01SCF10/MIT14_01SCF10_intro_300k.mp4'
+uid: 105aad1a7bf9b43b4f95902cae6cbd03
 type: courses
 layout: video
 ---

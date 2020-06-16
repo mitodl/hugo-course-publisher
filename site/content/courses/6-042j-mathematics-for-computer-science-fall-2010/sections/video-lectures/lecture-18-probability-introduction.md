@@ -1,16 +1,71 @@
 ---
-title: 'Lecture 18: Probability Introduction'
-uid: a579fb860521a3052cce0f404f80fc7c
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-18-probability-introduction
-short_url: lecture-18-probability-introduction
-inline_embed_id: '2453279lecture18:probabilityintroduction54303153'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Gives an overview of probability, including
   basic definitions, the Monty Hall problem, and strange dice games.</p>
   <p><strong>Speaker:</strong> Tom Leighton</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: SmFwFdESMHI
+    parent_uid: a579fb860521a3052cce0f404f80fc7c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 688fe222cf95951815996921c3005c3d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/SmFwFdESMHI/default.jpg'
+    parent_uid: a579fb860521a3052cce0f404f80fc7c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cb9d0067047f6a681711f5fcb25c07ad
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-18-probability-introduction/id503873536?i=110644977
+    parent_uid: a579fb860521a3052cce0f404f80fc7c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5a51d771a9e61b59b85fffdebbe7d17e
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec18_300k.mp4'
+    parent_uid: a579fb860521a3052cce0f404f80fc7c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: dc772a771870290bff4e1ec2e64aa46c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: SmFwFdESMHI
+    parent_uid: a579fb860521a3052cce0f404f80fc7c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d0a5edb4106a751d7d1bf3d368847b54
+  - id: SmFwFdESMHI.srt
+    parent_uid: a579fb860521a3052cce0f404f80fc7c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-18-probability-introduction/SmFwFdESMHI.srt
+    title: 3play caption file
+    type: null
+    uid: ac9859021720759e81c34fb559326caa
+  - id: SmFwFdESMHI.pdf
+    parent_uid: a579fb860521a3052cce0f404f80fc7c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-18-probability-introduction/SmFwFdESMHI.pdf
+    title: 3play pdf file
+    type: null
+    uid: e38df7d17bc4b9e21ac6c9347279a8d0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a579fb860521a3052cce0f404f80fc7c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5631197729bdc2b273db514fa8d72962
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a579fb860521a3052cce0f404f80fc7c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f1952c066c075b30a6a38ac43d81e3e8
+inline_embed_id: '2453279lecture18:probabilityintroduction54303153'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
+short_url: lecture-18-probability-introduction
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-18-probability-introduction
+title: 'Lecture 18: Probability Introduction'
 transcript: >-
   <p><span m='390'>The</span> <span m='520'>following</span> <span
   m='950'>content</span> <span m='1550'>is</span> <span m='1660'>provided</span>
@@ -4746,62 +4801,7 @@ transcript: >-
   m='5030810'>over</span> <span m='5030980'>the</span> <span
   m='5031070'>next</span> <span m='5031320'>week</span> <span
   m='5031510'>or</span> <span m='5031590'>two.</span> </p>
-embedded_media:
-  - uid: 688fe222cf95951815996921c3005c3d
-    parent_uid: a579fb860521a3052cce0f404f80fc7c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: SmFwFdESMHI
-  - uid: cb9d0067047f6a681711f5fcb25c07ad
-    parent_uid: a579fb860521a3052cce0f404f80fc7c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/SmFwFdESMHI/default.jpg'
-  - uid: 5a51d771a9e61b59b85fffdebbe7d17e
-    parent_uid: a579fb860521a3052cce0f404f80fc7c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-18-probability-introduction/id503873536?i=110644977
-  - uid: dc772a771870290bff4e1ec2e64aa46c
-    parent_uid: a579fb860521a3052cce0f404f80fc7c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec18_300k.mp4'
-  - uid: d0a5edb4106a751d7d1bf3d368847b54
-    parent_uid: a579fb860521a3052cce0f404f80fc7c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: SmFwFdESMHI
-  - uid: ac9859021720759e81c34fb559326caa
-    parent_uid: a579fb860521a3052cce0f404f80fc7c
-    id: SmFwFdESMHI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-18-probability-introduction/SmFwFdESMHI.srt
-  - uid: e38df7d17bc4b9e21ac6c9347279a8d0
-    parent_uid: a579fb860521a3052cce0f404f80fc7c
-    id: SmFwFdESMHI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-18-probability-introduction/SmFwFdESMHI.pdf
-  - uid: 5631197729bdc2b273db514fa8d72962
-    parent_uid: a579fb860521a3052cce0f404f80fc7c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f1952c066c075b30a6a38ac43d81e3e8
-    parent_uid: a579fb860521a3052cce0f404f80fc7c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a579fb860521a3052cce0f404f80fc7c
 type: courses
 layout: video
 ---

@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 26: Introduction to Counterparty Credit Risk'
-uid: 14652057e6e40a38eecc7e5a96006a23
+about_this_resource_text: "<p><strong>Description:</strong> This lecture is an introduction to counterparty credit risk, featuring credit valuation as well as the broad economic objectives of a financial institution. It also concludes the course.</p>\r\n<p><strong>Instructor:</strong> Yi Tang</p>"
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: bKmcRfE3I6E
+    parent_uid: 14652057e6e40a38eecc7e5a96006a23
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 367c38ef273e5cfeb29fdcdcde44bd34
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/bKmcRfE3I6E/default.jpg'
+    parent_uid: 14652057e6e40a38eecc7e5a96006a23
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: da1a5220785aa132620577d8af79f5fb
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
+    parent_uid: 14652057e6e40a38eecc7e5a96006a23
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 697de3695a903910cff2a362b4f10794
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec26_300k.mp4'
+    parent_uid: 14652057e6e40a38eecc7e5a96006a23
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a8ef35e24046ffee524f6f672d04cd95
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: bKmcRfE3I6E
+    parent_uid: 14652057e6e40a38eecc7e5a96006a23
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 455b6f690aaab600a2174bc254ee98e3
+  - id: bKmcRfE3I6E.srt
+    parent_uid: 14652057e6e40a38eecc7e5a96006a23
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-26-introduction-to-counterparty-credit-risk/bKmcRfE3I6E.srt
+    title: 3play caption file
+    type: null
+    uid: f0eab274dddf1cc0c74213f5ef43f0db
+  - id: bKmcRfE3I6E.pdf
+    parent_uid: 14652057e6e40a38eecc7e5a96006a23
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-26-introduction-to-counterparty-credit-risk/bKmcRfE3I6E.pdf
+    title: 3play pdf file
+    type: null
+    uid: 4da7dcc082ea0484d29599d0a19e9192
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 14652057e6e40a38eecc7e5a96006a23
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4936592bfc2150d33a8e3a5471340394
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 14652057e6e40a38eecc7e5a96006a23
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 53532f2a8ec1fb2220accbc308e8bd2e
+inline_embed_id: '61087140lecture26:introductiontocounterpartycreditrisk9669239'
 parent_uid: d23a85587c0c7524ea054e655c999532
+related_resources_text: ''
+short_url: lecture-26-introduction-to-counterparty-credit-risk
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-26-introduction-to-counterparty-credit-risk
-short_url: lecture-26-introduction-to-counterparty-credit-risk
-inline_embed_id: '61087140lecture26:introductiontocounterpartycreditrisk9669239'
-about_this_resource_text: "<p><strong>Description:</strong> This lecture is an introduction to counterparty credit risk, featuring credit valuation as well as the broad economic objectives of a financial institution. It also concludes the course.</p>\r\n<p><strong>Instructor:</strong> Yi Tang</p>"
-related_resources_text: ''
+title: 'Lecture 26: Introduction to Counterparty Credit Risk'
 transcript: >-
   <p><span m='60'>The</span> <span m='190'>following</span> <span
   m='630'>content</span> <span m='1220'>is</span> <span m='1340'>provided</span>
@@ -3968,61 +4022,7 @@ transcript: >-
   m='4890650'>[APPLAUSE]</span> </p><p><span m='4892450'>PROFESSOR: And</span>
   <span m='4892750'>thank Yi</span> <span m='4893050'>for</span> <span
   m='4893350'>the</span> <span m='4893650'>pleasure.</span> </p>
-embedded_media:
-  - uid: 367c38ef273e5cfeb29fdcdcde44bd34
-    parent_uid: 14652057e6e40a38eecc7e5a96006a23
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: bKmcRfE3I6E
-  - uid: da1a5220785aa132620577d8af79f5fb
-    parent_uid: 14652057e6e40a38eecc7e5a96006a23
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/bKmcRfE3I6E/default.jpg'
-  - uid: 697de3695a903910cff2a362b4f10794
-    parent_uid: 14652057e6e40a38eecc7e5a96006a23
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id954073595'
-  - uid: a8ef35e24046ffee524f6f672d04cd95
-    parent_uid: 14652057e6e40a38eecc7e5a96006a23
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.S096F13/MIT18_S096F13_lec26_300k.mp4'
-  - uid: 455b6f690aaab600a2174bc254ee98e3
-    parent_uid: 14652057e6e40a38eecc7e5a96006a23
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: bKmcRfE3I6E
-  - uid: f0eab274dddf1cc0c74213f5ef43f0db
-    parent_uid: 14652057e6e40a38eecc7e5a96006a23
-    id: bKmcRfE3I6E.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-26-introduction-to-counterparty-credit-risk/bKmcRfE3I6E.srt
-  - uid: 4da7dcc082ea0484d29599d0a19e9192
-    parent_uid: 14652057e6e40a38eecc7e5a96006a23
-    id: bKmcRfE3I6E.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video-lectures/lecture-26-introduction-to-counterparty-credit-risk/bKmcRfE3I6E.pdf
-  - uid: 4936592bfc2150d33a8e3a5471340394
-    parent_uid: 14652057e6e40a38eecc7e5a96006a23
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 53532f2a8ec1fb2220accbc308e8bd2e
-    parent_uid: 14652057e6e40a38eecc7e5a96006a23
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 14652057e6e40a38eecc7e5a96006a23
 type: courses
 layout: video
 ---

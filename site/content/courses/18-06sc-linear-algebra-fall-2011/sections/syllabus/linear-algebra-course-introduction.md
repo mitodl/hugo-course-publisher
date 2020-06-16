@@ -1,13 +1,67 @@
 ---
-title: Linear Algebra Course Introduction
-uid: e8aecf11a8aa85c631c9a9c427093839
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: YeyrH-Oc2p4
+    parent_uid: e8aecf11a8aa85c631c9a9c427093839
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1995c47aff2eed29f92fa9418f1c2e83
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/elimination-with-matrices/id488155309'
+    parent_uid: e8aecf11a8aa85c631c9a9c427093839
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ef9d8d18261c659c1c584d5ce2f1c491
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.06SCF11/MIT18_06SC_intro_300k.mp4'
+    parent_uid: e8aecf11a8aa85c631c9a9c427093839
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f9c73b0a13ce29e88c6103cd5565bc94
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: YeyrH-Oc2p4
+    parent_uid: e8aecf11a8aa85c631c9a9c427093839
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 49fe90f34b9a885ea66d5d417a58d89e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/YeyrH-Oc2p4/default.jpg'
+    parent_uid: e8aecf11a8aa85c631c9a9c427093839
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: bfc0855f9aa7c99373bd0551509fc89d
+  - id: YeyrH-Oc2p4.srt
+    parent_uid: e8aecf11a8aa85c631c9a9c427093839
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/linear-algebra-course-introduction/YeyrH-Oc2p4.srt
+    title: 3play caption file
+    type: null
+    uid: 8c39df464439ee65cb49df199f024ef8
+  - id: YeyrH-Oc2p4.pdf
+    parent_uid: e8aecf11a8aa85c631c9a9c427093839
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/linear-algebra-course-introduction/YeyrH-Oc2p4.pdf
+    title: 3play pdf file
+    type: null
+    uid: d3c0898b867b1ae09688ea8d5db4fa03
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e8aecf11a8aa85c631c9a9c427093839
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b1917e66c87b698f8c270e434311868f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e8aecf11a8aa85c631c9a9c427093839
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0902c761bf387bbb9f89079b5caf14d1
+inline_embed_id: 9626089linearalgebracourseintroduction11105443
 parent_uid: d8efae912fd602f9ac2e2cb9d064d22e
+related_resources_text: ''
+short_url: linear-algebra-course-introduction
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/linear-algebra-course-introduction
-short_url: linear-algebra-course-introduction
-inline_embed_id: 9626089linearalgebracourseintroduction11105443
-about_this_resource_text: ''
-related_resources_text: ''
+title: Linear Algebra Course Introduction
 transcript: >-
   <p><span m='6220'>GILBERT STRANG: Hi,</span> <span m='6520'>I'm</span> <span
   m='6860'>Gilbert</span> <span m='7220'>Strang,</span> <span
@@ -388,61 +442,7 @@ transcript: >-
   m='426160'>speak.</span> <span m='427250'>And</span> <span m='428490'>I</span>
   <span m='428730'>hope</span> <span m='428930'>these</span> <span
   m='429180'>lectures</span> <span m='429610'>help.</span> </p>
-embedded_media:
-  - uid: 1995c47aff2eed29f92fa9418f1c2e83
-    parent_uid: e8aecf11a8aa85c631c9a9c427093839
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: YeyrH-Oc2p4
-  - uid: ef9d8d18261c659c1c584d5ce2f1c491
-    parent_uid: e8aecf11a8aa85c631c9a9c427093839
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/elimination-with-matrices/id488155309'
-  - uid: f9c73b0a13ce29e88c6103cd5565bc94
-    parent_uid: e8aecf11a8aa85c631c9a9c427093839
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.06SCF11/MIT18_06SC_intro_300k.mp4'
-  - uid: 49fe90f34b9a885ea66d5d417a58d89e
-    parent_uid: e8aecf11a8aa85c631c9a9c427093839
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: YeyrH-Oc2p4
-  - uid: bfc0855f9aa7c99373bd0551509fc89d
-    parent_uid: e8aecf11a8aa85c631c9a9c427093839
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/YeyrH-Oc2p4/default.jpg'
-  - uid: 8c39df464439ee65cb49df199f024ef8
-    parent_uid: e8aecf11a8aa85c631c9a9c427093839
-    id: YeyrH-Oc2p4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/linear-algebra-course-introduction/YeyrH-Oc2p4.srt
-  - uid: d3c0898b867b1ae09688ea8d5db4fa03
-    parent_uid: e8aecf11a8aa85c631c9a9c427093839
-    id: YeyrH-Oc2p4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/linear-algebra-course-introduction/YeyrH-Oc2p4.pdf
-  - uid: b1917e66c87b698f8c270e434311868f
-    parent_uid: e8aecf11a8aa85c631c9a9c427093839
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0902c761bf387bbb9f89079b5caf14d1
-    parent_uid: e8aecf11a8aa85c631c9a9c427093839
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: e8aecf11a8aa85c631c9a9c427093839
 type: courses
 layout: video
 ---

@@ -1,13 +1,68 @@
 ---
-title: Definition of Derivative
-uid: 4b7d5d5daa4c1b71ea8fa877841ac214
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: _nbtaQtX6JA
+    parent_uid: 4b7d5d5daa4c1b71ea8fa877841ac214
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b6a93138fa5bf9c0fbe559939325796d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/_nbtaQtX6JA/default.jpg'
+    parent_uid: 4b7d5d5daa4c1b71ea8fa877841ac214
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: aeef17b5245f26df4228f404de53b863
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/definition-of-the-derivative/id414308064?i=90318623
+    parent_uid: 4b7d5d5daa4c1b71ea8fa877841ac214
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5cab0717b71f17697fa0c46f34cf5adc
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_01_300k.mp4'
+    parent_uid: 4b7d5d5daa4c1b71ea8fa877841ac214
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: eec75da8fc9e0f2123d2597213a843e9
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: _nbtaQtX6JA
+    parent_uid: 4b7d5d5daa4c1b71ea8fa877841ac214
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 490c800ba5d4fd01e55e6d34e3ed3486
+  - id: nbtaQtX6JA.srt
+    parent_uid: 4b7d5d5daa4c1b71ea8fa877841ac214
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/definition-of-derivative/nbtaQtX6JA.srt
+    title: 3play caption file
+    type: null
+    uid: f6f22bed454c41552ff61b454f09f16d
+  - id: nbtaQtX6JA.pdf
+    parent_uid: 4b7d5d5daa4c1b71ea8fa877841ac214
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/definition-of-derivative/nbtaQtX6JA.pdf
+    title: 3play pdf file
+    type: null
+    uid: dbae76a27a86f2ae03daee8095b7fc28
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4b7d5d5daa4c1b71ea8fa877841ac214
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4323f318845e2235d276ad4d7c5a6f58
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4b7d5d5daa4c1b71ea8fa877841ac214
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: cecec34f84bbba5b52e4d55c9629d25a
+inline_embed_id: 98494677definitionofderivative20877803
 parent_uid: c25a5592cbb582539daea82e3aeeda33
+related_resources_text: ''
+short_url: definition-of-derivative
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/definition-of-derivative
-short_url: definition-of-derivative
-inline_embed_id: 98494677definitionofderivative20877803
-about_this_resource_text: ''
-related_resources_text: ''
+title: Definition of Derivative
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='7000'>Hi.</span> <span
   m='7420'>Welcome</span> <span m='7780'>back</span> <span m='7980'>to</span>
@@ -839,62 +894,7 @@ transcript: >-
   m='744280'>your</span> <span m='744400'>work.</span> <span
   m='745230'>So</span> <span m='745690'>that's</span> <span
   m='745930'>that.</span> </p>
-embedded_media:
-  - uid: b6a93138fa5bf9c0fbe559939325796d
-    parent_uid: 4b7d5d5daa4c1b71ea8fa877841ac214
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: _nbtaQtX6JA
-  - uid: aeef17b5245f26df4228f404de53b863
-    parent_uid: 4b7d5d5daa4c1b71ea8fa877841ac214
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/_nbtaQtX6JA/default.jpg'
-  - uid: 5cab0717b71f17697fa0c46f34cf5adc
-    parent_uid: 4b7d5d5daa4c1b71ea8fa877841ac214
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/definition-of-the-derivative/id414308064?i=90318623
-  - uid: eec75da8fc9e0f2123d2597213a843e9
-    parent_uid: 4b7d5d5daa4c1b71ea8fa877841ac214
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_01_300k.mp4'
-  - uid: 490c800ba5d4fd01e55e6d34e3ed3486
-    parent_uid: 4b7d5d5daa4c1b71ea8fa877841ac214
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: _nbtaQtX6JA
-  - uid: f6f22bed454c41552ff61b454f09f16d
-    parent_uid: 4b7d5d5daa4c1b71ea8fa877841ac214
-    id: nbtaQtX6JA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/definition-of-derivative/nbtaQtX6JA.srt
-  - uid: dbae76a27a86f2ae03daee8095b7fc28
-    parent_uid: 4b7d5d5daa4c1b71ea8fa877841ac214
-    id: nbtaQtX6JA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/definition-of-derivative/nbtaQtX6JA.pdf
-  - uid: 4323f318845e2235d276ad4d7c5a6f58
-    parent_uid: 4b7d5d5daa4c1b71ea8fa877841ac214
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: cecec34f84bbba5b52e4d55c9629d25a
-    parent_uid: 4b7d5d5daa4c1b71ea8fa877841ac214
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 4b7d5d5daa4c1b71ea8fa877841ac214
 type: courses
 layout: video
 ---

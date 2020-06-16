@@ -1,13 +1,73 @@
 ---
-title: Product Rule
-uid: 4733164d1203d462a4140db70d738ccc
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 55ncRlBZstA
+    parent_uid: 4733164d1203d462a4140db70d738ccc
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3e6396d4423854c54753dabf3d044b03
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4sTKcvYMNxk/default.jpg'
+    parent_uid: 4733164d1203d462a4140db70d738ccc
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a74d39fa9a6ed12df3587ccdf787c166
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/55ncRlBZstA/default.jpg'
+    parent_uid: 4733164d1203d462a4140db70d738ccc
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 144cf891a6d4e24f02f65bd877c9a586
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/podcast/product-rule/id414308064?i=90318984'
+    parent_uid: 4733164d1203d462a4140db70d738ccc
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 58f392b0c70107042f43dedfdb64a6d9
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_07_300k.mp4'
+    parent_uid: 4733164d1203d462a4140db70d738ccc
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 89bd2e736142d16c73739574c74d9e0e
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 55ncRlBZstA
+    parent_uid: 4733164d1203d462a4140db70d738ccc
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d48b431467e1d6ec1f4a7091ace9ac47
+  - id: 55ncRlBZstA.srt
+    parent_uid: 4733164d1203d462a4140db70d738ccc
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule/product-rule/55ncRlBZstA.srt
+    title: 3play caption file
+    type: null
+    uid: a156c2794a39fddb1cea8dbe2325a113
+  - id: 55ncRlBZstA.pdf
+    parent_uid: 4733164d1203d462a4140db70d738ccc
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule/product-rule/55ncRlBZstA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2f9a956462ea89d6852402f75d54317e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4733164d1203d462a4140db70d738ccc
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: fa3993bcbd1368d7d285f9a4e9f6586b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4733164d1203d462a4140db70d738ccc
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2a690726a8c22edb1bfd83cca98f2483
+inline_embed_id: 31573033productrule94383488
 parent_uid: d35aadf5c6d2e1543aee74e2dfdda970
+related_resources_text: ''
+short_url: product-rule
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule/product-rule
-short_url: product-rule
-inline_embed_id: 31573033productrule94383488
-about_this_resource_text: ''
-related_resources_text: ''
+title: Product Rule
 transcript: >-
   <p><span m="7320">CHRISTINE BREINER: Welcome</span> <span m="7720">back</span>
   <span m="7920">to</span> <span m="8000">recitation.</span> <span
@@ -490,67 +550,7 @@ transcript: >-
   m="423710">f</span> <span m="423850">of</span> <span m="424325">x.</span>
   <span m="424800">And</span> <span m="425120">this</span> <span
   m="425240">is</span> <span m="425350">where we'll stop.</span></p>
-embedded_media:
-  - uid: 3e6396d4423854c54753dabf3d044b03
-    parent_uid: 4733164d1203d462a4140db70d738ccc
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 55ncRlBZstA
-  - uid: a74d39fa9a6ed12df3587ccdf787c166
-    parent_uid: 4733164d1203d462a4140db70d738ccc
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4sTKcvYMNxk/default.jpg'
-  - uid: 144cf891a6d4e24f02f65bd877c9a586
-    parent_uid: 4733164d1203d462a4140db70d738ccc
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/55ncRlBZstA/default.jpg'
-  - uid: 58f392b0c70107042f43dedfdb64a6d9
-    parent_uid: 4733164d1203d462a4140db70d738ccc
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/podcast/product-rule/id414308064?i=90318984'
-  - uid: 89bd2e736142d16c73739574c74d9e0e
-    parent_uid: 4733164d1203d462a4140db70d738ccc
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_07_300k.mp4'
-  - uid: d48b431467e1d6ec1f4a7091ace9ac47
-    parent_uid: 4733164d1203d462a4140db70d738ccc
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 55ncRlBZstA
-  - uid: a156c2794a39fddb1cea8dbe2325a113
-    parent_uid: 4733164d1203d462a4140db70d738ccc
-    id: 55ncRlBZstA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule/product-rule/55ncRlBZstA.srt
-  - uid: 2f9a956462ea89d6852402f75d54317e
-    parent_uid: 4733164d1203d462a4140db70d738ccc
-    id: 55ncRlBZstA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-9-product-rule/product-rule/55ncRlBZstA.pdf
-  - uid: fa3993bcbd1368d7d285f9a4e9f6586b
-    parent_uid: 4733164d1203d462a4140db70d738ccc
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2a690726a8c22edb1bfd83cca98f2483
-    parent_uid: 4733164d1203d462a4140db70d738ccc
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 4733164d1203d462a4140db70d738ccc
 type: courses
 layout: video
 ---

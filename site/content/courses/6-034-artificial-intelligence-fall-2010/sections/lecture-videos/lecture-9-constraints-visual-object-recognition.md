@@ -1,22 +1,77 @@
 ---
-title: 'Lecture 9: Constraints: Visual Object Recognition'
-uid: c87beea243de1ebf431cab907dd23f52
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-9-constraints-visual-object-recognition
-short_url: lecture-9-constraints-visual-object-recognition
-inline_embed_id: '70642278lecture9:constraints:visualobjectrecognition75030584'
 about_this_resource_text: >-
   <p><strong>Description:</strong> We consider how object recognition has
   evolved over the past 30 years. In alignment theory, 2-D projections are used
   to determine whether an additional picture is of the same object. To recognize
   faces, we use intermediate-sized features and correlation.</p>
   <p><strong>Instructor:</strong> Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: gvmfbePC2pc
+    parent_uid: c87beea243de1ebf431cab907dd23f52
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9e4c763e341c9a78e0a84c19c49ffc51
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-9-constraints-visual/id765641080?i=194470782
+    parent_uid: c87beea243de1ebf431cab907dd23f52
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6f7a7530e7d4cef2c3a215e6d97ea765
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec09_300k.mp4'
+    parent_uid: c87beea243de1ebf431cab907dd23f52
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 98e27c6319c8164f2bde7fea374436c8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/gvmfbePC2pc/default.jpg'
+    parent_uid: c87beea243de1ebf431cab907dd23f52
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5eee422fe8fff03b4aebf09e0bfe7c30
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: gvmfbePC2pc
+    parent_uid: c87beea243de1ebf431cab907dd23f52
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2b9711ec532a441d5189e7e2263c6863
+  - id: gvmfbePC2pc.srt
+    parent_uid: c87beea243de1ebf431cab907dd23f52
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-9-constraints-visual-object-recognition/gvmfbePC2pc.srt
+    title: 3play caption file
+    type: null
+    uid: c41bf052dd9936f6c699a83a1bbd7f16
+  - id: gvmfbePC2pc.pdf
+    parent_uid: c87beea243de1ebf431cab907dd23f52
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-9-constraints-visual-object-recognition/gvmfbePC2pc.pdf
+    title: 3play pdf file
+    type: null
+    uid: aae7af9c88e603a8baf1bde5e240c7f7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c87beea243de1ebf431cab907dd23f52
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2e9c69912d91f92a3014f2ae0bcc8463
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c87beea243de1ebf431cab907dd23f52
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0fc04ce38d3a30712931299e7c216cc9
+inline_embed_id: '70642278lecture9:constraints:visualobjectrecognition75030584'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: >-
   <p>Prof. Winston wrote about <a
   href="https://alum.mit.edu/slice/rumpelstiltskin-principle"
   target="_blank">the Rumpelstiltskin principle</a>, which was briefly mentioned
   in this lecture, in the <em>Slice of MIT</em> blog.</p>
+short_url: lecture-9-constraints-visual-object-recognition
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-9-constraints-visual-object-recognition
+title: 'Lecture 9: Constraints: Visual Object Recognition'
 transcript: >-
   <p><span m="9215">PATRICK WINSTON: You know, it's unfortunate that
   politics</span> <span m="11320">has become so serious.</span></p><p><span
@@ -866,62 +921,7 @@ transcript: >-
   one and the right one different labels and recognize</span> <span
   m="3072300">the cat is drinking.</span></p><p><span m="3076410">And that's the
   end of the story.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: 9e4c763e341c9a78e0a84c19c49ffc51
-    parent_uid: c87beea243de1ebf431cab907dd23f52
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: gvmfbePC2pc
-  - uid: 6f7a7530e7d4cef2c3a215e6d97ea765
-    parent_uid: c87beea243de1ebf431cab907dd23f52
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-9-constraints-visual/id765641080?i=194470782
-  - uid: 98e27c6319c8164f2bde7fea374436c8
-    parent_uid: c87beea243de1ebf431cab907dd23f52
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec09_300k.mp4'
-  - uid: 5eee422fe8fff03b4aebf09e0bfe7c30
-    parent_uid: c87beea243de1ebf431cab907dd23f52
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/gvmfbePC2pc/default.jpg'
-  - uid: 2b9711ec532a441d5189e7e2263c6863
-    parent_uid: c87beea243de1ebf431cab907dd23f52
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: gvmfbePC2pc
-  - uid: c41bf052dd9936f6c699a83a1bbd7f16
-    parent_uid: c87beea243de1ebf431cab907dd23f52
-    id: gvmfbePC2pc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-9-constraints-visual-object-recognition/gvmfbePC2pc.srt
-  - uid: aae7af9c88e603a8baf1bde5e240c7f7
-    parent_uid: c87beea243de1ebf431cab907dd23f52
-    id: gvmfbePC2pc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-9-constraints-visual-object-recognition/gvmfbePC2pc.pdf
-  - uid: 2e9c69912d91f92a3014f2ae0bcc8463
-    parent_uid: c87beea243de1ebf431cab907dd23f52
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0fc04ce38d3a30712931299e7c216cc9
-    parent_uid: c87beea243de1ebf431cab907dd23f52
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: c87beea243de1ebf431cab907dd23f52
 type: courses
 layout: video
 ---

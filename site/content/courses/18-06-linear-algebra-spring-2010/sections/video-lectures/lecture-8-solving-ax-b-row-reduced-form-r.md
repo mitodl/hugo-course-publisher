@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 8: Solving Ax = b: row reduced form R'
-uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-8-solving-ax-b-row-reduced-form-r
-short_url: lecture-8-solving-ax-b-row-reduced-form-r
-inline_embed_id: '17896919lecture8:solvingax=b:rowreducedformr50192799'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L08.jpg
+    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-8-solving-ax-b-row-reduced-form-r/18.06_L08.jpg
+    title: 18.06_L08.jpg
+    type: null
+    uid: c5886a1a55f63de48680fe2a324d791e
+  - id: Video-YouTube-Stream
+    media_location: 9Q1q7s1jTzU
+    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 30f09588aad662c9bfc6776cff45b56b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/9Q1q7s1jTzU/default.jpg'
+    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 49431395d5fd169de678b1c1a4c62f9c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e89999a300b05c063b651e198951ebcc
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/08.mp4'
+    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2fa02d720070e81d9ee16af4c06b3486
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: a50412ca3214468f39e25c00f86aa0b1
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 2e70d46a9010c78e122d975e5edb9a62
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 9Q1q7s1jTzU
+    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e68b3e892cc17e084263a17653209cb2
+  - id: 9Q1q7s1jTzU.srt
+    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-8-solving-ax-b-row-reduced-form-r/9Q1q7s1jTzU.srt
+    title: 3play caption file
+    type: null
+    uid: d74e4279de423141fe6bea6bce4a774d
+  - id: 9Q1q7s1jTzU.pdf
+    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-8-solving-ax-b-row-reduced-form-r/9Q1q7s1jTzU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 224769c9e399493a99ac441ba670eebf
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 05aa185ca303ab26780bd0f7c2090212
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a1f0457047339061a3a244e7db2d16e3
+inline_embed_id: '17896919lecture8:solvingax=b:rowreducedformr50192799'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-8-solving-ax-b-row-reduced-form-r
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-8-solving-ax-b-row-reduced-form-r
+title: 'Lecture 8: Solving Ax = b: row reduced form R'
 transcript: >-
   <p><span m="5870">OK,</span> <span m="6570">when</span> <span
   m="6780">the</span> <span m="6890">camera</span> <span m="7310">says,</span>
@@ -2533,79 +2605,7 @@ transcript: >-
   m="2826200">I'll</span> <span m="2826340">see</span> <span
   m="2826630">you</span> <span m="2826810">on</span> <span
   m="2827220">Monday.</span></p>
-embedded_media:
-  - uid: c5886a1a55f63de48680fe2a324d791e
-    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
-    id: 18.06_L08.jpg
-    title: 18.06_L08.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-8-solving-ax-b-row-reduced-form-r/18.06_L08.jpg
-  - uid: 30f09588aad662c9bfc6776cff45b56b
-    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 9Q1q7s1jTzU
-  - uid: 49431395d5fd169de678b1c1a4c62f9c
-    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9Q1q7s1jTzU/default.jpg'
-  - uid: e89999a300b05c063b651e198951ebcc
-    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 2fa02d720070e81d9ee16af4c06b3486
-    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/08.mp4'
-  - uid: a50412ca3214468f39e25c00f86aa0b1
-    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 2e70d46a9010c78e122d975e5edb9a62
-    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: e68b3e892cc17e084263a17653209cb2
-    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 9Q1q7s1jTzU
-  - uid: d74e4279de423141fe6bea6bce4a774d
-    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
-    id: 9Q1q7s1jTzU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-8-solving-ax-b-row-reduced-form-r/9Q1q7s1jTzU.srt
-  - uid: 224769c9e399493a99ac441ba670eebf
-    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
-    id: 9Q1q7s1jTzU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-8-solving-ax-b-row-reduced-form-r/9Q1q7s1jTzU.pdf
-  - uid: 05aa185ca303ab26780bd0f7c2090212
-    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a1f0457047339061a3a244e7db2d16e3
-    parent_uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 11f8e0fcbb9df3ed3a53fa822ef7724f
 type: courses
 layout: video
 ---

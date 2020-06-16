@@ -1,13 +1,61 @@
 ---
-title: Debates
-uid: 78c88887ab184d53f900927a50ba8a65
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: r2_-2KW76ec
+    parent_uid: 78c88887ab184d53f900927a50ba8a65
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1898298f18f7e68118e2d0363b886bc4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/r2_-2KW76ec/default.jpg'
+    parent_uid: 78c88887ab184d53f900927a50ba8a65
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 080798e400c5dc870f129f431695e0ca
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: r2_-2KW76ec
+    parent_uid: 78c88887ab184d53f900927a50ba8a65
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 16ac189662478a22c2a051cb2f04aa5c
+  - id: r2_-2KW76ec.srt
+    parent_uid: 78c88887ab184d53f900927a50ba8a65
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/active-learning-activity-debates/r2_-2KW76ec.srt
+    title: 3play caption file
+    type: null
+    uid: 927dc70c42150c4f6c292d80f8283753
+  - id: r2_-2KW76ec.pdf
+    parent_uid: 78c88887ab184d53f900927a50ba8a65
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/active-learning-activity-debates/r2_-2KW76ec.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7c2c07a7b19fd1b4d784e7d2cde6f6bc
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 78c88887ab184d53f900927a50ba8a65
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f7c7cf20bb31797d9eb7e55a48167c63
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 78c88887ab184d53f900927a50ba8a65
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a6795f2d33378738f423b64007e09961
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.033S18/MIT6_033S18_DUET_Lecture_300k.mp4'
+    parent_uid: 78c88887ab184d53f900927a50ba8a65
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: cd8ea364ff7d83cbfb667b949f31a56b
+inline_embed_id: 22074540activelearningactivitydebates15623038
 parent_uid: e75a8c08e11786c535031b5e10f0fe19
+related_resources_text: ''
+short_url: active-learning-activity-debates
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/active-learning-activity-debates
-short_url: active-learning-activity-debates
-inline_embed_id: 22074540activelearningactivitydebates15623038
-about_this_resource_text: ''
-related_resources_text: ''
+title: Debates
 transcript: >-
   <p><span m="1645">The</span> <span m="1690">following</span> <span
   m="2110">content</span> <span m="2680">is</span> <span
@@ -4623,55 +4671,7 @@ transcript: >-
   m="3139010">off</span> <span m="3139310">to</span> <span
   m="3139490">Jesse</span> <span m="3139940">and</span> <span
   m="3140270">Karen.</span></p>
-embedded_media:
-  - uid: 1898298f18f7e68118e2d0363b886bc4
-    parent_uid: 78c88887ab184d53f900927a50ba8a65
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: r2_-2KW76ec
-  - uid: 080798e400c5dc870f129f431695e0ca
-    parent_uid: 78c88887ab184d53f900927a50ba8a65
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/r2_-2KW76ec/default.jpg'
-  - uid: 16ac189662478a22c2a051cb2f04aa5c
-    parent_uid: 78c88887ab184d53f900927a50ba8a65
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: r2_-2KW76ec
-  - uid: 927dc70c42150c4f6c292d80f8283753
-    parent_uid: 78c88887ab184d53f900927a50ba8a65
-    id: r2_-2KW76ec.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/active-learning-activity-debates/r2_-2KW76ec.srt
-  - uid: 7c2c07a7b19fd1b4d784e7d2cde6f6bc
-    parent_uid: 78c88887ab184d53f900927a50ba8a65
-    id: r2_-2KW76ec.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018/instructor-insights/active-learning-activity-debates/r2_-2KW76ec.pdf
-  - uid: f7c7cf20bb31797d9eb7e55a48167c63
-    parent_uid: 78c88887ab184d53f900927a50ba8a65
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a6795f2d33378738f423b64007e09961
-    parent_uid: 78c88887ab184d53f900927a50ba8a65
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: cd8ea364ff7d83cbfb667b949f31a56b
-    parent_uid: 78c88887ab184d53f900927a50ba8a65
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.033S18/MIT6_033S18_DUET_Lecture_300k.mp4'
+uid: 78c88887ab184d53f900927a50ba8a65
 type: courses
 layout: video
 ---

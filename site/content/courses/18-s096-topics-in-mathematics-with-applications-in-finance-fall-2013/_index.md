@@ -4,7 +4,8 @@ course_id: 18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013
 course_title: Topics in Mathematics with Applications in Finance
 course_image_url: >-
   https://open-learning-course-data-ci.s3.amazonaws.com/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/bb7de7f57ac6a5938118fc237a68d2b7_18-s096f13.jpg
-course_thumbnail_image_url: ''
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/1e816198fe303017579d9b42077cdeed_18-s096f13-th.jpg
 course_image_alternate_text: A flow diagram of a pricing model.
 course_image_caption_text: <p>Pricing Model Diagram. (Image courtesy of Ivan Masyukov.)</p>
 course_description: >-

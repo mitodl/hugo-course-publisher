@@ -1,13 +1,62 @@
 ---
-title: 'Video 1: Replicating Expert Assessment'
-uid: 5b784be48b5cb409c073b6753d26441f
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: wYcMru4gYF4
+    parent_uid: 5b784be48b5cb409c073b6753d26441f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 58a09ef1ad34abda52f433d33695e3f6
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: wYcMru4gYF4
+    parent_uid: 5b784be48b5cb409c073b6753d26441f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 348563a7e2aecfe4f63f90a748965028
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/wYcMru4gYF4/default.jpg'
+    parent_uid: 5b784be48b5cb409c073b6753d26441f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8361b817eef4b077f47b662408ade52e
+  - id: wYcMru4gYF4.srt
+    parent_uid: 5b784be48b5cb409c073b6753d26441f
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-1-replicating-expert-assessment-0/wYcMru4gYF4.srt
+    title: 3play caption file
+    type: null
+    uid: bc8ce4827cb560e047a02b7af6cf72b7
+  - id: wYcMru4gYF4.pdf
+    parent_uid: 5b784be48b5cb409c073b6753d26441f
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-1-replicating-expert-assessment-0/wYcMru4gYF4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 23002a1d5af9f0013887883a4d87b418
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5b784be48b5cb409c073b6753d26441f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c2e36b6af06492a2be59f2d8d9b9767f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5b784be48b5cb409c073b6753d26441f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 6034883fb21609584395d47efde7e3ba
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.2.01_300k.mp4
+    parent_uid: 5b784be48b5cb409c073b6753d26441f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e4a12ff55247076182c29f252f429762
+inline_embed_id: 82464371video1replicatingexpertassessment61829848
 parent_uid: 3063320a41756b8a4fa9892f61b52c0d
+related_resources_text: ''
+short_url: video-1-replicating-expert-assessment-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-1-replicating-expert-assessment-0
-short_url: video-1-replicating-expert-assessment-0
-inline_embed_id: 82464371video1replicatingexpertassessment61829848
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 1: Replicating Expert Assessment'
 transcript: >-
   <p><span m='9490'>In</span> <span m='10008'>this</span> <span
   m='10527'>lecture,</span> <span m='11045'>we'll</span> <span
@@ -191,56 +240,7 @@ transcript: >-
   m='234096'>quality</span> <span m='235095'>care</span> <span
   m='236093'>using</span> <span m='237092'>claims</span> <span
   m='238091'>data.</span> </p>
-embedded_media:
-  - uid: 58a09ef1ad34abda52f433d33695e3f6
-    parent_uid: 5b784be48b5cb409c073b6753d26441f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: wYcMru4gYF4
-  - uid: 348563a7e2aecfe4f63f90a748965028
-    parent_uid: 5b784be48b5cb409c073b6753d26441f
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: wYcMru4gYF4
-  - uid: 8361b817eef4b077f47b662408ade52e
-    parent_uid: 5b784be48b5cb409c073b6753d26441f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/wYcMru4gYF4/default.jpg'
-  - uid: bc8ce4827cb560e047a02b7af6cf72b7
-    parent_uid: 5b784be48b5cb409c073b6753d26441f
-    id: wYcMru4gYF4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-1-replicating-expert-assessment-0/wYcMru4gYF4.srt
-  - uid: 23002a1d5af9f0013887883a4d87b418
-    parent_uid: 5b784be48b5cb409c073b6753d26441f
-    id: wYcMru4gYF4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/logistic-regression/modeling-the-expert-an-introduction-to-logistic-regression/video-1-replicating-expert-assessment-0/wYcMru4gYF4.pdf
-  - uid: c2e36b6af06492a2be59f2d8d9b9767f
-    parent_uid: 5b784be48b5cb409c073b6753d26441f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 6034883fb21609584395d47efde7e3ba
-    parent_uid: 5b784be48b5cb409c073b6753d26441f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: e4a12ff55247076182c29f252f429762
-    parent_uid: 5b784be48b5cb409c073b6753d26441f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_3.2.01_300k.mp4
+uid: 5b784be48b5cb409c073b6753d26441f
 type: courses
 layout: video
 ---

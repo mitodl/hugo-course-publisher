@@ -1,13 +1,73 @@
 ---
-title: Potentials that satisfy V(-x) = V(x)
-uid: fe3dca6a577391ea9daf8e9c344699d5
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: AtjMKPzNIXQ
+    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bdba3743ac5540fbbdb849d2d38b8ae2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/F9-6Id4SDqI/default.jpg'
+    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 905449097234d75e285d15bb72c09158
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: AtjMKPzNIXQ
+    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: cc13fdb4a30d73b90173208de44590db
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 008baab396b01cbd62d5cd61ac85fada
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec12_s2_300k.mp4'
+    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 946af67424a35491ab4021c0039e3b72
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/AtjMKPzNIXQ/default.jpg'
+    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3c2fd704c5eb65fcc4858ab232126157
+  - id: AtjMKPzNIXQ.srt
+    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/potentials-that-satisfy-v-x-v-x/AtjMKPzNIXQ.srt
+    title: 3play caption file
+    type: null
+    uid: 6e1ac2172469108d090c1c071dbd1d40
+  - id: AtjMKPzNIXQ.pdf
+    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/potentials-that-satisfy-v-x-v-x/AtjMKPzNIXQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: ea41e9886afce1384ca8105014171b60
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 721ddaa0f390ebf15f5311ea92ace740
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 82e02cda10e192a1a8efd6626f2f1d3b
+inline_embed_id: 37991812potentialsthatsatisfyvxvx47996441
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: potentials-that-satisfy-v-x-v-x
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/potentials-that-satisfy-v-x-v-x
-short_url: potentials-that-satisfy-v-x-v-x
-inline_embed_id: 37991812potentialsthatsatisfyvxvx47996441
-about_this_resource_text: ''
-related_resources_text: ''
+title: Potentials that satisfy V(-x) = V(x)
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='62'>Now</span> <span
   m='1000'>we</span> <span m='1200'>prove</span> <span m='1530'>the</span> <span
@@ -567,67 +627,7 @@ transcript: >-
   m='855250'>thought</span> <span m='855600'>you</span> <span
   m='856440'>really</span> <span m='856710'>ought</span> <span
   m='856910'>to</span> <span m='857040'>see it.</span> </p>
-embedded_media:
-  - uid: bdba3743ac5540fbbdb849d2d38b8ae2
-    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: AtjMKPzNIXQ
-  - uid: 905449097234d75e285d15bb72c09158
-    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/F9-6Id4SDqI/default.jpg'
-  - uid: cc13fdb4a30d73b90173208de44590db
-    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: AtjMKPzNIXQ
-  - uid: 008baab396b01cbd62d5cd61ac85fada
-    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 946af67424a35491ab4021c0039e3b72
-    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec12_s2_300k.mp4'
-  - uid: 3c2fd704c5eb65fcc4858ab232126157
-    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/AtjMKPzNIXQ/default.jpg'
-  - uid: 6e1ac2172469108d090c1c071dbd1d40
-    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
-    id: AtjMKPzNIXQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/potentials-that-satisfy-v-x-v-x/AtjMKPzNIXQ.srt
-  - uid: ea41e9886afce1384ca8105014171b60
-    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
-    id: AtjMKPzNIXQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/potentials-that-satisfy-v-x-v-x/AtjMKPzNIXQ.pdf
-  - uid: 721ddaa0f390ebf15f5311ea92ace740
-    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 82e02cda10e192a1a8efd6626f2f1d3b
-    parent_uid: fe3dca6a577391ea9daf8e9c344699d5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: fe3dca6a577391ea9daf8e9c344699d5
 type: courses
 layout: video
 ---

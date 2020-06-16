@@ -1,13 +1,73 @@
 ---
-title: Expectation values of operators
-uid: aba817807a1b4aa0681c095052cfa35b
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: XQKV-hpsurs
+    parent_uid: aba817807a1b4aa0681c095052cfa35b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a2d1dc3995497a7b4976d4857848cdd8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/pV6FDHcPt78/default.jpg'
+    parent_uid: aba817807a1b4aa0681c095052cfa35b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d4e923ed266cade770443dc9ea9b52de
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: XQKV-hpsurs
+    parent_uid: aba817807a1b4aa0681c095052cfa35b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6a065c5a10c35d660aa2b1fbf3d588bc
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: aba817807a1b4aa0681c095052cfa35b
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 5597f3b3652b5c5577274f9c12218982
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec08_s4_300k.mp4'
+    parent_uid: aba817807a1b4aa0681c095052cfa35b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d545fa43cbab578521ca1730999b3806
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/XQKV-hpsurs/default.jpg'
+    parent_uid: aba817807a1b4aa0681c095052cfa35b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 89e14f078a10cefde8ee9690a45ae5b8
+  - id: XQKV-hpsurs.srt
+    parent_uid: aba817807a1b4aa0681c095052cfa35b
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/expectation-values-of-operators/XQKV-hpsurs.srt
+    title: 3play caption file
+    type: null
+    uid: 5952c5325b75dc0f63c8b0b194cb4e82
+  - id: XQKV-hpsurs.pdf
+    parent_uid: aba817807a1b4aa0681c095052cfa35b
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/expectation-values-of-operators/XQKV-hpsurs.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5bfecef6bcb2264265ea48fbd1848e60
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: aba817807a1b4aa0681c095052cfa35b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e61050e24d08f8ceb3be04eaa9ac3612
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: aba817807a1b4aa0681c095052cfa35b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 825b3eb9496cf9d45a39d42910674f7b
+inline_embed_id: 86253651expectationvaluesofoperators57969468
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: expectation-values-of-operators
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/expectation-values-of-operators
-short_url: expectation-values-of-operators
-inline_embed_id: 86253651expectationvaluesofoperators57969468
-about_this_resource_text: ''
-related_resources_text: ''
+title: Expectation values of operators
 transcript: >-
   <p><span m='520'>PROFESSOR:</span> <span m='695'>Expectation</span> <span
   m='870'>values</span> <span m='7100'>of</span> <span
@@ -1150,67 +1210,7 @@ transcript: >-
   m='1692030'>well.</span> <span m='1692970'>So</span> <span
   m='1693170'>it's</span> <span m='1693320'>similar</span> <span
   m='1693920'>to</span> <span m='1694220'>this.</span> </p>
-embedded_media:
-  - uid: a2d1dc3995497a7b4976d4857848cdd8
-    parent_uid: aba817807a1b4aa0681c095052cfa35b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: XQKV-hpsurs
-  - uid: d4e923ed266cade770443dc9ea9b52de
-    parent_uid: aba817807a1b4aa0681c095052cfa35b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/pV6FDHcPt78/default.jpg'
-  - uid: 6a065c5a10c35d660aa2b1fbf3d588bc
-    parent_uid: aba817807a1b4aa0681c095052cfa35b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: XQKV-hpsurs
-  - uid: 5597f3b3652b5c5577274f9c12218982
-    parent_uid: aba817807a1b4aa0681c095052cfa35b
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: d545fa43cbab578521ca1730999b3806
-    parent_uid: aba817807a1b4aa0681c095052cfa35b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec08_s4_300k.mp4'
-  - uid: 89e14f078a10cefde8ee9690a45ae5b8
-    parent_uid: aba817807a1b4aa0681c095052cfa35b
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/XQKV-hpsurs/default.jpg'
-  - uid: 5952c5325b75dc0f63c8b0b194cb4e82
-    parent_uid: aba817807a1b4aa0681c095052cfa35b
-    id: XQKV-hpsurs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/expectation-values-of-operators/XQKV-hpsurs.srt
-  - uid: 5bfecef6bcb2264265ea48fbd1848e60
-    parent_uid: aba817807a1b4aa0681c095052cfa35b
-    id: XQKV-hpsurs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/expectation-values-of-operators/XQKV-hpsurs.pdf
-  - uid: e61050e24d08f8ceb3be04eaa9ac3612
-    parent_uid: aba817807a1b4aa0681c095052cfa35b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 825b3eb9496cf9d45a39d42910674f7b
-    parent_uid: aba817807a1b4aa0681c095052cfa35b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: aba817807a1b4aa0681c095052cfa35b
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: Solving particle on a circle
-uid: 92fc36f4a1975676821b9caaf4a773d6
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2EV1vJAAo8M
+    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ed5d0aefb6ba4e060d8e6bcd3a1311c8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/glpV5T0BFZU/default.jpg'
+    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: ebeb54122f2f31e2975b9971e2c34f4a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 2EV1vJAAo8M
+    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b767e64d1e332d33a2e5121f44196bd9
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 748286c39c68fdf391e701e046038328
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec10_s5_300k.mp4'
+    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 84fa62c584ebd5be67e8a57422c13616
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/2EV1vJAAo8M/default.jpg'
+    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 968ddc50f85abca7b324e57c378d8b97
+  - id: 2EV1vJAAo8M.srt
+    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/solving-particle-on-a-circle/2EV1vJAAo8M.srt
+    title: 3play caption file
+    type: null
+    uid: f58dca145518dffb9443f37fedaed49a
+  - id: 2EV1vJAAo8M.pdf
+    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/solving-particle-on-a-circle/2EV1vJAAo8M.pdf
+    title: 3play pdf file
+    type: null
+    uid: 14bd8ded298c87cfc030f9fe9b2cfbbd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 53e0296c82ed4151c8df0bee7f4f6a1d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0891de9b7220c11ac60f5e5c1e9f3608
+inline_embed_id: 5638647solvingparticleonacircle30156022
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: solving-particle-on-a-circle
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/solving-particle-on-a-circle
-short_url: solving-particle-on-a-circle
-inline_embed_id: 5638647solvingparticleonacircle30156022
-about_this_resource_text: ''
-related_resources_text: ''
+title: Solving particle on a circle
 transcript: >-
   <p><span m='0'>BARTON ZWIEBACH:</span> <span m='195'>--that has</span> <span
   m='780'>served,</span> <span m='1160'>also,</span> <span m='1407'>our</span>
@@ -442,67 +502,7 @@ transcript: >-
   m='660690'>periodicity</span> <span m='662490'>and</span> <span m='662790'>how
   we</span> <span m='663090'>normalize</span> <span m='663390'>this</span> <span
   m='663690'>wave</span> <span m='663990'>function.</span> </p>
-embedded_media:
-  - uid: ed5d0aefb6ba4e060d8e6bcd3a1311c8
-    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2EV1vJAAo8M
-  - uid: ebeb54122f2f31e2975b9971e2c34f4a
-    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/glpV5T0BFZU/default.jpg'
-  - uid: b767e64d1e332d33a2e5121f44196bd9
-    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2EV1vJAAo8M
-  - uid: 748286c39c68fdf391e701e046038328
-    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 84fa62c584ebd5be67e8a57422c13616
-    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec10_s5_300k.mp4'
-  - uid: 968ddc50f85abca7b324e57c378d8b97
-    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2EV1vJAAo8M/default.jpg'
-  - uid: f58dca145518dffb9443f37fedaed49a
-    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
-    id: 2EV1vJAAo8M.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/solving-particle-on-a-circle/2EV1vJAAo8M.srt
-  - uid: 14bd8ded298c87cfc030f9fe9b2cfbbd
-    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
-    id: 2EV1vJAAo8M.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/solving-particle-on-a-circle/2EV1vJAAo8M.pdf
-  - uid: 53e0296c82ed4151c8df0bee7f4f6a1d
-    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0891de9b7220c11ac60f5e5c1e9f3608
-    parent_uid: 92fc36f4a1975676821b9caaf4a773d6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 92fc36f4a1975676821b9caaf4a773d6
 type: courses
 layout: video
 ---

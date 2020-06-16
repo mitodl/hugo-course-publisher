@@ -1,13 +1,67 @@
 ---
-title: Step potential probability current
-uid: 28021f550a19745881e6262fa57427ae
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: z79v39lMR3k
+    parent_uid: 28021f550a19745881e6262fa57427ae
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1630302ea49833cfa1c29f71257994be
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/z79v39lMR3k/default.jpg'
+    parent_uid: 28021f550a19745881e6262fa57427ae
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4c0f6ff0fd39314070a47dfc56db5c27
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: z79v39lMR3k
+    parent_uid: 28021f550a19745881e6262fa57427ae
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8b19312c4966fcfded385491f34d8fe8
+  - id: z79v39lMR3k.srt
+    parent_uid: 28021f550a19745881e6262fa57427ae
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/step-potential-probability-current/z79v39lMR3k.srt
+    title: 3play caption file
+    type: null
+    uid: a9c8d725a14dd96bcc8a3fd8ce05811d
+  - id: z79v39lMR3k.pdf
+    parent_uid: 28021f550a19745881e6262fa57427ae
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/step-potential-probability-current/z79v39lMR3k.pdf
+    title: 3play pdf file
+    type: null
+    uid: 65ba96a00290440d840cfd0a1e414bce
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 28021f550a19745881e6262fa57427ae
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cd2db0678743a77535a79e11d60b4ae4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 28021f550a19745881e6262fa57427ae
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a918f156b51dbc44899be1867e981a5e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 28021f550a19745881e6262fa57427ae
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0453b8f9d2f1728de48c57d5d561ad80
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec16_s1_300k.mp4'
+    parent_uid: 28021f550a19745881e6262fa57427ae
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a634531f76c7936d18e9e1a107748713
+inline_embed_id: 82183943steppotentialprobabilitycurrent13061523
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: step-potential-probability-current
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/step-potential-probability-current
-short_url: step-potential-probability-current
-inline_embed_id: 82183943steppotentialprobabilitycurrent13061523
-about_this_resource_text: ''
-related_resources_text: ''
+title: Step potential probability current
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='225'>I've</span> <span
   m='450'>put</span> <span m='690'>on</span> <span m='810'>the</span> <span
@@ -753,61 +807,7 @@ transcript: >-
   m='895650'>wrong.</span> <span m='897300'>It</span> <span
   m='897510'>all</span> <span m='897720'>works</span> <span
   m='898140'>well.</span> </p>
-embedded_media:
-  - uid: 1630302ea49833cfa1c29f71257994be
-    parent_uid: 28021f550a19745881e6262fa57427ae
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: z79v39lMR3k
-  - uid: 4c0f6ff0fd39314070a47dfc56db5c27
-    parent_uid: 28021f550a19745881e6262fa57427ae
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/z79v39lMR3k/default.jpg'
-  - uid: 8b19312c4966fcfded385491f34d8fe8
-    parent_uid: 28021f550a19745881e6262fa57427ae
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: z79v39lMR3k
-  - uid: a9c8d725a14dd96bcc8a3fd8ce05811d
-    parent_uid: 28021f550a19745881e6262fa57427ae
-    id: z79v39lMR3k.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/step-potential-probability-current/z79v39lMR3k.srt
-  - uid: 65ba96a00290440d840cfd0a1e414bce
-    parent_uid: 28021f550a19745881e6262fa57427ae
-    id: z79v39lMR3k.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/step-potential-probability-current/z79v39lMR3k.pdf
-  - uid: cd2db0678743a77535a79e11d60b4ae4
-    parent_uid: 28021f550a19745881e6262fa57427ae
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a918f156b51dbc44899be1867e981a5e
-    parent_uid: 28021f550a19745881e6262fa57427ae
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0453b8f9d2f1728de48c57d5d561ad80
-    parent_uid: 28021f550a19745881e6262fa57427ae
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: a634531f76c7936d18e9e1a107748713
-    parent_uid: 28021f550a19745881e6262fa57427ae
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec16_s1_300k.mp4'
+uid: 28021f550a19745881e6262fa57427ae
 type: courses
 layout: video
 ---

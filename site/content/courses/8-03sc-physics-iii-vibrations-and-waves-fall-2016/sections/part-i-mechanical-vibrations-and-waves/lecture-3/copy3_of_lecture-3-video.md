@@ -1,13 +1,61 @@
 ---
-title: Driven Mechanical Oscillator
-uid: f1da84358e7f0e79120e07297810769e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: FCFpaKcpuXQ
+    parent_uid: f1da84358e7f0e79120e07297810769e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: eacfb5e6e156ccfa5970193ccfff792c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/FCFpaKcpuXQ/default.jpg'
+    parent_uid: f1da84358e7f0e79120e07297810769e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5777f51e296fd0e6ece5526e7196c65d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: FCFpaKcpuXQ
+    parent_uid: f1da84358e7f0e79120e07297810769e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 35a3de3484546955a702644ff353c9a3
+  - id: FCFpaKcpuXQ.srt
+    parent_uid: f1da84358e7f0e79120e07297810769e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy3_of_lecture-3-video/FCFpaKcpuXQ.srt
+    title: 3play caption file
+    type: null
+    uid: f15862fb14e6e2d1849b1d51af734b49
+  - id: FCFpaKcpuXQ.pdf
+    parent_uid: f1da84358e7f0e79120e07297810769e
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy3_of_lecture-3-video/FCFpaKcpuXQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 176ac26420c2fcbe17a21bc2d84265e8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f1da84358e7f0e79120e07297810769e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0bdf74f9c3f13789a5754349e5d9a4fe
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f1da84358e7f0e79120e07297810769e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 647e63ff015037471f813d4e473d138f
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec03_300k.mp4'
+    parent_uid: f1da84358e7f0e79120e07297810769e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 24d4bc227d9bd0009be7317f8bc852b7
+inline_embed_id: 50255074lecture3videop362268674
 parent_uid: f635ac92fa8971e368192518b537eb93
+related_resources_text: ''
+short_url: copy3_of_lecture-3-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy3_of_lecture-3-video
-short_url: copy3_of_lecture-3-video
-inline_embed_id: 50255074lecture3videop362268674
-about_this_resource_text: ''
-related_resources_text: ''
+title: Driven Mechanical Oscillator
 transcript: >-
   <p><span m="2110">The</span> <span m="2230">following</span> <span
   m="2650">content</span> <span m="3160">is</span> <span
@@ -3938,55 +3986,7 @@ transcript: >-
   m="4610690">additional</span> <span m="4611170">questions</span> <span
   m="4612250">related</span> <span m="4612640">to the</span> <span
   m="4612800">lecture.</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: eacfb5e6e156ccfa5970193ccfff792c
-    parent_uid: f1da84358e7f0e79120e07297810769e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: FCFpaKcpuXQ
-  - uid: 5777f51e296fd0e6ece5526e7196c65d
-    parent_uid: f1da84358e7f0e79120e07297810769e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/FCFpaKcpuXQ/default.jpg'
-  - uid: 35a3de3484546955a702644ff353c9a3
-    parent_uid: f1da84358e7f0e79120e07297810769e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: FCFpaKcpuXQ
-  - uid: f15862fb14e6e2d1849b1d51af734b49
-    parent_uid: f1da84358e7f0e79120e07297810769e
-    id: FCFpaKcpuXQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy3_of_lecture-3-video/FCFpaKcpuXQ.srt
-  - uid: 176ac26420c2fcbe17a21bc2d84265e8
-    parent_uid: f1da84358e7f0e79120e07297810769e
-    id: FCFpaKcpuXQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-3/copy3_of_lecture-3-video/FCFpaKcpuXQ.pdf
-  - uid: 0bdf74f9c3f13789a5754349e5d9a4fe
-    parent_uid: f1da84358e7f0e79120e07297810769e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 647e63ff015037471f813d4e473d138f
-    parent_uid: f1da84358e7f0e79120e07297810769e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 24d4bc227d9bd0009be7317f8bc852b7
-    parent_uid: f1da84358e7f0e79120e07297810769e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec03_300k.mp4'
+uid: f1da84358e7f0e79120e07297810769e
 type: courses
 layout: video
 ---

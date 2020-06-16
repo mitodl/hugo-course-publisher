@@ -1,13 +1,62 @@
 ---
-title: 'Video 6: A Heatmap on the United States'
-uid: 043fc419195005dd6080e3330724c725
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 8hBr-bpykso
+    parent_uid: 043fc419195005dd6080e3330724c725
+    title: Video-YouTube-Stream
+    type: Video
+    uid: aacec831aeeecea17a84b639c7dec7ed
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 8hBr-bpykso
+    parent_uid: 043fc419195005dd6080e3330724c725
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: da0ae23b03abcd00bd12356d82fe5f37
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/8hBr-bpykso/default.jpg'
+    parent_uid: 043fc419195005dd6080e3330724c725
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b26c08f714e29376c71895a9cf42eac1
+  - id: 8hBr-bpykso.srt
+    parent_uid: 043fc419195005dd6080e3330724c725
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-6-a-heatmap-on-the-united-states/video-6-a-heatmap-on-the-united-states-0/8hBr-bpykso.srt
+    title: 3play caption file
+    type: null
+    uid: e61896d97a3a9b634162d31321ae919f
+  - id: 8hBr-bpykso.pdf
+    parent_uid: 043fc419195005dd6080e3330724c725
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-6-a-heatmap-on-the-united-states/video-6-a-heatmap-on-the-united-states-0/8hBr-bpykso.pdf
+    title: 3play pdf file
+    type: null
+    uid: 176e1a1b68db209bb290c5b0f5fcf731
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 043fc419195005dd6080e3330724c725
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 63843a3393c5fe320f29a597e752f033
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 043fc419195005dd6080e3330724c725
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7714caf30450d9ac976ab285f679d416
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.3.11_300k.mp4
+    parent_uid: 043fc419195005dd6080e3330724c725
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a3331f03df3ac7079b255673f5386920
+inline_embed_id: 67499248video6aheatmapontheunitedstates10526483
 parent_uid: 50eab6cd164e035d9470dc118924f686
+related_resources_text: ''
+short_url: video-6-a-heatmap-on-the-united-states-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-6-a-heatmap-on-the-united-states/video-6-a-heatmap-on-the-united-states-0
-short_url: video-6-a-heatmap-on-the-united-states-0
-inline_embed_id: 67499248video6aheatmapontheunitedstates10526483
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 6: A Heatmap on the United States'
 transcript: >-
   <p><span m='4490'>In</span> <span m='4792'>this</span> <span
   m='5095'>video,</span> <span m='5397'>we'll</span> <span
@@ -533,56 +582,7 @@ transcript: >-
   m='562265'>analytics</span> <span m='562760'>edge</span> <span
   m='563255'>of</span> <span m='563750'>predictive</span> <span
   m='564245'>policing.</span> </p>
-embedded_media:
-  - uid: aacec831aeeecea17a84b639c7dec7ed
-    parent_uid: 043fc419195005dd6080e3330724c725
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 8hBr-bpykso
-  - uid: da0ae23b03abcd00bd12356d82fe5f37
-    parent_uid: 043fc419195005dd6080e3330724c725
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 8hBr-bpykso
-  - uid: b26c08f714e29376c71895a9cf42eac1
-    parent_uid: 043fc419195005dd6080e3330724c725
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/8hBr-bpykso/default.jpg'
-  - uid: e61896d97a3a9b634162d31321ae919f
-    parent_uid: 043fc419195005dd6080e3330724c725
-    id: 8hBr-bpykso.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-6-a-heatmap-on-the-united-states/video-6-a-heatmap-on-the-united-states-0/8hBr-bpykso.srt
-  - uid: 176e1a1b68db209bb290c5b0f5fcf731
-    parent_uid: 043fc419195005dd6080e3330724c725
-    id: 8hBr-bpykso.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-6-a-heatmap-on-the-united-states/video-6-a-heatmap-on-the-united-states-0/8hBr-bpykso.pdf
-  - uid: 63843a3393c5fe320f29a597e752f033
-    parent_uid: 043fc419195005dd6080e3330724c725
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7714caf30450d9ac976ab285f679d416
-    parent_uid: 043fc419195005dd6080e3330724c725
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a3331f03df3ac7079b255673f5386920
-    parent_uid: 043fc419195005dd6080e3330724c725
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.3.11_300k.mp4
+uid: 043fc419195005dd6080e3330724c725
 type: courses
 layout: video
 ---

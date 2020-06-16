@@ -1,13 +1,61 @@
 ---
-title: Moiré Pattern
-uid: cf493859e0d29d6aedc0af6b883677c6
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: mqhO9GT8hD4
+    parent_uid: cf493859e0d29d6aedc0af6b883677c6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8586c25022da3c3d2ca6565eb10b5ca7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/mqhO9GT8hD4/default.jpg'
+    parent_uid: cf493859e0d29d6aedc0af6b883677c6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 134e34b0c0753916bbfebe09f913770e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: mqhO9GT8hD4
+    parent_uid: cf493859e0d29d6aedc0af6b883677c6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6286b3e36d59e5f8d76b21494b270339
+  - id: mqhO9GT8hD4.srt
+    parent_uid: cf493859e0d29d6aedc0af6b883677c6
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-21/copy2_of_lecture-21-video/mqhO9GT8hD4.srt
+    title: 3play caption file
+    type: null
+    uid: 654e1ef6938e29400dea8616f19ff3e2
+  - id: mqhO9GT8hD4.pdf
+    parent_uid: cf493859e0d29d6aedc0af6b883677c6
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-21/copy2_of_lecture-21-video/mqhO9GT8hD4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6b8a4c2764d8b0b5e1b55f09f933eda0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cf493859e0d29d6aedc0af6b883677c6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6c132e4762360be01b0500b42907e0f4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cf493859e0d29d6aedc0af6b883677c6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 905f7cd99eb8d2739c1dd1c42b66b64a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec21_300k.mp4'
+    parent_uid: cf493859e0d29d6aedc0af6b883677c6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9becac3b7e04b713bafcb988a3fd5bed
+inline_embed_id: 4314989lecture21videop260533327
 parent_uid: babd702cf1121939a9e0c02a1d617ddb
+related_resources_text: ''
+short_url: copy2_of_lecture-21-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-21/copy2_of_lecture-21-video
-short_url: copy2_of_lecture-21-video
-inline_embed_id: 4314989lecture21videop260533327
-about_this_resource_text: ''
-related_resources_text: ''
+title: Moiré Pattern
 transcript: >-
   <p><span m="2490">The</span> <span m="2580">following</span> <span
   m="3030">content</span> <span m="3510">is</span> <span
@@ -4418,55 +4466,7 @@ transcript: >-
   m="4707750">the</span> <span m="4707900">single</span> <span
   m="4708150">slit</span> <span m="4709060">diffraction</span> <span
   m="4709360">pattern.</span></p><p>&nbsp;</p><p>&nbsp;</p>
-embedded_media:
-  - uid: 8586c25022da3c3d2ca6565eb10b5ca7
-    parent_uid: cf493859e0d29d6aedc0af6b883677c6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: mqhO9GT8hD4
-  - uid: 134e34b0c0753916bbfebe09f913770e
-    parent_uid: cf493859e0d29d6aedc0af6b883677c6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/mqhO9GT8hD4/default.jpg'
-  - uid: 6286b3e36d59e5f8d76b21494b270339
-    parent_uid: cf493859e0d29d6aedc0af6b883677c6
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: mqhO9GT8hD4
-  - uid: 654e1ef6938e29400dea8616f19ff3e2
-    parent_uid: cf493859e0d29d6aedc0af6b883677c6
-    id: mqhO9GT8hD4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-21/copy2_of_lecture-21-video/mqhO9GT8hD4.srt
-  - uid: 6b8a4c2764d8b0b5e1b55f09f933eda0
-    parent_uid: cf493859e0d29d6aedc0af6b883677c6
-    id: mqhO9GT8hD4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-iii-optics/lecture-21/copy2_of_lecture-21-video/mqhO9GT8hD4.pdf
-  - uid: 6c132e4762360be01b0500b42907e0f4
-    parent_uid: cf493859e0d29d6aedc0af6b883677c6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 905f7cd99eb8d2739c1dd1c42b66b64a
-    parent_uid: cf493859e0d29d6aedc0af6b883677c6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 9becac3b7e04b713bafcb988a3fd5bed
-    parent_uid: cf493859e0d29d6aedc0af6b883677c6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec21_300k.mp4'
+uid: cf493859e0d29d6aedc0af6b883677c6
 type: courses
 layout: video
 ---

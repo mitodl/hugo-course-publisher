@@ -1,18 +1,90 @@
 ---
-title: 'Lecture 28: Inverse Substitution'
-uid: 9afe5a2aecd5e657d5baa178e0449d9c
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-28-inverse-substitution
-short_url: lecture-28-inverse-substitution
-inline_embed_id: '72138119lecture28:inversesubstitution61233873'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Integration by inverse
   substitution; completing the square</p> <p><strong>Instructor:</strong> Prof.
   David Jerison</p></div>
+embedded_media:
+  - id: lec28.jpg
+    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-28-inverse-substitution/lec28.jpg
+    title: Lecture 28
+    type: null
+    uid: 7fd746c58dc3fa68a76b770c7e4f22ed
+  - id: Video-YouTube-Stream
+    media_location: CXKoCMVqM9s
+    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e1a009ef577c8c65659e43404436460e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/CXKoCMVqM9s/default.jpg'
+    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e35a8beaaac92927a5d9d7e615a5b02f
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1fff34e0eef17cf8990451c27b1ae8f1
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec28_300k.mp4'
+    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d2891c0083b840c5fbceac1dba6a3047
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 667cd8bb447936316218a004a2e82746
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 1c8432712f30a56f6012df629e6b99e5
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: CXKoCMVqM9s
+    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b7c46c40ee6325e9b84f6d3b95a16d13
+  - id: CXKoCMVqM9s.srt
+    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-28-inverse-substitution/CXKoCMVqM9s.srt
+    title: 3play caption file
+    type: null
+    uid: 98da17983ec97d340e149456c8e38f5f
+  - id: CXKoCMVqM9s.pdf
+    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-28-inverse-substitution/CXKoCMVqM9s.pdf
+    title: 3play pdf file
+    type: null
+    uid: d37dbf3b71f85754cee509c6f7b8f490
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 454e22020e2f48332623f79556c6cbfb
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 575629c380869e892c0ea9aadafd4c91
+inline_embed_id: '72138119lecture28:inversesubstitution61233873'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/27cbacec1a8547e176f6d2367e244153">PDF</a>)</p></div>
+short_url: lecture-28-inverse-substitution
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-28-inverse-substitution
+title: 'Lecture 28: Inverse Substitution'
 transcript: >-
   <p><span m='0'>The</span> <span m='30'>following</span> <span
   m='510'>content</span> <span m='1010'>is</span> <span m='1130'>provided</span>
@@ -2533,79 +2605,7 @@ transcript: >-
   class</span> <span m='2905880'>doesn't</span> <span m='2906030'>meet</span>
   <span m='2906190'>on</span> <span m='2906320'>Monday</span> <span
   m='2906580'>anyway.</span> <span m='2907320'>Bye.</span> </p>
-embedded_media:
-  - uid: 7fd746c58dc3fa68a76b770c7e4f22ed
-    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
-    id: lec28.jpg
-    title: Lecture 28
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-28-inverse-substitution/lec28.jpg
-  - uid: e1a009ef577c8c65659e43404436460e
-    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: CXKoCMVqM9s
-  - uid: e35a8beaaac92927a5d9d7e615a5b02f
-    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CXKoCMVqM9s/default.jpg'
-  - uid: 1fff34e0eef17cf8990451c27b1ae8f1
-    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: d2891c0083b840c5fbceac1dba6a3047
-    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec28_300k.mp4'
-  - uid: 667cd8bb447936316218a004a2e82746
-    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 1c8432712f30a56f6012df629e6b99e5
-    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: b7c46c40ee6325e9b84f6d3b95a16d13
-    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: CXKoCMVqM9s
-  - uid: 98da17983ec97d340e149456c8e38f5f
-    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
-    id: CXKoCMVqM9s.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-28-inverse-substitution/CXKoCMVqM9s.srt
-  - uid: d37dbf3b71f85754cee509c6f7b8f490
-    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
-    id: CXKoCMVqM9s.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-28-inverse-substitution/CXKoCMVqM9s.pdf
-  - uid: 454e22020e2f48332623f79556c6cbfb
-    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 575629c380869e892c0ea9aadafd4c91
-    parent_uid: 9afe5a2aecd5e657d5baa178e0449d9c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 9afe5a2aecd5e657d5baa178e0449d9c
 type: courses
 layout: video
 ---

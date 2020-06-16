@@ -1,13 +1,73 @@
 ---
-title: Sample Spaces
-uid: c28a68cf275c4b1c676b3e286543012a
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: c28a68cf275c4b1c676b3e286543012a
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 2f3ee7b7a4f14030fd5904228c558280
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: c28a68cf275c4b1c676b3e286543012a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4e376a582900689b5704008b2a33a7d4
+  - id: Video-YouTube-Stream
+    media_location: Amd_bNYzgUw
+    parent_uid: c28a68cf275c4b1c676b3e286543012a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 80e48a88d6724a9497fbeb074a3d84e4
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Amd_bNYzgUw/default.jpg'
+    parent_uid: c28a68cf275c4b1c676b3e286543012a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: eb6048c5137ae571d4538cc14ebedc55
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: Amd_bNYzgUw
+    parent_uid: c28a68cf275c4b1c676b3e286543012a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 06f628a29fa97fbe39cdf3445c1d8a27
+  - id: Amd_bNYzgUw.srt
+    parent_uid: c28a68cf275c4b1c676b3e286543012a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-7e0be1baca38/sample-spaces/Amd_bNYzgUw.srt
+    title: 3play caption file
+    type: null
+    uid: f86d79db16ee9acd81cb1a9c84929781
+  - id: Amd_bNYzgUw.pdf
+    parent_uid: c28a68cf275c4b1c676b3e286543012a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-7e0be1baca38/sample-spaces/Amd_bNYzgUw.pdf
+    title: 3play pdf file
+    type: null
+    uid: c197884cf89a43ff5a32a9a0b979f6a7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c28a68cf275c4b1c676b3e286543012a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7f985f3a0ce85c0272a5912ad75f05ad
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c28a68cf275c4b1c676b3e286543012a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 88c14fd29edcd229105afc2754dee29a
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_probspace_video_ipod.mp4
+    parent_uid: c28a68cf275c4b1c676b3e286543012a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: baa98eb88bc52f34a184cf2282a89ad8
+inline_embed_id: 38037665samplespaces80167086
 parent_uid: 1b1e43ca67493c0e8934c9e3615247d5
+related_resources_text: ''
+short_url: sample-spaces
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-7e0be1baca38/sample-spaces
-short_url: sample-spaces
-inline_embed_id: 38037665samplespaces80167086
-about_this_resource_text: ''
-related_resources_text: ''
+title: Sample Spaces
 transcript: >-
   <p><span m='780'>PROFESSOR: So</span> <span m='920'>let's</span> <span
   m='1160'>look</span> <span m='1380'>now</span> <span m='1610'>at</span> <span
@@ -718,67 +778,7 @@ transcript: >-
   <span m='583920'>them</span> <span m='584390'>is</span> <span
   m='584550'>equal</span> <span m='584850'>to</span> <span m='584950'>1.</span>
   </p>
-embedded_media:
-  - uid: 2f3ee7b7a4f14030fd5904228c558280
-    parent_uid: c28a68cf275c4b1c676b3e286543012a
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 4e376a582900689b5704008b2a33a7d4
-    parent_uid: c28a68cf275c4b1c676b3e286543012a
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 80e48a88d6724a9497fbeb074a3d84e4
-    parent_uid: c28a68cf275c4b1c676b3e286543012a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Amd_bNYzgUw
-  - uid: eb6048c5137ae571d4538cc14ebedc55
-    parent_uid: c28a68cf275c4b1c676b3e286543012a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Amd_bNYzgUw/default.jpg'
-  - uid: 06f628a29fa97fbe39cdf3445c1d8a27
-    parent_uid: c28a68cf275c4b1c676b3e286543012a
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Amd_bNYzgUw
-  - uid: f86d79db16ee9acd81cb1a9c84929781
-    parent_uid: c28a68cf275c4b1c676b3e286543012a
-    id: Amd_bNYzgUw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-7e0be1baca38/sample-spaces/Amd_bNYzgUw.srt
-  - uid: c197884cf89a43ff5a32a9a0b979f6a7
-    parent_uid: c28a68cf275c4b1c676b3e286543012a
-    id: Amd_bNYzgUw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp11-2/vertical-7e0be1baca38/sample-spaces/Amd_bNYzgUw.pdf
-  - uid: 7f985f3a0ce85c0272a5912ad75f05ad
-    parent_uid: c28a68cf275c4b1c676b3e286543012a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 88c14fd29edcd229105afc2754dee29a
-    parent_uid: c28a68cf275c4b1c676b3e286543012a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: baa98eb88bc52f34a184cf2282a89ad8
-    parent_uid: c28a68cf275c4b1c676b3e286543012a
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_probspace_video_ipod.mp4
+uid: c28a68cf275c4b1c676b3e286543012a
 type: courses
 layout: video
 ---

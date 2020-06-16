@@ -1,13 +1,69 @@
 ---
-title: 'Recitation: Elimination with Matrices'
-uid: e46f1dae0d1384f7391da76db49ba0d4
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: GLFg2UBMAxc
+    parent_uid: e46f1dae0d1384f7391da76db49ba0d4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d30e8454a41923fa762c977e347eb02f
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/elimination-with-matrices/id488155309?i=108454339
+    parent_uid: e46f1dae0d1384f7391da76db49ba0d4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d76fc0fc987af861f116089af235621d
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110711_M1_300k.mp4
+    parent_uid: e46f1dae0d1384f7391da76db49ba0d4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a2e6997250cc9e84a589a6abad72be4e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: GLFg2UBMAxc
+    parent_uid: e46f1dae0d1384f7391da76db49ba0d4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7f641d6c1e2e9b447df7dc9d6d1f0457
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/GLFg2UBMAxc/default.jpg'
+    parent_uid: e46f1dae0d1384f7391da76db49ba0d4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2945fbd711e9303ddee463a53a0720d1
+  - id: GLFg2UBMAxc.srt
+    parent_uid: e46f1dae0d1384f7391da76db49ba0d4
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/recitation-elimination-with-matrices/GLFg2UBMAxc.srt
+    title: 3play caption file
+    type: null
+    uid: ccd5033b1cd44c63a0b1b39fbc8973fd
+  - id: GLFg2UBMAxc.pdf
+    parent_uid: e46f1dae0d1384f7391da76db49ba0d4
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/recitation-elimination-with-matrices/GLFg2UBMAxc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 222f934eed5dc58b07e9dbdae001a4fc
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e46f1dae0d1384f7391da76db49ba0d4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7de2ae434832d35b8d0a924b696fa504
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e46f1dae0d1384f7391da76db49ba0d4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: cc0b6c29fd1302a1739d5dec5156c6e8
+inline_embed_id: 78824162recitationeliminationwithmatrices97350847
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: recitation-elimination-with-matrices
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/recitation-elimination-with-matrices
-short_url: recitation-elimination-with-matrices
-inline_embed_id: 78824162recitationeliminationwithmatrices97350847
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Recitation: Elimination with Matrices'
 transcript: >-
   <p><span m='8189'>PROFESSOR: Hi.</span> <span m='8560'>Welcome</span> <span
   m='9030'>to</span> <span m='9110'>recitation.</span> <span m='10010'>My</span>
@@ -594,63 +650,7 @@ transcript: >-
   m='613620'>all</span> <span m='613730'>I</span> <span m='613780'>wanted</span>
   <span m='614030'>to</span> <span m='614110'>say</span> <span
   m='614410'>today.</span> </p>
-embedded_media:
-  - uid: d30e8454a41923fa762c977e347eb02f
-    parent_uid: e46f1dae0d1384f7391da76db49ba0d4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: GLFg2UBMAxc
-  - uid: d76fc0fc987af861f116089af235621d
-    parent_uid: e46f1dae0d1384f7391da76db49ba0d4
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/elimination-with-matrices/id488155309?i=108454339
-  - uid: a2e6997250cc9e84a589a6abad72be4e
-    parent_uid: e46f1dae0d1384f7391da76db49ba0d4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://www.archive.org/download/MIT18.06SCF11/MIT18_06SC_110711_M1_300k.mp4
-  - uid: 7f641d6c1e2e9b447df7dc9d6d1f0457
-    parent_uid: e46f1dae0d1384f7391da76db49ba0d4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: GLFg2UBMAxc
-  - uid: 2945fbd711e9303ddee463a53a0720d1
-    parent_uid: e46f1dae0d1384f7391da76db49ba0d4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/GLFg2UBMAxc/default.jpg'
-  - uid: ccd5033b1cd44c63a0b1b39fbc8973fd
-    parent_uid: e46f1dae0d1384f7391da76db49ba0d4
-    id: GLFg2UBMAxc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/recitation-elimination-with-matrices/GLFg2UBMAxc.srt
-  - uid: 222f934eed5dc58b07e9dbdae001a4fc
-    parent_uid: e46f1dae0d1384f7391da76db49ba0d4
-    id: GLFg2UBMAxc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/recitation-elimination-with-matrices/GLFg2UBMAxc.pdf
-  - uid: 7de2ae434832d35b8d0a924b696fa504
-    parent_uid: e46f1dae0d1384f7391da76db49ba0d4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: cc0b6c29fd1302a1739d5dec5156c6e8
-    parent_uid: e46f1dae0d1384f7391da76db49ba0d4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: e46f1dae0d1384f7391da76db49ba0d4
 type: courses
 layout: video
 ---

@@ -1,13 +1,73 @@
 ---
-title: Shape changes in a wave
-uid: dca2eb46a6f8229b2ed088b5921537db
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 50Tla309i7o
+    parent_uid: dca2eb46a6f8229b2ed088b5921537db
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d2e181a303fcb9c433053aba808df0b0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/cPB-NJj2NJw/default.jpg'
+    parent_uid: dca2eb46a6f8229b2ed088b5921537db
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2a7584be6fa8051d77cfa51f77b2878c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 50Tla309i7o
+    parent_uid: dca2eb46a6f8229b2ed088b5921537db
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0c5a41e80b1007cc4510fd0aa4cbd9e8
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: dca2eb46a6f8229b2ed088b5921537db
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 06d7dfe2c6de34cd8460e7f7214b2634
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec07_s4_300k.mp4'
+    parent_uid: dca2eb46a6f8229b2ed088b5921537db
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b40646a7a3b0237b6fa8a4e9a5e06143
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/50Tla309i7o/default.jpg'
+    parent_uid: dca2eb46a6f8229b2ed088b5921537db
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 66f2c0adfa97376fc0475f755da4ecd7
+  - id: 50Tla309i7o.srt
+    parent_uid: dca2eb46a6f8229b2ed088b5921537db
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/shape-changes-in-a-wave/50Tla309i7o.srt
+    title: 3play caption file
+    type: null
+    uid: a7f03353989bac3b3d238d179b887010
+  - id: 50Tla309i7o.pdf
+    parent_uid: dca2eb46a6f8229b2ed088b5921537db
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/shape-changes-in-a-wave/50Tla309i7o.pdf
+    title: 3play pdf file
+    type: null
+    uid: a76267d3fa86e0b44a623527e67d1751
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: dca2eb46a6f8229b2ed088b5921537db
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: df2b06865803c9921df068b94823aca9
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: dca2eb46a6f8229b2ed088b5921537db
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 07231bf0857646880bd8a30ed5f9a86f
+inline_embed_id: 40753469shapechangesinawave13207902
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: shape-changes-in-a-wave
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/shape-changes-in-a-wave
-short_url: shape-changes-in-a-wave
-inline_embed_id: 40753469shapechangesinawave13207902
-about_this_resource_text: ''
-related_resources_text: ''
+title: Shape changes in a wave
 transcript: >-
   <p><span m='510'>PROFESSOR:</span> <span m='682'>Next</span> <span
   m='1650'>is</span> <span m='1950'>this</span> <span m='2190'>phenomenon</span>
@@ -672,67 +732,7 @@ transcript: >-
   m='1012750'>it's</span> <span m='1013410'>a</span> <span
   m='1013710'>rather</span> <span m='1014250'>important</span> <span
   m='1014880'>thing.</span> </p>
-embedded_media:
-  - uid: d2e181a303fcb9c433053aba808df0b0
-    parent_uid: dca2eb46a6f8229b2ed088b5921537db
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 50Tla309i7o
-  - uid: 2a7584be6fa8051d77cfa51f77b2878c
-    parent_uid: dca2eb46a6f8229b2ed088b5921537db
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/cPB-NJj2NJw/default.jpg'
-  - uid: 0c5a41e80b1007cc4510fd0aa4cbd9e8
-    parent_uid: dca2eb46a6f8229b2ed088b5921537db
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 50Tla309i7o
-  - uid: 06d7dfe2c6de34cd8460e7f7214b2634
-    parent_uid: dca2eb46a6f8229b2ed088b5921537db
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: b40646a7a3b0237b6fa8a4e9a5e06143
-    parent_uid: dca2eb46a6f8229b2ed088b5921537db
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec07_s4_300k.mp4'
-  - uid: 66f2c0adfa97376fc0475f755da4ecd7
-    parent_uid: dca2eb46a6f8229b2ed088b5921537db
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/50Tla309i7o/default.jpg'
-  - uid: a7f03353989bac3b3d238d179b887010
-    parent_uid: dca2eb46a6f8229b2ed088b5921537db
-    id: 50Tla309i7o.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/shape-changes-in-a-wave/50Tla309i7o.srt
-  - uid: a76267d3fa86e0b44a623527e67d1751
-    parent_uid: dca2eb46a6f8229b2ed088b5921537db
-    id: 50Tla309i7o.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/shape-changes-in-a-wave/50Tla309i7o.pdf
-  - uid: df2b06865803c9921df068b94823aca9
-    parent_uid: dca2eb46a6f8229b2ed088b5921537db
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 07231bf0857646880bd8a30ed5f9a86f
-    parent_uid: dca2eb46a6f8229b2ed088b5921537db
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: dca2eb46a6f8229b2ed088b5921537db
 type: courses
 layout: video
 ---

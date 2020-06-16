@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 33: Left and right inverses; pseudoinverse'
-uid: a82722664f6b388a5669608db531d81a
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-33-left-and-right-inverses-pseudoinverse
-short_url: lecture-33-left-and-right-inverses-pseudoinverse
-inline_embed_id: '66878741lecture33:leftandrightinverses;pseudoinverse88759771'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L33.jpg
+    parent_uid: a82722664f6b388a5669608db531d81a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-33-left-and-right-inverses-pseudoinverse/18.06_L33.jpg
+    title: 18.06_L33.jpg
+    type: null
+    uid: f01e7fa2fc26606f96ea0810f4f8c8cd
+  - id: Video-YouTube-Stream
+    media_location: Go2aLo7ZOlU
+    parent_uid: a82722664f6b388a5669608db531d81a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 42f1c8116fbf42610f6aa08b5637322d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Go2aLo7ZOlU/default.jpg'
+    parent_uid: a82722664f6b388a5669608db531d81a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0e90d39210e657dd8797ed35b7b3a440
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: a82722664f6b388a5669608db531d81a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c0c56cbb869a80da5eaf38d3ec07b1bf
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/33.mp4'
+    parent_uid: a82722664f6b388a5669608db531d81a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3c0c491a4f401ef3be2df76d88663a38
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: a82722664f6b388a5669608db531d81a
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 0a24df5b641dddd1d574fef31655a624
+  - id: Thumbnail-OCW-JPG
+    parent_uid: a82722664f6b388a5669608db531d81a
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: dfbf01fe0df9c2a39dbd33ef6ec22c30
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: Go2aLo7ZOlU
+    parent_uid: a82722664f6b388a5669608db531d81a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 77ab07b64a6d055fd2ee16421a711f04
+  - id: Go2aLo7ZOlU.srt
+    parent_uid: a82722664f6b388a5669608db531d81a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-33-left-and-right-inverses-pseudoinverse/Go2aLo7ZOlU.srt
+    title: 3play caption file
+    type: null
+    uid: 6ccc1addf1a2bb2bad2dd8dd2523425c
+  - id: Go2aLo7ZOlU.pdf
+    parent_uid: a82722664f6b388a5669608db531d81a
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-33-left-and-right-inverses-pseudoinverse/Go2aLo7ZOlU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 9ba2304f3bc403aa625e99238d6195f7
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a82722664f6b388a5669608db531d81a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 22923e4b1f003070f3710a8c3106193d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a82722664f6b388a5669608db531d81a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7cd191dba0f44eef6b570b6fa0af1518
+inline_embed_id: '66878741lecture33:leftandrightinverses;pseudoinverse88759771'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-33-left-and-right-inverses-pseudoinverse
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-33-left-and-right-inverses-pseudoinverse
+title: 'Lecture 33: Left and right inverses; pseudoinverse'
 transcript: >-
   <p><span m="3890">Yes,</span> <span m="3950">OK,</span> <span
   m="4550">four,</span> <span m="4950">three,</span> <span m="5880">two,</span>
@@ -2305,79 +2377,7 @@ transcript: >-
   m="2499680">the</span> <span m="2499810">rest</span> <span
   m="2500110">of</span> <span m="2500180">this</span></p><p><span
   m="2500410">course.</span> <span m="2500560">Thanks.</span></p>
-embedded_media:
-  - uid: f01e7fa2fc26606f96ea0810f4f8c8cd
-    parent_uid: a82722664f6b388a5669608db531d81a
-    id: 18.06_L33.jpg
-    title: 18.06_L33.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-33-left-and-right-inverses-pseudoinverse/18.06_L33.jpg
-  - uid: 42f1c8116fbf42610f6aa08b5637322d
-    parent_uid: a82722664f6b388a5669608db531d81a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Go2aLo7ZOlU
-  - uid: 0e90d39210e657dd8797ed35b7b3a440
-    parent_uid: a82722664f6b388a5669608db531d81a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Go2aLo7ZOlU/default.jpg'
-  - uid: c0c56cbb869a80da5eaf38d3ec07b1bf
-    parent_uid: a82722664f6b388a5669608db531d81a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 3c0c491a4f401ef3be2df76d88663a38
-    parent_uid: a82722664f6b388a5669608db531d81a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/33.mp4'
-  - uid: 0a24df5b641dddd1d574fef31655a624
-    parent_uid: a82722664f6b388a5669608db531d81a
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: dfbf01fe0df9c2a39dbd33ef6ec22c30
-    parent_uid: a82722664f6b388a5669608db531d81a
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 77ab07b64a6d055fd2ee16421a711f04
-    parent_uid: a82722664f6b388a5669608db531d81a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Go2aLo7ZOlU
-  - uid: 6ccc1addf1a2bb2bad2dd8dd2523425c
-    parent_uid: a82722664f6b388a5669608db531d81a
-    id: Go2aLo7ZOlU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-33-left-and-right-inverses-pseudoinverse/Go2aLo7ZOlU.srt
-  - uid: 9ba2304f3bc403aa625e99238d6195f7
-    parent_uid: a82722664f6b388a5669608db531d81a
-    id: Go2aLo7ZOlU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-33-left-and-right-inverses-pseudoinverse/Go2aLo7ZOlU.pdf
-  - uid: 22923e4b1f003070f3710a8c3106193d
-    parent_uid: a82722664f6b388a5669608db531d81a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7cd191dba0f44eef6b570b6fa0af1518
-    parent_uid: a82722664f6b388a5669608db531d81a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a82722664f6b388a5669608db531d81a
 type: courses
 layout: video
 ---

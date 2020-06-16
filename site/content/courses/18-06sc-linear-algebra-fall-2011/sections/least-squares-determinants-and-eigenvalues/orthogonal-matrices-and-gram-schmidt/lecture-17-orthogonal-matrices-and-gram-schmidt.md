@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 17: Orthogonal Matrices and Gram-Schmidt'
-uid: 10c0a26ed44932840d9d3a1f783ec86e
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 0MtwqhIwdrI
+    parent_uid: 10c0a26ed44932840d9d3a1f783ec86e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: db842aa421917632c34479494e0c202f
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 10c0a26ed44932840d9d3a1f783ec86e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2b2dc8a51e22270f49938a08810e144a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/17.mp4'
+    parent_uid: 10c0a26ed44932840d9d3a1f783ec86e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 707bcaffa2b9036a9b379aeab798760b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 0MtwqhIwdrI
+    parent_uid: 10c0a26ed44932840d9d3a1f783ec86e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1147b14b79fb1eb8a1c87408e4bcf656
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/0MtwqhIwdrI/default.jpg'
+    parent_uid: 10c0a26ed44932840d9d3a1f783ec86e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b88e9b1bea517b9f054ec9314dd1eaaf
+  - id: 0MtwqhIwdrI.srt
+    parent_uid: 10c0a26ed44932840d9d3a1f783ec86e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-matrices-and-gram-schmidt/lecture-17-orthogonal-matrices-and-gram-schmidt/0MtwqhIwdrI.srt
+    title: 3play caption file
+    type: null
+    uid: ec4826e9f2e90f43ed90ad4cc0aef7b0
+  - id: 0MtwqhIwdrI.pdf
+    parent_uid: 10c0a26ed44932840d9d3a1f783ec86e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-matrices-and-gram-schmidt/lecture-17-orthogonal-matrices-and-gram-schmidt/0MtwqhIwdrI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 356f454e5c0db220bad1383cd1c54c66
+  - id: Caption-3Play YouTube id-SRT_1
+    parent_uid: 10c0a26ed44932840d9d3a1f783ec86e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a9ced20029635ab7693e202784a7066a
+  - id: Transcript-3Play YouTube id-PDF_1
+    parent_uid: 10c0a26ed44932840d9d3a1f783ec86e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4cb5255518c2f69a83086a0411e80eb0
+inline_embed_id: '65628949lecture17:orthogonalmatricesandgram-schmidt39083889'
 parent_uid: 2376f3e00c4de0f6634653041d685aed
+related_resources_text: ''
+short_url: lecture-17-orthogonal-matrices-and-gram-schmidt
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-matrices-and-gram-schmidt/lecture-17-orthogonal-matrices-and-gram-schmidt
-short_url: lecture-17-orthogonal-matrices-and-gram-schmidt
-inline_embed_id: '65628949lecture17:orthogonalmatricesandgram-schmidt39083889'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 17: Orthogonal Matrices and Gram-Schmidt'
 transcript: >-
   <p><span m='7270'>OK,</span> <span m='7797'>here's</span> <span
   m='8324'>the</span> <span m='8851'>last</span> <span m='9378'>lecture</span>
@@ -2680,61 +2734,7 @@ transcript: >-
   m='2935567'>more</span> <span m='2935978'>time.</span> </p><p><span
   m='2936390'>OK.</span> </p><p><span m='2936930'>Thanks,</span> <span
   m='2937676'>that's</span> <span m='2938423'>great.</span> </p>
-embedded_media:
-  - uid: db842aa421917632c34479494e0c202f
-    parent_uid: 10c0a26ed44932840d9d3a1f783ec86e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 0MtwqhIwdrI
-  - uid: 2b2dc8a51e22270f49938a08810e144a
-    parent_uid: 10c0a26ed44932840d9d3a1f783ec86e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 707bcaffa2b9036a9b379aeab798760b
-    parent_uid: 10c0a26ed44932840d9d3a1f783ec86e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/17.mp4'
-  - uid: 1147b14b79fb1eb8a1c87408e4bcf656
-    parent_uid: 10c0a26ed44932840d9d3a1f783ec86e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 0MtwqhIwdrI
-  - uid: b88e9b1bea517b9f054ec9314dd1eaaf
-    parent_uid: 10c0a26ed44932840d9d3a1f783ec86e
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/0MtwqhIwdrI/default.jpg'
-  - uid: ec4826e9f2e90f43ed90ad4cc0aef7b0
-    parent_uid: 10c0a26ed44932840d9d3a1f783ec86e
-    id: 0MtwqhIwdrI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-matrices-and-gram-schmidt/lecture-17-orthogonal-matrices-and-gram-schmidt/0MtwqhIwdrI.srt
-  - uid: 356f454e5c0db220bad1383cd1c54c66
-    parent_uid: 10c0a26ed44932840d9d3a1f783ec86e
-    id: 0MtwqhIwdrI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-matrices-and-gram-schmidt/lecture-17-orthogonal-matrices-and-gram-schmidt/0MtwqhIwdrI.pdf
-  - uid: a9ced20029635ab7693e202784a7066a
-    parent_uid: 10c0a26ed44932840d9d3a1f783ec86e
-    id: Caption-3Play YouTube id-SRT_1
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4cb5255518c2f69a83086a0411e80eb0
-    parent_uid: 10c0a26ed44932840d9d3a1f783ec86e
-    id: Transcript-3Play YouTube id-PDF_1
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 10c0a26ed44932840d9d3a1f783ec86e
 type: courses
 layout: video
 ---

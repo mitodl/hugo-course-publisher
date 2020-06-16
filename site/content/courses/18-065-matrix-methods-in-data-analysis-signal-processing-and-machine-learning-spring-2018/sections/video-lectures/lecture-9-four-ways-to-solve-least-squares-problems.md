@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 9: Four Ways to Solve Least Squares Problems'
-uid: a575de1117f0e13b755d03aacd93f61b
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-9-four-ways-to-solve-least-squares-problems
-short_url: lecture-9-four-ways-to-solve-least-squares-problems
-inline_embed_id: 90095561lecture9fourwaystosolveleastsquaresproblems89720209
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>In this lecture, Professor Strang
   details the four ways to solve least-squares problems. Solving least-squares
@@ -18,7 +11,62 @@ about_this_resource_text: >-
   \delta I)^{-1} A^{\mathtt{T}}b\) as \(\delta \rightarrow 0\).</li> </ol>
   <p>Related section in textbook: II.2</p> <p><strong>Instructor:</strong> Prof.
   Gilbert Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ZUU57Q3CFOU
+    parent_uid: a575de1117f0e13b755d03aacd93f61b
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 722bd9956ca380c373da30e84430076b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ZUU57Q3CFOU/default.jpg'
+    parent_uid: a575de1117f0e13b755d03aacd93f61b
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e541dcca0e6c2ed79ee423659480cc37
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ZUU57Q3CFOU
+    parent_uid: a575de1117f0e13b755d03aacd93f61b
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6ae38d4dcdb929850eae7c9414ee0627
+  - id: ZUU57Q3CFOU.srt
+    parent_uid: a575de1117f0e13b755d03aacd93f61b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-9-four-ways-to-solve-least-squares-problems/ZUU57Q3CFOU.srt
+    title: 3play caption file
+    type: null
+    uid: 5c83561b1a739bdfa61f37942d3f5cc0
+  - id: ZUU57Q3CFOU.pdf
+    parent_uid: a575de1117f0e13b755d03aacd93f61b
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-9-four-ways-to-solve-least-squares-problems/ZUU57Q3CFOU.pdf
+    title: 3play pdf file
+    type: null
+    uid: a54e21fb9376e6aec61e02d0127f41ab
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a575de1117f0e13b755d03aacd93f61b
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 97264e4fbe0d69f36d85769a2ee837e6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a575de1117f0e13b755d03aacd93f61b
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 51c8c664d0be22fe0a06d4eadc7d94c4
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture09_300k.mp4'
+    parent_uid: a575de1117f0e13b755d03aacd93f61b
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d891faaef203f94b4ff0f3ee48e68565
+inline_embed_id: 90095561lecture9fourwaystosolveleastsquaresproblems89720209
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-9-four-ways-to-solve-least-squares-problems
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-9-four-ways-to-solve-least-squares-problems
+title: 'Lecture 9: Four Ways to Solve Least Squares Problems'
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -2683,55 +2731,7 @@ transcript: >-
   m="2986310">is</span> <span m="2987000">Friday.</span> <span
   m="2988110">Good.</span> <span m="2988500">Thank</span> <span
   m="2988860">you.</span></p>
-embedded_media:
-  - uid: 722bd9956ca380c373da30e84430076b
-    parent_uid: a575de1117f0e13b755d03aacd93f61b
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ZUU57Q3CFOU
-  - uid: e541dcca0e6c2ed79ee423659480cc37
-    parent_uid: a575de1117f0e13b755d03aacd93f61b
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ZUU57Q3CFOU/default.jpg'
-  - uid: 6ae38d4dcdb929850eae7c9414ee0627
-    parent_uid: a575de1117f0e13b755d03aacd93f61b
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ZUU57Q3CFOU
-  - uid: 5c83561b1a739bdfa61f37942d3f5cc0
-    parent_uid: a575de1117f0e13b755d03aacd93f61b
-    id: ZUU57Q3CFOU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-9-four-ways-to-solve-least-squares-problems/ZUU57Q3CFOU.srt
-  - uid: a54e21fb9376e6aec61e02d0127f41ab
-    parent_uid: a575de1117f0e13b755d03aacd93f61b
-    id: ZUU57Q3CFOU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-9-four-ways-to-solve-least-squares-problems/ZUU57Q3CFOU.pdf
-  - uid: 97264e4fbe0d69f36d85769a2ee837e6
-    parent_uid: a575de1117f0e13b755d03aacd93f61b
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 51c8c664d0be22fe0a06d4eadc7d94c4
-    parent_uid: a575de1117f0e13b755d03aacd93f61b
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: d891faaef203f94b4ff0f3ee48e68565
-    parent_uid: a575de1117f0e13b755d03aacd93f61b
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture09_300k.mp4'
+uid: a575de1117f0e13b755d03aacd93f61b
 type: courses
 layout: video
 ---

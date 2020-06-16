@@ -1,13 +1,67 @@
 ---
-title: Effective potential and boundary conditions at r=0
-uid: d0916a19e8d2ef4e46d44fe253e936ab
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: _XDm2cxC-UU
+    parent_uid: d0916a19e8d2ef4e46d44fe253e936ab
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 418eb9a4aa34d5ea71ade15b35669686
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/_XDm2cxC-UU/default.jpg'
+    parent_uid: d0916a19e8d2ef4e46d44fe253e936ab
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 90e38aa2934f070af30e42aac9875fb5
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: _XDm2cxC-UU
+    parent_uid: d0916a19e8d2ef4e46d44fe253e936ab
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4825ab3c7796af8594a74db58f7b149f
+  - id: XDm2cxC-UU.srt
+    parent_uid: d0916a19e8d2ef4e46d44fe253e936ab
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/effective-potential-and-boundary-conditions-at-r-0/XDm2cxC-UU.srt
+    title: 3play caption file
+    type: null
+    uid: dc79b6e89a2ade17b0efdfcb2dc27db7
+  - id: XDm2cxC-UU.pdf
+    parent_uid: d0916a19e8d2ef4e46d44fe253e936ab
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/effective-potential-and-boundary-conditions-at-r-0/XDm2cxC-UU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 24f5ce761b2d78b0a3edcf077998bdd5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d0916a19e8d2ef4e46d44fe253e936ab
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 6b1caf92272ae594e5da58317169a7bf
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d0916a19e8d2ef4e46d44fe253e936ab
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: db46cc32433213cd8a18f5c6aa1657fb
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: d0916a19e8d2ef4e46d44fe253e936ab
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 431e0667782f0dc3bf896532c2577d1f
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec21_s3_300k.mp4'
+    parent_uid: d0916a19e8d2ef4e46d44fe253e936ab
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3b8e9741ee1867909e29f4f940cf2922
+inline_embed_id: 53176681effectivepotentialandboundaryconditionsatr028299483
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: effective-potential-and-boundary-conditions-at-r-0
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/effective-potential-and-boundary-conditions-at-r-0
-short_url: effective-potential-and-boundary-conditions-at-r-0
-inline_embed_id: 53176681effectivepotentialandboundaryconditionsatr028299483
-about_this_resource_text: ''
-related_resources_text: ''
+title: Effective potential and boundary conditions at r=0
 transcript: >-
   <p><span m='377'>PROFESSOR:</span> <span m='502'>There</span> <span
   m='627'>is</span> <span m='754'>an</span> <span m='1131'>effective</span>
@@ -651,61 +705,7 @@ transcript: >-
   m='866530'>So</span> <span m='866790'>we're</span> <span
   m='866980'>going</span> <span m='867170'>to</span> <span
   m='867330'>turn</span> <span m='867720'>to that.</span> </p>
-embedded_media:
-  - uid: 418eb9a4aa34d5ea71ade15b35669686
-    parent_uid: d0916a19e8d2ef4e46d44fe253e936ab
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: _XDm2cxC-UU
-  - uid: 90e38aa2934f070af30e42aac9875fb5
-    parent_uid: d0916a19e8d2ef4e46d44fe253e936ab
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/_XDm2cxC-UU/default.jpg'
-  - uid: 4825ab3c7796af8594a74db58f7b149f
-    parent_uid: d0916a19e8d2ef4e46d44fe253e936ab
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: _XDm2cxC-UU
-  - uid: dc79b6e89a2ade17b0efdfcb2dc27db7
-    parent_uid: d0916a19e8d2ef4e46d44fe253e936ab
-    id: XDm2cxC-UU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/effective-potential-and-boundary-conditions-at-r-0/XDm2cxC-UU.srt
-  - uid: 24f5ce761b2d78b0a3edcf077998bdd5
-    parent_uid: d0916a19e8d2ef4e46d44fe253e936ab
-    id: XDm2cxC-UU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/effective-potential-and-boundary-conditions-at-r-0/XDm2cxC-UU.pdf
-  - uid: 6b1caf92272ae594e5da58317169a7bf
-    parent_uid: d0916a19e8d2ef4e46d44fe253e936ab
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: db46cc32433213cd8a18f5c6aa1657fb
-    parent_uid: d0916a19e8d2ef4e46d44fe253e936ab
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 431e0667782f0dc3bf896532c2577d1f
-    parent_uid: d0916a19e8d2ef4e46d44fe253e936ab
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 3b8e9741ee1867909e29f4f940cf2922
-    parent_uid: d0916a19e8d2ef4e46d44fe253e936ab
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec21_s3_300k.mp4'
+uid: d0916a19e8d2ef4e46d44fe253e936ab
 type: courses
 layout: video
 ---

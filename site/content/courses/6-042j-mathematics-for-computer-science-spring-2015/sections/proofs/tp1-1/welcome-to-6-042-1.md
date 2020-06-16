@@ -1,13 +1,73 @@
 ---
-title: Welcome to 6.042
-uid: bb0695543df60102c04d21626ae6294d
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: bb0695543df60102c04d21626ae6294d
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: b9e85977e0d09f6851af7a18c4f3f154
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: bb0695543df60102c04d21626ae6294d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9da5b56cd1b110a61565c43b2652aa2a
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_welcome_6042S15_ipod.mp4
+    parent_uid: bb0695543df60102c04d21626ae6294d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 54c3c5b24e1e64df886250101638e9db
+  - id: Video-YouTube-Stream
+    media_location: wIq4CssPoO0
+    parent_uid: bb0695543df60102c04d21626ae6294d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f2b77e6fcbadbf4f0b686d79bd0e295e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/wIq4CssPoO0/default.jpg'
+    parent_uid: bb0695543df60102c04d21626ae6294d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 77b1b094147ceed590cf56d2a03a4a34
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: wIq4CssPoO0
+    parent_uid: bb0695543df60102c04d21626ae6294d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: af7757d12a109998abbcfd5c26a62ec4
+  - id: wIq4CssPoO0.srt
+    parent_uid: bb0695543df60102c04d21626ae6294d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1/welcome-to-6-042-1/wIq4CssPoO0.srt
+    title: 3play caption file
+    type: null
+    uid: 13e4190e3616fba0aa6072d3f1550e06
+  - id: wIq4CssPoO0.pdf
+    parent_uid: bb0695543df60102c04d21626ae6294d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1/welcome-to-6-042-1/wIq4CssPoO0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1a9851870113c97bec450f26c0ec5a77
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bb0695543df60102c04d21626ae6294d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3285751f16b83624743f525a84f58279
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bb0695543df60102c04d21626ae6294d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 20f085626c3d14b168f51218ee9b9708
+inline_embed_id: 5884068welcometo6.04295865079
 parent_uid: ea224ef6f868e6dea69a53241486c324
+related_resources_text: ''
+short_url: welcome-to-6-042-1
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1/welcome-to-6-042-1
-short_url: welcome-to-6-042-1
-inline_embed_id: 5884068welcometo6.04295865079
-about_this_resource_text: ''
-related_resources_text: ''
+title: Welcome to 6.042
 transcript: >-
   <p><span m='0'>PROFESSOR: This is Mathematics for Computer Science,</span>
   <span m='2530'>6.042J/18.062J, a joint subject between electrical
@@ -54,67 +114,7 @@ transcript: >-
   </p><p><span m='128031'>It doesn't mean discreet.</span> </p><p><span
   m='129180'>If you don't know, this is a good moment to stop the video</span>
   <span m='132370'>and look it up.</span> </p>
-embedded_media:
-  - uid: b9e85977e0d09f6851af7a18c4f3f154
-    parent_uid: bb0695543df60102c04d21626ae6294d
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 9da5b56cd1b110a61565c43b2652aa2a
-    parent_uid: bb0695543df60102c04d21626ae6294d
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 54c3c5b24e1e64df886250101638e9db
-    parent_uid: bb0695543df60102c04d21626ae6294d
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_welcome_6042S15_ipod.mp4
-  - uid: f2b77e6fcbadbf4f0b686d79bd0e295e
-    parent_uid: bb0695543df60102c04d21626ae6294d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: wIq4CssPoO0
-  - uid: 77b1b094147ceed590cf56d2a03a4a34
-    parent_uid: bb0695543df60102c04d21626ae6294d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/wIq4CssPoO0/default.jpg'
-  - uid: af7757d12a109998abbcfd5c26a62ec4
-    parent_uid: bb0695543df60102c04d21626ae6294d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: wIq4CssPoO0
-  - uid: 13e4190e3616fba0aa6072d3f1550e06
-    parent_uid: bb0695543df60102c04d21626ae6294d
-    id: wIq4CssPoO0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1/welcome-to-6-042-1/wIq4CssPoO0.srt
-  - uid: 1a9851870113c97bec450f26c0ec5a77
-    parent_uid: bb0695543df60102c04d21626ae6294d
-    id: wIq4CssPoO0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp1-1/welcome-to-6-042-1/wIq4CssPoO0.pdf
-  - uid: 3285751f16b83624743f525a84f58279
-    parent_uid: bb0695543df60102c04d21626ae6294d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 20f085626c3d14b168f51218ee9b9708
-    parent_uid: bb0695543df60102c04d21626ae6294d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: bb0695543df60102c04d21626ae6294d
 type: courses
 layout: video
 ---

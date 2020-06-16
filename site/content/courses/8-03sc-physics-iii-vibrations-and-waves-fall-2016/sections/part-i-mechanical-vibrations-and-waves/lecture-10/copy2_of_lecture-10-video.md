@@ -1,13 +1,61 @@
 ---
-title: Bell Labs Wave Machine (Mismatched Impedance)
-uid: 2f8280f20be97752a5dde73c189e6fa6
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: SnNmbVH5DAM
+    parent_uid: 2f8280f20be97752a5dde73c189e6fa6
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ed5d4019ede1655dc4414b4af44b0030
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/SnNmbVH5DAM/default.jpg'
+    parent_uid: 2f8280f20be97752a5dde73c189e6fa6
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f1c5996ae385b1b88ed92a4c9de2055a
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: SnNmbVH5DAM
+    parent_uid: 2f8280f20be97752a5dde73c189e6fa6
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 055b688ac96113a8ab50381a5f0e4486
+  - id: SnNmbVH5DAM.srt
+    parent_uid: 2f8280f20be97752a5dde73c189e6fa6
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-10/copy2_of_lecture-10-video/SnNmbVH5DAM.srt
+    title: 3play caption file
+    type: null
+    uid: 0218309684799d1c25b30635106b2dc4
+  - id: SnNmbVH5DAM.pdf
+    parent_uid: 2f8280f20be97752a5dde73c189e6fa6
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-10/copy2_of_lecture-10-video/SnNmbVH5DAM.pdf
+    title: 3play pdf file
+    type: null
+    uid: e8f8ed7b18fe6e897aeac8095b0f2c4e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2f8280f20be97752a5dde73c189e6fa6
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3eb4129e86b9eecbc777727d1ddd8f9a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2f8280f20be97752a5dde73c189e6fa6
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7c86c1def4e8afdd27c67314d4a32ab7
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec10_300k.mp4'
+    parent_uid: 2f8280f20be97752a5dde73c189e6fa6
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 9ef95e42b695bd2038c46f186de1d1b5
+inline_embed_id: 91400386lecture10videop260114104
 parent_uid: 0a9b6b962334ae0f262460bcb2eaa2d6
+related_resources_text: ''
+short_url: copy2_of_lecture-10-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-10/copy2_of_lecture-10-video
-short_url: copy2_of_lecture-10-video
-inline_embed_id: 91400386lecture10videop260114104
-about_this_resource_text: ''
-related_resources_text: ''
+title: Bell Labs Wave Machine (Mismatched Impedance)
 transcript: >-
   <p><span m="2120">The</span> <span m="2210">following</span> <span
   m="2660">content</span> <span m="3140">is</span> <span
@@ -3725,55 +3773,7 @@ transcript: >-
   m="4396760">much,</span> <span m="4397850">and</span> <span
   m="4397990">see</span> <span m="4398140">you</span> <span
   m="4398320">on</span> <span m="4398530">Thursday.</span></p>
-embedded_media:
-  - uid: ed5d4019ede1655dc4414b4af44b0030
-    parent_uid: 2f8280f20be97752a5dde73c189e6fa6
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: SnNmbVH5DAM
-  - uid: f1c5996ae385b1b88ed92a4c9de2055a
-    parent_uid: 2f8280f20be97752a5dde73c189e6fa6
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/SnNmbVH5DAM/default.jpg'
-  - uid: 055b688ac96113a8ab50381a5f0e4486
-    parent_uid: 2f8280f20be97752a5dde73c189e6fa6
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: SnNmbVH5DAM
-  - uid: 0218309684799d1c25b30635106b2dc4
-    parent_uid: 2f8280f20be97752a5dde73c189e6fa6
-    id: SnNmbVH5DAM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-10/copy2_of_lecture-10-video/SnNmbVH5DAM.srt
-  - uid: e8f8ed7b18fe6e897aeac8095b0f2c4e
-    parent_uid: 2f8280f20be97752a5dde73c189e6fa6
-    id: SnNmbVH5DAM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-10/copy2_of_lecture-10-video/SnNmbVH5DAM.pdf
-  - uid: 3eb4129e86b9eecbc777727d1ddd8f9a
-    parent_uid: 2f8280f20be97752a5dde73c189e6fa6
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7c86c1def4e8afdd27c67314d4a32ab7
-    parent_uid: 2f8280f20be97752a5dde73c189e6fa6
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 9ef95e42b695bd2038c46f186de1d1b5
-    parent_uid: 2f8280f20be97752a5dde73c189e6fa6
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec10_300k.mp4'
+uid: 2f8280f20be97752a5dde73c189e6fa6
 type: courses
 layout: video
 ---

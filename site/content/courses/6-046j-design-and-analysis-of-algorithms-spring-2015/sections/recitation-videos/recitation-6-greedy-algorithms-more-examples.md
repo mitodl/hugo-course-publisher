@@ -1,16 +1,70 @@
 ---
-title: 'Recitation 6: Greedy Algorithms: More Examples'
-uid: 19fe435aba2f322a4d0a2193a3fd96bd
-parent_uid: 8c671299aae36eba669ca13490c21dec
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-6-greedy-algorithms-more-examples
-short_url: recitation-6-greedy-algorithms-more-examples
-inline_embed_id: '78705095recitation6:greedyalgorithms:moreexamples28969178'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this recitation, problems related to
   greedy algorithms are discussed.</p> <p><strong>Instructors:</strong> Amartya
   Shankha Biswas</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: '-QcPo_DWJk4'
+    parent_uid: 19fe435aba2f322a4d0a2193a3fd96bd
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 702b5edf3b53c9675cefa23ebeb3826a
+  - id: '-QcPo_DWJk4.srt'
+    parent_uid: 19fe435aba2f322a4d0a2193a3fd96bd
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-6-greedy-algorithms-more-examples/-QcPo_DWJk4.srt
+    title: 3play caption file
+    type: null
+    uid: 9b80b2418a69cf1e88aca231b279f7cd
+  - id: '-QcPo_DWJk4.pdf'
+    parent_uid: 19fe435aba2f322a4d0a2193a3fd96bd
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-6-greedy-algorithms-more-examples/-QcPo_DWJk4.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6530a6fd115ae08196e2fa6d7384b01e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 19fe435aba2f322a4d0a2193a3fd96bd
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 18123dffa248ed8012f266197771efe2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 19fe435aba2f322a4d0a2193a3fd96bd
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2351ae2ee520dc3df5495709582f3655
+  - id: Video-YouTube-Stream
+    media_location: '-QcPo_DWJk4'
+    parent_uid: 19fe435aba2f322a4d0a2193a3fd96bd
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 21f07d0a9f1746f68982836d5aa4afa6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/-QcPo_DWJk4/default.jpg'
+    parent_uid: 19fe435aba2f322a4d0a2193a3fd96bd
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e618af81931b9b48c155b03a269312b1
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 19fe435aba2f322a4d0a2193a3fd96bd
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7b8f31ac0fe40c93143edcfccab30bee
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec06_300k.mp4'
+    parent_uid: 19fe435aba2f322a4d0a2193a3fd96bd
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3d1c9e236d7e1532b3bae8e8f8bec9cb
+inline_embed_id: '78705095recitation6:greedyalgorithms:moreexamples28969178'
+parent_uid: 8c671299aae36eba669ca13490c21dec
 related_resources_text: ''
+short_url: recitation-6-greedy-algorithms-more-examples
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-6-greedy-algorithms-more-examples
+title: 'Recitation 6: Greedy Algorithms: More Examples'
 transcript: >-
   <p><span m="90">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -1527,61 +1581,7 @@ transcript: >-
   m="1339640">guess,</span> <span m="1340420">have a</span> <span
   m="1340640">great</span> <span m="1340850">spring</span> <span
   m="1340990">break.</span></p>
-embedded_media:
-  - uid: 702b5edf3b53c9675cefa23ebeb3826a
-    parent_uid: 19fe435aba2f322a4d0a2193a3fd96bd
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: '-QcPo_DWJk4'
-  - uid: 9b80b2418a69cf1e88aca231b279f7cd
-    parent_uid: 19fe435aba2f322a4d0a2193a3fd96bd
-    id: '-QcPo_DWJk4.srt'
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-6-greedy-algorithms-more-examples/-QcPo_DWJk4.srt
-  - uid: 6530a6fd115ae08196e2fa6d7384b01e
-    parent_uid: 19fe435aba2f322a4d0a2193a3fd96bd
-    id: '-QcPo_DWJk4.pdf'
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/recitation-videos/recitation-6-greedy-algorithms-more-examples/-QcPo_DWJk4.pdf
-  - uid: 18123dffa248ed8012f266197771efe2
-    parent_uid: 19fe435aba2f322a4d0a2193a3fd96bd
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2351ae2ee520dc3df5495709582f3655
-    parent_uid: 19fe435aba2f322a4d0a2193a3fd96bd
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 21f07d0a9f1746f68982836d5aa4afa6
-    parent_uid: 19fe435aba2f322a4d0a2193a3fd96bd
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: '-QcPo_DWJk4'
-  - uid: e618af81931b9b48c155b03a269312b1
-    parent_uid: 19fe435aba2f322a4d0a2193a3fd96bd
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/-QcPo_DWJk4/default.jpg'
-  - uid: 7b8f31ac0fe40c93143edcfccab30bee
-    parent_uid: 19fe435aba2f322a4d0a2193a3fd96bd
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 3d1c9e236d7e1532b3bae8e8f8bec9cb
-    parent_uid: 19fe435aba2f322a4d0a2193a3fd96bd
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_rec06_300k.mp4'
+uid: 19fe435aba2f322a4d0a2193a3fd96bd
 type: courses
 layout: video
 ---

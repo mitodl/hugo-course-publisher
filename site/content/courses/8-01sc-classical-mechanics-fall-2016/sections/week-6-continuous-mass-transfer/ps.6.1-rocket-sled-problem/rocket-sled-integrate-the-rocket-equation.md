@@ -1,13 +1,67 @@
 ---
-title: Rocket Sled - Integrate the Rocket Equation
-uid: 7548953897a79a4e9af454f6d7ad020f
+about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Anna Frebel</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 7Kq8BINVDiw
+    parent_uid: 7548953897a79a4e9af454f6d7ad020f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5b2ad91971532d8ecaa6447aeda87b2b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/7Kq8BINVDiw/default.jpg'
+    parent_uid: 7548953897a79a4e9af454f6d7ad020f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 77c778704aadd1790f8bc5b6c96ba965
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 7Kq8BINVDiw
+    parent_uid: 7548953897a79a4e9af454f6d7ad020f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e582e7d52d36d807ecd8b5fa5c57702e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
+    parent_uid: 7548953897a79a4e9af454f6d7ad020f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bf705c7299f0b0fd8a19189e7882e870
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W06PS01-2_360p.mp4'
+    parent_uid: 7548953897a79a4e9af454f6d7ad020f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: acf1c8f72184007445f4c24ba621b6d5
+  - id: 7Kq8BINVDiw.srt
+    parent_uid: 7548953897a79a4e9af454f6d7ad020f
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem/rocket-sled-integrate-the-rocket-equation/7Kq8BINVDiw.srt
+    title: 3play caption file
+    type: null
+    uid: acbd015b1281e6e678bc96b5749a3f97
+  - id: 7Kq8BINVDiw.pdf
+    parent_uid: 7548953897a79a4e9af454f6d7ad020f
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem/rocket-sled-integrate-the-rocket-equation/7Kq8BINVDiw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5fb03318c1359e623617218715101f57
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7548953897a79a4e9af454f6d7ad020f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: fceda8e7cde455690f25eb8075570a25
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7548953897a79a4e9af454f6d7ad020f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c93850a4313ab34f1c6b5ee7c110d912
+inline_embed_id: 51278949rocketsledintegratetherocketequation26098387
 parent_uid: ce8e09d4807a942257ee603eabb68035
+related_resources_text: ''
+short_url: rocket-sled-integrate-the-rocket-equation
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem/rocket-sled-integrate-the-rocket-equation
-short_url: rocket-sled-integrate-the-rocket-equation
-inline_embed_id: 51278949rocketsledintegratetherocketequation26098387
-about_this_resource_text: '<p><strong>Instructor:</strong> Prof. Anna Frebel</p>'
-related_resources_text: ''
+title: Rocket Sled - Integrate the Rocket Equation
 transcript: >-
   <p><span m='3940'>We just arrived this relation here-- the relation</span>
   <span m='8189'>between the differential of the speed of the rocket sled</span>
@@ -48,61 +102,7 @@ transcript: >-
   velocity</span> <span m='198130'>minus something.</span> </p><p><span
   m='200900'>Which means we have a decrease in velocity,</span> <span
   m='205480'>which means my sled will eventually come to a stop.</span> </p>
-embedded_media:
-  - uid: 5b2ad91971532d8ecaa6447aeda87b2b
-    parent_uid: 7548953897a79a4e9af454f6d7ad020f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 7Kq8BINVDiw
-  - uid: 77c778704aadd1790f8bc5b6c96ba965
-    parent_uid: 7548953897a79a4e9af454f6d7ad020f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/7Kq8BINVDiw/default.jpg'
-  - uid: e582e7d52d36d807ecd8b5fa5c57702e
-    parent_uid: 7548953897a79a4e9af454f6d7ad020f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 7Kq8BINVDiw
-  - uid: bf705c7299f0b0fd8a19189e7882e870
-    parent_uid: 7548953897a79a4e9af454f6d7ad020f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1223579658'
-  - uid: acf1c8f72184007445f4c24ba621b6d5
-    parent_uid: 7548953897a79a4e9af454f6d7ad020f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.01F16/MIT8_01F16_W06PS01-2_360p.mp4'
-  - uid: acbd015b1281e6e678bc96b5749a3f97
-    parent_uid: 7548953897a79a4e9af454f6d7ad020f
-    id: 7Kq8BINVDiw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem/rocket-sled-integrate-the-rocket-equation/7Kq8BINVDiw.srt
-  - uid: 5fb03318c1359e623617218715101f57
-    parent_uid: 7548953897a79a4e9af454f6d7ad020f
-    id: 7Kq8BINVDiw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/week-6-continuous-mass-transfer/ps.6.1-rocket-sled-problem/rocket-sled-integrate-the-rocket-equation/7Kq8BINVDiw.pdf
-  - uid: fceda8e7cde455690f25eb8075570a25
-    parent_uid: 7548953897a79a4e9af454f6d7ad020f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c93850a4313ab34f1c6b5ee7c110d912
-    parent_uid: 7548953897a79a4e9af454f6d7ad020f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 7548953897a79a4e9af454f6d7ad020f
 type: courses
 layout: video
 ---

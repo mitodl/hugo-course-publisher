@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 20: Cramer''s Rule, Inverse Matrix and Volume'
-uid: e2725926adcfe1b2f01a9a1231134bfe
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: QNpj-gOXW9M
+    parent_uid: e2725926adcfe1b2f01a9a1231134bfe
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 81954710fd1109938d3678446779cc79
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/QNpj-gOXW9M/default.jpg'
+    parent_uid: e2725926adcfe1b2f01a9a1231134bfe
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 74ac66f268b3c7d47eacd3b1ca084c2f
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: e2725926adcfe1b2f01a9a1231134bfe
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 33d0d04c74c1f329729b5bd5fd8b92a8
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/20.mp4'
+    parent_uid: e2725926adcfe1b2f01a9a1231134bfe
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: cea7a24aef71323bf44bd4426245757f
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: QNpj-gOXW9M
+    parent_uid: e2725926adcfe1b2f01a9a1231134bfe
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b0a5d9a0380bbef7bb8df4e8022a258a
+  - id: QNpj-gOXW9M.srt
+    parent_uid: e2725926adcfe1b2f01a9a1231134bfe
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/lecture-20-cramers-rule-inverse-matrix-and-volume/QNpj-gOXW9M.srt
+    title: 3play caption file
+    type: null
+    uid: 81b3df44aac502c5cc54c1e500744b70
+  - id: QNpj-gOXW9M.pdf
+    parent_uid: e2725926adcfe1b2f01a9a1231134bfe
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/lecture-20-cramers-rule-inverse-matrix-and-volume/QNpj-gOXW9M.pdf
+    title: 3play pdf file
+    type: null
+    uid: fb1488040869b7b3359e17ebcb3139e3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e2725926adcfe1b2f01a9a1231134bfe
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f87cc8a5ab3a0b2214ea1d38348144b4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e2725926adcfe1b2f01a9a1231134bfe
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ad75b16522123e5320125bf82d2bb9bc
+inline_embed_id: '26616408lecture20:cramer''srule,inversematrixandvolume67518574'
 parent_uid: 86cb2711cb7c431342dec1540dfe8ce2
+related_resources_text: ''
+short_url: lecture-20-cramers-rule-inverse-matrix-and-volume
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/lecture-20-cramers-rule-inverse-matrix-and-volume
-short_url: lecture-20-cramers-rule-inverse-matrix-and-volume
-inline_embed_id: '26616408lecture20:cramer''srule,inversematrixandvolume67518574'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 20: Cramer''s Rule, Inverse Matrix and Volume'
 transcript: >-
   <p><span m='0'>OK,</span> <span m='8240'>this</span> <span m='8360'>is</span>
   <span m='8730'>lecture</span> <span m='9240'>twenty.</span> <span
@@ -2983,61 +3037,7 @@ transcript: >-
   m='3045070'>really</span> <span m='3045700'>into</span> <span
   m='3046460'>the</span> <span m='3047320'>big</span> <span
   m='3047570'>stuff.</span> </p><p><span m='3047780'>Thanks.</span> </p>
-embedded_media:
-  - uid: 81954710fd1109938d3678446779cc79
-    parent_uid: e2725926adcfe1b2f01a9a1231134bfe
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: QNpj-gOXW9M
-  - uid: 74ac66f268b3c7d47eacd3b1ca084c2f
-    parent_uid: e2725926adcfe1b2f01a9a1231134bfe
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/QNpj-gOXW9M/default.jpg'
-  - uid: 33d0d04c74c1f329729b5bd5fd8b92a8
-    parent_uid: e2725926adcfe1b2f01a9a1231134bfe
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: cea7a24aef71323bf44bd4426245757f
-    parent_uid: e2725926adcfe1b2f01a9a1231134bfe
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/20.mp4'
-  - uid: b0a5d9a0380bbef7bb8df4e8022a258a
-    parent_uid: e2725926adcfe1b2f01a9a1231134bfe
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: QNpj-gOXW9M
-  - uid: 81b3df44aac502c5cc54c1e500744b70
-    parent_uid: e2725926adcfe1b2f01a9a1231134bfe
-    id: QNpj-gOXW9M.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/lecture-20-cramers-rule-inverse-matrix-and-volume/QNpj-gOXW9M.srt
-  - uid: fb1488040869b7b3359e17ebcb3139e3
-    parent_uid: e2725926adcfe1b2f01a9a1231134bfe
-    id: QNpj-gOXW9M.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/cramers-rule-inverse-matrix-and-volume/lecture-20-cramers-rule-inverse-matrix-and-volume/QNpj-gOXW9M.pdf
-  - uid: f87cc8a5ab3a0b2214ea1d38348144b4
-    parent_uid: e2725926adcfe1b2f01a9a1231134bfe
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ad75b16522123e5320125bf82d2bb9bc
-    parent_uid: e2725926adcfe1b2f01a9a1231134bfe
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: e2725926adcfe1b2f01a9a1231134bfe
 type: courses
 layout: video
 ---

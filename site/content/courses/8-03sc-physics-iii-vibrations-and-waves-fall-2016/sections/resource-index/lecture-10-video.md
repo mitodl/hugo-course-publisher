@@ -1,13 +1,61 @@
 ---
-title: 'Lecture Video 10: Traveling Waves'
-uid: ffc5fe1ca70b1ec4b88de00b2266976a
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: SnNmbVH5DAM
+    parent_uid: ffc5fe1ca70b1ec4b88de00b2266976a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6360ce2d62333b5cfa162d90ee8c05dd
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/SnNmbVH5DAM/default.jpg'
+    parent_uid: ffc5fe1ca70b1ec4b88de00b2266976a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 72b56310efe6bfd31502625603f9bc17
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: SnNmbVH5DAM
+    parent_uid: ffc5fe1ca70b1ec4b88de00b2266976a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e041d165cf15653d63ab9333e13fd794
+  - id: SnNmbVH5DAM.srt
+    parent_uid: ffc5fe1ca70b1ec4b88de00b2266976a
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-10-video/SnNmbVH5DAM.srt
+    title: 3play caption file
+    type: null
+    uid: e2dddae409e1574ad3d5cbb0ff9e881e
+  - id: SnNmbVH5DAM.pdf
+    parent_uid: ffc5fe1ca70b1ec4b88de00b2266976a
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-10-video/SnNmbVH5DAM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7c394bab98d9241eb61bf42817a1e5eb
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ffc5fe1ca70b1ec4b88de00b2266976a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9336c100e84d40947aab6832d673e3a6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ffc5fe1ca70b1ec4b88de00b2266976a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ac554f107d92bd69d085f4d81039dbd7
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec10_300k.mp4'
+    parent_uid: ffc5fe1ca70b1ec4b88de00b2266976a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 11ab7bbf58cbe98429f210758bc0e24d
+inline_embed_id: 1524341lecture10video49009644
 parent_uid: 6e929eb17b686d3570ea402ec87c9a4b
+related_resources_text: ''
+short_url: lecture-10-video
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-10-video
-short_url: lecture-10-video
-inline_embed_id: 1524341lecture10video49009644
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture Video 10: Traveling Waves'
 transcript: >-
   <p><span m="2120">The</span> <span m="2210">following</span> <span
   m="2660">content</span> <span m="3140">is</span> <span
@@ -3725,55 +3773,7 @@ transcript: >-
   m="4396760">much,</span> <span m="4397850">and</span> <span
   m="4397990">see</span> <span m="4398140">you</span> <span
   m="4398320">on</span> <span m="4398530">Thursday.</span></p>
-embedded_media:
-  - uid: 6360ce2d62333b5cfa162d90ee8c05dd
-    parent_uid: ffc5fe1ca70b1ec4b88de00b2266976a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: SnNmbVH5DAM
-  - uid: 72b56310efe6bfd31502625603f9bc17
-    parent_uid: ffc5fe1ca70b1ec4b88de00b2266976a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/SnNmbVH5DAM/default.jpg'
-  - uid: e041d165cf15653d63ab9333e13fd794
-    parent_uid: ffc5fe1ca70b1ec4b88de00b2266976a
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: SnNmbVH5DAM
-  - uid: e2dddae409e1574ad3d5cbb0ff9e881e
-    parent_uid: ffc5fe1ca70b1ec4b88de00b2266976a
-    id: SnNmbVH5DAM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-10-video/SnNmbVH5DAM.srt
-  - uid: 7c394bab98d9241eb61bf42817a1e5eb
-    parent_uid: ffc5fe1ca70b1ec4b88de00b2266976a
-    id: SnNmbVH5DAM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/resource-index/lecture-10-video/SnNmbVH5DAM.pdf
-  - uid: 9336c100e84d40947aab6832d673e3a6
-    parent_uid: ffc5fe1ca70b1ec4b88de00b2266976a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ac554f107d92bd69d085f4d81039dbd7
-    parent_uid: ffc5fe1ca70b1ec4b88de00b2266976a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 11ab7bbf58cbe98429f210758bc0e24d
-    parent_uid: ffc5fe1ca70b1ec4b88de00b2266976a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec10_300k.mp4'
+uid: ffc5fe1ca70b1ec4b88de00b2266976a
 type: courses
 layout: video
 ---

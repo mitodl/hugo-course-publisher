@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 3: Divide & Conquer: FFT'
-uid: ca589b3282601ed3431f87f715da272a
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-3-divide-conquer-fft
-short_url: lecture-3-divide-conquer-fft
-inline_embed_id: '69610843lecture3:divide&conquer:fft17393659'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Demaine continues
   with divide and conquer algorithms, introducing the fast fourier
   transform.</p><p><strong>Instructors:</strong> Erik Demaine</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: iTMn0Kt18tg
+    parent_uid: ca589b3282601ed3431f87f715da272a
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 000c77a402a811a470caac230ce923be
+  - id: iTMn0Kt18tg.srt
+    parent_uid: ca589b3282601ed3431f87f715da272a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-3-divide-conquer-fft/iTMn0Kt18tg.srt
+    title: 3play caption file
+    type: null
+    uid: cdc9b0822c55973b922f4af37a6bd00a
+  - id: iTMn0Kt18tg.pdf
+    parent_uid: ca589b3282601ed3431f87f715da272a
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-3-divide-conquer-fft/iTMn0Kt18tg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6c4e79cba85427e3ed99637eed01227f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ca589b3282601ed3431f87f715da272a
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a6d49305c689088a0925364d360ed82b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ca589b3282601ed3431f87f715da272a
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 204c24ad1bdb8e323ff4a9beb4987e4a
+  - id: Video-YouTube-Stream
+    media_location: iTMn0Kt18tg
+    parent_uid: ca589b3282601ed3431f87f715da272a
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5053f26cec472d5c83fd7cb51e157f93
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/iTMn0Kt18tg/default.jpg'
+    parent_uid: ca589b3282601ed3431f87f715da272a
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a2ff8c2cc083afb35a368a33375caf4c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: ca589b3282601ed3431f87f715da272a
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: b24fef1541879fdf00c2ca214eb9b3f1
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec03_300k.mp4'
+    parent_uid: ca589b3282601ed3431f87f715da272a
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c9fb5912fe96083477a4f97d2b396668
+inline_embed_id: '69610843lecture3:divide&conquer:fft17393659'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-3-divide-conquer-fft
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-3-divide-conquer-fft
+title: 'Lecture 3: Divide & Conquer: FFT'
 transcript: >-
   <p><span m="90">The</span> <span m="190">following</span> <span
   m="630">content</span> <span m="1220">is</span> <span m="1340">provided</span>
@@ -4801,61 +4855,7 @@ transcript: >-
   m="4848560">MP3</span> <span m="4849290">uses</span> <span
   m="4849420">it.</span> <span m="4849720">It's a cool</span> <span
   m="4850020">algorithm.</span></p>
-embedded_media:
-  - uid: 000c77a402a811a470caac230ce923be
-    parent_uid: ca589b3282601ed3431f87f715da272a
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: iTMn0Kt18tg
-  - uid: cdc9b0822c55973b922f4af37a6bd00a
-    parent_uid: ca589b3282601ed3431f87f715da272a
-    id: iTMn0Kt18tg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-3-divide-conquer-fft/iTMn0Kt18tg.srt
-  - uid: 6c4e79cba85427e3ed99637eed01227f
-    parent_uid: ca589b3282601ed3431f87f715da272a
-    id: iTMn0Kt18tg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-3-divide-conquer-fft/iTMn0Kt18tg.pdf
-  - uid: a6d49305c689088a0925364d360ed82b
-    parent_uid: ca589b3282601ed3431f87f715da272a
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 204c24ad1bdb8e323ff4a9beb4987e4a
-    parent_uid: ca589b3282601ed3431f87f715da272a
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5053f26cec472d5c83fd7cb51e157f93
-    parent_uid: ca589b3282601ed3431f87f715da272a
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: iTMn0Kt18tg
-  - uid: a2ff8c2cc083afb35a368a33375caf4c
-    parent_uid: ca589b3282601ed3431f87f715da272a
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/iTMn0Kt18tg/default.jpg'
-  - uid: b24fef1541879fdf00c2ca214eb9b3f1
-    parent_uid: ca589b3282601ed3431f87f715da272a
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: c9fb5912fe96083477a4f97d2b396668
-    parent_uid: ca589b3282601ed3431f87f715da272a
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec03_300k.mp4'
+uid: ca589b3282601ed3431f87f715da272a
 type: courses
 layout: video
 ---

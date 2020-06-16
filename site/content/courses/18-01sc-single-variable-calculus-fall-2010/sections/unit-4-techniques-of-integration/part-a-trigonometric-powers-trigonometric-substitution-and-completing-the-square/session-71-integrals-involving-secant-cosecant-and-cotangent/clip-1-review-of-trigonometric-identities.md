@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Review of Trigonometric Identities'
-uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
-parent_uid: 369ea1a042d34dea55d07a2b967f59af
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-71-integrals-involving-secant-cosecant-and-cotangent/clip-1-review-of-trigonometric-identities
-short_url: clip-1-review-of-trigonometric-identities
-inline_embed_id: '47432899clip1:reviewoftrigonometricidentities52411375'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/361e135c566d33d2543b9aa1c9405f87"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 28 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: CXKoCMVqM9s
+    parent_uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e9e02d89a52113707c6ecd6a25af7589
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/CXKoCMVqM9s/default.jpg'
+    parent_uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 647606bc6da65b00b8fc82fa30d5809f
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: CXKoCMVqM9s
+    parent_uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 33b4f2448f79740c63505ddf663fb7f4
+  - id: CXKoCMVqM9s.srt
+    parent_uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-71-integrals-involving-secant-cosecant-and-cotangent/clip-1-review-of-trigonometric-identities/CXKoCMVqM9s.srt
+    title: 3play caption file
+    type: null
+    uid: f5e584dc031a4a814d210d45f4a79c4d
+  - id: CXKoCMVqM9s.pdf
+    parent_uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-71-integrals-involving-secant-cosecant-and-cotangent/clip-1-review-of-trigonometric-identities/CXKoCMVqM9s.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0bfe0471ba66c673c57b0988a17bbed5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5494e318cd7785ddc69c7a9253a0ddc2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 741ba678aa856d1d87e48203c9e34ceb
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec28_300k.mp4'
+    parent_uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: c8901d1fae400d5c2d2d8a56d1e59a76
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ec10d08ee92d49657e94f7439ba88bee
+inline_embed_id: '47432899clip1:reviewoftrigonometricidentities52411375'
+parent_uid: 369ea1a042d34dea55d07a2b967f59af
 related_resources_text: ''
+short_url: clip-1-review-of-trigonometric-identities
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-71-integrals-involving-secant-cosecant-and-cotangent/clip-1-review-of-trigonometric-identities
+title: 'Clip 1: Review of Trigonometric Identities'
 transcript: >-
   <p><span m='0'>The</span> <span m='30'>following</span> <span
   m='510'>content</span> <span m='1010'>is</span> <span m='1130'>provided</span>
@@ -2533,61 +2587,7 @@ transcript: >-
   class</span> <span m='2905880'>doesn't</span> <span m='2906030'>meet</span>
   <span m='2906190'>on</span> <span m='2906320'>Monday</span> <span
   m='2906580'>anyway.</span> <span m='2907320'>Bye.</span> </p>
-embedded_media:
-  - uid: e9e02d89a52113707c6ecd6a25af7589
-    parent_uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: CXKoCMVqM9s
-  - uid: 647606bc6da65b00b8fc82fa30d5809f
-    parent_uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CXKoCMVqM9s/default.jpg'
-  - uid: 33b4f2448f79740c63505ddf663fb7f4
-    parent_uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: CXKoCMVqM9s
-  - uid: f5e584dc031a4a814d210d45f4a79c4d
-    parent_uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
-    id: CXKoCMVqM9s.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-71-integrals-involving-secant-cosecant-and-cotangent/clip-1-review-of-trigonometric-identities/CXKoCMVqM9s.srt
-  - uid: 0bfe0471ba66c673c57b0988a17bbed5
-    parent_uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
-    id: CXKoCMVqM9s.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-4-techniques-of-integration/part-a-trigonometric-powers-trigonometric-substitution-and-completing-the-square/session-71-integrals-involving-secant-cosecant-and-cotangent/clip-1-review-of-trigonometric-identities/CXKoCMVqM9s.pdf
-  - uid: 5494e318cd7785ddc69c7a9253a0ddc2
-    parent_uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 741ba678aa856d1d87e48203c9e34ceb
-    parent_uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c8901d1fae400d5c2d2d8a56d1e59a76
-    parent_uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec28_300k.mp4'
-  - uid: ec10d08ee92d49657e94f7439ba88bee
-    parent_uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: e2403073dc6d611b1aaf2ea0ec3d6dfa
 type: courses
 layout: video
 ---

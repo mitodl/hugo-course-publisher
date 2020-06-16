@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 35: Applying Chemical Principles'
-uid: cdd510e4d757df5161b4c5b4b26d4ad8
-parent_uid: cfdef97d2484c33111437c192f705162
-technical_location: >-
-  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-35/lecture-35-applying-chemical-principles
-short_url: lecture-35-applying-chemical-principles
-inline_embed_id: 72170948lecture35applyingchemicalprinciples46154609
 about_this_resource_text: >-
   <p><strong>Description:</strong> Embedded video, no tabs, this description
   appears on section page: In the final clicker competition of the semester,
@@ -15,7 +8,68 @@ about_this_resource_text: >-
   a micro-organism. Match your wits and knowledge and see how you score compared
   to the winning group of MIT students.</p> <p><strong>Instructor:</strong>
   Catherine Drennan</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: pn1cxuBmhtI
+    parent_uid: cdd510e4d757df5161b4c5b4b26d4ad8
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6f79dcedc4455ccd545746092566c06f
+  - id: pn1cxuBmhtI.srt
+    parent_uid: cdd510e4d757df5161b4c5b4b26d4ad8
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-35/lecture-35-applying-chemical-principles/pn1cxuBmhtI.srt
+    title: 3play caption file
+    type: null
+    uid: aafb62928aeb9c4291bd9575b13b3bc1
+  - id: pn1cxuBmhtI.pdf
+    parent_uid: cdd510e4d757df5161b4c5b4b26d4ad8
+    technical_location: >-
+      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-35/lecture-35-applying-chemical-principles/pn1cxuBmhtI.pdf
+    title: 3play pdf file
+    type: null
+    uid: b334d2c9691a5b537f0cb7772e7e9c6b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cdd510e4d757df5161b4c5b4b26d4ad8
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8f9cc97a72fc6bc51e20fe18b02230c5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cdd510e4d757df5161b4c5b4b26d4ad8
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 30fd78170a4cd750d82547cfc0223cc0
+  - id: Video-YouTube-Stream
+    media_location: pn1cxuBmhtI
+    parent_uid: cdd510e4d757df5161b4c5b4b26d4ad8
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 42b6b3a0ba6150c425913c15523d13dc
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/pn1cxuBmhtI/default.jpg'
+    parent_uid: cdd510e4d757df5161b4c5b4b26d4ad8
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 2d58e1cf9ae2537b0707a33cb0e6ef5a
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
+    parent_uid: cdd510e4d757df5161b4c5b4b26d4ad8
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 2f3776c1e746d204fbd06b55991868c5
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L35_300k.mp4'
+    parent_uid: cdd510e4d757df5161b4c5b4b26d4ad8
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 28d821561f6b450ca1c550e7a6aa9486
+inline_embed_id: 72170948lecture35applyingchemicalprinciples46154609
+parent_uid: cfdef97d2484c33111437c192f705162
 related_resources_text: ''
+short_url: lecture-35-applying-chemical-principles
+technical_location: >-
+  https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-35/lecture-35-applying-chemical-principles
+title: 'Lecture 35: Applying Chemical Principles'
 transcript: >-
   <p><span m="30">The</span> <span m="130">following</span> <span
   m="600">content</span> <span m="1090">is</span> <span m="1210">provided</span>
@@ -2105,61 +2159,7 @@ transcript: >-
   m="1970750">the</span> <span m="1970840">final.</span> <span
   m="1971910">It's</span> <span m="1972150">been</span> <span
   m="1972330">a</span> <span m="1972400">pleasure.</span></p>
-embedded_media:
-  - uid: 6f79dcedc4455ccd545746092566c06f
-    parent_uid: cdd510e4d757df5161b4c5b4b26d4ad8
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: pn1cxuBmhtI
-  - uid: aafb62928aeb9c4291bd9575b13b3bc1
-    parent_uid: cdd510e4d757df5161b4c5b4b26d4ad8
-    id: pn1cxuBmhtI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-35/lecture-35-applying-chemical-principles/pn1cxuBmhtI.srt
-  - uid: b334d2c9691a5b537f0cb7772e7e9c6b
-    parent_uid: cdd510e4d757df5161b4c5b4b26d4ad8
-    id: pn1cxuBmhtI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/chemistry/5-111sc-principles-of-chemical-science-fall-2014/unit-v-chemical-kinetics/lecture-35/lecture-35-applying-chemical-principles/pn1cxuBmhtI.pdf
-  - uid: 8f9cc97a72fc6bc51e20fe18b02230c5
-    parent_uid: cdd510e4d757df5161b4c5b4b26d4ad8
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 30fd78170a4cd750d82547cfc0223cc0
-    parent_uid: cdd510e4d757df5161b4c5b4b26d4ad8
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 42b6b3a0ba6150c425913c15523d13dc
-    parent_uid: cdd510e4d757df5161b4c5b4b26d4ad8
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: pn1cxuBmhtI
-  - uid: 2d58e1cf9ae2537b0707a33cb0e6ef5a
-    parent_uid: cdd510e4d757df5161b4c5b4b26d4ad8
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/pn1cxuBmhtI/default.jpg'
-  - uid: 2f3776c1e746d204fbd06b55991868c5
-    parent_uid: cdd510e4d757df5161b4c5b4b26d4ad8
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1188080760'
-  - uid: 28d821561f6b450ca1c550e7a6aa9486
-    parent_uid: cdd510e4d757df5161b4c5b4b26d4ad8
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT5.111F14/MIT5_111F14_L35_300k.mp4'
+uid: cdd510e4d757df5161b4c5b4b26d4ad8
 type: courses
 layout: video
 ---

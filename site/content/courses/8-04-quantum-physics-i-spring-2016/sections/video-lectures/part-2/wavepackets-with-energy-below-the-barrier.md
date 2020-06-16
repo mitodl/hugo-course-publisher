@@ -1,13 +1,67 @@
 ---
-title: Wavepackets with energy below the barrier
-uid: c51fc91dee1f8cc73f2c0842d8160583
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: yqrMAZkQOwI
+    parent_uid: c51fc91dee1f8cc73f2c0842d8160583
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a565babc82c45ebd3b2b7589fada8e00
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/yqrMAZkQOwI/default.jpg'
+    parent_uid: c51fc91dee1f8cc73f2c0842d8160583
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 3e4f6b8d6af7a530a764c283ab33b730
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: yqrMAZkQOwI
+    parent_uid: c51fc91dee1f8cc73f2c0842d8160583
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d6ad87e9414b8d268c4788f2eb1cc18e
+  - id: yqrMAZkQOwI.srt
+    parent_uid: c51fc91dee1f8cc73f2c0842d8160583
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/wavepackets-with-energy-below-the-barrier/yqrMAZkQOwI.srt
+    title: 3play caption file
+    type: null
+    uid: ada183f34ea4e4f69c5835b2858f2d8c
+  - id: yqrMAZkQOwI.pdf
+    parent_uid: c51fc91dee1f8cc73f2c0842d8160583
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/wavepackets-with-energy-below-the-barrier/yqrMAZkQOwI.pdf
+    title: 3play pdf file
+    type: null
+    uid: d50f870e5e75e0fd93b1b1b6b3ef2059
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c51fc91dee1f8cc73f2c0842d8160583
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5f04c1fbe6f79f71a7a2bb11062cdee3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c51fc91dee1f8cc73f2c0842d8160583
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e76da572d635541f724ed216ff06a358
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: c51fc91dee1f8cc73f2c0842d8160583
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 94eae0ebaec80a2c9dbd7a38f287d07c
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec16_s5_300k.mp4'
+    parent_uid: c51fc91dee1f8cc73f2c0842d8160583
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 082a2ca8e590551433ee7dd50f2b23b2
+inline_embed_id: 21828579wavepacketswithenergybelowthebarrier18753439
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: wavepackets-with-energy-below-the-barrier
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/wavepackets-with-energy-below-the-barrier
-short_url: wavepackets-with-energy-below-the-barrier
-inline_embed_id: 21828579wavepacketswithenergybelowthebarrier18753439
-about_this_resource_text: ''
-related_resources_text: ''
+title: Wavepackets with energy below the barrier
 transcript: >-
   <p><span m='475'>PROFESSOR:</span> <span m='712'>E</span> <span
   m='950'>less</span> <span m='1390'>than</span> <span m='1600'>v0.</span> <span
@@ -298,61 +352,7 @@ transcript: >-
   <span m='352340'>the</span> <span m='352460'>middle</span> <span
   m='352950'>it's</span> <span m='353030'>not</span> <span m='353240'>so</span>
   <span m='353450'>big.</span> </p>
-embedded_media:
-  - uid: a565babc82c45ebd3b2b7589fada8e00
-    parent_uid: c51fc91dee1f8cc73f2c0842d8160583
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: yqrMAZkQOwI
-  - uid: 3e4f6b8d6af7a530a764c283ab33b730
-    parent_uid: c51fc91dee1f8cc73f2c0842d8160583
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/yqrMAZkQOwI/default.jpg'
-  - uid: d6ad87e9414b8d268c4788f2eb1cc18e
-    parent_uid: c51fc91dee1f8cc73f2c0842d8160583
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: yqrMAZkQOwI
-  - uid: ada183f34ea4e4f69c5835b2858f2d8c
-    parent_uid: c51fc91dee1f8cc73f2c0842d8160583
-    id: yqrMAZkQOwI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/wavepackets-with-energy-below-the-barrier/yqrMAZkQOwI.srt
-  - uid: d50f870e5e75e0fd93b1b1b6b3ef2059
-    parent_uid: c51fc91dee1f8cc73f2c0842d8160583
-    id: yqrMAZkQOwI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/wavepackets-with-energy-below-the-barrier/yqrMAZkQOwI.pdf
-  - uid: 5f04c1fbe6f79f71a7a2bb11062cdee3
-    parent_uid: c51fc91dee1f8cc73f2c0842d8160583
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e76da572d635541f724ed216ff06a358
-    parent_uid: c51fc91dee1f8cc73f2c0842d8160583
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 94eae0ebaec80a2c9dbd7a38f287d07c
-    parent_uid: c51fc91dee1f8cc73f2c0842d8160583
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 082a2ca8e590551433ee7dd50f2b23b2
-    parent_uid: c51fc91dee1f8cc73f2c0842d8160583
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec16_s5_300k.mp4'
+uid: c51fc91dee1f8cc73f2c0842d8160583
 type: courses
 layout: video
 ---

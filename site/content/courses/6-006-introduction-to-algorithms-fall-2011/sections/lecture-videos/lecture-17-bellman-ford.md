@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 17: Bellman-Ford'
-uid: ae43980d9777639340a8b145999421d3
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-17-bellman-ford
-short_url: lecture-17-bellman-ford
-inline_embed_id: '25511204lecture17:bellman-ford81065216'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture reviews shortest path notation,
   considers a generic shortest path algorithm, and then describes and proves the
   Bellman-Ford algorithm, which can handle graphs with negative cycles.</p>
   <p><strong>Instructor:</strong> Srini Devadas</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ozsuci5pIso
+    parent_uid: ae43980d9777639340a8b145999421d3
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 33900fc0c110170dcb1eebdffe06de14
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ozsuci5pIso/default.jpg'
+    parent_uid: ae43980d9777639340a8b145999421d3
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a1a056efe633428a12587afdb2edb0b4
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-17-bellman-ford/id585700718?i=126127752
+    parent_uid: ae43980d9777639340a8b145999421d3
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 851204edd12516a850b52d0029c23587
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec17_300k.mp4'
+    parent_uid: ae43980d9777639340a8b145999421d3
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1028ff10fa80867e25d8116e58716e8c
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ozsuci5pIso
+    parent_uid: ae43980d9777639340a8b145999421d3
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3460ad508e5501f4b10105831671b879
+  - id: ozsuci5pIso.srt
+    parent_uid: ae43980d9777639340a8b145999421d3
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-17-bellman-ford/ozsuci5pIso.srt
+    title: 3play caption file
+    type: null
+    uid: 68d6399df4ff430949a737313d97b36c
+  - id: ozsuci5pIso.pdf
+    parent_uid: ae43980d9777639340a8b145999421d3
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-17-bellman-ford/ozsuci5pIso.pdf
+    title: 3play pdf file
+    type: null
+    uid: f7c2c84db0aeaa78a340ef1812c33afe
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ae43980d9777639340a8b145999421d3
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e8baeb45f9c2952e84c5e71fa7a63828
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ae43980d9777639340a8b145999421d3
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: dc6d040d8ec82087896f99983f762104
+inline_embed_id: '25511204lecture17:bellman-ford81065216'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-17-bellman-ford
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-17-bellman-ford
+title: 'Lecture 17: Bellman-Ford'
 transcript: >-
   <p><span m='80'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -2695,62 +2750,7 @@ transcript: >-
   m='2927360'>later</span> <span m='2927620'>on</span> <span
   m='2927770'>in</span> <span m='2927880'>the</span> <span
   m='2927960'>term.</span> </p>
-embedded_media:
-  - uid: 33900fc0c110170dcb1eebdffe06de14
-    parent_uid: ae43980d9777639340a8b145999421d3
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ozsuci5pIso
-  - uid: a1a056efe633428a12587afdb2edb0b4
-    parent_uid: ae43980d9777639340a8b145999421d3
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ozsuci5pIso/default.jpg'
-  - uid: 851204edd12516a850b52d0029c23587
-    parent_uid: ae43980d9777639340a8b145999421d3
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-17-bellman-ford/id585700718?i=126127752
-  - uid: 1028ff10fa80867e25d8116e58716e8c
-    parent_uid: ae43980d9777639340a8b145999421d3
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec17_300k.mp4'
-  - uid: 3460ad508e5501f4b10105831671b879
-    parent_uid: ae43980d9777639340a8b145999421d3
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ozsuci5pIso
-  - uid: 68d6399df4ff430949a737313d97b36c
-    parent_uid: ae43980d9777639340a8b145999421d3
-    id: ozsuci5pIso.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-17-bellman-ford/ozsuci5pIso.srt
-  - uid: f7c2c84db0aeaa78a340ef1812c33afe
-    parent_uid: ae43980d9777639340a8b145999421d3
-    id: ozsuci5pIso.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-17-bellman-ford/ozsuci5pIso.pdf
-  - uid: e8baeb45f9c2952e84c5e71fa7a63828
-    parent_uid: ae43980d9777639340a8b145999421d3
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: dc6d040d8ec82087896f99983f762104
-    parent_uid: ae43980d9777639340a8b145999421d3
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: ae43980d9777639340a8b145999421d3
 type: courses
 layout: video
 ---

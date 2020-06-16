@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 27: Positive definite matrices and minima'
-uid: 8afb3c53a168a8428bf83a2ddb72a3f1
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-27-positive-definite-matrices-and-minima
-short_url: lecture-27-positive-definite-matrices-and-minima
-inline_embed_id: '75632781lecture27:positivedefinitematricesandminima47700634'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L27.jpg
+    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-27-positive-definite-matrices-and-minima/18.06_L27.jpg
+    title: 18.06_L27.jpg
+    type: null
+    uid: 52f3371f40eeb8bf2037922d36fac351
+  - id: Video-YouTube-Stream
+    media_location: vF7eyJ2g3kU
+    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e01d3b595166228cd1781ee4804f1d73
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/vF7eyJ2g3kU/default.jpg'
+    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0f0ab576a922f61d610b3d022a8711b7
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7f74915f2988b11db340885419e52340
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/27.mp4'
+    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 98f29be3294121fe2ab172a858c1f9e2
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 29ef47083dad4cef6bee924968fa2f13
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 144f338a49ae3882de99020d52230d20
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: vF7eyJ2g3kU
+    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 4436f0015a0c872a9ae09c1b024e7dcf
+  - id: vF7eyJ2g3kU.srt
+    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-27-positive-definite-matrices-and-minima/vF7eyJ2g3kU.srt
+    title: 3play caption file
+    type: null
+    uid: 9f4af39d3ca9ee78af2f38cacdcfcfef
+  - id: vF7eyJ2g3kU.pdf
+    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-27-positive-definite-matrices-and-minima/vF7eyJ2g3kU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 111608202724f78b5b19ef52dcbe61c9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a916fdd66c4ff641b9d60ad36408bdd5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 487422947d36d662ef53d249de631cc4
+inline_embed_id: '75632781lecture27:positivedefinitematricesandminima47700634'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-27-positive-definite-matrices-and-minima
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-27-positive-definite-matrices-and-minima
+title: 'Lecture 27: Positive definite matrices and minima'
 transcript: >-
   <p><span m="5560">OK,</span> <span m="9990">this</span> <span
   m="10150">is</span> <span m="10540">the</span> <span m="10970">lecture</span>
@@ -2832,79 +2904,7 @@ transcript: >-
   m="3025760">OK.</span> <span m="3028760">See</span> <span
   m="3028910">you</span> <span m="3028990">on</span> <span
   m="3029130">Friday.</span></p>
-embedded_media:
-  - uid: 52f3371f40eeb8bf2037922d36fac351
-    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
-    id: 18.06_L27.jpg
-    title: 18.06_L27.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-27-positive-definite-matrices-and-minima/18.06_L27.jpg
-  - uid: e01d3b595166228cd1781ee4804f1d73
-    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: vF7eyJ2g3kU
-  - uid: 0f0ab576a922f61d610b3d022a8711b7
-    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/vF7eyJ2g3kU/default.jpg'
-  - uid: 7f74915f2988b11db340885419e52340
-    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 98f29be3294121fe2ab172a858c1f9e2
-    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/27.mp4'
-  - uid: 29ef47083dad4cef6bee924968fa2f13
-    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: 144f338a49ae3882de99020d52230d20
-    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 4436f0015a0c872a9ae09c1b024e7dcf
-    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: vF7eyJ2g3kU
-  - uid: 9f4af39d3ca9ee78af2f38cacdcfcfef
-    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
-    id: vF7eyJ2g3kU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-27-positive-definite-matrices-and-minima/vF7eyJ2g3kU.srt
-  - uid: 111608202724f78b5b19ef52dcbe61c9
-    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
-    id: vF7eyJ2g3kU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-27-positive-definite-matrices-and-minima/vF7eyJ2g3kU.pdf
-  - uid: a916fdd66c4ff641b9d60ad36408bdd5
-    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 487422947d36d662ef53d249de631cc4
-    parent_uid: 8afb3c53a168a8428bf83a2ddb72a3f1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 8afb3c53a168a8428bf83a2ddb72a3f1
 type: courses
 layout: video
 ---

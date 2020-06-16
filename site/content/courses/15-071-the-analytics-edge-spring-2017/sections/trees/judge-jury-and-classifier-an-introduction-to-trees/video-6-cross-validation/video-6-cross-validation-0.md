@@ -1,13 +1,62 @@
 ---
-title: 'Video 6: Cross-Validation'
-uid: 2c3b57653e27972f213356dd1c0025e1
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: CROEh9u0VLM
+    parent_uid: 2c3b57653e27972f213356dd1c0025e1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9906df77faa516ad0fc2ebf8340749f3
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: CROEh9u0VLM
+    parent_uid: 2c3b57653e27972f213356dd1c0025e1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 08ef7d5ba2a5bdc9d2e3f45a700beea8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/CROEh9u0VLM/default.jpg'
+    parent_uid: 2c3b57653e27972f213356dd1c0025e1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a3fdf70d5968bd1edb565ecbba232ade
+  - id: CROEh9u0VLM.srt
+    parent_uid: 2c3b57653e27972f213356dd1c0025e1
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-6-cross-validation/video-6-cross-validation-0/CROEh9u0VLM.srt
+    title: 3play caption file
+    type: null
+    uid: f54fc97beb9d3625bbf3b8c836eac43b
+  - id: CROEh9u0VLM.pdf
+    parent_uid: 2c3b57653e27972f213356dd1c0025e1
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-6-cross-validation/video-6-cross-validation-0/CROEh9u0VLM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7c8e88446398b8f669260e0697831267
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2c3b57653e27972f213356dd1c0025e1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7f15d1a20d9a2f4a07e64a24938fd39c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2c3b57653e27972f213356dd1c0025e1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: bd137ff4d6cdc9d619c565eb86e90cf5
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.2.11_300k.mp4
+    parent_uid: 2c3b57653e27972f213356dd1c0025e1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 441ba6c6b367d407c74086f0e66a98bf
+inline_embed_id: 44613209video6crossvalidation203303
 parent_uid: aed8634b040dd1af7abb68e999cb9c43
+related_resources_text: ''
+short_url: video-6-cross-validation-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-6-cross-validation/video-6-cross-validation-0
-short_url: video-6-cross-validation-0
-inline_embed_id: 44613209video6crossvalidation203303
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 6: Cross-Validation'
 transcript: >-
   <p><span m='4610'>In</span> <span m='4957'>CART,</span> <span
   m='5304'>the</span> <span m='5651'>value</span> <span m='5998'>of</span> <span
@@ -556,56 +605,7 @@ transcript: >-
   m='644356'>we're</span> <span m='644800'>selecting</span> <span
   m='645244'>a</span> <span m='645688'>smart</span> <span
   m='646132'>parameter</span> <span m='646576'>value.</span> </p>
-embedded_media:
-  - uid: 9906df77faa516ad0fc2ebf8340749f3
-    parent_uid: 2c3b57653e27972f213356dd1c0025e1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: CROEh9u0VLM
-  - uid: 08ef7d5ba2a5bdc9d2e3f45a700beea8
-    parent_uid: 2c3b57653e27972f213356dd1c0025e1
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: CROEh9u0VLM
-  - uid: a3fdf70d5968bd1edb565ecbba232ade
-    parent_uid: 2c3b57653e27972f213356dd1c0025e1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/CROEh9u0VLM/default.jpg'
-  - uid: f54fc97beb9d3625bbf3b8c836eac43b
-    parent_uid: 2c3b57653e27972f213356dd1c0025e1
-    id: CROEh9u0VLM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-6-cross-validation/video-6-cross-validation-0/CROEh9u0VLM.srt
-  - uid: 7c8e88446398b8f669260e0697831267
-    parent_uid: 2c3b57653e27972f213356dd1c0025e1
-    id: CROEh9u0VLM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/judge-jury-and-classifier-an-introduction-to-trees/video-6-cross-validation/video-6-cross-validation-0/CROEh9u0VLM.pdf
-  - uid: 7f15d1a20d9a2f4a07e64a24938fd39c
-    parent_uid: 2c3b57653e27972f213356dd1c0025e1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: bd137ff4d6cdc9d619c565eb86e90cf5
-    parent_uid: 2c3b57653e27972f213356dd1c0025e1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 441ba6c6b367d407c74086f0e66a98bf
-    parent_uid: 2c3b57653e27972f213356dd1c0025e1
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.2.11_300k.mp4
+uid: 2c3b57653e27972f213356dd1c0025e1
 type: courses
 layout: video
 ---

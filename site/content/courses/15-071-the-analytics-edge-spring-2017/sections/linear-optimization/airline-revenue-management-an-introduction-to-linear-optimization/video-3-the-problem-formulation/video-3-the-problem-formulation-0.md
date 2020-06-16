@@ -1,13 +1,62 @@
 ---
-title: 'Video 3: The Problem Formulation'
-uid: 5452930d6f27986d4b45a529f5debada
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 6m4l2k9hBZw
+    parent_uid: 5452930d6f27986d4b45a529f5debada
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0d5aea86448161e02bd2324ab9feb4af
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 6m4l2k9hBZw
+    parent_uid: 5452930d6f27986d4b45a529f5debada
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 85dd0b0a9fec922d397ad0d71eaf9794
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/6m4l2k9hBZw/default.jpg'
+    parent_uid: 5452930d6f27986d4b45a529f5debada
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 5855d6e4d01ee5eb17753b3d186c8656
+  - id: 6m4l2k9hBZw.srt
+    parent_uid: 5452930d6f27986d4b45a529f5debada
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-3-the-problem-formulation/video-3-the-problem-formulation-0/6m4l2k9hBZw.srt
+    title: 3play caption file
+    type: null
+    uid: ae7515affe665bb5a9e22f60a9980dfe
+  - id: 6m4l2k9hBZw.pdf
+    parent_uid: 5452930d6f27986d4b45a529f5debada
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-3-the-problem-formulation/video-3-the-problem-formulation-0/6m4l2k9hBZw.pdf
+    title: 3play pdf file
+    type: null
+    uid: 1e4fa855c0020956e57bcb0ba0ccdcea
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 5452930d6f27986d4b45a529f5debada
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e0c8b3eec86dc65be4862fdc3d7a0500
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 5452930d6f27986d4b45a529f5debada
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d9f5bd9d4f668cb2717d1e144da54dca
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.2.04_300k.mp4
+    parent_uid: 5452930d6f27986d4b45a529f5debada
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0f28692e24bd8eb1990871854a0b18f6
+inline_embed_id: 26228954video3theproblemformulation1267899
 parent_uid: e9725d1bf88eacdd5ae8cd5e31dbe7cc
+related_resources_text: ''
+short_url: video-3-the-problem-formulation-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-3-the-problem-formulation/video-3-the-problem-formulation-0
-short_url: video-3-the-problem-formulation-0
-inline_embed_id: 26228954video3theproblemformulation1267899
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: The Problem Formulation'
 transcript: >-
   <p><span m='4500'>For</span> <span m='4867'>a</span> <span
   m='5234'>single</span> <span m='5601'>route</span> <span
@@ -235,56 +284,7 @@ transcript: >-
   m='221901'>problem</span> <span m='222200'>using</span> <span
   m='222500'>the</span> <span m='223253'>software,</span> <span
   m='224006'>LibreOffice.</span> </p>
-embedded_media:
-  - uid: 0d5aea86448161e02bd2324ab9feb4af
-    parent_uid: 5452930d6f27986d4b45a529f5debada
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 6m4l2k9hBZw
-  - uid: 85dd0b0a9fec922d397ad0d71eaf9794
-    parent_uid: 5452930d6f27986d4b45a529f5debada
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 6m4l2k9hBZw
-  - uid: 5855d6e4d01ee5eb17753b3d186c8656
-    parent_uid: 5452930d6f27986d4b45a529f5debada
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/6m4l2k9hBZw/default.jpg'
-  - uid: ae7515affe665bb5a9e22f60a9980dfe
-    parent_uid: 5452930d6f27986d4b45a529f5debada
-    id: 6m4l2k9hBZw.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-3-the-problem-formulation/video-3-the-problem-formulation-0/6m4l2k9hBZw.srt
-  - uid: 1e4fa855c0020956e57bcb0ba0ccdcea
-    parent_uid: 5452930d6f27986d4b45a529f5debada
-    id: 6m4l2k9hBZw.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/linear-optimization/airline-revenue-management-an-introduction-to-linear-optimization/video-3-the-problem-formulation/video-3-the-problem-formulation-0/6m4l2k9hBZw.pdf
-  - uid: e0c8b3eec86dc65be4862fdc3d7a0500
-    parent_uid: 5452930d6f27986d4b45a529f5debada
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d9f5bd9d4f668cb2717d1e144da54dca
-    parent_uid: 5452930d6f27986d4b45a529f5debada
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 0f28692e24bd8eb1990871854a0b18f6
-    parent_uid: 5452930d6f27986d4b45a529f5debada
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_8.2.04_300k.mp4
+uid: 5452930d6f27986d4b45a529f5debada
 type: courses
 layout: video
 ---

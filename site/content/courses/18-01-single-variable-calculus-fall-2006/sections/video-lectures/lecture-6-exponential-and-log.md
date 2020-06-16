@@ -1,19 +1,91 @@
 ---
-title: 'Lecture 6: Exponential and Log'
-uid: 4eb4b05ae62a61367c3eb0c3f2917865
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-6-exponential-and-log
-short_url: lecture-6-exponential-and-log
-inline_embed_id: '31298264lecture6:exponentialandlog76690989'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Exponential and log -
   Logarithmic differentiation; hyperbolic functions</p> <p>Note: More on
   &quot;exponents continued&quot; in lecture 7</p>
   <p><strong>Instructor:</strong> Prof. David Jerison</p></div>
+embedded_media:
+  - id: lec06.jpg
+    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-6-exponential-and-log/lec06.jpg
+    title: Lecture 6
+    type: null
+    uid: 2e2a67a5ef3efc3d8abf6f514ff01908
+  - id: Video-YouTube-Stream
+    media_location: 9v25gg2qJYE
+    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 3005b3936219f9f17ba3bc8d5f43f37e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/9v25gg2qJYE/default.jpg'
+    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: f1474758a1fa12d14401a11ccde45d7a
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec06_300k.mp4'
+    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: cb2731d4e096ce99987d95fe685a8689
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4d41049304d01394c03679a3353500a3
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 89df7c801e70e360cdc6057ffec8cf17
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 4d87471bb889e1988622db9eb7b8ccd7
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 9v25gg2qJYE
+    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1e05f9aeed80b9f6599c0ad8b797b60d
+  - id: 9v25gg2qJYE.srt
+    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-6-exponential-and-log/9v25gg2qJYE.srt
+    title: 3play caption file
+    type: null
+    uid: 087631812999c1086e979295f36ffb74
+  - id: 9v25gg2qJYE.pdf
+    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-6-exponential-and-log/9v25gg2qJYE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6347c869f176038d817f1078a7ee9620
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: cfd5c6bdb06225c0498fa60e362d3f47
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: af1d258dabbb42e1065eb2f95da18152
+inline_embed_id: '31298264lecture6:exponentialandlog76690989'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/f9af0e98490296c99d330faf47389507">PDF</a>)</p></div>
+short_url: lecture-6-exponential-and-log
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-6-exponential-and-log
+title: 'Lecture 6: Exponential and Log'
 transcript: >-
   <p><span m='40'>The following</span> <span m='500'>content</span> <span
   m='1120'>is</span> <span m='1340'>provided</span> <span m='1560'>under
@@ -2525,79 +2597,7 @@ transcript: >-
   m='2873240'>to</span> <span m='2873380'>calculate.</span> </p><p><span
   m='2874550'>Okay,</span> <span m='2874880'>see you</span> <span
   m='2875250'>next</span> <span m='2875500'>time.</span> </p>
-embedded_media:
-  - uid: 2e2a67a5ef3efc3d8abf6f514ff01908
-    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
-    id: lec06.jpg
-    title: Lecture 6
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-6-exponential-and-log/lec06.jpg
-  - uid: 3005b3936219f9f17ba3bc8d5f43f37e
-    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 9v25gg2qJYE
-  - uid: f1474758a1fa12d14401a11ccde45d7a
-    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9v25gg2qJYE/default.jpg'
-  - uid: cb2731d4e096ce99987d95fe685a8689
-    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec06_300k.mp4'
-  - uid: 4d41049304d01394c03679a3353500a3
-    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: 89df7c801e70e360cdc6057ffec8cf17
-    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 4d87471bb889e1988622db9eb7b8ccd7
-    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 1e05f9aeed80b9f6599c0ad8b797b60d
-    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 9v25gg2qJYE
-  - uid: 087631812999c1086e979295f36ffb74
-    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
-    id: 9v25gg2qJYE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-6-exponential-and-log/9v25gg2qJYE.srt
-  - uid: 6347c869f176038d817f1078a7ee9620
-    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
-    id: 9v25gg2qJYE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-6-exponential-and-log/9v25gg2qJYE.pdf
-  - uid: cfd5c6bdb06225c0498fa60e362d3f47
-    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: af1d258dabbb42e1065eb2f95da18152
-    parent_uid: 4eb4b05ae62a61367c3eb0c3f2917865
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 4eb4b05ae62a61367c3eb0c3f2917865
 type: courses
 layout: video
 ---

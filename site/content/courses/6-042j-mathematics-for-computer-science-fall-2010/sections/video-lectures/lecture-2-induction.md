@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 2: Induction'
-uid: 538a5a75a30978324d0ba06505eff624
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-2-induction
-short_url: lecture-2-induction
-inline_embed_id: '42287028lecture2:induction54402581'
 about_this_resource_text: >-
   <p><strong>Description:</strong> An introduction to proof techniques, covering
   proof by contradiction and induction, with an emphasis on the inductive
   techniques used in proof by induction.</p> <p><strong>Speaker:</strong> Tom
   Leighton</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: z8HKWUWS-lA
+    parent_uid: 538a5a75a30978324d0ba06505eff624
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 9b35f9f498d0cbffce8f1218b80df7fd
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/z8HKWUWS-lA/default.jpg'
+    parent_uid: 538a5a75a30978324d0ba06505eff624
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 00f9c9319c7cfdc5d9f55114507766f2
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-2-induction/id503873536?i=110644980
+    parent_uid: 538a5a75a30978324d0ba06505eff624
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bd3eed1d0c078de3ab4f840cb50ef4bb
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec02_300k.mp4'
+    parent_uid: 538a5a75a30978324d0ba06505eff624
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b1103c663d0e67a2e70a4572d5fc428e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: z8HKWUWS-lA
+    parent_uid: 538a5a75a30978324d0ba06505eff624
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 628109c0ba758c967f8da1ac993ff853
+  - id: z8HKWUWS-lA.srt
+    parent_uid: 538a5a75a30978324d0ba06505eff624
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-2-induction/z8HKWUWS-lA.srt
+    title: 3play caption file
+    type: null
+    uid: 4a05768d21b09745fe773fc8b36dd7f4
+  - id: z8HKWUWS-lA.pdf
+    parent_uid: 538a5a75a30978324d0ba06505eff624
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-2-induction/z8HKWUWS-lA.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3e3c5ae1dd04aab8de88a9cf9f16544f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 538a5a75a30978324d0ba06505eff624
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 65639c91f0e17279d546ca8e6187e6cd
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 538a5a75a30978324d0ba06505eff624
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8d4bd92978b85ea70a3d6d49152ec97a
+inline_embed_id: '42287028lecture2:induction54402581'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
+short_url: lecture-2-induction
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-2-induction
+title: 'Lecture 2: Induction'
 transcript: >-
   <p><span m='560'>The</span> <span m='680'>following</span> <span
   m='1120'>content</span> <span m='1710'>is</span> <span
@@ -4621,62 +4676,7 @@ transcript: >-
   m='4759830'>OK,</span> <span m='4760170'>that's</span> <span
   m='4760400'>it</span> <span m='4760510'>for</span> <span
   m='4760630'>today.</span> </p>
-embedded_media:
-  - uid: 9b35f9f498d0cbffce8f1218b80df7fd
-    parent_uid: 538a5a75a30978324d0ba06505eff624
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: z8HKWUWS-lA
-  - uid: 00f9c9319c7cfdc5d9f55114507766f2
-    parent_uid: 538a5a75a30978324d0ba06505eff624
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/z8HKWUWS-lA/default.jpg'
-  - uid: bd3eed1d0c078de3ab4f840cb50ef4bb
-    parent_uid: 538a5a75a30978324d0ba06505eff624
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-2-induction/id503873536?i=110644980
-  - uid: b1103c663d0e67a2e70a4572d5fc428e
-    parent_uid: 538a5a75a30978324d0ba06505eff624
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec02_300k.mp4'
-  - uid: 628109c0ba758c967f8da1ac993ff853
-    parent_uid: 538a5a75a30978324d0ba06505eff624
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: z8HKWUWS-lA
-  - uid: 4a05768d21b09745fe773fc8b36dd7f4
-    parent_uid: 538a5a75a30978324d0ba06505eff624
-    id: z8HKWUWS-lA.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-2-induction/z8HKWUWS-lA.srt
-  - uid: 3e3c5ae1dd04aab8de88a9cf9f16544f
-    parent_uid: 538a5a75a30978324d0ba06505eff624
-    id: z8HKWUWS-lA.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-2-induction/z8HKWUWS-lA.pdf
-  - uid: 65639c91f0e17279d546ca8e6187e6cd
-    parent_uid: 538a5a75a30978324d0ba06505eff624
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8d4bd92978b85ea70a3d6d49152ec97a
-    parent_uid: 538a5a75a30978324d0ba06505eff624
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 538a5a75a30978324d0ba06505eff624
 type: courses
 layout: video
 ---

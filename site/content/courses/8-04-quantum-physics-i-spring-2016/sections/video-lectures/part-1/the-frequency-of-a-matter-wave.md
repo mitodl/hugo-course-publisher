@@ -1,13 +1,73 @@
 ---
-title: The frequency of a matter wave
-uid: 68f965b830d1313eae1dfa04664ef6c4
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 3_qvO8bKGus
+    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5d258c6bc4f29ef2d6ed87a9a5a05ccc
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/BW-sA3wOyz4/default.jpg'
+    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4b391376b571258c612eb76e8af59412
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 3_qvO8bKGus
+    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 28df8ea74f3ba43655b0decacc001c4d
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 70199d8127eeff33d8f7bb9c59b673f7
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec04_s3_300k.mp4'
+    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3e351171e9807dc9216613dcfad341d4
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/3_qvO8bKGus/default.jpg'
+    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fd8ae90f5e53fb96fa4b83ba75750dd1
+  - id: 3_qvO8bKGus.srt
+    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-frequency-of-a-matter-wave/3_qvO8bKGus.srt
+    title: 3play caption file
+    type: null
+    uid: afa6c686e440ec615202b13bf7e0a469
+  - id: 3_qvO8bKGus.pdf
+    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-frequency-of-a-matter-wave/3_qvO8bKGus.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2e686ab8dd8e38a7d9b15de2d8c4a207
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 0dbeb71ba8a4b529b6ddcdc88adf2361
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e5fc40eeab1c9fa15007d7fd88beecc7
+inline_embed_id: 34751381thefrequencyofamatterwave75300138
 parent_uid: 71777a8528aa183c9060b392a1839df5
+related_resources_text: ''
+short_url: the-frequency-of-a-matter-wave
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-frequency-of-a-matter-wave
-short_url: the-frequency-of-a-matter-wave
-inline_embed_id: 34751381thefrequencyofamatterwave75300138
-about_this_resource_text: ''
-related_resources_text: ''
+title: The frequency of a matter wave
 transcript: >-
   <p><span m='440'>PROFESSOR:</span> <span m='630'>We've talked</span> <span
   m='820'>a</span> <span m='880'>lot</span> <span m='2050'>about</span> <span
@@ -464,67 +524,7 @@ transcript: >-
   <span m='621010'>equal</span> <span m='621370'>to</span> <span
   m='621580'>h</span> <span m='621880'>bar</span> <span m='622210'>omega.</span>
   </p>
-embedded_media:
-  - uid: 5d258c6bc4f29ef2d6ed87a9a5a05ccc
-    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 3_qvO8bKGus
-  - uid: 4b391376b571258c612eb76e8af59412
-    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/BW-sA3wOyz4/default.jpg'
-  - uid: 28df8ea74f3ba43655b0decacc001c4d
-    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 3_qvO8bKGus
-  - uid: 70199d8127eeff33d8f7bb9c59b673f7
-    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 3e351171e9807dc9216613dcfad341d4
-    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec04_s3_300k.mp4'
-  - uid: fd8ae90f5e53fb96fa4b83ba75750dd1
-    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/3_qvO8bKGus/default.jpg'
-  - uid: afa6c686e440ec615202b13bf7e0a469
-    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
-    id: 3_qvO8bKGus.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-frequency-of-a-matter-wave/3_qvO8bKGus.srt
-  - uid: 2e686ab8dd8e38a7d9b15de2d8c4a207
-    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
-    id: 3_qvO8bKGus.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-1/the-frequency-of-a-matter-wave/3_qvO8bKGus.pdf
-  - uid: 0dbeb71ba8a4b529b6ddcdc88adf2361
-    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e5fc40eeab1c9fa15007d7fd88beecc7
-    parent_uid: 68f965b830d1313eae1dfa04664ef6c4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 68f965b830d1313eae1dfa04664ef6c4
 type: courses
 layout: video
 ---

@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 9: Independence, basis, and dimension'
-uid: a8f2e55a61ed246993e8e771b35766e1
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-9-independence-basis-and-dimension
-short_url: lecture-9-independence-basis-and-dimension
-inline_embed_id: '92921428lecture9:independence,basis,anddimension61261117'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L09.jpg
+    parent_uid: a8f2e55a61ed246993e8e771b35766e1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-9-independence-basis-and-dimension/18.06_L09.jpg
+    title: 18.06_L09.jpg
+    type: null
+    uid: 2db9c4e4997126e4ab3da54d283e4b12
+  - id: Video-YouTube-Stream
+    media_location: yjBerM5jWsc
+    parent_uid: a8f2e55a61ed246993e8e771b35766e1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6c23168a4ece6f993b9677d6c5d7c4c7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/yjBerM5jWsc/default.jpg'
+    parent_uid: a8f2e55a61ed246993e8e771b35766e1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 735b194bb5bb81159a42e1860e4abbba
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: a8f2e55a61ed246993e8e771b35766e1
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 0644af87e1e406c27ceaad1cda923a75
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/09.mp4'
+    parent_uid: a8f2e55a61ed246993e8e771b35766e1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 80a8b11fd06bcf492305c693698973fb
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: a8f2e55a61ed246993e8e771b35766e1
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 82d126cedde4773d6d434a17dafc1b9e
+  - id: Thumbnail-OCW-JPG
+    parent_uid: a8f2e55a61ed246993e8e771b35766e1
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: b2fead2fc8247554808fce9ad14e6aec
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: yjBerM5jWsc
+    parent_uid: a8f2e55a61ed246993e8e771b35766e1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: be39d00ade9ae656e3bd812208036fdb
+  - id: yjBerM5jWsc.srt
+    parent_uid: a8f2e55a61ed246993e8e771b35766e1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-9-independence-basis-and-dimension/yjBerM5jWsc.srt
+    title: 3play caption file
+    type: null
+    uid: b0357314418dec396cdf42f8260a2611
+  - id: yjBerM5jWsc.pdf
+    parent_uid: a8f2e55a61ed246993e8e771b35766e1
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-9-independence-basis-and-dimension/yjBerM5jWsc.pdf
+    title: 3play pdf file
+    type: null
+    uid: 36ad03fa0fce88a4b97f846156c11b8b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a8f2e55a61ed246993e8e771b35766e1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 24c0a78246b19e1db66ee9f228bfbb8a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a8f2e55a61ed246993e8e771b35766e1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 04b38199a0b272e99f9394af8d8cad5e
+inline_embed_id: '92921428lecture9:independence,basis,anddimension61261117'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p><p>&nbsp;</p>
+short_url: lecture-9-independence-basis-and-dimension
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-9-independence-basis-and-dimension
+title: 'Lecture 9: Independence, basis, and dimension'
 transcript: >-
   <p><span m="9840">OK,</span> <span m="10480">this</span> <span
   m="10850">is</span> <span m="11170">linear</span> <span
@@ -2768,79 +2840,7 @@ transcript: >-
   m="2995680">bases,</span> <span m="2996530">and</span> <span
   m="2996780">their</span> <span m="2996940">dimensions.</span></p><p><span
   m="2997280">Thanks.</span></p>
-embedded_media:
-  - uid: 2db9c4e4997126e4ab3da54d283e4b12
-    parent_uid: a8f2e55a61ed246993e8e771b35766e1
-    id: 18.06_L09.jpg
-    title: 18.06_L09.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-9-independence-basis-and-dimension/18.06_L09.jpg
-  - uid: 6c23168a4ece6f993b9677d6c5d7c4c7
-    parent_uid: a8f2e55a61ed246993e8e771b35766e1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: yjBerM5jWsc
-  - uid: 735b194bb5bb81159a42e1860e4abbba
-    parent_uid: a8f2e55a61ed246993e8e771b35766e1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/yjBerM5jWsc/default.jpg'
-  - uid: 0644af87e1e406c27ceaad1cda923a75
-    parent_uid: a8f2e55a61ed246993e8e771b35766e1
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 80a8b11fd06bcf492305c693698973fb
-    parent_uid: a8f2e55a61ed246993e8e771b35766e1
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/09.mp4'
-  - uid: 82d126cedde4773d6d434a17dafc1b9e
-    parent_uid: a8f2e55a61ed246993e8e771b35766e1
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: b2fead2fc8247554808fce9ad14e6aec
-    parent_uid: a8f2e55a61ed246993e8e771b35766e1
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: be39d00ade9ae656e3bd812208036fdb
-    parent_uid: a8f2e55a61ed246993e8e771b35766e1
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: yjBerM5jWsc
-  - uid: b0357314418dec396cdf42f8260a2611
-    parent_uid: a8f2e55a61ed246993e8e771b35766e1
-    id: yjBerM5jWsc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-9-independence-basis-and-dimension/yjBerM5jWsc.srt
-  - uid: 36ad03fa0fce88a4b97f846156c11b8b
-    parent_uid: a8f2e55a61ed246993e8e771b35766e1
-    id: yjBerM5jWsc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-9-independence-basis-and-dimension/yjBerM5jWsc.pdf
-  - uid: 24c0a78246b19e1db66ee9f228bfbb8a
-    parent_uid: a8f2e55a61ed246993e8e771b35766e1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 04b38199a0b272e99f9394af8d8cad5e
-    parent_uid: a8f2e55a61ed246993e8e771b35766e1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a8f2e55a61ed246993e8e771b35766e1
 type: courses
 layout: video
 ---

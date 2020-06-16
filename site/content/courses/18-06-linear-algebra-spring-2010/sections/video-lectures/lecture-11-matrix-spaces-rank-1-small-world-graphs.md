@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 11: Matrix spaces; rank 1; small world graphs'
-uid: c5986685265438d7dcfcfb053ece78f7
-parent_uid: 6b1f662457366951bfe85945521b0299
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-11-matrix-spaces-rank-1-small-world-graphs
-short_url: lecture-11-matrix-spaces-rank-1-small-world-graphs
-inline_embed_id: '19500995lecture11:matrixspaces;rank1;smallworldgraphs84754360'
 about_this_resource_text: >-
   <div class="vidpad"><p>These video lectures of Professor Gilbert Strang
   teaching 18.06 were  recorded in Fall 1999 and do not correspond precisely to
@@ -18,11 +11,90 @@ about_this_resource_text: >-
   href="http://www.wellesleycambridge.com/">Wellesley-Cambridge Press</a>, 2016.
   ISBN: 9780980232776.</p> <p><strong>Instructor/speaker:</strong> Prof. Gilbert
   Strang</p></div>
+embedded_media:
+  - id: 18.06_L11.jpg
+    parent_uid: c5986685265438d7dcfcfb053ece78f7
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-11-matrix-spaces-rank-1-small-world-graphs/18.06_L11.jpg
+    title: 18.06_L11.jpg
+    type: null
+    uid: 9fdd0e23eb45987690b015be1dd2cb6a
+  - id: Video-YouTube-Stream
+    media_location: 2IdtqGM6KWU
+    parent_uid: c5986685265438d7dcfcfb053ece78f7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c60ce03b4182f25771535faebf1cbde3
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2IdtqGM6KWU/default.jpg'
+    parent_uid: c5986685265438d7dcfcfb053ece78f7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 11e8133e8456adfee121bdd605fe358a
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
+    parent_uid: c5986685265438d7dcfcfb053ece78f7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d6706d559c2a3bdaa8519646182ce185
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/11.mp4'
+    parent_uid: c5986685265438d7dcfcfb053ece78f7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 488f03928d233db495156ce03cc29561
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
+    parent_uid: c5986685265438d7dcfcfb053ece78f7
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 264426a7015d548739fb060914fbcd8c
+  - id: Thumbnail-OCW-JPG
+    parent_uid: c5986685265438d7dcfcfb053ece78f7
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: a75af6bac9971c7dde04d58b9a06f7f0
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 2IdtqGM6KWU
+    parent_uid: c5986685265438d7dcfcfb053ece78f7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 248bad9519fb2c706d2f75ca229536bd
+  - id: 2IdtqGM6KWU.srt
+    parent_uid: c5986685265438d7dcfcfb053ece78f7
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-11-matrix-spaces-rank-1-small-world-graphs/2IdtqGM6KWU.srt
+    title: 3play caption file
+    type: null
+    uid: 41f8f7424afeec8667b9785193ef19c5
+  - id: 2IdtqGM6KWU.pdf
+    parent_uid: c5986685265438d7dcfcfb053ece78f7
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-11-matrix-spaces-rank-1-small-world-graphs/2IdtqGM6KWU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 55da11f77a97298e289472a651e76f4f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c5986685265438d7dcfcfb053ece78f7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 874e6c4cb8274bb5bee9843840c9bf7e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c5986685265438d7dcfcfb053ece78f7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: a104859b7e589bd83b90de78bf200c81
+inline_embed_id: '19500995lecture11:matrixspaces;rank1;smallworldgraphs84754360'
+parent_uid: 6b1f662457366951bfe85945521b0299
 related_resources_text: >-
   <p><a href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433"
   target="_blank">Readings</a><br /><a
   href="resolveuid/81d6a1cd707c29b29d6540b3e79d5433#Table_of_Contents"
   target="_blank">Table of Contents</a></p>
+short_url: lecture-11-matrix-spaces-rank-1-small-world-graphs
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-11-matrix-spaces-rank-1-small-world-graphs
+title: 'Lecture 11: Matrix spaces; rank 1; small world graphs'
 transcript: >-
   <p><span m="10740">OK.</span> <span m="11700">This</span> <span
   m="12250">is</span> <span m="13440">linear</span> <span
@@ -2427,79 +2499,7 @@ transcript: >-
   m="2740940">and</span> <span m="2741010">see</span> <span
   m="2741060">you</span> <span m="2741120">on</span> <span
   m="2741190">Monday.</span></p>
-embedded_media:
-  - uid: 9fdd0e23eb45987690b015be1dd2cb6a
-    parent_uid: c5986685265438d7dcfcfb053ece78f7
-    id: 18.06_L11.jpg
-    title: 18.06_L11.jpg
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-11-matrix-spaces-rank-1-small-world-graphs/18.06_L11.jpg
-  - uid: c60ce03b4182f25771535faebf1cbde3
-    parent_uid: c5986685265438d7dcfcfb053ece78f7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2IdtqGM6KWU
-  - uid: 11e8133e8456adfee121bdd605fe358a
-    parent_uid: c5986685265438d7dcfcfb053ece78f7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2IdtqGM6KWU/default.jpg'
-  - uid: d6706d559c2a3bdaa8519646182ce185
-    parent_uid: c5986685265438d7dcfcfb053ece78f7
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869137'
-  - uid: 488f03928d233db495156ce03cc29561
-    parent_uid: c5986685265438d7dcfcfb053ece78f7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/11.mp4'
-  - uid: 264426a7015d548739fb060914fbcd8c
-    parent_uid: c5986685265438d7dcfcfb053ece78f7
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1806s05_linear_algebra/'
-  - uid: a75af6bac9971c7dde04d58b9a06f7f0
-    parent_uid: c5986685265438d7dcfcfb053ece78f7
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 248bad9519fb2c706d2f75ca229536bd
-    parent_uid: c5986685265438d7dcfcfb053ece78f7
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2IdtqGM6KWU
-  - uid: 41f8f7424afeec8667b9785193ef19c5
-    parent_uid: c5986685265438d7dcfcfb053ece78f7
-    id: 2IdtqGM6KWU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-11-matrix-spaces-rank-1-small-world-graphs/2IdtqGM6KWU.srt
-  - uid: 55da11f77a97298e289472a651e76f4f
-    parent_uid: c5986685265438d7dcfcfb053ece78f7
-    id: 2IdtqGM6KWU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/lecture-11-matrix-spaces-rank-1-small-world-graphs/2IdtqGM6KWU.pdf
-  - uid: 874e6c4cb8274bb5bee9843840c9bf7e
-    parent_uid: c5986685265438d7dcfcfb053ece78f7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: a104859b7e589bd83b90de78bf200c81
-    parent_uid: c5986685265438d7dcfcfb053ece78f7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: c5986685265438d7dcfcfb053ece78f7
 type: courses
 layout: video
 ---

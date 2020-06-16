@@ -1,13 +1,67 @@
 ---
-title: Excited states of the harmonic oscillator
-uid: d34911b8a43fe2ab8b22c7d8bc462eb5
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: xmjvqbYvY9o
+    parent_uid: d34911b8a43fe2ab8b22c7d8bc462eb5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 128f74fc1077646814752bed7fa183ce
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/xmjvqbYvY9o/default.jpg'
+    parent_uid: d34911b8a43fe2ab8b22c7d8bc462eb5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d13a4c31a27be546772a9f62a0626e20
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: xmjvqbYvY9o
+    parent_uid: d34911b8a43fe2ab8b22c7d8bc462eb5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 89fea5775fc446c039e615a70ae1d632
+  - id: xmjvqbYvY9o.srt
+    parent_uid: d34911b8a43fe2ab8b22c7d8bc462eb5
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/excited-states-of-the-harmonic-oscillator/xmjvqbYvY9o.srt
+    title: 3play caption file
+    type: null
+    uid: 4074936b722baadd9e388c008ba45da0
+  - id: xmjvqbYvY9o.pdf
+    parent_uid: d34911b8a43fe2ab8b22c7d8bc462eb5
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/excited-states-of-the-harmonic-oscillator/xmjvqbYvY9o.pdf
+    title: 3play pdf file
+    type: null
+    uid: 35816b09d42d2fdea9d61bdee70b85d8
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d34911b8a43fe2ab8b22c7d8bc462eb5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5611df27861456c92e4bad2a7b38814e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d34911b8a43fe2ab8b22c7d8bc462eb5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3c3d379a48d550c3d211639384e3d8a6
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: d34911b8a43fe2ab8b22c7d8bc462eb5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ac5ee57b41e0ca160d38439fa79c8e64
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec15_s2_300k.mp4'
+    parent_uid: d34911b8a43fe2ab8b22c7d8bc462eb5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 7461edff40fce404aa807fb49ffbe19a
+inline_embed_id: 36960950excitedstatesoftheharmonicoscillator5188308
 parent_uid: 47c9328d422d967423c384164ff51d36
+related_resources_text: ''
+short_url: excited-states-of-the-harmonic-oscillator
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/excited-states-of-the-harmonic-oscillator
-short_url: excited-states-of-the-harmonic-oscillator
-inline_embed_id: 36960950excitedstatesoftheharmonicoscillator5188308
-about_this_resource_text: ''
-related_resources_text: ''
+title: Excited states of the harmonic oscillator
 transcript: >-
   <p><span m='1050'>PROFESSOR:</span> <span m='1225'>Suppose</span> <span
   m='3970'>you</span> <span m='4190'>define</span> <span m='5110'>now,</span>
@@ -848,61 +902,7 @@ transcript: >-
   m='1095460'>factorial,</span> <span m='1096840'>and</span> <span
   m='1096990'>that's</span> <span m='1097170'>equal</span> <span
   m='1097560'>to</span> <span m='1097750'>1.</span> </p>
-embedded_media:
-  - uid: 128f74fc1077646814752bed7fa183ce
-    parent_uid: d34911b8a43fe2ab8b22c7d8bc462eb5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: xmjvqbYvY9o
-  - uid: d13a4c31a27be546772a9f62a0626e20
-    parent_uid: d34911b8a43fe2ab8b22c7d8bc462eb5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/xmjvqbYvY9o/default.jpg'
-  - uid: 89fea5775fc446c039e615a70ae1d632
-    parent_uid: d34911b8a43fe2ab8b22c7d8bc462eb5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: xmjvqbYvY9o
-  - uid: 4074936b722baadd9e388c008ba45da0
-    parent_uid: d34911b8a43fe2ab8b22c7d8bc462eb5
-    id: xmjvqbYvY9o.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/excited-states-of-the-harmonic-oscillator/xmjvqbYvY9o.srt
-  - uid: 35816b09d42d2fdea9d61bdee70b85d8
-    parent_uid: d34911b8a43fe2ab8b22c7d8bc462eb5
-    id: xmjvqbYvY9o.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-2/excited-states-of-the-harmonic-oscillator/xmjvqbYvY9o.pdf
-  - uid: 5611df27861456c92e4bad2a7b38814e
-    parent_uid: d34911b8a43fe2ab8b22c7d8bc462eb5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3c3d379a48d550c3d211639384e3d8a6
-    parent_uid: d34911b8a43fe2ab8b22c7d8bc462eb5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ac5ee57b41e0ca160d38439fa79c8e64
-    parent_uid: d34911b8a43fe2ab8b22c7d8bc462eb5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: 7461edff40fce404aa807fb49ffbe19a
-    parent_uid: d34911b8a43fe2ab8b22c7d8bc462eb5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec15_s2_300k.mp4'
+uid: d34911b8a43fe2ab8b22c7d8bc462eb5
 type: courses
 layout: video
 ---

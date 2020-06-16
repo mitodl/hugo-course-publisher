@@ -4,7 +4,8 @@ course_id: 6-0001-introduction-to-computer-science-and-programming-in-python-fal
 course_title: Introduction to Computer Science and Programming in Python
 course_image_url: >-
   https://open-learning-course-data-ci.s3.amazonaws.com/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/bb7bc760922abfcd37f5d8b9203d771f_6-0001f16.jpg
-course_thumbnail_image_url: ''
+course_thumbnail_image_url: >-
+  https://open-learning-course-data-ci.s3.amazonaws.com/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/10cee5c23c9034271800f886a7ec68db_6-0001f16-th.jpg
 course_image_alternate_text: A black backlit keyboard.
 course_image_caption_text: >-
   <p>6.0001 is intended to teach basic programming concepts to students with no

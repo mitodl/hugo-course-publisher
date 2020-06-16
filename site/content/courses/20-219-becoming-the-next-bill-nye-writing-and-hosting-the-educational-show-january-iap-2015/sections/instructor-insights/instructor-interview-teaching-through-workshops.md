@@ -1,13 +1,68 @@
 ---
-title: 'Instructor Interview: Teaching through Workshops'
-uid: be800c683d72ecaf3af4e7d6c9612779
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2z33hyYG6Js
+    parent_uid: be800c683d72ecaf3af4e7d6c9612779
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a39b41d91361753eef8ff5892fc3a746
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2z33hyYG6Js/default.jpg'
+    parent_uid: be800c683d72ecaf3af4e7d6c9612779
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6bb8b59a94075014639cc6c7bf937d27
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 2z33hyYG6Js
+    parent_uid: be800c683d72ecaf3af4e7d6c9612779
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: d1ab42e035a40dd98c0ee74563297eb4
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: be800c683d72ecaf3af4e7d6c9612779
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: c7ff0d6fd74e2f4cb9b003d002e4f379
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_Workshops_300k.mp4
+    parent_uid: be800c683d72ecaf3af4e7d6c9612779
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d04ff19446a0bf7dab2c923cc5f9fdec
+  - id: 2z33hyYG6Js.srt
+    parent_uid: be800c683d72ecaf3af4e7d6c9612779
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-teaching-through-workshops/2z33hyYG6Js.srt
+    title: 3play caption file
+    type: null
+    uid: 7b916ac3725183906d301942cc40cdb7
+  - id: 2z33hyYG6Js.pdf
+    parent_uid: be800c683d72ecaf3af4e7d6c9612779
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-teaching-through-workshops/2z33hyYG6Js.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5c511cf95c021ce8c04935ba2dfc643d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: be800c683d72ecaf3af4e7d6c9612779
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: e2058155d24d8788ef28aeb6f8821a22
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: be800c683d72ecaf3af4e7d6c9612779
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f151549d45c436472b96462f3680573d
+inline_embed_id: '51302324instructorinterview:workshops33448399'
 parent_uid: 526193cf30dacdf1c6734faab57d51d7
+related_resources_text: ''
+short_url: instructor-interview-teaching-through-workshops
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-teaching-through-workshops
-short_url: instructor-interview-teaching-through-workshops
-inline_embed_id: '51302324instructorinterview:workshops33448399'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Instructor Interview: Teaching through Workshops'
 transcript: >-
   <p><span m="5300">ELIZABETH CHOE: So</span> <span m="5460">I</span> <span
   m="5550">think</span> <span m="5770">the</span> <span m="6190">idea</span>
@@ -734,62 +789,7 @@ transcript: >-
   m="589950">of</span> <span m="590020">that</span> <span m="590570">than</span>
   <span m="591190">watching</span> <span m="591690">a</span> <span
   m="591730">lecture</span> <span m="592170">series.</span></p>
-embedded_media:
-  - uid: a39b41d91361753eef8ff5892fc3a746
-    parent_uid: be800c683d72ecaf3af4e7d6c9612779
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2z33hyYG6Js
-  - uid: 6bb8b59a94075014639cc6c7bf937d27
-    parent_uid: be800c683d72ecaf3af4e7d6c9612779
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2z33hyYG6Js/default.jpg'
-  - uid: d1ab42e035a40dd98c0ee74563297eb4
-    parent_uid: be800c683d72ecaf3af4e7d6c9612779
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2z33hyYG6Js
-  - uid: c7ff0d6fd74e2f4cb9b003d002e4f379
-    parent_uid: be800c683d72ecaf3af4e7d6c9612779
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: d04ff19446a0bf7dab2c923cc5f9fdec
-    parent_uid: be800c683d72ecaf3af4e7d6c9612779
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_Workshops_300k.mp4
-  - uid: 7b916ac3725183906d301942cc40cdb7
-    parent_uid: be800c683d72ecaf3af4e7d6c9612779
-    id: 2z33hyYG6Js.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-teaching-through-workshops/2z33hyYG6Js.srt
-  - uid: 5c511cf95c021ce8c04935ba2dfc643d
-    parent_uid: be800c683d72ecaf3af4e7d6c9612779
-    id: 2z33hyYG6Js.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-teaching-through-workshops/2z33hyYG6Js.pdf
-  - uid: e2058155d24d8788ef28aeb6f8821a22
-    parent_uid: be800c683d72ecaf3af4e7d6c9612779
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f151549d45c436472b96462f3680573d
-    parent_uid: be800c683d72ecaf3af4e7d6c9612779
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: be800c683d72ecaf3af4e7d6c9612779
 type: courses
 layout: video
 ---

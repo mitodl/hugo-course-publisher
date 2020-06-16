@@ -1,16 +1,71 @@
 ---
-title: 'Lecture 14: Depth-First Search (DFS), Topological Sort'
-uid: 75894ca06489f3b79b2da067cd1acdc7
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-14-depth-first-search-dfs-topological-sort
-short_url: lecture-14-depth-first-search-dfs-topological-sort
-inline_embed_id: '23350279lecture14:depth-firstsearch(dfs),topologicalsort28769727'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture covers depth-first search,
   including edge classification, and how DFS is used for cycle detection and
   topological sort.</p> <p><strong>Instructor:</strong> Erik Demaine</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: AfSk24UTFS8
+    parent_uid: 75894ca06489f3b79b2da067cd1acdc7
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6f0ee1bb981f0408ce9cef55c197f3d5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/AfSk24UTFS8/default.jpg'
+    parent_uid: 75894ca06489f3b79b2da067cd1acdc7
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: fbcdd84f31fd02fb31f891250cd96b51
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-14-depth-first-search/id585700718?i=126127767
+    parent_uid: 75894ca06489f3b79b2da067cd1acdc7
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 1768c557114ae82e2d4f32cc9370570b
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec14_300k.mp4'
+    parent_uid: 75894ca06489f3b79b2da067cd1acdc7
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: cf171f1a339ad58712f6ff8b6683fcee
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: AfSk24UTFS8
+    parent_uid: 75894ca06489f3b79b2da067cd1acdc7
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8f254e5271aed02880c764c65573f809
+  - id: AfSk24UTFS8.srt
+    parent_uid: 75894ca06489f3b79b2da067cd1acdc7
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-14-depth-first-search-dfs-topological-sort/AfSk24UTFS8.srt
+    title: 3play caption file
+    type: null
+    uid: 74577ef77bff3a5a74b0ac988a932c84
+  - id: AfSk24UTFS8.pdf
+    parent_uid: 75894ca06489f3b79b2da067cd1acdc7
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-14-depth-first-search-dfs-topological-sort/AfSk24UTFS8.pdf
+    title: 3play pdf file
+    type: null
+    uid: 77c402d2da9deac0d2ad937823b750ed
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 75894ca06489f3b79b2da067cd1acdc7
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7565f2d59f365d7a93859c864c892d4b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 75894ca06489f3b79b2da067cd1acdc7
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 069371b08a87cc88b7bf4a57e1a696e7
+inline_embed_id: '23350279lecture14:depth-firstsearch(dfs),topologicalsort28769727'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-14-depth-first-search-dfs-topological-sort
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-14-depth-first-search-dfs-topological-sort
+title: 'Lecture 14: Depth-First Search (DFS), Topological Sort'
 transcript: >-
   <p><span m='90'>The</span> <span m='210'>following</span> <span
   m='640'>content</span> <span m='1240'>is</span> <span m='1350'>provided</span>
@@ -3165,62 +3220,7 @@ transcript: >-
   m='3027470'>with</span> <span m='3027610'>it,</span> <span
   m='3028280'>very</span> <span m='3028480'>fast,</span> <span
   m='3029080'>linear</span> <span m='3029380'>time.</span> </p>
-embedded_media:
-  - uid: 6f0ee1bb981f0408ce9cef55c197f3d5
-    parent_uid: 75894ca06489f3b79b2da067cd1acdc7
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: AfSk24UTFS8
-  - uid: fbcdd84f31fd02fb31f891250cd96b51
-    parent_uid: 75894ca06489f3b79b2da067cd1acdc7
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/AfSk24UTFS8/default.jpg'
-  - uid: 1768c557114ae82e2d4f32cc9370570b
-    parent_uid: 75894ca06489f3b79b2da067cd1acdc7
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-14-depth-first-search/id585700718?i=126127767
-  - uid: cf171f1a339ad58712f6ff8b6683fcee
-    parent_uid: 75894ca06489f3b79b2da067cd1acdc7
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec14_300k.mp4'
-  - uid: 8f254e5271aed02880c764c65573f809
-    parent_uid: 75894ca06489f3b79b2da067cd1acdc7
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: AfSk24UTFS8
-  - uid: 74577ef77bff3a5a74b0ac988a932c84
-    parent_uid: 75894ca06489f3b79b2da067cd1acdc7
-    id: AfSk24UTFS8.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-14-depth-first-search-dfs-topological-sort/AfSk24UTFS8.srt
-  - uid: 77c402d2da9deac0d2ad937823b750ed
-    parent_uid: 75894ca06489f3b79b2da067cd1acdc7
-    id: AfSk24UTFS8.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-14-depth-first-search-dfs-topological-sort/AfSk24UTFS8.pdf
-  - uid: 7565f2d59f365d7a93859c864c892d4b
-    parent_uid: 75894ca06489f3b79b2da067cd1acdc7
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 069371b08a87cc88b7bf4a57e1a696e7
-    parent_uid: 75894ca06489f3b79b2da067cd1acdc7
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 75894ca06489f3b79b2da067cd1acdc7
 type: courses
 layout: video
 ---

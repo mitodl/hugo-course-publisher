@@ -1,22 +1,77 @@
 ---
-title: 'Lecture 2: Reasoning: Goal Trees and Problem Solving'
-uid: 29f6f34ca41676d9835e4aca5039592f
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-2-reasoning-goal-trees-and-problem-solving
-short_url: lecture-2-reasoning-goal-trees-and-problem-solving
-inline_embed_id: '85559786lecture2:reasoning:goaltreesandproblemsolving67250771'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture covers a symbolic integration
   program from the early days of AI.  We use safe and heuristic transformations
   to simplify the problem, and then consider broader questions of how much
   knowledge is involved, and how the knowledge is represented.</p>
   <p><strong>Instructor:</strong> Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: PNKj529yY5c
+    parent_uid: 29f6f34ca41676d9835e4aca5039592f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 94b94fce2ff86ebcc95db0e7128c4b76
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-2-reasoning-goal-trees/id765641080?i=194468719
+    parent_uid: 29f6f34ca41676d9835e4aca5039592f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 19184b4bba668082c5e938d9b8227b37
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec02_300k.mp4'
+    parent_uid: 29f6f34ca41676d9835e4aca5039592f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 56120b6d4e5de6f63204932f46412172
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/PNKj529yY5c/default.jpg'
+    parent_uid: 29f6f34ca41676d9835e4aca5039592f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7cf789133029dd6f8a8f4019a1dc3eb7
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: PNKj529yY5c
+    parent_uid: 29f6f34ca41676d9835e4aca5039592f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9973a5b1e02f9171feab678396aa65fc
+  - id: PNKj529yY5c.srt
+    parent_uid: 29f6f34ca41676d9835e4aca5039592f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-2-reasoning-goal-trees-and-problem-solving/PNKj529yY5c.srt
+    title: 3play caption file
+    type: null
+    uid: cf2e02da5fce8f940ab0b9095e57419a
+  - id: PNKj529yY5c.pdf
+    parent_uid: 29f6f34ca41676d9835e4aca5039592f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-2-reasoning-goal-trees-and-problem-solving/PNKj529yY5c.pdf
+    title: 3play pdf file
+    type: null
+    uid: e298b3cf027b7cc4d6edd4030171d7e5
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 29f6f34ca41676d9835e4aca5039592f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2eff1108b6bc4b078186dd594cca353a
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 29f6f34ca41676d9835e4aca5039592f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4e4f649932ec8d13d45fa69d48d60ab3
+inline_embed_id: '85559786lecture2:reasoning:goaltreesandproblemsolving67250771'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: >-
   <p>Slagle, James. &quot;<a target="_blank"
   href="http://dx.doi.org/10.1145/321186.321193">A Heuristic Program that Solves
   Symbolic Integration Problems in Freshman Calculus</a>.&quot; <em>Journal of
   the ACM</em> 10 (1963): 507-520.</p>
+short_url: lecture-2-reasoning-goal-trees-and-problem-solving
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-2-reasoning-goal-trees-and-problem-solving
+title: 'Lecture 2: Reasoning: Goal Trees and Problem Solving'
 transcript: >-
   <p><span m='8119'>What we're going to talk about today, is goals.</span>
   </p><p><span m='11389'>So just by way of a little warm up exercise, I'd like
@@ -609,62 +664,7 @@ transcript: >-
   going through it like this. And at the end of that time, he turned to</span>
   <span m='2735280'>me and said, I take it back, it's not intelligent after all.
   It does integration the same way</span> <span m='2742050'>I do.</span> </p>
-embedded_media:
-  - uid: 94b94fce2ff86ebcc95db0e7128c4b76
-    parent_uid: 29f6f34ca41676d9835e4aca5039592f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: PNKj529yY5c
-  - uid: 19184b4bba668082c5e938d9b8227b37
-    parent_uid: 29f6f34ca41676d9835e4aca5039592f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-2-reasoning-goal-trees/id765641080?i=194468719
-  - uid: 56120b6d4e5de6f63204932f46412172
-    parent_uid: 29f6f34ca41676d9835e4aca5039592f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec02_300k.mp4'
-  - uid: 7cf789133029dd6f8a8f4019a1dc3eb7
-    parent_uid: 29f6f34ca41676d9835e4aca5039592f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/PNKj529yY5c/default.jpg'
-  - uid: 9973a5b1e02f9171feab678396aa65fc
-    parent_uid: 29f6f34ca41676d9835e4aca5039592f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: PNKj529yY5c
-  - uid: cf2e02da5fce8f940ab0b9095e57419a
-    parent_uid: 29f6f34ca41676d9835e4aca5039592f
-    id: PNKj529yY5c.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-2-reasoning-goal-trees-and-problem-solving/PNKj529yY5c.srt
-  - uid: e298b3cf027b7cc4d6edd4030171d7e5
-    parent_uid: 29f6f34ca41676d9835e4aca5039592f
-    id: PNKj529yY5c.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-2-reasoning-goal-trees-and-problem-solving/PNKj529yY5c.pdf
-  - uid: 2eff1108b6bc4b078186dd594cca353a
-    parent_uid: 29f6f34ca41676d9835e4aca5039592f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4e4f649932ec8d13d45fa69d48d60ab3
-    parent_uid: 29f6f34ca41676d9835e4aca5039592f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 29f6f34ca41676d9835e4aca5039592f
 type: courses
 layout: video
 ---

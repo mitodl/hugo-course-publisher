@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: The Bell Curve'
-uid: c8a7929848a447152e0d7beccf884c29
-parent_uid: 2c6806175167ca26dcd9f490d43c4c0a
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-55-creating-new-functions-using-the-second-fundamental-theorem/clip-1-the-bell-curve
-short_url: clip-1-the-bell-curve
-inline_embed_id: '54709961clip1:thebellcurve76281182'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/37ea67d3369c94db84ff2586ead82c37"
   target="_blank">Accompanying Notes (PDF)</a></p><p class="scholar_medsm">From
   Lecture 21 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: _JXPe2J069c
+    parent_uid: c8a7929848a447152e0d7beccf884c29
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e35bbff35025efe3138f5a6f8ff6fd7a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/_JXPe2J069c/default.jpg'
+    parent_uid: c8a7929848a447152e0d7beccf884c29
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: be744f082e49514554a4c54a720b6156
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: _JXPe2J069c
+    parent_uid: c8a7929848a447152e0d7beccf884c29
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 90d172820523b1fc00c9db0227b5b42a
+  - id: JXPe2J069c.srt
+    parent_uid: c8a7929848a447152e0d7beccf884c29
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-55-creating-new-functions-using-the-second-fundamental-theorem/clip-1-the-bell-curve/JXPe2J069c.srt
+    title: 3play caption file
+    type: null
+    uid: 0d0325354e9a4906b98c25acc04711b8
+  - id: JXPe2J069c.pdf
+    parent_uid: c8a7929848a447152e0d7beccf884c29
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-55-creating-new-functions-using-the-second-fundamental-theorem/clip-1-the-bell-curve/JXPe2J069c.pdf
+    title: 3play pdf file
+    type: null
+    uid: 126402bbbf0b071b3ec1f0801e8dc163
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: c8a7929848a447152e0d7beccf884c29
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: fbfd2b377fbd874d4e7e9cffada663c3
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: c8a7929848a447152e0d7beccf884c29
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e1f56294933df5db40070df8a078bd9b
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec21_300k.mp4'
+    parent_uid: c8a7929848a447152e0d7beccf884c29
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 252ca1d95f067abef153251528c410bb
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: c8a7929848a447152e0d7beccf884c29
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: fc3e78ed7186890de4272201092bd791
+inline_embed_id: '54709961clip1:thebellcurve76281182'
+parent_uid: 2c6806175167ca26dcd9f490d43c4c0a
 related_resources_text: ''
+short_url: clip-1-the-bell-curve
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-55-creating-new-functions-using-the-second-fundamental-theorem/clip-1-the-bell-curve
+title: 'Clip 1: The Bell Curve'
 transcript: >-
   <p><span m='0'>The</span> <span m='1290'>following</span> <span
   m='1900'>content</span> <span m='2330'>is provided under</span> <span
@@ -2815,61 +2869,7 @@ transcript: >-
   m='3012470'>more</span> <span m='3012670'>things,</span> <span
   m='3012960'>including</span> <span m='3013640'>three</span> <span
   m='3013820'>dimensions.</span> </p>
-embedded_media:
-  - uid: e35bbff35025efe3138f5a6f8ff6fd7a
-    parent_uid: c8a7929848a447152e0d7beccf884c29
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: _JXPe2J069c
-  - uid: be744f082e49514554a4c54a720b6156
-    parent_uid: c8a7929848a447152e0d7beccf884c29
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/_JXPe2J069c/default.jpg'
-  - uid: 90d172820523b1fc00c9db0227b5b42a
-    parent_uid: c8a7929848a447152e0d7beccf884c29
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: _JXPe2J069c
-  - uid: 0d0325354e9a4906b98c25acc04711b8
-    parent_uid: c8a7929848a447152e0d7beccf884c29
-    id: JXPe2J069c.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-55-creating-new-functions-using-the-second-fundamental-theorem/clip-1-the-bell-curve/JXPe2J069c.srt
-  - uid: 126402bbbf0b071b3ec1f0801e8dc163
-    parent_uid: c8a7929848a447152e0d7beccf884c29
-    id: JXPe2J069c.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-3-the-definite-integral-and-its-applications/part-b-second-fundamental-theorem-areas-volumes/session-55-creating-new-functions-using-the-second-fundamental-theorem/clip-1-the-bell-curve/JXPe2J069c.pdf
-  - uid: fbfd2b377fbd874d4e7e9cffada663c3
-    parent_uid: c8a7929848a447152e0d7beccf884c29
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e1f56294933df5db40070df8a078bd9b
-    parent_uid: c8a7929848a447152e0d7beccf884c29
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 252ca1d95f067abef153251528c410bb
-    parent_uid: c8a7929848a447152e0d7beccf884c29
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec21_300k.mp4'
-  - uid: fc3e78ed7186890de4272201092bd791
-    parent_uid: c8a7929848a447152e0d7beccf884c29
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: c8a7929848a447152e0d7beccf884c29
 type: courses
 layout: video
 ---

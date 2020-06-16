@@ -1,13 +1,68 @@
 ---
-title: The Chain Rule with Constraints
-uid: 3ed8fac813b7a3a05cd3123b995809f9
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: U91touR6_UY
+    parent_uid: 3ed8fac813b7a3a05cd3123b995809f9
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 744df4254942266948a0722a2d5882a6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/U91touR6_UY/default.jpg'
+    parent_uid: 3ed8fac813b7a3a05cd3123b995809f9
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e697bb88a606a4827e3ceaa980526748
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_30_300k.mp4'
+    parent_uid: 3ed8fac813b7a3a05cd3123b995809f9
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e2e17b50d88c1b00320e1e44503669f8
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/the-chain-rule-constraints/id414355340?i=90322838
+    parent_uid: 3ed8fac813b7a3a05cd3123b995809f9
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e17996d038d4b2384c82606bd11dc29b
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: U91touR6_UY
+    parent_uid: 3ed8fac813b7a3a05cd3123b995809f9
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 193cb6780239defe17f17ce66c06448d
+  - id: U91touR6_UY.srt
+    parent_uid: 3ed8fac813b7a3a05cd3123b995809f9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-43-clearer-notation/the-chain-rule-with-constraints/U91touR6_UY.srt
+    title: 3play caption file
+    type: null
+    uid: 34ff26249f2a314a7335629ccafaa466
+  - id: U91touR6_UY.pdf
+    parent_uid: 3ed8fac813b7a3a05cd3123b995809f9
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-43-clearer-notation/the-chain-rule-with-constraints/U91touR6_UY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 88eecdb6036690d45e1a945d0dea6760
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3ed8fac813b7a3a05cd3123b995809f9
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d1ff6dd40866135ccb0b12a76e006228
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3ed8fac813b7a3a05cd3123b995809f9
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8b02a3ad4c5d90b73f75e1b390a1721e
+inline_embed_id: 21148109thechainrulewithconstraints37057107
 parent_uid: a853b2a1cf33cf9421984d602044e1f1
+related_resources_text: ''
+short_url: the-chain-rule-with-constraints
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-43-clearer-notation/the-chain-rule-with-constraints
-short_url: the-chain-rule-with-constraints
-inline_embed_id: 21148109thechainrulewithconstraints37057107
-about_this_resource_text: ''
-related_resources_text: ''
+title: The Chain Rule with Constraints
 transcript: >-
   <p><span m='7040'>DAVID JORDAN: Hello,</span> <span m='7300'>and</span> <span
   m='7400'>welcome</span> <span m='7630'>back</span> <span m='7810'>to</span>
@@ -854,62 +909,7 @@ transcript: >-
   m='912690'>OK,</span> <span m='913000'>and</span> <span m='913150'>I</span>
   <span m='913190'>think</span> <span m='913390'>I'll</span> <span
   m='913460'>stop</span> <span m='913730'>there.</span> </p>
-embedded_media:
-  - uid: 744df4254942266948a0722a2d5882a6
-    parent_uid: 3ed8fac813b7a3a05cd3123b995809f9
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: U91touR6_UY
-  - uid: e697bb88a606a4827e3ceaa980526748
-    parent_uid: 3ed8fac813b7a3a05cd3123b995809f9
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/U91touR6_UY/default.jpg'
-  - uid: e2e17b50d88c1b00320e1e44503669f8
-    parent_uid: 3ed8fac813b7a3a05cd3123b995809f9
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_30_300k.mp4'
-  - uid: e17996d038d4b2384c82606bd11dc29b
-    parent_uid: 3ed8fac813b7a3a05cd3123b995809f9
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/the-chain-rule-constraints/id414355340?i=90322838
-  - uid: 193cb6780239defe17f17ce66c06448d
-    parent_uid: 3ed8fac813b7a3a05cd3123b995809f9
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: U91touR6_UY
-  - uid: 34ff26249f2a314a7335629ccafaa466
-    parent_uid: 3ed8fac813b7a3a05cd3123b995809f9
-    id: U91touR6_UY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-43-clearer-notation/the-chain-rule-with-constraints/U91touR6_UY.srt
-  - uid: 88eecdb6036690d45e1a945d0dea6760
-    parent_uid: 3ed8fac813b7a3a05cd3123b995809f9
-    id: U91touR6_UY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-c-lagrange-multipliers-and-constrained-differentials/session-43-clearer-notation/the-chain-rule-with-constraints/U91touR6_UY.pdf
-  - uid: d1ff6dd40866135ccb0b12a76e006228
-    parent_uid: 3ed8fac813b7a3a05cd3123b995809f9
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8b02a3ad4c5d90b73f75e1b390a1721e
-    parent_uid: 3ed8fac813b7a3a05cd3123b995809f9
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 3ed8fac813b7a3a05cd3123b995809f9
 type: courses
 layout: video
 ---

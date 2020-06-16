@@ -1,13 +1,72 @@
 ---
-title: Sets Operations
-uid: 865a72b1e65e40283367d6ec31e9878c
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 865a72b1e65e40283367d6ec31e9878c
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 05fe8a49e6ec494e9ba0352c03202b37
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 865a72b1e65e40283367d6ec31e9878c
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: cd3a087f731e943ecf30f01c4e1afe09
+  - id: Video-YouTube-Stream
+    media_location: Mhip1rljvRo
+    parent_uid: 865a72b1e65e40283367d6ec31e9878c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 2edfcf71dbc7e438676ca957557d7160
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Mhip1rljvRo/default.jpg'
+    parent_uid: 865a72b1e65e40283367d6ec31e9878c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0e11df9d07a595e30934e14da8bd797d
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: Mhip1rljvRo
+    parent_uid: 865a72b1e65e40283367d6ec31e9878c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3b8dd11801a35bae6035be2298e5fe58
+  - id: Mhip1rljvRo.srt
+    parent_uid: 865a72b1e65e40283367d6ec31e9878c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-2/vertical-822cbc94ed34/sets-operations/Mhip1rljvRo.srt
+    title: 3play caption file
+    type: null
+    uid: 73a8f23f61ce227456294491e19be7fd
+  - id: Mhip1rljvRo.pdf
+    parent_uid: 865a72b1e65e40283367d6ec31e9878c
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-2/vertical-822cbc94ed34/sets-operations/Mhip1rljvRo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 267a33e42883d09d49c3df6babdfb5e1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 865a72b1e65e40283367d6ec31e9878c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ffb293f6ebd21adb439bdb2f49c3e7f8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 865a72b1e65e40283367d6ec31e9878c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ebfbe7ee76ecc44f603ca0d4a66156c9
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_set_ops_ipod.mp4'
+    parent_uid: 865a72b1e65e40283367d6ec31e9878c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 1427a1115987818e4264dd18cdf4227b
+inline_embed_id: 23914982setsoperations15017896
 parent_uid: 9acad4fe0ca1e09e47dd0c5f58460040
+related_resources_text: ''
+short_url: sets-operations
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-2/vertical-822cbc94ed34/sets-operations
-short_url: sets-operations
-inline_embed_id: 23914982setsoperations15017896
-about_this_resource_text: ''
-related_resources_text: ''
+title: Sets Operations
 transcript: >-
   <p><span m='810'>PROFESSOR: Let's</span> <span m='1080'>define</span> <span
   m='1540'>a</span> <span m='1620'>few</span> <span m='2090'>familiar</span>
@@ -677,66 +736,7 @@ transcript: >-
   m='550580'>the</span> <span m='550660'>domain</span> <span
   m='551050'>of</span> <span m='551160'>discourse</span> <span
   m='551760'>D.</span> </p>
-embedded_media:
-  - uid: 05fe8a49e6ec494e9ba0352c03202b37
-    parent_uid: 865a72b1e65e40283367d6ec31e9878c
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: cd3a087f731e943ecf30f01c4e1afe09
-    parent_uid: 865a72b1e65e40283367d6ec31e9878c
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 2edfcf71dbc7e438676ca957557d7160
-    parent_uid: 865a72b1e65e40283367d6ec31e9878c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Mhip1rljvRo
-  - uid: 0e11df9d07a595e30934e14da8bd797d
-    parent_uid: 865a72b1e65e40283367d6ec31e9878c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Mhip1rljvRo/default.jpg'
-  - uid: 3b8dd11801a35bae6035be2298e5fe58
-    parent_uid: 865a72b1e65e40283367d6ec31e9878c
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Mhip1rljvRo
-  - uid: 73a8f23f61ce227456294491e19be7fd
-    parent_uid: 865a72b1e65e40283367d6ec31e9878c
-    id: Mhip1rljvRo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-2/vertical-822cbc94ed34/sets-operations/Mhip1rljvRo.srt
-  - uid: 267a33e42883d09d49c3df6babdfb5e1
-    parent_uid: 865a72b1e65e40283367d6ec31e9878c
-    id: Mhip1rljvRo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/proofs/tp3-2/vertical-822cbc94ed34/sets-operations/Mhip1rljvRo.pdf
-  - uid: ffb293f6ebd21adb439bdb2f49c3e7f8
-    parent_uid: 865a72b1e65e40283367d6ec31e9878c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ebfbe7ee76ecc44f603ca0d4a66156c9
-    parent_uid: 865a72b1e65e40283367d6ec31e9878c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 1427a1115987818e4264dd18cdf4227b
-    parent_uid: 865a72b1e65e40283367d6ec31e9878c
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_set_ops_ipod.mp4'
+uid: 865a72b1e65e40283367d6ec31e9878c
 type: courses
 layout: video
 ---

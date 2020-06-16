@@ -1,13 +1,68 @@
 ---
-title: Domains of Vector Fields
-uid: 8f397995a9981d3c6fbd2c7b74e1cd96
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: YWvBaLokEJY
+    parent_uid: 8f397995a9981d3c6fbd2c7b74e1cd96
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6538a5038e7daa4c8648e0e7862c96e6
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/YWvBaLokEJY/default.jpg'
+    parent_uid: 8f397995a9981d3c6fbd2c7b74e1cd96
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: de61930a444a1eb8c805b32d6174da3b
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/domains-of-vector-fields/id414355340?i=90322862
+    parent_uid: 8f397995a9981d3c6fbd2c7b74e1cd96
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 7323075e90ae0902e86588518c42e2a6
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_50_300k.mp4'
+    parent_uid: 8f397995a9981d3c6fbd2c7b74e1cd96
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: f90725217a55f4d3426355550171e395
+  - id: 3Play-3PlayYouTubeid-PDF
+    media_location: YWvBaLokEJY
+    parent_uid: 8f397995a9981d3c6fbd2c7b74e1cd96
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: c27fc06f4a621754d34ca6c8fb9e3c0d
+  - id: YWvBaLokEJY.srt
+    parent_uid: 8f397995a9981d3c6fbd2c7b74e1cd96
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-72-simply-connected-regions-and-conservative-fields/domains-of-vector-fields/YWvBaLokEJY.srt
+    title: 3play caption file
+    type: null
+    uid: 5574015715c7fffa7f691e82e6518732
+  - id: YWvBaLokEJY.pdf
+    parent_uid: 8f397995a9981d3c6fbd2c7b74e1cd96
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-72-simply-connected-regions-and-conservative-fields/domains-of-vector-fields/YWvBaLokEJY.pdf
+    title: 3play pdf file
+    type: null
+    uid: b092689cac3783e0a8be409fcc2cdb8d
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8f397995a9981d3c6fbd2c7b74e1cd96
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 246f9cf60225a8d3faea9973b07da0bf
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8f397995a9981d3c6fbd2c7b74e1cd96
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d33cb0debc8b0133fb757896e11400ac
+inline_embed_id: 43887181domainsofvectorfields31377940
 parent_uid: 7e63a591cff7d483506d4b94bb0df706
+related_resources_text: ''
+short_url: domains-of-vector-fields
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-72-simply-connected-regions-and-conservative-fields/domains-of-vector-fields
-short_url: domains-of-vector-fields
-inline_embed_id: 43887181domainsofvectorfields31377940
-about_this_resource_text: ''
-related_resources_text: ''
+title: Domains of Vector Fields
 transcript: >-
   <p><span m='7810'>CHRISTINE BREINER: Welcome</span> <span m='8180'>back</span>
   <span m='8470'>to</span> <span m='8560'>recitation.</span> <span
@@ -969,62 +1024,7 @@ transcript: >-
   <span m='817730'>guess</span> <span m='817950'>that's</span> <span
   m='818130'>where</span> <span m='818240'>I'll</span> <span
   m='818350'>stop.</span> </p>
-embedded_media:
-  - uid: 6538a5038e7daa4c8648e0e7862c96e6
-    parent_uid: 8f397995a9981d3c6fbd2c7b74e1cd96
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: YWvBaLokEJY
-  - uid: de61930a444a1eb8c805b32d6174da3b
-    parent_uid: 8f397995a9981d3c6fbd2c7b74e1cd96
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/YWvBaLokEJY/default.jpg'
-  - uid: 7323075e90ae0902e86588518c42e2a6
-    parent_uid: 8f397995a9981d3c6fbd2c7b74e1cd96
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/domains-of-vector-fields/id414355340?i=90322862
-  - uid: f90725217a55f4d3426355550171e395
-    parent_uid: 8f397995a9981d3c6fbd2c7b74e1cd96
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_02SCF10/MIT18_02SCF10Rec_50_300k.mp4'
-  - uid: c27fc06f4a621754d34ca6c8fb9e3c0d
-    parent_uid: 8f397995a9981d3c6fbd2c7b74e1cd96
-    id: 3Play-3PlayYouTubeid-PDF
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: YWvBaLokEJY
-  - uid: 5574015715c7fffa7f691e82e6518732
-    parent_uid: 8f397995a9981d3c6fbd2c7b74e1cd96
-    id: YWvBaLokEJY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-72-simply-connected-regions-and-conservative-fields/domains-of-vector-fields/YWvBaLokEJY.srt
-  - uid: b092689cac3783e0a8be409fcc2cdb8d
-    parent_uid: 8f397995a9981d3c6fbd2c7b74e1cd96
-    id: YWvBaLokEJY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-c-greens-theorem/session-72-simply-connected-regions-and-conservative-fields/domains-of-vector-fields/YWvBaLokEJY.pdf
-  - uid: 246f9cf60225a8d3faea9973b07da0bf
-    parent_uid: 8f397995a9981d3c6fbd2c7b74e1cd96
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d33cb0debc8b0133fb757896e11400ac
-    parent_uid: 8f397995a9981d3c6fbd2c7b74e1cd96
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 8f397995a9981d3c6fbd2c7b74e1cd96
 type: courses
 layout: video
 ---

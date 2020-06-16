@@ -1,18 +1,72 @@
 ---
-title: 'Clip 2: Maximum Area of Two Squares'
-uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
-parent_uid: 588fcaecbbe5091660dfdf0b2efe6908
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-29-optimization-problems/clip-2-maximum-area-of-two-squares
-short_url: clip-2-maximum-area-of-two-squares
-inline_embed_id: '17923262clip2:maximumareaoftwosquares36277344'
 about_this_resource_text: >-
   <p>&raquo; <a href="./resolveuid/43ed0c4b807a389f90c49f7c1af7d891" title="Open
   in a new window." target="_blank">Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 12 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: YN7k_bXXggY
+    parent_uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e9ada2f24dfbf4eb2a85b086dad81e1e
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec12_300k.mp4'
+    parent_uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e5c3d23e61ff120caf58297d2b59c4f1
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: YN7k_bXXggY
+    parent_uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b24e8bdd40853e3aac3a8739af62f3e8
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/YN7k_bXXggY/default.jpg'
+    parent_uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6befebbc26a96e6cfc6d192835836ea3
+  - id: YN7k_bXXggY.srt
+    parent_uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-29-optimization-problems/clip-2-maximum-area-of-two-squares/YN7k_bXXggY.srt
+    title: 3play caption file
+    type: null
+    uid: c9d81ca4bdcf77ffa0e7e2ad661da28b
+  - id: YN7k_bXXggY.pdf
+    parent_uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-29-optimization-problems/clip-2-maximum-area-of-two-squares/YN7k_bXXggY.pdf
+    title: 3play pdf file
+    type: null
+    uid: cf0e6a12d9f28d492c5ae49135f40773
+  - id: Caption-3Play YouTube id-SRT_1
+    parent_uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d68c0d46e7e73190ed3c8d9291cbf6e3
+  - id: Transcript-3Play YouTube id-PDF_1
+    parent_uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ca1d3bbb957e7c9dfd4a222399da3658
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 106a1edd91205462f1749fbb6905ca17
+inline_embed_id: '17923262clip2:maximumareaoftwosquares36277344'
+parent_uid: 588fcaecbbe5091660dfdf0b2efe6908
 related_resources_text: ''
+short_url: clip-2-maximum-area-of-two-squares
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-29-optimization-problems/clip-2-maximum-area-of-two-squares
+title: 'Clip 2: Maximum Area of Two Squares'
 transcript: >-
   <p><span m="0">The</span> <span m="1270">following</span> <span
   m="1420">content</span> <span m="1980">is</span> <span m="2720">provided
@@ -2573,61 +2627,7 @@ transcript: >-
   m="2991270">together</span> <span m="2991730">and</span> <span
   m="2992090">compute</span> <span m="2993000">dx</span> <span
   m="2993150">/</span> <span m="2993760">dt.</span></p>
-embedded_media:
-  - uid: e9ada2f24dfbf4eb2a85b086dad81e1e
-    parent_uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: YN7k_bXXggY
-  - uid: e5c3d23e61ff120caf58297d2b59c4f1
-    parent_uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec12_300k.mp4'
-  - uid: b24e8bdd40853e3aac3a8739af62f3e8
-    parent_uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: YN7k_bXXggY
-  - uid: 6befebbc26a96e6cfc6d192835836ea3
-    parent_uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/YN7k_bXXggY/default.jpg'
-  - uid: c9d81ca4bdcf77ffa0e7e2ad661da28b
-    parent_uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
-    id: YN7k_bXXggY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-29-optimization-problems/clip-2-maximum-area-of-two-squares/YN7k_bXXggY.srt
-  - uid: cf0e6a12d9f28d492c5ae49135f40773
-    parent_uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
-    id: YN7k_bXXggY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-29-optimization-problems/clip-2-maximum-area-of-two-squares/YN7k_bXXggY.pdf
-  - uid: d68c0d46e7e73190ed3c8d9291cbf6e3
-    parent_uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
-    id: Caption-3Play YouTube id-SRT_1
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ca1d3bbb957e7c9dfd4a222399da3658
-    parent_uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
-    id: Transcript-3Play YouTube id-PDF_1
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 106a1edd91205462f1749fbb6905ca17
-    parent_uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 11f92d7dd5cd89ce3b3c8d86adf5bb56
 type: courses
 layout: video
 ---

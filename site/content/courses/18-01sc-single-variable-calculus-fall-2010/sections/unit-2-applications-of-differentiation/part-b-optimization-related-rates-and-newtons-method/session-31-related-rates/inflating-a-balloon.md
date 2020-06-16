@@ -1,13 +1,67 @@
 ---
-title: Inflating a Balloon
-uid: a00a0f1956f1dae1d0ddb327acec1747
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: RiRQDZjYkzo
+    parent_uid: a00a0f1956f1dae1d0ddb327acec1747
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f44b139685f1a3f3b9d61d716a41844c
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/RiRQDZjYkzo/default.jpg'
+    parent_uid: a00a0f1956f1dae1d0ddb327acec1747
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: adaa8697a9ec3d8e016ec8d0ab91f385
+  - id: Video-iTunesU-MP4
+    media_location: 'http://itunes.apple.com/us/podcast/related-rates-1/id414308064?i=90319001'
+    parent_uid: a00a0f1956f1dae1d0ddb327acec1747
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d447bd83636b4463e623500e7b06a909
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_23_300k.mp4'
+    parent_uid: a00a0f1956f1dae1d0ddb327acec1747
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b50a52e93100e0c93339d153c597c1f6
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: RiRQDZjYkzo
+    parent_uid: a00a0f1956f1dae1d0ddb327acec1747
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3402b92a5b8dcb305d105dd5805e26b1
+  - id: RiRQDZjYkzo.srt
+    parent_uid: a00a0f1956f1dae1d0ddb327acec1747
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-31-related-rates/inflating-a-balloon/RiRQDZjYkzo.srt
+    title: 3play caption file
+    type: null
+    uid: 15c75ca005d6a39d162805795ad998fb
+  - id: RiRQDZjYkzo.pdf
+    parent_uid: a00a0f1956f1dae1d0ddb327acec1747
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-31-related-rates/inflating-a-balloon/RiRQDZjYkzo.pdf
+    title: 3play pdf file
+    type: null
+    uid: 40256c8954c0487efc46dd8edab7e0a0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a00a0f1956f1dae1d0ddb327acec1747
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bbbd276c7a4fd752224b0ec5564b7faf
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a00a0f1956f1dae1d0ddb327acec1747
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c47be5797368b9cfdedde5aad4d3ed51
+inline_embed_id: 84830535inflatingaballoon75386107
 parent_uid: 740c26e9a52f298e76ec9fb9679d1f19
+related_resources_text: ''
+short_url: inflating-a-balloon
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-31-related-rates/inflating-a-balloon
-short_url: inflating-a-balloon
-inline_embed_id: 84830535inflatingaballoon75386107
-about_this_resource_text: ''
-related_resources_text: ''
+title: Inflating a Balloon
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='7050'>Hi</span> <span
   m='7220'>everybody.</span> <span m='7740'>Welcome</span> <span
@@ -503,61 +557,7 @@ transcript: >-
   <span m='469470'>to</span> <span m='469550'>do.</span> </p><p><span
   m='470140'>So</span> <span m='470290'>we're</span> <span m='470450'>all</span>
   <span m='470610'>set.</span> </p>
-embedded_media:
-  - uid: f44b139685f1a3f3b9d61d716a41844c
-    parent_uid: a00a0f1956f1dae1d0ddb327acec1747
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: RiRQDZjYkzo
-  - uid: adaa8697a9ec3d8e016ec8d0ab91f385
-    parent_uid: a00a0f1956f1dae1d0ddb327acec1747
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/RiRQDZjYkzo/default.jpg'
-  - uid: d447bd83636b4463e623500e7b06a909
-    parent_uid: a00a0f1956f1dae1d0ddb327acec1747
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'http://itunes.apple.com/us/podcast/related-rates-1/id414308064?i=90319001'
-  - uid: b50a52e93100e0c93339d153c597c1f6
-    parent_uid: a00a0f1956f1dae1d0ddb327acec1747
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_23_300k.mp4'
-  - uid: 3402b92a5b8dcb305d105dd5805e26b1
-    parent_uid: a00a0f1956f1dae1d0ddb327acec1747
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: RiRQDZjYkzo
-  - uid: 15c75ca005d6a39d162805795ad998fb
-    parent_uid: a00a0f1956f1dae1d0ddb327acec1747
-    id: RiRQDZjYkzo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-31-related-rates/inflating-a-balloon/RiRQDZjYkzo.srt
-  - uid: 40256c8954c0487efc46dd8edab7e0a0
-    parent_uid: a00a0f1956f1dae1d0ddb327acec1747
-    id: RiRQDZjYkzo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-2-applications-of-differentiation/part-b-optimization-related-rates-and-newtons-method/session-31-related-rates/inflating-a-balloon/RiRQDZjYkzo.pdf
-  - uid: bbbd276c7a4fd752224b0ec5564b7faf
-    parent_uid: a00a0f1956f1dae1d0ddb327acec1747
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c47be5797368b9cfdedde5aad4d3ed51
-    parent_uid: a00a0f1956f1dae1d0ddb327acec1747
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a00a0f1956f1dae1d0ddb327acec1747
 type: courses
 layout: video
 ---

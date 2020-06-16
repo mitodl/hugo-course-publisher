@@ -1,13 +1,72 @@
 ---
-title: GCDs &amp; Linear Combinations
-uid: 72daff24ba2abe106acfe5407a1da49f
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 72daff24ba2abe106acfe5407a1da49f
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 88b2a348fbcfd8c366bf77cc159e1aa7
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 72daff24ba2abe106acfe5407a1da49f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 766f77921328109e29402e26fac1ce96
+  - id: Video-YouTube-Stream
+    media_location: et3FOZdI6pk
+    parent_uid: 72daff24ba2abe106acfe5407a1da49f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 242ff2149d924055cea7c5dae6ba36a7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/et3FOZdI6pk/default.jpg'
+    parent_uid: 72daff24ba2abe106acfe5407a1da49f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: dc0a97cb0cf3f9ceede51c0b5136a407
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: et3FOZdI6pk
+    parent_uid: 72daff24ba2abe106acfe5407a1da49f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7323fae2451a87e3668688c34c57ab7a
+  - id: et3FOZdI6pk.srt
+    parent_uid: 72daff24ba2abe106acfe5407a1da49f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/gcds-linear-combinations/et3FOZdI6pk.srt
+    title: 3play caption file
+    type: null
+    uid: 35ecfca3313d1adf007422c39940af8e
+  - id: et3FOZdI6pk.pdf
+    parent_uid: 72daff24ba2abe106acfe5407a1da49f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/gcds-linear-combinations/et3FOZdI6pk.pdf
+    title: 3play pdf file
+    type: null
+    uid: a3100dde518ec00bbd92e029b8ee001b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 72daff24ba2abe106acfe5407a1da49f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2d2c88fc31af623d24ee9acfc67898fc
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 72daff24ba2abe106acfe5407a1da49f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 151bd61804d80c270c791471c85b16b3
+  - id: Video-Internet Archive-MP4
+    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_gcd_def_ipod.mp4'
+    parent_uid: 72daff24ba2abe106acfe5407a1da49f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8c34ba568a03a062d71622bddfcb0ac8
+inline_embed_id: 20869853gcdsamplinearcombinations23049868
 parent_uid: 405693053755e5d6fb1b1e2592fa311e
+related_resources_text: ''
+short_url: gcds-linear-combinations
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/gcds-linear-combinations
-short_url: gcds-linear-combinations
-inline_embed_id: 20869853gcdsamplinearcombinations23049868
-about_this_resource_text: ''
-related_resources_text: ''
+title: GCDs &amp; Linear Combinations
 transcript: >-
   <p><span m='480'>So</span> <span m='620'>now</span> <span m='810'>we</span>
   <span m='920'>begin</span> <span m='1320'>on</span> <span m='1880'>four</span>
@@ -612,66 +671,7 @@ transcript: >-
   m='576980'>and</span> <span m='577190'>otherwise</span> <span
   m='578170'>the</span> <span m='578320'>GCD</span> <span m='579240'>is</span>
   <span m='579540'>1.</span> </p>
-embedded_media:
-  - uid: 88b2a348fbcfd8c366bf77cc159e1aa7
-    parent_uid: 72daff24ba2abe106acfe5407a1da49f
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 766f77921328109e29402e26fac1ce96
-    parent_uid: 72daff24ba2abe106acfe5407a1da49f
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 242ff2149d924055cea7c5dae6ba36a7
-    parent_uid: 72daff24ba2abe106acfe5407a1da49f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: et3FOZdI6pk
-  - uid: dc0a97cb0cf3f9ceede51c0b5136a407
-    parent_uid: 72daff24ba2abe106acfe5407a1da49f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/et3FOZdI6pk/default.jpg'
-  - uid: 7323fae2451a87e3668688c34c57ab7a
-    parent_uid: 72daff24ba2abe106acfe5407a1da49f
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: et3FOZdI6pk
-  - uid: 35ecfca3313d1adf007422c39940af8e
-    parent_uid: 72daff24ba2abe106acfe5407a1da49f
-    id: et3FOZdI6pk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/gcds-linear-combinations/et3FOZdI6pk.srt
-  - uid: a3100dde518ec00bbd92e029b8ee001b
-    parent_uid: 72daff24ba2abe106acfe5407a1da49f
-    id: et3FOZdI6pk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/tp5-1/gcds-linear-combinations/et3FOZdI6pk.pdf
-  - uid: 2d2c88fc31af623d24ee9acfc67898fc
-    parent_uid: 72daff24ba2abe106acfe5407a1da49f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 151bd61804d80c270c791471c85b16b3
-    parent_uid: 72daff24ba2abe106acfe5407a1da49f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8c34ba568a03a062d71622bddfcb0ac8
-    parent_uid: 72daff24ba2abe106acfe5407a1da49f
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.042JS15/MIT6_042JS15_gcd_def_ipod.mp4'
+uid: 72daff24ba2abe106acfe5407a1da49f
 type: courses
 layout: video
 ---

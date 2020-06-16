@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 25: U.S. Social Insurance Programs'
-uid: 3ba40d60bae9848dee8575f96bbbd0de
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: RFTa52F8YZ0
+    parent_uid: 3ba40d60bae9848dee8575f96bbbd0de
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 335dbbde95e2014fab2bd54fdd6b0802
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/RFTa52F8YZ0/default.jpg'
+    parent_uid: 3ba40d60bae9848dee8575f96bbbd0de
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c191984c7daf95428f9867634feb47ed
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: RFTa52F8YZ0
+    parent_uid: 3ba40d60bae9848dee8575f96bbbd0de
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 6c3c2c881f8f7ae45644c3b6780469bf
+  - id: RFTa52F8YZ0.srt
+    parent_uid: 3ba40d60bae9848dee8575f96bbbd0de
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/u.s.-social-insurance-programs/lecture-25-u.s.-social-insurance-programs/RFTa52F8YZ0.srt
+    title: 3play caption file
+    type: null
+    uid: ce6c0a6ef7311ada466e332154ed36fe
+  - id: RFTa52F8YZ0.pdf
+    parent_uid: 3ba40d60bae9848dee8575f96bbbd0de
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/u.s.-social-insurance-programs/lecture-25-u.s.-social-insurance-programs/RFTa52F8YZ0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 91a621da763ded5beb7e5b9bb71e293f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 3ba40d60bae9848dee8575f96bbbd0de
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 3d22e84e7f72ff977252849aaeea40d5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 3ba40d60bae9848dee8575f96bbbd0de
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9767478bba131242430308235bc3f8ec
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec25_300k.mp4'
+    parent_uid: 3ba40d60bae9848dee8575f96bbbd0de
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 6bf4b113589eb48f85b7eea06ee57de1
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-25-u.s.-social-insurance/id496265654?i=110157699
+    parent_uid: 3ba40d60bae9848dee8575f96bbbd0de
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: dc0df0e11a748f754477778d80972e9e
+inline_embed_id: 53908936lecture25u.s.socialinsuranceprograms18063257
 parent_uid: 7846c5e31518552402f119e7b530b4bd
+related_resources_text: ''
+short_url: lecture-25-u.s.-social-insurance-programs
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/u.s.-social-insurance-programs/lecture-25-u.s.-social-insurance-programs
-short_url: lecture-25-u.s.-social-insurance-programs
-inline_embed_id: 53908936lecture25u.s.socialinsuranceprograms18063257
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 25: U.S. Social Insurance Programs'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -4170,62 +4225,7 @@ transcript: >-
   m='2981420'>we'll</span> <span m='2981860'>do</span> <span
   m='2983090'>a</span> <span m='2983220'>final</span> <span
   m='2983520'>session.</span> </p>
-embedded_media:
-  - uid: 335dbbde95e2014fab2bd54fdd6b0802
-    parent_uid: 3ba40d60bae9848dee8575f96bbbd0de
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: RFTa52F8YZ0
-  - uid: c191984c7daf95428f9867634feb47ed
-    parent_uid: 3ba40d60bae9848dee8575f96bbbd0de
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/RFTa52F8YZ0/default.jpg'
-  - uid: 6c3c2c881f8f7ae45644c3b6780469bf
-    parent_uid: 3ba40d60bae9848dee8575f96bbbd0de
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: RFTa52F8YZ0
-  - uid: ce6c0a6ef7311ada466e332154ed36fe
-    parent_uid: 3ba40d60bae9848dee8575f96bbbd0de
-    id: RFTa52F8YZ0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/u.s.-social-insurance-programs/lecture-25-u.s.-social-insurance-programs/RFTa52F8YZ0.srt
-  - uid: 91a621da763ded5beb7e5b9bb71e293f
-    parent_uid: 3ba40d60bae9848dee8575f96bbbd0de
-    id: RFTa52F8YZ0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-7-equity-and-efficiency/u.s.-social-insurance-programs/lecture-25-u.s.-social-insurance-programs/RFTa52F8YZ0.pdf
-  - uid: 3d22e84e7f72ff977252849aaeea40d5
-    parent_uid: 3ba40d60bae9848dee8575f96bbbd0de
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9767478bba131242430308235bc3f8ec
-    parent_uid: 3ba40d60bae9848dee8575f96bbbd0de
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 6bf4b113589eb48f85b7eea06ee57de1
-    parent_uid: 3ba40d60bae9848dee8575f96bbbd0de
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec25_300k.mp4'
-  - uid: dc0df0e11a748f754477778d80972e9e
-    parent_uid: 3ba40d60bae9848dee8575f96bbbd0de
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-25-u.s.-social-insurance/id496265654?i=110157699
+uid: 3ba40d60bae9848dee8575f96bbbd0de
 type: courses
 layout: video
 ---

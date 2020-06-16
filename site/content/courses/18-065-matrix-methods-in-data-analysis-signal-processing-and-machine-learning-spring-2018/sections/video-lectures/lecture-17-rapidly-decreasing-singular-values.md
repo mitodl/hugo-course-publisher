@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 17: Rapidly Decreasing Singular Values'
-uid: 2e886024ae523bdce29d1126eac0b14d
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-17-rapidly-decreasing-singular-values
-short_url: lecture-17-rapidly-decreasing-singular-values
-inline_embed_id: 45829030lecture17rapidlydecreasingsingularvalues15579828
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>Professor Alex Townsend gives this
   guest lecture answering the question &ldquo;Why are there so many low rank
@@ -17,7 +10,62 @@ about_this_resource_text: >-
   numbers.<br /> Flags give many examples / diagonal lines give high rank.</p>
   <p>Related section in textbook: III.3</p> <p><strong>Instructor:</strong>
   Prof. Alex Townsend</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 9BYsNpTCZGg
+    parent_uid: 2e886024ae523bdce29d1126eac0b14d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: cd2948433ad817d66ffd95a47977584e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/9BYsNpTCZGg/default.jpg'
+    parent_uid: 2e886024ae523bdce29d1126eac0b14d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: a802065f78c37d682036dc32aca9055b
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 9BYsNpTCZGg
+    parent_uid: 2e886024ae523bdce29d1126eac0b14d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 58eed1c6ea38701d20b1d24e93e8df3a
+  - id: 9BYsNpTCZGg.srt
+    parent_uid: 2e886024ae523bdce29d1126eac0b14d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-17-rapidly-decreasing-singular-values/9BYsNpTCZGg.srt
+    title: 3play caption file
+    type: null
+    uid: b70b4d81660d707bb57ce3edfcfbf794
+  - id: 9BYsNpTCZGg.pdf
+    parent_uid: 2e886024ae523bdce29d1126eac0b14d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-17-rapidly-decreasing-singular-values/9BYsNpTCZGg.pdf
+    title: 3play pdf file
+    type: null
+    uid: 2e06fb9f2c8b5cd7ea48a6cf2994db13
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 2e886024ae523bdce29d1126eac0b14d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 71c9e716e54a21ffd6ecf2e7a46e15ee
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 2e886024ae523bdce29d1126eac0b14d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 2a136a68e79a4574e88e8305c0b0ef3f
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture17_300k.mp4'
+    parent_uid: 2e886024ae523bdce29d1126eac0b14d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4ae4dd8f6b2083de133bc71c3289a2f3
+inline_embed_id: 45829030lecture17rapidlydecreasingsingularvalues15579828
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-17-rapidly-decreasing-singular-values
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-17-rapidly-decreasing-singular-values
+title: 'Lecture 17: Rapidly Decreasing Singular Values'
 transcript: >-
   <p><span m="22290">GILBERT STRANG:</span> <span m="22520">So</span> <span
   m="22590">let</span> <span m="22660">me</span> <span m="24250">use</span>
@@ -2729,55 +2777,7 @@ transcript: >-
   m="3022690">ALEX TOWNSEND:</span> <span m="3022790">OK,</span> <span
   m="3022890">thanks.</span></p><p><span
   m="3024190">[APPLAUSE]</span></p><p>&nbsp;</p>
-embedded_media:
-  - uid: cd2948433ad817d66ffd95a47977584e
-    parent_uid: 2e886024ae523bdce29d1126eac0b14d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 9BYsNpTCZGg
-  - uid: a802065f78c37d682036dc32aca9055b
-    parent_uid: 2e886024ae523bdce29d1126eac0b14d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/9BYsNpTCZGg/default.jpg'
-  - uid: 58eed1c6ea38701d20b1d24e93e8df3a
-    parent_uid: 2e886024ae523bdce29d1126eac0b14d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 9BYsNpTCZGg
-  - uid: b70b4d81660d707bb57ce3edfcfbf794
-    parent_uid: 2e886024ae523bdce29d1126eac0b14d
-    id: 9BYsNpTCZGg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-17-rapidly-decreasing-singular-values/9BYsNpTCZGg.srt
-  - uid: 2e06fb9f2c8b5cd7ea48a6cf2994db13
-    parent_uid: 2e886024ae523bdce29d1126eac0b14d
-    id: 9BYsNpTCZGg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-17-rapidly-decreasing-singular-values/9BYsNpTCZGg.pdf
-  - uid: 71c9e716e54a21ffd6ecf2e7a46e15ee
-    parent_uid: 2e886024ae523bdce29d1126eac0b14d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 2a136a68e79a4574e88e8305c0b0ef3f
-    parent_uid: 2e886024ae523bdce29d1126eac0b14d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4ae4dd8f6b2083de133bc71c3289a2f3
-    parent_uid: 2e886024ae523bdce29d1126eac0b14d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture17_300k.mp4'
+uid: 2e886024ae523bdce29d1126eac0b14d
 type: courses
 layout: video
 ---

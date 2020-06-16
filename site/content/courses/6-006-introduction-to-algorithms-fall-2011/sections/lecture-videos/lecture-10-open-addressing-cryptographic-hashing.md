@@ -1,17 +1,72 @@
 ---
-title: 'Lecture 10: Open Addressing, Cryptographic Hashing'
-uid: bd150a3fc0039e971b46e7cb296105cc
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-10-open-addressing-cryptographic-hashing
-short_url: lecture-10-open-addressing-cryptographic-hashing
-inline_embed_id: '27509256lecture10:openaddressing,cryptographichashing36027134'
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture covers open addressing, which is
   another approach to dealing with collisions (hashing with chaining was covered
   in Lecture 8). Cryptographic hashing is also introduced.</p>
   <p><strong>Instructor:</strong> Srini Devadas</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: rvdJDijO2Ro
+    parent_uid: bd150a3fc0039e971b46e7cb296105cc
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 374e67a64bdda14238f340940b041a44
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/rvdJDijO2Ro/default.jpg'
+    parent_uid: bd150a3fc0039e971b46e7cb296105cc
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d1e0af5c1d92418b7df330e07fcc026c
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-10-open-addressing/id585700718?i=126127764
+    parent_uid: bd150a3fc0039e971b46e7cb296105cc
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 61d44dac29a6b849beed884862acda92
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec10_300k.mp4'
+    parent_uid: bd150a3fc0039e971b46e7cb296105cc
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: e379bfd72fbd42e6c7add9580ca09ec9
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: rvdJDijO2Ro
+    parent_uid: bd150a3fc0039e971b46e7cb296105cc
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 9ff304c5986e3f0cb630460307e1bccf
+  - id: rvdJDijO2Ro.srt
+    parent_uid: bd150a3fc0039e971b46e7cb296105cc
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-10-open-addressing-cryptographic-hashing/rvdJDijO2Ro.srt
+    title: 3play caption file
+    type: null
+    uid: 59b7b01516eafb5521056e057055ade4
+  - id: rvdJDijO2Ro.pdf
+    parent_uid: bd150a3fc0039e971b46e7cb296105cc
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-10-open-addressing-cryptographic-hashing/rvdJDijO2Ro.pdf
+    title: 3play pdf file
+    type: null
+    uid: 0224c2fd2a7dc217eda6c172b1d16e01
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bd150a3fc0039e971b46e7cb296105cc
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 9b5a507b8e689a2b1cff922952e2a16f
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bd150a3fc0039e971b46e7cb296105cc
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 94110602bbab893a2dcb87a36efb7f05
+inline_embed_id: '27509256lecture10:openaddressing,cryptographichashing36027134'
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-10-open-addressing-cryptographic-hashing
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-10-open-addressing-cryptographic-hashing
+title: 'Lecture 10: Open Addressing, Cryptographic Hashing'
 transcript: >-
   <p><span m='50'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -2963,62 +3018,7 @@ transcript: >-
   m='3052420'>stick</span> <span m='3052620'>around</span> <span
   m='3052910'>and</span> <span m='3052980'>answer</span> <span
   m='3053220'>questions.</span> </p>
-embedded_media:
-  - uid: 374e67a64bdda14238f340940b041a44
-    parent_uid: bd150a3fc0039e971b46e7cb296105cc
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: rvdJDijO2Ro
-  - uid: d1e0af5c1d92418b7df330e07fcc026c
-    parent_uid: bd150a3fc0039e971b46e7cb296105cc
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/rvdJDijO2Ro/default.jpg'
-  - uid: 61d44dac29a6b849beed884862acda92
-    parent_uid: bd150a3fc0039e971b46e7cb296105cc
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-10-open-addressing/id585700718?i=126127764
-  - uid: e379bfd72fbd42e6c7add9580ca09ec9
-    parent_uid: bd150a3fc0039e971b46e7cb296105cc
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec10_300k.mp4'
-  - uid: 9ff304c5986e3f0cb630460307e1bccf
-    parent_uid: bd150a3fc0039e971b46e7cb296105cc
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: rvdJDijO2Ro
-  - uid: 59b7b01516eafb5521056e057055ade4
-    parent_uid: bd150a3fc0039e971b46e7cb296105cc
-    id: rvdJDijO2Ro.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-10-open-addressing-cryptographic-hashing/rvdJDijO2Ro.srt
-  - uid: 0224c2fd2a7dc217eda6c172b1d16e01
-    parent_uid: bd150a3fc0039e971b46e7cb296105cc
-    id: rvdJDijO2Ro.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-10-open-addressing-cryptographic-hashing/rvdJDijO2Ro.pdf
-  - uid: 9b5a507b8e689a2b1cff922952e2a16f
-    parent_uid: bd150a3fc0039e971b46e7cb296105cc
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 94110602bbab893a2dcb87a36efb7f05
-    parent_uid: bd150a3fc0039e971b46e7cb296105cc
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: bd150a3fc0039e971b46e7cb296105cc
 type: courses
 layout: video
 ---

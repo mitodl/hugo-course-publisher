@@ -1,18 +1,90 @@
 ---
-title: 'Lecture 5: Implicit Differentiation'
-uid: 301384af45ebf261ef9f6e999baa318e
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-5-implicit-differentiation
-short_url: lecture-5-implicit-differentiation
-inline_embed_id: '36054473lecture5:implicitdifferentiation86912428'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong>: Implicit
   differentiation, inverses</p> <p><strong>Instructor:</strong> Prof. David
   Jerison</p></div>
+embedded_media:
+  - id: lec05.jpg
+    parent_uid: 301384af45ebf261ef9f6e999baa318e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-5-implicit-differentiation/lec05.jpg
+    title: Lecture 5
+    type: null
+    uid: e99d6b1fdc37516484b36c2b6a466d89
+  - id: Video-YouTube-Stream
+    media_location: 5q_3FDOkVRQ
+    parent_uid: 301384af45ebf261ef9f6e999baa318e
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a2c6ab9102c50583676d08ffd0ac689b
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/5q_3FDOkVRQ/default.jpg'
+    parent_uid: 301384af45ebf261ef9f6e999baa318e
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0c98f5aeee46b186542e3dc71608bb1d
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec05_300k.mp4'
+    parent_uid: 301384af45ebf261ef9f6e999baa318e
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0feeecbb8e3d90b0b4d9dc4ebbf69083
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: 301384af45ebf261ef9f6e999baa318e
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 665ea3a75770fa8f490f24f710639920
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: 301384af45ebf261ef9f6e999baa318e
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 51f5e86c694c74eb3bcf0ac16b1f1908
+  - id: Thumbnail-OCW-JPG
+    parent_uid: 301384af45ebf261ef9f6e999baa318e
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: 3084f4c23df8f535baa41cc23ccf1bcf
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 5q_3FDOkVRQ
+    parent_uid: 301384af45ebf261ef9f6e999baa318e
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 3f8caca11a97a8a26381b3e049941e20
+  - id: 5q_3FDOkVRQ.srt
+    parent_uid: 301384af45ebf261ef9f6e999baa318e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-5-implicit-differentiation/5q_3FDOkVRQ.srt
+    title: 3play caption file
+    type: null
+    uid: d7298dcf084b7ce34512634c865e674c
+  - id: 5q_3FDOkVRQ.pdf
+    parent_uid: 301384af45ebf261ef9f6e999baa318e
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-5-implicit-differentiation/5q_3FDOkVRQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5e8a06de0955666d2dea5b6a3fbaa083
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 301384af45ebf261ef9f6e999baa318e
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 5ebc562553d1d8346c57d5ce14c6fc27
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 301384af45ebf261ef9f6e999baa318e
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 78373a0139c746d5183c87d6c82c61f0
+inline_embed_id: '36054473lecture5:implicitdifferentiation86912428'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/18d6a86a30a4bc046c5f7034d47587f1">PDF</a>)</p></div>
+short_url: lecture-5-implicit-differentiation
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-5-implicit-differentiation
+title: 'Lecture 5: Implicit Differentiation'
 transcript: >-
   <p><span m='110'>The</span> <span m='360'>following</span> <span
   m='520'>content</span> <span m='1130'>was created</span> <span
@@ -2479,79 +2551,7 @@ transcript: >-
   <span m='2934230'>discussed in your text.</span> </p><p><span
   m='2936030'>So</span> <span m='2936250'>we'll</span> <span m='2936520'>stop
   here.</span> </p>
-embedded_media:
-  - uid: e99d6b1fdc37516484b36c2b6a466d89
-    parent_uid: 301384af45ebf261ef9f6e999baa318e
-    id: lec05.jpg
-    title: Lecture 5
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-5-implicit-differentiation/lec05.jpg
-  - uid: a2c6ab9102c50583676d08ffd0ac689b
-    parent_uid: 301384af45ebf261ef9f6e999baa318e
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 5q_3FDOkVRQ
-  - uid: 0c98f5aeee46b186542e3dc71608bb1d
-    parent_uid: 301384af45ebf261ef9f6e999baa318e
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/5q_3FDOkVRQ/default.jpg'
-  - uid: 0feeecbb8e3d90b0b4d9dc4ebbf69083
-    parent_uid: 301384af45ebf261ef9f6e999baa318e
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec05_300k.mp4'
-  - uid: 665ea3a75770fa8f490f24f710639920
-    parent_uid: 301384af45ebf261ef9f6e999baa318e
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: 51f5e86c694c74eb3bcf0ac16b1f1908
-    parent_uid: 301384af45ebf261ef9f6e999baa318e
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: 3084f4c23df8f535baa41cc23ccf1bcf
-    parent_uid: 301384af45ebf261ef9f6e999baa318e
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: 3f8caca11a97a8a26381b3e049941e20
-    parent_uid: 301384af45ebf261ef9f6e999baa318e
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 5q_3FDOkVRQ
-  - uid: d7298dcf084b7ce34512634c865e674c
-    parent_uid: 301384af45ebf261ef9f6e999baa318e
-    id: 5q_3FDOkVRQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-5-implicit-differentiation/5q_3FDOkVRQ.srt
-  - uid: 5e8a06de0955666d2dea5b6a3fbaa083
-    parent_uid: 301384af45ebf261ef9f6e999baa318e
-    id: 5q_3FDOkVRQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-5-implicit-differentiation/5q_3FDOkVRQ.pdf
-  - uid: 5ebc562553d1d8346c57d5ce14c6fc27
-    parent_uid: 301384af45ebf261ef9f6e999baa318e
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 78373a0139c746d5183c87d6c82c61f0
-    parent_uid: 301384af45ebf261ef9f6e999baa318e
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 301384af45ebf261ef9f6e999baa318e
 type: courses
 layout: video
 ---

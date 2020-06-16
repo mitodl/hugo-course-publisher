@@ -1,18 +1,72 @@
 ---
-title: 'Clip 1: Higher Derivatives'
-uid: 8f7a7e134c23b73a789ebe7d1184d863
-parent_uid: f0a4bb746fd734de38118b0ff7607e0b
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-12-higher-derivatives/clip-1-higher-derivatives
-short_url: clip-1-higher-derivatives
-inline_embed_id: '13497078clip1:higherderivatives77440216'
 about_this_resource_text: >-
   <p>&raquo;<a href="./resolveuid/bb1039861d7b28d75e6acbedf497639c"
   target="_blank"> Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 4 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 4sTKcvYMNxk
+    parent_uid: 8f7a7e134c23b73a789ebe7d1184d863
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 13506e41fc14c26e9cfb1c4151f12403
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4sTKcvYMNxk/default.jpg'
+    parent_uid: 8f7a7e134c23b73a789ebe7d1184d863
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b449447e63ff263b246111a1b8f319d7
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec04_300k.mp4'
+    parent_uid: 8f7a7e134c23b73a789ebe7d1184d863
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 0ef99bb35091f0db45faadd315e4ac7d
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 4sTKcvYMNxk
+    parent_uid: 8f7a7e134c23b73a789ebe7d1184d863
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 95520180d74486f13defa1927d06bae4
+  - id: 4sTKcvYMNxk.srt
+    parent_uid: 8f7a7e134c23b73a789ebe7d1184d863
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-12-higher-derivatives/clip-1-higher-derivatives/4sTKcvYMNxk.srt
+    title: 3play caption file
+    type: null
+    uid: 82be8a1134e2f2b5592f812990e93b6c
+  - id: 4sTKcvYMNxk.pdf
+    parent_uid: 8f7a7e134c23b73a789ebe7d1184d863
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-12-higher-derivatives/clip-1-higher-derivatives/4sTKcvYMNxk.pdf
+    title: 3play pdf file
+    type: null
+    uid: cc56f6d000bee7cffc2b8dbcb7711cc9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8f7a7e134c23b73a789ebe7d1184d863
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: dd1d1b7eadecda6c0dd0e3c2317f7fd7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8f7a7e134c23b73a789ebe7d1184d863
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: cdfdc102bc8b18550f198fa672edc9cc
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: 8f7a7e134c23b73a789ebe7d1184d863
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ed3c51a225ab84325bae3a46c3dbeae6
+inline_embed_id: '13497078clip1:higherderivatives77440216'
+parent_uid: f0a4bb746fd734de38118b0ff7607e0b
 related_resources_text: ''
+short_url: clip-1-higher-derivatives
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-12-higher-derivatives/clip-1-higher-derivatives
+title: 'Clip 1: Higher Derivatives'
 transcript: >-
   <p><span m="110">The</span> <span m="350">following</span> <span
   m="520">content</span> <span m="1260">is</span> <span m="1400">provided</span>
@@ -2120,61 +2174,7 @@ transcript: >-
   m="2755280">constant.</span> <span m="2756620">So</span> <span
   m="2756860">it's 0.</span></p><p><span m="2758180">Okay.</span> <span
   m="2758440">Thank</span> <span m="2758730">you.</span></p>
-embedded_media:
-  - uid: 13506e41fc14c26e9cfb1c4151f12403
-    parent_uid: 8f7a7e134c23b73a789ebe7d1184d863
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4sTKcvYMNxk
-  - uid: b449447e63ff263b246111a1b8f319d7
-    parent_uid: 8f7a7e134c23b73a789ebe7d1184d863
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4sTKcvYMNxk/default.jpg'
-  - uid: 0ef99bb35091f0db45faadd315e4ac7d
-    parent_uid: 8f7a7e134c23b73a789ebe7d1184d863
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec04_300k.mp4'
-  - uid: 95520180d74486f13defa1927d06bae4
-    parent_uid: 8f7a7e134c23b73a789ebe7d1184d863
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4sTKcvYMNxk
-  - uid: 82be8a1134e2f2b5592f812990e93b6c
-    parent_uid: 8f7a7e134c23b73a789ebe7d1184d863
-    id: 4sTKcvYMNxk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-12-higher-derivatives/clip-1-higher-derivatives/4sTKcvYMNxk.srt
-  - uid: cc56f6d000bee7cffc2b8dbcb7711cc9
-    parent_uid: 8f7a7e134c23b73a789ebe7d1184d863
-    id: 4sTKcvYMNxk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-12-higher-derivatives/clip-1-higher-derivatives/4sTKcvYMNxk.pdf
-  - uid: dd1d1b7eadecda6c0dd0e3c2317f7fd7
-    parent_uid: 8f7a7e134c23b73a789ebe7d1184d863
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: cdfdc102bc8b18550f198fa672edc9cc
-    parent_uid: 8f7a7e134c23b73a789ebe7d1184d863
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ed3c51a225ab84325bae3a46c3dbeae6
-    parent_uid: 8f7a7e134c23b73a789ebe7d1184d863
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: 8f7a7e134c23b73a789ebe7d1184d863
 type: courses
 layout: video
 ---

@@ -1,13 +1,67 @@
 ---
-title: 'Lecture 24: Markov Matrices; Fourier Series'
-uid: 97c85923c9722f905179d71ed2766c37
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: lGGDIGizcQ0
+    parent_uid: 97c85923c9722f905179d71ed2766c37
+    title: Video-YouTube-Stream
+    type: Video
+    uid: f419c70fb390f92c36305f80e99c59b3
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: 97c85923c9722f905179d71ed2766c37
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: a49fbbf913893e8044761a392a168cca
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/24.mp4'
+    parent_uid: 97c85923c9722f905179d71ed2766c37
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 70da28ca8cfd85fc43171bb2d0f3d843
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: lGGDIGizcQ0
+    parent_uid: 97c85923c9722f905179d71ed2766c37
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 30fb228afc1ed6b80c76677f53724925
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/lGGDIGizcQ0/default.jpg'
+    parent_uid: 97c85923c9722f905179d71ed2766c37
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 7f6495f82c47c054a577269c695316d0
+  - id: lGGDIGizcQ0.srt
+    parent_uid: 97c85923c9722f905179d71ed2766c37
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/markov-matrices-fourier-series/lecture-24-markov-matrices-fourier-series/lGGDIGizcQ0.srt
+    title: 3play caption file
+    type: null
+    uid: 18ca88ace98660151ba8f11c0f333820
+  - id: lGGDIGizcQ0.pdf
+    parent_uid: 97c85923c9722f905179d71ed2766c37
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/markov-matrices-fourier-series/lecture-24-markov-matrices-fourier-series/lGGDIGizcQ0.pdf
+    title: 3play pdf file
+    type: null
+    uid: 356a14ba7120b532a1f9419c704614a1
+  - id: Caption-3Play YouTube id-SRT_1
+    parent_uid: 97c85923c9722f905179d71ed2766c37
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d3ff99d6cc4fdbda7d461564ad629a1d
+  - id: Transcript-3Play YouTube id-PDF_1
+    parent_uid: 97c85923c9722f905179d71ed2766c37
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 1d4036378542b206b0bf834ddede707e
+inline_embed_id: '92565626lecture24:markovmatrices;fourierseries18135534'
 parent_uid: 944c197c016a0c538f0108eac297793a
+related_resources_text: ''
+short_url: lecture-24-markov-matrices-fourier-series
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/markov-matrices-fourier-series/lecture-24-markov-matrices-fourier-series
-short_url: lecture-24-markov-matrices-fourier-series
-inline_embed_id: '92565626lecture24:markovmatrices;fourierseries18135534'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 24: Markov Matrices; Fourier Series'
 transcript: >-
   <p><span m='0'>--</span> <span m='7950'>two,</span> <span m='8580'>one</span>
   <span m='9610'>and</span> <span m='10190'>--</span> <span
@@ -3086,61 +3140,7 @@ transcript: >-
   m='3059200'>Okay,</span> <span m='3059520'>see</span> <span
   m='3059740'>you</span> <span m='3059840'>Monday.</span> </p><p><span
   m='3060590'>Thanks.</span> </p>
-embedded_media:
-  - uid: f419c70fb390f92c36305f80e99c59b3
-    parent_uid: 97c85923c9722f905179d71ed2766c37
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: lGGDIGizcQ0
-  - uid: a49fbbf913893e8044761a392a168cca
-    parent_uid: 97c85923c9722f905179d71ed2766c37
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: 70da28ca8cfd85fc43171bb2d0f3d843
-    parent_uid: 97c85923c9722f905179d71ed2766c37
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/24.mp4'
-  - uid: 30fb228afc1ed6b80c76677f53724925
-    parent_uid: 97c85923c9722f905179d71ed2766c37
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: lGGDIGizcQ0
-  - uid: 7f6495f82c47c054a577269c695316d0
-    parent_uid: 97c85923c9722f905179d71ed2766c37
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/lGGDIGizcQ0/default.jpg'
-  - uid: 18ca88ace98660151ba8f11c0f333820
-    parent_uid: 97c85923c9722f905179d71ed2766c37
-    id: lGGDIGizcQ0.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/markov-matrices-fourier-series/lecture-24-markov-matrices-fourier-series/lGGDIGizcQ0.srt
-  - uid: 356a14ba7120b532a1f9419c704614a1
-    parent_uid: 97c85923c9722f905179d71ed2766c37
-    id: lGGDIGizcQ0.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/markov-matrices-fourier-series/lecture-24-markov-matrices-fourier-series/lGGDIGizcQ0.pdf
-  - uid: d3ff99d6cc4fdbda7d461564ad629a1d
-    parent_uid: 97c85923c9722f905179d71ed2766c37
-    id: Caption-3Play YouTube id-SRT_1
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 1d4036378542b206b0bf834ddede707e
-    parent_uid: 97c85923c9722f905179d71ed2766c37
-    id: Transcript-3Play YouTube id-PDF_1
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 97c85923c9722f905179d71ed2766c37
 type: courses
 layout: video
 ---

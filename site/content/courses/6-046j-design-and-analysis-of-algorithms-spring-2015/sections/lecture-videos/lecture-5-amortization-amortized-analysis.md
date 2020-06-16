@@ -1,16 +1,70 @@
 ---
-title: 'Lecture 5: Amortization: Amortized Analysis'
-uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-5-amortization-amortized-analysis
-short_url: lecture-5-amortization-amortized-analysis
-inline_embed_id: '50581871lecture5:amortization:amortizedanalysis81019008'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Demaine introduces
   analysis techniques for data structures, and the implementation of algorithms
   based on this analysis.</p><p><strong>Instructors:</strong> Erik Demaine</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 3MpzavN3Mco
+    parent_uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8eee6cff181e4ef6e5247ee2596ba3a8
+  - id: 3MpzavN3Mco.srt
+    parent_uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-5-amortization-amortized-analysis/3MpzavN3Mco.srt
+    title: 3play caption file
+    type: null
+    uid: e550476a2358b500524cce8bab6d42c3
+  - id: 3MpzavN3Mco.pdf
+    parent_uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-5-amortization-amortized-analysis/3MpzavN3Mco.pdf
+    title: 3play pdf file
+    type: null
+    uid: c76fdd33125707943f4c9a6556f6295e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 147b00740f24ae93b2ff0cf908cd8b47
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 9bb9c8958c6d40e59f10647acc4a864b
+  - id: Video-YouTube-Stream
+    media_location: 3MpzavN3Mco
+    parent_uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 353d4f01a9dc8ee70506cea2e0ca2241
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/3MpzavN3Mco/default.jpg'
+    parent_uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 43fc9694d0bb657db4d98e80251ec1fc
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ce5a3048debe677a220c73f9c90a2e46
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec05_300k.mp4'
+    parent_uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 27c4fa1bf2c3cff1583e5fee27719e31
+inline_embed_id: '50581871lecture5:amortization:amortizedanalysis81019008'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-5-amortization-amortized-analysis
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-5-amortization-amortized-analysis
+title: 'Lecture 5: Amortization: Amortized Analysis'
 transcript: >-
   <p><span m="40">The</span> <span m="170">following</span> <span
   m="620">content</span> <span m="1210">is</span> <span m="1320">provided</span>
@@ -4660,61 +4714,7 @@ transcript: >-
   m="4547370">ERIK DEMAINE: For</span> <span m="4547670">free</span> <span
   m="4547810">minutes.</span> <span m="4549674">Cool.</span> <span
   m="4550140">That's</span> <span m="4550380">amortization.</span></p>
-embedded_media:
-  - uid: 8eee6cff181e4ef6e5247ee2596ba3a8
-    parent_uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 3MpzavN3Mco
-  - uid: e550476a2358b500524cce8bab6d42c3
-    parent_uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
-    id: 3MpzavN3Mco.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-5-amortization-amortized-analysis/3MpzavN3Mco.srt
-  - uid: c76fdd33125707943f4c9a6556f6295e
-    parent_uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
-    id: 3MpzavN3Mco.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-5-amortization-amortized-analysis/3MpzavN3Mco.pdf
-  - uid: 147b00740f24ae93b2ff0cf908cd8b47
-    parent_uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 9bb9c8958c6d40e59f10647acc4a864b
-    parent_uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 353d4f01a9dc8ee70506cea2e0ca2241
-    parent_uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 3MpzavN3Mco
-  - uid: 43fc9694d0bb657db4d98e80251ec1fc
-    parent_uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/3MpzavN3Mco/default.jpg'
-  - uid: ce5a3048debe677a220c73f9c90a2e46
-    parent_uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 27c4fa1bf2c3cff1583e5fee27719e31
-    parent_uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec05_300k.mp4'
+uid: d522e5a8fc02a6d3b59a2b67eeba3e6f
 type: courses
 layout: video
 ---

@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 30: Completing a Rank-One Matrix, Circulants!'
-uid: 498c2c9321ce4bd8842ed9c6f02e8c04
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-30-completing-a-rank-one-matrix-circulants
-short_url: lecture-30-completing-a-rank-one-matrix-circulants
-inline_embed_id: 41295484lecture30completingarankonematrixcirculants82133623
 about_this_resource_text: >-
   <h2 class="subhead">Description</h2> <p>Professor Strang starts this lecture
   asking the question &ldquo;Which matrices can be completed to have a rank of
@@ -16,7 +9,62 @@ about_this_resource_text: >-
   matrices<br /> \(c_0 I + c_1 P + c_2 P^2 + \cdots\)<br /> Start of Fourier
   analysis for vectors</p> <p>Related section in textbook: IV.8 and IV.2</p>
   <p><strong>Instructor:</strong> Prof. Gilbert Strang</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: p-bXJIa7QVI
+    parent_uid: 498c2c9321ce4bd8842ed9c6f02e8c04
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 93e982f6bd6642571e74f5e8bee9be10
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/p-bXJIa7QVI/default.jpg'
+    parent_uid: 498c2c9321ce4bd8842ed9c6f02e8c04
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6d50cee37e27768118665d97eae197a2
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: p-bXJIa7QVI
+    parent_uid: 498c2c9321ce4bd8842ed9c6f02e8c04
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 157a1871e9113941fcdf6c4125acfb56
+  - id: p-bXJIa7QVI.srt
+    parent_uid: 498c2c9321ce4bd8842ed9c6f02e8c04
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-30-completing-a-rank-one-matrix-circulants/p-bXJIa7QVI.srt
+    title: 3play caption file
+    type: null
+    uid: ad7e834776e7f7a4ed92713f0455e90c
+  - id: p-bXJIa7QVI.pdf
+    parent_uid: 498c2c9321ce4bd8842ed9c6f02e8c04
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-30-completing-a-rank-one-matrix-circulants/p-bXJIa7QVI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6c9f30071c8710266271fd85880c0262
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 498c2c9321ce4bd8842ed9c6f02e8c04
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b74ff209cacb10d69a640f3e9f34f9a5
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 498c2c9321ce4bd8842ed9c6f02e8c04
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 7482e4581ad14dc60cac318c2ffc67c0
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture30_300k.mp4'
+    parent_uid: 498c2c9321ce4bd8842ed9c6f02e8c04
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a62a0dd78c694786f3e9dd60d9818a64
+inline_embed_id: 41295484lecture30completingarankonematrixcirculants82133623
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-30-completing-a-rank-one-matrix-circulants
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-30-completing-a-rank-one-matrix-circulants
+title: 'Lecture 30: Completing a Rank-One Matrix, Circulants!'
 transcript: >-
   <p><span m='1550'>The</span> <span m='1640'>following</span> <span
   m='2090'>content</span> <span m='2600'>is</span> <span
@@ -2505,55 +2553,7 @@ transcript: >-
   m='2986980'>rule</span> <span m='2987370'>in</span> <span
   m='2988420'>signal</span> <span m='2988810'>processing.</span> <span
   m='2989810'>OK.</span> <span m='2990110'>Thanks.</span> </p>
-embedded_media:
-  - uid: 93e982f6bd6642571e74f5e8bee9be10
-    parent_uid: 498c2c9321ce4bd8842ed9c6f02e8c04
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: p-bXJIa7QVI
-  - uid: 6d50cee37e27768118665d97eae197a2
-    parent_uid: 498c2c9321ce4bd8842ed9c6f02e8c04
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/p-bXJIa7QVI/default.jpg'
-  - uid: 157a1871e9113941fcdf6c4125acfb56
-    parent_uid: 498c2c9321ce4bd8842ed9c6f02e8c04
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: p-bXJIa7QVI
-  - uid: ad7e834776e7f7a4ed92713f0455e90c
-    parent_uid: 498c2c9321ce4bd8842ed9c6f02e8c04
-    id: p-bXJIa7QVI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-30-completing-a-rank-one-matrix-circulants/p-bXJIa7QVI.srt
-  - uid: 6c9f30071c8710266271fd85880c0262
-    parent_uid: 498c2c9321ce4bd8842ed9c6f02e8c04
-    id: p-bXJIa7QVI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-30-completing-a-rank-one-matrix-circulants/p-bXJIa7QVI.pdf
-  - uid: b74ff209cacb10d69a640f3e9f34f9a5
-    parent_uid: 498c2c9321ce4bd8842ed9c6f02e8c04
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 7482e4581ad14dc60cac318c2ffc67c0
-    parent_uid: 498c2c9321ce4bd8842ed9c6f02e8c04
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: a62a0dd78c694786f3e9dd60d9818a64
-    parent_uid: 498c2c9321ce4bd8842ed9c6f02e8c04
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture30_300k.mp4'
+uid: 498c2c9321ce4bd8842ed9c6f02e8c04
 type: courses
 layout: video
 ---

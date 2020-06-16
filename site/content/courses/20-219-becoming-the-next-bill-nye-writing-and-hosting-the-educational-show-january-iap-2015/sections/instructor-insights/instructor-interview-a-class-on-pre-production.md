@@ -1,13 +1,68 @@
 ---
-title: 'Instructor Interview: A Class on Pre-Production'
-uid: fb9aef4b24542e0edf12b76b6da6c798
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: MTxjpJSp43A
+    parent_uid: fb9aef4b24542e0edf12b76b6da6c798
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b3dc2c93964eac6e4efab2f4c140c243
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/MTxjpJSp43A/default.jpg'
+    parent_uid: fb9aef4b24542e0edf12b76b6da6c798
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: cd9107b8a16b6ef2887de751c43523d9
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: MTxjpJSp43A
+    parent_uid: fb9aef4b24542e0edf12b76b6da6c798
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1e75e555fcfc1a9a68459bc678ace133
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: fb9aef4b24542e0edf12b76b6da6c798
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6df748ecae8deed163c6fbee2d3faf4f
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_PreProduction_300k.mp4
+    parent_uid: fb9aef4b24542e0edf12b76b6da6c798
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: cfaae82b55b69bf3af9559a0e68d8819
+  - id: MTxjpJSp43A.srt
+    parent_uid: fb9aef4b24542e0edf12b76b6da6c798
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-a-class-on-pre-production/MTxjpJSp43A.srt
+    title: 3play caption file
+    type: null
+    uid: 3026ce09ba183b151bab0c9b84926f4c
+  - id: MTxjpJSp43A.pdf
+    parent_uid: fb9aef4b24542e0edf12b76b6da6c798
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-a-class-on-pre-production/MTxjpJSp43A.pdf
+    title: 3play pdf file
+    type: null
+    uid: bf60f8164169211ce014bfa0fb894a1b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: fb9aef4b24542e0edf12b76b6da6c798
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 83dbf90562fc7d0c56ba6e6faf7936c4
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: fb9aef4b24542e0edf12b76b6da6c798
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: e06510fe11a620862668568d71c038f7
+inline_embed_id: '40736359instructorinterview:aclassonpre-production14583248'
 parent_uid: 526193cf30dacdf1c6734faab57d51d7
+related_resources_text: ''
+short_url: instructor-interview-a-class-on-pre-production
 technical_location: >-
   https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-a-class-on-pre-production
-short_url: instructor-interview-a-class-on-pre-production
-inline_embed_id: '40736359instructorinterview:aclassonpre-production14583248'
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Instructor Interview: A Class on Pre-Production'
 transcript: >-
   <p><span m='5540'>JOSHUA GUNN: One</span> <span m='5680'>thing</span> <span
   m='5870'>I</span> <span m='5920'>thought</span> <span m='6140'>was</span>
@@ -332,62 +387,7 @@ transcript: >-
   m='285100'>was.</span> </p><p><span m='285780'>CHRIS BOEBEL: It</span> <span
   m='285890'>was very</span> <span m='286190'>ambitious,</span> <span
   m='286490'>I thought.</span> </p>
-embedded_media:
-  - uid: b3dc2c93964eac6e4efab2f4c140c243
-    parent_uid: fb9aef4b24542e0edf12b76b6da6c798
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: MTxjpJSp43A
-  - uid: cd9107b8a16b6ef2887de751c43523d9
-    parent_uid: fb9aef4b24542e0edf12b76b6da6c798
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/MTxjpJSp43A/default.jpg'
-  - uid: 1e75e555fcfc1a9a68459bc678ace133
-    parent_uid: fb9aef4b24542e0edf12b76b6da6c798
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: MTxjpJSp43A
-  - uid: 6df748ecae8deed163c6fbee2d3faf4f
-    parent_uid: fb9aef4b24542e0edf12b76b6da6c798
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: cfaae82b55b69bf3af9559a0e68d8819
-    parent_uid: fb9aef4b24542e0edf12b76b6da6c798
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_PreProduction_300k.mp4
-  - uid: 3026ce09ba183b151bab0c9b84926f4c
-    parent_uid: fb9aef4b24542e0edf12b76b6da6c798
-    id: MTxjpJSp43A.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-a-class-on-pre-production/MTxjpJSp43A.srt
-  - uid: bf60f8164169211ce014bfa0fb894a1b
-    parent_uid: fb9aef4b24542e0edf12b76b6da6c798
-    id: MTxjpJSp43A.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/instructor-insights/instructor-interview-a-class-on-pre-production/MTxjpJSp43A.pdf
-  - uid: 83dbf90562fc7d0c56ba6e6faf7936c4
-    parent_uid: fb9aef4b24542e0edf12b76b6da6c798
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: e06510fe11a620862668568d71c038f7
-    parent_uid: fb9aef4b24542e0edf12b76b6da6c798
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: fb9aef4b24542e0edf12b76b6da6c798
 type: courses
 layout: video
 ---

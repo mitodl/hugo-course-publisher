@@ -1,13 +1,67 @@
 ---
-title: 'Session 3, Part 2: Financial Projections'
-uid: 61b7881e5d4207082435ddf3678e3b82
+about_this_resource_text: '<p><strong>Speaker</strong>: Charlie Tillett</p>'
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 3vKlYA7vXOk
+    parent_uid: 61b7881e5d4207082435ddf3678e3b82
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d3a04f81d38fefa53ab84adbecdf8f60
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/3vKlYA7vXOk/default.jpg'
+    parent_uid: 61b7881e5d4207082435ddf3678e3b82
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 664b8c048f4773472b72254deb387773
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 3vKlYA7vXOk
+    parent_uid: 61b7881e5d4207082435ddf3678e3b82
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 1045606ed0ccd4d03cd77a31919b48d5
+  - id: 3vKlYA7vXOk.srt
+    parent_uid: 61b7881e5d4207082435ddf3678e3b82
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-financial-projections/3vKlYA7vXOk.srt
+    title: 3play caption file
+    type: null
+    uid: 40f8f3ee3837a01d28154d7a574df365
+  - id: 3vKlYA7vXOk.pdf
+    parent_uid: 61b7881e5d4207082435ddf3678e3b82
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-financial-projections/3vKlYA7vXOk.pdf
+    title: 3play pdf file
+    type: null
+    uid: b16fa34978060ea082620abd9ed11bf1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 61b7881e5d4207082435ddf3678e3b82
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4427ffaeecc5250841280e33c83d2de8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 61b7881e5d4207082435ddf3678e3b82
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 00508657ae33846a337c16ec11fb2b7c
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1122123562'
+    parent_uid: 61b7881e5d4207082435ddf3678e3b82
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 07c07fe48413733faf7920d600e3260c
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT15.S21IAP14/MIT15_S21IAP14_S3P2_300k.mp4'
+    parent_uid: 61b7881e5d4207082435ddf3678e3b82
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 73c710ab7d1bfffa55af4dd0ed13076b
+inline_embed_id: '49037663part2:financialprojections42453626'
 parent_uid: 7425dbab24bd40b9d0c0c704cab7eab2
+related_resources_text: ''
+short_url: part-2-financial-projections
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-financial-projections
-short_url: part-2-financial-projections
-inline_embed_id: '49037663part2:financialprojections42453626'
-about_this_resource_text: '<p><strong>Speaker</strong>: Charlie Tillett</p>'
-related_resources_text: ''
+title: 'Session 3, Part 2: Financial Projections'
 transcript: >-
   <p><span m='90'>The</span> <span m='170'>following</span> <span
   m='610'>content</span> <span m='1120'>is</span> <span m='1230'>provided</span>
@@ -5875,61 +5929,7 @@ transcript: >-
   m='4672810'>So</span> <span m='4673010'>thank</span> <span
   m='4673310'>you</span> <span m='4673400'>very</span> <span
   m='4673600'>much.</span> </p><p><span m='4673900'>[APPLAUSE]</span> </p>
-embedded_media:
-  - uid: d3a04f81d38fefa53ab84adbecdf8f60
-    parent_uid: 61b7881e5d4207082435ddf3678e3b82
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 3vKlYA7vXOk
-  - uid: 664b8c048f4773472b72254deb387773
-    parent_uid: 61b7881e5d4207082435ddf3678e3b82
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/3vKlYA7vXOk/default.jpg'
-  - uid: 1045606ed0ccd4d03cd77a31919b48d5
-    parent_uid: 61b7881e5d4207082435ddf3678e3b82
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 3vKlYA7vXOk
-  - uid: 40f8f3ee3837a01d28154d7a574df365
-    parent_uid: 61b7881e5d4207082435ddf3678e3b82
-    id: 3vKlYA7vXOk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-financial-projections/3vKlYA7vXOk.srt
-  - uid: b16fa34978060ea082620abd9ed11bf1
-    parent_uid: 61b7881e5d4207082435ddf3678e3b82
-    id: 3vKlYA7vXOk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-s21-nuts-and-bolts-of-business-plans-january-iap-2014/lecture-videos/part-2-financial-projections/3vKlYA7vXOk.pdf
-  - uid: 4427ffaeecc5250841280e33c83d2de8
-    parent_uid: 61b7881e5d4207082435ddf3678e3b82
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 00508657ae33846a337c16ec11fb2b7c
-    parent_uid: 61b7881e5d4207082435ddf3678e3b82
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 07c07fe48413733faf7920d600e3260c
-    parent_uid: 61b7881e5d4207082435ddf3678e3b82
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1122123562'
-  - uid: 73c710ab7d1bfffa55af4dd0ed13076b
-    parent_uid: 61b7881e5d4207082435ddf3678e3b82
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT15.S21IAP14/MIT15_S21IAP14_S3P2_300k.mp4'
+uid: 61b7881e5d4207082435ddf3678e3b82
 type: courses
 layout: video
 ---

@@ -1,11 +1,4 @@
 ---
-title: 'Final Project: Why can''t I find my glove? The Science of Search'
-uid: 11250ad8ad7f167c266e8e512d400e96
-parent_uid: 32b67e5b521005d4f8119b60fb7ee964
-technical_location: >-
-  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/joshua-cheongs-project/final-project-why-cant-i-find-my-glove-the-science-of-search
-short_url: final-project-why-cant-i-find-my-glove-the-science-of-search
-inline_embed_id: '30383488finalproject:whycan''tifindmyglove?thescienceofsearch72118486'
 about_this_resource_text: >-
   <p><strong>Description: </strong>MIT 20.219 Becoming the Next Bill Nye:
   Writing and Hosting the Educational Show, IAP 2015. View the complete course:
@@ -15,7 +8,69 @@ about_this_resource_text: >-
   BY-NC-SA</p> <p>More information at <a
   href="http://ocw.mit.edu/terms">http://ocw.mit.edu/terms</a></p> <p>More
   courses at <a href="http://ocw.mit.edu">http://ocw.mit.edu</a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 5eF2qCWtifM
+    parent_uid: 11250ad8ad7f167c266e8e512d400e96
+    title: Video-YouTube-Stream
+    type: Video
+    uid: eae835071bf1ae84bc147ce3911ad97a
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/5eF2qCWtifM/default.jpg'
+    parent_uid: 11250ad8ad7f167c266e8e512d400e96
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 08f124b7e1c0125d15769cd7998c4b6e
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 5eF2qCWtifM
+    parent_uid: 11250ad8ad7f167c266e8e512d400e96
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 56f52b30fef512d59fd3da4f9e21439c
+  - id: 5eF2qCWtifM.srt
+    parent_uid: 11250ad8ad7f167c266e8e512d400e96
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/joshua-cheongs-project/final-project-why-cant-i-find-my-glove-the-science-of-search/5eF2qCWtifM.srt
+    title: 3play caption file
+    type: null
+    uid: 65a3b1f7b3585846f55cf2451d063602
+  - id: 5eF2qCWtifM.pdf
+    parent_uid: 11250ad8ad7f167c266e8e512d400e96
+    technical_location: >-
+      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/joshua-cheongs-project/final-project-why-cant-i-find-my-glove-the-science-of-search/5eF2qCWtifM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8ed2496c498a8acb58ec1cbfa2030c40
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 11250ad8ad7f167c266e8e512d400e96
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7f30c92629a21bd576f45a241e2ad43e
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 11250ad8ad7f167c266e8e512d400e96
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 577bfedd27b95f26681360b6240d373e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
+    parent_uid: 11250ad8ad7f167c266e8e512d400e96
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 4e58cf183443564f71036cd7a058b77a
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_JC_D13_Final_Project_360p.mp4
+    parent_uid: 11250ad8ad7f167c266e8e512d400e96
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 83e34e056fd6f43674db9b1c6bb9e24b
+inline_embed_id: '30383488finalproject:whycan''tifindmyglove?thescienceofsearch72118486'
+parent_uid: 32b67e5b521005d4f8119b60fb7ee964
 related_resources_text: ''
+short_url: final-project-why-cant-i-find-my-glove-the-science-of-search
+technical_location: >-
+  https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/joshua-cheongs-project/final-project-why-cant-i-find-my-glove-the-science-of-search
+title: 'Final Project: Why can''t I find my glove? The Science of Search'
 transcript: >-
   <p><span m="800">PROFESSOR: Hi,</span> <span m="1050">have</span> <span
   m="1230">you</span> <span m="1310">found</span> <span m="1590">it</span> <span
@@ -225,62 +280,7 @@ transcript: >-
   m="177200">so</span> <span m="177450">that's</span> <span
   m="177790">where</span> <span m="177950">my</span> <span
   m="178090">gloves</span> <span m="178450">are.</span></p>
-embedded_media:
-  - uid: eae835071bf1ae84bc147ce3911ad97a
-    parent_uid: 11250ad8ad7f167c266e8e512d400e96
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 5eF2qCWtifM
-  - uid: 08f124b7e1c0125d15769cd7998c4b6e
-    parent_uid: 11250ad8ad7f167c266e8e512d400e96
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/5eF2qCWtifM/default.jpg'
-  - uid: 56f52b30fef512d59fd3da4f9e21439c
-    parent_uid: 11250ad8ad7f167c266e8e512d400e96
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 5eF2qCWtifM
-  - uid: 65a3b1f7b3585846f55cf2451d063602
-    parent_uid: 11250ad8ad7f167c266e8e512d400e96
-    id: 5eF2qCWtifM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/joshua-cheongs-project/final-project-why-cant-i-find-my-glove-the-science-of-search/5eF2qCWtifM.srt
-  - uid: 8ed2496c498a8acb58ec1cbfa2030c40
-    parent_uid: 11250ad8ad7f167c266e8e512d400e96
-    id: 5eF2qCWtifM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-projects/joshua-cheongs-project/final-project-why-cant-i-find-my-glove-the-science-of-search/5eF2qCWtifM.pdf
-  - uid: 7f30c92629a21bd576f45a241e2ad43e
-    parent_uid: 11250ad8ad7f167c266e8e512d400e96
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 577bfedd27b95f26681360b6240d373e
-    parent_uid: 11250ad8ad7f167c266e8e512d400e96
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 4e58cf183443564f71036cd7a058b77a
-    parent_uid: 11250ad8ad7f167c266e8e512d400e96
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1058604245'
-  - uid: 83e34e056fd6f43674db9b1c6bb9e24b
-    parent_uid: 11250ad8ad7f167c266e8e512d400e96
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT20.219IAP15/MIT20_219IAP15_JC_D13_Final_Project_360p.mp4
+uid: 11250ad8ad7f167c266e8e512d400e96
 type: courses
 layout: video
 ---

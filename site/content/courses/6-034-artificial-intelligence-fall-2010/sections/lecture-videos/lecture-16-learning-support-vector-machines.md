@@ -1,22 +1,77 @@
 ---
-title: 'Lecture 16: Learning: Support Vector Machines'
-uid: 601f8b80fe4cbfae451ce2106aec111f
-parent_uid: 28d36d6426366698bf1ded18c6190be7
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-16-learning-support-vector-machines
-short_url: lecture-16-learning-support-vector-machines
-inline_embed_id: '34186523lecture16:learning:supportvectormachines32875498'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, we explore support vector
   machines in some mathematical detail. We use Lagrange multipliers to maximize
   the width of the street given certain constraints.  If needed, we transform
   vectors into another space, using a kernel function.</p>
   <p><strong>Instructor:</strong> Patrick H. Winston</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: _PwhiWxHK8o
+    parent_uid: 601f8b80fe4cbfae451ce2106aec111f
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6229d01924755349dff3b150c31ff650
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-16-learning-support/id765641080?i=194475726
+    parent_uid: 601f8b80fe4cbfae451ce2106aec111f
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: f637881e37326efc93ff1dc43d91f53b
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec16_300k.mp4'
+    parent_uid: 601f8b80fe4cbfae451ce2106aec111f
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 98b2c17a476197f1dc218443dc69c046
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/_PwhiWxHK8o/default.jpg'
+    parent_uid: 601f8b80fe4cbfae451ce2106aec111f
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6e84ea2871094b776d3f10be9a94dcbe
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: _PwhiWxHK8o
+    parent_uid: 601f8b80fe4cbfae451ce2106aec111f
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 7f5f39543210a01f227721ff2cd93602
+  - id: PwhiWxHK8o.srt
+    parent_uid: 601f8b80fe4cbfae451ce2106aec111f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-16-learning-support-vector-machines/PwhiWxHK8o.srt
+    title: 3play caption file
+    type: null
+    uid: b4e475840d5a5b05cd76a7aac5cf0954
+  - id: PwhiWxHK8o.pdf
+    parent_uid: 601f8b80fe4cbfae451ce2106aec111f
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-16-learning-support-vector-machines/PwhiWxHK8o.pdf
+    title: 3play pdf file
+    type: null
+    uid: 72f5baea84b5c219b932e04ccb377179
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 601f8b80fe4cbfae451ce2106aec111f
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d58aa28c9ab7766b1e411c7e5038dc56
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 601f8b80fe4cbfae451ce2106aec111f
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4ffcd31db3bb5097882fcbeca438510c
+inline_embed_id: '34186523lecture16:learning:supportvectormachines32875498'
+parent_uid: 28d36d6426366698bf1ded18c6190be7
 related_resources_text: >-
   <p>Specifically developed for this lecture are the <a
   href="./resolveuid/c12a7a6a32ad7497b815b6b93b6d5c00" target="_blank">support
   vector machine slides (PDF)</a>, which are also listed among the readings for
   this course.</p>
+short_url: lecture-16-learning-support-vector-machines
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-16-learning-support-vector-machines
+title: 'Lecture 16: Learning: Support Vector Machines'
 transcript: >-
   <p><span m='9234'>PATRICK WINSTON: So where are we?</span> </p><p><span
   m='10300'>We started off with simple methods for learning stuff.</span>
@@ -824,62 +879,7 @@ transcript: >-
   nobody ever heard of until the early '90s,</span> <span m='2954780'>becomes
   famous for something that everybody knows about</span> <span m='2958380'>today
   who does machine learning.</span> </p><p></p>
-embedded_media:
-  - uid: 6229d01924755349dff3b150c31ff650
-    parent_uid: 601f8b80fe4cbfae451ce2106aec111f
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: _PwhiWxHK8o
-  - uid: f637881e37326efc93ff1dc43d91f53b
-    parent_uid: 601f8b80fe4cbfae451ce2106aec111f
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-16-learning-support/id765641080?i=194475726
-  - uid: 98b2c17a476197f1dc218443dc69c046
-    parent_uid: 601f8b80fe4cbfae451ce2106aec111f
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.034F10/MIT6_034F10_lec16_300k.mp4'
-  - uid: 6e84ea2871094b776d3f10be9a94dcbe
-    parent_uid: 601f8b80fe4cbfae451ce2106aec111f
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/_PwhiWxHK8o/default.jpg'
-  - uid: 7f5f39543210a01f227721ff2cd93602
-    parent_uid: 601f8b80fe4cbfae451ce2106aec111f
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: _PwhiWxHK8o
-  - uid: b4e475840d5a5b05cd76a7aac5cf0954
-    parent_uid: 601f8b80fe4cbfae451ce2106aec111f
-    id: PwhiWxHK8o.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-16-learning-support-vector-machines/PwhiWxHK8o.srt
-  - uid: 72f5baea84b5c219b932e04ccb377179
-    parent_uid: 601f8b80fe4cbfae451ce2106aec111f
-    id: PwhiWxHK8o.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-16-learning-support-vector-machines/PwhiWxHK8o.pdf
-  - uid: d58aa28c9ab7766b1e411c7e5038dc56
-    parent_uid: 601f8b80fe4cbfae451ce2106aec111f
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4ffcd31db3bb5097882fcbeca438510c
-    parent_uid: 601f8b80fe4cbfae451ce2106aec111f
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 601f8b80fe4cbfae451ce2106aec111f
 type: courses
 layout: video
 ---

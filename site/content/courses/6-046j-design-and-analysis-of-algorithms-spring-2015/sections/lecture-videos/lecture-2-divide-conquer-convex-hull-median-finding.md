@@ -1,17 +1,71 @@
 ---
-title: 'Lecture 2: Divide & Conquer: Convex Hull, Median Finding'
-uid: 474792fc830ea3c02d11673904612c16
-parent_uid: 59a7a862feb85c8b52509910c07728e5
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-2-divide-conquer-convex-hull-median-finding
-short_url: lecture-2-divide-conquer-convex-hull-median-finding
-inline_embed_id: '58313170lecture2:divide&conquer:convexhull,medianfinding40406296'
 about_this_resource_text: >-
   <p><strong>Description:</strong> In this lecture, Professor Devadas introduces
   divide-and-conquer algorithms and problems that can be solved using
   divide-and-conquer approaches.</p><p><strong>Instructor:</strong> Srinivas
   Devadas</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: EzeYI7p9MjU
+    parent_uid: 474792fc830ea3c02d11673904612c16
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: da19fe9ecd95a84d538ef70dc33322f4
+  - id: Video-YouTube-Stream
+    media_location: EzeYI7p9MjU
+    parent_uid: 474792fc830ea3c02d11673904612c16
+    title: Video-YouTube-Stream
+    type: Video
+    uid: ef4c5869d516ec775ada26528c02bac1
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
+    parent_uid: 474792fc830ea3c02d11673904612c16
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: ade3582f68c0698afc4a4d8b80565e99
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec02_300k.mp4'
+    parent_uid: 474792fc830ea3c02d11673904612c16
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2fcd47178725fa09e1f7c88a75eb720f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/EzeYI7p9MjU/default.jpg'
+    parent_uid: 474792fc830ea3c02d11673904612c16
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 282e9a882543f3b03597c14127caea86
+  - id: EzeYI7p9MjU.srt
+    parent_uid: 474792fc830ea3c02d11673904612c16
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-2-divide-conquer-convex-hull-median-finding/EzeYI7p9MjU.srt
+    title: 3play caption file
+    type: null
+    uid: 6b1e15e5e745a16318c3ab298cdf097d
+  - id: EzeYI7p9MjU.pdf
+    parent_uid: 474792fc830ea3c02d11673904612c16
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-2-divide-conquer-convex-hull-median-finding/EzeYI7p9MjU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 461c3f2a75384eaaffce53f66f153a50
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 474792fc830ea3c02d11673904612c16
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2ae56a4d39d8f85d8847c6428fc605f2
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 474792fc830ea3c02d11673904612c16
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 51d447dc661d2f52db503ebeaf39ba9f
+inline_embed_id: '58313170lecture2:divide&conquer:convexhull,medianfinding40406296'
+parent_uid: 59a7a862feb85c8b52509910c07728e5
 related_resources_text: ''
+short_url: lecture-2-divide-conquer-convex-hull-median-finding
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-2-divide-conquer-convex-hull-median-finding
+title: 'Lecture 2: Divide & Conquer: Convex Hull, Median Finding'
 transcript: >-
   <p><span m='89'>The following content is provided under a Creative Commons
   license. Your support will</span> <span m='4820'>help MIT OpenCourseWare
@@ -1039,61 +1093,7 @@ transcript: >-
   That's actually less than n.</span> <span m='4823610'>This thing runs in
   linear time. And you'll see that in section tomorrow. So this whole</span>
   <span m='4828070'>thing is theta n time. See you next time.</span> </p>
-embedded_media:
-  - uid: da19fe9ecd95a84d538ef70dc33322f4
-    parent_uid: 474792fc830ea3c02d11673904612c16
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: EzeYI7p9MjU
-  - uid: ef4c5869d516ec775ada26528c02bac1
-    parent_uid: 474792fc830ea3c02d11673904612c16
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: EzeYI7p9MjU
-  - uid: ade3582f68c0698afc4a4d8b80565e99
-    parent_uid: 474792fc830ea3c02d11673904612c16
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1081126744'
-  - uid: 2fcd47178725fa09e1f7c88a75eb720f
-    parent_uid: 474792fc830ea3c02d11673904612c16
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT6.046JS15/MIT6_046JS15_lec02_300k.mp4'
-  - uid: 282e9a882543f3b03597c14127caea86
-    parent_uid: 474792fc830ea3c02d11673904612c16
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/EzeYI7p9MjU/default.jpg'
-  - uid: 6b1e15e5e745a16318c3ab298cdf097d
-    parent_uid: 474792fc830ea3c02d11673904612c16
-    id: EzeYI7p9MjU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-2-divide-conquer-convex-hull-median-finding/EzeYI7p9MjU.srt
-  - uid: 461c3f2a75384eaaffce53f66f153a50
-    parent_uid: 474792fc830ea3c02d11673904612c16
-    id: EzeYI7p9MjU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-2-divide-conquer-convex-hull-median-finding/EzeYI7p9MjU.pdf
-  - uid: 2ae56a4d39d8f85d8847c6428fc605f2
-    parent_uid: 474792fc830ea3c02d11673904612c16
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 51d447dc661d2f52db503ebeaf39ba9f
-    parent_uid: 474792fc830ea3c02d11673904612c16
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 474792fc830ea3c02d11673904612c16
 type: courses
 layout: video
 ---

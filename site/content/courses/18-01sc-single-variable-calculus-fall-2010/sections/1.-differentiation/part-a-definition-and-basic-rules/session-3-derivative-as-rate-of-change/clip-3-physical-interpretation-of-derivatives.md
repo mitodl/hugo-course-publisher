@@ -1,18 +1,72 @@
 ---
-title: 'Clip 3: Physical Interpretation of Derivatives'
-uid: e249ddeca5890510d6f4bf8af7054a26
-parent_uid: 4eff05d7dd9bd856611cfe4f4cddcb98
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change/clip-3-physical-interpretation-of-derivatives
-short_url: clip-3-physical-interpretation-of-derivatives
-inline_embed_id: '63787757clip3:physicalinterpretationofderivatives44833992'
 about_this_resource_text: >-
   <p>&raquo;<a href="./resolveuid/abb7e03ceca1497311d16b409e43676e"
   target="_blank"> Accompanying Notes (PDF)</a></p> <p
   class="scholar_medsm">From Lecture 2 of <a
   href="http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/"><em>18.01
   Single Variable Calculus, Fall 2006</em></a></p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ryLdyDrBfvI
+    parent_uid: e249ddeca5890510d6f4bf8af7054a26
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 7191d34e41c0d328345cdddd50c37a42
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
+    parent_uid: e249ddeca5890510d6f4bf8af7054a26
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 224ee99997905292d75dc8c6951a4762
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
+    parent_uid: e249ddeca5890510d6f4bf8af7054a26
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 51a4a963fc25efdd9e736f254f10e4a3
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ryLdyDrBfvI
+    parent_uid: e249ddeca5890510d6f4bf8af7054a26
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: eccf90b313c3379622f0cfab657dfa2a
+  - id: ryLdyDrBfvI.srt
+    parent_uid: e249ddeca5890510d6f4bf8af7054a26
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change/clip-3-physical-interpretation-of-derivatives/ryLdyDrBfvI.srt
+    title: 3play caption file
+    type: null
+    uid: 5bb725f7e927d0fda41c01b87ff1659e
+  - id: ryLdyDrBfvI.pdf
+    parent_uid: e249ddeca5890510d6f4bf8af7054a26
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change/clip-3-physical-interpretation-of-derivatives/ryLdyDrBfvI.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8c18813a3986b18b7d811dc3c8ff2f6f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e249ddeca5890510d6f4bf8af7054a26
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: c93f04a2ff35d708b1a58af2c3b08d0d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e249ddeca5890510d6f4bf8af7054a26
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f5c07ece2ee8d71a7155da50ed4a4dc2
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+    parent_uid: e249ddeca5890510d6f4bf8af7054a26
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: edd9a9a73646ab34927a34cfa2bb5c96
+inline_embed_id: '63787757clip3:physicalinterpretationofderivatives44833992'
+parent_uid: 4eff05d7dd9bd856611cfe4f4cddcb98
 related_resources_text: ''
+short_url: clip-3-physical-interpretation-of-derivatives
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change/clip-3-physical-interpretation-of-derivatives
+title: 'Clip 3: Physical Interpretation of Derivatives'
 transcript: >-
   <p><span m="110">The</span> <span m="360">following</span> <span
   m="1410">content</span> <span m="1670">is provided</span> <span
@@ -2566,61 +2620,7 @@ transcript: >-
   m="3162770">me</span> <span m="3163230">other</span> <span
   m="3163430">stuff</span> <span m="3163770">after</span> <span
   m="3164070">lecture.</span></p>
-embedded_media:
-  - uid: 7191d34e41c0d328345cdddd50c37a42
-    parent_uid: e249ddeca5890510d6f4bf8af7054a26
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ryLdyDrBfvI
-  - uid: 224ee99997905292d75dc8c6951a4762
-    parent_uid: e249ddeca5890510d6f4bf8af7054a26
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ryLdyDrBfvI/default.jpg'
-  - uid: 51a4a963fc25efdd9e736f254f10e4a3
-    parent_uid: e249ddeca5890510d6f4bf8af7054a26
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec02_300k.mp4'
-  - uid: eccf90b313c3379622f0cfab657dfa2a
-    parent_uid: e249ddeca5890510d6f4bf8af7054a26
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ryLdyDrBfvI
-  - uid: 5bb725f7e927d0fda41c01b87ff1659e
-    parent_uid: e249ddeca5890510d6f4bf8af7054a26
-    id: ryLdyDrBfvI.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change/clip-3-physical-interpretation-of-derivatives/ryLdyDrBfvI.srt
-  - uid: 8c18813a3986b18b7d811dc3c8ff2f6f
-    parent_uid: e249ddeca5890510d6f4bf8af7054a26
-    id: ryLdyDrBfvI.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-3-derivative-as-rate-of-change/clip-3-physical-interpretation-of-derivatives/ryLdyDrBfvI.pdf
-  - uid: c93f04a2ff35d708b1a58af2c3b08d0d
-    parent_uid: e249ddeca5890510d6f4bf8af7054a26
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f5c07ece2ee8d71a7155da50ed4a4dc2
-    parent_uid: e249ddeca5890510d6f4bf8af7054a26
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: edd9a9a73646ab34927a34cfa2bb5c96
-    parent_uid: e249ddeca5890510d6f4bf8af7054a26
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id414308064'
+uid: e249ddeca5890510d6f4bf8af7054a26
 type: courses
 layout: video
 ---

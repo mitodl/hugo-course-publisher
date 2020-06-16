@@ -1,13 +1,68 @@
 ---
-title: Integration of Taylor's Series
-uid: a69d4c82d4edd3d0b1e2edd9d830d903
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2_7htv5eviM
+    parent_uid: a69d4c82d4edd3d0b1e2edd9d830d903
+    title: Video-YouTube-Stream
+    type: Video
+    uid: b81a82e70c191952800cc8790524dd3c
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_82_300k.mp4'
+    parent_uid: a69d4c82d4edd3d0b1e2edd9d830d903
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: d74d574f87b4a779d7074c8455286825
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/integration-taylors-series/id414308064?i=90320241
+    parent_uid: a69d4c82d4edd3d0b1e2edd9d830d903
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 35ed6b7da9c0379e9f0674d693abe54b
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: 2_7htv5eviM
+    parent_uid: a69d4c82d4edd3d0b1e2edd9d830d903
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: cbd777f540b792d01eb252c07da39d3b
+  - id: 2_7htv5eviM.srt
+    parent_uid: a69d4c82d4edd3d0b1e2edd9d830d903
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-100-operations-on-power-series/integration-of-taylors-series/2_7htv5eviM.srt
+    title: 3play caption file
+    type: null
+    uid: 5d5b042f1be707a6ffd02270c35c3f6e
+  - id: 2_7htv5eviM.pdf
+    parent_uid: a69d4c82d4edd3d0b1e2edd9d830d903
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-100-operations-on-power-series/integration-of-taylors-series/2_7htv5eviM.pdf
+    title: 3play pdf file
+    type: null
+    uid: 54a2eb3b68a44137647e8568911ad3d3
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a69d4c82d4edd3d0b1e2edd9d830d903
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: b48c5e86fee91853c37bacf2900999fe
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a69d4c82d4edd3d0b1e2edd9d830d903
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4299ce95e103ab2648a3066287d5f8b7
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2_7htv5eviM/default.jpg'
+    parent_uid: a69d4c82d4edd3d0b1e2edd9d830d903
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: c696702e4a34c994aa8d2e154e8b42e9
+inline_embed_id: 45950012integrationoftaylor'sseries37303590
 parent_uid: 7aaff01423b922b346afdcd6c0328e83
+related_resources_text: ''
+short_url: integration-of-taylors-series
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-100-operations-on-power-series/integration-of-taylors-series
-short_url: integration-of-taylors-series
-inline_embed_id: 45950012integrationoftaylor'sseries37303590
-about_this_resource_text: ''
-related_resources_text: ''
+title: Integration of Taylor's Series
 transcript: >-
   <p><span m='0'>JOEL LEWIS:</span> <span m='6950'>Hi.</span> <span
   m='7330'>Welcome</span> <span m='7690'>back</span> <span m='7890'>to</span>
@@ -556,62 +611,7 @@ transcript: >-
   m='466440'>integrals.</span> </p><p><span m='467430'>So</span> <span
   m='467750'>I'll</span> <span m='468050'>stop</span> <span
   m='468350'>there.</span> </p>
-embedded_media:
-  - uid: b81a82e70c191952800cc8790524dd3c
-    parent_uid: a69d4c82d4edd3d0b1e2edd9d830d903
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2_7htv5eviM
-  - uid: d74d574f87b4a779d7074c8455286825
-    parent_uid: a69d4c82d4edd3d0b1e2edd9d830d903
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_82_300k.mp4'
-  - uid: 35ed6b7da9c0379e9f0674d693abe54b
-    parent_uid: a69d4c82d4edd3d0b1e2edd9d830d903
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/integration-taylors-series/id414308064?i=90320241
-  - uid: cbd777f540b792d01eb252c07da39d3b
-    parent_uid: a69d4c82d4edd3d0b1e2edd9d830d903
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2_7htv5eviM
-  - uid: 5d5b042f1be707a6ffd02270c35c3f6e
-    parent_uid: a69d4c82d4edd3d0b1e2edd9d830d903
-    id: 2_7htv5eviM.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-100-operations-on-power-series/integration-of-taylors-series/2_7htv5eviM.srt
-  - uid: 54a2eb3b68a44137647e8568911ad3d3
-    parent_uid: a69d4c82d4edd3d0b1e2edd9d830d903
-    id: 2_7htv5eviM.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/unit-5-exploring-the-infinite/part-b-taylor-series/session-100-operations-on-power-series/integration-of-taylors-series/2_7htv5eviM.pdf
-  - uid: b48c5e86fee91853c37bacf2900999fe
-    parent_uid: a69d4c82d4edd3d0b1e2edd9d830d903
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4299ce95e103ab2648a3066287d5f8b7
-    parent_uid: a69d4c82d4edd3d0b1e2edd9d830d903
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: c696702e4a34c994aa8d2e154e8b42e9
-    parent_uid: a69d4c82d4edd3d0b1e2edd9d830d903
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2_7htv5eviM/default.jpg'
+uid: a69d4c82d4edd3d0b1e2edd9d830d903
 type: courses
 layout: video
 ---

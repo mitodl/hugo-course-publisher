@@ -1,13 +1,67 @@
 ---
-title: Factorization into A = LU
-uid: b624bb07efd1fbc6b1e6eb86da50b65d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: MsIvs_6vC38
+    parent_uid: b624bb07efd1fbc6b1e6eb86da50b65d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a5203fccf8692bc0fea60e3e3a0ce937
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: MsIvs_6vC38
+    parent_uid: b624bb07efd1fbc6b1e6eb86da50b65d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 86b50edba1fa56acd9cd39ffad291786
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
+    parent_uid: b624bb07efd1fbc6b1e6eb86da50b65d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 9ecd1c990b76c8ad595a7d11647a6e63
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/04.mp4'
+    parent_uid: b624bb07efd1fbc6b1e6eb86da50b65d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a391642f9dfd7b8191ff905c86167242
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/MsIvs_6vC38/default.jpg'
+    parent_uid: b624bb07efd1fbc6b1e6eb86da50b65d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9074949ffd8e290989cdd7eb610d1a35
+  - id: MsIvs_6vC38.srt
+    parent_uid: b624bb07efd1fbc6b1e6eb86da50b65d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/factorization-into-a-lu/MsIvs_6vC38.srt
+    title: 3play caption file
+    type: null
+    uid: d0371723a95fb607847c5fcca1fb04fd
+  - id: MsIvs_6vC38.pdf
+    parent_uid: b624bb07efd1fbc6b1e6eb86da50b65d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/factorization-into-a-lu/MsIvs_6vC38.pdf
+    title: 3play pdf file
+    type: null
+    uid: 3f6408511d8ee93f75a32d8b64b7e2bc
+  - id: Caption-3Play YouTube id-SRT_1
+    parent_uid: b624bb07efd1fbc6b1e6eb86da50b65d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 13d38bc8668ba893a3cf0582791b0036
+  - id: Transcript-3Play YouTube id-PDF_1
+    parent_uid: b624bb07efd1fbc6b1e6eb86da50b65d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ffbcdcd0ffd259458fc4b3c94d97ab4c
+inline_embed_id: 99216317factorizationintoalu43677408
 parent_uid: 754d6be4ca3c378b6c8b2e4a955ffe64
+related_resources_text: ''
+short_url: factorization-into-a-lu
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/factorization-into-a-lu
-short_url: factorization-into-a-lu
-inline_embed_id: 99216317factorizationintoalu43677408
-about_this_resource_text: ''
-related_resources_text: ''
+title: Factorization into A = LU
 transcript: >-
   <p><span m="12380"> Okay, this is linear algebra, lecture
   four.</span></p><p><span m="16800">And, the first thing I have to do is
@@ -643,61 +697,7 @@ transcript: >-
   them.</span></p><p><span m="2868820">So the next lecture, finishes Chapter
   2</span> <span m="2871660">and moves to Chapter 3.</span></p><p><span
   m="2875160">Thank you.</span></p>
-embedded_media:
-  - uid: a5203fccf8692bc0fea60e3e3a0ce937
-    parent_uid: b624bb07efd1fbc6b1e6eb86da50b65d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: MsIvs_6vC38
-  - uid: 86b50edba1fa56acd9cd39ffad291786
-    parent_uid: b624bb07efd1fbc6b1e6eb86da50b65d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: MsIvs_6vC38
-  - uid: 9ecd1c990b76c8ad595a7d11647a6e63
-    parent_uid: b624bb07efd1fbc6b1e6eb86da50b65d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id488155309'
-  - uid: a391642f9dfd7b8191ff905c86167242
-    parent_uid: b624bb07efd1fbc6b1e6eb86da50b65d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.06S05_MP4/04.mp4'
-  - uid: 9074949ffd8e290989cdd7eb610d1a35
-    parent_uid: b624bb07efd1fbc6b1e6eb86da50b65d
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/MsIvs_6vC38/default.jpg'
-  - uid: d0371723a95fb607847c5fcca1fb04fd
-    parent_uid: b624bb07efd1fbc6b1e6eb86da50b65d
-    id: MsIvs_6vC38.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/factorization-into-a-lu/MsIvs_6vC38.srt
-  - uid: 3f6408511d8ee93f75a32d8b64b7e2bc
-    parent_uid: b624bb07efd1fbc6b1e6eb86da50b65d
-    id: MsIvs_6vC38.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/resource-index/factorization-into-a-lu/MsIvs_6vC38.pdf
-  - uid: 13d38bc8668ba893a3cf0582791b0036
-    parent_uid: b624bb07efd1fbc6b1e6eb86da50b65d
-    id: Caption-3Play YouTube id-SRT_1
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ffbcdcd0ffd259458fc4b3c94d97ab4c
-    parent_uid: b624bb07efd1fbc6b1e6eb86da50b65d
-    id: Transcript-3Play YouTube id-PDF_1
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: b624bb07efd1fbc6b1e6eb86da50b65d
 type: courses
 layout: video
 ---

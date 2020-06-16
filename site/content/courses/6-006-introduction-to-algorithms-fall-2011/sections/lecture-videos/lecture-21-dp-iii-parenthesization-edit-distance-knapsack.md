@@ -1,18 +1,73 @@
 ---
-title: 'Lecture 21: Dynamic Programming III: Parenthesization, Edit Distance, Knapsack'
-uid: a394c84bb84c79e401a7614c549dc8e2
-parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-21-dp-iii-parenthesization-edit-distance-knapsack
-short_url: lecture-21-dp-iii-parenthesization-edit-distance-knapsack
-inline_embed_id: >-
-  94375562lecture21:dynamicprogrammingiii:parenthesization,editdistance,knapsack31839991
 about_this_resource_text: >-
   <p><strong>Description:</strong> This lecture starts with how to define useful
   subproblems for strings or sequences, and then looks at parenthesization, edit
   distance, and the knapsack problem. The lecture ends with a brief discussion
   of pseudopolynomial time.</p> <p><strong>Instructor:</strong> Erik Demaine</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: ocZMDMZwhCY
+    parent_uid: a394c84bb84c79e401a7614c549dc8e2
+    title: Video-YouTube-Stream
+    type: Video
+    uid: e65741ee59e7a6f96d8c0175f426f504
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/ocZMDMZwhCY/default.jpg'
+    parent_uid: a394c84bb84c79e401a7614c549dc8e2
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 4caa190662cea6d52c4678cd75f116ef
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      https://itunes.apple.com/us/itunes-u/lecture-21-dp-iii-parenthesization/id585700718?i=126127728
+    parent_uid: a394c84bb84c79e401a7614c549dc8e2
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: d6068b710e43c9970c2d8ce97d2f5335
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec21_300k.mp4'
+    parent_uid: a394c84bb84c79e401a7614c549dc8e2
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: fc6a9d79877c1e36f6263f979e0360c3
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: ocZMDMZwhCY
+    parent_uid: a394c84bb84c79e401a7614c549dc8e2
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 2a238918aa6c78820c7f40aea069f421
+  - id: ocZMDMZwhCY.srt
+    parent_uid: a394c84bb84c79e401a7614c549dc8e2
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-21-dp-iii-parenthesization-edit-distance-knapsack/ocZMDMZwhCY.srt
+    title: 3play caption file
+    type: null
+    uid: 3ad195929479286d69adb5a305c8cb85
+  - id: ocZMDMZwhCY.pdf
+    parent_uid: a394c84bb84c79e401a7614c549dc8e2
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-21-dp-iii-parenthesization-edit-distance-knapsack/ocZMDMZwhCY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 76f04a14b5c609e5157e7423ab083821
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: a394c84bb84c79e401a7614c549dc8e2
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 025ffe00ccbc244974d612545ee17c85
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: a394c84bb84c79e401a7614c549dc8e2
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: df64efb5f7fe47917654230ab905fda2
+inline_embed_id: >-
+  94375562lecture21:dynamicprogrammingiii:parenthesization,editdistance,knapsack31839991
+parent_uid: 6af424cb24d70b69cb7c86df8a25a92a
 related_resources_text: ''
+short_url: lecture-21-dp-iii-parenthesization-edit-distance-knapsack
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-21-dp-iii-parenthesization-edit-distance-knapsack
+title: 'Lecture 21: Dynamic Programming III: Parenthesization, Edit Distance, Knapsack'
 transcript: >-
   <p><span m='50'>The</span> <span m='180'>following</span> <span
   m='620'>content</span> <span m='1210'>is</span> <span m='1330'>provided</span>
@@ -3459,62 +3514,7 @@ transcript: >-
   m='3158720'>programming</span> <span m='3159130'>lets</span> <span
   m='3159320'>you</span> <span m='3159400'>do</span> <span
   m='3159570'>it.</span> </p>
-embedded_media:
-  - uid: e65741ee59e7a6f96d8c0175f426f504
-    parent_uid: a394c84bb84c79e401a7614c549dc8e2
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: ocZMDMZwhCY
-  - uid: 4caa190662cea6d52c4678cd75f116ef
-    parent_uid: a394c84bb84c79e401a7614c549dc8e2
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/ocZMDMZwhCY/default.jpg'
-  - uid: d6068b710e43c9970c2d8ce97d2f5335
-    parent_uid: a394c84bb84c79e401a7614c549dc8e2
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      https://itunes.apple.com/us/itunes-u/lecture-21-dp-iii-parenthesization/id585700718?i=126127728
-  - uid: fc6a9d79877c1e36f6263f979e0360c3
-    parent_uid: a394c84bb84c79e401a7614c549dc8e2
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.006F11/MIT6_006F11_lec21_300k.mp4'
-  - uid: 2a238918aa6c78820c7f40aea069f421
-    parent_uid: a394c84bb84c79e401a7614c549dc8e2
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: ocZMDMZwhCY
-  - uid: 3ad195929479286d69adb5a305c8cb85
-    parent_uid: a394c84bb84c79e401a7614c549dc8e2
-    id: ocZMDMZwhCY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-21-dp-iii-parenthesization-edit-distance-knapsack/ocZMDMZwhCY.srt
-  - uid: 76f04a14b5c609e5157e7423ab083821
-    parent_uid: a394c84bb84c79e401a7614c549dc8e2
-    id: ocZMDMZwhCY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-21-dp-iii-parenthesization-edit-distance-knapsack/ocZMDMZwhCY.pdf
-  - uid: 025ffe00ccbc244974d612545ee17c85
-    parent_uid: a394c84bb84c79e401a7614c549dc8e2
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: df64efb5f7fe47917654230ab905fda2
-    parent_uid: a394c84bb84c79e401a7614c549dc8e2
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: a394c84bb84c79e401a7614c549dc8e2
 type: courses
 layout: video
 ---

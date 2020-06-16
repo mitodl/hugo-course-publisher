@@ -1,13 +1,62 @@
 ---
-title: 'Video 7: The Analytics Edge'
-uid: 95bbe82834a95331f28b4b04683e69af
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 2Yl5IkDMoUU
+    parent_uid: 95bbe82834a95331f28b4b04683e69af
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 6a80235eed5192310732266c31e80c87
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: 2Yl5IkDMoUU
+    parent_uid: 95bbe82834a95331f28b4b04683e69af
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: df8b995cb43f545ad532dab659b2c06d
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/2Yl5IkDMoUU/default.jpg'
+    parent_uid: 95bbe82834a95331f28b4b04683e69af
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 1d848c8192e6d794117ce92a0f109084
+  - id: 2Yl5IkDMoUU.srt
+    parent_uid: 95bbe82834a95331f28b4b04683e69af
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-7-the-analytics-edge/video-7-the-analytics-edge-0/2Yl5IkDMoUU.srt
+    title: 3play caption file
+    type: null
+    uid: e0011575b432c50e2b35a2dbfe55bfa1
+  - id: 2Yl5IkDMoUU.pdf
+    parent_uid: 95bbe82834a95331f28b4b04683e69af
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-7-the-analytics-edge/video-7-the-analytics-edge-0/2Yl5IkDMoUU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8759b0d7baf59cd4cdf90c884bcd1bd1
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 95bbe82834a95331f28b4b04683e69af
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: d7cbe8ce22d296571ad0bb014bd25d33
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 95bbe82834a95331f28b4b04683e69af
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 4f2c33c505e98b179a70080b0cb5dce0
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.3.13_300k.mp4
+    parent_uid: 95bbe82834a95331f28b4b04683e69af
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: b1d3edab575c71c2ff5eab394ab38da1
+inline_embed_id: 21977233video7theanalyticsedge34082407
 parent_uid: d2e3fa0cb97ed8cd0b391b4b43303794
+related_resources_text: ''
+short_url: video-7-the-analytics-edge-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-7-the-analytics-edge/video-7-the-analytics-edge-0
-short_url: video-7-the-analytics-edge-0
-inline_embed_id: 21977233video7theanalyticsedge34082407
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 7: The Analytics Edge'
 transcript: >-
   <p><span m='4500'>Let</span> <span m='4803'>me</span> <span
   m='5107'>comment</span> <span m='5411'>on</span> <span m='5715'>the</span>
@@ -71,56 +120,7 @@ transcript: >-
   m='62782'>and</span> <span m='63584'>Palantir</span> <span
   m='64385'>leading</span> <span m='65187'>the</span> <span
   m='65988'>effort.</span> </p>
-embedded_media:
-  - uid: 6a80235eed5192310732266c31e80c87
-    parent_uid: 95bbe82834a95331f28b4b04683e69af
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 2Yl5IkDMoUU
-  - uid: df8b995cb43f545ad532dab659b2c06d
-    parent_uid: 95bbe82834a95331f28b4b04683e69af
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 2Yl5IkDMoUU
-  - uid: 1d848c8192e6d794117ce92a0f109084
-    parent_uid: 95bbe82834a95331f28b4b04683e69af
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/2Yl5IkDMoUU/default.jpg'
-  - uid: e0011575b432c50e2b35a2dbfe55bfa1
-    parent_uid: 95bbe82834a95331f28b4b04683e69af
-    id: 2Yl5IkDMoUU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-7-the-analytics-edge/video-7-the-analytics-edge-0/2Yl5IkDMoUU.srt
-  - uid: 8759b0d7baf59cd4cdf90c884bcd1bd1
-    parent_uid: 95bbe82834a95331f28b4b04683e69af
-    id: 2Yl5IkDMoUU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/visualization/the-analytical-policeman-visualization-for-law-and-order/video-7-the-analytics-edge/video-7-the-analytics-edge-0/2Yl5IkDMoUU.pdf
-  - uid: d7cbe8ce22d296571ad0bb014bd25d33
-    parent_uid: 95bbe82834a95331f28b4b04683e69af
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 4f2c33c505e98b179a70080b0cb5dce0
-    parent_uid: 95bbe82834a95331f28b4b04683e69af
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: b1d3edab575c71c2ff5eab394ab38da1
-    parent_uid: 95bbe82834a95331f28b4b04683e69af
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_7.3.13_300k.mp4
+uid: 95bbe82834a95331f28b4b04683e69af
 type: courses
 layout: video
 ---

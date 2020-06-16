@@ -1,16 +1,71 @@
 ---
-title: Methods
-uid: 4d35008abe5b834507206156b3172f2d
-parent_uid: c194b3a46abc5e09e9503ce3c8d6e987
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-8-video-solutions/methods
-short_url: methods
-inline_embed_id: 79699565methods86388253
 about_this_resource_text: >-
   <p><strong>Description:</strong> This in-class exercise demonstrates class
   method construction in Python.</p> <p><strong>Instructor:</strong> Dr. Ana
   Bell</p>
+embedded_media:
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: goalLDamePE
+    parent_uid: 4d35008abe5b834507206156b3172f2d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a459a933b86ccac7d4e3ff46184d1445
+  - id: goalLDamePE.srt
+    parent_uid: 4d35008abe5b834507206156b3172f2d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-8-video-solutions/methods/goalLDamePE.srt
+    title: 3play caption file
+    type: null
+    uid: 22dd6623b5e8ec745e8a8b8b7f64e471
+  - id: goalLDamePE.pdf
+    parent_uid: 4d35008abe5b834507206156b3172f2d
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-8-video-solutions/methods/goalLDamePE.pdf
+    title: 3play pdf file
+    type: null
+    uid: 5301e918891dce48fd370769aed6daa4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 4d35008abe5b834507206156b3172f2d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: bbe90ca552e7ce58206ebe969e5d72b6
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 4d35008abe5b834507206156b3172f2d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: c15d06cfab896602f2ec7ff2dcd5a192
+  - id: Video-YouTube-Stream
+    media_location: goalLDamePE
+    parent_uid: 4d35008abe5b834507206156b3172f2d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: fe1c2baddcee941058cc09b70aedff05
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/goalLDamePE/default.jpg'
+    parent_uid: 4d35008abe5b834507206156b3172f2d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 02e5c9fdbd258bbbda45185a0be4b63e
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
+    parent_uid: 4d35008abe5b834507206156b3172f2d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: efbe90817dc0083e6cb2129434f51765
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_08_exercise_03_300k.mp4
+    parent_uid: 4d35008abe5b834507206156b3172f2d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5d64bf7d3610bed8f25656f4742461a3
+inline_embed_id: 79699565methods86388253
+parent_uid: c194b3a46abc5e09e9503ce3c8d6e987
 related_resources_text: ''
+short_url: methods
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-8-video-solutions/methods
+title: Methods
 transcript: >-
   <p><span m='790'>The</span> <span m='880'>following</span> <span
   m='1300'>content</span> <span m='1870'>is</span> <span
@@ -95,62 +150,7 @@ transcript: >-
   <span m='81600'>data</span> <span m='81900'>attribute</span> <span
   m='82560'>of</span> <span m='82710'>a</span> <span m='82740'>particular</span>
   <span m='83400'>object.</span> </p>
-embedded_media:
-  - uid: a459a933b86ccac7d4e3ff46184d1445
-    parent_uid: 4d35008abe5b834507206156b3172f2d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: goalLDamePE
-  - uid: 22dd6623b5e8ec745e8a8b8b7f64e471
-    parent_uid: 4d35008abe5b834507206156b3172f2d
-    id: goalLDamePE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-8-video-solutions/methods/goalLDamePE.srt
-  - uid: 5301e918891dce48fd370769aed6daa4
-    parent_uid: 4d35008abe5b834507206156b3172f2d
-    id: goalLDamePE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-8-video-solutions/methods/goalLDamePE.pdf
-  - uid: bbe90ca552e7ce58206ebe969e5d72b6
-    parent_uid: 4d35008abe5b834507206156b3172f2d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: c15d06cfab896602f2ec7ff2dcd5a192
-    parent_uid: 4d35008abe5b834507206156b3172f2d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: fe1c2baddcee941058cc09b70aedff05
-    parent_uid: 4d35008abe5b834507206156b3172f2d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: goalLDamePE
-  - uid: 02e5c9fdbd258bbbda45185a0be4b63e
-    parent_uid: 4d35008abe5b834507206156b3172f2d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/goalLDamePE/default.jpg'
-  - uid: efbe90817dc0083e6cb2129434f51765
-    parent_uid: 4d35008abe5b834507206156b3172f2d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1192805159'
-  - uid: 5d64bf7d3610bed8f25656f4742461a3
-    parent_uid: 4d35008abe5b834507206156b3172f2d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.0001F16/MIT6_0001F16_Lecture_08_exercise_03_300k.mp4
+uid: 4d35008abe5b834507206156b3172f2d
 type: courses
 layout: video
 ---

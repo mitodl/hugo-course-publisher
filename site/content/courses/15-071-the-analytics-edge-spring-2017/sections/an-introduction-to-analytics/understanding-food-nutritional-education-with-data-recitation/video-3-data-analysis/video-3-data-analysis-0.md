@@ -1,13 +1,68 @@
 ---
-title: 'Video 3: Data Analysis'
-uid: 7b76c708288483f1384a424fbad747de
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: jXu7NEuZED4
+    parent_uid: 7b76c708288483f1384a424fbad747de
+    title: Video-YouTube-Stream
+    type: Video
+    uid: d1d880156c9461c6b0559e69f1b262c7
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: jXu7NEuZED4
+    parent_uid: 7b76c708288483f1384a424fbad747de
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 709c8b1dbbeed446afed56606443a82e
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/jXu7NEuZED4/default.jpg'
+    parent_uid: 7b76c708288483f1384a424fbad747de
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: b8a3dc35ba6fb33d8c906af6306ca804
+  - id: SBWns1XNcuY.srt
+    parent_uid: 7b76c708288483f1384a424fbad747de
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-3-data-analysis/video-3-data-analysis-0/SBWns1XNcuY.srt
+    title: 3play caption file
+    type: null
+    uid: 650d566aa3d175607a55586130bfe56e
+  - id: SBWns1XNcuY.pdf
+    parent_uid: 7b76c708288483f1384a424fbad747de
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-3-data-analysis/video-3-data-analysis-0/SBWns1XNcuY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 6d9663d897fe565eab3ef1e85ecaad2b
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 7b76c708288483f1384a424fbad747de
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 4a1ad22bdf495afee3f96a7eb8703d50
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 7b76c708288483f1384a424fbad747de
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 36e2f4f52f104bffee70c012cd918d04
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.4.04_300k.mp4
+    parent_uid: 7b76c708288483f1384a424fbad747de
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 3b51887c2aa0128e8547ed315a1aa5da
+  - id: Thumbnail-YouTube-JPG_1
+    media_location: 'https://img.youtube.com/vi/jXu7NEuZED4/default.jpg'
+    parent_uid: 7b76c708288483f1384a424fbad747de
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0f58e2212f002943ded0b76aba62d74f
+inline_embed_id: 43990927video3dataanalysis36049110
 parent_uid: 6ad5f5f03eab95b2b2855fe1042f41da
+related_resources_text: ''
+short_url: video-3-data-analysis-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-3-data-analysis/video-3-data-analysis-0
-short_url: video-3-data-analysis-0
-inline_embed_id: 43990927video3dataanalysis36049110
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 3: Data Analysis'
 transcript: >-
   <p><span m='4500'>In</span> <span m='4870'>this</span> <span
   m='5240'>video,</span> <span m='5610'>we</span> <span m='5980'>will</span>
@@ -522,62 +577,7 @@ transcript: >-
   m='458830'>in</span> <span m='459125'>R</span> <span m='459420'>in</span>
   <span m='460020'>our</span> <span m='460620'>next</span> <span
   m='461220'>video.</span> </p>
-embedded_media:
-  - uid: d1d880156c9461c6b0559e69f1b262c7
-    parent_uid: 7b76c708288483f1384a424fbad747de
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: jXu7NEuZED4
-  - uid: 709c8b1dbbeed446afed56606443a82e
-    parent_uid: 7b76c708288483f1384a424fbad747de
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: jXu7NEuZED4
-  - uid: b8a3dc35ba6fb33d8c906af6306ca804
-    parent_uid: 7b76c708288483f1384a424fbad747de
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/jXu7NEuZED4/default.jpg'
-  - uid: 650d566aa3d175607a55586130bfe56e
-    parent_uid: 7b76c708288483f1384a424fbad747de
-    id: SBWns1XNcuY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-3-data-analysis/video-3-data-analysis-0/SBWns1XNcuY.srt
-  - uid: 6d9663d897fe565eab3ef1e85ecaad2b
-    parent_uid: 7b76c708288483f1384a424fbad747de
-    id: SBWns1XNcuY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/an-introduction-to-analytics/understanding-food-nutritional-education-with-data-recitation/video-3-data-analysis/video-3-data-analysis-0/SBWns1XNcuY.pdf
-  - uid: 4a1ad22bdf495afee3f96a7eb8703d50
-    parent_uid: 7b76c708288483f1384a424fbad747de
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 36e2f4f52f104bffee70c012cd918d04
-    parent_uid: 7b76c708288483f1384a424fbad747de
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 3b51887c2aa0128e8547ed315a1aa5da
-    parent_uid: 7b76c708288483f1384a424fbad747de
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_1.4.04_300k.mp4
-  - uid: 0f58e2212f002943ded0b76aba62d74f
-    parent_uid: 7b76c708288483f1384a424fbad747de
-    id: Thumbnail-YouTube-JPG_1
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/jXu7NEuZED4/default.jpg'
+uid: 7b76c708288483f1384a424fbad747de
 type: courses
 layout: video
 ---

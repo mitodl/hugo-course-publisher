@@ -1,13 +1,62 @@
 ---
-title: 'Video 2: The Data'
-uid: ed82049f677a8dce695983b3a25e0bb4
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: vsAzc7GvQSs
+    parent_uid: ed82049f677a8dce695983b3a25e0bb4
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 8cbdd1ea5ae3a0f0191606516eafc42b
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: vsAzc7GvQSs
+    parent_uid: ed82049f677a8dce695983b3a25e0bb4
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 05dbc76709a471d2b053bfd98f243517
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/vsAzc7GvQSs/default.jpg'
+    parent_uid: ed82049f677a8dce695983b3a25e0bb4
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: d3fae9b2a4e32440830237eae17eb55f
+  - id: vsAzc7GvQSs.srt
+    parent_uid: ed82049f677a8dce695983b3a25e0bb4
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/location-location-location-regression-trees-for-housing-data-recitation/video-2-the-data/video-2-the-data-0/vsAzc7GvQSs.srt
+    title: 3play caption file
+    type: null
+    uid: 22a69937380f6f98001f53a6759bd348
+  - id: vsAzc7GvQSs.pdf
+    parent_uid: ed82049f677a8dce695983b3a25e0bb4
+    technical_location: >-
+      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/location-location-location-regression-trees-for-housing-data-recitation/video-2-the-data/video-2-the-data-0/vsAzc7GvQSs.pdf
+    title: 3play pdf file
+    type: null
+    uid: c255af8c24b5e5f30de3b7f99ebf8abc
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: ed82049f677a8dce695983b3a25e0bb4
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 513dcef9aac4642306e3d444ea6fbccf
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: ed82049f677a8dce695983b3a25e0bb4
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 3e1dde1b9aeee458818633d7a4ea2157
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.4.03_300k.mp4
+    parent_uid: ed82049f677a8dce695983b3a25e0bb4
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8cca452a8b8f6a7bf70e6ae84e190457
+inline_embed_id: 71891497video2thedata1508749
 parent_uid: fe8e6610742785e9e33b488d454628d9
+related_resources_text: ''
+short_url: video-2-the-data-0
 technical_location: >-
   https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/location-location-location-regression-trees-for-housing-data-recitation/video-2-the-data/video-2-the-data-0
-short_url: video-2-the-data-0
-inline_embed_id: 71891497video2thedata1508749
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Video 2: The Data'
 transcript: >-
   <p><span m='4520'>Before</span> <span m='4978'>we</span> <span
   m='5437'>jump</span> <span m='5896'>into</span> <span m='6355'>R,</span> <span
@@ -567,56 +616,7 @@ transcript: >-
   m='562093'>explore</span> <span m='562430'>this</span> <span
   m='562766'>more</span> <span m='563103'>in</span> <span m='563440'>the</span>
   <span m='563776'>next</span> <span m='564113'>video.</span> </p>
-embedded_media:
-  - uid: 8cbdd1ea5ae3a0f0191606516eafc42b
-    parent_uid: ed82049f677a8dce695983b3a25e0bb4
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: vsAzc7GvQSs
-  - uid: 05dbc76709a471d2b053bfd98f243517
-    parent_uid: ed82049f677a8dce695983b3a25e0bb4
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: vsAzc7GvQSs
-  - uid: d3fae9b2a4e32440830237eae17eb55f
-    parent_uid: ed82049f677a8dce695983b3a25e0bb4
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/vsAzc7GvQSs/default.jpg'
-  - uid: 22a69937380f6f98001f53a6759bd348
-    parent_uid: ed82049f677a8dce695983b3a25e0bb4
-    id: vsAzc7GvQSs.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/location-location-location-regression-trees-for-housing-data-recitation/video-2-the-data/video-2-the-data-0/vsAzc7GvQSs.srt
-  - uid: c255af8c24b5e5f30de3b7f99ebf8abc
-    parent_uid: ed82049f677a8dce695983b3a25e0bb4
-    id: vsAzc7GvQSs.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/trees/location-location-location-regression-trees-for-housing-data-recitation/video-2-the-data/video-2-the-data-0/vsAzc7GvQSs.pdf
-  - uid: 513dcef9aac4642306e3d444ea6fbccf
-    parent_uid: ed82049f677a8dce695983b3a25e0bb4
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 3e1dde1b9aeee458818633d7a4ea2157
-    parent_uid: ed82049f677a8dce695983b3a25e0bb4
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 8cca452a8b8f6a7bf70e6ae84e190457
-    parent_uid: ed82049f677a8dce695983b3a25e0bb4
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT15.071S17/MIT15_071S17_Session_4.4.03_300k.mp4
+uid: ed82049f677a8dce695983b3a25e0bb4
 type: courses
 layout: video
 ---

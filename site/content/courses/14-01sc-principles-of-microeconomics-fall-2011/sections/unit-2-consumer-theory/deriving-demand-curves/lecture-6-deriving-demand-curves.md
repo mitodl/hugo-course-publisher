@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 6: Deriving Demand Curves'
-uid: 8c8b074228be9431ab3d6e2b53e88d49
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: yCd_OSJmtfg
+    parent_uid: 8c8b074228be9431ab3d6e2b53e88d49
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 1ad0d47f7b448e63c5378810b68dcfc0
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/yCd_OSJmtfg/default.jpg'
+    parent_uid: 8c8b074228be9431ab3d6e2b53e88d49
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 82c9853c6195ac728f958b678cc4cd40
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: yCd_OSJmtfg
+    parent_uid: 8c8b074228be9431ab3d6e2b53e88d49
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: f4b8f45919bb631a54b139a62bfec118
+  - id: yCd_OSJmtfg.srt
+    parent_uid: 8c8b074228be9431ab3d6e2b53e88d49
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/deriving-demand-curves/lecture-6-deriving-demand-curves/yCd_OSJmtfg.srt
+    title: 3play caption file
+    type: null
+    uid: adaa0d31d714cda9f6247c91c7d457f2
+  - id: yCd_OSJmtfg.pdf
+    parent_uid: 8c8b074228be9431ab3d6e2b53e88d49
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/deriving-demand-curves/lecture-6-deriving-demand-curves/yCd_OSJmtfg.pdf
+    title: 3play pdf file
+    type: null
+    uid: f44013d93f8b5e8ea932396a1b83529e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 8c8b074228be9431ab3d6e2b53e88d49
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 79b44f56e75d36c49fe728af0bc78b42
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 8c8b074228be9431ab3d6e2b53e88d49
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 8e7cf01a85e1800f3c4b1894934e155d
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec06_300k.mp4'
+    parent_uid: 8c8b074228be9431ab3d6e2b53e88d49
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: aec1eaf712eb48ca29e4dc12d3eec839
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-6-deriving-demand/id496265654?i=109892739
+    parent_uid: 8c8b074228be9431ab3d6e2b53e88d49
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 175b569ed616924ef976e10e339c8b93
+inline_embed_id: 22598167lecture6derivingdemandcurves15338572
 parent_uid: e0983a2e16f737a8ad574f6bb67502e5
+related_resources_text: ''
+short_url: lecture-6-deriving-demand-curves
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/deriving-demand-curves/lecture-6-deriving-demand-curves
-short_url: lecture-6-deriving-demand-curves
-inline_embed_id: 22598167lecture6derivingdemandcurves15338572
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 6: Deriving Demand Curves'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -3365,62 +3420,7 @@ transcript: >-
   m='2839210'>depending</span> <span m='2839550'>on the sign of</span> <span
   m='2839850'>the</span> <span m='2840150'>Income</span> <span
   m='2840450'>Effect.</span> </p>
-embedded_media:
-  - uid: 1ad0d47f7b448e63c5378810b68dcfc0
-    parent_uid: 8c8b074228be9431ab3d6e2b53e88d49
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: yCd_OSJmtfg
-  - uid: 82c9853c6195ac728f958b678cc4cd40
-    parent_uid: 8c8b074228be9431ab3d6e2b53e88d49
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/yCd_OSJmtfg/default.jpg'
-  - uid: f4b8f45919bb631a54b139a62bfec118
-    parent_uid: 8c8b074228be9431ab3d6e2b53e88d49
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: yCd_OSJmtfg
-  - uid: adaa0d31d714cda9f6247c91c7d457f2
-    parent_uid: 8c8b074228be9431ab3d6e2b53e88d49
-    id: yCd_OSJmtfg.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/deriving-demand-curves/lecture-6-deriving-demand-curves/yCd_OSJmtfg.srt
-  - uid: f44013d93f8b5e8ea932396a1b83529e
-    parent_uid: 8c8b074228be9431ab3d6e2b53e88d49
-    id: yCd_OSJmtfg.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/deriving-demand-curves/lecture-6-deriving-demand-curves/yCd_OSJmtfg.pdf
-  - uid: 79b44f56e75d36c49fe728af0bc78b42
-    parent_uid: 8c8b074228be9431ab3d6e2b53e88d49
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 8e7cf01a85e1800f3c4b1894934e155d
-    parent_uid: 8c8b074228be9431ab3d6e2b53e88d49
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: aec1eaf712eb48ca29e4dc12d3eec839
-    parent_uid: 8c8b074228be9431ab3d6e2b53e88d49
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec06_300k.mp4'
-  - uid: 175b569ed616924ef976e10e339c8b93
-    parent_uid: 8c8b074228be9431ab3d6e2b53e88d49
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-6-deriving-demand/id496265654?i=109892739
+uid: 8c8b074228be9431ab3d6e2b53e88d49
 type: courses
 layout: video
 ---

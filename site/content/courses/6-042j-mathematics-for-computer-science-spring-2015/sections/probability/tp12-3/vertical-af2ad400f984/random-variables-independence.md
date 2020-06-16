@@ -1,13 +1,73 @@
 ---
-title: 'Random Variables: Independence'
-uid: df290a595426a84026f2f7dff79f0d16
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: df290a595426a84026f2f7dff79f0d16
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 92e5e8a9ba6565e032f22fe70847670c
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: df290a595426a84026f2f7dff79f0d16
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: e68cfacd5b035e8cacb20383646a60c2
+  - id: Video-YouTube-Stream
+    media_location: VJzv6WJTtNc
+    parent_uid: df290a595426a84026f2f7dff79f0d16
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0ed6fa89b8a678683d6ed8c17075a099
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/VJzv6WJTtNc/default.jpg'
+    parent_uid: df290a595426a84026f2f7dff79f0d16
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 624c94ffedb0bc6ce6b92246ffc8161a
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: VJzv6WJTtNc
+    parent_uid: df290a595426a84026f2f7dff79f0d16
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 8b12d35c3f4e41d80e4f8debddf63de8
+  - id: VJzv6WJTtNc.srt
+    parent_uid: df290a595426a84026f2f7dff79f0d16
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-3/vertical-af2ad400f984/random-variables-independence/VJzv6WJTtNc.srt
+    title: 3play caption file
+    type: null
+    uid: 9d0553aea092c23d970d716a0c6e762d
+  - id: VJzv6WJTtNc.pdf
+    parent_uid: df290a595426a84026f2f7dff79f0d16
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-3/vertical-af2ad400f984/random-variables-independence/VJzv6WJTtNc.pdf
+    title: 3play pdf file
+    type: null
+    uid: b1f28d90d2ba97203c3edf64dfbc7c0e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: df290a595426a84026f2f7dff79f0d16
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 2aca622109b8329dac3dac01933ffcdf
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: df290a595426a84026f2f7dff79f0d16
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f6c230ab402d7d1062fffe2c01ed33cd
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_ranvarindep_video_ipod.mp4
+    parent_uid: df290a595426a84026f2f7dff79f0d16
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 03fa52fe804232cd78abf08bab92071b
+inline_embed_id: 59352454randomvariablesindependence21664423
 parent_uid: bfa891117165b287cc94bdc357dcb0d4
+related_resources_text: ''
+short_url: random-variables-independence
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-3/vertical-af2ad400f984/random-variables-independence
-short_url: random-variables-independence
-inline_embed_id: 59352454randomvariablesindependence21664423
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Random Variables: Independence'
 transcript: >-
   <p><span m='2060'>PROFESSOR: We</span> <span m='2190'>just saw</span> <span
   m='2560'>some</span> <span m='2860'>random</span> <span
@@ -1121,67 +1181,7 @@ transcript: >-
   m='926920'>and</span> <span m='927190'>the</span> <span m='927480'>law</span>
   <span m='927620'>of</span> <span m='927810'>large</span> <span
   m='928090'>numbers.</span> </p>
-embedded_media:
-  - uid: 92e5e8a9ba6565e032f22fe70847670c
-    parent_uid: df290a595426a84026f2f7dff79f0d16
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: e68cfacd5b035e8cacb20383646a60c2
-    parent_uid: df290a595426a84026f2f7dff79f0d16
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 0ed6fa89b8a678683d6ed8c17075a099
-    parent_uid: df290a595426a84026f2f7dff79f0d16
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: VJzv6WJTtNc
-  - uid: 624c94ffedb0bc6ce6b92246ffc8161a
-    parent_uid: df290a595426a84026f2f7dff79f0d16
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/VJzv6WJTtNc/default.jpg'
-  - uid: 8b12d35c3f4e41d80e4f8debddf63de8
-    parent_uid: df290a595426a84026f2f7dff79f0d16
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: VJzv6WJTtNc
-  - uid: 9d0553aea092c23d970d716a0c6e762d
-    parent_uid: df290a595426a84026f2f7dff79f0d16
-    id: VJzv6WJTtNc.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-3/vertical-af2ad400f984/random-variables-independence/VJzv6WJTtNc.srt
-  - uid: b1f28d90d2ba97203c3edf64dfbc7c0e
-    parent_uid: df290a595426a84026f2f7dff79f0d16
-    id: VJzv6WJTtNc.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp12-3/vertical-af2ad400f984/random-variables-independence/VJzv6WJTtNc.pdf
-  - uid: 2aca622109b8329dac3dac01933ffcdf
-    parent_uid: df290a595426a84026f2f7dff79f0d16
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f6c230ab402d7d1062fffe2c01ed33cd
-    parent_uid: df290a595426a84026f2f7dff79f0d16
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 03fa52fe804232cd78abf08bab92071b
-    parent_uid: df290a595426a84026f2f7dff79f0d16
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_ranvarindep_video_ipod.mp4
+uid: df290a595426a84026f2f7dff79f0d16
 type: courses
 layout: video
 ---

@@ -1,19 +1,91 @@
 ---
-title: 'Lecture 32: Polar Coordinates'
-uid: f546dcd295c9d2010eaadee41c52e29d
-parent_uid: eb1d53c3c4c145f03327e4698375e766
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-32-polar-coordinates
-short_url: lecture-32-polar-coordinates
-inline_embed_id: '35286596lecture32:polarcoordinates1547601'
 about_this_resource_text: >-
   <div class="vidpad"><p><strong>Topics covered:</strong> Polar coordinates;
   area in polar coordinates</p> <p><strong>Instructor:</strong> Prof. David
   Jerison</p></div>
+embedded_media:
+  - id: lec32.jpg
+    parent_uid: f546dcd295c9d2010eaadee41c52e29d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-32-polar-coordinates/lec32.jpg
+    title: Lecture 32
+    type: null
+    uid: b59605a912341e026406f763e2b0a6f9
+  - id: Video-YouTube-Stream
+    media_location: XRkgBWbWvg4
+    parent_uid: f546dcd295c9d2010eaadee41c52e29d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: a0f50d54cafeb5b26bfc33b425a92b55
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/XRkgBWbWvg4/default.jpg'
+    parent_uid: f546dcd295c9d2010eaadee41c52e29d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 97625fb0f75ac7225be26d3ef465b23a
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
+    parent_uid: f546dcd295c9d2010eaadee41c52e29d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 702aad7961a49c04488d066c6d1774c1
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec32_300k.mp4'
+    parent_uid: f546dcd295c9d2010eaadee41c52e29d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 8df9106debe72c802699f2f1026805e7
+  - id: Video-VideoLecturesnet-Stream
+    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
+    parent_uid: f546dcd295c9d2010eaadee41c52e29d
+    title: Video-VideoLectures.net-Stream
+    type: Video
+    uid: 6680bf37cbb92f0c3ff5935f32ee58f6
+  - id: Thumbnail-OCW-JPG
+    parent_uid: f546dcd295c9d2010eaadee41c52e29d
+    title: Thumbnail-OCW-JPG
+    type: Thumbnail
+    uid: c5093e06d99d905cefa4c27552922e40
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: XRkgBWbWvg4
+    parent_uid: f546dcd295c9d2010eaadee41c52e29d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e4e9e13b80596ee64eb14956b49e43e1
+  - id: XRkgBWbWvg4.srt
+    parent_uid: f546dcd295c9d2010eaadee41c52e29d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-32-polar-coordinates/XRkgBWbWvg4.srt
+    title: 3play caption file
+    type: null
+    uid: 00254cb8b9ff42585743aaddd5086f39
+  - id: XRkgBWbWvg4.pdf
+    parent_uid: f546dcd295c9d2010eaadee41c52e29d
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-32-polar-coordinates/XRkgBWbWvg4.pdf
+    title: 3play pdf file
+    type: null
+    uid: eb9cfed229dadaaf3db636de1d2d05f9
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f546dcd295c9d2010eaadee41c52e29d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 7555bde3bd0daa34efd752e6616b07c1
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f546dcd295c9d2010eaadee41c52e29d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 81d0b0bb173ac0bf8c24201a7015c56c
+inline_embed_id: '35286596lecture32:polarcoordinates1547601'
+parent_uid: eb1d53c3c4c145f03327e4698375e766
 related_resources_text: >-
   <div class="vidpad"><p>Lecture Notes (<a
   href="./resolveuid/812b038d42079f12b9c82df443eab41c">PDF -
   2.0MB</a>)</p></div>
+short_url: lecture-32-polar-coordinates
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-32-polar-coordinates
+title: 'Lecture 32: Polar Coordinates'
 transcript: >-
   <p><span m='60'>The</span> <span m='530'>following content</span> <span
   m='1300'>is</span> <span m='1680'>provided under a</span> <span
@@ -2861,79 +2933,7 @@ transcript: >-
   m='2957900'>figure</span> <span m='2958130'>out</span> <span
   m='2958950'>area</span> <span m='2959610'>in</span> <span
   m='2959750'>polar</span> <span m='2960050'>coordinates.</span> </p>
-embedded_media:
-  - uid: b59605a912341e026406f763e2b0a6f9
-    parent_uid: f546dcd295c9d2010eaadee41c52e29d
-    id: lec32.jpg
-    title: Lecture 32
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-32-polar-coordinates/lec32.jpg
-  - uid: a0f50d54cafeb5b26bfc33b425a92b55
-    parent_uid: f546dcd295c9d2010eaadee41c52e29d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: XRkgBWbWvg4
-  - uid: 97625fb0f75ac7225be26d3ef465b23a
-    parent_uid: f546dcd295c9d2010eaadee41c52e29d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/XRkgBWbWvg4/default.jpg'
-  - uid: 702aad7961a49c04488d066c6d1774c1
-    parent_uid: f546dcd295c9d2010eaadee41c52e29d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id354869053'
-  - uid: 8df9106debe72c802699f2f1026805e7
-    parent_uid: f546dcd295c9d2010eaadee41c52e29d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18.01JF07/ocw-18.01-f07-lec32_300k.mp4'
-  - uid: 6680bf37cbb92f0c3ff5935f32ee58f6
-    parent_uid: f546dcd295c9d2010eaadee41c52e29d
-    id: Video-VideoLecturesnet-Stream
-    title: Video-VideoLectures.net-Stream
-    type: Video
-    media_location: 'http://videolectures.net/mit1801f06_single_variable_calculus/'
-  - uid: c5093e06d99d905cefa4c27552922e40
-    parent_uid: f546dcd295c9d2010eaadee41c52e29d
-    id: Thumbnail-OCW-JPG
-    title: Thumbnail-OCW-JPG
-    type: Thumbnail
-  - uid: e4e9e13b80596ee64eb14956b49e43e1
-    parent_uid: f546dcd295c9d2010eaadee41c52e29d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: XRkgBWbWvg4
-  - uid: 00254cb8b9ff42585743aaddd5086f39
-    parent_uid: f546dcd295c9d2010eaadee41c52e29d
-    id: XRkgBWbWvg4.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-32-polar-coordinates/XRkgBWbWvg4.srt
-  - uid: eb9cfed229dadaaf3db636de1d2d05f9
-    parent_uid: f546dcd295c9d2010eaadee41c52e29d
-    id: XRkgBWbWvg4.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/lecture-32-polar-coordinates/XRkgBWbWvg4.pdf
-  - uid: 7555bde3bd0daa34efd752e6616b07c1
-    parent_uid: f546dcd295c9d2010eaadee41c52e29d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 81d0b0bb173ac0bf8c24201a7015c56c
-    parent_uid: f546dcd295c9d2010eaadee41c52e29d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: f546dcd295c9d2010eaadee41c52e29d
 type: courses
 layout: video
 ---

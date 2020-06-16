@@ -1,16 +1,71 @@
 ---
-title: 'Lecture 16: Counting Rules I'
-uid: 246f4ea21123952f21e3c53984b9b218
-parent_uid: 7e5e792254d703550b60881541fa6160
-technical_location: >-
-  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-16-counting-rules-i
-short_url: lecture-16-counting-rules-i
-inline_embed_id: '67941937lecture16:countingrulesi66932881'
 about_this_resource_text: >-
   <p><strong>Description:</strong> Introduces and defines relationships between
   sets and covers how they are used to reason about counting.</p>
   <p><strong>Speaker:</strong> Marten van Dijk</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: pNt5Ll6hGqo
+    parent_uid: 246f4ea21123952f21e3c53984b9b218
+    title: Video-YouTube-Stream
+    type: Video
+    uid: bc2512858fcf54b4fd54e13c23ddbbed
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/pNt5Ll6hGqo/default.jpg'
+    parent_uid: 246f4ea21123952f21e3c53984b9b218
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 28d57067907c26c1944aa65d10e1e908
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-16-counting-rules-i/id503873536?i=110644982
+    parent_uid: 246f4ea21123952f21e3c53984b9b218
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 09068e6a8ed9935e29ee4e9d1fd3e8e9
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec16_300k.mp4'
+    parent_uid: 246f4ea21123952f21e3c53984b9b218
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 72e3ae317696a78b65acbd7a6e5a01d3
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: pNt5Ll6hGqo
+    parent_uid: 246f4ea21123952f21e3c53984b9b218
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: e64be3f2e9b55d4020d7e51d588aac6d
+  - id: pNt5Ll6hGqo.srt
+    parent_uid: 246f4ea21123952f21e3c53984b9b218
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-16-counting-rules-i/pNt5Ll6hGqo.srt
+    title: 3play caption file
+    type: null
+    uid: 482c75bae73505c7f2d0de4185d1abd5
+  - id: pNt5Ll6hGqo.pdf
+    parent_uid: 246f4ea21123952f21e3c53984b9b218
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-16-counting-rules-i/pNt5Ll6hGqo.pdf
+    title: 3play pdf file
+    type: null
+    uid: d9cfa23d44c5aa8f81fae627d0bb30dd
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 246f4ea21123952f21e3c53984b9b218
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ef8933442d68c98f53081649efe92d4c
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 246f4ea21123952f21e3c53984b9b218
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 98079fb2fe9b967f73cb5b09dcb7ada8
+inline_embed_id: '67941937lecture16:countingrulesi66932881'
+parent_uid: 7e5e792254d703550b60881541fa6160
 related_resources_text: ''
+short_url: lecture-16-counting-rules-i
+technical_location: >-
+  https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-16-counting-rules-i
+title: 'Lecture 16: Counting Rules I'
 transcript: >-
   <p><span m='390'>The</span> <span m='520'>following</span> <span
   m='950'>content</span> <span m='1550'>is</span> <span m='1670'>provided</span>
@@ -4038,62 +4093,7 @@ transcript: >-
   m='4794470'>right.</span> <span m='4794530'>Good</span> <span
   m='4794780'>luck</span> <span m='4794980'>with</span> <span
   m='4795060'>the</span> <span m='4795140'>problems.</span> </p>
-embedded_media:
-  - uid: bc2512858fcf54b4fd54e13c23ddbbed
-    parent_uid: 246f4ea21123952f21e3c53984b9b218
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: pNt5Ll6hGqo
-  - uid: 28d57067907c26c1944aa65d10e1e908
-    parent_uid: 246f4ea21123952f21e3c53984b9b218
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/pNt5Ll6hGqo/default.jpg'
-  - uid: 09068e6a8ed9935e29ee4e9d1fd3e8e9
-    parent_uid: 246f4ea21123952f21e3c53984b9b218
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-16-counting-rules-i/id503873536?i=110644982
-  - uid: 72e3ae317696a78b65acbd7a6e5a01d3
-    parent_uid: 246f4ea21123952f21e3c53984b9b218
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT6.042JF10/MIT6_042JF10_lec16_300k.mp4'
-  - uid: e64be3f2e9b55d4020d7e51d588aac6d
-    parent_uid: 246f4ea21123952f21e3c53984b9b218
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: pNt5Ll6hGqo
-  - uid: 482c75bae73505c7f2d0de4185d1abd5
-    parent_uid: 246f4ea21123952f21e3c53984b9b218
-    id: pNt5Ll6hGqo.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-16-counting-rules-i/pNt5Ll6hGqo.srt
-  - uid: d9cfa23d44c5aa8f81fae627d0bb30dd
-    parent_uid: 246f4ea21123952f21e3c53984b9b218
-    id: pNt5Ll6hGqo.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/lecture-16-counting-rules-i/pNt5Ll6hGqo.pdf
-  - uid: ef8933442d68c98f53081649efe92d4c
-    parent_uid: 246f4ea21123952f21e3c53984b9b218
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 98079fb2fe9b967f73cb5b09dcb7ada8
-    parent_uid: 246f4ea21123952f21e3c53984b9b218
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 246f4ea21123952f21e3c53984b9b218
 type: courses
 layout: video
 ---

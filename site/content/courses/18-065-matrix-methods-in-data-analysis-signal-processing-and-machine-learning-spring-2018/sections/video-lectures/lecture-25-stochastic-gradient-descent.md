@@ -1,11 +1,4 @@
 ---
-title: 'Lecture 25: Stochastic Gradient Descent'
-uid: cc1df015cfc3b3dd42f1d611e51bd754
-parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
-technical_location: >-
-  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-25-stochastic-gradient-descent
-short_url: lecture-25-stochastic-gradient-descent
-inline_embed_id: 40324935lecture25stochasticgradientdescent12038985
 about_this_resource_text: >-
   <h2 class="subhead"><strong>Description</strong></h2> <p>Professor Suvrit Sra
   gives this guest lecture on stochastic gradient descent (SGD), which randomly
@@ -17,7 +10,62 @@ about_this_resource_text: >-
   Later the points bounce around / time to stop!<br /> This method is the
   favorite for weights in deep learning.</p> <p>Related section in textbook:
   VI.5</p> <p><strong>Instructor:</strong> Prof. Suvrit Sra</p>
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: k3AiUhwHQ28
+    parent_uid: cc1df015cfc3b3dd42f1d611e51bd754
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 0ea931100abed6bc8158e8a3631cdaf5
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/k3AiUhwHQ28/default.jpg'
+    parent_uid: cc1df015cfc3b3dd42f1d611e51bd754
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9600ab2d6f18410a23a46c277cb60e34
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: k3AiUhwHQ28
+    parent_uid: cc1df015cfc3b3dd42f1d611e51bd754
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: a8503c5ddcebf0859e240258af86af90
+  - id: k3AiUhwHQ28.srt
+    parent_uid: cc1df015cfc3b3dd42f1d611e51bd754
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-25-stochastic-gradient-descent/k3AiUhwHQ28.srt
+    title: 3play caption file
+    type: null
+    uid: bca9549562cd13b0b19e8603c9dcbbcd
+  - id: k3AiUhwHQ28.pdf
+    parent_uid: cc1df015cfc3b3dd42f1d611e51bd754
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-25-stochastic-gradient-descent/k3AiUhwHQ28.pdf
+    title: 3play pdf file
+    type: null
+    uid: 7bf2bdc7cbce8d9cb6bad91a140f0227
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: cc1df015cfc3b3dd42f1d611e51bd754
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ec0dc228d62f513521220ec9263cf09d
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: cc1df015cfc3b3dd42f1d611e51bd754
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: ad3b318224d834c9bb39e0522778126d
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture25_300k.mp4'
+    parent_uid: cc1df015cfc3b3dd42f1d611e51bd754
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 5139574f5e489f324ebf1f430813193d
+inline_embed_id: 40324935lecture25stochasticgradientdescent12038985
+parent_uid: 6fbb9713721ef6bdefadaa8b81b5e9e6
 related_resources_text: ''
+short_url: lecture-25-stochastic-gradient-descent
+technical_location: >-
+  https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-25-stochastic-gradient-descent
+title: 'Lecture 25: Stochastic Gradient Descent'
 transcript: >-
   <p><span m="1550">The</span> <span m="1640">following</span> <span
   m="2090">content</span> <span m="2600">is</span> <span
@@ -3448,55 +3496,7 @@ transcript: >-
   m="3180020">think</span> <span m="3180260">so.</span> <span
   m="3180695">That'll</span> <span m="3181160">be</span> <span
   m="3181250">great.</span></p>
-embedded_media:
-  - uid: 0ea931100abed6bc8158e8a3631cdaf5
-    parent_uid: cc1df015cfc3b3dd42f1d611e51bd754
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: k3AiUhwHQ28
-  - uid: 9600ab2d6f18410a23a46c277cb60e34
-    parent_uid: cc1df015cfc3b3dd42f1d611e51bd754
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/k3AiUhwHQ28/default.jpg'
-  - uid: a8503c5ddcebf0859e240258af86af90
-    parent_uid: cc1df015cfc3b3dd42f1d611e51bd754
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: k3AiUhwHQ28
-  - uid: bca9549562cd13b0b19e8603c9dcbbcd
-    parent_uid: cc1df015cfc3b3dd42f1d611e51bd754
-    id: k3AiUhwHQ28.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-25-stochastic-gradient-descent/k3AiUhwHQ28.srt
-  - uid: 7bf2bdc7cbce8d9cb6bad91a140f0227
-    parent_uid: cc1df015cfc3b3dd42f1d611e51bd754
-    id: k3AiUhwHQ28.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/lecture-25-stochastic-gradient-descent/k3AiUhwHQ28.pdf
-  - uid: ec0dc228d62f513521220ec9263cf09d
-    parent_uid: cc1df015cfc3b3dd42f1d611e51bd754
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: ad3b318224d834c9bb39e0522778126d
-    parent_uid: cc1df015cfc3b3dd42f1d611e51bd754
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 5139574f5e489f324ebf1f430813193d
-    parent_uid: cc1df015cfc3b3dd42f1d611e51bd754
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT18.065S18/MIT18_065S18_Lecture25_300k.mp4'
+uid: cc1df015cfc3b3dd42f1d611e51bd754
 type: courses
 layout: video
 ---

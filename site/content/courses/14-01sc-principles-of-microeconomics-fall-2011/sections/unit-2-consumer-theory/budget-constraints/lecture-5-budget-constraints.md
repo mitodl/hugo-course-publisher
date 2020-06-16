@@ -1,13 +1,68 @@
 ---
-title: 'Lecture 5: Budget Constraints'
-uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: TIWE0DaOlzU
+    parent_uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 22ca31e84902871fdcce62681116d104
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/TIWE0DaOlzU/default.jpg'
+    parent_uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 9766d2b3d56c35e184954e5f578d78e1
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: TIWE0DaOlzU
+    parent_uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 0bc036daf7dbe6fc51e79f3cce953d11
+  - id: TIWE0DaOlzU.srt
+    parent_uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/budget-constraints/lecture-5-budget-constraints/TIWE0DaOlzU.srt
+    title: 3play caption file
+    type: null
+    uid: a195f7541eaf519be658b7e6bee81ee3
+  - id: TIWE0DaOlzU.pdf
+    parent_uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
+    technical_location: >-
+      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/budget-constraints/lecture-5-budget-constraints/TIWE0DaOlzU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 857f022fb1baf4f84b0dda0432c5f6e4
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 46fdf31dabd15ff44949a9c73dc84f21
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f16f59ee13c4388a2d011029877a37ef
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec05_300k.mp4'
+    parent_uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2552ab0c8b6847a22913d0df302f94ca
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/itunes-u/lecture-5-budget-constraints/id496265654?i=109892752
+    parent_uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: bb7bb4efad1dc57c55a752af5ee368b9
+inline_embed_id: 63052926lecture5budgetconstraints8049769
 parent_uid: 0c0a7957a70dea1c20bc11996dd1090c
+related_resources_text: ''
+short_url: lecture-5-budget-constraints
 technical_location: >-
   https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/budget-constraints/lecture-5-budget-constraints
-short_url: lecture-5-budget-constraints
-inline_embed_id: 63052926lecture5budgetconstraints8049769
-about_this_resource_text: ''
-related_resources_text: ''
+title: 'Lecture 5: Budget Constraints'
 transcript: >-
   <p><span m='40'>The</span> <span m='150'>following</span> <span
   m='590'>content</span> <span m='1180'>is</span> <span m='1300'>provided</span>
@@ -3209,62 +3264,7 @@ transcript: >-
   m='2772000'>can</span> <span m='2772120'>change the</span> <span
   m='2772410'>choices</span> <span m='2772760'>you</span> <span
   m='2772860'>make.</span> </p>
-embedded_media:
-  - uid: 22ca31e84902871fdcce62681116d104
-    parent_uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: TIWE0DaOlzU
-  - uid: 9766d2b3d56c35e184954e5f578d78e1
-    parent_uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/TIWE0DaOlzU/default.jpg'
-  - uid: 0bc036daf7dbe6fc51e79f3cce953d11
-    parent_uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: TIWE0DaOlzU
-  - uid: a195f7541eaf519be658b7e6bee81ee3
-    parent_uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
-    id: TIWE0DaOlzU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/budget-constraints/lecture-5-budget-constraints/TIWE0DaOlzU.srt
-  - uid: 857f022fb1baf4f84b0dda0432c5f6e4
-    parent_uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
-    id: TIWE0DaOlzU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/unit-2-consumer-theory/budget-constraints/lecture-5-budget-constraints/TIWE0DaOlzU.pdf
-  - uid: 46fdf31dabd15ff44949a9c73dc84f21
-    parent_uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f16f59ee13c4388a2d011029877a37ef
-    parent_uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 2552ab0c8b6847a22913d0df302f94ca
-    parent_uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT14.01SCF10/MIT14_01SCF10_lec05_300k.mp4'
-  - uid: bb7bb4efad1dc57c55a752af5ee368b9
-    parent_uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/itunes-u/lecture-5-budget-constraints/id496265654?i=109892752
+uid: bf5f3fc6c5f20035f1c3e3154fc7c07d
 type: courses
 layout: video
 ---

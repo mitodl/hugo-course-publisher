@@ -1,13 +1,67 @@
 ---
-title: Eigenstates of the Hamiltonian
-uid: f31a1547feef29e31990e0254167cca5
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 3Cij8HYKXOk
+    parent_uid: f31a1547feef29e31990e0254167cca5
+    title: Video-YouTube-Stream
+    type: Video
+    uid: fc0c107439b768a3616ba2ed9641a1a8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/3Cij8HYKXOk/default.jpg'
+    parent_uid: f31a1547feef29e31990e0254167cca5
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: e4eb92421777303acf286aa44fb14305
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 3Cij8HYKXOk
+    parent_uid: f31a1547feef29e31990e0254167cca5
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 770b0dde69cf74756aa2c64a6465d5d4
+  - id: 3Cij8HYKXOk.srt
+    parent_uid: f31a1547feef29e31990e0254167cca5
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/eigenstates-of-the-hamiltonian/3Cij8HYKXOk.srt
+    title: 3play caption file
+    type: null
+    uid: d8517591e8679fd2a2d57c765878042e
+  - id: 3Cij8HYKXOk.pdf
+    parent_uid: f31a1547feef29e31990e0254167cca5
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/eigenstates-of-the-hamiltonian/3Cij8HYKXOk.pdf
+    title: 3play pdf file
+    type: null
+    uid: 44c69b5eca28dccea96037ec70eb5cec
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: f31a1547feef29e31990e0254167cca5
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: ee22a74870f0b5fd07fd64d3f92193e7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: f31a1547feef29e31990e0254167cca5
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 46d1eaa67ae8fede51e6ff1d777756ef
+  - id: Video-iTunesU-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
+    parent_uid: f31a1547feef29e31990e0254167cca5
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 40b81b351ae3d9183b5f3d11d1ff6834
+  - id: Video-InternetArchive-MP4
+    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec24_s4_300k.mp4'
+    parent_uid: f31a1547feef29e31990e0254167cca5
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: a927b0fbf819b5bd4ccdda23eb495582
+inline_embed_id: 41039617eigenstatesofthehamiltonian86785627
 parent_uid: 8d915edda01487758e5f16d04eeccd76
+related_resources_text: ''
+short_url: eigenstates-of-the-hamiltonian
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/eigenstates-of-the-hamiltonian
-short_url: eigenstates-of-the-hamiltonian
-inline_embed_id: 41039617eigenstatesofthehamiltonian86785627
-about_this_resource_text: ''
-related_resources_text: ''
+title: Eigenstates of the Hamiltonian
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='127'>I</span> <span
   m='255'>want</span> <span m='510'>to</span> <span m='760'>just</span> <span
@@ -648,61 +702,7 @@ transcript: >-
   m='838840'>So</span> <span m='840190'>it's</span> <span m='841330'>a</span>
   <span m='841420'>good</span> <span m='841720'>place</span> <span
   m='842110'>to</span> <span m='842270'>stop.</span> </p>
-embedded_media:
-  - uid: fc0c107439b768a3616ba2ed9641a1a8
-    parent_uid: f31a1547feef29e31990e0254167cca5
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 3Cij8HYKXOk
-  - uid: e4eb92421777303acf286aa44fb14305
-    parent_uid: f31a1547feef29e31990e0254167cca5
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/3Cij8HYKXOk/default.jpg'
-  - uid: 770b0dde69cf74756aa2c64a6465d5d4
-    parent_uid: f31a1547feef29e31990e0254167cca5
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 3Cij8HYKXOk
-  - uid: d8517591e8679fd2a2d57c765878042e
-    parent_uid: f31a1547feef29e31990e0254167cca5
-    id: 3Cij8HYKXOk.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/eigenstates-of-the-hamiltonian/3Cij8HYKXOk.srt
-  - uid: 44c69b5eca28dccea96037ec70eb5cec
-    parent_uid: f31a1547feef29e31990e0254167cca5
-    id: 3Cij8HYKXOk.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/video-lectures/part-3/eigenstates-of-the-hamiltonian/3Cij8HYKXOk.pdf
-  - uid: ee22a74870f0b5fd07fd64d3f92193e7
-    parent_uid: f31a1547feef29e31990e0254167cca5
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 46d1eaa67ae8fede51e6ff1d777756ef
-    parent_uid: f31a1547feef29e31990e0254167cca5
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 40b81b351ae3d9183b5f3d11d1ff6834
-    parent_uid: f31a1547feef29e31990e0254167cca5
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1251079217'
-  - uid: a927b0fbf819b5bd4ccdda23eb495582
-    parent_uid: f31a1547feef29e31990e0254167cca5
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'https://archive.org/download/MIT8.04S16/MIT8_04S16_lec24_s4_300k.mp4'
+uid: f31a1547feef29e31990e0254167cca5
 type: courses
 layout: video
 ---

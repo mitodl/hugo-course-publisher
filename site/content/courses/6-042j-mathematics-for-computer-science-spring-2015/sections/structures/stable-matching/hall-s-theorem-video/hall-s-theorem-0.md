@@ -1,13 +1,73 @@
 ---
-title: Hall's Theorem
-uid: 9275766a29629b0c629a7035ff5c4349
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: 9275766a29629b0c629a7035ff5c4349
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 2348d95999734c0bf952492fe0df4996
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: 9275766a29629b0c629a7035ff5c4349
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 6b3995699cbac2f08b13efd4dd35c578
+  - id: Video-YouTube-Stream
+    media_location: i5AWE-OoOsY
+    parent_uid: 9275766a29629b0c629a7035ff5c4349
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 5d82b04852930f7552e725888e9259ee
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/i5AWE-OoOsY/default.jpg'
+    parent_uid: 9275766a29629b0c629a7035ff5c4349
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 251930f78198dc58505ddea521913759
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: i5AWE-OoOsY
+    parent_uid: 9275766a29629b0c629a7035ff5c4349
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 066065f0eed290f4cc60601091549273
+  - id: i5AWE-OoOsY.srt
+    parent_uid: 9275766a29629b0c629a7035ff5c4349
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/hall-s-theorem-video/hall-s-theorem-0/i5AWE-OoOsY.srt
+    title: 3play caption file
+    type: null
+    uid: f3075b9b15278989570996c08f9d2580
+  - id: i5AWE-OoOsY.pdf
+    parent_uid: 9275766a29629b0c629a7035ff5c4349
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/hall-s-theorem-video/hall-s-theorem-0/i5AWE-OoOsY.pdf
+    title: 3play pdf file
+    type: null
+    uid: 92b3f286236e98298df360c0c9738a9f
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 9275766a29629b0c629a7035ff5c4349
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 109b6cd0561b9a5e059a65aadf817a31
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 9275766a29629b0c629a7035ff5c4349
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 0303560636cd957d772924bc4773f244
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_halltheorem_ipod.mp4
+    parent_uid: 9275766a29629b0c629a7035ff5c4349
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: ead9b1836ee4370078185d5603da040d
+inline_embed_id: 15777569hallstheorem29740122
 parent_uid: f8d9d92ec10a0641bd7b591f5cb8b3b0
+related_resources_text: ''
+short_url: hall-s-theorem-0
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/hall-s-theorem-video/hall-s-theorem-0
-short_url: hall-s-theorem-0
-inline_embed_id: 15777569hallstheorem29740122
-about_this_resource_text: ''
-related_resources_text: ''
+title: Hall's Theorem
 transcript: >-
   <p><span m='720'>PROFESSOR:</span> <span m='1080'>So</span> <span
   m='1280'>let's</span> <span m='1570'>get</span> <span m='1760'>set</span>
@@ -1129,67 +1189,7 @@ transcript: >-
   m='925430'>completes</span> <span m='925980'>the</span> <span
   m='926070'>proof</span> <span m='926945'>of</span> <span
   m='927330'>Hall's</span> <span m='927630'>theorem.</span> </p>
-embedded_media:
-  - uid: 2348d95999734c0bf952492fe0df4996
-    parent_uid: 9275766a29629b0c629a7035ff5c4349
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 6b3995699cbac2f08b13efd4dd35c578
-    parent_uid: 9275766a29629b0c629a7035ff5c4349
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 5d82b04852930f7552e725888e9259ee
-    parent_uid: 9275766a29629b0c629a7035ff5c4349
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: i5AWE-OoOsY
-  - uid: 251930f78198dc58505ddea521913759
-    parent_uid: 9275766a29629b0c629a7035ff5c4349
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/i5AWE-OoOsY/default.jpg'
-  - uid: 066065f0eed290f4cc60601091549273
-    parent_uid: 9275766a29629b0c629a7035ff5c4349
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: i5AWE-OoOsY
-  - uid: f3075b9b15278989570996c08f9d2580
-    parent_uid: 9275766a29629b0c629a7035ff5c4349
-    id: i5AWE-OoOsY.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/hall-s-theorem-video/hall-s-theorem-0/i5AWE-OoOsY.srt
-  - uid: 92b3f286236e98298df360c0c9738a9f
-    parent_uid: 9275766a29629b0c629a7035ff5c4349
-    id: i5AWE-OoOsY.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/structures/stable-matching/hall-s-theorem-video/hall-s-theorem-0/i5AWE-OoOsY.pdf
-  - uid: 109b6cd0561b9a5e059a65aadf817a31
-    parent_uid: 9275766a29629b0c629a7035ff5c4349
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 0303560636cd957d772924bc4773f244
-    parent_uid: 9275766a29629b0c629a7035ff5c4349
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: ead9b1836ee4370078185d5603da040d
-    parent_uid: 9275766a29629b0c629a7035ff5c4349
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_halltheorem_ipod.mp4
+uid: 9275766a29629b0c629a7035ff5c4349
 type: courses
 layout: video
 ---

@@ -1,13 +1,61 @@
 ---
-title: Air Cart Between Springs
-uid: e2d761bd7702b88f4e7a3b35933ecd1c
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: 4ysFC9vd3GE
+    parent_uid: e2d761bd7702b88f4e7a3b35933ecd1c
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 14a34c8b6529e209253769f9988ac76f
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/4ysFC9vd3GE/default.jpg'
+    parent_uid: e2d761bd7702b88f4e7a3b35933ecd1c
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 416fd45b9ff888e55305d7832789d8ee
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: 4ysFC9vd3GE
+    parent_uid: e2d761bd7702b88f4e7a3b35933ecd1c
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 348cc5005677278a1d281f6ba91ade6c
+  - id: 4ysFC9vd3GE.srt
+    parent_uid: e2d761bd7702b88f4e7a3b35933ecd1c
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-1/lecture-1-video-pop1/4ysFC9vd3GE.srt
+    title: 3play caption file
+    type: null
+    uid: 9c192efef842c42c0e58a3a0c63aa67a
+  - id: 4ysFC9vd3GE.pdf
+    parent_uid: e2d761bd7702b88f4e7a3b35933ecd1c
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-1/lecture-1-video-pop1/4ysFC9vd3GE.pdf
+    title: 3play pdf file
+    type: null
+    uid: b5c2191208ba5ca0ef26a59f8eefe5e0
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: e2d761bd7702b88f4e7a3b35933ecd1c
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: f52f6c2e83617f3241e86680371aa930
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: e2d761bd7702b88f4e7a3b35933ecd1c
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 95e5ac5f800992fd4f14f0afc9aab34d
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec01_300k.mp4'
+    parent_uid: e2d761bd7702b88f4e7a3b35933ecd1c
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 67f7ab34234035c56b7f28dc86e145a8
+inline_embed_id: 55982728lecture1videopopup59500130
 parent_uid: 4f5f49df08e67313a6c5d113aba431c2
+related_resources_text: ''
+short_url: lecture-1-video-pop1
 technical_location: >-
   https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-1/lecture-1-video-pop1
-short_url: lecture-1-video-pop1
-inline_embed_id: 55982728lecture1videopopup59500130
-about_this_resource_text: ''
-related_resources_text: ''
+title: Air Cart Between Springs
 transcript: >-
   <p><span m="2490">The</span> <span m="2580">following</span> <span
   m="3030">content</span> <span m="3510">is</span> <span
@@ -2809,55 +2857,7 @@ transcript: >-
   m="3409880">I'm</span> <span m="3410150">here</span> <span
   m="3410520">available</span> <span m="3413570">to</span> <span
   m="3413690">help</span> <span m="3413930">you.</span></p>
-embedded_media:
-  - uid: 14a34c8b6529e209253769f9988ac76f
-    parent_uid: e2d761bd7702b88f4e7a3b35933ecd1c
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: 4ysFC9vd3GE
-  - uid: 416fd45b9ff888e55305d7832789d8ee
-    parent_uid: e2d761bd7702b88f4e7a3b35933ecd1c
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/4ysFC9vd3GE/default.jpg'
-  - uid: 348cc5005677278a1d281f6ba91ade6c
-    parent_uid: e2d761bd7702b88f4e7a3b35933ecd1c
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: 4ysFC9vd3GE
-  - uid: 9c192efef842c42c0e58a3a0c63aa67a
-    parent_uid: e2d761bd7702b88f4e7a3b35933ecd1c
-    id: 4ysFC9vd3GE.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-1/lecture-1-video-pop1/4ysFC9vd3GE.srt
-  - uid: b5c2191208ba5ca0ef26a59f8eefe5e0
-    parent_uid: e2d761bd7702b88f4e7a3b35933ecd1c
-    id: 4ysFC9vd3GE.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/part-i-mechanical-vibrations-and-waves/lecture-1/lecture-1-video-pop1/4ysFC9vd3GE.pdf
-  - uid: f52f6c2e83617f3241e86680371aa930
-    parent_uid: e2d761bd7702b88f4e7a3b35933ecd1c
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 95e5ac5f800992fd4f14f0afc9aab34d
-    parent_uid: e2d761bd7702b88f4e7a3b35933ecd1c
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 67f7ab34234035c56b7f28dc86e145a8
-    parent_uid: e2d761bd7702b88f4e7a3b35933ecd1c
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_lec01_300k.mp4'
+uid: e2d761bd7702b88f4e7a3b35933ecd1c
 type: courses
 layout: video
 ---

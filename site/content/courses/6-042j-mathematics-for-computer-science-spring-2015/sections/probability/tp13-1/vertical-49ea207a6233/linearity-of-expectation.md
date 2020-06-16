@@ -1,13 +1,73 @@
 ---
-title: Linearity Of Expectation
-uid: acb46c9ed0416f6f338d093458e7eed1
+about_this_resource_text: ''
+embedded_media:
+  - id: background-image-ocw-jpg
+    parent_uid: acb46c9ed0416f6f338d093458e7eed1
+    title: Background Image-OCW-JPG
+    type: Background Image
+    uid: 53c1f55fe5b55dc18e761f14d40cca55
+  - id: Video-iTunes U-MP4
+    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
+    parent_uid: acb46c9ed0416f6f338d093458e7eed1
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 06ba5b870eb010d7c65c095a585ae648
+  - id: Video-YouTube-Stream
+    media_location: KFcodn4qfrQ
+    parent_uid: acb46c9ed0416f6f338d093458e7eed1
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 78adc46c7fcdf72afd3e9222f6e4a0f2
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/KFcodn4qfrQ/default.jpg'
+    parent_uid: acb46c9ed0416f6f338d093458e7eed1
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 8be32f845998ba8f487b523c581195dd
+  - id: 3Play-3Play YouTube id-Stream
+    media_location: KFcodn4qfrQ
+    parent_uid: acb46c9ed0416f6f338d093458e7eed1
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: 5ddc6eedee19e6ce42ca6757de003a6b
+  - id: KFcodn4qfrQ.srt
+    parent_uid: acb46c9ed0416f6f338d093458e7eed1
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-49ea207a6233/linearity-of-expectation/KFcodn4qfrQ.srt
+    title: 3play caption file
+    type: null
+    uid: b8c51a6d6d1726f1d20bd0e12b2ee967
+  - id: KFcodn4qfrQ.pdf
+    parent_uid: acb46c9ed0416f6f338d093458e7eed1
+    technical_location: >-
+      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-49ea207a6233/linearity-of-expectation/KFcodn4qfrQ.pdf
+    title: 3play pdf file
+    type: null
+    uid: 8abcfa1fbf4a00f7725831b7c214f38a
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: acb46c9ed0416f6f338d093458e7eed1
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: a0b646e3cc7a1e3b1232d1dfe574c5e8
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: acb46c9ed0416f6f338d093458e7eed1
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: d35bb5e636552dbdaa91df64a55257ec
+  - id: Video-Internet Archive-MP4
+    media_location: >-
+      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_expectlinear_video_ipod.mp4
+    parent_uid: acb46c9ed0416f6f338d093458e7eed1
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 48d5bf7354f7d673e2444e0a4b6a3dfc
+inline_embed_id: 21100694linearityofexpectation83896910
 parent_uid: 726b3c5f6c9f36776c3fc0f1fc6c579a
+related_resources_text: ''
+short_url: linearity-of-expectation
 technical_location: >-
   https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-49ea207a6233/linearity-of-expectation
-short_url: linearity-of-expectation
-inline_embed_id: 21100694linearityofexpectation83896910
-about_this_resource_text: ''
-related_resources_text: ''
+title: Linearity Of Expectation
 transcript: >-
   <p><span m='1210'>PROFESSOR: So</span> <span m='1430'>we've</span> <span
   m='1600'>been</span> <span m='1720'>saving</span> <span m='2080'>for</span>
@@ -1323,67 +1383,7 @@ transcript: >-
   m='1105230'>made</span> <span m='1105450'>this</span> <span
   m='1105640'>blunder.</span> <span m='1106360'>You</span> <span
   m='1106520'>shouldn't.</span> </p>
-embedded_media:
-  - uid: 53c1f55fe5b55dc18e761f14d40cca55
-    parent_uid: acb46c9ed0416f6f338d093458e7eed1
-    id: background-image-ocw-jpg
-    title: Background Image-OCW-JPG
-    type: Background Image
-  - uid: 06ba5b870eb010d7c65c095a585ae648
-    parent_uid: acb46c9ed0416f6f338d093458e7eed1
-    id: Video-iTunes U-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: 'https://itunes.apple.com/us/itunes-u/id1077791636'
-  - uid: 78adc46c7fcdf72afd3e9222f6e4a0f2
-    parent_uid: acb46c9ed0416f6f338d093458e7eed1
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: KFcodn4qfrQ
-  - uid: 8be32f845998ba8f487b523c581195dd
-    parent_uid: acb46c9ed0416f6f338d093458e7eed1
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/KFcodn4qfrQ/default.jpg'
-  - uid: 5ddc6eedee19e6ce42ca6757de003a6b
-    parent_uid: acb46c9ed0416f6f338d093458e7eed1
-    id: 3Play-3Play YouTube id-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: KFcodn4qfrQ
-  - uid: b8c51a6d6d1726f1d20bd0e12b2ee967
-    parent_uid: acb46c9ed0416f6f338d093458e7eed1
-    id: KFcodn4qfrQ.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-49ea207a6233/linearity-of-expectation/KFcodn4qfrQ.srt
-  - uid: 8abcfa1fbf4a00f7725831b7c214f38a
-    parent_uid: acb46c9ed0416f6f338d093458e7eed1
-    id: KFcodn4qfrQ.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/probability/tp13-1/vertical-49ea207a6233/linearity-of-expectation/KFcodn4qfrQ.pdf
-  - uid: a0b646e3cc7a1e3b1232d1dfe574c5e8
-    parent_uid: acb46c9ed0416f6f338d093458e7eed1
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: d35bb5e636552dbdaa91df64a55257ec
-    parent_uid: acb46c9ed0416f6f338d093458e7eed1
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 48d5bf7354f7d673e2444e0a4b6a3dfc
-    parent_uid: acb46c9ed0416f6f338d093458e7eed1
-    id: Video-Internet Archive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      https://archive.org/download/MIT6.042JS15/MIT6_042JS15_expectlinear_video_ipod.mp4
+uid: acb46c9ed0416f6f338d093458e7eed1
 type: courses
 layout: video
 ---

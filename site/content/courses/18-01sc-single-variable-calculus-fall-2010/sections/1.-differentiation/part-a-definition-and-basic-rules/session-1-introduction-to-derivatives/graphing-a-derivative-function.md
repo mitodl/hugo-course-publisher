@@ -1,13 +1,68 @@
 ---
-title: Graphing a Derivative Function
-uid: 986c985f9ac9b235c1baf858cc73e925
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: Gbtma_UQpro
+    parent_uid: 986c985f9ac9b235c1baf858cc73e925
+    title: Video-YouTube-Stream
+    type: Video
+    uid: 104723506c2bf913bf54f11df46178c8
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/Gbtma_UQpro/default.jpg'
+    parent_uid: 986c985f9ac9b235c1baf858cc73e925
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 0523eb58c2505a0540bc341c3ab6373a
+  - id: Video-iTunesU-MP4
+    media_location: >-
+      http://itunes.apple.com/us/podcast/graphing-derivative-function/id414308064?i=90318626
+    parent_uid: 986c985f9ac9b235c1baf858cc73e925
+    title: Video-iTunes U-MP4
+    type: Video
+    uid: 288ec58beb17c9ecd259878d36f69343
+  - id: Video-InternetArchive-MP4
+    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_02_300k.mp4'
+    parent_uid: 986c985f9ac9b235c1baf858cc73e925
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 4d2027b813de04a905e2310f95d267fb
+  - id: 3Play-3PlayYouTubeid-Stream
+    media_location: Gbtma_UQpro
+    parent_uid: 986c985f9ac9b235c1baf858cc73e925
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: b7928f278faa1bc18c73a580f6f57439
+  - id: Gbtma_UQpro.srt
+    parent_uid: 986c985f9ac9b235c1baf858cc73e925
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/graphing-a-derivative-function/Gbtma_UQpro.srt
+    title: 3play caption file
+    type: null
+    uid: 6cc65cd2e450da88f8b0b43e4b746196
+  - id: Gbtma_UQpro.pdf
+    parent_uid: 986c985f9ac9b235c1baf858cc73e925
+    technical_location: >-
+      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/graphing-a-derivative-function/Gbtma_UQpro.pdf
+    title: 3play pdf file
+    type: null
+    uid: 429dd2c9004eb635c630b3a02731a222
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: 986c985f9ac9b235c1baf858cc73e925
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: beedf60ff1614ea8fee91d292f09d80b
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: 986c985f9ac9b235c1baf858cc73e925
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: f222cbabf7d3161b8a9f6ba7a8e21e29
+inline_embed_id: 74572184graphingaderivativefunction51498715
 parent_uid: c25a5592cbb582539daea82e3aeeda33
+related_resources_text: ''
+short_url: graphing-a-derivative-function
 technical_location: >-
   https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/graphing-a-derivative-function
-short_url: graphing-a-derivative-function
-inline_embed_id: 74572184graphingaderivativefunction51498715
-about_this_resource_text: ''
-related_resources_text: ''
+title: Graphing a Derivative Function
 transcript: >-
   <p><span m='0'>PROFESSOR:</span> <span m='6980'>Welcome</span> <span
   m='7420'>to</span> <span m='7490'>recitation.</span> <span
@@ -951,62 +1006,7 @@ transcript: >-
   m='716290'>same.</span> </p><p><span m='717350'>So</span> <span
   m='717520'>we'll</span> <span m='717670'>stop</span> <span
   m='717960'>there.</span> </p>
-embedded_media:
-  - uid: 104723506c2bf913bf54f11df46178c8
-    parent_uid: 986c985f9ac9b235c1baf858cc73e925
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: Gbtma_UQpro
-  - uid: 0523eb58c2505a0540bc341c3ab6373a
-    parent_uid: 986c985f9ac9b235c1baf858cc73e925
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/Gbtma_UQpro/default.jpg'
-  - uid: 288ec58beb17c9ecd259878d36f69343
-    parent_uid: 986c985f9ac9b235c1baf858cc73e925
-    id: Video-iTunesU-MP4
-    title: Video-iTunes U-MP4
-    type: Video
-    media_location: >-
-      http://itunes.apple.com/us/podcast/graphing-derivative-function/id414308064?i=90318626
-  - uid: 4d2027b813de04a905e2310f95d267fb
-    parent_uid: 986c985f9ac9b235c1baf858cc73e925
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: 'http://www.archive.org/download/MIT18_01SCF10/MIT18_01SCF10Rec_02_300k.mp4'
-  - uid: b7928f278faa1bc18c73a580f6f57439
-    parent_uid: 986c985f9ac9b235c1baf858cc73e925
-    id: 3Play-3PlayYouTubeid-Stream
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: Gbtma_UQpro
-  - uid: 6cc65cd2e450da88f8b0b43e4b746196
-    parent_uid: 986c985f9ac9b235c1baf858cc73e925
-    id: Gbtma_UQpro.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/graphing-a-derivative-function/Gbtma_UQpro.srt
-  - uid: 429dd2c9004eb635c630b3a02731a222
-    parent_uid: 986c985f9ac9b235c1baf858cc73e925
-    id: Gbtma_UQpro.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/1.-differentiation/part-a-definition-and-basic-rules/session-1-introduction-to-derivatives/graphing-a-derivative-function/Gbtma_UQpro.pdf
-  - uid: beedf60ff1614ea8fee91d292f09d80b
-    parent_uid: 986c985f9ac9b235c1baf858cc73e925
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: f222cbabf7d3161b8a9f6ba7a8e21e29
-    parent_uid: 986c985f9ac9b235c1baf858cc73e925
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
+uid: 986c985f9ac9b235c1baf858cc73e925
 type: courses
 layout: video
 ---

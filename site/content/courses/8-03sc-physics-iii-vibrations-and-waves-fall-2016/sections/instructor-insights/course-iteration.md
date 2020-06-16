@@ -1,14 +1,63 @@
 ---
-title: 'Course Iteration: Incorporating Theoretical Content and Demonstrations'
-uid: b55c02a86ffa5a6ef25d5f8d0323aa86
-parent_uid: 04ff44e40d3409c8726bf5bd29021df8
-technical_location: >-
-  https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/course-iteration
-short_url: course-iteration
+about_this_resource_text: ''
+embedded_media:
+  - id: Video-YouTube-Stream
+    media_location: fTACO13q2oU
+    parent_uid: b55c02a86ffa5a6ef25d5f8d0323aa86
+    title: Video-YouTube-Stream
+    type: Video
+    uid: c31ec63423a03131ec2c5da48108e656
+  - id: Thumbnail-YouTube-JPG
+    media_location: 'https://img.youtube.com/vi/fTACO13q2oU/default.jpg'
+    parent_uid: b55c02a86ffa5a6ef25d5f8d0323aa86
+    title: Thumbnail-YouTube-JPG
+    type: Thumbnail
+    uid: 6e19fa16d7d1a448d34420e479e45bd6
+  - id: 3Play-3PlayYouTubeid-MP4
+    media_location: fTACO13q2oU
+    parent_uid: b55c02a86ffa5a6ef25d5f8d0323aa86
+    title: 3Play-3Play YouTube id
+    type: 3Play
+    uid: ddde96bae168df85b68fab11821dd12f
+  - id: fTACO13q2oU.srt
+    parent_uid: b55c02a86ffa5a6ef25d5f8d0323aa86
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/course-iteration/fTACO13q2oU.srt
+    title: 3play caption file
+    type: null
+    uid: 822a412b5993a4c1bcb8b7716ee69e69
+  - id: fTACO13q2oU.pdf
+    parent_uid: b55c02a86ffa5a6ef25d5f8d0323aa86
+    technical_location: >-
+      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/course-iteration/fTACO13q2oU.pdf
+    title: 3play pdf file
+    type: null
+    uid: 584637463b2f394a368f78e7188b6b9e
+  - id: Caption-3Play YouTube id-SRT
+    parent_uid: b55c02a86ffa5a6ef25d5f8d0323aa86
+    title: Caption-3Play YouTube id-SRT-English - US
+    type: Caption
+    uid: 8be86e8c35100fb2d1a4d54873ab7cc7
+  - id: Transcript-3Play YouTube id-PDF
+    parent_uid: b55c02a86ffa5a6ef25d5f8d0323aa86
+    title: Transcript-3Play YouTube id-PDF-English - US
+    type: Transcript
+    uid: 156b3ae63d61f56ba47a4b9f2bc5dc36
+  - id: Video-InternetArchive-MP4
+    media_location: >-
+      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator10_Course_Iteration_300k.mp4
+    parent_uid: b55c02a86ffa5a6ef25d5f8d0323aa86
+    title: Video-Internet Archive-MP4
+    type: Video
+    uid: 2df6e41a3be9d91d1e88412f163ffdb7
 inline_embed_id: >-
   43973738courseiterationincorporatingtheoreticalcontentanddemonstrations11740287
-about_this_resource_text: ''
+parent_uid: 04ff44e40d3409c8726bf5bd29021df8
 related_resources_text: ''
+short_url: course-iteration
+technical_location: >-
+  https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/course-iteration
+title: 'Course Iteration: Incorporating Theoretical Content and Demonstrations'
 transcript: >-
   <p><span m='5340'>YEN-JIE LEE:</span> <span m='5385'>I</span> <span
   m='5430'>have</span> <span m='5640'>been</span> <span m='5880'>teaching</span>
@@ -131,56 +180,7 @@ transcript: >-
   m='141360'>you</span> <span m='141450'>see</span> <span m='142110'>now</span>
   <span m='142805'>in</span> <span m='143100'>the</span> <span
   m='143370'>2016</span> <span m='144210'>version.</span> </p>
-embedded_media:
-  - uid: c31ec63423a03131ec2c5da48108e656
-    parent_uid: b55c02a86ffa5a6ef25d5f8d0323aa86
-    id: Video-YouTube-Stream
-    title: Video-YouTube-Stream
-    type: Video
-    media_location: fTACO13q2oU
-  - uid: 6e19fa16d7d1a448d34420e479e45bd6
-    parent_uid: b55c02a86ffa5a6ef25d5f8d0323aa86
-    id: Thumbnail-YouTube-JPG
-    title: Thumbnail-YouTube-JPG
-    type: Thumbnail
-    media_location: 'https://img.youtube.com/vi/fTACO13q2oU/default.jpg'
-  - uid: ddde96bae168df85b68fab11821dd12f
-    parent_uid: b55c02a86ffa5a6ef25d5f8d0323aa86
-    id: 3Play-3PlayYouTubeid-MP4
-    title: 3Play-3Play YouTube id
-    type: 3Play
-    media_location: fTACO13q2oU
-  - uid: 822a412b5993a4c1bcb8b7716ee69e69
-    parent_uid: b55c02a86ffa5a6ef25d5f8d0323aa86
-    id: fTACO13q2oU.srt
-    title: 3play caption file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/course-iteration/fTACO13q2oU.srt
-  - uid: 584637463b2f394a368f78e7188b6b9e
-    parent_uid: b55c02a86ffa5a6ef25d5f8d0323aa86
-    id: fTACO13q2oU.pdf
-    title: 3play pdf file
-    type: null
-    technical_location: >-
-      https://ocw.mit.edu/courses/physics/8-03sc-physics-iii-vibrations-and-waves-fall-2016/instructor-insights/course-iteration/fTACO13q2oU.pdf
-  - uid: 8be86e8c35100fb2d1a4d54873ab7cc7
-    parent_uid: b55c02a86ffa5a6ef25d5f8d0323aa86
-    id: Caption-3Play YouTube id-SRT
-    title: Caption-3Play YouTube id-SRT-English - US
-    type: Caption
-  - uid: 156b3ae63d61f56ba47a4b9f2bc5dc36
-    parent_uid: b55c02a86ffa5a6ef25d5f8d0323aa86
-    id: Transcript-3Play YouTube id-PDF
-    title: Transcript-3Play YouTube id-PDF-English - US
-    type: Transcript
-  - uid: 2df6e41a3be9d91d1e88412f163ffdb7
-    parent_uid: b55c02a86ffa5a6ef25d5f8d0323aa86
-    id: Video-InternetArchive-MP4
-    title: Video-Internet Archive-MP4
-    type: Video
-    media_location: >-
-      http://archive.org/download/MIT8.03SCF16/MIT8_03SCF16_Educator10_Course_Iteration_300k.mp4
+uid: b55c02a86ffa5a6ef25d5f8d0323aa86
 type: courses
 layout: video
 ---
